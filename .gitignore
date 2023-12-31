@@ -1,0 +1,21 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ain
+!*.fnl
+!Kansen5_patch.xp3
+!Kansen5_patch/*.ks
+!version.dll
+!.gitignore
+!patch.bat
+!README.md
+!ENCG/*
+
+# Images
+!Kansen5_patch/*.png
