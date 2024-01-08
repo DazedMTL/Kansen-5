@@ -112,111 +112,111 @@
 *1|
 [fc]
 [vo_mob s="ana0001"]
-[ns]アナウンス[nse]
-「非常警報。非常警報。[r]
-　緊急対策特例第１３条発令。緊急対策特例第１３条発令。[r]
-　本研究所における最終安全装置の作動が決定されました」[pcms]
+[ns]Announcement[nse]
+"Emergency alert. Emergency alert. Emergency Countermeasure Special[r]
+Provision Article 13 has been enacted. Emergency Countermeasure[r]
+Special Provision Article 13 has been enacted. The activation of the[r]
+final safety device at this research facility has been decided."[pcms]
 
 *2|
 [fc]
 [vo_mob s="ana0002"]
-[ns]アナウンス[nse]
-「全ての研究所職員は現在の作業を放棄し、[r]
-　速やかに施設より退避して下さい」[pcms]
+[ns]Announcement[nse]
+"All research facility staff are to abandon their current tasks and[r]
+evacuate the facility immediately."[pcms]
 
 *3|
 [fc]
 [vo_mob s="ana0003"]
-[ns]アナウンス[nse]
-「繰り返します。[r]
-　全ての研究所職員は現在の作業を放棄し、[r]
-　速やかに施設より退避して下さい」[pcms]
+[ns]Announcement[nse]
+"I repeat. All research facility staff are to abandon their current[r]
+tasks and evacuate the facility immediately."[pcms]
 
 *4|
 [fc]
 [vo_mob s="ana0004"]
-[ns]アナウンス[nse]
-「最終安全装置起動シークエンス開始。[r]
-　装置起動まで、あと、１４分５５秒」[pcms]
+[ns]Announcement[nse]
+"Final safety device activation sequence initiated. Time until device[r]
+activation, 14 minutes and 55 seconds."[pcms]
 
 *5|
 [fc]
 [vo_mob s="camera0001"]
-[ns]カメラを持った女[nse]
-「いったい何が起こっているの！？」[pcms]
+[ns]Woman with a Camera[nse]
+"What on earth is happening!?"[pcms]
 
 *6|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「とにかく逃げるんだ！　先を急ぐぞ！」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"Just run! We need to hurry ahead!"[pcms]
 
 ;<ImageShake2 0,600,0,2,0,10,OFF>
 
 *7|
 [fc]
-清潔に磨き上げられた白い廊下を、４人の男女が[r]
-足をもつれさせながら移動していく。[pcms]
+Four men and women were moving down a polished, clean white corridor,[r]
+their feet tangling as they went.[pcms]
 
 *8|
 [fc]
-叫び声を上げた男は、肩口に深い傷を負っていて、[r]
-その上着から滴り落ちた赤い液体が足下に模様を描いていた。[pcms]
+The man who had screamed had a deep wound on his shoulder, and the red[r]
+liquid dripping from his jacket was forming a pattern on the floor[r]
+beneath him.[pcms]
 
 *9|
 [fc]
-病院を思わせる白く長い廊下は、非常用のランプが不吉に明滅し、[r]
-今が緊急事態だということを知らせている。[pcms]
+The long white corridor, reminiscent of a hospital, was ominously[r]
+flickering with emergency lamps, signaling that an emergency situation[r]
+was underway.[pcms]
 
 *10|
 [fc]
 [vo_mob s="ana0005"]
-[ns]アナウンス[nse]
-「繰り返します。[r]
-　全ての研究所職員は現在の作業を放棄し、[r]
-　速やかに施設より退避して下さい」[pcms]
+[ns]Announcement[nse]
+"I repeat. All research facility staff are to abandon their current[r]
+tasks and evacuate the facility immediately."[pcms]
 
 *11|
 [fc]
 [vo_mob s="ana0006"]
-[ns]アナウンス[nse]
-「最終安全装置起動シークエンス開始。[r]
-　装置起動まで、あと、１４分２５秒」[pcms]
+[ns]Announcement[nse]
+"Final safety device activation sequence initiated. Time until device[r]
+activation, 14 minutes and 25 seconds."[pcms]
 
 *12|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「駄目だ！　その子を置いて行こう！[r]
-　１５分なんて間に合うわけがない！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"No good! We have to leave that kid behind! There's no way we can make[r]
+it in 15 minutes!"[pcms]
 
 ;<ImageShake2 0,600,0,2,0,10,OFF>
 
 *13|
 [fc]
-足を怪我しているわけでもない四人が移動に苦労しているのは、[r]
-連れだって歩いているひとりの少女が原因だった。[pcms]
+The reason the four people, none of whom had injured legs, were[r]
+struggling to move was because of one girl they were walking with.[pcms]
 
 *14|
 [fc]
-しっかりと歩いてはいるが、非常事態だということを[r]
-理解していないように引っ張られるままに進んでいる。[pcms]
+She was walking properly, but seemed not to understand the emergency[r]
+situation, simply being pulled along.[pcms]
 
 *15|
 [fc]
-自分から走るということをしない少女に、[r]
-男が苛立ちの声をあげていた。[pcms]
+The man was raising his voice in frustration at the girl who wouldn't[r]
+run on her own.[pcms]
 
 *16|
 [fc]
 [vo_mob s="camera0002"]
-[ns]カメラを持った女[nse]
-「そんなこと出来るはずがないでしょう！[r]
-　この子は大切なニュースソースなのよ！」[pcms]
+[ns]Woman with a Camera[nse]
+"We can't possibly do that! This child is an important news source!"[pcms]
 
 *17|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「そんなこと言っている場合か！[r]
-　そのカメラで収めたので十分だろうが！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Is this really the time for that? The footage you've got with that[r]
+camera should be enough!"[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
@@ -228,172 +228,172 @@
 
 *18|
 [fc]
-[ns]少女[nse]
-「…………」[pcms]
+[ns]Girl[nse]
+"..."[pcms]
 
 ;//♂Ｄ：上記の少女は姦染３のトモミ。どこかの無言ボイスを挿入。
 
 *19|
 [fc]
-怪我をした男に手を引かれている少女は、[r]
-自分のことで周りが揉めていることも[r]
-理解していないように見える。[pcms]
+The girl being led by the injured man seemed unaware that she was the[r]
+cause of the argument around her.[pcms]
 
 *20|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「だからって、ここに置いていくことはできない。[r]
-　言い争っている暇があるなら先を急ごう」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"Even so, we can't just leave her here. If we have time to argue,[r]
+let's hurry on."[pcms]
 
 *21|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「ちっ、俺は反対したからな！　ちゃんと覚えておけよっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Tch, just remember I was against this!"[pcms]
 
 *22|
 [fc]
-立ち止まっていた、ほんの数秒を取り返そうとするように、[r]
-声を荒げた男と女性が先を急いでいった。[pcms]
+In an attempt to make up for those few seconds they had stopped, the[r]
+man and woman raised their voices and hurried ahead.[pcms]
 
 *23|
 [fc]
-傷が痛むのか、少女の手を引いた男は、[r]
-時折、苦痛に顔をゆがめながらその後をついて行く。[pcms]
+Perhaps due to the pain of his wound, the man leading the girl[r]
+occasionally grimaced in agony as he followed them.[pcms]
 
 *24|
 [fc]
 [vo_mob s="ana0007"]
-[ns]アナウンス[nse]
-「繰り返します。[r]
-　全ての研究所職員は現在の作業を放棄し、[r]
-　速やかに施設より退避して下さい」[pcms]
+[ns]Announcement[nse]
+"I repeat. All research facility staff are to abandon their current[r]
+tasks and evacuate the facility immediately."[pcms]
 
 *25|
 [fc]
 [vo_mob s="ana0008"]
-[ns]アナウンス[nse]
-「最終安全装置起動シークエンス開始。[r]
-　装置起動まで、あと、１４分１０秒」[pcms]
+[ns]Announcement[nse]
+"Final safety device activation sequence initiated. Time until device[r]
+activation, 14 minutes and 10 seconds."[pcms]
 
 *26|
 [fc]
 [vo_mob s="camera0003"]
-[ns]カメラを持った女[nse]
-「もう、急かさないでよ！[r]
-　苛々して冷静に考えられないじゃない！」[pcms]
+[ns]Woman with a Camera[nse]
+"Stop rushing me! I can't think calmly when I'm irritated!"[pcms]
 
 *27|
 [fc]
-カメラを持った女性は、この研究所で行われていた、[r]
-様々な実験の撮影に成功していた。[pcms]
+The woman with the camera had successfully captured various[r]
+experiments being conducted at this research facility.[pcms]
 
 *28|
 [fc]
-根絶されたと発表されたウイルスを密かに培養し、[r]
-生きた人間を実験道具にしている場所がある……。[pcms]
+A place where a virus declared eradicated was being secretly[r]
+cultivated, using living humans as experimental tools...[pcms]
 
 *29|
 [fc]
-そんな噂の実態を暴くために、内部協力者の助けを得て[r]
-この建物に侵入したのがほんの数分前のこと。[pcms]
+To expose the truth behind such rumors, with the help of an inside[r]
+collaborator, they had infiltrated this building just a few minutes[r]
+ago.[pcms]
 
 *30|
 [fc]
-過激な活動で知られる人権保護団体に所属する男ふたりと、[r]
-彼らの活動を支援する形で報道の仕事を得ている女性。[pcms]
+Two men belonging to a human rights protection group known for radical[r]
+activities and a woman who obtained her reporting job by supporting[r]
+their actions.[pcms]
 
 *31|
 [fc]
-彼らは、公には存在しないとされた研究施設が実在する、[r]
-確かな証拠と情報を手にして、逃げ出している最中だった。[pcms]
+They were in the midst of escaping with solid evidence and information[r]
+that a research facility, which was not supposed to exist publicly,[r]
+did indeed exist.[pcms]
 
 *32|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「落ち着け、十分に間に合う。[r]
-　余計なことを考えずに歩けば外に出られるはずだ」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"Calm down, we have plenty of time. If we just walk without thinking[r]
+about anything extra, we should be able to get out."[pcms]
 
 *33|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「外に出たら警備の兵隊がお出迎えなんてのも、[r]
-　ゴメンだけどな」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"I'd rather not be greeted by security troops once we're outside,[r]
+though."[pcms]
 
 *34|
 [fc]
-４年前、米軍が持ち込んだウイルスの漏洩に端を発した、[r]
-東北アウトブレイク事件。[pcms]
+The Northeast Outbreak incident began with the leak of a virus brought[r]
+in by the U.S. military four years ago.[pcms]
 
 *35|
 [fc]
-あの悲劇の後、凶暴化したウイルス感染者は、[r]
-一人残らず狩り出され、葬られた。[pcms]
+After that tragedy, all violently infected individuals were hunted[r]
+down and buried without exception.[pcms]
 
 *36|
 [fc]
-それと同時に、元凶のウイルスもこの世から根絶されたと、[r]
-政府は発表している。[pcms]
+At the same time, the government announced that the original virus had[r]
+been eradicated from this world.[pcms]
 
 *37|
 [fc]
-しかし、ネットや活動家の間では、[r]
-隔離された東北の山奥にウイルス研究所が作られているという[r]
-都市伝説が、まことしやかに囁かれていた。[pcms]
+However, among netizens and activists, there were persistent rumors[r]
+that a virus research facility had been established deep in the[r]
+mountains of quarantined Tohoku.[pcms]
 
 *38|
 [fc]
-しかし、実際に足を運んでみると、そこを警備していたのは、[r]
-米軍が採用しているアサルトライフルを装備した兵士たち。[pcms]
+But when they actually went there, they found soldiers equipped with[r]
+assault rifles adopted by the U.S. military guarding the place.[pcms]
 
 *39|
 [fc]
-まるで防疫処理を担当するチームのように、[r]
-全員がガスマスクを装着している様子は、[r]
-安いホラームービーを思わせる光景だ。[pcms]
+The sight of everyone wearing gas masks as if they were part of an[r]
+epidemic response team was reminiscent of a cheap horror movie.[pcms]
 
 *40|
 [fc]
-そして、この警報……三人が敷地内に潜入したときには、[r]
-すでに赤いランプが明滅し、非常警報が流れている有様だった。[pcms]
+And then there was this alarm... When the three had infiltrated the[r]
+premises, red lamps were already flashing and an emergency alert was[r]
+sounding.[pcms]
 
 *41|
 [fc]
-男の被害が銃弾一発で済んだことも、この警報のおかげだと[r]
-言えるのかも知れない。[pcms]
+It might be said that the fact that the man only suffered a single[r]
+gunshot wound was thanks to this alarm.[pcms]
 
 *42|
 [fc]
-もしかしたら、例の内通者に騙されるか利用されるか[r]
-したのかもしれないが、今となっては考えるだけ無駄である。[pcms]
+Perhaps we were deceived or used by that insider, but now it's[r]
+pointless to think about it.[pcms]
 
 *43|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「職員が感染者に襲われていた。当然ワクチンは[r]
-　接種しているだろうが、危険なことに変わりはない」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"The staff was attacked by an infected person. They must have been[r]
+vaccinated, but it's still dangerous."[pcms]
 
 *44|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「その子も感染者じゃないのか？　本当に大丈夫かよ」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Isn't that kid also infected? Are you sure it's really okay?"[pcms]
 
 *45|
 [fc]
 [vo_mob s="camera0004"]
-[ns]カメラを持った女[nse]
-「この子は普通に会話していたわ、[r]
-　感染者にそんな思考は残っていない。[r]
-　とにかく急いで」[pcms]
+[ns]Woman with a Camera[nse]
+"This child was having a normal conversation, infected people don't[r]
+retain that kind of thought. Anyway, let's hurry."[pcms]
 
 *46|
 [fc]
-四人は警報が鳴り響く白い廊下を、[r]
-来た道を戻るように進んでいく。[pcms]
+The four of them proceeded back the way they came through the white[r]
+corridor, with alarms blaring.[pcms]
 
 *47|
 [fc]
-職員が避難する経路とは違うらしく、誰に出会うこともない。[r]
-不法侵入者であることを考えれば、むしろ安全と言える。[pcms]
+It seemed to be a different route than where the staff evacuated, and[r]
+they didn't encounter anyone. Considering they were trespassing, it[r]
+could be considered safer.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -409,58 +409,57 @@
 
 *48|
 [fc]
-[ns]白いシャツの男[nse]
-「……あ゛あ……は、はは゛ァ……。[r]
-　に、にに、にげ、ら、れん、そ゛ぉ……」[pcms]
+[ns]Man in a White Shirt[nse]
+"...Aaah...ha, haha... I can't, escape..."[pcms]
 
 *49|
 [fc]
-[ns]眼鏡が割れた感染者[nse]
-「ま゛て゛ァァァ～……。[r]
-　は゛ら、へっ゛た゛ァ……」[pcms]
+[ns]Infected person with broken glasses[nse]
+"Waiiit... I'm so hungry..."[pcms]
 
 *50|
 [fc]
 [vo_mob s="camera0005"]
-[ns]カメラを持った女[nse]
-「きゃああああっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Kyaaaah!"[pcms]
 
 *51|
 [fc]
-先行して廊下を進んでいた女性が、[r]
-横の廊下から飛び出してきた何かに押し倒された。[pcms]
+The woman who was leading the way down the corridor was knocked down[r]
+by something that burst out from a side corridor.[pcms]
 
 *52|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「哲子っ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Setsuko!"[pcms]
 
 *53|
 [fc]
-入院着を着た中年の男と、白衣の若い男だ。[r]
-口からよだれを垂らして女に襲いかかるその姿は、[r]
-紛れもない……感染者のそれだった。[pcms]
+A middle-aged man in patient attire and a young man in a lab coat.[r]
+Their drooling mouths as they attacked the woman were unmistakably[r]
+those of infected individuals.[pcms]
 
 *54|
 [fc]
 [vo_mob s="camera0006"]
-[ns]カメラを持った女[nse]
-「いやぁぁっ！　助けてぇぇぇっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"No, help meee!"[pcms]
 
 *55|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「くっ！」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"Damn!"[pcms]
 
 *56|
 [fc]
-廊下の脇から次々に感染者が現れる。[pcms]
+Infected individuals started appearing one after another from the[r]
+sides of the corridor.[pcms]
 
 *57|
 [fc]
-女性ジャーナリストの名前を叫んだ男は、[r]
-感染者に殴りかかって助けようとするが、[r]
-怪我をしている男は、すぐにその脇をすり抜けていく。[pcms]
+The man who shouted the female journalist's name tried to fight off[r]
+the infected to save her, but the injured man quickly slipped past[r]
+him.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -479,9 +478,9 @@
 
 *58|
 [fc]
-[ns]白衣の男[nse]
-「……あ゛～～。い゛……い゛がらし、と゛もみ～～[r]
-　……うぼ、ぼぼっ……やら゛せ゛いい゛～～やらせ゛ろおっ！」[pcms]
+[ns]Man in a White Coat[nse]
+"...Aaah... Igarashi, Tomomi... ubo, bobo... let me do it... let me do[r]
+it!"[pcms]
 
 ;	[image storage="mob_N014b_s" layer=base page=fore visible=false left=0 top=0]
 
@@ -490,13 +489,13 @@
 *59|
 [fc]
 [vo_mob s="camera0007"]
-[ns]カメラを持った女[nse]
-「誰かぁぁぁぁぁぁっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Somebodyyyyy!"[pcms]
 
 *60|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「くそっ、離せお前らっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Damn it, get off her!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -510,29 +509,28 @@
 
 *61|
 [fc]
-[ns]白衣の男[nse]
-「ひっ……ひゃっ……ひゃははっははあっああぁッ！[r]
-　いっ、い゛た゛だき゛ま……ああぁあっす゛ァァァ！」[pcms]
+[ns]Man in a White Coat[nse]
+"Hee...hyah...hyahahaaha! I'll, take my fill...ahaaa!"[pcms]
 
 ;	[image storage="mob_N014a_s" layer=base page=fore visible=false left=0 top=0]
 
 
 *62|
 [fc]
-少女を連れた男が振り返ると、女性も助けに入った男も、[r]
-人だかりの中に消えてしまっていた。[pcms]
+The man leading the girl looked back to find that both the woman and[r]
+the man who tried to help her had disappeared into the crowd.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *63|
 [fc]
-抗ウイルス剤……ワクチンがどれ程の効果を上げるのか、[r]
-それに期待するしかない。[pcms]
+All they could hope for was the effectiveness of antiviral drugs...[r]
+vaccines.[pcms]
 
 *64|
 [fc]
-銃創から滴る血で廊下を汚しながら、[r]
-男は出口へと逃げ去っていった。[pcms]
+Leaving bloodstains on the corridor from his gunshot wound, the man[r]
+fled towards the exit.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -559,9 +557,8 @@
 
 *65|
 [fc]
-[ns]感染者Ａ[nse]
-「い゛……い゛ざしぶりの～……うぶっ……、[r]
-　お゛……お゛んなあ゛……！！」[pcms]
+[ns]Infected Person A[nse]
+"I... Izubuchi's... ubu... oh... woman...!!"[pcms]
 
 ;[move layer=base path="(0,-10,255)" time=150][wm]
 ;[move layer=base path="(0,0,255)" time=150][wm]
@@ -572,109 +569,107 @@
 *66|
 [fc]
 [vo_mob s="camera0008"]
-[ns]カメラを持った女[nse]
-「やめてっ！　離してっ！　いやああっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Stop it! Let go! Noooo!"[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *67|
 [fc]
-押し倒された女性は、のし掛かってきた男に[r]
-服を引きちぎられる。[pcms]
+The woman who was pushed down had her clothes torn off by the man on[r]
+top of her.[pcms]
 
 [se buf=0 storage="seB072"]
 ;//服がやぶける音
 
 *68|
 [fc]
-まるで紙のように容易く服を引きちぎる[ruby text="りょりょく"][ch text="膂力"]は、[r]
-普通の人間のものではない。[pcms]
+The strength to tear clothes as easily as paper was not that of an[r]
+ordinary human.[pcms]
 
 *69|
 [fc]
-さらに現れた数名の感染者が、彼女の露わになた肉体へ群がった。[r]
-その太ももや腕に手をやり、思うさまにまさぐってゆく。[pcms]
+Several more infected individuals appeared and swarmed over her[r]
+exposed body, reaching for her thighs and arms and groping them as[r]
+they pleased.[pcms]
 
 *70|
 [fc]
-女性を引き倒した白衣の男が、はだけた彼女の、[r]
-白く柔らかな乳房を背中越しに鷲掴みにすると、[r]
-その力で遠慮呵責なく揉みしだき、握りつぶす。[pcms]
+The man in the lab coat who had knocked down the woman grabbed her[r]
+exposed, soft white breasts from behind and kneaded and crushed them[r]
+without restraint or remorse.[pcms]
 
 *71|
 [fc]
 [vo_mob s="camera0009"]
-[ns]カメラを持った女[nse]
-「ひぐううっ！　痛ぁっ！　痛いぃぃぃっ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Higuuuh! It hurts! It hurts!!"[pcms]
 
 *72|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛……お゛んなだ～～お゛おっぱい……、[r]
-　あばばば……きんもぢ゛ええ～～」[pcms]
+[ns]Infected Person A[nse]
+"Oh... woman's breasts... abababa... feels so good..."[pcms]
 
 *73|
 [fc]
-蠢く男の指で乱暴に歪められた乳房は、鬱血して[r]
-指の痕が残るほどに変色していた。[pcms]
+The breast distorted roughly by the writhing man's fingers turned[r]
+congested, leaving marks from his grip.[pcms]
 
 *74|
 [fc]
 [vo_mob s="camera0010"]
-[ns]カメラを持った女[nse]
-「うぐぁ……っ！　た、助けてっ！　助けてぇっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Uguh...! Help, please help me!"[pcms]
 
 [se buf=0 storage="seB074"]
 ;//服がやぶける音
 
 *75|
 [fc]
-[ns]感染者Ａ[nse]
-「が……がまん……できね゛え゛え゛～！[r]
-　お゛お゛れの……女だ～～っ！」[pcms]
+[ns]Infected Person A[nse]
+"Can't... can't hold back...! She's my woman now!"[pcms]
 
 *76|
 [fc]
 [vo_mob s="camera0011"]
-[ns]カメラを持った女[nse]
-「離してっ！　お願い触らないで……んぎいいいっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Let go! Please don't touch me...ngyiiii!"[pcms]
 
 *77|
 [fc]
-服を破りとった中年の感染者は、そのまま下着をズリ下ろすと[r]
-自らのそそり立ったペニスを女性にあてがっていく。[pcms]
+The middle-aged infected man tore off her clothes and pulled down her[r]
+underwear, then pressed his erect penis against the woman.[pcms]
 
 *78|
 [fc]
 [vo_mob s="camera0012"]
-[ns]カメラを持った女[nse]
-「ひぃいっ……！　あっ……くぅっ……ふぐっ……！　うぅぅっ！[r]
-　ぐっ……うんっ！　くぎっ……あぁっ！　くぁあぁぁ……っ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Hiiii...! Ah...kuuuh...fuguuuh! Uuuuh! Guh...uhn! Kugi...ahhh![r]
+Quaaaah...!"[pcms]
 
 *79|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛んな゛の……かんしょくだ～～っ！[r]
-　ぐひぃぃっ！　だまんね゛～っ！」[pcms]
+[ns]Infected Person A[nse]
+"The feel of a woman's crotch... guhiiih! Can't stand it!"[pcms]
 
 *80|
 [fc]
-ペニスの先端に女性の秘肉を感じて、[r]
-感染者の顔が、だらしなく弛んだ。[pcms]
+The infected man's face slackened sloppily as he felt her genitals at[r]
+the tip of his penis.[pcms]
 
 *81|
 [fc]
-感染者の凶暴な肉塊が、喜悦の声と共に、[r]
-何の準備もされていない、乾いた女性に押しつけられ、[r]
-その閉じた肉色の入り口を、こじ開け始めた。[pcms]
+The ferocious mass of the infected person was pressed against the dry[r]
+woman who had no preparation, and began to pry open the closed flesh-[r]
+colored entrance with cries of joy.[pcms]
 
 *82|
 [fc]
 [vo_mob s="camera0013"]
-[ns]カメラを持った女[nse]
-「あぐうううぅぅっ！　む、無理よっ……！  無理っ！　[r]
-　は、入らなっ……！　っあぎいいいぃぃっ！？」[pcms]
+[ns]Woman with a Camera[nse]
+"Aguuuuuh! It's impossible...! Impossible! It won't fit...![r]
+Agiiiiiih!?"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -683,50 +678,51 @@
 
 *83|
 [fc]
-圧迫されてへこみながら、必死に抵抗を続ける女性のそこに、[r]
-赤黒い亀頭が、みちみちと音をたてて埋没してゆく。[pcms]
+As the woman desperately resisted, the reddish-black glans made a[r]
+tight sound as it buried itself into her.[pcms]
 
 *84|
 [fc]
 [vo_mob s="camera0014"]
-[ns]カメラを持った女[nse]
-「ぐっ……あぐっ……、ふぐぅ……うぅっいぎぃぃいぃ……！[r]
-　んくっ……ぁああぁっ！　ぐっ……くうぅうぅぅぅ～っ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Guh...aguh..., fuguh...uuuh igiiiih...! Nguh...aaaah![r]
+Guh...kuuuuuuh~!!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：追加SE
 
 *85|
 [fc]
-開放された獰猛な性衝動に突き動かされた感染者は、[r]
-自分のペニスが折れそうになるほど強く腰を押し込んだ。[pcms]
+Driven by the unleashed savage sexual urges, the infected person[r]
+thrust his hips so hard it felt like his penis might break.[pcms]
 
 *86|
 [fc]
 [vo_mob s="camera0015"]
-[ns]カメラを持った女[nse]
-「い゛ぎゃあぁぁあぁぁぁぁぁぁぁあっ！！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Igyaaaaaaaahhhhh!!!"[pcms]
 
 *87|
 [fc]
-断末魔にも似た絶叫と共に、赤黒く硬い肉の塊が、[r]
-女性の秘所を貫いて、一気にその最奥部まで潜り込んでゆく。[pcms]
+With a scream akin to a death throes, the hard, reddish-black mass[r]
+penetrated the woman's genitals and plunged deep into her innermost[r]
+part.[pcms]
 
 *88|
 [fc]
 [vo_mob s="camera0016"]
-[ns]カメラを持った女[nse]
-「あがっ……！？　かっ……！　お゛……あ゛ぁっ……！」[pcms]
+[ns]Woman with a Camera[nse]
+"Agah...!? Kah...! Oh...ahh...!"[pcms]
 
 *89|
 [fc]
-はらわたを抉られるのにも似た痛みと、[r]
-体内に打ち込まれた異物の感触。[pcms]
+The pain was akin to having her insides gouged out, along with the[r]
+sensation of the foreign object thrust inside her.[pcms]
 
 *90|
 [fc]
-女性は全身を打ったその荒々しい衝撃に、半ば白目を剥きながら、[r]
-開かれた口から舌を突き出し、体をガクガクと震わせた。[pcms]
+The woman's body shook violently and her eyes rolled back as she stuck[r]
+out her tongue from her open mouth in response to the rough impact.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -734,50 +730,48 @@
 
 *91|
 [fc]
-[ns]感染者Ａ[nse]
-「し゛めつ゛ける゛ぅ～～っ！　こ゛……こ゛れた゛ぁ～っ！」[pcms]
+[ns]Infected Person A[nse]
+"I'm gonna cum~! This...this is it~!"[pcms]
 
 [evcg storage="mob_H001c"][trans_c cross time=300]
 
 *92|
 [fc]
 [vo_mob s="camera0017"]
-[ns]カメラを持った女[nse]
-「ひぎぃいぃ！？　あ゛っ！　イ、イダァッ！　イダイッ！[r]
-　い、いやぁっ！　い゛やあぁあ゛ぁぁぁぁぁ～っ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Higyiii! Ah! No, it hurts! It hurts! Nooo! Noooooo~!!"[pcms]
 
 *93|
 [fc]
-女性への侵犯を果たした感染者は、歓喜の声をあげると、[r]
-両手で女性の腰をつかみ、彼女を串刺しにした肉槍を、[r]
-猛烈な勢いで突き動かし始めた。[pcms]
+Having violated the woman, the infected person let out a cry of joy,[r]
+grabbed her hips with both hands, and began to furiously thrust his[r]
+impaling meat spear.[pcms]
 
 *94|
 [fc]
 [vo_mob s="camera0018"]
-[ns]カメラを持った女[nse]
-「あっがぁあ！　いぎいっ！　ひぐっ！　ぐうぅぁあ！[r]
-　あぐうぅっ！！　うんっ！　ぐぅっ！　ふぐぅあ゛ぁっ！[r]
-　あおぉお゛っ！　うぎぎいゃぁ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Aggah! Igyi! Higu! Guuuaah! Aguuh! Unh! Guh! Fuguaaah! Aohhh![r]
+Ugyiyaa!!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：追加SE
 
 *95|
 [fc]
-何の準備もできていない身体を、[r]
-中年感染者のごついペニスが出入りする。[pcms]
+The middle-aged infected man's bulky penis entered and exited the[r]
+unprepared body.[pcms]
 
 *96|
 [fc]
-しかし、女性は痛みよりも精神的な嫌悪感を露わに、[r]
-身体をねじって逃げだそうとしていた。[pcms]
+However, the woman showed her mental disgust more than pain, twisting[r]
+her body trying to escape.[pcms]
 
 *97|
 [fc]
 [vo_mob s="camera0019"]
-[ns]カメラを持った女[nse]
-「あぐぅっ！　は、離してぇっ！　ケダモノぉぉぉぉっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Aguuh! Let go of me! You beast!"[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -785,52 +779,50 @@
 
 *98|
 [fc]
-悲鳴を上げた女性が瞬時に凍り付く。[pcms]
+The woman's scream froze in an instant.[pcms]
 
 *99|
 [fc]
-彼女がその視線の先に見たものは、[r]
-通路の奥からやってくる大量の感染者だった。[pcms]
+What she saw at the end of her gaze was a large number of infected[r]
+people coming from down the corridor.[pcms]
 
 *100|
 [fc]
 [vo_mob s="camera0020"]
-[ns]カメラを持った女[nse]
-「ひいっ！　なんで、こんなっ、む、無理、無理よぉぉぉぉっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Hiih! Why, this is impossible, impossible!"[pcms]
 
 *101|
 [fc]
-体重を預けてくる中年感染者の下から抜け出そうと、[r]
-身体を捻りながら必死で藻掻きつづける。[pcms]
+Trying to escape from under the middle-aged infected man bearing down[r]
+on her, she continued to desperately struggle while twisting her body.[pcms]
 
 *102|
 [fc]
-例え抗ウイルス剤を接種されていたとしても、[r]
-あれほどの人数を相手にしていたら、狂い死んでしまう。[pcms]
+Even if she had been vaccinated with antiviral drugs, facing that many[r]
+people would drive her mad.[pcms]
 
 *103|
 [fc]
-[ns]感染者Ａ[nse]
-「ご、ご……お゛るあっ！[r]
-　おと゛なしく……せ゛んがいっ！」[pcms]
+[ns]Infected Person A[nse]
+"Behave...or else!"[pcms]
 
 *104|
 [fc]
 [vo_mob s="camera0021"]
-[ns]カメラを持った女[nse]
-「んぐああっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Nguahh!"[pcms]
 
 *105|
 [fc]
-押さえつけるように女性にのし掛かっていた男が、[r]
-破壊的なまでに力のこもった腰の動きを叩き付けた。[pcms]
+The man lying on top of the woman to hold her down struck with his[r]
+hips filled with destructive power.[pcms]
 
 *106|
 [fc]
 [vo_mob s="camera0022"]
-[ns]カメラを持った女[nse]
-「うぎゃあぁあっ！？　あっ！　おごおぉっ！　イダアァァッ！[r]
-　あぐっ！　おごぉ！　ご、ごわれるぅ！　あ゛あ゛ぁ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Ugyaaaah!? Ah! Ogooh! It hurts! Agu! Ogooh! It's breaking me! Aaaah!"[pcms]
 
 [evcg storage="mob_H001b"][trans_c cross time=300]
 [se buf=0 storage="se_sex03" loop=true]
@@ -839,62 +831,59 @@
 *107|
 [fc]
 [vo_mob s="camera0023"]
-[ns]カメラを持った女[nse]
-「あぎゃあっ！！　あおぉおぅっ！　ぐぎいゃぁあああぁぁぁっ！[r]
-　ぎひぃ！　ひぎいいいぃぃ！　んぎぃい！　いぎゃああぁっ！[r]
-　あごぉおおっ！　おぎぃいひぃぎぎゃあぁあぁ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Agyaah!! Aohoooh! Gugiyaaaahhhhhhh! Gihii! Higyiii! Ngyiih! Igyaaahh![r]
+Agoooh! Ogiyihiihigyaaahhh!!"[pcms]
 
 *108|
 [fc]
-ローションなど望むべくもない状況で、[r]
-なんの滑りもない膣内を、感染者のペニスが抉っていく。[pcms]
+In a situation where lotion was out of the question, the infected[r]
+person's penis gouged through the unlubricated vagina.[pcms]
 
 *109|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛……お゛……き゛もち゛いい……、[r]
-　ご、ごいつ……さ゛けふ゛と……き゛もちよくなるんかな……」[pcms]
+[ns]Infected Person A[nse]
+"Oh...oh...it feels so good...wonder if it feels good for you too..."[pcms]
 
 *110|
 [fc]
-殴るように膣奥を叩かれると、反射的に身体が震えて萎縮した。[r]
-そして、中年男のペニスを握りつぶすように刺激してしまう。[pcms]
+Struck in the depths of her vagina as if being punched, her body[r]
+reflexively shivered and contracted, stimulating the middle-aged man's[r]
+penis as if crushing it.[pcms]
 
 *111|
 [fc]
 [vo_mob s="camera0024"]
-[ns]カメラを持った女[nse]
-「ごぶぅ！　ぶふぇえっ！　あぐおぉおぉっ！　おあぁあああっ！[r]
-　あがいいいぃぃ！　ひぎぎぃっ、ひいいぃ！　うおぎゃあぁっ！[r]
-　があぁっ！　んおぉっ！　はおぅ！　うおあぁぁ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Gobuu! Bufeet! Aguoooh! Oaaahhh! Agaiiii! Higiyiih, hiiih! Uogyaaahh![r]
+Gaaahh! Nohh! Haooh! Uoaaahhh!"[pcms]
 
 *112|
 [fc]
-鎮静剤を投与されつづけ、抑え込まれていた性欲が[r]
-吹き出すように、女性へと叩きつけられていく。[pcms]
+The sedatives that had been continuously administered were now[r]
+erupting outwards, slamming into the woman.[pcms]
 
 *113|
 [fc]
 [vo_mob s="camera0025"]
-[ns]カメラを持った女[nse]
-「た゛、た゛す゛け゛て゛ぇ……！　あ゛はっ！　うあぁ！[r]
-　ご、殺さ゛れる……！」[pcms]
+[ns]Woman with a Camera[nse]
+"Please...help me...! Ahah! Uaahh! I'm going to be killed...!"[pcms]
 
 *114|
 [fc]
-[ns]感染者Ａ[nse]
-「こ゛……こ゛ろすもんかぁ……、[r]
-　お゛まえは、た゛っぷり……やって、やるぅ」[pcms]
+[ns]Infected Person A[nse]
+"I'm not gonna kill you...I'm gonna give you plenty..."[pcms]
 
 *115|
 [fc]
-もの凄い力で、身体ごと打ち付けるように[r]
-腰を動かしていく。[pcms]
+The man moved his hips as if slamming his entire body down with[r]
+tremendous force.[pcms]
 
 *116|
 [fc]
-ペニスの先端から根本まで、一気に貫いては引きずり出し、[r]
-女性の膣内を破壊してしまう勢いだ。[pcms]
+From the tip to the base of his penis, he penetrated her in one go and[r]
+then dragged it out, threatening to destroy her vagina with his[r]
+movements.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -903,161 +892,156 @@
 *117|
 [fc]
 [vo_mob s="camera0026"]
-[ns]カメラを持った女[nse]
-「ぐぎゃあぁああぁっ！！　いいいっ！　痛いっ！！[r]
-　あ゛あぁぁっ！　だめぇっ！　やめでぇぇぇっ！！[r]
-　そんなしだら、はみ出るっ！　私の中身、はみでちゃうぅっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Gugyaaaahhh!! It hurts!! It hurts!! Nooo! Stop it!! Don't do this, my[r]
+insides are coming out!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：追加SE
 
 *118|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～あ゛……お゛んなが……ないてる……、[r]
-　ひ、ひさ゛しぶりだなぁ……ぐひぃ……」[pcms]
+[ns]Infected Person A[nse]
+"Aaah...hearing a woman cry...it's been a long time...guhii..."[pcms]
 
 *119|
 [fc]
-男の腰を動かす勢いは止まらずに、[r]
-むしろ段々と酷く荒くなっていく。[pcms]
+The man's thrusting momentum did not stop and became even more violent[r]
+and rough.[pcms]
 
 *120|
 [fc]
-興奮と共に、かろうじて残っていた鎮静剤の効果が[r]
-完全に吹き飛んでいるようだった。[pcms]
+The effects of the sedatives that were barely remaining seemed to have[r]
+completely blown away with his excitement.[pcms]
 
 *121|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛らぁっ！　も゛っど……ひ゛くびく……せ゛んか！」[pcms]
+[ns]Infected Person A[nse]
+"Take this! More... twitch... twitch...!"[pcms]
 
 *122|
 [fc]
 [vo_mob s="camera0027"]
-[ns]カメラを持った女[nse]
-「あっぎゃあううっ！！　ぐがあぁっ！　は、はげしずぎっ……！[r]
-　え、えぐれる……！　うがっ！　ぐぶうぅぅっ！　お、おぐっ、[r]
-　奥の肉っ……！　えぐられるぅぅっ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Aghyaaauu!! Gugaaah! It's too violent...! It's gouging out...! Ugha![r]
+Gubuuuuh! My, my insides...! They're being gouged out!!"[pcms]
 
 *123|
 [fc]
-中年男は気持ちよさそうにしながら、[r]
-女性の膣奥にペニスを突き立てていく。[pcms]
+The middle-aged man thrusts his penis into the woman's vaginal depths[r]
+with a look of pleasure.[pcms]
 
 *124|
 [fc]
-似たような体格の二人なのに、まるで大男に犯されている[r]
-少女のような忍びない光景だった。[pcms]
+Despite their similar builds, it was a pitiable sight, like a little[r]
+girl being violated by a large man.[pcms]
 
 *125|
 [fc]
-破壊的な腰の動きとおぞましさに耐えきれず、[r]
-女性は嘔吐と震えに襲われる。[pcms]
+Unable to endure the destructive hip movements and the horror, the[r]
+woman was struck by vomiting and trembling.[pcms]
 
 *126|
 [fc]
 [vo_mob s="camera0028"]
-[ns]カメラを持った女[nse]
-「うぶぅうっ！？　ぶふぐぅうぅぅっ！　おぐうっうぅおっ……！[r]
-　ぐっ……おぁあぁぁっ！！　げぇっ！　うおぉおっ！　あえっ！[r]
-　はっ、ぎ、気持ぢ悪いっ……！　や、やめで……！」[pcms]
+[ns]Woman with a Camera[nse]
+"Ubuuuh!? Bufuguuuuh! Ogguuuh...! Guh... Oaaahhh! Geeh! Uoooh! Aeh![r]
+Ha, gi, it feels sick...! Stop, please...!"[pcms]
 
 *127|
 [fc]
-[ns]感染者Ａ[nse]
-「む゛……む゛すめも……お゛かして……やった゛ぞ゛……、[r]
-　あ゛、あ゛れは……ぎもち゛よかったなぁ～～」[pcms]
+[ns]Infected Person A[nse]
+"Mmm... even the daughter... I've done it... Ah, that... felt good~"[pcms]
 
 *128|
 [fc]
-猫に弄ばれる鼠のように、女性は胸を握りつぶされ、[r]
-執拗に膣を抉られて弄ばれつづけていた。[pcms]
+Like a mouse toyed with by a cat, the woman's breasts were crushed and[r]
+her vagina was persistently gouged and played with.[pcms]
 
 *129|
 [fc]
-愛液の分泌はわずかなのか、男の潤滑液と見分けがつかない。[pcms]
+It was hard to tell if the secretion was just a little or if it was[r]
+indistinguishable from the man's lubricant.[pcms]
 
 *130|
 [fc]
-ますます堅さと太さを増した感染者の凶暴な肉の傘が、[r]
-女性の膣肉を削り取るように、容赦なく動き続ける。[pcms]
+The infected person's increasingly hard and thick brutal flesh[r]
+umbrella continued to move mercilessly, shaving off the woman's[r]
+vaginal flesh.[pcms]
 
 *131|
 [fc]
 [vo_mob s="camera0029"]
-[ns]カメラを持った女[nse]
-「あっひぁあっ！　たすけてぇ…こんなの…！　ごんなのイヤぁ！[r]
-　ぐふぅうぅっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Ahhiaaah! Help me... not like this...! I don't want this! Gufuuuuh!"[pcms]
 
 *132|
 [fc]
-[ns]感染者Ａ[nse]
-「き゛もち゛ええ゛～……た゛……た゛まら゛ん～」[pcms]
+[ns]Infected Person A[nse]
+"Feels so good... can't... can't stop~"[pcms]
 
 *133|
 [fc]
-もう女性は、感染者に犯されているという嫌悪感も薄れ、[r]
-目の前の暴力と性衝動を受け止めるだけで、[r]
-精一杯になっている。[pcms]
+The woman was now so overwhelmed by the violence and sexual urges[r]
+before her that any disgust at being violated by the infected person[r]
+had faded.[pcms]
 
 *134|
 [fc]
-昨日までの平和な一日が脳裏をよぎり、[r]
-その度に痛みと苦しみで現実に引き戻されていた。[pcms]
+Memories of peaceful days up until yesterday flashed through her mind,[r]
+only to be dragged back to reality by pain and suffering each time.[pcms]
 
 *135|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛……あ゛～……で、でるう゛～」[pcms]
+[ns]Infected Person A[nse]
+"Ah... Ahh~... it's, it's coming out~"[pcms]
 
 [evcg storage="mob_H001d"][trans_c cross time=300]
 
 *136|
 [fc]
 [vo_mob s="camera0030"]
-[ns]カメラを持った女[nse]
-「ひぃっ！？　そ、そんなっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Hii!? No, not like that!"[pcms]
 
 *137|
 [fc]
-感染者の言葉で、薄れていた嫌悪感がよみがえる。[pcms]
+The infected person's words revived the fading disgust.[pcms]
 
 *138|
 [fc]
-女性の本能とでも言うべきか、望まぬ子種を受け取ることへの[r]
-おぞましさは暴力にも勝っていた。[pcms]
+Perhaps it was a woman's instinct, but the horror of receiving[r]
+unwanted seed was greater than the violence.[pcms]
 
 *139|
 [fc]
-しかもその種子は、[r]
-怪物を生み出す、忌まわしいウイルスに汚されているのだ。[pcms]
+Moreover, that seed was tainted with a vile virus that could spawn[r]
+monsters.[pcms]
 
 *140|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛お゛お゛……で、でるぞ、に゛んしん、た゛～」[pcms]
+[ns]Infected Person A[nse]
+"Ooooh... it's coming, you're gonna get pregnant~"[pcms]
 
 *141|
 [fc]
-一方、いよいよ激しく腰を動かしはじめた感染者は、[r]
-食いしばった口から涎をしたたらせながら、[r]
-その獣欲の高みへと、獰猛に上り詰めてゆく。[pcms]
+Meanwhile, the infected person began to move his hips more fiercely,[r]
+drooling from his clenched mouth as he climbed savagely to the peak of[r]
+his bestial desires.[pcms]
 
 [evcg storage="mob_H001b"][trans_c cross time=300]
 
 *142|
 [fc]
 [vo_mob s="camera0031"]
-[ns]カメラを持った女[nse]
-「はぎぃ！？　いああああああぁ！！　あぐううぅぎぎぃぃいっ！[r]
-　えあっうぅぅうっ！　ぐううぅっ！　んぎいぃあああっうぅっ！[r]
-　だぁ……、誰か！　だずげでぇっ！！　お願いぃいいっ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Hagii!? Iyaaaaaaaah!! Aguuuugigiiiih! Eauuuuuuh! Guuuuuh![r]
+Ngyiiiaaaaauuuuh! Someone... help meee!! Please!!"[pcms]
 
 *143|
 [fc]
-[ns]感染者Ａ[nse]
-「うほ゛お゛おお゛お゛お～～」[pcms]
+[ns]Infected Person A[nse]
+"Uhoohooooh~"[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -1066,13 +1050,13 @@
 *144|
 [fc]
 [vo_mob s="camera0032"]
-[ns]カメラを持った女[nse]
-「やめてぇぇぇぇぇぇぇぇぇっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Stop ittttttttttt!"[pcms]
 
 *145|
 [fc]
-[ns]感染者Ａ[nse]
-「でる゛ぅ～～ぐぼお゛お゛おっ！」[pcms]
+[ns]Infected Person A[nse]
+"It's coming out~~ goboohoooh!"[pcms]
 
 
 ;//#_射精フラッシュ
@@ -1090,62 +1074,60 @@
 
 *146|
 [fc]
-感染者のおぞましい嬌声と共に、[r]
-膣の最奥部にねじ込まれた肉塊から、[r]
-白濁した汚液が凄まじい勢いで噴出した。[pcms]
+Along with the infected person's hideous moans, a mass of flesh[r]
+twisted into her deepest parts spewed out a turbid white fluid with[r]
+tremendous force.[pcms]
 
 *147|
 [fc]
 [vo_mob s="camera0033"]
-[ns]カメラを持った女[nse]
-「う゛あ゛あ゛ああああああああああああああぁああぁぁっ！？」[pcms]
+[ns]Woman with a Camera[nse]
+"Uvaaahhhhhhhhhhhhhhhhhhhhhhhhhhh?!"[pcms]
 
 [se buf=0 storage="se_sex02"]
 ;//SE：追加分
 
 *148|
 [fc]
-放たれた精液の白い奔流は、その勢いのまま直接、子宮に流れ込み、[r]
-あっという間に中を濁りで溢れさせた。[pcms]
+The white torrent of ejaculate flowed directly into the womb with its[r]
+momentum, quickly filling it with murkiness.[pcms]
 
 *149|
 [fc]
 [vo_mob s="camera0034"]
-[ns]カメラを持った女[nse]
-「あっぐぅ！　うわあああああああああああああぁぁぁぁぁっ！！[r]
-　出てるうぅぅっ！！　出てるぅうあああああああああぁぁっ！！[r]
-　わ、私の膣内にっ！　精液、出てるううううぅっ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Agguu! Uwaaaaaaaaaaaaaaaaaaaaah!! It's coming out!! It's coming out[r]
+waaaaaaaaaaaaah!! Inside me! Semen, it's pouring out!!"[pcms]
 
 *150|
 [fc]
-それでも、感染者の射精は一度では収まらない。[pcms]
+Yet, the infected person's ejaculation did not cease with just one[r]
+release.[pcms]
 
 *151|
 [fc]
 [vo_mob s="camera0035"]
-[ns]カメラを持った女[nse]
-「ひっぐぁあおおおおおおぁあぁあああああああぁぁぁぁぁっ！！[r]
-　あがわわぁあぁあああああぁぁああああああああっ！！[r]
-　っがはぁあああああっ！　うんぁぁああああ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Higguuaooooooaaaaaaaahhh!! Agawawaaaaaaaahhh!! Gahaaaaaaaah![r]
+Unhaaaaaaaah!!"[pcms]
 
 *152|
 [fc]
-肉棒が何度も、何度も、女性の膣内でビクビクと動き、[r]
-その度に、先端から濃厚な精液を大量にほとばしらせる。[pcms]
+The dick twitched again and again inside the woman's vagina, each time[r]
+spurting copious amounts of thick semen from its tip.[pcms]
 
 *153|
 [fc]
 [vo_mob s="camera0036"]
-[ns]カメラを持った女[nse]
-「くああああぁっ！　熱っ！？　ぐぅうあぁぁあああああぁぁっ！[r]
-　ま、まだ、まだ出てるうぅぅっ！　あくぅうぅぅぅっ！！[r]
-　も、もうやあああぁ！　止めて！止めてぇええっ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Kuaaaaahh! Hot!? Guuuuaaaaaaaaahh! Still, still coming out![r]
+Akkuuuuuuh!! No moreee! Stop it! Stop it pleeease!!"[pcms]
 
 *154|
 [fc]
-収まらない射精に、身をひくつかせる男の下で、[r]
-無防備な胎内を欲望の液体に犯されて、女性が身体をピンと[r]
-突っ張らせている。[pcms]
+Underneath the man whose ejaculation did not subside, the woman's[r]
+unprotected womb was violated by the liquid of desire, causing her[r]
+body to stiffen.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -1154,10 +1136,9 @@
 *155|
 [fc]
 [vo_mob s="camera0037"]
-[ns]カメラを持った女[nse]
-「はぁあっ……！　はぁっ……！　はぁっ……！　……はんっ！[r]
-　くぅっ……かはっ……、ひ……はぁ……、あぁっ……、[r]
-　はあぁぁっ……！　あふっ……はふうぅっ……くふぅぅん…」[pcms]
+[ns]Woman with a Camera[nse]
+"Haaah...! Haaah...! Haaah...! ...Hanh! Kuuuh... kahah... hi...[r]
+haaah... aaah... haaaah...! Ahfuh... hafuuuh... kufuun..."[pcms]
 
 [se buf=0 storage="se_sex02"]
 ;//SE：追加分
@@ -1165,26 +1146,26 @@
 *156|
 [fc]
 [vo_mob s="camera0038"]
-[ns]カメラを持った女[nse]
-「うっ……ううっ……こんな……ああぁっ……お、奥に……、[r]
-　わ、私の、一番深いところにっ……んんっ……い、いっぱい、[r]
-　……いっぱい……注ぎ…込まれてるっ……！」[pcms]
+[ns]Woman with a Camera[nse]
+"Ugh... ughh... like this... ahhh... deep inside... my deepest part...[r]
+nnnh... filled up... filled up completely..."[pcms]
 
 *157|
 [fc]
-満足した中年男が、勢いよく女性の膣からペニスを引き抜くと、[r]
-貝が潮を吹くように白い液体が膣口から飛び出した。[pcms]
+Satisfied, the middle-aged man forcefully pulled his penis out of the[r]
+woman's vagina, and like a clam squirting water, white fluid burst[r]
+forth from her vaginal opening.[pcms]
 
 *158|
 [fc]
-あまりに大量の精液を身体に受け、[r]
-胎内に溜めることができずに噴き出したのかも知れない。[pcms]
+The sheer volume of semen received by her body was too much to hold[r]
+inside her womb and spurted out.[pcms]
 
 *159|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛おお゛……でと゛る、でと゛る……、[r]
-　子種が……たっぷり……でと゛るぅ……」[pcms]
+[ns]Infected Person A[nse]
+"Oooh... it's pouring out, pouring out... lots of seed... pouring[r]
+out~"[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -1193,10 +1174,9 @@
 *160|
 [fc]
 [vo_mob s="camera0039"]
-[ns]カメラを持った女[nse]
-「あぁあっ……！　ひぁあっ……！　はぁっ！　はぁっ……、[r]
-　あふぅっ……うぅ……、ひはぁ……はぁ……、はぁうぅっ……！[r]
-　んくっ……ん……くふぅっ、はぁっ……、ふはぁ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Aaahh...! Hiaaahh...! Haaah! Haaah... ahfuuu... uuu... hihahh...[r]
+haaah... haaauuhh...! Nkkuh... nnn... kufuuh, haaah..., fuhah..."[pcms]
 
 [se buf=0 storage="se_sex02"]
 ;//SE：追加分
@@ -1204,44 +1184,45 @@
 
 *161|
 [fc]
-男は嬉しそうに、膣内から噴き流れる精液をながめていた。[pcms]
+The man looked on with pleasure at the semen spurting from inside the[r]
+vagina.[pcms]
 
 *162|
 [fc]
-おびただしい量の射精を行って、[r]
-なお怒張したままの、感染者の肉幹。[pcms]
+The infected person's meaty shaft, still engorged after an enormous[r]
+ejaculation.[pcms]
 
 *163|
 [fc]
-放った精液の粘度が異常に高いのか、[r]
-膣内から亀頭の先まで白い糸を引いて繋がっているそれが、[r]
-なかなか切れ落ちない。[pcms]
+Perhaps due to the unusually high viscosity of the released semen, it[r]
+connected from inside the vagina to the tip of the glans, forming a[r]
+white thread that did not easily break off.[pcms]
 
 *164|
 [fc]
-肩で荒く息をしながら、女性は呆然とその様子を見つめていた。[pcms]
+Gasping for breath, the woman stared blankly at the scene.[pcms]
 
 *165|
 [fc]
 [vo_mob s="camera0040"]
-[ns]カメラを持った女[nse]
-「も……もう……やめ……て……」[pcms]
+[ns]Woman with a Camera[nse]
+"No... no more... stop... it..."[pcms]
 
 *166|
 [fc]
-[ns]感染者Ａ[nse]
-「うほ゛ぅ！　まだ゛まだ゛……た゛っぷり、できるぞ～」[pcms]
+[ns]Infected Person A[nse]
+"Uho! Still, still... I can do plenty more~"[pcms]
 
 *167|
 [fc]
 [vo_mob s="camera0041"]
-[ns]カメラを持った女[nse]
-「ひぃいやぁぁぁぁ……！？」[pcms]
+[ns]Woman with a Camera[nse]
+"Hiiiiyaaaaa...!?"[pcms]
 
 *168|
 [fc]
-女性の悲痛な叫びもむなしく、男は二回戦目とばかりに[r]
-天を向いてそそり立っているペニスを、突き刺していった。[pcms]
+Despite the woman's agonized screams, the man, as if ready for a[r]
+second round, thrust his penis, which was pointing skyward, into her.[pcms]
 
 [evcg storage="mob_H001b"][trans_c cross time=300]
 
@@ -1252,155 +1233,150 @@
 *169|
 [fc]
 [vo_mob s="camera0042"]
-[ns]カメラを持った女[nse]
-「んぎぃいぐひぃぎぎゃぁあぁ！！　あぎゃあっ！！　ぎぃがっ！[r]
-　ぎいぅぃおぅっ！　あぎいゃぁがああぁぁぁっ！　ぐがぁっ！[r]
-　ぐひぃ！　がひいぃぃ！　んぎぃい！　あぎゃああぁっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Ngyiiiguhiiigyaaah!! Agyaaah!! Gyigah! Gyiuioh! Agyiyagaaaah! Gugah![r]
+Guhii! Gahiyy! Ngyii! Agyaaaah!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：追加SE
 
 *170|
 [fc]
-皮肉にも感染者の精液で滑りやすくなったそこは、[r]
-先ほどよりも男のペニスを楽に受け入れていた。[pcms]
+Ironically, the place made slippery by the infected person's semen now[r]
+accepted the man's penis more easily than before.[pcms]
 
 *171|
 [fc]
-だがその分、膣奥に打ち付けられる衝撃は強くなって、[r]
-子宮を殴られるような痛みが増してしまう。[pcms]
+But as a result, the impact of it striking her deep inside[r]
+intensified, increasing the pain as if her womb was being punched.[pcms]
 
 *172|
 [fc]
 [vo_mob s="camera0043"]
-[ns]カメラを持った女[nse]
-「ひぎゃあぁあっ！　ぐがあっ！　うごおぉっ！　んぎぃああっ！[r]
-　お、お゛まんご、ごわれるっ！　んき゛ぐいぁぁっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Higyaaaah! Gugah! Ugoooh! Ngyiaah! My pussy, it's gonna break![r]
+Ngiguiah!"[pcms]
 
 *173|
 [fc]
-女性の身体を抉っているペニスは益々凶悪さを増して、[r]
-太さと固さを維持したまま、大きくエラを張っていた。[pcms]
+The penis ravaging the woman's body grew even more vicious,[r]
+maintaining its thickness and hardness while swelling significantly.[pcms]
 
 *174|
 [fc]
 [vo_mob s="camera0044"]
-[ns]カメラを持った女[nse]
-「お゛があぁあっ！　ぐぃひぎいっ！　ぶぐうぅぁあ！[r]
-　あごぉうぅっ！！　ぐぅっ！　ぎぐぅあぁっ！[r]
-　あお゛ぉお゛っ！　がぎぎいゃぁ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Ogaaaah! Guihigiih! Buguuuah! Agooouh!! Guuh! Giguaah! Aoooh![r]
+Gagigiyaa!!"[pcms]
 
 *175|
 [fc]
-[ns]感染者Ｂ[nse]
-「がは゛は……は゛はっ、お゛れも……まぜろ゛ぉっ！」[pcms]
+[ns]Infected Person B[nse]
+"Gahahaha...hah, I also... want to join in!"[pcms]
 
 *176|
 [fc]
-そこに、入院着ではないＹシャツの男が下半身を剥き出しにして、[r]
-女性の顔にまたがってくる。[pcms]
+Then, a man in a dress shirt, not hospital attire, exposed his lower[r]
+half and straddled the woman's face.[pcms]
 
 *177|
 [fc]
-股間からぶら下げているそれは、腹に密着するほど怒張しており、[r]
-浮き出た青筋の鼓動が目に見えるようだ。[pcms]
+The thing dangling from his crotch was so engorged it pressed against[r]
+his belly, and the pulsing of the prominent blue veins was visibly[r]
+throbbing.[pcms]
 
 *178|
 [fc]
-[ns]感染者Ａ[nse]
-「き゛んもち゛ええ……な゛んか゛い……でも゛できるぞぉ！」[pcms]
+[ns]Infected Person A[nse]
+"Feels so good... something's coming... I can still do it!"[pcms]
 
 *179|
 [fc]
 [vo_mob s="camera0045"]
-[ns]カメラを持った女[nse]
-「も゛、もう゛ゆ゛るして゛ぇ……！　ぐが゛はっ！　うあぁ！[r]
-　むり゛……！　ぜっだいに、む゛りぃぃぃぃっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Please... no more... Gugahah! Uwah! Impossible...! Absolutely[r]
+impossible!"[pcms]
 
 *180|
 [fc]
-先に女性を犯していた男は、割り込んできた男を[r]
-気にすることもなく、荒々しく腰を振っていた。[pcms]
+The man who had raped the woman earlier didn't mind the newcomer and[r]
+continued to thrust his hips violently.[pcms]
 
 *181|
 [fc]
-女性は新しく現れた男に恐怖を覚えながら、[r]
-噛みしめた口から悲鳴を漏らしている。[pcms]
+Filled with fear of the newly arrived man, the woman let out screams[r]
+through her clenched mouth.[pcms]
 
 *182|
 [fc]
-[ns]感染者Ｂ[nse]
-「ほら゛ぁ……お゛んなは……お゛とな゛しく……、[r]
-　お゛とこ゛の……ち゛んち゛ん……しゃぶれぇっ！」[pcms]
+[ns]Infected Person B[nse]
+"Come on... be a good girl... and suck this dick!"[pcms]
 
 [evcg storage="mob_H001h"][trans_c cross time=300]
 
 *183|
 [fc]
 [vo_mob s="camera0046"]
-[ns]カメラを持った女[nse]
-「い゛やっ、んぐお゛うっ！　ぶぐえっ！　ぐがあぁぃっ！[r]
-　ぐががぁっ！　お゛うっ！　ん゛ぐぇぇっ！　おぶぅぉぉっ！[r]
-　がぶうぁぁぇっ！　ぶゃがんぐ゛おぁぁぁっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"No, ngouh! Bugeh! Gugaaaih! Gugagah! Ouh! Nguueeh! Obuoooh![r]
+Gabuuaaeh! Byagungoaaah!"[pcms]
 
 [evcg storage="mob_H001g"][trans_c cross time=300]
 
 *184|
 [fc]
-男の長く太い物が、女性の喉奥にまで突き込まれていく。[r]
-口に入る前の長さから考えると、亀頭の辺りは[r]
-喉の相当奥にまで侵入しているだろう。[pcms]
+The man's long and thick member was thrust deep into the woman's[r]
+throat. Judging by its length before entering her mouth, the glans[r]
+must have penetrated quite deep into her throat.[pcms]
 
 *185|
 [fc]
-[ns]感染者Ｂ[nse]
-「うぼぼ……な゛まいき゛そうな……お゛んなを……、[r]
-　お゛か゛すのは……た゛まんね゛ぇ……」[pcms]
+[ns]Infected Person B[nse]
+"Ubobobo... it's irresistible... to break such a spirited woman..."[pcms]
 
 *186|
 [fc]
 [vo_mob s="camera0047"]
-[ns]カメラを持った女[nse]
-「ぐぶうっ、んぐっ、んごおおおっ！　ぐうぇぁぉっ！[r]
-　がぐお゛うっ！　き゛ぐううえっ！　げぼぉぉぅっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Gubuuh, nguh, ngooooh! Guweaoh! Gaguough! Kiguueeh! Gebooooh!"[pcms]
 
 *187|
 [fc]
-女性が空気を求めて必死に暴れるが、[r]
-男はその頭を押さえつけて離さない。[pcms]
+The woman desperately flailed for air, but the man held her head down[r]
+and did not let go.[pcms]
 
 *188|
 [fc]
-むしろ、もっと奥に突っ込みたがっているように、[r]
-高速でピストンし始めた。[pcms]
+Rather, he seemed eager to thrust even deeper and began to piston at[r]
+high speed.[pcms]
 
 *189|
 [fc]
 [vo_mob s="camera0048"]
-[ns]カメラを持った女[nse]
-「ぎぐぇぇっ！　ぐごぼっ！　がぎいぃぃぃあぉっ！[r]
-　げぐごぼぁっ！　ん゛ごぶぅっ！　がけ゛ぇぁぶぁ！[r]
-　がぐぁぉっ！　んぐげぇっ！　ぐいぁぉげぇっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Gigueeh! Gogoboh! Gagiiiiiaoh! Gegugobah! Ngobuuh! Gageeabuah![r]
+Gaguaoh! Ngugeeh! Guiyaogeheh!"[pcms]
 
 *190|
 [fc]
-女性は堪えられない涙を流しながら、[r]
-ただ空気を求めてえづきを繰り返していた。[pcms]
+The woman shed tears of unbearable pain while repeatedly gagging in[r]
+search of air.[pcms]
 
 *191|
 [fc]
-あるいは、坑ウイルス剤がなければ楽になれたのかもしれない。[r]
-楽に死ねるならその道を選択したくなるような状況だった。[pcms]
+If it weren't for the antiviral drugs, she might have been able to[r]
+find relief. In such a situation, she would have chosen death if it[r]
+meant an easier end.[pcms]
 
 *192|
 [fc]
-これから、後数十人の感染者の相手をしなければならないのだ。[r]
-全てが終わった後、生きていられるとはとても思えない。[pcms]
+She would have to deal with dozens more infected individuals. It was[r]
+hard to believe she could be alive after everything was over.[pcms]
 
 *193|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛らぁっ！　こ゛っち゛もわす゛れんなあ゛っ！」[pcms]
+[ns]Infected Person A[nse]
+"Orahh! Don't forget about this side too!"[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -1410,70 +1386,67 @@
 *194|
 [fc]
 [vo_mob s="camera0049"]
-[ns]カメラを持った女[nse]
-「がぐぁぉっ！　ぎぐっ、がごぉぁっ！　ぶぐうぇぁぉっ！[r]
-　がぐお゛うっ！　んぐううえっ！　げぼぉぉぅっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Gaguaoh! Giguh, gagooah! Bugueaoh! Gaguough! Nguuueeh! Geboooh!"[pcms]
 
 *195|
 [fc]
-酸素を求めて[ruby text="おこり"]瘧を起こしている女性の膣奥に、[r]
-中年の感染者が容赦なくペニスをぶち込んでいく。[pcms]
+The middle-aged infected person mercilessly thrust his penis into the[r]
+depths of the woman's vagina, which was already in a state of hypoxia[r]
+from convulsions.[pcms]
 
 *196|
 [fc]
-ただでさえ酸欠状態であるそこに、[r]
-息が止まるほどの衝撃を受けた女性は、[r]
-痛みを感じられる自分の身体を呪わずにはいられなかった。[pcms]
+In addition to being oxygen-deprived, the woman received such breath-[r]
+stopping impacts that she couldn't help but curse her own body for[r]
+being able to feel pain.[pcms]
 
 *197|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛おっ……いく゛なって゛き゛た～……、[r]
-　もっと゛……かわ゛いがって゛……やる゛からな……」[pcms]
+[ns]Infected Person A[nse]
+"Oooh... I'm getting there... I'll make you cry more..."[pcms]
 
 *198|
 [fc]
 [vo_mob s="camera0050"]
-[ns]カメラを持った女[nse]
-「ぐばぁっ！　た゛、た゛すけ゛でぇぇぁっ！　ぶぎぃっ！[r]
-　し゛んじゃうぅぅぁぉっ！　ぐんがぁっ！　ふごぉぁんぉっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Gubaaah! Please, help meeeahh! Bugiih! I'm going to dieeeahh![r]
+Gungahh! Fugoanoh!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：追加SE
 
 *199|
 [fc]
-[ns]感染者Ｂ[nse]
-「き゛んも゛ち゛ええ……せ゛った゛いに……、[r]
-　は゛な゛ざねえぞ……」[pcms]
+[ns]Infected Person B[nse]
+"Feels so good... definitely... won't let you go..."[pcms]
 
 *200|
 [fc]
-女性は生死の境で必死に頭を振り、[r]
-手を突っ張って感染者から離れようと藻掻いていた。[pcms]
+The woman desperately shook her head at the brink of life and death,[r]
+pushing her hands against the infected person trying to get away.[pcms]
 
 *201|
 [fc]
-その間も、容赦なく弄んでくる感染者に犯されながら、[r]
-生き延びるために、全身の力を使って抵抗していく。[pcms]
+Even while being violated by the relentless infected person, she used[r]
+all her strength to resist in order to survive.[pcms]
 
 *202|
 [fc]
 [vo_mob s="camera0051"]
-[ns]カメラを持った女[nse]
-「んぐごぼぁっ！　が゛ごぇぶぅっ！　ぐけ゛ぉぁぶぁ！[r]
-　がぐぁぉっ！　んぐげぇっ！　ぐいぁぉげぇっ！[r]
-　こ゛ぐぁうっ！　ぶぐぇぇっ！　ぐぁぇぉっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Nguh gobah! Gagoh ebuuh! Gukeh oabuh! Gaguah! Ngugeeh! Guih ogeeh![r]
+Goguah! Bugeeh! Gaeoh!"[pcms]
 
 *203|
 [fc]
-[ns]感染者Ａ[nse]
-「た゛ま゛らねぇっ……また゛……いく゛そ゛ぉ……」[pcms]
+[ns]Infected Person A[nse]
+"Damn... again... I'm going..."[pcms]
 
 *204|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛……お゛れも゛……け゛んか゛いだぁ……」[pcms]
+[ns]Infected Person B[nse]
+"Oh... I'm also... gonna cum..."[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -1482,28 +1455,27 @@
 *205|
 [fc]
 [vo_mob s="camera0052"]
-[ns]カメラを持った女[nse]
-「こ゛ぉぐぁぇっ！　むげぇぐぉうっ！　き゛ごがぁぃぼっ！[r]
-　んか゛げあぉっ！　がぐぁぉっ！　ぎぶぐうぇぁぉっ！[r]
-　がぐお゛うっ！　んげううえっ！　ぐばぁぉぅっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Goh guaeh! Mugeh gouh! Kigoh aibo! Ngah geoah! Gaguah! Gibu guweaoh![r]
+Gaguouh! Ngeuueh! Gubaoh!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：追加SE;//◆演出メモ　サンプリング
 
 *206|
 [fc]
-喉の奥に物を突き込んでいる感染者は、[r]
-亀頭を一番奥に突っ込んだまま身体を震わせ始める。[pcms]
+The infected person thrusting into the depths of her throat began to[r]
+shake his body, keeping his glans pushed deep inside.[pcms]
 
 *207|
 [fc]
-二度目の射精となる男も、最後の最後まで快感を得ようと[r]
-無茶苦茶に腰を振り続けていた。[pcms]
+The man about to ejaculate for the second time continued to thrust his[r]
+hips wildly to get the last bit of pleasure.[pcms]
 
 *208|
 [fc]
-[ns]感染者Ｄ[nse]
-「う゛お……ぐう゛う゛……も゛う……か゛ああ゛あ゛あっ！」[pcms]
+[ns]Infected D[nse]
+"Uvo... guvu... I'm... gaaaah!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：追加分
@@ -1516,65 +1488,62 @@
 
 *209|
 [fc]
-一気にふくらんだ陰茎から、ウイルスの混じった汚液が[r]
-輸精管を通り、口の中で盛大に吹き上がる。[pcms]
+A massive amount of virus-laden semen erupted from the swollen penis,[r]
+passing through the vas deferens and shooting up inside her mouth.[pcms]
 
 
 
 *210|
 [fc]
 [vo_mob s="camera0053"]
-[ns]カメラを持った女[nse]
-「げぉぶぉっ、んぐえぁぇっ、むごぉぶごぉぅぅぇっ！[r]
-　んぐお゛うっ！　ぶぐえっ！　ぐががぁっ！　お゛うっ！[r]
-　ん゛ぐぇぇっ！　おぶぅぉぉっ！　がぶうぁぁぇっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Geoboh, ngueaeh, mugob gouueh! Ngouh! Bugueh! Gagah! Oh! Ngueeh![r]
+Obuoh! Gabuwaeh!"[pcms]
 
 *211|
 [fc]
-ただでさえ窒息寸前だった女性の喉奥に、[r]
-忌まわしい幹が突き刺さり、大量の精液が吐き出されていた。[pcms]
+The woman's throat, already on the verge of suffocation, was pierced[r]
+by the detestable shaft as a large amount of semen was expelled.[pcms]
 
 *212|
 [fc]
 [vo_mob s="camera0053"]
-[ns]カメラを持った女[nse]
-「ぬぅぐぅぅっ、んがぁぎぃぐっ、げがぐっ、んごぶうっ！[r]
-　ぐぶうっ、んぐっ、んごおおおっ！　んぐうええっ！[r]
-　んく゛うっ！　ぶく゛あぁっ！　げぼぉぉぅっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Nuguuuh, ngagih guh, geguh, ngobuh! Gubuh, nguh, ngooh! Ngueeh![r]
+Nguuh! Bukuaah! Gebooh!"[pcms]
 
 *213|
 [fc]
-身体をがくがくと震わせ、必死にその精液を飲み下し、[r]
-遠くなりそうな意識を、なんとか繋ぎ止めていた。[pcms]
+Shaking violently, she desperately swallowed the semen, trying to[r]
+cling to her fading consciousness.[pcms]
 
 *214|
 [fc]
-ここで気を失ったら殺されてしまう。[r]
-それだけを考えて、感染者の性欲を一身に受け止めた。[pcms]
+If she lost consciousness here, she would be killed. With that sole[r]
+thought in mind, she took on the infected person's sexual desire.[pcms]
 
 ;//[evcg storage="mob_H001k"][trans_c cross time=300]
 
 *215|
 [fc]
 [vo_mob s="camera0055"]
-[ns]カメラを持った女[nse]
-「がぁぐぶぁぁうっ！　ぐぃぎぉぉおっ！　むぐうぇぁぉっ！[r]
-　がぐお゛うっ！　む゛ううえ゛っ！　げぼぉぉぅっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Gagubuaah! Guigiooh! Mugueaoh! Gaguouh! Muuueh! Gebooh!"[pcms]
 
 *216|
 [fc]
-逆流した精液が鼻から噴き出し、[r]
-白目を剥いた状態で必死に呼吸を行う。[pcms]
+Semen that had refluxed sprayed out from her nose as she desperately[r]
+tried to breathe, her eyes rolling back.[pcms]
 
 *217|
 [fc]
-精液が唇から顎に伝わって流れ落ち、[r]
-後から後から逆流の雫がこぼれていた。[pcms]
+Semen trickled down from her lips to her chin, and droplets of reflux[r]
+continued to spill out one after another.[pcms]
 
 *218|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あ……ああ゛あ゛……ああ゛ああっ！」[pcms]
+[ns]Infected Person A[nse]
+"Aah... aah... aaaaah!"[pcms]
 
 ;//#_射精フラッシュ
 ;[射精フラA]
@@ -1586,40 +1555,40 @@
 
 *219|
 [fc]
-膣にペニスを突っ込んでいた感染者は、自分の腰使いの荒さと、[r]
-女性の藻掻きによって、精液を宙に放ってしまう。[pcms]
+The infected person thrusting his penis into her vagina ejaculated[r]
+into the air due to his rough hip movements and the woman's writhing.[pcms]
 
 *220|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛れの……こ゛た゛ねがぁぁぁっ！」[pcms]
+[ns]Infected Person A[nse]
+"My... seed... aaaaah!"[pcms]
 
 *221|
 [fc]
-ここぞというタイミングで膣からペニスを飛び出させ、[r]
-白濁の飛沫を撒き散らしながら、ぶるんと震わせていた[r]
-感染者は怒りの声をあげていた。[pcms]
+At just the right moment, the infected person pulled his penis out of[r]
+her vagina and shook it violently, spraying milky droplets while[r]
+raising an angry voice.[pcms]
 
 *222|
 [fc]
 [vo_mob s="camera0056"]
-[ns]カメラを持った女[nse]
-「んぐおっ……がぐおぉっ……んげううえっ……ぐばぁぉぅ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Nguoh... gaguoh... ngeuueh... gubaoh..."[pcms]
 
 *223|
 [fc]
-感染者の精液から子宮を守ることができた女性は、[r]
-あやふやな意識の中で微かな安堵を覚える。[pcms]
+The woman who managed to protect her womb from the infected person's[r]
+semen felt a faint sense of relief amidst her hazy consciousness.[pcms]
 
 *224|
 [fc]
-辺りはむせ返るほどの精臭におおわれ、[r]
-女性の身体は白い液体で染まっていた。[pcms]
+The area was filled with the choking smell of semen, and the woman's[r]
+body was stained with the white fluid.[pcms]
 
 *225|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛……お゛まえ゛……と゛けよ゛ぉっ……！」[pcms]
+[ns]Infected D[nse]
+"Oh... get off... me!"[pcms]
 
 [se buf=0 storage="seB010"]
 ;//打撃
@@ -1627,8 +1596,8 @@
 
 *226|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛～～……？」[pcms]
+[ns]Infected Person B[nse]
+"Ah~...?"[pcms]
 
 [evcg storage="mob_H001k"][trans_c cross time=300]
 
@@ -1636,23 +1605,24 @@
 
 *227|
 [fc]
-女性にまたがって精を吐き出した感染者は、[r]
-周りの感染者に突き飛ばされると、惨めに床を転がる。[pcms]
+The infected person who had ejaculated while straddling the woman was[r]
+pushed aside by other infected individuals and miserably rolled on the[r]
+floor.[pcms]
 
 *228|
 [fc]
-妙な体勢で転んだためか、肩の辺りが[r]
-不自然な角度で曲がっていた。[pcms]
+Perhaps due to the awkward way he fell, his shoulder was bent at an[r]
+unnatural angle.[pcms]
 
 *229|
 [fc]
-[ns]感染者Ｂ[nse]
-「は゛ら……へった゛ぁ……」[pcms]
+[ns]Infected Person B[nse]
+"I'm... hungry..."[pcms]
 
 *230|
 [fc]
-突き飛ばされた男は、女性に興味が無くなったのか、[r]
-そのままふらふらと、どこかへ行ってしまう。[pcms]
+The man who was pushed away seemed to lose interest in the woman and[r]
+staggered off somewhere.[pcms]
 
 ;[射精フラA]
 [se buf=0 storage="se_sex01"]
@@ -1662,85 +1632,86 @@
 *231|
 [fc]
 [vo_mob s="camera0057"]
-[ns]カメラを持った女[nse]
-「んぐっ、ぐう、げえっぐけ゛ぉぁぶぁ！[r]
-　がぐぁぉっ！　んぐげぇっ！　がぼぁぁぁぁぁっ！！」[pcms]
+[ns]Woman with a Camera[nse]
+"Nguh, guu, geeh gukeh oabuh! Gaguah! Ngugeeh! Gaboaaaaah!!"[pcms]
 
 *232|
 [fc]
-感染者のペニスが喉から抜けた女性は、目玉が飛び出しそうな[r]
-嘔吐感を堪えきれずに、胃の中の物を全て吐き出していた。[pcms]
+The woman whose throat had been penetrated by the infected person's[r]
+penis could not hold back the urge to vomit as if her eyeballs were[r]
+about to pop out, and she expelled everything from her stomach.[pcms]
 
 *233|
 [fc]
-視界が涙で霞み、精液の混じった吐瀉物が床を飛び跳ねて、[r]
-撒き散らされる。[pcms]
+Her vision blurred with tears as vomit mixed with semen splattered and[r]
+scattered across the floor.[pcms]
 
 *234|
 [fc]
-[ns]感染者Ａ[nse]
-「なか゛だし゛……な゛かた゛た゛だぁっ……！」[pcms]
+[ns]Infected Person A[nse]
+"Inside... I came inside...!"[pcms]
 
 *235|
 [fc]
-二度目の射精を失敗してしまった男は、[r]
-無限の精力でペニスを固くしたまま、女性に襲いかかり始めた。[pcms]
+The man who failed his second ejaculation began attacking the woman[r]
+again with an endlessly hard penis.[pcms]
 
 *236|
 [fc]
-その、いきり勃ったものは少しの衰えも見せずに、[r]
-呼吸をするようにヒクついている。[pcms]
+That erect thing showed no sign of weakening and twitched as if[r]
+breathing.[pcms]
 
 *237|
 [fc]
 [vo_mob s="camera0058"]
-[ns]カメラを持った女[nse]
-「むごぅぇっ！　げぼぐぁっ！　ぐえええええっ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Mugoueh! Gebugah! Gueeeeeh..."[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：追加SE
 
 *238|
 [fc]
-もう、胃液しか出てこない嘔吐に震えている女性にかまわず、[r]
-中年の感染者は三度、力強い挿入で犯し始めた。[pcms]
+Ignoring the woman trembling from vomiting nothing but stomach acid,[r]
+the middle-aged infected person began violating her for the third time[r]
+with strong thrusts.[pcms]
 
 *239|
 [fc]
 [vo_mob s="camera0059"]
-[ns]カメラを持った女[nse]
-「がぐぶうっ……お願い……許して……んげぇぐがぁぁっ……、[r]
-　このままじゃ……ぶごぉっ……死んじゃう……ぶげぇおっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Gagubuh... please... forgive me... ngeegahaaah..., if this[r]
+continues... bugooh... I'll die... buegooh!"[pcms]
 
 *240|
 [fc]
-精液と吐瀉物で汚れた女性が、哀願の声を上げた。[pcms]
+The woman, soiled with semen and vomit, raised a voice of pleading.[pcms]
 
 *241|
 [fc]
-しかし、その声は……陵辱者たちの性欲を[r]
-かき立てることすらなく、ただ廊下へとむなしく消えていく。[pcms]
+However, her voice... did not even stir the lust of her violators, and[r]
+just vanished emptily into the hallway.[pcms]
 
 *242|
 [fc]
-[ns]感染者Ａ[nse]
-「んお゛お゛お……なか゛だし゛ぃっ……！」[pcms]
+[ns]Infected Person A[nse]
+"Nguh... I came inside...!"[pcms]
 
 *243|
 [fc]
 [vo_mob s="camera0060"]
-[ns]カメラを持った女[nse]
-「あ゛あああああっ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Aaaaaahhh...!"[pcms]
 
 *244|
 [fc]
-あまりの摩擦と、準備ができていない身体のせいで、[r]
-女性の陰唇は赤く腫れ上がっていた。[pcms]
+Due to the excessive friction and her unprepared body, the woman's[r]
+labia were swollen red.[pcms]
 
 *245|
 [fc]
-レイプとすら呼べない、ただの暴力を受け続けて、[r]
-女性の身体と心が摩耗しきっている。[pcms]
+It was not even rape anymore, just continuous violence wearing down[r]
+the woman's body and spirit.[pcms]
 
 [evcg storage="mob_H001i"][trans_c cross time=300]
 
@@ -1749,54 +1720,53 @@
 
 *246|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛……お゛れのは゛んた゛～っ！」[pcms]
+[ns]Infected D[nse]
+"Ooh... my turn~!"[pcms]
 
 *247|
 [fc]
-別の感染者が、先ほどの感染者と同じように、[r]
-女性の口にペニスをねじ込んでいく。[pcms]
+Another infected person, just like the previous one, began to force[r]
+his penis into the woman's mouth.[pcms]
 
 *248|
 [fc]
 [vo_mob s="camera0061"]
-[ns]カメラを持った女[nse]
-「んがぁぐうっ……ぐぶうぅっづっ……げふぐぅっ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Nguhguh... gubuuh... gefuguh..."[pcms]
 
 *249|
 [fc]
-そして、特別な刺激を得るように、喉元を目がけて[r]
-犯し始めていた。[pcms]
+And then, as if seeking a special thrill, he began to violate her[r]
+throat.[pcms]
 
 *250|
 [fc]
 [vo_mob s="camera0062"]
-[ns]カメラを持った女[nse]
-「んぐおぉぶぉっ、がぐえぁぇっ、ごぉぶごぉぅぅえっ！[r]
-　ぐがあぇぇっ！　むぶぅぉぉっ！　がぶうぁぁぇっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Nguhoboh, gaguah, gobugouuh! Gagaaeh! Mubuuh! Gabuahah!"[pcms]
 
 *251|
 [fc]
-終わらない饗宴。[pcms]
+The never-ending feast.[pcms]
 
 *252|
 [fc]
-[ns]感染者Ａ[nse]
-「なか゛た゛した゛ぁ～！　こ゛ども、は゛らめ゛～ぇっ！」[pcms]
+[ns]Infected Person A[nse]
+"I came inside~! Make babies, fill the womb~!"[pcms]
 
 *253|
 [fc]
-繰り返される陵辱。[pcms]
+The repeated violation.[pcms]
 
 *254|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛んなた゛～～っ！　き゛もち゛いい～～！」[pcms]
+[ns]Infected D[nse]
+"Woman~! Feels so good~~!"[pcms]
 
 *255|
 [fc]
-そんな永遠の陵辱の果て……、[r]
-いつしか、オモチャにされていた女性に変化が現れていた。[pcms]
+At the end of this eternal violation... a change appeared in the woman[r]
+who had been treated like a toy.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -1804,54 +1774,51 @@
 
 *256|
 [fc]
-嫌悪と苦痛と悲鳴が占めていた女性の心に、[r]
-なにか温かいものが満ち始める。[pcms]
+In the woman's heart, once filled with disgust, pain, and screams,[r]
+something warm began to well up.[pcms]
 
 ;//[evcg storage="mob_H001l"][trans_c cross time=300]
 
 *257|
 [fc]
 [vo_mob s="camera0063"]
-[ns]カメラを持った女[nse]
-「げぐう゛ぇっ……ぶぐう゛うっ……ん゛がく゛ううっ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Geguve... buguvu... ngaguu..."[pcms]
 
 *258|
 [fc]
-それは女性自身にも説明の付かない現象だった。[pcms]
+It was a phenomenon she herself could not explain.[pcms]
 
 *259|
 [fc]
-あれほど自分を苦しめていた苦痛が、どこかに遠ざかっていく。[pcms]
+The pain that had tormented her so much was now drifting away.[pcms]
 
 *260|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛お゛おっ……え゛えそ゛お゛おおっ！[r]
-　やっと゛……そのき゛に……なって゛き゛たぁ！」[pcms]
+[ns]Infected Person A[nse]
+"Oooh... yes, that's it! You're finally getting into it!"[pcms]
 
 *261|
 [fc]
-吐き気を催す感染者の声も気にならない。[r]
-熱に浮かされているように、ふわふわと視界が揺れた。[pcms]
+The voice of the nauseating infected person no longer bothered her.[r]
+Her vision swayed as if feverish.[pcms]
 
 *262|
 [fc]
-全てが遠く儚くなっていく。[pcms]
+All was becoming distant and fleeting.[pcms]
 
 *263|
 [fc]
-[ns]感染者Ｄ[nse]
-「ち゛んほ゛……う゛まいか゛ぁ～……、[r]
-　い゛く゛らでも……た゛へ゛させ゛て……や゛る゛ぅぅ～」[pcms]
+[ns]Infected Person D[nse]
+"Dick... tastes so good~... I'll keep going... until I'm satisfied~"[pcms]
 
 *264|
 [fc]
-そして……。[pcms]
+And then...[pcms]
 
 *265|
 [fc]
-哲子という名の女性ジャーナリストは、[r]
-この世界から、その姿を消してしまった。[pcms]
+The woman journalist named Tetsuko vanished from this world.[pcms]
 
 ;//◆ここから感染者になります（目が赤い？）
 ;//めも：赤目差分が1枚なのでラストまでアヘ顔でひっぱります
@@ -1860,42 +1827,40 @@
 *266|
 [fc]
 [vo_mob s="camera0064"]
-[ns]カメラを持った女[nse]
-「あは……あはは……ぶぁっ、はっはっはぁぁぁっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Aha... ahaha... buah, hahhahhaaa!"[pcms]
 
 *267|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛お゛お……いいそ゛……もっと゛……、[r]
-　しゃふ゛れ゛ぇ……」[pcms]
+[ns]Infected D[nse]
+"Oooh... that's good... more... suck it..."[pcms]
 
 *268|
 [fc]
 [vo_mob s="camera0065"]
-[ns]カメラを持った女[nse]
-「んち゛ゅ……ん゛っ……え゛むっ……んっるっ……、[r]
-　ぶじゅじゅっ……ぬ゛るじゅっ……ん゛ぢゅうっ……、[r]
-　んぐっ……ぶむぅっ……んろ゛ろぉぉ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Nchu... nh... emm... nhr... bujuju... nuruju... njyuu... nah...[r]
+bumuu... nrororoo..."[pcms]
 
 *269|
 [fc]
-先ほどまであれほど嫌がっていた女性が、[r]
-積極的に男の物に舌を這わせ始めていた。[pcms]
+The woman who had been so reluctant until now began eagerly licking[r]
+the man's thing with her tongue.[pcms]
 
 *270|
 [fc]
-むしろ喜んでいるようにさえ見える。[pcms]
+She even seemed to be enjoying it.[pcms]
 
 *271|
 [fc]
-[ns]感染者Ａ[nse]
-「く゛おお゛お゛おお……し゛めつ゛ける゛ぅう……」[pcms]
+[ns]Infected Person A[nse]
+"Guoooh... I'm gonna cum..."[pcms]
 
 *272|
 [fc]
-膣奥をペニスで殴って、筋肉のケイレンが起こす締め付けを[r]
-愉しんでいた感染者も、背筋を反り返らせて[r]
-喜びの声を上げていた。[pcms]
+The infected person enjoying the tightening spasms caused by hitting[r]
+her vaginal walls with his penis arched his back and let out a cry of[r]
+joy.[pcms]
 
 [evcg storage="mob_H001i"][trans_c cross time=300]
 [se buf=0 storage="se_sex03" loop=true]
@@ -1903,103 +1868,98 @@
 
 *273|
 [fc]
-[ns]感染者Ｄ[nse]
-「ほ゛れ……も゛っと……く゛わえ゛ろぉ……！」[pcms]
+[ns]Infected D[nse]
+"Here... bite down harder...!"[pcms]
 
 *274|
 [fc]
 [vo_mob s="camera0066"]
-[ns]カメラを持った女[nse]
-「むちゅうっ……じゅぼぼっ……んるぅっ……ぢゅぽっ……、[r]
-　んん゛っ……く゛むぅっ……んっるっ……ん゛ぢゅうっ……、[r]
-　む゛るじゅっ……んふ゛ぢゅうっ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Munchuu... jubobo... nruu... jupo... nhn... gumuu... nhr... njyuu...[r]
+muruju... nfbjuu..."[pcms]
 
 *275|
 [fc]
-[ns]感染者Ａ[nse]
-「こ゛……こ゛れは……た゛ま゛らん……」[pcms]
+[ns]Infected Person A[nse]
+"This is... unbearable..."[pcms]
 
 *276|
 [fc]
-必死に腰を振っている感染者が、恍惚の声を上げる。[r]
-先ほど女性を蹂躙していたときよりも、気持ちが良さそうだ。[pcms]
+The infected person frantically thrusting let out an ecstatic voice.[r]
+It seemed to feel even better than when he was trampling over the[r]
+woman earlier.[pcms]
 
 *277|
 [fc]
 [vo_mob s="camera0067"]
-[ns]カメラを持った女[nse]
-「んぶぅぅ！　チンコいっぱあぁぁぁい！[r]
-　あっぶぅぅぅ、んじゅっ、んぶじゅっ、もっとぉぉぉっ！[r]
-　んひぃぃっ、あひぃぃあぁぁっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Nbuu! So many dicks! Ahbuu, njut, nbuju, moreee! Nhihi, ahihihaaah!"[pcms]
 
 *278|
 [fc]
-女性は明らかに人間ではないなにかに、変化していた。[r]
-まるで、周囲に群がる男達と同じような存在に……。[pcms]
+The woman had clearly transformed into something no longer human. She[r]
+had become something like the men swarming around her...[pcms]
 
 *279|
 [fc]
-そして、その身体は人間として生きていたときよりも、[r]
-具合が良くなるものなのか……男たちが喜びの声を上げていく。[pcms]
+And then, her body seemed to be in better condition than when she was[r]
+living as a human as the men raised their voices in delight.[pcms]
 
 *280|
 [fc]
-それがこの女性だけに見られる特徴なのか、[r]
-誰にでも現れるものなのか、断言はできない。[pcms]
+Whether this characteristic was unique to this woman or something that[r]
+appears in anyone could not be asserted.[pcms]
 
 *281|
 [fc]
-しかし……男として死ぬなら、女性ばかりの感染者の群れ……、[r]
-女子校や女性専用車両に乗り込んで死ぬのも、[r]
-悪くないことのように錯覚させられた。[pcms]
+However... as a man, if I were to die, the illusion that it wouldn't[r]
+be so bad to die amidst a horde of female infected... like storming[r]
+into a girls' school or a women-only train car, was induced.[pcms]
 
 *282|
 [fc]
 [vo_mob s="camera0068"]
-[ns]カメラを持った女[nse]
-「んぁああぁぁぁぁああっ！　おチンコだぁいすきいいいいっ！[r]
-　ほじほじぃぃぃぁぁっ、ほじってぇぇぇっ！　んあああっ！[r]
-　えぐってぇぇっ、ほしぃぃのぉぉぉぉっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Aaaaah! I love dick so much! Digging, digging ahhh, dig it more![r]
+Aaaah! Scoop it out, I want it sooo much!"[pcms]
 
 *283|
 [fc]
-[ns]感染者Ｄ[nse]
-「う゛お゛おお……て゛るそ゛ぉ……！」[pcms]
+[ns]Infected D[nse]
+"Guoooh... I'm gonna cum..."[pcms]
 
 *284|
 [fc]
-[ns]感染者Ａ[nse]
-「な゛かた゛し……は゛ら、は゛ん゛んに……、[r]
-　して゛やる゛ぅぅぅっ！！」[pcms]
+[ns]Infected Person A[nse]
+"Inside... I'm gonna fill you up... with cum!"[pcms]
 
 *285|
 [fc]
 [vo_mob s="camera0069"]
-[ns]カメラを持った女[nse]
-「ほしいのぉぉおおぉっ、せーえき、いっぱいかけてぇぇぇぇっ！[r]
-　あつぅいの、いっぱぁぁぁぃっ！　ぐちょぐちょにしてぇぇっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"I want it sooo much, cover me with lots of semen! Hot, so much of it![r]
+Make me all sloppy!"[pcms]
 
 *286|
 [fc]
-二人の感染者の動きが激しくなっていく。[pcms]
+The movements of the two infected became more intense.[pcms]
 
 *287|
 [fc]
-そこだけ別の生き物になったように腰を動かして、[r]
-汚い尻を振っていく。[pcms]
+They moved their hips as if they had become different creatures,[r]
+shaking their dirty asses.[pcms]
 
 *288|
 [fc]
-そして、女性もその絶頂をサポートするように、[r]
-口と身体を動かしていた。[pcms]
+And the woman, as if to support their climax, moved her mouth and[r]
+body.[pcms]
 
 *289|
 [fc]
 [vo_mob s="camera0070"]
-[ns]カメラを持った女[nse]
-「ん゛じゅっ……ん゛ぶうっ……じゅぼぼぼおっ……、[r]
-　ぶち゛ゅっ……ん゛ぶっ……え゛むっ……んっるっ……、[r]
-　ぐじゅじゅっ……ん゛るじゅっ……ち゛ゅうっ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Njuu... nboo... jubobobo... buchuu... nboo... emu... nruu...[r]
+gujuju... nruju... chuu..."[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -2008,13 +1968,13 @@
 
 *290|
 [fc]
-[ns]感染者Ｄ[nse]
-「く゛うう……ふふ゛う……う゛ううっ！」[pcms]
+[ns]Infected D[nse]
+"Guuuh... fufuu... uuuuh!"[pcms]
 
 *291|
 [fc]
-[ns]感染者Ａ[nse]
-「て゛る゛うううう……！」[pcms]
+[ns]Infected Person A[nse]
+"I'm cumming...!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：追加分
@@ -2033,40 +1993,41 @@
 
 *292|
 [fc]
-感染者二人が同時に絶頂の声を上げると、[r]
-女性は喉奥と膣に大量の精を受け止め、目を爛々と輝かせた。[pcms]
+As the two infected reached climax simultaneously, the woman took in a[r]
+large amount of semen in her throat and vagina, her eyes shining[r]
+brightly.[pcms]
 
 *293|
 [fc]
-性欲を限界まで引き上げられた人間が、[r]
-目の前に餌をぶら下げられているかのように。[pcms]
+Humans whose sexual desire had been raised to the limit, as if bait[r]
+was dangling in front of them.[pcms]
 
 [evcg storage="mob_H001m"][trans_c cross time=1000]
 
 *294|
 [fc]
 [vo_mob s="camera0071"]
-[ns]カメラを持った女[nse]
-「あはは……うふふふ……ひははははははははっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Ahaha... ufufufu... hihahahahahaha!"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *295|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「離せこのっ！　哲子っ！　大丈夫かっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Let go of me! Tetsuko! Are you okay?!"[pcms]
 
 *296|
 [fc]
 [vo_mob s="camera0072"]
-[ns]カメラを持った女[nse]
-「あはっ……こんなところにいたぁ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Ahah... you were here..."[pcms]
 
 *297|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「なっ……哲子！？　んぐううっ」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"What... Tetsuko!? Nguuuh"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -2083,32 +2044,32 @@
 *298|
 [fc]
 [vo_mob s="camera0073"]
-[ns]カメラを持った女[nse]
-「うふふふふ……かんじさせてね……」[pcms]
+[ns]Woman with a Camera[nse]
+"Ufufufu... let me feel it..."[pcms]
 
 *299|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「んむうううううううううううっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Nmuuuuuuuuuuuuuuuuh!"[pcms]
 
 *300|
 [fc]
-散々感染者に中だしされて、[r]
-腫れ上がった陰唇を男の顔に擦りつける。[pcms]
+After being cum inside by numerous infected, she rubbed her swollen[r]
+labia against the man's face.[pcms]
 
 *301|
 [fc]
-顔面騎乗位の格好で、口から鼻から刺激を得ようとするように、[r]
-膣を男の顔面の上で滑らせていた。[pcms]
+In a face-sitting position, she seemed to seek stimulation from mouth[r]
+to nose, sliding her vagina over the man's face.[pcms]
 
 *302|
 [fc]
-当然、感染者の体液が男の身体に付着する。[pcms]
+Naturally, the infected's bodily fluids adhered to the man's body.[pcms]
 
 *303|
 [fc]
-悲鳴のような声を上げながら、男はこの場を逃れようと、[r]
-かつての仲間を押し退けようとした。[pcms]
+While screaming like a banshee, the man tried to escape the scene,[r]
+pushing away his former comrades.[pcms]
 
 ;//se_sex02.ogg(LOOP)
 [se buf=1 storage="se_sex02" loop=true]
@@ -2119,40 +2080,39 @@
 *304|
 [fc]
 [vo_mob s="raira0001"]
-[ns]金髪の感染者[nse]
-「たのしいこと……しようよぉ……おちんぽと……、[r]
-　おまんこを……こすりあわせて……びくびくしよぉ……」[pcms]
+[ns]Blonde Infected[nse]
+"Let's do something fun... rubbing dicks and pussies together...[r]
+twitching together..."[pcms]
 
 *305|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「んぐおおおおおおおおっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Nguooooooooh!"[pcms]
 
 *306|
 [fc]
-巨乳とも言える金髪の美少女が、人権保護団体の男を組み伏せ、[r]
-その服をはぎ取っていく。[pcms]
+The busty blonde beauty pinned down the human rights activist man and[r]
+began tearing off his clothes.[pcms]
 
 *307|
 [fc]
-辺りにいる感染者は男ばかりだが、[r]
-女性も少なからず存在していた。[pcms]
+Although most of the infected around were men, there were also a few[r]
+women present.[pcms]
 
 *308|
 [fc]
-そんな女性たちが、この男の周りに群がって、[r]
-その身体を拘束していく。[pcms]
+Such women flocked around this man, restraining his body.[pcms]
 
 *309|
 [fc]
-なんでもない平和な日常なら、こんな北欧系の美少女に[r]
-迫られるのも悪くないが、今は非常事態である。[pcms]
+If it were an ordinary peaceful day, being approached by such a Nordic[r]
+beauty wouldn't be so bad, but now it was an emergency situation.[pcms]
 
 *310|
 [fc]
-美しいストレートの金髪に、幼さの残る整った顔立ち。[r]
-入院着が、はちき切れそうな巨乳でさえも、[r]
-ただ不気味なだけだ。[pcms]
+The beautiful straight blonde hair and the youthful yet well-arranged[r]
+features. Even the hospital gown that seemed about to burst from her[r]
+huge breasts was just creepy.[pcms]
 
 [move layer=0 path="(0,0,255)" time=500][wm]
 [eval exp="f.msk_x = 0, f.msk_y = 0"]
@@ -2160,33 +2120,31 @@
 *311|
 [fc]
 [vo_mob s="camera0074"]
-[ns]カメラを持った女[nse]
-「あはん……あばれちゃだめぇ……わたしを……、[r]
-　もっとめちゃくちゃに……んふうっ……、[r]
-　なめまわしてぇ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Ahan... don't struggle... make me even more of a mess... nfuuh...[r]
+lick me all over..."[pcms]
 
 *312|
 [fc]
-女性は更にきつく、怪力と言ってもいい力で、[r]
-男の顔面を股間で圧迫する。[pcms]
+The woman pressed even harder against the man's face with her crotch,[r]
+with what could be called monstrous strength.[pcms]
 
 *313|
 [fc]
 [vo_mob s="raira0002"]
-[ns]金髪の感染者[nse]
-「あはぁ……おおきくなってきたぁ……おちんぽ……、[r]
-　せーえきだしたがってるぅ……わたしに……、[r]
-　いっぱぁい……ちょうだぁぃ……」[pcms]
+[ns]Blonde Infected[nse]
+"Ahah... it's getting bigger... your dick wants to release semen...[r]
+give me lots... I want it..."[pcms]
 
 *314|
 [fc]
-男の服をはぎ取っていた感染者の少女が、[r]
-嬉しそうな声を上げた。[pcms]
+The infected girl who had been stripping the man's clothes let out a[r]
+happy voice.[pcms]
 
 *315|
 [fc]
-そう、男は確かに勃起している。[r]
-本人の自覚や意思とは無関係に……。[pcms]
+Indeed, the man was definitely erect. Regardless of his own awareness[r]
+or will...[pcms]
 
 [move layer=0 path="(-275,0,255)" time=500][wm]
 [eval exp="f.msk_x = -275, f.msk_y = 0"]
@@ -2194,31 +2152,29 @@
 *316|
 [fc]
 [vo_mob s="raira0003"]
-[ns]金髪の感染者[nse]
-「しても……いいよね？　あなたも……したいでしょぉ……？[r]
-　こんなにおおきく……んふあぁ……がまん……、[r]
-　ふぅぁ……できないよぉ……」[pcms]
+[ns]Blonde Infected[nse]
+"It's okay to do it, right? You want to as well, don't you? It's so[r]
+big... nfuahh... you can't hold back..."[pcms]
 
 *317|
 [fc]
-まだ鎮静剤の効果が残っているのか、[r]
-しおらしいその口調とは裏腹に、[r]
-行動は一気に行われる。[pcms]
+Perhaps still under the effect of sedatives, despite her demure tone[r]
+of voice, her actions were swift.[pcms]
 
 *318|
 [fc]
-あどけない股間の割れ目を自分でまさぐると、[r]
-黒く太い男のペニスにあてがっていった。[pcms]
+She fondled her own innocent crotch and then aligned it with the black[r]
+and thick penis of the man.[pcms]
 
 *319|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「んぐううううううううううっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Nguuuuuuuuuuuuuuuuh!"[pcms]
 
 *320|
 [fc]
-やわらかいゴムのような割れ目が、[r]
-男のペニスの大きさだけ広がって飲み込んでいく。[pcms]
+The soft rubber-like slit expanded just enough to swallow the size of[r]
+the man's penis.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -2239,101 +2195,102 @@
 *321|
 [fc]
 [vo_mob s="raira0004"]
-[ns]金髪の感染者[nse]
-「んんうあはぁっ……きもちいいよぉ……、[r]
-　とろけちゃぁぁっぅぅっ……おかし……ひぃっ……、[r]
-　おかしくなっちゃれぅ……」[pcms]
+[ns]Blonde Infected[nse]
+"Nnnuahh... it feels good... I'm melting away... ahh... it's crazy...[r]
+hii... I'm going crazy..."[pcms]
 
 *322|
 [fc]
-男の物がきつくやわらかい、[r]
-特徴的ななにかに包み込まれていた。[pcms]
+The man's member was tightly enveloped by something soft and[r]
+distinctive.[pcms]
 
 *323|
 [fc]
-童貞ではない男が、その感触の意味を知るのは[r]
-簡単なことだ。[pcms]
+It was easy for the man, who was not a virgin, to understand the[r]
+meaning of this sensation.[pcms]
 
 *324|
 [fc]
-つまり……自分は、感染者と性的な接触をしてしまったのだと。[pcms]
+In other words... he had engaged in sexual contact with an infected[r]
+person.[pcms]
 
 *325|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「んごおおおおおおおおっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Nguuuuuuuuuuuuuuuuh!"[pcms]
 
 *326|
 [fc]
 [vo_mob s="raira0005"]
-[ns]金髪の感染者[nse]
-「いやがってたのにぃ……ほんと……おとこってぶたみたい……、[r]
-　からだばっかり……あぁっぁふぁ……おおきくて……、[r]
-　くふぁっ……だいすきぃぃなのぉぉぉぉっ」[pcms]
+[ns]Blonde Infected[nse]
+"Even though you were resisting... men really are like pigs... always[r]
+thinking with their bodies... ahh... it's so big... kufahh... I love[r]
+it so much..."[pcms]
 
 *327|
 [fc]
-ペニスを股間に迎え入れた感染者は、男が経験したことが[r]
-ないほどの締め付けで、快感をぶつけてきた。[pcms]
+The infected girl who had welcomed the penis into her crotch was[r]
+delivering pleasure with a tightness the man had never experienced[r]
+before.[pcms]
 
 *328|
 [fc]
-男と密着したいのか、自分のお尻を男の腰の上にのせて、[r]
-ぐいぐいと押し込んでいる。[pcms]
+Wanting to be close to the man, she placed her butt on top of his hips[r]
+and pushed down forcefully.[pcms]
 
 *329|
 [fc]
 [vo_mob s="camera0075"]
-[ns]カメラを持った女[nse]
-「もっとすってぇ……おまんこなめてぇ……あふぁふぁふぁ……、[r]
-　わたしのことぉ……すきなんでしょ……もっとぉ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Rub me more... lick my pussy... ahfahfahfa... you like me, don't[r]
+you... more..."[pcms]
 
 *330|
 [fc]
 [vo_mob s="raira0006"]
-[ns]金髪の感染者[nse]
-「きたないちんぽぉ……こっちもぉ……わすれちゃぁ……、[r]
-　いやぁぁん……」[pcms]
+[ns]Blond Infected[nse]
+"Your dirty cock... I'll forget about it too... nooo..."[pcms]
 
 *331|
 [fc]
-金髪の少女が巨乳を揺らしながら、男を罵っていく。[pcms]
+The blonde girl shook her big breasts as she continued to verbally[r]
+abuse the man.[pcms]
 
 *332|
 [fc]
-その顔は恍惚としているが、久しぶりのセックスという以上に、[r]
-元々持っていた性癖が顔を覗かせているのかもしれない。[pcms]
+Her face was ecstatic, but perhaps it was more than just the thrill of[r]
+sex after a long time; her inherent sexual preferences might be[r]
+showing through.[pcms]
 
 *333|
 [fc]
 [vo_mob s="raira0007"]
-[ns]金髪の感染者[nse]
-「ぶたのくせにぃ……おちんちんは……おっきくてぇ……、[r]
-　いやらしいことしかぁ……んふぁぁっ……、[r]
-　かんがえてないんでしょぉぉぉ……」[pcms]
+[ns]Blonde Infected[nse]
+"Even though you're a pig... your dick is so big... and all you think[r]
+about is lewd things... nfhahh... you can't think of anything else,[r]
+can you..."[pcms]
 
 *334|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「んぐうぅ……どけぇ……どいてくれぇ……」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Nguuh... move... get off me..."[pcms]
 
 *335|
 [fc]
 [vo_mob s="camera0076"]
-[ns]カメラを持った女[nse]
-「あうん……やすんじゃ……だめぇ……、[r]
-　こんなのじゃぁ……まんぞく……、[r]
-　んふぅっ……できなぁいぃ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Auhn... don't stop now... it's not enough... I can't be satisfied[r]
+like this... nfuuh..."[pcms]
 
 *336|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「ぐううっ……」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Guuuh..."[pcms]
 
 *337|
 [fc]
-女性は男に自分の匂いを染みこませるように、[r]
-執拗な動きで股間を擦りつけている。[pcms]
+The woman was rubbing her crotch against the man as if to imprint her[r]
+scent on him, with persistent movements.[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
@@ -2341,130 +2298,125 @@
 *338|
 [fc]
 [vo_mob s="raira0008"]
-[ns]金髪の感染者[nse]
-「おぉちんちぃん……おとこのおちぃんちん……、[r]
-　あああっ……もっとぉ、いっぱいほしいよぉ……、[r]
-　うしろにもぉ……いっぱぁぃ……」[pcms]
+[ns]Blonde Infected[nse]
+"Your cock... a man's cock... ahhh... I want more, so much more... in[r]
+the back too... so much more..."[pcms]
 
 *339|
 [fc]
-感染者の少女は、騎乗位でまたがったまま、[r]
-腰の動きだけでピストンを繰り返していた。[pcms]
+The infected girl, straddling in the cowgirl position, kept repeating[r]
+the piston movement with just her hips.[pcms]
 
 *340|
 [fc]
-出入りする幅は少ないが、身体の奥の奥を[r]
-男の物で引っ掻くようなセックスだ。[pcms]
+The range of motion was small, but it was sex that seemed to scratch[r]
+deep inside the body with the man's member.[pcms]
 
 *341|
 [fc]
 [vo_mob s="raira0009"]
-[ns]金髪の感染者[nse]
-「きたなぁいぶたのぉ……おちんちん……、[r]
-　しぼりとってぇ……あげるからぁ……、[r]
-　きいろいせーえきぃ……びゅびゅってぇ……」[pcms]
+[ns]Blonde Infected[nse]
+"You dirty pig's dick... I'll squeeze it out for you... so you can[r]
+shoot your yellow semen..."[pcms]
 
 *342|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「んぐううっ……くうううっ……」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Nguuuuuh... kuuuuuh..."[pcms]
 
 *343|
 [fc]
-男の声は、もはや涙声になっていた。[pcms]
+The man's voice had become tearful.[pcms]
 
 *344|
 [fc]
-こんな状況だというのに、自分はあり得ないほど[r]
-感じてしまっている。[pcms]
+Despite the situation, he was feeling an impossible amount of[r]
+pleasure.[pcms]
 
 *345|
 [fc]
-普段のセックスの数倍……いや、比べることもできないほどに、[r]
-心の奥から昂ぶったものが沸き上がるのを感じていた。[pcms]
+The arousal bubbling up from deep within his heart was several times[r]
+more intense than that of normal sex, incomparable even.[pcms]
 
 *346|
 [fc]
 [vo_mob s="camera0077"]
-[ns]カメラを持った女[nse]
-「あん……ああん……いっちゃうのぉ……、[r]
-　わたしぃ……おかしいのぉ……、[r]
-　かんじてぇ……くるっちゃぅぅうっ！」[pcms]
+[ns]Woman with a Camera[nse]
+"Ahn... aahn... I'm going to cum... I'm going crazy... feeling it...[r]
+I'm going to lose my mind!"[pcms]
 
 *347|
 [fc]
-男の顔に勝手に股間を擦りつけていた女性が、[r]
-身体を震わせ始めていた。[pcms]
+The woman who had been rubbing her crotch against the man's face on[r]
+her own began to tremble.[pcms]
 
 *348|
 [fc]
-先ほどから、ずっと身体を重ねていた女性だったが、[r]
-イクのは初めてかもしれない。[pcms]
+She had been on top of him for a while, but this might be her first[r]
+time cumming.[pcms]
 
 *349|
 [fc]
 [vo_mob s="raira0010"]
-[ns]金髪の感染者[nse]
-「あぁあん……ずるいぃ……わたしもぉ……んはぁっ……、[r]
-　いかせてぇ……いっぱぁい……しきゅうにぃ……、[r]
-　だしてぇ……いっぱぁぃ……」[pcms]
+[ns]Blonde Infected[nse]
+"Aaahn... it's not fair... I want to cum too... nhahh... let me cum a[r]
+lot inside my womb... give me so much..."[pcms]
 
 *350|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「ふぐぅ……ううううっ……」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Fuguu... uuuuuuh..."[pcms]
 
 *351|
 [fc]
-男は必死に射精を堪えながら嗚咽を上げていた。[pcms]
+The man was sobbing desperately trying to hold back his ejaculation.[pcms]
 
 *352|
 [fc]
-なまじ意識がある分、酷い拷問を受けているようなものだ。[pcms]
+Being conscious made it feel like he was undergoing terrible torture.[pcms]
 
 *353|
 [fc]
-普通のセックスに数倍する快感を堪えながら、[r]
-おぞましいウイルスに身体をむしばまれていく……。[pcms]
+While enduring pleasure several times greater than normal sex, his[r]
+body was being ravaged by a hideous virus...[pcms]
 
 *354|
 [fc]
-身も心も徹底的に陵辱される、[r]
-最悪のセックスだった。[pcms]
+It was the worst kind of sex, thoroughly humiliating both body and[r]
+soul.[pcms]
 
 *355|
 [fc]
 [vo_mob s="camera0078"]
-[ns]カメラを持った女[nse]
-「おねがぁい……ぺろぺろしてぇ……いっちゃうのぉ……、[r]
-　あいしてるでしょぉ……わたしのことぉ……、[r]
-　おかしたいでしょぉ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Please... lick me more... I'm going to cum... you love me, right? You[r]
+want to mess me up..."[pcms]
 
 *356|
 [fc]
 [vo_mob s="raira0011"]
-[ns]金髪の感染者[nse]
-「びくびくしてるぅ……いきそうになってるぅ……、[r]
-　んふぁっ……わたしもぉ……だめになりそぉ……」[pcms]
+[ns]Blonde Infected[nse]
+"Twitching so much... looks like you're about to cum too... nfhahh...[r]
+I'm also going to break..."[pcms]
 
 *357|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「ふむぅっ、んんううっ、んぐううううっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Fumuhh, nnnuuhh, nguuuuuuuh!"[pcms]
 
 *358|
 [fc]
 [vo_mob s="camera0079"]
-[ns]カメラを持った女[nse]
-「ああん……ひううっ……いくううっ……いぐううぅ……、[r]
-　あふぅぁ……はぁあぁっ……くひいぃっ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Aaahn... hiuuhh... I'm cummingggg... I'm cummingggg... afuahh...[r]
+haaahhhhh... kuhiiiihh..."[pcms]
 
 *359|
 [fc]
 [vo_mob s="raira0012"]
-[ns]金髪の感染者[nse]
-「あっ……わたしも……ああああっ……くううううっ！[r]
-　が、がまん……くああああっ……むりぃぃぃぃっ！」[pcms]
+[ns]Blonde Infected[nse]
+"Ah... I'm also going to cummmmmmmmmmm! Gah, I can't hold back[r]
+anymoreeeeeee!"[pcms]
 
 ;//#_射精フラッシュ
 ;[射精フラA]
@@ -2480,116 +2432,110 @@
 
 *360|
 [fc]
-男は誘惑に打ち勝つことができずに、[r]
-金髪の少女の中に大量の精液を噴き上げていた。[pcms]
+The man could not resist the temptation and ejaculated a large amount[r]
+of semen inside the blonde girl.[pcms]
 
 *361|
 [fc]
-この世のものとも思えない快楽……、[r]
-命と引き換えにした最高の味……。[pcms]
+Pleasure beyond this world... the greatest taste in exchange for one's[r]
+life...[pcms]
 
 *362|
 [fc]
-男は嗚咽を上げながら、それでも助かりたいと願っていた。[pcms]
+The man sobbed, yet he still wished to be saved.[pcms]
 
 *363|
 [fc]
-神にでもなんにでも、すがりたいと……。[pcms]
+He wanted to cling to anything, even God...[pcms]
 
 *364|
 [fc]
 [vo_mob s="camera0080"]
-[ns]カメラを持った女[nse]
-「まだまだ……ぜんぜんたりないわぁ……、[r]
-　さっきのひとはぁ……もっとしてくれたよぉ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Not enough... not nearly enough... the guy before... did it more..."[pcms]
 
 *365|
 [fc]
 [vo_mob s="raira0013"]
-[ns]金髪の感染者[nse]
-「もっと……せーえき……いっぱいちょうだい……、[r]
-　おなかいっぱぁい……はちきれるくらぁい……」[pcms]
+[ns]Blonde Infected[nse]
+"More... give me more semen... fill my belly... until it bursts..."[pcms]
 
 *366|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「ふぐぅ……」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Fuguu..."[pcms]
 
 *367|
 [fc]
-男の泣き声が全く耳に入らない様子の二人は、[r]
-すぐに続きを始めに掛かる。[pcms]
+The two, oblivious to the man's cries, quickly began to continue.[pcms]
 
 *368|
 [fc]
-男のペニスも逞しくそそり立つばかりで、[r]
-一向に衰える気配を見せない。[pcms]
+The man's penis stood firm and showed no sign of weakening.[pcms]
 
 *369|
 [fc]
-たった今出したばかりだというのに、[r]
-むしろ勢いが増したようにすら感じる。[pcms]
+Despite having just ejaculated, it felt as if it had grown even more[r]
+vigorous.[pcms]
 
 *370|
 [fc]
 [vo_mob s="camera0081"]
-[ns]カメラを持った女[nse]
-「ああん……もっと……かんで……めちゃくちゃにしてぇ……、[r]
-　ちぎってぇ……くちゃくちゃしてぇ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Aaahn... more... chew me up... make a mess of me... tear me apart...[r]
+mush me up..."[pcms]
 
 *371|
 [fc]
 [vo_mob s="raira0014"]
-[ns]金髪の感染者[nse]
-「おくのほうを……ぐりぐりしてぇ……んふぅっ……、[r]
-　つきやぶってほしいのぉ……かたぁい……、[r]
-　おちんちんでぇ……ぐりぐりぃ……」[pcms]
+[ns]Blonde Infected[nse]
+"Grind the back more... nfuuhh... I want you to tear through it...[r]
+with your hard... cock..."[pcms]
 
 *372|
 [fc]
-男にまたがった二人の女性は、相手のことなどお構いなしに、[r]
-自分の欲求を満たすためだけの動きを再開していた。[pcms]
+The two women straddling the man resumed their movements solely to[r]
+satisfy their own desires, without any regard for their partner.[pcms]
 
 *373|
 [fc]
-より強い刺激を求める二人は、更に激しく腰を打ち付ける。[pcms]
+Seeking stronger stimulation, the two thrust their hips even more[r]
+fiercely.[pcms]
 
 *374|
 [fc]
-金髪の少女の膣は、信じられないほどに吸い付き、締め上げて[r]
-男を喜ばせるが、射精は我慢しなければいけない。[pcms]
+The blonde girl's vagina clung and squeezed unbelievably, pleasing the[r]
+man, but he had to resist ejaculating.[pcms]
 
 *375|
 [fc]
-感染者とセックスをしてはいけないという、[r]
-本能が男にそうさせている。[pcms]
+Instinct was telling the man that he must not have sex with an[r]
+infected person.[pcms]
 
 *376|
 [fc]
-しかし、顔にまたがっている女性は、[r]
-もっと直接的な危険を孕んでいた。[pcms]
+However, the woman straddling his face posed a more direct danger.[pcms]
 
 *377|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「んぐっ、ぶぐっ、ぶふうっ、んぐあああっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Nguh, buguh, bufuuh, nguaaah!"[pcms]
 
 *378|
 [fc]
-もの凄い力で腰を落とされているために、[r]
-男は満足に呼吸もさせてもらえない。[pcms]
+Because of the tremendous force with which she dropped her hips, the[r]
+man could hardly breathe.[pcms]
 
 *379|
 [fc]
-体の震えが止まらず、唇が青くなって、[r]
-チアノーゼの反応が出始めていた。[pcms]
+His body wouldn't stop trembling, his lips turned blue, showing signs[r]
+of cyanosis.[pcms]
 
 *380|
 [fc]
 [vo_mob s="raira0015"]
-[ns]金髪の感染者[nse]
-「ああん……ぐりぐりぃ……きもちいいのぉ……、[r]
-　かさのぶぶんがぁ……ひっかいてるぅ……」[pcms]
+[ns]Blonde Infected[nse]
+"Aaahn... grind it... feels so good... scratching the inside..."[pcms]
 
 [move layer=0 path="(0,0,255)" time=500][wm]
 [eval exp="f.msk_x = 0, f.msk_y = 0"]
@@ -2597,93 +2543,88 @@
 *381|
 [fc]
 [vo_mob s="camera0082"]
-[ns]カメラを持った女[nse]
-「もっと……かんじさせてぇ……がぶってかみついてぇ……、[r]
-　おかしく……なっちゃうぅ……あたまがぁ……、[r]
-　ん゛ああ゛あぁぁぁっ……」[pcms]
+[ns]Woman with a Camera[nse]
+"More... make me feel it... bite and chew me... I'm going crazy... my[r]
+head is... nghaaahhh!"[pcms]
 
 *382|
 [fc]
-女性の膣内から流れ込んでくる液体が鼻の穴をふさぎ、[r]
-呼吸機能を失わせている。[pcms]
+The fluid flowing from the woman's vagina blocked his nostrils,[r]
+depriving him of his ability to breathe.[pcms]
 
 *383|
 [fc]
-ときおり生じる隙間に、口だけでなんとか息継ぎをし、[r]
-命を長らえている状態だった。[pcms]
+He gasped for air through the occasional gaps, desperately trying to[r]
+prolong his life.[pcms]
 
 *384|
 [fc]
-しかし、意識は遠のかない。[pcms]
+However, his consciousness did not fade.[pcms]
 
 *385|
 [fc]
-ペニスから伝わる圧倒的な快感も、呼吸困難による苦しさも、[r]
-すべてがリアルに感じられた。[pcms]
+The overwhelming pleasure from his penis and the suffocation both felt[r]
+painfully real.[pcms]
 
 *386|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「ぐぼっ……んぐぶっ……」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Guboh... ngubuh..."[pcms]
 
 *387|
 [fc]
 [vo_mob s="raira0016"]
-[ns]金髪の感染者[nse]
-「ぶたのくせにぃ……あぁあんっ……りっぱなのは……、[r]
-　おちんちんだけのくせにぃ……こんなに……、[r]
-　くううわああっ……かんじるなんてぇ……」[pcms]
+[ns]Blonde Infected[nse]
+"You pig... ahhhn... the only thing decent about you is your cock...[r]
+and yet you feel so much... kuuuwaahhh..."[pcms]
 
 *388|
 [fc]
 [vo_mob s="camera0083"]
-[ns]カメラを持った女[nse]
-「ああっ……でちゃうぅ……くううううっ……、[r]
-　でちゃう……あああああっ……、[r]
-　がまんできなぃぃぃ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Aaahh... it's coming out... kuuuuuuhh... it's coming out...[r]
+aaaaaahhh... I can't hold back..."[pcms]
 
 *389|
 [fc]
-女性が、まるで男のような喘ぎ声を上げ始める。[pcms]
+The woman began to moan like a man.[pcms]
 
 *390|
 [fc]
-射精をするわけでもない女性が、出そうだと、[r]
-[ruby text="うわごと"][ch text="譫言"]のように繰り返していた。[pcms]
+A woman who isn't ejaculating keeps repeating that she's about to[r]
+release, like delirium.[pcms]
 
 *391|
 [fc]
-しかし、男は考えることよりも呼吸をしなければならない。[r]
-そうしなければ……死んでしまう。[pcms]
+But the man needed to breathe more than he needed to think.[r]
+Otherwise... he would die.[pcms]
 
 *392|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「ぐはっ……んむううっ……」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Guhaa... nmuuuh..."[pcms]
 
 *393|
 [fc]
 [vo_mob s="raira0017"]
-[ns]金髪の感染者[nse]
-「おちんちんかたぁい……なまいきだよぉ……このぉ……、[r]
-　ん゛んん゛んんっ……ちぎっちゃうぅっ……」[pcms]
+[ns]Blonde Infected[nse]
+"Your cock is so hard... so insolent... I'll tear it off..."[pcms]
 
 *394|
 [fc]
-呼吸を制限されることで固く勃起しているのか、[r]
-ウイルスの症状が出ているのか……。[pcms]
+Whether his erection was due to restricted breathing or a symptom of[r]
+the virus...[pcms]
 
 *395|
 [fc]
-どちらにしても、男には生き地獄に他ならなかった。[pcms]
+Either way, it was nothing less than a living hell for the man.[pcms]
 
 *396|
 [fc]
 [vo_mob s="camera0084"]
-[ns]カメラを持った女[nse]
-「はうっ……うううっ……でるぅぅっ……、[r]
-　ぶびゅってぇっ……でちゃうぅっ……、[r]
-　ぜんぶぅ……ああああっ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Hauu... uuuuhh... it's coming outttt... spurting outttt... it's[r]
+coming outttt... all of itttt... aaaaahhh..."[pcms]
 
 ;//#_白フラ
 [evcg白フラ storage="mob_H002d" layer=0]
@@ -2699,59 +2640,58 @@
 
 *397|
 [fc]
-女性が腰をひくつかせた次の瞬間、[r]
-男の口に生温かい液体が注ぎ込まれていた。[pcms]
+The moment the woman twitched her hips, a lukewarm liquid was poured[r]
+into the man's mouth.[pcms]
 
 *398|
 [fc]
-鼻は利かなくなっているが、それでもわかる。[r]
-人間の尿だ。[pcms]
+His sense of smell was gone, but he could still tell. It was human[r]
+urine.[pcms]
 
 *399|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「ごぼぼぼっ！　ぐぼあっ！　んごっ、ぼぼぼぼっ！」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Gobobobo! Guboah! Ngo, bobobobo!"[pcms]
 
 *400|
 [fc]
-男は必死になって首を振るが、[r]
-女性の両腿でしっかりと押さえられて、身動きが取れない。[pcms]
+The man desperately shook his head, but he was firmly held down by the[r]
+woman's thighs and couldn't move.[pcms]
 
 *401|
 [fc]
-鼻が利かなくなってしまったからには、[r]
-口で呼吸をするしかないのに、そこは今、尿で満たされていた。[pcms]
+Since his nose was no longer working, he had to breathe through his[r]
+mouth, but now it was filled with urine.[pcms]
 
 *402|
 [fc]
 [vo_mob s="camera0085"]
-[ns]カメラを持った女[nse]
-「はあああぁ……きもちいいぃ……」[pcms]
+[ns]Woman with a Camera[nse]
+"Haaaah... it feels so good..."[pcms]
 
 *403|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「んがっ……んぼっ……ご……」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"Ngh... nboh... go..."[pcms]
 
 *404|
 [fc]
-男の身体が[ruby text="けいれん"][ch text="痙攣"]を起こして、[r]
-気味の悪いダンスを踊る。[pcms]
+The man's body convulsed, performing a grotesque dance.[pcms]
 
 *405|
 [fc]
-酸素を求めた身体が、口の中を満たしている尿を吸い込み、[r]
-肺を排泄物でいっぱいにしていた。[pcms]
+The body, craving oxygen, inhaled the urine filling his mouth, filling[r]
+his lungs with waste.[pcms]
 
 *406|
 [fc]
-しかし、後から後から注ぎ込まれる女性の尿は、[r]
-男の処理能力を遙かに上回っている。[pcms]
+However, the woman's urine kept pouring in, far exceeding the man's[r]
+ability to process it.[pcms]
 
 *407|
 [fc]
-[ns]黒い革ジャケットの男Ｂ[nse]
-「…………」[pcms]
+[ns]Man B in Black Leather Jacket[nse]
+"..."[pcms]
 
 ;//■イベントＣＧ　mob_H002 x座標0^341 金髪のベスポジは300
 [evcg storage="mob_H002e" layer=0][trans_c cross time=300]
@@ -2760,28 +2700,29 @@
 
 *408|
 [fc]
-ダンスを踊る男の動きが、次第に緩慢になっていった。[pcms]
+The movements of the dancing man gradually slowed down.[pcms]
 
 *409|
 [fc]
-こんな状況だというのに、藻掻くことさえ止めようとしている。[pcms]
+Despite the situation, he seemed to be giving up even struggling.[pcms]
 
 *410|
 [fc]
-呼吸する方法を全て奪われ、体内の酸素を使い切り、そして……。[pcms]
+With all means of breathing taken away, having used up all the oxygen[r]
+inside him, and then...[pcms]
 
 *411|
 [fc]
-必死にばたつかせていた手足の動きが震えに変わると、[r]
-男はそのまま停止した。[pcms]
+The frantic flailing of his limbs turned into trembling, and the man[r]
+came to a halt.[pcms]
 
 *412|
 [fc]
-目は白目をむき、身体は一切の動きを見せない。[pcms]
+His eyes rolled back, and his body showed no sign of movement.[pcms]
 
 *413|
 [fc]
-そう……男は、女性の尿で溺死していた。[pcms]
+Yes... the man had drowned in the woman's urine.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -2828,141 +2769,139 @@
 
 *414|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「はぁっ、はぁっ……もうすぐだから、頑張るんだ……」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"Haah, haah... it's almost over, hang in there..."[pcms]
 
 *415|
 [fc]
-[ns]朋美[nse]
-「…………」[pcms]
+[ns]Tomomi[nse]
+"..."[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
 
 *416|
 [fc]
-隔離施設から逃げ延びた男は、少女の手を引きながら[r]
-仲間の近くまでたどり着いていた。[pcms]
+The man who had escaped from the quarantine facility was nearing his[r]
+companions while pulling a girl by the hand.[pcms]
 
 *417|
 [fc]
-感染者に襲われた二人が、[r]
-建物の中から出てくる気配はない。[pcms]
+There was no sign of the two who had been attacked by the infected[r]
+coming out of the building.[pcms]
 
 *418|
 [fc]
-失血に気が遠くなりそうになるのを堪えて、[r]
-男は走り続けた。[pcms]
+Fighting off dizziness from blood loss, the man kept running.[pcms]
 
 *419|
 [fc]
-[ns]黒い革ジャケットの男Ｃ[nse]
-「おーい！　こっちだっ！　早く来いっ！」[pcms]
+[ns]Man C in Black Leather Jacket[nse]
+"Hey! Over here! Hurry up!"[pcms]
 
 *420|
 [fc]
-低く声を抑えながらも、事情がわからない仲間の男は[r]
-酷く興奮している様子だった。[pcms]
+Despite keeping his voice low, the uninformed companion seemed to be[r]
+very excited about something.[pcms]
 
 *421|
 [fc]
-施設からの警報や、もしかしたら発砲音が[r]
-聞こえたのかもしれない。[pcms]
+Perhaps he had heard the facility's alarm or maybe even gunshots.[pcms]
 
 *422|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「はぁっ、はぁっ、おいっ！　早く逃げるんだ！」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"Haah, haah, hey! Hurry up and run!"[pcms]
 
 *423|
 [fc]
-[ns]黒い革ジャケットの男Ｃ[nse]
-「どうした！　何があった！？」[pcms]
+[ns]Man C in Black Leather Jacket[nse]
+"What happened! What's going on!?"[pcms]
 
 *424|
 [fc]
-一刻も早くこの場を離れたい男は、[r]
-待機していた仲間への説明を省略する。[pcms]
+The man eager to leave the place omitted explanations to his waiting[r]
+companions.[pcms]
 
 *425|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「いいから、早く車に乗れ！」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"Just get in the car, quick!"[pcms]
 
 *426|
 [fc]
-[ns]黒い革ジャケットの男Ｃ[nse]
-「待てよ！　この子は何だ？　他の奴はどうした！？」[pcms]
+[ns]Man C in Black Leather Jacket[nse]
+"Wait! Who is this kid? What happened to the others!?"[pcms]
 
 *427|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「死んだ、恐らく」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"They're dead, probably."[pcms]
 
 *428|
 [fc]
-[ns]黒い革ジャケットの男Ｃ[nse]
-「恐らく？　見捨てて逃げてきたのかよ！」[pcms]
+[ns]Man C in Black Leather Jacket[nse]
+"Probably? You left them and ran away!?"[pcms]
 
 *429|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「施設の中は解放された感染者であふれかえっている、[r]
-　助けることは……できなかった」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"The facility is overrun with released infected, there was no way to[r]
+help..."[pcms]
 
 *430|
 [fc]
-[ns]黒い革ジャケットの男Ｃ[nse]
-「後で詳しい話を聞かせてもらうぞ！」[pcms]
+[ns]Man C in Black Leather Jacket[nse]
+"I'll need a full story later!"[pcms]
 
 *431|
 [fc]
-怪我をしている男が白いワゴンの運転席に乗り込み、[r]
-もうひとりの男が少女を後部座席に乗せた。[pcms]
+The injured man climbed into the driver's seat of a white wagon, and[r]
+another man put the girl in the back seat.[pcms]
 
 *432|
 [fc]
-どうやら、待機していた男は車の運転ができないらしい。[pcms]
+Apparently, the man who had been waiting couldn't drive.[pcms]
 
 *433|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「早く！　急いでくれっ！」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"Quickly! Hurry up!"[pcms]
 
 *434|
 [fc]
-[ns]黒い革ジャケットの男Ｃ[nse]
-「お前……撃たれたのか！？」[pcms]
+[ns]Man C in Black Leather Jacket[nse]
+"You... you've been shot!?"[pcms]
 
 *435|
 [fc]
-[ns]黒い革ジャケットの男Ａ[nse]
-「そうだ、説明は後でするから早く乗るんだ！」[pcms]
+[ns]Man A in Black Leather Jacket[nse]
+"Yes, I'll explain later, just get in fast!"[pcms]
 
 *436|
 [fc]
-施設のアナウンスが、今どれ位の時間をカウントしているのか[r]
-わからないが、余裕など微塵もないはずだ。[pcms]
+The facility's announcement was counting down time, not that there was[r]
+any room for leisure.[pcms]
 
 *437|
 [fc]
-居残っていた男が助手席に乗ったことを確認すると、[r]
-運転席の男がアクセルを踏み込む。[pcms]
+Once the man who stayed behind got into the passenger seat, the driver[r]
+stepped on the accelerator.[pcms]
 
 *438|
 [fc]
-繰り返し放送されていた安全装置の意味はわからないが、[r]
-おおよその想像は付いた。[pcms]
+The meaning of the safety device being repeatedly broadcasted was[r]
+unclear, but they had a rough idea of what it meant.[pcms]
 
 *439|
 [fc]
-そして、どれくらい施設から離れることができたのか、[r]
-安堵した声で助手席の男が後ろを見る。[pcms]
+And as they got far enough away from the facility, the man in the[r]
+passenger seat looked back with a relieved voice.[pcms]
 
 *440|
 [fc]
-[ns]黒い革ジャケットの男Ｃ[nse]
-「これだけ離れれば安心……」[pcms]
+[ns]Man C in Black Leather Jacket[nse]
+"We're far enough away now to be safe..."[pcms]
 
 ;//BGM即時停止
 [fadeoutbgm time=500]
@@ -2982,56 +2921,55 @@
 
 *441|
 [fc]
-男はそれ以上話をすることができなかった。[pcms]
+The man could not continue the conversation any further.[pcms]
 
 *442|
 [fc]
-視覚と聴覚が圧倒的な外部刺激に制圧され、[r]
-完全に麻痺してしまう。[pcms]
+Both vision and hearing were completely paralyzed by the overwhelming[r]
+external stimuli.[pcms]
 
 ;//seB062.ogg
 [se buf=1 storage="seB062"]
 
 *443|
 [fc]
-どれほどの爆薬を使用しているのか、[r]
-想像も付かないほどの爆発だった。[pcms]
+The explosion was so immense that it was impossible to imagine how[r]
+much explosive was used.[pcms]
 
 *444|
 [fc]
-運転席の男はハンドルにしがみつき、[r]
-車のボディが爆発の衝撃を緩和してくれることを祈る。[pcms]
+The man in the driver's seat clung to the steering wheel, praying that[r]
+the car's body would cushion the impact of the explosion.[pcms]
 
 ;//seB075.ogg
 [se buf=0 storage="seB075"]
 
 *445|
 [fc]
-飛んできた破片であちこちのガラスが割れ、[r]
-爆風で車が横転した。[pcms]
+Glass shattered everywhere as fragments flew in, and the car[r]
+overturned from the blast wave.[pcms]
 
 *446|
 [fc]
-断続的な爆発を起こす音を聞きながら、[r]
-男は安全装置がなんであるのか、[r]
-嫌と言うほど理解する。[pcms]
+While hearing the intermittent sounds of explosions, the man[r]
+understood all too well what the safety device was.[pcms]
 
 ;//seB062.ogg
 [se buf=1 storage="seB062"]
 
 *447|
 [fc]
-横転した車が更に転がり、殺人的な爆風に晒された。[pcms]
+The overturned car rolled further, exposed to the murderous blast[r]
+wave.[pcms]
 
 *448|
 [fc]
-自分が今、上を向いているのか下を向いているのか……、[r]
-そんなことさえもわからない。[pcms]
+Whether he was facing up or down... he couldn't even tell that much.[pcms]
 
 *449|
 [fc]
-男は幸運を祈ることさえできず、[r]
-ただ、ハンドルにしがみついていた。[pcms]
+The man couldn't even pray for luck; he just clung to the steering[r]
+wheel.[pcms]
 
 ;//seB061.ogg(LOOP)
 [se buf=0 storage="seB061" loop=true]
@@ -3043,44 +2981,45 @@
 
 *450|
 [fc]
-……広大な敷地で炎がくすぶっている。[pcms]
+...Flames smoldered across the vast grounds.[pcms]
 
 *451|
 [fc]
-金網に仕切られた謎の隔離施設は、[r]
-跡形もなく爆散し、炎さえその姿を消していた。[pcms]
+The mysterious isolation facility, sectioned off by wire mesh, had[r]
+been blown to pieces without a trace, and even the flames had[r]
+vanished.[pcms]
 
 *452|
 [fc]
-爆発の衝撃は広範囲に及び、そこになにかがあった痕跡を[r]
-全て消し去る程の猛烈な威力だ。[pcms]
+The impact of the explosion was so fierce that it erased any sign that[r]
+something had been there over a wide area.[pcms]
 
 *453|
 [fc]
-ただ火球が唸りを上げただけではないだろう。[pcms]
+It must have been more than just a fireball roaring.[pcms]
 
 *454|
 [fc]
-この施設が建設される段階で、安全装置が十分に機能するよう[r]
-設計されていたはずだ。[pcms]
+From the construction phase, this facility must have been designed to[r]
+ensure that safety devices functioned adequately.[pcms]
 
 *455|
 [fc]
-建物の隅々まで吹き飛ぶよう、あらゆる痕跡、[r]
-証拠を残さぬよう、熱と衝撃が全てを包み込むよう……。[pcms]
+Heat and shock enveloped everything, blowing away every corner of the[r]
+building, leaving no traces or evidence...[pcms]
 
 *456|
 [fc]
-こうして、公式には存在していなかった巨大な施設は[r]
-一夜にして燃え尽き、その後の処理も滞りなく行われた。[pcms]
+Thus, a massive facility that officially did not exist burned down[r]
+overnight, and the subsequent cleanup was carried out without delay.[pcms]
 
 *457|
 [fc]
-元から、そこには何もなかったかのように。[pcms]
+As if there had never been anything there from the start.[pcms]
 
 *458|
 [fc]
-巨大なキノコ雲だけを残して……。[pcms]
+Leaving behind only a massive mushroom cloud...[pcms]
 
 ;//フラグ0010通過成立
 [eval exp="sf.g_0010 = 1"]

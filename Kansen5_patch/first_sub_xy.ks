@@ -661,13 +661,13 @@
 ;テキスト表示位置 全角40文字対応用
 ;[eval exp="sf.text_x = 100"]
 [eval exp="sf.text_x = 150"]
-[eval exp="sf.text_y = 35"]
+[eval exp="sf.text_y = 5"]
 [eval exp="sf.text_r = 0"]
 
 ;デフォルトのフォントサイズ
 ;[deffont size=24]
 ;でかすぎるのか？
-[deffont size=24]
+[deffont size=20]
 
 ;クリック待ちグリフ表示位置 Config.tjs glyphFixedTopも一応要変更
 ;[eval exp="sf.glyph_x = 980"]
@@ -683,7 +683,7 @@
 ;[eval exp="sf.namechip_x = 220"]
 ;[eval exp="sf.namechip_x = 100"]
 [eval exp="sf.namechip_x = 150"]
-[eval exp="sf.namechip_y = 570"]
+[eval exp="sf.namechip_y = 530"]
 
 ;ネームチップサイズ
 [eval exp="sf.namechip_w = 500"]
