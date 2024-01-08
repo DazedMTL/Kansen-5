@@ -32,33 +32,33 @@
 
 *2596|
 [fc]
-こっそりと、二つの人影が民家へと入っていった。[r]
-一人目は彩月。続いて入ったのは美沙緒だ。[pcms]
+Secretly, two figures entered a private house. The first was Satsuki.[r]
+Following her was Misao.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi01"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2597|
 [fc]
 [vo_stk s="satuki_st0271"]
-[ns]彩月[nse]
-「……」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2598|
 [fc]
 [vo_mis s="misao_st0172"]
-[ns]美沙緒[nse]
-「……大丈夫？」[pcms]
+[ns]Misao[nse]
+"Are you okay?"[pcms]
 
 *2599|
 [fc]
 [vo_stk s="satuki_st0272"]
-[ns]彩月[nse]
-「……しっ！」[pcms]
+[ns]Satsuki[nse]
+"...Shh!"[pcms]
 
 *2600|
 [fc]
-彩月が指を口許に立てる。[r]
-奥の部屋でうごめく気配を察知していた。[pcms]
+Satsuki put her finger to her lips. She had sensed a presence writhing[r]
+in the back room.[pcms]
 
 [bgm storage="BGM15"]
 ;//♪bgm15　シリアス：嫌疑：思考
@@ -68,22 +68,22 @@
 *2601|
 [fc]
 [vo_stk s="satuki_st0273"]
-[ns]彩月[nse]
-「……居る」[pcms]
+[ns]Satsuki[nse]
+"...There's someone here."[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_c1"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2602|
 [fc]
-そう短く言うと、彩月はバットを握りしめ、奥の部屋に忍び寄る。[r]
-覗き込んだ先には、赤い眼をした若い女性感染者が、[r]
-何をするでもなく虚ろな目つきで立ち尽くしていた。[pcms]
+With those brief words, Satsuki gripped her bat and crept towards the[r]
+back room. Peering in, she saw a young female infected with red eyes,[r]
+standing still with a vacant gaze.[pcms]
 
 *2603|
 [fc]
 [vo_stk s="satuki_st0274"]
-[ns]彩月[nse]
-「……っ！」[pcms]
+[ns]Satsuki[nse]
+"...!"[pcms]
 
 ;//■_バットで殴る音
 [se buf=0 storage="seB010"]
@@ -94,9 +94,9 @@
 
 *2604|
 [fc]
-部屋に駆け入り、無言で女の頭を横殴りにする。[r]
-どっと倒れ込んだ頭目掛けて、また数発真上からバットを[r]
-振り下ろしていた。[pcms]
+She rushed into the room and silently struck the woman's head from the[r]
+side. As the leader fell with a thud, she swung the bat down several[r]
+more times from above.[pcms]
 
 [se buf=0 storage="seB010"]
 ;//打撃
@@ -113,8 +113,8 @@
 *2605|
 [fc]
 [vo_mis s="misao_st0173"]
-[ns]美沙緒[nse]
-「………………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 [se buf=0 storage="seB010"]
 ;//打撃
@@ -124,19 +124,19 @@
 
 *2606|
 [fc]
-美沙緒はその彩月の荒々しい様を、少し眉根を寄せながら[r]
-物陰に身体を寄せつつ、見つめていた。[pcms]
+Misao watched Satsuki's violent actions with a slight frown, pressing[r]
+herself against the shadows.[pcms]
 
 *2607|
 [fc]
 [vo_stk s="satuki_st0275"]
-[ns]彩月[nse]
-「……仕留めた。他に気配はないわ」[pcms]
+[ns]Satsuki[nse]
+"...I've taken her down. There's no other presence."[pcms]
 
 *2608|
 [fc]
-そう言い放つと、彩月は台所と思われる場所へと向かっていく。[r]
-美沙緒もそのあとを追った。[pcms]
+Having said that, Satsuki headed towards what seemed to be the[r]
+kitchen. Misao followed her.[pcms]
 
 ;//★_民家台所
 ;//めも：台所ないので、畳間つかいます
@@ -145,163 +145,163 @@
 *2609|
 [fc]
 [vo_stk s="satuki_st0276"]
-[ns]彩月[nse]
-「これに詰めればいいわ」[pcms]
+[ns]Satsuki[nse]
+"We can pack it in this."[pcms]
 
 *2610|
 [fc]
-彩月は台所にあった布製の買い物袋を美沙緒の方へと[r]
-つきだした。[pcms]
+Satsuki pushed a fabric shopping bag she found in the kitchen towards[r]
+Misao.[pcms]
 
 ;//SE：冷蔵庫っぽい音が無い。
 
 *2611|
 [fc]
-美沙緒は素直に受け取り、冷蔵庫の扉を開ける。[pcms]
+Misao obediently received it and opened the refrigerator door.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2612|
 [fc]
 [vo_mis s="misao_st0174"]
-[ns]美沙緒[nse]
-「冷凍したお肉……干物……野菜が結構入っているわ」[pcms]
+[ns]Misao[nse]
+"There's quite a bit of frozen meat... dried fish... vegetables."[pcms]
 
 *2613|
 [fc]
-冷蔵庫の中を見ながら、美沙緒が彩月に話しかけた。[r]
-しかし彩月からの返事は無い。[pcms]
+While looking inside the refrigerator, Misao spoke to Satsuki.[r]
+However, there was no reply from Satsuki.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2614|
 [fc]
-振り返って見ると、傍らに彩月の姿は無かった。[r]
-台所の隣にある居間で、彩月は写真立てを手にし、見入っている。[pcms]
+Turning around, Misao saw that Satsuki was no longer beside her. In[r]
+the living room next to the kitchen, Satsuki was engrossed in a photo[r]
+frame.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2615|
 [fc]
 [vo_mis s="misao_st0175"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *2616|
 [fc]
-冷蔵庫の中身をあらかた手渡された袋に移すと、[r]
-美沙緒は居間へと向かった。[pcms]
+After transferring most of the contents of the refrigerator into the[r]
+bag, Misao headed towards the living room.[pcms]
 
 *2617|
 [fc]
-未だ、彩月は写真立てを手にしている。[r]
-苦々しい表情になっているのが、美沙緒にはわかった。[pcms]
+Still holding the photo frame, Satsuki had a bitter expression that[r]
+Misao could see.[pcms]
 
 *2618|
 [fc]
-その写真は、さっき彩月が葬った女と、その妹と思しき少女。[r]
-そして、両親も一緒に写っている家族の写真だった。[pcms]
+The photo showed the woman Satsuki had just killed, a girl who seemed[r]
+to be her sister, and their parentsa family photo.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi06"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2619|
 [fc]
 [vo_mis s="misao_st0176"]
-[ns]美沙緒[nse]
-「……仕方が無いことなんだと思うわ。[r]
-　もうあの人は、人では無くなってしまっていた……[r]
-　だから、そんなに気に病まないで。ね、南さん」[pcms]
+[ns]Misao[nse]
+"...It can't be helped, I think. That person was no longer human... So[r]
+don't take it so hard. Right, Minami-san?"[pcms]
 
 *2620|
 [fc]
-美沙緒なりの気遣いで、そう彩月に優しく言うと、[r]
-そっと肩に手を置いた。[pcms]
+With her own way of caring, Misao gently spoke to Satsuki and softly[r]
+placed her hand on her shoulder.[pcms]
 
 [se buf=0 storage="seB002"]
 ;//平手ペチ
 
 *2621|
 [fc]
-しかし彩月の肩がぴくりと反応し、美沙緒の手は[r]
-彩月に振り払われてしまう。[pcms]
+However, Satsuki's shoulder twitched in response, and she shook off[r]
+Misao's hand.[pcms]
 
 *2622|
 [fc]
 [vo_stk s="satuki_st0277"]
-[ns]彩月[nse]
-「何を勝手なことを！！」[pcms]
+[ns]Satsuki[nse]
+"What are you doing deciding things on your own!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi23"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2623|
 [fc]
 [vo_mis s="misao_st0177"]
-[ns]美沙緒[nse]
-「！！」[pcms]
+[ns]Misao[nse]
+"!!"[pcms]
 
 *2624|
 [fc]
-憎しみしか感じさせない彩月の瞳に、美沙緒はひるんだ。[r]
-射殺すような目つきで、ずっと自分を睨み続けている。[pcms]
+Misao flinched at the hatred in Satsuki's eyes. She continued to glare[r]
+at Misao with a murderous look.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi08"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2625|
 [fc]
 [vo_stk s="satuki_st0278"]
-[ns]彩月[nse]
-「見るがいいわっ！」[pcms]
+[ns]Satsuki[nse]
+"Look at this!"[pcms]
 
 *2626|
 [fc]
-そう言うと彩月は右腕を振り上げ、美沙緒の前にバーコードを[r]
-晒して見せた。[pcms]
+With that, Satsuki raised her right arm and exposed her barcode to[r]
+Misao.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi06"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2627|
 [fc]
 [vo_mis s="misao_st0178"]
-[ns]美沙緒[nse]
-「……！！」[pcms]
+[ns]Misao[nse]
+"...!!"[pcms]
 
 *2628|
 [fc]
 [vo_stk s="satuki_st0279"]
-[ns]彩月[nse]
-「わかった？　わかったわよね。わたしは４年前の生き残りよ。[r]
-　わたしだけじゃないわ。誠君だって腕にバーコードがあるのよ」[pcms]
+[ns]Satsuki[nse]
+"You understand? You get it, right? I'm a survivor from four years[r]
+ago. It's not just me. Makoto-kun has a barcode on his arm too."[pcms]
 
 *2629|
 [fc]
 [vo_mis s="misao_st0179"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *2630|
 [fc]
-美沙緒は言葉が出なかった。[r]
-しかし、自分が就いていた仕事を考えると、なぜ彩月が妙に[r]
-自分に怒りをぶつけてくるのか、ようやく合点がいく。[pcms]
+Misao was at a loss for words. However, considering the job she had[r]
+been doing, she finally understood why Satsuki was directing such[r]
+anger at her.[pcms]
 
 *2631|
 [fc]
 [vo_stk s="satuki_st0280"]
-[ns]彩月[nse]
-「それだけじゃないわっ！」[pcms]
+[ns]Satsuki[nse]
+"That's not all!"[pcms]
 
 *2632|
 [fc]
-彩月はメガネをおもむろに外すと、自分の指を目の中へ[r]
-突き入れた。[pcms]
+Suddenly, Satsuki took off her glasses and thrust her finger into her[r]
+eye.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2633|
 [fc]
 [vo_mis s="misao_st0180"]
-[ns]美沙緒[nse]
-「な、何をっ！」[pcms]
+[ns]Misao[nse]
+"What are you doing!"[pcms]
 
 ;//めも１：ここの一連のシーンだけ視点逆で彩月立ち絵を出します。
 ;//めも２：※もし彩月の立ち絵を出す場合此処や分岐以降はずっと赤目です。
@@ -311,49 +311,48 @@
 *2634|
 [fc]
 [vo_stk s="satuki_st0281"]
-[ns]彩月[nse]
-「ふんっ！　よっく見なさいっ」[pcms]
+[ns]Satsuki[nse]
+"Hmph! Look closely."[pcms]
 
 *2635|
 [fc]
-目から出された指の先には、カラーコンタクトがつままれていた。[r]
-そして、カラーコンタクトが外された彩月の瞳は、[r]
-感染者と同じ色をしている。[pcms]
+At the tip of the finger pulled from her eye was a color contact lens.[r]
+With the color contact removed, Satsuki's eyes were the same color as[r]
+those of the infected.[pcms]
 
 ;//たちなし
 
 *2636|
 [fc]
 [vo_mis s="misao_st0181"]
-[ns]美沙緒[nse]
-「その目は…………あっ！　南……彩月……」[pcms]
+[ns]Misao[nse]
+"Those eyes...ah! Minami...Satsuki..."[pcms]
 
 *2637|
 [fc]
-美沙緒はまじまじと彩月の顔を見直している。[r]
-そして顔を強ばらせた。[pcms]
+Misao stared intently at Satsuki's face, then her expression[r]
+stiffened.[pcms]
 
 *2638|
 [fc]
-彩月はその美沙緒の態度に満足そうな笑みを見せる。[pcms]
+Satsuki showed a satisfied smile at Misao's reaction.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2639|
 [fc]
 [vo_stk s="satuki_st0282"]
-[ns]彩月[nse]
-「わかったでしょう？　わたしが生きている限り、この赤い眼で[r]
-　世界を見てる限り、犠牲になった全ての人たちに代わって、[r]
-　わたしは、あなたを、貴方達を決して許さないわ」[pcms]
+[ns]Satsuki[nse]
+"You understand now, don't you? As long as I'm alive, as long as I see[r]
+the world through these red eyes, I will never forgive you or any of[r]
+you, on behalf of all those who were sacrificed."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2640|
 [fc]
-冷たい光の赤い眼が、ひたっと美沙緒の顔を見据えていた。[r]
-美沙緒はその視線に耐えられなくなり、うつむきながら[r]
-彩月に答える。[pcms]
+The cold, red light in her eyes stared fixedly at Misao's face. Unable[r]
+to withstand the gaze, Misao looked down and answered Satsuki.[pcms]
 
 ;//めも：ここから視点元通り
 [chara_int][trans_c cross time=150]
@@ -363,16 +362,15 @@
 *2641|
 [fc]
 [vo_mis s="misao_st0182"]
-[ns]美沙緒[nse]
-「……私には憎しみを、怒りをぶつけてくれてかまわないわ。[r]
-　でも、お願い。茜梨は何の関係もないの。お願いだから[r]
-　あの子は許してあげて。私だけにしてちょうだい。お願いよ」[pcms]
+[ns]Misao[nse]
+"...You can direct your hatred and anger at me. But please, Akari has[r]
+nothing to do with this. Please forgive her. Just blame me, please."[pcms]
 
 *2642|
 [fc]
 [vo_stk s="satuki_st0283"]
-[ns]彩月[nse]
-「…………考えておくわ」[pcms]
+[ns]Satsuki[nse]
+"...I'll think about it."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -392,57 +390,58 @@
 
 *2643|
 [fc]
-突然乱雑な足音と共に、涎を垂らした男が居間へ現れた。[pcms]
+Suddenly, with messy footsteps, a drooling man appeared in the living[r]
+room.[pcms]
 
 *2644|
 [fc]
-[ns]感染者男１[nse]
-「みーつけたー、しんせんなまんこー、ふたつもーあははは」[pcms]
+[ns]Infected Man 1[nse]
+"Fou-nd them-, two fresh pussies-, ahahaha"[pcms]
 
 *2645|
 [fc]
 [vo_stk s="satuki_st0284"]
-[ns]彩月[nse]
-「しまった！」[pcms]
+[ns]Satsuki[nse]
+"Damn it!"[pcms]
 
 [bgm storage="BGM13"]
 ;//♪bgm13　逃走：緊迫
 
 *2646|
 [fc]
-怒気に飲まれ、彩月の声はいつしか大きくなっていた。[r]
-感染者はその声を聴いて集まってきたのだろう。[r]
-最初に現れた男の後ろにも、ぞろぞろと列をなしている。[pcms]
+Caught up in anger, Satsuki's voice had grown louder without her[r]
+realizing it. The infected must have been drawn by her voice. Behind[r]
+the first man to appear, others were lining up in a row.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan5_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *2647|
 [fc]
-[ns]感染者男２[nse]
-「おれー、こっちーがいいなああ……」[pcms]
+[ns]Infected Man 2[nse]
+"I li-ke this one bett-er..."[pcms]
 
 *2648|
 [fc]
-男の手が伸ばされ、あわや美沙緒に届きそうになっていた。[pcms]
+The man's hand reached out, almost touching Misao.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi23"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2649|
 [fc]
 [vo_mis s="misao_st0183"]
-[ns]美沙緒[nse]
-「ひっ！！」[pcms]
+[ns]Misao[nse]
+"Eek!!"[pcms]
 
 *2650|
 [fc]
-美沙緒は慌てて後ずさるが、台所の流しのヘリに行き止まりだと[r]
-宣言されるように押しとどめられる。[pcms]
+Misao hurriedly backed away but was stopped as if blocked by the edge[r]
+of the kitchen sink.[pcms]
 
 *2651|
 [fc]
 [vo_mis s="misao_st0184"]
-[ns]美沙緒[nse]
-「来ないで……いや、来ないで……っ！」[pcms]
+[ns]Misao[nse]
+"Don't come...no, don't come...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -455,34 +454,34 @@
 *2652|
 [fc]
 [vo_mis s="misao_st0185"]
-[ns]美沙緒[nse]
-「！！」[pcms]
+[ns]Misao[nse]
+"!!"[pcms]
 
 *2653|
 [fc]
-流し近くの窓を破って、薄汚れた腕が伸ばされた。[r]
-その腕は、的確に美沙緒を掴み引き寄せようとしている。[pcms]
+A dirty arm broke through a nearby window and reached out. The arm was[r]
+accurately trying to grab and pull Misao closer.[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi23"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2654|
 [fc]
 [vo_mis s="misao_st0186"]
-[ns]美沙緒[nse]
-「きゃあああっ！　いや、やめてっ！　離してっ！」[pcms]
+[ns]Misao[nse]
+"Kyaaah! No, stop it! Let go!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2655|
 [fc]
 [vo_stk s="satuki_st0285"]
-[ns]彩月[nse]
-「ちっ……」[pcms]
+[ns]Satsuki[nse]
+"Tch..."[pcms]
 
 *2656|
 [fc]
-感染者をぶちのめしながら、囚われた美沙緒の様子を、[r]
-彩月は見つめていた。[pcms]
+While knocking down the infected, Satsuki watched the situation of the[r]
+captured Misao.[pcms]
 
 ;//条件分岐
 ;//フラグpassword成立時しているかどうか
@@ -498,14 +497,14 @@
 
 ;	[link storage="2350.ks" target=*2350_TOP]助ける[endlink]
 ;	[link storage="2460.ks" target=*2460_TOP]見捨てる[endlink]
-;	[s]
+;[pcms]
 
 *SEL18|助ける／見捨てる
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '助ける'"]
-[eval exp="f.seltext06 = '見捨てる'"]
+[eval exp="f.seltext04 = 'Help'"]
+[eval exp="f.seltext06 = 'Abandon'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

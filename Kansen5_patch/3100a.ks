@@ -20,76 +20,75 @@
 
 *3223|
 [fc]
-一軒の民家に近づいた時、人影が動くのを見た僕は、[r]
-急いで物陰に隠れ、様子を覗った。[pcms]
+When I approached a private house, I saw a figure moving and quickly[r]
+hid in the shadows to peek at the situation.[pcms]
 
 *3224|
 [fc]
-家の中から、ひとりの男がのっそりと現れる。[pcms]
+A man appeared sluggishly from inside the house.[pcms]
 
 *3225|
 [fc]
-[ns]男[nse]
-「うううぅ………」[pcms]
+[ns]Male[nse]
+"Uuuu..."[pcms]
 
 *3226|
 [fc]
-男は足を引きずるようにして、ゆっくりと歩いていた。[pcms]
+The man was walking slowly, as if dragging his feet.[pcms]
 
 *3227|
 [fc]
-[ns]誠[nse]
-（感染者だろうか……普通の人だろうか……）[pcms]
+[ns]Makoto[nse]
+(Is he infected... or just a normal person...)[pcms]
 
 *3228|
 [fc]
-ここからだと距離が遠くて、男の目が[r]
-赤いかどうかまでは分からない。[pcms]
+From here, it's too far to tell if the man's eyes are red or not.[pcms]
 
 *3229|
 [fc]
-さらに良く見ようと目を凝らした時、男の口元や胸元に、[r]
-赤黒いなにかがこびりついているのが見えた。[pcms]
+When I strained my eyes to get a better look, I could see something[r]
+dark red stuck to the man's mouth and chest.[pcms]
 
 *3230|
 [fc]
-そして、男が手に持っていたものが見えた時、[r]
-僕は男が感染者だということを確信した。[pcms]
+And when I saw what the man was holding in his hand, I was certain[r]
+that he was an infected.[pcms]
 
 *3231|
 [fc]
-男が、肩からもぎ取られた、人間の腕らしきものを[r]
-手に持ったまま歩いていたからだ。[pcms]
+Because the man was walking with what appeared to be a human arm torn[r]
+off from the shoulder.[pcms]
 
 *3232|
 [fc]
-男の口元や胸元が赤黒く汚れていたのは……たぶん、人間の血が[r]
-乾いてこびりついたものだろう。[pcms]
+The dark red stains around the man's mouth and chest were... probably[r]
+dried human blood that had caked on.[pcms]
 
 *3233|
 [fc]
-[ns]誠[nse]
-（ここは駄目だ……見つからないうちに逃げないと……）[pcms]
+[ns]Makoto[nse]
+(This place is no good... I have to escape before I'm found...)[pcms]
 
 *3234|
 [fc]
-男は、僕が隠れて見ていることには全く気がつかずに[r]
-時折、手にした腕にかじりつきながら、[r]
-どこかへ歩き去ってしまった。[pcms]
+The man, completely unaware that I was hiding and watching,[r]
+occasionally bit into the arm he was holding as he walked away[r]
+somewhere.[pcms]
 
 *3235|
 [fc]
-その姿が十分に見えなくなるのを確認してから、僕は[r]
-物音を立てないように動き出し、集落をあとにする。[pcms]
+After confirming that his figure was no longer visible, I started[r]
+moving without making a sound and left the village behind.[pcms]
 
 *3236|
 [fc]
-とにかく、先へ進もう。[pcms]
+Anyway, let's move on.[pcms]
 
 *3237|
 [fc]
-今は安全が確認できる場所を見つけるまで、[r]
-移動し続けるしかない。[pcms]
+For now, I have no choice but to keep moving until I find a place[r]
+where safety can be confirmed.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -108,150 +107,148 @@
 
 *3238|
 [fc]
-集落をあとにして、さらに山の奥に向かった僕は、[r]
-しばらくして、要塞のような場所にたどり着いた。[pcms]
+Having left the village behind and heading deeper into the mountains,[r]
+after a while, I arrived at a place that looked like a fortress.[pcms]
 
 *3239|
 [fc]
-[ns]誠[nse]
-（ええっと、たしかここは…………）[pcms]
+[ns]Makoto[nse]
+(Let's see, this place is...)[pcms]
 
 *3240|
 [fc]
-大神島のガイドブックをナナメ読みした時に[r]
-書いてあった気がする。[pcms]
+I remember reading about it when I skimmed through the guidebook for[r]
+Oogamijima.[pcms]
 
 *3241|
 [fc]
-たしかここは、旧日本軍の砲台跡だったはずだ。[r]
-ガイドブックには観光名所として指定されてる、とか[r]
-書いてあったっけ。[pcms]
+This place should be the remains of an old Japanese military battery.[r]
+The guidebook listed it as a tourist attraction.[pcms]
 
 *3242|
 [fc]
-でも、ホテルからの距離を地図で確認して、そのあまりの遠さに、[r]
-僕もそーいちも早々に行くのをあきらめた場所だ。[pcms]
+But after checking the distance from the hotel on a map and realizing[r]
+how far it was, Souichirou and I quickly gave up on going there.[pcms]
 
 *3243|
 [fc]
-車で移動する人なら、なんてことない距離なのかも知れないけど、[r]
-自力か公共交通機関に頼るしかない学生の身の上には[r]
-少々、いやかなり厳しい距離だった。[pcms]
+It might not be a big deal for someone traveling by car, but for[r]
+students who can only rely on their own power or public[r]
+transportation, it was quite a challenging distance.[pcms]
 
 *3244|
 [fc]
-[ns]誠[nse]
-（こんな遠くまで逃げて来ちゃったんだ……）[pcms]
+[ns]Makoto[nse]
+(I can't believe I've fled this far...)[pcms]
 
 *3245|
 [fc]
-自分がどれほどの距離を移動したのかを改めて実感し、[r]
-僕は思わず感慨にふけってしまった。[pcms]
+Realizing again how far I had traveled, I couldn't help but become[r]
+sentimental.[pcms]
 
 *3246|
 [fc]
-別に、ここを目指して逃げてきた訳じゃないけど、[r]
-こんな形で来たくはなかったな……。[pcms]
+I didn't aim to flee here, but I didn't want to come in such a way...[pcms]
 
 *3247|
 [fc]
-周囲を見回しても、あたりに人の姿は見えない。[r]
-人の姿が見えたからって、必ず感染者だって[r]
-訳じゃないけど……。[pcms]
+Looking around, there are no signs of people. Just because you see[r]
+someone doesn't necessarily mean they're infected...[pcms]
 
 *3248|
 [fc]
-感染者かどうかは、ぱっと見ただけじゃ分からないから[r]
-今は人の姿が見えない方が安心できる。[pcms]
+You can't tell if someone is infected just by looking at them, so for[r]
+now, it's more reassuring not to see anyone.[pcms]
 
 *3249|
 [fc]
-こんな山奥まで逃げてきたという気持ちもあって[r]
-なんとなく僕はちょっと安心していた。[pcms]
+Feeling like I had fled all the way to these mountain depths, I felt[r]
+somewhat relieved.[pcms]
 
 *3250|
 [fc]
-ここまでほとんど走りづめに走り続けてきたんだから、[r]
-少しくらい休んで、体を休めておかないと[r]
-何かあっても対処できなくなりそうだ。[pcms]
+Since I had been running almost non-stop up to this point, I need to[r]
+rest a bit and give my body a break or else I won't be able to handle[r]
+anything that comes up.[pcms]
 
 *3251|
 [fc]
-よし、とりあえず休憩しよう。[pcms]
+Alright, let's take a break for now.[pcms]
 
 *3252|
 [fc]
-そう考えた途端、僕は自分の喉が[r]
-からからに渇いてることに気がついた。[pcms]
+The moment I thought about it, I realized my throat was parched.[pcms]
 
 *3253|
 [fc]
-[ns]誠[nse]
-（まあ、この暑い最中に、これだけ汗をかいてれば[r]
-　喉が渇いてて当然かも）[pcms]
+[ns]Makoto[nse]
+(Well, considering how much I've been sweating in this heat, it's only[r]
+natural that I'm thirsty.)[pcms]
 
 *3254|
 [fc]
-すでにぐっしょりと汗をかいたシャツは乾きかけていて[r]
-胸のあたりが白く塩をふいている。[pcms]
+My shirt, already drenched in sweat, was starting to dry and had white[r]
+salt marks on the chest area.[pcms]
 
 *3255|
 [fc]
-よく、熱中症や脱水症状にならなかったもんだと[r]
-我ながら感心してしまった。[pcms]
+I'm amazed at myself for not having suffered from heatstroke or[r]
+dehydration.[pcms]
 
 *3256|
 [fc]
-[ns]誠[nse]
-（どっかに水飲み場はないかな……）[pcms]
+[ns]Makoto[nse]
+(I wonder if there's a water fountain somewhere...)[pcms]
 
 *3257|
 [fc]
-マウンテンヂューやスッコールなんて贅沢は言わない。[pcms]
+I'm not asking for luxuries like Mountain Dew or Sprite.[pcms]
 
 *3258|
 [fc]
-普通に公園にある、水道水の水飲み場で構わないんだけど[r]
-僕の目の届く範囲には、水飲み場は見当たらない。[pcms]
+A regular water fountain like you'd find in a park would do, but there[r]
+doesn't seem to be one within my sight.[pcms]
 
 *3259|
 [fc]
-僕は水飲み場を探して、砲台跡を歩き始めた。[pcms]
+I started walking around the remains of the battery in search of a[r]
+water fountain.[pcms]
 
 *3260|
 [fc]
-[ns]誠[nse]
-（あ、でも、観光地だってことを考えたら、上手くすれば[r]
-　自動販売機くらい置かれてるかも知れないな）[pcms]
+[ns]Makoto[nse]
+(Ah, but if you think about it being a tourist spot, maybe there'll be[r]
+vending machines if we're lucky.)[pcms]
 
 *3261|
 [fc]
-観光地のお約束で、自販機の商品にちょっと値段が[r]
-上乗せされてるのは、この際我慢しよう。[pcms]
+I'll tolerate a little markup on vending machine prices as per tourist[r]
+site tradition for now.[pcms]
 
 *3262|
 [fc]
-ただの水道水よりは、スポーツドリンクでもあれば[r]
-そっちの方が体にはいいんじゃないのかな。[pcms]
+A sports drink would probably be better for my body than just tap[r]
+water if there is one available.[pcms]
 
 *3263|
 [fc]
-そんな事を考えながら歩いていると、通路の曲がり端に[r]
-自販機っぽい金属の箱が設置されてるのを見つけた。[pcms]
+As I walked, thinking about such things, I spotted what looked like a[r]
+vending machine, a metallic box, installed at the bend of the[r]
+corridor.[pcms]
 
 *3264|
 [fc]
-[ns]誠[nse]
-「やった、ラッキー！」[pcms]
+[ns]Makoto[nse]
+"Yes, lucky!"[pcms]
 
 *3265|
 [fc]
-僕は見つけた自販機に、小走りに近づいた。[pcms]
+I approached the vending machine I found with a light jog.[pcms]
 
 *3266|
 [fc]
-その時、その自販機の影から[r]
-突然、感染者がぬっと姿を現す。[pcms]
+Just then, an infected person suddenly appeared from the shadow of the[r]
+vending machine.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -263,24 +260,23 @@
 
 *3267|
 [fc]
-[ns]男[nse]
-「あ゛あ～、な゛ん゛だあ゛ぁ、こども゛かあ゛ぁ゛～」[pcms]
+[ns]Male[nse]
+"Aaah, what the... a kid, huh?"[pcms]
 
 *3268|
 [fc]
-[ns]誠[nse]
-「うわっ！！」[pcms]
+[ns]Makoto[nse]
+"Whoa!!"[pcms]
 
 *3269|
 [fc]
-僕はたたらを踏んでその場に急停止した。[r]
-スニーカーの底が、地面でスリップしてジャッと音をたてる。[pcms]
+I stumbled to a sudden stop in place. The soles of my sneakers slipped[r]
+on the ground with a screeching sound.[pcms]
 
 *3270|
 [fc]
-[ns]男[nse]
-「おん゛なじゃ゛～、ね゛ぇの゛かよ゛ぉ～。[r]
-　お゛まん゛こ、したかっ゛たの゛に゛よお゛ぉ～」[pcms]
+[ns]Male[nse]
+"No woman, huh... I wanted some pussy..."[pcms]
 
 ;//m:削除
 ;//物陰から現れた男は、首からカメラを下げていて、
@@ -288,25 +284,24 @@
 
 *3271|
 [fc]
-どう見ても、地元の人間には見えない。[r]
-観光でこの砲台跡に来てて、たまたま感染者に襲われて[r]
-自分も感染者になってしまったんだろうか？[pcms]
+He definitely didn't look like a local. Maybe he was a tourist who[r]
+came to visit this battery ruin and got attacked by an infected[r]
+person, turning into one himself?[pcms]
 
 *3272|
 [fc]
-[ns]男[nse]
-「ま、まぁ、こどもでも゛い゛いかあ゛ぁ～、[r]
-　どり゛あ゛え゛ず～ぐっ゛でお゛ぐが～」[pcms]
+[ns]Male[nse]
+"Well, a kid's fine too... I'll just have to settle for that."[pcms]
 
 *3273|
 [fc]
-男がそう言うと、僕が予想してたよりも[r]
-身軽な動きで近づいてきた。[pcms]
+The man said that and approached me with more agility than I had[r]
+anticipated.[pcms]
 
 *3274|
 [fc]
-[ns]誠[nse]
-「う、うわっ！」[pcms]
+[ns]Makoto[nse]
+"Ah, whoa!"[pcms]
 
 [chara_int][trans_c cross time=150]
 [quake_bg x m]
@@ -318,13 +313,13 @@
 
 *3275|
 [fc]
-僕は男が襲いかかってきたのを、間一髪で横に転がって避けた。[r]
-こいつ、今まで見たのと違って動きが早い！[pcms]
+I barely managed to roll to the side to avoid the man's attack. This[r]
+guy moves faster than any I've seen before![pcms]
 
 *3276|
 [fc]
-[ns]男[nse]
-「に゛げる゛なぁ～ごら゛あ゛ぁ～」[pcms]
+[ns]Male[nse]
+"Don't run away... you brat!"[pcms]
 
 ;//★bg07a 旧日本軍砲台跡（Ａ）・朝昼
 [bg storage="BG07a"][trans_c cross time=500]
@@ -332,82 +327,81 @@
 
 *3277|
 [fc]
-間延びした口調に不釣り合いな素早さで、向き直った男が[r]
-僕に手を伸ばしてくる。[pcms]
+With an unnaturally drawn-out tone, the man turned around and reached[r]
+out for me with surprising speed.[pcms]
 
 [quake_bg x m]
 
 *3278|
 [fc]
-まだ立ち上がれていなかった僕は、そのまま地面の上を[r]
-ごろごろと横に転がってなんとか難を逃れた。[pcms]
+I hadn't managed to get up yet and just rolled sideways on the ground[r]
+to narrowly escape danger.[pcms]
 
 *3279|
 [fc]
-男は追撃の手を緩めない。僕は地面をごろごろと転がりながら、[r]
-ついに石垣の隅にまで追い詰められてしまった。[pcms]
+The man didn't relent in his pursuit. Rolling on the ground, I was[r]
+finally cornered at the edge of a stone wall.[pcms]
 
 *3280|
 [fc]
-[ns]男[nse]
-「こ、この゛ぉ、ち゛ょこま゛か、にげや゛がっ゛て～。[r]
-　でも゛ぉ、も゛う、にげら゛れ゛ねぇぞおぉ～」[pcms]
+[ns]Male[nse]
+"You little... trying to run away from me... But you can't escape[r]
+anymore."[pcms]
 
 *3281|
 [fc]
-石垣を背にして、僕はようやく立ち上がったけど、[r]
-この状況は控えめに言っても絶体絶命だった。[pcms]
+Backed against the stone wall, I finally managed to stand up, but to[r]
+put it mildly, the situation was dire.[pcms]
 
 *3282|
 [fc]
-男は大きく手を広げている。今までの素早さを考えたら、[r]
-男の横をかいくぐって逃げるのは難しそうだ。[pcms]
+The man spread his arms wide. Considering his speed so far, it seemed[r]
+difficult to slip past him.[pcms]
 
 *3283|
 [fc]
-股の下をくぐって……なんてのは論外だろう。[pcms]
+Crawling under his crotch... that's out of the question.[pcms]
 
 *3284|
 [fc]
-男が襲いかかってきた時に、思い切り胸板を蹴飛ばして[r]
-転ばせる……それしかなさそうだ。[pcms]
+When he attacks, I'll have to kick him hard in the chest and knock him[r]
+down... It seems like the only option.[pcms]
 
 *3285|
 [fc]
-男が舌なめずりをして、顔を醜く歪めて笑った。[pcms]
+The man licked his lips and twisted his face into an ugly smile.[pcms]
 
 *3286|
 [fc]
-[ns]誠[nse]
-（やるしか……やるしかない……！）[pcms]
+[ns]Makoto[nse]
+(I have no choice... I have to do this...!)[pcms]
 
 *3287|
 [fc]
-緊張で、心臓がもの凄くドキドキいってる。[pcms]
+My heart was pounding with tension.[pcms]
 
 *3288|
 [fc]
-両手にべっとりと冷や汗をかいている。[pcms]
+My hands were clammy with cold sweat.[pcms]
 
 *3289|
 [fc]
-もし失敗したら、僕はこの男の餌食になってしまう。[r]
-生きながら喰われる……そんな死に方だけは[r]
-絶対にごめんだった。[pcms]
+If I fail, I'll become prey to this man. Being eaten alive... that was[r]
+the last way I wanted to die.[pcms]
 
 *3290|
 [fc]
-僕は覚悟を決めて、男の襲撃に備えた。[pcms]
+I steeled myself, ready for the man's attack.[pcms]
 
 *3291|
 [fc]
-その時。[pcms]
+At that moment.[pcms]
 
 *3292|
 [fc]
 [vo_tay s="taja_tj0018"]
-[ns]ターヤ[nse]
-「ええいいっ！！」[pcms]
+[ns]Tarja[nse]
+"Eeiyy!!"[pcms]
 
 ;//立ち無し
 
@@ -416,20 +410,20 @@
 
 *3293|
 [fc]
-突然、頭上からターヤさんの声がした。[pcms]
+Suddenly, Tarja's voice came from above.[pcms]
 
 *3294|
 [fc]
-はっとして僕は上を見上げた。僕に襲いかかろうとしていた男も[r]
-僕と同じく、とっさに上を見上げた。[pcms]
+I looked up in surprise. The man who was about to attack me also[r]
+instinctively looked up.[pcms]
 
 ;//■イベントCG　taja_N005(ファイティングポーズのターヤ)
 ;//[evcg storage="taja_N005a"][trans_c cross time=300]
 
 *3295|
 [fc]
-石垣の上からターヤさんが現れて、手にしたゲートボールの[r]
-スティックみたいなハンマーで、思い切り男の頭を殴りつけた。[pcms]
+Tarja appeared from atop the stone wall, wielding what looked like a[r]
+gateball stick hammer, and struck the man's head with all her might.[pcms]
 
 [se buf=0 storage="seB011"]
 ;//♪SE打撃音
@@ -443,9 +437,9 @@
 
 *3296|
 [fc]
-ターヤさんの服装がコスプレのままだったこともあって、[r]
-まるでモンバスのハンターが本当に現実世界に出現したみたいな[r]
-錯覚に一瞬陥ってしまった。[pcms]
+Tarja's outfit was still in cosplay, which made it seem for a moment[r]
+as if a real hunter from Monster Buster had appeared in the real[r]
+world.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -455,48 +449,45 @@
 
 *3297|
 [fc]
-でも、男の頭を殴りつけた衝撃で、ターヤさんが手に持っていた[r]
-ハンマーみたいなゲートボールのスティックは、柄の部分から[r]
-ぼっきり折れてしまう。[pcms]
+But with the impact of hitting the man's head, the stick of the[r]
+gateball hammer that Tarja was holding broke off from the handle.[pcms]
 
 *3298|
 [fc]
-ターヤさんが男の頭を殴りつけた隙に、僕は男の横を[r]
-かいくぐってエスケープした。[pcms]
+While Tarja struck the man's head, I managed to slip past him and[r]
+escape.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan2_x"][ChrSetXY layer=5 x=260 y=0][trans_c cross time=150]
 
 *3299|
 [fc]
-[ns]男[nse]
-「い、いでえ゛な、ごの゛や゛ろう゛……」[pcms]
+[ns]Male[nse]
+"Ow, damn you..."[pcms]
 
 *3300|
 [fc]
-ターヤさんに殴られた男の頭は、殴られた箇所が[r]
-ぼっこりとへこんで出血していた。[pcms]
+The spot where Tarja hit the man's head was caved in and bleeding.[pcms]
 
 [eval exp="f.chara_x = 260,f.chara_y = 0"][quake_chara layer=5 lo xy m]
 
 *3301|
 [fc]
-[ns]男[nse]
-「な、なんだ、よぐみりゃ゛、がわ゛いいじゃね゛え゛が～。[r]
-　じゃあ゛、この゛いだみ゛は～、お゛まん゛ごでぇ[r]
-　つ゛ぐな゛っで～もらおうが～」[pcms]
+[ns]Male[nse]
+"What's this? You're not bad looking at all... Well then, let me have[r]
+a taste of that pussy instead."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3302|
 [fc]
-怒りに燃えた男が、いきなりターヤさんに襲いかかった。[pcms]
+The enraged man suddenly attacked Tarja.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3303|
 [fc]
-[ns]誠[nse]
-「ターヤさん、危ないっ！」[pcms]
+[ns]Makoto[nse]
+"Tarja-san, watch out!"[pcms]
 
 ;//m:直前のイベント(ファイティングポーズのターヤ)にもよるが、とりあえずcos1（頭羽無し）にしておく。
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -504,8 +495,8 @@
 *3304|
 [fc]
 [vo_tay s="taja_tj0019"]
-[ns]ターヤ[nse]
-「はあっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Haa!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan2_x"][ChrSetXY layer=5 x=260 y=0][trans_c cross time=150]
 
@@ -520,8 +511,9 @@
 
 *3305|
 [fc]
-向かってきた男の足元を、その場に屈んだターヤさんの足が[r]
-まるで格ゲーのキャラみたいに、きれいに一回転してなぎ払った。[pcms]
+Tarja, crouching on the spot, swept the approaching man's feet out[r]
+from under him with a beautiful spin, just like a character from a[r]
+fighting game.[pcms]
 
 ;//SE：倒れる音
 [se buf=0 storage="seB013"]
@@ -531,38 +523,38 @@
 
 *3306|
 [fc]
-ターヤさんに襲いかかった男は、襲いかかった時の勢いのまま、[r]
-前につんのめって転んでしまった。[pcms]
+The man who attacked Tarja fell forward from his own momentum and[r]
+tumbled to the ground.[pcms]
 
 *3307|
 [fc]
-[ns]誠[nse]
-「ターヤさんっ！」[pcms]
+[ns]Makoto[nse]
+"Tarja-san!"[pcms]
 
 *3308|
 [fc]
-僕はターヤさんに声をかけた。[pcms]
+I called out to Tarja-san.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta19"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3309|
 [fc]
 [vo_tay s="taja_tj0020"]
-[ns]ターヤ[nse]
-「大丈夫。任せて」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I'm fine. Leave it to me."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3310|
 [fc]
-そう言うと、ターヤさんは新体操のように、思い切り[r]
-のけ反ってジャンプした。[pcms]
+With those words, Tarja-san arched her back like a rhythmic gymnast[r]
+and leapt with all her might.[pcms]
 
 *3311|
 [fc]
-そして、地面に倒れて起き上がろうともがいている男の[r]
-うなじ目がけて、体のバネと落下の衝撃を生かして、[r]
-折れたゲートボールスティックの柄を思い切り突き刺した。[pcms]
+Then, aiming for the nape of the man struggling to get up from the[r]
+ground, she used the spring in her body and the force of her fall to[r]
+drive the broken gateball stick handle down with all her might.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan2_x"][ChrSetXY layer=5 x=260 y=0][trans_c cross time=150]
 
@@ -576,30 +568,30 @@
 
 *3312|
 [fc]
-[ns]男[nse]
-「ごぶうぅうぅぐぅぅぅぅっ………！」[pcms]
+[ns]Male[nse]
+"Gobuuuuuuguuuuuuu...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3313|
 [fc]
-男はターヤさんが突き刺したゲートボールスティックの柄で、[r]
-うなじを貫かれていた。[pcms]
+The man had been impaled through the nape by the handle of the[r]
+gateball stick that Tarja-san had thrust.[pcms]
 
 *3314|
 [fc]
-突き刺したスティックの先端は、男の口から飛び出して[r]
-地面に突き刺さり、男の体を縫い付けていた。[pcms]
+The tip of the thrust stick protruded from the man's mouth and stuck[r]
+into the ground, pinning his body down.[pcms]
 
 *3315|
 [fc]
-地面に頭を串刺しにされた男が、まるで標本にされた虫みたいに[r]
-手足をぴくぴくと動かしてるのが気持ち悪い。[pcms]
+The man, with his head skewered to the ground, twitched his limbs like[r]
+an insect pinned as a specimen, which was disturbing to watch.[pcms]
 
 *3316|
 [fc]
-しばらくすると、男は頭を地面に縫い付けられたまま、[r]
-ぐったりと動かなくなった。[pcms]
+After a while, the man, still pinned to the ground by his head,[r]
+stopped moving completely.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -613,16 +605,16 @@
 *3317|
 [fc]
 [vo_tay s="taja_tj0021"]
-[ns]ターヤ[nse]
-「大丈夫？　たまたまここに逃げてきたら、ほんとに偶然[r]
-　中澤君が襲われてるのを見たんで……」[pcms]
+[ns]Tarja[nse]
+"Are you okay? I just happened to run here and, by pure chance, saw[r]
+you being attacked, Nakazawa-kun..."[pcms]
 
 *3318|
 [fc]
-ターヤさんが僕のそばに近寄ってくる。[pcms]
+Tarja-san approached me.[pcms]
 
 ;//m:以下、鎧の一部を脱いで立ちキャラが変わるシーン、イベントtaja_N003合わせの為、全カット。
-;//[ns]誠[nse]
+[ns]Makoto[nse]
 ;//「う、うん……ありがとう。
 ;//　僕は大丈夫だけど、ターヤさんは？」
 
@@ -630,20 +622,20 @@
 ;//ターヤ中＠コスプレ１（フル＋頭飾り）　表情06　悲し１　;//
 
 ;//[vo_tay s="taja_tj0022"]
-;//[ns]ターヤ[nse]
+[ns]Tarja[nse]
 ;//「わたしも平気だけど……服が」
 
 ;//見ると、ターヤさんのコスプレ衣装には、今倒した感染者の
 ;//返り血が何ヶ所か飛んでしまっていた。
 
-;//[ns]誠[nse]
+[ns]Makoto[nse]
 ;//「あ、感染者の血は、ウイルスに汚染されてるから危ないよ」
 
 ;//ターヤさんが、自分のコスプレのアーマーに飛んだ血痕を見て
 ;//残念そうに呟く。
 
 ;//[vo_tay s="taja_tj0023"]
-;//[ns]ターヤ[nse]
+[ns]Tarja Pohjonen[nse]
 ;//「この鎧、気に入ってたのにな……しかたないから、捨ててく」
 
 ;//[chara_int][trans_c cross time=150]
@@ -658,7 +650,7 @@
 ;//これ以上変なことを言って、せっかく助けてくれた
 ;//ターヤさんの機嫌を損ねたくなかった。
 
-;//[ns]誠[nse]
+[ns]Makoto[nse]
 ;//「鎧……残念だったね。僕のせいで……ごめんね」
 
 ;//m:とりあえずコスパージ1段階に
@@ -666,7 +658,7 @@
 ;//ターヤ中＠コスプレ２（部分）　表情04　真剣　　;//
 
 ;//[vo_tay s="taja_tj0024"]
-;//[ns]ターヤ[nse]
+[ns]Tarja Pohjonen[nse]
 ;//「ううん、仕方ない。中澤君の命には代えられないし」
 
 ;//そう言うと、ターヤさんがようやくうっすらと笑ってくれたので
@@ -677,12 +669,12 @@
 *3319|
 [fc]
 [vo_tay s="taja_tj0025"]
-[ns]ターヤ[nse]
-「行こう。こっちに安全な場所があるの」[pcms]
+[ns]Tarja[nse]
+"Let's go. There's a safe place this way."[pcms]
 
 *3320|
 [fc]
-僕は、ターヤさんの道案内に従って歩き出した。[pcms]
+I started walking, following Tarja-san's lead.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

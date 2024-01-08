@@ -37,17 +37,16 @@
 
 *262|
 [fc]
-[ns]誠[nse]
-「んん……るさ…………うひゃあ……」[pcms]
+[ns]Makoto[nse]
+"Nnn... it's so... uhyaaa..."[pcms]
 
 *263|
 [fc]
-携帯を取ろうとして手を伸ばしたら、ちんちんがぬるっと[r]
-滑った。[pcms]
+When I reached out to grab my phone, my dick slipped out smoothly.[pcms]
 
 *264|
 [fc]
-あまりの気持ちよさに、僕はつい声を上げてしまう。[pcms]
+The sensation was so good that I couldn't help but let out a voice.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -57,34 +56,34 @@
 
 *265|
 [fc]
-どうやら、昨夜挿れたまんまで寝ちゃったらしい。[r]
-今の僕のちんちんへの刺激は、姉ちゃんのまんこ汁と[r]
-僕の精液が混じった、ぬめり気のせいだ。[pcms]
+It seems I fell asleep last night with it still inside. The current[r]
+stimulation to my dick is due to the slippery mix of Onee-san's pussy[r]
+juice and my semen.[pcms]
 
 *266|
 [fc]
-携帯を取ろうとして、姉ちゃんのおまんこから、[r]
-ずるっと抜けてしまったときのものだった。[pcms]
+It happened when I reached for my phone and it slipped out of Onee-[r]
+san's pussy with a slurp.[pcms]
 
 *267|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *268|
 [fc]
-今思い出しても信じられない。[r]
-まさか、姉ちゃんとしてしまうなんて。[pcms]
+I still can't believe it when I think about it now. I never imagined I[r]
+would do it with Onee-san.[pcms]
 
 *269|
 [fc]
-初めてなのに、結構激しかった気もする。[r]
-こういうものなのかも知れないけれど……。[pcms]
+Even though it was my first time, it felt pretty intense. Maybe this[r]
+is how it's supposed to be...[pcms]
 
 *270|
 [fc]
-なんか、ものすごく気恥ずかしい。[r]
-姉ちゃんが起きてきたら、どんな顔すればいいんだろう。[pcms]
+I feel incredibly embarrassed. What kind of face am I supposed to make[r]
+when Onee-san wakes up?[pcms]
 
 ;//★bg12a ホテル客室・朝昼
 [bg storage="BG12a"][trans_c cross time=500]
@@ -94,85 +93,85 @@
 
 *271|
 [fc]
-[ns]誠[nse]
-「……あ、着信が入ってる」[pcms]
+[ns]Makoto[nse]
+"...Ah, there's an incoming call."[pcms]
 
 *272|
 [fc]
-携帯にはそーいちからの着信履歴があった。[r]
-時計の表示を見ると、思っていたよりも遅い時間になっている。[pcms]
+There was a call history from Souichi on my phone. Looking at the[r]
+time, it was later than I thought.[pcms]
 
 *273|
 [fc]
-よーするに、僕はだいぶ、寝坊しちゃったってことだ。[pcms]
+In other words, I've overslept quite a bit.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_ts1_c"][ChrSetParts layer=5 chface="F2_na16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *274|
 [fc]
 [vo_nat s="natu_nt0082"]
-[ns]夏都[nse]
-「ん……誠？」[pcms]
+[ns]Natsu[nse]
+"Mmm... Makoto?"[pcms]
 
 *275|
 [fc]
-[ns]誠[nse]
-「あ、ね、姉ちゃん。起きた？」[pcms]
+[ns]Makoto[nse]
+"Ah, yeah, Onee-san. You're awake?"[pcms]
 
 *276|
 [fc]
 [vo_nat s="natu_nt0083"]
-[ns]夏都[nse]
-「ん～……まだ眠……い。今って、何時？」[pcms]
+[ns]Natsu[nse]
+"Mmm... still sleepy... What time is it now?"[pcms]
 
 *277|
 [fc]
-姉ちゃんは、いつもと変わらない様子だった。[r]
-こういうの気にするのって、男の方だけなのかな……。[pcms]
+Onee-san seemed the same as always. I wonder if worrying about this[r]
+kind of thing is just a guy thing...[pcms]
 
 *278|
 [fc]
-[ns]誠[nse]
-「そーいちから起きろ遅くなるぞって、携帯に掛けてくる[r]
-　ぐらいの時間だけど……」[pcms]
+[ns]Makoto[nse]
+"It's about the time when Souichi calls to wake me up because it's[r]
+getting late..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_ts1_c"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *279|
 [fc]
 [vo_nat s="natu_nt0084"]
-[ns]夏都[nse]
-「よっく、わかんないよ、それ」[pcms]
+[ns]Natsu[nse]
+"I don't really get it, that."[pcms]
 
 *280|
 [fc]
-[ns]誠[nse]
-「なんにしても、僕、完全寝坊でまずいってこと！」[pcms]
+[ns]Makoto[nse]
+"Anyway, I've completely overslept and that's bad!"[pcms]
 
 *281|
 [fc]
-姉ちゃんが繊細だとか期待してないけれど、[r]
-ここまで無頓着だとなんだかがっくり来る。[pcms]
+I wasn't expecting Onee-san to be sensitive, but her nonchalance is[r]
+kind of disappointing.[pcms]
 
 *282|
 [fc]
-大したことじゃないのかなぁ……。[pcms]
+Maybe it's not a big deal...[pcms]
 
 *283|
 [fc]
 [vo_nat s="natu_nt0085"]
-[ns]夏都[nse]
-「……そっか。ふあああ……」[pcms]
+[ns]Natsu[nse]
+"...I see. Fuaaaa..."[pcms]
 
 *284|
 [fc]
-[ns]誠[nse]
-「シャワー浴びて出かける仕度するね」[pcms]
+[ns]Makoto[nse]
+"I'm going to take a shower and get ready to go out."[pcms]
 
 *285|
 [fc]
-僕はそう言いながら、まだベッドの上でのてのてしてる[r]
-姉ちゃんを見ながらバスルームへ向かった。[pcms]
+As I said that, I headed to the bathroom while looking at Onee-san who[r]
+was still lazing on the bed.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -193,45 +192,44 @@
 
 *286|
 [fc]
-[ns]誠[nse]
-「あれ？　まだ寝てたの？」[pcms]
+[ns]Makoto[nse]
+"Huh? You were still sleeping?"[pcms]
 
 *287|
 [fc]
-姉ちゃんは、未だにベッドの上でまったりしていた。[r]
-着替えなんて当然してなくて、真っ裸のまんま。[pcms]
+Onee-san was still lounging on the bed. Of course, she hadn't changed[r]
+yet and was completely naked.[pcms]
 
 *288|
 [fc]
-その姿を見ていたら、僕の方もなんだか吹っ切れてきた。[r]
-セックスする仲ってこういうものなのかもしれない。[pcms]
+Seeing her like that made me feel like I had come to terms with it.[r]
+Maybe this is what being in a sexual relationship is like.[pcms]
 
 *289|
 [fc]
-それならそれで、思い切りエロいことしたくなる。[pcms]
+If that's the case, I really want to do something erotic with abandon.[pcms]
 
 *290|
 [fc]
 [vo_nat s="natu_nt0086"]
-[ns]夏都[nse]
-「う～ん。そろそろ起きるけど……ふあああ。正直眠い」[pcms]
+[ns]Natsu[nse]
+"Hmm. I'll get up soon but... fuaaaa. Honestly, I'm sleepy."[pcms]
 
 *291|
 [fc]
-[ns]誠[nse]
-「フェスの時間、大丈夫なの？」[pcms]
+[ns]Makoto[nse]
+"Are you sure you'll be okay for the festival?"[pcms]
 
 *292|
 [fc]
 [vo_nat s="natu_nt0087"]
-[ns]夏都[nse]
-「うん。まだ大丈夫」[pcms]
+[ns]Natsu[nse]
+"Yeah. There's still time."[pcms]
 
 *293|
 [fc]
-[ns]誠[nse]
-「そっか。じゃあ、僕は出かけるからね……。[r]
-　行ってきます。バイバイ……んちゅううっっ！！」[pcms]
+[ns]Makoto[nse]
+"Okay then. I'm heading out... Take care. Bye-bye... nchu uuuu!!"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -253,20 +251,19 @@
 *294|
 [fc]
 [vo_nat s="natu_nt0088"]
-[ns]夏都[nse]
-「ああっんっ、こらぁ、んもうっ！」[pcms]
+[ns]Natsu[nse]
+"Ahhnn, hey, geez!"[pcms]
 
 *295|
 [fc]
-[ns]誠[nse]
-「んちゅううっ、んんっちゅうううっ。バイバイのキスぅ。[r]
-　んんっちゅううっっっ！！」[pcms]
+[ns]Makoto[nse]
+"Nchu uuuu, nnnnchu uuuu. A goodbye kiss. Nnnnchu uuuu!!!"[pcms]
 
 *296|
 [fc]
 [vo_nat s="natu_nt0089"]
-[ns]夏都[nse]
-「あっ、ああっ、あっ、や、やあっん」[pcms]
+[ns]Natsu[nse]
+"Ah, ah, ah, no, yaaann"[pcms]
 
 ;//seA061.ogg
 [se buf=0 storage="seA061"]
@@ -274,8 +271,8 @@
 
 *297|
 [fc]
-[ns]誠[nse]
-「ん～……ちゅぼっ！」[pcms]
+[ns]Makoto[nse]
+"Nnn... chubo!"[pcms]
 
 ;//★bg12a ホテル客室・朝昼
 [bg storage="BG12a"][trans_c cross time=500]
@@ -283,37 +280,36 @@
 *298|
 [fc]
 [vo_nat s="natu_nt0090"]
-[ns]夏都[nse]
-「んもう、バイバイのちゅうは、ほっぺとか唇だろ～？」[pcms]
+[ns]Natsu[nse]
+"Geez, a goodbye kiss should be on the cheek or lips, right?"[pcms]
 
 *299|
 [fc]
-[ns]誠[nse]
-「えへへ。名残惜しくてね。[r]
-　バイバイのキスをぱいぱいにしてみましたっ！」[pcms]
+[ns]Makoto[nse]
+"Ehehe. I just couldn't bear to leave. So I turned the goodbye kiss[r]
+into a boob kiss!"[pcms]
 
 *300|
 [fc]
 [vo_nat s="natu_nt0091"]
-[ns]夏都[nse]
-「ばか誠」[pcms]
+[ns]Natsu[nse]
+"Stupid Makoto"[pcms]
 
 *301|
 [fc]
-[ns]誠[nse]
-「じゃあ行ってくるから。姉ちゃんも、フェス楽しんで来てね。[r]
-　あ、でも、変なのもいるから気をつけないと」[pcms]
+[ns]Makoto[nse]
+"Well then, I'm off. Have fun at the festival, Onee-san. Oh, but be[r]
+careful since there might be some weirdos around."[pcms]
 
 *302|
 [fc]
 [vo_nat s="natu_nt0092"]
-[ns]夏都[nse]
-「うん……誠も気をつけてな」[pcms]
+[ns]Natsu[nse]
+"Yeah... Makoto, you be careful too."[pcms]
 
 *303|
 [fc]
-ベッドの上で手を振る姉ちゃんに手を振り返しながら、[r]
-部屋を出た。[pcms]
+Waving back at Onee-san who was waving from the bed, I left the room.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -334,35 +330,35 @@
 
 *304|
 [fc]
-[ns]宗一郎[nse]
-「どちらさまかな？」[pcms]
+[ns]Souichirou[nse]
+"Who might that be?"[pcms]
 
 *305|
 [fc]
-[ns]誠[nse]
-「僕だよ、そーいち。開けて」[pcms]
+[ns]Makoto[nse]
+"It's me, Sou-ichi. Open up."[pcms]
 
 *306|
 [fc]
-鍵はもらってるから自分で開けられるんだけど、[r]
-なんだかそーいちに開けさせたい気分だった。[pcms]
+Even though I have the key and could open it myself, I felt like[r]
+letting Sou-ichi open the door.[pcms]
 
 *307|
 [fc]
-なんて、やめておいた方が無難かな。[r]
-初めてが終わって、気持ちが大きくなってるのがわかる。[pcms]
+I guess I should stop. I can tell I'm getting carried away since my[r]
+first time is over.[pcms]
 
 ;//seA011.ogg
 [se buf=0 storage="seA011"]
 
 *308|
 [fc]
-[ns]宗一郎[nse]
-「ほほう。朝帰りとは、大胆ですな」[pcms]
+[ns]Souichirou[nse]
+"Ho ho. Coming home in the morning, how bold."[pcms]
 
 *309|
 [fc]
-そう言いながら、そーいちがドアを開けてくれた。[pcms]
+While saying that, Sou-ichi opened the door for me.[pcms]
 
 ;//★bg12a ホテル客室・朝昼
 [bg storage="BG12a"][trans_c blind_lr time=1000]
@@ -371,80 +367,80 @@
 
 *310|
 [fc]
-[ns]誠[nse]
-「携帯に連絡してくれて、ありがと、そーいち」[pcms]
+[ns]Makoto[nse]
+"Thanks for contacting me on my cell, Sou-ichi."[pcms]
 
 *311|
 [fc]
-[ns]宗一郎[nse]
-「まさか、コール音で目が覚めたとか？」[pcms]
+[ns]Souichirou[nse]
+"Don't tell me, you woke up because of the call?"[pcms]
 
 *312|
 [fc]
-[ns]誠[nse]
-「そのとーり。大寝坊。ごめん……」[pcms]
+[ns]Makoto[nse]
+"Exactly. Overslept. Sorry..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so01b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *313|
 [fc]
-[ns]宗一郎[nse]
-「で、部屋に帰ってこなかった、いや、来られなかった[r]
-　理由はいかに？」[pcms]
+[ns]Souichirou[nse]
+"So, what's the reason you didn't come back to your room, no, couldn't[r]
+come back?"[pcms]
 
 *314|
 [fc]
-[ns]誠[nse]
-「え？　ああ、姉ちゃんと……その、いっぱい……」[pcms]
+[ns]Makoto[nse]
+"Eh? Oh, with Onee-san... that, a lot..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so05b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *315|
 [fc]
-[ns]宗一郎[nse]
-「いっぱい？　いっぱい？　いっぱい？　何をしたと？」[pcms]
+[ns]Souichirou[nse]
+"A lot? A lot? A lot? What did you do?"[pcms]
 
 *316|
 [fc]
-[ns]誠[nse]
-「……話してた」[pcms]
+[ns]Makoto[nse]
+"...talked."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_si_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [eval exp="f.chara_x = 0,f.chara_y = 0"][quake_chara layer=5 xy up m]
 
 *317|
 [fc]
-[ns]宗一郎[nse]
-「ぬわあああにをををっ！　それで大寝坊したと？」[pcms]
+[ns]Souichirou[nse]
+"Nuwaaa! That's why you overslept?"[pcms]
 
 *318|
 [fc]
-[ns]誠[nse]
-「う、うん」[pcms]
+[ns]Makoto[nse]
+"Uh, yeah."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so05b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *319|
 [fc]
-[ns]宗一郎[nse]
-「ぬぬぬうう……怪しい」[pcms]
+[ns]Souichirou[nse]
+"Nununu... suspicious."[pcms]
 
 *320|
 [fc]
-[ns]誠[nse]
-「ほら、急ごうよ。寝坊した僕が言うのもなんだけどさ」[pcms]
+[ns]Makoto[nse]
+"Come on, let's hurry. It's funny for me to say this after[r]
+oversleeping."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so01a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *321|
 [fc]
-[ns]宗一郎[nse]
-「……うむ」[pcms]
+[ns]Souichirou[nse]
+"...Hmm."[pcms]
 
 *322|
 [fc]
-それ以上のツッコミが無かったので、僕らは部屋を出て、[r]
-下に降りた。[pcms]
+With no further probing, we left the room and went downstairs.[pcms]
 
 ;//seA011.ogg
 [se buf=0 storage="seA011"]
@@ -457,98 +453,96 @@
 
 *323|
 [fc]
-[ns]すれ違う男[nse]
-「ごほっ……ごほごほっ……げほっげほっげほっげほっ……」[pcms]
+[ns]Passing Man[nse]
+"Goh... goh goh... geho geho geho geho..."[pcms]
 
 *324|
 [fc]
 [vo_mob s="wife0001"]
-[ns]その妻[nse]
-「ね、ねえあなた。大丈夫？」[pcms]
+[ns]That wife[nse]
+"Hey, dear. Are you okay?"[pcms]
 
 *325|
 [fc]
-夏だって言うのに、やたらと咳き込んで苦しそうな人と、[r]
-すれ違った。[r]
-聴くともなしに、会話が耳に入ってくる。[pcms]
+Despite it being summer, we passed by someone who was coughing[r]
+severely. I couldn't help but overhear their conversation.[pcms]
 
 *326|
 [fc]
-[ns]すれ違う男[nse]
-「ぐほっ……げほっげほげほげほっ……」[pcms]
+[ns]Passing Man[nse]
+"Guh... geho geho geho geho..."[pcms]
 
 *327|
 [fc]
 [vo_mob s="wife0002"]
-[ns]その妻[nse]
-「ねえ、やっぱり昨日定食屋で喧嘩した人から[r]
-　[ruby text="うつ"][ch text="感染"]されたんじゃないかしら？[r]
-　病気持ちだったんじゃない？」[pcms]
+[ns]That wife[nse]
+"Hey, maybe you got infected by that person you fought with at the[r]
+diner yesterday? Could they have been sick?"[pcms]
 
 *328|
 [fc]
-[ns]すれ違う男[nse]
-「げほっ……馬鹿か？　げほっげほげほっ……[r]
-　噛まれてうつる風邪なんて、あるわけないだろ？[r]
-　冷房の入れすぎでひいたんだよっ」[pcms]
+[ns]Passing Man[nse]
+"Geho... Stupid? Geho geho geho... There's no such thing as a cold[r]
+that spreads through bites. It's just a cold from too much air[r]
+conditioning!"[pcms]
 
 *329|
 [fc]
-そう言いながら、そのひとは、包帯を巻いた腕を振り上げていた。[pcms]
+While saying that, the man was waving his bandaged arm.[pcms]
 
 *330|
 [fc]
 [vo_mob s="wife0003"]
-[ns]その妻[nse]
-「……で、でも。ねえ、何にしてもお医者に行きましょうよ。[r]
-　心配なの。ね、お願い」[pcms]
+[ns]That wife[nse]
+"...But still. Hey, let's go to the doctor anyway. I'm worried.[r]
+Please."[pcms]
 
 *331|
 [fc]
-[ns]すれ違う男[nse]
-「大丈夫だよ。げほっごほっ……どっかで風邪薬でも買うさ……」[pcms]
+[ns]Passing Man[nse]
+"I'm fine. Goh goh... I'll buy some cold medicine somewhere..."[pcms]
 
 *332|
 [fc]
 [vo_mob s="wife0004"]
-[ns]その妻[nse]
-「…………」[pcms]
+[ns]That wife[nse]
+"..."[pcms]
 
 *333|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so01b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *334|
 [fc]
-[ns]宗一郎[nse]
-「誠？　どうした？」[pcms]
+[ns]Souichirou[nse]
+"Makoto? What's wrong?"[pcms]
 
 *335|
 [fc]
-[ns]誠[nse]
-「……ん、いや……ちょっとあの人、大丈夫かなって」[pcms]
+[ns]Makoto[nse]
+"...No, it's just... I was wondering if that person is okay."[pcms]
 
 *336|
 [fc]
-どうにも様子が気になって、僕は振り返ってそのご夫婦だと[r]
-思われる二人の後ろ姿を見つめてしまっていた。[pcms]
+I couldn't help but be concerned about their condition, so I turned[r]
+back to look at the couple who I assumed were husband and wife.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so01a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *337|
 [fc]
-[ns]宗一郎[nse]
-「夏風邪だろ？　うつされないように気をつけねばな。[r]
-　これから、お楽しみがいっぱいあるのだから。[r]
-　さ、急ぐぞ。ターヤさんが俺たちを待っておる」[pcms]
+[ns]Souichirou[nse]
+"It's probably just a summer cold. We need to be careful not to catch[r]
+it. We have a lot of fun ahead of us. Now, let's hurry. Tarja-san is[r]
+waiting for us."[pcms]
 
 *338|
 [fc]
-[ns]誠[nse]
-「……うん」[pcms]
+[ns]Makoto[nse]
+"...Yeah."[pcms]
 
 ;//seA049.ogg
 [se buf=0 storage="seA049"]
@@ -556,13 +550,13 @@
 
 *339|
 [fc]
-デヴのくせに軽快に走り出すそーいちの後を追う。[r]
-でも、僕の気持ちは、まだあのご夫婦に向いていた。[pcms]
+I chased after Sou-ichi who started running lightly despite his size.[r]
+But my thoughts were still with that couple.[pcms]
 
 *340|
 [fc]
-なんだろう……なんだか胸騒ぎがする。[r]
-妙な既視感みたいなのが、ちかちかしていた。[pcms]
+I wonder... I had a strange feeling of unease. It was like a weird[r]
+sense of dj vu flickering in my mind.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -570,31 +564,31 @@
 
 *341|
 [fc]
-[ns]誠[nse]
-「……あ」[pcms]
+[ns]Makoto[nse]
+"...Ah"[pcms]
 
 *342|
 [fc]
-やばい。不吉な予感的中しちゃうかも。[pcms]
+This is bad. I might have a bad premonition coming true.[pcms]
 
 *343|
 [fc]
-だって、仲間内で夏休みのリゾートにやってきて、たぶん、[r]
-だけど、きっとその中で最初にセックスしたカップルに、[r]
-僕と姉ちゃんは、なっちゃったはずなんだ。[pcms]
+After all, we came to a resort for summer vacation with friends, and[r]
+probably, but surely, my sister and I must have become the first[r]
+couple to have sex.[pcms]
 
 *344|
 [fc]
-うわあ……どうしよう。[r]
-殺人鬼に襲われたら、まっさきに殺されちゃうのかも？[pcms]
+Ugh... what should I do. If a murderer attacks, maybe we'll be the[r]
+first to be killed?[pcms]
 
 *345|
 [fc]
-……いや、そんなことあるわけないよね。[pcms]
+...No, that can't be possible.[pcms]
 
 *346|
 [fc]
-でも、なんだか心のどこかがざわざわしていた。[pcms]
+But still, something in my heart was restless.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

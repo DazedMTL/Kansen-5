@@ -18,23 +18,23 @@
 *1046|
 [fc]
 [vo_stk s="satuki0225"]
-[ns]彩月[nse]
-「中澤君」[pcms]
+[ns]Satsuki[nse]
+"Nakazawa-kun"[pcms]
 
 *1047|
 [fc]
-[ns]誠[nse]
-「南先輩！」[pcms]
+[ns]Makoto[nse]
+"Senior Minami!"[pcms]
 
 *1048|
 [fc]
-一安心したところで、遠巻きに見ていた人の中から[r]
-南先輩が進み出てきた。[pcms]
+Just as I felt a sigh of relief, Senior Minami stepped forward from[r]
+the crowd that had been watching from a distance.[pcms]
 
 *1049|
 [fc]
-キャンプ場にいると思っていたのに、[r]
-まさかホテルにいたなんて！[pcms]
+I thought she was at the campsite, but to think she was actually at[r]
+the hotel![pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
@@ -44,27 +44,28 @@
 *1050|
 [fc]
 [vo_stk s="satuki0226"]
-[ns]彩月[nse]
-「すごいわね、中澤君がこんなに勇敢だとは思わなかったわ」[pcms]
+[ns]Satsuki[nse]
+"It's amazing, I never thought Nakazawa-kun could be so brave."[pcms]
 
 *1051|
 [fc]
-[ns]誠[nse]
-「いや、そういうわけじゃ……」[pcms]
+[ns]Makoto[nse]
+"No, it's not like that..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1052|
 [fc]
-褒められ慣れてないせいか、妙に落ち着かない感じがする。[r]
-特に、勇敢とか僕の辞書には載っていない言葉だ。[pcms]
+Maybe because I'm not used to being praised, I feel strangely[r]
+uncomfortable. Especially since words like 'brave' aren't in my[r]
+vocabulary.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1053|
 [fc]
-程々で切り上げようと足を横に向けると、[r]
-その先に見知った顔が並んでいた。[pcms]
+As I tried to wrap things up and turned to leave, I saw a familiar[r]
+face ahead.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=30 y=0]
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -72,29 +73,29 @@
 *1054|
 [fc]
 [vo_sat s="sato0092"]
-[ns]怜[nse]
-「誠くん、なんか映画の登場人物みたいだったよ！」[pcms]
+[ns]Sato[nse]
+"Makoto-kun, you looked like a character out of a movie!"[pcms]
 
 *1055|
 [fc]
 [vo_tay s="taja0135"]
-[ns]ターヤ[nse]
-「すごくハラハラした……」[pcms]
+[ns]Tarja[nse]
+"It was so thrilling..."[pcms]
 
 *1056|
 [fc]
-[ns]誠[nse]
-「村上さん！　ターヤさんも！」[pcms]
+[ns]Makoto[nse]
+"Murakami-san! And Tarja-san too!"[pcms]
 
 *1057|
 [fc]
-二人はこれから部活に行くところだったのか、[r]
-ジャージ姿の軽装だった。[pcms]
+The two of them must have been on their way to club activities, as[r]
+they were dressed lightly in jerseys.[pcms]
 
 *1058|
 [fc]
-下にはレオタードを着ているんだろうか？[r]
-なんにしても無事で良かった。[pcms]
+I wonder if they're wearing leotards underneath? Anyway, it's good[r]
+that they're safe.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st1_t1_b"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -102,27 +103,27 @@
 *1059|
 [fc]
 [vo_stk s="satuki0227"]
-[ns]彩月[nse]
-「キャンプ場のコンビニが品薄だったから、[r]
-　ここまで買いに戻っていたの」[pcms]
+[ns]Satsuki[nse]
+"The convenience store at the campsite was running low on supplies, so[r]
+I came back here to buy some."[pcms]
 
 *1060|
 [fc]
-[ns]誠[nse]
-「そうだったんですか、心配していたんですよ」[pcms]
+[ns]Makoto[nse]
+"Is that so? I was worried about you."[pcms]
 
 *1061|
 [fc]
-キャンプ場まで来てコンビニが品薄というのも[r]
-どうかと思うけど、そのおかげで南先輩は助かった。[pcms]
+It's questionable that the convenience store at the campsite is[r]
+running low on supplies, but thanks to that, Senior Minami was saved.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1062|
 [fc]
-アウトドア慣れしていない日本人に感謝しつつ、[r]
-それだけの品を消費しているキャンプ場が、[r]
-今どうなっているのかを考えると少し怖い気がする。[pcms]
+While feeling grateful to the Japanese who are not accustomed to the[r]
+outdoors, the thought of how much supplies the campsite is consuming[r]
+and what it's like now is a bit scary.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa06"][ChrSetXY layer=3 x=30 y=0]
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta01"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -130,302 +131,301 @@
 *1063|
 [fc]
 [vo_sat s="sato0093"]
-[ns]怜[nse]
-「あたしとターヤは、朝の練習前にコンビニに[r]
-　寄ろうと思ってたら巻き込まれたの」[pcms]
+[ns]Sato[nse]
+"Tarja and I were planning to stop by the convenience store before[r]
+morning practice when we got caught up in this."[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta04"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1064|
 [fc]
 [vo_tay s="taja0136"]
-[ns]ターヤ[nse]
-「コンビニはキャンプ場の方が近いけれど、[r]
-　怜がこっちって言うから……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"The convenience store is closer to the campsite, but Sato wanted to[r]
+come this way..."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *1065|
 [fc]
 [vo_sat s="sato0094"]
-[ns]怜[nse]
-「キャンプ場のコンビニは毎年品薄だからね、[r]
-　多分、棚が空っぽだろうと思ったんだ」[pcms]
+[ns]Sato[nse]
+"The convenience store at the campsite is always low on stock every[r]
+year, so I figured the shelves would probably be empty."[pcms]
 
 *1066|
 [fc]
-流局して、当たり牌を残していた人みたいに[r]
-村上さんが胸を張る。[pcms]
+Murakami-san puffed out her chest like someone who had avoided a draw[r]
+in mahjong and had kept their winning tiles.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1067|
 [fc]
-でも、南先輩がキャンプ場のコンビニから来ているんだから、[r]
-その予想は大当たりだったと言えた。[pcms]
+But since Senior Minami came from the convenience store at the[r]
+campsite, that prediction was spot on.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1068|
 [fc]
 [vo_stk s="satuki0228"]
-[ns]彩月[nse]
-「鋭い勘だったね、経験かな？」[pcms]
+[ns]Satsuki[nse]
+"That was a sharp intuition, was it experience?"[pcms]
 
 *1069|
 [fc]
-思わぬ邂逅を果たし、ホッとしていると、[r]
-横から越智さんが怒ったように詰め寄ってくる。[pcms]
+As I felt relieved from this unexpected encounter, Ochi-san approached[r]
+me angrily from the side.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1070|
 [fc]
 [vo_aka s="akari0665"]
-[ns]茜梨[nse]
-「まー君先輩！　あんなことしたら危ないじゃないですか！」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai! It's dangerous to do things like that!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1071|
 [fc]
-あんなことというのが、どれを指しているのかわからない。[r]
-それくらい、今日の僕は無茶をしていた。[pcms]
+I'm not sure which incident she's referring to as 'things like that.'[r]
+That's how reckless I've been today.[pcms]
 
 *1072|
 [fc]
-[ns]誠[nse]
-「いや、でも、助けに行かなきゃと思って……」[pcms]
+[ns]Makoto[nse]
+"No, but I thought I had to go help..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1073|
 [fc]
-越智さんは怒りながらも瞳に涙を溜めると、[r]
-ぷいっと横を向いてしまった。[pcms]
+Ochi-san had tears in her eyes even as she was angry, and then she[r]
+turned away with a huff.[pcms]
 
 *1074|
 [fc]
-心配を掛けてしまったんだ、[r]
-悪いことをしたと思う。[pcms]
+I feel bad for making her worry; I think I did something wrong.[pcms]
 
 *1075|
 [fc]
-[ns]誠[nse]
-「越智さん、ごめ……」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, I'm sor..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1076|
 [fc]
-[ns]宗一郎[nse]
-「よくやったぞ、我が同士よ！」[pcms]
+[ns]Souichirou[nse]
+"Well done, my comrade!"[pcms]
 
 *1077|
 [fc]
-[ns]西[nse]
-「ああ、おかげでみんな助かった」[pcms]
+[ns]West[nse]
+"Ah, thanks to you everyone was saved."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1078|
 [fc]
-集まってきた学園のみんなから、[r]
-賞賛の声が僕に寄せられていた。[pcms]
+Praise from everyone at the academy who had gathered was directed at[r]
+me.[pcms]
 
 *1079|
 [fc]
-滅多にないことだから大人しく聞いていればいいのに、[r]
-もうすぐにでもこの場を逃げ出したくなる。[pcms]
+I should just listen quietly since it's a rare occurrence, but I feel[r]
+like running away from this place as soon as possible.[pcms]
 
 *1080|
 [fc]
-でも、チアー部の女の子たちが花沢を助けたことに[r]
-感謝しているのは、なんとなく嬉しい気がした。[pcms]
+But somehow, it feels nice to be thanked by the cheerleading girls for[r]
+saving Hanazawa.[pcms]
 
 *1081|
 [fc]
-[ns]誠[nse]
-「え、あ、いや……」[pcms]
+[ns]Makoto[nse]
+"Uh, ah, no..."[pcms]
 
 *1082|
 [fc]
-これまでの人生でこんなに褒められたことがあっただろうか。[r]
-すぐ忘れられてしまうんだろうけれど、[r]
-この一瞬の喜びはある。[pcms]
+Have I ever been praised this much in my life? It will probably be[r]
+forgotten soon, but there is a moment of joy right now.[pcms]
 
 *1083|
 [fc]
-スポーツでも芸術でも、この達成感がたまらないのかも知れない。[r]
-次に味わうのは来世かも知れないけれど。[pcms]
+In sports or arts, maybe this sense of achievement is irresistible.[r]
+Though the next time I might experience it could be in another life.[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1084|
 [fc]
-[ns]荒井[nse]
-「よう、すまなかったな」[pcms]
+[ns]Arai[nse]
+"Hey, sorry about that."[pcms]
 
 *1085|
 [fc]
-荒井が面白く無さそうな仏頂面で僕に声をかけてくる。[pcms]
+Arai approached me with a sullen look as if he wasn't amused.[pcms]
 
 *1086|
 [fc]
-普段の学園でなら立場が完全に逆だ。[r]
-素直に謝ってくる荒井はむしろ偉いんだろう。[pcms]
+In the usual school setting, our positions would be completely[r]
+reversed. Arai, who is honestly apologizing, is rather admirable.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha06"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *1087|
 [fc]
 [vo_han s="hana0168"]
-[ns]花沢[nse]
-「あの、ありがとう中澤」[pcms]
+[ns]Hanazawa[nse]
+"Um, thank you, Nakazawa."[pcms]
 
 *1088|
 [fc]
-[ns]誠[nse]
-「ああ、いや、気にしないでくれ。[r]
-　僕も身体が勝手に動いたって言うか、良く考えてないから」[pcms]
+[ns]Makoto[nse]
+"Ah, no, don't worry about it. My body just moved on its own, or[r]
+rather, I wasn't thinking much."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1089|
 [fc]
-花沢はトイレに連れて行かれたのか、[r]
-下半身がびしょ濡れだった。[pcms]
+Hanazawa's lower half was soaking wet, perhaps she had been taken to[r]
+the restroom.[pcms]
 
 *1090|
 [fc]
-きっと、匂いがしないように洗ってきたんだろう。[r]
-あのままよりは、ずっといいはずだ。[pcms]
+She must have washed it so it wouldn't smell. It's definitely better[r]
+than leaving it as it was.[pcms]
 
 *1091|
 [fc]
-[ns]サッカー部員Ａ[nse]
-「すげえじゃねえか中澤！」[pcms]
+[ns]Soccer Club Member A[nse]
+"That's amazing, Nakazawa!"[pcms]
 
 *1092|
 [fc]
-[ns]サッカー部員Ｂ[nse]
-「正直俺はビックリしたぞ！」[pcms]
+[ns]Soccer Club Member B[nse]
+"Honestly, I was shocked!"[pcms]
 
 *1093|
 [fc]
 [vo_mob s="kojima0045"]
-[ns]小嶋[nse]
-「見直したわ、中澤君。[r]
-　こういうときに、本当の勇気が試されるのね」[pcms]
+[ns]Kojima[nse]
+"I've gained a new respect for you, Nakazawa-kun. It's in times like[r]
+these that true courage is tested."[pcms]
 
 *1094|
 [fc]
-[ns]誠[nse]
-「いや、もう、ホントに勘弁してください……」[pcms]
+[ns]Makoto[nse]
+"No, really, please spare me..."[pcms]
 
 *1095|
 [fc]
-どこに逃げようとしても学園のみんながいて、[r]
-僕に声をかけてくる。[pcms]
+No matter where I try to escape to, everyone from the academy is[r]
+there, calling out to me.[pcms]
 
 *1096|
 [fc]
-こんなに生き残った人がいることに、[r]
-少し驚きも覚えていた。[pcms]
+I was also a bit surprised to see so many survivors.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1097|
 [fc]
 [vo_nat s="natu0372"]
-[ns]夏都[nse]
-「クックック、慣れないことはするもんじゃないよな」[pcms]
+[ns]Natsu[nse]
+"Hehehe, doing something you're not used to can be quite the ordeal,[r]
+huh?"[pcms]
 
 *1098|
 [fc]
-[ns]誠[nse]
-「ね、姉ちゃん！」[pcms]
+[ns]Makoto[nse]
+"Right, Onee-san!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1099|
 [fc]
 [vo_nat s="natu0373"]
-[ns]夏都[nse]
-「声がうわずってるぞ」[pcms]
+[ns]Natsu[nse]
+"Your voice is cracking."[pcms]
 
 *1100|
 [fc]
-ニマニマと笑いながら、姉ちゃんが僕をからかう。[r]
-もう相手にしてちゃ駄目だな。[pcms]
+While grinning, Onee-san teases me. I really shouldn't engage with her[r]
+anymore.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1101|
 [fc]
-[ns]客Ａ[nse]
-「なにを喜んでいるんだか、危うく死人が出るところだった」[pcms]
+[ns]Customer A[nse]
+"What's there to be happy about? We nearly had a fatality."[pcms]
 
 *1102|
 [fc]
-[ns]客Ｂ[nse]
-「扉から奴らが入ってきたら、どうするつもりだったんだ？」[pcms]
+[ns]Guest B[nse]
+"What were you planning to do if they came through the door?"[pcms]
 
 *1103|
 [fc]
-[ns]客Ｃ[nse]
-「たまたま上手くいったから良かったが……、[r]
-　こっちはたまったものじゃない！」[pcms]
+[ns]Customer C[nse]
+"It turned out okay this time by chance... but this has been quite the[r]
+ordeal for us!"[pcms]
 
 *1104|
 [fc]
-避難してきている一般客は、この騒動を良く思って[r]
-いないみたいだった。[pcms]
+The general customers who had evacuated didn't seem to think well of[r]
+this commotion.[pcms]
 
 *1105|
 [fc]
-ただ、自分の安全を確保したいだけなら、[r]
-新しく避難者を受け入れる必要はない。[pcms]
+If they only wanted to ensure their own safety, there was no need to[r]
+accept new evacuees.[pcms]
 
 *1106|
 [fc]
-その人たちに軽く頭を下げると、[r]
-ぷいっと横を向いかれてしまった。[pcms]
+After giving a slight bow to those people, they turned away from me[r]
+with a huff.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1107|
 [fc]
-[ns]稼津央[nse]
-「さあさあ、避難してきたばかりの方はお疲れでしょう。[r]
-　最上階にＶＩＰルームがありますから、お休みください」[pcms]
+[ns]Kazuo[nse]
+"Now then, those of you who have just evacuated must be tired. There[r]
+is a VIP room on the top floor, please rest there."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_a"][ChrSetParts layer=5 chface="F1_so15a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1108|
 [fc]
-[ns]宗一郎[nse]
-「ＶＩＰルーム！？」[pcms]
+[ns]Souichirou[nse]
+"A VIP room!?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1109|
 [fc]
-[ns]稼津央[nse]
-「最上階は出入りを厳しく制限していましたから、安全ですよ」[pcms]
+[ns]Kazuo[nse]
+"The top floor has been strictly regulated for entry and exit, so it's[r]
+safe."[pcms]
 
 *1110|
 [fc]
-せっかくのお誘いだから休ませてもらうか。[r]
-あんまりよく寝てないし。[pcms]
+Since it's a generous offer, I might as well rest. I haven't been[r]
+sleeping well anyway.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1111|
 [fc]
-僕たちは稼津央さんの勧めに従って、[r]
-最上階に続くエレベータに乗り込んでいった。[pcms]
+We followed Mr. Kazuo's suggestion and boarded the elevator that went[r]
+up to the top floor.[pcms]
 
 ;//◆ジャンプ　5090
 [jump storage="5090.ks" target=*5090_TOP]

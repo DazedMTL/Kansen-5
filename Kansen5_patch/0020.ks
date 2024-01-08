@@ -24,20 +24,19 @@
 
 *459|
 [fc]
-山深い森の中に立てられた広大な施設から、[r]
-非常事態を知らせるアナウンスが流れていた。[pcms]
+An announcement signaling an emergency situation was being broadcast[r]
+from a vast facility erected deep within the mountainous forest.[pcms]
 
 *460|
 [fc]
-慌てて逃げていく軍用のジープやトラック。[r]
-それに遅れるように、自家用車やバスに乗った人々が[r]
-施設から離れていく。[pcms]
+Military jeeps and trucks hurriedly fled, followed by people in[r]
+private cars and buses leaving the facility behind.[pcms]
 
 [evcg storage="bgev01c"][trans_c cross time=1000]
 
 *461|
 [fc]
-そして、そのときは突然訪れた。[pcms]
+And then, it happened suddenly.[pcms]
 
 ;;不要？[wait_c time=1000]
 
@@ -53,8 +52,8 @@
 
 *462|
 [fc]
-虫の鳴く夜の森がしんと静まりかえり、[r]
-波のような衝撃波が木々をなぎ倒していく。[pcms]
+The night forest, quiet except for the chirping of insects, fell[r]
+silent as a wave-like shockwave toppled the trees.[pcms]
 
 [evcg storage="bgev01d"][trans_c cross time=0]
 ;不要？[wait_c time=1000]
@@ -67,35 +66,36 @@
 
 *463|
 [fc]
-それに遅れるように爆発の轟音が轟き、[r]
-火の玉のような火炎が、煙と共に立ち上っていた。[pcms]
+Following that, the roar of explosions thundered, and flames like[r]
+fireballs rose up with smoke.[pcms]
 
 *464|
 [fc]
-施設が木っ端微塵に吹き飛び、真っ赤な火炎に覆われている。[pcms]
+The facility was blown to smithereens and covered in bright red[r]
+flames.[pcms]
 
 *465|
 [fc]
-元々は建物であったコンクリートの破片が、[r]
-凶悪な鋭さで木々にめり込み、大地を[ruby text="うが"]穿っていた。[pcms]
+Concrete debris, once part of the building, embedded into the trees[r]
+with lethal sharpness and gouged the earth.[pcms]
 
 *466|
 [fc]
-数千度に達したと思われる火炎は、爆発の余波と共に消え失せ、[r]
-黒い煙だけを残している。[pcms]
+The flames, thought to have reached thousands of degrees, vanished[r]
+with the aftermath of the explosion, leaving only black smoke behind.[pcms]
 
 *467|
 [fc]
-鬱蒼と茂る森の中に、突如開けた部分ができあがっていた。[pcms]
+In the dense forest, a sudden clearing had formed.[pcms]
 
 *468|
 [fc]
-高熱の名残が辺りに火をくすぶらせ、[r]
-夜の闇に煙を立ち上らせている。[pcms]
+The remnants of high heat smoldered fires around the area, sending[r]
+smoke rising into the night's darkness.[pcms]
 
 *469|
 [fc]
-そこにはもう、以前の名残は何も残されていなかった。[pcms]
+There was no longer any trace of what had been there before.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -105,58 +105,57 @@
 
 *470|
 [fc]
-小高い丘から見下ろす場所で、[r]
-不気味なキノコ雲が立ち上っているのが見えた。[pcms]
+From a slightly elevated hill, one could see an ominous mushroom cloud[r]
+rising.[pcms]
 
 *471|
 [fc]
-これほどの災害であるのに、救助活動をしている人間の姿もなく、[r]
-立ち入り制限をしている警官の姿もない。[pcms]
+Despite such a disaster, there were no signs of rescue operations or[r]
+police enforcing access restrictions.[pcms]
 
 *472|
 [fc]
-かといって野次馬が群がっているわけでも、[r]
-二次災害を引き起こすような何かがあるわけでもないのだから、[r]
-このまま自然に沈静化するのを待つだけでも十分だった。[pcms]
+There were no onlookers gathering nor anything that might cause a[r]
+secondary disaster, so it was sufficient to just wait for nature to[r]
+settle down on its own.[pcms]
 
 *473|
 [fc]
-強いて言うなら、所有者が自らの権利を主張するために、[r]
-何かを求めるかも知れないが……その心配も無用だろう。[pcms]
+If anything, the owner might claim their rights in search of[r]
+something... but that worry was unnecessary.[pcms]
 
 *474|
 [fc]
-何故なら……そこは、公的機関のいかなる書類上にも[r]
-存在しない施設であり、今、公に知られぬまま[r]
-闇に葬られたからである。[pcms]
+Because... that place did not exist on any public agency's documents[r]
+and now, unbeknownst to the public, it was being buried in darkness.[pcms]
 
 *475|
 [fc]
-つまり、明確な所有者は存在せず、損害を受ける者もいない。[r]
-非難の声をあげる人間そのものが存在しないのだ。[pcms]
+In other words, there was no clear owner, no one to suffer damage, no[r]
+one to raise a voice of blame.[pcms]
 
 *476|
 [fc]
-あの大惨事が起きて以来、人の住む場所ではなくなった[r]
-大地に作られた巨大な施設。[pcms]
+Since that great disaster, the land that had become uninhabitable was[r]
+home to a massive facility.[pcms]
 
 *477|
 [fc]
-何から何まで秘密で塗り固められ、誰に知られることもなく、[r]
-この世から姿を消そうとしている……。[pcms]
+Everything was shrouded in secrecy, unknown to anyone, trying to[r]
+vanish from this world...[pcms]
 
 *478|
 [fc]
-そのキノコ雲を遠くからながめる男たちがいた。[pcms]
+There were men watching that mushroom cloud from afar.[pcms]
 
 *479|
 [fc]
-数年前まで、峠を越える県道として機能していたその道に、[r]
-黒塗りの普通車が止まっている。[pcms]
+On the road that had functioned as a prefectural road crossing the[r]
+pass until a few years ago, a black sedan was stopped.[pcms]
 
 *480|
 [fc]
-最初の爆発が起きてから、どれ位時間が経っただろうか。[pcms]
+How much time had passed since the first explosion?[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -165,13 +164,13 @@
 
 *481|
 [fc]
-安全装置は既に機能を失っており、これ以上の極端な爆発……[r]
-命に関わるような危険な何かは、もう起こらないように見える。[pcms]
+The safety devices had already failed, and it seemed that no further[r]
+extreme explosions or life-threatening dangers would occur anymore.[pcms]
 
 *482|
 [fc]
-助手席の男が合図を送ると、運転席の男がヘッドライトを点け、[r]
-車を発進させた。[pcms]
+When the man in the passenger seat gave a signal, the man in the[r]
+driver's seat turned on the headlights and started the car.[pcms]
 
 ;//seC010.ogg
 [se buf=0 storage="seC010"]
@@ -199,90 +198,88 @@
 
 *483|
 [fc]
-まだ火がくすぶっている夜の森に車を止めると、[r]
-ヘッドライトが照らす焼けた地面に、[r]
-白いワゴンが転がっているのが見えた。[pcms]
+Stopping the car in the night forest still smoldering with fire, they[r]
+could see a white wagon lying on the scorched ground illuminated by[r]
+the headlights.[pcms]
 
 *484|
 [fc]
-運転席の男が助手席の男に視線を移すと、[r]
-小さく頷いてみせる。[pcms]
+The man in the driver's seat looked at his passenger, who gave a small[r]
+nod in response.[pcms]
 
 ;//seA027.ogg
 [se buf=0 storage="seA027"]
 
 *485|
 [fc]
-運転席の男はエンジンをかけたまま車を降りると、[r]
-懐から銃を抜いてワゴンに近づいていった。[pcms]
+The driver got out of the car with the engine still running and pulled[r]
+out a gun from his coat as he approached the wagon.[pcms]
 
 *486|
 [fc]
-横転したワゴンはエンジンが掛かったままの状態で、[r]
-煙を上げながら、奇妙な音を発している。[pcms]
+The overturned wagon was still running its engine, emitting smoke and[r]
+making strange noises.[pcms]
 
 *487|
 [fc]
-ふと、何かに足を取られた男が地面を確認すると、[r]
-そこには破損の激しい死体が転がっていた。[pcms]
+Suddenly tripping over something, the man checked the ground and found[r]
+a severely damaged corpse lying there.[pcms]
 
 *488|
 [fc]
-感染者が着るような入院服ではないが、警備の兵士でもない。[r]
-あまりに破損が酷く、どんな素性の人物なのか[r]
-特定することができなかった。[pcms]
+It wasn't dressed like an infected patient nor a security soldier. The[r]
+damage was so severe that it was impossible to identify who it was.[pcms]
 
 *489|
 [fc]
-男は銃を構えたまま、逆さまになっている車内をのぞき込む。[pcms]
+The man with the gun peered into the upside-down car interior.[pcms]
 
 *490|
 [fc]
-そこには片腕を亡くした男の遺体が、ヘッドライトの明かりに[r]
-恨めしげな顔を向けているだけだった。[pcms]
+Inside was only the corpse of a man who had lost an arm, casting a[r]
+resentful look in the light of the headlights.[pcms]
 
 *491|
 [fc]
-後部座席に人の姿はなく、車内には凄惨な血しぶきの痕が[r]
-残されている。[pcms]
+There was no one in the back seat, and only gruesome splatters of[r]
+blood remained inside the car.[pcms]
 
 *492|
 [fc]
-銃を構えた男は、そのまま自分の車に戻ると、[r]
-見たままのことを助手席の男に伝えた。[pcms]
+The armed man returned to his own car and reported what he saw to his[r]
+passenger.[pcms]
 
 ;//seC002.ogg
 [se buf=0 storage="seC002"]
 
 *493|
 [fc]
-話を聞いた男は、車に積まれている衛星電話を取ると、[r]
-短縮ダイヤルで電話をかけ始める。[pcms]
+The listener took out a satellite phone from inside the car and began[r]
+dialing a speed dial number.[pcms]
 
 *494|
 [fc]
-相手は男からの連絡を待っていたのか、[r]
-ほんの１コールほどで通話に出た。[pcms]
+The person on the other end seemed to have been waiting for a call[r]
+from the man, answering after just one ring.[pcms]
 
 *495|
 [fc]
-[ns]黒スーツの男[nse]
-「例の連中の車を発見しました。[r]
-　車外に死体がひとつ、車内に死体がひとつです」[pcms]
+[ns]Man in Black Suit[nse]
+"We've found the vehicle belonging to those guys. One body outside,[r]
+another inside."[pcms]
 
 ;//◆ボイスを電話越しの声で処理
 
 *496|
 [fc]
 [vo_mis s="misao0001"]
-[ns]美沙緒[nse]
-「生き残った者はいると考えられそう？」[pcms]
+[ns]Misao[nse]
+"Do you think there could be any survivors?"[pcms]
 
 *498|
 [fc]
-[ns]黒スーツの男[nse]
-「断言はできませんが、状況から考えて、[r]
-　おそらく存在しないかと」[pcms]
+[ns]Man in Black Suit[nse]
+"I can't say for certain, but given the situation, probably not."[pcms]
 
 *499|
 [fc]
@@ -291,24 +288,23 @@
 
 *500|
 [fc]
-[ns]美沙緒[nse]
-「そう……すでに処理班が動いているわ。[r]
-　見付からないように引き上げてちょうだい」[pcms]
+[ns]Misao[nse]
+"I see... The cleanup crew is already on it. Make sure you're not[r]
+spotted and pull out."[pcms]
 
 *501|
 [fc]
-[ns]黒スーツの男[nse]
-「かしこまりました」[pcms]
+[ns]Man in Black Suit[nse]
+"Understood."[pcms]
 
 *502|
 [fc]
-助手席の男が運転席の男に合図を送る。[pcms]
+The man in the passenger seat signals to the man in the driver's seat.[pcms]
 
 *503|
 [fc]
-二人の間で符丁でも決まっているのか、[r]
-運転席の男は正確に助手席の男の意図を理解すると、[r]
-車を発進させた。[pcms]
+As if they had a prearranged code, the driver understood the[r]
+passenger's intent precisely and started the car.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -345,83 +341,85 @@
 
 *504|
 [fc]
-電話を置いた美沙緒は、うなだれるように下を向いていた。[pcms]
+Misao looked down dejectedly after hanging up the phone.[pcms]
 
 *505|
 [fc]
-力なく肩を落とし、無力感に苛まれるような、[r]
-憔悴した目で床を見つめている。[pcms]
+Her shoulders drooped powerlessly, and she seemed tormented by a sense[r]
+of helplessness, staring at the floor with exhausted eyes.[pcms]
 
 *506|
 [fc]
-しかし、そんな姿とは裏腹に、頭の中では怜悧な自分が[r]
-正確に今の状況を分析し始めていた。[pcms]
+However, contrary to her appearance, her sharp mind began to analyze[r]
+the current situation accurately.[pcms]
 
 *507|
 [fc]
 [vo_mis s="misao0003"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *508|
 [fc]
-協力関係にあった人権保護団体が、まさかこんな暴挙に出るとは[r]
-思いもしなかった……そんなやり場のない苛立ちに襲われている。[pcms]
+She was assaulted by an indescribable irritation that the human rights[r]
+organization they were cooperating with would take such a violent[r]
+action.[pcms]
 
 *509|
 [fc]
-確かに、美沙緒はあの隔離施設の安全装置を作動させ、[r]
-この世から葬ろうとしていた。[pcms]
+Indeed, Misao had activated the safety device of that isolation[r]
+facility, intending to bury it from this world.[pcms]
 
 *510|
 [fc]
-しかし、それは今じゃない。[r]
-もっと入念な計画の上でなされるべき事柄だった。[pcms]
+However, it was not supposed to happen now. It should have been done[r]
+on top of a more meticulous plan.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi04"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *511|
 [fc]
-偶然とは言え、美沙緒の目的は達成されたものの、[r]
-なんの前準備もない計画では、多数の犠牲者が出たことだろう。[pcms]
+Although Misao's goal was inadvertently achieved, a plan without any[r]
+preparation likely resulted in numerous casualties.[pcms]
 
 *512|
 [fc]
-誰も傷つかずに事が成せるとは思っていないが、[r]
-その数は人の力で減らせたはずである。[pcms]
+She didn't think it was possible to accomplish this without anyone[r]
+getting hurt, but the number could have been reduced by human efforts.[pcms]
 
 *513|
 [fc]
-しかし、自分の手を汚さずに良かったという安堵に似た思いも、[r]
-また確かなことではあった。[pcms]
+Yet, there was also a feeling similar to relief that she didn't have[r]
+to dirty her own hands.[pcms]
 
 *514|
 [fc]
-偽善者……そんな言葉がよく似合うと、美沙緒は思ってしまう。[pcms]
+Hypocrite... Misao thought that word suited her well.[pcms]
 
 *515|
 [fc]
-結果がよければそれでいいというものでもない。[pcms]
+It's not right to be satisfied with just a good outcome.[pcms]
 
 *516|
 [fc]
-もしかしたら、誰か内部の者が彼らを使って、[r]
-施設を破壊した可能性だってあった。[pcms]
+Perhaps someone inside used them to destroy the facility; that[r]
+possibility existed.[pcms]
 
 *517|
 [fc]
-美沙緒に賛同している、他の人間の顔を[r]
-思わず思い浮かべてしまう。[pcms]
+Misao involuntarily pictured the faces of other people who agreed with[r]
+her.[pcms]
 
 *518|
 [fc]
-誰か内部の者が、美沙緒の知らぬ間に人権保護団体を操る……[r]
-あり得ない話じゃない。[pcms]
+Someone inside manipulating the human rights organization without[r]
+Misao's knowledge... It wasn't an impossible story.[pcms]
 
 *519|
 [fc]
-事態を掌握できない苛立ちと、自己嫌悪の狭間に揺れながら、[r]
-美沙緒は今後のことを深く考えはじめた……。[pcms]
+Torn between frustration at not being able to control the situation[r]
+and self-loathing, Misao began to think deeply about what to do[r]
+next...[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -446,72 +444,72 @@
 
 *520|
 [fc]
-[ns]黒スーツの男[nse]
-「例の連中の車を発見しました。[r]
-　車外に死体がひとつ、車内に死体がひとつです」[pcms]
+[ns]Man in Black Suit[nse]
+"We've found the vehicle belonging to those guys. One body outside,[r]
+another inside."[pcms]
 
 *521|
 [fc]
 [vo_mis s="misao0004"]
-[ns]美沙緒[nse]
-「生き残った者はいると考えられそう？」[pcms]
+[ns]Misao[nse]
+"Do you think there could be any survivors?"[pcms]
 
 *522|
 [fc]
-[ns]黒スーツの男[nse]
-「断言はできませんが、状況から考えて、[r]
-　おそらく存在しないかと」[pcms]
+[ns]Man in Black Suit[nse]
+"I can't say for certain, but given the situation, probably not."[pcms]
 
 *523|
 [fc]
 [vo_mis s="misao0005"]
-[ns]美沙緒[nse]
-「そう……すでに処理班が動いているわ。[r]
-　見付からないように引き上げてちょうだい」[pcms]
+[ns]Misao[nse]
+"I see... The cleanup crew is already on it. Make sure you're not[r]
+spotted and pull out."[pcms]
 
 *524|
 [fc]
-[ns]黒スーツの男[nse]
-「かしこまりました」[pcms]
+[ns]Man in Black Suit[nse]
+"Understood."[pcms]
 
 *525|
 [fc]
-秘書らしき女性が録音機の停止ボタンを押すと、[r]
-一礼して稼津央のスイートルームを後にする。[pcms]
+A woman who seemed to be a secretary pressed the stop button on the[r]
+recorder, bowed, and left Katsuo's suite room.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz01"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *526|
 [fc]
-隔離施設の安全装置が作動したという報告を受けた稼津央は、[r]
-美沙緒に数倍する苛立ちの中、次の報告を待っていた。[pcms]
+Having received the report that the safety device of the isolation[r]
+facility had been activated, Katsuo waited for the next report amidst[r]
+a frustration several times greater than Misao's.[pcms]
 
 *527|
 [fc]
-連中が死んだというのは朗報に違いない。[pcms]
+The death of those people was undoubtedly good news.[pcms]
 
 *528|
 [fc]
-だが、思わぬ痛手を[ruby text="こうむ"]被ったのは事実だった。[pcms]
+But it was true that they had suffered an unexpected blow.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *529|
 [fc]
-まさか、あんな素人がこんな事態を引き起こすとは……[r]
-思ってもみない事態になったと言える。[pcms]
+No one could have imagined that such amateurs would cause this[r]
+situation... It had become an unforeseen event.[pcms]
 
 *530|
 [fc]
-稼津央は美沙緒とはまた違う脱力感に見舞われながらも、[r]
-下を向くようなことはなかった。[pcms]
+Katsuo was hit by a different kind of powerlessness than Misao, but he[r]
+did not look down.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz05"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *531|
 [fc]
-むしろ、急激に膨れあがる苛立ちを抑えきれずに、[r]
-目が吊り上がっていく。[pcms]
+Rather, he couldn't suppress his rapidly swelling irritation, and his[r]
+eyes narrowed.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -520,8 +518,8 @@
 
 *532|
 [fc]
-稼津央は自分が映り込む窓ガラスに向けて、[r]
-手にしたワインをぶちまけた。[pcms]
+Katsuo threw the wine he was holding against the window glass[r]
+reflecting his image.[pcms]
 
 ;//フラグ0020通過成立
 [eval exp="sf.g_0020 = 1"]

@@ -31,16 +31,15 @@
 
 *2527|
 [fc]
-[ns]畠山[nse]
-「そら、誠！　こっちはもう大丈夫だから！[r]
-　急げぇぇっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Come on, Makoto! We're okay here now! Hurry up!"[pcms]
 
 *2528|
 [fc]
-[ns]西野[nse]
-「僕らは三人じゃなきゃダメなんだ！[r]
-　お前がいなかったら、僕達は成り立たないだろ！[r]
-　だから、みんなでここから逃げ出すんだ！　誠っ！」[pcms]
+[ns]Nishino[nse]
+"We can't do this unless we're all together! Without you, we can't[r]
+stand as a team! So, we're all going to escape from here together,[r]
+Makoto!"[pcms]
 
 ;//bgm15.ogg 他の回想時と違うBGMにしておく
 [bgm storage="BGM15"]
@@ -50,134 +49,130 @@
 
 *2529|
 [fc]
-二人の目にも、涙が溢れていた。[r]
-それは、恐怖を堪えるものだったのかもしれない。[pcms]
+Tears were overflowing in their eyes as well. It might have been to[r]
+endure the fear.[pcms]
 
 *2530|
 [fc]
-だけど僕は、その涙にさえ不思議な連帯感を覚えていた。[pcms]
+But even in those tears, I felt a strange sense of solidarity.[pcms]
 
 *2531|
 [fc]
-二人が、僕を親友だって言ってくれたから。[r]
-三人一緒じゃなきゃダメだって、言ってくれたから。[pcms]
+Because they said I was their best friend. Because they said it[r]
+wouldn't work unless the three of us were together.[pcms]
 
 *2532|
 [fc]
-二人の言葉は、僕を元気づけた。[r]
-そのおかげで、僕は二人が向かおうとしていた部屋へ、[r]
-飛び込むことが出来た。[pcms]
+Their words encouraged me. Thanks to them, I was able to leap into the[r]
+room they were heading towards.[pcms]
 
 *2533|
 [fc]
-[ns]誠[nse]
-「あっ……ありがとう……ニシ！　畠山ぁっ！[r]
-　うわぁああん！　ありがとう……ぐすっ……」[pcms]
+[ns]Makoto[nse]
+"Ah... thank you... Nishi! Hatakeyama! Uwaaaah! Thank you...[r]
+*sniffle*..."[pcms]
 
 *2534|
 [fc]
 [vo_mob s="syouko0004"]
-[ns]昌子[nse]
-「二人とも早くこっちにっ！」[pcms]
+[ns]Masako[nse]
+"Both of you, hurry over here!"[pcms]
 
 ;//m:ここからネームチップ昌子に
 
 *2535|
 [fc]
-僕と一緒に準備室に逃げ込んだ久保田さんが、[r]
-二人のことを呼ぶ。[pcms]
+Kubota-san, who had fled into the prep room with me, was calling out[r]
+to them.[pcms]
 
 *2536|
 [fc]
-二人の友情と、安心のせいで僕は、[r]
-それまで堪えていた感情が爆発して、[r]
-堰き止められていた涙や声が、一気にあふれ出した。[pcms]
+Because of my friends' friendship and reassurance, the emotions I had[r]
+been holding back exploded, and the tears and voice that had been[r]
+dammed up came flooding out all at once.[pcms]
 
 [evcg storage="mob_N005d"][trans_c cross time=300]
 
 *2537|
 [fc]
-[ns]西野[nse]
-「あははっ、ひっどい顔！[r]
-　涙ふけよ、誠！　あははっ！」[pcms]
+[ns]Nishino[nse]
+"Ahaha, what an awful face! Wipe your tears, Makoto! Ahaha!"[pcms]
 
 *2538|
 [fc]
-[ns]畠山[nse]
-「泣くんじゃねえよ、いい年して！　ぷっ……はははっ！[r]
-　あははっ！　お前の顔見てたら、なんだか安心したよ！」[pcms]
+[ns]Hatakeyama[nse]
+"Don't cry, man, at your age! Pfft...hahaha! Ahaha! Seeing your face[r]
+somehow makes me feel relieved!"[pcms]
 
 *2539|
 [fc]
-[ns]誠[nse]
-「そんなこと言ったって……僕、うれしくて……ううっ……。[r]
-　あっ……ああぁっ！！　ニシっ！　ま、またアイツがっ！」[pcms]
+[ns]Makoto[nse]
+"Even if you say that... I'm just so happy... *sob*... Ah... Aaah!![r]
+Nishi! There, that guy again!"[pcms]
 
 *2540|
 [fc]
-[ns]西野[nse]
-「えっ……あ……」[pcms]
+[ns]Nishino[nse]
+"Eh... ah..."[pcms]
 
 *2541|
 [fc]
-[ns]畠山[nse]
-「にっ……ニシっ！　えっ……うっ、うわぁぁっ！！[r]
-　いつの間にこんなっ！！」[pcms]
+[ns]Hatakeyama[nse]
+"Ni... Nishi! Eh... uh, uwaah!! When did this happen!!"[pcms]
 
 *2542|
 [fc]
 [vo_mob s="syouko0005"]
-[ns]昌子[nse]
-「早くっ！　早く逃げてぇぇぇっ！」[pcms]
+[ns]Masako[nse]
+"Hurry! Run away fast!"[pcms]
 
 *2543|
 [fc]
-僕達の安堵の笑いは、そこで途切れた。[pcms]
+Our laughter of relief was cut short there.[pcms]
 
 *2544|
 [fc]
-気を緩めてしまったのが間違いだった。[r]
-いつの間にか、僕達はヘンな奴らに取り囲まれてしまっていた。[pcms]
+Letting our guard down was a mistake. Before we knew it, we were[r]
+surrounded by weird guys.[pcms]
 
 *2545|
 [fc]
-[ns]西野[nse]
-「はっ……離せぇぇっ！！　やめろおっ！」[pcms]
+[ns]Nishino[nse]
+"Ha... let go of me!! Stop it!"[pcms]
 
 *2546|
 [fc]
-[ns]畠山[nse]
-「うわぁあぁっ！　ニシっ！　誠おおっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Uwaaaah! Nishi! Makoto!"[pcms]
 
 *2547|
 [fc]
-[ns]誠[nse]
-「あっ……ああぁぁ……」[pcms]
+[ns]Makoto[nse]
+"Ah... aah..."[pcms]
 
 *2548|
 [fc]
-僕を助けてくれた親友達が、[r]
-今度は僕の助けを待っていた。[pcms]
+My best friends who had saved me were now waiting for my help.[pcms]
 
 *2549|
 [fc]
-得体の知れない化け物に襲われながら、[r]
-必死になってこっちに手を伸ばしている。[pcms]
+While being attacked by an unknown monster, they were desperately[r]
+reaching out to me.[pcms]
 
 *2550|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2551|
 [fc]
-でも、完全に心が負けていた僕は、[r]
-二人のために動かせる足を持っていなかった。[pcms]
+But my heart had completely given up, and I didn't have the legs to[r]
+move for them.[pcms]
 
 *2552|
 [fc]
-僕がここで飛び出せば助けられるかも知れない、[r]
-でも一緒に捕まってしまうかも……。[pcms]
+If I jumped out now, I might be able to save them, but I might also[r]
+get caught...[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -185,23 +180,22 @@
 *2553|
 [fc]
 [vo_mob s="syouko0006"]
-[ns]昌子[nse]
-「二人とも！　今行くわ！」[pcms]
+[ns]Masako[nse]
+"Both of you! I'm coming now!"[pcms]
 
 *2554|
 [fc]
-一緒に準備室に逃げ込んだ久保田さんが、[r]
-部屋を飛び出して二人を助けに行こうとしていた。[pcms]
+Kubota-san, who had fled into the prep room with me, was about to rush[r]
+out to save them.[pcms]
 
 *2555|
 [fc]
-僕の好きな久保田さん……、[r]
-久保田さんが死んじゃう……。[pcms]
+My beloved Kubota-san... Kubota-san is going to die...[pcms]
 
 *2556|
 [fc]
-[ns]誠[nse]
-「えっ……うっ……うわぁあああああああああぁぁぁっ！！！」[pcms]
+[ns]Makoto[nse]
+"Eh... uh... uwaaaaaaaah!!!"[pcms]
 
 ;//m:バックは黒のままでいいかな
 ;//■イベントCG　etc_N002 昌子ちゃん
@@ -210,112 +204,104 @@
 *2557|
 [fc]
 [vo_mob s="syouko0007"]
-[ns]昌子[nse]
-「何するの、中澤君っ！」[pcms]
+[ns]Masako[nse]
+"What are you doing, Nakazawa-kun!"[pcms]
 
 *2558|
 [fc]
-僕は……。[pcms]
+I...[pcms]
 
 [se buf=0 storage="seA008"]
 ;//引き戸を勢いよく開ける音
 
 *2559|
 [fc]
-そのまま……準備室の扉を閉めた。[pcms]
+Just closed the door to the prep room.[pcms]
 
 *2560|
 [fc]
 [vo_mob s="syouko0008"]
-[ns]昌子[nse]
-「二人を見捨てる気なの！[r]
-　私たちのために道を切り開いてくれたのに！」[pcms]
+[ns]Masako[nse]
+"Are you planning to abandon them? After they paved the way for us!"[pcms]
 
 *2561|
 [fc]
-みんなの憧れの久保田さん。[r]
-足を引っ張ってばかりの僕。[pcms]
+Kubota-san, everyone's idol. Me, always dragging my feet.[pcms]
 
 *2562|
 [fc]
-勇敢な二人が犠牲になって、[r]
-僕たちが残ってしまった。[pcms]
+The brave two were sacrificed, and we were left behind.[pcms]
 
 *2563|
 [fc]
-[ns]誠[nse]
-「無理だよ！　冷静になってくれ！」[pcms]
+[ns]Makoto[nse]
+"It's impossible! Please be rational!"[pcms]
 
 *2564|
 [fc]
 [vo_mob s="syouko0009"]
-[ns]昌子[nse]
-「くっ！」[pcms]
+[ns]Masako[nse]
+"*grunt*"[pcms]
 
 *2565|
 [fc]
-久保田さんが扉の鍵を開けて出て行こうとする。[r]
-あの久保田さんが……。[pcms]
+Kubota-san was trying to unlock the door and leave. That Kubota-san...[pcms]
 
 *2566|
 [fc]
-僕は後ろからその身体を抱きしめて、[r]
-扉を開けさせなかった。[pcms]
+I hugged her from behind and prevented her from opening the door.[pcms]
 
 *2567|
 [fc]
-[ns]誠[nse]
-「今開けたら、僕たちも助からない！」[pcms]
+[ns]Makoto[nse]
+"If we open it now, we won't be saved either!"[pcms]
 
 *2568|
 [fc]
 [vo_mob s="syouko0010"]
-[ns]昌子[nse]
-「卑怯者っ！　いくじなしっ！[r]
-　あなたは最低の人だわ！」[pcms]
+[ns]Masako[nse]
+"Coward! Spineless! You are the worst person!"[pcms]
 
 *2569|
 [fc]
-それでも出て行こうとする久保田さんを、[r]
-僕は必死になって抱き留めた。[pcms]
+Even so, I desperately held onto Kubota-san, who was trying to leave.[pcms]
 
 *2570|
 [fc]
-激しく身体をよじる久保田さんと僕は、[r]
-そのまま揉みあって床に倒れてしまう。[pcms]
+We struggled fiercely, and Kubota-san and I fell to the floor while[r]
+grappling with each other.[pcms]
 
 *2571|
 [fc]
-この扉を開けたら僕と久保田さんは死ぬ、[r]
-僕の大好きな久保田さんが……。[pcms]
+If we open this door, Kubota-san and I will die, my beloved Kubota-[r]
+san...[pcms]
 
 *2572|
 [fc]
 [vo_mob s="syouko0011"]
-[ns]昌子[nse]
-「いやあああああっ！　離してぇぇぇぇっ！」[pcms]
+[ns]Masako[nse]
+"Nooooo! Let me gooooo!"[pcms]
 
 *2573|
 [fc]
-[ns]誠[nse]
-「久保田さん、久保田さんっ！」[pcms]
+[ns]Makoto[nse]
+"Kubota-san, Kubota-san!"[pcms]
 
 *2574|
 [fc]
-僕は恐怖と愛おしさとやわらかい感触と、[r]
-なにもかもがごちゃ混ぜになって、[r]
-久保田さんの身体を掻き抱いていった。[pcms]
+I was overwhelmed with fear and affection, and the soft sensation,[r]
+everything was mixed up as I clung to Kubota-san's body.[pcms]
 
 *2575|
 [fc]
-まるでむしゃぶりつくように、[r]
-理性を無くした獣のように……。[pcms]
+Like a beast that had lost its reason, I clung to her as if devouring[r]
+her...[pcms]
 
 *2576|
 [fc]
 [vo_mob s="syouko0012"]
-[ns]昌子[nse]
-「いやぁぁぁぁぁぁぁぁぁっ！」[pcms]
+[ns]Masako[nse]
+"Noooooo!"[pcms]
 
 [se buf=0 storage="seB007"]
 ;//人間を殴る音
@@ -328,19 +314,19 @@
 
 *2577|
 [fc]
-久保田さんは振り上げた何かを僕の頭に強打してきた。[r]
-固い衝撃が脳天から痺れになって足の指まで伝わる。[pcms]
+Kubota-san struck something hard against my head. A solid impact[r]
+traveled from my crown to my toes as a numbness.[pcms]
 
 ;//■イベントCG　etc_N002 昌子ちゃん
 [evcg storage="etc_N002b"][trans_c cross time=1000]
 
 *2578|
 [fc]
-そして……、[pcms]
+And then...[pcms]
 
 *2579|
 [fc]
-僕は何もわからなくなった。[pcms]
+I understood nothing anymore.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

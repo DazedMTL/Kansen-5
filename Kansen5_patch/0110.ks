@@ -38,92 +38,95 @@
 
 *966|
 [fc]
-そこは海だった。[pcms]
+There was the sea.[pcms]
 
 *967|
 [fc]
-眩しい日の光を浴びて、大気がきらめいている。[pcms]
+Bathed in the dazzling sunlight, the atmosphere sparkled.[pcms]
 
 *968|
 [fc]
-どこまでも続く、突き抜けるような青い空の下に、[r]
-波間の穏やかな海が敷き詰められていた。[pcms]
+Under the piercing blue sky that stretched on forever, a calm sea was[r]
+spread out between the waves.[pcms]
 
 *969|
 [fc]
-地平線の彼方から雲がわき上がり、[r]
-視界いっぱいに青と白のコントラストが広がる。[pcms]
+Clouds rose from beyond the horizon, and a contrast of blue and white[r]
+spread across the field of vision.[pcms]
 
 *970|
 [fc]
-全てを輝かせる光と心を躍らせる風。[pcms]
+The light that illuminated everything and the wind that made hearts[r]
+dance.[pcms]
 
 *971|
 [fc]
-照りつける日差しは例えようもなく爽快で、[r]
-吹き抜ける風が空高く舞い上がる。[pcms]
+The beating sunlight was indescribably exhilarating, and the wind that[r]
+blew through soared high into the sky.[pcms]
 
 *972|
 [fc]
-海鳥が群れをなして、たゆたうように飛んでいた。[pcms]
+Seabirds formed flocks, flying as if they were drifting.[pcms]
 
 *973|
 [fc]
-命が吹き込まれたような強い風が、[r]
-世界を覆うように包み込んでいる。[pcms]
+A strong wind that seemed to breathe life enveloped the world.[pcms]
 
 *974|
 [fc]
-日の光も、風も、海も、雲も、鳥たちも、[r]
-なにもかもがひとつになっていた。[pcms]
+The sunlight, the wind, the sea, the clouds, and the birdsall became[r]
+one.[pcms]
 
 *975|
 [fc]
-力強い海の香りが僕に飛び込んでくる。[pcms]
+The robust scent of the sea rushed at me.[pcms]
 
 *976|
 [fc]
-生きとし生けるもの、全てを感じる圧倒的な感覚だ。[pcms]
+It was an overwhelming sensation that made me feel all living things.[pcms]
 
 *977|
 [fc]
-僕は大気にとけ込んでいるように、無力な存在だった。[pcms]
+I felt like a powerless existence, dissolved into the atmosphere.[pcms]
 
 *978|
 [fc]
-でも、同時にこの大気の全てが僕のような錯覚も覚える。[pcms]
+But at the same time, I felt an illusion as if everything in this[r]
+atmosphere was part of me.[pcms]
 
 *979|
 [fc]
-手足の感覚が世界の隅々にまで広がり、[r]
-雲や風ですら掴めるような気がしていた。[pcms]
+The sensation in my limbs seemed to spread to every corner of the[r]
+world, and I felt as if I could even grasp the clouds and the wind.[pcms]
 
 *980|
 [fc]
-僕は、どこまでも、どこまでも飛んでいける。[pcms]
+I could fly anywhere, endlessly, endlessly.[pcms]
 
 *981|
 [fc]
-風の向こう、海の果てまでどこにでも……。[pcms]
+Beyond the wind, to the ends of the sea, anywhere...[pcms]
 
 *982|
 [fc]
-遠くに島が見えてきた。[pcms]
+An island came into view in the distance.[pcms]
 
 *983|
 [fc]
-どこか懐かしい感じのする島だ。[pcms]
+It was an island that felt somehow nostalgic.[pcms]
 
 *984|
 [fc]
-大気となった僕は、無限の風になってその島に迫っていく。[pcms]
+As if I had become the atmosphere, I approached the island as an[r]
+infinite wind.[pcms]
 
 [stopse buf=1]
 ;<SoundRun 3,Stop,ON,2000>
 
 *985|
 [fc]
-海鳥を追い越し、日の光さえ届かぬスピードで。[pcms]
+Overtaking the seabirds, at a speed that even the sunlight couldn't[r]
+reach.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -145,50 +148,49 @@
 
 *986|
 [fc]
-気が付くと、そこは薄暗い土蔵の中だった。[pcms]
+Before I knew it, I was inside a dimly lit storehouse.[pcms]
 
 *987|
 [fc]
-急にひんやりとした感覚を覚えて、僕は身体を震わせる。[pcms]
+Suddenly feeling a chill, I shivered.[pcms]
 
 *988|
 [fc]
-湿った空気と、日に晒されない物が持つ独特の香り。[pcms]
+The damp air and the unique scent of things not exposed to the sun.[pcms]
 
 *989|
 [fc]
-暗がりで見えない壁の隅に、無邪気な怪の気配がした。[pcms]
+In the darkness where walls were invisible, I sensed the presence of[r]
+an innocent specter.[pcms]
 
 *990|
 [fc]
-得体の知れない物が山積みになって、[r]
-黒い影を落としている。[pcms]
+Unidentifiable objects were piled up, casting dark shadows.[pcms]
 
 *991|
 [fc]
-影と影の間をなにかが通った気がした。[pcms]
+I felt something pass between the shadows.[pcms]
 
 *992|
 [fc]
-高い位置にある古びた窓から、[r]
-日陰の弱い日差しが下りている。[pcms]
+Weak sunlight descended from an old window high above, creating[r]
+shadows.[pcms]
 
 *993|
 [fc]
-この薄暗い世界に光を落としてくれる、[r]
-最後の希望のようだった。[pcms]
+It was like the last hope casting light into this dim world.[pcms]
 
 *994|
 [fc]
-誰もいない土蔵の中を見渡してみる。[pcms]
+I looked around inside the empty storehouse.[pcms]
 
 *995|
 [fc]
-僕はこの光景を知っていた。[pcms]
+I knew this scene.[pcms]
 
 *996|
 [fc]
-いつ見たのか、どこで見たのか、それは思い出せない。[pcms]
+When or where I had seen it, I couldn't remember.[pcms]
 
 ;//seフェード停止
 [stopse buf=1]
@@ -196,28 +198,29 @@
 
 *997|
 [fc]
-でも、この肌寒い感覚も、気味の悪い気配も、[r]
-[ruby text="す"]饐えたカビの匂いも、何故か知っている。[pcms]
+But this chilly sensation, this eerie presence, and even the musty[r]
+smell of moldI somehow knew them all.[pcms]
 
 *998|
 [fc]
-あの日の光の下に戻りたかった。[pcms]
+I wanted to return to that light of day.[pcms]
 
 *999|
 [fc]
-風と一緒に空を飛び、鳥を追い越していく世界に。[pcms]
+To a world where I could fly through the sky with the wind and[r]
+overtake birds.[pcms]
 
 *1000|
 [fc]
-目が眩むほどの光の世界に……。[pcms]
+To a world of light so dazzling it made my eyes squint...[pcms]
 
 *1001|
 [fc]
-僕は身長の何倍もある扉に手をかける。[pcms]
+I placed my hand on a door that was many times taller than myself.[pcms]
 
 *1002|
 [fc]
-ぞっとするほど冷たい感触が、扉から伝わってきた。[pcms]
+A chilling touch came from the door, making me shudder.[pcms]
 
 ;//ここから下を変えたのだけど、末端でメッセージウィンドウが消えてないか
 ;//スクリプト的に見て下さい
@@ -227,12 +230,11 @@
 
 *1003|
 [fc]
-少し押すと、扉が軋むような音を立てる。[pcms]
+With a slight push, the door made a creaking noise.[pcms]
 
 *1004|
 [fc]
-僕は、身体を預けるようにして、[r]
-その扉を開けていった。[pcms]
+I leaned into it as if entrusting my body to it and opened that door.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]

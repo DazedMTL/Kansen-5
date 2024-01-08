@@ -43,54 +43,51 @@
 *1|
 [fc]
 [vo_mob s="kojima0013"]
-[ns]小嶋[nse]
-「あ゛はぁ……あ、あ、あそび……ましょぉ～……あははぁっ！」[pcms]
+[ns]Kojima[nse]
+"Ahaa... ah, ah, let's play... ahahaha!"[pcms]
 
 *2|
 [fc]
-気味悪く笑い、僕をのぞき込む先生の目は真っ赤だった。[pcms]
+Laughing creepily, the teacher peering down at me had bloodshot eyes.[pcms]
 
 *3|
 [fc]
-[ns]誠[nse]
-「うわぁっ！　せっ、先生！？　やっ……うわぁっ！」[pcms]
+[ns]Makoto[nse]
+"Uwaa! Te-teacher!? No... Uwaa!"[pcms]
 
 *4|
 [fc]
-僕は、先生の変貌に驚き、[r]
-その場から逃げるチャンスを失ってしまった。[pcms]
+I was so shocked by the teacher's transformation that I missed my[r]
+chance to escape.[pcms]
 
 *5|
 [fc]
 [vo_mob s="kin0001"]
-[ns]金髪の女[nse]
-「あっはぁあぁっ！　お、おと、こおおっ！[r]
-　そっ、それっ、わた、わたしのおおっ！」[pcms]
+[ns]Blonde Woman[nse]
+"Ahaaa! O-oh, man! Th-that's, my, myyy!"[pcms]
 
 *6|
 [fc]
 [vo_mob s="cha0001"]
-[ns]茶髪の女[nse]
-「ふっ……ふふっ、ふ、あぁあっっ！[r]
-　ちっ、ちんこ……ちんこ、ち、ちょう、だいいいっ！」[pcms]
+[ns]Brown-haired Woman[nse]
+"Fuh... fufu, fu, aahhh! Di-dick... dick, gi-give it, to meee!"[pcms]
 
 *7|
 [fc]
-[ns]誠[nse]
-「ひっ……うわぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Hii... Uwaaa!"[pcms]
 
 *8|
 [fc]
 [vo_mob s="kojima0014"]
-[ns]小嶋[nse]
-「ぬっ……ぬ、ぎ、なさいいいっ！　じゃま、よっ！[r]
-　あん、た……のちん、こ、は、わたしのものなのよ！[r]
-　だっ……だせ、だせぇっ！　せいしも、だせぇえぇっ！」[pcms]
+[ns]Kojima[nse]
+"Nuh... nuh, take it off! It's in the way! Your dick, it belongs to[r]
+me! Take it out, let out your semen tooo!"[pcms]
 
 *9|
 [fc]
-[ns]誠[nse]
-「先生……やっ、やめ……うわぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Teacher... stop, stop it... Uwaaa!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -114,16 +111,14 @@
 
 *10|
 [fc]
-完全にイカれた目になった小嶋先生や、[r]
-沢山の女の人が手を伸ばし、[r]
-僕のズボンを引きちぎり、床に突き倒した。[pcms]
+Kojima-sensei, with completely crazed eyes, and many women reached[r]
+out, tore off my pants, and pushed me down to the floor.[pcms]
 
 *11|
 [fc]
 [vo_mob s="kojima0015"]
-[ns]小嶋[nse]
-「んんぁあぁ……ち、ちん、ぽ……お゛おっぎく、[r]
-　し、なさいよぉ！　この、や、やく、たた、ずっ！」[pcms]
+[ns]Kojima[nse]
+"Nnnaa... di-dick... muku, do it! You useless thing!"[pcms]
 
 ;//■イベントCG　mob_H006（騎乗位の女先生・お尻からのアングル）
 [evcg storage="mob_H006a"][trans_c lr time=300]
@@ -133,175 +128,160 @@
 
 *12|
 [fc]
-[ns]誠[nse]
-「何言ってるんだよ、先生！　離れてっ！　どけってば！」[pcms]
+[ns]Makoto[nse]
+"What are you saying, teacher! Get away! Move it!"[pcms]
 
 *13|
 [fc]
 [vo_mob s="cha0002"]
-[ns]茶髪の女[nse]
-「まだ、か、かわ……かむって、るのね……。[r]
-　かっ、かわ、いい……あはっ……あははっ！」[pcms]
+[ns]Brown-haired woman[nse]
+"Still, ha-hard... how cute... ahaha... ahaha!"[pcms]
 
 *14|
 [fc]
 [vo_mob s="kin0002"]
-[ns]金髪の女[nse]
-「こ、この、こ、かわいい、かお～……たべちゃいたい……。[r]
-　つ、つぎ、は、わたしねぇ、んふっ……」[pcms]
+[ns]Blonde Woman[nse]
+"Th-this cute face~... I want to eat it up... Next is my turn, right?[r]
+Nfufu..."[pcms]
 
 *15|
 [fc]
-先生は僕の上に跨がって、[r]
-デタラメに腰を動かしていた。[pcms]
+The teacher straddled me and moved her hips nonsensically.[pcms]
 
 *16|
 [fc]
-僕は何もしていないのに、先生のアソコはしとどに濡れていて、[r]
-柔らかくて、質量を感じるお尻の肉がチンコに刺激を与えてくる。[pcms]
+Even though I wasn't doing anything, the teacher's pussy was dripping[r]
+wet, and the soft flesh of her butt was stimulating my dick.[pcms]
 
 *17|
 [fc]
-[ns]誠[nse]
-「うっ……くうっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh... kuu..."[pcms]
 
 *18|
 [fc]
 [vo_mob s="kin0003"]
-[ns]金髪の女[nse]
-「おんなの、こ、みた、い……ホンット、かわいい……あぁ……」[pcms]
+[ns]Blonde Woman[nse]
+"I want to see a woman's... so cute... ahh..."[pcms]
 
 *19|
 [fc]
 [vo_mob s="kojima0016"]
-[ns]小嶋[nse]
-「な、なに、してんのよ！　は、はやく……かたく、しなさいよ！[r]
-　アンタ、ど、どうてい、なんでしょ！　わたしが、[r]
-　もらってあげるから！　はや、く……おおきく、しなさいっ！」[pcms]
+[ns]Kojima[nse]
+"What are you doing! Hurry up... get hard! You're a virgin, aren't[r]
+you! I'll take it from you! Hurry up... get bigger!"[pcms]
 
 *20|
 [fc]
 [vo_mob s="kojima0017"]
-[ns]小嶋[nse]
-「ふぁっ……んんっ……おおっ……あぁっ……！」[pcms]
+[ns]Kojima[nse]
+"Fahh... nnn... oohh... ahh...!"[pcms]
 
 ;//[evcg storage="mob_H006b"][trans_c cross time=300]
 
 *21|
 [fc]
-[ns]誠[nse]
-「こ、こんなのイヤだよ！　どけってばぁっ！[r]
-　僕は、こんなの絶対にイヤだぁっ！」[pcms]
+[ns]Makoto[nse]
+"I don't want this! Move it! I absolutely hate this!"[pcms]
 
 *22|
 [fc]
-沢山の女の人が、僕と先生を中心にして取り囲み、[r]
-にやけた顔で、なめ回すように見つめている。[pcms]
+Many women surrounded me and the teacher at the center, staring at us[r]
+with leering smiles.[pcms]
 
 *23|
 [fc]
-周りの女の子は、みんな目が赤い。[r]
-全員、感染者だった。[pcms]
+All the girls around had red eyes. They were all infected.[pcms]
 
 *24|
 [fc]
-この状態では、いくら助けを求めたって無駄。[r]
-そんなことは分かりきっていた。[r]
-だけど、叫ばずにはいられなかった。[pcms]
+In this situation, no matter how much I cried for help, it was futile.[r]
+I knew that, but I couldn't help but scream.[pcms]
 
 *25|
 [fc]
 [vo_mob s="kojima0018"]
-[ns]小嶋[nse]
-「あっはっ！　ちょっと、かたくなった……？[r]
-　でも！　ま、まだ、た、たりないわよ！　ふふっ……。[r]
-　も、もっと……おっきくして、わ、たしをよろこばせるのよ！」[pcms]
+[ns]Kojima[nse]
+"Ahaha! Did it get a little harder...? But! It's still not enough![r]
+Fufu... Make it bigger and please me more!"[pcms]
 
 *26|
 [fc]
 [vo_mob s="cha0003"]
-[ns]茶髪の女[nse]
-「あ、あぁ～……ちんぽ、のかわ、めくれてきた……あはっ！[r]
-　もう、す、すこし、で、かお、だすね！　あははっ！[r]
-　がっ、がんば、れぇっ！　あははっ！」[pcms]
+[ns]Brown-haired Woman[nse]
+"Ah, ahh~... the foreskin of the dick is peeling back... ahaha! Just a[r]
+little more and I'll cum! Ahaha! Keep going!"[pcms]
 
 *27|
 [fc]
 [vo_mob s="kin0004"]
-[ns]金髪の女[nse]
-「やだぁ、こ、この、こ、ないてるぅ～！　きゃははっ！[r]
-　きも、ち、よくて、ないちゃった？　あははっ、あはははっ！」[pcms]
+[ns]Blonde Woman[nse]
+"No way, he's crying~! Kyahaha! Did it feel so good that you cried?[r]
+Ahaha, ahahaha!"[pcms]
 
 *28|
 [fc]
-[ns]誠[nse]
-「なっ……泣いてなんかないっ！　くそっ！[r]
-　好き勝手言いやがって……どけったらぁ！　僕を見るなっ！[r]
-　お前ら、離れろよおっ！　先生もどいてくれっ！」[pcms]
+[ns]Makoto[nse]
+"I'm not crying! Damn it! Stop saying whatever you want... move it![r]
+Don't look at me! All of you, back off! Teacher, please move away!"[pcms]
 
 *29|
 [fc]
-下半身に与えられる柔らかくてヌルヌルした圧迫感のせいで、[r]
-こんな状況だっていうのに、[r]
-僕のチンコはだんだん言うことを聞かなくなってきていた。[pcms]
+The soft and slippery pressure on my lower half was making my dick[r]
+gradually disobey me despite the situation.[pcms]
 
 *30|
 [fc]
-感染者に囲まれて、生きるか死ぬかの瀬戸際の中、[r]
-エッチな事をされて興奮するなんて。[r]
-僕はどうかしちゃったんだろうか。[pcms]
+Surrounded by infected people on the brink of life or death, getting[r]
+excited by such erotic acts. Have I gone crazy?[pcms]
 
 *31|
 [fc]
-僕は、絶対にこんな事でイッちゃったりしたくない。[r]
-別の事を考えて気を紛らわそうとした。だけど……。[pcms]
+I definitely didn't want to cum from something like this. I tried to[r]
+think of something else to distract myself. But...[pcms]
 
 *32|
 [fc]
-そーいちと競うように見ていた、[r]
-エッチな動画の事を思い出していた。[r]
-沢山の男の人に、女の子が一人色んな事をされるようなヤツだ。[pcms]
+I remembered the erotic videos I used to watch competitively with[r]
+Souichirou. The ones where one girl is done by many men.[pcms]
 
 *33|
 [fc]
-今はそんなこと考えている状況じゃないってことは、[r]
-よく分かっているけど、どうしても、自分がその動画の中の、[r]
-女の子になってしまったような感覚を受けてしまう。[pcms]
+I knew this wasn't the time to think about such things, but I couldn't[r]
+help feeling like I was the girl in those videos.[pcms]
 
 *34|
 [fc]
-[ns]誠[nse]
-「うわあっ！　嫌だっ！　こんなの嫌だぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Uwaa! I don't want this! I hate this!"[pcms]
 
 *35|
 [fc]
 [vo_mob s="kojima0019"]
-[ns]小嶋[nse]
-「なに、が、イヤなのよっ！　あ、アンタは、だまって……。[r]
-　わ、わたしの、なかに、チンコをいれて、こ、こしを、[r]
-　ふればいいのよ！　わたしのために、がんばりなさいっ！」[pcms]
+[ns]Kojima[nse]
+"What do you hate?! You just need to be quiet... Put your dick inside[r]
+me and move your hips for me! Work hard for me!"[pcms]
 
 *36|
 [fc]
 [vo_mob s="cha0004"]
-[ns]茶髪の女[nse]
-「ほ、ほんとよ……あ、あとが、つか、えてるんだから……、[r]
-　さっさと、ださ、ないと……、[r]
-　じかん、もったいないでしょぉ……」[pcms]
+[ns]Brown-haired woman[nse]
+"Really... since you're already caught up in this... hurry up and[r]
+cum... you're wasting time..."[pcms]
 
 *37|
 [fc]
-あの時見ていた動画の女の子も、[r]
-今の僕みたいな気分だったのかな。[pcms]
+I wonder if the girl in that video felt like I do now.[pcms]
 
 *38|
 [fc]
-こんなの、絶対に嫌だ。気持ちよくなんかない。[r]
-なのに、なんだか頭の奥底に熱いものが広がっていく。[pcms]
+I absolutely hate this. It doesn't feel good. Yet something hot is[r]
+spreading deep inside my head.[pcms]
 
 *39|
 [fc]
-気持ちとは裏腹に、体が反応しちゃってる、ってヤツかな……。[pcms]
+Contrary to my feelings, my body is reacting. Is this what they call a[r]
+physical response?[pcms]
 
 ;//se_sex02.ogg(LOOP)
 ;//<SoundLoop 3,ON><SoundLoad 3,se_sex02"]
@@ -311,75 +291,70 @@
 *40|
 [fc]
 [vo_mob s="kojima0020"]
-[ns]小嶋[nse]
-「おぉおぉ……お、おっきく、なったじゃないっ！[r]
-　わ、わたしの、おしりに、か、かたいの、あたるっ……、[r]
-　オマンコ、こすってるじゃない！　そ、そのちょうしっ！」[pcms]
+[ns]Kojima[nse]
+"Oooh... it got bigger, didn't it! My ass feels something hard against[r]
+it... rubbing against my pussy! That's the right rhythm!"[pcms]
 
 *41|
 [fc]
-タプタプとした肉が左右に揺すられ、[r]
-僕のチンコは、柔らかな感触に翻弄される。[pcms]
+The flesh that was bouncing up and down was swaying left and right,[r]
+and my dick was being toyed with by the soft sensation.[pcms]
 
 *42|
 [fc]
-そのせいで、自分でも分かるくらい大きく脈打つチンコが、[r]
-先生の濡れた肉の溝に軽く触れた。[pcms]
+Because of that, my dick, which I could tell was throbbing greatly,[r]
+lightly touched the wet groove of her flesh.[pcms]
 
 *43|
 [fc]
 [vo_mob s="kojima0021"]
-[ns]小嶋[nse]
-「おっ……おほおっ！　ヌルッって、きたぁっ！[r]
-　き、きみの、ち、チンコ……わたし、の、オマンコ……。[r]
-　こすって……きも、ち、いいわよっ！　そ、そろそろ……」[pcms]
+[ns]Kojima[nse]
+"Oh...ohh! It's slippery, it came! Your, di-, dick... my, pu-,[r]
+pussy... Rubbing... it feels, go-, good! Soon, soon..."[pcms]
 
 *44|
 [fc]
-僕の気持ちと裏腹に、どんどん大きくなっていくチンコが、[r]
-先生の濡れたアソコの入り口の肉に包まれ、[r]
-更に奧にある小さな穴の端に引っかけられた。[pcms]
+Contrary to my feelings, my dick, which was getting bigger and bigger,[r]
+was enveloped by the flesh at the entrance of her wet pussy and caught[r]
+on the edge of a small hole further inside.[pcms]
 
 *45|
 [fc]
-[ns]誠[nse]
-「うっ……うううっ……イヤだっ……やだぁあっ！」[pcms]
+[ns]Makoto[nse]
+"Ugh...uhhh...I don't want this... I don't want it!"[pcms]
 
 *46|
 [fc]
 [vo_mob s="kojima0022"]
-[ns]小嶋[nse]
-「なに、が、イヤ……なの……きもち、いいわよぉ……。[r]
-　わ、た、しの、おまん、こ……あははっ！　アンタみたいな、[r]
-　どうていは……すぐイッちゃうんじゃない？　あははっ！」[pcms]
+[ns]Kojima[nse]
+"What, do, you hate... it feels, good... My, pu-, pussy... Ahaha! A[r]
+virgin like you... will cum quickly, won't you? Ahaha!"[pcms]
 
 *47|
 [fc]
 [vo_mob s="cha0005"]
-[ns]茶髪の女[nse]
-「そ、そうかもねぇっ！　だって、か、かわかむりだしっ！[r]
-　しげき、に、よ、よわそうっ！　あはっ、あははっ！」[pcms]
+[ns]Brown-haired Woman[nse]
+"That might be true! Because he's so sensitive to stimulation! Ahah,[r]
+ahaha!"[pcms]
 
 *48|
 [fc]
 [vo_mob s="kin0005"]
-[ns]金髪の女[nse]
-「きゃははっ！　き、きに、しない……！[r]
-　きみは、せーしだけ、わたしたちにくれればいいんだからぁっ！[r]
-　きゃははははははっ！」[pcms]
+[ns]Blonde Woman[nse]
+"Kyahaha! Don't worry...! You just need to give us your semen![r]
+Kyahahahaha!"[pcms]
 
 *49|
 [fc]
-[ns]誠[nse]
-「あっ……あぁっ！」[pcms]
+[ns]Makoto[nse]
+"Ah...ahh!"[pcms]
 
 *50|
 [fc]
 [vo_mob s="kojima0023"]
-[ns]小嶋[nse]
-「そ、ろ、そろ……いただ、く、わね……。[r]
-　んっ……んぉおぉっ！　はいって、くるうぅっ！[r]
-　きっ、きみの、どうていちんこ、わたしに、はいるうっ！」[pcms]
+[ns]Kojima[nse]
+"Soon, soon... I'll receive it... Mmm...mwoooah! It's coming in! Your[r]
+virgin dick is entering me!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -397,55 +372,55 @@
 *51|
 [fc]
 [vo_mob s="kojima0024"]
-[ns]小嶋[nse]
-「んおおっ！　おっ……おおっ！　ひろが、るうっ！」[pcms]
+[ns]Kojima[nse]
+"Nwoah! Oh...ohh! It's spreading!"[pcms]
 
 *52|
 [fc]
-先生は、お尻を高く上げ、そこで一度動きを止めた。[r]
-それでも、僕のチンコは先生に向かって垂直に立ったまま。[pcms]
+The teacher raised her butt high and then stopped moving for a moment.[r]
+Even so, my dick remained standing vertically towards her.[pcms]
 
 *53|
 [fc]
-まるで口で吸い付かれているみたいに、[r]
-僕のチンコは、先生のオマンコから離れる事はなかった。[pcms]
+As if it were being sucked in by a mouth, my dick did not separate[r]
+from her pussy.[pcms]
 
 *54|
 [fc]
-そのまま先生は、体を小さく震わせながら、[r]
-オマンコで、チンコのさきっちょを刺激し続けていた。[pcms]
+While trembling slightly, the teacher continued to stimulate the tip[r]
+of my dick with her pussy.[pcms]
 
 *55|
 [fc]
-僕と先生の触れ合う部分から、[r]
-粘土の高い液体が一筋垂れ落ちていく。[pcms]
+From the part where I and the teacher touched, a viscous liquid[r]
+trickled down.[pcms]
 
 *56|
 [fc]
-それが、合図だった。[pcms]
+That was the signal.[pcms]
 
 *57|
 [fc]
 [vo_mob s="kojima0025"]
-[ns]小嶋[nse]
-「か、かく、ご、しなさい……いく、わ……よぉっ！」[pcms]
+[ns]Kojima[nse]
+"Go ahead and cum... I'm going to... now!"[pcms]
 
 *58|
 [fc]
-[ns]誠[nse]
-「や、やだっ……やめてっ……先生っ！」[pcms]
+[ns]Makoto[nse]
+"No, I don't want this... stop it... Teacher!"[pcms]
 
 [evcg storage="mob_H006b"][trans_c cross time=300]
 
 *59|
 [fc]
 [vo_mob s="kojima0026"]
-[ns]小嶋[nse]
-「だぁ～め……ふふっ……ふふっ！」[pcms]
+[ns]Kojima[nse]
+"No way...haha...haha!"[pcms]
 
 *60|
 [fc]
-先生は、高く上げたお尻を僕の下腹部めがけて振り下ろした。[pcms]
+The teacher swung her raised butt down towards my lower abdomen.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -455,20 +430,19 @@
 
 *61|
 [fc]
-チンコの先から根元まで、[r]
-一気に熱くて柔らかい肉が包み込まれた瞬間、[r]
-僕の腹の奥底で、温かいお湯が広がる感覚を覚えた。[pcms]
+The moment from the tip to the base of my dick was enveloped by hot[r]
+and soft flesh, I felt a warm sensation spreading deep inside my[r]
+belly.[pcms]
 
 *62|
 [fc]
-たった、それだけだった。[r]
-ただ先生のオマンコの中に、[r]
-僕のチンコが飲み込まれただけだったのに――[pcms]
+It was just that. Just that my dick was swallowed up inside the[r]
+teacher's pussy--[pcms]
 
 *63|
 [fc]
-[ns]誠[nse]
-「あ、あぁぁっ……あぁっ！！！　うわぁああっ！！」[pcms]
+[ns]Makoto[nse]
+"Ah, ahhhh...ahhh!!! Uwaaaah!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：追加分
@@ -487,395 +461,367 @@
 *64|
 [fc]
 [vo_mob s="kojima0027"]
-[ns]小嶋[nse]
-「あっ……はぁあっ！　あ、あつ、いの、きたぁっ！！[r]
-　おおおっ！　おおぉぅ！！　せいし、だしたのねぇっ！！[r]
-　あははっ！　な、なかだし、きもちいいっ！」[pcms]
+[ns]Kojima[nse]
+"Ah...haaah! The hot one came! Oooh! Oooh!! You released your semen!![r]
+Ahaha! Cumming inside feels good!"[pcms]
 
 *65|
 [fc]
 [vo_mob s="kojima0028"]
-[ns]小嶋[nse]
-「あぁーっ……はぁっ……はっ……あぁ……あぅうっ……」[pcms]
+[ns]Kojima[nse]
+"Ahh-...haa...hah...ahh...auuuh..."[pcms]
 
 [evcg storage="mob_H006e"][trans_c cross time=300]
 
 *66|
 [fc]
 [vo_mob s="cha0006"]
-[ns]茶髪の女[nse]
-「わぁぁ……すっごい……せーし、いっぱい……あははっ！[r]
-　だ、だけど、ま、まだ……カッチカチ、だねぇっ！[r]
-　あはっ！」[pcms]
+[ns]Brown-haired Woman[nse]
+"Wow... amazing... so much semen... Ahaha! But still, it's still hard[r]
+as a rock! Ahah!"[pcms]
 
 *67|
 [fc]
 [vo_mob s="kin0006"]
-[ns]金髪の女[nse]
-「ま、また、ないちゃってぇ……かわいいっ……。[r]
-　は、はやく、わた、しの、ばんに、ならないかな……。[r]
-　きゃはっ！　たの、しみぃいぃっ！」[pcms]
+[ns]Blonde Woman[nse]
+"You're crying again... how cute... I wonder when it will be my[r]
+turn... Kyah! Looking forward to it!"[pcms]
 
 *68|
 [fc]
-たった一度チンコが擦られただけで、[r]
-僕はイッちゃったんだ……。[pcms]
+Just from being rubbed once, I came...[pcms]
 
 *69|
 [fc]
-いくらオナ禁状態だったからって、[r]
-こんなに簡単にイッちゃうなんて、恥ずかしい……。[pcms]
+No matter how much I abstained from masturbation, it's embarrassing to[r]
+cum so easily...[pcms]
 
 *70|
 [fc]
-また僕の頭の中に、[r]
-動画の中の女の子の顔が浮かび上がる。[pcms]
+Again, the face of the girl in the video popped into my head.[pcms]
 
 *71|
 [fc]
-それと同時に今の自分の置かれている現実が、[r]
-どんな事なのかって事も、いっぺんに思い出されてしまった。[pcms]
+At the same time, I remembered all at once what kind of reality I was[r]
+placed in now.[pcms]
 
 *72|
 [fc]
-今、僕は……。[r]
-感染した先生とセックスしてるんだ。[r]
-そして、周りも感染者だらけ。[pcms]
+Right now, I'm... having sex with an infected teacher. And everyone[r]
+around is also infected.[pcms]
 
 *73|
 [fc]
-沢山の女の感染者の中、男は僕一人。[pcms]
+In a room full of infected women, I'm the only man.[pcms]
 
 *74|
 [fc]
-僕は、死ぬまで精液を搾り取られるか……。[r]
-或いは……お腹を減らした人に……。[pcms]
+I'll either be milked for semen until I die... Or possibly... eaten by[r]
+someone who's hungry...[pcms]
 
 *75|
 [fc]
-どっちにしたって、僕の末路は……！[pcms]
+Either way, my end is...![pcms]
 
 *76|
 [fc]
-[ns]誠[nse]
-「うわぁっ！！！　うわぁああああああああああああぁあっ！[r]
-　そんなの、イヤだあっ！　僕は、死にたくなんてないっ！[r]
-　まだまだやりたい事、一杯あるんだっ！　たっ、助けてぇっ！」[pcms]
+[ns]Makoto[nse]
+"Uwaaah!!! Uwaaaaaaaaaaaaaaaaaah! I don't want that! I don't want to[r]
+die! There are so many things I still want to do! Please, someone help[r]
+me!"[pcms]
 
 [evcg storage="mob_H006f"][trans_c cross time=300]
 
 *77|
 [fc]
 [vo_mob s="kojima0029"]
-[ns]小嶋[nse]
-「ふっ……ふふっ……！　や、ヤリたいの？　ヤリたいのおっ！？[r]
-　いい、わよおっ！　こ、このまま……つ、つづけて……、[r]
-　あげるぅっ！　た、たくさん、ださせてあげるからっ！」[pcms]
+[ns]Kojima[nse]
+"Huh...huhu! You want to do it? You want to do it!? Alright! I'll[r]
+continue... and let you release a lot more!"[pcms]
 
 *78|
 [fc]
 [vo_mob s="cha0007"]
-[ns]茶髪の女[nse]
-「えぇ～……ず、ずるい、よお～……。[r]
-　つぎ、は、わたしだっていってたでしょ……」[pcms]
+[ns]Brown-haired woman[nse]
+"Eeh... that's not fair... It was supposed to be my turn next..."[pcms]
 
 *79|
 [fc]
 [vo_mob s="kojima0030"]
-[ns]小嶋[nse]
-「だ、だまれ……こむ、すめっ！　このチンコは、[r]
-　わたし、のもの、なんだからぁっ！　そう、よねぇ～？[r]
-　ま、ま……まも……る？　くんっ……？」[pcms]
+[ns]Kojima[nse]
+"Shut up... you nuisance! This dick is mine! Right, Ma- Ma- Mamoru?[r]
+Kun?"[pcms]
 
 *80|
 [fc]
-先生は、もう完全にウィルスにやられちゃってる……。[r]
-僕の名前を忘れかけてる……。[pcms]
+The teacher has completely succumbed to the virus... She's even[r]
+forgetting my name...[pcms]
 
 *81|
 [fc]
-僕も、そのうちこんな風になっちゃうんだ。[r]
-４年前に見た、アイツらみたいに……。[r]
-周りを取り囲んでる女の子達みたいになっちゃうんだ！[pcms]
+I'll eventually become like this too. Just like those guys I saw four[r]
+years ago... Just like the girls surrounding me![pcms]
 
 *82|
 [fc]
-そんなの……そんなのイヤだっ！[pcms]
+I don't want that... I don't want that at all![pcms]
 
 *83|
 [fc]
-[ns]誠[nse]
-「ひっ……うあぁぁっ！！！　抜いてくれぇ！　先生！[r]
-　止めてくれよおおっ！」[pcms]
+[ns]Makoto[nse]
+"Hic... uwaah!!! Pull it out, please! Teacher! Stop it, please!"[pcms]
 
 [evcg storage="mob_H006e"][trans_c cross time=300]
 
 *84|
 [fc]
 [vo_mob s="kojima0031"]
-[ns]小嶋[nse]
-「う、うれしそうねぇっ！　せんせい、きみのこと、[r]
-　だ、だいすき……だから、もっとせいえき、だすのよ！[r]
-　わたしのなかに、だしなさいっ！」[pcms]
+[ns]Kojima[nse]
+"Oh, you look so happy! Teacher loves you... so let out more semen![r]
+Release it inside me!"[pcms]
 
 *85|
 [fc]
-興奮のせいか、頬や眼鏡の奥の目を真っ赤にした先生は、[r]
-僕のチンコを飲み込んだまま、腰をゆっくり回しだした。[pcms]
+Due to the excitement, the teacher's cheeks and the eyes behind her[r]
+glasses turned bright red as she continued to rotate her hips while[r]
+engulfing my cock.[pcms]
 
 *86|
 [fc]
-真っ赤になった唇を、涎塗れの先生の舌が妖しく蠢き、[r]
-先生の滑らかなお腹で隠された僕との結合部も、[r]
-クチュクチュとした音をたてて、柔らかく蠢いた。[pcms]
+Her lips turned bright red as well, and Teacher's salivating tongue[r]
+writhed seductively, while the joining part hidden by her smooth belly[r]
+made squelching sounds, softly wriggling.[pcms]
 
 [evcg storage="mob_H006g"][trans_c cross time=300]
 
 *87|
 [fc]
-[ns]小嶋[nse]
-「はっ……あぁっ……んんんっ！　んんっ！」[pcms]
+[ns]Kojima[nse]
+"Hah... ahh... mmmh! Mmmh!"[pcms]
 
 *88|
 [fc]
-[ns]誠[nse]
-「くっ……うぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Kuh... uwaah!"[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
 *89|
 [fc]
-先生は、それまではゆっくりと回していた腰を、[r]
-再び激しく動かし出した。[pcms]
+The teacher, who had been slowly rotating her hips until now, started[r]
+moving them fiercely again.[pcms]
 
 *90|
 [fc]
-熱くて柔らかくて、ヌルヌルの先生の肉が、[r]
-僕のチンコを前後左右、上下にしごき上げる。[pcms]
+The hot, soft, and slippery flesh of the teacher stroked my cock from[r]
+front to back, left to right, up and down.[pcms]
 
 *91|
 [fc]
-そのたびに、先生の入り口から、泡だった愛液が溢れだし、[r]
-僕のチンコの根元を濡らしていった。[pcms]
+With each movement, foamy love juices overflowed from the teacher's[r]
+entrance, wetting the base of my cock.[pcms]
 
 *92|
 [fc]
 [vo_mob s="kojima0033"]
-[ns]小嶋[nse]
-「い、いまから……も、もっときもち、[r]
-　よく、してあげるから……ねっ！　んんんんっ！[r]
-　おおおおっ……んおおおっ！」[pcms]
+[ns]Kojima[nse]
+"I'm going to make you feel even better from now on... okay! Mmmh![r]
+Ohhh... mmmh!"[pcms]
 
 *93|
 [fc]
-先生のオマンコは、まるで別の生き物みたいに動き出した。[pcms]
+The teacher's pussy started moving as if it were a separate creature.[pcms]
 
 *94|
 [fc]
 [vo_mob s="kojima0034"]
-[ns]小嶋[nse]
-「あははっ……こ、こんど、は、どのくらい、もつかしら……。[r]
-　さっきより、たのしま、せなさい、よおっ！」[pcms]
+[ns]Kojima[nse]
+"Ahaha... I wonder how long you'll last this time... Make it more[r]
+enjoyable than before!"[pcms]
 
 *95|
 [fc]
-先生が腰を上下させるたび、[r]
-入り口がキツく締まって、根元から先っぽまでを強く押しつぶす。[r]
-なのに中の方は柔らかくて、ザラザラした感じ。[pcms]
+Every time the teacher moved her hips up and down, the entrance[r]
+tightened, crushing my cock from the base to the tip. Yet inside, it[r]
+felt soft and slightly rough.[pcms]
 
 *96|
 [fc]
-様々な感覚が、僕のチンコ責め立てる。[pcms]
+Various sensations assaulted my cock.[pcms]
 
 *97|
 [fc]
-[ns]誠[nse]
-「うわぁっ！　きっ……キツいいいっ！[r]
-　チンコちぎれるっ！　止めろおっ！」[pcms]
+[ns]Makoto[nse]
+"Uwah! It's... It's too tight! My cock is going to tear off! Stop it!"[pcms]
 
 *98|
 [fc]
-先生の柔らかな股間の肉や、[r]
-お尻の肉が、僕の下腹部に押し当てられる。[pcms]
+The soft flesh of the teacher's crotch and butt pressed against my[r]
+lower abdomen.[pcms]
 
 *99|
 [fc]
-それと同時に、引っかかりのある、強く締め付ける肉が、[r]
-僕のチンコに吸い付き、絞り上げる。[pcms]
+At the same time, flesh with a strong grip sucked on my cock, milking[r]
+it.[pcms]
 
 [evcg storage="mob_H006e"][trans_c cross time=300]
 
 *100|
 [fc]
 [vo_mob s="kojima0035"]
-[ns]小嶋[nse]
-「おほぉおっ！　や、やれば……でき、る、じゃないの！[r]
-　アンタの、な、なか、でふくらんでぇっ！　カリが、[r]
-　わ、たしの、なかをこすってるうっ！　んんぉおおおっ！」[pcms]
+[ns]Kojima[nse]
+"Ohoo! If you try... you can do it! Your cock is swelling inside me![r]
+The ridge is rubbing inside me! Mmmh!"[pcms]
 
 *101|
 [fc]
 [vo_mob s="cha0008"]
-[ns]茶髪の女[nse]
-「ふっー……ぁっ……こ、こうふんするううぅっ！[r]
-　セックス、して、るの、ち、ちかく、でみるの、[r]
-　さいこう……あぁっ！」[pcms]
+[ns]Brown-haired Woman[nse]
+"Huh-... ah... this is so exciting! Watching sex happening right near[r]
+me is the best... ahh!"[pcms]
 
 [evcg storage="mob_H006f"][trans_c cross time=300]
 
 *102|
 [fc]
 [vo_mob s="kojima0036"]
-[ns]小嶋[nse]
-「んおおおっ……おおおっ！　いいっ……んぁっ！」[pcms]
+[ns]Kojima[nse]
+"Mmmh... ohhh! That's good... mmmh!"[pcms]
 
 *103|
 [fc]
-今の状況に諦めが付いたのか、[r]
-それとも、頭がウィルスに冒され出したのか、[r]
-僕も、周りの女の子と同じように興奮し出して来ていた。[pcms]
+Whether I had given up on the situation or my mind was starting to be[r]
+affected by the virus, I too began to get excited just like the girls[r]
+around me.[pcms]
 
 *104|
 [fc]
-[ns]誠[nse]
-「あっ……はぁあっ……お、オマンコ……。[r]
-　先生の、オマンコ……気持ちいい……あぁっ！」[pcms]
+[ns]Makoto[nse]
+"Ah... haaah... the pussy... Teacher's pussy feels good... ahh!"[pcms]
 
 *105|
 [fc]
-腰が勝手に動いて、[r]
-先生のオマンコを突き上げてしまう。[pcms]
+My hips moved on their own, thrusting up into Teacher's pussy.[pcms]
 
 *106|
 [fc]
-もっと奧へ、奧へとねじ込みたくて、[r]
-強く腰を跳ね上げてしまう。[pcms]
+I wanted to thrust deeper and deeper, so I ended up bucking my hips[r]
+strongly.[pcms]
 
 *107|
 [fc]
-あんなにイヤだったのに、どうしちゃったんだろう。[r]
-僕は、先生のオマンコから受ける刺激がもっとほしくて、[r]
-必死で腰を振り始めてしまった。[pcms]
+Even though I hated it so much before, what's happening to me? I[r]
+desperately wanted more stimulation from Teacher's pussy and started[r]
+to frantically move my hips.[pcms]
 
 *108|
 [fc]
-キツい入り口や、圧迫感が増えたオマンコの中を、[r]
-僕のチンコが突き進むと、その一番奥に、[r]
-少し堅い部分があった。[pcms]
+The tight entrance and the increasingly pressing sensation inside her[r]
+pussy were penetrated by my cock, and at the very end, there was a[r]
+slightly hard part.[pcms]
 
 *109|
 [fc]
 [vo_mob s="kojima0037"]
-[ns]小嶋[nse]
-「おおっ……あっ……お、オマンコのおく……！[r]
-　し、しきゅう、に、あ、あたるうぅ！[r]
-　しきゅうの、いりぐち、コツコツされるうっ！」[pcms]
+[ns]Kojima[nse]
+"Ohh... ah... my pussy's deep inside...! It's hitting my cervix! The[r]
+entrance of my womb is being knocked on!"[pcms]
 
 *110|
 [fc]
-[ns]誠[nse]
-「あっ……くうっ！　さ、先っぽあたるっ！[r]
-　こ、これ、気持ち良いっ！　先生のオマンコの中に、[r]
-　口があるみたいっ……」[pcms]
+[ns]Makoto[nse]
+"Ah... kuh! The tip is hitting! This feels good! It's like there's a[r]
+mouth inside Teacher's pussy..."[pcms]
 
 *111|
 [fc]
-その堅い部分にチンコの先が当たると、[r]
-全身に電気が流されたみたいになって、[r]
-僕の腰は、更に高く跳ね上がる。[pcms]
+When the tip of my cock hit that hard part, it felt like electricity[r]
+was coursing through my body, making my hips jump even higher.[pcms]
 
 [evcg storage="mob_H006g"][trans_c cross time=300]
 
 *112|
 [fc]
 [vo_mob s="kojima0038"]
-[ns]小嶋[nse]
-「んぎいいっ……こ、これダメぇっ！　だ、ダメダメぇっ！[r]
-　あかちゃんのいりぐち、コツコツされてっ……！[r]
-　わ、わたし、イッちゃいそうっ！」[pcms]
+[ns]Kojima[nse]
+"Ngyiih... this is bad! No, nooo! My womb's entrance is being knocked[r]
+on...! I think I'm going to come!"[pcms]
 
 *113|
 [fc]
-[ns]誠[nse]
-「ぼっ……僕も、また出そうだっ！」[pcms]
+[ns]Makoto[nse]
+"I'm... I'm about to come out again too!"[pcms]
 
 *114|
 [fc]
 [vo_mob s="kojima0039"]
-[ns]小嶋[nse]
-「い、いい、のよっ！　た、たくさん、だ、だしてぇっ！[r]
-　わた、し、のオマンコ、のなか、いっぱい、だしてぇっ！[r]
-　んおおっ！　おおっ！　イッ……イクううっ！　あぁっ！！」[pcms]
+[ns]Kojima[nse]
+"It's okay! Let out a lot! Fill up my pussy with it! Mmmh! Ohhh! I'm[r]
+coming... Ahhh!!"[pcms]
 
 *115|
 [fc]
-先生は、まるで獣みたいに叫ぶと、[r]
-背中を仰け反らせ、僕のチンコを一番奥まで飲み込んだ。[pcms]
+Teacher screamed like a beast, arched her back, and swallowed my cock[r]
+to its deepest point.[pcms]
 
 *116|
 [fc]
 [vo_mob s="kojima0040"]
-[ns]小嶋[nse]
-「おおおお―――ッ！！　おくううっ！　あぁぁぁっ！！」[pcms]
+[ns]Kojima[nse]
+"Ohhhh---!! Deep inside! Ahhhhh!!"[pcms]
 
 *117|
 [fc]
-先生は、人である事をやめたみたいな声を上げながら、[r]
-銜え込んだままのチンコを、入り口やオマンコの中で、[r]
-力一杯締め付けた。[pcms]
+Teacher let out a voice as if she had ceased to be human while[r]
+clamping down on the cock she had engulfed, squeezing it at the[r]
+entrance and deep inside with all her might.[pcms]
 
 *118|
 [fc]
-入り口から、先っぽへと、[r]
-強く握った手でしごき上げるみたいに、[r]
-僕のチンコが何度も絞り上げられる。[pcms]
+From the entrance to the tip, my cock was milked as if by a tightly[r]
+gripping hand.[pcms]
 
 *119|
 [fc]
-[ns]誠[nse]
-「うわぁあっ！！　ダメだぁっ！　もう我慢できないっ！」[pcms]
+[ns]Makoto[nse]
+"Uwaaaah!! No good! I can't hold back anymore!"[pcms]
 
 *120|
 [fc]
-先生の中で絞られたチンコが、[r]
-先生の言う、子宮の入り口を何度も叩く。[r]
-先生の絶頂のスイッチを何度も叩く。[pcms]
+The cock squeezed inside Teacher kept knocking on the entrance of her[r]
+womb, tapping on Teacher's climax switch over and over again.[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *121|
 [fc]
-僕の目の奧は電線がショートした時みたいにパチパチと光り、[r]
-腰の奥底から熱くてドロッとした塊がこみ上げていく。[r]
-僕は、その塊を抑えることは出来なくなっていた。[pcms]
+My eyes sparkled like a short-circuited wire, and from the depths of[r]
+my hips, a hot, thick mass surged up. I was no longer able to hold it[r]
+back.[pcms]
 
 *122|
 [fc]
-オマンコの中で、ペニスが踊るように跳ね出した。[r]
-それを感じ取ったのか、先生の腰の動きは、[r]
-更に激しくなっていく。[pcms]
+Inside her pussy, my penis leaped as if dancing. Sensing that,[r]
+Teacher's hip movements became even more intense.[pcms]
 
 *123|
 [fc]
 [vo_mob s="kojima0041"]
-[ns]小嶋[nse]
-「んおおおっ！　おおおっ！　イッ、イクうううっ！[r]
-　ダメぇっ！　せ、せんせ、い、もう、イクううううっ！[r]
-　いっ、しょに、イッてぇっ！　あぁっ！　イクウウッ！！！」[pcms]
+[ns]Kojima[nse]
+"Nooo! Ohhh! I'm coming! No good! Te-teacher, I'm going to come! Let's[r]
+come together! Ahhh! I'm coming!!"[pcms]
 
 *124|
 [fc]
-先生のオマンコの締め付けは最高潮に達し、[r]
-まるで僕のチンコをねじ切ろうとするみたいに絞り上げた。[r]
-その刺激は、僕の下腹部にあるダムを決壊させてしまった。[pcms]
+Teacher's pussy clamped down at its peak, as if trying to twist off my[r]
+cock. That stimulation broke the dam in my lower abdomen.[pcms]
 
 *125|
 [fc]
-[ns]誠[nse]
-「うっ……うわぁっ！　でっ……出るうううっ！！[r]
-　あぁっ！　うわぁあっ！　絞られるっ！！」[pcms]
+[ns]Makoto[nse]
+"Ugh... Uwaaah! It's... coming out!! Ahh! Uwaaah! It's squeezing!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -893,63 +839,57 @@
 
 *126|
 [fc]
-僕と、先生の獣みたいな叫び声が、[r]
-沢山の感染者達の中で響いていった。[pcms]
+Both Teacher and I let out beast-like screams that echoed among the[r]
+many infected.[pcms]
 
 *127|
 [fc]
-[ns]誠[nse]
-「はぁっ……はぁっ……あぁ……だ、出しちゃった……。[r]
-　あぁ……はっ……うう……」[pcms]
+[ns]Makoto[nse]
+"Haa... Haa... Ah... I let it out... Ah... Hah... Ugh..."[pcms]
 
 [evcg storage="mob_H006i"][trans_c cross time=300]
 
 *128|
 [fc]
 [vo_mob s="kojima0042"]
-[ns]小嶋[nse]
-「あはぁ……あぁ……イッ、ちゃったぁ……。[r]
-　で、でも、まだ……わ、たし……まんぞく、し、てないっ！[r]
-　もう、いちどっ！　ま、まだ、できる、でしょっ！」[pcms]
+[ns]Kojima[nse]
+"Ahaa... Ah... I came... But, I'm still not... satisfied! One more[r]
+time! You can still do it, right!"[pcms]
 
 *129|
 [fc]
 [vo_mob s="cha0009"]
-[ns]茶髪の女[nse]
-「な、なに、いってんの、あんたっ！[r]
-　つぎは、わた、し！」[pcms]
+[ns]Brown-haired woman[nse]
+"What are you saying, you! It's my turn next!"[pcms]
 
 *130|
 [fc]
 [vo_mob s="kin0007"]
-[ns]金髪の女[nse]
-「きゃははっ！　アンタらみ、たいな、オバサンより、[r]
-　あ、たしのほうが、いいよねぇっ！」[pcms]
+[ns]Blonde Woman[nse]
+"Kyahaha! You old ladies aren't as good as me!"[pcms]
 
 *131|
 [fc]
-[ns]誠[nse]
-「え……僕は、もう、無理……うわっ……や、やめろおっ！」[pcms]
+[ns]Makoto[nse]
+"Eh... I can't anymore... Uwah... Stop it!"[pcms]
 
 *132|
 [fc]
-二度も出してしまったチンコは、[r]
-擦り傷でもあるかのようにひりひりしてる。[pcms]
+The cock that had come twice was stinging as if it had abrasions.[pcms]
 
 *133|
 [fc]
-このまま連続でエッチなんて、出来そうもない。[pcms]
+Continuing to have sex like this seemed impossible.[pcms]
 
 *134|
 [fc]
-だけど、周りを取り囲む女の子達は、[r]
-好き勝手な事を言いながら、[r]
-僕のチンコを独り占めしようと、ケンカを始めてしまった。[pcms]
+But the girls surrounding me started fighting over my cock, saying[r]
+whatever they wanted.[pcms]
 
 *135|
 [fc]
-僕を奪い合う女の子達の怒号を聞きながら、[r]
-静かに目を閉じた。[pcms]
+While listening to the angry shouts of the girls fighting over me, I[r]
+quietly closed my eyes.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -971,59 +911,55 @@
 
 *136|
 [fc]
-僕は、ここで精子を搾り取られて、[r]
-感染者の仲間になって、干からびて死んじゃうんだろう。[pcms]
+I was going to be milked dry of sperm here, become one of the[r]
+infected, and die shriveled up.[pcms]
 
 *137|
 [fc]
 [vo_mob s="kojima0043"]
-[ns]小嶋[nse]
-「なに、ねてるのよ！　ま、まだ、だせる、でしょう！[r]
-　かって、に、ねたら、ころすぞ！」[pcms]
+[ns]Kojima[nse]
+"What are you sleeping for! You can still come out, right! If you[r]
+sleep without permission, I'll kill you!"[pcms]
 
 *138|
 [fc]
 [vo_mob s="kin0008"]
-[ns]金髪の女[nse]
-「きゃは！　オバサン、こわ、いー！[r]
-　あ～……あたし、……おな、か、へって、[r]
-　きちゃったなぁ～……」[pcms]
+[ns]Blonde Woman[nse]
+"Kyaha! Scary old lady! Ahh... I'm getting hungry..."[pcms]
 
 *139|
 [fc]
 [vo_mob s="cha0010"]
-[ns]茶髪の女[nse]
-「わ、わたし、も……おなかが、なって……とまらないの……」[pcms]
+[ns]Brown-haired woman[nse]
+"Me too... My stomach is growling... and it won't stop..."[pcms]
 
 *140|
 [fc]
 [vo_mob s="kojima0044"]
-[ns]小嶋[nse]
-「そ、そういえば……そう、ねぇ……。[r]
-　ち、ちょうど、いいの、あるじゃない……」[pcms]
+[ns]Kojima[nse]
+"Now that you mention it... that's right... We have just the thing..."[pcms]
 
 *141|
 [fc]
-目を閉じ、暗闇の世界に落ちそうになっていた僕の周りに、[r]
-沢山の吐息が掛けられ出した。[pcms]
+As I was about to fall into a world of darkness with my eyes closed,[r]
+many breaths began to be cast around me.[pcms]
 
 *142|
 [fc]
-僕は、覚悟を決めていた。[pcms]
+I had made up my mind.[pcms]
 
 *143|
 [fc]
-だけど……。[pcms]
+But...[pcms]
 
 *144|
 [fc]
-死ぬ前に、一度だけでいいから……。[r]
-越智さんの顔、見たかったな……。[pcms]
+I wished I could see Ochi-san's face just once before I died...[pcms]
 
 *145|
 [fc]
-[ns]誠[nse]
-「ぎっ……ぎゃあぁあぁあっっ！！！」[pcms]
+[ns]Makoto[nse]
+"Gii... Gyaaaahhhhh!!!"[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=500]
@@ -1062,7 +998,7 @@
 [eval exp="sf.g_prologueSkip = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 

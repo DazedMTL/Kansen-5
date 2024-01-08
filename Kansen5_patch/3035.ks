@@ -36,368 +36,349 @@
 *1112|
 [fc]
 [vo_han s="hana_tj0001"]
-[ns]花沢[nse]
-「いやっ！　いやああっ！　放してっ！　放してえっ！！」[pcms]
+[ns]Hanazawa[nse]
+"No! Nooo! Let me go! Let me gooo!!"[pcms]
 
 *1113|
 [fc]
-小さな女の子におしっこをさせるような体勢で、少女が背後から[r]
-男に抱え上げられている。[pcms]
+In a position that would make a little girl pee, the girl is lifted[r]
+from behind by a man.[pcms]
 
 *1114|
 [fc]
-抱き上げられているのは花沢、[r]
-背後で抱き上げているのは荒井だった。[pcms]
+The one being lifted is Hanazawa, and the one lifting her from behind[r]
+is Arai.[pcms]
 
 *1115|
 [fc]
-[ns]荒井[nse]
-「なん……でだよ……オレに……あいに……きたんだろ……。[r]
-　こ……んな……かっこうまで……しやがって……。[r]
-　へ、へへへ……」[pcms]
+[ns]Arai[nse]
+"Why... did you... come to... me... To go as far as... doing this...[r]
+Heh, hehehe..."[pcms]
 
 *1116|
 [fc]
-[ns]水戸[nse]
-「い、いいなあ……あらい……モテモテだなぁ……」[pcms]
+[ns]Mito[nse]
+"Wow, Arai... you're really popular, huh..."[pcms]
 
 *1117|
 [fc]
-[ns]友部[nse]
-「さ……すが……わが……さっかーぶの……えーすだぜ」[pcms]
+[ns]Tomobe[nse]
+"As expected... of our... club's... ace."[pcms]
 
 *1118|
 [fc]
 [vo_han s="hana_tj0002"]
-[ns]花沢[nse]
-「いやっ！　お願い、荒井くん！[r]
-　お願いだから放してぇ！　こんなのいやあっ！！」[pcms]
+[ns]Hanazawa[nse]
+"No! Please, Arai-kun! I'm begging you, let me go! I don't want[r]
+this!!"[pcms]
 
 *1119|
 [fc]
-花沢が抱え上げられたまま、恐怖に目を見開いて身をよじるが[r]
-その程度で荒井の拘束が揺らぐことはない。[pcms]
+While being held up, Hanazawa twists her body in terror, but her[r]
+movements do nothing to loosen Arai's grip.[pcms]
 
 *1120|
 [fc]
 [vo_han s="hana_tj0003"]
-[ns]花沢[nse]
-「みんなもっ！　お願い、正気に戻ってよぉ！[r]
-　自分たちがどんなカッコしてるのか、分かってるの！？」[pcms]
+[ns]Hanazawa[nse]
+"Everyone, please! Come back to your senses! Do you realize what[r]
+you're doing?!"[pcms]
 
 *1121|
 [fc]
-がっちりと体勢を固められた花沢は、あられもない格好で[r]
-抱え上げられた自分を見ている部員たちに、[r]
-必死に訴えかけた。[pcms]
+Unable to move, Hanazawa desperately appeals to the club members[r]
+watching her in such an indecent pose.[pcms]
 
 *1122|
 [fc]
-動けない以上、それしかできることがなかったからだ。[pcms]
+Since she couldn't move, that was all she could do.[pcms]
 
 *1123|
 [fc]
-花沢を見つめる部員たちの股間では、勃起して反り返ったペニスが[r]
-びくびくと脈打っている。[pcms]
+The club members staring at Hanazawa had their dicks pulsing and[r]
+twitching with arousal.[pcms]
 
 *1124|
 [fc]
-誰のペニスもみな、それまで放出した白濁で濡れ光っており[r]
-この部屋で何が行われていたのかが、容易に想像できた。[pcms]
+Each of their dicks was wet and glistening with the white fluid they[r]
+had released earlier, making it easy to imagine what had been[r]
+happening in this room.[pcms]
 
 *1125|
 [fc]
-[ns]松戸[nse]
-「さっきから……キンキンうるせえなぁ……はなざわぁ……」[pcms]
+[ns]Matsudo[nse]
+"She's been so damn noisy since a while ago... Hanazawa..."[pcms]
 
 *1126|
 [fc]
-[ns]取手[nse]
-「だ、だいたい……コイツはよ……いっつでも[r]
-　キャンキャンうるせ……えんだよ」[pcms]
+[ns]Toride[nse]
+"Basically... this girl is always... so damn noisy."[pcms]
 
 *1127|
 [fc]
-[ns]加藤[nse]
-「あらい……のケツは……いっつもおっか……けて[r]
-　シリふって……るくせにな……」[pcms]
+[ns]Kato[nse]
+"Even though Arai's ass is always... chasing after us and shaking."[pcms]
 
 *1128|
 [fc]
-[ns]高木[nse]
-「あらい……は……はなざ……わのオマンコに……[r]
-　もうチンポ……つっこんだのか？」[pcms]
+[ns]Takagi[nse]
+"Has Arai... already stuck his dick... in Hanazawa's pussy?"[pcms]
 
 *1129|
 [fc]
-[ns]荒井[nse]
-「ば……かやろ。な……んでおれが……はなざわと……[r]
-　やらな……きゃ……なんね…えんだよ……」[pcms]
+[ns]Arai[nse]
+"Idiot. Why would I... have to do it... with Hanazawa..."[pcms]
 
 *1130|
 [fc]
-[ns]中本[nse]
-「じゃ、じゃあよ……おれた…ちがヤッても……[r]
-　おこらな……いんだな……あらい……」[pcms]
+[ns]Nakamoto[nse]
+"So then... it's okay if we do her... right, Arai...?"[pcms]
 
 *1131|
 [fc]
 [vo_han s="hana_tj0004"]
-[ns]花沢[nse]
-「いっ、嫌よっ！　誰があんたなんかとっ！[r]
-　じょ、冗談じゃないわよっ！！」[pcms]
+[ns]Hanazawa[nse]
+"No way! Who would do it with you?! This isn't a joke!!"[pcms]
 
 *1132|
 [fc]
-ひとりの部員が、抱え上げられた花沢の股間に[r]
-鼻をすりつける勢いで近づけると、[r]
-思い切り息を吸い込んでその臭いを嗅いだ。[pcms]
+One of the club members moves close enough to rub his nose against[r]
+Hanazawa's crotch, held up in the air, and takes a deep breath to[r]
+smell her.[pcms]
 
 *1133|
 [fc]
-[ns]高木[nse]
-「あ、ああ～、オマンコ、いいにおい……だあぁ～」[pcms]
+[ns]Takagi[nse]
+"Ah, ahh~ The pussy smells so good..."[pcms]
 
 *1134|
 [fc]
 [vo_han s="hana_tj0005"]
-[ns]花沢[nse]
-「ひ、ひいいいぃぃっ！！　やめてっ！　助けてっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Eeek!! Stop it! Help me!!"[pcms]
 
 *1135|
 [fc]
-心の底から怯えたように、花沢が悲鳴をあげ、助けを求めるが[r]
-その声に応じるものは誰もいない。[pcms]
+Filled with terror from the bottom of her heart, Hanazawa screams for[r]
+help, but no one responds to her cries.[pcms]
 
 *1136|
 [fc]
 [vo_han s="hana_tj0006"]
-[ns]花沢[nse]
-「お、越智さんっ！　あんたもなんか言いなさいよっ！[r]
-　なに、さっきから黙って見てんのよ！」[pcms]
+[ns]Hanazawa[nse]
+"Ochi-san! Say something, please! Why are you just silently[r]
+watching?!"[pcms]
 
 *1137|
 [fc]
-花沢の怒りの矛先は、その光景を見ている茜梨に向けられた。[pcms]
+Hanazawa's anger is directed at Akari, who is watching the scene[r]
+unfold.[pcms]
 
 *1138|
 [fc]
-しかし……花沢も内心は分かっていた。[r]
-茜梨に訴えかけても無駄だということが。[pcms]
+But deep down, Hanazawa knew it was futile to appeal to Akari.[pcms]
 
 *1139|
 [fc]
-茜梨は、髪と言わず顔と言わず、全身に白濁を浴びて[r]
-その体が濡れ光っていたからである。[pcms]
+Akari was covered in white fluid from head to toe, her body glistening[r]
+wetly.[pcms]
 
 *1140|
 [fc]
-それだけではなく、スカートの中から、太股をつたって[r]
-幾筋もの精液が流れ落ちてさえいる。[pcms]
+Not only that, but several streaks of semen were flowing down her[r]
+thighs from under her skirt.[pcms]
 
 *1141|
 [fc]
-その精液は、いったいどこから流れ落ちているのか……。[pcms]
+Where could that semen be flowing from...?[pcms]
 
 *1142|
 [fc]
-茜梨が体のどこで部員たちの精液を受け止めたのか、それを[r]
-想像するだけで、花沢の全身に震えが走る。[pcms]
+Just imagining where on her body Akari had caught the club members'[r]
+semen made Hanazawa shiver all over.[pcms]
 
 *1143|
 [fc]
 [vo_han s="hana_tj0007"]
-[ns]花沢[nse]
-「このビッチ！　なにニヤニヤしてんのよ！[r]
-　頭おかしいんじゃないの！！」[pcms]
+[ns]Hanazawa[nse]
+"You bitch! What are you smirking at?! Are you crazy?!"[pcms]
 
 *1144|
 [fc]
-はなざわせんぱい……なにをそんなにおこってるんだろう……？[pcms]
+I wonder why Hanazawa-senpai is so angry...[pcms]
 
 *1145|
 [fc]
-オマンコにチンポをいれてもらうのは……とーってもキモチが[r]
-いいことなのに……。[pcms]
+Having a cock inside your pussy feels really good...[pcms]
 
 *1146|
 [fc]
-あ、そうかあ……はなざわせんぱいは、わたしのことが[r]
-うらやましいんだぁ……そっか、そうなんだ……。[pcms]
+Ah, I see... Hanazawa-senpai is jealous of me... That's right, that[r]
+must be it...[pcms]
 
 *1147|
 [fc]
 [vo_aka s="akari_tj0208"]
-[ns]茜梨[nse]
-「だ～いじょうぶですよぉ、せんぱぁい……ちゃ～んとみんな、[r]
-　せんぱいのオマンコにチンポいれて……ドクドクとぉ[r]
-　なかでだしてくれますよぉ～……」[pcms]
+[ns]Akari[nse]
+"It's okay, senpai... Everyone will make sure to put their cocks in[r]
+your pussy and cum inside you..."[pcms]
 
 *1148|
 [fc]
 [vo_han s="hana_tj0008"]
-[ns]花沢[nse]
-「嫌あぁっ！　お願いやめてっ！　それだけはやめてっ！」[pcms]
+[ns]Hanazawa[nse]
+"No! Please stop! Anything but that!"[pcms]
 
 *1149|
 [fc]
 [vo_aka s="akari_tj0209"]
-[ns]茜梨[nse]
-「え～、どうしてですかぁ～……せんぱいはオマンコのなかで[r]
-　だされるのがぁ……すきじゃな……いんですかぁ？」[pcms]
+[ns]Akari[nse]
+"Eh~, why not~? Don't you like having cum inside your pussy, senpai?"[pcms]
 
 *1150|
 [fc]
 [vo_han s="hana_tj0009"]
-[ns]花沢[nse]
-「好きじゃないっ！　好きなわけないでしょっ！[r]
-　あんた、頭オカシイんじゃないの！！」[pcms]
+[ns]Hanazawa[nse]
+"I don't like it! Of course I don't like it! Are you out of your[r]
+mind?!"[pcms]
 
 *1151|
 [fc]
 [vo_aka s="akari_tj0210"]
-[ns]茜梨[nse]
-「そうなんですかぁ～……わかりましたぁ……せんぱいはぁ[r]
-　オマンコよりもぉ……アナルがいいんですね～」[pcms]
+[ns]Akari[nse]
+"Is that so~? Okay then... Senpai prefers it in the ass rather than[r]
+the pussy, right~?"[pcms]
 
 *1152|
 [fc]
 [vo_han s="hana_tj0010"]
-[ns]花沢[nse]
-「ひいっ！　そ、そんなのもっと嫌よっ！」[pcms]
+[ns]Hanazawa[nse]
+"Eek! No, I hate that even more!"[pcms]
 
 *1153|
 [fc]
-はなざわせんぱいが……そういってかおをくしゃくしゃにした。[pcms]
+...Hanazawa-senpai said, her face crumpling up.[pcms]
 
 *1154|
 [fc]
 [vo_han s="hana_tj0011_1"]
-[ns]花沢[nse]
-「こっ……この……変態！[r]
-　本当に嫌な女！」[pcms]
+[ns]Hanazawa[nse]
+"You... you pervert! You're such a disgusting woman!"[pcms]
 
 *1155|
 [fc]
-花沢が茜梨を口汚く罵倒しながら、逃れようと必死にもがく。[pcms]
+Hanazawa cursed at Akari foully while desperately trying to escape.[pcms]
 
 *1156|
 [fc]
-しかし、荒井の拘束が弛むことはない。[pcms]
+However, Arai's restraint did not loosen.[pcms]
 
 *1157|
 [fc]
 [vo_aka s="akari_tj0211"]
-[ns]茜梨[nse]
-「そんなに……エンリョしないでくださいよぉ……[r]
-　それに、サッカーぶのみんなにぃ、よろこんでもらうことが[r]
-　できるんですよぉ……」[pcms]
+[ns]Akari[nse]
+"Please don't be so shy... Besides, you can make everyone from the[r]
+soccer club happy..."[pcms]
 
 *1158|
 [fc]
 [vo_han s="hana_tj0012_1"]
-[ns]花沢[nse]
-「遠慮なんてしてないわよっ！　バカぁっ！　淫乱！[r]
-　あんた、人間として最低よっ！！」[pcms]
+[ns]Hanazawa[nse]
+"I'm not being shy! Idiot! Slut! You're the worst kind of human[r]
+being!!"[pcms]
 
 *1159|
 [fc]
-ひとしきり茜梨を罵ったかと思ったら、今度は[r]
-背後で自分をがっちりと持ち上げている荒井に、[r]
-媚を売り出した。[pcms]
+After a tirade of abuse at Akari, she then started to flirt with Arai,[r]
+who was firmly holding her from behind.[pcms]
 
 *1160|
 [fc]
 [vo_han s="hana_tj0013"]
-[ns]花沢[nse]
-「ね、ねえ……お願いよ、荒井くん……みんなにも[r]
-　止めるように言って……一生のお願い……っ……」[pcms]
+[ns]Hanazawa[nse]
+"Hey, please... Arai-kun... tell everyone to stop... I'm begging[r]
+you... for a lifetime favor..."[pcms]
 
 *1161|
 [fc]
 [vo_han s="hana_tj0014"]
-[ns]花沢[nse]
-「い、いま、止めてくれたら……このことは絶対に[r]
-　誰にも言わないから……っ！！」[pcms]
+[ns]Hanazawa[nse]
+"If you stop now... I promise I won't tell anyone about this...!!"[pcms]
 
 *1162|
 [fc]
-花沢は身も世もないといった風情で、荒井の情にすがったが[r]
-彼はなんの反応も見せない。[pcms]
+Hanazawa pleaded with Arai's mercy in a desperate manner, but he[r]
+showed no response.[pcms]
 
 *1163|
 [fc]
-[ns]志村[nse]
-「あ、あ～、も、もういいから、はやくヤッちまおうぜ～」[pcms]
+[ns]Shimura[nse]
+"Ah, ah~, come on, let's just do it already~"[pcms]
 
 *1164|
 [fc]
-[ns]上野[nse]
-「ち、チンポが、かわいて、きちゃいましたよ……」[pcms]
+[ns]Ueno[nse]
+"My dick is getting dry..."[pcms]
 
 *1165|
 [fc]
-花沢を取り囲む男たちの輪が、待ちかねたように[r]
-じりっ、じりっと小さくなった。[pcms]
+The circle of men surrounding Hanazawa impatiently closed in tighter[r]
+and tighter.[pcms]
 
 *1166|
 [fc]
-その動きに合わせて、部員たちの股間で頭をもたげている[r]
-ペニスが、別の生き物のようにびくり、びくりと[r]
-悦びを求めて脈動する。[pcms]
+With their movements, the penises raising their heads in the members'[r]
+groins pulsed with pleasure as if they were creatures of their own.[pcms]
 
 *1167|
 [fc]
-その光景は、花沢に新たな恐怖を呼び起こした。[pcms]
+This sight invoked a new terror in Hanazawa.[pcms]
 
 *1168|
 [fc]
 [vo_han s="hana_tj0015"]
-[ns]花沢[nse]
-「いやああああっ！　来ないでっ！　来ないでえぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"Nooooo! Don't come! Don't comeeee!"[pcms]
 
 *1169|
 [fc]
 [vo_aka s="akari_tj0212"]
-[ns]茜梨[nse]
-「あ、そうだぁ～……イイコト、おもいついちゃいましたぁ……。[r]
-　これならぁ、せんぱいもきっとぉ～[r]
-　まんぞくしてくれますよぉ……うふふふっ……」[pcms]
+[ns]Akari[nse]
+"Ah, that's right~... I just had a great idea... This will surely[r]
+satisfy you, senpai... ufufufu..."[pcms]
 
 *1170|
 [fc]
 [vo_aka s="akari_tj0213"]
-[ns]茜梨[nse]
-「みなさ～ん、はなざわせんぱいのオマンコとアナルにぃ[r]
-　いっぺんにたっくさん、オチンチンいれちゃってくださ～い！」[pcms]
+[ns]Akari[nse]
+"Everyone~ please put your dicks into Hanazawa-senpai's pussy and ass[r]
+all at once~!"[pcms]
 
 *1171|
 [fc]
 [vo_han s="hana_tj0016"]
-[ns]花沢[nse]
-「ひ、ひいいっ！！　なっ、なに言ってんのよ！　やめてよっ！[r]
-　お願いっ、そんなのやめてっ！　いやっいやあああぁぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"Eeeek!! What are you saying?! Stop it! Please, stop it! Nooo[r]
+noooooo!"[pcms]
 
 *1172|
 [fc]
 [vo_aka s="akari_tj0214"]
-[ns]茜梨[nse]
-「あははは～、そ～んなにエンリョしなくっても[r]
-　い～んですよぉ……じゃ、みんなぁ、いっきますよぉ～♪」[pcms]
+[ns]Akari[nse]
+"Ahahaha~, there's no need to be so shy... Okay everyone, let's go~♪"[pcms]
 
 *1173|
 [fc]
 [vo_han s="hana_tj0017"]
-[ns]花沢[nse]
-「い……いやっ！　いやああぁっ！　やっ、やめてよおぉ！！[r]
-　お願いっ！　誰か、誰か助けてええぇっ！！」[pcms]
+[ns]Hanazawa[nse]
+"No... Noooo! Stop, please stop!! Please! Somebody, somebody help[r]
+meeee!!"[pcms]
 
 *1174|
 [fc]
 [vo_aka s="akari_tj0215"]
-[ns]茜梨[nse]
-「それじゃ、いっきますよぉ～。[r]
-　いっち、に～の……さんっ！！」[pcms]
+[ns]Akari[nse]
+"Then here we go~. One, two... three!!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -415,28 +396,28 @@
 *1175|
 [fc]
 [vo_han s="hana_tj0018"]
-[ns]花沢[nse]
-「ぎっ、いぎいいいいいぃぃぃいぃぃぃぃっっっ！！！！」[pcms]
+[ns]Hanazawa[nse]
+"Gyaaaaaaaahhhhhhhhhhhhh!!!"[pcms]
 
 *1176|
 [fc]
-はなざわせんぱいのアナルに、あらいせんぱいのチンポが、[r]
-オマンコには、ふたりのチンポがいっぺんにはいってる。[pcms]
+Arai-senpai's dick was in Hanazawa-senpai's ass, while two dicks were[r]
+inside her pussy at the same time.[pcms]
 
 *1177|
 [fc]
-いっぺんに３本もチンポをつっこまれて、[r]
-はなざわせんぱい、きがくるったみたいにあばれてる。[pcms]
+Having three dicks stuffed inside her at once, Hanazawa-senpai[r]
+thrashed about as if she had gone mad.[pcms]
 
 *1178|
 [fc]
-あ～……はなざわせんぱい、きもちよさそうだなぁ……。[r]
-よかったぁ、よろこんでもらえたみたいでぇ……。[pcms]
+Ah... Hanazawa-senpai seems to be feeling good... thank goodness, it[r]
+looks like she's enjoying it...[pcms]
 
 *1179|
 [fc]
-[ns]荒井[nse]
-「あ゛～、はなざわの、ケツのあな、ぎぼぢいぃなぁ～」[pcms]
+[ns]Arai[nse]
+"Ah~ Hanazawa's ass is so tight and nice~"[pcms]
 
 ;//■イベントCG　mob_H009
 [evcg storage="mob_H009c"][trans_c cross time=300]
@@ -444,19 +425,19 @@
 *1180|
 [fc]
 [vo_han s="hana_tj0019"]
-[ns]花沢[nse]
-「が、がああぁっ！　痛いっ！！　いだああいいぃっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Gahh! It hurts!! It's so painful!!"[pcms]
 
 *1181|
 [fc]
-[ns]土浦[nse]
-「はなざわ、の、オマンコも、ぎぼぢいい、ぞっ……」[pcms]
+[ns]Tsuchiura[nse]
+"Hanazawa's pussy is also tight and nice..."[pcms]
 
 *1182|
 [fc]
-[ns]取手[nse]
-「あ、あれ……おれも、いま、はなざわと、[r]
-　オマンコ、してるんだ、けどなぁ……まあ、いっか……」[pcms]
+[ns]Toride[nse]
+"Ah, wait... I'm also doing Hanazawa's pussy right now... but oh[r]
+well..."[pcms]
 
 ;//■イベントCG　mob_H009
 [evcg storage="mob_H009d"][trans_c cross time=300]
@@ -464,49 +445,45 @@
 *1183|
 [fc]
 [vo_han s="hana_tj0020"]
-[ns]花沢[nse]
-「ぎいいぃっ！　がぎいぃっ！　裂けるうぅっ！[r]
-　オマンコもお尻も裂けちゃうううぅぅっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Eeeek! It's tearing! My pussy and my ass are tearing apart!!"[pcms]
 
 *1184|
 [fc]
-[ns]荒井[nse]
-「じ、じゃ、うごぐぞ、オマエら……せーのおっ……」[pcms]
+[ns]Arai[nse]
+"Then, let's move, guys... on my mark..."[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
 *1185|
 [fc]
-かけごえをかけて、３人がどうじにうごいた。[pcms]
+With a shout, the three of them moved simultaneously.[pcms]
 
 *1186|
 [fc]
 [vo_han s="hana_tj0021"]
-[ns]花沢[nse]
-「ぎゃああああぁっ！　いだいっ！[r]
-　痛い痛いいだああああぁぁぁぃぃぃっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Gyaaaaahh! It hurts! It hurts so much it's killing me!!"[pcms]
 
 *1187|
 [fc]
-はなざわせんぱいが、シロメをむいてヨガってる。[pcms]
+Hanazawa-senpai was screaming with her eyes rolled back.[pcms]
 
 *1188|
 [fc]
-あ～、そんなにキモチいいんだぁ……[r]
-なんだかわたしのオマンコまで、むずむずしてきちゃう……。[pcms]
+Ah, she must be feeling so good... Now even my pussy is starting to[r]
+itch...[pcms]
 
 *1189|
 [fc]
-[ns]土浦[nse]
-「オマンコ、しまってるぞ……[r]
-　そうかぁ、きもち、いいのかぁ……」[pcms]
+[ns]Tsuchiura[nse]
+"Her pussy is clamping down... So it feels good, huh..."[pcms]
 
 *1190|
 [fc]
-[ns]荒井[nse]
-「ケツ、の、あなが、チンポを、しめつけてる……。[r]
-　はなざわ、って、い、いんらん、だっだんだな……」[pcms]
+[ns]Arai[nse]
+"Her ass is squeezing my dick... Hanazawa really is a slut..."[pcms]
 
 ;//■イベントCG　mob_H009
 [evcg storage="mob_H009c"][trans_c cross time=300]
@@ -514,66 +491,62 @@
 *1191|
 [fc]
 [vo_han s="hana_tj0022"]
-[ns]花沢[nse]
-「あ、あぎいぃぃっ！　ぎぎぎいいぃぃっ！！[r]
-　いだああぁいっ！　死ぬっ！　痛くてしんじゃうぅっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Agiiiiiih! It hurts! It hurts so much I'm going to die!!"[pcms]
 
 *1192|
 [fc]
-[ns]取手[nse]
-「そ、そうか、そんなにイイかぁ……ウレシイなぁ、はなざわぁ。[r]
-　じ、じゃ、もっとイグぞおぉ……！」[pcms]
+[ns]Toride[nse]
+"So, it feels that good... I'm glad, Hanazawa. Then, I'll make you[r]
+come even more...!"[pcms]
 
 *1193|
 [fc]
-はなざわせんぱいのからだが、オミコシみたいに[r]
-おとこのこたちに、もちあげられる。[pcms]
+Hanazawa-senpai's body was lifted up like a barbell by the boys.[pcms]
 
 *1194|
 [fc]
 [vo_han s="hana_tj0023"]
-[ns]花沢[nse]
-「痛いっ！　痛い痛いっいだああぁぁぁいいぃぃっっ！！[r]
-　こっ壊れるっ、壊れちゃうからやめてえぇっ！！[r]
-　ぎ、ぎゃあああぁぁっ！！」[pcms]
+[ns]Hanazawa[nse]
+"It hurts! It hurts so much I'm going to die!! Stop it, I'm going to[r]
+break apart!! Gyaaaahhh!!"[pcms]
 
 *1195|
 [fc]
-そ～れ、わっしょい、わっしょ～い♪[pcms]
+That's it, lift her up, lift her up♪[pcms]
 
 *1196|
 [fc]
-[ns]碇谷[nse]
-「は、はやぐ、してくれよ……。[r]
-　あとが、つかえてん、だからな……」[pcms]
+[ns]Ikariya[nse]
+"Hurry up and do it... We're all waiting in line here..."[pcms]
 
 *1197|
 [fc]
-[ns]志村[nse]
-「お、れだち、にも、ヤラセでぐ、だざ、いよ……」[pcms]
+[ns]Shimura[nse]
+"Let us have a turn too, we're waiting, you know..."[pcms]
 
 *1198|
 [fc]
-あ～、はなざわせんぱい、にんきものなんだぁ……。[pcms]
+Ah, Hanazawa-senpai is so popular...[pcms]
 
 *1199|
 [fc]
-おとこのこたちが、ならんでまってるよぉ～♪[pcms]
+The boys are all lined up waiting♪[pcms]
 
 *1200|
 [fc]
-[ns]荒井[nse]
-「わ、わかった、わかった、じゃ、そろそろ、だすかぁ……」[pcms]
+[ns]Arai[nse]
+"Okay, okay, I get it, so maybe it's about time to release..."[pcms]
 
 *1201|
 [fc]
-[ns]取手[nse]
-「お、オレは、いつ、でも、いいぜっ……」[pcms]
+[ns]Toride[nse]
+"I'm ready to go anytime..."[pcms]
 
 *1202|
 [fc]
-[ns]土浦[nse]
-「じ、じゃあ、みんな、で、イッペンに、だすかぁ……」[pcms]
+[ns]Tsuchiura[nse]
+"Then, shall we all release at once..."[pcms]
 
 ;//■イベントCG　mob_H009
 [evcg storage="mob_H009e"][trans_c cross time=300]
@@ -581,21 +554,20 @@
 *1203|
 [fc]
 [vo_han s="hana_tj0024"]
-[ns]花沢[nse]
-「いやっ！　いやああっ！　やめてぇ！　やめてよおっ！[r]
-　中はっ、中にだけは出さないでえぇっ！！」[pcms]
+[ns]Hanazawa[nse]
+"No! Nooo! Stop it! Please stop! Not inside, please don't cum[r]
+inside!!"[pcms]
 
 *1204|
 [fc]
-[ns]土浦[nse]
-「そ、そんなに、ほしい、のか……どうしよう、も、ない[r]
-　インラン、なんだな。はな、ざわは……」[pcms]
+[ns]Tsuchiura[nse]
+"You want it that badly... There's no helping it, you're such a slut,[r]
+Hanazawa..."[pcms]
 
 *1205|
 [fc]
-[ns]荒井[nse]
-「しり、の、あな、が、チンポを、しめつけてっ……。[r]
-　あ゛～、でるぅでるうぅっ……！」[pcms]
+[ns]Arai[nse]
+"Her ass is squeezing my dick... Ahhh, I'm gonna cum...!"[pcms]
 
 ;//■イベントCG　mob_H009
 [evcg storage="mob_H009c"][trans_c cross time=300]
@@ -603,8 +575,8 @@
 *1206|
 [fc]
 [vo_han s="hana_tj0025"]
-[ns]花沢[nse]
-「あ、あぐっ、あぐぎいっがあああぁぁぁうううぅぅっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Ah, aguh, agiiiiiih!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -622,81 +594,77 @@
 *1207|
 [fc]
 [vo_han s="hana_tj0026"]
-[ns]花沢[nse]
-「ぎ、ぎぎぎぎぎぎぎいいいいいいいぃぃぃぃっっ！！！！」[pcms]
+[ns]Hanazawa[nse]
+"Gigigigigigiiiiiiiiiiii!!"[pcms]
 
 *1208|
 [fc]
-オマンコとアナルにぶちこまれた３本のオチンチンが、[r]
-いっぺんにビクビクしてる。[pcms]
+The three dicks stuffed in her pussy and ass twitched all at once.[pcms]
 
 *1209|
 [fc]
-[ns]荒井[nse]
-「はなざわの、ケツのアナ、ぎぼぢいいぃぃ～」[pcms]
+[ns]Arai[nse]
+"Hanazawa's ass feels so damn good..."[pcms]
 
 *1210|
 [fc]
-[ns]取手[nse]
-「オマンコも、さいこう、だぜぇ～」[pcms]
+[ns]Toride[nse]
+"Her pussy is the best too..."[pcms]
 
 ;//■イベントCG　mob_H009
 [evcg storage="mob_H009g"][trans_c cross time=300]
 
 *1211|
 [fc]
-２本のチンポがささったままのオマンコと、あらいせんぱいの[r]
-チンポがささったアナルから、せーえきがどぼどぼと[r]
-あふれて、ゆかにおちた。[pcms]
+With two dicks still inside her pussy and Arai-senpai's dick in her[r]
+ass, semen gushed out and fell to the floor.[pcms]
 
 *1212|
 [fc]
 [vo_han s="hana_tj0027"]
-[ns]花沢[nse]
-「あ………ぎ…………げ…………っく………………」[pcms]
+[ns]Hanazawa[nse]
+"Ah... gi... ge... guck..."[pcms]
 
 *1213|
 [fc]
-はなざわせんぱいは、シロメをむいて[r]
-くちからアワまでふいて、ガクガクしてる。[pcms]
+Hanazawa-senpai was rolling her eyes back and foaming at the mouth,[r]
+shaking violently.[pcms]
 
 *1214|
 [fc]
-せんぱいってば……オシトヤカだなぁ……。[r]
-このくらいで、そんなにエンリョするなんて……。[pcms]
+Senpai is so refined... To be so reserved about something like this...[pcms]
 
 *1215|
 [fc]
-あ、でも、よろこんで、もらえたのかな……？[pcms]
+Ah, but maybe she enjoyed it...?[pcms]
 
 *1216|
 [fc]
 [vo_aka s="akari_tj0216"]
-[ns]茜梨[nse]
-「うふふふっ……はなざわ、せんぱいぃ～♪[r]
-　チンポは、た～くさん、あるんですからぁ～、[r]
-　まだまだ、これからですよぉ～、ねー、みんなぁ♪」[pcms]
+[ns]Akari[nse]
+"Ufufufu... Hanazawa-senpai~ There are plenty of dicks here, after[r]
+all~ The fun is just beginning, right everyone♪"[pcms]
 
 *1217|
 [fc]
-[ns]部員たち[nse]
-「お゛お゛お゛お゛お゛う゛ぅ゛ぅ゛っっっ！！」[pcms]
+[ns]Club Members[nse]
+"Ooooooohhhhh!!"[pcms]
 
 *1218|
 [fc]
-わたしが、そういうと、みんなが、チンポをふりみだして、[r]
-はなざわせんぱいに、わらわらとむらがった。[pcms]
+As I said that, everyone started waving their dicks and swarmed around[r]
+Hanazawa-senpai.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1219|
 [fc]
-とっても……たのしいなっ……♪[pcms]
+It's really... so much fun...♪[pcms]
 
 *1220|
 [fc]
-うふふっ……うふふふふっ……。[pcms]
+Ufufu... ufufufufu...[pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

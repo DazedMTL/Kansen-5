@@ -19,22 +19,21 @@
 
 *2245|
 [fc]
-[ns]誠[nse]
-「んっ……」[pcms]
+[ns]Makoto[nse]
+"Hmm..."[pcms]
 
 *2246|
 [fc]
-[ns]宗一郎[nse]
-「誠、目が覚めたか？」[pcms]
+[ns]Souichirou[nse]
+"Makoto, are you awake?"[pcms]
 
 *2247|
 [fc]
-気が付くと、そこには見知った顔が勢揃いで[r]
-不安そうな面持ちを並べていた。[pcms]
+When I came to, familiar faces were all around me, looking anxious.[pcms]
 
 *2248|
 [fc]
-いつの間に寝てしまったんだろうか。[pcms]
+I wonder when I fell asleep.[pcms]
 
 ;//bgm08.ogg
 [bgm storage="BGM08"]
@@ -46,56 +45,56 @@
 *2249|
 [fc]
 [vo_aka s="akari0789"]
-[ns]茜梨[nse]
-「中澤先輩……」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2250|
 [fc]
 [vo_stk s="satuki0320"]
-[ns]彩月[nse]
-「気分はどう……？」[pcms]
+[ns]Satsuki[nse]
+"How do you feel...?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2251|
 [fc]
 [vo_nat s="natu0442"]
-[ns]夏都[nse]
-「馬鹿野郎が」[pcms]
+[ns]Natsu[nse]
+"You idiot."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2252|
 [fc]
 [vo_tay s="taja0211"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2253|
 [fc]
-[ns]稼津央[nse]
-「頭ははっきりしているかい？」[pcms]
+[ns]Kazuo[nse]
+"Is your head clear?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2254|
 [fc]
-みんなが口々に僕の容態を尋ねてくる。[r]
-なんだ、これは……。[pcms]
+Everyone was asking about my condition all at once. What's this[r]
+about...?[pcms]
 
 *2255|
 [fc]
-[ns]誠[nse]
-「頭……僕は……」[pcms]
+[ns]Makoto[nse]
+"My head... I..."[pcms]
 
 *2256|
 [fc]
-確か、ＶＩＰルームの奥で飲み物を調達して、[r]
-部屋に戻ろうとしたら……。[pcms]
+I remember, I was getting drinks in the back of the VIP room, and when[r]
+I tried to return to my room...[pcms]
 
 ;//★viproom_lobby VIPルームの近くにあるロビー
 [bg storage="viproom_lobby"][image storage="effect_red" layer=1 page=back visible=true left=0 top=0 opacity=100]
@@ -108,11 +107,11 @@
 
 *2257|
 [fc]
-そこに黒服がいて……僕は噛まれたんだ。[pcms]
+There was a man in black there... and I was bitten.[pcms]
 
 *2258|
 [fc]
-感染者に。[pcms]
+By an infected person.[pcms]
 
 
 ;//★room08a VIPルーム
@@ -123,8 +122,8 @@
 
 *2259|
 [fc]
-[ns]荒井[nse]
-「くそっ、なんでこんなことに……」[pcms]
+[ns]Arai[nse]
+"Damn it, why did this have to happen..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [wait_c time=300]
@@ -138,197 +137,193 @@
 
 *2260|
 [fc]
-僕はみんなの顔を見渡す。[r]
-何も言葉が出てこない。[pcms]
+I looked around at everyone's faces. No words would come out.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz01"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2261|
 [fc]
-[ns]稼津央[nse]
-「今回のエピデミックのウイルスは新種だ。[r]
-　オズは予防接種を受けていたが、[r]
-　効かなかったんだな」[pcms]
+[ns]Kazuo[nse]
+"The virus in this epidemic is a new strain. Oz had been vaccinated,[r]
+but it didn't work."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2262|
 [fc]
 [vo_nat s="natu0443"]
-[ns]夏都[nse]
-「予防接種を受けているはずの子たちも、感染している。[r]
-　誠も同じだろう」[pcms]
+[ns]Natsu[nse]
+"Even the kids who should have been vaccinated are infected. Makoto is[r]
+the same, right?"[pcms]
 
 *2263|
 [fc]
-[ns]誠[nse]
-「つまり……」[pcms]
+[ns]Makoto[nse]
+"So that means..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_a"][ChrSetParts layer=5 chface="F1_so06a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2264|
 [fc]
-[ns]宗一郎[nse]
-「言わなくていい」[pcms]
+[ns]Souichirou[nse]
+"You don't need to say it."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2265|
 [fc]
-僕はその事実にめまいを起こしそうだった。[r]
-こんなことになるなんて……。[pcms]
+I felt dizzy with the reality of it all. I never imagined this could[r]
+happen...[pcms]
 
 *2266|
 [fc]
-僕を囲むみんなの目に楽観的なものは一つもなく、[r]
-深刻な表情を浮かべていた。[pcms]
+The eyes of everyone surrounding me held no optimism, only grave[r]
+expressions.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz01"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2267|
 [fc]
-[ns]稼津央[nse]
-「今、気になっていたことを電話で確認してみた」[pcms]
+[ns]Kazuo[nse]
+"I just checked something that was bothering me over the phone."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2268|
 [fc]
 [vo_nat s="natu0444"]
-[ns]夏都[nse]
-「気になったこと？」[pcms]
+[ns]Natsu[nse]
+"What was bothering you?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz01"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2269|
 [fc]
-[ns]稼津央[nse]
-「美沙緒は覚えているね？」[pcms]
+[ns]Kazuo[nse]
+"You remember Misao, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_a"][ChrSetParts layer=5 chface="F1_so15a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2270|
 [fc]
-[ns]宗一郎[nse]
-「そうか！　美沙緒さんなら！」[pcms]
+[ns]Souichirou[nse]
+"That's right! If it's Misao-san then!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2271|
 [fc]
 [vo_aka s="akari0790"]
-[ns]茜梨[nse]
-「そうです、そうですよ！　お姉様なら！」[pcms]
+[ns]Akari[nse]
+"Yes, that's right! If it's Onee-sama then!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2272|
 [fc]
 [vo_nat s="natu0445"]
-[ns]夏都[nse]
-「話が見えねえな」[pcms]
+[ns]Natsu[nse]
+"I can't see where this is going."[pcms]
 
 *2273|
 [fc]
-美沙緒さんは、このウイルスを研究していた人で、[r]
-それなりの地位と実力がある人らしい。[pcms]
+Misao-san is someone who was researching this virus, apparently a[r]
+person with considerable status and ability.[pcms]
 
 *2274|
 [fc]
-それなら、もしかして……。[pcms]
+Then maybe...[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2275|
 [fc]
-[ns]稼津央[nse]
-「今のところ本家は無事で、美沙緒も健在だった」[pcms]
+[ns]Kazuo[nse]
+"For now, the main house is safe, and Misao is still well."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2276|
 [fc]
 [vo_stk s="satuki0321"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2277|
 [fc]
-[ns]稼津央[nse]
-「美沙緒はこの新型に対抗できるかも知れない、[r]
-　試薬を持っている」[pcms]
+[ns]Kazuo[nse]
+"Misao might have a reagent that could counter this new strain."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2278|
 [fc]
 [vo_nat s="natu0446"]
-[ns]夏都[nse]
-「マジか……？　そんなものが存在するなんて……」[pcms]
+[ns]Natsu[nse]
+"Seriously...? That such a thing even exists..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2279|
 [fc]
-[ns]稼津央[nse]
-「ただ、あくまで試薬だ。島で蔓延しているウイルスに[r]
-　効くかどうかはわからない」[pcms]
+[ns]Kazuo[nse]
+"But it's just a reagent. Whether it works on the virus spreading on[r]
+the island is unknown."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2280|
 [fc]
-[ns]荒井[nse]
-「じゃ、すぐ使ってくださいよ！」[pcms]
+[ns]Arai[nse]
+"Then use it immediately!"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_a"][ChrSetParts layer=5 chface="F1_so05a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2281|
 [fc]
-[ns]宗一郎[nse]
-「馬鹿、越智さんの実家までどれだけ[r]
-　距離があると思ってるんだ」[pcms]
+[ns]Souichirou[nse]
+"Idiot, do you have any idea how far it is to Ochi-san's family home?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2282|
 [fc]
-みんなに沈黙が訪れる。[r]
-命をかけた危険な行程になるはずだ。[pcms]
+A silence fell over everyone. It would surely be a dangerous journey[r]
+with lives at stake.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_b"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2283|
 [fc]
 [vo_stk s="satuki0322"]
-[ns]彩月[nse]
-「車でスイスイいければいいんだけど……」[pcms]
+[ns]Satsuki[nse]
+"It would be nice if we could just drive there smoothly..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2284|
 [fc]
 [vo_nat s="natu0447"]
-[ns]夏都[nse]
-「まぁ、そこまで贅沢は言わねえやな」[pcms]
+[ns]Natsu[nse]
+"Well, can't be too choosy now, can we?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2285|
 [fc]
 [vo_tay s="taja0212"]
-[ns]ターヤ[nse]
-「いけるよ、多分」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I think we can make it, probably."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2286|
 [fc]
 [vo_aka s="akari0791"]
-[ns]茜梨[nse]
-「そうですよ、大丈夫です」[pcms]
+[ns]Akari[nse]
+"That's right, it'll be okay."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -358,8 +353,8 @@
 *2287|
 [fc]
 [vo_aka s="akari0792"]
-[ns]茜梨[nse]
-「お姉様のところに行きましょう！」[pcms]
+[ns]Akari[nse]
+"Let's go to Onee-sama's place!"[pcms]
 
 ;//m:茜梨中心に4人並べる
 [chara_int]
@@ -383,8 +378,8 @@
 *2288|
 [fc]
 [vo_stk s="satuki0323"]
-[ns]彩月[nse]
-「美沙緒さんのところまで中澤君を連れて行く」[pcms]
+[ns]Satsuki[nse]
+"I'll take Nakazawa-kun to Misao-san's place."[pcms]
 
 ;//m:彩月中心に4人並べる
 [chara_int]
@@ -408,8 +403,8 @@
 *2289|
 [fc]
 [vo_nat s="natu0448"]
-[ns]夏都[nse]
-「世話のかかる野郎だぜ、どこまででも連れてってやるよ」[pcms]
+[ns]Natsu[nse]
+"What a handful of a guy, I'll take him as far as it takes."[pcms]
 
 ;//m:夏都中心に4人並べる
 [chara_int]
@@ -433,8 +428,8 @@
 *2290|
 [fc]
 [vo_tay s="taja0213"]
-[ns]ターヤ[nse]
-「越智のお屋敷まで行こう！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Let's go to the Ochi mansion!"[pcms]
 
 ;//m:ターヤ中心に4人並べる
 [chara_int]
@@ -456,17 +451,17 @@
 
 *2291|
 [fc]
-[ns]誠[nse]
-「み、みんな……」[pcms]
+[ns]Makoto[nse]
+"Everyone..."[pcms]
 
 *2292|
 [fc]
-こんな危険なことに自分の身を[ruby text="なげう"]擲ってくれるなんて……[r]
-もし僕がみんなの立場だったら、できるかどうかわからない。[pcms]
+Such a dangerous thing, throwing oneself into... If I were in[r]
+everyone's position, I don't know if I could do it.[pcms]
 
 *2293|
 [fc]
-それなのに、こんな……。[pcms]
+And yet, this...[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -474,277 +469,275 @@
 *2294|
 [fc]
 [vo_nat s="natu0449"]
-[ns]夏都[nse]
-「何泣いてんだよ」[pcms]
+[ns]Natsu[nse]
+"What are you crying for?"[pcms]
 
 *2295|
 [fc]
-[ns]誠[nse]
-「な、泣いてないよ！」[pcms]
+[ns]Makoto[nse]
+"I-I'm not crying!"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2296|
 [fc]
-[ns]稼津央[nse]
-「まあまあ、行けるところまで車を出しましょう。[r]
-　私のリムジンで良ければ提供します」[pcms]
+[ns]Kazuo[nse]
+"Well, let's take the car as far as we can. I offer my limousine if[r]
+it's alright."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2297|
 [fc]
 [vo_tay s="taja0214"]
-[ns]ターヤ[nse]
-「あ、あの……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Um..."[pcms]
 
 *2298|
 [fc]
-基本的にあまり口を開かないターヤさんが、[r]
-遠慮がちに手を挙げた。[pcms]
+Tarja-san, who usually doesn't speak much, hesitantly raised her hand.[pcms]
 
 *2299|
 [fc]
-みんなの視線が集まると、用件を端的に伝えていく。[pcms]
+As everyone's gaze gathered, she began to convey her message[r]
+succinctly.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2300|
 [fc]
 [vo_tay s="taja0215"]
-[ns]ターヤ[nse]
-「旧日本軍の砲台跡には地下通路がある……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"There is an underground passage at the site of the old Japanese army[r]
+artillery battery..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2301|
 [fc]
-[ns]宗一郎[nse]
-「地下通路っ！」[pcms]
+[ns]Souichirou[nse]
+"An underground passage!"[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2302|
 [fc]
 [vo_sat s="sato0095"]
-[ns]怜[nse]
-「あ、聞いたことあるよ！[r]
-　この島の色んなところに繋がってるって！」[pcms]
+[ns]Sato[nse]
+"Ah, I've heard about that! It's connected to various places on the[r]
+island!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2303|
 [fc]
 [vo_nat s="natu0450"]
-[ns]夏都[nse]
-「そいつは面白そうな話だな」[pcms]
+[ns]Natsu[nse]
+"Now that sounds like an interesting story."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2304|
 [fc]
 [vo_tay s="taja0216"]
-[ns]ターヤ[nse]
-「普段は立ち入り禁止になっているけれど、[r]
-　今なら柵を越えれば誰でも入れると思う」[pcms]
+[ns]Tarja[nse]
+"It's usually off-limits, but now I think anyone can get in if they[r]
+climb over the fence."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2305|
 [fc]
-[ns]荒井[nse]
-「こんな状況で、そんな細かいこと言う奴はいないぜ」[pcms]
+[ns]Arai[nse]
+"In this situation, no one's going to fuss over the details."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2306|
 [fc]
 [vo_aka s="akari0793"]
-[ns]茜梨[nse]
-「そうです、悪いことですけど、今は非常事態ですから！」[pcms]
+[ns]Akari[nse]
+"That's right, it's bad, but it's an emergency situation after all!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_b"][ChrSetParts layer=5 chface="f1_st06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2307|
 [fc]
 [vo_stk s="satuki0324"]
-[ns]彩月[nse]
-「それで、その地下通路は越智さんの実家近くまで[r]
-　伸びているの？」[pcms]
+[ns]Satsuki[nse]
+"So, does this underground passage extend near the Ochi family home?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2308|
 [fc]
 [vo_tay s="taja0217"]
-[ns]ターヤ[nse]
-「越智のお屋敷の近くにある、[r]
-　東側砲台まで安全に移動できるはず」[pcms]
+[ns]Tarja Pohjonen[nse]
+"It should be possible to move safely to the eastern artillery battery[r]
+near the Ochi mansion."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa10"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2309|
 [fc]
 [vo_sat s="sato0096"]
-[ns]怜[nse]
-「ここからだと、西砲台跡から行くんだね」[pcms]
+[ns]Sato[nse]
+"From here, we'd go from the western battery ruins then."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2310|
 [fc]
 [vo_nat s="natu0451"]
-[ns]夏都[nse]
-「それは、確実な話か？」[pcms]
+[ns]Natsu[nse]
+"Is that a sure thing?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2311|
 [fc]
 [vo_tay s="taja0218"]
-[ns]ターヤ[nse]
-「両親が実際に歩いてる。[r]
-　ちゃんと繋がっているはず」[pcms]
+[ns]Tarja Pohjonen[nse]
+"My parents have actually walked it. It should definitely be[r]
+connected."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2312|
 [fc]
-[ns]宗一郎[nse]
-「理屈としても、砲台同士が地下で繋がっているのは[r]
-　理解できます。信じていい話かと」[pcms]
+[ns]Souichirou[nse]
+"Logically, it makes sense that the batteries would be connected[r]
+underground. It's a believable story."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2313|
 [fc]
 [vo_nat s="natu0452"]
-[ns]夏都[nse]
-「すると、まずは車でどの程度移動できるか確認して、[r]
-　無理なら地下ルートで東側砲台まで行き、[r]
-　そこからはなんとかして本家まで移動すると」[pcms]
+[ns]Natsu[nse]
+"So first, we check how far we can go by car, and if it's not[r]
+possible, we take the underground route to the eastern battery, and[r]
+from there we somehow make our way to the main house."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2314|
 [fc]
 [vo_stk s="satuki0325"]
-[ns]彩月[nse]
-「シンプルでわかりやすいです」[pcms]
+[ns]Satsuki[nse]
+"It's simple and easy to understand."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2315|
 [fc]
 [vo_aka s="akari0794"]
-[ns]茜梨[nse]
-「行けますよ、きっと大丈夫です」[pcms]
+[ns]Akari[nse]
+"We can do it, surely it'll be okay."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2316|
 [fc]
 [vo_tay s="taja0219"]
-[ns]ターヤ[nse]
-「道案内は任せて」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Leave the guiding to me."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2317|
 [fc]
-[ns]荒井[nse]
-「んじゃ、全員合意だな」[pcms]
+[ns]Arai[nse]
+"Then it's agreed by everyone."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2318|
 [fc]
-[ns]稼津央[nse]
-「車は私が運転しましょう」[pcms]
+[ns]Kazuo[nse]
+"I'll drive the car."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2319|
 [fc]
 [vo_nat s="natu0453"]
-[ns]夏都[nse]
-「いや、そこまで甘えられない。[r]
-　オレが運転するからメガネの旦那は、[r]
-　ここで生き延びている人をまとめてくれ」[pcms]
+[ns]Natsu[nse]
+"No, we can't rely on you that much. I'll drive, so you, Mr. Glasses,[r]
+organize the people who are surviving here."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2320|
 [fc]
-[ns]稼津央[nse]
-「そうですか……わかりました」[pcms]
+[ns]Kazuo[nse]
+"Is that so... Understood."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_a"][ChrSetParts layer=5 chface="F1_so19a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2321|
 [fc]
-[ns]宗一郎[nse]
-「俺は行きますよ！」[pcms]
+[ns]Souichirou[nse]
+"I'm going too!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2322|
 [fc]
 [vo_aka s="akari0795"]
-[ns]茜梨[nse]
-「わ、私も行きます！」[pcms]
+[ns]Akari[nse]
+"I-I'm also going!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2323|
 [fc]
 [vo_stk s="satuki0326"]
-[ns]彩月[nse]
-「わたしも行くわ」[pcms]
+[ns]Satsuki[nse]
+"I'm going too."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2324|
 [fc]
 [vo_tay s="taja0220"]
-[ns]ターヤ[nse]
-「地下通路を案内する」[pcms]
+[ns]Tarja[nse]
+"I'll guide through the underground passage."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2325|
 [fc]
-[ns]荒井[nse]
-「借りはきちんと返す主義だ」[pcms]
+[ns]Arai[nse]
+"I'm the type to properly return favors."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2326|
 [fc]
 [vo_sat s="sato0097"]
-[ns]怜[nse]
-「もちろん、[ruby text="パーティ"][ch text="ＰＴ"]メンバーを見捨てたりしないよ！」[pcms]
+[ns]Sato[nse]
+"Of course, I won't abandon the PT members!"[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha01"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *2327|
 [fc]
 [vo_han s="hana0169"]
-[ns]花沢[nse]
-「えっ……え……？」[pcms]
+[ns]Hanazawa[nse]
+"Eh...eh...?"[pcms]
 
 *2328|
 [fc]
-花沢は怯えて目に涙を浮かべていた。[r]
-完全に怯えきっている。[pcms]
+Hanazawa had tears in her eyes, completely frightened.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha06"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *2329|
 [fc]
 [vo_han s="hana0170"]
-[ns]花沢[nse]
-「助けてくれた中澤君を見捨てられないよ！」[pcms]
+[ns]Hanazawa[nse]
+"I can't abandon Nakazawa-kun who helped us!"[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//m:並べすぎか
@@ -759,23 +752,24 @@
 
 *2330|
 [fc]
-[ns]誠[nse]
-「ありがとう、みんな……」[pcms]
+[ns]Makoto[nse]
+"Thank you, everyone..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2331|
 [fc]
-[ns]稼津央[nse]
-「困りましたね、リムジンには運転手を入れて７人しか乗れない」[pcms]
+[ns]Kazuo[nse]
+"This is a problem, the limousine can only fit seven people including[r]
+the driver."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2332|
 [fc]
-[ns]荒井[nse]
-「えええ……ここまで来て……」[pcms]
+[ns]Arai[nse]
+"Eeeh... after coming this far..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa06"][ChrSetXY layer=3 x=30 y=0]
@@ -784,109 +778,108 @@
 *2333|
 [fc]
 [vo_tay s="taja0221"]
-[ns]ターヤ[nse]
-「怜、残って」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Sato, you stay behind."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa05"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *2334|
 [fc]
 [vo_sat s="sato0098"]
-[ns]怜[nse]
-「えっ！　アタシも行くよ！」[pcms]
+[ns]Sato[nse]
+"Eh! I'm going too!"[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *2335|
 [fc]
 [vo_tay s="taja0222"]
-[ns]ターヤ[nse]
-「パーティーが全滅したら困る」[pcms]
+[ns]Tarja Pohjonen[nse]
+"It would be a problem if the party was wiped out."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa12"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *2336|
 [fc]
 [vo_sat s="sato0099"]
-[ns]怜[nse]
-「そんなぁ……」[pcms]
+[ns]Sato[nse]
+"But that's..."[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta02"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *2337|
 [fc]
 [vo_tay s="taja0223"]
-[ns]ターヤ[nse]
-「わたしのことを、覚えてくれてる人がいなくなると[r]
-　寂しいから……」[pcms]
+[ns]Tarja[nse]
+"It would be lonely if there was no one left who remembers me..."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa08"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *2338|
 [fc]
 [vo_sat s="sato0100"]
-[ns]怜[nse]
-「…………」[pcms]
+[ns]Sato[nse]
+"..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so1_ja_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2339|
 [fc]
-[ns]宗一郎[nse]
-「荒井、花沢、お前たちも残ってくれ」[pcms]
+[ns]Souichirou[nse]
+"Arai, Hanazawa, you guys also stay behind."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar04"][ChrSetXY layer=5 x=300 y=0]
 [ChrSetEx layer=4 chbase="ha1_ja1_a"][ChrSetParts layer=4 chface="F1_ha08"][ChrSetXY layer=4 x=630 y=0][trans_c cross time=150]
 
 *2340|
 [fc]
-[ns]荒井[nse]
-「なんでだよ！　指図すんな！」[pcms]
+[ns]Arai[nse]
+"Why the hell! Don't order me around!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so1_ja_a"][ChrSetParts layer=5 chface="F1_so06a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2341|
 [fc]
-[ns]宗一郎[nse]
-「万が一の時、東京で生き延びている俺の両親と、[r]
-　越智さんの母親に話を伝えてくれ」[pcms]
+[ns]Souichirou[nse]
+"In case of the worst, please tell my parents in Tokyo and Ochi-san's[r]
+mother that we survived."[pcms]
 
 *2342|
 [fc]
-越智さんとそーいち、荒井は同じ町内に住んでいる。[r]
-きっと顔見知りなんだろう……。[pcms]
+Ochi-san and Souichirou, Arai live in the same neighborhood. They must[r]
+be acquaintances...[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar04"][ChrSetXY layer=5 x=300 y=0]
 [ChrSetEx layer=4 chbase="ha1_ja1_a"][ChrSetParts layer=4 chface="F1_ha08"][ChrSetXY layer=4 x=630 y=0][trans_c cross time=150]
 
 *2343|
 [fc]
-[ns]誠[nse]
-「花沢もありがとう、でも、気持ちだけでも嬉しい」[pcms]
+[ns]Makoto[nse]
+"Thank you too, Hanazawa, but I'm happy with just the thought."[pcms]
 
 [ChrSetEx layer=4 chbase="ha1_ja1_a"][ChrSetParts layer=4 chface="F1_ha07"][ChrSetXY layer=4 x=630 y=0][trans_c cross time=150]
 
 *2344|
 [fc]
 [vo_han s="hana0171"]
-[ns]花沢[nse]
-「わ、私は……」[pcms]
+[ns]Hanazawa[nse]
+"I, I am..."[pcms]
 
 *2345|
 [fc]
-[ns]誠[nse]
-「渋谷に帰ったら、花沢が知っている美味しいお店を[r]
-　紹介してよ。友達になろう」[pcms]
+[ns]Makoto[nse]
+"When we get back to Shibuya, introduce me to the delicious places you[r]
+know. Let's be friends."[pcms]
 
 [ChrSetEx layer=4 chbase="ha1_ja1_a"][ChrSetParts layer=4 chface="F1_ha02"][ChrSetXY layer=4 x=630 y=0][trans_c cross time=150]
 
 *2346|
 [fc]
 [vo_han s="hana0172"]
-[ns]花沢[nse]
-「…………」[pcms]
+[ns]Hanazawa[nse]
+"..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -894,13 +887,13 @@
 *2347|
 [fc]
 [vo_nat s="natu0454"]
-[ns]夏都[nse]
-「よし、決まりだな」[pcms]
+[ns]Natsu[nse]
+"Alright, it's decided then."[pcms]
 
 *2348|
 [fc]
-[ns]誠[nse]
-「ありがとうみんな、なんて言えばいいかわからないけど……」[pcms]
+[ns]Makoto[nse]
+"Thank you everyone, I don't know what to say but..."[pcms]
 
 ;//m:5人くらい並べるか
 
@@ -908,15 +901,15 @@
 
 *2349|
 [fc]
-[ns]宗一郎[nse]
-「いいってことよ、みなまで言うな」[pcms]
+[ns]Souichirou[nse]
+"It's fine, don't say anything more."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2350|
 [fc]
-[ns]稼津央[nse]
-「それでは、みなさんの無事を祈っております」[pcms]
+[ns]Kazuo[nse]
+"Then, I pray for everyone's safety."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

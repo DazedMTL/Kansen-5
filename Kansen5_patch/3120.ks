@@ -45,15 +45,15 @@
 
 *3559|
 [fc]
-ターヤさんに連れて来られたのは、地下通路のような場所だった。[pcms]
+Tarja-san led me to a place that looked like an underground passage.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3560|
 [fc]
 [vo_tay s="taja_tj0036"]
-[ns]ターヤ[nse]
-「ちょっと待って」[pcms]
+[ns]Tarja[nse]
+"Just a moment."[pcms]
 
 [se buf=0 storage="seC027"]
 ;//♪SEスイッチ音
@@ -63,173 +63,172 @@
 
 *3561|
 [fc]
-そう言うと、ターヤさんが傍らに置いてあった鞄の中から[r]
-ＬＥＤランタンを取り出し、スイッチを入れて[r]
-通路を照らし出す。[pcms]
+As she said that, Tarja-san took an LED lantern out of the bag she had[r]
+placed beside her, turned it on, and illuminated the passage.[pcms]
 
 *3562|
 [fc]
-[ns]誠[nse]
-「用意がいいね。ランタンなんて持ってたんだ」[pcms]
+[ns]Makoto[nse]
+"You're well-prepared. I didn't know you had a lantern."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3563|
 [fc]
 [vo_tay s="taja_tj0037"]
-[ns]ターヤ[nse]
-「ううん、これは、乗り捨ててあった車の中にあった鞄を[r]
-　黙って持ってきたもの」[pcms]
+[ns]Tarja[nse]
+"No, this is something I silently took from a bag that was in an[r]
+abandoned car."[pcms]
 
 *3564|
 [fc]
-ターヤさんの言葉は、いつもなら、すかさずツッコミを[r]
-入れたくなるような発言だったけど……。[pcms]
+Normally, Tarja-san's words would prompt me to retort immediately...[pcms]
 
 *3565|
 [fc]
-なんだかあまりにもいろんな事がありすぎて、[r]
-僕はそんな気になれなかった。[pcms]
+But with so much happening, I just couldn't muster the energy to do[r]
+so.[pcms]
 
 *3566|
 [fc]
-ターヤさんの問題発言はスルーして、僕は話を進めていく。[pcms]
+I decided to ignore Tarja-san's problematic statement and continued[r]
+the conversation.[pcms]
 
 *3567|
 [fc]
-[ns]誠[nse]
-「ターヤさん、ここは、いったい……？」[pcms]
+[ns]Makoto[nse]
+"Tarja-san, what exactly is this place...?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3568|
 [fc]
 [vo_tay s="taja_tj0038"]
-[ns]ターヤ[nse]
-「旧日本軍の残した地下通路。普段は立入禁止になってる」[pcms]
+[ns]Tarja Pohjonen[nse]
+"It's an underground passage left by the old Japanese army. It's[r]
+usually off-limits."[pcms]
 
 *3569|
 [fc]
-手にしたランタンを掲げて、通路の先を照らしながら[r]
-ターヤさんが説明を続ける。[pcms]
+With the lantern in hand, Tarja-san continued to explain as she lit[r]
+the way ahead.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3570|
 [fc]
 [vo_tay s="taja_tj0039"]
-[ns]ターヤ[nse]
-「島には３ヶ所砲台跡があって、この通路は、その３ヶ所の[r]
-　砲台跡を結んでる。わたしは東側の砲台跡から入って、[r]
-　ここまで逃げてきたの」[pcms]
+[ns]Tarja Pohjonen[nse]
+"There are three artillery battery ruins on the island, and this[r]
+passage connects all three. I entered from the eastern artillery ruin[r]
+and escaped to here."[pcms]
 
 *3571|
 [fc]
-[ns]誠[nse]
-「へえ、よく知ってたね」[pcms]
+[ns]Makoto[nse]
+"Wow, you're well-informed, aren't you?"[pcms]
 
 *3572|
 [fc]
 [vo_tay s="taja_tj0040"]
-[ns]ターヤ[nse]
-「島に住んでる地元の人間なら、みんな知ってると思う。[r]
-　私も、パパとママから、入り口の場所を教えてもらったし」[pcms]
+[ns]Tarja[nse]
+"I think all the locals living on the island know about it. My parents[r]
+told me where the entrances are."[pcms]
 
 *3573|
 [fc]
-[ns]誠[nse]
-「そうなんだ……」[pcms]
+[ns]Makoto[nse]
+"I see..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3574|
 [fc]
 [vo_tay s="taja_tj0041"]
-[ns]ターヤ[nse]
-「でも、みんなが知ってても、いざという時にこの通路を[r]
-　使うことを思いつくかどうかはわかんない」[pcms]
+[ns]Tarja[nse]
+"But even if everyone knows about it, whether they'd think to use this[r]
+passage in an emergency is another question."[pcms]
 
 *3575|
 [fc]
 [vo_tay s="taja_tj0042"]
-[ns]ターヤ[nse]
-「わたしは、たまたま思い出したけど……この通路を通って[r]
-　ここに来た時も、結局、誰にも会わなかったから[r]
-　思い出す人の方が少ないのかも」[pcms]
+[ns]Tarja[nse]
+"I just happened to remember it... but when I came through this[r]
+passage, I didn't run into anyone, so maybe fewer people remember it[r]
+than you'd think."[pcms]
 
 *3576|
 [fc]
-[ns]誠[nse]
-「いざという時のために作られたのに、本当にいざという時には[r]
-　思い出してもらえないなんて、なんだか……淋しいね」[pcms]
+[ns]Makoto[nse]
+"It's kind of sad... something made for emergencies isn't remembered[r]
+when it's actually needed."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3577|
 [fc]
 [vo_tay s="taja_tj0043"]
-[ns]ターヤ[nse]
-「うん。わたしもそう思う」[pcms]
+[ns]Tarja[nse]
+"Yeah. I think so too."[pcms]
 
 *3578|
 [fc]
-どこか淋しそうな表情を浮かべて、ターヤさんが僕の意見に[r]
-賛同してくれた。[pcms]
+With a somewhat lonely expression, Tarja-san agreed with my opinion.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3579|
 [fc]
-そして、会話が途切れてしまう。[pcms]
+Then, our conversation came to a halt.[pcms]
 
 *3580|
 [fc]
-沈黙が続くのがなんとなく気詰まりで、僕は手持ちぶさたに[r]
-携帯を開いてみた。[pcms]
+Feeling somewhat awkward in the silence, I fiddled with my phone out[r]
+of restlessness.[pcms]
 
 *3581|
 [fc]
-[ns]誠[nse]
-「へぇ……携帯の電波が来てるんだ、ここ」[pcms]
+[ns]Makoto[nse]
+"Huh... there's cell signal here."[pcms]
 
 *3582|
 [fc]
-意外なことに、この地下通路の中でも、アンテナは[r]
-しっかり３本立っていた。[pcms]
+To my surprise, even within this underground passage, there were three[r]
+solid bars of reception.[pcms]
 
 *3583|
 [fc]
-[ns]誠[nse]
-「そうだ、誰かに連絡がとれないか、ちょっと試してみるよ」[pcms]
+[ns]Makoto[nse]
+"Right, let's see if I can get in touch with someone."[pcms]
 
 *3584|
 [fc]
-そう言うと、僕は姉ちゃんに電話をかけてみた。[pcms]
+With that, I tried calling my sister.[pcms]
 
 ;//SE 携帯コール音　トゥルルー
 
 *3585|
 [fc]
-１回、２回、３回……コール音は鳴ってるけど、姉ちゃんが[r]
-電話に出る様子はない。[pcms]
+One ring, two rings, three rings... The call was going through, but my[r]
+sister didn't seem to be picking up.[pcms]
 
 *3586|
 [fc]
-２０回くらいコールしたとこであきらめて、次に南先輩に[r]
-電話をかけてみたが、南先輩も電話には出なかった。[pcms]
+After about 20 rings, I gave up and tried calling Satsuki-senpai next,[r]
+but she didn't answer either.[pcms]
 
 *3587|
 [fc]
-フランク先輩にも電話してみたが、やはり結果は同じ。[pcms]
+I also tried calling Frank-senpai, but the result was the same.[pcms]
 
 *3588|
 [fc]
-結局、誰にも連絡を取ることはできなかった。[pcms]
+In the end, I couldn't get in touch with anyone.[pcms]
 
 *3589|
 [fc]
-誰かひとりくらいは、電話で安否が確認できれば……と[r]
-思ってたので、正直、けっこうガックリしてしまう。[pcms]
+I had hoped that at least one person would answer so we could confirm[r]
+their safety... To be honest, it was quite disheartening.[pcms]
 
 ;//■イベントCG　akari_N003(抱きしめ合うターヤと誠)
 ;//[evcg storage="taja_N003a"][trans_c cross time=300]
@@ -240,17 +239,17 @@
 *3590|
 [fc]
 [vo_tay s="taja_tj0044"]
-[ns]ターヤ[nse]
-「中澤君、元気出して」[pcms]
+[ns]Tarja[nse]
+"Nakazawa-kun, cheer up."[pcms]
 
 *3591|
 [fc]
-しょげている僕を見かねたのか、ターヤさんが励ましてくれる。[pcms]
+Seeing me downcast, Tarja-san offered some encouragement.[pcms]
 
 *3592|
 [fc]
-[ns]誠[nse]
-「うん……ありがとう」[pcms]
+[ns]Makoto[nse]
+"Yeah... thanks."[pcms]
 
 ;//◆下記三行を追加しましたが、辻褄が合わなくなる可能性も（他のファイルでは水と食糧の確保にターヤの家に行くとなっていますねぇ）
 ;//◆ただ、ここでテキスト終わりだと突然選択肢が出て来るので、
@@ -262,17 +261,17 @@
 
 *3593|
 [fc]
-そして僕たちは、これからどうするかを話し合い、[r]
-ターヤさんの家に行くということで結論を出した。[pcms]
+Then we discussed what to do next and decided to head to Tarja-san's[r]
+house.[pcms]
 
 *3594|
 [fc]
-もしも、ここが東京だったら僕も自分の家が心配になっただろう。[r]
-ターヤさんの気持ちは十分に理解できた。[pcms]
+If this had been Tokyo, I would have been worried about my own home[r]
+too. I fully understood how Tarja-san felt.[pcms]
 
 *3595|
 [fc]
-でも、ここからどうやって移動しようか……。[pcms]
+But now the question was how we would get there from here...[pcms]
 
 ;//●選択肢
 ;//・地下から行くルート▲　　→ターヤルート_3000L　3130へ
@@ -280,14 +279,14 @@
 
 ;	[link storage="3130.ks" target=*3130_TOP]地下から行くルート[endlink]
 ;	[link storage="3140.ks" target=*3140_TOP]地上の森を通るルート[endlink]
-;	[s]
+;[pcms]
 
 *SEL25|地下から行くルート／地上の森を通るルート
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '地下から行くルート'"]
-[eval exp="f.seltext06 = '地上の森を通るルート'"]
+[eval exp="f.seltext04 = 'The route that goes underground'"]
+[eval exp="f.seltext06 = 'Route through the forest on the ground'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

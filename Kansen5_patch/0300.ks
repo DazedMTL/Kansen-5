@@ -32,185 +32,182 @@
 
 *4270|
 [fc]
-[ns]調理師[nse]
-「チキンのエンチラーダと白身魚のクリームロールが上がったぞ」[pcms]
+[ns]Cook/Chef[nse]
+"The chicken enchiladas and the cream rolls with white fish are[r]
+ready."[pcms]
 
 *4271|
 [fc]
-[ns]スタッフＡ[nse]
-「はい、これは２番テーブルですね」[pcms]
+[ns]Staff A[nse]
+"Yes, this is for table number 2."[pcms]
 
 *4272|
 [fc]
-フードコートの壁に、スタッフにしか見えない[r]
-メモ書きが張ってある。[pcms]
+On the food court wall, there are notes that only the staff can see.[pcms]
 
 *4273|
 [fc]
-俺はそれを見て確認しながら、料理を丁寧に運んでいった。[pcms]
+I checked them while carefully carrying the dishes.[pcms]
 
 *4274|
 [fc]
-基本的に無くなった料理を補充していくのが仕事だけど、[r]
-時間が経ってしまったテーブルの料理は全部下げて、[r]
-新しく配置し直す必要があった。[pcms]
+The main part of the job is to replenish the dishes that run out, but[r]
+for tables that have been waiting too long, we need to take everything[r]
+down and set up anew.[pcms]
 
 *4275|
 [fc]
-壁のあんちょこは俺たちがミスしないように、[r]
-厨房の連中が書き記したものだ。[pcms]
+The cheat sheet on the wall is something the kitchen crew wrote to[r]
+prevent us from making mistakes.[pcms]
 
 *4276|
 [fc]
-どうせ、クスリとセックスでおかしくなっている連中なんだから、[r]
-細かいもてなしの作法なんかいらないと思うんだけど、[r]
-リーダーの[ruby text="じん"]壬さんは仕事に手を抜かない人だった。[pcms]
+Anyway, since they're all messed up on drugs and sex, I don't think[r]
+they need any fancy hospitality, but Leader Jin-san never cuts corners[r]
+when it comes to work.[pcms]
 
 *4277|
 [fc]
-[ns]スタッフＢ[nse]
-「８番テーブルの料理が空いてるぞ、[r]
-　俺は外のもんじゃ片付けてくるから」[pcms]
+[ns]Staff B[nse]
+"Table number 8 is empty, I'll go clean up the stuff outside."[pcms]
 
 *4278|
 [fc]
-[ns]スタッフＡ[nse]
-「あ、わりぃ、次は俺の番なのに」[pcms]
+[ns]Staff A[nse]
+"Ah, sorry, it was my turn next."[pcms]
 
 *4279|
 [fc]
-そいつは片手をあげると、外のもんじゃ……、[r]
-つまり符丁で言うところのゲロを片付けに行ってくれた。[pcms]
+He raised his hand and went to clean up the vomit outside... in other[r]
+words, what we call 'monja' in our code.[pcms]
 
 *4280|
 [fc]
-みんな仕事に対するモチベーションが高い。[r]
-それも全て、壬さんに目をかけてもらうためだ。[pcms]
+Everyone is highly motivated in their work. All for the sake of[r]
+getting in Jin-san's good graces.[pcms]
 
 *4281|
 [fc]
-俺は保温機能付きのステンレストレイを所定の位置に運ぶと、[r]
-足りなくなっている８番のテーブルを確認して、[r]
-厨房に報告していく。[pcms]
+I carried the stainless tray with its warming function to its[r]
+designated spot, checked table number 8 which was running low, and[r]
+reported back to the kitchen.[pcms]
 
 *4282|
 [fc]
-世の中に不満でもあるのか、馬鹿をやりたい客連中のために、[r]
-こんな東北の山奥でパーティをやらなきゃいけないとはな。[pcms]
+To think I have to throw a party in the mountains of Tohoku for these[r]
+idiotic guests who might have complaints about the world or just want[r]
+to act stupid.[pcms]
 
 *4283|
 [fc]
-金を稼ぐのは簡単じゃないってことを、[r]
-俺はしみじみと理解しているところだった。[pcms]
+I deeply understand that making money isn't easy.[pcms]
 
 *4284|
 [fc]
-それなりの人数が集まっているから、[r]
-ビールやドリンク、料理が次々と減ってしまう。[pcms]
+Since there's a decent crowd, beer, drinks, and food keep running out[r]
+one after another.[pcms]
 
 *4285|
 [fc]
-なに喰ってもわかんない奴らなんだから、[r]
-インスタントでも用意しておけばいいものを、[r]
-壬さんはちゃんとしたプロの料理人を使っていた。[pcms]
+These guys wouldn't know what they're eating anyway; we could've just[r]
+prepared instant food, but Jin-san insists on using professional[r]
+chefs.[pcms]
 
 *4286|
 [fc]
-それも、どこかのホテルで、なんとか長までやったっていう、[r]
-腕のある料理人だ。[pcms]
+And not just any chef, but one who's worked up to being a head chef at[r]
+some hotel.[pcms]
 
 *4287|
 [fc]
-こんなところにまで手を抜かない壬さんのやり方に、[r]
-俺は怖さすら感じていた。[pcms]
+I even feel a sense of fear towards Jin-san's uncompromising approach.[pcms]
 
 *4288|
 [fc]
-この人に追い込みをかけられたら、[r]
-逃げる場所なんてどこにもない。[pcms]
+If this person decided to come after you, there'd be nowhere to run.[pcms]
 
 *4289|
 [fc]
-でも、この人に認められることができたなら、[r]
-俺みたいなガキにだって未来が開けるというものだった。[pcms]
+But if I could get recognized by this person, even a kid like me could[r]
+have a future opened up to him.[pcms]
 
 *4290|
 [fc]
-正直、かったるい仕事だけど、手を抜くわけにはいかない。[r]
-こういう地味な仕事の積み重ねができないから、[r]
-今までの俺は駄目だったんだ。[pcms]
+Honestly, it's a tedious job, but I can't afford to slack off. It's[r]
+because I couldn't handle this kind of steady work that I've been no[r]
+good up until now.[pcms]
 
 *4291|
 [fc]
-[ns]スタッフＣ[nse]
-「ほら、お前も飲んどけ」[pcms]
+[ns]Staff C[nse]
+"Here, you drink too."[pcms]
 
 *4292|
 [fc]
-[ns]スタッフＡ[nse]
-「おっ、わりぃ」[pcms]
+[ns]Staff A[nse]
+"Oh, thanks."[pcms]
 
 *4293|
 [fc]
-別の仲間にライトビールを手渡される。[pcms]
+I was handed a light beer by another colleague.[pcms]
 
 *4294|
 [fc]
-今日は暑くて仕方がないのに、こんなキッチリした格好で[r]
-働いていたら熱中症で倒れちまう。[pcms]
+It's unbearably hot today, and working in such proper attire could[r]
+lead to heatstroke.[pcms]
 
 *4295|
 [fc]
-壬さんからも、合間合間でビールを飲むことを許されていた。[pcms]
+Jin-san even allowed us to drink beer at intervals.[pcms]
 
 *4296|
 [fc]
-俺は休憩とばかりにフロアを離れて、[r]
-人気のない裏スペースでビールを煽っていく。[pcms]
+Taking it as a break, I left the floor and chugged down the beer in a[r]
+quiet back space.[pcms]
 
 *4297|
 [fc]
-[ns]太宰[nse]
-「おおっ、こいつはすごい締め付けやないかぁ」[pcms]
+[ns]Dazai[nse]
+"Whoa, this is quite the tight squeeze!"[pcms]
 
 *4298|
 [fc]
-集まっている若い客とは違う、中年のおっさんの声を聞いて、[r]
-仕切りの隙間から中を覗いてみる。[pcms]
+Hearing a middle-aged man's voice different from the young guests[r]
+gathered, I peeked through the gap in the partition.[pcms]
 
 *4299|
 [fc]
-そこでは、外で乱交してる客とは全く違う、[r]
-本物のお客様が瑞樹を相手に満足した声をあげていた。[pcms]
+Inside, unlike the guests having an orgy outside, a genuine customer[r]
+was expressing his satisfaction with Mizuki as his companion.[pcms]
 
 *4300|
 [fc]
-間違いなく、この人が関西系広域暴力団の幹部なんだろう。[r]
-来るという話だけは聞いていたが、別室とはいいご身分だ。[pcms]
+No doubt about it, this man must be an executive of a Kansai-based[r]
+organized crime syndicate. I had heard he would come, but having a[r]
+private room is quite the luxury.[pcms]
 
 *4301|
 [fc]
-壬さんはこの男をもてなすために、[r]
-瑞樹をあてがったみたいだった。[pcms]
+It seems Jin-san arranged for Mizuki to entertain this man.[pcms]
 
 *4302|
 [fc]
-[ns]重吉[nse]
-「えへへへっ、ケツを掘られてよがってるんですよ」[pcms]
+[ns]Shigeyoshi[nse]
+"Eheheheh, she's moaning from getting her ass drilled."[pcms]
 
 *4303|
 [fc]
-どうやら３人で乱交している真っ最中のようだ。[r]
-瑞樹の白いケツとでかい乳がぶるんぶるん震えていた。[pcms]
+It looks like they're in the middle of a threesome. Mizuki's white ass[r]
+and big tits were shaking vigorously.[pcms]
 
 *4304|
 [fc]
-くそ、俺も仕事なんかしてないでヤリたいぜ。[pcms]
+Damn, I wish I could be screwing around instead of working.[pcms]
 
 *4305|
 [fc]
-弛んだ気持ちを引き締めるために、[r]
-一気にビールを煽って便を捨てる。[pcms]
+To tighten my slackened spirits, I chugged down the beer and went to[r]
+take a leak.[pcms]
 
 ;//◆ＳＥ　食器が割れる音
 ;//seB080.ogg
@@ -218,56 +215,55 @@
 
 *4306|
 [fc]
-するとフロアの方で、折角用意したテーブルの料理が、[r]
-地面にぶちまけられる音が響いた。[pcms]
+Then from the floor area came the sound of food from a carefully[r]
+prepared table being spilled all over the ground.[pcms]
 
 *4307|
 [fc]
-くそ、酔っぱらいかヤク中かしらねえけど、[r]
-面倒な仕事増やしやがって。[pcms]
+Damn it, whether it's a drunk or a junkie, they're making more trouble[r]
+for me.[pcms]
 
 *4308|
 [fc]
-一人で休憩してるわけにもいかなくなってしまった俺は、[r]
-俺は急いでフロアへと戻っていく。[pcms]
+Unable to just take a break alone anymore, I hurried back to the[r]
+floor.[pcms]
 
 *4309|
 [fc]
-[ns]スタッフＢ[nse]
-「なにやってんだこのガキぃっ！」[pcms]
+[ns]Staff B[nse]
+"What the hell are you doing, you brat!"[pcms]
 
 *4310|
 [fc]
-[ns]スタッフＣ[nse]
-「どこから入って来やがったんだ、あぁ！？」[pcms]
+[ns]Staff C[nse]
+"Where the hell did you come in from, huh?!"[pcms]
 
 *4311|
 [fc]
-仲間二人が、ぼさぼさ頭の小汚いガキを取り囲んでいる。[pcms]
+Two of my colleagues were surrounding a scruffy kid with messy hair.[pcms]
 
 *4312|
 [fc]
-でも、そのガキはまるで気にした様子もなく、[r]
-地面に落ちて泥だらけになった料理を、[r]
-一心不乱に食べているみたいだった。[pcms]
+But the kid didn't seem to care at all and was single-mindedly eating[r]
+the food that had fallen to the ground and gotten dirty.[pcms]
 
 *4313|
 [fc]
-[ns]スタッフＡ[nse]
-「壬さんに見付かる前につまみ出すぞ」[pcms]
+[ns]Staff A[nse]
+"We'll throw you out before Jin-san finds you."[pcms]
 
 ;//■イベントCG
 [evcg storage="mob_N009a"][trans_c cross time=300]
 
 *4314|
 [fc]
-俺はガキの髪の毛をつかんで顔を上に向かせると、[r]
-料理を食べる手を止めさせた。[pcms]
+I grabbed the kid's hair to lift their face and stopped them from[r]
+eating.[pcms]
 
 *4315|
 [fc]
-ガキだと思ったら女か。[r]
-それにしても汚ねぇけど、羽目を外した客じゃないよな。[pcms]
+I thought it was a brat, but it's a girl. Still, she's filthy, not[r]
+like one of the guests who got out of hand.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -286,128 +282,124 @@
 
 *4316|
 [fc]
-でも、俺はそのガキの目を見た瞬間に凍り付いてしまう。[r]
-目が……真っ赤だった。[pcms]
+But the moment I saw the kid's eyes, I froze. The eyes... they were[r]
+bright red.[pcms]
 
 *4317|
 [fc]
-[ns]スタッフＢ[nse]
-「うっ、こ、こいつ、目が赤い」[pcms]
+[ns]Staff B[nse]
+"Ugh, this kid, her eyes are red."[pcms]
 
 *4318|
 [fc]
-[ns]スタッフＣ[nse]
-「それがどうしたんだよ、[r]
-　あーあ、仕事増やしやがってクソが」[pcms]
+[ns]Staff C[nse]
+"So what? Ah-ah, creating more work for us, damn it."[pcms]
 
 *4319|
 [fc]
-[ns]スタッフＡ[nse]
-「馬鹿、知らねえのかよ」[pcms]
+[ns]Staff A[nse]
+"Idiot, don't you know?"[pcms]
 
 *4320|
 [fc]
-赤目の都市伝説。[pcms]
+The urban legend of the red eyes.[pcms]
 
 *4321|
 [fc]
-この地域の復興事業の際に起きた事件に、[r]
-赤目が何度もでてくるものだった。[pcms]
+During the reconstruction project of this area, incidents involving[r]
+red eyes came up several times.[pcms]
 
 *4322|
 [fc]
-資材搬入のトラックが赤目の少女を保護した一週間後、[r]
-その資材置き場の管理者、作業員に至るまで、[r]
-全員が謎の失踪を遂げている。[pcms]
+A week after a truck carrying materials took in a girl with red eyes,[r]
+everyone from the storage site manager to the workers disappeared[r]
+without a trace.[pcms]
 
 *4323|
 [fc]
-警察が発見できたのは、赤目の少女を乗せたという[r]
-運行記録だけだったとか。[pcms]
+All the police could find was the transport record that mentioned[r]
+picking up a girl with red eyes.[pcms]
 
 *4324|
 [fc]
-他にも、一台のバスが赤目の少女を保護して無線連絡を入れた後、[r]
-そのまま他の乗客もろとも消えてしまった話がある。[pcms]
+There's also a story about a bus that disappeared along with all its[r]
+passengers after picking up a girl with red eyes and radioing it in.[pcms]
 
 *4325|
 [fc]
-どちらの話も、赤目の少女を保護した後、[r]
-全員が行方不明になるのが特徴だった。[pcms]
+In both stories, after taking in the girl with red eyes, everyone went[r]
+missing.[pcms]
 
 ;//★rave_floor レイブ会場　夜
 [bg storage="rave_floor"][trans_c cross time=500]
 
 *4326|
 [fc]
-[ns]壬[nse]
-「どうした、何を騒いでいる」[pcms]
+[ns]Ren[nse]
+"What's going on, what's all this noise?"[pcms]
 
 *4327|
 [fc]
-[ns]スタッフＡ[nse]
-「じ、壬さん……」[pcms]
+[ns]Staff A[nse]
+"J-Jin-san..."[pcms]
 
 *4328|
 [fc]
-俺たちの騒ぎを聞きつけたのか、[r]
-フロアに壬さんが姿を現していた。[pcms]
+Jin-san appeared on the floor, perhaps having heard our commotion.[pcms]
 
 *4329|
 [fc]
-俺と似たようなことを思っていたんだろう、[r]
-壬さんは意外そうな顔でガキを見下ろしている。[pcms]
+Jin-san looked down at the kid with a surprised expression, probably[r]
+thinking something similar to me.[pcms]
 
 *4330|
 [fc]
-[ns]スタッフＡ[nse]
-「ぐっ、こ、こいつ」[pcms]
+[ns]Staff A[nse]
+"Guh, this kid..."[pcms]
 
 *4331|
 [fc]
-ガキはものすごい力で俺がつかんでいた髪の毛を振り払うと、[r]
-落ちていた食べ物をまた食べ始める。[pcms]
+The kid shook off my grip on her hair with incredible strength and[r]
+started eating the fallen food again.[pcms]
 
 *4332|
 [fc]
-周りの客も気味が悪いものを見るように、[r]
-遠巻きにその姿を眺めていた。[pcms]
+The surrounding customers were watching from a distance as if they[r]
+were looking at something creepy.[pcms]
 
 *4333|
 [fc]
-腹が減っているだけで泥まみれの飯を食えるもんか？[r]
-それもこんなに美味そうに……。[pcms]
+Just hungry enough to eat muddy food? And to enjoy it this much...[pcms]
 
 *4334|
 [fc]
-始めてスカトロ物を見たときのことを思い出しながら、[r]
-俺は込み上げてくる嫌悪感と必死に戦っていた。[pcms]
+While recalling the first time I saw scat play, I was desperately[r]
+fighting the revulsion welling up inside me.[pcms]
 
 *4335|
 [fc]
-俺の身体の奥底から、こいつに関わるなという警報が[r]
-鳴り響いている。[pcms]
+An alarm inside me was ringing, telling me not to get involved with[r]
+this kid.[pcms]
 
 *4336|
 [fc]
-刃物を見たら痛いと悟るように、[r]
-熱湯を見たら熱いと感じるように、[r]
-こいつを見ていると、身体がゾワゾワと疼く。[pcms]
+Just as one instinctively knows that knives are painful and hot water[r]
+is hot, looking at this kid made my body tingle uncomfortably.[pcms]
 
 *4337|
 [fc]
-近寄っちゃいけないという嫌悪感が、[r]
-俺の心を支配してしまっていた。[pcms]
+The feeling of aversion telling me not to get close was dominating my[r]
+mind.[pcms]
 
 *4338|
 [fc]
-壬さんも同じ事を思うはずだ、[r]
-後は任せてしまえばいい。[pcms]
+Jin-san must be thinking the same thing; I should just leave it to[r]
+him.[pcms]
 
 *4339|
 [fc]
-俺はそう思いながらも、ガキをつかんだ片手が[r]
-震えるのを止めることが出来なかった。[pcms]
+Even though I thought that, I couldn't stop my hand that was holding[r]
+the kid from trembling.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

@@ -28,195 +28,188 @@
 *5623|
 [fc]
 [vo_han s="hana0026"]
-[ns]花沢[nse]
-「はっ、やっ、はぁ、んっ、くうっ……」[pcms]
+[ns]Hanazawa[nse]
+"Hah, no, haah, nn, kuu..."[pcms]
 
 *5624|
 [fc]
-ホテルの客室で一人になっている少女が、[r]
-猛烈に沸き上がってくる劣情を抑えきれずに、[r]
-自分の身体を慰めていた。[pcms]
+A girl alone in a hotel room, unable to suppress the fierce lust[r]
+welling up inside her, was comforting her own body.[pcms]
 
 *5625|
 [fc]
 [vo_han s="hana0027"]
-[ns]花沢[nse]
-「やっ、あっ、いくっ、いっちゃうっ、ああっ、あああっ！」[pcms]
+[ns]Hanazawa[nse]
+"No, ah, I'm coming, I'm gonna cum, aah, aaaaah!"[pcms]
 
 *5626|
 [fc]
-自慰に没頭しているその姿は、情欲に溺れ、[r]
-他に何も考えられないというように、[r]
-瞳を潤ませている。[pcms]
+The sight of her engrossed in masturbation was one of drowning in[r]
+carnal desire, her eyes moist as if she could think of nothing else.[pcms]
 
 *5627|
 [fc]
 [vo_han s="hana0028"]
-[ns]花沢[nse]
-「いくっ！　はあああっ！　だめっ、ああああっ！[r]
-　はうんんんんんんっ！」[pcms]
+[ns]Hanazawa[nse]
+"I'm cumming! Haaaah! No, aaaaah! Hauuunnnnnn!"[pcms]
 
 *5628|
 [fc]
-絶頂を迎えたその幼さの残る身体は、[r]
-時折ビクッと震えながら、快感の残滓に酔っているようだった。[pcms]
+Her body, still retaining its youthful innocence, occasionally[r]
+twitched as if intoxicated by the remnants of pleasure.[pcms]
 
 *5629|
 [fc]
-ベッドにぐったりと横たわり、気だるさを覚えながらも[r]
-疲れが感じられない。[pcms]
+She lay sprawled on the bed, feeling languid yet not tired at all.[pcms]
 
 *5630|
 [fc]
-シャワールームで２回、ベッドでは既に３回目だというのに、[r]
-身体はまだ満足していないようだった。[pcms]
+Even though it was her second time in the shower room and already the[r]
+third on the bed, her body still seemed unsatisfied.[pcms]
 
 *5631|
 [fc]
 [vo_han s="hana0029"]
-[ns]花沢[nse]
-「はぁっ……ふぅうっ……」[pcms]
+[ns]Hanazawa[nse]
+"Haah... fuuuh..."[pcms]
 
 *5632|
 [fc]
-少女は、今日の昼間、ビーチで気持ちの悪い男に[r]
-唇を奪われてから、身体が変になっていた。[pcms]
+The girl had felt strange ever since a creepy man stole a kiss from[r]
+her at the beach earlier that day.[pcms]
 
 *5633|
 [fc]
-舌まで入れられた感触を思い出すと、[r]
-背筋が震えるほどの嘔吐感を催す。[pcms]
+Just remembering the sensation of his tongue entering her mouth made[r]
+her spine shiver with nausea.[pcms]
 
 *5634|
 [fc]
-入れられた舌を思い切り噛んでやったのに、[r]
-少しも怯まず、口の中をまさぐって来る男を、[r]
-恐ろしいとさえ思い返してしまう。[pcms]
+Even though she bit his tongue as hard as she could, he didn't flinch[r]
+and kept exploring her mouth, which she found terrifying in[r]
+retrospect.[pcms]
 
 *5635|
 [fc]
-男は、あの程度では痛みを感じないものなんだろうか、[r]
-襲われたらひとたまりもないほど、[r]
-屈強なのだろうか……。[pcms]
+Do men not feel pain from such things? She wondered if they were so[r]
+robust that she would stand no chance if attacked...[pcms]
 
 *5636|
 [fc]
-しかし、少女は自分を助けてくれた人物のことを[r]
-思い出してしまう。[pcms]
+However, the girl couldn't help but think of the person who had saved[r]
+her.[pcms]
 
 *5637|
 [fc]
-ずっと思い続けている男が、自分を助けてくれたのは[r]
-最高に嬉しいことだった。[pcms]
+The fact that the man she had been thinking about all this time had[r]
+come to her rescue was incredibly gratifying.[pcms]
 
 *5638|
 [fc]
-他の誰も、何もしてくれなかったのに、[r]
-男はすぐに飛んできて、少女を助けてくれたのだから。[pcms]
+No one else did anything to help, but he immediately came flying to[r]
+save her.[pcms]
 
 *5639|
 [fc]
 [vo_han s="hana0030"]
-[ns]花沢[nse]
-「ああっ……はぁっ……」[pcms]
+[ns]Hanazawa[nse]
+"Aah... haah..."[pcms]
 
 *5640|
 [fc]
-少女は、男にずっとアピールし続けているつもりだった。[r]
-なのに、男は他の女に夢中になっている。[pcms]
+The girl had been trying to appeal to him for so long. Yet, he was[r]
+infatuated with another woman.[pcms]
 
 *5641|
 [fc]
-どうして男は、ああいう良い子ぶった女の本性を[r]
-見抜けないのだろうか。[pcms]
+Why couldn't he see through the true nature of that seemingly nice[r]
+girl?[pcms]
 
 *5642|
 [fc]
-中澤や出渕のようなキモいオタクにもいい顔をして、[r]
-八方美人にしているビッチなのにと、悪く考えてしまう。[pcms]
+She couldn't help but think badly of him for being nice even to creepy[r]
+otakus like Nakazawa and Izubuchi, acting like a bitch who's nice to[r]
+everyone.[pcms]
 
 *5643|
 [fc]
-善人気取りの淫売に、好きな男を取られるわけにはいかない。[r]
-そう考えると、怒りで身体が熱くなってきた。[pcms]
+The thought of losing the man she liked to a pretentious whore filled[r]
+her with anger that made her body heat up.[pcms]
 
 *5644|
 [fc]
 [vo_han s="hana0031"]
-[ns]花沢[nse]
-「うんんっ……」[pcms]
+[ns]Hanazawa[nse]
+"Mmm..."[pcms]
 
 *5645|
 [fc]
-気分が昂ぶることで、また性欲に火が点いた少女は、[r]
-これからどうするか少し悩んでしまう。[pcms]
+The excitement reignited her sexual desire, and the girl found herself[r]
+wondering what to do next.[pcms]
 
 *5646|
 [fc]
-自慰では身体を静めることが出来ない。[r]
-では、どうするのか……。[pcms]
+Masturbation wasn't enough to calm her body. So what should she do...?[pcms]
 
 *5647|
 [fc]
-同室の少女は、他の部屋の部員と遊びにいっているので、[r]
-しばらくは帰ってこない。[pcms]
+The girl sharing her room was out playing with other club members and[r]
+wouldn't be back for a while.[pcms]
 
 *5648|
 [fc]
-意中の男、荒井の携帯番号がわかっていれば一番良かったが、[r]
-荒井と同室の男の番号は知っている。[pcms]
+It would have been best if she knew the cell phone number of Arai, the[r]
+man she was interested in, but she did know the number of the man[r]
+sharing a room with Arai.[pcms]
 
 *5649|
 [fc]
-別になんとも思っていなかった男だが、[r]
-その場のノリで番号を交換していたことを思い出した。[pcms]
+She hadn't thought much of him before, but remembered exchanging[r]
+numbers on a whim.[pcms]
 
 *5650|
 [fc]
-少女は携帯を取りだし、その男に電話を掛ける。[r]
-荒井に取り次いでもらえればそれでいいのだから。[pcms]
+The girl took out her cell phone and called the man, hoping he could[r]
+put her through to Arai.[pcms]
 
 ;//◆ＳＥ　携帯の呼び出し音（トゥルルル……）
 
 *5651|
 [fc]
 [vo_han s="hana0032"]
-[ns]花沢[nse]
-「あ、もしもし、先輩ですか？[r]
-　荒井君に繋いで欲しいんですけど……」[pcms]
+[ns]Hanazawa[nse]
+"Ah, hello? Senpai? Could you please put Arai-kun on the line...?"[pcms]
 
 *5652|
 [fc]
 [vo_han s="hana0033"]
-[ns]花沢[nse]
-「あ、シャワーですか。[r]
-　上がったら、私の部屋に来て欲しいって、[r]
-　伝えてもらえないでしょうか」[pcms]
+[ns]Hanazawa[nse]
+"Oh, he's in the shower? When he's done, could you tell him to come to[r]
+my room?"[pcms]
 
 *5653|
 [fc]
 [vo_han s="hana0034"]
-[ns]花沢[nse]
-「はい、ありがとうございます。[r]
-　待っていると伝えてください」[pcms]
+[ns]Hanazawa[nse]
+"Yes, thank you. Please tell him I'll be waiting."[pcms]
 
 ;//◆ＳＥ　携帯を切る音（ピッ）
 [se buf=0 storage="seC002"]
 
 *5654|
 [fc]
-意中の男を自分の部屋に呼び出す算段は付けた。[r]
-後は、自分の方の用意だ。[pcms]
+She had made arrangements to call the man she was interested in to her[r]
+room. Now it was time to prepare herself.[pcms]
 
 *5655|
 [fc]
-少女は自慰で乱れた服装に気が付くと、[r]
-シャワーを浴びようかどうか考えはじめる。[pcms]
+Noticing her disheveled clothes from masturbating, the girl began to[r]
+consider whether to take a shower or not.[pcms]
 
 *5656|
 [fc]
-しかし、その目に映ったのは、[r]
-洗濯しておいたチアーの衣装だった。[pcms]
+But what caught her eye was the cheerleading outfit she had washed and[r]
+set aside.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -231,137 +224,129 @@
 *5657|
 [fc]
 [vo_han s="hana0035"]
-[ns]花沢[nse]
-「あっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ah!"[pcms]
 
 *5658|
 [fc]
-ドアをノックする音に、少女が嬉しそうな声をあげる。[r]
-同室の赤坂が帰ってきたのなら、ノックなんてしないはずだ。[pcms]
+The sound of knocking at the door made the girl let out a happy voice.[r]
+If it were Akasaka, her roommate, she wouldn't knock.[pcms]
 
 *5659|
 [fc]
-鏡でおかしいところがないかチェックして、[r]
-ドアに向かう。[pcms]
+She checked in the mirror for anything amiss and headed towards the[r]
+door.[pcms]
 
 *5660|
 [fc]
-シャワー中ということったが、[r]
-思ったより時間が掛かって焦れていたところだ。[pcms]
+She had been getting impatient since it was taking longer than[r]
+expected for him to finish his shower.[pcms]
 
 *5661|
 [fc]
-でも、来てくれたならそれで良い。[r]
-頭の中でねじくれていた考えが、全て吹き飛んでしまう。[pcms]
+But now that he had come, that was all that mattered. All the twisted[r]
+thoughts in her head blew away.[pcms]
 
 *5662|
 [fc]
 [vo_han s="hana0036"]
-[ns]花沢[nse]
-「いらっしゃい、荒井君！」[pcms]
+[ns]Hanazawa[nse]
+"Welcome, Arai-kun!"[pcms]
 
 ;//seA011.ogg
 [se buf=0 storage="seA011"]
 
 *5663|
 [fc]
-だが、ドアを開けると、そこに立っていたのは[r]
-荒井ではなく、携帯の番号を交換した先輩だった。[pcms]
+But when she opened the door, standing there wasn't Arai, but the[r]
+senior with whom she had exchanged phone numbers.[pcms]
 
 *5664|
 [fc]
-[ns]部員Ａ[nse]
-「あ、すまん。荒井は行く気がないとかで、散歩に出ちまった」[pcms]
+[ns]Club Member A[nse]
+"Ah, sorry. Arai said he didn't feel like going and went out for a[r]
+walk."[pcms]
 
 *5665|
 [fc]
 [vo_han s="hana0037"]
-[ns]花沢[nse]
-「え……」[pcms]
+[ns]Hanazawa[nse]
+"Eh...?"[pcms]
 
 *5666|
 [fc]
-[ns]部員Ａ[nse]
-「代わりに俺に行けって言うんだけど……[r]
-　なんの用事だったんだ？」[pcms]
+[ns]Club Member A[nse]
+"He told me to go in his place... What did you need him for?"[pcms]
 
 *5667|
 [fc]
 [vo_han s="hana0038"]
-[ns]花沢[nse]
-「…………」[pcms]
+[ns]Hanazawa[nse]
+"..."[pcms]
 
 *5668|
 [fc]
-怒りで少女の視界が揺らいでいく。[r]
-こんなに思っているのに。[r]
-こんなに待っていたのに。[pcms]
+The girl's vision began to blur with anger. Despite how much she felt,[r]
+despite how long she had waited.[pcms]
 
 *5669|
 [fc]
-どうして荒井には気持ちが届かないんだろうか。[r]
-もしかしてインポにでも、なっているのか？[pcms]
+Why couldn't her feelings reach Arai? Could it be that he's become[r]
+impotent?[pcms]
 
 *5670|
 [fc]
-待っている間に焦れていた暗い考えが、[r]
-腹の底から沸き上がってくる。[pcms]
+As she waited, dark thoughts of impatience bubbled up from the pit of[r]
+her stomach.[pcms]
 
 *5671|
 [fc]
-[ns]部員Ａ[nse]
-「怒ってるのか？[r]
-　あいつも微妙な時期なんだから、許してやれよ」[pcms]
+[ns]Club Member A[nse]
+"Are you mad? Cut him some slack; he's going through a tough time."[pcms]
 
 *5672|
 [fc]
-男はそんなことを言いながら、[r]
-チアー服に着替えている花沢の身体を、[r]
-じろじろと睨め付けていた。[pcms]
+The man said this while ogling Hanazawa's body, which was dressed in a[r]
+cheerleading outfit.[pcms]
 
 *5673|
 [fc]
-こんな休日にそんな衣装を着て、[r]
-荒井と何をするつもりだったのかと、[r]
-顔がにやけている。[pcms]
+His face was grinning, wondering what she had planned to do with Arai[r]
+on such a holiday, dressed in that outfit.[pcms]
 
 *5674|
 [fc]
 [vo_han s="hana0039"]
-[ns]花沢[nse]
-「…………」[pcms]
+[ns]Hanazawa[nse]
+"..."[pcms]
 
 *5675|
 [fc]
-怒りで我を忘れそうになった花沢は、[r]
-先輩の視線を感じると、途端に気持ちが[r]
-変わっていくことに気が付いた。[pcms]
+Anger almost made Hanazawa lose herself, but when she felt the[r]
+senior's gaze, she suddenly noticed her feelings changing.[pcms]
 
 *5676|
 [fc]
-よく見たら、先輩も逞しい身体をしていて、[r]
-なかなか格好いい。[pcms]
+Upon closer inspection, the senior had a sturdy body and was quite[r]
+handsome.[pcms]
 
 *5677|
 [fc]
-荒井にこだわる必要なんて、[r]
-無いのかもしれなかった。[pcms]
+Maybe there was no need to be hung up on Arai after all.[pcms]
 
 *5678|
 [fc]
 [vo_han s="hana0040"]
-[ns]花沢[nse]
-「ちょっと、部屋に寄っていきませんか？」[pcms]
+[ns]Hanazawa[nse]
+"Would you like to come into my room for a bit?"[pcms]
 
 *5679|
 [fc]
-男は困るそぶりを見せながらも、[r]
-嬉々として部屋の中に入って行く。[pcms]
+The man showed a troubled expression but entered the room eagerly.[pcms]
 
 *5680|
 [fc]
-チアーの衣装を、どう生かそうか[r]
-頭の中で考えながら……。[pcms]
+Thinking about how to make the most of the cheerleading outfit...[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

@@ -25,80 +25,76 @@
 
 *6388|
 [fc]
-[ns]感染者[nse]
-「ぐぅぉ……おおっ……」[pcms]
+[ns]Infected person[nse]
+"Guh...ohh..."[pcms]
 
 [se buf=0 storage="seB014"]
 ;//♪SE人間が倒れる音
 
 *6389|
 [fc]
-[ns]誠[nse]
-「よしっ！」[pcms]
+[ns]Makoto[nse]
+"Alright!"[pcms]
 
 *6390|
 [fc]
-感染者の頭部を力いっぱい横薙ぎにしてＫＯした。[r]
-僕の得物はゲームのボウガンじゃなくて、[r]
-すっかりバットになっていた。[pcms]
+I swung my weapon with all my might, side-sweeping the head of the[r]
+infected person and knocking them out. My weapon wasn't the crossbow[r]
+from the game, but had completely become a bat.[pcms]
 
 *6391|
 [fc]
-こいつはそーいちの形見みたいなものだ。[r]
-ゾンビみたいなこいつらには、こんな近接武器じゃなくて[r]
-やっぱり飛び道具のほうがいい。[pcms]
+This bat is like a memento from Souichirou. Against these zombie-like[r]
+creatures, I'd prefer a ranged weapon over a melee one.[pcms]
 
 *6392|
 [fc]
-だいたいゲームでも僕の役割はガンナーなんだし、[r]
-ゾンビものといえば、やっぱりＦＰＳだ。[r]
-……なのに現実はツライ。[pcms]
+Usually in games, my role is that of a gunner, and when it comes to[r]
+zombie stuff, FPS is the way to go... But reality is harsh.[pcms]
 
 *6393|
 [fc]
-筋力がないのに、ずっとこのバットで返り血を浴びないように[r]
-気をつけながら振るい続けている。[r]
-その甲斐あってか、感染者はもう目の前にはいない。[pcms]
+Without much strength, I keep swinging this bat, careful not to get[r]
+splattered with blood. Thanks to that effort, there are no more[r]
+infected in front of me.[pcms]
 
 *6394|
 [fc]
-[ns]誠[nse]
-「いまだ！　行こうターヤ！！」[pcms]
+[ns]Makoto[nse]
+"Now's our chance! Let's go, Tarja!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6395|
 [fc]
 [vo_tay s="taja_tj0422"]
-[ns]ターヤ[nse]
-「うんっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah!!"[pcms]
 
 *6396|
 [fc]
-僕のパーティー唯一のメンバー『Taryan』は、[r]
-ジャージを着て、日本では珍しいクリケットのバットを[r]
-武器にしている。[pcms]
+The only member of my party, "Taryan," is wearing a jersey and[r]
+wielding a cricket bat, which is rare in Japan.[pcms]
 
 *6397|
 [fc]
-モンバスの中での小型剣と盾という、[r]
-バランスの取れた格好いい装備とは随分と違ってた。[pcms]
+It's quite different from the cool, balanced equipment of a small[r]
+sword and shield in Monbas.[pcms]
 
 *6398|
 [fc]
-現実の戦いはゲームとは全然違って、血なまぐさくて、疲れて、[r]
-一匹倒すごとに罪悪感が募っていく。[r]
-相手は理性を失っている怪物とはいえ、元は人間だ。[pcms]
+Real battles are nothing like games; they're bloody, exhausting, and[r]
+with each creature I take down, my sense of guilt grows. After all,[r]
+they were once human.[pcms]
 
 *6399|
 [fc]
-倒してももらえるのは罪悪感だけ。[r]
-アイテムなんて何ももらえない。[pcms]
+And for defeating them, all I get is guilt. No items or anything.[pcms]
 
 *6400|
 [fc]
-だけど、倒さなきゃ、僕はあいつらと同じになってしまう。[r]
-それは絶対に嫌だった。[pcms]
+But if I don't take them down, I'll become just like them. That's[r]
+something I absolutely don't want.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -112,14 +108,14 @@
 [fc]
 [vo_stk s="satuki_tj0275"]
 [ns]？？？[nse]
-「ううんっ……」[pcms]
+"Mmm..."[pcms]
 
 ;//彩月
 
 *6402|
 [fc]
-物陰から新手が現れた。[r]
-その姿に、僕は背筋が凍りつく。[pcms]
+New enemies appeared from behind cover. At the sight of them, my spine[r]
+froze.[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
@@ -130,85 +126,80 @@
 *6403|
 [fc]
 [vo_stk s="satuki_tj0276"]
-[ns]彩月[nse]
-「んふふっ……。まーくん……、みっけ～」[pcms]
+[ns]Satsuki[nse]
+"Nfufu... Ma-kun... found you~"[pcms]
 
 *6404|
 [fc]
-[ns]誠[nse]
-「南……先輩……」[pcms]
+[ns]Makoto[nse]
+"Minami... Senpai..."[pcms]
 
 *6405|
 [fc]
-物陰から現れたのは南先輩だった。[r]
-当然のごとく、服はボロボロにやぶられ、[r]
-男たちの欲望の体液にまみれていた。[pcms]
+The one who appeared from behind cover was Minami Senpai. Naturally,[r]
+her clothes were torn to shreds, smeared with the bodily fluids of[r]
+men's desires.[pcms]
 
 *6406|
 [fc]
-こんな無惨な先輩の姿、僕は見たくなかった。[pcms]
+I didn't want to see Senpai in such a tragic state.[pcms]
 
 *6407|
 [fc]
 [vo_stk s="satuki_tj0277"]
-[ns]彩月[nse]
-「まーくん……。うふふっ……」[pcms]
+[ns]Satsuki[nse]
+"Ma-kun... Ufufu..."[pcms]
 
 *6408|
 [fc]
-そう言いながら笑う、真っ赤な目をした先輩。[r]
-完全に感染している。[pcms]
+Senpai said with a laugh, her eyes completely red. She was fully[r]
+infected.[pcms]
 
 *6409|
 [fc]
-見ず知らずの人を倒すのだって、かなりの罪悪憾だ。[r]
-なのに先輩を……。[pcms]
+It's already a heavy burden to take down strangers. But Senpai...[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6410|
 [fc]
 [vo_tay s="taja_tj0423"]
-[ns]ターヤ[nse]
-「誠……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Makoto..."[pcms]
 
 *6411|
 [fc]
-心配そうなターヤ。[r]
-無理もない。[pcms]
+Tarja looked worried. It's not surprising.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6412|
 [fc]
-[ns]誠[nse]
-（どうすれば……いいんだ……）[pcms]
+[ns]Makoto[nse]
+(What should I do...)[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw1_kan1"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *6413|
 [fc]
 [vo_stk s="satuki_tj0278"]
-[ns]彩月[nse]
-「ねぇ……みんなぁ……。[r]
-　こっちに誠くんがいるよ……。[r]
-　まーくんが……」[pcms]
+[ns]Satsuki[nse]
+"Hey... everyone... Makoto-kun is over here... Ma-kun is..."[pcms]
 
 *6414|
 [fc]
-[ns]誠[nse]
-「えっ……！？」[pcms]
+[ns]Makoto[nse]
+"What...!?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6415|
 [fc]
-僕に考える暇も与えないかというように、[r]
-南先輩はそう言った。[pcms]
+As if not giving me any time to think, Minami Senpai said that.[pcms]
 
 *6416|
 [fc]
-……みんなって……だれだ！？[pcms]
+...Everyone? Who are they!?[pcms]
 
 ;//　ＳＥ　茂みがさがさ……
 
@@ -217,62 +208,61 @@
 *6417|
 [fc]
 [vo_han s="hana_tj0033"]
-[ns]花沢[nse]
-「なかざわ……」[pcms]
+[ns]Hanazawa[nse]
+"Nakazawa..."[pcms]
 
 *6418|
 [fc]
-[ns]誠[nse]
-「は、花沢……」[pcms]
+[ns]Makoto[nse]
+"Ha, Hanazawa..."[pcms]
 
 *6419|
 [fc]
-花沢がゆらりと姿を現した。[r]
-いや、花沢だけじゃない。[pcms]
+Hanazawa appeared swaying. No, it wasn't just Hanazawa.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_kan_x"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *6420|
 [fc]
 [vo_nat s="natu_tj0196"]
-[ns]夏都[nse]
-「誠ぉ……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 *6421|
 [fc]
-[ns]誠[nse]
-「夏都ねえちゃん……」[pcms]
+[ns]Makoto[nse]
+"Natsu Onee-san..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che_kan1"][ChrSetXY layer=5 x=240 y=0][trans_c cross time=150]
 
 *6422|
 [fc]
 [vo_aka s="akari_tj0301"]
-[ns]茜梨[nse]
-「ま～くん……せんぱぁい……」[pcms]
+[ns]Akari[nse]
+"Ma-kun... Senpai..."[pcms]
 
 *6423|
 [fc]
-[ns]誠[nse]
-「越智さん……まで……」[pcms]
+[ns]Makoto[nse]
+"Ochi-san... too..."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_kan_x"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=4 chbase="ha1_kan1"][ChrSetXY layer=4 x=630 y=0][trans_c cross time=150]
 
 *6424|
 [fc]
-南先輩だけじゃなくて、[r]
-花沢に夏都ねぇちゃんに越智さんまで……。[r]
-なんていう同窓会なんだ？　これは……。[pcms]
+It wasn't just Minami Senpai; Hanazawa, Natsu Onee-san, and even Ochi-[r]
+san were there... What kind of reunion is this?[pcms]
 
 *6425|
 [fc]
-全員、無事ならうれしいこと、この上ないけど……。[r]
-服はボロボロで体液まみれ、目は真っ赤で、気は狂っている。[pcms]
+If everyone were safe, it would be the happiest thing ever... But[r]
+their clothes are torn and smeared with bodily fluids, their eyes are[r]
+completely red, and their minds are gone.[pcms]
 
 *6426|
 [fc]
-完全な感染者で、もう助かる見込みはない。[pcms]
+They're fully infected and beyond saving.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st2_sw1_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -280,74 +270,73 @@
 *6427|
 [fc]
 [vo_stk s="satuki_tj0279"]
-[ns]彩月[nse]
-「誠くんっ……」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun..."[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6428|
 [fc]
 [vo_han s="hana_tj0034"]
-[ns]花沢[nse]
-「なかざわぁ……！」[pcms]
+[ns]Hanazawa[nse]
+"Nakazawa..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_kan_x"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6429|
 [fc]
 [vo_nat s="natu_tj0197"]
-[ns]夏都[nse]
-「誠ぉ……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_che_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6430|
 [fc]
 [vo_aka s="akari_tj0302"]
-[ns]茜梨[nse]
-「ま～くん……せんぱぁい……」[pcms]
+[ns]Akari[nse]
+"Ma-kun... Senpai..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6431|
 [fc]
 [vo_tay s="taja_tj0424"]
-[ns]ターヤ[nse]
-「行こう……誠……」[pcms]
+[ns]Tarja[nse]
+"Let's go... Makoto..."[pcms]
 
 *6432|
 [fc]
-ターヤがクリケットバットをかまえた。[pcms]
+Tarja readied her cricket bat.[pcms]
 
 *6433|
 [fc]
-[ns]誠[nse]
-「まってターヤ……」[pcms]
+[ns]Makoto[nse]
+"Wait, Tarja..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6434|
 [fc]
 [vo_tay s="taja_tj0425"]
-[ns]ターヤ[nse]
-「誠……」[pcms]
+[ns]Tarja[nse]
+"Makoto..."[pcms]
 
 *6435|
 [fc]
-僕はターヤを制した。[r]
-僕の大事なターヤに僕の大事な友達や家族だった人たちを[r]
-殺させたくはなかった。[pcms]
+I restrained Tarja. I didn't want my precious Tarja to kill the people[r]
+who were once my dear friends and family.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6436|
 [fc]
-それは感染者になったターヤのお父さんを殺した僕が[r]
-一番良く知っている。[pcms]
+I know it best since I was the one who killed Tarja's father after he[r]
+got infected.[pcms]
 
 *6437|
 [fc]
-僕はバットを構えた。[pcms]
+I readied the bat.[pcms]
 
 ;//<選択肢>
 ;//　決着をつける　　　→ラベル*showdownへ
@@ -355,14 +344,14 @@
 
 ;	[link target=*showdown]決着をつける[endlink]
 ;	[link target=*runaway]逃げる[endlink]
-;	[s]
+;[pcms]
 
 *SEL27|決着をつける／逃げる
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '決着をつける'"]
-[eval exp="f.seltext06 = '逃げる'"]
+[eval exp="f.seltext04 = 'Let\'s settle this'"]
+[eval exp="f.seltext06 = 'Run away'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -401,178 +390,173 @@
 
 *6438|
 [fc]
-[ns]誠[nse]
-「ターヤは行って！」[pcms]
+[ns]Makoto[nse]
+"Go, Tarja!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6439|
 [fc]
 [vo_tay s="taja_tj0426"]
-[ns]ターヤ[nse]
-「えっ……？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Eh...?"[pcms]
 
 *6440|
 [fc]
-[ns]誠[nse]
-「こいつらは僕を狙ってる。[r]
-　僕がおとりになるから！[r]
-　その間に……」[pcms]
+[ns]Makoto[nse]
+"They're after me. I'll be the decoy! While they're distracted..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6441|
 [fc]
 [vo_tay s="taja_tj0427"]
-[ns]ターヤ[nse]
-「でも……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"But..."[pcms]
 
 *6442|
 [fc]
-[ns]誠[nse]
-「いいから、行って！！」[pcms]
+[ns]Makoto[nse]
+"Just go, please!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6443|
 [fc]
 [vo_tay s="taja_tj0428"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja Pohjonen[nse]
+"..."[pcms]
 
 *6444|
 [fc]
-僕は思わず叫んでいた。[r]
-ターヤの表情は、驚きから決意に変わった。[pcms]
+I found myself shouting. Tarja's expression changed from surprise to[r]
+determination.[pcms]
 
 *6445|
 [fc]
-臆病な僕の精一杯の決意をわかってくれたようだ。[pcms]
+It seems she understood my utmost resolve, the courage of a coward[r]
+like me.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta19"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6446|
 [fc]
 [vo_tay s="taja_tj0429"]
-[ns]ターヤ[nse]
-「……わたし、誠を信じてるから……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...I trust you, Makoto..."[pcms]
 
 *6447|
 [fc]
-[ns]誠[nse]
-「うんっ……」[pcms]
+[ns]Makoto[nse]
+"Yeah..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta13"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6448|
 [fc]
 [vo_tay s="taja_tj0430"]
-[ns]ターヤ[nse]
-「だから、絶対！[r]
-　絶対に、絶対に無茶しないで！[r]
-　生きて！　お願いだから……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"So, please! Absolutely! Absolutely do not do anything reckless! Stay[r]
+alive! I'm begging you..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6449|
 [fc]
 [vo_tay s="taja_tj0431"]
-[ns]ターヤ[nse]
-「誠がいなくなったら……。[r]
-　誠はわたしの家族で……王子様で……」[pcms]
+[ns]Tarja[nse]
+"If I lose you, Makoto... You're my family and... my prince..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6450|
 [fc]
-[ns]誠[nse]
-「わかってる。[r]
-　大丈夫だから……」[pcms]
+[ns]Makoto[nse]
+"I understand. It's going to be okay..."[pcms]
 
 *6451|
 [fc]
-わかっている。[r]
-僕が自分の手でみんなを殺してしまわなきゃと思ったのは[r]
-僕みたいな嫌な思いをターヤにはさせたくないからだ。[pcms]
+I understand. The reason I thought I had to kill everyone myself is[r]
+because I didn't want Tarja to go through the horrible experience I[r]
+did.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6452|
 [fc]
-[ns]誠[nse]
-「さあ来いよ！　花沢！[r]
-　南先輩！　夏都姉ちゃん！　越智さん……。[r]
-　中澤　誠はここだぁ！！」[pcms]
+[ns]Makoto[nse]
+"Come at me! Hanazawa! Minami Senpai! Natsu Onee-chan! Ochi-san...[r]
+Nakazawa Makoto is right here!!"[pcms]
 
 *6453|
 [fc]
-そう言いながら僕はあとずさる。[pcms]
+As I said that, I backed away.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw1_kan1"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *6454|
 [fc]
 [vo_stk s="satuki_tj0280"]
-[ns]彩月[nse]
-「誠く～ん……」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun..."[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_kan1"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *6455|
 [fc]
 [vo_han s="hana_tj0035"]
-[ns]花沢[nse]
-「なかざわぁ……！」[pcms]
+[ns]Hanazawa[nse]
+"Nakazawa..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_kan_x"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *6456|
 [fc]
 [vo_nat s="natu_tj0198"]
-[ns]夏都[nse]
-「誠ぉ……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che_kan1"][ChrSetXY layer=5 x=240 y=0][trans_c cross time=150]
 
 *6457|
 [fc]
 [vo_aka s="akari_tj0303"]
-[ns]茜梨[nse]
-「ま～くん……せんぱぁい……」[pcms]
+[ns]Akari[nse]
+"Ma-kun... Senpai..."[pcms]
 
 *6458|
 [fc]
-思ったとおり、四人は僕めがけて、やってくる。[r]
-感染者とはいえ、やっぱり最後の理性と記憶は[r]
-好意もった人間へと向けられるみたいだ。[pcms]
+As expected, the four of them headed straight for me. Even as[r]
+infected, it seems their last bit of reason and memory directs them[r]
+towards the person they had affection for.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6459|
 [fc]
-もっとも、その好意は、傷つけ、犯して、感染させて……[r]
-仲間に引き込むっていう、最悪の形で発揮される。[pcms]
+by hurting, violating, and infecting others to bring them into the[r]
+fold.[pcms]
 
 *6460|
 [fc]
-きっと、みんなだって、そんなことはしたくない。[pcms]
+Surely, none of them would want to do such things.[pcms]
 
 *6461|
 [fc]
-だから、僕は……。[pcms]
+So, I...[pcms]
 
 *6462|
 [fc]
-[ns]誠[nse]
-「行って！　ターヤ！」[pcms]
+[ns]Makoto[nse]
+"Go! Tarja!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6463|
 [fc]
 [vo_tay s="taja_tj0432"]
-[ns]ターヤ[nse]
-「うんっ！　気をつけて誠っ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yes! Take care, Makoto!!"[pcms]
 
 [se buf=0 storage="seA048"]
 ;//♪SE走る
@@ -581,32 +565,31 @@
 
 *6464|
 [fc]
-ターヤが走り出す。[r]
-４人は一直線に僕の方を狙っていて、[r]
-ターヤにはまったく興味を示さない。[pcms]
+Tarja started running. The four were aiming straight for me and showed[r]
+no interest in Tarja at all.[pcms]
 
 *6465|
 [fc]
-狙い通りだ。[pcms]
+Just as planned.[pcms]
 
 *6466|
 [fc]
-ターヤは囲みを抜けて、ボートへと向かっている。[r]
-ターヤなら大丈夫だ。[pcms]
+Tarja broke through the encirclement and headed towards the boat.[r]
+She'll be fine; it's Tarja, after all.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6467|
 [fc]
-[ns]誠[nse]
-「さあ、決着をつけなくちゃな……」[pcms]
+[ns]Makoto[nse]
+"Well, it's time to settle this..."[pcms]
 
 [se buf=0 storage="seB040"]
 ;//♪SE鉄パイプの風切り音
 
 *6468|
 [fc]
-僕は野球選手のようにバット空振りした。[pcms]
+I swung the bat through the air like a baseball player.[pcms]
 
 ;//bgm12.ogg
 [bgm storage="BGM12"]
@@ -616,44 +599,41 @@
 *6469|
 [fc]
 [vo_han s="hana_tj0036"]
-[ns]花沢[nse]
-「ながざわぁ～～！！」[pcms]
+[ns]Hanazawa[nse]
+"Nakazawaaa~~!!"[pcms]
 
 *6470|
 [fc]
-殺気のこもった目で花沢が襲ってくる。[r]
-花沢のことは嫌いだったけど、それはあくまで僕のことを[r]
-一方的に嫌っていたからだ。[pcms]
+Hanazawa attacked with murderous eyes. I didn't like Hanazawa, but[r]
+that was only because she unilaterally disliked me.[pcms]
 
 *6471|
 [fc]
-花沢が僕を嫌いな理由も色々あったんだろう。[r]
-荒井のこととか、越智さんのこととか色々と……。[r]
-きっと、つまらない巡り合わせのせいで、僕を嫌ってた。[pcms]
+There must have been various reasons why Hanazawa disliked me. Things[r]
+like Arai, or Ochi-san... Probably, it was just a silly twist of fate[r]
+that made her hate me.[pcms]
 
 *6472|
 [fc]
-僕は花沢が一生懸命、チアに打ち込んでる姿は尊敬してたし、[r]
-好きだった……。[r]
-それなのに……。[pcms]
+I respected and liked the way Hanazawa devoted herself to cheerleading[r]
+with all her might... And yet...[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_kan2"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *6473|
 [fc]
 [vo_han s="hana_tj0037"]
-[ns]花沢[nse]
-「ながざわぁ～！」[pcms]
+[ns]Hanazawa[nse]
+"Nakazawaa~!"[pcms]
 
 *6474|
 [fc]
-僕の首筋を噛み千切ろうとするかのように襲い掛かってくる。[pcms]
+She lunged at me as if trying to bite off my neck.[pcms]
 
 *6475|
 [fc]
-[ns]誠[nse]
-「今度生まれてきた時は……[r]
-　仲良くしてくれよ。花沢……」[pcms]
+[ns]Makoto[nse]
+"Next time you're born... let's get along, Hanazawa..."[pcms]
 
 [se buf=0 storage="seB040"]
 ;//♪SE鉄パイプの風切り音
@@ -668,82 +648,76 @@
 *6476|
 [fc]
 [vo_han s="hana_tj0038"]
-[ns]花沢[nse]
-「……ながざ……ばぁ……」[pcms]
+[ns]Hanazawa[nse]
+"...Nakaza...baa..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6477|
 [fc]
-嫌な音がして、花沢の頭が砕けた。[r]
-地面に倒れて痙攣し、すぐに動かなくなる。[pcms]
+A horrible sound rang out, and Hanazawa's head shattered. She fell to[r]
+the ground convulsing and soon stopped moving.[pcms]
 
 *6478|
 [fc]
-一発で仕留めた。[r]
-何度も感染者の頭砕いて、覚えた感覚。[r]
-……嫌な感覚だった。[pcms]
+I finished her off with one blow. I had learned the sensation from[r]
+smashing the heads of many infected... It was a terrible feeling.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw1_kan1"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *6479|
 [fc]
 [vo_stk s="satuki_tj0281"]
-[ns]彩月[nse]
-「きゃはは……花沢さんたらぁ……。[r]
-　頭割れちゃったぁ……。にゃはぁ……」[pcms]
+[ns]Satsuki[nse]
+"Kyahaha... Hanazawa-san's head... split open... Nyaha..."[pcms]
 
 *6480|
 [fc]
-ケタケタ笑いながら僕に迫ってくる南先輩。[pcms]
+Senior Minami approached me with a cackling laugh.[pcms]
 
 *6481|
 [fc]
-[ns]誠[nse]
-「先輩……」[pcms]
+[ns]Makoto[nse]
+"Senior..."[pcms]
 
 *6482|
 [fc]
-不思議な人だった。[r]
-僕にも付かず離れず、時々からかわれたりして。[r]
-それでも、部活でもよく一緒だった。[pcms]
+She was a strange person. Not too close, not too far, sometimes[r]
+teasing me. Still, we spent a lot of time together in club activities.[pcms]
 
 *6483|
 [fc]
-なんでもできるって感じの人だったけど、[r]
-料理はカレーすら作れないっていうのが、[r]
-ちょっとおかしかった。[pcms]
+She seemed like she could do anything, but it was funny that she[r]
+couldn't even make curry.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw1_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6484|
 [fc]
 [vo_stk s="satuki_tj0282"]
-[ns]彩月[nse]
-「大好きよ。まーくん……。[r]
-　いっしょにいいこと……しましょ」[pcms]
+[ns]Satsuki[nse]
+"I love you, Ma-kun... Let's do something nice together..."[pcms]
 
 *6485|
 [fc]
-そう言えば、時折先輩はこうやって、[r]
-僕を挑発するみたいにしてからかったっけ……。[pcms]
+Now that I think about it, Senior would sometimes tease me like this,[r]
+as if provoking me...[pcms]
 
 *6486|
 [fc]
-……実は案外、本気なところがあったりして……。[pcms]
+...Maybe she was actually serious about it...[pcms]
 
 *6487|
 [fc]
 [vo_stk s="satuki_tj0283"]
-[ns]彩月[nse]
-「ねっ……。いいこと……しましょ……。[r]
-　大好きよ……。まーくん……。[r]
-　きゃはははっ……」[pcms]
+[ns]Satsuki[nse]
+"Hey... let's do something nice... I love you... Ma-kun...[r]
+Kyahahahah..."[pcms]
 
 *6488|
 [fc]
-[ns]誠[nse]
-「ありがとうございました……。先輩……」[pcms]
+[ns]Makoto[nse]
+"Thank you... Senior..."[pcms]
 
 [se buf=0 storage="seB040"]
 ;//♪SE鉄パイプの風切り音
@@ -759,183 +733,169 @@
 *6489|
 [fc]
 [vo_stk s="satuki_tj0284"]
-[ns]彩月[nse]
-「……にゃは………はっ……はぁあ……」[pcms]
+[ns]Satsuki[nse]
+"...Nyaha...hah...haaa..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6490|
 [fc]
-先輩は笑いながら逝った。[r]
-思ったよりもキレイな死に顔だった。[pcms]
+Senior passed away with a smile. Her death face was more peaceful than[r]
+I expected.[pcms]
 
 *6491|
 [fc]
-憧れの人だった。[r]
-どこか、妙に惹かれるところがあった。[r]
-不思議な縁というか、共通点みたいなものが僕たちにはあった。[pcms]
+She was someone I admired. There was something strangely attractive[r]
+about her. It felt like we had some kind of mysterious connection or[r]
+common ground.[pcms]
 
 *6492|
 [fc]
-……そんな気がしてた……。[pcms]
+...That's what I had always felt...[pcms]
 
 *6493|
 [fc]
-[ns]誠[nse]
-「僕、先輩ともっと話しかったです……。[r]
-　さよなら……。安らかに眠ってください」[pcms]
+[ns]Makoto[nse]
+"I wanted to talk more with you, Senior... Goodbye... Please rest in[r]
+peace."[pcms]
 
 *6494|
 [fc]
-それがなんなのかわからないままで、[r]
-僕は先輩と別れてしまった。[pcms]
+Without ever understanding what that was, I parted ways with Senior.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_kan_x"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *6495|
 [fc]
 [vo_nat s="natu_tj0199"]
-[ns]夏都[nse]
-「誠ぉ……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 *6496|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Sis..."[pcms]
 
 *6497|
 [fc]
-次は夏都ねえちゃんだった。[r]
-四年間、僕を親代わりに育ててくれた姉ちゃん。[r]
-この旅行だって……孝行のつもりだったのに……。[pcms]
+Next was Natsu Onee-san. She raised me like a parent for four years.[r]
+Even this trip... was meant to be a gesture of filial piety...[pcms]
 
 *6498|
 [fc]
 [vo_nat s="natu_tj0200"]
-[ns]夏都[nse]
-「なぁ……しよぉぜ……。誠ぉ……。[r]
-　お前のチンポが……オレはほしいんだよ……」[pcms]
+[ns]Natsu[nse]
+"Hey... let's do it... Makoto... I want your dick..."[pcms]
 
 *6499|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……。[r]
-　感染してても、全然変わってないなぁ……」[pcms]
+[ns]Makoto[nse]
+"Sis... You haven't changed at all, even after being infected..."[pcms]
 
 *6500|
 [fc]
-僕は苦笑した。[pcms]
+I gave a bitter smile.[pcms]
 
 *6501|
 [fc]
-下品で、ガサツで本当にエロくて……。[r]
-何気に姉ちゃんで抜いてしまったことも多かった。[r]
-……ごめん、姉ちゃん。[pcms]
+Vulgar, rough, and truly erotic... I had often jerked off thinking[r]
+about my sister... Sorry, Sis.[pcms]
 
 *6502|
 [fc]
-下品で、男みたいで、そのくせエロくて……[r]
-温かくて……優しくて……。[r]
-僕にとっては大事な、大好きな姉ちゃんで……。[pcms]
+Vulgar, like a man, yet erotic... Warm and kind... She was my[r]
+precious, beloved sister...[pcms]
 
 *6503|
 [fc]
-[ns]誠[nse]
-「うっ……。ううっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh... Uuhh..."[pcms]
 
 *6504|
 [fc]
-涙がこみ上げる。[r]
-こんなに大好きな姉ちゃんが感染しちゃうなんて……。[pcms]
+Tears welled up. My beloved sister getting infected was just too[r]
+much...[pcms]
 
 *6505|
 [fc]
-僕はとても姉ちゃんを殺すなんてできそうになかった。[pcms]
+I didn't think I could bring myself to kill my own sister.[pcms]
 
 *6506|
 [fc]
-[ns]誠[nse]
-「……でも……やらなくちゃ……」[pcms]
+[ns]Makoto[nse]
+"...But... I have to do it..."[pcms]
 
 *6507|
 [fc]
-姉ちゃんだって、こんな姿をさらして感染者を[r]
-増やしたくはないはずだ。[pcms]
+Sis must not want to expose herself like this and increase the number[r]
+of infected.[pcms]
 
 *6508|
 [fc]
-夏都ねえちゃんにもし正気が残っていたら、[r]
-「殺してくれ」って、僕に頼む。[r]
-姉ちゃんなら、絶対にそう頼むはずだ。[pcms]
+If Natsu Onee-san still had her sanity, she would ask me to "kill[r]
+her." I'm sure that's what she would ask of me.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_kan_x"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6509|
 [fc]
 [vo_nat s="natu_tj0201"]
-[ns]夏都[nse]
-「おぅ……やろうぜ……。[r]
-　オナってねぇで……お前のチンポで、[r]
-　オレのマンコをいっぱいにしてくれよ……」[pcms]
+[ns]Natsu[nse]
+"Hey... let's do it... Jerk off with your dick and fill my pussy[r]
+up..."[pcms]
 
 *6510|
 [fc]
-[ns]誠[nse]
-「そういう意味じゃないよ……。[r]
-　姉ちゃん……」[pcms]
+[ns]Makoto[nse]
+"That's not what I mean... Sis..."[pcms]
 
 *6511|
 [fc]
-感染して、おかしくなってるのに[r]
-そんなトコまで姉ちゃんのままで……。[r]
-ますます、決心が鈍る。[pcms]
+Even though she's infected and acting strange, she's still so much[r]
+like Sis... It makes it even harder to resolve myself.[pcms]
 
 *6512|
 [fc]
 [vo_nat s="natu_tj0202"]
-[ns]夏都[nse]
-「誠ぉ……なんでいっつも……。[r]
-　オレは……お前のオトコっぷりを[r]
-　マンコでたしかめて……やりたいのに……」[pcms]
+[ns]Natsu[nse]
+"Makoto... why do you always... I want to confirm your manliness with[r]
+my pussy..."[pcms]
 
 *6513|
 [fc]
-姉ちゃんの下品な言葉が僕の胸を締めつけ、涙がまたこぼれた。[r]
-知らない人間がセリフだけ聞いたら、[r]
-きっとシュールなギャグだと思うだろう。[pcms]
+My sister's vulgar words squeezed my heart, and tears spilled again.[r]
+Anyone who only heard the lines would probably think it's a crude[r]
+joke.[pcms]
 
 *6514|
 [fc]
-姉ちゃんはタフだし、つかまったら終わりだ。[r]
-それに一撃で止めをさせるかわからない。[pcms]
+Sis is tough, and if she catches me, it's over. Plus, I'm not sure if[r]
+I can finish her in one blow.[pcms]
 
 *6515|
 [fc]
-……だけど、なるべく苦しまず、[r]
-きれいな死に方をさせてあげたかった。[r]
-姉ちゃんだって女だし、僕の親代わりだったんだし……。[pcms]
+...But I wanted to give her a death as painless and clean as possible.[r]
+After all, she's a woman and she was like a parent to me...[pcms]
 
 *6516|
 [fc]
 [vo_nat s="natu_tj0203"]
-[ns]夏都[nse]
-「誠ぉ……チンポをくれよぉ……！」[pcms]
+[ns]Natsu[nse]
+"Makoto... give me your dick...!"[pcms]
 
 *6517|
 [fc]
-姉ちゃんは大きく手を広げて、チビの僕を抱きしめようと[r]
-いつものように屈みこんだ。[pcms]
+Sis spread her arms wide, trying to hug me like always, bending down[r]
+as usual.[pcms]
 
 *6518|
 [fc]
-いつも、ぎゅっと強く抱きしめられ、[r]
-あの大きい胸で窒息しそうなほどで……。[r]
-……そんな、僕の日常……。[pcms]
+I was always hugged tightly, almost suffocated by her large breasts...[r]
+That was my everyday life...[pcms]
 
 *6519|
 [fc]
-僕はその胸の中へと飛び込みたかった。[r]
-でも、その誘惑を振り切って僕は……。[pcms]
+I wanted to dive into that chest. But resisting the temptation, I...[pcms]
 
 [se buf=0 storage="seB040"]
 ;//♪SE鉄パイプの風切り音
@@ -950,33 +910,32 @@
 
 *6520|
 [fc]
-屈みこんで来た夏都ねえちゃんの頭をチビの僕は[r]
-思いっきり縦に振りかぶって、バットの唐竹割でカチ割った。[pcms]
+As Natsu Onee-san bent down towards me, I swung the bat down hard[r]
+vertically, splitting her head open.[pcms]
 
 *6521|
 [fc]
 [vo_nat s="natu_tj0204"]
-[ns]夏都[nse]
-「うぐぅ……」[pcms]
+[ns]Natsu[nse]
+"Uguu..."[pcms]
 
 *6522|
 [fc]
-額を押さえて仰け反ると、姉ちゃんはよろよろとよろけ、[r]
-最後にぐるりと半回転して地面へと倒れ込んだ。[pcms]
+Clutching her forehead and reeling back, Sis staggered and finally[r]
+spun around half a turn before collapsing to the ground.[pcms]
 
 *6523|
 [fc]
 [vo_nat s="natu_tj0205"]
-[ns]夏都[nse]
-「いてぇ……じゃねぇ……か……。[r]
-　チンポ……くれよぉ……まことぉ……」[pcms]
+[ns]Natsu[nse]
+"It hurts... not... Give me your dick... Makoto..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6524|
 [fc]
-[ns]誠[nse]
-「ごめん……姉ちゃんっ！！」[pcms]
+[ns]Makoto[nse]
+"I'm sorry... Sis!!"[pcms]
 
 ;//立ち無し
 [se buf=0 storage="seB040"]
@@ -995,23 +954,23 @@
 
 *6525|
 [fc]
-僕に背を向けて倒れ、それでも立ち上がろうとする姉ちゃん。[r]
-それはロクな御利益をくれない神様の精一杯のサービスか、[r]
-姉ちゃんの中に残ったヒトカケラの理性だと思った。[pcms]
+Even as she fell with her back to me, still trying to stand up, I[r]
+thought it was either a poor blessing from an unkind god or a sliver[r]
+of reason left in Sis.[pcms]
 
 *6526|
 [fc]
-姉ちゃんの……大好きな姉ちゃんの顔を見ながら、[r]
-頭を砕くなんて、僕にできるわけがなかった。[pcms]
+I couldn't bear to crush her head while looking at the face of my[r]
+beloved sister...[pcms]
 
 *6527|
 [fc]
-だから、後頭部しか僕は殴ることが……。[pcms]
+So I could only bring myself to strike the back of her head...[pcms]
 
 *6528|
 [fc]
-[ns]誠[nse]
-「うあぁああっ！！」[pcms]
+[ns]Makoto[nse]
+"Uaaaahhh!!"[pcms]
 
 [se buf=0 storage="seB040"]
 ;//♪SE鉄パイプの風切り音
@@ -1021,134 +980,128 @@
 
 *6529|
 [fc]
-三度目で夏都ねえちゃんは動かなくなった。[pcms]
+On the third strike, Natsu Onee-san stopped moving.[pcms]
 
 *6530|
 [fc]
-[ns]誠[nse]
-「もう……。[r]
-　もう……いやだっ！！」[pcms]
+[ns]Makoto[nse]
+"No more... I can't take this anymore!!"[pcms]
 
 *6531|
 [fc]
-姉ちゃんが動かなくなった瞬間、これまで我慢していたものが[r]
-狂ったように暴れだした。[pcms]
+The moment Sis stopped moving, everything I had been holding back went[r]
+wild.[pcms]
 
 *6532|
 [fc]
-……僕は何をしているんだ？[r]
-それが望みだろうって、仲間や家族だった愛しい人たちの[r]
-抜け殻をバットで砕いて生ゴミに変える簡単なお仕事？[pcms]
+...What am I doing? Is this what they wanted, turning the empty shells[r]
+of my beloved friends and family into trash with a bat?[pcms]
 
 *6533|
 [fc]
-感染なんてしなくても、僕は気が狂ってしまいそうだった。[pcms]
+Even without the infection, I felt like I was going insane.[pcms]
 
 *6534|
 [fc]
-僕はあの日から僕を育ててくれた姉ちゃんまでも。[r]
-それが、きっと姉ちゃんの望みだからって……。[pcms]
+I had killed Sis, who had raised me since that day. Surely that's what[r]
+Sis would have wanted...[pcms]
 
 *6535|
 [fc]
-あれだけもらった愛や優しさをロクに返せないままに……、[r]
-姉ちゃんを殺してしまった。[pcms]
+I couldn't properly return all the love and kindness I received... and[r]
+I killed Sis.[pcms]
 
 *6536|
 [fc]
-[ns]誠[nse]
-「夏都ねえちゃん……。[r]
-　生まれ変わったら……僕とターヤの子供になってよ。[r]
-　そうじゃないと、僕は恩返しできそうにないよ……」[pcms]
+[ns]Makoto[nse]
+"Natsu Onee-san... If you're reborn... become a child of Tarja and me.[r]
+Otherwise, I don't think I can repay you..."[pcms]
 
 *6537|
 [fc]
-泣きながら、僕はバットを握りなおす。[r]
-次も姉ちゃんと同じぐらいに強い強敵だ。[pcms]
+Crying, I gripped the bat again. The next one is just as strong as Sis[r]
+was.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che_kan1"][ChrSetXY layer=5 x=240 y=0][trans_c cross time=150]
 
 *6538|
 [fc]
 [vo_aka s="akari_tj0304"]
-[ns]茜梨[nse]
-「まーくん、せんぱいっ……」[pcms]
+[ns]Akari[nse]
+"Mak-kun, senpai..."[pcms]
 
 *6539|
 [fc]
-[ns]誠[nse]
-「越智さん……」[pcms]
+[ns]Makoto[nse]
+"Ochi-san..."[pcms]
 
 *6540|
 [fc]
-かわいらしい声で無邪気に笑う越智さん。[r]
-その声はいつもより間延びした感じで、どこか悪魔的だった。[pcms]
+Akari's innocent laughter sounded in a cute voice, but it was drawn[r]
+out and somewhat demonic.[pcms]
 
 *6541|
 [fc]
-虚ろな真っ赤な目が妙にキレイだと僕は思った。[r]
-不思議な美しさを醸し出してさえいた。[pcms]
+I thought her vacant red eyes were strangely beautiful. They even[r]
+exuded a mysterious beauty.[pcms]
 
 *6542|
 [fc]
 [vo_aka s="akari_tj0305"]
-[ns]茜梨[nse]
-「まーくん、せんぱいっ……。[r]
-　私ずっと……せんぱいのこと好きでした……。[r]
-　ずっと、エッチしたいって……思ってましたぁ……」[pcms]
+[ns]Akari[nse]
+"Mak-kun, senpai... I've always liked you... I've always wanted to[r]
+have sex with you..."[pcms]
 
 *6543|
 [fc]
-[ns]誠[nse]
-「ありがとう……越智さん……」[pcms]
+[ns]Makoto[nse]
+"Thank you... Ochi-san..."[pcms]
 
 *6544|
 [fc]
-気が狂っているとはいえ、越智さんのその告白はうれしかった。[r]
-ずっと、恋をしていた女の子。[pcms]
+Even though she was insane, Akari's confession made me happy. She was[r]
+a girl I had always been in love with.[pcms]
 
 *6545|
 [fc]
-死んだとあきらめて、他の子と結ばれたあとで、[r]
-こんな姿をみせられて……。[r]
-僕の運命はどこまでも、とんでもない鬱ゲーだ。[pcms]
+After giving up on her because she died and getting together with[r]
+another girl, being shown this... My fate is an incredibly depressing[r]
+game.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_che_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6546|
 [fc]
 [vo_aka s="akari_tj0306"]
-[ns]茜梨[nse]
-「えっちしましょ……まぁくん……」[pcms]
+[ns]Akari[nse]
+"Let's have sex... Mak-kun..."[pcms]
 
 *6547|
 [fc]
-[ns]誠[nse]
-「ごめん。[r]
-　越智さん……。僕にはターヤがいるんだ」[pcms]
+[ns]Makoto[nse]
+"I'm sorry. Ochi-san... I have Tarja."[pcms]
 
 *6548|
 [fc]
 [vo_aka s="akari_tj0307"]
-[ns]茜梨[nse]
-「べつに私はきにしませんよぉ……。[r]
-　私はまーくんせんぱいとえっちがしたいんです」[pcms]
+[ns]Akari[nse]
+"I don't mind... I just want to have sex with you, Mak-kun senpai."[pcms]
 
 *6549|
 [fc]
-やっぱり違う。これは越智さんの抜け殻だ。[r]
-おっとりとした狂気の笑み。[r]
-虚ろな赤い瞳に吸い込まれそうになる。[pcms]
+It's different after all. This is just a shell of Ochi-san. A gentle[r]
+yet insane smile. I feel like I'm being sucked into those vacant red[r]
+eyes.[pcms]
 
 *6550|
 [fc]
 [vo_aka s="akari_tj0308"]
-[ns]茜梨[nse]
-「まぁ……くん……」[pcms]
+[ns]Akari[nse]
+"Mak-kun..."[pcms]
 
 *6551|
 [fc]
-越智さんは僕を犯そうと襲いかかってきた。[pcms]
+Akari tried to assault me, intent on having her way.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1171,13 +1124,13 @@
 *6552|
 [fc]
 [vo_tay s="taja_tj0433"]
-[ns]ターヤ[nse]
-「誠……！？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Makoto...!?"[pcms]
 
 *6553|
 [fc]
-[ns]誠[nse]
-「ただいま、ターヤ……」[pcms]
+[ns]Makoto[nse]
+"I'm back, Tarja..."[pcms]
 
 ;//bgm01.ogg
 [bgm storage="BGM01"]
@@ -1187,42 +1140,42 @@
 *6554|
 [fc]
 [vo_tay s="taja_tj0434"]
-[ns]ターヤ[nse]
-「おかえり。誠……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Welcome back, Makoto..."[pcms]
 
 *6555|
 [fc]
-家でもないのに海の上のターヤと僕はそんな会話をする。[pcms]
+We had such a conversation on the sea, even though it wasn't home.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6556|
 [fc]
-ターヤは予め打ち合わせていたとおり、[r]
-ボートを海の上に出して、エンジンを掛けずにまっていた。[pcms]
+As planned, Tarja had taken the boat out to sea and was waiting[r]
+without starting the engine.[pcms]
 
 *6557|
 [fc]
-僕の姿を見つけると、ターヤはクリケットバットを[r]
-オール代わりにして急いでボートを接岸する。[pcms]
+Upon spotting me, Tarja used the cricket bat as an oar and hurriedly[r]
+brought the boat to shore.[pcms]
 
 *6558|
 [fc]
-[ns]誠[nse]
-「どう？　動きそう？」[pcms]
+[ns]Makoto[nse]
+"How is it? Does it look like it'll move?"[pcms]
 
 ;//★sky04 空・夜A
 [bg storage="sky04a"][trans_c cross time=500]
 
 *6559|
 [fc]
-ボートに乗り込んだ僕はターヤに聞いた。[r]
-あたりにはもう感染者の姿はない。[pcms]
+Having boarded the boat, I asked Tarja. There were no more infected in[r]
+sight.[pcms]
 
 *6560|
 [fc]
-最もエンジン音がしたら、あいつらはきっとやってくる。[r]
-早く安全な海の上に出ないと……。[pcms]
+If the engine noise starts, they will surely come. We need to get out[r]
+to the safety of the sea quickly...[pcms]
 
 
 ;//ターヤ大＠ジャージ　表情02　笑顔１　;//
@@ -1230,109 +1183,106 @@
 *6561|
 [fc]
 [vo_tay s="taja_tj0435"]
-[ns]ターヤ[nse]
-「うん。燃料もいっぱいだから」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah. There's plenty of fuel too."[pcms]
 
 ;//　ＳＥ　エンジン始動
 
 *6562|
 [fc]
-ターヤは何事もなくエンジンを掛けた。[r]
-こう見えて、応急手当てとかも心得てるから、[r]
-ターヤは本当にすごい。[pcms]
+Tarja started the engine as if it were nothing. She's really amazing,[r]
+knowing first aid and all that despite how she looks.[pcms]
 
 *6563|
 [fc]
-さすがはベテラン冒険者の『Taryan』。[r]
-万能タイプのバランスファイター。[r]
-きっと、彼女は一人でだってやっていける。[pcms]
+True to her name as the veteran adventurer "Taryan," a versatile[r]
+balance fighter. She could surely survive on her own.[pcms]
 
 *6564|
 [fc]
-[ns]感染者[nse]
-「…………」[pcms]
+[ns]Infected person[nse]
+"..."[pcms]
 
 *6565|
 [fc]
-エンジンの音を聞きつけて、わらわらと感染者たちが[r]
-集まってきたのが遠目に見えた。[pcms]
+The infected began to gather in droves upon hearing the engine noise,[r]
+visible from afar.[pcms]
 
 ;//　ＳＥ　ボートが進む音
 
 *6566|
 [fc]
-だけど、もう遅い。[r]
-ボートはとっくに岸を離れていた。[r]
-欲望のままに襲ってくるだけの感染者どもは海が防いでくれる。[pcms]
+But it was too late. The boat had long since left the shore. The[r]
+infected, driven only by their desires, were kept at bay by the sea.[pcms]
 
 *6567|
 [fc]
-感染者は水の中に落ちると、なかなか浮んでこない。[r]
-足の着かない場所だと、まずそのまま沈んでしまう。[pcms]
+Once infected fall into the water, they hardly come up. If it's deep[r]
+enough, they usually sink right away.[pcms]
 
 *6568|
 [fc]
-ターヤは『泳ぐのには繊細な感覚がいるからだと思う』と[r]
-僕に教えてくれた。[r]
-古式泳法を身につけているから、そう思うらしい。[pcms]
+Tarja told me, "I think it's because swimming requires delicate[r]
+sensations." She believes so because she's mastered traditional[r]
+swimming techniques.[pcms]
 
 *6569|
 [fc]
-たしかに泳ぐのは身体をコントロールして浮力を得て、[r]
-水を切ってと、簡単に見えて非常に高度な技術だ。[r]
-人間の身体は基本的に浮くはずなのに……。[pcms]
+Indeed, swimming involves controlling your body to gain buoyancy and[r]
+slicing through water; it looks simple but is actually a highly[r]
+advanced skill. Even though human bodies are fundamentally buoyant...[pcms]
 
 *6570|
 [fc]
-身体のコントロールがなくなってタフなだけの感染者には[r]
-泳ぐことは難しそうだ。[pcms]
+The infected, who have lost control of their bodies and are only[r]
+tough, seem to have a hard time swimming.[pcms]
 
 *6571|
 [fc]
-それに、おぼれて水を飲んでも、きっと気にならず、[r]
-肺を水で満たしてして、そのまま溺死してしまうだろう。[pcms]
+Moreover, even if they drown and swallow water, they probably won't[r]
+care and will just fill their lungs with water and drown.[pcms]
 
 *6572|
 [fc]
-……だから、海の上なら安心だった。[pcms]
+...That's why we were safe above the sea.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6573|
 [fc]
 [vo_tay s="taja_tj0436"]
-[ns]ターヤ[nse]
-「ああっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah..."[pcms]
 
 *6574|
 [fc]
-離れると島の全体がよく見えた。[r]
-ターヤがそれを見て息を呑む。[r]
-僕もそれを見て心が痛んだ。[pcms]
+As we moved away, we could see the entire island clearly. Tarja gasped[r]
+at the sight. My heart ached as well.[pcms]
 
 ;//■イベントCG
 [evcg storage="bgev03f"][trans_c cross time=500]
 
 *6575|
 [fc]
-あの絶景だった島の各所から、いくつも大きな炎が上っていた。[r]
-島からこっちへと風が吹くと焦げ臭い臭いがする。[r]
-必死に逃げて、忘れていたその臭いを思い出させた。[pcms]
+From various parts of the island that used to be picturesque, several[r]
+large flames were rising. When the wind blew from the island towards[r]
+us, we could smell something burning. It reminded me of that smell I[r]
+had desperately escaped and forgotten.[pcms]
 
 *6576|
 [fc]
-僕たちの好きだった家族や仲間たちはみんな死んで、[r]
-今はあの炎に焼かれている。[pcms]
+All our beloved family and friends are dead now, being burned in those[r]
+flames.[pcms]
 
 *6577|
 [fc]
-そうじゃなかった仲間や家族は……、[r]
-ついさっき、僕自身で決着をつけた。[pcms]
+The family and friends who weren't like that... I had just settled[r]
+things with them myself a little while ago.[pcms]
 
 *6578|
 [fc]
-[ns]誠[nse]
-「……あんまり見ないようにしようか……」[pcms]
+[ns]Makoto[nse]
+"...Let's try not to look too much..."[pcms]
 
 ;//★sky04 空・夜A
 
@@ -1342,33 +1292,33 @@
 *6579|
 [fc]
 [vo_tay s="taja_tj0437"]
-[ns]ターヤ[nse]
-「誠……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Makoto..."[pcms]
 
 *6580|
 [fc]
-[ns]誠[nse]
-「サヨナラは言ったじゃないか……」[pcms]
+[ns]Makoto[nse]
+"Didn't we already say goodbye...?"[pcms]
 
 *6581|
 [fc]
-自分でもちょっとカッコいことを言ったつもりだった。[r]
-だけどそれは、僕自身が僕に言い聞かせたい言葉でもあった。[pcms]
+I thought I said something rather cool myself. But those were also[r]
+words I wanted to tell myself.[pcms]
 
 *6582|
 [fc]
 [vo_tay s="taja_tj0438"]
-[ns]ターヤ[nse]
-「そうだね……」[pcms]
+[ns]Tarja[nse]
+"That's right..."[pcms]
 
 *6583|
 [fc]
-ターヤはコクリとうなずく。[pcms]
+Tarja nodded firmly.[pcms]
 
 *6584|
 [fc]
-[ns]誠[nse]
-「未来を……見ようよ……」[pcms]
+[ns]Makoto[nse]
+"Let's look towards the future..."[pcms]
 
 
 ;//ターヤ大＠ジャージ　表情02　笑顔１　;//
@@ -1376,8 +1326,8 @@
 *6585|
 [fc]
 [vo_tay s="taja_tj0439"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah..."[pcms]
 
 ;//★sky04 空・夜A
 [bg storage="sky04a"]
@@ -1386,16 +1336,15 @@
 
 *6586|
 [fc]
-僕たちは二人一緒に、向かうべき方向へと……[r]
-本州の方へと顔を向けた。[pcms]
+Together, we faced the direction we should go... towards Honshu.[pcms]
 
 *6587|
 [fc]
-暗く大きな島が水平線の上に端から端まで横たわっていた。[pcms]
+A dark, large island lay stretched from end to end above the horizon.[pcms]
 
 *6588|
 [fc]
-……そろそろ潮時だろう。[pcms]
+...It's about time for the tide to change.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1406,58 +1355,54 @@
 
 *6589|
 [fc]
-[ns]誠[nse]
-「サヨナラ……。ターヤ……」[pcms]
+[ns]Makoto[nse]
+"Goodbye... Tarja..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6590|
 [fc]
 [vo_tay s="taja_tj0440"]
-[ns]ターヤ[nse]
-「えっ……！？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Eh...!?"[pcms]
 
 ;//bgm04.ogg
 [bgm storage="BGM04"]
 
 *6591|
 [fc]
-暗闇の中、ターヤは驚きの声をあげた。[pcms]
+In the darkness, Tarja let out a voice of surprise.[pcms]
 
 *6592|
 [fc]
-[ns]誠[nse]
-「僕、感染しちゃったみたいだ……。[r]
-　だから、ここでサヨナラ……」[pcms]
+[ns]Makoto[nse]
+"It seems I've been infected... So, this is goodbye..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6593|
 [fc]
 [vo_tay s="taja_tj0441"]
-[ns]ターヤ[nse]
-「そんな……誠は最後の家族なのに……！[r]
-　わたしの、最後の家族なのにっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No way... Makoto, you're my last family...! My last family!!"[pcms]
 
 *6594|
 [fc]
-[ns]誠[nse]
-「ターヤなら大丈夫。[r]
-　きっと、新しい家族がすぐに見つかるよ……。[r]
-　生きていれば、感染さえしなければ……」[pcms]
+[ns]Makoto[nse]
+"You'll be fine, Tarja. You'll surely find a new family soon... If you[r]
+live, if you don't get infected..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6595|
 [fc]
 [vo_tay s="taja_tj0442"]
-[ns]ターヤ[nse]
-「誠っ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Makoto!!"[pcms]
 
 *6596|
 [fc]
-興奮したターヤが僕を抱きしめようとした。[r]
-その瞬間……僕は……。[pcms]
+An excited Tarja tried to embrace me. At that moment... I...[pcms]
 
 ;//　ＳＥ　海に飛び込む
 [se buf=0 storage="seD020"]
@@ -1468,54 +1413,53 @@
 
 *6597|
 [fc]
-暗い海へとダイブした。[pcms]
+Dove into the dark sea.[pcms]
 
 *6598|
 [fc]
 [vo_tay s="taja_tj0443"]
-[ns]ターヤ[nse]
-「誠っ！！　誠ぉ……！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Makoto!! Makoto...!!"[pcms]
 
 ;//立ち無し
 
 *6599|
 [fc]
-ターヤはボートの上から僕を呼んだ。[pcms]
+Tarja called out to me from the boat.[pcms]
 
 ;//■イベントCG
 [evcg storage="bgev03f"][trans_c cross time=500]
 
 *6600|
 [fc]
-だけど、振り向かずに僕は海を泳いだ。[r]
-ここなら、もし発症しても、きっとそのままおぼれてしまうだろう。[r]
-知性のない感染者はこんな海の真っ只中では溺れるしかない。[pcms]
+But without turning back, I swam through the sea. Here, if I show[r]
+symptoms, I'll surely just drown. An infected without intelligence can[r]
+only drown in the midst of such a sea.[pcms]
 
 *6601|
 [fc]
-発症するまではターヤと一緒にいたかった。[r]
-だけど、そんなムシのいいことを僕が言えるわけがない。[pcms]
+I wanted to be with Tarja until I showed symptoms. But I couldn't say[r]
+such selfish things.[pcms]
 
 *6602|
 [fc]
-友達や家族の抜け殻を全て血塗れの肉の塊に変えた僕が、[r]
-自分の抜け殻だけは愛して欲しいだなんて、ふざけてた。[r]
-だから、僕は何も見えない深い暗黒の海へと、身を躍らせた。[pcms]
+I, who turned all my friends and family into bloodied chunks of flesh,[r]
+couldn't ask for my own empty shell to be loved. That's why I threw[r]
+myself into the deep, dark sea where nothing could be seen.[pcms]
 
 *6603|
 [fc]
-それにそんなことをすれば……、[r]
-きっと、僕はターヤと別れたくなくなるだろう。[r]
-ターヤも僕と運命を共にしたくなるかもしれない。[pcms]
+If I did such a thing... surely, I wouldn't want to part with Tarja.[r]
+Maybe Tarja would want to share my fate as well.[pcms]
 
 *6604|
 [fc]
-それだけは絶対に嫌だった。[pcms]
+That was absolutely the last thing I wanted.[pcms]
 
 *6605|
 [fc]
-ここで別れれば、きっとターヤは僕のことを割り切って、[r]
-新しい家族を見つけて、共に生きていけるだろうから……。[pcms]
+If we part here, surely Tarja can come to terms with me and find a new[r]
+family to live with...[pcms]
 
 ;//★bg0b 島の街（Ａ）・夜
 [bg storage="BG03c"]
@@ -1526,18 +1470,18 @@
 
 *6606|
 [fc]
-僕は越智さんと相打ちになった。[pcms]
+I had a mutual kill with Ochi-san.[pcms]
 
 *6607|
 [fc]
-感染していても、やっぱり越智さんは動きはすごく早くて、[r]
-僕は越智さん致命傷を与えたものの、[r]
-そのまま組み付かれてしまった。[pcms]
+Even though she was infected, Ochi-san's movements were incredibly[r]
+fast, and although I dealt her a fatal wound, she managed to grapple[r]
+me.[pcms]
 
 *6608|
 [fc]
-越智さんは動かなくなるその時、僕の身体に深く爪を突き立てた。[r]
-……感染者の体液がたっぷりとついたその爪を……。[pcms]
+As Ochi-san became motionless, she deeply thrust her claws into my[r]
+body... those claws covered in the bodily fluids of an infected...[pcms]
 
 ;//■イベントCG
 [evcg storage="bgev03f"][trans_c cross time=500]
@@ -1545,40 +1489,40 @@
 *6609|
 [fc]
 [vo_tay s="taja_tj0444"]
-[ns]ターヤ[nse]
-「誠……誠ぉ……！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Makoto... Makoto...!!"[pcms]
 
 ;//立ち無し
 
 *6610|
 [fc]
-叫んで僕を探すターヤ。[pcms]
+Tarja screamed, searching for me.[pcms]
 
 *6611|
 [fc]
-[ns]誠[nse]
-「ありがとうターヤ……」[pcms]
+[ns]Makoto[nse]
+"Thank you, Tarja..."[pcms]
 
 *6612|
 [fc]
-僕は最後の家族の無事を祈りながら、[r]
-さらに波に揺られて離れていった。[pcms]
+While praying for the safety of my last family member, I drifted[r]
+further away with the waves.[pcms]
 
 *6613|
 [fc]
-疲れで体が重い。[r]
-非力な僕にしてはがんばり過ぎた。[pcms]
+My body is heavy with fatigue. I've overexerted myself for someone as[r]
+weak as me.[pcms]
 
 *6614|
 [fc]
-夏の海はひんやりと冷たくて気持ちがいい。[r]
-ゆっくりと体温が奪われていく。[r]
-発症する前に低体温症か何かで衰弱死するかもしれない。[pcms]
+The summer sea is cool and feels good. My body temperature is slowly[r]
+being taken away. I might die of hypothermia or something before[r]
+showing symptoms.[pcms]
 
 *6615|
 [fc]
-波に揺られまどろみながら、[r]
-僕はなるべく楽に死ねるようにって、今度は神様に祈っていた。[pcms]
+As I dozed off rocked by the waves, I prayed to God that I could die[r]
+as comfortably as possible.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1622,7 +1566,7 @@
 [eval exp="sf.g_3210c = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *runaway
@@ -1631,148 +1575,142 @@
 
 *6616|
 [fc]
-[ns]誠[nse]
-「逃げようターヤ。[r]
-　まずは君が！[r]
-　僕がおとりになるからその間に……」[pcms]
+[ns]Makoto[nse]
+"Let's escape, Tarja. You first! I'll be the decoy while you..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6617|
 [fc]
 [vo_tay s="taja_tj0445"]
-[ns]ターヤ[nse]
-「でも……」[pcms]
+[ns]Tarja[nse]
+"But..."[pcms]
 
 *6618|
 [fc]
-[ns]誠[nse]
-「大丈夫だから、行って！！」[pcms]
+[ns]Makoto[nse]
+"It's okay, go!!"[pcms]
 
 *6619|
 [fc]
-臆病な僕の決意をわかってくれたようだ。[pcms]
+It seems she understood my cowardly resolve.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6620|
 [fc]
 [vo_tay s="taja_tj0446"]
-[ns]ターヤ[nse]
-「絶対に、絶対に無茶しないで！[r]
-　お願いだから……」[pcms]
+[ns]Tarja[nse]
+"Please, absolutely don't do anything reckless! I'm begging you..."[pcms]
 
 *6621|
 [fc]
-[ns]誠[nse]
-「わかってる……」[pcms]
+[ns]Makoto[nse]
+"I know..."[pcms]
 
 *6622|
 [fc]
-僕だって、ターヤをひとりにはしたくない。[r]
-僕たちはずっと一緒だと約束したんだから！[pcms]
+I don't want to leave Tarja alone either. We promised to always be[r]
+together![pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6623|
 [fc]
-息を大きく吸うと僕は叫んだ。[pcms]
+I took a deep breath and shouted.[pcms]
 
 *6624|
 [fc]
-[ns]誠[nse]
-「さあ来いよ！　花沢！[r]
-　南先輩！　夏姉ちゃん！　越智さん……。[r]
-　中澤　誠はここだぁ！！」[pcms]
+[ns]Makoto[nse]
+"Come on then! Hanazawa! Minami-senpai! Natsu-nee-chan! Ochi-san...[r]
+Nakazawa Makoto is right here!!"[pcms]
 
 *6625|
 [fc]
-そう言いながら僕はあとじさる。[pcms]
+As I said that, I prepared to leave.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw1_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6626|
 [fc]
 [vo_stk s="satuki_tj0285"]
-[ns]彩月[nse]
-「誠く～ん……」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun..."[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_kan1"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *6627|
 [fc]
 [vo_han s="hana_tj0039"]
-[ns]花沢[nse]
-「なかざわぁ……！」[pcms]
+[ns]Hanazawa[nse]
+"Nakazawa..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_kan_x"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *6628|
 [fc]
 [vo_nat s="natu_tj0206"]
-[ns]夏都[nse]
-「誠ぉ……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che_kan1"][ChrSetXY layer=5 x=240 y=0][trans_c cross time=150]
 
 *6629|
 [fc]
 [vo_aka s="akari_tj0309"]
-[ns]茜梨[nse]
-「ま～くん……せんぱぁい……」[pcms]
+[ns]Akari[nse]
+"Ma-kun... senpai..."[pcms]
 
 *6630|
 [fc]
-思ったとおり、四人は僕めがけて、やってくる。[r]
-感染者とはいえ、やっぱり最後の理性と記憶は[r]
-好意もった人間へと向けられるみたいだ。[pcms]
+Just as I thought, the four of them are coming straight for me. Even[r]
+as infected, it seems their last bit of reason and memory directs them[r]
+towards the person they had affection for.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6631|
 [fc]
-[ns]誠[nse]
-「行って！　ターヤ！」[pcms]
+[ns]Makoto[nse]
+"Go! Tarja!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta19"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6632|
 [fc]
 [vo_tay s="taja_tj0447"]
-[ns]ターヤ[nse]
-「うんっ！　気をつけて誠っ！！」[pcms]
+[ns]Tarja[nse]
+"Yes! Take care, Makoto!!"[pcms]
 
 [se buf=0 storage="seA050"]
 ;//♪SE走り去る足音
 
 *6633|
 [fc]
-ターヤが走り出す。[r]
-４人は一直線に僕の方を狙ってくる。[pcms]
+Tarja starts running. The four of them are aiming straight for me.[pcms]
 
 *6634|
 [fc]
-狙い通りだ。[r]
-僕を第一目標にしてて、ターヤにはまったく興味を示さない。[r]
-ターヤは囲みを抜けて、ボートへと向かっている。[pcms]
+It's going just as planned. They're making me their primary target,[r]
+showing no interest in Tarja at all. Tarja breaks through the[r]
+encirclement and heads towards the boat.[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_kan2"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6635|
 [fc]
 [vo_han s="hana_tj0040"]
-[ns]花沢[nse]
-「ながざわぁ～～！！」[pcms]
+[ns]Hanazawa[nse]
+"Nakazawa~~!!"[pcms]
 
 *6636|
 [fc]
-僕の首筋を噛み千切ろうとするかのように襲い掛かってくる。[pcms]
+She lunges at me as if trying to bite off my neck.[pcms]
 
 *6637|
 [fc]
-[ns]誠[nse]
-「今度生まれてきた時は……[r]
-　仲良くしてくれよ。花沢……」[pcms]
+[ns]Makoto[nse]
+"In our next life... let's get along, Hanazawa..."[pcms]
 
 [se buf=0 storage="seB040"]
 ;//♪SE鉄パイプの風切り音
@@ -1786,19 +1724,19 @@
 *6638|
 [fc]
 [vo_han s="hana_tj0041"]
-[ns]花沢[nse]
-「……がざわっ……！！」[pcms]
+[ns]Hanazawa[nse]
+"...gazawa...!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6639|
 [fc]
-花沢の顔面をジャストミートした。[pcms]
+I landed a solid hit on Hanazawa's face.[pcms]
 
 *6640|
 [fc]
-ごろごろと地面を転がり花沢は[r]
-感染者になったみんなの方へと……。[pcms]
+Rolling on the ground, Hanazawa heads towards the others who have[r]
+become infected...[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1809,8 +1747,8 @@
 
 *6641|
 [fc]
-残りの三人にも少しだけ隙ができた。[r]
-僕はその隙を逃さず、全力でターヤのあとを追いかけた。[pcms]
+A brief moment of opportunity arises with the remaining three. I don't[r]
+miss the chance and chase after Tarja with all my might.[pcms]
 
 ;//bgm23.ogg
 [bgm storage="BGM23"]

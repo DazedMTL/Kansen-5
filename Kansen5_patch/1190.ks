@@ -28,255 +28,252 @@
 
 *3652|
 [fc]
-美沙緒さんに言われていた小島に到着してから、[r]
-二週間が過ぎていた。[pcms]
+Two weeks had passed since we arrived at the small island that Misao-[r]
+san had told us about.[pcms]
 
 [bg storage="BG18a"][trans_c cross time=1000]
 
 *3653|
 [fc]
-越智家の別荘、プライベートロッジには、[r]
-生活に必要な全てが蓄えられていて、[r]
-切り詰めればまだまだ生活できる余裕がある。[pcms]
+The Ochi family's private lodge was stocked with everything necessary[r]
+for living, and if we rationed carefully, we still had plenty of[r]
+resources to continue our lives.[pcms]
 
 *3654|
 [fc]
-[ns]ニュースキャスター[nse]
-「本日正午、三宅島に政府機能を移した首相から、[r]
-　感染者に対する掃討作戦の発表がありました」[pcms]
+[ns]News Caster[nse]
+"Today at noon, the Prime Minister, who has relocated government[r]
+functions to Miyake Island, announced a sweeping operation against the[r]
+infected."[pcms]
 
 *3655|
 [fc]
-[ns]ニュースキャスター[nse]
-「それによると、今回行われる作戦では、[r]
-　無差別な爆撃ではなく、ガスによる攻撃などで、[r]
-　ビルや建物への被害を少なく……」[pcms]
+[ns]News Caster[nse]
+"According to the announcement, this operation will not involve[r]
+indiscriminate bombing, but will use gas attacks and other methods to[r]
+minimize damage to buildings and structures..."[pcms]
 
 *3656|
 [fc]
-僕は連日繰り返されているニュースを聞いて、[r]
-ラジオのスイッチを切る。[pcms]
+I turned off the radio after listening to the news that had been[r]
+repeating day after day.[pcms]
 
 *3657|
 [fc]
-ネットやニュースで流されている情報で、[r]
-全国各地の状況が大まかには掴めていた。[pcms]
+Through the internet and news broadcasts, I had a rough grasp of the[r]
+situation across the country.[pcms]
 
 *3658|
 [fc]
-壊滅的、そう言っていいほどの被害が[r]
-全国に広がっている。[pcms]
+The damage was catastrophic, it's fair to say it had spread[r]
+nationwide.[pcms]
 
 *3659|
 [fc]
-それでも、四国や九州、北海道への被害は限定的で、[r]
-初期段階での自衛隊の対応が功を奏したと言えるんだろう。[pcms]
+Still, the damage to Shikoku, Kyushu, and Hokkaido was limited, likely[r]
+due to the early response by the Self-Defense Forces.[pcms]
 
 *3660|
 [fc]
-僕が自衛隊の行動を確認したのは、[r]
-まだ朝の早い段階だった。[pcms]
+I had checked the actions of the Self-Defense Forces early in the[r]
+morning.[pcms]
 
 *3661|
 [fc]
-エピデミックの発生を政府が把握したのが、[r]
-何時くらいだったのかわからないけれど、[r]
-本州から感染が広がらないようにしていたのは一目瞭然だ。[pcms]
+I don't know exactly when the government became aware of the epidemic,[r]
+but it was clear that they were trying to prevent the infection from[r]
+spreading beyond Honshu.[pcms]
 
 *3662|
 [fc]
-大神島にあんな素早く自衛隊を送ってきたのは、[r]
-四国を守るためだったんだろう。[pcms]
+Sending the Self-Defense Forces to Oogami Island so quickly must have[r]
+been to protect Shikoku.[pcms]
 
 *3663|
 [fc]
-そうして四国、九州、北海道を隔離した後、[r]
-本州の感染者を掃討していく作戦は、[r]
-確実に進んでいるみたいだった。[pcms]
+After isolating Shikoku, Kyushu, and Hokkaido, the strategy to sweep[r]
+through Honshu and eliminate the infected seemed to be progressing[r]
+steadily.[pcms]
 
 *3664|
 [fc]
-東北の時のように爆撃で解決させてしまう地域もあるが、[r]
-都市部ではガス攻撃で感染者を一掃しているらしい。[pcms]
+Some areas were resolved with bombing like in Tohoku, but in urban[r]
+areas, it seems they are clearing out the infected with gas attacks.[pcms]
 
 *3665|
 [fc]
-政府はとっくに三宅島に脱出していて、[r]
-そこに政府機能を集中させるつもりのようだった。[pcms]
+The government had long since escaped to Miyake Island and seemed[r]
+intent on concentrating government functions there.[pcms]
 
 *3666|
 [fc]
-まるで、都心部に戻るつもりが無いかのように……。[pcms]
+It was as if they had no intention of returning to the metropolitan[r]
+areas...[pcms]
 
 *3667|
 [fc]
-政府がそんな状態なのに、僕たちが東京に戻るなんて[r]
-不可能な話だった。[pcms]
+With the government in such a state, it was impossible for us to think[r]
+about returning to Tokyo.[pcms]
 
 *3668|
 [fc]
-大神島に残った人たちはどうなったんだろうか。[r]
-東京で別れた人たちは、逃げることができたんだろうか……。[pcms]
+I wonder what happened to the people who stayed on Oogami Island. Were[r]
+those we parted with in Tokyo able to escape...?[pcms]
 
 *3669|
 [fc]
-携帯やネットの回線が復帰した今も、[r]
-別れた人たちとは連絡が取れなくなっている。[pcms]
+Even now that mobile and internet lines have been restored, I've lost[r]
+contact with those we separated from.[pcms]
 
 *3670|
 [fc]
-とは言っても、まだたったの二週間だ。[pcms]
+But still, it's only been two weeks.[pcms]
 
 *3671|
 [fc]
-昔の僕みたいに、どこかの施設に閉じ込められて、[r]
-経過観察を受けている状況は容易に考えられる。[pcms]
+It's easy to imagine a situation like my past self, locked up in some[r]
+facility under observation.[pcms]
 
 *3672|
 [fc]
-きっと、この日本のどこかで息をしていると、[r]
-僕は信じていた。[pcms]
+I believed that somewhere in Japan, they were still breathing.[pcms]
 
 
 *3672a|
 [fc]
 ;//[vo_aka s="akari0514"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *3673|
 [fc]
-越智さんは椅子に深く腰かけて、[r]
-一日中海を眺めている。[pcms]
+Akari-san sat deeply in her chair, gazing at the sea all day long.[pcms]
 
 *3674|
 [fc]
-試薬の効果はちゃんと効いていて、[r]
-越智さんの瞳の色は元に戻っていた。[pcms]
+The reagent was working properly, and Akari-san's eye color had[r]
+returned to normal.[pcms]
 
 *3675|
 [fc]
-欲望に狂うこともなく、暴れることも、[r]
-暴言を吐くことも一切無い。[pcms]
+She wasn't going mad with desire, nor was she raging or spouting any[r]
+abusive language at all.[pcms]
 
 *3676|
 [fc]
-でも……。[pcms]
+But...[pcms]
 
 *3677|
 [fc]
-[ns]誠[nse]
-「越智さん、今日のご飯は何にしようか？」[pcms]
+[ns]Makoto[nse]
+"Akari-san, what should we have for dinner today?"[pcms]
 
 
 *3677a|
 [fc]
 ;//[vo_aka s="akari0515"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *3678|
 [fc]
-[ns]誠[nse]
-「ここの食料ばっかりじゃなくて、魚を獲ろうと思うんだけど、[r]
-　やっぱりまだ危ないのかな」[pcms]
+[ns]Makoto[nse]
+"I'm thinking of catching some fish instead of just relying on the[r]
+food here, but I wonder if it's still too dangerous?"[pcms]
 
 
 *3678a|
 [fc]
 ;//[vo_aka s="akari0516"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *3679|
 [fc]
-越智さんは、極端に静かな人になってしまっていた。[pcms]
+Akari-san had become an extremely quiet person.[pcms]
 
 *3680|
 [fc]
-活発で明るい人柄はなりを潜め、[r]
-一日中海を眺めては微笑んでいる。[pcms]
+Her lively and cheerful personality was hidden away, as she spent her[r]
+days gazing at the sea and smiling faintly.[pcms]
 
 *3681|
 [fc]
-足一つ動かさず、僕が寝返りを打たせなかったら、[r]
-ずっとそのままの格好かも知れない。[pcms]
+If I didn't move her around, she might stay in the same position all[r]
+day without even moving a leg.[pcms]
 
 *3682|
 [fc]
-いつ寝ているのか起きるのか、[r]
-それさえもよくわからない状態だった。[pcms]
+It was hard to tell when she was asleep or awake.[pcms]
 
 *3683|
 [fc]
-そう、越智さんの……。[pcms]
+Yes, Akari-san's...[pcms]
 
 *3684|
 [fc]
-脳へのダメージは、回復しなかった。[pcms]
+The damage to her brain had not healed.[pcms]
 
 *3685|
 [fc]
-ウイルスが身体から取り除かれているのに、[r]
-こんな反応になっているのは、それしか考えられない。[pcms]
+Even though the virus had been removed from her body, this reaction[r]
+could only be attributed to that.[pcms]
 
 *3686|
 [fc]
-早く病院で医者に見せたいんだけれど、[r]
-身動きが取れるような状態じゃなかった。[pcms]
+I wanted to take her to a hospital and have a doctor look at her as[r]
+soon as possible, but we weren't in a position to move freely.[pcms]
 
 *3687|
 [fc]
-[ns]誠[nse]
-「僕……越智さんが元に戻ったら、[r]
-　ちゃんと告白するって言ったよね」[pcms]
+[ns]Makoto[nse]
+"I... I said I would confess to Akari-san once she got back to[r]
+normal."[pcms]
 
 *3688|
 [fc]
-[ns]誠[nse]
-「覚えてるかな……あんな状況だったし……、[r]
-　覚えてなかったらゴメンね」[pcms]
+[ns]Makoto[nse]
+"I wonder if you remember... It was such a situation... If you don't[r]
+remember, I'm sorry."[pcms]
 
 *3689|
 [fc]
-[ns]誠[nse]
-「でも、僕はもう、言葉を考えてあるんだよ」[pcms]
+[ns]Makoto[nse]
+"But I've already thought of the words to say."[pcms]
 
 *3690|
 [fc]
-[ns]誠[nse]
-「なんて言って越智さんに告白するか、[r]
-　ちゃんと考えておいたんだ」[pcms]
+[ns]Makoto[nse]
+"I've carefully considered how to confess to Ochi-san."[pcms]
 
 *3691|
 [fc]
 [vo_aka s="akari0517"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *3692|
 [fc]
-越智さんが椅子から少しだけ身を起こして、僕の方を見た。[pcms]
+Ochi-san slightly lifted herself from the chair and looked my way.[pcms]
 
 *3693|
 [fc]
-僕は思わず立ち上がって越智さんのことを見てしまう。[r]
-こんな反応をするなんて、珍しいことだった。[pcms]
+I involuntarily stood up and found myself staring at Ochi-san. Such a[r]
+reaction from her was rare.[pcms]
 
 *3694|
 [fc]
-気怠い表情で、その瞳に意思の光はないけれど、[r]
-心のどこかが反応しているんだ。[pcms]
+Her expression was languid, and there was no light of will in her[r]
+eyes, but somewhere in her heart, she was responding.[pcms]
 
 *3695|
 [fc]
-[ns]誠[nse]
-「だからっ……もう少しだけ……待っててね……」[pcms]
+[ns]Makoto[nse]
+"So... just wait a little longer... okay?"[pcms]
 
 *3696|
 [fc]
-不意に涙がこぼれ落ちる。[r]
-声が震えているのがわかった。[pcms]
+Tears suddenly spilled over. I could tell my voice was trembling.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -284,8 +281,7 @@
 
 *3697|
 [fc]
-絶対に、ちゃんと告白するから……、[r]
-それまで、待っていて……。[pcms]
+I will definitely confess properly... so please, wait until then...[pcms]
 
 [sysbt_meswin clear]
 
@@ -298,8 +294,8 @@
 *3698|
 [fc]
 [vo_aka s="akari0518"]
-[ns]茜梨[nse]
-「はい……」[pcms]
+[ns]Akari[nse]
+"Yes..."[pcms]
 
 ;不要？[wait_c time=1000]
 
@@ -307,17 +303,15 @@
 
 *3699|
 [fc]
-一瞬……。[pcms]
+For a moment...[pcms]
 
 *3700|
 [fc]
-ほんの一瞬だけ、越智さんが以前のように、[r]
-無邪気な笑顔を浮かべた。[pcms]
+Just for a moment, Ochi-san showed an innocent smile like she used to.[pcms]
 
 *3701|
 [fc]
-そして、僕の瞳をまっすぐに見返して、[r]
-たどたどしく口を開いていく。[pcms]
+Then, she looked straight into my eyes and began to speak hesitantly.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=500]
 
@@ -326,8 +320,8 @@
 *3702|
 [fc]
 [vo_aka s="akari0519"]
-[ns]茜梨[nse]
-「待っています……まーくん……先輩……」[pcms]
+[ns]Akari[nse]
+"I'll be waiting... Ma-kun... Senpai..."[pcms]
 
 ;//SE　潮騒とか
 
@@ -336,13 +330,12 @@
 
 *3703|
 [fc]
-それっきり、越智さんは何を話しかけても、[r]
-海を見たまま、返事をしてはくれなかった。[pcms]
+After that, no matter what I said to Ochi-san, she just kept looking[r]
+at the sea and didn't respond.[pcms]
 
 *3704|
 [fc]
-でも、今確かに……、[r]
-確かに僕のことを、まー君先輩って……。[pcms]
+But just now, for certain... she definitely called me Ma-kun Senpai...[pcms]
 
 ;//◆お話の通り、適当な分岐を入れておきました。フラグは設定されているものを流用しています
 
@@ -362,19 +355,19 @@
 *3705|
 [fc]
 [vo_nat s="natu0270"]
-[ns]夏都[nse]
-「よっしゃぁっ！　瀬渡内の魚が大量だぞっ！」[pcms]
+[ns]Natsu[nse]
+"Alright! There's a huge catch of fish in the Setouchi area!"[pcms]
 
 *3706|
 [fc]
-[ns]荒井[nse]
-「これ、ホントに食えるんっすかねぇ……」[pcms]
+[ns]Arai[nse]
+"Can we really eat these...?"[pcms]
 
 *3707|
 [fc]
-[ns]宗一郎[nse]
-「少なくとも、焼けばウイルスは死ぬさ……、[r]
-　って、どうしたんだ誠？」[pcms]
+[ns]Souichirou[nse]
+"At least, the virus will die if we cook them... What's wrong,[r]
+Makoto?"[pcms]
 
 [bgm storage="BGM05"]
 ;//♪bgm05　日常２。明るい
@@ -385,61 +378,60 @@
 
 *3708|
 [fc]
-騒がしくロッジに入ってきたみんなが、[r]
-僕のことを見て不思議そうな顔をする。[pcms]
+The others entered the lodge noisily and looked at me with curious[r]
+faces.[pcms]
 
 *3709|
 [fc]
-そんなに……酷い顔を……。[pcms]
+Such a... terrible face...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3710|
 [fc]
 [vo_nat s="natu0271"]
-[ns]夏都[nse]
-「きったねぇなぁ、涙と鼻水でべちゃべちゃだぞ？」[pcms]
+[ns]Natsu[nse]
+"You look awful, all snotty and teary."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so15b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3711|
 [fc]
-[ns]宗一郎[nse]
-「まさか、越智さん……」[pcms]
+[ns]Souichirou[nse]
+"Could it be, Ochi-san...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *3712|
 [fc]
-そーいちが越智さんの様子を確認している。[pcms]
+Sou-ichi is checking on Ochi-san's condition.[pcms]
 
 *3713|
 [fc]
-[ns]誠[nse]
-「越智さんが……僕のこと、まー君先輩って……、[r]
-　待っているって……」[pcms]
+[ns]Makoto[nse]
+"Ochi-san... she called me Ma-kun Senpai... and said she's waiting..."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar08"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3714|
 [fc]
-[ns]荒井[nse]
-「しゃ、しゃべったのか？　茜梨ちゃんが！？」[pcms]
+[ns]Arai[nse]
+"She, she spoke? Akari-chan did!?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so03b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3715|
 [fc]
-[ns]宗一郎[nse]
-「治る！　越智さんは治るんだよ！」[pcms]
+[ns]Souichirou[nse]
+"She'll recover! Ochi-san is going to get better!"[pcms]
 
 *3716|
 [fc]
-越智さんの回復を信じる。[pcms]
+Believing in Ochi-san's recovery.[pcms]
 
 *3717|
 [fc]
-それが、僕に残された最後の希望だった。[pcms]
+That was the last hope left for me.[pcms]
 
 ;不要？[wait_c time=1000]
 
@@ -504,7 +496,7 @@
 [eval exp="sf.g_end_akariA = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *end_akariB
@@ -512,11 +504,11 @@
 
 *3718|
 [fc]
-越智さんの回復を信じる。[pcms]
+Believing in Ochi-san's recovery.[pcms]
 
 *3719|
 [fc]
-それが、僕に残された最後の希望だった。[pcms]
+That was the last hope left for me.[pcms]
 ;不要？[wait_c time=1000]
 [sysbt_meswin clear]
 
@@ -577,7 +569,7 @@
 [eval exp="sf.g_end_akariB = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 

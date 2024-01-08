@@ -29,37 +29,39 @@
 
 *3015|
 [fc]
-エレベーターの扉がゆっくりと開いた。[pcms]
+The elevator doors opened slowly.[pcms]
 
 *3016|
 [fc]
-念のためと、ホールドのボタンを押し、さらに南先輩が持っていた[r]
-バールをドアに挟んで、エレベーターの足止めを謀った。[pcms]
+To be safe, I pressed the hold button and further jammed the bar that[r]
+Satsuki-senpai was holding into the door to prevent the elevator from[r]
+moving.[pcms]
 
 *3017|
 [fc]
-壁添いにロビーの気配を探りながらひたひたと移動する。[pcms]
+We moved stealthily along the wall, feeling for the presence in the[r]
+lobby.[pcms]
 
 *3018|
 [fc]
-やはりまだ黒服の男が残っていた。[r]
-でも、そいつは感染者が群がるホテルの出入り口を見ている。[r]
-僕たちには背を向けている格好だ。[pcms]
+As expected, there was still a man in a black suit left. But he was[r]
+watching the hotel entrance swarming with infected people. He had his[r]
+back turned to us.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3019|
 [fc]
 [vo_stk s="satuki_nt0177"]
-[ns]彩月[nse]
-「中澤君。拳銃をちょうだい」[pcms]
+[ns]Satsuki[nse]
+"Nakazawa-kun. Give me the gun."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3020|
 [fc]
-差し出される手に、僕は拳銃を渡した。[r]
-受け取った先輩は、背を向けたままの男にじっくりと狙いを定めた。[pcms]
+I handed over the gun to the outstretched hand. Senpai took it and[r]
+carefully aimed at the man with his back still turned.[pcms]
 
 ;//■_銃声
 [se buf=0 storage="seC048"]
@@ -67,43 +69,42 @@
 
 *3021|
 [fc]
-声も上げずに、黒服の男はどさりと倒れた。[pcms]
+Without a sound, the man in the black suit collapsed.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so31b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3022|
 [fc]
-[ns]宗一郎[nse]
-「やったっ！」[pcms]
+[ns]Souichirou[nse]
+"We did it!"[pcms]
 
 *3023|
 [fc]
-そーいちが小さくガッツポーズを決める。[r]
-でも、先輩はクールだった。[pcms]
+Souichirou made a small victory pose, but Senpai remained cool.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3024|
 [fc]
 [vo_stk s="satuki_nt0178"]
-[ns]彩月[nse]
-「まだわからないわ。あの手の輩は死んだことを確認するまで[r]
-　油断ならないの」[pcms]
+[ns]Satsuki[nse]
+"We can't be sure yet. We can't let our guard down with these guys[r]
+until we confirm they're dead."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3025|
 [fc]
-先輩は銃を構えたままで、ゆっくりと黒服の男に近づいていく。[r]
-僕たちも、その後ろに、慎重な足取りで従った。[pcms]
+Senpai kept her gun aimed and slowly approached the man in the black[r]
+suit. We followed behind her with cautious steps.[pcms]
 
 *3026|
 [fc]
-倒れた男まであと数歩。[pcms]
+Only a few steps away from the fallen man.[pcms]
 
 *3027|
 [fc]
-突然男は身体を起こし、そのまま発砲してきた。[pcms]
+Suddenly, the man raised his body and fired at us.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -118,8 +119,8 @@
 *3028|
 [fc]
 [vo_stk s="satuki_nt0179"]
-[ns]彩月[nse]
-「ぐううっ！！」[pcms]
+[ns]Satsuki[nse]
+"Guhhh!!"[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
@@ -139,11 +140,11 @@
 
 *3029|
 [fc]
-首や顔面、胸から血を噴き出しながら、男はようやく倒れた。[pcms]
+Spurting blood from his neck, face, and chest, the man finally fell.[pcms]
 
 *3030|
 [fc]
-でも、同時に南先輩も膝から頽れた。[pcms]
+But at the same time, Satsuki-senpai also collapsed from her knees.[pcms]
 
 [chara_int][trans_c tb time=500]
 [se buf=0 storage="seB014"]
@@ -151,37 +152,36 @@
 
 *3031|
 [fc]
-[ns]誠[nse]
-「先輩っ！　南先輩ーーーっ！！」[pcms]
+[ns]Makoto[nse]
+"Senpai! Satsuki-senpai---!!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so05a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3032|
 [fc]
-[ns]宗一郎[nse]
-「先輩っ、先輩っ！　くそ、くっそおおおおっ」[pcms]
+[ns]Souichirou[nse]
+"Senpai, Senpai! Damn it, damn it all!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3033|
 [fc]
 [vo_aka s="akari_nt0155"]
-[ns]茜梨[nse]
-「嫌っ、いやあああ……」[pcms]
+[ns]Akari[nse]
+"No, noooo..."[pcms]
 
 *3034|
 [fc]
-僕たちは先輩に駆け寄った。[r]
-先輩は胸に銃弾を受けたはずだ。[pcms]
+We rushed over to Senpai. She must have been shot in the chest.[pcms]
 
 *3035|
 [fc]
-血がドクドクと溢れている。[pcms]
+Blood was gushing out profusely.[pcms]
 
 *3036|
 [fc]
-[ns]誠[nse]
-「先輩っ、先輩、しっかり、しっかりしてください」[pcms]
+[ns]Makoto[nse]
+"Senpai, Senpai, hold on, please hold on."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -189,7 +189,7 @@
 
 *3037|
 [fc]
-僕は先輩を抱き起こした。[pcms]
+I lifted Senpai up in my arms.[pcms]
 
 ;//bgm04.ogg
 [bgm storage="BGM04"]
@@ -199,83 +199,83 @@
 *3038|
 [fc]
 [vo_stk s="satuki_nt0180"]
-[ns]彩月[nse]
-「ふふっ……ついてない……な。気を……つけてた……[r]
-　つもりだったの……に。向こうのほう……が上手……だった」[pcms]
+[ns]Satsuki[nse]
+"Heh... bad luck... I was... careful... thought I was. But he... was[r]
+better."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so08a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3039|
 [fc]
-[ns]宗一郎[nse]
-「それ以上しゃべらないでください、先輩。血止めを……[r]
-　何か血止めになるものを探してきます」[pcms]
+[ns]Souichirou[nse]
+"Please don't talk anymore, Senpai. I'll find something to stop the[r]
+bleeding..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3040|
 [fc]
 [vo_stk s="satuki_nt0181"]
-[ns]彩月[nse]
-「いいよ……もう、無理……ぽいから。んぐふっ……[r]
-　ね、なか……ざわ君。カメ……ラ、ボートに置いて[r]
-　きちゃった……の。あれ、持ってい……って」[pcms]
+[ns]Satsuki[nse]
+"It's okay... it's no use... looks like I'm done for. Nghh... hey,[r]
+Naka...zawa-kun. I left the camera... on the boat. Take it with[r]
+you..."[pcms]
 
 *3041|
 [fc]
-[ns]誠[nse]
-「わかりました。わかりましたから、もう、もう……っ」[pcms]
+[ns]Makoto[nse]
+"Understood. I got it, so please, no more..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3042|
 [fc]
 [vo_stk s="satuki_nt0182"]
-[ns]彩月[nse]
-「わたし……を、忘れない……でね」[pcms]
+[ns]Satsuki[nse]
+"Don't forget... about me."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3043|
 [fc]
-頷き返す僕に、うっすらと微笑みを返して、[r]
-先輩の息はことりと切れた。[pcms]
+As I nodded back to her, she returned a faint smile and then Senpai's[r]
+breath stopped quietly.[pcms]
 
 *3044|
 [fc]
-[ns]誠[nse]
-「うわっ、うああぁあっ、うわああっっ！！」[pcms]
+[ns]Makoto[nse]
+"Ahh, ahhh, ahhhh!!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so08a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3045|
 [fc]
-[ns]宗一郎[nse]
-「くっ……うぐうっ……」[pcms]
+[ns]Souichirou[nse]
+"Damn...ughhh..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3046|
 [fc]
 [vo_aka s="akari_nt0156"]
-[ns]茜梨[nse]
-「いや……うそ……うそぉ……」[pcms]
+[ns]Akari[nse]
+"No... it can't be... it's a lie..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3047|
 [fc]
-僕は先輩の亡骸を抱きしめ、そーいちと越智さんはお互い[r]
-抱き合って泣き続けた。[pcms]
+I held Senpai's lifeless body close, and Souichirou and Ochi-san held[r]
+each other and continued to cry.[pcms]
 
 *3048|
 [fc]
-先輩の亡骸を横たえた。[r]
-眼鏡を外し、シャツのポケットにいれる。[pcms]
+We laid Senpai's body down. I took off her glasses and put them in her[r]
+shirt pocket.[pcms]
 
 *3049|
 [fc]
-それから、そっと先輩の目に手をかざし、瞼を閉ざさせた。[pcms]
+Then gently, I covered her eyes with my hand and closed her eyelids.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

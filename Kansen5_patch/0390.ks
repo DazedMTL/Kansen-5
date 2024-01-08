@@ -19,370 +19,364 @@
 
 *5304|
 [fc]
-[ns]誠[nse]
-「おおおおおーっ」[pcms]
+[ns]Makoto[nse]
+"Ooooooh!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5305|
 [fc]
 [vo_stk s="satuki0129"]
-[ns]彩月[nse]
-「豪勢ですね」[pcms]
+[ns]Satsuki[nse]
+"This is quite extravagant."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so03a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5306|
 [fc]
-[ns]宗一郎[nse]
-「ふむふむ、さすがですな」[pcms]
+[ns]Souichirou[nse]
+"Hmm, impressive indeed."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5307|
 [fc]
-お膳に並べられた、色とりどりの海鮮料理に[r]
-僕たちは驚きの声を上げるばかりだった。[pcms]
+We could only exclaim in surprise at the colorful array of seafood[r]
+dishes laid out before us.[pcms]
 
 *5308|
 [fc]
-季節のお造りから、焼き物、揚げ物、寿司に煮物に汁物に、[r]
-これでもかというくらいの料理が並んでいる。[pcms]
+From seasonal sashimi to grilled dishes, fried foods, sushi, stews,[r]
+and soups, there was an overwhelming array of food.[pcms]
 
 *5309|
 [fc]
-正直、食べたこともないものが多くて、[r]
-どんな味なのか、ワクワクさせられた。[pcms]
+Honestly, there were many things I had never eaten before, and I was[r]
+excited to find out what they tasted like.[pcms]
 
 *5310|
 [fc]
 [vo_mob s="maid0001"]
-[ns]お手伝いさん[nse]
-「茜梨お嬢様が来るとハッスルしちゃってねぇ～」[pcms]
+[ns]Maid[nse]
+"The hustle really kicks in when Miss Akari comes over~"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5311|
 [fc]
 [vo_aka s="akari0187"]
-[ns]茜梨[nse]
-「でも、こんなにいっぱいだとは思わなかったです……」[pcms]
+[ns]Akari[nse]
+"But I didn't expect there to be this much..."[pcms]
 
 *5312|
 [fc]
-その越智さんが驚いているんだから、[r]
-愼さんの張り切りようは尋常じゃないらしい。[pcms]
+Considering that Miss Ochi herself is surprised, it seems that the[r]
+enthusiasm of the host is extraordinary.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5313|
 [fc]
-[ns]誠[nse]
-「すごいご馳走ですよ、[r]
-　ホテルでもこんなの食べられません」[pcms]
+[ns]Makoto[nse]
+"This is an amazing feast, you can't even get this at a hotel."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5314|
 [fc]
 [vo_mis s="misao0011"]
-[ns]美沙緒[nse]
-「後で稼津央が来るから、たっぷり嫌味を言ってあげなさい」[pcms]
+[ns]Misao[nse]
+"Kazuo will be coming later, so make sure to give him a full serving[r]
+of sarcasm."[pcms]
 
 *5315|
 [fc]
-[ns]誠[nse]
-「う、嘘です、冗談ですよ！」[pcms]
+[ns]Makoto[nse]
+"Uh, I'm kidding, just joking!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5316|
 [fc]
-みんなから、軽く笑いの声が上がると、[r]
-いただきますと言って、豪勢な食事が始まった。[pcms]
+Light laughter rose from everyone, and with a word of thanks, we began[r]
+our lavish meal.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5317|
 [fc]
 [vo_aka s="akari0188"]
-[ns]茜梨[nse]
-「あこうと穴子は愼さんが釣ってきたんですよね？」[pcms]
+[ns]Akari[nse]
+"The grouper and eel were caught by Mr. Shin, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5318|
 [fc]
 [vo_mob s="maid0002"]
-[ns]お手伝いさん[nse]
-「そうなんですよ、普段は全然釣れないくせにね、[r]
-　獲れ立てですから、たんと味わってください」[pcms]
+[ns]Maid[nse]
+"That's right, even though he usually doesn't catch much at all,[r]
+please enjoy the fresh catch."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5319|
 [fc]
-穴子はわかるけれど、あこうってなんだ？[r]
-地元の魚なんだろうけど、どれかわからない。[pcms]
+I understand eel, but what's grouper? It must be a local fish, but I[r]
+can't tell which one it is.[pcms]
 
 *5320|
 [fc]
-細かいことは気にしないで、僕は酢漬けの揚げ物に[r]
-箸を延ばしていった。[pcms]
+Not sweating the small stuff, I reached out with my chopsticks for the[r]
+pickled fried food.[pcms]
 
 *5321|
 [fc]
-[ns]誠[nse]
-「うん、美味しい」[pcms]
+[ns]Makoto[nse]
+"Mmm, delicious."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so04a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5322|
 [fc]
-[ns]宗一郎[nse]
-「いきなり揚げ物にいくやつがあるか、[r]
-　まずはお造りを食べると捗るぞ」[pcms]
+[ns]Souichirou[nse]
+"Who goes straight for the fried food? You should start with the[r]
+sashimi for a better experience."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5323|
 [fc]
 [vo_stk s="satuki0130"]
-[ns]彩月[nse]
-「わたしも、揚げ物からいくよ……、[r]
-　うーん、海老が美味しい」[pcms]
+[ns]Satsuki[nse]
+"I'm starting with the fried food too... Mmm, the shrimp is[r]
+delicious."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5324|
 [fc]
-そーいちは白身の刺身を食べてほくほく顔になり、[r]
-南先輩は天ぷらを食べている。[pcms]
+Souichirou is happily eating white fish sashimi, and Senior Minami is[r]
+enjoying the tempura.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5325|
 [fc]
 [vo_mis s="misao0012"]
-[ns]美沙緒[nse]
-「好きに食べて頂戴、細かいことは言いっこ無しよ？」[pcms]
+[ns]Misao[nse]
+"Eat whatever you like, no need to be picky about it."[pcms]
 
 *5326|
 [fc]
 [vo_mob s="maid0003"]
-[ns]お手伝いさん[nse]
-「おひつを持ってきましたからね、[r]
-　ご飯もいっぱい食べてくださいね」[pcms]
+[ns]Maid[nse]
+"I've brought the rice pot over, so please eat plenty of rice as[r]
+well."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5327|
 [fc]
 [vo_aka s="akari0189"]
-[ns]茜梨[nse]
-「あ、私よそいますよ」[pcms]
+[ns]Akari[nse]
+"Oh, I'll serve it."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5328|
 [fc]
 [vo_mis s="misao0013"]
-[ns]美沙緒[nse]
-「茜梨は沢山食べなさい、[r]
-　そういうのは私がやるから」[pcms]
+[ns]Misao[nse]
+"Akari, you should eat a lot. I'll take care of that."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5329|
 [fc]
-美沙緒さんがご飯をよそって僕たちに配り始めると[r]
-越智さんは汁物を見つけて、お椀によそっていった。[pcms]
+As Miss Misao began serving rice to us, Miss Ochi found the soup and[r]
+started ladling it into bowls.[pcms]
 
 ;//◆呼称表では前田さんですが、稼津央も前田さんなので、このファイルでは両名を名前で呼んでいます
 
 *5330|
 [fc]
-やっぱりホストとして、食べるだけでは[r]
-物足りないのかも知れない。[pcms]
+Perhaps as a host, just eating isn't satisfying enough for her.[pcms]
 
 *5331|
 [fc]
 [vo_mob s="maid0004"]
-[ns]お手伝いさん[nse]
-「まぁまぁ、わたしのすることが無くなっちゃいましたよ」[pcms]
+[ns]Maid[nse]
+"Well well, you're making me run out of things to do."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5332|
 [fc]
 [vo_aka s="akari0190"]
-[ns]茜梨[nse]
-「はい、中澤先輩」[pcms]
+[ns]Akari[nse]
+"Here you go, Senior Nakazawa."[pcms]
 
 *5333|
 [fc]
-[ns]誠[nse]
-「ありがとう、あら汁みたいなものかな？」[pcms]
+[ns]Makoto[nse]
+"Thank you. Is this like fisherman's soup?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5334|
 [fc]
-大きなお椀に、魚や野菜の煮込まれた汁物を受け取ると、[r]
-それを啜っていく。[pcms]
+Receiving a large bowl of soup with fish and vegetables stewed in it,[r]
+I began to sip it.[pcms]
 
 *5335|
 [fc]
-なんだか身体にいいものを食べているような、[r]
-滋味深い心地よさが全身に広がっていくのがわかった。[pcms]
+I could feel a wholesome comfort spreading throughout my body as if I[r]
+was eating something very healthy.[pcms]
 
 *5336|
 [fc]
 [vo_mob s="maid0005"]
-[ns]お手伝いさん[nse]
-「男の子がいると作り甲斐がありますからね、[r]
-　それじゃあ、ごゆっくりどうぞ」[pcms]
+[ns]Maid[nse]
+"It's rewarding to cook when there are boys around. Please enjoy your[r]
+meal at your leisure."[pcms]
 
 *5337|
 [fc]
-お手伝いさんは、空気を読んだみたいで、[r]
-そのままにこやかに部屋を出て行ってしまった。[pcms]
+The maid seemed to read the room and left with a pleasant smile.[pcms]
 
 *5338|
 [fc]
-いかにも島の人といった感じの、[r]
-ぼくとつな雰囲気だったけど、[r]
-色々と気がまわる人みたいだ。[pcms]
+She had an unassuming islander vibe about her but seemed to be very[r]
+considerate.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so03a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5339|
 [fc]
-[ns]宗一郎[nse]
-「ふむ、白飯が美味いですな」[pcms]
+[ns]Souichirou[nse]
+"Hmm, the plain rice is delicious."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5340|
 [fc]
 [vo_stk s="satuki0131"]
-[ns]彩月[nse]
-「もう、お醤油の段階で美味しいもんね」[pcms]
+[ns]Satsuki[nse]
+"Even just the soy sauce stage is tasty."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5341|
 [fc]
-僕たちは珍しい料理に箸を付けながら、[r]
-ご飯をもりもりと食べていった。[pcms]
+We continued to eat our fill of rice while trying various unusual[r]
+dishes.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5342|
 [fc]
 [vo_aka s="akari0191"]
-[ns]茜梨[nse]
-「お兄様は、今日来られるんですよね？」[pcms]
+[ns]Akari[nse]
+"My brother is coming today, isn't he?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5343|
 [fc]
 [vo_mis s="misao0014"]
-[ns]美沙緒[nse]
-「道が混んでいるのか、仕事で遅れているのか、[r]
-　気にしないで食べていていいのよ？」[pcms]
+[ns]Misao[nse]
+"Whether he's delayed by traffic or work, don't worry about it and[r]
+just keep eating."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *5344|
 [fc]
-[ns]稼津央[nse]
-「ははは、少し遅れてしまいましたね」[pcms]
+[ns]Kazuo[nse]
+"Hahaha, I'm a bit late, aren't I?"[pcms]
 
 *5345|
 [fc]
 [vo_aka s="akari0192"]
-[ns]茜梨[nse]
-「お兄様！」[pcms]
+[ns]Akari[nse]
+"Big Brother!"[pcms]
 
 ;//m:声のみ
 
 *5346|
 [fc]
-そこに、あのホテルで会った越智さんの叔父さん、[r]
-稼津央とか言う人がにこやかな笑みを浮かべて、[r]
-部屋に入ってきた。[pcms]
+There, the uncle of Ochi-san we met at the hotel, a man named Kazuo,[r]
+entered the room with a cheerful smile.[pcms]
 
 *5347|
 [fc]
-僕らはちょっと緊張しながら、[r]
-延ばした箸を引っ込めて様子をうかがう。[pcms]
+We tensed up a bit and retracted our extended chopsticks to see what[r]
+would happen.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *5348|
 [fc]
-[ns]稼津央[nse]
-「遠慮しないで食べてください、[r]
-　これは食後のデザートにでも」[pcms]
+[ns]Kazuo[nse]
+"Please don't hold back and continue eating, this can be for dessert[r]
+later."[pcms]
 
 *5349|
 [fc]
-すぐそばの実家に帰って来るだけなのに、[r]
-お土産持参というのが卒のなさを表している。[pcms]
+Even though he was just returning to his nearby family home, bringing[r]
+a souvenir showed his thoughtfulness.[pcms]
 
 *5350|
 [fc]
-僕らの中に、手みやげを持ってきている人はいなかった。[r]
-学生がそんな気を利かせたら、相手は嫌がるかも知れないけど。[pcms]
+None of us had brought a gift. Students might worry about being too[r]
+forward if they did something like that.[pcms]
 
 *5351|
 [fc]
-[ns]誠[nse]
-「あの、今日は、お招き有り難うございます」[pcms]
+[ns]Makoto[nse]
+"Um, thank you very much for inviting us today."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *5352|
 [fc]
-[ns]稼津央[nse]
-「茜梨の友達なら、いつでも歓迎ですよ」[pcms]
+[ns]Kazuo[nse]
+"If you're friends of Akane-ri, you're always welcome."[pcms]
 
 *5353|
 [fc]
-僕らが、一斉に頭を下げると、[r]
-稼津央さんは笑顔で返してくれた。[pcms]
+When we all bowed at once, Mr. Kazuo returned the gesture with a[r]
+smile.[pcms]
 
 *5354|
 [fc]
-まったく裏を読むことができない、[r]
-自然で柔和な笑顔だ。[pcms]
+It was a natural and gentle smile that was completely unreadable.[pcms]
 
 *5355|
 [fc]
-この人と話をしていると、なんとなく[r]
-その人柄に惚れてしまいそうになる。[pcms]
+Talking to this person, one could easily find themselves charmed by[r]
+his personality.[pcms]
 
 *5356|
 [fc]
-コミュニケーション能力が、半端じゃないんだろう。[pcms]
+His communication skills must be extraordinary.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *5357|
 [fc]
 [vo_mis s="misao0015"]
-[ns]美沙緒[nse]
-「ずいぶん遅かったのね、忙しい？」[pcms]
+[ns]Misao[nse]
+"You're quite late, were you busy?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *5358|
 [fc]
-[ns]稼津央[nse]
-「どうにも、道の混み具合が異常でした。[r]
-　救急車に道を譲るのにも手こずりまして」[pcms]
+[ns]Kazuo[nse]
+"The traffic was unusually heavy. I even had trouble making way for an[r]
+ambulance."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi01"][ChrSetXY layer=3 x=60 y=0]
@@ -390,107 +384,106 @@
 
 *5359|
 [fc]
-どうも、美沙緒さんの方が年上というか、[r]
-お姉さんに当たるみたいだ。[pcms]
+It seemed that Misao-san was older or perhaps like an older sister to[r]
+him.[pcms]
 
 *5360|
 [fc]
-稼津央さんが、美沙緒さんを立てている様子が[r]
-簡単にうかがえる。[pcms]
+It was easy to see that Mr. Kazuo was showing respect to Misao-san.[pcms]
 
 *5361|
 [fc]
-[ns]誠[nse]
-「地元の子に聞きましたが、この時期は大変らしいですね」[pcms]
+[ns]Makoto[nse]
+"I heard from a local kid that it's tough around this time of year."[pcms]
 
 *5362|
 [fc]
-[ns]稼津央[nse]
-「来年、またフェスを招致するなら、自治体だけではなく、[r]
-　県にも、もっと協力してもらう必要がありそうですよ」[pcms]
+[ns]Kazuo[nse]
+"If we're going to invite the festival again next year, we'll need[r]
+more cooperation not just from the municipality but also from the[r]
+prefecture."[pcms]
 
 *5363|
 [fc]
-反省の弁を述べながら、稼津央さんも食事の席に着くと、[r]
-いただきますと言って軽く箸を付けていった。[pcms]
+While expressing his reflections, Mr. Kazuo took his seat at the table[r]
+and lightly touched his chopsticks to the food as he said[r]
+'itadakimasu'.[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi04"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *5364|
 [fc]
 [vo_mis s="misao0016"]
-[ns]美沙緒[nse]
-「この島のキャパシティを超えているイベントなんじゃない？[r]
-　やりたいことはわかるけれど」[pcms]
+[ns]Misao[nse]
+"Isn't this event exceeding the island's capacity? I understand what[r]
+they want to do though."[pcms]
 
 *5365|
 [fc]
-美沙緒さんは、稼津央さんがあまり好きではないのか、[r]
-チクリとした物言いで困らせている。[pcms]
+Misao-san seemed not to like Mr. Kazuo very much, as she spoke with a[r]
+sharp tone that put him on the spot.[pcms]
 
 *5366|
 [fc]
-稼津央さんは、お姉さんにはかないませんとか言って、[r]
-笑っているけれど、少しフォローしたくなってしまう。[pcms]
+Mr. Kazuo laughed and said something like 'I can't win against an[r]
+older sister,' but it made me want to follow up for him.[pcms]
 
 *5367|
 [fc]
-[ns]誠[nse]
-「あの、富士フェスのときも１回目は混乱がありましたけど、[r]
-　改善することでイベントが定着した経緯があると思うんです。[r]
-　だから回数をこなすことにも意味があるんじゃないかと」[pcms]
+[ns]Makoto[nse]
+"Um, even the first Fuji Fest had its chaos, but by making[r]
+improvements, the event became established. So I think there's meaning[r]
+in accumulating experience."[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz03"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *5368|
 [fc]
-[ns]稼津央[nse]
-「わかっているね！」[pcms]
+[ns]Kazuo[nse]
+"You understand well!"[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi12"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *5369|
 [fc]
 [vo_mis s="misao0017"]
-[ns]美沙緒[nse]
-「また、そうやって若い子をたぶらかして……」[pcms]
+[ns]Misao[nse]
+"There you go again, leading the young ones astray..."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi02"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *5370|
 [fc]
-キリッとした美人だけど、人の温かみを感じた笑顔が[r]
-なりを潜めていた。[pcms]
+She was a sharp beauty, but her warm smile seemed to fade away.[pcms]
 
 *5371|
 [fc]
-稼津央さんのことになると、[r]
-美沙緒さんは手厳しくなるんだろうか。[pcms]
+When it came to Mr. Kazuo, Misao-san became quite strict.[pcms]
 
 *5372|
 [fc]
-人と人の関係は、そう上手くいかないものだよな。[pcms]
+Relationships between people don't always go smoothly, do they?[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz02"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *5373|
 [fc]
-[ns]稼津央[nse]
-「観光は続けていくことでリピーターを増やせるんだよ、[r]
-　わかりますか、姉さん？」[pcms]
+[ns]Kazuo[nse]
+"Tourism grows by continuing and increasing repeat visitors, do you[r]
+understand, sister?"[pcms]
 
 *5374|
 [fc]
 [vo_mis s="misao0018"]
-[ns]美沙緒[nse]
-「はいはい」[pcms]
+[ns]Misao[nse]
+"Yes, yes."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5375|
 [fc]
-稼津央さんの背中の向こう側が窓になっていて、[r]
-庭が見えているんだけど、そこに人影が映っていた。[pcms]
+Behind Mr. Kazuo's back was a window through which you could see the[r]
+garden, and there was a figure reflected in it.[pcms]
 
 ;//★bg13b 越智本家 外観＆前庭・夕方
 [bg storage="BG13b"][trans_c cross time=500]
@@ -498,24 +491,24 @@
 
 *5376|
 [fc]
-合宿の初日に稼津央さんと話していた、夏に黒上着の男だ。[pcms]
+It was the man in a black jacket who had spoken with Mr. Kazuo on the[r]
+first day of the training camp.[pcms]
 
 *5377|
 [fc]
-すると、死角になって見えなかった場所から、[r]
-黒服が一歩前に進み出てくる。[pcms]
+Then, from a blind spot out of view, a man in black stepped forward.[pcms]
 
 *5378|
 [fc]
-やっぱり、ここにも警護の人が潜んでいたんだ。[r]
-みんなは気が付いているのかな。[pcms]
+It turned out there were security personnel lurking here too. I wonder[r]
+if everyone else has noticed.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5379|
 [fc]
-二人はアイコンタクトだけで何かを話す様子もなく、[r]
-また闇に消えてしまった。[pcms]
+The two didn't seem to exchange any words or eye contact and[r]
+disappeared back into the darkness.[pcms]
 
 ;//★bg14b 越智本家 室内・夕方
 [bg storage="BG14b"][trans_c cross time=500]
@@ -524,8 +517,8 @@
 
 *5380|
 [fc]
-[ns]稼津央[nse]
-「僕が家に寄っても、こんなご馳走でないのにね」[pcms]
+[ns]Kazuo[nse]
+"Even when I visit home, we don't have such a feast."[pcms]
 
 ;//◆呼称表ですと玄次郎が僕、稼津央が私になっていますが、逆？
 ;//◆とりあえず、プロット通り稼津央を僕としておきます
@@ -533,255 +526,257 @@
 *5381|
 [fc]
 [vo_mis s="misao0019"]
-[ns]美沙緒[nse]
-「ホテル住まいなんか止めて、ウチに来ればいいんじゃない？」[pcms]
+[ns]Misao[nse]
+"Why don't you stop living in hotels and come stay with us?"[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz02"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *5382|
 [fc]
-[ns]稼津央[nse]
-「ここはもう、姉さんの家だから居づらくてね」[pcms]
+[ns]Kazuo[nse]
+"This place is already your home, sister, so it feels awkward for me."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi12"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *5383|
 [fc]
 [vo_mis s="misao0020"]
-[ns]美沙緒[nse]
-「結婚でもして家を出ろってこと？[r]
-　やり手の社長さんらしくもない」[pcms]
+[ns]Misao[nse]
+"Are you suggesting I get married and move out? That's not like a[r]
+capable president."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi01"][ChrSetXY layer=3 x=60 y=0]
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz03"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *5384|
 [fc]
-[ns]稼津央[nse]
-「姉さんは相変わらずだ」[pcms]
+[ns]Kazuo[nse]
+"Sister, you're as unchanging as ever."[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz04"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *5385|
 [fc]
-なんとなく、ふたりがギスギスしているのだけはわかる。[pcms]
+I could somehow tell that the two of them were on edge with each[r]
+other.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5386|
 [fc]
-兄妹なんてこんなものかも知れないけれど、[r]
-越智さんはどうしたものかと、あたふたしているみたいだった。[pcms]
+It might just be how siblings are, but it seemed like Akari-san was[r]
+flustered about what to do.[pcms]
 
 *5387|
 [fc]
-ここは、ちょっと空気を変える必要があるよな。[pcms]
+It looks like we need to change the mood a bit here.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5388|
 [fc]
-[ns]誠[nse]
-「越智さんは、今度の大会でレギュラーになれそうなの？」[pcms]
+[ns]Makoto[nse]
+"Akari-san, do you think you'll be able to make the regular team in[r]
+the upcoming tournament?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5389|
 [fc]
 [vo_aka s="akari0193"]
-[ns]茜梨[nse]
-「あ、はい、今回は多分無理だと思いますよ、[r]
-　Ａチームに入ってはいますけど、補欠ですから」[pcms]
+[ns]Akari[nse]
+"Ah, yes, I don't think it's possible this time, I'm in the A-team but[r]
+as a reserve."[pcms]
 
 *5390|
 [fc]
-無理だという話なのに、努めて明るく話そうとしている辺り、[r]
-越智さんも空気を変えたがっているらしい。[pcms]
+Despite saying it's impossible, she seems to be trying to talk[r]
+cheerfully, as if she too wants to change the atmosphere.[pcms]
 
 *5391|
 [fc]
-大人二人もそれを察したのか、[r]
-それ以上、いがみ合うことはなかった。[pcms]
+The two adults seemed to sense this and stopped sniping at each other.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5392|
 [fc]
 [vo_mis s="misao0021"]
-[ns]美沙緒[nse]
-「Ａチームが一軍ってことなのよね」[pcms]
+[ns]Misao[nse]
+"Being in the A-team means you're in the first string, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so03a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5393|
 [fc]
-[ns]宗一郎[nse]
-「一年で、Ａチームにはいることがもう凄いことですから」[pcms]
+[ns]Souichirou[nse]
+"It's already amazing to be in the A-team in your first year."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5394|
 [fc]
 [vo_aka s="akari0194"]
-[ns]茜梨[nse]
-「そ、そんなことないです……、[r]
-　出渕先輩こそ、新聞コンクールで賞を取ったんですよね？」[pcms]
+[ns]Akari[nse]
+"That's not really a big deal... Souichirou-senpai, you won an award[r]
+in the newspaper contest, didn't you?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5395|
 [fc]
-新聞コンクールに興味を引かれたのか、[r]
-稼津央さんがそーいちを品定めするように見始める。[pcms]
+Perhaps intrigued by the newspaper contest, Satsuki-san started sizing[r]
+up Souichirou.[pcms]
 
 *5396|
 [fc]
-[ns]稼津央[nse]
-「ほう、将来は報道の道に行くのかい？」[pcms]
+[ns]Kazuo[nse]
+"Oh? Are you planning to go into journalism in the future?"[pcms]
 
 *5397|
 [fc]
-[ns]誠[nse]
-「こいつの父親が雑誌社の編集長ですから、[r]
-　コネで入りまくりですよ」[pcms]
+[ns]Makoto[nse]
+"His father is the editor-in-chief of a magazine company, so he's got[r]
+connections all over."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so31b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5398|
 [fc]
-[ns]宗一郎[nse]
-「コンクールの賞は、コネでは取れないのだよ」[pcms]
+[ns]Souichirou[nse]
+"You can't win an award in a contest with connections alone."[pcms]
 
 *5399|
 [fc]
-箸で挟んだ刺身を片手に、そーいちが不敵な笑みを浮かべている。[r]
-ちょっと馬鹿っぽい。[pcms]
+With a piece of sashimi held between his chopsticks, Souichirou had a[r]
+mischievous smile on his face. It was a bit silly.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5400|
 [fc]
 [vo_stk s="satuki0132"]
-[ns]彩月[nse]
-「偉くなったら、わたしの写真使ってね？」[pcms]
+[ns]Satsuki[nse]
+"When you become famous, use my photos, okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5401|
 [fc]
 [vo_aka s="akari0195"]
-[ns]茜梨[nse]
-「南先輩は、今日どんな写真を撮ったんですか？」[pcms]
+[ns]Akari[nse]
+"Satsuki-senpai, what kind of photos did you take today?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5402|
 [fc]
 [vo_stk s="satuki0133"]
-[ns]彩月[nse]
-「神社の写真を中心に、商店街とか人の営みが見られるものを[r]
-　色々と撮らせてもらったわ」[pcms]
+[ns]Satsuki[nse]
+"I took various shots focusing on the shrine, the shopping district,[r]
+and scenes of people's lives."[pcms]
 
 *5403|
 [fc]
-南先輩は、人物よりも美しい風景とか、廃墟のような写真を[r]
-好むのを僕は知っていた。[pcms]
+I knew that Satsuki-senpai preferred beautiful landscapes or photos of[r]
+ruins over people.[pcms]
 
 *5404|
 [fc]
-このお屋敷を撮りたいというのも、うなずける話だ。[pcms]
+It makes sense that she would want to photograph this mansion.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5405|
 [fc]
-[ns]稼津央[nse]
-「それは是非見せてもらいたいな、[r]
-　島の外の人から見て、ここがどう見えているのか参考になる」[pcms]
+[ns]Kazuo[nse]
+"I'd definitely like to see them, it would be interesting to see how[r]
+someone from outside the island views this place."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5406|
 [fc]
 [vo_stk s="satuki0134"]
-[ns]彩月[nse]
-「残念ながら、そこまでの腕じゃないことは、[r]
-　自分が一番よくわかっています」[pcms]
+[ns]Satsuki[nse]
+"Unfortunately, I'm well aware that my skills aren't up to that level[r]
+yet."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5407|
 [fc]
-[ns]稼津央[nse]
-「僕も残念だけど、女性に無理強いはできないか」[pcms]
+[ns]Kazuo[nse]
+"That's too bad, but I can't force a lady to do something she doesn't[r]
+want to."[pcms]
 
 *5408|
 [fc]
-みんなで、おしゃべりしながら美味しい海鮮に舌鼓を打つ。[r]
-何を食べても外れがないのは、素晴らしいことだった。[pcms]
+We all chatted and savored the delicious seafood. The fact that[r]
+everything we ate was good was wonderful.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5409|
 [fc]
 [vo_mis s="misao0022"]
-[ns]美沙緒[nse]
-「ホテルの使い心地はどう？[r]
-　気になるところがあったら、いくらでも言っていいのよ？」[pcms]
+[ns]Misao[nse]
+"How's the hotel treating you? If there's anything you're concerned[r]
+about, feel free to mention it anytime."[pcms]
 
 *5410|
 [fc]
-[ns]誠[nse]
-「ものすごく快適です、特に屋上の庭園がいいですよね」[pcms]
+[ns]Makoto[nse]
+"It's incredibly comfortable, especially the rooftop garden."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so06a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5411|
 [fc]
-[ns]宗一郎[nse]
-「ちと、コンビニの品揃えが気になりますかな？」[pcms]
+[ns]Souichirou[nse]
+"I'm a bit concerned about the selection at the convenience store[r]
+though?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5412|
 [fc]
 [vo_stk s="satuki0135a"]
-[ns]彩月[nse]
-「作りが、中野ブロードストリートに似ている気がしました」[pcms]
+[ns]Satsuki[nse]
+"The construction feels similar to Nakano Broadway to me."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5413|
 [fc]
 [vo_aka s="akari0196"]
-[ns]茜梨[nse]
-「私も、すごく快適ですよ」[pcms]
+[ns]Akari[nse]
+"I'm also finding it very comfortable."[pcms]
 
 *5414|
 [fc]
-僕らが思い思いに感想を述べていくと、[r]
-稼津央さんが軽く頷いてみせる。[pcms]
+As we all shared our thoughts, Satsuki-san gave a slight nod.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5415|
 [fc]
-[ns]稼津央[nse]
-「ホテルはバブル期の廃ホテルをベースにしているんですよ」[pcms]
+[ns]Kazuo[nse]
+"The hotel is based on an abandoned hotel from the bubble era."[pcms]
 
 *5416|
 [fc]
-なるほど、あの外観の豪華さはバブル期のセンスなのか。[r]
-地元の人の反対があるというのもわかる気がする。[pcms]
+So that's why the exterior looks so luxurious. It makes sense that[r]
+there would be opposition from the locals.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5417|
 [fc]
-[ns]稼津央[nse]
-「広さは違いますが、おっしゃる通り中野ブロードストリートとか[r]
-　コンプレックスタイプの建築を参考にしています」[pcms]
+[ns]Kazuo[nse]
+"While it's different in scale, you're right about Nakano Broadway and[r]
+other complex-type buildings being a reference for us."[pcms]
 
 ;//m:中野ブロードストリートか中野ブロードウェイのどちらかを使用。彩月のセリフと合わせ
 
@@ -790,37 +785,36 @@
 *5418|
 [fc]
 [vo_mis s="misao0023"]
-[ns]美沙緒[nse]
-「コンビニの品揃えが悪いって。[r]
-　渋谷で暮らす若者と、センスが違うのかしら？」[pcms]
+[ns]Misao[nse]
+"You're saying the convenience store's selection is poor. Maybe it[r]
+doesn't match the tastes of young people living in Shibuya?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5419|
 [fc]
-[ns]稼津央[nse]
-「ははは、コンビニは直接運営していませんからね、[r]
-　オーナーに話を聞いておきましょう」[pcms]
+[ns]Kazuo[nse]
+"Haha, we don't directly manage the convenience store, so let's talk[r]
+to the owner about it."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5420|
 [fc]
-ショッピングフロアも多分同じなんだろう。[pcms]
+The shopping floor is probably the same deal.[pcms]
 
 *5421|
 [fc]
-旅先でＴＵＮＡＹＡがあると萎えるとか、[r]
-言わない方がいいんだろうな。[pcms]
+I guess it's better not to say that finding a TUNAYA at a travel[r]
+destination is a letdown.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so02a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5422|
 [fc]
-[ns]宗一郎[nse]
-「稼津央さんはグループ会社のお仕事をされていますが、[r]
-　美沙緒さんはなにをされているのですか？[r]
-　かなり知的な印象を受けますが」[pcms]
+[ns]Souichirou[nse]
+"Satsuki-san works for a group company, but what do you do, Misao-san?[r]
+You give off quite an intellectual impression."[pcms]
 
 ;//---------------------------------------------
 ;//アスペクトスイッチ
@@ -844,28 +838,27 @@
 *5423|
 [fc]
 [vo_mis s="misao0024"]
-[ns]美沙緒[nse]
-「私は、少しだけウイルスの研究をしているの。[r]
-　グループ企業とはちょっと違うわね」[pcms]
+[ns]Misao[nse]
+"I do a little bit of virus research. It's a bit different from group[r]
+corporations."[pcms]
 
 *5424|
 [fc]
-なるほど、商売っ気のなさや歯に衣着せぬ物言いが、[r]
-いかにも学者という感じがする。[pcms]
+I see, the lack of commercialism and the blunt way of speaking really[r]
+gives off the vibe of a scholar.[pcms]
 
 *5425|
 [fc]
-稼津央さんと反りが合わないのは、[r]
-仕方がないのかも。[pcms]
+It's no wonder that you and Natsu-san don't get along.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5426|
 [fc]
 [vo_aka s="akari0197"]
-[ns]茜梨[nse]
-「お姉様は、少し前まで東京の国立感染症センターで、[r]
-　UNKNOWN-LV4の研究チームにいたんですよ」[pcms]
+[ns]Akari[nse]
+"Onee-sama was part of a research team for UNKNOWN-LV4 at the National[r]
+Infectious Diseases Center in Tokyo until a little while ago."[pcms]
 
 ;//◆権利侵害の回避をしています
 ;//◆国立感染症研究所とかなら回避しなくてもいいのかも
@@ -874,256 +867,254 @@
 
 *5427|
 [fc]
-UNKNOWN-LV4の研究チーム？[r]
-それはまた、すごいところにいたもんだと思う。[pcms]
+A research team for UNKNOWN-LV4? That sounds like a pretty impressive[r]
+place to have been.[pcms]
 
 *5428|
 [fc]
-ウイルスは根絶されたと発表しているけれど、[r]
-予防接種をこれだけしつこく受けさせるのには、[r]
-理由があるはずだ。[pcms]
+They've announced that the virus has been eradicated, but there must[r]
+be a reason they're so insistent on vaccinations.[pcms]
 
 *5429|
 [fc]
-僕の情報は役に立たなかっただろうけれど、[r]
-研究はまだ続いているんだな。[pcms]
+My information might not have been helpful, but it seems the research[r]
+is still ongoing.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so30b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5430|
 [fc]
-[ns]宗一郎[nse]
-「では、ワクチン開発などされていたのですか。[r]
-　大変な仕事ですなぁ」[pcms]
+[ns]Souichirou[nse]
+"So, were you involved in vaccine development? That's quite a[r]
+demanding job."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5431|
 [fc]
 [vo_stk s="satuki0136"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *5432|
 [fc]
-南先輩が驚いた顔で美沙緒さんを見ている。[r]
-なにか訳ありなのかも知れない。[pcms]
+Senior Minami looks at Misao-san with a surprised expression. There[r]
+might be some story there.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5433|
 [fc]
 [vo_mis s="misao0025"]
-[ns]美沙緒[nse]
-「詳しいことは話せないんだけれど、今は事情があって、[r]
-　メインの研究からは離れさせてもらっているの」[pcms]
+[ns]Misao[nse]
+"I can't talk about the details, but due to certain circumstances,[r]
+I've stepped back from the main research."[pcms]
 
 *5434|
 [fc]
-[ns]誠[nse]
-「そうですよね、そんな大切な研究だと話せないのは尚更です」[pcms]
+[ns]Makoto[nse]
+"That makes sense, especially since it's such important research that[r]
+you can't talk about it."[pcms]
 
 *5435|
 [fc]
 [vo_mis s="misao0026"]
-[ns]美沙緒[nse]
-「在宅でできる範囲で、[r]
-　バックアップくらいはしているんだけどね」[pcms]
+[ns]Misao[nse]
+"I'm still providing backup support within the scope of what I can do[r]
+from home, though."[pcms]
 
 *5436|
 [fc]
-越智家は由緒正しいだけじゃなく、[r]
-中の人までスケールが大きかった。[pcms]
+The Ochi family isn't just prestigious by name; even the people inside[r]
+are on a grand scale.[pcms]
 
 *5437|
 [fc]
-かなり優秀な人間が集まっている、[r]
-いい血筋なんじゃないだろうか。[pcms]
+They must be a lineage of highly capable individuals.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5438|
 [fc]
 [vo_stk s="satuki0137"]
-[ns]彩月[nse]
-「あれ、そういえば越智さんとみなさんは、[r]
-　名字が違いますよね？」[pcms]
+[ns]Satsuki[nse]
+"Oh, now that you mention it, Ochi-san and everyone else have[r]
+different last names, don't they?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5439|
 [fc]
-[ns]誠[nse]
-「ああ、こういう名家だと、養子に出されたりするんですか？」[pcms]
+[ns]Makoto[nse]
+"Ah, in such a distinguished family, is it common to be adopted out or[r]
+something?"[pcms]
 
 *5440|
 [fc]
-毛利と吉川、小早川みたいな土地柄もあるのかな。[r]
-離婚して名前が変わるとかではないだろう。[pcms]
+I wonder if it's a regional thing like with the Mouri and Yoshikawa,[r]
+or if it's not due to divorce and changing names.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5441|
 [fc]
 [vo_aka s="akari0198"]
-[ns]茜梨[nse]
-「名家じゃないです、普通ですよ」[pcms]
+[ns]Akari[nse]
+"We're not a distinguished family, just an ordinary one."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5442|
 [fc]
-[ns]稼津央[nse]
-「さすがに養子に出されることはないけれど、[r]
-　僕と姉さんは妾の子なんだ」[pcms]
+[ns]Kazuo[nse]
+"While it's true we haven't been adopted out, my sister and I are[r]
+children of a mistress."[pcms]
 
 *5443|
 [fc]
-[ns]誠[nse]
-「え？」[pcms]
+[ns]Makoto[nse]
+"Eh?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so03b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5444|
 [fc]
-[ns]宗一郎[nse]
-「男のロマンですなぁ」[pcms]
+[ns]Souichirou[nse]
+"Ah, the romance of a man."[pcms]
 
 *5445|
 [fc]
-またすごい話になってきた。[r]
-妾の子とか、実際に聞くことになるとは思わなかった。[pcms]
+This is turning into quite the story. I never thought I'd actually[r]
+hear about children of a mistress in real life.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5446|
 [fc]
 [vo_aka s="akari0199"]
-[ns]茜梨[nse]
-「でも、叔父さんと叔母さん、[r]
-　私が姪であることに変わりはないです」[pcms]
+[ns]Akari[nse]
+"But still, my uncle and aunt are my uncle and aunt, and that doesn't[r]
+change the fact that I'm their niece."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5447|
 [fc]
 [vo_mis s="misao0027"]
-[ns]美沙緒[nse]
-「……………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *5448|
 [fc]
-そんな越智さんを、美沙緒さんが愛おしむように見つめていた。[r]
-姪と言うより妹なんだろうな。[pcms]
+Misao-san looks at Ochi-san with an affectionate gaze. She seems more[r]
+like a younger sister than a niece.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5449|
 [fc]
 [vo_stk s="satuki0138"]
-[ns]彩月[nse]
-「やっぱり、大きな家って感じがする」[pcms]
+[ns]Satsuki[nse]
+"It really does feel like a big family."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5450|
 [fc]
-[ns]稼津央[nse]
-「妾とか、昭和の香りがするよね」[pcms]
+[ns]Kazuo[nse]
+"Mistresses and such, it has a Showa era feel to it."[pcms]
 
 *5451|
 [fc]
-お兄さんが笑ってみせる。[r]
-子供の頃に苦労とかしたんだろうか。[pcms]
+The older brother laughs. I wonder if he had a hard time as a child.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5452|
 [fc]
 [vo_mis s="misao0028"]
-[ns]美沙緒[nse]
-「茜梨の祖父は、まぁ、そういう人だったのよ。[r]
-　豪快というか本当に昭和の人ね」[pcms]
+[ns]Misao[nse]
+"Akane-ri's grandfather was, well, that kind of person. He was[r]
+boisterous or rather truly a man of the Showa era."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5453|
 [fc]
-そして越智さんは、正妻の産んだ子の系列なわけか。[pcms]
+So Ochi-san is from the line of the legitimate wife.[pcms]
 
 *5454|
 [fc]
-でも、それなのに東京で暮らしているのは、[r]
-ちょっと不思議な感じがした。[pcms]
+But it's strange that despite that, she lives in Tokyo.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5455|
 [fc]
 [vo_aka s="akari0200"]
-[ns]茜梨[nse]
-「お爺様は、今、京都でご静養されているんですよね？」[pcms]
+[ns]Akari[nse]
+"Grandfather is currently taking his rest in Kyoto, isn't he?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5456|
 [fc]
-[ns]稼津央[nse]
-「フフフッ……」[pcms]
+[ns]Kazuo[nse]
+"Fufufu..."[pcms]
 
 *5457|
 [fc]
-稼津央さんが営業用ではない笑いを漏らす。[r]
-心からおかしがっているみたいだった。[pcms]
+Natsu-san lets out a laugh that's not for business purposes. It seemed[r]
+like genuine amusement.[pcms]
 
 *5458|
 [fc]
-[ns]稼津央[nse]
-「なるほど、父さんは京都にいるんだ、姉さん？」[pcms]
+[ns]Kazuo[nse]
+"I see, so father is in Kyoto, sister?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5459|
 [fc]
-美沙緒さんは表情を変えずに、ちらっと稼津央さんを見て、[r]
-そうだと答えた。[pcms]
+Without changing her expression, Misao-san glances at Natsu-san and[r]
+confirms that it's true.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5460|
 [fc]
-なんかワケありっぽく聞こえてくる。[r]
-あんまり突っ込まない方が良さそうな気がした。[pcms]
+It sounds like there's some complicated story behind this. It might be[r]
+better not to pry too much.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so02a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5461|
 [fc]
-[ns]宗一郎[nse]
-「その方は、どんなお仕事をされていたんですか？[r]
-　グループ企業の会長とかでしょうか」[pcms]
+[ns]Souichirou[nse]
+"What kind of work did he do? Was he the chairman of a group[r]
+corporation or something?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5462|
 [fc]
 [vo_mis s="misao0029"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5463|
 [fc]
-[ns]稼津央[nse]
-「…………」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5464|
 [fc]
 [vo_aka s="akari0201"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「…………」[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -1146,7 +1137,7 @@ UNKNOWN-LV4の研究チーム？[r]
 
 *5467|
 [fc]
-[ns]稼津央[nse]
+[ns]Kazuo[nse]
 「父さんの名前はね、前田玄治郎って言うんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -1154,7 +1145,7 @@ UNKNOWN-LV4の研究チーム？[r]
 *5468|
 [fc]
 [vo_stk s="satuki0139"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「……！？」[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -1164,14 +1155,14 @@ UNKNOWN-LV4の研究チーム？[r]
 
 *5469|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「あれ、どこかで聞いたことあるような？」[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5470|
 [fc]
-[ns]宗一郎[nse]
+[ns]Souichirou[nse]
 「…………」[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -1196,14 +1187,14 @@ UNKNOWN-LV4の研究チーム？[r]
 
 *5475|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「誰だっけ、思い出せないや」[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so12b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5476|
 [fc]
-[ns]宗一郎[nse]
+[ns]Souichirou[nse]
 「あ、いや……」[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -1211,7 +1202,7 @@ UNKNOWN-LV4の研究チーム？[r]
 *5477|
 [fc]
 [vo_stk s="satuki0140"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「…………」[pcms]
 
 *5478|
@@ -1223,13 +1214,13 @@ UNKNOWN-LV4の研究チーム？[r]
 
 *5479|
 [fc]
-[ns]稼津央[nse]
+[ns]Kazuo[nse]
 「思い出せないかい？[r]
 　内閣官房長官も務めた人なんだけど」[pcms]
 
 *5480|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「ああ、政治家の人だったんですか。[r]
 　でも、官房長官ってすごいですね」[pcms]
 
@@ -1254,25 +1245,25 @@ UNKNOWN-LV4の研究チーム？[r]
 
 *5484|
 [fc]
-[ns]稼津央[nse]
+[ns]Kazuo[nse]
 「でも、前田玄治郎が有名なのは、[r]
 　政治活動とはまた別のところに由来があるんだ」[pcms]
 
 *5485|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「そうなんですか？」[pcms]
 
 *5486|
 [fc]
-[ns]稼津央[nse]
+[ns]Kazuo[nse]
 「東北事件のウイルスが、テロリストではなく、[r]
 　米軍関係者から持ち込まれたものだって話は、[r]
 　聞いたことがあるかい？」[pcms]
 
 *5487|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「東北事件ですか？　聞いたことはありますけど……」[pcms]
 
 *5488|
@@ -1293,25 +1284,25 @@ UNKNOWN-LV4の研究チーム？[r]
 
 *5491|
 [fc]
-[ns]稼津央[nse]
+[ns]Kazuo[nse]
 「マスコミにすっぱ抜かれた話ではあるんだけど、[r]
 　その米軍関係者に日本の政治家が関わっていたという[r]
 　噂があるんだよ」[pcms]
 
 *5492|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「え……？」[pcms]
 
 *5493|
 [fc]
-[ns]稼津央[nse]
+[ns]Kazuo[nse]
 「そしてその政治家は、手打ちとして汚職事件で在宅起訴され、[r]
 　政界引退を余儀なくされたって話なんだけどね」[pcms]
 
 *5494|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「…………」[pcms]
 
 *5495|
@@ -1323,7 +1314,7 @@ UNKNOWN-LV4の研究チーム？[r]
 *5496|
 [fc]
 [vo_aka s="akari0202"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「…………」[pcms]
 
 *5497|
@@ -1362,7 +1353,7 @@ UNKNOWN-LV4の研究チーム？[r]
 
 *5502|
 [fc]
-[ns]稼津央[nse]
+[ns]Kazuo[nse]
 「玄治郎の娘である姉さんが、ウイルスの研究をしているのは[r]
 　皮肉なことだよな」[pcms]
 
@@ -1371,131 +1362,126 @@ UNKNOWN-LV4の研究チーム？[r]
 *5503|
 [fc]
 [vo_mis s="misao0030"]
-[ns]美沙緒[nse]
-「そんな不確かな話、おやめなさい」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5504|
 [fc]
 [vo_aka s="akari0203"]
-[ns]茜梨[nse]
-「……………」[pcms]
+[ns]Akari[nse]
+Ochi-san looks embarrassed. Uncertain stories, huh...[pcms]
 
 *5505|
 [fc]
-越智さんはばつが悪そうな顔をしている。[r]
-不確かな話、か……。[pcms]
+"I've spoken too much without even drinking, my apologies."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5506|
 [fc]
-[ns]稼津央[nse]
-「呑んでもいないのにしゃべりすぎましたね、[r]
-　失礼致しました」[pcms]
+[ns]Kazuo[nse]
+It's obvious, but Ochi-san is not to blame. Of course, neither are[r]
+Misao-san nor Satsuki-san.[pcms]
 
 *5507|
 [fc]
-当たり前の話だけど、越智さんは悪くない。[r]
-もちろん、美沙緒さんも稼津央さんも。[pcms]
+There's no evidence, and it should only be considered one of many[r]
+rumors.[pcms]
 
 *5508|
 [fc]
-証拠があるわけでもないし、[r]
-単なる噂のひとつとしか言えないはずだ。[pcms]
+"It might be strange to say this, but Akari is a good girl."[pcms]
 
 *5509|
 [fc]
-[ns]稼津央[nse]
-「こんなことを言うのもなんだけど、茜梨はいい子だ」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5510|
 [fc]
 [vo_stk s="satuki0141"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"Moreover, Akari's deceased father, Ichirou-san, was a wonderful[r]
+person, unlike my father."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5511|
 [fc]
-[ns]稼津央[nse]
-「それに、亡くなった茜梨の父親、伊知郎兄さんは、[r]
-　父と違って素晴らしい人だった」[pcms]
+[ns]Kazuo[nse]
+"Oh? And what kind of person was he?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so02b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5512|
 [fc]
-[ns]宗一郎[nse]
-「ほ、ほう、その方は、どんな方だったのですかな？」[pcms]
+[ns]Souichirou[nse]
+"He was calm and kind, just like Akari."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5513|
 [fc]
-[ns]稼津央[nse]
-「茜梨に似て、穏やかで優しい人だったよ」[pcms]
+[ns]Kazuo[nse]
+"Yes, he truly wanted to make this country better, in a sense he had a[r]
+certain naivety."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5514|
 [fc]
 [vo_mis s="misao0031"]
-[ns]美沙緒[nse]
-「そうね、本当にこの国を良くしようとしていた、[r]
-　ある意味青臭さを持った人だったわ」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5515|
 [fc]
 [vo_aka s="akari0204"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+Ochi-san remains silent, unable to say anything.[pcms]
 
 *5516|
 [fc]
-越智さんは、何も言えずに黙り込んでいる。[pcms]
+Maybe she's being considerate of me.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5517|
 [fc]
-僕に遠慮しているのかも知れない。[pcms]
+Even if it's just a rumor, the victim is right next to us, so it's[r]
+impossible to keep a cheerful face.[pcms]
 
 *5518|
 [fc]
-例え噂だとしても、被害者がすぐ隣にいるんだから、[r]
-明るい顔ができるはずもないか。[pcms]
+No, what am I thinking? What fault lies with Ochi-san?[pcms]
 
 *5519|
 [fc]
-いや、何を考えているんだ。[r]
-越智さんに、どんな非がある？[pcms]
+It's unimaginable how much the people of this house have suffered from[r]
+being the subject of such rumors.[pcms]
 
 *5520|
 [fc]
-こんな噂を立てられて、どんなにこの家の人たちが[r]
-苦しんだことか、想像も付かない。[pcms]
+The slander, the insidious media coverage, the reputational damage to[r]
+their business, it must have been countless.[pcms]
 
 *5521|
 [fc]
-誹謗中傷も、マスコミの陰湿な取材も、[r]
-経営する会社の風評被害も、数え切れなかっただろう。[pcms]
+I understand that. I do understand...[pcms]
 
 *5522|
 [fc]
-それは、わかっている。[r]
-わかっているんだ……。[pcms]
+But I couldn't manage to calm these feelings of mine.[pcms]
 
 *5523|
 [fc]
-でも、僕は、自分のこの気持ちを[r]
-上手く落ち着けることができなかった。[pcms]
+No matter what, no matter how I try...[pcms]
 
 ;//---------------------------------------------
 ;//アスペクトスイッチ表示ここまで
@@ -1504,7 +1490,7 @@ UNKNOWN-LV4の研究チーム？[r]
 
 *5524|
 [fc]
-どうしても、どうやっても……。[pcms]
+No matter what, no matter how I try...[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

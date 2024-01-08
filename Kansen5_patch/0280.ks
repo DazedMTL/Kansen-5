@@ -20,233 +20,229 @@
 
 *3746|
 [fc]
-合宿初日は、移動の疲れなど感じさせない動きで、[r]
-各部活が本気の練習を行っていた。[pcms]
+On the first day of the training camp, each club was practicing[r]
+seriously, showing no signs of fatigue from the journey.[pcms]
 
 *3747|
 [fc]
-他校の場合、後は風呂に入ってそのまま寝るだけなんだけど、[r]
-鶯谷学園はホテルにチェックインしている。[pcms]
+In the case of other schools, they would just take a bath and then go[r]
+to sleep, but Uguisudani Academy checks into a hotel.[pcms]
 
 *3748|
 [fc]
-練習で疲れた身体にムチを打って、[r]
-ホテルにまで帰らなければならない。[pcms]
+Even after a tiring practice, we have to push ourselves to return to[r]
+the hotel.[pcms]
 
 *3749|
 [fc]
-スポーツセンター発の最終バスである１９時４０分便は、[r]
-ヘトヘトの顔で埋め尽くされている状態だった。[pcms]
+The last bus leaving the sports center at 19:40 was filled with faces[r]
+exhausted to the core.[pcms]
 
 *3750|
 [fc]
-明日からも、こんな風景が続くんだろう。[pcms]
+I suppose this scene will continue for the days to come.[pcms]
 
 *3751|
 [fc]
-半分居眠りをしている部員を見ていると、[r]
-昼間の練習のハードさが伝わってくるようだった。[pcms]
+Looking at the members half-asleep, I could almost feel the intensity[r]
+of the day's practice.[pcms]
 
 *3752|
 [fc]
-初日だけあって、色々と問題もあったが、[r]
-今頃はみんな夢の中だろう。[pcms]
+Being the first day, there were various issues, but by now everyone[r]
+must be in their dreams.[pcms]
 
 *3753|
 [fc]
-ただ、新聞部をのぞいては。[pcms]
+Except for the newspaper club, that is.[pcms]
 
 *3754|
 [fc]
-[ns]誠[nse]
-「終わった～！」[pcms]
+[ns]Makoto[nse]
+"It's finally over~!"[pcms]
 
 *3755|
 [fc]
-僕は新聞部から支給されている自分用のノートパソコンの、[r]
-エンターキーをパンッと押すと、椅子の背もたれに寄りかかった。[pcms]
+I pressed the Enter key on my laptop provided by the newspaper club[r]
+and leaned back in my chair.[pcms]
 
 *3756|
 [fc]
-僕の担当している範囲の日報と取材したテキストデータを、[r]
-フランク先輩に送って、確認してもらう必要がある。[pcms]
+I need to send the daily report and the text data I gathered from[r]
+interviews to my senior Frank for review.[pcms]
 
 *3757|
 [fc]
-練習に精を出しているみんなはアフタータイムだけど、[r]
-新聞部はこれが本番だった。[pcms]
+While everyone else is enjoying their after-practice time, this is the[r]
+real deal for us in the newspaper club.[pcms]
 
 *3758|
 [fc]
-[ns]誠[nse]
-「んんーっ！」[pcms]
+[ns]Makoto[nse]
+"Nnngh!"[pcms]
 
 *3759|
 [fc]
-大きく伸びをすると思わず時計を確認してしまった。[r]
-まだ今日は終わっていないみたいだ。[pcms]
+After a big stretch, I couldn't help but check the time. It seems[r]
+today isn't over just yet.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so04w"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3760|
 [fc]
-[ns]宗一郎[nse]
-「お疲れさん、今手が離せないが、[r]
-　冷たいお茶でも飲んでくれ」[pcms]
+[ns]Souichirou[nse]
+"Good work. I can't spare a hand right now, but have some cold tea."[pcms]
 
 *3761|
 [fc]
-[ns]誠[nse]
-「ありがとうよ、正直助かった」[pcms]
+[ns]Makoto[nse]
+"Thanks, honestly, it's a lifesaver."[pcms]
 
 *3762|
 [fc]
-デヴ君は既にラフな格好になって、すっかりくつろぎ、[r]
-ワイングラスに葡萄ジュースを注いでいる。[pcms]
+Debu-kun has already changed into something more comfortable and is[r]
+completely relaxed, pouring grape juice into a wine glass.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3763|
 [fc]
-[ns]宗一郎[nse]
-「いやいや、困ったときはお互い様……っと！」[pcms]
+[ns]Souichirou[nse]
+"No worries, we help each other out in times of need... ah!"[pcms]
 
 *3764|
 [fc]
-とっくに自分の分の仕事を終えていたそーいちは、[r]
-既にSatto☆さんたちと合流して、[r]
-モンバスに精を出している。[pcms]
+Souichirou, who had long finished his own work, had already joined up[r]
+with Satto☆ and was putting his energy into Monster Busters.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3765|
 [fc]
-僕は飲み物を飲んでひと息吐きながら、[r]
-フランク先輩からの返信を待っていた。[pcms]
+I took a sip of my drink and let out a sigh while waiting for a reply[r]
+from senior Frank.[pcms]
 
 *3766|
 [fc]
-初日の取材メモの要点を絞ってテキストにまとめ、[r]
-その情報を東京の部長に転送してくれれば、[r]
-本日のお仕事は終了だ。[pcms]
+If I can condense the key points from today's interview notes into[r]
+text and forward that information to the chief in Tokyo, my work for[r]
+today will be done.[pcms]
 
 *3767|
 [fc]
-書きたいことがいっぱいあって、思ったよりも[r]
-苦戦してしまっていた。[pcms]
+I had so much I wanted to write about that it turned out to be more of[r]
+a struggle than I thought.[pcms]
 
 *3768|
 [fc]
-そーいちに添削してもらわなかったら、[r]
-まだ終わっていなかったかも知れない。[pcms]
+If it weren't for Souichirou's editing, I might not have finished yet.[pcms]
 
 *3769|
 [fc]
-[ns]誠[nse]
-「日をまたがずに終わって良かったよ。[r]
-　そーいちのおかげだ」[pcms]
+[ns]Makoto[nse]
+"Thank goodness it ended without dragging into another day. It's all[r]
+thanks to Souichirou."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3770|
 [fc]
-[ns]宗一郎[nse]
-「おやすい御用だが……お前は花沢のことを評価しているんだな。[r]
-　正直に言って、意外だったぞ」[pcms]
+[ns]Souichirou[nse]
+"It was an easy task... but you seem to have a high opinion of[r]
+Hanazawa. Honestly, I'm surprised."[pcms]
 
 *3771|
 [fc]
-[ns]誠[nse]
-「個人的な都合を記事にするつもりはないよ。[r]
-　花沢の頑張りや、センスは評価されて当たり前だ」[pcms]
+[ns]Makoto[nse]
+"I have no intention of letting personal matters influence my[r]
+articles. Hanazawa's hard work and sense deserve recognition."[pcms]
 
 *3772|
 [fc]
-ここぞとばかりに悪口を書いても、[r]
-僕の品性を疑われるだけだ。[pcms]
+Writing spiteful comments just for the sake of it would only cast[r]
+doubt on my character.[pcms]
 
 *3773|
 [fc]
-書き方次第なんだろうけれど、[r]
-偏った見方で貶めるつもりもない。[pcms]
+The way it's written matters, but I have no intention of disparaging[r]
+anyone with a biased view.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3774|
 [fc]
-[ns]宗一郎[nse]
-「お前と仲良くなれて良かったよ」[pcms]
+[ns]Souichirou[nse]
+"I'm glad we became friends."[pcms]
 
 *3775|
 [fc]
-そーいちがワイングラスを僕の方に傾けてきた。[pcms]
+Souichirou tilted his wine glass towards me as if he had been waiting[r]
+for this moment.[pcms]
 
 *3776|
 [fc]
-ゲームにも仕事にも、余裕を持って[r]
-接することが出来る親友は頼もしい。[pcms]
+A best friend who can approach both games and work with composure is[r]
+truly reliable.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3777|
 [fc]
-そんなことを思っていると、ノートパソコンの画面に、[r]
-メールの着信メッセージが現れた。[pcms]
+As I was thinking this, an email notification appeared on my laptop[r]
+screen.[pcms]
 
 *3778|
 [fc]
-開いてみると、待っていたフランク先輩からのお疲れメールだ。[pcms]
+When I opened it, it was the much-awaited 'good work' email from[r]
+senior Frank.[pcms]
 
 *3779|
 [fc]
-この時間まで起きて、僕のことを待っていてくれたんだろう。[r]
-本当にいい人としか言いようがなかった。[pcms]
+He must have stayed up until this time waiting for me. He really is a[r]
+good person through and through.[pcms]
 
 *3780|
 [fc]
-[ns]誠[nse]
-「フランク先輩から、お疲れメールが来た。[r]
-　お疲れ様でした」[pcms]
+[ns]Makoto[nse]
+"I got a 'good work' email from senior Frank. Thank you for your hard[r]
+work."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so04w"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3781|
 [fc]
-[ns]宗一郎[nse]
-「早速で悪いが、村上さんがモンバスのキャンプに来ているから、[r]
-　お前も来い」[pcms]
+[ns]Souichirou[nse]
+"Sorry to rush you, but Murakami-san has come to the Monster Busters[r]
+camp, so come join us."[pcms]
 
 *3782|
 [fc]
-[ns]誠[nse]
-「よっし、今日のことも話さないとな」[pcms]
+[ns]Makoto[nse]
+"Alright, I've got to talk about today's events too."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3783|
 [fc]
-正直、ターヤさんに会うのはシンドイけれど、[r]
-避けては通れない。[pcms]
+Honestly, meeting Tarja-san is exhausting, but it's unavoidable.[pcms]
 
 *3784|
 [fc]
-荷物の中から携帯ゲーム機を取り出すと、[r]
-ヘッドセットを取り出して装着した。[pcms]
+I took out my portable game console from my bag and put on my headset.[pcms]
 
 *3785|
 [fc]
-それを待っていたみたいに、そーいちも[r]
-ヘッドセットを装着する。[pcms]
+As if he had been waiting for that, Souichirou also put on his[r]
+headset.[pcms]
 
 *3786|
 [fc]
-僕の仕事が終わるまで、ボイスチャットは[r]
-遠慮してくれていたらしい。[pcms]
+It seems he was refraining from voice chat until my work was done.[pcms]
 
 *3787|
 [fc]
-そーいちのノートパソコンを経由して携帯ゲーム機を[r]
-接続すると、そのままモンバスにログインした。[pcms]
+When I connected my portable game console through Souichirou's laptop,[r]
+I logged straight into Monster Busters.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -287,45 +283,43 @@
 [fc]
 [vo_sat s="sato_chat0041"]
 [ns]Satto☆[nse]
-「おつかれさまー、大変だったみたいだね」[pcms]
+"Good work, it seems like it was tough."[pcms]
 
 *3789|
 [fc]
-モンバスにログインすると、[r]
-Satto☆さんがすぐに声をかけてくる。[pcms]
+As soon as I logged into Monster Busters, Satto☆ greeted me.[pcms]
 
 *3790|
 [fc]
-お互いのリアルを知ってしまった今、[r]
-声を聞くと村上さんの姿が頭に浮かんだ。[pcms]
+Now that we know each other in real life, I can't help but picture[r]
+Murakami-san when I hear her voice.[pcms]
 
 *3791|
 [fc]
-イメージ通りの島っ子で、結構かわいかった気がする。[r]
-なんだか嬉しい。[pcms]
+She's a typical island girl and quite cute, I recall. It makes me[r]
+happy.[pcms]
 
 *3792|
 [fc]
 [ns]Ma-Kun.S[nse]
-「おつかれさま～、[r]
-　Satto☆さんは、練習の後なのに元気だね」[pcms]
+"Good work~ Satto☆, you sound energetic even after practice."[pcms]
 
 *3793|
 [fc]
 [vo_sat s="sato_chat0042"]
 [ns]Satto☆[nse]
-「疲れたけど、まだ寝るには早いよ～、[r]
-　それよりも、えーと中澤君だっけ？」[pcms]
+"I'm tired, but it's too early to sleep~ Besides, you're Nakazawa-kun,[r]
+right?"[pcms]
 
 *3794|
 [fc]
 [ns]Ma-Kun.S[nse]
-「あ、うん……そうだけど」[pcms]
+"Ah, yeah... that's right."[pcms]
 
 *3795|
 [fc]
-別にロールプレイしてるわけじゃないから、[r]
-本名で呼ばれてもいいけど……ドキッとする。[pcms]
+We're not role-playing or anything, so it's fine to be called by my[r]
+real name... but it still makes my heart race.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -333,51 +327,49 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0043"]
 [ns]Satto☆[nse]
-「キミ、かわいい顔してけっこうやるね～？」[pcms]
+"You have a cute face but you're pretty good, aren't you~?"[pcms]
 
 *3797|
 [fc]
-フヒヒっと笑いそうなオヤジ声で、[r]
-気にかかるようなことを言い始めた。[pcms]
+With a chuckle that sounded like an old man's laugh, she started[r]
+saying things that caught my attention.[pcms]
 
 *3798|
 [fc]
-かわいい顔というのはともかく、[r]
-やるって、なんのことだろうか。[pcms]
+Cute face aside, what does she mean by 'pretty good'?[pcms]
 
 *3799|
 [fc]
-もしかして、Satto☆さんにもなにか、[r]
-やってしまったのかな？[pcms]
+I wonder if I've done something to catch Satto☆'s attention as well?[pcms]
 
 *3800|
 [fc]
 [vo_sat s="sato_chat0044"]
 [ns]Satto☆[nse]
-「スポーツセンターで、君のことを呼びに来たかわいい子、[r]
-　越智のお屋敷の子なんでしょう？　逆玉じゃ～ん」[pcms]
+"The cute girl who came to call you at the sports center, she's from[r]
+the Ochi mansion, right? You've hit the jackpot!"[pcms]
 
 *3801|
 [fc]
-なんだ、そんなことだったのか。[r]
-大方、そーいちが余計なことを吹き込んだんだろう。[pcms]
+So that's what it was about. Souichirou must have been spreading some[r]
+unnecessary rumors.[pcms]
 
 *3802|
 [fc]
-村上さんが越智さんのことを知っているはずはないし、[r]
-どんな関係かなんて、益々わかるはずがない。[pcms]
+There's no way Murakami-san would know about Ochi-san, let alone[r]
+understand their relationshipit's even more unclear.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty"][ChrSetXY layer=5 x=-110 y=130][trans_c cross time=150]
 
 *3803|
 [fc]
 [ns]Fatty.G[nse]
-「あっ、痛っつぅぅぅっ！」[pcms]
+"Ouch, that hurts!"[pcms]
 
 *3804|
 [fc]
-向かいのテーブルにいる豚君のスネの辺りを蹴ってやった。[r]
-ボイスチャットから変な声が聞こえてくる。[pcms]
+I kicked Pig-kun in the shin area at the opposite table. A strange[r]
+voice came through the voice chat.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -385,28 +377,28 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0045"]
 [ns]Satto☆[nse]
-「どうしたの？」[pcms]
+"What happened?"[pcms]
 
 *3806|
 [fc]
 [ns]Ma-Kun.S[nse]
-「なんでもないよ、それより越智さんのことは誤解だ。[r]
-　糖分取りすぎ男がなにを言ったのかわからないけど、[r]
-　まだそういう関係じゃないから」[pcms]
+"It's nothing, but there's a misunderstanding about Ochi-san. I don't[r]
+know what the sugar-overdose guy said, but we're not in that kind of[r]
+relationship yet."[pcms]
 
 *3807|
 [fc]
 [vo_sat s="sato_chat0046"]
 [ns]Satto☆[nse]
-「わぁお、まだってことは、狙っているんだ？」[pcms]
+"Wow, 'yet' means you're aiming for it?"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3808|
 [fc]
 [ns]Fatty.G[nse]
-「越智さんは誠だけじゃなくて俺とも親しい。[r]
-　呼びに来たのは二人分だってば」[pcms]
+"Ochi-san is close not only to Makoto but also to me. She came to call[r]
+for both of us."[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -414,51 +406,51 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0047"]
 [ns]Satto☆[nse]
-「素のFatty.Gを初めて見ちゃった」[pcms]
+"I think I just saw the real Fatty.G for the first time."[pcms]
 
 *3810|
 [fc]
-ネットでもリアルでも、いつもはキャラを作っているからな。[r]
-それだけ越智さんのことは真剣なんだろう。[pcms]
+In both the net and real life, he always plays a character. That must[r]
+mean he's serious about Ochi-san.[pcms]
 
 *3811|
 [fc]
 [ns]Ma-Kun.S[nse]
-「残念だけど、僕の彼女じゃないよ」[pcms]
+"Unfortunately, she's not my girlfriend."[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty"][ChrSetXY layer=5 x=-110 y=130][trans_c cross time=150]
 
 *3812|
 [fc]
 [ns]Fatty.G[nse]
-「そうだ、このショタメガネの彼女じゃない。[r]
-　越智さんのことを誤解している」[pcms]
+"That's right, she's not this shota-glasses' girlfriend. You're[r]
+misunderstanding about Ochi-san."[pcms]
 
 *3813|
 [fc]
 [ns]Ma-Kun.S[nse]
-「んぐっ、あたたっ！」[pcms]
+"Ngh, that's hot!"[pcms]
 
 *3814|
 [fc]
-そーいちが、お返しとばかりに僕のスネを蹴ってきた。[r]
-二人とも明日には青くなっているかも知れない。[pcms]
+Souichirou kicked me in the shin as if returning the favor. Both of us[r]
+might end up with bruises by tomorrow.[pcms]
 
 *3815|
 [fc]
 [ns]Fatty.G[nse]
-「まぁ、誰がふさわしいかとなれば、[r]
-　それはもちろん俺でしょうが。ふふっ」[pcms]
+"Well, if we're talking about who's suitable, of course it would be[r]
+me. Hehe."[pcms]
 
 *3816|
 [fc]
-突然なにを言い出すかと思ったら、[r]
-トチ狂ってしまったみたいだった。[pcms]
+I wondered what he was going to say all of a sudden; it seemed like he[r]
+had lost his mind.[pcms]
 
 *3817|
 [fc]
-越智さんのこと姫とか言って追い回している、[r]
-ストーカーのくせに、ふさわしいは無い。[pcms]
+He chases after Ochi-san calling her a princess and acts like a[r]
+stalker; there's no way he's suitable.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -466,33 +458,32 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0048"]
 [ns]Satto☆[nse]
-「あの子の感じからして、てっきり[r]
-　付き合っているのかと思っちゃった」[pcms]
+"From the way she acted, I really thought you two were dating."[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty"][ChrSetXY layer=5 x=-110 y=130][trans_c cross time=150]
 
 *3819|
 [fc]
 [ns]Fatty.G[nse]
-「ふふふっ、そうでしょうそうでしょう」[pcms]
+"Hehehe, right? Right?"[pcms]
 
 *3820|
 [fc]
 [vo_sat s="sato_chat0049"]
 [ns]Satto☆[nse]
-「いや、君でなくて」[pcms]
+"No, not you."[pcms]
 
 [eval exp="f.chara_x = -110,f.chara_y = 130"][quake_chara layer=5 lo xy m]
 
 *3821|
 [fc]
 [ns]Fatty.G[nse]
-「なにーーーっ！」[pcms]
+"What---!"[pcms]
 
 *3822|
 [fc]
-そーいちが椅子の上でジタバタと暴れている。[r]
-画面上のキャラも、なんだかジタバタとしていた。[pcms]
+Souichirou is thrashing about on his chair. Even his character on the[r]
+screen seemed to be flailing around.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -500,39 +491,38 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0050"]
 [ns]Satto☆[nse]
-「うーん、勘違いだったかなぁ。[r]
-　でも、少なくとも中澤君が気に入っているのは、[r]
-　間違いないだろうね？」[pcms]
+"Hmm, maybe I misunderstood. But at least it's clear that Nakazawa-kun[r]
+is interested in her, right?"[pcms]
 
 *3824|
 [fc]
 [ns]Ma-Kun.S[nse]
-「嬉しいけれど、女の勘？[r]
-　ホントだったらすごいけど」[pcms]
+"I'm flattered, but a woman's intuition? It would be amazing if it[r]
+were true."[pcms]
 
 *3825|
 [fc]
 [vo_sat s="sato_chat0051"]
 [ns]Satto☆[nse]
-「総合して言えば勘になるのかな？」[pcms]
+"If I put everything together, does it become intuition?"[pcms]
 
 *3826|
 [fc]
 [ns]Ma-Kun.S[nse]
-「いってぇっ！　蹴るなって！」[pcms]
+"Ouch! Don't kick me!"[pcms]
 
 *3827|
 [fc]
-そーいちが無言でスネに蹴りを食らわせてきた。[r]
-別になにも言ってないのに。[pcms]
+Souichirou silently delivered a kick to my shin. I hadn't even said[r]
+anything.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3828|
 [fc]
 [ns]Fatty.G[nse]
-「さっきも話した通り、越智さんは誰にでも優しいから、[r]
-　村上さんの誤解だよ！」[pcms]
+"As I said before, Ochi-san is kind to everyone, so it's just a[r]
+misunderstanding on Murakami-san's part!"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -540,59 +530,59 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0052"]
 [ns]Satto☆[nse]
-「まぁ、なんにせよ、この島の大地主の子と親しいなんて、[r]
-　スゴいことだよね～」[pcms]
+"Well, anyway, being close to the daughter of the island's biggest[r]
+landowner is pretty amazing, huh~"[pcms]
 
 *3830|
 [fc]
-相当なお金持ちで、お姫様な家系だってのは知っていたけれど、[r]
-やっぱり地元の名士なんだな。[pcms]
+I knew they were quite wealthy and had a princess-like family lineage,[r]
+but they really are local celebrities.[pcms]
 
 *3831|
 [fc]
-同じクラスだったりしたら、恐れ多いとか、[r]
-距離を置かれちゃう感じなんだろうか。[pcms]
+If we were in the same class, would it be too presumptuous to approach[r]
+her? Would she keep her distance?[pcms]
 
 *3832|
 [fc]
 [ns]Ma-Kun.S[nse]
-「越智さんの家って、そんなにすごいんだ？」[pcms]
+"Ochi-san's family is that impressive?"[pcms]
 
 *3833|
 [fc]
 [vo_sat s="sato_chat0053"]
 [ns]Satto☆[nse]
-「すごいなんてもんじゃないよ、[r]
-　この辺りの絶対的権力者だよね」[pcms]
+"Impressive is an understatement; they're the absolute power holders[r]
+around here."[pcms]
 
 *3834|
 [fc]
-絶対的権力者って……そこまですごいものなのかな？[r]
-ただ、金持ちってだけじゃなさそうだ。[pcms]
+Absolute power holders... Is it really that significant? It seems like[r]
+it's more than just being wealthy.[pcms]
 
 *3835|
 [fc]
 [vo_sat s="sato_chat0054"]
 [ns]Satto☆[nse]
-「瀬渡内には、あたしの村上性もそうだけど、[r]
-　河野とか越智って名字が多いのよ」[pcms]
+"In Sedowanai, there are many with the surnames Murakami and Ochi,[r]
+like my own Murakami."[pcms]
 
 *3836|
 [fc]
 [ns]Ma-Kun.S[nse]
-「うん、奈良時代の豪族とか、[r]
-　村上水軍を組織していたことの名残だよね」[pcms]
+"Yeah, it's a remnant from the Nara period aristocrats or the Murakami[r]
+naval forces."[pcms]
 
 *3837|
 [fc]
 [vo_sat s="sato_chat0055"]
 [ns]Satto☆[nse]
-「誠君くわしいっ！」[pcms]
+"Makoto-kun, you're so knowledgeable!"[pcms]
 
 *3838|
 [fc]
-誠君って呼ばれちゃった。[r]
-まーくんと呼ばれるのも時間の問題かな。[pcms]
+Now I've been called Makoto-kun. It's probably only a matter of time[r]
+before they start calling me Ma-kun.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="monb_fatty"][ChrSetXY layer=3 x=-430 y=130]
@@ -602,203 +592,198 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0056"]
 [ns]Satto☆[nse]
-「そのなかでも、あの越智家は本家筋で、[r]
-　地方豪族の末裔に当たる本物の旧家だからね」[pcms]
+"Among them, the Ochi family is the main house, a genuine old family[r]
+descended from regional nobility."[pcms]
 
 *3840|
 [fc]
 [ns]Fatty.G[nse]
-「村上さんはくわしいですなぁ、[r]
-　授業で習ったりするのですかな」[pcms]
+"Murakami-san is well-informed, did you learn this in class?"[pcms]
 
 *3841|
 [fc]
 [vo_sat s="sato_chat0057"]
 [ns]Satto☆[nse]
-「小さい頃に大人に教わったりもするしね。[r]
-　島にある大神神社は越智家の先祖が[r]
-　建立したって言われてるから」[pcms]
+"I was taught by adults when I was little. The Omi Shrine on the[r]
+island is said to have been established by Ochi family ancestors."[pcms]
 
 *3842|
 [fc]
-その神社はなにか特別なものなのかな。[r]
-そういう話の流れだけど。[pcms]
+I wonder if there's something special about that shrine. That seems to[r]
+be where the conversation is heading.[pcms]
 
 *3843|
 [fc]
 [vo_sat s="sato_chat0058"]
 [ns]Satto☆[nse]
-「今は島の大地主で、すんごい儲かっている海運だか、[r]
-　貿易だかの会社をやってるよね」[pcms]
+"Now they're big landowners and run a very profitable shipping or[r]
+trading company, I think."[pcms]
 
 *3844|
 [fc]
 [ns]Ma-Kun.S[nse]
-「僕らが泊まっているホテルは、[r]
-　越智さんの叔父さんが建てたらしいね」[pcms]
+"The hotel we're staying at was apparently built by Ochi-san's uncle."[pcms]
 
 *3845|
 [fc]
 [vo_sat s="sato_chat0059"]
 [ns]Satto☆[nse]
-「グループまとめてすごいんだけど、当主にあたる人が[r]
-　政治家になったりで、この地域での影響力が半端ないのよ」[pcms]
+"The whole group is impressive, but especially the head of the family[r]
+who became a politician; their influence in this area is[r]
+extraordinary."[pcms]
 
 *3846|
 [fc]
-お金と権力の両方を握っているわけか。[r]
-越智さんもすごい家に生まれたもんだ。[pcms]
+So they hold both money and power. Ochi-san was born into an[r]
+incredible family.[pcms]
 
 *3847|
 [fc]
-この辺りで暮らしていくのは、[r]
-簡単そうで色々面倒くさい気がするけれど。[pcms]
+Living around here seems simple but probably comes with its fair share[r]
+of complications.[pcms]
 
 *3848|
 [fc]
 [vo_sat s="sato_chat0060"]
 [ns]Satto☆[nse]
-「どうも、モンバスのイベントも同じ日にやるロックフェスも、[r]
-　越智家の人が誘致したらしいんだ」[pcms]
+"Apparently, both the Monbus event and the rock festival happening on[r]
+the same day were brought in by someone from the Ochi family."[pcms]
 
 *3849|
 [fc]
 [ns]Fatty.G[nse]
-「観光業をするなら、そういうのが欲しいですからな」[pcms]
+"If you're in the tourism business, you'd want events like that."[pcms]
 
 *3850|
 [fc]
-あの稼津央とかいう、越智さんの叔父さんのことを思い出す。[pcms]
+I'm reminded of that person named Kazuo Ochi, Ochi-san's uncle.[pcms]
 
 *3851|
 [fc]
-いかにもやり手という感じのあの人なら、[r]
-そのくらいのこと何でもないんだろう。[pcms]
+Someone as shrewd as him would probably find organizing such events[r]
+trivial.[pcms]
 
 *3852|
 [fc]
-大橋で本州と四国を行き来できるとは言え、[r]
-この島はそこまで交通の便が良くない。[pcms]
+Even though you can travel between Honshu and Shikoku via the bridge,[r]
+this island isn't that accessible.[pcms]
 
 *3853|
 [fc]
-そんな大きなイベントを誘致できるっていうのは、[r]
-力の大きさを感じさせる出来事だった。[pcms]
+Being able to attract such a big event really shows their power.[pcms]
 
 *3854|
 [fc]
 [ns]Fatty.G[nse]
-「このホテルは最近まで内装工事してたそうですが、[r]
-　営業を始めたのはいつからですかな？」[pcms]
+"This hotel was undergoing interior renovations until recently, but[r]
+when did it start operating?"[pcms]
 
 *3855|
 [fc]
 [vo_sat s="sato_chat0061"]
 [ns]Satto☆[nse]
-「うーん、お店があるフロアとかは４月からやってたかな？[r]
-　ホテルの方は５月くらいだと思う」[pcms]
+"Hmm, I think the shops on some floors started in April? The hotel[r]
+itself probably around May."[pcms]
 
 *3856|
 [fc]
-今は８月だから、結構工事に手間取っているんだな。[r]
-このフロアだけに何か問題でもあったのか？[pcms]
+It's August now, so it seems they had quite a delay with the[r]
+construction. Was there some issue with this floor alone?[pcms]
 
 *3857|
 [fc]
 [ns]Fatty.G[nse]
-「このホテルのピーアルもかねての誘致っぽいですな。[r]
-　俺たち合宿一行が身内のコネで泊めてもらえるのも、[r]
-　その一環かも知れませぬ」[pcms]
+"It seems like this hotel's opening was also part of the attraction[r]
+efforts. Our training camp group staying here through family[r]
+connections might be part of that too."[pcms]
 
 *3858|
 [fc]
-確かに、鶯谷学園の生徒には金持ちや[r]
-メディア関係者なんかの子供が多い。[pcms]
+Indeed, many students at Uguisudani Academy come from wealthy families[r]
+or those involved in media.[pcms]
 
 *3859|
 [fc]
-実際、そーいちは雑誌編集長の息子だし、[r]
-その辺りまで折り込み済みなら、[r]
-さすがとしか言いようがなかった。[pcms]
+In fact, Souichirou is the son of a magazine editor; if all that was[r]
+taken into account, it's quite impressive.[pcms]
 
 *3860|
 [fc]
 [vo_sat s="sato_chat0062"]
 [ns]Satto☆[nse]
-「島の大人は、派手なホテルや観光誘致に反発もあるみたい。[r]
-　あたしは遊べる場所とかコンビニができて嬉しいけど」[pcms]
+"The island's adults seem to have some resistance to flashy hotels and[r]
+tourism promotion. I'm happy about having places to hang out and[r]
+convenience stores though."[pcms]
 
 *3861|
 [fc]
 [ns]Fatty.G[nse]
-「ホテルがゴージャスですからなぁ、[r]
-　景観を損ねているかと言われれば、[r]
-　微妙な感じです」[pcms]
+"The hotel is gorgeous, so if you ask whether it ruins the landscape,[r]
+it's a bit of a delicate issue."[pcms]
 
 *3862|
 [fc]
 [vo_sat s="sato_chat0063"]
 [ns]Satto☆[nse]
-「ＤＶＤとか月極のネットレンタルは高いもんね。[r]
-　好きなときに軽く映画やアニメを借りられるのは、[r]
-　便利だってターヤも喜んでたよ」[pcms]
+"DVDs and monthly internet rentals are expensive. Being able to[r]
+casually rent movies or anime anytime is convenient; even Tarja was[r]
+happy about it."[pcms]
 
 *3863|
 [fc]
-そういえば、Taryanさんの姿がない。[r]
-僕と会うのは嫌だって意思表示なのかな。[pcms]
+Come to think of it, I haven't seen Taryan-san. Maybe she's showing[r]
+she doesn't want to meet me.[pcms]
 
 *3864|
 [fc]
-そこまで怒らせちゃったんなら、なんか哀しい。[r]
-せめて謝る機会が欲しかった。[pcms]
+If I've upset her that much, it's kind of sad. I at least wanted a[r]
+chance to apologize.[pcms]
 
 *3865|
 [fc]
 [ns]Ma-Kun.S[nse]
-「その、Taryanさんはどうしたの？」[pcms]
+"So, where is Taryan-san?"[pcms]
 
 *3866|
 [fc]
 [vo_sat s="sato_chat0064"]
 [ns]Satto☆[nse]
-「３０分くらい前までｉｎしてたんだけど、[r]
-　眠いから落ちるって」[pcms]
+"She was logged in until about 30 minutes ago, but she said she was[r]
+sleepy and logged off."[pcms]
 
 *3867|
 [fc]
 [ns]Fatty.G[nse]
-「狩りの間も少し動きが鈍かったですな。[r]
-　昼間の練習が堪えたのでしょう」[pcms]
+"Her movements were a bit sluggish during the hunt too. Maybe the[r]
+practice during the day took its toll."[pcms]
 
 *3868|
 [fc]
-そうか、とくに僕への当てつけとかではないらしい。[r]
-少し時間を置いた方がいいかも知れないから、[r]
-タイミングが良かったのかも。[pcms]
+It seems it's not specifically to spite me. It might be better to give[r]
+it some time, so maybe the timing was good.[pcms]
 
 *3869|
 [fc]
 [ns]Ma-Kun.S[nse]
-「Taryanさん、変わったところとか無かった？」[pcms]
+"Did you notice anything different about Taryan-san?"[pcms]
 
 *3870|
 [fc]
 [ns]Fatty.G[nse]
-「別になかったと思うぞ。[r]
-　普段から無口だから、ゲーム越しには良くわからんが」[pcms]
+"I don't think so. She's usually quiet, so it's hard to tell over the[r]
+game."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3871|
 [fc]
-愚痴って、くれていれば謝る切っ掛けになったのに、[r]
-無口ってことは相当怒ってるかな。[pcms]
+It would have been a chance to apologize if she had complained, but[r]
+her being quiet might mean she's really angry.[pcms]
 
 *3872|
 [fc]
-村上さんにも言ってないっぽいし、[r]
-これは本格的にヤバイかも。[pcms]
+It doesn't seem like she's told Murakami-san either, this might be[r]
+seriously bad.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -806,30 +791,29 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0065"]
 [ns]Satto☆[nse]
-「どうかしたの？」[pcms]
+"What's wrong?"[pcms]
 
 *3874|
 [fc]
 [ns]Ma-Kun.S[nse]
-「いや、昼間のことなんだけど……」[pcms]
+"No, it's about what happened this afternoon..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3875|
 [fc]
-僕はターヤさんがあまりにもきれいだったから、[r]
-思わずカメラを構えてしまったことを、[r]
-告白していた。[pcms]
+I was confessing that I had inadvertently taken out my camera because[r]
+Taryan-san was so beautiful.[pcms]
 
 *3876|
 [fc]
-話して楽になりたかったのもあるけれど、[r]
-事情を説明しておかないと変な空気になりそうで恐い。[pcms]
+I wanted to talk about it to feel better, but I also needed to explain[r]
+the situation to avoid any weird vibes.[pcms]
 
 *3877|
 [fc]
-なんにせよ、いきなりカメラはなかったよな。[r]
-反省しておかないと。[pcms]
+Anyway, suddenly taking out a camera was not okay. I need to reflect[r]
+on that.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="monb_fatty"][ChrSetXY layer=3 x=-430 y=130]
@@ -839,222 +823,216 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0066"]
 [ns]Satto☆[nse]
-「そういうことだったのか～」[pcms]
+"So that's what happened..."[pcms]
 
 *3879|
 [fc]
 [ns]Fatty.G[nse]
-「写真も撮れない上に怒らせるとか、[r]
-　役にたたん奴め」[pcms]
+"You can't even take a photo without making her angry, you useless[r]
+guy."[pcms]
 
 *3880|
 [fc]
-そーいちもターヤさんの写真が欲しかったのか。[r]
-この駄目人間め。[pcms]
+So Souichirou also wanted a photo of Taryan-san. This hopeless person.[pcms]
 
 *3881|
 [fc]
 [vo_sat s="sato_chat0067"]
 [ns]Satto☆[nse]
-「ターヤは、あんまりジロジロ見られるのが[r]
-　好きじゃないみたい」[pcms]
+"Taryan doesn't seem to like being stared at too much."[pcms]
 
 *3882|
 [fc]
 [ns]Fatty.G[nse]
-「確か、ターヤさんはレイヤーだったはずですが」[pcms]
+"Indeed, Taryan-san is a cosplayer, if I remember correctly."[pcms]
 
 *3883|
 [fc]
 [vo_sat s="sato_chat0068"]
 [ns]Satto☆[nse]
-「コスプレしているときは別だって話だけど、[r]
-　あんまりエロ目線で見られるのはネ～」[pcms]
+"She says it's different when she's cosplaying, but she doesn't like[r]
+being looked at with lecherous eyes."[pcms]
 
 *3884|
 [fc]
 [ns]Ma-Kun.S[nse]
-「う、申し訳ない。[r]
-　返す言葉もありません……」[pcms]
+"Uh, I'm sorry. I have no excuse..."[pcms]
 
 *3885|
 [fc]
-あの外見であの性格だと、[r]
-嫌な目にも色々とあっているんだろう。[pcms]
+With that appearance and personality, she must have had her fair share[r]
+of unpleasant experiences.[pcms]
 
 *3886|
 [fc]
-子供の頃とか、からかわれただろうし……。[pcms]
+She probably got teased as a child too...[pcms]
 
 *3887|
 [fc]
 [ns]Fatty.G[nse]
-「ふむ、無口なだけではなく、[r]
-　ちょっと気むずかしいところもあるんですな」[pcms]
+"Hmm, so she's not just quiet, but also a bit temperamental."[pcms]
 
 *3888|
 [fc]
 [vo_sat s="sato_chat0069"]
 [ns]Satto☆[nse]
-「わかりにくいかも知れないけれど、[r]
-　根は割と直球な子なんだよ？」[pcms]
+"It might be hard to tell, but at heart, she's actually quite[r]
+straightforward, you know?"[pcms]
 
 *3889|
 [fc]
-直球か……嫌なら嫌って感じではあるよな。[pcms]
+If she's straightforward... then if she dislikes something, she shows[r]
+it.[pcms]
 
 *3890|
 [fc]
-越智さんなら、嫌でも愛想笑いが出来る[r]
-愛嬌を持っていると思うけれど……。[pcms]
+Ochi-san would probably manage a polite smile even if she didn't like[r]
+something...[pcms]
 
 *3891|
 [fc]
 [vo_sat s="sato_chat0070"]
 [ns]Satto☆[nse]
-「関西圏では結構有名な体操選手なの。[r]
-　あのルックスだから仕方ないよね」[pcms]
+"She's quite a famous gymnast in the Kansai region. It can't be helped[r]
+with those looks."[pcms]
 
 *3892|
 [fc]
 [ns]Fatty.G[nse]
-「金髪の美少女は、話題になりそうですなぁ」[pcms]
+"A blonde beauty would certainly become a topic of conversation."[pcms]
 
 *3893|
 [fc]
 [vo_sat s="sato_chat0071"]
 [ns]Satto☆[nse]
-「去年に京都から引っ越してきたんだけど、[r]
-　みんなに溶け込めないみたい」[pcms]
+"She moved here from Kyoto last year, but it seems like she hasn't[r]
+been able to blend in with everyone."[pcms]
 
 *3894|
 [fc]
-ゲームであの調子なら、リアルでもそうだろうと思う。[pcms]
+If she's like that in the game, I'd think she's the same in real life.[pcms]
 
 *3895|
 [fc]
-というか、今日リアルで会ったけど、[r]
-ゲームの中とまんま同じだったし。[pcms]
+In fact, when I met her in real life today, she was exactly like she[r]
+is in the game.[pcms]
 
 *3896|
 [fc]
 [vo_sat s="sato_chat0072"]
 [ns]Satto☆[nse]
-「島の人間って、結構誰でもウェルカムなんだよね。[r]
-　でも、ターヤは人見知りをするのと、色々と思うところが[r]
-　あるらしくて、あたし以外に友達を作らないの」[pcms]
+"People on the island are pretty welcoming to anyone, but Taryan is[r]
+shy and has her own thoughts about things, so she doesn't make friends[r]
+besides me."[pcms]
 
 *3897|
 [fc]
 [ns]Ma-Kun.S[nse]
-「いじめられたりしてないの？」[pcms]
+"Isn't she being bullied or anything?"[pcms]
 
 *3898|
 [fc]
 [vo_sat s="sato_chat0073"]
 [ns]Satto☆[nse]
-「みんな仲良くしたがってるんだけど、[r]
-　ターヤ自身が素直になれないみたい。[r]
-　なんか、切っ掛けがあればなぁ」[pcms]
+"Everyone wants to get along with her, but Taryan herself can't seem[r]
+to open up. If only there was some kind of opportunity..."[pcms]
 
 *3899|
 [fc]
-一度作ってしまった壁を、[r]
-自分から壊すのは容易じゃないだろう。[pcms]
+Once you've built a wall, it's not easy to tear it down yourself.[pcms]
 
 *3900|
 [fc]
-新生活はデビューが大事だって言うけれど、[r]
-完全に失敗しているみたいだ。[pcms]
+Making a good impression is important when starting a new life, but it[r]
+seems like she's completely failed at that.[pcms]
 
 *3901|
 [fc]
 [ns]Fatty.G[nse]
-「村上さんは、どうやって知り合ったのですかな」[pcms]
+"Murakami-san, how did you get to know her?"[pcms]
 
 *3902|
 [fc]
 [vo_sat s="sato_chat0074"]
 [ns]Satto☆[nse]
-「あたしはターヤが京都にいる頃からのモンバス仲間だから、[r]
-　そうじゃなかったら、仲良くなれてたか自信ないな」[pcms]
+"I've been a Monster Buster buddy with Taryan since she was in Kyoto.[r]
+If not for that, I'm not sure if we could have become friends."[pcms]
 
 *3903|
 [fc]
 [ns]Ma-Kun.S[nse]
-「ターヤさんの思うところって、村上さんは知ってるの？」[pcms]
+"Do you know what Taryan-san is thinking about, Murakami-san?"[pcms]
 
 *3904|
 [fc]
-聞いちゃいけない話なのかも知れないけれど、[r]
-思うところがあって人と仲良くできない、[r]
-っていうのは珍しい。[pcms]
+It might be a conversation I shouldn't be having, but it's rare for[r]
+someone to have issues and not be able to get along with others.[pcms]
 
 *3905|
 [fc]
-何か力になれることなら、いいんだけど……。[pcms]
+If there's anything I can do to help, I would like to do so...[pcms]
 
 *3906|
 [fc]
 [vo_sat s="sato_chat0075"]
 [ns]Satto☆[nse]
-「なんか、親が勝手にここへの引っ越しを決めちゃったんだけど、[r]
-　ターヤは京都を離れたくなかったみたい」[pcms]
+"Somehow, her parents decided on their own to move here, but Taryan[r]
+didn't want to leave Kyoto."[pcms]
 
 *3907|
 [fc]
-引っ越しへの抵抗なのかな。[r]
-土地に馴染まないことで、親にアピールしているとか。[pcms]
+Maybe it's resistance to the move. By not getting used to the place,[r]
+she might be trying to make a point to her parents.[pcms]
 
 *3908|
 [fc]
 [vo_sat s="sato_chat0076"]
 [ns]Satto☆[nse]
-「それが切っ掛けかどうかわからないけれど、[r]
-　親とは上手くいってないんだって」[pcms]
+"I don't know if that's the reason, but she's not getting along well[r]
+with her parents."[pcms]
 
 *3909|
 [fc]
 [ns]Fatty.G[nse]
-「美人ですし、京都に恋人でもいましたかな」[pcms]
+"She's beautiful, maybe she had a boyfriend back in Kyoto?"[pcms]
 
 *3910|
 [fc]
 [vo_sat s="sato_chat0077"]
 [ns]Satto☆[nse]
-「うーん……」[pcms]
+"Hmm..."[pcms]
 
 *3911|
 [fc]
-結構、真面目な声で唸りながら、[r]
-村上さんは、何か迷っているみたいだった。[pcms]
+With a rather serious groan, Murakami-san seemed to be hesitating[r]
+about something.[pcms]
 
 *3912|
 [fc]
-あんまり、根掘り葉掘り聞くのは良くないな。[pcms]
+It's probably not good to pry too much.[pcms]
 
 *3913|
 [fc]
 [ns]Ma-Kun.S[nse]
-「無理に話さなくても……」[pcms]
+"You don't have to force yourself to talk..."[pcms]
 
 *3914|
 [fc]
 [vo_sat s="sato_chat0078"]
 [ns]Satto☆[nse]
-「無理ってことでもないんだけど、ターヤにはお姉さんがいたの」[pcms]
+"It's not that it's a force, but Taryan had an older sister."[pcms]
 
 *3915|
 [fc]
 [ns]Fatty.G[nse]
-「いた？」[pcms]
+"Had?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3916|
 [fc]
-過去形で話をしているってことは、[r]
-そういうことなんだろう。[pcms]
+The fact that she's speaking in the past tense means it's probably[r]
+that.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1062,46 +1040,46 @@ Satto☆さんがすぐに声をかけてくる。[pcms]
 [fc]
 [vo_sat s="sato_chat0079"]
 [ns]Satto☆[nse]
-「４年前のエピデミックの時に行方不明になって、[r]
-　それっきり」[pcms]
+"She went missing during the epidemic four years ago, and that was the[r]
+last of it."[pcms]
 
 *3918|
 [fc]
 [vo_sat s="sato_chat0080"]
 [ns]Satto☆[nse]
-「ターヤはお姉さんが帰ってくるまで、[r]
-　京都の家を離れたくなかったみたい」[pcms]
+"Taryan didn't want to leave the house in Kyoto until her sister came[r]
+back."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3919|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3920|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *3921|
 [fc]
-ヘッドセットをしながら、[r]
-思わずそーいちと目を合わせてしまう。[pcms]
+While wearing the headset, I inadvertently made eye contact with[r]
+Souichirou.[pcms]
 
 *3922|
 [fc]
-僕は、ターヤさんに似た人のコスプレ画像を、[r]
-携帯のメモリーに保存してあった。[pcms]
+I had saved cosplay images of someone who looked like Taryan in my[r]
+phone's memory.[pcms]
 
 *3923|
 [fc]
-もしかして、あの人って……。[pcms]
+Could it be that person...?[pcms]
 
 *3924|
 [fc]
-散々、実用に使っておきながら、[r]
-僕は心に暗い幕が下りるのを感じていた。[pcms]
+Despite having used them extensively, I felt a dark curtain falling[r]
+over my heart.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

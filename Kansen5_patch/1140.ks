@@ -18,38 +18,36 @@
 
 *2868|
 [fc]
-[ns]誠[nse]
-「はぁっ……はぁっ……」[pcms]
+[ns]Makoto[nse]
+"Haa... Haa..."[pcms]
 
 *2869|
 [fc]
-僕は疲れた身体にムチを打って越智さんを背負い、[r]
-砲台跡を出て道を歩いて行く。[pcms]
+I whip my tired body into action, carrying Ochi-san on my back, and[r]
+leave the battery ruins to walk down the road.[pcms]
 
 *2870|
 [fc]
-越智本家に繋がる道はこれでいいんだろうか。[r]
-海岸線沿いの大通りではないけれど……。[pcms]
+I wonder if this is the right way to the Ochi family home. It's not[r]
+the main street along the coast...[pcms]
 
 *2871|
 [fc]
-辺りはかなり暗くなっていて、目印になるものが[r]
-見つけ難くなっている。[pcms]
+The area has gotten quite dark, and it's becoming difficult to find[r]
+anything that could serve as a landmark.[pcms]
 
 *2872|
 [fc]
-でも、もうすぐ、越智さんの実家がそんなに遠くないのは、[r]
-間違いないはずだ。[pcms]
+But I'm certain that Ochi-san's family home isn't much farther now.[pcms]
 
 *2873|
 [fc]
-薄暗くてよくわからないけれど、[r]
-感染者も自衛隊も近くには見あたらない。[pcms]
+It's dim and hard to see, but there don't seem to be any infected or[r]
+Self-Defense Forces nearby.[pcms]
 
 *2874|
 [fc]
-後は、僕が気合いを入れて歩けば、[r]
-解決する問題だった。[pcms]
+The rest is a problem I can solve by just walking with determination.[pcms]
 
 
 [black_toplayer][trans_c cross time=0]
@@ -58,249 +56,241 @@
 
 *2875|
 [fc]
-[ns]誠[nse]
-「うっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh..."[pcms]
 
 *2876|
 [fc]
-一瞬、[ruby text="めまい"][ch text="目眩"]のように視界がぼやけて、[r]
-膝の力がかくっと抜ける。[pcms]
+For a moment, my vision blurs like dizziness, and my knees buckle.[pcms]
 
 *2877|
 [fc]
-もう少しで美沙緒さんのところにたどり着けるんだ。[r]
-頑張れ、休んでいる時間なんて無い。[pcms]
+I'm so close to reaching Misao-san's place. I have to keep going;[r]
+there's no time to rest.[pcms]
 
 *2878|
 [fc]
 [vo_aka s="akari0493"]
-[ns]茜梨[nse]
-「あーっ……」[pcms]
+[ns]Akari[nse]
+"Ah-..."[pcms]
 
 *2879|
 [fc]
-越智さんが夕日を遮る暗がりの辺りを指さして、[r]
-何かを訴えている。[pcms]
+Ochi-san points towards a dark area blocking the sunset, seemingly[r]
+trying to tell me something.[pcms]
 
 *2880|
 [fc]
-かすむ目をこらしてよく見ると、[r]
-そこには大勢の感染者がたむろっているのが見て取れた。[pcms]
+Squinting through my blurry eyes, I can make out a large group of[r]
+infected people gathered there.[pcms]
 
 *2881|
 [fc]
-乱交に耽っているのか、[r]
-腹を満たしているのかはわからないが……。[pcms]
+Whether they are indulging in an orgy or satisfying their hunger, I[r]
+can't tell...[pcms]
 
 *2882|
 [fc]
-僕は慌ててそこから逃げ出すように、[r]
-足を速めていった。[pcms]
+I hurry away from there, quickening my pace as if fleeing.[pcms]
 
 *2883|
 [fc]
-自分のペースで歩きたかったんだけど、[r]
-こうなったら仕方がない。[pcms]
+I wanted to walk at my own pace, but now there's no helping it.[pcms]
 
 *2884|
 [fc]
 [vo_aka s="akari0494"]
-[ns]茜梨[nse]
-「ああーっ……」[pcms]
+[ns]Akari[nse]
+"Aah-..."[pcms]
 
 *2885|
 [fc]
-越智さんが前方の暗がりに向かって、[r]
-指を差し始めた。[pcms]
+Ochi-san starts pointing towards the darkness ahead.[pcms]
 
 *2886|
 [fc]
-冗談じゃないぞ、前にもいるのか……？[pcms]
+You've got to be kidding me, are there more ahead...?[pcms]
 
 *2887|
 [fc]
-僕は更に足を速めると、越智さんが指さしている辺りを[r]
-避けるように歩いて行く。[pcms]
+I quicken my pace even more, walking so as to avoid the area Ochi-san[r]
+is pointing at.[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x_bl"][ChrSetXY layer=3 x=-90 y=0][trans_c cross time=150]
 
 *2888|
 [fc]
-[ns]感染者Ａ[nse]
-「え゛へ゛へ゛へ……」[pcms]
+[ns]Infected Person A[nse]
+"Ehehehe..."[pcms]
 
 [ChrSetEx layer=6 chbase="mob_kan5_x_bl"][ChrSetXY layer=6 x=600 y=0][trans_c cross time=150]
 
 *2889|
 [fc]
-[ns]感染者Ｂ[nse]
-「な゛ん゛か゛……い゛る゛そ゛お゛……」[pcms]
+[ns]Infected Person B[nse]
+"There's... something... over there..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2890|
 [fc]
-やばい、見付かった。[r]
-疲労で震えが来ている足を、更に酷使して進んでいく。[pcms]
+This is bad, we've been spotted. My legs are trembling with fatigue as[r]
+I force them to move faster.[pcms]
 
 *2891|
 [fc]
-もう戻ることはできない。[r]
-このまま前に突破していくしかなかった。[pcms]
+There's no turning back now. The only option is to break through[r]
+ahead.[pcms]
 
 *2892|
 [fc]
 [vo_aka s="akari0495"]
-[ns]茜梨[nse]
-「あああーっ……」[pcms]
+[ns]Akari[nse]
+"Aaaaah-..."[pcms]
 
 *2893|
 [fc]
-越智さんが大きな声で僕の真正面を指さした。[r]
-まずい、これ以上進んじゃ駄目だ！[pcms]
+Ochi-san points directly in front of me with a loud voice. This is[r]
+bad, we can't go any further![pcms]
 
 *2894|
 [fc]
-僕は慌てて足を止めると、そのまま力が抜けるように[r]
-地面に倒れ込んでいた。[pcms]
+In a panic, I stop in my tracks and collapse to the ground as if all[r]
+strength has left me.[pcms]
 
 *2895|
 [fc]
-二人分の重量を急停止させるには、[r]
-僕の足が保たなかったんだ。[pcms]
+To bring our combined weight to a sudden stop, my legs just couldn't[r]
+hold up.[pcms]
 
 *2896|
 [fc]
-[ns]誠[nse]
-「越智さん、逃げないと！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, we have to run!"[pcms]
 
 *2897|
 [fc]
 [vo_aka s="akari0496"]
-[ns]茜梨[nse]
-「いっしょ……いっしょに、つれてってくらさい……」[pcms]
+[ns]Akari[nse]
+"Together... please take me with you..."[pcms]
 
 *2898|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2899|
 [fc]
-僕だけ……一人なら逃げられるのか……？[pcms]
+Could I... escape alone?[pcms]
 
 *2900|
 [fc]
-越智さんが指さしていた正面に目をこらすと、[r]
-感染者の集団がやってくるのが見えた。[pcms]
+Straining my eyes towards the front where Ochi-san had pointed, I can[r]
+see a group of infected people coming our way.[pcms]
 
 *2901|
 [fc]
-嫌だ、死にたくない……、[r]
-姉ちゃん、みんな……。[pcms]
+No, I don't want to die... Onee-san, everyone...[pcms]
 
 *2902|
 [fc]
-僕は越智さんの腕を掴むと、[r]
-力の入らない足を引きずりながら、[r]
-地面を這って元来た道を戻ろうとした。[pcms]
+I grab Ochi-san's arm and drag my powerless legs, crawling on the[r]
+ground back the way we came.[pcms]
 
 *2903|
 [fc]
-あの砲台跡まで逃げられれば、[r]
-体勢を立て直せる……。[pcms]
+If we can make it back to that battery ruin, we can regroup...[pcms]
 
 *2904|
 [fc]
-越智さんを掴んで振り返ると、そこには、[r]
-さっき見た感染者が、僕のことを見下ろすように[r]
-眺めている姿があった。[pcms]
+As I turn around while holding onto Ochi-san, there was the infected[r]
+person I saw earlier, looking down at me as if watching from above.[pcms]
 
 *2905|
 [fc]
-[ns]誠[nse]
-「あっ……ぐっ……」[pcms]
+[ns]Makoto[nse]
+"Ah... Guh..."[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x_bl"][ChrSetXY layer=3 x=90 y=0][trans_c cross time=150]
 
 *2906|
 [fc]
-[ns]感染者Ａ[nse]
-「え゛へ゛へ゛……」[pcms]
+[ns]Infected Person A[nse]
+"Ehehehe..."[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan5_x_bl"][ChrSetXY layer=4 x=500 y=0][trans_c cross time=150]
 
 *2907|
 [fc]
-[ns]感染者Ｂ[nse]
-「な゛ん゛た゛こ゛れ゛ぇ……な゛ん゛た゛ぁ……？」[pcms]
+[ns]Infected Person B[nse]
+"What's this... what's this...?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2908|
 [fc]
 [vo_aka s="akari0497"]
-[ns]茜梨[nse]
-「ああああーっ……あああっ……」[pcms]
+[ns]Akari[nse]
+"Aaaaaah... Aaaaah..."[pcms]
 
 *2909|
 [fc]
-越智さんが僕を守ろうとするように、[r]
-地面に倒れている僕と感染者の間に割って入った。[pcms]
+Ochi-san threw herself to the ground between me and the infected, as[r]
+if to protect me.[pcms]
 
 *2910|
 [fc]
-逃げないといけないのに……足が動かない。[r]
-もう、一歩も動けない……。[pcms]
+I have to escape... but my legs won't move. I can't take another[r]
+step...[pcms]
 
 [chara_int][trans_c blind_lr time=1000]
 
 *2911|
 [fc]
-すると、僕の襟を誰かが掴んで振り向かせる。[pcms]
+Then, someone grabs my collar and turns me around.[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan2_x_bl"][ChrSetXY layer=4 x=300 y=0][trans_c cross time=150]
 
 *2912|
 [fc]
-そこには、前からやって来た感染者のひとりが立っていた。[pcms]
+There stood one of the infected that had come from the front.[pcms]
 
 *2913|
 [fc]
 [vo_aka s="akari0498"]
-[ns]茜梨[nse]
-「あああああっ！　あああああああーっ！」[pcms]
+[ns]Akari[nse]
+"Aaaaaah! Aaaaaaaaaah!"[pcms]
 
 *2914|
 [fc]
-越智さんの泣き声が聞こえてくる。[pcms]
+I can hear Ochi-san's cries.[pcms]
 
 *2915|
 [fc]
-でも、もう僕にはどうすることもできなかった。[pcms]
+But there was nothing more I could do.[pcms]
 
 *2916|
 [fc]
-[ns]誠[nse]
-「越智さん……」[pcms]
+[ns]Makoto[nse]
+"Ochi-san..."[pcms]
 
 *2917|
 [fc]
-戦おうとしているのか、[r]
-足をよろけさせている越智さんに手を伸ばす。[pcms]
+I reach out to Ochi-san, who seems to be trying to fight, staggering[r]
+on her feet.[pcms]
 
 [black_toplayer][trans_c wipe time=2000][hide_chara_int]
 
 *2918|
 [fc]
-でも、僕は前後からやって来る感染者の波に、[r]
-そのまま飲み込まれていった。[pcms]
+But I was swallowed up by the wave of infected coming from both front[r]
+and behind.[pcms]
 
 *2919|
 [fc]
 [vo_aka s="akari0499"]
-[ns]茜梨[nse]
-「あああああああああああああっ！」[pcms]
+[ns]Akari[nse]
+"Aaaaaaaaaaaaaaaaaah!"[pcms]
 
 ;//ゲームオーバー
 ;//#_ブラックアウト
@@ -340,7 +330,7 @@
 [eval exp="sf.g_1140 = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 

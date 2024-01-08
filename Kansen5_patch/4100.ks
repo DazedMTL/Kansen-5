@@ -35,123 +35,123 @@
 
 *1613|
 [fc]
-僕たちを乗せたボートは大橋の下をくぐり抜けようとしていた。[pcms]
+The boat carrying us was trying to pass under the large bridge.[pcms]
 
 *1614|
 [fc]
-美しいと思った大橋は、今やあちこちで車が炎上し、[r]
-人々の叫び声が聞える地獄のような有り様になっている。[pcms]
+The beautiful bridge that I once admired is now a hellish sight with[r]
+cars ablaze everywhere and people's screams audible.[pcms]
 
 *1615|
 [fc]
-僕たちは息を呑みながら、その光景を見上げていた。[pcms]
+We were holding our breath, looking up at that scene.[pcms]
 
 ;//■_高いところから人が飛び込んだ時の激しい水音
 ;//※SEなし
 
 *1616|
 [fc]
-盛大な水音と共に人が何人も海に落ちてきていた。[r]
-自ら飛び込んだのか、落とされたのか、普通の人なのか、[r]
-感染者なのかすらもわからない。[pcms]
+With a loud splash, several people were falling into the sea. It was[r]
+unclear whether they jumped themselves, were thrown off, or if they[r]
+were ordinary people or infected.[pcms]
 
 ;//■_高いところから人が飛び込んだ時の激しい水音
 ;//※SEなし
 
 *1617|
 [fc]
-ボートのすぐ近くで水音がして、見ると女性が必死に手を伸ばし[r]
-僕たちに助けを求めていた。[pcms]
+There was a splash near the boat, and when we looked, a woman was[r]
+desperately reaching out her hands, begging us for help.[pcms]
 
 *1618|
 [fc]
 [vo_mob s="obore0001"]
-[ns]溺れてる女[nse]
-「お、願い……助け……ぐぼっ、助け……て、げぼっ」[pcms]
+[ns]Drowning Woman[nse]
+"Please... help... gurgle, save... me, cough"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1619|
 [fc]
 [vo_aka s="akari_nt0067"]
-[ns]茜梨[nse]
-「お姉様っ！　停めてください。助けを呼んでますっ！」[pcms]
+[ns]Akari[nse]
+"Onee-san! Please stop. She's calling for help!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1620|
 [fc]
 [vo_mis s="misao_nt0072"]
-[ns]美沙緒[nse]
-「残念だけど、無理よ……」[pcms]
+[ns]Misao[nse]
+"It's unfortunate, but it's impossible..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1621|
 [fc]
-美沙緒さんがそう言い切る前に、女性は海中へと[r]
-沈んでいってしまった。[pcms]
+Before Misao-san could finish her sentence, the woman had sunk beneath[r]
+the sea.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1622|
 [fc]
 [vo_aka s="akari_nt0068"]
-[ns]茜梨[nse]
-「ひ、酷い。お姉様っ！　助けられたかもしれないのにっ！」[pcms]
+[ns]Akari[nse]
+"That's terrible. Onee-san! She might have been saved!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1623|
 [fc]
 [vo_mis s="misao_nt0073"]
-[ns]美沙緒[nse]
-「……無理なのよ、茜梨。地元の人間なら誰でも知ってる事だけど[r]
-　ここらへんは海の幅が狭く潮流が急峻なの。もし落ちでもしたら、[r]
-　あっというまに渦潮に飲まれて上がってこられないのよ」[pcms]
+[ns]Misao[nse]
+"...It's impossible, Akari. Anyone local knows that around here the[r]
+sea is narrow and the currents are swift. If you fall in, you'll be[r]
+swallowed by a whirlpool in no time and won't be able to resurface."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1624|
 [fc]
 [vo_mis s="misao_nt0074"]
-[ns]美沙緒[nse]
-「だから私も今、最大限に集中して操舵してるの。[r]
-　こんな小型のボートぐらい、うっかり潮目を間違えれば[r]
-　飲み込まれる可能性がある場所なのよ、ここは」[pcms]
+[ns]Misao[nse]
+"That's why I'm concentrating as much as I can on steering right now.[r]
+A small boat like this could easily be swallowed if we're careless[r]
+with the current here."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1625|
 [fc]
 [vo_aka s="akari_nt0069"]
-[ns]茜梨[nse]
-「…………ごめんなさい」[pcms]
+[ns]Akari[nse]
+"...I'm sorry."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1626|
 [fc]
 [vo_mis s="misao_nt0075"]
-[ns]美沙緒[nse]
-「いいのよ……」[pcms]
+[ns]Misao[nse]
+"It's okay..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1627|
 [fc]
 [vo_stk s="satuki_nt0066"]
-[ns]彩月[nse]
-「越智さん……覚悟しておいた方がいいわよ。[r]
-　これからもっと悲惨な状況を目にすることになるから」[pcms]
+[ns]Satsuki[nse]
+"Ochi-san... you should brace yourself. We're going to witness even[r]
+more tragic situations from here on out."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1628|
 [fc]
 [vo_aka s="akari_nt0070"]
-[ns]茜梨[nse]
-「……え？　そんな……先輩」[pcms]
+[ns]Akari[nse]
+"...Eh? That's... Senpai"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -165,87 +165,86 @@
 *1629|
 [fc]
 [vo_stk s="satuki_nt0067"]
-[ns]彩月[nse]
-「気をシッカリもつのよ。[r]
-　今みたいに感情任せで動こうとしないで。[r]
-　心を強く冷静を心掛けて。じゃないと命を失うことになるわ」[pcms]
+[ns]Satsuki[nse]
+"Stay strong. Don't act on emotion like you just did. Keep your heart[r]
+strong and stay calm. Otherwise, you could lose your life."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1630|
 [fc]
 [vo_aka s="akari_nt0071"]
-[ns]茜梨[nse]
-「…………はい。心掛けます」[pcms]
+[ns]Akari[nse]
+"...Yes. I'll keep that in mind."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1631|
 [fc]
 [vo_stk s="satuki_nt0068"]
-[ns]彩月[nse]
-「薙刀術をやってるんだから、越智さんになら出来るはず。[r]
-　武道の心構えは出来ているはずなんだから。ね、しっかりね」[pcms]
+[ns]Satsuki[nse]
+"You practice naginatajutsu, so you should be able to do it, Ochi-san.[r]
+You're supposed to have the mindset of martial arts. Okay, stay firm."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1632|
 [fc]
 [vo_aka s="akari_nt0072"]
-[ns]茜梨[nse]
-「は、はい。南先輩」[pcms]
+[ns]Akari[nse]
+"Yes, Minami-senpai."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1633|
 [fc]
-[ns]宗一郎[nse]
-「さすがでありますな、南先輩。大丈夫ですよ。[r]
-　いざというときには姫君達は不肖宗一郎がお守りいたします」[pcms]
+[ns]Souichirou[nse]
+"As expected of you, Minami-senpai. Don't worry. When the time comes,[r]
+I, Souichirou, will protect the princesses."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1634|
 [fc]
 [vo_stk s="satuki_nt0069"]
-[ns]彩月[nse]
-「ん～？　まあアテにしないでおくわ」[pcms]
+[ns]Satsuki[nse]
+"Hmm? Well, I won't count on it."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so26a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1635|
 [fc]
-[ns]宗一郎[nse]
-「ううむ……」[pcms]
+[ns]Souichirou[nse]
+"Hmm..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1636|
 [fc]
-僕らは緊張しながらも、士気を高めあってた気がしていた。[r]
-先導しているのは、南先輩だ。[pcms]
+We were tense but seemed to be boosting each other's morale. Leading[r]
+us was Minami-senpai.[pcms]
 
 *1637|
 [fc]
-僕も生き残りではあるけど、ほとんど記憶がない。[r]
-南先輩は、どんな記憶を持ってるんだろう。[pcms]
+I'm a survivor too, but I hardly have any memories. I wonder what kind[r]
+of memories Minami-senpai has.[pcms]
 
 *1638|
 [fc]
-妙にクールな南先輩の態度に、僕は少し怖ささえ感じていた。[pcms]
+I was feeling a bit scared by Minami-senpai's oddly cool demeanor.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1639|
 [fc]
 [vo_mis s="misao_nt0076"]
-[ns]美沙緒[nse]
-「港が見えてきたわ。もうすぐよ」[pcms]
+[ns]Misao[nse]
+"The port is coming into view. We'll be there soon."[pcms]
 
 *1640|
 [fc]
-美沙緒さんの声に、全員が前方に目を向けた。[r]
-確かにこぢんまりとした港が見えてきている。[pcms]
+At Misao-san's voice, everyone turned their eyes forward. Indeed, a[r]
+small port was coming into view.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -253,7 +252,7 @@
 
 *1641|
 [fc]
-でも――[pcms]
+But--[pcms]
 
 ;//bgm11.ogg
 [bgm storage="BGM11"]
@@ -263,56 +262,55 @@
 *1642|
 [fc]
 [vo_mis s="misao_nt0077"]
-[ns]美沙緒[nse]
-「ちょ、ちょっとっ！！」[pcms]
+[ns]Misao[nse]
+"Wait, wait!!"[pcms]
 
 [quake_bg xy m]
 
 *1643|
 [fc]
-美沙緒さんが舵を大きく切った。[r]
-僕たちは慌ててすぐ近くにあるものを掴み、なんとか体勢を[r]
-維持する。[pcms]
+Misao-san turned the helm sharply. We all hurriedly grabbed onto[r]
+something nearby to maintain our balance.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1644|
 [fc]
 [vo_mis s="misao_nt0078"]
-[ns]美沙緒[nse]
-「……まずいわ」[pcms]
+[ns]Misao[nse]
+"...This is bad."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1645|
 [fc]
-僕たちのボートの横、直ぐ近くを、波を切ってカーフェリーが[r]
-進んでいた。[pcms]
+Right next to our boat, cutting through the waves, a car ferry was[r]
+advancing.[pcms]
 
 *1646|
 [fc]
-誰がどう見ても、あのフェリーが接岸出来る桟橋は、[r]
-あの小さな港には見当たらない。[pcms]
+It was clear to anyone that there was no dock for that ferry to berth[r]
+at in that small port.[pcms]
 
 *1647|
 [fc]
-それなのに、フェリーはスピードを緩めることもなく、[r]
-まっすぐに、僕らが接岸する予定だった港を目指していた。[pcms]
+Yet without slowing its speed, the ferry was heading straight for the[r]
+port we were supposed to dock at.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1648|
 [fc]
 [vo_stk s="satuki_nt0070"]
-[ns]彩月[nse]
-「……ぶつかる」[pcms]
+[ns]Satsuki[nse]
+"...It's going to hit."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1649|
 [fc]
-そう先輩が呟いたのとほぼ同時に、フェリーは小さな桟橋を[r]
-壊しながら進み、乗り上げて座礁した。[pcms]
+Almost simultaneously with the senior's murmur, the ferry crashed into[r]
+the small dock, breaking it and running aground.[pcms]
 
 ;//※ぶつかった音
 [se buf=0 storage="seB058"]
@@ -326,13 +324,13 @@
 
 *1650|
 [fc]
-途端にわらわらと人が集まり出す。[r]
-そいつらは、全員が全員、目を赤く染めていた。[pcms]
+Suddenly people began to gather around. All of them had their eyes[r]
+dyed red.[pcms]
 
 *1651|
 [fc]
-大きな物音に反応して集まってきたんだろう。[r]
-おぼつかない動きで、それでもフェリーに乗り込もうとしていた。[pcms]
+They must have been attracted by the loud noise. With unsteady[r]
+movements, they were still trying to board the ferry.[pcms]
 
 ;//★ship02b ボート船上
 [bg storage="ship02b"][trans_c cross time=500]
@@ -341,45 +339,45 @@
 *1652|
 [fc]
 [vo_aka s="akari_nt0073"]
-[ns]茜梨[nse]
-「あの人達……全員が？」[pcms]
+[ns]Akari[nse]
+"Those people... are all of them?"[pcms]
 
 *1653|
 [fc]
-[ns]宗一郎[nse]
-「ええ。間違いないでしょう。しかし考えようによっては[r]
-　好機です。あちらに引きつけられている内に、どこか適当な[r]
-　岸壁から上陸できないものでしょうか？」[pcms]
+[ns]Souichirou[nse]
+"Yes, there's no doubt about it. However, if you think about it, this[r]
+could be a good opportunity. While they're drawn to that, couldn't we[r]
+find a suitable quay to land on somewhere?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1654|
 [fc]
 [vo_stk s="satuki_nt0071"]
-[ns]彩月[nse]
-「そうね。よく気がついたね、そーいち君。褒めてあげる」[pcms]
+[ns]Satsuki[nse]
+"That's true. You noticed well, Sou-ichi-kun. I'll praise you for[r]
+that."[pcms]
 
 *1655|
 [fc]
-[ns]宗一郎[nse]
-「ありがたき幸せ……」[pcms]
+[ns]Souichirou[nse]
+"I'm grateful for your kindness..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1656|
 [fc]
 [vo_stk s="satuki_nt0072"]
-[ns]彩月[nse]
-「美沙緒さん、どこか上陸できそうな岸壁ってここらへん[r]
-　無いですか？」[pcms]
+[ns]Satsuki[nse]
+"Misao-san, is there a quay around here where we could possibly land?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1657|
 [fc]
 [vo_mis s="misao_nt0079"]
-[ns]美沙緒[nse]
-「わからないわ。船で流しながら見てみましょう」[pcms]
+[ns]Misao[nse]
+"I don't know. Let's look for one while we drift along with the boat."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -396,8 +394,8 @@
 
 *1658|
 [fc]
-しばらくの間、ボートで岸壁沿いをゆっくりと流し、[r]
-適当だと美沙緒さんが判断した場所に、ボートは横付けされた。[pcms]
+For a while, we drifted slowly along the quay in the boat until Misao-[r]
+san decided on a suitable place to dock.[pcms]
 
 [se buf=0 storage="seA045"]
 ;//♪SE草をかき分けて森を進む音
@@ -407,15 +405,15 @@
 
 *1659|
 [fc]
-緩やかな傾斜の岸壁を、僕たちは助け合いながら登り切る。[r]
-地元の人である美沙緒さんを先頭に、しばらく林の中を[r]
-抜けていくと、峠道にたどり着いた。[pcms]
+We climbed up the gently sloping quay, helping each other. With Misao-[r]
+san, a local, leading the way, we made our way through the forest for[r]
+a while until we reached a mountain pass.[pcms]
 
 *1660|
 [fc]
-乗り捨てられた車が群れを作っている。[r]
-その先には交通事故でも起こしたのか、いまだ車が炎上していた。[r]
-そのせいで下りの道、大美島方向へ向かう道はふさがれている。[pcms]
+Abandoned cars were clustered together. Ahead of them, a car was still[r]
+ablaze, possibly from an accident. Because of that, the downhill road[r]
+towards Omi Island was blocked.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -435,25 +433,25 @@
 
 *1661|
 [fc]
-[ns]誠[nse]
-「あまり……居ないようだね」[pcms]
+[ns]Makoto[nse]
+"There don't seem to be many around..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi04"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *1662|
 [fc]
 [vo_mis s="misao_nt0080"]
-[ns]美沙緒[nse]
-「感染者は、動物本能で火を怖がる傾向が出るわ。[r]
-　あそこで車が炎上してるから、それを避ける為に、[r]
-　町へと向かったんじゃないかと思う」[pcms]
+[ns]Misao[nse]
+"The infected tend to fear fire due to their animal instincts. I think[r]
+they might have headed towards the town to avoid the burning car over[r]
+there."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi23"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *1663|
 [fc]
-そう説明する美沙緒さんは、顔色が悪く、時々あの傷が[r]
-痛むのか顔を歪めていた。[pcms]
+Misao-san explained this with a pale face, occasionally grimacing as[r]
+if her wound was hurting.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="mi1_sw"][ChrSetParts layer=3 chface="F1_mi12"][ChrSetXY layer=3 x=60 y=0]
@@ -462,17 +460,17 @@
 *1664|
 [fc]
 [vo_aka s="akari_nt0074"]
-[ns]茜梨[nse]
-「お姉様……大丈夫ですか？」[pcms]
+[ns]Akari[nse]
+"Onee-san... are you okay?"[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_sw"][ChrSetParts layer=3 chface="F1_mi06"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *1665|
 [fc]
 [vo_mis s="misao_nt0081"]
-[ns]美沙緒[nse]
-「ええ……“まだ”大丈夫よ……南さん、峠道を[r]
-　上りましょう。ホテルが見渡せるはずだから」[pcms]
+[ns]Misao[nse]
+"Yes... I'm still okay... Satsuki-san, let's climb the mountain road.[r]
+We should be able to overlook the hotel from there."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -480,19 +478,19 @@
 *1666|
 [fc]
 [vo_stk s="satuki_nt0073"]
-[ns]彩月[nse]
-「わかったわ」[pcms]
+[ns]Satsuki[nse]
+"Understood."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1667|
 [fc]
-具合の悪そうな美沙緒さんの代わりに、今度は南先輩が[r]
-先頭を取り、僕たちは峠道を上った。[pcms]
+Instead of the unwell Misao-san, Satsuki-senpai took the lead this[r]
+time, and we climbed the mountain road.[pcms]
 
 *1668|
 [fc]
-上りきった場所からは、ホテルの様子が手に取るようにわかる。[pcms]
+From the top, we could clearly see the state of the hotel.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -505,390 +503,392 @@
 *1669|
 [fc]
 [vo_stk s="satuki_nt0074"]
-[ns]彩月[nse]
-「またずいぶんと、集まってること……」[pcms]
+[ns]Satsuki[nse]
+"They've gathered quite a bit again..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1670|
 [fc]
-ホテルの周囲は、感染者でひしめいていた。[r]
-それなのに、まだホテルの商業施設からわらわらと出てきて、[r]
-更に数を増やしている。[pcms]
+The area around the hotel was swarming with infected. Despite that,[r]
+more and more were still coming out of the hotel's commercial[r]
+facilities.[pcms]
 
 *1671|
 [fc]
-時折、悲鳴や……嬌声が聞えてきていた。[pcms]
+Occasionally, screams and... moans could be heard.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1672|
 [fc]
-[ns]宗一郎[nse]
-「はてさて……どうやって近づきますか……」[pcms]
+[ns]Souichirou[nse]
+"Well then... how shall we approach?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1673|
 [fc]
 [vo_stk s="satuki_nt0075"]
-[ns]彩月[nse]
-「そうね……あれは、どう？」[pcms]
+[ns]Satsuki[nse]
+"What about that over there?"[pcms]
 
 *1674|
 [fc]
-南先輩の指差す先、そこには乗り捨てられたシャトルバスが[r]
-路上に停まっていた。[pcms]
+Where Satsuki-senpai was pointing, there was an abandoned shuttle bus[r]
+stopped on the road.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1675|
 [fc]
 [vo_stk s="satuki_nt0076"]
-[ns]彩月[nse]
-「乗用車よりは有利なはずよ。あれでどこかに横付けして[r]
-　ホテルの中に入ればいいんじゃない？」[pcms]
+[ns]Satsuki[nse]
+"It should be more advantageous than a passenger car. We can use it to[r]
+dock somewhere and enter the hotel."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so01b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1676|
 [fc]
-[ns]宗一郎[nse]
-「横付け……ですか。ふむ」[pcms]
+[ns]Souichirou[nse]
+"Dock... I see."[pcms]
 
 *1677|
 [fc]
-[ns]誠[nse]
-「あそこはどうだろう？　あの裏手の非常階段。[r]
-　今のところ誰も居ないよ。ほら、階段の入り口が施錠されてる[r]
-　から、誰も入り込めないでいるんだよ」[pcms]
+[ns]Makoto[nse]
+"How about over there? The emergency staircase at the back. No one's[r]
+there right now. Look, the entrance to the staircase is locked, so no[r]
+one can get in."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1678|
 [fc]
 [vo_stk s="satuki_nt0077"]
-[ns]彩月[nse]
-「そうね……確かに誰も居ないわ。バスの扉だったら階段の柵に[r]
-　横付けしても問題なく開けられるし、そこから柵をよじ登って[r]
-　非常階段を上って中に入る。……うん、悪くないわ」[pcms]
+[ns]Satsuki[nse]
+"That's true... indeed no one's there. If we dock the bus door to the[r]
+staircase railing, we can open it without any problems and then climb[r]
+over the railing to go up the emergency stairs and get inside... Yeah,[r]
+not bad."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so12b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1679|
 [fc]
-[ns]宗一郎[nse]
-「しかし問題は、誰が運転するか、ですな。[r]
-　美沙緒さんが船舶だけでなく大型の免許を持っていれば[r]
-　いいのですが……」[pcms]
+[ns]Souichirou[nse]
+"However, the problem is who will drive. It would be great if Misao-[r]
+san had not only a boat license but also a heavy vehicle license..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1680|
 [fc]
 [vo_stk s="satuki_nt0078"]
-[ns]彩月[nse]
-「それも問題無いわ。わたしが運転する」[pcms]
+[ns]Satsuki[nse]
+"That won't be a problem. I'll drive."[pcms]
 
 *1681|
 [fc]
-[ns]誠[nse]
-「え？　先輩免許持ってるんですか？」[pcms]
+[ns]Makoto[nse]
+"Eh? Senpai, you have a license?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1682|
 [fc]
 [vo_stk s="satuki_nt0079"]
-[ns]彩月[nse]
-「まだ仮免だけどね。でも、路上教習はやってるわよ。[r]
-　免許とるつもりで、通ってるんだから、自動車学校に」[pcms]
+[ns]Satsuki[nse]
+"It's just a provisional one though. But I've done road training. I'm[r]
+attending driving school with the intention of getting my license."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so12b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1683|
 [fc]
-[ns]宗一郎[nse]
-「いや、仮免って……しかもそれは、普通乗用車では？」[pcms]
+[ns]Souichirou[nse]
+"No, but a provisional license... and that's for regular passenger[r]
+cars, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1684|
 [fc]
 [vo_stk s="satuki_nt0080"]
-[ns]彩月[nse]
-「大丈夫よ。大して変わらないって。同じ車だもの。[r]
-　それとも他に手がある？」[pcms]
+[ns]Satsuki[nse]
+"It's fine. It's not much different. It's all the same vehicle. Or do[r]
+you have another plan?"[pcms]
 
 *1685|
 [fc]
-[ns]誠[nse]
-「いや、無いですけど……そんな単純なものなのかな……」[pcms]
+[ns]Makoto[nse]
+"No, but... I wonder if it's really that simple..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1686|
 [fc]
 [vo_stk s="satuki_nt0081"]
-[ns]彩月[nse]
-「やってみれば判るわよ。そうね……まずは進路を邪魔してる[r]
-　車をどけなくちゃならないわね。そこから始めましょう」[pcms]
+[ns]Satsuki[nse]
+"You'll see when we try it. First, we need to move the cars that are[r]
+blocking our path. Let's start there."[pcms]
 
 *1687|
 [fc]
-[ns]誠[nse]
-「わかりました」[pcms]
+[ns]Makoto[nse]
+"Understood."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1688|
 [fc]
 [vo_stk s="satuki_nt0082"]
-[ns]彩月[nse]
-「ああ、キミはそこで様子を探っててよ。何か変化がないか。[r]
-　デヴ君、キミはわたしの護衛をお願い。見た限りだと[r]
-　いなさそうだけど、どこに潜んでるかわかんないからさ」[pcms]
+[ns]Satsuki[nse]
+"Ah, you stay there and keep an eye out for any changes. See if[r]
+anything happens. Dev-kun, I'm counting on you to be my escort. It[r]
+seems like there's no one around at first glance, but you never know[r]
+where they might be hiding."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so02b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1689|
 [fc]
-[ns]宗一郎[nse]
-「御意……誠、あと頼むな。[r]
-　美沙緒さんと我が姫も、気に掛けてやってくれ」[pcms]
+[ns]Souichirou[nse]
+"Certainly... Makoto, I'm counting on you to take care of Misao-san[r]
+and our princess."[pcms]
 
 *1690|
 [fc]
-[ns]誠[nse]
-「……わかった。そーいち、気をつけてな」[pcms]
+[ns]Makoto[nse]
+"...Understood. Sou-ichi, take care."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1691|
 [fc]
-[ns]宗一郎[nse]
-「うむ」[pcms]
+[ns]Souichirou[nse]
+"Hmm."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1692|
 [fc]
-バッドを握りしめたそーいちと南先輩は、路上へと向かった。[r]
-僕は、ホテルの様子を観察しながら、美沙緒さんの傍へと[r]
-寄っていく。[pcms]
+Clutching their bats, Sou-ichi and Satsuki-senpai headed towards the[r]
+road. I watched the hotel while moving closer to Misao-san.[pcms]
 
 *1693|
 [fc]
-美沙緒さんは、額に汗をかき、息を荒げていた。[r]
-越智さんが、心配そうな顔で寄り添っている。[pcms]
+Misao-san was sweating profusely and breathing heavily. Akari-san was[r]
+clinging to her with a worried look.[pcms]
 
 *1694|
 [fc]
-[ns]誠[nse]
-「ずいぶん具合が悪そうに見えます。大丈夫ですか？　美沙緒さん」[pcms]
+[ns]Makoto[nse]
+"You seem to be in pretty bad shape. Are you okay, Misao-san?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1695|
 [fc]
 [vo_aka s="akari_nt0075"]
-[ns]茜梨[nse]
-「さっきから苦しそうで……」[pcms]
+[ns]Akari[nse]
+"She's been in pain since a while ago..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1696|
 [fc]
 [vo_mis s="misao_nt0082"]
-[ns]美沙緒[nse]
-「仕方が無いわ……中澤君、茜梨。よく聴いて。[r]
-　私は、感染したと思うの」[pcms]
+[ns]Misao[nse]
+"It can't be helped... Nakazawa-kun, Akari. Listen carefully. I think[r]
+I've been infected."[pcms]
 
 *1697|
 [fc]
-[ns]誠[nse]
-「ワクチンは……受けてなかったんですか？」[pcms]
+[ns]Makoto[nse]
+"Didn't you get the vaccine...?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1698|
 [fc]
 [vo_mis s="misao_nt0083"]
-[ns]美沙緒[nse]
-「もちろん受けてたわ。でも、話したわよね。今回のウイルス、[r]
-　太平洋上の研究所から出た可能性が高いって……」[pcms]
+[ns]Misao[nse]
+"Of course, I did. But as I said before, there's a high possibility[r]
+that this virus came from a research facility in the Pacific..."[pcms]
 
 *1699|
 [fc]
-[ns]誠[nse]
-「ええ……」[pcms]
+[ns]Makoto[nse]
+"Yes..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1700|
 [fc]
 [vo_mis s="misao_nt0084"]
-[ns]美沙緒[nse]
-「だとしたら……４年前のウイルスとは型が違うの。[r]
-　新種、新型って言えばわかりやすいかしら？[r]
-　だから受けたワクチンは効かないのよ……」[pcms]
+[ns]Misao[nse]
+"If that's the case... it's a different strain from the one four years[r]
+ago. It's easier to understand if I say it's a new species, a new[r]
+type. That's why the vaccine I received doesn't work..."[pcms]
 
 *1701|
 [fc]
-[ns]誠[nse]
-「！！　新型……まさか、そんな」[pcms]
+[ns]Makoto[nse]
+"!! A new type... you can't be serious."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1702|
 [fc]
 [vo_aka s="akari_nt0076"]
-[ns]茜梨[nse]
-「お姉様……嫌です。嘘だと言って下さい」[pcms]
+[ns]Akari[nse]
+"Sister... please, say it's not true."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1703|
 [fc]
 [vo_mis s="misao_nt0085"]
-[ns]美沙緒[nse]
-「茜梨、落ち着きなさい。さっき船上で南さんにも言われたでしょ。[r]
-　心を強く持ちなさい」[pcms]
+[ns]Misao[nse]
+"Calm down, Akari. You were told by Minami-san on the ship earlier,[r]
+weren't you? To stay strong."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1704|
 [fc]
 [vo_aka s="akari_nt0077"]
-[ns]茜梨[nse]
-「でも……でも。うっうう……」[pcms]
+[ns]Akari[nse]
+"But... but... ugh ugh..."[pcms]
 
 *1705|
 [fc]
-越智さんは顔を背けながら、はらはらと涙を落としていた。[r]
-僕は、新型という言葉にショックを受け、呆然としてしまう。[pcms]
+Akari-san turned her face away, shedding tears. I was shocked by the[r]
+word 'new type' and stood there dumbfounded.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1706|
 [fc]
 [vo_mis s="misao_nt0086"]
-[ns]美沙緒[nse]
-「中澤君、よく聴いてちょうだい。新型の可能性が高い以上、[r]
-　ワクチンは効かない物と思って、極力飛沫接触も避けるのよ。[r]
-　血だけじゃなく唾液も、他も……わかるわね？」[pcms]
+[ns]Misao[nse]
+"Nakazawa-kun, listen carefully. Given the high likelihood of it being[r]
+a new type, assume the vaccine won't work and avoid droplet contact as[r]
+much as possible. Not just blood but saliva and others too... you[r]
+understand, right?"[pcms]
 
 *1707|
 [fc]
-[ns]誠[nse]
-「は、はい……４年前と同じように、注意深く行動します」[pcms]
+[ns]Makoto[nse]
+"Yes... I'll act with caution, just like four years ago."[pcms]
 
 *1708|
 [fc]
 [vo_mis s="misao_nt0087"]
-[ns]美沙緒[nse]
-「そうしてちょうだい。あとで南さんや出渕君にもきちんと[r]
-　そのことを伝えてね。それで……ホテルの中には入れそうなの？」[pcms]
+[ns]Misao[nse]
+"Please do that. And make sure to tell Minami-san and Izubuchi-kun[r]
+later. So... is it possible to get inside the hotel?"[pcms]
 
 *1709|
 [fc]
-[ns]誠[nse]
-「あ……はい。上手くいけばですけど」[pcms]
+[ns]Makoto[nse]
+"Ah... yes, if things go well."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1710|
 [fc]
-僕はさっき先輩やそーいちと話した事を美沙緒さんに伝えた。[r]
-越智さんはようやく落ち着いて、涙を拭きながら僕の話を[r]
-黙って聞いていた。[pcms]
+I relayed to Misao-san what I had discussed earlier with Senpai and[r]
+Sou-ichi. Akari-san finally calmed down and listened to my story[r]
+silently while wiping her tears.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1711|
 [fc]
 [vo_mis s="misao_nt0088"]
-[ns]美沙緒[nse]
-「悪くないと思うわ。南さんに伝えて。大型車両の挙動と[r]
-　乗用車は全然違う物だからって。速度を出しすぎると、[r]
-　面白いぐらい簡単に転がってしまうものなのよ」[pcms]
+[ns]Misao[nse]
+"I think that's not a bad idea. Tell Minami-san. The behavior of large[r]
+vehicles is completely different from passenger cars. If you go too[r]
+fast, they can easily roll over, which is quite amusing."[pcms]
 
 *1712|
 [fc]
 [vo_mis s="misao_nt0089"]
-[ns]美沙緒[nse]
-「どうせぶつけてもかまわないんだから、ハンドルはかなり[r]
-　早めに切り出して、余裕を持って操作をすること」[pcms]
+[ns]Misao[nse]
+"Since it doesn't matter if you crash them, start turning the steering[r]
+wheel quite early and operate with plenty of margin."[pcms]
 
 *1713|
 [fc]
 [vo_mis s="misao_nt0090"]
-[ns]美沙緒[nse]
-「……私も大型なんて運転した事ないけどね。[r]
-　そのぐらいならわかってるから。それから……」[pcms]
+[ns]Misao[nse]
+"...I've never driven anything large myself, but I understand that[r]
+much. And then..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1714|
 [fc]
-美沙緒さんは、持って来ていたバッグの中を探る。[r]
-取り出された物は――拳銃だった。[pcms]
+Misao-san rummaged through the bag she had brought. What she took out[r]
+was--a handgun.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1715|
 [fc]
 [vo_aka s="akari_nt0078"]
-[ns]茜梨[nse]
-「お、お姉様っ！　それはっ！」[pcms]
+[ns]Akari[nse]
+"Sister! What is that?!"[pcms]
 
 *1716|
 [fc]
-[ns]誠[nse]
-「……！！」[pcms]
+[ns]Makoto[nse]
+"...!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1717|
 [fc]
 [vo_mis s="misao_nt0091"]
-[ns]美沙緒[nse]
-「ああ、驚かしたわね。大丈夫よ携帯許可は受けてるから。[r]
-　何かとね……物騒なのよ。研究者の周りはね……」[pcms]
+[ns]Misao[nse]
+"Ah, I surprised you, didn't I? It's okay, I have a carry permit. You[r]
+know... it's dangerous around researchers..."[pcms]
 
 *1718|
 [fc]
-そう言ってニッコリと微笑みながら、僕にバッグを差し出した。[pcms]
+With a smile, she handed me the bag.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1719|
 [fc]
 [vo_mis s="misao_nt0092"]
-[ns]美沙緒[nse]
-「中を見て。カード入れの中に稼津央から貰ったホテルの[r]
-　ＶＩＰルームのカードキーが入ってるはずよ。そう、それよ」[pcms]
+[ns]Misao[nse]
+"Look inside. There should be a card key for the hotel's VIP room that[r]
+I received from Katsuo in the card holder. Yes, that's it."[pcms]
 
 *1720|
 [fc]
 [vo_mis s="misao_nt0093"]
-[ns]美沙緒[nse]
-「非常階段から屋上の庭園に出るようにしなさい。[r]
-　その奥にＶＩＰ用の出入り口があるから、そこから最上階の[r]
-　稼津央が使っているＶＩＰルームを目指すの。ここまでいい？」[pcms]
+[ns]Misao[nse]
+"Make sure to exit onto the rooftop garden via the emergency stairs.[r]
+Beyond that is a VIP entrance; from there, head for Katsuo's VIP room[r]
+on the top floor. Is everything clear so far?"[pcms]
 
 *1721|
 [fc]
-[ns]誠[nse]
-「はい……」[pcms]
+[ns]Makoto[nse]
+"Yes..."[pcms]
 
 *1722|
 [fc]
 [vo_mis s="misao_nt0094"]
-[ns]美沙緒[nse]
-「稼津央の部屋には、衛星電話があるわ。それを使って、キミの[r]
-　お姉さんに連絡をとりなさい。そして助け出すの。[r]
-　位置がわかれば、行動も取りやすくなるから。わかった？」[pcms]
+[ns]Misao[nse]
+"In Katsuo's room, there's a satellite phone. Use it to contact your[r]
+sister and get help. Once we know her location, it will be easier to[r]
+take action. Understood?"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -896,8 +896,8 @@
 
 *1723|
 [fc]
-[ns]誠[nse]
-「わかりました。……でも、美沙緒さんは来ないつもりなんですか」[pcms]
+[ns]Makoto[nse]
+"Understood... But Misao-san, do you intend not to come with us?"[pcms]
 
 ;//bgm02.ogg
 [bgm storage="BGM02"]
@@ -907,137 +907,132 @@
 *1724|
 [fc]
 [vo_mis s="misao_nt0095"]
-[ns]美沙緒[nse]
-「もう動けないと思うわ。それに、残念だけど、私は私のままで[r]
-　終わりにしたいの……」[pcms]
+[ns]Misao[nse]
+"I don't think I can move anymore. Besides, unfortunately, I want to[r]
+end things as myself..."[pcms]
 
 *1725|
 [fc]
-そう言って美沙緒さんは、持っていた拳銃を指先で撫でた。[r]
-僕はようやく美沙緒さんが拳銃を取り出した意味を理解した。[pcms]
+As she spoke, Misao-san caressed the handgun with her fingertips. I[r]
+finally understood why Misao-san had taken out the gun.[pcms]
 
 *1726|
 [fc]
-[ns]誠[nse]
-「……わかりました」[pcms]
+[ns]Makoto[nse]
+"...Understood."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1727|
 [fc]
 [vo_aka s="akari_nt0079"]
-[ns]茜梨[nse]
-「嫌っ、嫌です。お姉様、何を言ってるんですか。[r]
-　嫌です。お願いです。考え直してくださいっ！」[pcms]
+[ns]Akari[nse]
+"No, no! Sister, what are you saying? Please, no. Please reconsider!"[pcms]
 
 *1728|
 [fc]
-越智さんは、涙をぼろぼろとこぼしながら美沙緒さんに[r]
-すがりついた。[pcms]
+Akari-san clung to Misao-san, tears streaming down her face.[pcms]
 
 *1729|
 [fc]
-美沙緒さんは、越智さんを抱き留め優しく頭を撫でていた。[pcms]
+Misao-san held Akari-san close and gently stroked her head.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1730|
 [fc]
 [vo_mis s="misao_nt0096"]
-[ns]美沙緒[nse]
-「茜梨……落ち着きなさい。罰が当たっただけのこと。[r]
-　それに罰を受ければ私は償ったことにもなるの……。[r]
-　私は私のままで、人間のままで終わりにしたいの……」[pcms]
+[ns]Misao[nse]
+"Akari... calm down. It's just retribution. And by accepting this[r]
+punishment, I can atone... I want to end as myself, as a human..."[pcms]
 
 *1731|
 [fc]
 [vo_mis s="misao_nt0097"]
-[ns]美沙緒[nse]
-「人として終わりにすることぐらい、許してくれても[r]
-　いいでしょう？　ね、茜梨……」[pcms]
+[ns]Misao[nse]
+"Ending as a human is something you can forgive me for, right? Right,[r]
+Akari...?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1732|
 [fc]
 [vo_aka s="akari_nt0080"]
-[ns]茜梨[nse]
-「うっうううっ……でも……でもっ……ううっううあっ」[pcms]
+[ns]Akari[nse]
+"Ugh ugh ugh... but... but... ugh ugh ah!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1733|
 [fc]
 [vo_mis s="misao_nt0098"]
-[ns]美沙緒[nse]
-「中澤君、茜梨のことお願いしてもいいわよね？[r]
-　それと、バッグの中にさっきのボートのキーも入ってるから。[r]
-　それもなくさないようにね」[pcms]
+[ns]Misao[nse]
+"Nakazawa-kun, you'll take care of Akari for me, won't you? Also, the[r]
+key to the boat from earlier is in the bag. Make sure not to lose it."[pcms]
 
 *1734|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1735|
 [fc]
-僕は無言でうなずいた。[r]
-言葉を発したら、泣きそうだったから。[pcms]
+I nodded silently. If I spoke, I felt like I would cry.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1736|
 [fc]
 [vo_mis s="misao_nt0099"]
-[ns]美沙緒[nse]
-「さ、茜梨。離れなさい。ああ、そうだわ。この拳銃も[r]
-　ちゃんと回収しなさい」[pcms]
+[ns]Misao[nse]
+"Now, Akari, let go. Oh, that's right. Make sure to collect this gun[r]
+as well."[pcms]
 
 *1737|
 [fc]
-[ns]誠[nse]
-「え？」[pcms]
+[ns]Makoto[nse]
+"Eh?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1738|
 [fc]
 [vo_mis s="misao_nt0100"]
-[ns]美沙緒[nse]
-「使える物は使うの。撃てる人が居るかどうかはわからないけど、[r]
-　持っているに越したことはないわ。生き残る為に何でも[r]
-　利用しなさい。そして必ず守り抜いてちょうだい」[pcms]
+[ns]Misao[nse]
+"Use what you can. I don't know if there's anyone who can shoot, but[r]
+it's better to have it than not. Use everything you can to survive.[r]
+And make sure to protect her."[pcms]
 
 *1739|
 [fc]
-[ns]誠[nse]
-「わかりました……越智さん」[pcms]
+[ns]Makoto[nse]
+"Understood... Ochi-san."[pcms]
 
 *1740|
 [fc]
-僕はいまだすがりついている越智さんの肩を抱き、[r]
-立ち上がらせ自分に引き寄せた。[pcms]
+I embraced Ochi-san's shoulder, who was still clinging to me, and made[r]
+her stand up and pulled her towards me.[pcms]
 
 *1741|
 [fc]
-その様子を美沙緒さんは、笑顔で見ていた。[pcms]
+Misao-san watched us with a smile.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1742|
 [fc]
 [vo_mis s="misao_nt0101"]
-[ns]美沙緒[nse]
-「茜梨、さよなら。中澤君、お願いしたからね。[r]
-　さあ、少し離れて、行ってちょうだい」[pcms]
+[ns]Misao[nse]
+"Akari, goodbye. Nakazawa-kun, I'm counting on you. Now, step back a[r]
+bit and go."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1743|
 [fc]
-僕は越智さんの肩を抱いたまま、その場から離れた。[r]
-振り返ると美沙緒さんは、こめかみに銃口を当てたまま微笑み、[r]
-僕たちを見送っていた。[pcms]
+I walked away from the spot with Ochi-san's shoulder in my grasp. When[r]
+I looked back, Misao-san was smiling with the gun barrel against her[r]
+temple, seeing us off.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1052,7 +1047,7 @@
 
 *1744|
 [fc]
-また僕の周りから命がひとつ奪われた……。[pcms]
+Another life was taken from around me...[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

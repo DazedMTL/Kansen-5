@@ -26,142 +26,141 @@
 *4401|
 [fc]
 [vo_sat s="sato0021"]
-[ns]怜[nse]
-「ホントごめん、せっかく来てくれたのに[r]
-　こんなことになるなんて思わなかったの」[pcms]
+[ns]Sato[nse]
+"I'm really sorry, I didn't expect this to happen when you came all[r]
+this way."[pcms]
 
 *4402|
 [fc]
-[ns]誠[nse]
-「いや、家の事情じゃ仕方がないよ。[r]
-　そんなに謝らないで」[pcms]
+[ns]Makoto[nse]
+"No, it can't be helped if it's a family matter. Don't apologize so[r]
+much."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4403|
 [fc]
-[ns]宗一郎[nse]
-「そうですぞ、村上さんは戦利品を楽しみに待っていてくだされ」[pcms]
+[ns]Souichirou[nse]
+"That's right, Murakami-san, please look forward to the spoils of[r]
+war."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4404|
 [fc]
-午前中からスポーツセンターにやってきていた僕たちは、[r]
-村上さんとターヤさんに呼び出されて、[r]
-話を聞いているところだった。[pcms]
+We had been at the sports center since the morning, and we were called[r]
+by Murakami-san and Tarja-san to listen to what they had to say.[pcms]
 
 *4405|
 [fc]
-１８日のモンバスイベントに村上さんが参加できないらしい。[r]
-家の手伝いをしなくちゃいけないとか。[pcms]
+It seems that Murakami-san won't be able to participate in the Monbus[r]
+event on the 18th due to having to help out at home.[pcms]
 
 *4406|
 [fc]
-村上さんはあんなに楽しみにしていたのに、[r]
-悔しいのは僕たち以上だろう。[pcms]
+Murakami-san was looking forward to it so much, it must be more[r]
+frustrating for her than for us.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4407|
 [fc]
 [vo_tay s="taja0005"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *4408|
 [fc]
-ターヤさんは昨日と同じ様子で、僕のことをあからさまに[r]
-避けているような気がする。[pcms]
+Tarja-san has been acting the same as yesterday, and I can't help but[r]
+feel she's deliberately avoiding me.[pcms]
 
 *4409|
 [fc]
-この緊急事態の最中に、[r]
-あんまりいい材料とは言えない話だった。[pcms]
+It wasn't exactly good news amidst this emergency situation.[pcms]
 
 *4410|
 [fc]
-[ns]誠[nse]
-「そういえば、今朝はホテルの駐車場も随分埋まってた気がする」[pcms]
+[ns]Makoto[nse]
+"By the way, I felt like the hotel parking lot was quite full this[r]
+morning."[pcms]
 
 *4411|
 [fc]
-[ns]宗一郎[nse]
-「モンバスイベントとライブフェスが明日だからな、[r]
-　他の観光客だって来ているだろうし、[r]
-　かき入れ時って奴だ」[pcms]
+[ns]Souichirou[nse]
+"The Monbus event and the live fest are tomorrow, so other tourists[r]
+must be coming too. It's peak season."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa13"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4412|
 [fc]
 [vo_sat s="sato0022"]
-[ns]怜[nse]
-「そうなんだよねぇ、地元の人間がイベントに参加するのは、[r]
-　無理があったかもしんない」[pcms]
+[ns]Sato[nse]
+"That's right, it might have been too much to expect the locals to[r]
+participate in the event."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4413|
 [fc]
-駐車場だけじゃなく、館内やショッピングフロアはもちろん、[r]
-島のあちこちに観光客らしき人の姿があって、賑わっている。[pcms]
+Not just the parking lot, but also the hotel interior, shopping[r]
+floors, and various places around the island were bustling with people[r]
+who looked like tourists.[pcms]
 
 *4414|
 [fc]
-ホテルからスポーツセンターに来る途中で見た、[r]
-ライブフェス会場近くのビーチも、[r]
-人でごった返していた。[pcms]
+On the way from the hotel to the sports center, I saw that the beach[r]
+near the live fest venue was also swarming with people.[pcms]
 
 *4415|
 [fc]
-そーいちの言うとおり、島の観光事業としては、[r]
-今が一番のかき入れ時なんだろう。[pcms]
+As Souichirou said, for the island's tourism industry, this must be[r]
+the busiest time.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4416|
 [fc]
-[ns]宗一郎[nse]
-「では、村上さんに安心して仕事をして貰うためにも、[r]
-　我々三人が頑張らないといけませんな」[pcms]
+[ns]Souichirou[nse]
+"Therefore, to ensure that Murakami-san can work with peace of mind,[r]
+we three must do our best."[pcms]
 
 *4417|
 [fc]
-[ns]誠[nse]
-「あ、ああ、そうだな」[pcms]
+[ns]Makoto[nse]
+"Ah, yeah, that's right."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4418|
 [fc]
 [vo_tay s="taja0006"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *4419|
 [fc]
-ターヤさんは嫌だとハッキリ言わないけれど、[r]
-なんとなく気まずい空気が流れている。[pcms]
+Tarja-san doesn't say she dislikes it outright, but there's an awkward[r]
+atmosphere.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4420|
 [fc]
-村上さんが抜けてしまって、ただでさえ厳しいのに、[r]
-ターヤさんまで抜けてしまったら、[r]
-イベントに参加することすら怪しくなってしまう。[pcms]
+If Murakami-san drops out, it's already tough enough, but if Tarja-san[r]
+were to drop out too, even participating in the event would become[r]
+doubtful.[pcms]
 
 *4421|
 [fc]
-イベントでは初出のモンスターと戦うクエストが[r]
-ダウンロードできるようになっているから、[r]
-是非ターヤさんとプレイしたいところだった。[pcms]
+The event features a quest where you can fight a new monster that[r]
+becomes available for download, so I really wanted to play it with[r]
+Tarja-san.[pcms]
 
 *4422|
 [fc]
-三人というのはやっぱり不安だけれど、何とか倒して[r]
-村上さんにも戦利品を届けてあげたい。[pcms]
+Being just three people is still unsettling, but somehow I want to[r]
+defeat it and deliver the spoils to Murakami-san.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa06"][ChrSetXY layer=3 x=30 y=0]
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta01"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -169,68 +168,68 @@
 *4423|
 [fc]
 [vo_sat s="sato0023"]
-[ns]怜[nse]
-「ね、ターヤ、あたしがいない分まで頑張って欲しいの」[pcms]
+[ns]Sato[nse]
+"Hey, Tarja, I want you to do your best for my share too."[pcms]
 
 *4424|
 [fc]
 [vo_tay s="taja0007"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja[nse]
+"Yeah..."[pcms]
 
 *4425|
 [fc]
-ターヤさんまで棄権するという事態にはならないみたいだけど、[r]
-このわだかまりをどうしたものなのか。[pcms]
+It seems that Tarja-san won't be dropping out, but what should we do[r]
+about this lingering discomfort?[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *4426|
 [fc]
 [vo_sat s="sato0024"]
-[ns]怜[nse]
-「事情は聞いたよ、だから今度はちゃんと仲直り、ね？」[pcms]
+[ns]Sato[nse]
+"I've heard about the situation, so now let's make up properly, okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta01"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *4427|
 [fc]
 [vo_tay s="taja0008"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *4428|
 [fc]
 [vo_sat s="sato0025"]
-[ns]怜[nse]
-「はい、まず誠くんがちゃんと謝る」[pcms]
+[ns]Sato[nse]
+"Okay, first Makoto-kun needs to apologize properly."[pcms]
 
 *4429|
 [fc]
-まるで、年上のお姉さんみたいに、村上さんが場を仕切りだした。[r]
-でも、この方がありがたい。[pcms]
+Murakami-san started directing the situation like an older sister. But[r]
+I'm grateful for this approach.[pcms]
 
 *4430|
 [fc]
-僕も、しっかりとターヤさんに謝るタイミングが欲しかった。[pcms]
+I also wanted a proper moment to apologize to Tarja-san.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *4431|
 [fc]
-[ns]誠[nse]
-「いきなりカメラなんて持ちだしてゴメンね。[r]
-　今度からは気を付けます」[pcms]
+[ns]Makoto[nse]
+"Sorry for suddenly bringing out a camera like that. I'll be more[r]
+careful from now on."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *4432|
 [fc]
 [vo_sat s="sato0026"]
-[ns]怜[nse]
-「はい、ターヤ」[pcms]
+[ns]Sato[nse]
+"Okay, Tarja"[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -238,28 +237,27 @@
 *4433|
 [fc]
 [vo_tay s="taja0009"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta13"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *4434|
 [fc]
-ターヤさんは、身体をもじっと一捻りしてそっぽを向くと、[r]
-チラッと僕の方を見る。[pcms]
+Tarja-san twists her body slightly and turns away, then glances at me.[pcms]
 
 *4435|
 [fc]
-一度、こういう態度をしてしまった以上、[r]
-壁を取り除くのは簡単じゃないんだよな。[pcms]
+Once she's shown this kind of attitude, it's not easy to remove the[r]
+wall between us.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa12"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *4436|
 [fc]
 [vo_sat s="sato0027"]
-[ns]怜[nse]
-「ターヤも、そんなに怒ってないんでしょ？」[pcms]
+[ns]Sato[nse]
+"Tarja, you're not that mad, are you?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -267,36 +265,36 @@
 *4437|
 [fc]
 [vo_tay s="taja0010"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *4438|
 [fc]
-ターヤさんが手を差し伸べてくる。[r]
-どうやら仲直りの握手みたいだった。[pcms]
+Tarja-san reaches out her hand. It seems like a handshake for making[r]
+up.[pcms]
 
 *4439|
 [fc]
-僕はホッとしながら、その手に自分の手を重ねていく。[pcms]
+I'm relieved as I place my hand over hers.[pcms]
 
 *4440|
 [fc]
-[ns]誠[nse]
-「ありがとう、仲直りしてくれて嬉しいよ」[pcms]
+[ns]Makoto[nse]
+"Thank you, I'm happy we've made up."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4441|
 [fc]
 [vo_tay s="taja0011"]
-[ns]ターヤ[nse]
-「元々、そんなに怒ってないから」[pcms]
+[ns]Tarja[nse]
+"I wasn't that mad to begin with."[pcms]
 
 *4442|
 [fc]
-[ns]宗一郎[nse]
-「さあ、これで準備万端整いましたな、[r]
-　後はモンスターが登場するのを待つばかり」[pcms]
+[ns]Souichirou[nse]
+"Now, with everything prepared, all we have to do is wait for the[r]
+monster to appear."[pcms]
 
 ;//◆ＳＥ　お腹が鳴る音
 
@@ -306,47 +304,46 @@
 
 *4443|
 [fc]
-仲直りして気が弛んでしまったのか、[r]
-まだ昼食を採っていない僕は、思わずお腹を鳴らしてしまった。[pcms]
+Perhaps because I've relaxed after making up, my stomach growls[r]
+embarrassingly, as I haven't had lunch yet.[pcms]
 
 *4444|
 [fc]
-学校ごとに交代で食事を採っているけれど、[r]
-鶯谷学園の食事時間はまだ先だ。[pcms]
+Each school takes turns eating, but Uguisudani Academy's mealtime is[r]
+still a while away.[pcms]
 
 *4445|
 [fc]
-二人に、みっともないところを見せてしまった。[pcms]
+I've shown them an embarrassing side of myself.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *4446|
 [fc]
 [vo_sat s="sato0028"]
-[ns]怜[nse]
-「そーいち君、そんなにお腹が空いたの？[r]
-　少しダイエットした方がいいと思うよ」[pcms]
+[ns]Sato[nse]
+"Souichi-kun, are you that hungry? Maybe you should consider going on[r]
+a diet."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4447|
 [fc]
 [vo_tay s="taja0012"]
-[ns]ターヤ[nse]
-「だから太るんだと思う」[pcms]
+[ns]Tarja Pohjonen[nse]
+"That's probably why you're gaining weight, I think."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so26a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *4448|
 [fc]
-[ns]宗一郎[nse]
-「ちょ、ちょっと待ってくだされ、[r]
-　今のは拙者じゃありませんぞ！」[pcms]
+[ns]Souichirou[nse]
+"Wait a moment, please, that wasn't me just now!"[pcms]
 
 *4449|
 [fc]
-[ns]誠[nse]
-「往生際の悪い奴め、体力の減るメシでも食べてろ」[pcms]
+[ns]Makoto[nse]
+"What a sore loser. Go eat some food that'll reduce your strength."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so05a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 [wait_c time=500]
@@ -371,8 +368,8 @@
 
 *4450|
 [fc]
-そーいちのバク転から繰り出されるキックを華麗に避けながら、[r]
-僕はターヤさんと仲直りできたことに、ホッと胸をなで下ろす。[pcms]
+While gracefully avoiding Souichi's backflip kick, I let out a sigh of[r]
+relief that Tarja-san and I have made up.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -389,62 +386,63 @@
 
 *4451|
 [fc]
-[ns]誠[nse]
-「でも、ここのご飯ってすごく美味しいよね。[r]
-　肉も野菜も美味いけど、やっぱり魚が美味い」[pcms]
+[ns]Makoto[nse]
+"But the food here is really delicious, isn't it? The meat and[r]
+vegetables are good, but the fish is definitely the best."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so03b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4452|
 [fc]
-[ns]宗一郎[nse]
-「合宿のご飯にそれほど期待はしていなかったのですが、[r]
-　詫びなければなりませんなぁ」[pcms]
+[ns]Souichirou[nse]
+"I wasn't expecting much from the camp food, but I must apologize."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4453|
 [fc]
 [vo_sat s="sato0029"]
-[ns]怜[nse]
-「何にもないところだけど、魚と空気だけは美味しいから」[pcms]
+[ns]Sato[nse]
+"There's not much around here, but at least the fish and the air are[r]
+delicious."[pcms]
 
 *4454|
 [fc]
-そんなことを言いながらも、地元を褒められて[r]
-悪い気はしていないみたいだった。[pcms]
+Even as she says this, she seems to be in a good mood being praised[r]
+about her hometown.[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4455|
 [fc]
-照れながらも謙遜する姿が、妙にチャーミングに見える。[pcms]
+Her modesty while blushing seems oddly charming.[pcms]
 
 *4456|
 [fc]
-[ns]誠[nse]
-「合宿所でこれなら、越智さんの実家の夕食会は[r]
-　もっとスゴそうだ、今から楽しみだよ」[pcms]
+[ns]Makoto[nse]
+"If the food is this good at the camp, I can't wait to see what dinner[r]
+at the Ochi family's home will be like."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so30b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4457|
 [fc]
-[ns]宗一郎[nse]
-「越智さんの実家の夕食会？　そんなの聞いてないぞ？」[pcms]
+[ns]Souichirou[nse]
+"Dinner at the Ochi family's home? I haven't heard anything about[r]
+that?"[pcms]
 
 *4458|
 [fc]
-[ns]誠[nse]
-「今話しただろ、越智さんが１８日の夕食に来ないかってさ」[pcms]
+[ns]Makoto[nse]
+"I just told you, Ochi-san invited us for dinner on the 18th."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so19a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 [eval exp="f.chara_x = 340,f.chara_y = 0"][quake_chara layer=5 lo xy m]
 
 *4459|
 [fc]
-[ns]宗一郎[nse]
-「貴様はそんな大事な話をなぜ隠しているかぁっ！」[pcms]
+[ns]Souichirou[nse]
+"Why are you hiding such important news?!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -458,16 +456,16 @@
 
 *4460|
 [fc]
-太くて短い足の後ろ回し蹴りをしゃがんで避けると、[r]
-安全圏まで退く。[pcms]
+I duck under his short and thick leg's roundhouse kick and retreat to[r]
+a safe distance.[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4461|
 [fc]
 [vo_sat s="sato0030"]
-[ns]怜[nse]
-「あはは、越智家の夕食なら、きっとすごいと思うよ」[pcms]
+[ns]Sato[nse]
+"Ahaha, I'm sure dinner at the Ochi's will be amazing."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -484,50 +482,49 @@
 *4462|
 [fc]
 [vo_sat s="sato0031"]
-[ns]怜[nse]
-「そう言えば、誠くんの方から話があるって聞いたけど」[pcms]
+[ns]Sato[nse]
+"By the way, I heard there was something you wanted to talk about,[r]
+Makoto-kun?"[pcms]
 
 *4463|
 [fc]
-[ns]誠[nse]
-「うん、メールだと説明しにくかったから、[r]
-　直接話した方がいいと思って」[pcms]
+[ns]Makoto[nse]
+"Yeah, it was hard to explain in an email, so I thought it'd be better[r]
+to talk in person."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4464|
 [fc]
-[ns]宗一郎[nse]
-「なんだ、聞いていないぞ？」[pcms]
+[ns]Souichirou[nse]
+"What? I haven't heard anything about it?"[pcms]
 
 *4465|
 [fc]
-そーいちが、いぶかしそうな顔で何ごとかと[r]
-耳をそばだてている。[pcms]
+Souichi looks suspicious as he perks up his ears wondering what's[r]
+going on.[pcms]
 
 *4466|
 [fc]
-抜け駆けするんじゃないかと、疑っているんだな。[r]
-仕方の無い奴め。[pcms]
+He suspects me of trying to get a head start. What a troublesome guy.[pcms]
 
 *4467|
 [fc]
-[ns]誠[nse]
-「実は、越智家のお嬢様がプライベートビーチで[r]
-　バーベキューをしないかとお誘いなんだけど、[r]
-　１８日の夜は空いてるかな？」[pcms]
+[ns]Makoto[nse]
+"Actually, Miss Ochi from the Ochi family invited us for a barbecue at[r]
+her private beach. Are you free on the night of the 18th?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so19a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4468|
 [fc]
-[ns]宗一郎[nse]
-「そんな話聞いてないぞ！」[pcms]
+[ns]Souichirou[nse]
+"I haven't heard anything about that!"[pcms]
 
 *4469|
 [fc]
-[ns]誠[nse]
-「今話しただろ、まとめて話そうと思ったんだ」[pcms]
+[ns]Makoto[nse]
+"I just told you, I thought we'd discuss it all together."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -539,13 +536,11 @@
 
 *4470|
 [fc]
-いつの間にそんなやりとりがあったのか、[r]
-そーいちは不思議で仕方ないだろう。[pcms]
+Souichi must be wondering when such an exchange took place.[pcms]
 
 *4471|
 [fc]
-お前はグースカと寝ていたのだよ、[r]
-幸せ者のデヴくん。[pcms]
+You were sound asleep at that time, lucky Mr. Dev.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=30 y=0]
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta01"][ChrSetXY layer=5 x=300 y=0]
@@ -554,8 +549,8 @@
 *4472|
 [fc]
 [vo_sat s="sato0032"]
-[ns]怜[nse]
-「夜ならきっと大丈夫だよ！　絶対に行くからね！」[pcms]
+[ns]Sato[nse]
+"I'm sure I'll be free at night! I'll definitely go!"[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=30 y=0]
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -563,87 +558,89 @@
 *4473|
 [fc]
 [vo_tay s="taja0013"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *4474|
 [fc]
 [vo_sat s="sato0033"]
-[ns]怜[nse]
-「ほら、ターヤも行くでしょ？」[pcms]
+[ns]Sato[nse]
+"See, Tarja will go too, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4475|
 [fc]
 [vo_tay s="taja0014"]
-[ns]ターヤ[nse]
-「……怜が行くなら」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...If Sato is going."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *4476|
 [fc]
-[ns]宗一郎[nse]
-「他には誰か誘うのか？」[pcms]
+[ns]Souichirou[nse]
+"Are you inviting anyone else?"[pcms]
 
 *4477|
 [fc]
-[ns]誠[nse]
-「都合が付けばだけど、姉ちゃんと南先輩を誘おうと思ってる」[pcms]
+[ns]Makoto[nse]
+"If it works out, I'm thinking of inviting Onee-san and Senior[r]
+Minami."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so19a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 [eval exp="f.chara_x = 640,f.chara_y = 0"][quake_chara layer=4 lo xy m]
 
 *4478|
 [fc]
-[ns]宗一郎[nse]
-「可及的速やかに誘ってくるんだ！」[pcms]
+[ns]Souichirou[nse]
+"Invite them as soon as possible!"[pcms]
 
 *4479|
 [fc]
-後でちゃんと誘うから心配するな。[r]
-僕だってタイミングを見て話しかけてるんだから。[pcms]
+I'll properly invite them later, so don't worry. I'm timing my[r]
+approach as well.[pcms]
 
 *4480|
 [fc]
-[ns]誠[nse]
-「でも、ここのご飯ってすごく美味しいよね。[r]
-　肉も野菜も美味いけど、やっぱり魚が美味い」[pcms]
+[ns]Makoto[nse]
+"But the food here is really delicious, isn't it? The meat and[r]
+vegetables are good, but the fish is definitely the best."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *4481|
 [fc]
-[ns]宗一郎[nse]
-「合宿のご飯にそれほど期待はしていなかったのですが、[r]
-　詫びなければなりませんなぁ」[pcms]
+[ns]Souichirou[nse]
+"I wasn't expecting much from the camp food, but I must apologize."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *4482|
 [fc]
 [vo_sat s="sato0034"]
-[ns]怜[nse]
-「何にもないところだけど、魚と空気だけは美味しいから」[pcms]
+[ns]Sato[nse]
+"There's not much around here, but the fish and the air are[r]
+delicious."[pcms]
 
 *4483|
 [fc]
-そんなことを言いながらも、地元を褒められて[r]
-悪い気はしていないみたいだった。[pcms]
+Despite saying that, she seemed to be in good spirits being praised[r]
+about her hometown.[pcms]
 
 *4484|
 [fc]
-照れながらも謙遜する姿が、妙にチャーミングに見える。[pcms]
+Her modesty while blushing seemed oddly charming.[pcms]
 
 *4485|
 [fc]
-島の美味しいものでバーベキューは楽しみだ。[pcms]
+I'm looking forward to the barbecue with the island's delicious[r]
+offerings.[pcms]
 
 *4486|
 [fc]
-お腹が減っている僕は、地元の海鮮素材で作られた[r]
-バーベキューを思ってよだれを垂らしそうになる。[pcms]
+My stomach is growling just thinking about the barbecue made with[r]
+local seafood ingredients.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -663,18 +660,17 @@
 
 *4487|
 [fc]
-ふいに、救急車のサイレンの音が辺りに鳴り響いた。[r]
-合宿所で誰か倒れたんだろうか。[pcms]
+Suddenly, the sound of an ambulance siren echoed around. I wonder if[r]
+someone collapsed at the camp.[pcms]
 
 *4488|
 [fc]
-今朝方も救急車のサイレンを聞いたけれど、[r]
-どうやら忙しいらしい。[pcms]
+I heard an ambulance siren this morning as well; it seems to be busy.[pcms]
 
 *4489|
 [fc]
-観光客が車でやって来ているので、事故が多いのか、[r]
-それとも単に熱中症かなんかだろうか。[pcms]
+With tourists coming by car, I wonder if there are more accidents, or[r]
+maybe it's just heatstroke or something.[pcms]
 
 ;//bgm05.ogg
 [bgm storage="BGM05"]
@@ -684,131 +680,130 @@
 *4490|
 [fc]
 [vo_sat s="sato0035"]
-[ns]怜[nse]
-「しおかぜ街道が開通してから、[r]
-　車で観光に来る客が増えたんだけど、[r]
-　シーズンになると交通事故も増えちゃってね」[pcms]
+[ns]Sato[nse]
+"Since Shiokaze Highway opened, we've had more tourists coming by car,[r]
+but with the season comes an increase in traffic accidents."[pcms]
 
 *4491|
 [fc]
-[ns]宗一郎[nse]
-「なるほどですな」[pcms]
+[ns]Souichirou[nse]
+"I see."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa06"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4492|
 [fc]
 [vo_sat s="sato0036"]
-[ns]怜[nse]
-「もともと信号や横断歩道が少ないんだけど、[r]
-　カーブミラーとかも少ないから、[r]
-　交通量が増えると結構危ないんだ」[pcms]
+[ns]Sato[nse]
+"Originally, there are few signals and pedestrian crossings, and not[r]
+many curve mirrors either, so it gets quite dangerous when traffic[r]
+increases."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4493|
 [fc]
-確かに、島の道は海岸線に合わせて細かくうねっている場所が[r]
-多い気がする。[pcms]
+Indeed, many of the island's roads seem to twist and turn along the[r]
+coastline.[pcms]
 
 *4494|
 [fc]
-比較的平坦な部分でも、見通しがいいのは、[r]
-港がある入り江くらいだろうか。[pcms]
+Even in relatively flat areas, good visibility is limited to bays with[r]
+ports.[pcms]
 
 *4495|
 [fc]
-集落と集落の間にある峠道は、曲がりくねっている上に[r]
-起伏が激しい。[pcms]
+The mountain roads between villages are winding and have steep[r]
+undulations.[pcms]
 
 *4496|
 [fc]
-リゾートに来た開放的気分で、走り慣れない道を[r]
-飛ばす馬鹿がいたら危ないんだろう。[pcms]
+It would be dangerous if some fool, feeling liberated while at the[r]
+resort, sped on these unfamiliar roads.[pcms]
 
 *4497|
 [fc]
-ホテルの駐車場には、名古屋や東京のナンバープレートが[r]
-沢山並んでいた。[pcms]
+In the hotel parking lot, there were many license plates from Nagoya[r]
+and Tokyo lined up.[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4498|
 [fc]
 [vo_sat s="sato0037"]
-[ns]怜[nse]
-「お年寄りが多い島だから、サイレンの音自体は、[r]
-　そこまで珍しくないんだけどね」[pcms]
+[ns]Sato[nse]
+"Since there are many elderly people on the island, the sound of[r]
+sirens isn't that uncommon."[pcms]
 
 *4499|
 [fc]
-[ns]誠[nse]
-「いつもこのくらい鳴っているの？」[pcms]
+[ns]Makoto[nse]
+"Is it always this noisy with sirens?"[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa10"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4500|
 [fc]
 [vo_sat s="sato0038"]
-[ns]怜[nse]
-「昼までに、二回聞くのは珍しいかな？」[pcms]
+[ns]Sato[nse]
+"Hearing it twice before noon is rare, I guess?"[pcms]
 
 *4501|
 [fc]
-怜さんも、今朝のサイレンを聞いていたらしい。[r]
-この島中に響いてしまうものなのかな。[pcms]
+It seems Sato also heard the siren this morning. I wonder if it echoes[r]
+throughout the island.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4502|
 [fc]
 [vo_tay s="taja0015"]
-[ns]ターヤ[nse]
-「警察の人は、いつも魚釣りしてるから丁度いい」[pcms]
+[ns]Tarja Pohjonen[nse]
+"The police are always fishing, so it's just right."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so03a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *4503|
 [fc]
-[ns]宗一郎[nse]
-「普段、暇な分、これは忙しくなりそうですな」[pcms]
+[ns]Souichirou[nse]
+"Normally they're free, but this seems like it'll get busy."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa06"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *4504|
 [fc]
 [vo_sat s="sato0039"]
-[ns]怜[nse]
-「パトカーとか人手は足りるのかなぁ」[pcms]
+[ns]Sato[nse]
+"I wonder if they have enough patrol cars and manpower."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4505|
 [fc]
-のんびりとした島に訪れる、[r]
-年に一度の騒がしい時期なんだろう。[pcms]
+It must be a noisy time of year that visits this laid-back island once[r]
+a year.[pcms]
 
 *4506|
 [fc]
-もしかしたら冬も忙しいのかも知れないけれど、[r]
-夏ほどじゃない気がする。[pcms]
+Perhaps it's busy in winter too, but it doesn't feel as much as in[r]
+summer.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4507|
 [fc]
 [vo_tay s="taja0016"]
-[ns]ターヤ[nse]
-「病院のベッドの数も心配」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I'm also worried about the number of hospital beds."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_ja"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4508|
 [fc]
 [vo_sat s="sato0040"]
-[ns]怜[nse]
-「あんまり緊急の場合は、ヘリで四国の今張市に[r]
-　搬送されるんだけどね」[pcms]
+[ns]Sato[nse]
+"In really urgent cases, they're transported by helicopter to Imabari[r]
+City in Shikoku."[pcms]
 
 ;//m:ちょっと間を入れておく
 
@@ -824,13 +819,13 @@
 
 *4509|
 [fc]
-島に２軒しかないというコンビニでは、[r]
-マウンテンヂューが売っていなかった。[pcms]
+The convenience store, one of only two on the island, didn't sell[r]
+Mountain Dew.[pcms]
 
 *4510|
 [fc]
-スッコールが売っていたので代わりにしているけれど、[r]
-明田とはまた違う田舎事情を抱えているらしい。[pcms]
+I'm making do with Sukkool instead, but it seems to have different[r]
+rural issues than Akita.[pcms]
 
 ;//BGM即時停止
 [fadeoutbgm time=500]
@@ -841,14 +836,13 @@
 
 *4511|
 [fc]
-患者の受け入れが終わったのか、一度止んだサイレンが[r]
-また鳴り始める。[pcms]
+The siren that had stopped once after taking in patients started[r]
+sounding again.[pcms]
 
 *4512|
 [fc]
-なんとなく不吉なものを感じながらも、[r]
-明日に訪れる楽しい時間を思い起こして、[r]
-僕は嫌な感じを追い払っていった。[pcms]
+While feeling somewhat ominous, I pushed away the unpleasant thoughts[r]
+by looking forward to the fun times tomorrow.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]

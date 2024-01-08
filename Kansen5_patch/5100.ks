@@ -46,8 +46,8 @@
 
 *1150|
 [fc]
-[ns]誠[nse]
-「はい、どうぞ」[pcms]
+[ns]Makoto[nse]
+"Yes, please come in."[pcms]
 
 [se buf=0 storage="seA011"]
 ;//ドアを開ける
@@ -59,19 +59,18 @@
 
 *1151|
 [fc]
-ノックの音が聞こえて扉を開けると、[r]
-そこにはジャージ姿の越智さんが俯きながら立っていた。[pcms]
+When I heard the knock and opened the door, there stood Akari-san in[r]
+her jersey, looking down.[pcms]
 
 *1152|
 [fc]
-どうしたんだろうか。[r]
-遊びに来たっていう雰囲気じゃないけれど……。[pcms]
+I wonder what's wrong. It doesn't seem like she's here to hang out...[pcms]
 
 *1153|
 [fc]
-[ns]誠[nse]
-「どうしたの？　取りあえず中に入って。[r]
-　そーいちは出かけてていないけど」[pcms]
+[ns]Makoto[nse]
+"What's the matter? Come on in for now. Souichirou isn't here, he's[r]
+out."[pcms]
 
 [se buf=0 storage="seA013"]
 ;//コテージのドアを閉める
@@ -81,248 +80,243 @@
 
 *1154|
 [fc]
-越智さんはゆっくりと室内に入ってくると、[r]
-部屋の中央で立ちすくんだ。[pcms]
+Akari-san slowly entered the room and then stood frozen in the center[r]
+of it.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1155|
 [fc]
 [vo_aka s="akari0666"]
-[ns]茜梨[nse]
-「あの、少しお話があるんです」[pcms]
+[ns]Akari[nse]
+"Um, I have something I need to talk about."[pcms]
 
 *1156|
 [fc]
-[ns]誠[nse]
-「うん、でもどこかに座ってから……」[pcms]
+[ns]Makoto[nse]
+"Sure, but let's sit down first..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1157|
 [fc]
 [vo_aka s="akari0667"]
-[ns]茜梨[nse]
-「本当に、ごめんなさい」[pcms]
+[ns]Akari[nse]
+"I'm really, really sorry."[pcms]
 
 *1158|
 [fc]
-[ns]誠[nse]
-「え……？」[pcms]
+[ns]Makoto[nse]
+"Eh...?"[pcms]
 
 *1159|
 [fc]
-突然のことで、僕には越智さんがなにを言おうとしているのか[r]
-すぐにはわからなかった。[pcms]
+All of a sudden, I couldn't immediately understand what Akari-san was[r]
+trying to say.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1160|
 [fc]
 [vo_aka s="akari0668"]
-[ns]茜梨[nse]
-「中澤先輩が、４年前の被害者だってこと……、[r]
-　私は祖父のことを秘密にしようとしていました……」[pcms]
+[ns]Akari[nse]
+"That Nakazawa-senpai was the victim from four years ago... I was[r]
+trying to keep my grandfather's matter a secret..."[pcms]
 
 *1161|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1162|
 [fc]
-越智さんがそんなに思い詰めていたなんて……、[r]
-僕は言葉を失ってしまう。[pcms]
+I was at a loss for words, realizing that Akari-san had been so[r]
+burdened.[pcms]
 
 *1163|
 [fc]
 [vo_aka s="akari0669"]
-[ns]茜梨[nse]
-「どう謝ればいいのかわかりません……、[r]
-　人の一生を……目茶苦茶に……」[pcms]
+[ns]Akari[nse]
+"I don't know how to apologize... for messing up someone's life..."[pcms]
 
 *1164|
 [fc]
-[ns]誠[nse]
-「ごめんね、僕がクヨクヨしていたから……」[pcms]
+[ns]Makoto[nse]
+"I'm sorry, it's because I've been so down..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1165|
 [fc]
 [vo_aka s="akari0670"]
-[ns]茜梨[nse]
-「中澤先輩に謝られたら、私は……」[pcms]
+[ns]Akari[nse]
+"If Nakazawa-senpai apologizes to me, then I..."[pcms]
 
 *1166|
 [fc]
-越智さんが涙をこぼしてすすり泣きをする。[r]
-僕は有形無形で、越智さんを責めていたのかも知れない。[pcms]
+Akari-san started to cry and sob. Maybe I've been blaming her, both[r]
+openly and secretly.[pcms]
 
 *1167|
 [fc]
-[ns]誠[nse]
-「初めて知ったときは、少し驚いたけれど、[r]
-　今はなんとも思っていないよ」[pcms]
+[ns]Makoto[nse]
+"When I first found out, I was a bit shocked, but now it doesn't[r]
+bother me at all."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1168|
 [fc]
 [vo_aka s="akari0671"]
-[ns]茜梨[nse]
-「でも……」[pcms]
+[ns]Akari[nse]
+"But..."[pcms]
 
 *1169|
 [fc]
-[ns]誠[nse]
-「誰かを恨んで一生を過ごすなんて、僕は嫌だ。[r]
-　それに、越智さんの親族を恨むのは……、[r]
-　やっぱり難しいよ」[pcms]
+[ns]Makoto[nse]
+"I don't want to spend my life holding a grudge against someone.[r]
+Besides, it's difficult to resent a relative of Akari-san..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1170|
 [fc]
 [vo_aka s="akari0672"]
-[ns]茜梨[nse]
-「中澤先輩……」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai..."[pcms]
 
 *1171|
 [fc]
-僕が言葉で何を言っても、越智さんの心の傷は癒えないだろう。[r]
-でも、少しずつ変えていくことはできるかも知れない。[pcms]
+No matter what I say, it won't heal the wounds in Akari-san's heart.[r]
+But maybe we can change things little by little.[pcms]
 
 *1172|
 [fc]
-[ns]誠[nse]
-「今は、色々なことがありすぎて心がパンクしているんだよ。[r]
-　落ち着いてから、また話そう？」[pcms]
+[ns]Makoto[nse]
+"Right now, there's so much going on that my heart feels like it's[r]
+going to burst. Let's talk again once we've calmed down, okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1173|
 [fc]
 [vo_aka s="akari0673"]
-[ns]茜梨[nse]
-「東京の家に電話してみたんですが……、[r]
-　繋がらなくて……」[pcms]
+[ns]Akari[nse]
+"I tried calling my house in Tokyo, but... I couldn't get through..."[pcms]
 
 *1174|
 [fc]
-みんな同じだろう。[r]
-不安を抱えて、心が不安定になっているんだ。[pcms]
+Everyone must be feeling the same. Carrying anxiety, their hearts[r]
+becoming unstable.[pcms]
 
 *1175|
 [fc]
-だから、攻撃的になったり、[r]
-逆に自罰的になったりする。[pcms]
+That's why they become aggressive or sometimes punish themselves.[pcms]
 
 *1176|
 [fc]
-[ns]誠[nse]
-「きっと大丈夫だよ、今はそう信じて待とう。[r]
-　４年前に生き残った僕が言うんだから、[r]
-　少し信じられるでしょ？」[pcms]
+[ns]Makoto[nse]
+"It'll be alright, let's believe that for now and wait. I'm saying[r]
+this as someone who survived four years ago, so you can trust me a[r]
+little, right?"[pcms]
 
 *1177|
 [fc]
 [vo_aka s="akari0674"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *1178|
 [fc]
-[ns]誠[nse]
-「４年前だけじゃない、今回も僕は生き残るかも知れない。[r]
-　越智さんだってそうじゃないか」[pcms]
+[ns]Makoto[nse]
+"It's not just four years ago, I might survive this time too. And so[r]
+might you, Akari-san."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1179|
 [fc]
 [vo_aka s="akari0675"]
-[ns]茜梨[nse]
-「そうですね、私が生き残れるくらいなのに、[r]
-　母が失敗するなんて考えられません」[pcms]
+[ns]Akari[nse]
+"That's true. If I can survive, then it's unthinkable that my mother[r]
+would fail."[pcms]
 
 *1180|
 [fc]
-越智さんがやっと、少しだけ笑顔を浮かべた。[r]
-元気がないと何もできないから、これでいい。[pcms]
+Akari-san finally showed a slight smile. It's good to have some[r]
+spirit; without it, nothing can be done.[pcms]
 
 *1181|
 [fc]
-[ns]誠[nse]
-「でも、さっきは恐かったね。[r]
-　今も無事でいるのが不思議なくらいだよ」[pcms]
+[ns]Makoto[nse]
+"But it was scary earlier. It's almost surprising that we're still[r]
+safe now."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1182|
 [fc]
 [vo_aka s="akari0676"]
-[ns]茜梨[nse]
-「恐かったんですか？」[pcms]
+[ns]Akari[nse]
+"Were you scared?"[pcms]
 
 *1183|
 [fc]
-[ns]誠[nse]
-「正直に言うと、なんにも考えてなかったけど、[r]
-　今思い出すと恐いね」[pcms]
+[ns]Makoto[nse]
+"To be honest, I wasn't thinking about anything at the time, but[r]
+looking back on it now, it is scary."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1184|
 [fc]
 [vo_aka s="akari0677"]
-[ns]茜梨[nse]
-「無心だったんですよ、まー君先輩、格好良かったです」[pcms]
+[ns]Akari[nse]
+"You were in a state of mushin, Makoto-senpai, you were so cool."[pcms]
 
 *1185|
 [fc]
-越智さんに見つめられながら、[r]
-格好いいとか言われると少し照れる。[pcms]
+Being stared at by Akari-san and called cool is a bit embarrassing.[pcms]
 
 *1186|
 [fc]
-[ns]誠[nse]
-「越智さんの方が素敵だったよ」[pcms]
+[ns]Makoto[nse]
+"You were wonderful yourself, Akari-san."[pcms]
 
 *1187|
 [fc]
 [vo_aka s="akari0678"]
-[ns]茜梨[nse]
-「絶対、まー君先輩の方が格好良かったです……」[pcms]
+[ns]Akari[nse]
+"No way, Makoto-senpai was definitely cooler..."[pcms]
 
 *1188|
 [fc]
-越智さんの瞳が少し潤んでいる。[r]
-こんな瞳を前にも見た気がする。[pcms]
+Akari-san's eyes were slightly moist. It feels like I've seen those[r]
+eyes before.[pcms]
 
 *1189|
 [fc]
-あのときはキスできなかったけれど、今なら……。[pcms]
+Although I couldn't kiss her back then, maybe now...[pcms]
 
 *1190|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 ;//■イベントCG　茜梨顔アップ
 ;//[evcg storage="akari_N004>[trans_c cross time=300]
 
 *1191|
 [fc]
-僕は覚悟を決めて、越智さんの身体にそっと手を回す。[pcms]
+I made up my mind and gently wrapped my hand around Ochi-san's body.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1192|
 [fc]
 [vo_aka s="akari0679"]
-[ns]茜梨[nse]
-「あっ……」[pcms]
+[ns]Akari[nse]
+"Ah..."[pcms]
 
 ;//m:キス絵自体はないか？暗転で逃げておく
 ;//#_ブラックアウト
@@ -330,48 +324,47 @@
 
 *1193|
 [fc]
-そして、越智さんの瞳が落ちるのを待ってから、[r]
-その唇に触れていった。[pcms]
+Then, waiting for Ochi-san's eyes to fall, I touched her lips.[pcms]
 
 *1194|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1195|
 [fc]
 [vo_aka s="akari0680"]
-[ns]茜梨[nse]
-「んっ……」[pcms]
+[ns]Akari[nse]
+"Mmm..."[pcms]
 
 *1196|
 [fc]
-初めてのキスはとろけるようにやわらかくて、[r]
-ミントの香りが鼻に抜けていくような気がした。[pcms]
+The first kiss was meltingly soft, and I felt the scent of mint[r]
+escaping through my nose.[pcms]
 
 *1197|
 [fc]
 [vo_aka s="akari0681"]
-[ns]茜梨[nse]
-「んむっ……」[pcms]
+[ns]Akari[nse]
+"Nmm..."[pcms]
 
 ;//m:イベント顔アップで服装に不整合あれば下記テキスト修正
 
 *1198|
 [fc]
-僕は越智さんの身体に回した手を、[r]
-ジャージのチャックに伸ばしていく。[pcms]
+I extended the hand that was wrapped around Ochi-san's body towards[r]
+the zipper of her jacket.[pcms]
 
 *1199|
 [fc]
-そして、ジャージの前を完全にはだけさせると、[r]
-そこにはビキニ姿の越智さんがいた。[pcms]
+And when I completely unzipped the jacket, there was Ochi-san in a[r]
+bikini.[pcms]
 
 *1200|
 [fc]
 [vo_aka s="akari0682"]
-[ns]茜梨[nse]
-「恥ずかしいです……」[pcms]
+[ns]Akari[nse]
+"This is embarrassing..."[pcms]
 
 ;//m:ビキニでいいの？
 ;//★room08a VIPルーム
@@ -380,31 +373,31 @@
 
 *1201|
 [fc]
-そう言いながら、越智さんがジャージを脱いでいくと、[r]
-ホテルの部屋にむちむちの天使が降臨していた。[pcms]
+As she said that, Ochi-san took off her jacket, and a plump angel[r]
+descended into the hotel room.[pcms]
 
 *1202|
 [fc]
-白地に薄い色のストライプを着けたかわいい水着で、[r]
-越智さんによく似合っている。[pcms]
+The cute swimsuit with light-colored stripes on a white base suited[r]
+Ochi-san very well.[pcms]
 
 *1203|
 [fc]
-しかも、思っていたよりずっと大きなおっぱいは、[r]
-巨乳と言ってもいいほど、たわわに揺れていた。[pcms]
+Moreover, her breasts, which were much larger than I had imagined,[r]
+were bountiful enough to be called huge and were swaying.[pcms]
 
 *1204|
 [fc]
-下半身はふくよかで骨っぽいところが無く、[r]
-基本的になだらかなカーブで構成されている。[pcms]
+The lower half of her body was voluptuous with no bony parts, composed[r]
+of gentle curves.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw3"][ChrSetParts layer=5 chface="F2_ak11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1205|
 [fc]
 [vo_aka s="akari0683"]
-[ns]茜梨[nse]
-「まー君先輩……私が……」[pcms]
+[ns]Akari[nse]
+"Ma-Makoto-senpai... I'm..."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -415,8 +408,8 @@
 
 *1206|
 [fc]
-越智さんは僕のズボンを脱がせると、[r]
-床に膝をついて勃起したものを胸で挟み込んでいった。[pcms]
+Ochi-san began to take off my pants, then knelt on the floor and[r]
+sandwiched my erect dick between her breasts.[pcms]
 
 *MEMORIES_START
 
@@ -432,389 +425,380 @@
 *1207|
 [fc]
 [vo_aka s="akari0684"]
-[ns]茜梨[nse]
-「はぁ……あぁ……ふぅ……」[pcms]
+[ns]Akari[nse]
+"Haah... Ahh... Fuu..."[pcms]
 
 *1208|
 [fc]
-[ns]誠[nse]
-「こ、こんな……ああああっ！」[pcms]
+[ns]Makoto[nse]
+"Th-this is... Aaaaah!"[pcms]
 
 *1209|
 [fc]
 [vo_aka s="akari0685"]
-[ns]茜梨[nse]
-「ま、まー君先輩のおちんちんが……、[r]
-　固くて……くううっ……」[pcms]
+[ns]Akari[nse]
+"Ma-Makoto-senpai's dick is... so hard... kuuu..."[pcms]
 
 *1210|
 [fc]
-越智さんはビキニを着たまま僕のペニスを挟むと、[r]
-それを上下させていく。[pcms]
+Ochi-san, still in her bikini, sandwiched my penis and began to move[r]
+it up and down.[pcms]
 
 *1211|
 [fc]
-越智さんの肌はもちもちと吸い付くように、[r]
-僕のペニスにまとわりついきて離れない。[pcms]
+Ochi-san's skin was so soft and clingy, it wrapped around my penis and[r]
+wouldn't let go.[pcms]
 
 *1212|
 [fc]
 [vo_aka s="akari0686"]
-[ns]茜梨[nse]
-「気持ちいいですか……？」[pcms]
+[ns]Akari[nse]
+"Does it feel good...?"[pcms]
 
 *1213|
 [fc]
-見上げるような目線で、[r]
-不安そうに僕の様子を確認している。[pcms]
+She looked up at me with a worried expression, checking on my[r]
+condition.[pcms]
 
 *1214|
 [fc]
-でも、僕は越智さんの積極的な行動に驚くばかりで、[r]
-なにがなんだかわからなかった。[pcms]
+But I was just surprised by Ochi-san's aggressive actions, not[r]
+understanding what was happening.[pcms]
 
 *1215|
 [fc]
-[ns]誠[nse]
-「越智さんが……こんなことするなんて……」[pcms]
+[ns]Makoto[nse]
+"I can't believe Ochi-san would do something like this..."[pcms]
 
 *1216|
 [fc]
 [vo_aka s="akari0687"]
-[ns]茜梨[nse]
-「私も……女の子ですから……、[r]
-　興味がいっぱいあったんです……」[pcms]
+[ns]Akari[nse]
+"I'm a girl too... I had a lot of curiosity..."[pcms]
 
 *1217|
 [fc]
-厳しい[ruby text="しつけ"]躾で育った越智さんに、[r]
-そんなことを言われると困る。[pcms]
+It's troubling to hear such words from Ochi-san, who was raised with[r]
+strict discipline.[pcms]
 
 *1218|
 [fc]
-もっと……色んな事を言わせたい……。[pcms]
+I want to make her say even more... various things.[pcms]
 
 *1219|
 [fc]
-[ns]誠[nse]
-「お、男のを見たのは……初めてなの？」[pcms]
+[ns]Makoto[nse]
+"Is this the first time you've seen a man's...?"[pcms]
 
 *1220|
 [fc]
 [vo_aka s="akari0688"]
-[ns]茜梨[nse]
-「初めてです……こんなに大きくて、固くて……、[r]
-　えっちな匂いがしているなんて……」[pcms]
+[ns]Akari[nse]
+"It's my first time... I didn't know it could be so big and hard...[r]
+and have such an erotic smell..."[pcms]
 
 *1221|
 [fc]
-顔を赤くさせながらも、[r]
-越智さんはペニスを扱く手を緩めなかった。[pcms]
+Even though her face turned red, Ochi-san didn't slow down the hand[r]
+that was stroking the penis.[pcms]
 
 *1222|
 [fc]
-[ns]誠[nse]
-「好きになれそう……？　それとも恐くなった……？」[pcms]
+[ns]Makoto[nse]
+"Do you think you could like it...? Or are you scared...?"[pcms]
 
 *1223|
 [fc]
 [vo_aka s="akari0689"]
-[ns]茜梨[nse]
-「ああああっ……言えません……」[pcms]
+[ns]Akari[nse]
+"Aaaaah... I can't say..."[pcms]
 
 *1224|
 [fc]
-越智さんが恥ずかしそうにすると、[r]
-もっと追求したくなる。[pcms]
+Seeing Ochi-san act shy makes me want to pursue her even more.[pcms]
 
 *1225|
 [fc]
-ペニスをガチガチに固くしながら、[r]
-僕は更に問い正していった。[pcms]
+With my penis rock hard, I pressed her for an answer even more.[pcms]
 
 *1226|
 [fc]
-[ns]誠[nse]
-「好きになっちゃったの……？[r]
-　お、教えて欲しいな……」[pcms]
+[ns]Makoto[nse]
+"Have you fallen for it...? I want you to tell me..."[pcms]
 
 *1227|
 [fc]
 [vo_aka s="akari0690"]
-[ns]茜梨[nse]
-「で、でも……好きって言ったら軽蔑しますか？」[pcms]
+[ns]Akari[nse]
+"But... if I say I like it, will you despise me?"[pcms]
 
 *1228|
 [fc]
-[ns]誠[nse]
-「しないよ……好きになってくれたら嬉しい……」[pcms]
+[ns]Makoto[nse]
+"I won't... I'd be happy if you fell for me..."[pcms]
 
 *1229|
 [fc]
-もう好きだって言っているようなものだけど、[r]
-直に越智さんの口から聞きたい。[pcms]
+It's as if she's already saying she likes me, but I want to hear it[r]
+directly from Ochi-san's mouth.[pcms]
 
 *1230|
 [fc]
-このいやらしくて、ろくな事に使われない性器を[r]
-好きだと言わせたい……。[pcms]
+I want to make you say that you love this lewd genitalia that's only[r]
+used for naughty things...[pcms]
 
 [evcg storage="akari_H020b"][trans_c cross time=300]
 
 *1231|
 [fc]
 [vo_aka s="akari0691"]
-[ns]茜梨[nse]
-「だ、誰のでも好きなんじゃないんです……」[pcms]
+[ns]Akari[nse]
+"It's not like I like anyone's..."[pcms]
 
 *1232|
 [fc]
-[ns]誠[nse]
-「じゃあ……好きなの……？」[pcms]
+[ns]Makoto[nse]
+"So... you do like it...?"[pcms]
 
 *1233|
 [fc]
-越智さんが恥ずかしくて死にそうな顔をしながら、[r]
-ゆっくりと頷く。[pcms]
+While looking embarrassed to death, Ochi-san slowly nodded.[pcms]
 
 *1234|
 [fc]
-僕はそれだけで、射精しそうなほど興奮していた。[pcms]
+Just that was enough to excite me to the point of almost ejaculating.[pcms]
 
 *1235|
 [fc]
 [vo_aka s="akari0692"]
-[ns]茜梨[nse]
-「えっちな子だって思いますか……？」[pcms]
+[ns]Akari[nse]
+"Do you think I'm a naughty girl...?"[pcms]
 
 *1236|
 [fc]
-[ns]誠[nse]
-「エッチな越智さん大好きだよ……」[pcms]
+[ns]Makoto[nse]
+"I love the naughty Ochi-san..."[pcms]
 
 *1237|
 [fc]
 [vo_aka s="akari0693"]
-[ns]茜梨[nse]
-「ああん、そんなこと言ったらいやです……」[pcms]
+[ns]Akari[nse]
+"Aaahn, I don't want you to say that..."[pcms]
 
 *1238|
 [fc]
-ペニスを挟む手に力が入ると、[r]
-僕は思わず背中を反らせた。[pcms]
+As she gripped the penis tighter, I involuntarily arched my back.[pcms]
 
 *1239|
 [fc]
-[ns]誠[nse]
-「ああっ、気持ちよくて……たまらないよ……」[pcms]
+[ns]Makoto[nse]
+"Aah, it feels so good... I can't stand it..."[pcms]
 
 *1240|
 [fc]
 [vo_aka s="akari0694"]
-[ns]茜梨[nse]
-「先っぽから……雫がこぼれてきました……」[pcms]
+[ns]Akari[nse]
+"Droplets are starting to spill from the tip..."[pcms]
 
 *1241|
 [fc]
-[ns]誠[nse]
-「気持ちいいから……我慢できなかったんだよ……」[pcms]
+[ns]Makoto[nse]
+"It feels so good... I couldn't hold back..."[pcms]
 
 *1242|
 [fc]
-ペニスを先端を見つめていた越智さんの唇が、[r]
-そっと近づいてくる。[pcms]
+Ochi-san's lips, which had been staring at the tip of the penis,[r]
+slowly approached.[pcms]
 
 *1243|
 [fc]
-そして……花の蜜でも舐めるみたいにして、[r]
-先端の雫に唇を付けてきた。[pcms]
+And then... as if tasting the nectar of a flower, she gently placed[r]
+her lips on the droplet at the tip.[pcms]
 
 *1244|
 [fc]
 [vo_aka s="akari0695"]
-[ns]茜梨[nse]
-「んちゅっ……んんんんっ……」[pcms]
+[ns]Akari[nse]
+"Nchu... mmmm..."[pcms]
 
 *1245|
 [fc]
-[ns]誠[nse]
-「んくわああああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Nkuwaaaaaaaaaah!"[pcms]
 
 *1246|
 [fc]
 [vo_aka s="akari0696"]
-[ns]茜梨[nse]
-「ちょっとしょっぱくて……生っぽい味です……」[pcms]
+[ns]Akari[nse]
+"It's a bit salty... and has a raw taste..."[pcms]
 
 *1247|
 [fc]
-越智さんは完全に興奮している。[pcms]
+Ochi-san was completely excited.[pcms]
 
 *1248|
 [fc]
-聞いてもいないのに、ペニスの味を話し始めていた。[pcms]
+Without being asked, she started talking about the taste of the penis.[pcms]
 
 *1249|
 [fc]
-[ns]誠[nse]
-「越智さんは、こういう味が好きなの？」[pcms]
+[ns]Makoto[nse]
+"Do you like this kind of taste, Ochi-san?"[pcms]
 
 *1250|
 [fc]
 [vo_aka s="akari0697"]
-[ns]茜梨[nse]
-「ああっ……そうでもないですけど……」[pcms]
+[ns]Akari[nse]
+"Aah... not really but..."[pcms]
 
 *1251|
 [fc]
-[ns]誠[nse]
-「そうでもないけど……？」[pcms]
+[ns]Makoto[nse]
+"Not really but...?"[pcms]
 
 *1252|
 [fc]
 [vo_aka s="akari0698"]
-[ns]茜梨[nse]
-「この味はえっちで……癖になりそうです……」[pcms]
+[ns]Akari[nse]
+"This taste is naughty... and it seems to be addictive..."[pcms]
 
 *1253|
 [fc]
-越智さんが僕のペニスの味を癖になるほど[r]
-好きになってくれたみたいだった。[pcms]
+It seemed like Ochi-san had come to like the taste of my penis enough[r]
+to find it addictive.[pcms]
 
 *1254|
 [fc]
-お預けさせて悶えさせてもいいし、[r]
-好きなだけしゃぶらせてもいい。[pcms]
+I could let her suffer in anticipation or let her suck as much as she[r]
+wants.[pcms]
 
 *1255|
 [fc]
-ペニスがあり得ないほど固くなっている。[pcms]
+My penis was unbelievably hard.[pcms]
 
 *1256|
 [fc]
-[ns]誠[nse]
-「も、もっと……舐めてもいいんだよ」[pcms]
+[ns]Makoto[nse]
+"You can... lick it more if you want"[pcms]
 
 *1257|
 [fc]
 [vo_aka s="akari0699"]
-[ns]茜梨[nse]
-「おっぱいの隙間から、頭が出たり消えたりして……、[r]
-　んむっ……んちゅ……」[pcms]
+[ns]Akari[nse]
+"The head pops in and out from between my breasts... nmm... nchu..."[pcms]
 
 *1258|
 [fc]
-越智さんは一生懸命ペニスを扱きながら、[r]
-こぼれ出る先っぽの雫を舐め続けていた。[pcms]
+Ochi-san continued to lick up the droplets spilling from the tip while[r]
+working hard on the penis.[pcms]
 
 *1259|
 [fc]
-[ns]誠[nse]
-「す、すごいよ……もっと横から圧迫して……」[pcms]
+[ns]Makoto[nse]
+"It's amazing... press more from the side..."[pcms]
 
 *1260|
 [fc]
 [vo_aka s="akari0700"]
-[ns]茜梨[nse]
-「こ、こうですか……？　苦しくないですか……？」[pcms]
+[ns]Akari[nse]
+"Is this how...? Are you not in pain...?"[pcms]
 
 *1261|
 [fc]
-[ns]誠[nse]
-「揺すって……僕のものでオナニーするみたいに、[r]
-　強く擦り上げて……」[pcms]
+[ns]Makoto[nse]
+"Shake it... rub it up strongly as if you're masturbating with[r]
+mine..."[pcms]
 
 [evcg storage="akari_H020c"][trans_c cross time=300]
 
 *1262|
 [fc]
 [vo_aka s="akari0701"]
-[ns]茜梨[nse]
-「まー君先輩の……いやらしい匂いがしてきました……」[pcms]
+[ns]Akari[nse]
+"I've started to smell Makoto-senpai's... lewd scent..."[pcms]
 
 *1263|
 [fc]
-先端の雫を舐めることで、[r]
-口から匂いを嗅ぎ取っているんだろう。[pcms]
+By licking the tip, she must be picking up the scent through her[r]
+mouth.[pcms]
 
 *1264|
 [fc]
-匂いと言うには、あまりにダイレクトな感覚のはずだ。[pcms]
+The sensation must be too direct to simply call it a smell.[pcms]
 
 *1265|
 [fc]
 [vo_aka s="akari0702"]
-[ns]茜梨[nse]
-「こ、この匂い好きです……おちんちん好きぃ……」[pcms]
+[ns]Akari[nse]
+"I like this smell... I love cock..."[pcms]
 
 *1266|
 [fc]
-越智さんが壊れ始めていた。[r]
-興奮で顔を真っ赤にしながら、思っていることを全部話している。[pcms]
+Ochi-san was starting to break. Her face turned bright red with[r]
+excitement as she spilled all her thoughts.[pcms]
 
 *1267|
 [fc]
-[ns]誠[nse]
-「ああっ……もう、保たないよ……」[pcms]
+[ns]Makoto[nse]
+"Aah... I can't hold on any longer..."[pcms]
 
 *1268|
 [fc]
 [vo_aka s="akari0703"]
-[ns]茜梨[nse]
-「いっぱい出してください……、[r]
-　初めてだから、いっぱい出して欲しいんです……」[pcms]
+[ns]Akari[nse]
+"Please let out a lot... It's my first time, so I want you to release[r]
+a lot..."[pcms]
 
 *1269|
 [fc]
-いっぱい出たねって……越智さんに言われたら、悶死する。[pcms]
+If Ochi-san tells me I let out a lot... I'd die of ecstasy.[pcms]
 
 *1270|
 [fc]
-でも、言って欲しい……。[pcms]
+But I want you to say it...[pcms]
 
 *1271|
 [fc]
-[ns]誠[nse]
-「ぐうっ、あああっ！　いっぱいかかっちゃうよ……！」[pcms]
+[ns]Makoto[nse]
+"Guuh, ahhh! It's going to get all over...!"[pcms]
 
 *1272|
 [fc]
 [vo_aka s="akari0704"]
-[ns]茜梨[nse]
-「いっぱいかけてください、まー君先輩の匂いを、[r]
-　私の身体に染みこませてください」[pcms]
+[ns]Akari[nse]
+"Please let it out all over, I want to be soaked with Makoto-senpai's[r]
+scent..."[pcms]
 
 *1273|
 [fc]
-かけたい、越智さんのかわいい顔に。[pcms]
+I want to let it out, all over Ochi-san's cute face.[pcms]
 
 *1274|
 [fc]
-[ns]誠[nse]
-「くううっ、うううっ、出るぅぅぅぅっ！」[pcms]
+[ns]Makoto[nse]
+"Kuuuh, uuuuh, it's coming outttt!"[pcms]
 
 *1275|
 [fc]
 [vo_aka s="akari0705"]
-[ns]茜梨[nse]
-「ああっ、精液が、精液がでちゃうっ！」[pcms]
+[ns]Akari[nse]
+"Ahh, the semen, the semen is coming out!"[pcms]
 
 *1276|
 [fc]
-[ns]誠[nse]
-「あああああっ、もうだめ、くううっ！」[pcms]
+[ns]Makoto[nse]
+"Aaaaaah, I can't take it anymore, kuuuh!"[pcms]
 
 *1277|
 [fc]
 [vo_aka s="akari0706"]
-[ns]茜梨[nse]
-「まー君先輩っ！　出してくださいっ！[r]
-　私の身体で気持ちよくなってぇっ！」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai! Please let it out! Feel good with my body!"[pcms]
 
 *1278|
 [fc]
-[ns]誠[nse]
-「あああああああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Aaaaaaaaaaaaaaaaaah!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -831,127 +815,124 @@
 
 *1279|
 [fc]
-気が遠くなるような快感の頂点で、[r]
-僕は溜まっていた精液が噴き出したのを感じていた。[pcms]
+At the peak of an almost fainting pleasure, I felt the semen that had[r]
+been building up burst forth.[pcms]
 
 *1280|
 [fc]
-我慢していたものを解き放つ気持ち良さと、[r]
-越智さんを汚していく怪しい快感に身体が震える。[pcms]
+The pleasure of releasing what I had been holding back and the strange[r]
+thrill of defiling Ochi-san made my body tremble.[pcms]
 
 *1281|
 [fc]
 [vo_aka s="akari0707"]
-[ns]茜梨[nse]
-「いっぱい出てる……ああああっ……」[pcms]
+[ns]Akari[nse]
+"It's coming out so much... ahhhh!"[pcms]
 
 *1282|
 [fc]
-[ns]誠[nse]
-「うっ、くうっ、んううううっ……」[pcms]
+[ns]Makoto[nse]
+"Uhh, kuuuh, nnuuuuuh..."[pcms]
 
 *1283|
 [fc]
-射精が止まらない……、[r]
-オナニーとは比べものにならないほど精液が出ていた。[pcms]
+The ejaculation wouldn't stop... so much more semen was coming out[r]
+than when I masturbate.[pcms]
 
 [evcg storage="akari_H020e"][trans_c cross time=300]
 
 *1284|
 [fc]
 [vo_aka s="akari0708"]
-[ns]茜梨[nse]
-「あったかぁい……ぬるぬるで……気持ちいい……」[pcms]
+[ns]Akari[nse]
+"It's so warm... slippery... it feels good..."[pcms]
 
 *1285|
 [fc]
-越智さんが精液にまみれたペニスを、[r]
-豊満な胸の肉で扱いていく。[pcms]
+Ochi-san was handling my semen-covered penis with her ample breasts.[pcms]
 
 *1286|
 [fc]
 [vo_aka s="akari0709"]
-[ns]茜梨[nse]
-「まー君先輩の、まだこんなに固くて……」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai's is still so hard..."[pcms]
 
 *1287|
 [fc]
-[ns]誠[nse]
-「まだ……中に残ってるの……ああっ」[pcms]
+[ns]Makoto[nse]
+"There's still... some left inside... aahh"[pcms]
 
 *1288|
 [fc]
-僕が言い終わるより早く、[r]
-越智さんはペニスに吸い付いて、精液を吸い上げ始めた。[pcms]
+Before I could finish speaking, Ochi-san latched onto my penis and[r]
+began sucking up the semen.[pcms]
 
 *1289|
 [fc]
 [vo_aka s="akari0710"]
-[ns]茜梨[nse]
-「んちゅっ……んんっ……んぶちゅっ……」[pcms]
+[ns]Akari[nse]
+"Nchuu... nnn... nbufuchu..."[pcms]
 
 [evcg storage="akari_H020f"][trans_c cross time=300]
 
 *1290|
 [fc]
-もうこれ以上はないほどの快感。[r]
-圧倒されるほどの満足だった。[pcms]
+The pleasure was beyond anything else. It was an overwhelming[r]
+satisfaction.[pcms]
 
 *1291|
 [fc]
-越智さんにおっぱいで胸を扱かせて、[r]
-事後処理までしてもらうなんて……。[pcms]
+Having Ochi-san handle me with her breasts for aftercare...[pcms]
 
 *1292|
 [fc]
-こんなかわいい子にお掃除フェラさせるのは、[r]
-犯罪的な気分さえ醸し出している。[pcms]
+Letting such a cute girl perform a cleanup blowjob felt almost[r]
+criminally pleasurable.[pcms]
 
 *1293|
 [fc]
 [vo_aka s="akari0711"]
-[ns]茜梨[nse]
-「私の初めてを……もらってくれますか……？」[pcms]
+[ns]Akari[nse]
+"Will you take my first time...?"[pcms]
 
 *1294|
 [fc]
-ペニスから口を離すと、[r]
-越智さんは僕にお願いするようにそう言ってきた。[pcms]
+As she released my penis from her mouth, Ochi-san asked me as if she[r]
+were pleading.[pcms]
 
 *1295|
 [fc]
-まるで、しょうがないからもらってあげるみたいな[r]
-空気になっている。[pcms]
+It was as if she was saying she'd let me have it because she had no[r]
+other choice.[pcms]
 
 *1296|
 [fc]
 [vo_aka s="akari0712"]
-[ns]茜梨[nse]
-「えっちな女の子でごめんなさい……、[r]
-　でも……もう、我慢できないんです……」[pcms]
+[ns]Akari[nse]
+"I'm sorry for being such a lewd girl... but... I can't hold back[r]
+anymore..."[pcms]
 
 *1297|
 [fc]
-[ns]誠[nse]
-「越智さんは何が欲しいの……？」[pcms]
+[ns]Makoto[nse]
+"What does Ochi-san want?"[pcms]
 
 *1298|
 [fc]
 [vo_aka s="akari0713"]
-[ns]茜梨[nse]
-「あああっ……」[pcms]
+[ns]Akari[nse]
+"Ahhh..."[pcms]
 
 *1299|
 [fc]
-全部言って欲しい、包み隠さず、[r]
-越智さんの思っていること全てを……。[pcms]
+I want her to say everything, without hiding anything, all that Ochi-[r]
+san is thinking...[pcms]
 
 *1300|
 [fc]
 [vo_aka s="akari0714"]
-[ns]茜梨[nse]
-「まー君先輩のおちんちんを……、[r]
-　私の中にください……」[pcms]
+[ns]Akari[nse]
+"Please give me Makoto-senpai's cock... inside me..."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -968,404 +949,392 @@
 
 *1301|
 [fc]
-越智さんは後ろを向くと、ビキニの紐を外して緩め、[r]
-そのままずらすようにしてお尻を見せつけてきた。[pcms]
+Ochi-san turned around, untied and loosened her bikini strings, and[r]
+then slid them aside to show off her butt.[pcms]
 
 *1302|
 [fc]
 [vo_aka s="akari0715"]
-[ns]茜梨[nse]
-「初めては……後ろからして欲しいんです……」[pcms]
+[ns]Akari[nse]
+"I want my first time... from behind..."[pcms]
 
 *1303|
 [fc]
-[ns]誠[nse]
-「後ろが好きなの……？」[pcms]
+[ns]Makoto[nse]
+"You like it from behind...?"[pcms]
 
 *1304|
 [fc]
-越智さんのあそこは無毛のつるつるで、[r]
-ピンク色の肉が見えているだけだった。[pcms]
+Ochi-san's pussy was hairless and smooth, with just the pink flesh[r]
+visible.[pcms]
 
 [evcg storage="akari_H021b"][trans_c cross time=300]
 
 *1305|
 [fc]
 [vo_aka s="akari0716"]
-[ns]茜梨[nse]
-「まー君先輩に犯されているみたいで……、[r]
-　ああああっ……」[pcms]
+[ns]Akari[nse]
+"It feels like I'm being violated by Makoto-senpai... ahhh..."[pcms]
 
 *1306|
 [fc]
-越智さんは顔を真っ赤にして自分の性癖を暴露していた。[pcms]
+Ochi-san was blushing furiously as she exposed her own sexual[r]
+preferences.[pcms]
 
 *1307|
 [fc]
-犯されるのが好きだったなんて……、[r]
-じゃあいつもの校舎で突然襲っても、[r]
-ＯＫだったんだ……。[pcms]
+To think she liked being violated... then even if I suddenly attacked[r]
+her in the usual school building, it would have been okay...[pcms]
 
 *1308|
 [fc]
 [vo_aka s="akari0717"]
-[ns]茜梨[nse]
-「こんなえっちな子でも……犯してくれますか……？」[pcms]
+[ns]Akari[nse]
+"Even though I'm such a lewd girl... will you violate me...?"[pcms]
 
 *1309|
 [fc]
-涙ながらに犯して欲しいと訴えかけてくる越智さんに、[r]
-僕のペニスが疼いていく。[pcms]
+As Ochi-san tearfully begged to be violated, my penis throbbed with[r]
+desire.[pcms]
 
 *1310|
 [fc]
-本当は飛びかかりたい気持ちを堪えて、[r]
-もっと話を聞いていった。[pcms]
+I held back my desire to pounce on her, and instead continued to[r]
+listen to her story.[pcms]
 
 *1311|
 [fc]
-[ns]誠[nse]
-「そんなに犯して欲しいの……？」[pcms]
+[ns]Makoto[nse]
+"You want to be violated that badly...?"[pcms]
 
 *1312|
 [fc]
 [vo_aka s="akari0718"]
-[ns]茜梨[nse]
-「はい……いつも……まー君先輩に犯してもらうのを[r]
-　想像してました……」[pcms]
+[ns]Akari[nse]
+"Yes... I've always... imagined being violated by you, Makoto-[r]
+senpai..."[pcms]
 
 [evcg storage="akari_H021c"][trans_c cross time=300]
 
 *1313|
 [fc]
-僕は我慢できなくなって、越智さんの身体の下に入り込むと、[r]
-愛液が滴っているそこに舌を這わしていく。[pcms]
+I couldn't hold back any longer, so I slid under Ochi-san's body and[r]
+began to lick her dripping wet pussy.[pcms]
 
 *1314|
 [fc]
 [vo_aka s="akari0719"]
-[ns]茜梨[nse]
-「ああっ、あんっ、くあっ、んあっ」[pcms]
+[ns]Akari[nse]
+"Aah, ahn, kuaa, nhaa"[pcms]
 
 *1315|
 [fc]
 [vo_aka s="akari0720"]
-[ns]茜梨[nse]
-「んああああっ！　そんなとこ舐めたら、汚いですっ！」[pcms]
+[ns]Akari[nse]
+"Nhaaaa! If you lick there, it's dirty!"[pcms]
 
 [evcg storage="akari_H021d"][trans_c cross time=300]
 
 *1316|
 [fc]
-[ns]誠[nse]
-「んぶちゅっ、はむっ、んんっ、汚くないよ、[r]
-　すごく美味しい」[pcms]
+[ns]Makoto[nse]
+"Nbuchu, hamu, nnn, it's not dirty at all, it's really delicious"[pcms]
 
 *1317|
 [fc]
-越智さんのあそこは、おかしいほど愛液にまみれて、[r]
-ぬるぬるになっていた。[pcms]
+Ochi-san's pussy was absurdly drenched in love juices, becoming[r]
+slippery.[pcms]
 
 *1318|
 [fc]
-僕のペニスを扱いていただけなのに……。[pcms]
+Even though I was only handling my penis...[pcms]
 
 [evcg storage="akari_H021e"][trans_c cross time=300]
 
 *1319|
 [fc]
 [vo_aka s="akari0721"]
-[ns]茜梨[nse]
-「お、犯されてる……私、まー君先輩に……ああっ……」[pcms]
+[ns]Akari[nse]
+"Oh, being violated... by you, Makoto-senpai... ahh..."[pcms]
 
 *1320|
 [fc]
-[ns]誠[nse]
-「本当に、オナニーのおかずに僕を使っていたの？」[pcms]
+[ns]Makoto[nse]
+"Did you really use me as your masturbation fantasy?"[pcms]
 
 *1321|
 [fc]
 [vo_aka s="akari0722"]
-[ns]茜梨[nse]
-「ああんっ……あんまり聞いちゃいやです……」[pcms]
+[ns]Akari[nse]
+"Ahn... don't ask too much..."[pcms]
 
 *1322|
 [fc]
-素直にならないエッチな子にお仕置きするように、[r]
-クリトリスをなめ回していく。[pcms]
+As if punishing a naughty girl who won't be honest, I licked all[r]
+around her clitoris.[pcms]
 
 [evcg storage="akari_H021f"][trans_c cross time=300]
 
 *1323|
 [fc]
 [vo_aka s="akari0723"]
-[ns]茜梨[nse]
-「そ、そこは、強く……んあああああっ！」[pcms]
+[ns]Akari[nse]
+"That spot is too strong... nhaaaaa!"[pcms]
 
 *1324|
 [fc]
-[ns]誠[nse]
-「越智さんの弱みを握らないと……、[r]
-　レイプできないよ……？」[pcms]
+[ns]Makoto[nse]
+"If I don't have a hold on Ochi-san's weakness..., I can't rape[r]
+you...?"[pcms]
 
 *1325|
 [fc]
-レイプしてもらうために弱みを話していくなんて、[r]
-越智さんはどれだけ浅ましい欲望を抱えていたのか……。[pcms]
+To think she would reveal her weaknesses just to be raped, Ochi-san[r]
+harbored such shameful desires...[pcms]
 
 *1326|
 [fc]
 [vo_aka s="akari0724"]
-[ns]茜梨[nse]
-「だって……あああああっ！[r]
-　こんなにいやらしいの……くううっ！」[pcms]
+[ns]Akari[nse]
+"Because... aaaaaah! It's so lewd... kuuuuh!"[pcms]
 
 *1327|
 [fc]
-僕はクリトリスから唇を離すと、[r]
-越智さんが話しやすいように、[r]
-ゆっくりと刺激を与えていく。[pcms]
+I moved away from her clitoris and began to stimulate her slowly so[r]
+that Ochi-san could talk more easily.[pcms]
 
 *1328|
 [fc]
 [vo_aka s="akari0725"]
-[ns]茜梨[nse]
-「ああっ……してました……まー君先輩を……、[r]
-　オナニーのおかずにしてましたぁ！」[pcms]
+[ns]Akari[nse]
+"Aah... I did it... I used you, Makoto-senpai, as my masturbation[r]
+fantasy!"[pcms]
 
 *1329|
 [fc]
-ご褒美とばかりに細い一本の割れ目の中に、[r]
-舌を差し込んでいく。[pcms]
+As if rewarding her, I slid my tongue into the narrow slit.[pcms]
 
 *1330|
 [fc]
 [vo_aka s="akari0726"]
-[ns]茜梨[nse]
-「んくうううっ！　そこ、恐かったのに……、[r]
-　あひいいいいいっ！　おかしくなっちゃうぅっ！」[pcms]
+[ns]Akari[nse]
+"Nkuuuuh! That spot, I was scared of it... ahiieeee! I'm going crazy!"[pcms]
 
 *1331|
 [fc]
-[ns]誠[nse]
-「他にはどんなこと考えてたの……？」[pcms]
+[ns]Makoto[nse]
+"What else were you thinking about...?"[pcms]
 
 *1332|
 [fc]
 [vo_aka s="akari0727"]
-[ns]茜梨[nse]
-「弱みを握られちゃうぅ……、[r]
-　私、まー君先輩の奴隷になっちゃよぉ……」[pcms]
+[ns]Akari[nse]
+"Being controlled by weaknesses... I'll become your slave, Makoto-[r]
+senpai..."[pcms]
 
 *1333|
 [fc]
-[ns]誠[nse]
-「早く言わないと、やめちゃうよ……？」[pcms]
+[ns]Makoto[nse]
+"If you don't say it quickly, I'll stop...?"[pcms]
 
 *1334|
 [fc]
 [vo_aka s="akari0728"]
-[ns]茜梨[nse]
-「だめぇっ！　やめちゃだめですぅっ！」[pcms]
+[ns]Akari[nse]
+"No way! You can't stop!"[pcms]
 
 *1335|
 [fc]
-僕は焦らすようにポイントをずらして、[r]
-越智さんを刺激しながら恥ずかしい告白を待った。[pcms]
+I teased her by shifting the point of stimulation and waited for her[r]
+embarrassing confession.[pcms]
 
 [evcg storage="akari_H021e"][trans_c cross time=300]
 
 *1336|
 [fc]
 [vo_aka s="akari0729"]
-[ns]茜梨[nse]
-「あああっ、恥ずかしくて、死んじゃうよう……」[pcms]
+[ns]Akari[nse]
+"Aaaaah, it's so embarrassing, I could die..."[pcms]
 
 *1337|
 [fc]
-僕に弱みを握られてレイプされて、[r]
-どうなりたかたんだろうか。[pcms]
+I wonder what she wanted to happen after being raped and controlled by[r]
+me.[pcms]
 
 *1338|
 [fc]
-激しい興奮で、胸の高鳴りを抑えきれない。[pcms]
+The intense excitement made it impossible to calm my racing heart.[pcms]
 
 *1339|
 [fc]
 [vo_aka s="akari0730"]
-[ns]茜梨[nse]
-「犯されて……中出しされたいんです……、[r]
-　身体の中から、隅々まで犯されるみたいで……」[pcms]
+[ns]Akari[nse]
+"To be violated... and to have a creampie... It feels like I'm being[r]
+violated from the inside out..."[pcms]
 
 *1340|
 [fc]
-[ns]誠[nse]
-「じゃあ、中に出して欲しいの？」[pcms]
+[ns]Makoto[nse]
+"So, you want me to cum inside?"[pcms]
 
 *1341|
 [fc]
 [vo_aka s="akari0731"]
-[ns]茜梨[nse]
-「だって……精液もったいないから……、[r]
-　そこだめぇぇぇぇぇぇぇっ！」[pcms]
+[ns]Akari[nse]
+"Because... it's a waste to spill semen... that spot is no good[r]
+eeeeeeeh!"[pcms]
 
 *1342|
 [fc]
-[ns]誠[nse]
-「んぶっ、んくっ、ぬるむちゅちゅっ、んじゅうっ！」[pcms]
+[ns]Makoto[nse]
+"Nbuu, nkuu, nurumuchuchu, njyuu!"[pcms]
 
 *1343|
 [fc]
 [vo_aka s="akari0732"]
-[ns]茜梨[nse]
-「イッちゃうっ、まー君先輩にイカされちゃうっ！」[pcms]
+[ns]Akari[nse]
+"I'm cumming, I'm going to cum from Makoto-senpai!"[pcms]
 
 *1344|
 [fc]
-[ns]誠[nse]
-「あぶっ、んうるっ、むちゅっ、じゅるるっ、ぶじゅるうっ！」[pcms]
+[ns]Makoto[nse]
+"Abuu, nuruu, muchu, jurururu, bujuruu!"[pcms]
 
 *1345|
 [fc]
 [vo_aka s="akari0733"]
-[ns]茜梨[nse]
-「あっ、あっ、あっ、あああっ、イク、イッちゃうっ！」[pcms]
+[ns]Akari[nse]
+"Ah, ah, ah, aaaaah, I'm cumming, I'm cumming!"[pcms]
 
 *1346|
 [fc]
-[ns]誠[nse]
-「んちゅちゅちゅっ！　んじゅるうっ！」[pcms]
+[ns]Makoto[nse]
+"Nchuchuchu! Njyuruu!"[pcms]
 
 [evcg storage="akari_H021f"][trans_c cross time=300]
 
 *1347|
 [fc]
 [vo_aka s="akari0734"]
-[ns]茜梨[nse]
-「ふああああああああああっ！」[pcms]
+[ns]Akari[nse]
+"Fuaaaaaaaaaaaaaaah!"[pcms]
 
 *1348|
 [fc]
-越智さんの身体がピンと突っ張って、[r]
-ガクガクと震え始める。[pcms]
+Ochi-san's body stiffened up and she began to tremble violently.[pcms]
 
 *1349|
 [fc]
-大量の愛液が太ももをつたって、[r]
-膝の方まで濡らしていた。[pcms]
+A flood of love juices ran down her thighs and wet her knees.[pcms]
 
 *1350|
 [fc]
-越智さんのあそこはとろとろになって、[r]
-随分具合が良くなっているみたいだ。[pcms]
+Ochi-san's pussy has become all slippery, it seems to be in quite a[r]
+good condition now.[pcms]
 
 [evcg storage="akari_H021g"][trans_c cross time=300]
 
 *1351|
 [fc]
 [vo_aka s="akari0735"]
-[ns]茜梨[nse]
-「もう、入れてくださいぃ……、[r]
-　我慢できなくて……おかしくなっちゃいますぅ……」[pcms]
+[ns]Akari[nse]
+"Please, put it in already... I can't stand it... I'm going to go[r]
+crazy..."[pcms]
 
 *1352|
 [fc]
-[ns]誠[nse]
-「コンドーム着けた方がいい？」[pcms]
+[ns]Makoto[nse]
+"Should I put on a condom?"[pcms]
 
 *1353|
 [fc]
-中出しされたいと言っている越智さんに、[r]
-わざとそう言って再確認する。[pcms]
+I deliberately asked Ochi-san, who said she wanted me to cum inside[r]
+her, to confirm again.[pcms]
 
 *1354|
 [fc]
 [vo_aka s="akari0736"]
-[ns]茜梨[nse]
-「生じゃなきゃ嫌ですぅ……生で中出ししてぇ……」[pcms]
+[ns]Akari[nse]
+"I don't want it unless it's raw... Please cum inside me raw..."[pcms]
 
 [evcg storage="akari_H021h"][trans_c cross time=300]
 
 *1355|
 [fc]
-[ns]誠[nse]
-「じゃあ、このいやらしくていけない割れ目に、[r]
-　お仕置きしなくちゃ……」[pcms]
+[ns]Makoto[nse]
+"Then, I have to punish this naughty and bad slit..."[pcms]
 
 *1356|
 [fc]
 [vo_aka s="akari0737"]
-[ns]茜梨[nse]
-「お仕置きしてください……、[r]
-　弱みを握られた私をレイプして、[r]
-　物みたいに扱ってくださいぃ……」[pcms]
+[ns]Akari[nse]
+"Please punish me... Rape me who's at your mercy, treat me like an[r]
+object..."[pcms]
 
 [evcg storage="akari_H021i"][trans_c cross time=300]
 
 *1357|
 [fc]
-吸い出してもらったのに、ペニスの先から精液が滴っている。[r]
-僕はその精液をそのままにして、[r]
-越智さんのそこにあてがっていった。[pcms]
+Even after being sucked off, semen is dripping from the tip of my[r]
+penis. I left it as it was and aligned it with Ochi-san's spot.[pcms]
 
 *1358|
 [fc]
-[ns]誠[nse]
-「どこに入れて欲しいの？　こっち？」[pcms]
+[ns]Makoto[nse]
+"Where do you want it? Here?"[pcms]
 
 *1359|
 [fc]
-かわいいすぼまりに、ペニスをあてがっていく。[pcms]
+I align my penis with her cute, tight entrance.[pcms]
 
 *1360|
 [fc]
-こっちを犯すのも、きっと興奮するだろう。[pcms]
+Ravishing this spot would surely be exciting.[pcms]
 
 *1361|
 [fc]
 [vo_aka s="akari0738"]
-[ns]茜梨[nse]
-「そ、そっちは違いますぅっ！」[pcms]
+[ns]Akari[nse]
+"No, not there!"[pcms]
 
 *1362|
 [fc]
-[ns]誠[nse]
-「じゃあ、どこに入れて欲しいのか教えて？」[pcms]
+[ns]Makoto[nse]
+"Then tell me where you want it."[pcms]
 
 *1363|
 [fc]
 [vo_aka s="akari0739"]
-[ns]茜梨[nse]
-「あああっ……おかしくなっちゃうぅ……」[pcms]
+[ns]Akari[nse]
+"Aaaaah... I'm going to go crazy..."[pcms]
 
 *1364|
 [fc]
-[ns]誠[nse]
-「ほら、言わないとやめちゃうよ……」[pcms]
+[ns]Makoto[nse]
+"Hey, if you don't say it, I'll stop..."[pcms]
 
 *1365|
 [fc]
 [vo_aka s="akari0740"]
-[ns]茜梨[nse]
-「んやああああっ！　おまんこです、[r]
-　いやらしいおまんこですぅ！」[pcms]
+[ns]Akari[nse]
+"Nyahaaaa! It's my pussy, my naughty pussy!"[pcms]
 
 *1366|
 [fc]
-[ns]誠[nse]
-「ただのいやらしいおまんこなの？」[pcms]
+[ns]Makoto[nse]
+"Is it just a naughty pussy?"[pcms]
 
 *1367|
 [fc]
 [vo_aka s="akari0741"]
-[ns]茜梨[nse]
-「まー君先輩のためにとっておいた……、[r]
-　私の処女マンコです……たくさん味わってくださいぃ」[pcms]
+[ns]Akari[nse]
+"It's been saved for Makoto-senpai... It's my virgin pussy... Please[r]
+savor it a lot"[pcms]
 
 *1368|
 [fc]
-僕はさっきよりも愛液が流れ落ちているそこに、[r]
-先っぽをあてがうと、一気に奥まで貫いていった。[pcms]
+I aligned the tip with her spot, which was now flowing with more love[r]
+juices than before, and penetrated her deeply in one go.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1375,98 +1344,95 @@
 *1369|
 [fc]
 [vo_aka s="akari0742"]
-[ns]茜梨[nse]
-「んああああっ！　ああああああっ！　くあああああっ！」[pcms]
+[ns]Akari[nse]
+"Naaaaah! Aaaaaah! Kuaaaaaah!"[pcms]
 
 *1370|
 [fc]
 [vo_aka s="akari0743"]
-[ns]茜梨[nse]
-「んぐひいいいいいいいっ！　んむあああああああっ！」[pcms]
+[ns]Akari[nse]
+"Nguhiiiiiiii! Nmuhaaaaaaa!"[pcms]
 
 *1371|
 [fc]
-[ns]誠[nse]
-「くおおおおおおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Kuooooooooo!"[pcms]
 
 *1372|
 [fc]
-入口の狭いところを抜けると、[r]
-奥の辺りが吸い付くようにペニスに絡んでくる。[pcms]
+Once past the narrow entrance, the inner area seemed to cling onto my[r]
+penis.[pcms]
 
 *1373|
 [fc]
 [vo_aka s="akari0744"]
-[ns]茜梨[nse]
-「レイプされちゃったぁ……まー君先輩に犯されてるぅ……」[pcms]
+[ns]Akari[nse]
+"I've been raped... Makoto-senpai is raping me..."[pcms]
 
 *1374|
 [fc]
-あまりの具合の良さに、入れた瞬間イキそうになるのを[r]
-何とか堪える。[pcms]
+The fit was so good that I almost came the moment I entered, but[r]
+somehow managed to hold back.[pcms]
 
 *1375|
 [fc]
-この小さくて形のいいお尻も、ちっちゃいのに巨乳のふくらみも、[r]
-ペニスに吸い付いて離れないあそこも、全部僕のものだ！[pcms]
+This small and nicely shaped butt, her small yet busty chest, and her[r]
+pussy that clings onto my penis and won't let go, they're all mine![pcms]
 
 *1376|
 [fc]
 [vo_aka s="akari0745"]
-[ns]茜梨[nse]
-「まー君先輩！　好きですっ！　好きなんですっ！」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai! I love you! I really do love you!"[pcms]
 
 *1377|
 [fc]
-[ns]誠[nse]
-「ああああああっ！　くおおおおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Aaaaaah! Kuooooooooo!"[pcms]
 
 *1378|
 [fc]
 [vo_aka s="akari0746"]
-[ns]茜梨[nse]
-「大好きだから、好きだからっ！[r]
-　後ろから思い切り犯してぇっ！」[pcms]
+[ns]Akari[nse]
+"Because I love you so much! Please ravish me from behind with all[r]
+your might!"[pcms]
 
 *1379|
 [fc]
-[ns]誠[nse]
-「犯してやるっ！　僕のものにしてやるっ！」[pcms]
+[ns]Makoto[nse]
+"I'll ravish you! I'll make you mine!"[pcms]
 
 *1380|
 [fc]
 [vo_aka s="akari0747"]
-[ns]茜梨[nse]
-「おまんこにぶち込んでぇっ！[r]
-　ぶち込みまくってくださいぃぃっ！」[pcms]
+[ns]Akari[nse]
+"Slam it into my pussy! Keep slamming it in pleaseee!"[pcms]
 
 *1381|
 [fc]
-越智さんの弱点は、僕のペニスの形で突き込むと、[r]
-普通に刺激できるところにあるみたいだった。[pcms]
+Ochi-san's weak spot seems to be where my penis can normally stimulate[r]
+when thrusting in its shape.[pcms]
 
 *1382|
 [fc]
-おかしくなったように、越智さんが喘いで、[r]
-身体を震わせている。[pcms]
+Ochi-san gasps as if she's gone mad, her body shaking.[pcms]
 
 *1383|
 [fc]
 [vo_aka s="akari0748"]
-[ns]茜梨[nse]
-「奥を突いてぇっ！　んひいいいいっ！[r]
-　初めてをまー君先輩がもらってくれたよぉっ！」[pcms]
+[ns]Akari[nse]
+"Hit the back! Nhihiiiiii! Makoto-senpai took my first time!"[pcms]
 
 *1384|
 [fc]
-[ns]誠[nse]
-「ぐううっ、も、保たない、気持ちよすぎるっ」[pcms]
+[ns]Makoto[nse]
+"Guuuuh, can't hold back, it feels too good"[pcms]
 
 *1385|
 [fc]
 [vo_aka s="akari0749"]
-[ns]茜梨[nse]
-「奥の方をズンズンしてぇっ！」[pcms]
+[ns]Akari[nse]
+"Keep pounding the deep part!"[pcms]
 
 [evcg storage="akari_H021k"][trans_c cross time=300]
 
@@ -1475,81 +1441,80 @@
 
 *1386|
 [fc]
-僕はガクガクと震える腰を無理矢理動かして、[r]
-越智さんの身体の奥を掘り返していった。[pcms]
+I forced my trembling hips to move and dug into the depths of Ochi-[r]
+san's body.[pcms]
 
 *1387|
 [fc]
 [vo_aka s="akari0750"]
-[ns]茜梨[nse]
-「んぐひいいいっ！　あひいいいいやあっ！」[pcms]
+[ns]Akari[nse]
+"Nguhiiiiii! Ahiyiiiiyaaa!"[pcms]
 
 *1388|
 [fc]
-[ns]誠[nse]
-「ここか、ここだなっ！」[pcms]
+[ns]Makoto[nse]
+"Here, right here!"[pcms]
 
 *1389|
 [fc]
 [vo_aka s="akari0751"]
-[ns]茜梨[nse]
-「そこですっ！　子宮をぶち抜いてぇっ！」[pcms]
+[ns]Akari[nse]
+"That's the spot! Break through my womb!"[pcms]
 
 *1390|
 [fc]
-[ns]誠[nse]
-「イカせてやるっ！　おかしくさせてやるからなっ！」[pcms]
+[ns]Makoto[nse]
+"I'm going to make you cum! I'll drive you crazy!"[pcms]
 
 *1391|
 [fc]
 [vo_aka s="akari0752"]
-[ns]茜梨[nse]
-「んぐううあああっ！　あぐいいいいいっ！[r]
-　はひっ、ふむいっ、ぐあひいいいいっ！」[pcms]
+[ns]Akari[nse]
+"Nguuuaaaa! Aguiiiii! Hahi, fumui, guahiiiiii!"[pcms]
 
 *1392|
 [fc]
-[ns]誠[nse]
-「ぐおおおっ！　このおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Guoooo! This ooooo!"[pcms]
 
 *1393|
 [fc]
 [vo_aka s="akari0753"]
-[ns]茜梨[nse]
-「死ぬぅぅっ！　死んじゃうぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"I'm dying! I'm gonna dieeee!"[pcms]
 
 *1394|
 [fc]
-[ns]誠[nse]
-「もうだめだあああああっ！」[pcms]
+[ns]Makoto[nse]
+"I can't hold it any longer aaaaaaah!"[pcms]
 
 *1395|
 [fc]
 [vo_aka s="akari0754"]
-[ns]茜梨[nse]
-「あんぐっ！　んぐううぶっ！　中にっ！　ああああっ！」[pcms]
+[ns]Akari[nse]
+"Angu! Nguuubu! Inside! Aaaaaah!"[pcms]
 
 *1396|
 [fc]
-[ns]誠[nse]
-「中に出してやるぞっ！　子宮をパンパンにしてやるっ！」[pcms]
+[ns]Makoto[nse]
+"I'm going to cum inside! I'll fill your womb to the brim!"[pcms]
 
 *1397|
 [fc]
 [vo_aka s="akari0755"]
-[ns]茜梨[nse]
-「あひいいいいいっ！　子宮壊れちゃうううううっ！」[pcms]
+[ns]Akari[nse]
+"Ahiyiiiiii! My womb is going to break uuuuuu!"[pcms]
 
 *1398|
 [fc]
-[ns]誠[nse]
-「くうあああああああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Kuuuaaaaaaaaaaaaaaaaaa!"[pcms]
 
 *1399|
 [fc]
 [vo_aka s="akari0756"]
-[ns]茜梨[nse]
-「んぐひいいいいいいいいいいいっ！！」[pcms]
+[ns]Akari[nse]
+"Nguhiiiiiiiiiiiiiiiiiiiiiii!!"[pcms]
 
 
 [se buf=0 storage="se_sex01"]
@@ -1565,58 +1530,56 @@
 *1400|
 [fc]
 [vo_aka s="akari0757"]
-[ns]茜梨[nse]
-「ふあっ、んはっ、んふっ、くふっ……」[pcms]
+[ns]Akari[nse]
+"Fua, nhah, nfu, kufu..."[pcms]
 
 *1401|
 [fc]
-越智さんの一番奥に突き立てたまま、[r]
-ありったけの精液を噴き出させていく。[pcms]
+While still thrusting deep inside Ochi-san, I let out all my semen.[pcms]
 
 *1402|
 [fc]
 [vo_aka s="akari0758"]
-[ns]茜梨[nse]
-「あふぇぇぇぇぇぇっ……」[pcms]
+[ns]Akari[nse]
+"Afeeeeeee..."[pcms]
 
 *1403|
 [fc]
-越智さんは快感の連続で痙攣しながら、[r]
-膣内を微妙に動かして精液を飲み込んでいく。[pcms]
+Ochi-san convulses with continuous pleasure, subtly moving her insides[r]
+to swallow the semen.[pcms]
 
 *1404|
 [fc]
-僕の吐き出したものを、全部子宮に飲み干すような、[r]
-貪欲ともいえる動きだった。[pcms]
+The way she greedily drank up everything I expelled, it was as if she[r]
+was gulping it down into her womb.[pcms]
 
 *1405|
 [fc]
-[ns]誠[nse]
-「あああっ……ふううっ……」[pcms]
+[ns]Makoto[nse]
+"Aaaaah... fuuuu..."[pcms]
 
 *1406|
 [fc]
 [vo_aka s="akari0759"]
-[ns]茜梨[nse]
-「あつうういっ……せーえき……いっぱいでてましゅ……」[pcms]
+[ns]Akari[nse]
+"It's so hot... semen... so much is coming out..."[pcms]
 
 *1407|
 [fc]
 [vo_aka s="akari0760"]
-[ns]茜梨[nse]
-「せんぱいの……せーえき……お腹の奥まで……」[pcms]
+[ns]Akari[nse]
+"Your semen... deep inside my belly..."[pcms]
 
 [evcg storage="akari_H021m"][trans_c cross time=300]
 
 *1408|
 [fc]
-少しだけ落ち着いた僕は、[r]
-越智さんのなかからペニスを引き出す。[pcms]
+Having calmed down a little, I pull my penis out from inside Ochi-san.[pcms]
 
 *1409|
 [fc]
-食いついて離れないようになっていたところを、[r]
-無理矢理引き抜くと、越智さんの身体がぶるっと震えた。[pcms]
+Forcing it out from where it seemed to cling and not let go, Ochi-[r]
+san's body shuddered.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1626,23 +1589,21 @@
 *1410|
 [fc]
 [vo_aka s="akari0761"]
-[ns]茜梨[nse]
-「ああああああっ……」[pcms]
+[ns]Akari[nse]
+"Aaaaaaaaah..."[pcms]
 
 *1411|
 [fc]
-越智さんの胎内から精液がこぼれ出てくる。[r]
-とろっと一筋の白い滴が、濁流になってこぼれ落ちた。[pcms]
+Semen spills out from Ochi-san's womb. A single thick strand of white[r]
+drips down, turning into a turbid flow.[pcms]
 
 *1412|
 [fc]
-どれだけ濃い精液だったのか、[r]
-ゼリーのように固まっているものもある。[pcms]
+The semen was so thick that some of it had solidified like jelly.[pcms]
 
 *1413|
 [fc]
-そして、僕も越智さんも、[r]
-まだまだ満足してはいなかった。[pcms]
+And then, both Ochi-san and I were still far from satisfied.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1659,8 +1620,8 @@
 *1414|
 [fc]
 [vo_aka s="akari0762"]
-[ns]茜梨[nse]
-「んああああっ！　ああああああっ！　くあああああっ！」[pcms]
+[ns]Akari[nse]
+"Naaaaaaaah! Aaaaaaaaah! Kuaaaaaaaah!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
@@ -1668,243 +1629,238 @@
 *1415|
 [fc]
 [vo_aka s="akari0763"]
-[ns]茜梨[nse]
-「んむちゅうううっ……」[pcms]
+[ns]Akari[nse]
+"Nmuchuuuuu..."[pcms]
 
 *1416|
 [fc]
-[ns]誠[nse]
-「んちゅっ、んんっ……」[pcms]
+[ns]Makoto[nse]
+"Nchu, nnn..."[pcms]
 
 *1417|
 [fc]
-僕は越智さんを抱えながらあそこにペニスを突き入れ、[r]
-その唇を蹂躙し尽くしていた。[pcms]
+While holding Ochi-san, I thrust my penis into her there and ravaged[r]
+her lips thoroughly.[pcms]
 
 *1418|
 [fc]
 [vo_aka s="akari0764"]
-[ns]茜梨[nse]
-「まー君先輩っ！　まー君先輩っ！」[pcms]
+[ns]Akari[nse]
+"Ma-kun-senpai! Ma-kun-senpai!"[pcms]
 
 *1419|
 [fc]
-[ns]誠[nse]
-「きっついまんこっ！　くおおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Tight pussy! Kuoohhhhhhh!"[pcms]
 
 *1420|
 [fc]
 [vo_aka s="akari0765"]
-[ns]茜梨[nse]
-「んぶちゅうっ……んふむんっ……」[pcms]
+[ns]Akari[nse]
+"Nbuchuu... nfunmn..."[pcms]
 
 *1421|
 [fc]
-[ns]誠[nse]
-「んっ……んぶうっ……」[pcms]
+[ns]Makoto[nse]
+"Nn... nbuuuh..."[pcms]
 
 *1422|
 [fc]
 [vo_aka s="akari0766"]
-[ns]茜梨[nse]
-「んじゅじゅっ……ぐじゅるっ……」[pcms]
+[ns]Akari[nse]
+"Njuju... gujur..."[pcms]
 
 *1423|
 [fc]
-[ns]誠[nse]
-「んぶじゅっ……じゅじゅっ……」[pcms]
+[ns]Makoto[nse]
+"Nbuju... juju..."[pcms]
 
 *1424|
 [fc]
 [vo_aka s="akari0767"]
-[ns]茜梨[nse]
-「はひっ、おちんちん、はひいいいいっ！」[pcms]
+[ns]Akari[nse]
+"Hahi, your cock, hahiiiiiii!"[pcms]
 
 *1425|
 [fc]
-[ns]誠[nse]
-「越智さん、くおおおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, kuoohhhhhhhhh!"[pcms]
 
 *1426|
 [fc]
-まるで獣が交わっているような、[r]
-理性もなにもないセックスだった。[pcms]
+It was like beasts mating, sex devoid of any reason.[pcms]
 
 *1427|
 [fc]
-ただ、お互いの身体だけを求め、[r]
-快感を高め合っていく。[pcms]
+Just seeking each other's bodies and escalating pleasure.[pcms]
 
 [evcg storage="akari_H022b"][trans_c cross time=300]
 
 *1428|
 [fc]
 [vo_aka s="akari0768"]
-[ns]茜梨[nse]
-「んひいいっ！　おちんちんに支えられてるぅぅっ！」[pcms]
+[ns]Akari[nse]
+"Nhiyii! Supported by your cock uuuu!"[pcms]
 
 *1429|
 [fc]
-[ns]誠[nse]
-「おっぱいが揺れてっ！　まんこが締め付けてっ！」[pcms]
+[ns]Makoto[nse]
+"Your breasts are shaking! Your pussy is clenching!"[pcms]
 
 *1430|
 [fc]
 [vo_aka s="akari0769"]
-[ns]茜梨[nse]
-「子宮が破けちゃうううううっ！」[pcms]
+[ns]Akari[nse]
+"My womb is going to burst ahhhhhh!"[pcms]
 
 *1431|
 [fc]
-[ns]誠[nse]
-「先っぽに当たってるぞおおおっ！」[pcms]
+[ns]Makoto[nse]
+"I'm hitting the tip ahhhhhh!"[pcms]
 
 *1432|
 [fc]
 [vo_aka s="akari0770"]
-[ns]茜梨[nse]
-「んぶじゅっ……んぶっ……まー君先輩のベロ美味しい……」[pcms]
+[ns]Akari[nse]
+"Nbuju... nbu... Makoto-senpai, your tongue tastes so good..."[pcms]
 
 *1433|
 [fc]
-[ns]誠[nse]
-「たっぷり味わっていいよ……んんちゅっ……んじゅっ……」[pcms]
+[ns]Makoto[nse]
+"Savor it all you want... nnchu... njyu..."[pcms]
 
 *1434|
 [fc]
 [vo_aka s="akari0771"]
-[ns]茜梨[nse]
-「もっと唾飲ませてぇ……んじゅじゅっ……んぶぃいっ……」[pcms]
+[ns]Akari[nse]
+"Let me drink more of your saliva... njyuju... nbuii..."[pcms]
 
 *1435|
 [fc]
-[ns]誠[nse]
-「んんぐううっ……んぶううっ……」[pcms]
+[ns]Makoto[nse]
+"Nnguuu... nbuuu..."[pcms]
 
 *1436|
 [fc]
 [vo_aka s="akari0772"]
-[ns]茜梨[nse]
-「あんぐひいいいいっ！　そこ突いちゃっ！　んひいいいいっ！」[pcms]
+[ns]Akari[nse]
+"Angyiiii! Hit there! Nhyiiiiii!"[pcms]
 
 *1437|
 [fc]
-[ns]誠[nse]
-「もっと密着してっ！　肌を擦り合わせてっ！」[pcms]
+[ns]Makoto[nse]
+"Get closer! Rub our skins together!"[pcms]
 
 *1438|
 [fc]
 [vo_aka s="akari0773"]
-[ns]茜梨[nse]
-「あん……んじゅっ……んぶじゅっ……んちうううゅ……」[pcms]
+[ns]Akari[nse]
+"Ah... njyu... nbuju... nchiuuuu..."[pcms]
 
 *1439|
 [fc]
-[ns]誠[nse]
-「ちんちんおかしくなるよっ！　気持ちよ過ぎだよっ！」[pcms]
+[ns]Makoto[nse]
+"My dick's going crazy! It feels too good!"[pcms]
 
 *1440|
 [fc]
 [vo_aka s="akari0774"]
-[ns]茜梨[nse]
-「気持ちよく使ってくださいぃっ！[r]
-　私の身体でオナニーしてぇっ！」[pcms]
+[ns]Akari[nse]
+"Please use me to feel good! Use my body to masturbate with!"[pcms]
 
 *1441|
 [fc]
 [vo_aka s="akari0775"]
-[ns]茜梨[nse]
-「内側からごりごり削られて……、[r]
-　おちんちん染みついちゃうううっ！」[pcms]
+[ns]Akari[nse]
+"Being scraped from the inside... your dick is staining me ahhhh!"[pcms]
 
 *1442|
 [fc]
-[ns]誠[nse]
-「舌を出してっ！　絡めるんだっ！」[pcms]
+[ns]Makoto[nse]
+"Stick out your tongue! Entwine it!"[pcms]
 
 *1443|
 [fc]
 [vo_aka s="akari0776"]
-[ns]茜梨[nse]
-「じゅぼぶううっ……んじゅじゅばっ……んじゅぐぶうっ」[pcms]
+[ns]Akari[nse]
+"Jubobuuu... njyujuba... njugubuuu"[pcms]
 
 *1444|
 [fc]
-[ns]誠[nse]
-「んぶううううっ……ふんむうううっ……」[pcms]
+[ns]Makoto[nse]
+"Nbuuuuuu... funmuuuuu..."[pcms]
 
 *1445|
 [fc]
 [vo_aka s="akari0777"]
-[ns]茜梨[nse]
-「あああっ！　あああああっ！[r]
-　イキそうっ！　駄目っ、まだっ！」[pcms]
+[ns]Akari[nse]
+"Aaaaah! Aaaaaaaaah! I'm going to come! No, not yet!"[pcms]
 
 *1446|
 [fc]
-[ns]誠[nse]
-「何回でもイカせてやるうううっ！」[pcms]
+[ns]Makoto[nse]
+"I'll make you come over and over again!"[pcms]
 
 *1447|
 [fc]
 [vo_aka s="akari0778"]
-[ns]茜梨[nse]
-「一緒じゃないといやですぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"I don't want it unless we're together ahhhhh!"[pcms]
 
 *1448|
 [fc]
-[ns]誠[nse]
-「締め付けろっ！　身体を擦り合わせるんだぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Tighten up! Rub our bodies together ahhh!"[pcms]
 
 *1449|
 [fc]
 [vo_aka s="akari0779"]
-[ns]茜梨[nse]
-「はひいいいいっ、イッて、イッてくださいいっ！」[pcms]
+[ns]Akari[nse]
+"Hahiiiiii! Come, please come ahhhh!"[pcms]
 
 *1450|
 [fc]
-[ns]誠[nse]
-「くうおおおおおっ！　茜梨ぃぃぃぃっ！」[pcms]
+[ns]Makoto[nse]
+"Kuuoooooo! Akariiiiiii!"[pcms]
 
 *1451|
 [fc]
 [vo_aka s="akari0780"]
-[ns]茜梨[nse]
-「もっと、ちんぽくださいいいいいイッ！」[pcms]
+[ns]Akari[nse]
+"More, give me your dick ahhhhh!"[pcms]
 
 *1452|
 [fc]
-[ns]誠[nse]
-「出すぞっ！　子宮に突っ込むぞっ！」[pcms]
+[ns]Makoto[nse]
+"I'm going to release! I'm thrusting into your womb!"[pcms]
 
 *1453|
 [fc]
 [vo_aka s="akari0781"]
-[ns]茜梨[nse]
-「子宮犯してぇっ！　目茶苦茶に壊してぇっ！」[pcms]
+[ns]Akari[nse]
+"Violate my womb! Destroy it completely ahhh!"[pcms]
 
 *1454|
 [fc]
-[ns]誠[nse]
-「僕のこども孕めぇぇぇぇぇっ！」[pcms]
+[ns]Makoto[nse]
+"Impregnate with my child ahhhhhh!"[pcms]
 
 *1455|
 [fc]
 [vo_aka s="akari0782"]
-[ns]茜梨[nse]
-「妊娠させてぇぇぇぇぇぇっ！」[pcms]
+[ns]Akari[nse]
+"Get me pregnant ahhhhhhh!"[pcms]
 
 *1456|
 [fc]
-[ns]誠[nse]
-「くわああああああああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Kwaaaaaaaaaaaaaaaaa!"[pcms]
 
 *1457|
 [fc]
 [vo_aka s="akari0783"]
-[ns]茜梨[nse]
-「イクぅぅぅぅぅぅぅぅぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"I'm coming ahhhhhhhhhhhhh!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1921,63 +1877,64 @@
 *1458|
 [fc]
 [vo_aka s="akari0784"]
-[ns]茜梨[nse]
-「ふあっ、んはっ、んふっ、くふっ……」[pcms]
+[ns]Akari[nse]
+"Fuaa, nhah, nfu, kufu..."[pcms]
 
 *1459|
 [fc]
 [vo_aka s="akari0785"]
-[ns]茜梨[nse]
-「はぁっ……あああっ……すごぃぃ……」[pcms]
+[ns]Akari[nse]
+"Haa... aaaaah... amazing..."[pcms]
 
 *1460|
 [fc]
-[ns]誠[nse]
-「はぁっ……くううっ……んぐううっ……」[pcms]
+[ns]Makoto[nse]
+"Haa... kuuu... nguuu..."[pcms]
 
 *1461|
 [fc]
-股間から二人の体液が滴り落ちて、混ざり合っていた。[r]
-僕だけじゃなく、越智さんの愛液もすごい量が溢れている。[pcms]
+Our bodily fluids dripped from our crotches, mixing together. It[r]
+wasn't just me; Ochi-san's love juices were also overflowing in great[r]
+amounts.[pcms]
 
 [evcg storage="akari_H022d"][trans_c cross time=300]
 
 *1462|
 [fc]
 [vo_aka s="akari0786"]
-[ns]茜梨[nse]
-「せんぱぁい……」[pcms]
+[ns]Akari[nse]
+"Senpai..."[pcms]
 
 *1463|
 [fc]
-越智さんの目が淫靡に微笑む。[r]
-まだ、満足していないようにあそこがペニスを絞り上げていた。[pcms]
+Ochi-san's eyes smiled lewdly. It seemed she wasn't satisfied yet as[r]
+her pussy squeezed the penis.[pcms]
 
 *1464|
 [fc]
 [vo_aka s="akari0787"]
-[ns]茜梨[nse]
-「もっと……私をセックスの道具にしてください……」[pcms]
+[ns]Akari[nse]
+"More... please use me as a sex tool..."[pcms]
 
 *1465|
 [fc]
-[ns]誠[nse]
-「茜梨のここは、もう僕の物だからな」[pcms]
+[ns]Makoto[nse]
+"Akari's here is already mine."[pcms]
 
 *1466|
 [fc]
-僕は、固くしたペニスで子宮を軽く突き上げる。[pcms]
+I lightly thrust my hardened penis against her womb.[pcms]
 
 *1467|
 [fc]
 [vo_aka s="akari0788"]
-[ns]茜梨[nse]
-「はい……私はもう……全部先輩の物です……」[pcms]
+[ns]Akari[nse]
+"Yes... I am already... all yours, Senpai..."[pcms]
 
 *1468|
 [fc]
-その言葉を合図にして、僕は４度目の射精を注ぎ込むために、[r]
-挑みかかっていった。[pcms]
+With those words as a signal, I went on the offensive to pour in my[r]
+fourth ejaculation.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

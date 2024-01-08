@@ -23,22 +23,22 @@
 
 *3706|
 [fc]
-よくよく考えた結果、僕とターヤさんは、[r]
-僕が通ってきた森を戻ることにした。[pcms]
+After careful consideration, Tarja-san and I decided to head back[r]
+through the forest I had come through.[pcms]
 
 *3707|
 [fc]
-来た道を戻るだけだから、何があるのかは知っている。[pcms]
+Since we're just retracing our steps, we know what to expect.[pcms]
 
 *3708|
 [fc]
-それに、基本的に感染者たちはあまり素早く動けないから、[r]
-障害物だらけの森の中は、感染してない僕たちに[r]
-アドバンテージがあると考えてのことだ。[pcms]
+Moreover, since the infected generally can't move very quickly, we[r]
+figured that the obstacle-filled forest would give us an advantage as[r]
+we are not infected.[pcms]
 
 *3709|
 [fc]
-僕がそう説明したら、ターヤさんも賛同してくれた。[pcms]
+When I explained this, Tarja-san agreed with me.[pcms]
 
 ;//★cave01b 地下壕
 [bg storage="cave01b"][trans_c cross time=500]
@@ -47,41 +47,43 @@
 *3710|
 [fc]
 [vo_tay s="taja_tj0052"]
-[ns]ターヤ[nse]
-「あ、これ、持ってこう」[pcms]
+[ns]Tarja[nse]
+"Ah, let's take this with us."[pcms]
 
 *3711|
 [fc]
-ターヤさんがそう言うと、地下通路に落ちていた[r]
-錆びた鉄パイプを拾い上げた。[pcms]
+As Tarja-san said that, she picked up a rusted iron pipe that had been[r]
+lying in the underground passage.[pcms]
 
 *3712|
 [fc]
-赤錆が酷いけど、リーチの長い武器はそれだけで心強い。[pcms]
+The red rust is severe, but a weapon with a long reach is reassuring[r]
+in itself.[pcms]
 
 ;//かっぱらった鞄を置いていく理由が特にないので、
 ;//どっちのルートでも鞄は持っていくことにします。（た）
 
 *3713|
 [fc]
-僕は、ターヤさんが放置車両から持ってきたという[r]
-鞄を手に取った。[pcms]
+I picked up a bag that Tarja-san said she had brought from an[r]
+abandoned vehicle.[pcms]
 
 *3714|
 [fc]
-鞄の中に入ってた調理セットの包丁が、いざという時には[r]
-武器として使えるだろう。[pcms]
+The knife from the cooking set inside the bag could serve as a weapon[r]
+in a pinch.[pcms]
 
 *3715|
 [fc]
-ただし、感染者の血液はウイルスで汚染されてるから[r]
-よっぽどのことがなければ、ちょっと[r]
-刃物を使う気にはならないけど……。[pcms]
+However, since the blood of the infected is contaminated with the[r]
+virus, I wouldn't feel like using a blade unless absolutely[r]
+necessary...[pcms]
 
 *3716|
 [fc]
-それでも、武器になりそうなものを何も持ってないよりは、[r]
-たとえそれが包丁でも、あった方が心強いのは間違いない。[pcms]
+Still, having something that could be used as a weapon, even if it's[r]
+just a knife, is definitely more reassuring than having nothing at[r]
+all.[pcms]
 
 ;//<条件分岐>
 ;//フラグＡ==1ならばラベル*flag_A_1にジャンプ。
@@ -95,13 +97,13 @@
 
 *3717|
 [fc]
-そして、僕はそーいちの形見になってしまった、[r]
-ちょっとひしゃげて曲がった金属バットを手に取った。[pcms]
+Then, I picked up a slightly dented and bent metal bat that had become[r]
+Souichirou's memento.[pcms]
 
 *3718|
 [fc]
-そーいちが僕の命を救ってくれた金属バット。[r]
-これが僕のメインウェポンだ。[pcms]
+This metal bat saved my life thanks to Souichirou. It's my main[r]
+weapon.[pcms]
 
 ;//このまま、下の文章につながるので、飛び先指定はありません。（た）
 
@@ -110,8 +112,8 @@
 
 *3719|
 [fc]
-準備を整えた僕とターヤさんは、地下通路から出て[r]
-外へと向かった。[pcms]
+Tarja-san and I, having prepared ourselves, left the underground[r]
+passage and headed outside.[pcms]
 
 ;//条件分岐
 ;//フラグＡ彩月生存==1ならばラベル*flag_Aにジャンプ。
@@ -133,20 +135,22 @@
 
 *3720|
 [fc]
-僕たちは、地下通路から再び砲台跡へと戻った。[pcms]
+We returned from the underground passage back to the remains of the[r]
+battery.[pcms]
 
 *3721|
 [fc]
-ターヤさんが倒した感染者の死体がある以外は、砲台跡には[r]
-人の気配も、感染者の気配もない。[pcms]
+Apart from the corpse of the infected that Tarja-san had taken down,[r]
+there was no sign of people or infected at the battery remains.[pcms]
 
 *3722|
 [fc]
-こんなとこに長居は無用だ。[pcms]
+There's no point in lingering in such a place.[pcms]
 
 *3723|
 [fc]
-僕たちは周囲に気を配りながら、森へと分け入っていった。[pcms]
+We entered the forest with caution, keeping an eye on our[r]
+surroundings.[pcms]
 
 [se buf=0 storage="seA045"]
 ;//♪SE草をかき分けて森を進む音
@@ -162,81 +166,80 @@
 *3724|
 [fc]
 [vo_tay s="taja_tj0053"]
-[ns]ターヤ[nse]
-「はっ……はっ……はっ……」[pcms]
+[ns]Tarja[nse]
+"Huff... huff... huff..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3725|
 [fc]
-[ns]誠[nse]
-「はあっ……はあっ……はあっ……はあっ……」[pcms]
+[ns]Makoto[nse]
+"Haah... haah... haah... haah..."[pcms]
 
 *3726|
 [fc]
-僕とターヤさんは、獣道のようなところを走っていた。[pcms]
+Tarja-san and I were running along what seemed like an animal trail.[pcms]
 
 *3727|
 [fc]
-体力的には、ターヤさんはともかく、僕は完全に[r]
-活動限界を超えている。[pcms]
+In terms of stamina, Tarja-san might be fine, but I'm definitely[r]
+beyond my physical limits.[pcms]
 
 *3728|
 [fc]
-こんなに１日中走り回っているのは、もしかしたら[r]
-生まれて初めてかも知れない。[pcms]
+This might be the first time in my life that I've been running around[r]
+all day like this.[pcms]
 
 *3729|
 [fc]
-とっくの昔にＨＰはすっからかんになってるにも関わらず、[r]
-感染者に襲われるかもしれないと考えただけで[r]
-まだ走ることができるから不思議だ。[pcms]
+Even though my HP has long been depleted, it's strange that just the[r]
+thought of being attacked by the infected still allows me to keep[r]
+running.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3730|
 [fc]
 [vo_tay s="taja_tj0054"]
-[ns]ターヤ[nse]
-「はっ……はっ……はっ……はっ……」[pcms]
+[ns]Tarja[nse]
+"Huff... huff... huff... huff..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3731|
 [fc]
-ターヤさんの走るペースは落ちない。[pcms]
+Tarja-san's pace doesn't drop.[pcms]
 
 *3732|
 [fc]
-額に汗を滲ませながら、一定の呼吸のリズムで[r]
-走るペースを維持している。[pcms]
+With sweat on her forehead, she maintains her running pace with a[r]
+steady rhythm of breathing.[pcms]
 
 *3733|
 [fc]
-[ns]誠[nse]
-「はあっ……ふうっ……はあっ……ひいっ……」[pcms]
+[ns]Makoto[nse]
+"Haah... phew... haah... hee..."[pcms]
 
 *3734|
 [fc]
-僕は息が上がり、心臓が喉から飛び出しそうだったけど[r]
-必死になってターヤさんにくらいついていった。[pcms]
+I was out of breath and felt like my heart was going to leap out of my[r]
+throat, but I desperately kept up with Tarja-san.[pcms]
 
 *3735|
 [fc]
-基本的な運動性能スペックの低さは十分に自覚してたけど、[r]
-だからと言ってそれを理由に、ターヤさんの[r]
-足手まといにはなりたくなかった。[pcms]
+I was well aware of my basic lack of physical performance, but I[r]
+didn't want to use that as an excuse to become a burden on Tarja-san.[pcms]
 
 *3736|
 [fc]
-僕たちが、森の下草を踏みしめ、かき分けながら走る[r]
-がさがさという音が、感染者に聞きつけられるんじゃ[r]
-ないかと思うと気が気じゃない。[pcms]
+The rustling sound of us running through the underbrush and pushing it[r]
+aside in the forest made me anxious that it might be heard by the[r]
+infected.[pcms]
 
 *3737|
 [fc]
-不意に大きな音がした時なんかは、走りながらでも思わず[r]
-びくっとして、周囲を見回してしまう。[pcms]
+Whenever there was a sudden loud noise, I couldn't help but startle[r]
+and look around even while running.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -246,102 +249,104 @@
 
 *3738|
 [fc]
-しかし結局、感染者に出くわすこともなく、僕たちは[r]
-小さな集落へと辿り着いた。[pcms]
+But in the end, without encountering any infected, we reached a small[r]
+settlement.[pcms]
 
 *3739|
 [fc]
-[ns]誠[nse]
-「ターヤさん。僕はここで来る時に感染者の姿を見かけてるから[r]
-　気をつけたほうがいいと思う」[pcms]
+[ns]Makoto[nse]
+"Tarja-san. I saw some infected here when I came through before, so I[r]
+think we should be careful."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3740|
 [fc]
 [vo_tay s="taja_tj0055"]
-[ns]ターヤ[nse]
-「わかった」[pcms]
+[ns]Tarja[nse]
+"Understood."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3741|
 [fc]
-僕たちは、それぞれの手に武器を携えて、[r]
-家の間を慎重に進んでいった。[pcms]
+We proceeded cautiously between the houses, each of us armed with a[r]
+weapon in hand.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta18"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3742|
 [fc]
 [vo_tay s="taja_tj0056"]
-[ns]ターヤ[nse]
-「！？」[pcms]
+[ns]Tarja[nse]
+"！？"[pcms]
 
 *3743|
 [fc]
-１軒の家の前まで来た時に、ターヤさんの体がびくっと反応した。[pcms]
+When we reached the front of a house, Tarja-san's body suddenly[r]
+reacted with a startle.[pcms]
 
 *3744|
 [fc]
-[ns]誠[nse]
-「どうしたの……？」[pcms]
+[ns]Makoto[nse]
+"What's wrong...?"[pcms]
 
 *3745|
 [fc]
-僕は小声でターヤさんに尋ねる。[pcms]
+I asked Tarja-san in a whisper.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3746|
 [fc]
 [vo_tay s="taja_tj0057"]
-[ns]ターヤ[nse]
-「いま、その建物の影でなにかが動いた……ように見えた」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Just now, I thought I saw something move in the shadow of that[r]
+building..."[pcms]
 
 *3747|
 [fc]
-ターヤさんも声を潜めて、僕の問いに答える。[pcms]
+Tarja-san also whispered, answering my question.[pcms]
 
 *3748|
 [fc]
-[ns]誠[nse]
-「感染者かな……？」[pcms]
+[ns]Makoto[nse]
+"An infected, maybe...?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3749|
 [fc]
 [vo_tay s="taja_tj0058"]
-[ns]ターヤ[nse]
-「わかんない。でも、なにかが動いたのは間違いない……」[pcms]
+[ns]Tarja[nse]
+"I don't know. But there's no mistake that something moved..."[pcms]
 
 *3750|
 [fc]
-武器を握りしめる手に力がこもり、緊張で掌に[r]
-じんわりと汗をかく。[pcms]
+My hand gripping the weapon tightened, and I felt a nervous sweat on[r]
+my palm.[pcms]
 
 *3751|
 [fc]
-[ns]誠[nse]
-「あの建物には、近づかないほうがいいね。引き返そう」[pcms]
+[ns]Makoto[nse]
+"We better not get close to that building. Let's turn back."[pcms]
 
 *3752|
 [fc]
 [vo_tay s="taja_tj0059"]
-[ns]ターヤ[nse]
-「うん」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3753|
 [fc]
-僕たちは反転して、来た道を戻ろうとした。[pcms]
+We turned around to head back the way we came.[pcms]
 
 *3754|
 [fc]
-今度は僕がターヤさんを先導する形になり、ゆっくりと後退して、[r]
-建物の角を曲がった時。[pcms]
+This time, I took the lead in front of Tarja-san, and as we slowly[r]
+retreated and turned the corner of the building...[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -351,7 +356,7 @@
 [fc]
 [vo_stk s="satuki_tj0111"]
 [ns]？？？[nse]
-「えいぃっ！！」[pcms]
+"Eiiii!!"[pcms]
 
 ;//彩月
 
@@ -360,13 +365,13 @@
 
 *3756|
 [fc]
-いきなり叫び声を上げて、建物の影に立っていた人が[r]
-手にした角材を振り上げた。[pcms]
+Suddenly, a person who had been standing in the shadow of the building[r]
+shouted and swung up a piece of lumber they were holding.[pcms]
 
 *3757|
 [fc]
-[ns]誠[nse]
-「う、うわあっ！！」[pcms]
+[ns]Makoto[nse]
+"Whoa, whoa!!"[pcms]
 
 ;//★village01 集落・朝昼
 [bg storage="village01a"][trans_c cross time=500]
@@ -374,12 +379,12 @@
 
 *3758|
 [fc]
-[ns]誠[nse]
-「……って、南先輩？」[pcms]
+[ns]Makoto[nse]
+"...Satsuki-senpai?"[pcms]
 
 *3759|
 [fc]
-とっさのことで驚いてしまったけど、それは南先輩だった。[pcms]
+It was a surprise, but it turned out to be Satsuki-senpai.[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
@@ -389,122 +394,122 @@
 *3760|
 [fc]
 [vo_stk s="satuki_tj0112"]
-[ns]彩月[nse]
-「あ、あれ？　中澤……君？」[pcms]
+[ns]Satsuki[nse]
+"Oh, Nakazawa...kun?"[pcms]
 
 *3761|
 [fc]
-驚いたのは南先輩も同様みたいだった。[r]
-角材を振り上げたポーズのまま固まっている。[pcms]
+It seemed Satsuki-senpai was just as surprised, frozen in place with[r]
+the lumber still raised.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3762|
 [fc]
 [vo_tay s="taja_tj0060"]
-[ns]ターヤ[nse]
-「中澤君、大丈夫？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nakazawa-kun, are you okay?"[pcms]
 
 *3763|
 [fc]
-心配したターヤさんが僕の側に駆けつけてきた。[pcms]
+Tarja-san rushed over to my side, worried.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3764|
 [fc]
-角材を手にしたままの南先輩を見て、[r]
-ターヤさんが怪訝そうな表情を浮かべる。[pcms]
+Looking at Satsuki-senpai still holding the lumber, Tarja-san made a[r]
+puzzled face.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3765|
 [fc]
 [vo_tay s="taja_tj0061"]
-[ns]ターヤ[nse]
-「中澤君……だれ、この人……？」[pcms]
+[ns]Tarja[nse]
+"Nakazawa-kun... who is this person...?"[pcms]
 
 *3766|
 [fc]
-[ns]誠[nse]
-「あ、ええと、僕の学校の先輩で、南先輩って言うんだ」[pcms]
+[ns]Makoto[nse]
+"Ah, well, she's my senior at school, Satsuki-senpai."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3767|
 [fc]
 [vo_stk s="satuki_tj0113"]
-[ns]彩月[nse]
-「ふうん、金髪の女の子と道行きなんて、キミもなかなか[r]
-　隅に置けないわね」[pcms]
+[ns]Satsuki[nse]
+"Hmm, walking with a blonde girl, you're quite the dark horse, aren't[r]
+you?"[pcms]
 
 *3768|
 [fc]
-[ns]誠[nse]
-「先輩……そういうセリフは、振り上げた角材を[r]
-　下ろしてから言って下さい」[pcms]
+[ns]Makoto[nse]
+"Senpai... maybe say that after you lower the lumber you're swinging[r]
+around."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3769|
 [fc]
 [vo_stk s="satuki_tj0114"]
-[ns]彩月[nse]
-「あ、ああ、そっか。ごめんね」[pcms]
+[ns]Satsuki[nse]
+"Ah, right. Sorry about that."[pcms]
 
 *3770|
 [fc]
-どうやら南先輩は、自分が角材を振り上げたままだったことを[r]
-忘れていたらしい。[pcms]
+It seemed Satsuki-senpai had forgotten she was still holding up the[r]
+lumber.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st09"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3771|
 [fc]
 [vo_stk s="satuki_tj0115"]
-[ns]彩月[nse]
-「てっきり感染者だと思ったから……でも、中澤君の頭を[r]
-　かち割らなくて良かった」[pcms]
+[ns]Satsuki[nse]
+"I totally thought you were an infected... but thank goodness I didn't[r]
+crack open Nakazawa-kun's head."[pcms]
 
 *3772|
 [fc]
-そう言いながら、ちょっと照れくさそうに[r]
-南先輩が手にした角材を下ろした。[pcms]
+Saying that, Satsuki-senpai lowered the lumber with a slightly[r]
+embarrassed look.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3773|
 [fc]
 [vo_stk s="satuki_tj0116"]
-[ns]彩月[nse]
-「あのね、デヴ君と西君もいっしょなんだよ。[r]
-　今呼んでくるから、ちょっと待ってて」[pcms]
+[ns]Satsuki[nse]
+"You know, Dev-kun and West-kun are with me too. I'll go call them[r]
+over, so wait here for a bit."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3774|
 [fc]
-南先輩が小走りに走り去り、そーいちとフランク先輩を[r]
-連れて戻ってきた。[pcms]
+Satsuki-senpai ran off at a trot and returned with Souichirou and[r]
+Frank-senpai.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so15a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3775|
 [fc]
-[ns]宗一郎[nse]
-「誠、無事か！　ターヤさんも！」[pcms]
+[ns]Souichirou[nse]
+"Makoto, you're safe! And Tarja-san too!"[pcms]
 
 *3776|
 [fc]
-[ns]西[nse]
-「中澤、その美少女は誰だ？」[pcms]
+[ns]West[nse]
+"Nakazawa, who's this beautiful girl?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3777|
 [fc]
-そーいち以外は、ターヤさんとは初対面だったので、[r]
-僕がターヤさんを軽く紹介する。[pcms]
+Since it was everyone else's first time meeting Tarja-san except for[r]
+Souichirou, I gave them a brief introduction.[pcms]
 
 ;//で、いいんだよね。このルートの場合（た）
 
@@ -513,81 +518,79 @@
 *3778|
 [fc]
 [vo_stk s="satuki_tj0117"]
-[ns]彩月[nse]
-「さっきは失礼したわね。南彩月です。よろしく。ターヤさん」[pcms]
+[ns]Satsuki[nse]
+"I was rude earlier. I'm Satsuki Minami. Nice to meet you, Tarja-san."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3779|
 [fc]
-[ns]西[nse]
-「どうも。西です。はじめまして」[pcms]
+[ns]West[nse]
+"Nice to meet you. I'm West."[pcms]
 
 *3780|
 [fc]
-さわやかに挨拶をしたフランク先輩を見て、ターヤさんが[r]
-小声で僕に話しかけてくる。[pcms]
+Watching Frank-senpai greet her cheerfully, Tarja-san whispered to me.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3781|
 [fc]
 [vo_tay s="taja_tj0062"]
-[ns]ターヤ[nse]
-「この人……日本人……っていうか、学生なの？」[pcms]
+[ns]Tarja[nse]
+"This person... is he Japanese... or rather, a student?"[pcms]
 
 *3782|
 [fc]
-金髪碧眼のターヤさんにそう言われるフランク先輩も不憫だけど、[r]
-誰がどう見ても中年アメリカ人男性にしか[r]
-見えないんだから仕方がない。[pcms]
+It was unfortunate for Frank-senpai to be asked that by Tarja-san with[r]
+her blonde hair and blue eyes, but to anyone he looked like nothing[r]
+but a middle-aged American man.[pcms]
 
 *3783|
 [fc]
-[ns]誠[nse]
-「そうは見えないだろうけど、れっきとした日本人で、[r]
-　僕たちのひとつ上」[pcms]
+[ns]Makoto[nse]
+"He might not look it, but he's a legitimate Japanese person and one[r]
+year above us."[pcms]
 
 *3784|
 [fc]
-そこで、僕は声をひそめて耳打ちした。[pcms]
+Then I whispered quietly.[pcms]
 
 *3785|
 [fc]
-[ns]誠[nse]
-「でも、僕たちはその見てくれから『フランク先輩』って[r]
-　呼んでるけど」[pcms]
+[ns]Makoto[nse]
+"But because of his appearance, we call him 'Frank-senpai'."[pcms]
 
 *3786|
 [fc]
-[ns]誠[nse]
-「格闘技の猛者で、新聞部所属。[r]
-　おまけに名字が西なんて、ハマりすぎでしょ」[pcms]
+[ns]Makoto[nse]
+"He's a martial arts expert and a member of the newspaper club. Plus,[r]
+with a surname like West, it's just too perfect."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3787|
 [fc]
 [vo_tay s="taja_tj0063"]
-[ns]ターヤ[nse]
-「え、それって……デスドラ？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Eh, does that mean... Death Dragon?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3788|
 [fc]
-ピンときたらしいターヤさんが、微笑しながら[r]
-そう聞き返してきたので、僕は黙って首を縦に振った。[pcms]
+Tarja-san seemed to catch on and asked back with a smile, so I[r]
+silently nodded in agreement.[pcms]
 
 *3789|
 [fc]
-[ns]西[nse]
-「こら、なにを２人でこそこそ話してるんだ、中澤」[pcms]
+[ns]West[nse]
+"Hey, what are you two whispering about, Nakazawa?"[pcms]
 
 *3790|
 [fc]
-[ns]誠[nse]
-「あ、いえ、何でもありません」[pcms]
+[ns]Makoto[nse]
+"Ah, no, it's nothing."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -595,104 +598,101 @@
 
 *3791|
 [fc]
-そう言いながら、僕は改めて３人の格好を見た。[pcms]
+While saying that, I took another look at the three of them.[pcms]
 
 *3792|
 [fc]
-角材やバットを手にしている３人は、全身に擦り傷をこさえて[r]
-服もなんだか薄汚れている。[pcms]
+The three of them, holding lumber and bats, were covered in scrapes[r]
+and their clothes were somewhat dirty.[pcms]
 
 *3793|
 [fc]
-[ns]誠[nse]
-「先輩たちも感染者に襲われたんですか？」[pcms]
+[ns]Makoto[nse]
+"Were you guys attacked by the infected too?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so13b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3794|
 [fc]
-[ns]宗一郎[nse]
-「山の中に逃げるって電話したろ。あの後、感染者に[r]
-　追いかけられながら森の中を逃げたもんだから、[r]
-　あちこち傷だらけになった次第」[pcms]
+[ns]Souichirou[nse]
+"I told you we were heading to the mountains. After that call, we[r]
+ended up running through the forest while being chased by the[r]
+infected, so we got all these wounds."[pcms]
 
 *3795|
 [fc]
-[ns]誠[nse]
-「そうなんだ……怪我とかは大丈夫なの？」[pcms]
+[ns]Makoto[nse]
+"I see... Are you all okay? No serious injuries?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3796|
 [fc]
 [vo_stk s="satuki_tj0118"]
-[ns]彩月[nse]
-「何回か危うい場面もあったけど、感染者に傷を[r]
-　負わされるようなことはなかった……と思うわ」[pcms]
+[ns]Satsuki[nse]
+"There were a few close calls, but I don't think we got any wounds[r]
+from the infected... I think."[pcms]
 
 *3797|
 [fc]
-[ns]西[nse]
-「そうそう。３人がかりで撃退したからな。[r]
-　……ん？」[pcms]
+[ns]West[nse]
+"Right. We managed to fight them off together. ...Huh?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3798|
 [fc]
-そう言ったフランク先輩が、南先輩の背中に目を止めた。[pcms]
+Frank-senpai said that and then his eyes landed on Satsuki-senpai's[r]
+back.[pcms]
 
 *3799|
 [fc]
-[ns]西[nse]
-「南。この背中の傷、どうした？」[pcms]
+[ns]West[nse]
+"Satsuki, what happened to this wound on your back?"[pcms]
 
 *3800|
 [fc]
-フランク先輩にそう指摘されて、ちょうど見えづらい位置にある[r]
-背中の傷を、南先輩が首を回して見ようとする。[pcms]
+Pointed out by Frank-senpai, Satsuki-senpai tried to look at the wound[r]
+on her back that was in a hard-to-see spot.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3801|
 [fc]
 [vo_stk s="satuki_tj0119"]
-[ns]彩月[nse]
-「うーん、いつの間についたのかしらね……。[r]
-　まあでも、多分、逃げてる最中に木の枝にでも[r]
-　引っかけて切ったんじゃないかしら」[pcms]
+[ns]Satsuki[nse]
+"Hmm, I wonder when I got this... Well, it's probably from getting[r]
+scratched by a tree branch while we were running away."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3802|
 [fc]
-[ns]西[nse]
-「そうか……それならいいんだが……。いや、なんだか[r]
-　指で引っかかれた跡みたいに見えたんで、ちょっと[r]
-　気になってな……」[pcms]
+[ns]West[nse]
+"I see... As long as it's that. No, it just looked like a scratch made[r]
+by fingers to me, so I was a bit concerned..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so31b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3803|
 [fc]
-[ns]宗一郎[nse]
-「相変わらずフランク先輩は、南先輩のこととなると[r]
-　いろいろご執心ですなあ」[pcms]
+[ns]Souichirou[nse]
+"As usual, Frank-senpai is very attentive when it comes to Satsuki-[r]
+senpai."[pcms]
 
 *3804|
 [fc]
-[ns]西[nse]
-「や、やかましい！　年長者にもっと敬意を払わんか！[r]
-　このつぶれ肉まんが！」[pcms]
+[ns]West[nse]
+"Quiet you! Show some respect to your elders! You squashed meat bun!"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so05a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3805|
 [fc]
-[ns]宗一郎[nse]
-「むう、いかな先輩のお言葉とは言え、その罵詈雑言は[r]
-　聞き捨てなりませんな。お望みとあらば我が虎徹の[r]
-　刀の錆にしてくれましょうぞ。ムハッ」[pcms]
+[ns]Souichirou[nse]
+"Muu, even coming from a senior, I cannot let such abusive language go[r]
+unheard. If you wish for it, I shall let my Kotetsu bat rust with your[r]
+blood. Muhah!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -701,20 +701,20 @@
 
 *3806|
 [fc]
-そう言って、そーいちが手にした金属バットを[r]
-大仰な動作で大上段に構えた。[pcms]
+With that said, Souichirou dramatically raised his metal bat overhead[r]
+in an exaggerated stance.[pcms]
 
 *3807|
 [fc]
-[ns]西[nse]
-「ハッ、何を猪口才な！　面白い。ちょうど我が愛刀村正も[r]
-　血を吸いたがっていたところよ。こちらこそ返り討ちに[r]
-　してくれるわ、かかってまいれ！」[pcms]
+[ns]West[nse]
+"Ha! What empty bravado! Amusing. My beloved sword Muramasa has been[r]
+thirsting for blood too. I shall counterattack and defeat you, come at[r]
+me!"[pcms]
 
 *3808|
 [fc]
-フランク先輩もそーいちに合わせて、手にした丸太を[r]
-正眼に構えると、そのまま２人がチャンバラをはじめた。[pcms]
+Frank-senpai also took up a proper stance with his log to match[r]
+Souichirou, and then the two of them began their mock sword fight.[pcms]
 
 ;//m:正眼青眼、流派で当て字が違うらしいがここは一般的な正眼にしておく。
 
@@ -725,8 +725,8 @@
 
 *3809|
 [fc]
-[ns]宗一郎[nse]
-「やっ、はっ、とうっ！　これぞ奥義、鶴の舞い！」[pcms]
+[ns]Souichirou[nse]
+"Ya, ha, touh! Behold the secret technique, Crane Dance!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -735,9 +735,9 @@
 
 *3810|
 [fc]
-[ns]西[nse]
-「ううむっ、なかなかやりおるな小僧！　だが所詮は[r]
-　田舎剣法の付け焼き刃よ、ぬはははははは！」[pcms]
+[ns]West[nse]
+"Hmmph, not bad for a youngster! But in the end, it's just amateurish[r]
+country swordsmanship, nuhahahahaha!"[pcms]
 
 ;//【南[nse]
 ;//「まったくもう、何やってんのよ……」
@@ -747,129 +747,127 @@
 
 *3811|
 [fc]
-金属バットと丸太を手に、丁々発止と切り結ぶ２人を見て[r]
-南先輩が苦笑する。[pcms]
+Watching the two of them spar back and forth with a metal bat and a[r]
+log, Satsuki-senpai chuckled wryly.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3812|
 [fc]
-僕もターヤさんも、その様子を見て思わず笑ってしまう。[pcms]
+Tarja-san and I couldn't help but laugh at their antics as well.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3813|
 [fc]
-でも、あまり続けさせて、感染者にでも見つかったらコトだ。[pcms]
+But if they kept it up and attracted the attention of the infected,[r]
+that would be trouble.[pcms]
 
 *3814|
 [fc]
-[ns]誠[nse]
-「おーい、西先輩もそーいちも、もういいよ。[r]
-　無駄に体力を使うとこの先辛くなるよ」[pcms]
+[ns]Makoto[nse]
+"Hey, West-senpai and Souichirou, that's enough. If you use up your[r]
+energy needlessly, it'll be tough later on."[pcms]
 
 *3815|
 [fc]
-[ns]西[nse]
-「そうだな」[pcms]
+[ns]West[nse]
+"You're right."[pcms]
 
 *3816|
 [fc]
-僕の言葉にそれまでの勢いはどこへやら、まるでスイッチが[r]
-切れたみたいにいきなり２人がチャンバラを止めた。[pcms]
+At my words, their previous vigor disappeared as if a switch had been[r]
+flipped, and they suddenly stopped their mock battle.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_sw3_a"][ChrSetParts layer=3 chface="f1_st03"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta20"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3817|
 [fc]
-その変わり身の早さに、一同がまた笑う。[pcms]
+Their quick change of pace made everyone laugh again.[pcms]
 
 *3818|
 [fc]
-２人がバカをやってくれたお陰で、場の空気が[r]
-だいぶ柔らかくなった。[pcms]
+The mood had softened considerably thanks to their foolishness.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3819|
 [fc]
-[ns]宗一郎[nse]
-「それはそうと、これからどうするつもりだったんだ？」[pcms]
+[ns]Souichirou[nse]
+"Speaking of which, what were you planning to do from here on out?"[pcms]
 
 ;//m:ターヤの家に向かう理由を3120と合わせる。ボイス有りキャラにまで修正が及びそうなら、このままスルー
 
 *3820|
 [fc]
-[ns]誠[nse]
-「とりあえず、ターヤさんの家に行こうとしてたとこ。[r]
-　食料や水の確保が先決かと思って」[pcms]
+[ns]Makoto[nse]
+"For now, we were thinking of heading to Tarja-san's house. Securing[r]
+food and water seemed like the top priority."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3821|
 [fc]
 [vo_stk s="satuki_tj0120"]
-[ns]彩月[nse]
-「そうなんだ。私たちはとにかく逃げてるだけだったから[r]
-　特にこの先、アテはないのよね」[pcms]
+[ns]Satsuki[nse]
+"That's right. We've just been running without any real plan for what[r]
+comes next."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3822|
 [fc]
 [vo_stk s="satuki_tj0121"]
-[ns]彩月[nse]
-「ご迷惑じゃなければ、私たちもご一緒させて[r]
-　もらってもいいかな、ターヤさん？」[pcms]
+[ns]Satsuki[nse]
+"If it's not too much trouble, could we join you as well, Tarja-san?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3823|
 [fc]
 [vo_tay s="taja_tj0064"]
-[ns]ターヤ[nse]
-「………はい」[pcms]
+[ns]Tarja[nse]
+"...Yes."[pcms]
 
 *3824|
 [fc]
-ターヤさんが小さく返事をする。[pcms]
+Tarja-san gave a small reply.[pcms]
 
 *3825|
 [fc]
-[ns]誠[nse]
-「本当にいいの？　迷惑じゃない？」[pcms]
+[ns]Makoto[nse]
+"Are you sure? It won't be a bother?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3826|
 [fc]
 [vo_tay s="taja_tj0065"]
-[ns]ターヤ[nse]
-「ううん。中澤君や出渕君の知り合いだし、それに[r]
-　この状況でお断りするなんてこと、できない……」[pcms]
+[ns]Tarja[nse]
+"No, it's fine. You're friends of Nakazawa-kun and Izubuchi-kun, and[r]
+in this situation, I couldn't possibly refuse..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3827|
 [fc]
-それもそうか。[pcms]
+That's true, isn't it.[pcms]
 
 *3828|
 [fc]
-たとえ相手がどんな嫌なやつだろうと、感染者がうじゃうじゃいる[r]
-状況で『お前は来るな』とはなかなか言えないもんな。[pcms]
+Even if the other person is someone you dislike, it's hard to say[r]
+"don't come here" when there are infected people swarming around.[pcms]
 
 *3829|
 [fc]
-[ns]西[nse]
-「さあ、長居は無用だ。先を急ごう」[pcms]
+[ns]West[nse]
+"Come on, there's no time to dawdle. Let's hurry on."[pcms]
 
 *3830|
 [fc]
-フランク先輩の言葉をきっかけに、僕たちは[r]
-ターヤさんの家へと向かった。[pcms]
+Following Senior Frank's words, we headed towards Tarja-san's house.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -896,7 +894,7 @@
 
 *3831|
 [fc]
-まもなく地上に出る、というその時。[pcms]
+Just as we were about to emerge above ground.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -906,18 +904,18 @@
 [fc]
 [vo_nat s="natu_tj0109"]
 [ns]？？？[nse]
-「まことっ！！」[pcms]
+"Makoto!!"[pcms]
 
 ;//夏都
 
 *3833|
 [fc]
-突然、僕たちの背後から姉ちゃんの声が聞こえてきた。[pcms]
+Suddenly, I heard my sister's voice from behind us.[pcms]
 
 *3834|
 [fc]
-驚いてとっさに振り返ると、そこには全身傷だらけになりながら[r]
-にかっと笑って立っている姉ちゃんがいた。[pcms]
+Surprised, I quickly turned around to see my sister standing there,[r]
+smiling broadly despite being covered in wounds.[pcms]
 
 ;//★cave01e 地下壕 出口付近
 [bg storage="cave01e"][trans_c cross time=500]
@@ -928,8 +926,8 @@
 
 *3835|
 [fc]
-[ns]誠[nse]
-「姉ちゃん！！」[pcms]
+[ns]Makoto[nse]
+"Sis!!"[pcms]
 
 ;//m:Wビキニ＋ジャケットでいいのかな？
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -937,37 +935,35 @@
 *3836|
 [fc]
 [vo_nat s="natu_tj0110"]
-[ns]夏都[nse]
-「誠、生きてたんだな！　よかったぁ！！」[pcms]
+[ns]Natsu[nse]
+"Makoto, you're alive! Thank goodness!!"[pcms]
 
 *3837|
 [fc]
-姉ちゃんが爆乳をぶるんぶるん揺らしながら近づいてきた。[pcms]
+My sister approached, her huge breasts bouncing as she moved.[pcms]
 
 *3838|
 [fc]
-ターヤさんがいなかったら、間違いなくいつもみたいに[r]
-抱きついてむぎゅーって[r]
-おっぱいを押しつけられていたに違いない。[pcms]
+If Tarja-san hadn't been there, she would have undoubtedly hugged me[r]
+like she usually does and pressed her breasts against me.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3839|
 [fc]
 [vo_tay s="taja_tj0066"]
-[ns]ターヤ[nse]
-「中澤君、この人は……？」[pcms]
+[ns]Tarja[nse]
+"Nakazawa-kun, who is this person...?"[pcms]
 
 *3840|
 [fc]
-僕の後ろにいるターヤさんが、僕のシャツの裾を[r]
-つんつんと引っ張って小声で訊ねてくる。[pcms]
+Tarja-san, who was behind me, tugged at the hem of my shirt and asked[r]
+in a low voice.[pcms]
 
 *3841|
 [fc]
-[ns]誠[nse]
-「あ、この人が、さっき話した僕の姉ちゃん。[r]
-　日向夏都さんだよ」[pcms]
+[ns]Makoto[nse]
+"Ah, this is my sister I mentioned earlier. Her name is Hyuuga Natsu."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0]
@@ -975,29 +971,27 @@
 
 *3842|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、こちらがターヤ・ポホヨネンさん。[r]
-　僕やそーいちのゲーム仲間なんだ」[pcms]
+[ns]Makoto[nse]
+"Sis, this is Tarja Pohjonen-san. She's a gaming friend of mine and[r]
+Sou-ichi."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na02"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *3843|
 [fc]
 [vo_nat s="natu_tj0111"]
-[ns]夏都[nse]
-「へえぇ、こんなカワイイ娘と、ゲームで知り合いに[r]
-　なれるなんてな。オタクの青春も[r]
-　まんざら捨てたもんじゃねぇな」[pcms]
+[ns]Natsu[nse]
+"Wow, to think you could meet such a cute girl through games. Otaku[r]
+youth isn't so bad after all."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na03"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *3844|
 [fc]
 [vo_nat s="natu_tj0112"]
-[ns]夏都[nse]
-「ターヤさんだっけ。こいつ、うじうじぐじぐじ暗くって[r]
-　言いたいこともはっきり言わねぇようなヤツだけど[r]
-　悪い奴じゃねぇから、仲良くしてやってくれな」[pcms]
+[ns]Natsu[nse]
+"Tarja-san, was it? This guy can be gloomy and hesitant to speak his[r]
+mind, but he's not a bad person, so please get along with him."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta11"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -1005,18 +999,18 @@
 *3845|
 [fc]
 [vo_tay s="taja_tj0067"]
-[ns]ターヤ[nse]
-「あ、はい……」[pcms]
+[ns]Tarja[nse]
+"Ah, yes..."[pcms]
 
 *3846|
 [fc]
-ターヤさんは、いつもの調子でまくし立てる[r]
-姉ちゃんの剣幕に押されて、ちょっとたじたじとしてる。[pcms]
+Tarja-san seemed a bit flustered by my sister's overwhelming presence[r]
+as she rattled on.[pcms]
 
 *3847|
 [fc]
-[ns]誠[nse]
-「それより、姉ちゃん……その怪我……」[pcms]
+[ns]Makoto[nse]
+"But more importantly, sis... those injuries..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -1025,22 +1019,22 @@
 
 *3848|
 [fc]
-姉ちゃんは、どこの戦場から帰ってきたのかと思うくらい[r]
-全身ぼろぼろで傷だらけだった。[pcms]
+My sister was covered in wounds as if she had returned from a[r]
+battlefield.[pcms]
 
 *3849|
 [fc]
-姉ちゃんがどれほど激しく感染者とやり合って[r]
-ここに辿り着いたのかは、詳しく聞かなくても[r]
-その傷を見れば一目瞭然だ。[pcms]
+It was clear how fiercely she must have fought against the infected to[r]
+get here; the wounds spoke for themselves without needing to ask for[r]
+details.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3850|
 [fc]
 [vo_nat s="natu_tj0113"]
-[ns]夏都[nse]
-「ああ、こんなもん、どれもみんなかすり傷だから心配すんな」[pcms]
+[ns]Natsu[nse]
+"Ah, these are nothing but scratches, don't worry about it."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1048,129 +1042,128 @@
 
 *3851|
 [fc]
-腕を上げて自分の傷の様子を見る姉ちゃんの拳に、誰かの歯が[r]
-刺さったままになっていた。[pcms]
+As she raised her arm to look at her wounds, I noticed someone's tooth[r]
+stuck in her fist.[pcms]
 
 *3852|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、手に歯が刺さってるよ！」[pcms]
+[ns]Makoto[nse]
+"Sis, there's a tooth stuck in your hand!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3853|
 [fc]
 [vo_nat s="natu_tj0114"]
-[ns]夏都[nse]
-「あ～、さっき石を拾って口元を殴りつけた時にでも[r]
-　刺さったんだろうよ。夢中だったんで気がつかなかったぜ」[pcms]
+[ns]Natsu[nse]
+"Ah, that must have gotten there when I picked up a rock and hit one[r]
+of them in the mouth. I was so focused I didn't notice."[pcms]
 
 *3854|
 [fc]
-こともなげにそう言うと、姉ちゃんは拳に刺さった歯を[r]
-引き抜いて投げ捨てた。[pcms]
+She said it nonchalantly and then pulled out the tooth from her fist[r]
+and threw it away.[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
 
 *3855|
 [fc]
-[ns]誠[nse]
-「姉ちゃん………」[pcms]
+[ns]Makoto[nse]
+"Sis..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3856|
 [fc]
 [vo_nat s="natu_tj0115"]
-[ns]夏都[nse]
-「ん、なんだよ誠。なに泣きそうな顔してんだ。辛気くせぇな。[r]
-　こんなのかすり傷だって言ったろ。心配すんなって」[pcms]
+[ns]Natsu[nse]
+"What's with that face, Makoto? You look like you're about to cry.[r]
+Don't be so gloomy. I told you they're just scratches. Don't worry[r]
+about it."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3857|
 [fc]
 [vo_nat s="natu_tj0116"]
-[ns]夏都[nse]
-「それに、オレはきちんと予防ワクチンも欠かさず射ってっから[r]
-　かすり傷に返り血を浴びたくらいじゃ感染しねえって。[r]
-　大丈夫大丈夫！」[pcms]
+[ns]Natsu[nse]
+"Besides, I've been getting my vaccines regularly, so a few splashes[r]
+of blood from a scratch won't infect me. It's all good!"[pcms]
 
 *3858|
 [fc]
-姉ちゃんの話を聞きながら、僕はどんどん青ざめていった。[pcms]
+Listening to my sister's words, I felt myself growing paler.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3859|
 [fc]
 [vo_nat s="natu_tj0117"]
-[ns]夏都[nse]
-「なんだよ、誠……なんでそんな、青い顔してんだよ。[r]
-　ホントにおめぇは心配性で……」[pcms]
+[ns]Natsu[nse]
+"What's wrong, Makoto... why are you looking so pale? You really worry[r]
+too much..."[pcms]
 
 *3860|
 [fc]
-[ns]誠[nse]
-「違うんだ、姉ちゃん……越智さんが……感染したんだ。[r]
-　知ってるだろ。僕たちが学校で定期的にワクチン注射を[r]
-　受けてることは……」[pcms]
+[ns]Makoto[nse]
+"It's not that, sis... Ochi-san got infected. You know that we've been[r]
+getting regular vaccine shots at school..."[pcms]
 
 *3861|
 [fc]
-[ns]誠[nse]
-「でも、越智さんは感染した……だから、いまこの島で[r]
-　蔓延してるウイルスには、ワクチンが効かないんだ……」[pcms]
+[ns]Makoto[nse]
+"But Ochi-san got infected... which means the vaccine doesn't work[r]
+against the virus that's spreading on this island..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3862|
 [fc]
 [vo_nat s="natu_tj0118"]
-[ns]夏都[nse]
-「……………………………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *3863|
 [fc]
-僕の言葉は、死刑宣告にも等しい内容だった。[pcms]
+My words were akin to a death sentence.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3864|
 [fc]
-姉ちゃんが僕の言葉を聞いて押し黙る。[pcms]
+My sister fell silent upon hearing what I said.[pcms]
 
 *3865|
 [fc]
-しばらくの沈黙ののち。[pcms]
+After a moment of silence.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3866|
 [fc]
 [vo_nat s="natu_tj0119"]
-[ns]夏都[nse]
-「……っんだよ、ったく。あ～あ、ツイてねえなあ～」[pcms]
+[ns]Natsu[nse]
+"Geez, what the heck. Ahh, this is just my luck..."[pcms]
 
 *3867|
 [fc]
-まるで大したことないみたいな口調で、姉ちゃんがそう言った。[pcms]
+With a tone as if it wasn't a big deal, my sister said that.[pcms]
 
 *3868|
 [fc]
-うっかり犬のウンコを踏んづけてしまった程度の[r]
-深刻さが感じられない、軽い口調。[pcms]
+It was a light tone that didn't convey the seriousness of the[r]
+situation, as if she had merely stepped in dog poop by accident.[pcms]
 
 *3869|
 [fc]
-僕は、どんな気持ちで姉ちゃんが、そんな口調の言葉を[r]
-口にしたのかと思うと、涙をこらえることができなかった。[pcms]
+I couldn't hold back my tears when I thought about why my sister would[r]
+speak in such a tone.[pcms]
 
 *3870|
 [fc]
-[ns]誠[nse]
-「ねえ……ちゃん………っ………！」[pcms]
+[ns]Makoto[nse]
+"Sis...!"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1178,49 +1171,47 @@
 ;//bgm07.ogg 1ch
 [bgm storage="BGM07"]
 
-;//■イベントCG　natu_N002（誠と抱擁する夏都。おっぱいムギュー）
+;//■イベントCG　natu_N002（誠と抱擁する夏。おっぱいムギュー）
 [evcg storage="natu_N002m"][trans_c cross time=300]
 
 *3871|
 [fc]
-泣き出してしまった僕を、姉ちゃんがいつもみたいに[r]
-むぎゅーっと抱きしめてくれた。[pcms]
+My sister hugged me tightly, just like she always does when I start to[r]
+cry.[pcms]
 
 *3872|
 [fc]
 [vo_nat s="natu_tj0120"]
-[ns]夏都[nse]
-「馬鹿野郎……泣くなよ、男なんだから……な」[pcms]
+[ns]Natsu[nse]
+"Idiot... don't cry, you're a man... aren't you?"[pcms]
 
 *3873|
 [fc]
-[ns]誠[nse]
-「だって……姉ちゃん………」[pcms]
+[ns]Makoto[nse]
+"But... sis..."[pcms]
 
 *3874|
 [fc]
-姉ちゃんがまるで子供をあやすみたいに、僕の頭をぽんぽんと[r]
-優しく撫でてくれる。[pcms]
+My sister patted my head gently, as if she was comforting a child.[pcms]
 
 *3875|
 [fc]
-その感触がなんとも優しくて、僕の眼には[r]
-新たな涙がまたわき上がってきてしまう。[pcms]
+The touch was so gentle that new tears welled up in my eyes.[pcms]
 
-;//■イベントCG　natu_N002（誠と抱擁する夏都。おっぱいムギュー）
+;//■イベントCG　natu_N002（誠と抱擁する夏。おっぱいムギュー）
 [evcg storage="natu_N002o"][trans_c cross time=300]
 
 *3876|
 [fc]
 [vo_nat s="natu_tj0121"]
-[ns]夏都[nse]
-「まったく、カッコ悪ぃヤツだな……。[r]
-　ターヤさんが見てるぞ。ほら、しっかりしねぇか……」[pcms]
+[ns]Natsu[nse]
+"You really are a mess... Tarja-san is watching. Come on, pull[r]
+yourself together..."[pcms]
 
 *3877|
 [fc]
-[ns]誠[nse]
-「う、うん。うん………」[pcms]
+[ns]Makoto[nse]
+"Y-yeah. Okay..."[pcms]
 
 ;//★cave01e 地下壕 出口付近
 [bg storage="cave01e"][trans_c cross time=500]
@@ -1228,23 +1219,23 @@
 
 *3878|
 [fc]
-子供みたいに拳でごしごしと眼をこすって涙を拭き取る僕を見て、[r]
-姉ちゃんが苦笑を浮かべる。[pcms]
+My sister chuckled wryly as she watched me rub my eyes with my fists[r]
+like a child, trying to wipe away the tears.[pcms]
 
 *3879|
 [fc]
 [vo_nat s="natu_tj0122"]
-[ns]夏都[nse]
-「全く……少しは大人になったと思ってたのによ。[r]
-　いつまで経ってもガキなんだから……お前は……」[pcms]
+[ns]Natsu[nse]
+"Seriously... I thought you had grown up a bit. You'll always be a[r]
+kid... you..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3880|
 [fc]
 [vo_nat s="natu_tj0123"]
-[ns]夏都[nse]
-「みっともねぇトコ見せちまったな、ターヤさん」[pcms]
+[ns]Natsu[nse]
+"I've shown Tarja-san such an embarrassing side of myself."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0]
@@ -1253,71 +1244,70 @@
 *3881|
 [fc]
 [vo_tay s="taja_tj0068"]
-[ns]ターヤ[nse]
-「い、いえ、そんなこと……」[pcms]
+[ns]Tarja[nse]
+"No, not at all..."[pcms]
 
 *3882|
 [fc]
-ターヤさんが恐縮して、あわてて首を横に振る。[pcms]
+Tarja-san hurriedly shook her head in embarrassment.[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *3883|
 [fc]
 [vo_nat s="natu_tj0124"]
-[ns]夏都[nse]
-「ターヤさん……こんな情けねぇ弟だけど、こんなんでも[r]
-　オレにとっちゃ、たったひとりの家族なんだ」[pcms]
+[ns]Natsu[nse]
+"Tarja-san... even though he's such a pathetic little brother, he's[r]
+still the only family I have."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na04"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *3884|
 [fc]
 [vo_nat s="natu_tj0125"]
-[ns]夏都[nse]
-「だから……これからも誠のことを、[r]
-　本当によろしく頼むぜ、な」[pcms]
+[ns]Natsu[nse]
+"So... please take good care of Makoto from now on, okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta04"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3885|
 [fc]
-まるで遺言のような姉ちゃんの言葉に、ターヤさんが[r]
-黙ったまま、真顔でうなづいた。[pcms]
+Tarja-san nodded solemnly without saying a word, as if my sister's[r]
+words were a last will and testament.[pcms]
 
 *3886|
 [fc]
-それを見た姉ちゃんが、笑顔を浮かべて先を続ける。[pcms]
+Seeing that, my sister continued with a smile.[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na08"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *3887|
 [fc]
 [vo_nat s="natu_tj0126"]
-[ns]夏都[nse]
-「誠、お前たち、どこへ行くつもりだったんだ？」[pcms]
+[ns]Natsu[nse]
+"Makoto, where were you guys planning to go?"[pcms]
 
 *3888|
 [fc]
-[ns]誠[nse]
-「あの……とりあえず、ターヤさんの家に[r]
-　いったん行こうって……」[pcms]
+[ns]Makoto[nse]
+"Well... we were thinking of going to Tarja-san's house for now..."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na12"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *3889|
 [fc]
 [vo_nat s="natu_tj0127"]
-[ns]夏都[nse]
-「ターヤさん、家はどこにあるんだい？」[pcms]
+[ns]Natsu[nse]
+"Tarja-san, where is your house?"[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3890|
 [fc]
 [vo_tay s="taja_tj0069"]
-[ns]ターヤ[nse]
-「あの……町中なんですけど、山の麓に近いところにあります」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Um... it's in the middle of town, but close to the foot of the[r]
+mountain."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na04"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta04"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -1325,35 +1315,35 @@
 *3891|
 [fc]
 [vo_nat s="natu_tj0128"]
-[ns]夏都[nse]
-「そっか。どういうルートで行くつもりだったんだい？」[pcms]
+[ns]Natsu[nse]
+"I see. What route were you planning to take?"[pcms]
 
 *3892|
 [fc]
-[ns]誠[nse]
-「僕がここに来た道を戻る感じで、森の中を抜けて[r]
-　町まで戻ろうかと思ってたんだ」[pcms]
+[ns]Makoto[nse]
+"We were thinking of going back the way I came here, through the[r]
+forest and back to town."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na21"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *3893|
 [fc]
 [vo_nat s="natu_tj0129"]
-[ns]夏都[nse]
-「ああ、そのルートだと、多分オレがここに来たのと[r]
-　おんなじルートだな。オレも途中まで一緒に行ってやるよ」[pcms]
+[ns]Natsu[nse]
+"Ah, if you take that route, it's probably the same one I used to get[r]
+here. I'll go with you guys part of the way."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3894|
 [fc]
-[ns]誠[nse]
-「途中までって……どうして？」[pcms]
+[ns]Makoto[nse]
+"Part of the way? Why?"[pcms]
 
 *3895|
 [fc]
-僕の問いに、姉ちゃんがふっ……と微笑を浮かべて答える。[pcms]
+My sister answered my question with a faint smile.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -1361,25 +1351,24 @@
 *3896|
 [fc]
 [vo_nat s="natu_tj0130"]
-[ns]夏都[nse]
-「オレのこの格好を見りゃ、だいたい見当はつくと思うけど、[r]
-　外はもう、感染者がうじゃうじゃしてやがる」[pcms]
+[ns]Natsu[nse]
+"If you look at how I'm dressed, you can probably guess, but outside,[r]
+it's swarming with infected people."[pcms]
 
 *3897|
 [fc]
 [vo_nat s="natu_tj0131"]
-[ns]夏都[nse]
-「さっき誠が言ってたのは、タチの悪い冗談なんかじゃ[r]
-　ねぇだろうから……いずれオレは発症する」[pcms]
+[ns]Natsu[nse]
+"What Makoto said earlier wasn't some sick joke... so I'll probably[r]
+show symptoms eventually."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na23"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3898|
 [fc]
 [vo_nat s="natu_tj0132"]
-[ns]夏都[nse]
-「てことは、オレがまともでいられる時間はもう[r]
-　残り少ないってことだ。だから……」[pcms]
+[ns]Natsu[nse]
+"That means I don't have much time left where I can be sane. So..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -1387,9 +1376,9 @@
 *3899|
 [fc]
 [vo_nat s="natu_tj0133"]
-[ns]夏都[nse]
-「オレがまともでいられるうちに、せめて、お前たちのために[r]
-　道をあけてやるよ。オレの命をつかってな」[pcms]
+[ns]Natsu[nse]
+"While I'm still sane, at least I can clear the way for you guys. I'll[r]
+use my life to do it."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0]
@@ -1398,20 +1387,20 @@
 *3900|
 [fc]
 [vo_tay s="taja_tj0070"]
-[ns]ターヤ[nse]
-「そんな……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"You can't...!"[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3901|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、駄目だ！　そんなこと……！」[pcms]
+[ns]Makoto[nse]
+"Sis, no! You can't do that...!"[pcms]
 
 *3902|
 [fc]
-僕とターヤさんが姉ちゃんの言葉を否定すると、姉ちゃんが[r]
-真剣な表情で僕たちを見て言った。[pcms]
+When Tarja-san and I objected to my sister's words, she looked at us[r]
+seriously and said,[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -1419,187 +1408,182 @@
 *3903|
 [fc]
 [vo_nat s="natu_tj0134"]
-[ns]夏都[nse]
-「いずれ発症するんなら、どのみちオレはもうお前らと、[r]
-　いつまでも一緒にはいられない」[pcms]
+[ns]Natsu[nse]
+"If I'm going to show symptoms eventually, then either way I won't be[r]
+able to stay with you guys forever."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3904|
 [fc]
 [vo_nat s="natu_tj0135"]
-[ns]夏都[nse]
-「なんつっても、UNKNOWN-LV4の致死率は９９％だ。[r]
-　つまりオレは……近いうちにいずれ死ぬ……ってことだ」[pcms]
+[ns]Natsu[nse]
+"After all, the mortality rate for UNKNOWN-LV4 is 99%. That means...[r]
+I'll die soon."[pcms]
 
 *3905|
 [fc]
-姉ちゃんの言葉に、僕もターヤさんも思わず息を呑んだ。[pcms]
+At my sister's words, both Tarja-san and I involuntarily held our[r]
+breath.[pcms]
 
 *3906|
 [fc]
-そんな僕たちの表情を見て、姉ちゃんが[r]
-どこか淋しげな微笑を浮かべる。[pcms]
+Seeing our expressions, my sister gave a somewhat lonely smile.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3907|
 [fc]
 [vo_nat s="natu_tj0136"]
-[ns]夏都[nse]
-「だったら……せめて最後に自分の命くらい、[r]
-　自分が好きなヤツのために、好きなように使わせてくれよ」[pcms]
+[ns]Natsu[nse]
+"Then... at least let me use my life the way I want, for someone I[r]
+care about, before it's over."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3908|
 [fc]
 [vo_nat s="natu_tj0137"]
-[ns]夏都[nse]
-「お前らが生き延びてくれるんなら、オレの命は別に[r]
-　無駄にはなんねぇだろ」[pcms]
+[ns]Natsu[nse]
+"If you guys survive, my life won't have been wasted, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3909|
 [fc]
 [vo_nat s="natu_tj0138"]
-[ns]夏都[nse]
-「それに、いつあんなバケモノになるのかって、ビクビクしながら[r]
-　残りの時間を生きてるなんて、オレの性にゃ合わねぇってのは[r]
-　誠なら……分かるだろ？」[pcms]
+[ns]Natsu[nse]
+"Plus, living in fear of turning into one of those monsters isn't like[r]
+me. Makoto... you understand, right?"[pcms]
 
 *3910|
 [fc]
-[ns]誠[nse]
-「姉……ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Sis..."[pcms]
 
 *3911|
 [fc]
-僕は、姉ちゃんにかける言葉が見つからなかった。[pcms]
+I couldn't find the words to say to my sister.[pcms]
 
 *3912|
 [fc]
-どうして姉ちゃんが死ななきゃならないんだろう。[r]
-どうして姉ちゃんが感染してしまったんだろう。[pcms]
+Why does my sister have to die? Why did she get infected?[pcms]
 
 *3913|
 [fc]
-僕が姉ちゃんを旅行なんかに誘わなけりゃ、姉ちゃんは[r]
-感染することも死ぬこともなく、東京で普通に[r]
-暮らしていられたのに……。[pcms]
+If I hadn't invited my sister on this trip, she wouldn't have been[r]
+infected or faced death; she could have lived normally in Tokyo...[pcms]
 
 *3914|
 [fc]
-いくら後悔しても、取り返しようのない思いが、[r]
-心の中でぐるぐると回って僕を責め苛む。[pcms]
+No matter how much I regret it, the irrevocable thoughts swirl around[r]
+in my heart, tormenting me.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na23"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3915|
 [fc]
-そんな僕を見て、姉ちゃんが眉をしかめて大声をあげた。[pcms]
+Seeing me like that, my sister frowned and raised her voice.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3916|
 [fc]
 [vo_nat s="natu_tj0139"]
-[ns]夏都[nse]
-「あーもう、さっきから辛気臭ぇなあ、オメエは！[r]
-　こっちまで暗くなっから、もうそんな面すんのやめろって」[pcms]
+[ns]Natsu[nse]
+"Ah, come on, you've been so gloomy! It's bringing me down too, so[r]
+knock off that face already."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3917|
 [fc]
 [vo_nat s="natu_tj0140"]
-[ns]夏都[nse]
-「オレがこうなったのは、お前のせいでも、誰のせいでもねぇよ。[r]
-　ただ、運が悪かった……ってだけで」[pcms]
+[ns]Natsu[nse]
+"It's not your fault, or anyone else's, that I ended up like this. It[r]
+was just... bad luck."[pcms]
 
 *3918|
 [fc]
-[ns]誠[nse]
-「でも……」[pcms]
+[ns]Makoto[nse]
+"But..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3919|
 [fc]
 [vo_nat s="natu_tj0141"]
-[ns]夏都[nse]
-「はい、もう話は終わり終わり。オレにゃあとどのくらい[r]
-　時間が残ってんのか分かんねえんだからよ」[pcms]
+[ns]Natsu[nse]
+"Alright, that's enough. The conversation is over. I don't know how[r]
+much time I have left."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3920|
 [fc]
 [vo_nat s="natu_tj0142"]
-[ns]夏都[nse]
-「ここでモタモタしてて、オレが発症してお前たちを[r]
-　襲い出したりしたら、それこそシャレにならねえだろ」[pcms]
+[ns]Natsu[nse]
+"If we dawdle here and I start showing symptoms and attack you guys,[r]
+that would be no joke."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3921|
 [fc]
 [vo_nat s="natu_tj0143"]
-[ns]夏都[nse]
-「それより誠、ターヤさん、なんか武器になりそうなものは[r]
-　持ってねぇか？」[pcms]
+[ns]Natsu[nse]
+"Instead, Makoto, Tarja-san, do you have anything that could be used[r]
+as a weapon?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3922|
 [fc]
 [vo_tay s="taja_tj0071"]
-[ns]ターヤ[nse]
-「あ、ええと……中澤君の持ってる鞄の中に、簡易用の[r]
-　調理セットが入ってて、その中に包丁があります」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Oh, um... there's a simple cooking set in the bag Nakazawa-kun is[r]
+carrying, and there's a knife in it."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3923|
 [fc]
 [vo_nat s="natu_tj0144"]
-[ns]夏都[nse]
-「お、そりゃ使えるな。他にもなんか使えるモンねえかな。[r]
-　誠、ちょっとその鞄の中、見せてみろ」[pcms]
+[ns]Natsu[nse]
+"Oh, that could be useful. Anything else in there? Makoto, let me take[r]
+a look inside that bag."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3924|
 [fc]
-僕は姉ちゃんの言葉に応じて鞄を渡した。[pcms]
+I handed over the bag in response to my sister's words.[pcms]
 
 *3925|
 [fc]
 [vo_nat s="natu_tj0145"]
-[ns]夏都[nse]
-「ＬＥＤランタン……これはお前らが持ってた方がいいだろうな。[r]
-　あとは……男もんの着替えにタオルか……。[r]
-　ん、これは……？」[pcms]
+[ns]Natsu[nse]
+"An LED lantern... you guys should keep this. And then... men's[r]
+clothes and a towel. Hm, what's this...?"[pcms]
 
 ;//立ち無し
 
 *3926|
 [fc]
-姉ちゃんが、タバコとライターの入ったポーチを取り出す。[pcms]
+My sister took out a pouch containing cigarettes and a lighter.[pcms]
 
 *3927|
 [fc]
 [vo_nat s="natu_tj0146"]
-[ns]夏都[nse]
-「ふむ……これは使えるかもな……こんなもんか」[pcms]
+[ns]Natsu[nse]
+"Hmm... this might be useful... that's about it."[pcms]
 
 ;//立ち無し
 
 *3928|
 [fc]
-姉ちゃんは、タバコとライターの入ったポーチを[r]
-ショートパンツの尻ポケットに押し込んだ。[pcms]
+My sister stuffed the pouch with the cigarettes and lighter into the[r]
+back pocket of her shorts.[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na02"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta04"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -1607,28 +1591,28 @@
 *3929|
 [fc]
 [vo_nat s="natu_tj0147"]
-[ns]夏都[nse]
-「よし、そんじゃ行こうか」[pcms]
+[ns]Natsu[nse]
+"Alright, let's go then."[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta19"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3930|
 [fc]
 [vo_tay s="taja_tj0072"]
-[ns]ターヤ[nse]
-「はい」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yes."[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta04"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3931|
 [fc]
-[ns]誠[nse]
-「うん……」[pcms]
+[ns]Makoto[nse]
+"Yeah..."[pcms]
 
 *3932|
 [fc]
-これ以上僕がぐずぐず言って、貴重な姉ちゃんの時間を[r]
-浪費したくない。[pcms]
+I didn't want to waste any more of my precious sister's time by[r]
+dawdling.[pcms]
 
 ;//m:あれ？まだ地下道内か。夏都抱擁の背景合わないな。差分要発注
 
@@ -1636,128 +1620,127 @@
 
 *3933|
 [fc]
-僕もターヤさんも、姉ちゃんの言葉に従って入り口へと向かった。[pcms]
+Tarja-san and I followed my sister's words and headed towards the[r]
+entrance.[pcms]
 
 *3934|
 [fc]
-地下道の入り口近くで、姉ちゃんが外の様子を覗う。[pcms]
+At the entrance to the underground passage, my sister peeked outside.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na23"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3935|
 [fc]
 [vo_nat s="natu_tj0148"]
-[ns]夏都[nse]
-「ふん……さっき入って来た時よりも、数が増えてやがる……」[pcms]
+[ns]Natsu[nse]
+"Hmph... there are more of them than when we came in..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3936|
 [fc]
 [vo_nat s="natu_tj0149"]
-[ns]夏都[nse]
-「一気に飛び出して、切り抜けてくしかなさそうだな……[r]
-　いっせーの、で飛び出すからな」[pcms]
+[ns]Natsu[nse]
+"We'll have to dash out all at once to break through... get ready to[r]
+run on 'go'."[pcms]
 
 *3937|
 [fc]
-姉ちゃんが僕とターヤさんを振り返ってそう言う。[pcms]
+My sister turned back to Tarja-san and me and said that.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3938|
 [fc]
 [vo_tay s="taja_tj0073"]
-[ns]ターヤ[nse]
-「わかりました」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Understood."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3939|
 [fc]
-[ns]誠[nse]
-「うん」[pcms]
+[ns]Makoto[nse]
+"Yeah."[pcms]
 
 *3940|
 [fc]
-その時。[pcms]
+At that moment.[pcms]
 
-;//■イベントCG　natu_N002（誠と抱擁する夏都。おっぱいムギュー）
+;//■イベントCG　natu_N002（誠と抱擁する夏。おっぱいムギュー）
 [evcg storage="natu_N002n"][trans_c cross time=300]
 
 *3941|
 [fc]
-僕は姉ちゃんに、また抱きしめられていた。[pcms]
+I was being hugged by my sister again.[pcms]
 
 *3942|
 [fc]
-[ns]誠[nse]
-「姉……ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Sis..."[pcms]
 
 *3943|
 [fc]
 [vo_nat s="natu_tj0150"]
-[ns]夏都[nse]
-「誠……愛してる……」[pcms]
+[ns]Natsu[nse]
+"Makoto... I love you..."[pcms]
 
 *3944|
 [fc]
-僕を力いっぱい抱きしめたまま、姉ちゃんが耳元でそう囁いた。[pcms]
+My sister whispered in my ear while hugging me tightly.[pcms]
 
 *3945|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……僕も……愛してるよ……」[pcms]
+[ns]Makoto[nse]
+"Sis... I love you too..."[pcms]
 
-;//■イベントCG　natu_N002（誠と抱擁する夏都。おっぱいムギュー）
+;//■イベントCG　natu_N002（誠と抱擁する夏。おっぱいムギュー）
 [evcg storage="natu_N002o"][trans_c cross time=300]
 
 *3946|
 [fc]
 [vo_nat s="natu_tj0151"]
-[ns]夏都[nse]
-「オレのこと、忘れんなよ……」[pcms]
+[ns]Natsu[nse]
+"Don't you forget about me..."[pcms]
 
 *3947|
 [fc]
-[ns]誠[nse]
-「忘れるわけ……忘れられるわけ……ないだろ……」[pcms]
+[ns]Makoto[nse]
+"There's no way... no way I could ever forget..."[pcms]
 
-;//■イベントCG　natu_N002（誠と抱擁する夏都。おっぱいムギュー）
+;//■イベントCG　natu_N002（誠と抱擁する夏。おっぱいムギュー）
 [evcg storage="natu_N002q"][trans_c cross time=300]
 
 *3948|
 [fc]
 [vo_nat s="natu_tj0152"]
-[ns]夏都[nse]
-「ちゃんと……生き残れよ……オレの分まで、必ず……」[pcms]
+[ns]Natsu[nse]
+"Make sure you survive... for my sake, you have to..."[pcms]
 
 *3949|
 [fc]
-[ns]誠[nse]
-「うん……約束するよ……必ず……生き延びてみせる……」[pcms]
+[ns]Makoto[nse]
+"Yeah... I promise... I'll definitely survive..."[pcms]
 
 *3950|
 [fc]
-また涙が溢れそうになったけど、僕は必死になって[r]
-それをこらえた。[pcms]
+I felt like I was going to cry again, but I desperately held back the[r]
+tears.[pcms]
 
 *3951|
 [fc]
-いまは泣いてる場合じゃない。[pcms]
+Now is not the time to cry.[pcms]
 
 *3952|
 [fc]
-姉ちゃんの愛に応えるためにも、僕は……[r]
-生き残らなくちゃいけないんだから……！[pcms]
+To respond to my sister's love, I have to survive...![pcms]
 
 ;//★cave01e 地下壕 出口付近
 [bg storage="cave01e"][trans_c cross time=500]
 
 *3953|
 [fc]
-姉ちゃんは、僕を抱きしめてた腕をぱっと放すと[r]
-ターヤさんに向き直って言った。[pcms]
+My sister released her embrace and turned back to Tarja-san, saying.[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -1765,27 +1748,28 @@
 *3954|
 [fc]
 [vo_nat s="natu_tj0153"]
-[ns]夏都[nse]
-「ターヤさん……誠のこと、よろしく頼むな……」[pcms]
+[ns]Natsu[nse]
+"Tarja-san... please take care of Makoto..."[pcms]
 
 *3955|
 [fc]
-ターヤさんが真剣な表情でそれに応える。[pcms]
+Tarja-san responded with a serious expression.[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_cos1"][ChrSetParts layer=4 chface="F1_ta04"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3956|
 [fc]
 [vo_tay s="taja_tj0074"]
-[ns]ターヤ[nse]
-「分かりました。お姉さん」[pcms]
+[ns]Tarja[nse]
+"Understood. Onee-san."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3957|
 [fc]
-ターヤさんの返事に満足したのか、姉ちゃんは包丁を持ち直すと、[r]
-僕たちに背を向けて、再び入り口の様子を覗った。[pcms]
+It seemed that my sister was satisfied with Tarja-san's response, and[r]
+she gripped the knife again, turning her back to us and peeking at the[r]
+entrance once more.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1795,35 +1779,35 @@
 *3958|
 [fc]
 [vo_nat s="natu_tj0154"]
-[ns]夏都[nse]
-「準備はいいか、ふたりとも？」[pcms]
+[ns]Natsu[nse]
+"Are you two ready?"[pcms]
 
 ;//立ち無し、かな
 
 *3959|
 [fc]
-もう、姉ちゃんは振り返らなかった。[pcms]
+My sister didn't look back again.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta19"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3960|
 [fc]
 [vo_tay s="taja_tj0075"]
-[ns]ターヤ[nse]
-「はい！」[pcms]
+[ns]Tarja[nse]
+"Yes!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3961|
 [fc]
-[ns]誠[nse]
-「いいよ！」[pcms]
+[ns]Makoto[nse]
+"Ready!"[pcms]
 
 *3962|
 [fc]
 [vo_nat s="natu_tj0155"]
-[ns]夏都[nse]
-「それじゃ行くぞ……いっせーの！！」[pcms]
+[ns]Natsu[nse]
+"Then let's go... on 'go'!"[pcms]
 
 ;//立ち無し、かな
 
@@ -1838,9 +1822,9 @@
 
 *3963|
 [fc]
-姉ちゃんのかけ声に合わせて、僕たちは外へと飛び出した。[pcms]
+At my sister's signal, we dashed outside.[pcms]
 
-;//■イベントCG　natu_N003（夏都のファイティングポーズ）
+;//■イベントCG　natu_N003（夏のファイティングポーズ）
 ;//[evcg storage="natu_N003a"][trans_c cross time=300]
 
 ;//★bg07d 旧日本軍砲台跡（Ｂ）・朝昼
@@ -1852,15 +1836,15 @@
 *3964|
 [fc]
 [vo_nat s="natu_tj0156"]
-[ns]夏都[nse]
-「おらあぁっ！　かかってこいっ！！」[pcms]
+[ns]Natsu[nse]
+"Come at me, you bastards!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan2_x"][ChrSetXY layer=5 x=260 y=0][trans_c cross time=150]
 
 *3965|
 [fc]
-[ns]感染者[nse]
-「おおぉ、おんなあ゛ああぁ゛あぁぁあ゛ぁ！！」[pcms]
+[ns]Infected person[nse]
+"Oooh, a woman aaaaahhhhh!!"[pcms]
 
 [se buf=0 storage="seB027"]
 ;//♪SE鎌で切りつける音
@@ -1872,56 +1856,54 @@
 
 *3966|
 [fc]
-姉ちゃんが手にした包丁が、襲いかかって来た感染者の[r]
-頸動脈を切り裂いた。[pcms]
+The knife in my sister's hand slashed through the carotid artery of an[r]
+attacking infected person.[pcms]
 
 [se buf=0 storage="seD015"]
 ;//♪SE弾けて液体が噴き出す
 
 *3967|
 [fc]
-首筋から噴水みたいに血を噴き上げながら、感染者が[r]
-地面に倒れる。[pcms]
+Blood spurted out like a fountain from the neck as the infected person[r]
+fell to the ground.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3968|
 [fc]
 [vo_nat s="natu_tj0157"]
-[ns]夏都[nse]
-「急げっ！　誠！　ターヤっ！　走れっ！！[r]
-　こいつらはオレが引きつけるから！」[pcms]
+[ns]Natsu[nse]
+"Hurry! Makoto! Tarja! Run!! I'll draw their attention!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3969|
 [fc]
-その言葉の通り、姉ちゃんは必要以上に大声をあげながら[r]
-感染者に向かっていく。[pcms]
+True to her word, my sister shouted louder than necessary and charged[r]
+towards the infected.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3970|
 [fc]
 [vo_nat s="natu_tj0158"]
-[ns]夏都[nse]
-「おらおらあっ！　オメエらの大好きな[r]
-　新鮮なオマンコがここにあるぞっ！！」[pcms]
+[ns]Natsu[nse]
+"Come on! Here's the fresh pussy you love so much!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=0][trans_c cross time=150]
 
 *3971|
 [fc]
-[ns]感染者[nse]
-「あ゛ぁ゛ぁぁ～、お゛まん゛ごだあ゛あ゛ぁ゛～」[pcms]
+[ns]Infected person[nse]
+"Aaahhh~ pussy daaaahhh~"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3972|
 [fc]
 [vo_nat s="natu_tj0159"]
-[ns]夏都[nse]
-「ボケがっ！！」[pcms]
+[ns]Natsu[nse]
+"Idiots!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=0][trans_c cross time=150]
 
@@ -1935,16 +1917,16 @@
 
 *3973|
 [fc]
-また姉ちゃんの手にした包丁が一閃して、感染者が倒れる。[pcms]
+Another flash of my sister's knife, and another infected person fell.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3974|
 [fc]
 [vo_nat s="natu_tj0160"]
-[ns]夏都[nse]
-「感染してっから、もう返り血も怖くねえぞっ！！[r]
-　かかってこいっ！　全員皆殺しにしてやる！！」[pcms]
+[ns]Natsu[nse]
+"Since I'm infected too, I'm not afraid of your blood! Come at me![r]
+I'll kill you all!!"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1954,47 +1936,48 @@
 
 *3975|
 [fc]
-砲台跡から森の中に入り、僕たち３人は町を目指して[r]
-走り続けた。[pcms]
+We entered the forest from the remains of the battery and continued[r]
+running towards the town, the three of us.[pcms]
 
 *3976|
 [fc]
-その間も、姉ちゃんに襲いかかった感染者が、[r]
-次々に倒されてゆく。[pcms]
+Meanwhile, infected people who attacked my sister were being taken[r]
+down one after another.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3977|
 [fc]
 [vo_tay s="taja_tj0076"]
-[ns]ターヤ[nse]
-「すごい………」[pcms]
+[ns]Tarja[nse]
+"Amazing..."[pcms]
 
 *3978|
 [fc]
-その様子を見て、ターヤさんが眼を丸くした。[pcms]
+Seeing this, Tarja-san's eyes went wide.[pcms]
 
 *3979|
 [fc]
-[ns]誠[nse]
-「自衛隊仕込みのナイフコンバットだよ。[r]
-　でも、姉ちゃんって、あんなに強かったんだ……」[pcms]
+[ns]Makoto[nse]
+"It's knife combat taught in the Self-Defense Forces. But I never knew[r]
+my sister was this strong..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3980|
 [fc]
-一緒に暮らしてたのに、知らないことがまだあったんだ。[pcms]
+Even though we lived together, there were still things I didn't know[r]
+about her.[pcms]
 
 *3981|
 [fc]
-たぶん、他にも姉ちゃんのことで、僕が知らないことが[r]
-まだまだあるのに違いない。[pcms]
+Probably, there are still many things about my sister that I don't[r]
+know.[pcms]
 
 *3982|
 [fc]
-でも、僕がもう、姉ちゃんと一緒に暮らして[r]
-それを新しく発見することはないんだ……。[pcms]
+But now, I will never live with my sister again and discover those new[r]
+things...[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -2004,126 +1987,122 @@
 
 *3983|
 [fc]
-僕たち３人は、感染者の襲撃を受けながらも、山あいにある[r]
-小さな集落まで辿り着いた。[pcms]
+The three of us reached a small village nestled in the mountains while[r]
+still under attack from the infected.[pcms]
 
 *3984|
 [fc]
-ここにも、来た時とは比較にならないほど[r]
-大勢の感染者がいる。[pcms]
+There were far more infected here now than when we first arrived.[pcms]
 
 *3985|
 [fc]
-しかも、その中には僕やターヤさんの見知った顔もあった。[pcms]
+Moreover, among them were faces that Tarja-san and I recognized.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che_F1_ak13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3986|
 [fc]
 [vo_aka s="akari_tj0282"]
-[ns]茜梨[nse]
-「あ゛、あ゛あぁ～、ま゛ーくん゛、せん゛ぱい゛いぃ～、[r]
-　どこお゛ぉ゛～」[pcms]
+[ns]Akari[nse]
+"Aah, aahh~ Mak-kun, senpai, where are you~"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw1_b"][ChrSetParts layer=5 chface="f1_st16"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3987|
 [fc]
 [vo_stk s="satuki_tj0122"]
-[ns]彩月[nse]
-「うふ、うふふふっ、うふふふふぅ……。[r]
-　ながざわぐう゛ぅん゛～」[pcms]
+[ns]Satsuki[nse]
+"Ufu, ufufufu, ufufufuu... Nakazawa-kun~"[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_kan_mi"][ChrSetParts layer=5 chface="F1_sa15"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3988|
 [fc]
 [vo_sat s="sato_tj0051"]
-[ns]怜[nse]
-「あ゛あ゛ぁ～、たーや゛んとぉ、ながざわぐんに゛ぃ゛[r]
-　あい゛にい゛かな゛きゃあ゛ぁ゛～」[pcms]
+[ns]Sato[nse]
+"Aahh~, Ta-yan and Nakazawa-kun, I have to see you~"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3989|
 [fc]
-越智さん、南先輩、そして……。[pcms]
+Ochi-san, Minami-senpai, and then...[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3990|
 [fc]
 [vo_tay s="taja_tj0077"]
-[ns]ターヤ[nse]
-「怜……っ……」[pcms]
+[ns]Tarja[nse]
+"Sato...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3991|
 [fc]
-感染した村上さんの姿を見て、ターヤさんが口を手で押さえて[r]
-涙ぐんだ。[pcms]
+Seeing the infected Murakami-san, Tarja-san covered her mouth with her[r]
+hand and teared up.[pcms]
 
 *3992|
 [fc]
-かつて知り合いだった人たちが感染した姿を見て、思わず[r]
-僕とターヤさんの足は鈍ってしまう。[pcms]
+Seeing the infected forms of people we once knew, Tarja-san and I[r]
+involuntarily slowed our pace.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3993|
 [fc]
 [vo_nat s="natu_tj0161"]
-[ns]夏都[nse]
-「バカ野郎ども！　なに止まってんだ！　走れっ！！」[pcms]
+[ns]Natsu[nse]
+"You idiots! Why are you stopping? Run!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3994|
 [fc]
-僕とターヤさんの背中で、姉ちゃんの怒声が響いた。[pcms]
+Behind Tarja-san and me, my sister's angry voice echoed.[pcms]
 
 *3995|
 [fc]
-僕たちはその声に打たれたみたいにびくっとして、[r]
-あわてて走り出した。[pcms]
+Startled by her voice, Tarja-san and I hurriedly started running.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3996|
 [fc]
 [vo_nat s="natu_tj0162"]
-[ns]夏都[nse]
-「茜梨ちゃんっ！　誠はこっちにいるぞっ！[r]
-　ターヤもいっしょだっ！！　ほらほら、こっちこっち！！」[pcms]
+[ns]Natsu[nse]
+"Akari-chan! Makoto is over here! Tarja is with him too!! Come on,[r]
+this way!!"[pcms]
 
 *3997|
 [fc]
-姉ちゃんの大声に、感染した越智さんたちが反応した。[pcms]
+At my sister's loud voice, the infected Ochi-san and the others[r]
+reacted.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che_kan1"][ChrSetXY layer=5 x=240 y=0][trans_c cross time=150]
 
 *3998|
 [fc]
 [vo_aka s="akari_tj0283"]
-[ns]茜梨[nse]
-「あ゛れ～、ながざわぜんぱいの゛ぉ、お゛ねえざんだあ゛ぁ～」[pcms]
+[ns]Akari[nse]
+"Areh~, it's Nakazawa-senpai's big sister~"[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_kan_mi"][ChrSetParts layer=3 chface="F1_sa14"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *3999|
 [fc]
 [vo_sat s="sato_tj0052"]
-[ns]怜[nse]
-「たーや゛ん～、な゛がざわぐんどぉ、い゛っじょなのぉ～」[pcms]
+[ns]Sato[nse]
+"Ta-yan~, are you with Nakazawa-kun~"[pcms]
 
 [ChrSetEx layer=4 chbase="st1_sw1_a"][ChrSetParts layer=4 chface="f1_st17"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *4000|
 [fc]
 [vo_stk s="satuki_tj0123"]
-[ns]彩月[nse]
-「な゛がざわ゛ぐ～ん、あ゛ぞぼうよおぉ～、う゛ふふふっ」[pcms]
+[ns]Satsuki[nse]
+"Nakazawa-kun, let's play together~, ufufufu"[pcms]
 ;//彩月カラコン使用
 
 [chara_int]
@@ -2132,75 +2111,75 @@
 *4001|
 [fc]
 [vo_nat s="natu_tj0163"]
-[ns]夏都[nse]
-「ほらほら、色ボケども！　早く来ねぇと誠もターヤも[r]
-　いなくなっちまうぞ！　こっちだっ！！」[pcms]
+[ns]Natsu[nse]
+"Come on, you horndogs! If you don't hurry up, Makoto and Tarja will[r]
+be gone! This way!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4002|
 [fc]
-そう言って、姉ちゃんは一軒の家に向かっていった。[pcms]
+Saying that, my sister headed towards a house.[pcms]
 
 *4003|
 [fc]
-感染した越智さん、南先輩、村上さん。そして他の感染者たちが[r]
-姉ちゃんの後を追って、その家に向かって行く。[pcms]
+The infected Ochi-san, Minami-senpai, Murakami-san, and the other[r]
+infected followed her into the house.[pcms]
 
 [se buf=0 storage="seA052"]
 ;//♪SE複数人の走る足音
 
 *4004|
 [fc]
-僕とターヤさんは、姉ちゃんが感染者を引きつけてくれてる間に[r]
-集落を一気に走り抜けた。[pcms]
+While my sister was attracting the infected, Tarja-san and I ran[r]
+through the village at full speed.[pcms]
 
 *4005|
 [fc]
-その姿が家の中に消える直前、僕は振り返って[r]
-姉ちゃんの顔を見る。[pcms]
+Just before she disappeared into the house, I turned back to see my[r]
+sister's face.[pcms]
 
-;//■イベントCG　削除　natu_N001（夏都の顔ＵＰ）
+;//■イベントCG　削除　natu_N001（夏の顔ＵＰ）
 ;//[evcg storage="natu_N001a"][trans_c lr time=300]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4006|
 [fc]
-姉ちゃんも、僕の顔をじっと見ていた。[pcms]
+My sister was also looking intently at me.[pcms]
 
 *4007|
 [fc]
-姉ちゃんと眼が合う。[pcms]
+Our eyes met.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4008|
 [fc]
-姉ちゃんは……僕の顔を見て、笑っていた。[pcms]
+My sister... was smiling at me as she looked at my face.[pcms]
 
 [chara_int][trans_c lr time=300]
 
 *4009|
 [fc]
-それが、僕が最後に見た姉ちゃんの表情だった。[pcms]
+That was the last expression I saw on my sister's face.[pcms]
 
 *4010|
 [fc]
-姉ちゃんは、感染者の大群を引き連れて、[r]
-一軒の家の中に姿を消す。[pcms]
+My sister disappeared into a house with a horde of infected following[r]
+her.[pcms]
 
 *4011|
 [fc]
-[ns]誠[nse]
-（姉ちゃん………！）[pcms]
+[ns]Makoto[nse]
+(Sister...!)[pcms]
 
 [se buf=0 storage="seA052"]
 ;//♪SE複数人の走る足音
 
 *4012|
 [fc]
-僕は振り返らずに、ターヤさんとともにひたすら走り続けた。[pcms]
+Without looking back, I kept running with Tarja-san.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -2225,38 +2204,39 @@
 
 *4013|
 [fc]
-僕とターヤさんは、地下通路から地上へと飛び出した。[pcms]
+Tarja-san and I burst out from the underground passage to the surface.[pcms]
 
 ;//#_ホワイトアウト
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
 
 *4014|
 [fc]
-暗い地下から、明るい日差しの下へいきなり出たことで[r]
-目が眩んでしまう。[pcms]
+Dazzled by the sudden shift from the dark underground to the bright[r]
+sunlight above, our eyes were blinded.[pcms]
 
 ;//★bg07d 旧日本軍砲台跡（Ｂ）・朝昼
 [bg storage="BG07d"][trans_c cross time=1000]
 
 *4015|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あぁ～がきだあ゛ぁ～ふたり゛も゛いる゛ぞおぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Aaah~ there are two brats here~"[pcms]
 
 *4016|
 [fc]
-[ns]感染者Ｂ[nse]
-「だべるのも゛いいげど～、お゛まんごずるのも゛い゛いなぁ～」[pcms]
+[ns]Infected Person B[nse]
+"It's nice to chat~, but it's also nice to play with pussy~"[pcms]
 
 ;//立ち無し
 
 *4017|
 [fc]
-しかし、地上にはすでに多数の感染者がうろうろしていた。[pcms]
+However, there were already many infected wandering around on the[r]
+surface.[pcms]
 
 *4018|
 [fc]
-僕たちの姿を見て、感染者たちが近づいてくる。[pcms]
+Seeing us, the infected started to approach.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -2268,55 +2248,52 @@
 *4019|
 [fc]
 [vo_aka s="akari_tj0284"]
-[ns]茜梨[nse]
-「あ゛ぁ～、ま゛ーくんせん゛ぱいだあ゛ぁ～。[r]
-　やっ゛どみづげだ～♪」[pcms]
+[ns]Akari[nse]
+"Aah~, it's Mak-kun senpai. You're finally back~♪"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che_kan1"][ChrSetXY layer=5 x=240 y=0][trans_c cross time=150]
 
 *4020|
 [fc]
-[ns]誠[nse]
-「越智さん……！？」[pcms]
+[ns]Makoto[nse]
+"Ochi-san...!?"[pcms]
 
 *4021|
 [fc]
-砲台跡をうろうろしている感染者の一団の中に、[r]
-越智さんの姿があるのを見て、僕は驚いてしまった。[pcms]
+Surprised to see Ochi-san among a group of infected wandering around[r]
+the artillery ruins, I couldn't help but be shocked.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4022|
 [fc]
 [vo_tay s="taja_tj0078"]
-[ns]ターヤ[nse]
-「越智さんって、中澤君が言ってた……？」[pcms]
+[ns]Tarja[nse]
+"Is Ochi-san the one Nakazawa-kun mentioned...?"[pcms]
 
 *4023|
 [fc]
-[ns]誠[nse]
-「う、うん……」[pcms]
+[ns]Makoto[nse]
+"Yeah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4024|
 [fc]
-越智さんがここにいるってことは、ひょっとして[r]
-この感染者の一団は、僕がここに連れてきてしまったのかも[r]
-知れないってことだろうか……？[pcms]
+Could it be that this group of infected was brought here by me...?[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4025|
 [fc]
 [vo_tay s="taja_tj0079"]
-[ns]ターヤ[nse]
-「中澤君、このままじゃまずい。逃げよう！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nakazawa-kun, this is bad. We need to escape!"[pcms]
 
 *4026|
 [fc]
-[ns]誠[nse]
-「で、でも……逃げるったって、どこへ？」[pcms]
+[ns]Makoto[nse]
+"But... even if we run, where to?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -2330,15 +2307,15 @@
 ;	[link target=*run_through]このまま強行突破[endlink]
 ;	[link target=*hideaway]一旦、近くの建物に逃げ込もう[endlink]
 ;	[link target=*goto_underground]地下に戻ろう[endlink]
-;	[s]
+;[pcms]
 
 *SEL26|このまま強行突破／一旦、近くの建物に逃げ込もう／地下に戻ろう
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'このまま強行突破'"]
-[eval exp="f.seltext04 = '一旦、近くの建物に逃げ込もう'"]
-[eval exp="f.seltext06 = '地下に戻ろう'"]
+[eval exp="f.seltext02 = 'Force our way through'"]
+[eval exp="f.seltext04 = 'Let\'s take refuge in a nearby building for now'"]
+[eval exp="f.seltext06 = 'Let\'s go back underground'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -2385,16 +2362,16 @@
 
 *4027|
 [fc]
-[ns]誠[nse]
-「このまま強行突破しよう。行くよ！」[pcms]
+[ns]Makoto[nse]
+"We'll have to break through. Let's go!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4028|
 [fc]
 [vo_tay s="taja_tj0080"]
-[ns]ターヤ[nse]
-「う、うん！」[pcms]
+[ns]Tarja[nse]
+"Uh, okay!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -2403,15 +2380,14 @@
 
 *4029|
 [fc]
-僕とターヤさんは、近づいてくる感染者の集団に[r]
-突っ込んでいった。[pcms]
+Tarja and I charged into the group of approaching infected.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan2_x"][ChrSetXY layer=5 x=260 y=0][trans_c cross time=150]
 
 *4030|
 [fc]
-[ns]感染者Ａ[nse]
-「までぇ～ごらあ゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Madaa~ goraaa~"[pcms]
 
 [se buf=0 storage="seB008"]
 ;//♪SE人間を殴る音２(痛そう)
@@ -2423,24 +2399,25 @@
 
 *4031|
 [fc]
-感染者の横をすり抜けざまに、顔面に金属バットを叩き込む。[pcms]
+As I slipped past an infected person, I slammed a metal bat into their[r]
+face.[pcms]
 
 *4032|
 [fc]
-[ns]感染者Ａ[nse]
-「ぐべえぇっ！」[pcms]
+[ns]Infected Person A[nse]
+"Gubeeeh!"[pcms]
 
 *4033|
 [fc]
-感染者が倒れるかどうかまで、確認する余裕はない。[r]
-そのまま一気に走り抜ける。[pcms]
+There was no time to check if the infected person fell or not. I just[r]
+kept running through.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=0][trans_c cross time=150]
 
 *4034|
 [fc]
-[ns]感染者Ｂ[nse]
-「おおおぉぉぉ～お゛んな゛ああ゛ぁぁ～や゛らぜろ゛お゛ぉ～」[pcms]
+[ns]Infected Person B[nse]
+"Oooooh~ onnaaaah~ yarazerooo~"[pcms]
 
 [se buf=0 storage="seB010"]
 ;//♪SE打撃音
@@ -2453,34 +2430,34 @@
 *4035|
 [fc]
 [vo_tay s="taja_tj0081"]
-[ns]ターヤ[nse]
-「えいっ！！」[pcms]
+[ns]Tarja[nse]
+"Ei!"[pcms]
 
 *4036|
 [fc]
-ターヤさんが手にした鉄パイプの直撃を脛に受けて、[r]
-両足の骨が折れた感染者が、そのまますっ転んだ。[pcms]
+The infected person who took a direct hit from the iron pipe Tarja was[r]
+holding in the shin, fell over with both legs broken.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_che_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4037|
 [fc]
 [vo_aka s="akari_tj0285"]
-[ns]茜梨[nse]
-「う゛ふふふぅ゛～ながざわ゛ぜんばい゛だあ゛あぁ～♪」[pcms]
+[ns]Akari[nse]
+"Uvfufufuu~ Nakazawa zenbai daaa~♪"[pcms]
 
 *4038|
 [fc]
-僕の行く手に感染した越智さんが立ち塞がる。[pcms]
+The infected Ochi-san stood blocking my way.[pcms]
 
 *4039|
 [fc]
-[ns]誠[nse]
-「越智さん、ごめんっ！！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, I'm sorry!!"[pcms]
 
 *4040|
 [fc]
-僕は躊躇なく、越智さんの両胸を思い切り両手で突き飛ばした。[pcms]
+I didn't hesitate and pushed Ochi-san's chest hard with both hands.[pcms]
 
 [se buf=0 storage="seB014"]
 ;//♪SE人が倒れる
@@ -2492,129 +2469,124 @@
 *4041|
 [fc]
 [vo_aka s="akari_tj0286"]
-[ns]茜梨[nse]
-「きゃああぁっ～」[pcms]
+[ns]Akari[nse]
+"Kyaaah~"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4042|
 [fc]
-間延びした悲鳴を上げて、越智さんが後ろに[r]
-もんどり打って倒れた。[pcms]
+Ochi-san fell backward with a prolonged scream.[pcms]
 
 *4043|
 [fc]
-越智さんは倒れたまま、なかなか起き上がれずに[r]
-手足をじたばたとさせてもがいている。[pcms]
+Ochi-san lay there, struggling to get up, flailing her limbs[r]
+helplessly.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_che_kan2"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4044|
 [fc]
 [vo_aka s="akari_tj0287"]
-[ns]茜梨[nse]
-「も゛おぉ゛～な゛にずるん゛でずがぁ゛～[r]
-　な゛がざわ゛ぜん゛ばいぃ゛～ひどい゛ぃ～」[pcms]
+[ns]Akari[nse]
+"Mooo~ nani zurun dezagaaa~ Nakazawa zenbaii~ hidoii~"[pcms]
 
 *4045|
 [fc]
-地面で手足をばたばたさせながら、起き上がれずにもがいている[r]
-越智さんの姿は、なんだか昆虫を連想させられて、[r]
-気分が悪くなった。[pcms]
+The sight of Ochi-san struggling on the ground, unable to get up and[r]
+flailing her limbs, reminded me of an insect, and it made me feel[r]
+sick.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4046|
 [fc]
-[ns]誠[nse]
-「さよなら……越智さん……！」[pcms]
+[ns]Makoto[nse]
+"Goodbye... Ochi-san...!"[pcms]
 
 *4047|
 [fc]
-この瞬間に、僕の中での越智さんは死んだ。[pcms]
+At that moment, Ochi-san died in my heart.[pcms]
 
 *4048|
 [fc]
-後ろを振り返らずに、僕は先を急いで行く。[pcms]
+Without looking back, I hurried on.[pcms]
 
 *4049|
 [fc]
-その後も、次から次へと襲いかかってくる感染者たちを[r]
-殴ったり突き飛ばしたりかわしたりしながら、僕とターヤさんは[r]
-砲台跡の出口を目指して進んでいた。[pcms]
+We continued to fight off the infected that kept coming at us,[r]
+punching, pushing, and dodging as Tarja and I headed for the exit of[r]
+the artillery ruins.[pcms]
 
 *4050|
 [fc]
-ようやく、砲台跡の出口が見えてきた時。[pcms]
+Finally, when the exit of the artillery ruins came into view.[pcms]
 
 *4051|
 [fc]
 [vo_tay s="taja_tj0082"]
-[ns]ターヤ[nse]
-「きゃっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Kyah!!"[pcms]
 
 ;//立ち無し
 
 *4052|
 [fc]
-僕の背後でターヤさんの悲鳴が聞こえた。[pcms]
+I heard Tarja's scream from behind me.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4053|
 [fc]
-振り返ると、ターヤさんが倒れていた。[r]
-つまずいて転んでしまったらしい。[pcms]
+When I turned around, Tarja had fallen. It seemed she had tripped and[r]
+tumbled over.[pcms]
 
 *4054|
 [fc]
-そして、倒れたターヤさんの背後から、[r]
-ひとりの感染者が近づいてきてくる。[pcms]
+And from behind the fallen Tarja, an infected person was approaching.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *4055|
 [fc]
-[ns]感染者Ｃ[nse]
-「お゛ぉ゛～、ぱつきん゛だあ゛ぁ゛～[r]
-　ぱつきん゛の゛お゛まん゛こだあ゛ぁ～」[pcms]
+[ns]Infected Person C[nse]
+"Oooh~, patsukin daaah~ patsukin's pussy daaah~"[pcms]
 
 *4056|
 [fc]
-[ns]誠[nse]
-「ターヤっ！！」[pcms]
+[ns]Makoto[nse]
+"Tarja!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta19"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4057|
 [fc]
 [vo_tay s="taja_tj0083"]
-[ns]ターヤ[nse]
-「来ちゃ駄目っ！　中澤君っ、逃げてっ！！」[pcms]
+[ns]Tarja[nse]
+"Don't come! Nakazawa-kun, run!!"[pcms]
 
 *4058|
 [fc]
-僕はとっさに、ターヤさんに駆け寄ると叫んだ。[pcms]
+I shouted as I rushed towards Tarja.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4059|
 [fc]
-[ns]誠[nse]
-「おいっ！　こっちだっ！！」[pcms]
+[ns]Makoto[nse]
+"Hey! Over here!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *4060|
 [fc]
-僕に気がついた感染者が、頭をゆっくりと上げる。[pcms]
+The infected person noticed me and slowly raised their head.[pcms]
 
 *4061|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛～、な゛んだぁ゛がきかあ゛ぁ。[r]
-　お゛まん゛こがお゛わ゛ったら゛くっ゛てやっ゛から゛、[r]
-　そこでま゛っ゛てろ゛お゛ぉ゛～」[pcms]
+[ns]Infected Person C[nse]
+"Aah~, what's this kid. Once I'm done with the pussy, I'll come eat[r]
+you, so just wait there oooh~"[pcms]
 
 [se buf=0 storage="seB033"]
 ;//♪SE頭に鉄パイプがぶつかる音
@@ -2627,18 +2599,18 @@
 
 *4062|
 [fc]
-僕は、感染者の顎目がけて下からフルスイングで[r]
-金属バットをお見舞いした。[pcms]
+I swung the metal bat from below aiming for the infected person's chin[r]
+with a full swing.[pcms]
 
 *4063|
 [fc]
-[ns]感染者Ｃ[nse]
-「がぺえぇぉっ！！」[pcms]
+[ns]Infected Person C[nse]
+"Gapeeoh!!"[pcms]
 
 *4064|
 [fc]
-顎の骨がぐしゃぐしゃに骨折する嫌な感触が[r]
-バットを握った手に伝わってきた。[pcms]
+The unpleasant sensation of the chin bone shattering transmitted[r]
+through my hand holding the bat.[pcms]
 
 [se buf=0 storage="seB013"]
 ;//♪SE人が倒れる
@@ -2647,58 +2619,56 @@
 
 *4065|
 [fc]
-顔の下半分を金属バットの形に丸くへこませて、ターヤさんに[r]
-襲いかかろうとしていた感染者が、後ろにぶっ倒れた。[pcms]
+The infected person, whose lower half of the face was dented into the[r]
+shape of a metal bat, fell backwards after trying to attack Tarja.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4066|
 [fc]
 [vo_tay s="taja_tj0084"]
-[ns]ターヤ[nse]
-「あ、ありがとう、中澤君……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah, thank you, Nakazawa-kun..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4067|
 [fc]
-僕はターヤさんに手を差し出した。ターヤさんがその手を取って[r]
-立ち上がる。[pcms]
+I offered my hand to Tarja. She took it and stood up.[pcms]
 
 *4068|
 [fc]
-[ns]誠[nse]
-「もう……知ってる人をこれ以上亡くすのはうんざりなんだ。[r]
-　お願いだから、逃げろ……とか言わないで。二度と」[pcms]
+[ns]Makoto[nse]
+"I'm sick of losing people I know... Please don't tell me to run[r]
+away... Not again."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4069|
 [fc]
 [vo_tay s="taja_tj0085"]
-[ns]ターヤ[nse]
-「うん、分かった……ごめんなさい」[pcms]
+[ns]Tarja[nse]
+"Yes, I understand... I'm sorry."[pcms]
 
 *4070|
 [fc]
-[ns]誠[nse]
-「足は大丈夫？　走れる？」[pcms]
+[ns]Makoto[nse]
+"Are your legs okay? Can you run?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4071|
 [fc]
 [vo_tay s="taja_tj0086"]
-[ns]ターヤ[nse]
-「うん。平気。転んだだけだから」[pcms]
+[ns]Tarja[nse]
+"Yes. I'm fine. I just fell over."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *4072|
 [fc]
-僕たちは手に手を取って、そのまま森の中へと[r]
-駆け込んでいった。[pcms]
+We took each other's hands and ran into the forest.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -2715,27 +2685,27 @@
 
 *4073|
 [fc]
-[ns]誠[nse]
-「ヤバイっ！　とりあえず、いったんどこかに隠れよう！[r]
-　ターヤさん、どこか知らない！？」[pcms]
+[ns]Makoto[nse]
+"This is bad! Let's hide somewhere for now! Tarja, do you know a[r]
+place?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4074|
 [fc]
 [vo_tay s="taja_tj0087"]
-[ns]ターヤ[nse]
-「え、ええっと……あ、この近くにたしか[r]
-　村の集会場として使ってる建物があったはず」[pcms]
+[ns]Tarja[nse]
+"Uh, let's see... Ah, there should be a building nearby that's used as[r]
+a village hall."[pcms]
 
 *4075|
 [fc]
-[ns]誠[nse]
-「よし、そこへ逃げ込もう！　案内して！」[pcms]
+[ns]Makoto[nse]
+"Alright, let's head there! Lead the way!"[pcms]
 
 *4076|
 [fc]
-ターヤさんに先導してもらい、僕たちは村の集会場へと急いだ。[pcms]
+Guided by Tarja, we hurried towards the village hall.[pcms]
 
 [se buf=0 storage="seA052"]
 ;//♪SE複数人の走る足音
@@ -2748,30 +2718,30 @@
 
 *4077|
 [fc]
-程なくして、僕とターヤさんは村の集会場の前まで辿り着いた。[pcms]
+Before long, Tarja and I arrived in front of the village hall.[pcms]
 
 *4078|
 [fc]
-集会場って言うから、もう少し立派な建物を想像してたけど[r]
-考えてみれば『村』のレベルだと、この程度のしょぼさが[r]
-順当なのかも知れない。[pcms]
+I had imagined a more impressive building when they said "hall," but[r]
+thinking about it, this level of simplicity might be appropriate for a[r]
+"village."[pcms]
 
 *4079|
 [fc]
-[ns]誠[nse]
-「扉は……開いてるのかな？」[pcms]
+[ns]Makoto[nse]
+"Is the door... open?"[pcms]
 
 *4080|
 [fc]
-何の気なしに、僕は集会場の扉に手をかけた。[pcms]
+Without thinking much about it, I put my hand on the door of the hall.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4081|
 [fc]
 [vo_tay s="taja_tj0088"]
-[ns]ターヤ[nse]
-「あ、中澤君、気をつ……」[pcms]
+[ns]Tarja[nse]
+"Ah, Nakazawa-kun, be caref..."[pcms]
 
 [quake_bg xy m]
 
@@ -2780,9 +2750,8 @@
 
 *4082|
 [fc]
-ターヤさんが『気をつけて』と言いかけた途中で、[r]
-扉が内側から勢いよく開き、誰かが[r]
-飛び出してきて僕を押し倒した。[pcms]
+Before Tarja could finish saying "be careful," the door was forcefully[r]
+opened from the inside, and someone burst out, knocking me over.[pcms]
 
 ;//★village03 集会所外・朝昼
 [bg storage="village03a"][trans_c cross time=500]
@@ -2791,13 +2760,13 @@
 *4083|
 [fc]
 [vo_stk s="satuki_tj0124"]
-[ns]彩月[nse]
-「あ゛はははぁ゛あ゛はははははっ゛！[r]
-　な゛がざわ゛くん゛っ、み゛ぃつけたあ゛っ！！」[pcms]
+[ns]Satsuki[nse]
+"Ahahaha! Nakazawa-kun, I found you!!"[pcms]
 
 *4084|
 [fc]
-僕を押し倒したのは、真っ赤な水着を着た南先輩だった。[pcms]
+The one who knocked me down was senior Minami, wearing a bright red[r]
+swimsuit.[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x"][ChrSetXY layer=3 x=-60 y=0]
 [ChrSetEx layer=5 chbase="mob_kan2_x"][ChrSetXY layer=5 x=260 y=0]
@@ -2805,8 +2774,8 @@
 
 *4085|
 [fc]
-そして、その後ろから、大勢の感染者がどっと吐き出されて[r]
-ターヤさんに襲いかかる。[pcms]
+And then, a large number of infected people poured out from behind her[r]
+and attacked Tarja.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -2814,45 +2783,44 @@
 *4086|
 [fc]
 [vo_tay s="taja_tj0089"]
-[ns]ターヤ[nse]
-「いやあぁっ！　きゃあああぁああぁっ！！」[pcms]
+[ns]Tarja[nse]
+"No! Kyaaaah!!"[pcms]
 
 *4087|
 [fc]
-[ns]誠[nse]
-「ターヤさんっ！　ターヤさんっっ！！！」[pcms]
+[ns]Makoto[nse]
+"Tarja-san! Tarja-san!!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw1_kan2"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4088|
 [fc]
 [vo_stk s="satuki_tj0125"]
-[ns]彩月[nse]
-「も゛おぉ～、わ゛たしがい゛る゛のに゛ぃ～、[r]
-　ほかの゛お゛んなの゛な゛まえ゛を゛よぶなんてえ゛ぇ～[r]
-　でり゛かし～の゛な゛い゛やつね゛」[pcms]
+[ns]Satsuki[nse]
+"Moo~ even though I'm here~, calling another woman's name~ you're such[r]
+an insensitive guy~"[pcms]
 
 ;//m:修正
 
 *4088a|
 [fc]
-どこか怒ったような口調で感染した南先輩がそう言って[r]
-赤い瞳をぎらりと光らせた。[pcms]
+Infected senior Minami said this in an angry tone, her red eyes[r]
+glaring fiercely.[pcms]
 
 *4089|
 [fc]
-動きや口調は、完全に感染者の“それ”だ。[pcms]
+Their movements and tone were completely that of an infected person.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw1_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4090|
 [fc]
-南先輩がにやりと笑うと、僕のズボンに手をかけた。[pcms]
+Senior Minami grinned and reached for my pants.[pcms]
 
 *4091|
 [fc]
-[ns]誠[nse]
-「あっ……駄目っ、南先輩っ、やめて、やめてくださいっ！！」[pcms]
+[ns]Makoto[nse]
+"Ah... no good, senior Minami, stop, please stop!!"[pcms]
 
 ;//　　→*ターヤルート_3000M_makoto_Hへジャンプ
 ;//ブロック3142_makoto_Hへjump
@@ -2868,27 +2836,28 @@
 
 *4092|
 [fc]
-[ns]誠[nse]
-「地上は感染者が多すぎて駄目だ！　いったん地下に戻ろう！」[pcms]
+[ns]Makoto[nse]
+"The surface is too dangerous with so many infected! Let's go back[r]
+underground for now!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4093|
 [fc]
 [vo_tay s="taja_tj0090"]
-[ns]ターヤ[nse]
-「うん！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yes!"[pcms]
 
 *4094|
 [fc]
-感染者の数が多すぎる。ここはいったん地下に戻って、[r]
-ターヤさんの言っていた、地下通路を利用するのが[r]
-得策だろう。[pcms]
+There were too many infected people. It would be wise to go back[r]
+underground for now and use the underground passage that Tarja[r]
+mentioned.[pcms]
 
 *4095|
 [fc]
-僕たちはいま出てきたばかりの地下通路に、[r]
-急いで舞い戻った。[pcms]
+We quickly returned to the underground passage we had just emerged[r]
+from.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -2905,69 +2874,67 @@
 
 *4096|
 [fc]
-[ns]誠[nse]
-「外にあれだけ感染者がいたことを考えると、ここにも[r]
-　まもなく感染者がやってくるに違いない」[pcms]
+[ns]Makoto[nse]
+"Considering how many infected there were outside, they'll surely come[r]
+here soon."[pcms]
 
 *4097|
 [fc]
-[ns]誠[nse]
-「ターヤさんが言ってた、地下通路を通って、[r]
-　いったん別の場所へ出るのが……」[pcms]
+[ns]Makoto[nse]
+"We should use the underground passage Tarja mentioned to get to[r]
+another place for now..."[pcms]
 
 *4098|
 [fc]
-ＬＥＤランタンで前方を照らしながら喋っていた僕の台詞は、[r]
-行く手に見覚えのあるシルエットが現れたのを見て、[r]
-途中で途切れてしまった。[pcms]
+My words were cut off mid-sentence as I spoke while illuminating the[r]
+path ahead with an LED lantern when I saw a familiar silhouette appear[r]
+before us.[pcms]
 
 *4099|
 [fc]
 [vo_nat s="natu_tj0164"]
-[ns]夏都[nse]
-「いよ゛お゛ぉ～、ま゛ことお゛ぉ～。[r]
-　お゛たくの゛くせに゛～あ゛いかわ゛らず[r]
-　お゛さかん゛だな゛あ゛ぁ～」[pcms]
+[ns]Natsu[nse]
+"Yoohoo~ Makoto~. You're still so lively despite being a nerd~"[pcms]
 
 *4100|
 [fc]
-[ns]誠[nse]
-「う、嘘……だろ……姉……ちゃん………」[pcms]
+[ns]Makoto[nse]
+"No... it can't be... sister..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_kan_x"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4101|
 [fc]
-地下通路の行く手に現れたのは、[r]
-全身傷だらけで、ぼろぼろになった姉ちゃんだった。[pcms]
+The figure that appeared in the underground passage was my sister,[r]
+covered in wounds and tattered clothes.[pcms]
 
 *4102|
 [fc]
 [vo_nat s="natu_tj0165"]
-[ns]夏都[nse]
-「あははぁ゛さがしたぜぇ゛～ま゛ごど～。[r]
-　オ゛レとお゛まん゛こしよ゛う゛ぜぇ゛～」[pcms]
+[ns]Natsu[nse]
+"Ahaha! I've been looking for you, little brother~. Let's have some[r]
+fun with your pussy~"[pcms]
 
 *4103|
 [fc]
-ＬＥＤランタンの明かりに照らされた姉ちゃんの瞳は、[r]
-血の色みたいに真っ赤に染まっている。[pcms]
+The eyes of my sister, illuminated by the LED lantern light, were dyed[r]
+blood red.[pcms]
 
 *4104|
 [fc]
-姉ちゃんが、感染してしまった……。[pcms]
+Sister has been infected...[pcms]
 
 ;//僕はそのショックに固まってしまい、その場に立ち竦んでしまう。
 
 ;//m:このままの流れで3142_makoto_Hに合流すると背景が外と地下道で整合性取れないので外に出てもらう
 
 ;//[vo_tay s="taja_tj0091"]
-;//[ns]ターヤ[nse]
+[ns]Tarja Pohjonen[nse]
 ;//「きゃーーーーーっ！！」
 
 ;//僕の背後でターヤさんの悲鳴が響き、僕ははっと我に返った。
 
-;//[ns]誠[nse]
+[ns]Makoto[nse]
 ;//「ターヤさんっ！　ここももう駄目だ！
 ;//　どこか他の出口を……」
 
@@ -2978,31 +2945,31 @@
 
 *4104a|
 [fc]
-[ns]誠[nse]
-「くっ……姉ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Damn... sister..."[pcms]
 
 *4105|
 [fc]
-色々な思いが頭の中を駆け巡りかけたけど、[r]
-それは、今は封じ込めないといけないんだ！[pcms]
+Various thoughts began to race through my mind, but I knew I had to[r]
+suppress them for now![pcms]
 
 *4106|
 [fc]
-僕は自分の体を動かす事だけに意識を集中し、[r]
-ターヤさんの手を握り、来た方向へ反転した。[pcms]
+I focused my consciousness solely on moving my body, grabbed Tarja-[r]
+san's hand, and turned back the way we came.[pcms]
 
 *4107|
 [fc]
-[ns]誠[nse]
-「ターヤさん、中もダメだ！　早く、外に！！」[pcms]
+[ns]Makoto[nse]
+"Tarja-san, it's no good inside either! Quickly, outside!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4108|
 [fc]
 [vo_tay s="taja_tj0059"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Okay..."[pcms]
 
 [se buf=0 storage="seA052" loop=true]
 ;//♪SE複数人の走る足音
@@ -3012,12 +2979,12 @@
 
 *4109|
 [fc]
-このまま元の出入り口から外に戻ると、[r]
-まだ越智さんや感染者達が、そこらにいるはずだ。[pcms]
+If we go back outside through the original entrance, Ochi-san and the[r]
+other infected should still be around there.[pcms]
 
 *4110|
 [fc]
-別の逃げ道を探さないと……。[pcms]
+We need to find another way to escape...[pcms]
 
 ;//★cave01e 地下壕 出口付近
 [bg storage="cave01e"][trans_c cross time=500]
@@ -3033,7 +3000,7 @@
 
 *4111|
 [fc]
-元の砲台跡に辿り着いた瞬間――[pcms]
+The moment we reached the original fort ruins--[pcms]
 
 [se buf=0 storage="seB007"]
 ;//♪SE人間を殴る音
@@ -3048,8 +3015,8 @@
 
 *4112|
 [fc]
-僕の真横から何かがぶつかり、そのぶつかってきたモノと[r]
-一緒に地面に倒れ込んだ。[pcms]
+Something hit me from the side, and I fell to the ground along with[r]
+whatever it was that collided with me.[pcms]
 
 ;//★bg07d 旧日本軍砲台跡（Ｂ）・朝昼
 [bg storage="BG07d"][trans_c cross time=500]
@@ -3057,29 +3024,29 @@
 
 *4113|
 [fc]
-衝撃に眩む目を何とか開き、僕の体の上を見上げると、[r]
-それは南先輩だった。[pcms]
+Struggling to open my dazed eyes, I looked up over my body to see that[r]
+it was Satsuki-senpai.[pcms]
 
 ;//m:テキスト追加この辺まで。以降は微修正
 
 *4114|
 [fc]
-[ns]誠[nse]
-「うっ、うわっ！」[pcms]
+[ns]Makoto[nse]
+"Ugh, wow!"[pcms]
 
 ;//突然のことに驚いた僕は、その場にぺたんと尻餅をついてしまう。
 
 *4115|
 [fc]
-ただし、既に僕の知っている南先輩ではなく……。[pcms]
+However, it was no longer the Satsuki-senpai I knew...[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw1_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4116|
 [fc]
 [vo_stk s="satuki_tj0126"]
-[ns]彩月[nse]
-「に゛がさな゛い゛わ゛よぉ～な゛がざわ゛く～ん♪」[pcms]
+[ns]Satsuki[nse]
+"I won't let you escape~ Nakazawa-kun♪"[pcms]
 
 ;//そう言って、南先輩がいきなり僕にのしかかってきた。
 
@@ -3089,38 +3056,38 @@
 
 *4117|
 [fc]
-[ns]誠[nse]
-「南……先輩まで……」[pcms]
+[ns]Makoto[nse]
+"Satsuki-senpai too..."[pcms]
 
 *4118|
 [fc]
 [vo_tay s="taja_tj0351"]
-[ns]ターヤ[nse]
-「きゃあっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Kyaa!!"[pcms]
 
 *4119|
 [fc]
-[ns]誠[nse]
-「ターヤさんっ！」[pcms]
+[ns]Makoto[nse]
+"Tarja-san!"[pcms]
 
 *4120|
 [fc]
-ターヤさんは男たちに押し倒されると、[r]
-悲鳴を残しながら人だかりの中に消えてしまう。[pcms]
+Tarja-san was pushed down by men and disappeared into the crowd with a[r]
+scream.[pcms]
 
 *4121|
 [fc]
-早く助けないと……っ！[pcms]
+I have to help her quickly...![pcms]
 
 *4122|
 [fc]
-狼狽する僕を尻目に、赤い水着に赤い瞳の南先輩が、[r]
-にやりと笑って僕のズボンに手をかけた。[pcms]
+Ignoring my panic, Satsuki-senpai with her red swimsuit and red eyes,[r]
+grinned and reached for my pants.[pcms]
 
 *4123|
 [fc]
-[ns]誠[nse]
-「みっ、南先輩っ！　やめ……やめてくださいっ！！」[pcms]
+[ns]Makoto[nse]
+"Sa-Satsuki-senpai! Stop... please stop!!"[pcms]
 
 ;//　　→*ターヤルート_3000M_makoto_Hへジャンプ
 ;//ブロック3142_makoto_Hへjump

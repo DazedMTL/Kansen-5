@@ -44,90 +44,89 @@
 
 *1|
 [fc]
-かつて、ここは軍の砲台が置かれ、広い海に睨みを効かせていた。[pcms]
+Once, this place was home to a military battery, casting a watchful[r]
+eye over the vast sea.[pcms]
 
 *2|
 [fc]
-しかし今、この平和な時代においては、[r]
-ただの観光地の一つとなってしまっている。[pcms]
+But now, in this peaceful era, it has become just one of many tourist[r]
+spots.[pcms]
 
 [bg storage="sky05A"][trans_c cross time=2000]
 
 *3|
 [fc]
-外敵からの番人の名残が広大な海を睨み続ける中、[r]
-当時と同じように太陽が顔を覗かせ、[r]
-空や、周囲の木々を薄桃色に染めていく。[pcms]
+While remnants of the sentinels from foreign threats continue to glare[r]
+across the vast sea, the sun peeks out just as it did back then,[r]
+tinting the sky and surrounding trees a pale pink.[pcms]
 
 *4|
 [fc]
-その薄桃色の、弱い光の中に、[r]
-一台の黒い車が、水蒸気で白く染まった排気煙を上げ、[r]
-停車していた。[pcms]
+In that pale pink, faint light, a black car sat parked, emitting white[r]
+steam from its exhaust.[pcms]
 
 *5|
 [fc]
-車内に座る恰幅の良い男が、腕時計を見つめる。[r]
-それなりの値段がしたであろう、その時計の針は、[r]
-午前五時にほど近い位置を指し示していた。[pcms]
+A portly man seated inside the car stared at his wristwatch. The hands[r]
+of the watch, which must have been quite expensive, were pointing to a[r]
+position near five in the morning.[pcms]
 
 *6|
 [fc]
-時計を見た男は、運転席と助手席に座る金髪碧眼の男女に、[r]
-ルームミラー越しに話しかけた。[pcms]
+The man who looked at his watch spoke to a blond-haired, blue-eyed man[r]
+and woman seated in the driver's and passenger's seats through the[r]
+rearview mirror.[pcms]
 
 [bg storage="BG07c"][trans_c cross time=2000]
 
 *7|
 [fc]
-[ns]恰幅の良い男[nse]
-「太平洋にある島……そこに、実験施設がある。[r]
-　それは、おそらくこの近くだ……[r]
-　という事までは把握出来ているが……」[pcms]
+[ns]A portly man[nse]
+"An island in the Pacific... there's a research facility there. I've[r]
+managed to ascertain that it's probably nearby..."[pcms]
 
 *8|
 [fc]
-[ns]恰幅の良い男[nse]
-「春先の“アレ”は、失敗だった……あと少しで“アレ”を[r]
-　手に入れることが出来たというのに。[r]
-　まあ、あの連中が焦りすぎたせいではあるが……」[pcms]
+[ns]A portly man[nse]
+"The early spring 'incident' was a failure... we were so close to[r]
+getting 'it'. Well, it was because those guys were too hasty..."[pcms]
 
 *9|
 [fc]
-[ns]恰幅の良い男[nse]
-「とはいえ、勉強になった。それに、今は心強い味方が出来た。[r]
-　出て行くものも多かったが、得られたモノも大きい……。[r]
-　そして今日、その成果を見ることが出来る」[pcms]
+[ns]A portly man[nse]
+"Nevertheless, it was a learning experience. Plus, now we have some[r]
+strong allies. Many have left, but what we've gained is significant...[r]
+And today, we can see the fruits of our labor."[pcms]
 
 *10|
 [fc]
-ルームミラーに映る、後部座席の男に、[r]
-運転席に座る男の青い瞳が向けられる。[pcms]
+The blue eyes of the man in the driver's seat turned towards the man[r]
+reflected in the rearview mirror.[pcms]
 
 [black_toplayer][trans_c cross time=150][hide_chara_int]
 [evcg storage="mob_N002a"][trans_c cross time=150]
 
 *11|
 [fc]
-[ns]ヤンネ[nse]
-「『例の輸送船』ですか……？」[pcms]
+[ns]Yanne[nse]
+"The 'transport ship' in question...?"[pcms]
 
 *12|
 [fc]
-金髪碧眼の男は、たったそれだけを呟いた。[r]
-同じく金髪の女はじっと俯いたまま、[r]
-時折口に手を当て、何かを堪えていた。[pcms]
+The blond-haired, blue-eyed man muttered just that. The woman with[r]
+similarly blond hair remained silent, occasionally bringing her hand[r]
+to her mouth as if to suppress something.[pcms]
 
 *13|
 [fc]
-恰幅の良い男は、ミラーに映る青い瞳に、[r]
-自分の目を向けただけで、そのまま口を噤んだ。[pcms]
+The portly man simply directed his gaze into the blue eyes reflected[r]
+in the mirror and then fell silent.[pcms]
 
 *14|
 [fc]
-外気の振動全てを遮断した車内に、[r]
-ごく僅かなエンジンのノイズだけ響く中、[r]
-三人は、ただじっとシートに腰掛け、微動だにしなかった。[pcms]
+Inside the car, which blocked out all vibrations from the outside air,[r]
+only the faint noise of the engine resonated as the three of them sat[r]
+motionless in their seats.[pcms]
 
 [bg storage="BG07c"][trans_c cross time=150]
 
@@ -136,34 +135,33 @@
 
 *15|
 [fc]
-不意に、恰幅の良い男が、[r]
-カーウィンドウを下げるスイッチに手を掛けた。[pcms]
+Suddenly, the portly man reached for the switch to lower the car[r]
+window.[pcms]
 
 ;不要？[wait_c time=4000]
 ;//●_SE　車が近づく音
 
 *16|
 [fc]
-ウィンドウの下がるモーターの音と共に、[r]
-薄い唇が、小さく動く。[pcms]
+As the window motor sounded, his thin lips moved slightly.[pcms]
 
 *17|
 [fc]
-[ns]恰幅の良い男[nse]
-「来たか……」[pcms]
+[ns]A portly man[nse]
+"They've arrived..."[pcms]
 
 *18|
 [fc]
-男の呟きや、ウィンドウの下がる音をかき消し、[r]
-砂利を踏みならすタイヤの音が鳴り響く。[pcms]
+The man's murmur and the sound of the lowering window were drowned out[r]
+by the noise of tires crushing gravel.[pcms]
 
 [se buf=0 storage="seA027"]
 ;//♪SE自動車のドア開ける
 
 *19|
 [fc]
-[ns]ヤンネ[nse]
-「…………」[pcms]
+[ns]Yanne[nse]
+"..."[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
@@ -173,8 +171,8 @@
 
 *20|
 [fc]
-金髪の男は無言で車から外へ出ると、[r]
-後部座席のドアを開き、恰幅の良い男を外へと誘導した。[pcms]
+The blond-haired man silently got out of the car and opened the rear[r]
+door to usher the portly man out.[pcms]
 
 [se buf=1 storage="seA012"]
 ;//♪SEコテージのドアを開ける
@@ -185,289 +183,282 @@
 
 *21|
 [fc]
-黒い車が、ふわりと浮かび上がり、[r]
-ドアを閉めるくぐもった音が、二度連続する。[pcms]
+The black car seemed to float up slightly as two muffled sounds of[r]
+doors closing followed in succession.[pcms]
 
 *22|
 [fc]
-そして、三度目のドアの音と共に、[r]
-金髪の女の足が、砂利を踏みならした。[pcms]
+Then, with the third sound of a door closing, the blond woman's feet[r]
+pressed down on the gravel.[pcms]
 
 *23|
 [fc]
-金髪の男たちの車と逆方向――[pcms]
+In the opposite direction from where the blond men's car was parked--[pcms]
 
 *24|
 [fc]
-越智浦の方向からやってきた車の中からも、[r]
-二人の男が現れ、三人と合流した。[pcms]
+Two men emerged from a car that had come from the direction of Ochiura[r]
+and joined up with the three others.[pcms]
 
 *25|
 [fc]
-[ns]ヤンネ[nse]
-「貴方達が……」[pcms]
+[ns]Yanne[nse]
+"You guys are..."[pcms]
 
 *26|
 [fc]
-金色の髪をした男女は、二人組の男の前で、[r]
-四十五度の角度に頭を下げた。[pcms]
+The blond-haired man and woman bowed their heads at a forty-five-[r]
+degree angle in front of the pair of men.[pcms]
 
 *27|
 [fc]
-相対する二人の男は、[r]
-一瞬躊躇ったあと、同じように頭を下げた。[pcms]
+The two men facing them hesitated for a moment before bowing their[r]
+heads in kind.[pcms]
 
 *28|
 [fc]
-[ns]恰幅の良い男[nse]
-「挨拶は、そのくらいで。[r]
-　早速本題に入らせていただくが、よろしいか？」[pcms]
+[ns]A portly man[nse]
+"That's enough for greetings. Shall we get straight to the point[r]
+then?"[pcms]
 
 *29|
 [fc]
-低く、よく響く声を合図に、[r]
-四人は一斉に直立の状態に戻った。[pcms]
+At his deep, resonant voice, all four stood up straight at once.[pcms]
 
 *30|
 [fc]
-それを見届けた恰幅の良い男が、[r]
-全員を見回しながら、口を開く。[pcms]
+Having witnessed this, the portly man looked around at everyone before[r]
+speaking.[pcms]
 
 *31|
 [fc]
-[ns]恰幅の良い男[nse]
-「こちらが、ヤンネとエルマ。[r]
-　二人とも、私の良き理解者だ」[pcms]
+[ns]A portly man[nse]
+"These are Yanne and Elma. Both are my good confidants."[pcms]
 
 *32|
 [fc]
-紹介を受けた、金髪碧眼の男女は、[r]
-再び深々と頭を下げた。[pcms]
+The blond-haired, blue-eyed pair bowed deeply once again upon being[r]
+introduced.[pcms]
 
 *33|
 [fc]
-[ns]船医[nse]
-「ゲホッ……ごほっ……申し訳ない……。[r]
-　どうやら、夏風邪を引いてしまったらしくてね」[pcms]
+[ns]Ship's Doctor[nse]
+"Cough... excuse me... It seems I've caught a summer cold."[pcms]
 
 *34|
 [fc]
-[ns]主任[nse]
-「ゴホッ……私もなんだ。[r]
-　湾岸施設の冷房が強過ぎるんだ……。[r]
-　対処しないと、夏だというのに凍え死ぬかもしれんな」[pcms]
+[ns]Chief[nse]
+"Cough... Me too. The air conditioning at the bay facility is too[r]
+strong... We'll freeze to death in summer if we don't take care of[r]
+it."[pcms]
 
 *35|
 [fc]
-[ns]船医[nse]
-「すまんね、私たちは、あの輸送船に船医として乗り込んだ……、[r]
-　ゲホッ……医者の不養生ってヤツでね……ゲホッ！[r]
-　湾岸施設の、警備主任だ。よろしく」[pcms]
+[ns]Ship's Doctor[nse]
+"Sorry about that, we boarded that transport ship as ship doctors...[r]
+Cough... It's what you call a doctor's negligence... Cough! I'm in[r]
+charge of security at the bay facility. Nice to meet you."[pcms]
 
 *36|
 [fc]
-[ns]主任[nse]
-「ごほっ！　げほっ……よ、よろしく……」[pcms]
+[ns]Chief[nse]
+"Cough! Cough... Nice to meet you..."[pcms]
 
 *37|
 [fc]
-船医と、警備主任だと言う二人の男の目は、[r]
-ヤンネとエルマを、真っ直ぐに見据えている。[pcms]
+The eyes of the ship doctor and security chief claiming to be such[r]
+were fixed squarely on Yanne and Elma.[pcms]
 
 *38|
 [fc]
-金髪の二人は、対峙する二人の男の目に、[r]
-強い意志と、その奥深くにある金銭欲を見抜いていた。[pcms]
+The two blonds could see a strong will and underlying greed in the[r]
+eyes of the men they faced.[pcms]
 
 *39|
 [fc]
-何か確証があったわけでは無いが、[r]
-二人の動物的な直感が、そう心の中でささやいたのだ。[pcms]
+There was no concrete evidence, but their animalistic intuition[r]
+whispered so in their minds.[pcms]
 
 *40|
 [fc]
-だが、この場に集った五人には、[r]
-そんな事は重要ではなかった。[pcms]
+However, for the five people gathered here, such things were not[r]
+important.[pcms]
 
 *41|
 [fc]
-[ns]恰幅のいい男[nse]
-「さて、余談はこのくらいにして本題に入ろう。[r]
-　『積み荷』について、教えてもらおう」[pcms]
+[ns]A portly man[nse]
+"Now, let's set aside the small talk and get down to business. Tell me[r]
+about the 'cargo'."[pcms]
 
 *42|
 [fc]
-彼らの本来の目的は、『例の輸送船』の中のもの。[r]
-中の積み荷の情報だ。[pcms]
+Their true objective was the contents of "that transport ship."[r]
+Information about the cargo inside.[pcms]
 
 *43|
 [fc]
-[ns]船医[nse]
-「ちょっとしたトラブルはありましたが、[r]
-　お客さんの情報は……」[pcms]
+[ns]Ship's Doctor[nse]
+"There were some troubles, but the information about the clients[r]
+is..."[pcms]
 
 *44|
 [fc]
-[ns]主任[nse]
-「ええ、間違いなく、港湾施設に男女一人ずつ……。[r]
-　感染者のカップルって所ですか……」[pcms]
+[ns]Chief[nse]
+"Yes, without a doubt, one man and one woman at the port facility... A[r]
+couple of infected individuals, perhaps..."[pcms]
 
 *45|
 [fc]
-二人は真剣なまなざしのまま、交互に口を開いた。[r]
-しかしその言葉に対し、恰幅のいい男が声を荒げる。[pcms]
+The two spoke in turn with serious expressions. However, their words[r]
+caused the portly man to raise his voice.[pcms]
 
 *46|
 [fc]
-[ns]恰幅のいい男[nse]
-「……違う。[r]
-　『感染患者』だ……間違えるな」[pcms]
+[ns]A portly man[nse]
+"...No. They are 'infected patients'... Don't get it wrong."[pcms]
 
 *47|
 [fc]
-威圧感のある声を全身に受け、[r]
-船医と主任の体が縮み上がる。[pcms]
+The imposing voice hit them full force, causing the ship doctor and[r]
+chief to shrink back.[pcms]
 
 *48|
 [fc]
-[ns]主任[nse]
-「申し訳ありません」[pcms]
+[ns]Chief[nse]
+"I apologize."[pcms]
 
 *49|
 [fc]
-男は、三度頭を下げた。[r]
-しかし、恰幅の良い男は彼に目を向ける事なく言葉を続ける。[pcms]
+The man bowed three times. However, the portly man continued speaking[r]
+without looking at him.[pcms]
 
 *50|
 [fc]
-[ns]恰幅の良い男[nse]
-「で、今はどこに？」[pcms]
+[ns]A portly man[nse]
+"So, where are they now?"[pcms]
 
 *51|
 [fc]
-それまで黙って俯いていたエルマが顔を上げ、[r]
-彼の問いに答えようとした主任に、[r]
-二つ目の質問を投げかけた。[pcms]
+Elma, who had been silent and looking down until then, raised her face[r]
+to answer the man's question, but before she could, she threw a second[r]
+question at the chief.[pcms]
 
 *52|
 [fc]
 [vo_mob s="elma0001"]
-[ns]エルマ[nse]
-「その女性の名前は、分かりますか……？[r]
-　ライラ……ではありませんか？」[pcms]
+[ns]Elma[nse]
+"Do you know the name of that woman...? Isn't it Laila...?"[pcms]
 
 *53|
 [fc]
-二人から同時に質問され、船医と主任は戸惑いの表情を浮かべた。[pcms]
+Faced with simultaneous questions from two people, the ship doctor and[r]
+chief showed expressions of confusion.[pcms]
 
 *54|
 [fc]
-しかし一拍の間を置いて、[r]
-船医がその質問に対し、連続で答えていく。[pcms]
+However, after a moment's pause, the ship doctor began to answer the[r]
+questions in succession.[pcms]
 
 *55|
 [fc]
-[ns]船医[nse]
-「まず先に、簡単に答えられる方から。[r]
-　エルマ……さん、でしたね。[r]
-　その客……いや『感染患者』の名前まではわかりません」[pcms]
+[ns]Ship's Doctor[nse]
+"First, I'll answer the simpler question. Elma... was it? I don't know[r]
+the name of that client... no, 'infected patient'."[pcms]
 
 *56|
 [fc]
-[ns]船医[nse]
-「なので、それがライラ……さんかどうかまでは、[r]
-　さすがに分かりかねます。申し訳ありません」[pcms]
+[ns]Ship's Doctor[nse]
+"So I can't say for certain whether she is Laila... or not. I[r]
+apologize."[pcms]
 
 *57|
 [fc]
-船医の、淡々とした口調とは真逆に、[r]
-エルマの表情は一瞬にして曇り、[r]
-また、地面に目を向け、小さく口を開いた。[pcms]
+Contrary to the ship doctor's calm tone, Elma's expression clouded[r]
+over in an instant, and she looked down at the ground again, opening[r]
+her mouth slightly.[pcms]
 
 *58|
 [fc]
 [vo_mob s="elma0002"]
-[ns]エルマ[nse]
-「そうですか……ありがとうございます」[pcms]
+[ns]Elma[nse]
+"I see... thank you."[pcms]
 
 *59|
 [fc]
-[ns]船医[nse]
-「では次です。彼らは港を管理している『越智グループ』の、[r]
-　御曹司の一派に保護されています」[pcms]
+[ns]Ship's Doctor[nse]
+"Next then. They are being protected by a faction of the 'Ochi Group,'[r]
+who manage the port."[pcms]
 
 *60|
 [fc]
-[ns]主任[nse]
-「早ければ今日……遅くとも明日には、観光客に紛れ、[r]
-　島から連れ出すとの事でした。なんでも『ウィルスの情報』を[r]
-　ほしがっている国に売るだとか……」[pcms]
+[ns]Chief[nse]
+"If it's early, today... at the latest by tomorrow, they plan to sneak[r]
+them off the island amidst tourists. Apparently, they want to sell[r]
+'virus information' to a country that is eager for it..."[pcms]
 
 *61|
 [fc]
-[ns]恰幅のいい男[nse]
-「ふむ、不審船のニュース……。[r]
-　あれは『“越智グループ”』の関係か？」[pcms]
+[ns]A portly man[nse]
+"Hmm, news of a suspicious ship... Is that related to the 'Ochi[r]
+Group'?"[pcms]
 
 *62|
 [fc]
-恰幅の良い男の語尾が少し上がる。[r]
-おそらく、確証を持てないのだろう。[pcms]
+The end of the portly man's sentence rose slightly. He probably didn't[r]
+have concrete proof.[pcms]
 
 *63|
 [fc]
-[ns]恰幅のいい男[nse]
-「……もたもたしていられないな……日が昇る。[r]
-　支度は早いほうがいいだろう。そろそろ、現場へ向かうか」[pcms]
+[ns]A portly man[nse]
+"...We can't dawdle... day is breaking. It's better to prepare early.[r]
+It's about time we head to the scene."[pcms]
 
 *64|
 [fc]
-[ns]主任[nse]
-「分かりました。では、我々の車に乗ってください。[r]
-　あなたの車は、目立ちすぎる」[pcms]
+[ns]Chief[nse]
+"Understood. Then please ride in our car. Your car stands out too[r]
+much."[pcms]
 
 *65|
 [fc]
-警備主任は口元を僅かに歪めて、[r]
-二人の金髪の後ろで水蒸気を吐き出す黒い車に目を向けた。[pcms]
+The security chief twisted his mouth slightly and looked at the black[r]
+car behind the two blonds, which was emitting steam.[pcms]
 
 *66|
 [fc]
-[ns]恰幅のいい男[nse]
-「失敗は許されないからな。うまくいけば、[r]
-　その『客』を連れ出すことが出来る。[r]
-　そうでなくとも、証拠さえつかめれば……」[pcms]
+[ns]A portly man[nse]
+"Failure is not an option. If things go well, we can take that[r]
+'client' with us. Even if not, as long as we can get evidence..."[pcms]
 
 *67|
 [fc]
-[ns]恰幅のいい男[nse]
-「『感染患者の不当拘留』の事実さえつかめれば、[r]
-　世論を味方にすることも出来るだろう。[r]
-　そうすれば、奴等の秘密は全て白日の下に晒すことが出来る」[pcms]
+[ns]A portly man[nse]
+"'Unlawful detention of infected patients'if we can grasp that fact,[r]
+we can sway public opinion to our side. Then we can expose all their[r]
+secrets under the light of day."[pcms]
 
 *68|
 [fc]
-[ns]ヤンネ[nse]
-「それが我々の望みです」[pcms]
+[ns]Yanne[nse]
+"That is our wish."[pcms]
 
 *69|
 [fc]
-[ns]恰幅の良い男[nse]
-「……では、私だけが行こう。君たちは家で待っていてくれ。[r]
-　後で合流する」[pcms]
+[ns]A portly man[nse]
+"...Then I will go alone. You two wait at home. We'll regroup later."[pcms]
 
 *70|
 [fc]
-[ns]主任[nse]
-「先生、人数合わせの為に、貴方も残ってくれるか。[r]
-　戻りで一人増えていたら、その場でばれてしまう」[pcms]
+[ns]Chief[nse]
+"Doctor, for the sake of having enough people, could you stay behind[r]
+too? If there's one extra person on the return trip, they'll know[r]
+right away."[pcms]
 
 *71|
 [fc]
-[ns]船医[nse]
-「ゲホッ……わかった。[r]
-　私はどうも具合がよろしくない。先に家に帰らせていただくよ。[r]
-　なに、家は尾道だ。そのうちバスが来る」[pcms]
+[ns]Ship's Doctor[nse]
+"Geho... Understood. I'm not feeling very well anyway. Let me go home[r]
+first. No worries, my home is in Onomichi. A bus will come soon."[pcms]
 
 ;不要？[wait_c time=1000]
 [se buf=1 storage="seC010"]
@@ -475,74 +466,72 @@
 
 *72|
 [fc]
-主任は船医の言葉を最後まで聞かず、軽く会釈だけすると、[r]
-アクセルをジワリと踏み込み、車を走らせると、[r]
-砲台跡地には、三人が残された。[pcms]
+Without listening to the ship doctor's words to the end, the chief[r]
+gave a light nod and slowly pressed on the accelerator. As the car[r]
+drove off, three people were left behind at the battery ruins.[pcms]
 
 *73|
 [fc]
-[ns]船医[nse]
-「それにしても、何だろうな。[r]
-　この時期に喉の具合が悪くなるなんて。[r]
-　それに、腹が減って仕方がない」[pcms]
+[ns]Ship's Doctor[nse]
+"Even so, what could it be? It's unusual for my throat to be in such[r]
+bad shape this time of year. And I'm so hungry I can hardly stand it."[pcms]
 
 *74|
 [fc]
-走りゆく車を見送りながら、船医は喉と腹を交互にさすった。[pcms]
+As he watched the car drive away, the ship doctor alternately rubbed[r]
+his throat and stomach.[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *75|
 [fc]
-[ns]ヤンネ[nse]
-「先生、バスが出るまで、まだ時間があります。[r]
-　よろしければ家で話をお聞かせいただきたいのです。[r]
-　食事もお出ししましょう」[pcms]
+[ns]Janne[nse]
+"Doctor, there's still time before your bus leaves. If you don't mind,[r]
+we'd like to hear your story at our home. We'll also provide a meal."[pcms]
 
 *76|
 [fc]
-[ns]船医[nse]
-「食事のお誘い、ありがとう。[r]
-　だけど、もう横になりたいので、それは辞退させていただくよ。[r]
-　我が儘を言わせていただくなら……」[pcms]
+[ns]Ship's Doctor[nse]
+"Thank you for the invitation to dine. But I'd rather lie down now, so[r]
+I'll have to decline. If I may be so bold..."[pcms]
 
 *77|
 [fc]
-[ns]船医[nse]
-「私を、尾道の家まで送っていただけないかな。[r]
-　道中、私が知り得た情報を貴方たちに話そう」[pcms]
+[ns]Ship's Doctor[nse]
+"Could you take me to my home in Onomichi? Along the way, I'll share[r]
+with you what information I've learned."[pcms]
 
 *78|
 [fc]
-[ns]ヤンネ[nse]
-「分かりました。では、後ろにどうぞ」[pcms]
+[ns]Yanne[nse]
+"Understood. Please get in the back then."[pcms]
 
 *79|
 [fc]
-その言葉を合図に、金髪の男は運転席へ、[r]
-女は後部座席のドアを開く。[pcms]
+At that signal, the blond man headed for the driver's seat while the[r]
+woman opened the door to the back seat.[pcms]
 
 *80|
 [fc]
-咳き込み続ける船医は、二人に優しく微笑むと、[r]
-身体を屈めながら、開かれた後部座席へと乗り込んだ。[pcms]
+The coughing ship's doctor smiled kindly at them and then bent his[r]
+body to get into the opened back seat.[pcms]
 
 *81|
 [fc]
-[ns]ヤンネ[nse]
-「では、キャンプ場の側を通り、大美島へ渡る橋を通ります。[r]
-　多少飛ばしますが、我慢してください」[pcms]
+[ns]Janne[nse]
+"Then, we'll pass by the campsite and cross the bridge to Omi Island.[r]
+We'll be going a bit fast, so please bear with us."[pcms]
 
 *82|
 [fc]
-[ns]船医[nse]
-「分かりました……ゲホッ……よ、よろしく……」[pcms]
+[ns]Ship's Doctor[nse]
+"Understood... Geho... Thank you..."[pcms]
 
 *83|
 [fc]
-金髪の男がアクセルを踏み込むと、[r]
-三トン近い鉄の塊が低い唸り声を上げ、砂利をはね飛ばした。[pcms]
+As the blond man stepped on the accelerator, the nearly three-ton mass[r]
+of metal let out a low growl and kicked up gravel.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 ;不要？[wait_c time=1000]
@@ -556,67 +545,64 @@
 *84|
 [fc]
 [vo_mob s="elma0003"]
-[ns]エルマ[nse]
-「ねえ……ターヤにお土産を買っていっても良いかしら？[r]
-　せっかく尾道まで行くのなら、[r]
-　ラーメンでも買っていってあげようかと思って」[pcms]
+[ns]Elma[nse]
+"Hey... would it be alright if we bought a souvenir for Tarja? Since[r]
+we're going all the way to Onomichi, I was thinking of getting her[r]
+some ramen."[pcms]
 
 *85|
 [fc]
-[ns]ヤンネ[nse]
-「君の言うことも分かるけど、あまり長く居たくない。[r]
-　時間的に、渋滞に巻き込まれてしまうからね。[r]
-　買って帰れば、あの娘も喜ぶだろうけど……」[pcms]
+[ns]Janne[nse]
+"I understand what you're saying, but I don't want to stay too long.[r]
+We might get caught in traffic if we don't watch the time. She'd be[r]
+happy if we brought something back, though..."[pcms]
 
 *86|
 [fc]
-[ns]船医[nse]
-「ゲホッ……お、おこさん、ですか……」[pcms]
+[ns]Ship's Doctor[nse]
+"Geho... Your child, is it...?"[pcms]
 
 *87|
 [fc]
 [vo_mob s="elma0004"]
-[ns]エルマ[nse]
-「はい。私たちの宝物……大切な娘です。[r]
-　日本では『目に入れても痛くない』と言いますよね。[r]
-　私たちにとって、ターヤはまさにそれです」[pcms]
+[ns]Elma[nse]
+"Yes. Our treasure... our precious daughter. In Japan, they say 'she[r]
+wouldn't hurt even if she were in your eye.' For us, Tarja is exactly[r]
+that."[pcms]
 
 *88|
 [fc]
 [vo_mob s="elma0005"]
-[ns]エルマ[nse]
-「貴方には、お子さんはいらっしゃいますか？」[pcms]
+[ns]Elma[nse]
+"Do you have any children?"[pcms]
 
 *89|
 [fc]
-エルマは、この場に向かっていた時と同様に、[r]
-ルームミラー越しに、船医へと目を向けた。[pcms]
+Elma looked at the ship's doctor through the room mirror, just as she[r]
+had on the way here.[pcms]
 
 *90|
 [fc]
-[ns]船医[nse]
-「わ、わたしには、こどもは……いません。[r]
-　はんりょも、いませんからね……」[pcms]
+[ns]Ship's Doctor[nse]
+"I, I don't have any children. Nor do I have a partner..."[pcms]
 
 *91|
 [fc]
 [vo_mob s="elma0006"]
-[ns]エルマ[nse]
-「そうでしたか、失礼。[r]
-　それにしても、本当に具合が悪そうですね……。[r]
-　スピードを落とした方がいいでしょうか？」[pcms]
+[ns]Elma[nse]
+"I see, my apologies. You really do seem to be in bad shape... Should[r]
+I slow down the speed?"[pcms]
 
 *92|
 [fc]
-[ns]船医[nse]
-「いえ、それには、および……ま、せん……。[r]
-　ターヤという、こ……おくさまににて……さぞ、おきれい……、[r]
-　なんでしょう、ね……」[pcms]
+[ns]Ship's Doctor[nse]
+"No, there's no need... Tarja, your... wife must be... very[r]
+beautiful..."[pcms]
 
 *93|
 [fc]
-船医の声は弱々しく、この黒塗りの車のうっすらとしか聞こえない[r]
-ロードノイズにすらかき消された。[pcms]
+The ship doctor's voice was weak, barely audible over the faint road[r]
+noise of the black-painted car.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -626,58 +612,58 @@
 
 *94|
 [fc]
-ヤンネもエルマも、彼の容態を気遣い、[r]
-ほぼ同時にルームミラーへと目を向ける。[pcms]
+Both Janne and Elma looked at the room mirror almost simultaneously,[r]
+concerned about his condition.[pcms]
 
 *95|
 [fc]
-そこには涎まみれの大口を開けた船医が写り込んでいた。[pcms]
+In it was reflected the ship's doctor with his mouth wide open,[r]
+covered in drool.[pcms]
 
 [bg storage="BG06c"][trans_c cross time=0]
 
 *96|
 [fc]
-[ns]ヤンネ[nse]
-「はっ……発症……！？　馬鹿なっ！」[pcms]
+[ns]Yanne[nse]
+"Hah... an outbreak...!? Impossible!"[pcms]
 
 [bgm storage="BGM16"]
 ;//♪bgm16　エロシーン：逃走
 
 *97|
 [fc]
-[ns]船医[nse]
-「えへぁ……あぁ……はら、へったなぁ～……。[r]
-　きんぱつって、うまいかな～……あっはぁっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"Ehea... Ahh... I'm so hungry... I wonder if blondes taste good...[r]
+Ahaha!"[pcms]
 
 *98|
 [fc]
-真っ赤に染まった目を見開いて、[r]
-かつて船医だった男は、狭い車内の中に身体の至る所を[r]
-ぶつけながらも、エルマの首に手を伸ばした。[pcms]
+With his eyes dyed bright red, the man who was once a ship's doctor[r]
+reached for Elma's neck while bumping into everything inside the[r]
+cramped car.[pcms]
 
 [evcg storage="mob_N005a"][trans_c cross time=0]
 
 *99|
 [fc]
 [vo_mob s="elma0007"]
-[ns]エルマ[nse]
-「いやああぁぁっ！！　どうして……こんなっ！[r]
-　あなた！　あなたっ！！」[pcms]
+[ns]Elma[nse]
+"Nooooo!! Why... like this! You! You!!"[pcms]
 
 *100|
 [fc]
-[ns]ヤンネ[nse]
-「おいっ、やめろ！　落ち着け先生っ！」[pcms]
+[ns]Yanne[nse]
+"Hey, stop it! Calm down, Doctor!"[pcms]
 
 *101|
 [fc]
-[ns]船医[nse]
-「うるさ、いっ！　お、おとこは、だまってろおっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"Shut up! Men should just stay quiet!"[pcms]
 
 *102|
 [fc]
-狭い車内で、船医が振り回した腕は、[r]
-ヤンネの顎に吸い込まれ、食い込んだ。[pcms]
+In the cramped car interior, the arm swung by the ship's doctor was[r]
+sucked into Yanne's jaw and bit into it.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -688,42 +674,41 @@
 
 *103|
 [fc]
-[ns]ヤンネ[nse]
-「ぐっ……」[pcms]
+[ns]Yanne[nse]
+"Guh..."[pcms]
 
 *104|
 [fc]
-鈍い音が、狭い車内に響いた直後、[r]
-直進を続けていた車が左右に揺れだし、[r]
-ついにはガードレールを突き破って森へと飛んだ。[pcms]
+A dull sound echoed in the cramped car right before the vehicle, which[r]
+had been going straight, began to sway left and right and finally[r]
+broke through the guardrail and flew into the forest.[pcms]
 
 *105|
 [fc]
 [vo_mob s="elma0008"]
-[ns]エルマ[nse]
-「きゃあああああああぁっ！！[r]
-　あなた！　ライラっ！　ターヤぁあっ！！」[pcms]
+[ns]Elma[nse]
+"Kyaaaaaaaah!! You! Laila! Tarjaaa!!"[pcms]
 
 *106|
 [fc]
-[ns]船医[nse]
-「あはぁ～」[pcms]
+[ns]Ship's Doctor[nse]
+"Ahaha~"[pcms]
 
 [se buf=1 storage="seB088"]
 ;//♪SEブレーキ音のない自動車事故の音
 
 *107|
 [fc]
-沢山の木々をなぎ倒しながら、三トンに近い鉄の塊が、[r]
-急な坂道を転がり落ちていく。[pcms]
+The nearly three-ton mass of metal knocked down many trees as it[r]
+tumbled down the steep slope.[pcms]
 
 *108|
 [fc]
-森の中から、鳥が一斉に飛び立っていく。[pcms]
+Birds took flight all at once from within the forest.[pcms]
 
 *109|
 [fc]
-それきり、何も聞こえなくなった。[pcms]
+After that, nothing more could be heard.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

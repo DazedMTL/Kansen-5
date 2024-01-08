@@ -20,24 +20,24 @@
 
 *5525|
 [fc]
-その後も夕食会は続き、追加の料理を持って来てくれた[r]
-お手伝いさんや、板長の愼さんが越智さんの[r]
-小さい頃の話をしてくれた。[pcms]
+The dinner party continued, and the helper who brought additional[r]
+dishes, as well as the head chef Mr. Shin, shared stories from Miss[r]
+Ochi's childhood.[pcms]
 
 *5526|
 [fc]
-漁にまつわる馬鹿話や、島の昔話など、[r]
-一応の盛り上がりを見せて、食事会が締められる。[pcms]
+There were silly fishing tales and old stories of the island, which[r]
+brought some excitement to the gathering before it concluded.[pcms]
 
 *5527|
 [fc]
-でも、僕は……料理の味も、みんなの話も[r]
-ほとんど覚えていない。[pcms]
+But I... I can hardly remember the taste of the food or the stories[r]
+everyone shared.[pcms]
 
 *5528|
 [fc]
-最後に、稼津央さんが持って来たスイカのお土産を[r]
-いただいて解散になるまで、どこか気が抜けてしまっていた。[pcms]
+In the end, we received watermelon souvenirs brought by Mr. Kazuo and[r]
+then dispersed, but I felt somewhat disengaged throughout.[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
@@ -49,72 +49,71 @@
 *5529|
 [fc]
 [vo_mis s="misao0032"]
-[ns]美沙緒[nse]
-「もう、帰りのバスがないでしょう、[r]
-　稼津央の車に乗っていくといいわ」[pcms]
+[ns]Misao[nse]
+"There are no more buses at this time, you should ride with Kazuo in[r]
+his car."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5530|
 [fc]
-[ns]稼津央[nse]
-「姉さんの言うことには逆らえません」[pcms]
+[ns]Kazuo[nse]
+"I can't go against what Onee-san says."[pcms]
 
 *5531|
 [fc]
-稼津央さんは初めからそのつもりだったらしく、[r]
-部下に命じて、車を取りに行かせたみたいだった。[pcms]
+It seemed that Mr. Kazuo had planned this from the start, as he[r]
+instructed his subordinate to fetch the car.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so02a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5532|
 [fc]
-[ns]宗一郎[nse]
-「ありがとうございます、お言葉に甘えさせて頂きます」[pcms]
+[ns]Souichirou[nse]
+"Thank you very much, I'll gladly take you up on your kind offer."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5533|
 [fc]
-[ns]誠[nse]
-「何から何まで、すみません」[pcms]
+[ns]Makoto[nse]
+"Thank you for everything."[pcms]
 
 *5534|
 [fc]
-外の空気に触れて、[r]
-僕はようやく気分が落ち着いてきていた。[pcms]
+Once outside, I finally started to feel more at ease.[pcms]
 
 *5535|
 [fc]
-越智さんの家の抱えている問題を聞いて、[r]
-ちょっと動揺したけれど、もう平気だ。[pcms]
+Although I was a bit shaken after hearing about the problems facing[r]
+Miss Ochi's family, I'm okay now.[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak10"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="st1_se1_a"][ChrSetParts layer=4 chface="f1_st25"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *5536|
 [fc]
-改めてみんなの様子を見てみると、[r]
-越智さんと南先輩の顔色が、少し悪いように見える。[pcms]
+Looking at everyone again, Miss Ochi and Senior Minami seemed to have[r]
+slightly pale complexions.[pcms]
 
 *5537|
 [fc]
-越智さんは、このことを僕たちに知られたくなかっただろうから、[r]
-わからない反応じゃないんだけど、南先輩はどうしたんだろうか。[pcms]
+Miss Ochi probably didn't want us to know about this, so her reaction[r]
+is understandable, but I wonder what's wrong with Senior Minami.[pcms]
 
 *5538|
 [fc]
-前に、学園の廊下を歩いていたときに、[r]
-こんな表情をしていた気がする。[pcms]
+I remember seeing her with a similar expression when we were walking[r]
+down the school corridor before.[pcms]
 
 *5539|
 [fc]
-越智さんは、さっきからずっとうつむいていて、[r]
-たまに、ぎこちない笑顔とリアクションを見せていた。[pcms]
+Miss Ochi has been looking down since earlier, occasionally showing an[r]
+awkward smile and reaction.[pcms]
 
 *5540|
 [fc]
-僕は……。[pcms]
+I...[pcms]
 
 ;//*_選択肢
 ;//1,茜梨に話しかける   ラベルtalk_akariへ
@@ -123,14 +122,14 @@
 
 ;	[link target=*talk_akari]越智さんに話しかける[endlink]
 ;	[link target=*talk_satuki]南先輩に話しかける[endlink]
-;	[s]
+;[pcms]
 
 *SEL06|越智さんに話しかける／南先輩に話しかける
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '越智さんに話しかける'"]
-[eval exp="f.seltext06 = '南先輩に話しかける'"]
+[eval exp="f.seltext04 = 'Talk to Ochi-san'"]
+[eval exp="f.seltext06 = 'Talk to Senior Minami'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -173,8 +172,8 @@
 
 *5541|
 [fc]
-[ns]誠[nse]
-「食事、すごく美味しかったよ、今日はありがとう」[pcms]
+[ns]Makoto[nse]
+"The meal was really delicious, thank you for today."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -182,266 +181,256 @@
 *5542|
 [fc]
 [vo_aka s="akari0205"]
-[ns]茜梨[nse]
-「あ、いえ、愼さんたちも喜ぶと思います」[pcms]
+[ns]Akari[nse]
+"Oh, no, I'm sure Mr. Shin and the others will be happy to hear that."[pcms]
 
 *5543|
 [fc]
-そーいちがフォローしてくれていたけれど、[r]
-僕はちょっとテンションが下がり過ぎだったと思う。[pcms]
+Souichirou was covering for me, but I think my mood was a bit too low.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5544|
 [fc]
-越智さんは、僕が４年前の事件の被害者だと知っているから、[r]
-申し訳ないと思っているんだろうか。[pcms]
+Miss Ochi knows that I was a victim of an incident four years ago,[r]
+maybe she feels sorry about it.[pcms]
 
 *5545|
 [fc]
-別に越智さんが悪いわけじゃないし、[r]
-裁判で有罪になったわけでもないのに、[r]
-憶測の話で考えることなんて何もない。[pcms]
+It's not like Miss Ochi did anything wrong, and she wasn't found[r]
+guilty in court, so there's no point in speculating about it.[pcms]
 
 *5546|
 [fc]
-せっかく夕食に誘ってくれたのに、[r]
-こんな顔をさせてしまって、[r]
-悪いことをしちゃったかな。[pcms]
+I feel bad for making such a face after she kindly invited me to[r]
+dinner.[pcms]
 
 *5547|
 [fc]
-最後は明るく締めて、僕はなんとも思っていないことを[r]
-アピールしておかないと。[pcms]
+I need to end on a bright note and make it clear that it doesn't[r]
+bother me.[pcms]
 
 *5548|
 [fc]
-少し胸の奥に引っかかるものはあるんだけど、[r]
-この家の人が悪いわけじゃない。[pcms]
+There's something nagging at the back of my mind, but it's not this[r]
+family's fault.[pcms]
 
 *5549|
 [fc]
-ションボリさせておくのはかわいそうだ。[pcms]
+It would be pitiful to leave them feeling down.[pcms]
 
 *5550|
 [fc]
-[ns]誠[nse]
-「こんなご馳走食べたこと無かったから、[r]
-　写真を撮って姉ちゃんを悔しがらせれば良かったよ」[pcms]
+[ns]Makoto[nse]
+"I've never had such a feast before, I should have taken a photo to[r]
+make my sister jealous."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5551|
 [fc]
 [vo_aka s="akari0206"]
-[ns]茜梨[nse]
-「あ、そうだ、お土産に出来るものがあるか、[r]
-　聞いてみましょう」[pcms]
+[ns]Akari[nse]
+"Oh, that's right, let me see if there's something that can be taken[r]
+home as a souvenir."[pcms]
 
 *5552|
 [fc]
-[ns]誠[nse]
-「ううん、悔しがらせたいから、持って行かなくていいよ」[pcms]
+[ns]Makoto[nse]
+"No need, I want to make her jealous, so let's not take anything."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5553|
 [fc]
 [vo_aka s="akari0207"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5554|
 [fc]
-越智さんは、少し悩んでいるみたいだったけど、[r]
-ちょっと待っていてくれと言うと、[r]
-家の中に入っていった。[pcms]
+Miss Ochi seemed a bit troubled but asked us to wait a moment before[r]
+she went back inside the house.[pcms]
 
 *5555|
 [fc]
-なんだろう、本当に食事を包んでくれるのかな。[r]
-嬉しいけれど、そこまでしてもらうのは悪い。[pcms]
+I wonder if she's really going to pack some food for us. It would be[r]
+nice, but I'd feel bad for imposing so much.[pcms]
 
 *5556|
 [fc]
-でも、家の中から出てきた越智さんは、[r]
-お土産じゃなくて自分の荷物を持ってきていた。[pcms]
+However, when Miss Ochi came back out, she wasn't carrying souvenirs[r]
+but her own luggage instead.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5557|
 [fc]
 [vo_aka s="akari0208"]
-[ns]茜梨[nse]
-「お姉様、家に泊まるつもりでしたけど、[r]
-　やっぱりホテルに帰ります。[r]
-　ごちそうさまでした」[pcms]
+[ns]Akari[nse]
+"Onee-sama, I was planning to stay over, but I've decided to return to[r]
+the hotel. Thank you for the meal."[pcms]
 
 *5558|
 [fc]
-越智さんが丁寧に頭を下げる。[r]
-その仕草がなんともかわいい感じがした。[pcms]
+Miss Ochi bowed politely. Her gesture somehow felt very endearing.[pcms]
 
 *5559|
 [fc]
-美沙緒さんは無理に引き留めることをせずに、[r]
-軽く越智さんを抱きしめる。[pcms]
+Misao didn't insist on keeping her stay and lightly embraced Miss Ochi[r]
+instead.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *5560|
 [fc]
 [vo_mis s="misao0033"]
-[ns]美沙緒[nse]
-「東京に帰る前に、必ずまた寄ってよ？」[pcms]
+[ns]Misao[nse]
+"Make sure you come by again before you head back to Tokyo, okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5561|
 [fc]
 [vo_aka s="akari0209"]
-[ns]茜梨[nse]
-「はい、必ず来ます」[pcms]
+[ns]Akari[nse]
+"Yes, I will definitely visit."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5562|
 [fc]
 [vo_mob s="maid0006"]
-[ns]お手伝いさん[nse]
-「まあまあ、茜梨お嬢様はお帰りになるんですか？」[pcms]
+[ns]Maid[nse]
+"My my, is Miss Akane-ri leaving now?"[pcms]
 
 *5563|
 [fc]
-お手伝いさんと板前の愼さんが、僕らを見送るように[r]
-外にまで出てくる。[pcms]
+The helper and head chef Mr. Shin came out to see us off.[pcms]
 
 *5564|
 [fc]
-本当に越智さんは、この家の人に好かれているんだな。[pcms]
+It's really clear that Miss Ochi is well-liked by everyone in this[r]
+house.[pcms]
 
 *5565|
 [fc]
-[ns]誠[nse]
-「今日は本当にありがとうございました」[pcms]
+[ns]Makoto[nse]
+"Thank you very much for today."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5566|
 [fc]
 [vo_stk s="satuki0142"]
-[ns]彩月[nse]
-「お料理すごく美味しかったです、[r]
-　写真もありがとうございました」[pcms]
+[ns]Satsuki[nse]
+"The food was incredibly delicious, and thank you for the photos as[r]
+well."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *5567|
 [fc]
-[ns]宗一郎[nse]
-「郷土料理の神髄を見せて頂きました、[r]
-　ホテルの料理が食べられなくなりそうです」[pcms]
+[ns]Souichirou[nse]
+"You've shown us the essence of local cuisine; I might not be able to[r]
+go back to hotel food after this."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *5568|
 [fc]
 [vo_mis s="misao0034"]
-[ns]美沙緒[nse]
-「ホテルへの文句は、いくらでも言っていいからね？[r]
-　言い難かったら私の名前を出すといいわ」[pcms]
+[ns]Misao[nse]
+"Feel free to complain about the hotel as much as you want, okay? If[r]
+it's hard to say, just drop my name."[pcms]
 
 *5569|
 [fc]
-美沙緒さんがホテルに泊まったら大変なことになりそうだ。[r]
-クレーマーになるつもりが無い僕は、[r]
-冗談だと聞き流すことにする。[pcms]
+It seems like Misao-san staying at the hotel would cause quite a stir.[r]
+Since I have no intention of becoming a complainer, I decide to take[r]
+it as a joke.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5570|
 [fc]
-すると、隣の駐車場から運転手付きの[r]
-ホワイトリムジンが出て来た。[pcms]
+Then, a white limousine with a chauffeur came out from the neighboring[r]
+parking lot.[pcms]
 
 *5571|
 [fc]
-これに乗って帰るのは、なんだかちょっと[r]
-気後れしてしまいそうだ。[pcms]
+Riding back in this feels a bit intimidating.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *5572|
 [fc]
 [vo_mis s="misao0035"]
-[ns]美沙緒[nse]
-「それじゃあ、茜梨のことをよろしくね」[pcms]
+[ns]Misao[nse]
+"Please take good care of Akane-ri for me."[pcms]
 
 *5573|
 [fc]
-[ns]誠[nse]
-「こちらこそ、お世話になるばっかりですから」[pcms]
+[ns]Makoto[nse]
+"Likewise, we're always in your care."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *5574|
 [fc]
-[ns]宗一郎[nse]
-「どーんと、任せてください」[pcms]
+[ns]Souichirou[nse]
+"Leave it to me, I've got this."[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_su"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5575|
 [fc]
-僕たちが、そんなことを話していると、[r]
-いつの間にか現れた黒上着の男が、[r]
-車の傍らに立っていた。[pcms]
+As we were talking, a man in a black coat appeared out of nowhere and[r]
+stood beside the car.[pcms]
 
 *5576|
 [fc]
-稼津央さんは窓を開けると、[r]
-その人に指示を出すみたいに話をする。[pcms]
+Kazuo opened the window and seemed to give the man some instructions.[pcms]
 
 *5577|
 [fc]
-[ns]稼津央[nse]
-「今日は満員だから、本家に泊まってくれ。[r]
-　明日迎えを寄越す」[pcms]
+[ns]Kazuo[nse]
+"We're fully booked today, so please stay at the main house. I'll send[r]
+someone to pick you up tomorrow."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5578|
 [fc]
-男は無言で頭を下げると、また庭の方に[r]
-歩いて行ってしまった。[pcms]
+The man nodded silently and then walked back towards the garden.[pcms]
 
 *5579|
 [fc]
-越智さんの練習用薙刀が車の中に入らなくて、[r]
-少し手こずったけれど、無事にみんな車に乗り込む。[pcms]
+Miss Ochi's practice naginata wouldn't fit in the car at first, but[r]
+after a bit of trouble, everyone managed to get in safely.[pcms]
 
 *5580|
 [fc]
-[ns]誠[nse]
-「お世話になりました」[pcms]
+[ns]Makoto[nse]
+"Thank you for everything."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5581|
 [fc]
 [vo_aka s="akari0210"]
-[ns]茜梨[nse]
-「また必ず来ますから」[pcms]
+[ns]Akari[nse]
+"I will definitely come again."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *5582|
 [fc]
 [vo_mis s="misao0036"]
-[ns]美沙緒[nse]
-「気をつけて帰ってね？」[pcms]
+[ns]Misao[nse]
+"Take care on your way back, okay?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -450,16 +439,15 @@
 
 *5583|
 [fc]
-窓が自動で閉まると、ゆっくりと車が発進する。[pcms]
+As the windows closed automatically, the car started moving slowly.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *5584|
 [fc]
-見送りの人たちを振り返りながら、[r]
-その姿がどんどん小さくなる光景を、[r]
-僕はずっと見つめていた。[pcms]
+Looking back at those seeing us off, I watched as their figures grew[r]
+smaller and smaller.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -492,9 +480,8 @@
 
 *5585|
 [fc]
-[ns]誠[nse]
-「どうしたんですか？[r]
-　気分でも悪くなりましたか？」[pcms]
+[ns]Makoto[nse]
+"What's wrong? Are you feeling ill?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -502,92 +489,90 @@
 *5586|
 [fc]
 [vo_stk s="satuki0143"]
-[ns]彩月[nse]
-「……あ、う、うん、なんでもないよ」[pcms]
+[ns]Satsuki[nse]
+"...Ah, no, it's nothing."[pcms]
 
 *5587|
 [fc]
-南先輩は、心ここにあらずといった風で、[r]
-なにか迷っているように見えた。[pcms]
+Senior Minami seemed distracted, as if she was lost in thought about[r]
+something.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5588|
 [fc]
 [vo_stk s="satuki0144"]
-[ns]彩月[nse]
-「ちょっと……」[pcms]
+[ns]Satsuki[nse]
+"Just a moment..."[pcms]
 
 *5589|
 [fc]
-ちょっとなんだろうか。[r]
-なにか言いたそうにしているけれど……。[pcms]
+I wonder what she means by 'just a moment'. She looks like she wants[r]
+to say something...[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5590|
 [fc]
 [vo_aka s="akari0211"]
-[ns]茜梨[nse]
-「今日は、お越し頂いてありがとうございました」[pcms]
+[ns]Akari[nse]
+"Thank you very much for coming today."[pcms]
 
 *5591|
 [fc]
-[ns]誠[nse]
-「ううん、こちらこそご馳走になりました」[pcms]
+[ns]Makoto[nse]
+"No, we should be thanking you for the feast."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5592|
 [fc]
 [vo_stk s="satuki0145"]
-[ns]彩月[nse]
-「写真まで撮らせてもらって、すごく助かった」[pcms]
+[ns]Satsuki[nse]
+"Taking photos was a big help too, thank you so much."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5593|
 [fc]
-越智さんは、丁寧にお礼を言っているけれど、[r]
-心なしかションボリしている。[pcms]
+Miss Ochi is being polite with her thanks, but she seems a bit[r]
+downhearted.[pcms]
 
 *5594|
 [fc]
-そーいちがフォローしてくれていたけれど、[r]
-僕はちょっとテンションが下がり過ぎだっただろうか。[pcms]
+Souichirou tried to cheer her up, but maybe I let my mood drop too[r]
+much?[pcms]
 
 ;//◆茜梨は00160で誠が東北事件の被害者だと知っておりますので、その流れにしておきます
 
 *5595|
 [fc]
-越智さんは、僕が４年前の事件の被害者だと知っているから、[r]
-申し訳ないと思っているんだろう。[pcms]
+Miss Ochi knows that I was a victim of an incident four years ago, so[r]
+she probably feels guilty.[pcms]
 
 *5596|
 [fc]
-別に越智さんが悪いわけじゃないし、[r]
-裁判で有罪になったわけでもないのに、[r]
-憶測の話で考えることなんて何もない。[pcms]
+It's not like Miss Ochi did anything wrong, and she wasn't found[r]
+guilty in court, so there's no need to worry about conjectures.[pcms]
 
 *5597|
 [fc]
-せっかく夕食に誘ってくれたのに、[r]
-こんな顔をさせてしまって、[r]
-悪いことをしちゃったかな。[pcms]
+I feel bad for making her look so gloomy when she kindly invited us[r]
+for dinner.[pcms]
 
 *5598|
 [fc]
-最後は明るく締めて、僕はなんとも思っていないことを[r]
-アピールしておかないと。[pcms]
+I need to end this on a bright note and make it clear that I'm not[r]
+bothered by it at all.[pcms]
 
 *5599|
 [fc]
-少し胸の奥に引っかかるものはあるんだけど、[r]
-この家の人が悪いわけじゃない。[pcms]
+There's something nagging at the back of my mind, but it's not this[r]
+family's fault.[pcms]
 
 *5600|
 [fc]
-ションボリさせておくのはかわいそうだ。[pcms]
+It would be sad to leave her feeling downhearted.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st02"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0]
@@ -595,26 +580,25 @@
 
 *5601|
 [fc]
-[ns]誠[nse]
-「今日はすごく楽しかったよ、[r]
-　越智さんの小さい頃の話が聞けて良かった」[pcms]
+[ns]Makoto[nse]
+"I had a great time today; it was nice hearing stories about Miss[r]
+Ochi's childhood."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st30"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *5602|
 [fc]
 [vo_stk s="satuki0146"]
-[ns]彩月[nse]
-「お腹いっぱい食べちゃった、[r]
-　すごく美味しかったよ」[pcms]
+[ns]Satsuki[nse]
+"I ate so much; it was really delicious."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so03a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *5603|
 [fc]
-[ns]宗一郎[nse]
-「合宿中に、本格的な郷土料理を食べられるとは、[r]
-　本当にありがたいことです」[pcms]
+[ns]Souichirou[nse]
+"It's truly a blessing to be able to eat authentic local cuisine[r]
+during our training camp."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st02"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0]
@@ -622,24 +606,21 @@
 
 *5604|
 [fc]
-いつもの調子になっている僕らを見て、[r]
-越智さんはホッとしているみたいだった。[pcms]
+Seeing us back to our usual selves, Miss Ochi seemed relieved.[pcms]
 
 *5605|
 [fc]
-良かった、ご馳走までしてもらって、[r]
-越智さんに悲しい顔をさせていたんじゃ、[r]
-気になって眠れなくなってしまう。[pcms]
+Thank goodness, after being treated to such a feast, it would have[r]
+kept me awake worrying if we had left Miss Ochi looking sad.[pcms]
 
 *5606|
 [fc]
-すると、隣の駐車場から運転手付きの[r]
-ホワイトリムジンが出て来た。[pcms]
+Then, a white limousine with a chauffeur pulled out from the[r]
+neighboring parking lot.[pcms]
 
 *5607|
 [fc]
-これに乗って帰るのは、なんだかちょっと[r]
-気後れしてしまいそうだ。[pcms]
+It feels a bit intimidating to ride back in this.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
@@ -647,48 +628,47 @@
 *5608|
 [fc]
 [vo_mis s="misao0037"]
-[ns]美沙緒[nse]
-「それじゃあ、茜梨のことをよろしくね」[pcms]
+[ns]Misao[nse]
+"Then, please take good care of Akari for me."[pcms]
 
 *5609|
 [fc]
-[ns]誠[nse]
-「こちらこそ、お世話になるばっかりですから」[pcms]
+[ns]Makoto[nse]
+"Likewise, we're the ones who are always being taken care of."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *5610|
 [fc]
-[ns]宗一郎[nse]
-「どーんと、任せてください」[pcms]
+[ns]Souichirou[nse]
+"Leave it to me, I've got this."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *5611|
 [fc]
-[ns]稼津央[nse]
-「みなさんを、ホテルまで頼むぞ」[pcms]
+[ns]Kazuo[nse]
+"Please take everyone back to the hotel safely."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5612|
 [fc]
-運転手はぺこりと頭を下げて了解の意を示すと、[r]
-僕たちを車の中に誘導していく。[pcms]
+The chauffeur bowed his head in acknowledgment and then guided us into[r]
+the car.[pcms]
 
 *5613|
 [fc]
-[ns]誠[nse]
-「今日は本当にありがとうございました」[pcms]
+[ns]Makoto[nse]
+"Thank you very much for today."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5614|
 [fc]
 [vo_stk s="satuki0147"]
-[ns]彩月[nse]
-「いい思い出になると思います、[r]
-　ありがとうございました」[pcms]
+[ns]Satsuki[nse]
+"I think this will be a great memory, thank you so much."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi02"][ChrSetXY layer=3 x=60 y=0]
@@ -697,43 +677,44 @@
 *5615|
 [fc]
 [vo_mis s="misao0038"]
-[ns]美沙緒[nse]
-「また、遊びに来てちょうだい」[pcms]
+[ns]Misao[nse]
+"Come and visit again sometime."[pcms]
 
 *5616|
 [fc]
-[ns]稼津央[nse]
-「ホテルの食事の評判が恐いことになりそうだから、[r]
-　他の人には内緒にしておいてくれよ」[pcms]
+[ns]Kazuo[nse]
+"The hotel's food reputation might take a hit after this, so keep it a[r]
+secret from the others, will you?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5617|
 [fc]
 [vo_mob s="maid0007"]
-[ns]お手伝いさん[nse]
-「東京に帰っても、お嬢様をよろしくお願いしますね」[pcms]
+[ns]Maid[nse]
+"Please continue to look after the young lady once you're back in[r]
+Tokyo."[pcms]
 
 *5618|
 [fc]
-[ns]誠[nse]
-「もちろんです、任せておいてください」[pcms]
+[ns]Makoto[nse]
+"Of course, you can count on me."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5619|
 [fc]
 [vo_aka s="akari0212"]
-[ns]茜梨[nse]
-「もう、中澤先輩ったら……」[pcms]
+[ns]Akari[nse]
+"Oh, Nakazawa-senpai..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so03a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5620|
 [fc]
-[ns]宗一郎[nse]
-「お前ばっかりずるいぞ！[r]
-　俺もよろしくお願いされますから！」[pcms]
+[ns]Souichirou[nse]
+"You're always getting the good stuff! I want to be asked for favors[r]
+too!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -742,15 +723,15 @@
 
 *5621|
 [fc]
-窓が静かに閉まると、リムジンが走り始める。[pcms]
+The windows closed quietly, and the limousine started moving.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *5622|
 [fc]
-見送りに出てくれた越智家の人々が小さくなるまで、[r]
-僕はその姿を見つめ続けていた。[pcms]
+Until the figures of the Ochi family who came to see us off became[r]
+small, I continued to watch them.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

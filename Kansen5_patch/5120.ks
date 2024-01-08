@@ -52,191 +52,189 @@
 *1687|
 [fc]
 [vo_nat s="natu0374"]
-[ns]夏都[nse]
-「よお、誠」[pcms]
+[ns]Natsu[nse]
+"Hey, Makoto."[pcms]
 
 *1688|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、どうしたの？」[pcms]
+[ns]Makoto[nse]
+"Onee-san, what's up?"[pcms]
 
 *1689|
 [fc]
-姉ちゃんはさっきまでの格好から、突然ビキニ姿に変わっていた。[r]
-ホテルにプールでもあったのかな……。[pcms]
+Onee-san had suddenly changed from her earlier outfit into a bikini.[r]
+Maybe there's a pool at the hotel...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi4_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1690|
 [fc]
 [vo_nat s="natu0375"]
-[ns]夏都[nse]
-「デブはどうした？」[pcms]
+[ns]Natsu[nse]
+"Where's the fatty?"[pcms]
 
 *1691|
 [fc]
-[ns]誠[nse]
-「飲み物を探しにコンビニに行ったよ」[pcms]
+[ns]Makoto[nse]
+"He went to the convenience store to look for drinks."[pcms]
 
 *1692|
 [fc]
 [vo_nat s="natu0376"]
-[ns]夏都[nse]
-「そうか……」[pcms]
+[ns]Natsu[nse]
+"I see..."[pcms]
 
 *1693|
 [fc]
-姉ちゃんは、どこか深刻そうな顔をしていた。[r]
-こんな事態になってしまって、当たり前かも知れないけれど……。[pcms]
+Onee-san had a serious look on her face. Given the situation, it might[r]
+be normal...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi4_a"][ChrSetParts layer=5 chface="F1_na03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1694|
 [fc]
 [vo_nat s="natu0377"]
-[ns]夏都[nse]
-「さっきは偉かったな、友達のために身体を張れるなんて、[r]
-　オレは感心したぜ」[pcms]
+[ns]Natsu[nse]
+"You were amazing earlier, putting your body on the line for a friend.[r]
+I was impressed."[pcms]
 
 *1695|
 [fc]
-[ns]誠[nse]
-「無我夢中だっただけだよ、もう一度同じことは出来ないって」[pcms]
+[ns]Makoto[nse]
+"I was just acting without thinking, I can't do it again."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi4_a"][ChrSetParts layer=5 chface="F1_na06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1696|
 [fc]
 [vo_nat s="natu0378"]
-[ns]夏都[nse]
-「そうか……」[pcms]
+[ns]Natsu[nse]
+"I see..."[pcms]
 
 *1697|
 [fc]
-[ns]誠[nse]
-「どうしたの……？」[pcms]
+[ns]Makoto[nse]
+"What's wrong...?"[pcms]
 
 *1698|
 [fc]
-やっぱり、姉ちゃんはどこか元気がないみたいだった。[r]
-具合が悪いのかな……？[pcms]
+Indeed, Onee-san seemed to be lacking her usual energy. Could she be[r]
+feeling unwell...?[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi4_a"][ChrSetParts layer=5 chface="F2_na23"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1699|
 [fc]
 [vo_nat s="natu0379"]
-[ns]夏都[nse]
-「オレは……正直恐くて仕方がない」[pcms]
+[ns]Natsu[nse]
+"I'm... honestly scared out of my mind."[pcms]
 
 *1700|
 [fc]
-[ns]誠[nse]
-「うわっ、んぷっ」[pcms]
+[ns]Makoto[nse]
+"Whoa, mmmph!"[pcms]
 
 *1701|
 [fc]
-姉ちゃんは僕のことを掻き抱くようにして、[r]
-胸を押しつけてきた。[pcms]
+Onee-san hugged me tightly, pressing her chest against me.[pcms]
 
 *1702|
 [fc]
-[ns]誠[nse]
-「だ、大丈夫だよ、もう心配いらないじゃないか……」[pcms]
+[ns]Makoto[nse]
+"It's okay, you don't have to worry anymore..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi4_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1703|
 [fc]
 [vo_nat s="natu0380"]
-[ns]夏都[nse]
-「これからどうする？　東京には帰れるのか？[r]
-　仕事も生活も、全部無くなったんだぞ……？」[pcms]
+[ns]Natsu[nse]
+"What are we going to do now? Can we go back to Tokyo? My job, my[r]
+life, it's all gone..."[pcms]
 
 *1704|
 [fc]
-[ns]誠[nse]
-「これから、どうとでもできるよ。[r]
-　まだ無事な地域がたくさんあるし……」[pcms]
+[ns]Makoto[nse]
+"From now on, we can do anything. There are still many safe areas[r]
+left..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi4_a"][ChrSetParts layer=5 chface="F2_na10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1705|
 [fc]
 [vo_nat s="natu0381"]
-[ns]夏都[nse]
-「誠……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 *1706|
 [fc]
-姉ちゃんの熱くてやわらかい身体を押しつけられているうちに、[r]
-僕は下半身が大きくなっている事に気が付いた。[pcms]
+As Onee-san pressed her hot and soft body against me, I realized that[r]
+my lower half was getting bigger.[pcms]
 
 *1707|
 [fc]
-このままじゃ、ばれちゃう……。[pcms]
+If this continues, she'll notice...[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi4_a"][ChrSetParts layer=5 chface="F2_na08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1708|
 [fc]
 [vo_nat s="natu0382"]
-[ns]夏都[nse]
-「あれ……？」[pcms]
+[ns]Natsu[nse]
+"Huh...?"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi4_a"][ChrSetParts layer=5 chface="F2_na09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1709|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1710|
 [fc]
-姉ちゃんはお腹に当たる固い感触に気が付いたらしい。[r]
-少し顔が赤くなっている。[pcms]
+Onee-san seemed to have noticed the hard sensation against her[r]
+stomach. Her face turned a little red.[pcms]
 
 *1711|
 [fc]
 [vo_nat s="natu0383"]
-[ns]夏都[nse]
-「いいよ……」[pcms]
+[ns]Natsu[nse]
+"It's okay..."[pcms]
 
 *1712|
 [fc]
-[ns]誠[nse]
-「ごめん……」[pcms]
+[ns]Makoto[nse]
+"Sorry..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi4_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1713|
 [fc]
 [vo_nat s="natu0384"]
-[ns]夏都[nse]
-「そうじゃなくて……ご褒美だ」[pcms]
+[ns]Natsu[nse]
+"No, I mean... it's a reward."[pcms]
 
 *1714|
 [fc]
-[ns]誠[nse]
-「ご褒美？」[pcms]
+[ns]Makoto[nse]
+"A reward?"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi4_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1715|
 [fc]
 [vo_nat s="natu0385"]
-[ns]夏都[nse]
-「今日は一生懸命頑張ったからな」[pcms]
+[ns]Natsu[nse]
+"You worked hard today."[pcms]
 
 *1716|
 [fc]
-[ns]誠[nse]
-「え……」[pcms]
+[ns]Makoto[nse]
+"Eh..."[pcms]
 
 *1717|
 [fc]
-姉ちゃんはものすごく照れた口調で、[r]
-そんなことを言っていた。[pcms]
+Onee-san said that in an incredibly embarrassed tone.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -254,96 +252,91 @@
 *1718|
 [fc]
 [vo_nat s="natu0386"]
-[ns]夏都[nse]
-「もう、こんなになってるのか……[r]
-　挟んだら、もっと大きくなるのか……？」[pcms]
+[ns]Natsu[nse]
+"It's already this big... If I squeeze it, will it get even[r]
+bigger...?"[pcms]
 
 *1719|
 [fc]
-[ns]誠[nse]
-「わ、わからないよ……」[pcms]
+[ns]Makoto[nse]
+"I-I don't know..."[pcms]
 
 *1720|
 [fc]
 [vo_nat s="natu0387"]
-[ns]夏都[nse]
-「そうか……誠も初めてなんだな」[pcms]
+[ns]Natsu[nse]
+"I see... It's your first time too, Makoto."[pcms]
 
 *1721|
 [fc]
-僕もってことは、姉ちゃんも初めって事だ。[r]
-なんだか興奮してくる。[pcms]
+If she says 'me too', that means it's Onee-san's first time as well.[r]
+This is getting exciting.[pcms]
 
 *1722|
 [fc]
 [vo_nat s="natu0388"]
-[ns]夏都[nse]
-「は、始めるぞ……、[r]
-　上手くできるかどうかわからないからな？」[pcms]
+[ns]Natsu[nse]
+"Let's start... I don't know if I can do it well, okay?"[pcms]
 
 *1723|
 [fc]
-[ns]誠[nse]
-「うううっ……」[pcms]
+[ns]Makoto[nse]
+"Ughhh..."[pcms]
 
 *1724|
 [fc]
-姉ちゃんは僕のものをたっぷりとした肉で挟む込むと、[r]
-そのまま上下に擦り始めた。[pcms]
+Onee-san trapped my thing between her ample flesh and began to rub it[r]
+up and down.[pcms]
 
 *1725|
 [fc]
 [vo_nat s="natu0389"]
-[ns]夏都[nse]
-「う、動いたっ！」[pcms]
+[ns]Natsu[nse]
+"Ah, it moved!"[pcms]
 
 *1726|
 [fc]
-[ns]誠[nse]
-「恥ずかしいよ……」[pcms]
+[ns]Makoto[nse]
+"This is embarrassing..."[pcms]
 
 *1727|
 [fc]
 [vo_nat s="natu0390"]
-[ns]夏都[nse]
-「お、オレだって恥ずかしいんだよ……、[r]
-　胸でなんて……」[pcms]
+[ns]Natsu[nse]
+"I'm embarrassed too, you know... doing it with my breasts..."[pcms]
 
 ;//
 ;//;//◆ループボイス甘い吐息
 ;//
 
 ;//[vo_nat s="natu0391"]
-;//[ns]夏都[nse]
+[ns]Natsu[nse]
 ;//「はぁ……あぁ……ふぅ……」
 
 ;//
 
 *1728|
 [fc]
-僕は姉ちゃんに頼み込んで、[r]
-パイズリをお願いしていた。[pcms]
+I begged my sister to let me do it, to ask for a titjob.[pcms]
 
 *1729|
 [fc]
-この胸でしごいて欲しいって、[r]
-ずっと思っていたから……。[pcms]
+I've always wanted her to do it with her breasts...[pcms]
 
 *1730|
 [fc]
 [vo_nat s="natu0392"]
-[ns]夏都[nse]
-「ビクビクしてる……気持ちいいのか……？」[pcms]
+[ns]Natsu[nse]
+"It's twitching... does it feel good...?"[pcms]
 
 *1731|
 [fc]
-[ns]誠[nse]
-「ああっ……すごくいいよ……」[pcms]
+[ns]Makoto[nse]
+"Yeah... it feels amazing..."[pcms]
 
 *1732|
 [fc]
-姉ちゃんの力強い挟み付けで、[r]
-僕のペニスを押しつぶされている。[pcms]
+My dick is being crushed by my sister's powerful grip.[pcms]
 
 ;//se_sex02.ogg(LOOP)
 [se buf=1 storage="se_sex02" loop=true]
@@ -353,263 +346,262 @@
 *1733|
 [fc]
 [vo_nat s="natu0393"]
-[ns]夏都[nse]
-「も、もっと……良くしてやるから……」[pcms]
+[ns]Natsu[nse]
+"I'll make it feel even better..."[pcms]
 
 *1734|
 [fc]
-[ns]誠[nse]
-「うううっ……」[pcms]
+[ns]Makoto[nse]
+"Ughhh..."[pcms]
 
 *1735|
 [fc]
-これ以上良くされたら、すぐに出ちゃう。[r]
-でも、もっと良くして欲しい……。[pcms]
+If she makes it feel any better, I'm going to cum soon. But I want her[r]
+to make it feel even better...[pcms]
 
 *1736|
 [fc]
 [vo_nat s="natu0394"]
-[ns]夏都[nse]
-「どこが気持ちいいんだ？」[pcms]
+[ns]Natsu[nse]
+"Where does it feel good?"[pcms]
 
 *1737|
 [fc]
-[ns]誠[nse]
-「根本も先っぽも……全部違う気持ちよさだから……」[pcms]
+[ns]Makoto[nse]
+"The base and the tip... they all feel differently good..."[pcms]
 
 *1738|
 [fc]
 [vo_nat s="natu0395"]
-[ns]夏都[nse]
-「こ、こうかな……」[pcms]
+[ns]Natsu[nse]
+"Like this, maybe...?"[pcms]
 
 *1739|
 [fc]
-[ns]誠[nse]
-「くああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Kuaaaaaaaaa!"[pcms]
 
 *1740|
 [fc]
-根本の辺りはジワジワと気持ちいい感じだけど、[r]
-先っぽの方はダイレクトに刺激が伝わってくる。[pcms]
+The area around the base feels good in a slow, lingering way, but the[r]
+tip feels a direct stimulation.[pcms]
 
 [evcg storage="natu_H015b"][trans_c cross time=300]
 
 *1741|
 [fc]
 [vo_nat s="natu0396"]
-[ns]夏都[nse]
-「もっと強くした方がいいか……？」[pcms]
+[ns]Natsu[nse]
+"Should I do it stronger...?"[pcms]
 
 *1742|
 [fc]
-[ns]誠[nse]
-「これ以上強くされたら……あああっ！」[pcms]
+[ns]Makoto[nse]
+"If you do it any stronger... ahhhh!"[pcms]
 
 *1743|
 [fc]
 [vo_nat s="natu0397"]
-[ns]夏都[nse]
-「気持ちいいんだな、なら……」[pcms]
+[ns]Natsu[nse]
+"You like that, huh? Then..."[pcms]
 
 *1744|
 [fc]
-姉ちゃんは手で胸を圧迫するようにしながら、[r]
-僕のものを擦り上げてきた。[pcms]
+While pressing her breasts with her hands, my sister rubbed my dick[r]
+upwards.[pcms]
 
 *1745|
 [fc]
 [vo_nat s="natu0398"]
-[ns]夏都[nse]
-「すごい……脈拍が伝わってくる……」[pcms]
+[ns]Natsu[nse]
+"Amazing... I can feel the pulse..."[pcms]
 
 *1746|
 [fc]
-[ns]誠[nse]
-「姉ちゃんの方が、あくっ、すごいよっ……」[pcms]
+[ns]Makoto[nse]
+"Your side is, ah, amazing..."[pcms]
 
 *1747|
 [fc]
-思わずお腹に力が入ると、[r]
-おっぱいから逃げるようにペニスが反り返る。[pcms]
+When I inadvertently tense my stomach, my dick springs back as if[r]
+trying to escape from her breasts.[pcms]
 
 *1748|
 [fc]
 [vo_nat s="natu0399"]
-[ns]夏都[nse]
-「こ、こら、動くな」[pcms]
+[ns]Natsu[nse]
+"Hey, don't move"[pcms]
 
 *1749|
 [fc]
-[ns]誠[nse]
-「だって、腰が勝手に動いちゃうううっ」[pcms]
+[ns]Makoto[nse]
+"But my hips are moving on their own!"[pcms]
 
 *1750|
 [fc]
-姉ちゃんはペニスを元の位置に戻して挟み込むと、[r]
-逃げられないようにキッチリと抑えた。[pcms]
+My sister repositioned my dick and trapped it again, holding it[r]
+tightly so it couldn't escape.[pcms]
 
 *1751|
 [fc]
 [vo_nat s="natu0400"]
-[ns]夏都[nse]
-「あああっ……はあっ……」[pcms]
+[ns]Natsu[nse]
+"Ahhh... hah..."[pcms]
 
 *1752|
 [fc]
-[ns]誠[nse]
-「姉ちゃんも、気持ちいいの……？」[pcms]
+[ns]Makoto[nse]
+"Sister, does it feel good for you too...?"[pcms]
 
 *1753|
 [fc]
 [vo_nat s="natu0401"]
-[ns]夏都[nse]
-「ゾクゾクする……変な感じだ……」[pcms]
+[ns]Natsu[nse]
+"It's tingling... feels strange..."[pcms]
 
 *1754|
 [fc]
-[ns]誠[nse]
-「僕も……良くしてあげるね……」[pcms]
+[ns]Makoto[nse]
+"I'll make you feel good too..."[pcms]
 
 *1755|
 [fc]
 [vo_nat s="natu0402"]
-[ns]夏都[nse]
-「ああああああっ！」[pcms]
+[ns]Natsu[nse]
+"Ahhhhhh!"[pcms]
 
 *1756|
 [fc]
-僕は姉ちゃんの乳首をつまむと、[r]
-それをクリクリと回すように弄っていった。[pcms]
+I pinched my sister's nipples and started to play with them by[r]
+twirling them around.[pcms]
 
 *1757|
 [fc]
 [vo_nat s="natu0403"]
-[ns]夏都[nse]
-「そ、そんなところ、摘んだら……んくううっ！」[pcms]
+[ns]Natsu[nse]
+"Don't pinch there... nghuuu!"[pcms]
 
 *1758|
 [fc]
-[ns]誠[nse]
-「んぐあああああっ！　強すぎるよぉぉっ！」[pcms]
+[ns]Makoto[nse]
+"Nguahhhhh! It's too strong!"[pcms]
 
 *1759|
 [fc]
-姉ちゃんの乳首を摘んだら、腕に力が入りすぎているのか[r]
-圧迫が更に強くなっていた。[pcms]
+When I pinched my sister's nipples, she put too much strength in her[r]
+arms and the pressure increased even more.[pcms]
 
 *1760|
 [fc]
 [vo_nat s="natu0404"]
-[ns]夏都[nse]
-「ああっ、いいっ、すごいっ、誠のが固くなって、[r]
-　こんなにだなんて、ああっ、すげえよっ！」[pcms]
+[ns]Natsu[nse]
+"Ahh, that's good, amazing, Makoto's getting so hard, to be this much,[r]
+ahh, amazing!"[pcms]
 
 *1761|
 [fc]
-[ns]誠[nse]
-「姉ちゃんが感じてくれた方が……僕も嬉しいよ……」[pcms]
+[ns]Makoto[nse]
+"I'm happier when you feel good..."[pcms]
 
 *1762|
 [fc]
 [vo_nat s="natu0405"]
-[ns]夏都[nse]
-「あああっ！　誠っ！」[pcms]
+[ns]Natsu[nse]
+"Ahhh! Makoto!"[pcms]
 
 *1763|
 [fc]
-姉ちゃんのこんな甘い声を聞いたのは、[r]
-初めてのことだった。[pcms]
+It was the first time I heard such sweet moans from my sister.[pcms]
 
 [evcg storage="natu_H015d"][trans_c cross time=300]
 
 *1764|
 [fc]
-僕は嬉しくなって、更に乳首を弄っていく。[pcms]
+I was so happy that I played with her nipples even more.[pcms]
 
 *1765|
 [fc]
 [vo_nat s="natu0406"]
-[ns]夏都[nse]
-「そ、そんなに乳首ばっかり……うぐううああっ！」[pcms]
+[ns]Natsu[nse]
+"Don't just focus on the nipples... uguuuahhh!"[pcms]
 
 *1766|
 [fc]
-[ns]誠[nse]
-「また強くなって！　ふぐううっ！」[pcms]
+[ns]Makoto[nse]
+"It's getting stronger again! Fuguuuuh!"[pcms]
 
 [evcg storage="natu_H015e"][trans_c cross time=300]
 
 *1767|
 [fc]
-僕が姉ちゃんの乳首を弄ると挟む力が強くなって、[r]
-更に乳首を強く捻っていく。[pcms]
+When I played with Onee-san's nipples, she squeezed harder, twisting[r]
+her nipples even more.[pcms]
 
 *1768|
 [fc]
-まるで、永久運動みたいなことになっていた。[pcms]
+It was like a perpetual motion machine.[pcms]
 
 *1769|
 [fc]
 [vo_nat s="natu0407"]
-[ns]夏都[nse]
-「き、気持ちよかったら出してもいいんだぞ……」[pcms]
+[ns]Natsu[nse]
+"If it feels good, you can let it out..."[pcms]
 
 *1770|
 [fc]
-[ns]誠[nse]
-「このまま出したら……かかっちゃうっ！」[pcms]
+[ns]Makoto[nse]
+"If I let it out now... it'll get on you!"[pcms]
 
 *1771|
 [fc]
-姉ちゃんの顔に、僕の精液が……、[r]
-頭から前髪から唇まで……。[pcms]
+My semen on Onee-san's face... from her forehead to her bangs to her[r]
+lips...[pcms]
 
 [evcg storage="natu_H015f"][trans_c cross time=300]
 
 *1772|
 [fc]
 [vo_nat s="natu0408"]
-[ns]夏都[nse]
-「かけていい、好きにしていいから！」[pcms]
+[ns]Natsu[nse]
+"It's okay to do it, do whatever you want!"[pcms]
 
 *1773|
 [fc]
-[ns]誠[nse]
-「そ、そんなやらしいこと……はあああっ！」[pcms]
+[ns]Makoto[nse]
+"Such a lewd thing... haaaah!"[pcms]
 
 *1774|
 [fc]
 [vo_nat s="natu0409"]
-[ns]夏都[nse]
-「あふぐうっ……熱いの……いっぱい出してくれ……」[pcms]
+[ns]Natsu[nse]
+"Ahhhh... it's so hot... let it all out for me..."[pcms]
 
 *1775|
 [fc]
-[ns]誠[nse]
-「ああっ……ああっ……出すよっ！」[pcms]
+[ns]Makoto[nse]
+"Ahh... ahh... I'm going to let it out!"[pcms]
 
 *1776|
 [fc]
 [vo_nat s="natu0410"]
-[ns]夏都[nse]
-「いっぱい……オレの顔に……かけてくれぇっ！」[pcms]
+[ns]Natsu[nse]
+"All over... on my face... let it out!"[pcms]
 
 *1777|
 [fc]
-[ns]誠[nse]
-「くううあああああっ！」[pcms]
+[ns]Makoto[nse]
+"Kuuuuaaaaaah!"[pcms]
 
 *1778|
 [fc]
 [vo_nat s="natu0411"]
-[ns]夏都[nse]
-「誠ぉ……っ！」[pcms]
+[ns]Natsu[nse]
+"Makoto...!"[pcms]
 
 *1779|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……！」[pcms]
+[ns]Makoto[nse]
+"Onee-san...!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -625,60 +617,57 @@
 
 *1780|
 [fc]
-圧迫の強さになんとか逆らいながら、[r]
-僕は精液を打ち上げていた。[pcms]
+Struggling against the pressure, I was shooting out my semen.[pcms]
 
 *1781|
 [fc]
-合宿でオナニーできない分まで、[r]
-溜まりに溜まった精液だ。[pcms]
+It was semen that had built up from not being able to masturbate[r]
+during the training camp.[pcms]
 
 [evcg storage="natu_H015h"][trans_c cross time=300]
 
 *1782|
 [fc]
 [vo_nat s="natu0412"]
-[ns]夏都[nse]
-「出てる、熱いのが、あああっ、こんなにっ」[pcms]
+[ns]Natsu[nse]
+"It's coming out, the hot stuff, ahhh, so much of it"[pcms]
 
 *1783|
 [fc]
 [vo_nat s="natu0413"]
-[ns]夏都[nse]
-「この匂い……いつもより濃くて……こびり付く……」[pcms]
+[ns]Natsu[nse]
+"This smell... it's stronger than usual... and it sticks..."[pcms]
 
 *1784|
 [fc]
-[ns]誠[nse]
-「ああっ……ぐううっ……うぐっ……」[pcms]
+[ns]Makoto[nse]
+"Ahh... guuuh... ugh..."[pcms]
 
 [evcg storage="natu_H015i"][trans_c cross time=300]
 
 *1785|
 [fc]
-僕は姉ちゃんの首から上に、[r]
-大量の精液を発射していた。[pcms]
+I was shooting a large amount of semen above Onee-san's neck.[pcms]
 
 *1786|
 [fc]
-ドロドロに汚れた姉ちゃんの顔が、[r]
-なんだか愛おしい。[pcms]
+Onee-san's face, dirtied with the sticky semen, somehow seemed dear to[r]
+me.[pcms]
 
 *1787|
 [fc]
-[ns]誠[nse]
-「今度は……セックスしたい……」[pcms]
+[ns]Makoto[nse]
+"Next time... I want to have sex..."[pcms]
 
 *1788|
 [fc]
 [vo_nat s="natu0414"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *1789|
 [fc]
-姉ちゃんは無言で頷くと、[r]
-寝そべって僕に身体を許していった。[pcms]
+Onee-san nodded silently and lay down, allowing me access to her body.[pcms]
 
 ;//seフェード停止
 [stopse buf=1]
@@ -690,98 +679,96 @@
 ;//■イベントCG　natu_H016(6k)
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 [evcg storage="natu_H016a"][trans_c cross time=300]
-;//（正常位の夏都。爆乳に顔を埋めるようにして挿入する誠。
-;//　夏都、誠の体に両足を絡めて「だいしゅきホールド」
+;//（正常位の夏。爆乳に顔を埋めるようにして挿入する誠。
+;//　夏、誠の体に両足を絡めて「だいしゅきホールド」
 
 ;//◆ループボイス興奮
 
 *1790|
 [fc]
 [vo_nat s="natu0415"]
-[ns]夏都[nse]
-「んああああっ！　ああああああっ！　くあああああっ！」[pcms]
+[ns]Natsu[nse]
+"Naaaaah! Aaaaaah! Kuaaaaaah!"[pcms]
 
 *1791|
 [fc]
-[ns]誠[nse]
-「姉ちゃんっ！」[pcms]
+[ns]Makoto[nse]
+"Onee-san!"[pcms]
 
 *1792|
 [fc]
 [vo_nat s="natu0416"]
-[ns]夏都[nse]
-「くあああああああっ！」[pcms]
+[ns]Natsu[nse]
+"Kuaaaaaaaaaah!"[pcms]
 
 [evcg storage="natu_H016b"][trans_c cross time=300]
 
 *1793|
 [fc]
-僕は姉ちゃんの身体にむしゃぶりつくように覆い被さると、[r]
-初めてのそこにペニスを突き立てていった。[pcms]
+I covered Onee-san's body as if devouring her and thrust my penis into[r]
+that place for the first time.[pcms]
 
 *1794|
 [fc]
-[ns]誠[nse]
-「すごいいいっ！　締め付けるよぉぉぉっ！」[pcms]
+[ns]Makoto[nse]
+"It feels so good! It's clamping down!"[pcms]
 
 *1795|
 [fc]
 [vo_nat s="natu0417"]
-[ns]夏都[nse]
-「ちょ、ちょっと待ってくれ……あそこが痺れて……」[pcms]
+[ns]Natsu[nse]
+"Wait a minute... my crotch is going numb..."[pcms]
 
 *1796|
 [fc]
-初めての痛みに、姉ちゃんは戸惑っているみたいだった。[r]
-でも、僕はもう我慢が出来ない。[pcms]
+Onee-san seemed confused by the pain of her first time. But I couldn't[r]
+hold back any longer.[pcms]
 
 *1797|
 [fc]
-[ns]誠[nse]
-「ごめんよっ！　姉ちゃんっ！」[pcms]
+[ns]Makoto[nse]
+"I'm sorry! Onee-san!"[pcms]
 
 *1798|
 [fc]
 [vo_nat s="natu0418"]
-[ns]夏都[nse]
-「ふんぐううっっっっっっ！」[pcms]
+[ns]Natsu[nse]
+"Funguuuuuuuuu!"[pcms]
 
 *1799|
 [fc]
-姉ちゃんの肉厚のあそこは、僕のペニスを飲み込むと、[r]
-余裕を持って締め付けてきていた。[pcms]
+Onee-san's meaty pussy swallowed my penis and squeezed it with ease.[pcms]
 
 *1800|
 [fc]
-[ns]誠[nse]
-「おかしくなっちゃうよぉぉぉっ！」[pcms]
+[ns]Makoto[nse]
+"I'm going to go crazy!"[pcms]
 
 *1801|
 [fc]
 [vo_nat s="natu0419"]
-[ns]夏都[nse]
-「あああはがっ……奥まで届いて……がううううっ！」[pcms]
+[ns]Natsu[nse]
+"Aaahh, it's reaching deep inside... gauuuuuuh!"[pcms]
 
 *1802|
 [fc]
-[ns]誠[nse]
-「おっぱい、大きいおっぱい……」[pcms]
+[ns]Makoto[nse]
+"Your breasts, such big breasts..."[pcms]
 
 *1803|
 [fc]
 [vo_nat s="natu0420"]
-[ns]夏都[nse]
-「お、落ち着いて、ああっ、興奮しすぎ、くうああああっ！」[pcms]
+[ns]Natsu[nse]
+"Calm down, ahh, you're too excited, kuaaaaaah!"[pcms]
 
 *1804|
 [fc]
-[ns]誠[nse]
-「顔が埋もれちゃうっ！　身体が全部姉ちゃんに入っちゃうっ！」[pcms]
+[ns]Makoto[nse]
+"My face is buried in them! My whole body is going into Onee-san!"[pcms]
 
 *1805|
 [fc]
-僕は腰をガクガクと震わせながら、[r]
-その奥を開発するように突いていった。[pcms]
+I shook my hips frantically as I thrust deeper into her.[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
@@ -789,261 +776,259 @@
 *1806|
 [fc]
 [vo_nat s="natu0421"]
-[ns]夏都[nse]
-「身体が……勝手に動くうっ……！」[pcms]
+[ns]Natsu[nse]
+"My body is moving on its own...!"[pcms]
 
 [evcg storage="natu_H016c"][trans_c cross time=300]
 
 *1807|
 [fc]
-姉ちゃんのお尻がもぞもぞと動いて、[r]
-僕のものを奥まで飲み込もうとしていた。[pcms]
+Onee-san's butt was wriggling, trying to swallow my thing all the way[r]
+to the back.[pcms]
 
 *1808|
 [fc]
-[ns]誠[nse]
-「気持ちいい？　姉ちゃんも気持ちいい？」[pcms]
+[ns]Makoto[nse]
+"Does it feel good? Does Onee-san feel good too?"[pcms]
 
 *1809|
 [fc]
 [vo_nat s="natu0422"]
-[ns]夏都[nse]
-「わからねえ……でも、頭がはじけそうになって……、[r]
-　ふああああああああっ！」[pcms]
+[ns]Natsu[nse]
+"I don't know... but my head feels like it's going to burst...[r]
+fuaaaaaaaaa!"[pcms]
 
 *1810|
 [fc]
-[ns]誠[nse]
-「ぼ、僕は気持ちいいよ、[r]
-　姉ちゃんに捕まった小動物になったみたい……」[pcms]
+[ns]Makoto[nse]
+"I feel good, like a small animal caught by Onee-san..."[pcms]
 
 *1811|
 [fc]
 [vo_nat s="natu0423"]
-[ns]夏都[nse]
-「そ、そんなんじゃ……あふあああああっ！」[pcms]
+[ns]Natsu[nse]
+"That's not enough... afuaaaaaaaa!"[pcms]
 
 *1812|
 [fc]
-姉ちゃんは初めての体験なりに、[r]
-感じているみたいだった。[pcms]
+It seemed like Onee-san was feeling it, even though it was her first[r]
+time.[pcms]
 
 *1813|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、これからもずっと側にいてねっ！」[pcms]
+[ns]Makoto[nse]
+"Onee-san, always stay by my side from now on!"[pcms]
 
 [evcg storage="natu_H016d"][trans_c cross time=300]
 
 *1814|
 [fc]
 [vo_nat s="natu0424"]
-[ns]夏都[nse]
-「いる、誠と一緒にいる、オレたちはずっと一緒だっ！」[pcms]
+[ns]Natsu[nse]
+"I will, I'll be with Makoto, we'll always be together!"[pcms]
 
 *1815|
 [fc]
-[ns]誠[nse]
-「本当？　ずっと一緒なの！？」[pcms]
+[ns]Makoto[nse]
+"Really? We'll always be together!?"[pcms]
 
 *1816|
 [fc]
 [vo_nat s="natu0425"]
-[ns]夏都[nse]
-「一緒だ、毎日一緒にいて、これからもずっと一緒だ！」[pcms]
+[ns]Natsu[nse]
+"Together, every day together, and from now on always together!"[pcms]
 
 *1817|
 [fc]
-良かった、僕は姉ちゃんが一緒ならそれでいい、[r]
-どこに住んでもなにをしていても、それでいい。[pcms]
+Thank goodness, as long as Onee-san is with me, that's all I need, no[r]
+matter where we live or what we do, that's fine.[pcms]
 
 *1818|
 [fc]
-[ns]誠[nse]
-「じゃあ毎日セックスしようね、朝も昼も夜も、[r]
-　いつでもずっとしてようね！」[pcms]
+[ns]Makoto[nse]
+"Then let's have sex every day, morning, noon, and night, always and[r]
+forever!"[pcms]
 
 *1819|
 [fc]
 [vo_nat s="natu0426"]
-[ns]夏都[nse]
-「いいよ、ずっとセックスして、ああっ！　おかしくなろう！」[pcms]
+[ns]Natsu[nse]
+"Okay, let's keep having sex and go crazy! Aaah!"[pcms]
 
 *1820|
 [fc]
-姉ちゃんは身体をビクビクとさせて、[r]
-今にもイキそうなほど興奮が高まっていた。[pcms]
+Onee-san's body was twitching, and she seemed about to climax from the[r]
+excitement.[pcms]
 
 [evcg storage="natu_H016e"][trans_c cross time=300]
 
 *1821|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、イキそうなの！？」[pcms]
+[ns]Makoto[nse]
+"Onee-san, are you about to come!?"[pcms]
 
 *1822|
 [fc]
 [vo_nat s="natu0427"]
-[ns]夏都[nse]
-「わかんねえ、わかんねえよぉ！」[pcms]
+[ns]Natsu[nse]
+"I don't know, I don't know yooo!"[pcms]
 
 *1823|
 [fc]
-[ns]誠[nse]
-「イッて、姉ちゃんが気持ちよくなって！」[pcms]
+[ns]Makoto[nse]
+"Come on, let Onee-san feel good!"[pcms]
 
 [evcg storage="natu_H016f"][trans_c cross time=300]
 
 *1824|
 [fc]
 [vo_nat s="natu0428"]
-[ns]夏都[nse]
-「あああああっ、ふあああああああっ！」[pcms]
+[ns]Natsu[nse]
+"Aaaaaah, fuaaaaaaaaaa!"[pcms]
 
 *1825|
 [fc]
-絶頂が近いのか、姉ちゃんのあそこが[r]
-ギュウギュウに締まっていた。[pcms]
+Whether she was close to climaxing or not, Onee-san's pussy was[r]
+squeezing tightly.[pcms]
 
 *1826|
 [fc]
-[ns]誠[nse]
-「チンコ千切れちゃうううっ！」[pcms]
+[ns]Makoto[nse]
+"My cock is going to be torn off!"[pcms]
 
 *1827|
 [fc]
 [vo_nat s="natu0429"]
-[ns]夏都[nse]
-「もっと、もっと奥までっ！」[pcms]
+[ns]Natsu[nse]
+"More, deeper!"[pcms]
 
 *1828|
 [fc]
-[ns]誠[nse]
-「姉ちゃんっ！」[pcms]
+[ns]Makoto[nse]
+"Onee-san!"[pcms]
 
 *1829|
 [fc]
 [vo_nat s="natu0430"]
-[ns]夏都[nse]
-「やばっ、あああっ、イクうううううううっ！」[pcms]
+[ns]Natsu[nse]
+"This is bad, aaaaaah, I'm comingggggggg!"[pcms]
 
 *1830|
 [fc]
-[ns]誠[nse]
-「くううううあああああっ！」[pcms]
+[ns]Makoto[nse]
+"Kuuuuuuuuaaaaaaaa!"[pcms]
 
 *1831|
 [fc]
-姉ちゃんは僕の突き上げに溜まらず、[r]
-イッてしまたみたいだった。[pcms]
+Unable to hold back against my thrusts, Onee-san seemed to have[r]
+climaxed.[pcms]
 
 *1832|
 [fc]
-強烈な締め付けの前に、[r]
-僕は腰を前後させることも出来ない。[pcms]
+In front of the intense squeezing, I couldn't even move my hips back[r]
+and forth.[pcms]
 
 [evcg storage="natu_H016g"][trans_c cross time=300]
 
 *1833|
 [fc]
 [vo_nat s="natu0431"]
-[ns]夏都[nse]
-「ふああっ……ふうあああっ……」[pcms]
+[ns]Natsu[nse]
+"Fuaaaa... fuuaaaaa..."[pcms]
 
 *1834|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Onee-san..."[pcms]
 
 *1835|
 [fc]
-力が抜けたところを見計らって、[r]
-思い切り腰を前後させていく。[pcms]
+Seizing the moment when her strength had left her, I thrust my hips[r]
+back and forth with all my might.[pcms]
 
 *1836|
 [fc]
 [vo_nat s="natu0432"]
-[ns]夏都[nse]
-「ふあああああああっ！　またぁぁぁぁっ！」[pcms]
+[ns]Natsu[nse]
+"Fuaaaaaaaaaa! Againnnnnn!"[pcms]
 
 *1837|
 [fc]
-[ns]誠[nse]
-「何回でもイッて！　おかしくなるまでイッてえっ！」[pcms]
+[ns]Makoto[nse]
+"Come as many times as you want! Go crazy until you comeee!"[pcms]
 
 *1838|
 [fc]
-姉ちゃんは断続的に何回も絶頂を繰り返していた。[pcms]
+Onee-san was climaxing intermittently over and over again.[pcms]
 
 *1839|
 [fc]
-その度にペニスが締め付けられて、[r]
-僕は射精することも出来ずに腰を振っていく。[pcms]
+Each time my penis was squeezed tightly, and unable to ejaculate, I[r]
+kept thrusting my hips.[pcms]
 
 *1840|
 [fc]
 [vo_nat s="natu0433"]
-[ns]夏都[nse]
-「わかんねぇ、もうわかんねぇぇっ！」[pcms]
+[ns]Natsu[nse]
+"I don't know anymore, I just don't knowwwww!"[pcms]
 
 *1841|
 [fc]
-[ns]誠[nse]
-「僕もわかんないよぉぉぉっ！」[pcms]
+[ns]Makoto[nse]
+"I don't know either yooooo!"[pcms]
 
 *1842|
 [fc]
 [vo_nat s="natu0434"]
-[ns]夏都[nse]
-「あああ、ふああああっ！　また、イクっ、ふやああああっ！」[pcms]
+[ns]Natsu[nse]
+"Aaaaah, fuaaaaaaa! Again, I'm comingggg, fuyaaaaaaa!"[pcms]
 
 *1843|
 [fc]
-[ns]誠[nse]
-「僕もイキたい……締めすぎて……ああああっ！」[pcms]
+[ns]Makoto[nse]
+"I want to come too... it's squeezing too much... aaaaaah!"[pcms]
 
 *1844|
 [fc]
-締め付けが強力すぎる……。[pcms]
+The squeezing was too powerful...[pcms]
 
 *1845|
 [fc]
-射精できない……。[pcms]
+I couldn't ejaculate...[pcms]
 
 [evcg storage="natu_H016f"][trans_c cross time=300]
 
 *1846|
 [fc]
 [vo_nat s="natu0435"]
-[ns]夏都[nse]
-「ああああっ！　ふぐああああああっ！」[pcms]
+[ns]Natsu[nse]
+"Aaaaaah! Fuguaaaaaaaaaa!"[pcms]
 
 *1847|
 [fc]
-[ns]誠[nse]
-「姉ちゃんっ！　姉ちゃんっ！」[pcms]
+[ns]Makoto[nse]
+"Onee-san! Onee-san!"[pcms]
 
 *1848|
 [fc]
-それでも僕は姉ちゃんを喜ばせるために、[r]
-奥の方を突き続けていた。[pcms]
+But still, I continued to thrust deep inside to please Onee-san.[pcms]
 
 *1849|
 [fc]
 [vo_nat s="natu0436"]
-[ns]夏都[nse]
-「ふんぐおおおおっ！　ぐあああああっ！」[pcms]
+[ns]Natsu[nse]
+"Fungooooo! Guhaaaaaa!"[pcms]
 
 *1850|
 [fc]
-[ns]誠[nse]
-「あああっ！　もうううっ！」[pcms]
+[ns]Makoto[nse]
+"Aaaaah! I'm gonnaaaaa!"[pcms]
 
 *1851|
 [fc]
 [vo_nat s="natu0437"]
-[ns]夏都[nse]
-「また、くるううううううううっ！」[pcms]
+[ns]Natsu[nse]
+"Again, it's cominggggggggg!"[pcms]
 
 ;//;//◆ループボイス絶頂後
 ;//
@@ -1051,25 +1036,25 @@
 *1852|
 [fc]
 [vo_nat s="natu0438"]
-[ns]夏都[nse]
-「ふあっ、んはっ、んふっ、くふっ……」[pcms]
+[ns]Natsu[nse]
+"Fuaa, nhah, nfu, kufu..."[pcms]
 
 *1853|
 [fc]
-姉ちゃんが失神するようにイッた瞬間、[r]
-膣の締め付けが緩くなる。[pcms]
+The moment Onee-san climaxed as if she fainted, the tightness of her[r]
+vagina loosened.[pcms]
 
 *1854|
 [fc]
-僕はここぞとばかりにペニスを擦りつけて、[r]
-絶頂まで駆け上っていった。[pcms]
+I seized the moment to rub my penis against her, racing up to the[r]
+climax.[pcms]
 
 [evcg storage="natu_H016e"][trans_c cross time=300]
 
 *1855|
 [fc]
-[ns]誠[nse]
-「ああああああっ！　いくよおおおおっ」[pcms]
+[ns]Makoto[nse]
+"Aaaaaaaaah! I'm cominggggg!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -1083,46 +1068,46 @@
 
 *1856|
 [fc]
-僕は姉ちゃんの膣奥に、[r]
-これでもかというくらい精液を注ぎ込んでいった。[pcms]
+I poured my semen into Onee-san's vaginal depths as if to say there[r]
+could never be enough.[pcms]
 
 *1857|
 [fc]
 [vo_nat s="natu0439"]
-[ns]夏都[nse]
-「ぐううあああっ！　熱いのがっ！　んぐうううっ！」[pcms]
+[ns]Natsu[nse]
+"Guuuaaaaah! It's so hot! Nguuuuuuh!"[pcms]
 
 *1858|
 [fc]
-[ns]誠[nse]
-「ぐおおっ、ぐうああっ！　んぐううっ！」[pcms]
+[ns]Makoto[nse]
+"Guooooh, guuuaaah! Nguuuuh!"[pcms]
 
 [evcg storage="natu_H016i"][trans_c cross time=300]
 
 *1859|
 [fc]
 [vo_nat s="natu0440"]
-[ns]夏都[nse]
-「いっぱいに……誠の精液で、いっぱいに……」[pcms]
+[ns]Natsu[nse]
+"Filled up... with Makoto's semen, filled up..."[pcms]
 
 *1860|
 [fc]
 [vo_nat s="natu0441"]
-[ns]夏都[nse]
-「まことぉ……」[pcms]
+[ns]Natsu[nse]
+"Makotooo..."[pcms]
 
 *1861|
 [fc]
-姉ちゃんはそのまま失神してしまったみたいだった。[pcms]
+Onee-san seemed to have fainted just like that.[pcms]
 
 *1862|
 [fc]
-僕もあまりにハードな初体験の気持ちよさに、[r]
-ペニスを突き刺したまま意識が遠くなっていく。[pcms]
+Overwhelmed by the pleasure of my very intense first experience, I[r]
+felt my consciousness fading while my penis was still thrust inside.[pcms]
 
 *1863|
 [fc]
-そして、僕たちはそのまま眠りについていた。[pcms]
+And then, we both fell asleep just like that.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -1155,7 +1140,7 @@
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
 
-;//・夏都トゥルーエンドフラグ true_natu成立
+;//・夏トゥルーエンドフラグ true_natu成立
 [eval exp="f.l_トゥルー_natu = 1"]
 
 ;//〆ブロック5140へjump

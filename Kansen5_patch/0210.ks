@@ -23,317 +23,310 @@
 
 *2938|
 [fc]
-僕は、今日何度目になるのか、[r]
-深夜の賢者タイムを迎えていた。[pcms]
+I found myself facing the philosopher's time in the dead of night, for[r]
+what felt like the umpteenth time today.[pcms]
 
 *2939|
 [fc]
-そーいちに教えてもらったコスプレ写真サイトを[r]
-見に行ったせいで、魂から煩悩が抜け落ちている。[pcms]
+It's because I went to check out the cosplay photo site that[r]
+Souichirou told me about, that my worldly desires seemed to have been[r]
+drained from my soul.[pcms]
 
 *2940|
 [fc]
-ベッドで仰向けになりながら、[r]
-僕は天井を眺めていた。[pcms]
+Lying on my back in bed, I stared up at the ceiling.[pcms]
 
 *2941|
 [fc]
-一日に、こんな何回もしちゃって、[r]
-頭が変になっちゃう。[pcms]
+Doing this so many times in a day, I feel like it's going to mess with[r]
+my head.[pcms]
 
 *2942|
 [fc]
-ミルクタンクがフル回転で製造を行っていると思うと、[r]
-空打ちばっかりで申し訳なかった。[pcms]
+I felt sorry for only shooting blanks when I imagined my 'milk tank'[r]
+working overtime to produce.[pcms]
 
 *2943|
 [fc]
-そういえば、後でオナペットランキングの順位を[r]
-更新しておかないと。[pcms]
+By the way, I need to update my fap material rankings later.[pcms]
 
 *2944|
 [fc]
-隠れ一位の姉ちゃんは不動のポジションだけど、[r]
-後は気分で変わったりもする。[pcms]
+The top spot is firmly held by Onee-san, but the rest can change[r]
+depending on my mood.[pcms]
 
 *2945|
 [fc]
-カレーを食べたい日もあれば、[r]
-ラーメンを食べたい日もあるということだ。[pcms]
+Some days I want curry, other days I crave ramenit's like that.[pcms]
 
 *2946|
 [fc]
-頭の中にさっきのそーいちの言葉が思い返された。[pcms]
+Souichirou's words from earlier echoed in my head.[pcms]
 
 *2947|
 [fc]
-[ns]誠[nse]
-「いいことが重なり過ぎていて、少し恐い、か……」[pcms]
+[ns]Makoto[nse]
+"It's a little scary how good things have been piling up..."[pcms]
 
 *2948|
 [fc]
-確かに、少し恐い。[pcms]
+Indeed, it is a little scary.[pcms]
 
 *2949|
 [fc]
-良いこと、楽しいことが起こるたびに、[r]
-僕は不安の影を色濃く感じ取っていた。[pcms]
+With every good and fun thing that happened, I felt a deepening shadow[r]
+of anxiety.[pcms]
 
 *2950|
 [fc]
-ベッドサイドに伏せてある写真立てを、[r]
-片手で起こしてみる。[pcms]
+I tried lifting the photo frame that was lying face down by my[r]
+bedside.[pcms]
 
 ;//■イベントCG　mob_N007　写真立て
 [evcg storage="mob_N007a"][trans_c cross time=300]
 
 *2951|
 [fc]
-そこには、今とは違う過去の自分が暮らしていたことの証、[r]
-存在していた証明の全てが詰まっていた。[pcms]
+In it was proof that a different past self of mine had lived, proof of[r]
+existence packed into one place.[pcms]
 
 *2952|
 [fc]
-簡素な飾り気のない写真立てに、[r]
-家族の写真と友達の写真が収まっている。[pcms]
+The simple, unadorned photo frame contained pictures of my family and[r]
+friends.[pcms]
 
 *2953|
 [fc]
-家族写真は色の[ruby text="あ"]褪せた、すごく古いものだった。[pcms]
+The family photo was very old and faded in color.[pcms]
 
 *2954|
 [fc]
-若い頃の父と母と、幼い頃の何も知らない自分が[r]
-屈託のない表情で笑っている。[pcms]
+A young version of my father and mother and an innocent me from my[r]
+childhood were all smiling carefree.[pcms]
 
 *2955|
 [fc]
-並んで立っている父と母は、あまりにも若すぎて[r]
-僕の記憶にあるその姿とは、少し違って見えていた。[pcms]
+My parents, standing side by side, looked too young, slightly[r]
+different from how I remember them.[pcms]
 
 *2956|
 [fc]
-その若い母親に背中から手を回してもらい、[r]
-こぼれそうな笑顔を見せている自分。[pcms]
+There I was, with a smile about to spill over as my young mother[r]
+wrapped her arms around me from behind.[pcms]
 
 *2957|
 [fc]
-後ろには、なにか大きな木と、その由来や[r]
-解説が書かれているらしい看板が立っていた。[pcms]
+In the background stood a large tree and what seemed to be a signboard[r]
+with explanations or descriptions written on it.[pcms]
 
 *2958|
 [fc]
-友人との写真は最近のものだけど、画質が悪く、[r]
-一目でケータイで撮ったとわかる画像だ。[pcms]
+The photo with friends was more recent but of poor quality, clearly[r]
+taken with a cellphone at a glance.[pcms]
 
 *2959|
 [fc]
-左右にサッカー部と野球部のユニフォームを着た少年が立ち、[r]
-そして真ん中にＹシャツに学生ズボンの僕の姿があった。[pcms]
+To the left and right stood boys in soccer and baseball uniforms, and[r]
+in the center was me in a dress shirt and school trousers.[pcms]
 
 *2960|
 [fc]
-どれも嘘や幻じゃない、過去の自分が体験した[r]
-一瞬を切り抜いたものだ。[pcms]
+All of them were not illusions or lies but snippets of moments[r]
+experienced by my past self.[pcms]
 
 *2961|
 [fc]
-もう二度とは戻らない、再現することも不可能な[r]
-過去の一瞬。[pcms]
+Moments from the past that will never return, impossible to recreate.[pcms]
 
 *2962|
 [fc]
-いずれ、記憶からも無くなってしまう、[r]
-[ruby text="はかな"]儚い一瞬だった。[pcms]
+Eventually, they will fade from memory too, fleeting moments.[pcms]
 
 *2963|
 [fc]
-僕に家族と友人がいたという記録は、[r]
-この写真立ての中にしか残されていない。[pcms]
+The only record that I had a family and friends is contained within[r]
+this photo frame.[pcms]
 
 *2964|
 [fc]
-この写真立てに登場する人物は……、[r]
-僕以外、全て人生から退場してしまっていた。[pcms]
+The people in this photo frame... all but me have exited from life's[r]
+stage.[pcms]
 
 ;//■イベントCG　mob_N007　写真立て
 [evcg storage="mob_N007b"][trans_c cross time=300]
 
 *2965|
 [fc]
-家族写真は、あの日からしばらくして、[r]
-姉ちゃんが調査作戦に参加した折りに、[r]
-廃墟になった基地のロッカーから回収してきたものだ。[pcms]
+The family photo was retrieved by Onee-san from a locker at a ruined[r]
+base shortly after that day when she participated in an investigation[r]
+operation.[pcms]
 
 *2966|
 [fc]
-父さんが、こんな写真をロッカーに入れていたんだと思うと、[r]
-胸が切なくなってくる。[pcms]
+Thinking that dad had kept such a photo in his locker makes my heart[r]
+ache.[pcms]
 
 *2967|
 [fc]
-僕は、父さんが子供を愛する気持ちと同じくらい、[r]
-父親を愛せていたんだろうか。[pcms]
+I wonder if I was able to love my father as much as he loved his[r]
+child.[pcms]
 
 *2968|
 [fc]
-こんな愛を受けられるような資格を、[r]
-持ち合わせていたんだろうか。[pcms]
+Did I even deserve to receive such love?[pcms]
 
 *2969|
 [fc]
-姉ちゃんは、この持ち出しが重大な違反であることを承知で、[r]
-僕のために持ってきてくれたんだ。[pcms]
+Onee-san knew it was a serious violation to take it out, but she did[r]
+it for me anyway.[pcms]
 
 *2970|
 [fc]
-愛されている感覚と、それに応えられない空虚な気持ちが、[r]
-僕の胸の中でせめぎ合う。[pcms]
+The feeling of being loved and the empty feeling of not being able to[r]
+reciprocate wrestle within my chest.[pcms]
 
 *2971|
 [fc]
-友人の写真は、壊れた自分の携帯のメモリに残っていたものを、[r]
-プリントアウトした代物だった。[pcms]
+The photo with friends was printed out from what remained on the[r]
+memory of my broken cellphone.[pcms]
 
 *2972|
 [fc]
-彼らのことを思い出してやれる人間が、[r]
-この世に何人いるんだろうか。[pcms]
+I wonder how many people are left in this world who can remember them.[pcms]
 
 *2973|
 [fc]
-ついこの前まで、一緒に時を刻んでいたはずなのに。[pcms]
+Even though we were just marking time together until recently.[pcms]
 
 *2974|
 [fc]
-４年前の明田での生活が、なんだか夢の中の出来事のように[r]
-思えてくる。[pcms]
+The life I lived in Akita four years ago now feels like an event from[r]
+a dream.[pcms]
 
 *2975|
 [fc]
-まるで、他人の人生か前世の記憶のようにあやふやで、[r]
-ぼんやりとしたものになっていた。[pcms]
+It's become vague and fuzzy, like someone else's life or memories from[r]
+a past life.[pcms]
 
 *2976|
 [fc]
-それは、自分の惨めさや哀れさを保護する脳の機能ではなく、[r]
-半分以上が事実なんだろう。[pcms]
+It's not just a brain function protecting me from my own misery and[r]
+pity; more than half of it is fact.[pcms]
 
 *2977|
 [fc]
-人間は社会を構築する、社会性の生き物だ。[pcms]
+Humans are social creatures that construct societies.[pcms]
 
 *2978|
 [fc]
-自分を自分たらしめていた証や存在の、[r]
-ほぼすべてが破壊されて消え失せている。[pcms]
+Almost everything that made me who I am, the proof and existence of[r]
+myself, has been destroyed and lost.[pcms]
 
 *2979|
 [fc]
-それは僕という存在のほとんどが破壊されてしまったのと、[r]
-意味合い的に変わらない。[pcms]
+It's no different in meaning than saying that almost all of my[r]
+existence has been destroyed.[pcms]
 
 *2980|
 [fc]
-ある日、僕一人が死んで、存在の証が終わってしまうのと、[r]
-ある日、僕以外の全てが死んで、存在を証明するものが[r]
-無くなることは同じなんだと思う。[pcms]
+I think it's the same whether one day I die alone and my existence's[r]
+proof ends, or one day everything but me dies and there's nothing left[r]
+to prove my existence.[pcms]
 
 *2981|
 [fc]
-自分は、自覚もないまま、望むと望まざるとに関わらず、[r]
-違う人間になってしまったに違いない。[pcms]
+Without realizing it, I must have become a different person, whether I[r]
+wished it or not.[pcms]
 
 *2982|
 [fc]
-明田で生活していた僕と、今の僕は違う存在なんだ。[pcms]
+The me who lived in Akita and the me now are different beings.[pcms]
 
 *2983|
 [fc]
-それに、自分には『あの日』の記憶がない。[pcms]
+Moreover, I have no memory of "that day."[pcms]
 
 *2984|
 [fc]
-恐ろしい事件が起きたというイメージは残っているけれど、[r]
-具体的に何があったのか判然としなかった。[pcms]
+While the image of a terrible incident remains, what exactly happened[r]
+is not clear.[pcms]
 
 *2985|
 [fc]
-そのせいで、より一層『あの日』以前と、[r]
-今との隔絶を感じてしまうんだろう。[pcms]
+Perhaps that's why I feel an even greater disconnect between the time[r]
+before "that day" and now.[pcms]
 
 *2986|
 [fc]
-夜ベッドで眠りについて、朝起きたら、[r]
-みんなが死んでいる世界に放り出されたのと同じ気分だ。[pcms]
+It feels the same as going to sleep in my bed at night and waking up[r]
+in the morning to a world where everyone is dead.[pcms]
 
 *2987|
 [fc]
-眠りにつく前のことは覚えているし、[r]
-それからのこともわかるんだけど、[r]
-肝心の部分がなにもわからない。[pcms]
+I remember what happened before I fell asleep, and I understand what[r]
+happened afterward, but the crucial part is completely unknown to me.[pcms]
 
 *2988|
 [fc]
-僕は、感傷的な気分を抑えるために、[r]
-写真立てを再び伏せた。[pcms]
+To suppress my sentimental feelings, I turned the photo frame face[r]
+down again.[pcms]
 
 ;//★room02a 誠の部屋
 [bg storage="room02a"][trans_c cross time=500]
 
 *2989|
 [fc]
-僕が、今築いている新しい友人たちとの生活。[pcms]
+The life I'm building now with my new friends.[pcms]
 
 *2990|
 [fc]
-４年前の世界と、今の世界を繋いでくれている、[r]
-唯一の存在である姉ちゃんとの生活。[pcms]
+The life with my sister, the only connection between the world four[r]
+years ago and the present.[pcms]
 
 *2991|
 [fc]
-どちらも大切で、かえがえの無いものだった。[pcms]
+Both are precious and irreplaceable to me.[pcms]
 
 *2992|
 [fc]
-この世界で生きていきたい。[pcms]
+I want to live in this world.[pcms]
 
 *2993|
 [fc]
-もう二度と、大切なものを失いたくない。[pcms]
+I never want to lose what's important to me again.[pcms]
 
 *2994|
 [fc]
-僕の中に、ぼやけて思い出せないものが増えていくなんて、[r]
-考えるだけで背筋が凍るほどの恐怖だった。[pcms]
+The thought of more things becoming blurred and unrecallable inside me[r]
+was a fear so chilling it made my spine freeze.[pcms]
 
 *2995|
 [fc]
-写真と思い出にしか存在しない世界を懐かしむのは、[r]
-もっとずっとおじいさんになってからでいい。[pcms]
+Longing for a world that exists only in photos and memories is[r]
+something I can save for when I'm much older.[pcms]
 
 *2996|
 [fc]
-４年前のように、自分のあずかり知らぬところで、[r]
-今を喪失してしまうのが、例えようもなく恐かった。[pcms]
+The thought of losing the present without my knowledge, just like four[r]
+years ago, was unspeakably terrifying.[pcms]
 
 *2997|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2998|
 [fc]
-眠気がまぶたに重くのし掛かってくる。[pcms]
+Sleepiness weighs heavily on my eyelids.[pcms]
 
 *2999|
 [fc]
-眠る前の世界と、起きた後の世界。[pcms]
+The world before sleep and the world after waking up.[pcms]
 
 *3000|
 [fc]
-目が覚めても、今の続きの世界であるように、[r]
-僕は祈りながら眠りに落ちていった。[pcms]
+Hoping that when I wake up it will still be a continuation of today, I[r]
+fell asleep with a prayer.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

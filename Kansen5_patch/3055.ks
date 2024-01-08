@@ -31,19 +31,19 @@
 
 *1517|
 [fc]
-[ns]荒井[nse]
-「いっ……いぐぞおおぉぉおおおぉぉぉっっ！！」[pcms]
+[ns]Arai[nse]
+"I'm... I'm cummingggg!!"[pcms]
 
 *1518|
 [fc]
 [vo_aka s="akari_tj0217"]
-[ns]茜梨[nse]
-「きてっきてええぇぇっ！！」[pcms]
+[ns]Akari[nse]
+"Cumming, cumminggg!!"[pcms]
 
 *1519|
 [fc]
-[ns]荒井[nse]
-「ぐっ！　ぐぅおおおぉぉっあああぁぁっっ！！」[pcms]
+[ns]Arai[nse]
+"Guuh! Guuooohhhhh!!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -58,33 +58,32 @@
 *1520|
 [fc]
 [vo_aka s="akari_tj0218"]
-[ns]茜梨[nse]
-「ひっ……ひにゃああああぁぁああぁんんんっっ！！」[pcms]
+[ns]Akari[nse]
+"Hiih... hinyaaaahhhhhnnnn!!"[pcms]
 
 *1521|
 [fc]
-荒井が、もはや言葉とは言えない獣の咆吼をあげて、[r]
-茜梨の膣内に射精した。[pcms]
+Arai let out a bestial roar, no longer resembling human speech, as he[r]
+ejaculated inside Akari's pussy.[pcms]
 
 ;//■イベントCG　akari_H013
 [evcg storage="akari_H013q"][trans_c cross time=300]
 
 *1522|
 [fc]
-どくどくと脈打ちながら体内に流れ込んでくる熱い奔流の感触を[r]
-茜梨は身震いしながら堪能していた。[pcms]
+As the hot torrent pulsed and flowed into her, Akari shivered with[r]
+delight, savoring the sensation.[pcms]
 
 *1523|
 [fc]
 [vo_aka s="akari_tj0219"]
-[ns]茜梨[nse]
-「んんっ！　はあっ！　オマンコ……オマンコのなか[r]
-　あつぃ……あついよおぉ……んああぁっ……」[pcms]
+[ns]Akari[nse]
+"Nnnh! Haaah! My pussy... my pussy's so hot... so hot... nnaaahhh...!"[pcms]
 
 *1524|
 [fc]
-[ns]荒井[nse]
-「ぎ……ぎぎ……っぎぎぎ………ぃ………」[pcms]
+[ns]Arai[nse]
+"Gi... gigi... gigigigi...i..."[pcms]
 
 ;//この辺から立ち絵芝居でしょうか？（た）
 
@@ -100,9 +99,9 @@
 
 *1525|
 [fc]
-膣内に射精され、歓喜に打ち震える茜梨の上で、[r]
-荒井が壊れた機械のような妙な声を上げたかと思うと、[r]
-そのままどうと床に倒れ込んだ。[pcms]
+As Arai ejaculated inside her and Akari trembled with joy, Arai let[r]
+out a strange noise like a broken machine and then collapsed onto the[r]
+floor.[pcms]
 
 ;//★bg12a ホテル客室・朝昼
 [bg storage="BG12a"][trans_c cross time=500]
@@ -110,56 +109,55 @@
 *1526|
 [fc]
 [vo_aka s="akari_tj0220"]
-[ns]茜梨[nse]
-「ん……あらい……せんぱい………？」[pcms]
+[ns]Akari[nse]
+"Nn... Arai... senpai...?"[pcms]
 
 *1527|
 [fc]
-情欲にとろけた目を荒井に向けて、茜梨は荒井に声をかけたが[r]
-荒井はぴくりとも動かない。[pcms]
+With lust-clouded eyes, Akari called out to Arai, but he didn't move[r]
+an inch.[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
 
 *1528|
 [fc]
-床に倒れた荒井は、すでに死んでいた。[pcms]
+The Arai who had fallen to the floor was already dead.[pcms]
 
 *1529|
 [fc]
-淫猥な臭気に満ちた室内を見回すと、サッカー部の部員たちが[r]
-あちらこちらで倒れている。[pcms]
+Looking around the room filled with lewd stench, members of the soccer[r]
+club were collapsed here and there.[pcms]
 
 *1530|
 [fc]
-全員、荒井と同様に、すでに事切れていた。[pcms]
+All of them, like Arai, were already dead.[pcms]
 
 *1531|
 [fc]
-茜梨と花沢とを相手に続いた狂乱の末、部員たち全員合わせて[r]
-軽く数百発は射精したであろうから、命を落としても[r]
-仕方のない状況だった。[pcms]
+After a frenzy of debauchery with Akari and Airi, it was likely that[r]
+the members had cum easily hundreds of times in total, so their deaths[r]
+were inevitable.[pcms]
 
 *1532|
 [fc]
-全ての種を撃ち尽くした男子部員たちの死屍累々たる中で、[r]
-虚ろな表情を浮かべた花沢が、呆けたように[r]
-ただ立ち尽くしていた。[pcms]
+In the midst of the dead bodies of the male members who had shot all[r]
+their seed, Airi stood with a vacant expression, seemingly dazed.[pcms]
 
 *1533|
 [fc]
 [vo_aka s="akari_tj0221"]
-[ns]茜梨[nse]
-「あれぇ……ダレもいない……のかなぁ……」[pcms]
+[ns]Akari[nse]
+"Huh... Is there... no one else...?"[pcms]
 
 *1534|
 [fc]
-茜梨が頭を振って周囲を見回すと、ベッドから体を起こした。[pcms]
+As Akari shook her head and looked around, she got up from the bed.[pcms]
 
 *1535|
 [fc]
-荒淫の限りを尽くした体は思うように動かず、[r]
-茜梨の足下は覚束ない。[pcms]
+Her body, exhausted from the extreme debauchery, didn't move as she[r]
+wanted, and Akari's footing was unsteady.[pcms]
 
 [se buf=0 storage="seB018"]
 ;//♪SE人が倒れる音
@@ -171,123 +169,116 @@
 
 *1536|
 [fc]
-よろめいた拍子に、茜梨はそのまま床に倒れ込んでしまった。[pcms]
+Stumbling, Akari fell to the floor.[pcms]
 
 *1537|
 [fc]
 [vo_aka s="akari_tj0222"]
-[ns]茜梨[nse]
-「あ、あはは……ころんじゃっ……う、うううううっ！」[pcms]
+[ns]Akari[nse]
+"Ah, ahaha... I fell... uuuuuuh!"[pcms]
 
 *1538|
 [fc]
-急激に胸に嘔吐感がこみ上げてくるのを感じ、[r]
-茜梨はそのまま床に吐瀉物をぶちまけた。[pcms]
+Suddenly feeling a surge of nausea in her chest, Akari vomited onto[r]
+the floor.[pcms]
 
 *1539|
 [fc]
 [vo_aka s="akari_tj0223"]
-[ns]茜梨[nse]
-「おえええぇっ！　げええっ！　おぅうえええぇぇっ！！[r]
-　げっげっ、げげげげええええぇぇっ！！」[pcms]
+[ns]Akari[nse]
+"Oeeehhh! Geeeh! Ouuueeeehhh! Gehgeh, gehgehgeheeeehhh!"[pcms]
 
 *1540|
 [fc]
-茜梨は、腹がたぶたぶになるほど胃に貯まっていた[r]
-大量の精液を吐き戻していた。[pcms]
+Akari was throwing up a large amount of semen that had been stored in[r]
+her stomach until it was bloated.[pcms]
 
 *1541|
 [fc]
 [vo_aka s="akari_tj0224"]
-[ns]茜梨[nse]
-「ぐえええぇぇっ！　おええっ！　ええええっ！[r]
-　げぼおぉっ！　げぼっ！　げええぇぇっ！！」[pcms]
+[ns]Akari[nse]
+"Gueeeehhh! Oeeeh! Eeeehhh! Geboohh! Geboh! Geeehhh!"[pcms]
 
 *1542|
 [fc]
-どぼどぼと音を立てて、茜梨の口から[r]
-白濁液があとからあとから吐き出された。[pcms]
+Gurgling sounds came from Akari's mouth as the cloudy liquid was[r]
+vomited out one after another.[pcms]
 
 *1543|
 [fc]
-ホテルの床に精液と胃液の混合物がぶちまけられ、[r]
-饐えた生臭い匂いが室内に充満していく。[pcms]
+The hotel floor was splattered with a mixture of semen and gastric[r]
+juices, filling the room with a foul, fishy smell.[pcms]
 
 *1544|
 [fc]
 [vo_aka s="akari_tj0225"]
-[ns]茜梨[nse]
-「あ……ああ……みんな、はいちゃっ……た……」[pcms]
+[ns]Akari[nse]
+"Ah... aah... everyone's gone inside..."[pcms]
 
 *1545|
 [fc]
-自分が大量の精液を吐き戻したことがおかしいのか、[r]
-吐瀉物まみれの床にぺたんと座り込んだまま、[r]
-茜梨が手を叩いて笑い出した。[pcms]
+Whether she found it funny that she had vomited up so much semen or[r]
+not, Akari sat down on the vomit-covered floor and started laughing[r]
+while clapping her hands.[pcms]
 
 *1546|
 [fc]
 [vo_aka s="akari_tj0226"]
-[ns]茜梨[nse]
-「あはは……あははっ……あはははは、あははははっ……」[pcms]
+[ns]Akari[nse]
+"Ahaha... ahahah... ahahahaha, ahahahahah..."[pcms]
 
 *1547|
 [fc]
-けらけらと茜梨は笑い転げている。[pcms]
+Akari was rolling around in laughter.[pcms]
 
 *1548|
 [fc]
-後ろの花沢は、その様子を見ているのか見ていないのか、[r]
-何の反応も見せずに、相変わらずぼーっと立ち尽くしている。[pcms]
+Behind her, Airi showed no reaction to the scene, continuing to stand[r]
+there blankly as if she hadn't seen anything.[pcms]
 
 *1549|
 [fc]
 [vo_aka s="akari_tj0227"]
-[ns]茜梨[nse]
-「あははは……のみすぎは……よくないニャー……。[r]
-　あはっ、うふふふっ……」[pcms]
+[ns]Akari[nse]
+"Ahahaha... drinking too much is... not good nya~... Ahah, ufufufu..."[pcms]
 
 *1550|
 [fc]
-笑いながら、その時、ふと茜梨の脳裏に[r]
-誠のことが思い出された。[pcms]
+While laughing, Akari suddenly remembered Makoto.[pcms]
 
 *1551|
 [fc]
 [vo_aka s="akari_tj0228"]
-[ns]茜梨[nse]
-「そうだ、そうだよ……まだ、まーくんせんぱいが、[r]
-　いるじゃ、ない……」[pcms]
+[ns]Akari[nse]
+"That's right, that's right... Mak-kun senpai is still... not here..."[pcms]
 
 *1552|
 [fc]
 [vo_aka s="akari_tj0229"]
-[ns]茜梨[nse]
-「うふふっ……まーくん、せんぱいの、おちんちんから[r]
-　でる、せーえきの、あじって……どんなの、かなぁ……」[pcms]
+[ns]Akari[nse]
+"Ufufu... I wonder what Mak-kun senpai's cum tastes like..."[pcms]
 
 *1553|
 [fc]
-薄笑いを浮かべながら、精液まみれの体をゆらりと起こして[r]
-茜梨が立ち上がると、ふらふらと動き出した。[pcms]
+With a faint smile on her face covered in semen, Akari staggered to[r]
+her feet and began to move.[pcms]
 
 *1554|
 [fc]
 [vo_aka s="akari_tj0230"]
-[ns]茜梨[nse]
-「まー、くん、せんぱい……まって、てね……。[r]
-　いま、いくから、ね……うふふっ、うふふふっ……」[pcms]
+[ns]Akari[nse]
+"Mak-kun senpai... wait for me... I'm coming now... ufufu, ufufufu..."[pcms]
 
 *1555|
 [fc]
 [vo_aka s="akari_tj0231"]
-[ns]茜梨[nse]
-「いっ、ぱい……えっち、しよう、ね……」[pcms]
+[ns]Akari[nse]
+"Let's have lots of sex..."[pcms]
 
 *1556|
 [fc]
-茜梨はそのまま、脳裏に浮かんだ誠の姿を求めて[r]
-部屋を出て行った。[pcms]
+Akari left the room in search of Makoto's image that had surfaced in[r]
+her mind.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

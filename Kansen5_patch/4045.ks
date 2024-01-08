@@ -43,12 +43,12 @@
 
 *465|
 [fc]
-中澤君と出渕君……と言うより、Ma-Kun.SとFatty.Gと[r]
-一緒に参加したモンバスイベントが終了した。[pcms]
+Nakazawa-kun and Izubuchi-kun... rather, Ma-Kun.S and Fatty.G have[r]
+finished participating in the MonBus event together.[pcms]
 
 *466|
 [fc]
-結局、わたしたちは参加賞に終わったけど……。[pcms]
+In the end, we only got a participation prize...[pcms]
 
 
 ;//ターヤ大＠コスプレ１（フル＋頭飾り）　表情03　笑顔２　;//
@@ -56,34 +56,34 @@
 *467|
 [fc]
 [vo_tay s="taja_nt0001"]
-[ns]ターヤ[nse]
-（でも、楽しかった……）[pcms]
+[ns]Tarja Pohjonen[nse]
+(But, it was fun...)[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *468|
 [fc]
-モンバスのハンターコスプレの服装のまま、わたしは[r]
-自転車に乗って帰路についていた。[pcms]
+Still dressed in my MonBus hunter cosplay, I was riding my bicycle on[r]
+the way home.[pcms]
 
 *469|
 [fc]
-そんな格好で自転車に乗っているわたしを見て、ときどき[r]
-目を丸くして立ち止まり、ガン見する人もいる。[pcms]
+Sometimes people would stop and stare with wide eyes at me riding my[r]
+bicycle in such an outfit.[pcms]
 
 *470|
 [fc]
-ちょっと恥ずかしい。[pcms]
+It's a bit embarrassing.[pcms]
 
 *471|
 [fc]
-でも、悪い気はしない。[pcms]
+But I don't feel bad about it.[pcms]
 
 *472|
 [fc]
-体育館で中澤君に写メを向けられた時は、あのあと[r]
-Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
-知らない人なら平気。[pcms]
+When Nakazawa-kun pointed his camera at me in the gym, I got angry[r]
+when I found out afterwards that it was Ma-Kun.S, but with strangers,[r]
+I don't mind.[pcms]
 
 
 ;//ターヤ大＠コスプレ１（フル＋頭飾り）　表情02　笑顔１　;//
@@ -91,29 +91,28 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *473|
 [fc]
 [vo_tay s="taja_nt0002"]
-[ns]ターヤ[nse]
-（あ、そうだ……。怜の写真、撮っておきたいな）[pcms]
+[ns]Tarja[nse]
+(Ah, that's right... I want to take a picture of Sato.)[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *474|
 [fc]
-『聖域の巫女』って言ってたけど、あれ、[r]
-何のコスプレなんだろう。[pcms]
+She said she was a "Shrine Maiden of the Sanctuary," but I wonder what[r]
+kind of cosplay that is.[pcms]
 
 *475|
 [fc]
-モンバスじゃないと思うけど……それとも新しい装備で、[r]
-ああいうの、あるのかな……？[pcms]
+I don't think it's from MonBus... Maybe there's new equipment that[r]
+looks like that...?[pcms]
 
 *476|
 [fc]
-わたしは、怜の写真を撮るために、ちょっと寄り道して[r]
-神社に向かうことにした。[pcms]
+I decided to take a detour to the shrine to take a picture of Sato.[pcms]
 
 *477|
 [fc]
-どうせだったら、２人で一緒に写真も撮りたいし。[pcms]
+After all, I want to take a picture with her too.[pcms]
 
 
 ;//ターヤ大＠コスプレ１（フル＋頭飾り）　表情01　通常　　;//
@@ -121,25 +120,25 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *478|
 [fc]
 [vo_tay s="taja_nt0003"]
-[ns]ターヤ[nse]
-（京都から引っ越してきてから、ずっとこういう[r]
-　コスプレイベントもご無沙汰だったしな……）[pcms]
+[ns]Tarja[nse]
+(Since moving from Kyoto, I've been missing out on cosplay events like[r]
+this...)[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *479|
 [fc]
-久しぶりにコスプレしたけど、やっぱり楽しい。[pcms]
+It's been a while since I cosplayed, but it's definitely fun.[pcms]
 
 *480|
 [fc]
-知らない人から羨望の眼差しで見られたり、カメラを向けられて[r]
-ポーズを決めたりすると、レイヤーの血が騒ぐ。[pcms]
+Being looked at with envy by strangers and posing for cameras makes my[r]
+cosplayer's blood boil.[pcms]
 
 *481|
 [fc]
-怜もいっしょだったら、もっと良かったんだけど[r]
-お家のお手伝いじゃ仕方ない。[pcms]
+It would have been better if Sato was with me, but she had to help out[r]
+at home, so it can't be helped.[pcms]
 
 
 ;//ターヤ大＠コスプレ１（フル＋頭飾り）　表情01　通常　　;//
@@ -147,16 +146,16 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *482|
 [fc]
 [vo_tay s="taja_nt0004"]
-[ns]ターヤ[nse]
-（怜といっしょに、どんな写真を撮ろうかな……）[pcms]
+[ns]Tarja Pohjonen[nse]
+(I wonder what kind of pictures I'll take with Sato...)[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *483|
 [fc]
-聖域の巫女とハンターのカップリングで、どんなポーズで[r]
-写真を撮ろうかと考えながら、わたしは神社までの[r]
-道を進んでいた。[pcms]
+Thinking about what poses to take for our coupling photos as the[r]
+Shrine Maiden of the Sanctuary and a hunter, I continued on the road[r]
+to the shrine.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 ;[sysbt_meswin clear]
@@ -173,15 +172,15 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *484|
 [fc]
-………………………………………[pcms]
+...[pcms]
 
 *485|
 [fc]
-………………………………[pcms]
+...[pcms]
 
 *486|
 [fc]
-………………………[pcms]
+...[pcms]
 
 ;//bgm08.ogg
 [bgm storage="BGM08"]
@@ -194,33 +193,34 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *487|
 [fc]
-大神山神社に行く途中の道路で、わたしは妙なものを見た。[pcms]
+On the road to Oogamiyama Shrine, I saw something strange.[pcms]
 
 *488|
 [fc]
-一台の自転車が、ひしゃげて倒れている。[pcms]
+A bicycle was crumpled and fallen over.[pcms]
 
 *489|
 [fc]
-そのすぐ側には、ハザードランプが点きっぱなしの自動車が[r]
-半分、歩道に乗り上げるような形で斜めに停まっている。[pcms]
+Right next to it, a car with its hazard lights still blinking was[r]
+parked diagonally as if it had half-mounted the sidewalk.[pcms]
 
 *490|
 [fc]
-自動車の前が、ちょっとへこんでいる。[pcms]
+The front of the car was slightly dented.[pcms]
 
 *491|
 [fc]
-自動車と自転車の位置関係が、なんだか嫌な感じ。[pcms]
+The position of the car and the bicycle gave off an unpleasant[r]
+feeling.[pcms]
 
 *492|
 [fc]
-まるで、自動車が自転車をはね飛ばしたみたいにも見える。[pcms]
+It almost looked as if the car had knocked the bicycle flying.[pcms]
 
 *493|
 [fc]
-時々、他の自動車が横を通り過ぎるけど、ちらっと横目で[r]
-その光景を見るだけで、誰も停まる様子はない。[pcms]
+Sometimes other cars would pass by, but they would only glance at the[r]
+scene and none seemed to stop.[pcms]
 
 ;//SE　草むらががさがさいう音
 ;//seA045.ogg
@@ -228,16 +228,16 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *494|
 [fc]
-どうしようかと考えてたら、自転車が倒れている先の草むらで[r]
-がさがさと音がした。[pcms]
+As I was wondering what to do, I heard rustling from the bushes ahead[r]
+where the bicycle had fallen over.[pcms]
 
 *495|
 [fc]
-なんだろう？　野良猫かなにかかな？[pcms]
+What could it be? Maybe a stray cat or something?[pcms]
 
 *496|
 [fc]
-その時。[pcms]
+That's when...[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -249,20 +249,21 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 [fc]
 [se buf=0 storage="seG013" v=80]
 [ns]？？？[nse]
-「うう………うううぅ…………ぅうううぅ…………」[pcms]
+"Ugh... ughhh... ughhhhh..."[pcms]
 
 *498|
 [fc]
-草むらの奥から、誰かのうめき声のような音が聞こえてきた。[pcms]
+I could hear a sound like someone's groaning coming from deep within[r]
+the bushes.[pcms]
 
 *499|
 [fc]
-思わずはっとして、声のした方に目を凝らすと、[r]
-草の上に、点々と赤いものが落ちているのに気がついた。[pcms]
+Startled, I focused my eyes in the direction of the voice and noticed[r]
+something red scattered on top of the grass.[pcms]
 
 *500|
 [fc]
-誰かが怪我して、草むらの奥に倒れてるのに違いない。[pcms]
+Someone must be hurt and lying in the back of the bushes.[pcms]
 
 
 ;//ターヤ大＠コスプレ１（フル＋頭飾り）　表情04　真剣　　;//
@@ -270,14 +271,14 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *501|
 [fc]
 [vo_tay s="taja_nt0005"]
-[ns]ターヤ[nse]
-「助けなきゃ……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I have to help...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *502|
 [fc]
-わたしは自転車を停めて、草むらの奥へと分け入った。[pcms]
+I stopped my bicycle and made my way into the depths of the bushes.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -296,15 +297,15 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *503|
 [fc]
-声がだんだん近くなってきたけど、なんだか妙だ。[pcms]
+The voice was getting closer, but something felt odd.[pcms]
 
 ;//seA045.ogg
 [se buf=0 storage="seA045"]
 
 *504|
 [fc]
-倒れている人影らしきものが見えたので、駆け寄って声を[r]
-かけようとしたら、わたしはとんでもない光景を目撃した。[pcms]
+I saw something that looked like a person lying down, so I ran over to[r]
+call out to them, only to witness an unbelievable scene.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -316,8 +317,8 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *505|
 [fc]
-自分が目にした光景にはっとして、わたしはその場に[r]
-立ち竦んでしまった。[pcms]
+I was shocked by the scene before me, and I found myself frozen in[r]
+place.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -329,38 +330,36 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *505a|
 [fc]
-[ns]男[nse]
-「あ゛あぁ～、お゛まんご[r]
-　ぎぼぢい゛いなああぁ～あ゛～」[pcms]
+[ns]Male[nse]
+"Aahh~ my pussy feels so good~"[pcms]
 
 *506|
 [fc]
 [vo_mob s="oso0003"]
-[ns]女[nse]
-「きゃあああっ！　いやああぁ！　こ、来ないでっ！」[pcms]
+[ns]Female[nse]
+"Kyaaah! Nooo! Don't come any closer!"[pcms]
 
 *507|
 [fc]
-男の人が女の人にのしかかって、草むらでエッチしてる。[pcms]
+A man was on top of a woman in the bushes, having sex.[pcms]
 
 *508|
 [fc]
-女の人は必死に抵抗してるから、これって……レイプ！？[pcms]
+The woman was desperately resisting, so this must be... rape!?[pcms]
 
 *509|
 [fc]
-しかも、男の人は顔に大怪我して、傷口から[r]
-だらだらと血を流している。[pcms]
+Moreover, the man had a serious injury on his face, with blood oozing[r]
+from the wound.[pcms]
 
 *510|
 [fc]
-多分、この男の人が自転車に乗ってて、自動車に[r]
-撥ねられたんだろう。[pcms]
+Probably, this man was riding a bicycle and got hit by a car.[pcms]
 
 *511|
 [fc]
-でも、男の人は、自分の怪我がまったく気にならないのか、[r]
-嫌がる女の人の上で夢中になって腰を動かしてる。[pcms]
+But the man seemed completely oblivious to his own injuries, moving[r]
+his hips frantically on top of the resisting woman.[pcms]
 
 
 ;//ターヤ大＠コスプレ１（フル＋頭飾り）　表情15　驚愕　　;//
@@ -368,35 +367,35 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *512|
 [fc]
 [vo_tay s="taja_nt0006"]
-[ns]ターヤ[nse]
-「あっ………！」[pcms]
+[ns]Tarja[nse]
+"Ah...!"[pcms]
 
 *513|
 [fc]
-その時、わたしは男の人の片腕が、あり得ない方向に[r]
-ぐんにゃり曲がって、骨が飛び出してるのに気がついた。[pcms]
+That's when I noticed one of the man's arms was bent in an impossible[r]
+direction, with the bone sticking out.[pcms]
 
 *514|
 [fc]
-思わず声をあげそうになったけど、わたしはあわてて[r]
-自分の口を手で塞ぎ、声を飲み込んだ。[pcms]
+I almost cried out, but I quickly covered my mouth with my hand and[r]
+swallowed my voice.[pcms]
 
 *515|
 [fc]
 [vo_tay s="taja_nt0007"]
-[ns]ターヤ[nse]
-（なに……これ……！？）[pcms]
+[ns]Tarja[nse]
+(What... is this...!?)"[pcms]
 
 *516|
 [fc]
-おかしい。明らかにこの光景はおかしい。[pcms]
+Something was clearly wrong with this scene.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *517|
 [fc]
-とにかくその場から逃げだそうと、わたしが来た道を[r]
-もどろうと振り返ると。[pcms]
+Thinking I had to escape immediately, I turned to go back the way I[r]
+came.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=0][trans_c cross time=150]
 ;//seG013.ogg
@@ -404,14 +403,12 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *517a|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あぁ～、きん゛ばづの゛おんなのごだあ゛ぁ。[r]
-　があ゛ぁわ゛いいぃなあ゛あぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Aahh~ the girl's genitals are so nice~"[pcms]
 
 *518|
 [fc]
-わたしのすぐ後ろに、ひとりの男が視点のあわない目つきで[r]
-へらへら笑いながら立っていた。[pcms]
+Right behind me stood a man with unfocused eyes, grinning foolishly.[pcms]
 
 
 ;//ターヤ大＠コスプレ１（フル＋頭飾り）　表情16　絶叫　　;//
@@ -419,8 +416,8 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *519|
 [fc]
 [vo_tay s="taja_nt0008"]
-[ns]ターヤ[nse]
-「きゃあぁっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Kyaaah!!"[pcms]
 
 [chara_int][trans_c tb time=250]
 ;//seB022.ogg
@@ -428,17 +425,16 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *520|
 [fc]
-あまりにも驚いたわたしは、腰が抜けてその場にぺたんと[r]
-座り込んでしまった。[pcms]
+I was so startled that I collapsed right there on the spot.[pcms]
 
 *521|
 [fc]
-薄汚れてだらしなく着乱れた服装。視点の合わない目つき。[r]
-その瞳は赤く、口元からはよだれまで垂れ流してる。[pcms]
+His clothes were dirty and disheveled. His gaze was unfocused. His[r]
+eyes were red, and drool was dripping from his mouth.[pcms]
 
 *522|
 [fc]
-どう見ても、この男は普通じゃない。[pcms]
+No matter how you looked at it, this man was not normal.[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan2_x"][ChrSetXY layer=3 x=-90 y=0]
 [ChrSetEx layer=4 chbase="mob_kan3_x"][ChrSetXY layer=4 x=570 y=0][trans_c cross time=150]
@@ -447,21 +443,21 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *522a|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛おぉ～、お゛んなの゛こがい゛る゛ぞお゛ぉ～」[pcms]
+[ns]Infected Person B[nse]
+"Oooh~ there's a girl here~"[pcms]
 
 ;//seG013.ogg
 ;//<SoundLoop 3,OFF><SoundLoad 3,seG013"]
 
 *522b|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛だらじい゛～、お゛まん゛ごだあ゛あぁ～」[pcms]
+[ns]Infected Person C[nse]
+"So lewd~ her pussy~"[pcms]
 
 *523|
 [fc]
-いつの間にか、わたしの後ろに立っていた男の仲間みたいな、[r]
-薄汚れた身なりの男たちが、何人も集まってきた。[pcms]
+Suddenly, several men who looked like they were with the man behind[r]
+me, all dirty and disheveled, had gathered around.[pcms]
 
 ;//<ChrInit>
 
@@ -470,17 +466,16 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *524|
 [fc]
 [vo_tay s="taja_nt0009"]
-[ns]ターヤ[nse]
-「い、いやっ！　こっち、来ないで！」[pcms]
+[ns]Tarja[nse]
+"No, no! Don't come this way!"[pcms]
 
 *525|
 [fc]
-わたしは急いで立ち上がると、コスプレ用の剣を抜いて[r]
-男たちを威嚇した。[pcms]
+I quickly stood up and drew my cosplay sword to threaten the men.[pcms]
 
 *526|
 [fc]
-でも、わたしの行動は、男たちをよけいに喜ばせただけだった。[pcms]
+But my actions only seemed to amuse the men even more.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 ;//seG013.ogg
@@ -488,8 +483,8 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *526a|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛ははは～、が～わ゛いいいぃ～っ。も゛え゛～っ゛♪」[pcms]
+[ns]Infected Person D[nse]
+"Ahahaha~ so cute~ I love it~♪"[pcms]
 
 
 ;//ターヤ大＠コスプレ１（フル＋頭飾り）　表情16　絶叫　　;//
@@ -501,8 +496,8 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *527|
 [fc]
 [vo_tay s="taja_nt0010"]
-[ns]ターヤ[nse]
-「い、いやっ！　来ないで！　来ないでっ！」[pcms]
+[ns]Tarja[nse]
+"No, no! Don't come any closer! Stay away!"[pcms]
 
 [se buf=0 storage="seB042"]
 ;//♪SE日本刀の風切り音
@@ -514,7 +509,7 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *528|
 [fc]
-わたしはコスプレ用の剣をぶんぶん振り回した。[pcms]
+I swung my cosplay sword wildly.[pcms]
 
 [se buf=0 storage="seB042"]
 ;//♪SE日本刀の風切り音
@@ -522,12 +517,12 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *529|
 [fc]
-振り回した剣が、男たちの顔や体にごつごつ当たる。[pcms]
+The sword I swung around hit the men's faces and bodies with a thud.[pcms]
 
 *530|
 [fc]
-いくらプラスチック製の軽い模造剣だと言っても、[r]
-思い切り振り回してるんだから、当たれば少しは痛いはず。[pcms]
+Even though it was a light plastic replica sword, if swung with all[r]
+one's might, it should hurt a bit when it hits.[pcms]
 
 
 ;//MOB中＠感染者　17　金髪筋肉　
@@ -539,8 +534,7 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *531|
 [fc]
-でも、男たちは全く痛みを感じないみたいに[r]
-ずんずん近づいてくる。[pcms]
+But the men kept advancing as if they didn't feel any pain at all.[pcms]
 
 ;//seG014.ogg
 ;//<SoundLoop 2,OFF><SoundLoad 2,seG014.ogg><SoundDir 2,Default><SoundRun 2,Play>
@@ -550,8 +544,8 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *532|
 [fc]
-その異様さに恐怖を感じたわたしは、剣を放り投げて[r]
-男たちに背中を向けて走り出した。[pcms]
+Frightened by their abnormality, I threw away the sword and turned to[r]
+run away from them.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -579,59 +573,58 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *532a|
 [fc]
-[ns]感染者Ａ[nse]
-「づ～がまえだっ～♪」[pcms]
+[ns]Infected Person A[nse]
+"Such a pretty back~♪"[pcms]
 
 *533|
 [fc]
-しかし、男たちのひとりに腕をつかまれてしまった。[pcms]
+However, one of the men grabbed my arm.[pcms]
 
 [evcg storage="taja_H012b"][trans_c cross time=300]
 
 *534|
 [fc]
 [vo_tay s="taja_nt0011"]
-[ns]ターヤ[nse]
-「いやああぁっ！　放してえっ！！」[pcms]
+[ns]Tarja[nse]
+"Nooo! Let go of me!!"[pcms]
 
 *535|
 [fc]
-薄気味悪い男たちがわたしの周りを取り囲んで、口々に[r]
-わたしの見た目のことを口にする。[pcms]
+The creepy men surrounded me and started commenting on my appearance.[pcms]
 
 ;//seG015.ogg
 ;//<SoundLoop 2,ON><SoundLoad 2,seG013.ogg><SoundDir 2,Default><SoundRun 2,Play>
 
 *536|
 [fc]
-[ns]感染者Ｂ[nse]
-「ん゛～、ほん゛とう゛にがわ゛いいな゛あ゛あぁ～～～」[pcms]
+[ns]Infected Person B[nse]
+"Mmm~ you're really pretty~"[pcms]
 
 *537|
 [fc]
-[ns]感染者Ｃ[nse]
-「ま゛るで、おに゛んぎょうさん゛み゛たいだな゛あ゛ぁ～」[pcms]
+[ns]Infected Person C[nse]
+"You look just like a doll~"[pcms]
 
 *538|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛れ゛ぇ～、きん゛ぱつ、だい゛すきな゛ん゛だよ～」[pcms]
+[ns]Infected Person D[nse]
+"I really love blondes~"[pcms]
 
 *539|
 [fc]
-[ns]感染者Ｅ[nse]
-「あ゛～、み゛ろぉ、め゛も゛あおいぞお゛ぉ～」[pcms]
+[ns]Infected E[nse]
+"Ahh~, look at those blue eyes~"[pcms]
 
 *540|
 [fc]
-[ns]感染者Ｃ[nse]
-「ふら゛ん゛すに゛んぎょう゛み゛たい゛だあ゛あぁ～」[pcms]
+[ns]Infected Person C[nse]
+"She looks just like a French doll~"[pcms]
 
 *541|
 [fc]
-[ns]感染者Ｂ[nse]
-「ばぁか。こう゛いうこは～、ほくおうけい、びしょう゛じょって[r]
-　い゛うん゛だぜ～。じらねえ゛のがよ゛ぉ～」[pcms]
+[ns]Infected Person B[nse]
+"Idiot. Girls like her are called Nordic beauties. It's better not to[r]
+rush~"[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -639,14 +632,14 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *542|
 [fc]
-わたしの腕をつかんだ男が、いきなりレオタードの股間の布を[r]
-ぐいっとずらした。[pcms]
+The man who grabbed my arm suddenly shifted the fabric covering[r]
+Leonard's crotch.[pcms]
 
 *543|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～、だまんねえぇっ～！[r]
-　きんぱづむ゛ずめどぉ、ファックだあ゛ぁ゛っ゛！」[pcms]
+[ns]Infected Person A[nse]
+"Ahh, I can't stand it~! It's time to fuck, you golden-haired[r]
+beauty~!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -660,121 +653,111 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *544|
 [fc]
 [vo_tay s="taja_nt0012"]
-[ns]ターヤ[nse]
-「ぎっ、ぎぎぎぎぎいいいいぃぃぃっっ！！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Giiiiiiiiiiiiiiiiiiii!!!"[pcms]
 
 *545|
 [fc]
-男が、いきなりわたしのあそこにいきり立った[r]
-ペニスをねじ込んできた。[pcms]
+The man suddenly forced his erect penis into my pussy.[pcms]
 
 *546|
 [fc]
-[ns]感染者Ａ[nse]
-「あ～、はいっだああぁぁ～。[r]
-　きん゛ばつむすめの゛お゛まんこだあ゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahh, it's in~. This golden-haired girl's pussy~"[pcms]
 
 *547|
 [fc]
 [vo_tay s="taja_nt0013"]
-[ns]ターヤ[nse]
-「痛いぃぃっ！！　いたいっいたいいたいいたいぃぃっ！！！」[pcms]
+[ns]Tarja[nse]
+"It hurts!! It hurts, it hurts, it hurts, it hurts!!"[pcms]
 
 *548|
 [fc]
-あそこから体が２つに引き裂けそうな痛みから逃れようと、[r]
-わたしは死にもの狂いで暴れた。[pcms]
+In an attempt to escape the pain that felt like my body was being torn[r]
+in two from my pussy, I thrashed about desperately.[pcms]
 
 *549|
 [fc]
-でも、わたしの腕をつかんだ男の腕は、まるで万力みたいに[r]
-わたしの腕をつかんだままでびくともしない。[pcms]
+But the man's grip on my arm was unyielding, like a vise, and he[r]
+didn't budge at all.[pcms]
 
 *550|
 [fc]
-[ns]感染者Ａ[nse]
-「お～、おまんごがら、ぢがででるぞおぉ～。[r]
-　このご、しょじょ、だっだのがあ゛ぁ～らっぎ～♪」[pcms]
+[ns]Infected Person A[nse]
+"Oh~, juices are starting to flow from her pussy~. This girl, she's[r]
+still a virgin, what a find~♪"[pcms]
 
 *551|
 [fc]
-[ns]感染者Ａ[nse]
-「ごんな～、がわいいおんなのごの、[r]
-　しょじょ、もらえるなんで～、おれ、じあわぜだあぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Man~, to think I'd get a cute girl like this, I'm so lucky~"[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
 *552|
 [fc]
-そう言うと、男がいきなり激しく腰を動かしはじめた。[pcms]
+With that said, the man suddenly began to thrust his hips violently.[pcms]
 
 *553|
 [fc]
 [vo_tay s="taja_nt0014"]
-[ns]ターヤ[nse]
-「あっぐううぅっ！　ぎぃいいいぃっっ！！[r]
-　やめ…でっ……痛いっ！　痛い痛い痛い痛い痛いいぃっ！！」[pcms]
+[ns]Tarja[nse]
+"Agguuuu! Giiiiiiii!! Stop... it... hurts! It hurts, it hurts, it[r]
+hurts!!"[pcms]
 
 *554|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あぁ～、しょじょの゛おまんこぉ～、よ゛ぐしま゛るうぅ～[r]
-　ぎぼぢいいぃぃ～ん」[pcms]
+[ns]Infected Person A[nse]
+"Ahhh~, a virgin's pussy~ it's tightening up~ feels so good~"[pcms]
 
 *555|
 [fc]
-わたしが痛みに泣き叫んでいるのに、男はまったく気にしないで[r]
-後ろで腰を振り続けている。[pcms]
+Despite my cries of pain, the man didn't care at all and continued to[r]
+thrust from behind.[pcms]
 
 *556|
 [fc]
 [vo_tay s="taja_nt0015"]
-[ns]ターヤ[nse]
-「ひぎっ！　ぐぎぃ！　やべ、でっ！　いだぁいぃぃっ！[r]
-　おね……がいっ、いだいよぉっ！　いだいのっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Higii! Gyii! Stop... it...! It hurts!! Please... it hurts so much!!"[pcms]
 
 *557|
 [fc]
-愛撫も何もされてない、乾いたままのあそこを、男のペニスが[r]
-前後する度に、内臓が破壊されるみたいな[r]
-強烈な痛みが全身に走る。[pcms]
+Without any foreplay, the dry penetration of the man's penis caused[r]
+intense pain as if my insides were being destroyed with every thrust.[pcms]
 
 *558|
 [fc]
-[ns]感染者Ａ[nse]
-「おっおほぉぅっ！　いいっ、ごれはぎぼぢいいっ！[r]
-　オナホールより、ぜんぜん゛ぎぼぢいいいぞおおおっ！！」[pcms]
+[ns]Infected Person A[nse]
+"Ohhooouu! This is great, way better than a fleshlight!!"[pcms]
 
 *559|
 [fc]
-[ns]感染者Ｄ[nse]
-「な゛んだぁ、ごいづぅ、しろーとどうてい、かよお゛ぉ～。[r]
-　かっこわ゛りぃなあ゛ぁ～」[pcms]
+[ns]Infected D[nse]
+"What's this? A virgin amateur? That's so lame~"[pcms]
 
 *560|
 [fc]
-[ns]感染者Ａ[nse]
-「う、うるぜ～、オレみだいな～、キモメンがあぁ[r]
-　ふづうの、おんなに、あいでにじで、もらえるわげねぇだろ～」[pcms]
+[ns]Infected Person A[nse]
+"Shut up~. Like someone ugly like me would ever get a normal woman to[r]
+look at me~"[pcms]
 
 *561|
 [fc]
-[ns]感染者Ａ[nse]
-「うふぅううぉっ！　あ～おまんこぉたまんねえぇっ！！[r]
-　よし～っ、このこぉ、オレせんようのおぉ～[r]
-　オナホールに、けっていだあぁ～！！」[pcms]
+[ns]Infected Person A[nse]
+"Ufuuuoo! Ahh, this pussy is irresistible!! Alright~, this girl is[r]
+decided to be my personal fleshlight!!"[pcms]
 
 *562|
 [fc]
-[ns]感染者Ｂ[nse]
-「ふ～ざけんな゛～、だれがぁ、お゛まえだけの゛もん゛だって[r]
-　きめ゛たんだよお゛ぉ～」[pcms]
+[ns]Infected Person B[nse]
+"Don't mess around~, who decided she's only yours~"[pcms]
 
 *563|
 [fc]
-わたしの前に立った別の男が、いきなりペニスをわたしの[r]
-口の中にねじ込んできた。[pcms]
+Another man standing in front of me suddenly forced his penis into my[r]
+mouth.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -784,128 +767,124 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *564|
 [fc]
 [vo_tay s="taja_nt0016"]
-[ns]ターヤ[nse]
-「ぶふうぅううぅぅっ！！　おぐうぅぅぅっっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Bufuuuuuuuuu!! Ogooooooo!!"[pcms]
 
 *565|
 [fc]
-腔内に無理矢理、汚いペニスをねじ込まれて、わたしはその[r]
-臭気と嫌悪感に身悶えした。[pcms]
+Forced to take the filthy penis into my mouth, I writhed in disgust[r]
+and the stench.[pcms]
 
 *566|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛ら～、お゛れのちんぽ、う゛め゛ぇだろぉ～[r]
-　のどのおぐまでぇ、しっかりしゃぶれえぇ～」[pcms]
+[ns]Infected Person B[nse]
+"Hey~, suck on my cock properly, all the way down your throat~"[pcms]
 
 *567|
 [fc]
-口の中にペニスをねじ込んだ男が、力任せに腰を突き出して[r]
-わたしの喉奥に、汚れたペニスが達する。[pcms]
+The man who forced his penis into my mouth thrust his hips forcefully,[r]
+making his dirty penis reach the back of my throat.[pcms]
 
 [evcg storage="taja_H012e"][trans_c cross time=300]
 
 *568|
 [fc]
 [vo_tay s="taja_nt0017"]
-[ns]ターヤ[nse]
-「ごほっ！　げぼっ！　ぐえぇっ！[r]
-　おっ……ぷ……げぼおぉぉっ！　おえええぇぇぇっ！！」[pcms]
+[ns]Tarja[nse]
+"Gohho! Gebo! Gueee! Opu... geboooh! Oeeeeeeh!!"[pcms]
 
 *569|
 [fc]
-喉奥に感じる異物感に、思わずわたしは嘔吐していた。[pcms]
+I involuntarily vomited due to the foreign sensation in the back of my[r]
+throat.[pcms]
 
 *570|
 [fc]
 [vo_tay s="taja_nt0018"]
-[ns]ターヤ[nse]
-「げぼぉぉっ！　ごぼっ、げぶっ、げぼっげぼおっっ！[r]
-　おえぇっおえええぇぇっ！」[pcms]
+[ns]Tarja[nse]
+"Gebooooh! Gobbo, geboo, geboogeboooh! Oeeeh oeeeeeh!!"[pcms]
 
 *571|
 [fc]
-胃が痙攣して、吐瀉物が口から逆流する。酸っぱい胃液の味が[r]
-腔内に満ちて、それがまた新たな嘔吐感を引き起こす。[pcms]
+My stomach convulsed and vomit refluxed from my mouth. The sour taste[r]
+of stomach acid filled my mouth, triggering further vomiting.[pcms]
 
 *572|
 [fc]
-しかし、わたしが吐き続けているのに、腔内にペニスを[r]
-ねじ込んだ男は、それでもわたしの腔内から[r]
-ペニスを抜こうとしない。[pcms]
+However, even as I continued to vomit, the man with his penis in my[r]
+mouth did not pull out.[pcms]
 
 *573|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛あぁ～、チンポにゲロがからみついてぇ゛[r]
-　ぬるぬるするぅ～ぎぼぢいいぃ～」[pcms]
+[ns]Infected Person B[nse]
+"Ahhh~, the vomit is clinging to my dick making it slippery~ feels so[r]
+good~"[pcms]
 
 *574|
 [fc]
-吐瀉物ですら、この異様な男たちには、快感を引き出すための[r]
-ローション代わりでしかないらしい。[pcms]
+Even my vomit seemed to serve as nothing more than lotion for these[r]
+abnormal men's pleasure.[pcms]
 
 *575|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あぁ～、お゛れぇ～、も゛ういぎそうだあ゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahhh~, I'm about to cum~"[pcms]
 
 *576|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ～、ん゛じゃ～、お゛れも゛だしとっかな゛～」[pcms]
+[ns]Infected Person B[nse]
+"Ah~, then I should cum too~"[pcms]
 
 *577|
 [fc]
 [vo_tay s="taja_nt0019"]
-[ns]ターヤ[nse]
-「ぐぶぅっ！　やべ……でっ……！　ごぼっ！[r]
-　だずげ……でっ！　だれが……っ……えほっ！[r]
-　げほっげぼっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gubuu! Stop... it...! Gobbo! It's disgusting...! Who is... ehho![r]
+Gehhogeboo!"[pcms]
 
 *578|
 [fc]
-後ろでわたしのあそこを犯している男と、前でわたしの口を[r]
-犯している男が、同時に腰を振る速度を上げて、[r]
-わたしは目を白黒させた。[pcms]
+The man raping me from behind and the one in front both increased[r]
+their pace simultaneously, and I rolled my eyes in shock.[pcms]
 
 [evcg storage="taja_H012f"][trans_c cross time=300]
 
 *579|
 [fc]
 [vo_tay s="taja_nt0020"]
-[ns]ターヤ[nse]
-「おで……がいっ……も…やべ……でっ……！[r]
-　ぐぼおぉっ！　ぐっ……ぐるじいぃ……よおぉ……っ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Please... stop... it's... too much...! Guboooh! It's... so filthy...[r]
+ahh...!!"[pcms]
 
 *580|
 [fc]
-どちらの穴からも、苦痛と屈辱しか感じらない。[pcms]
+From both holes, I feel nothing but pain and humiliation.[pcms]
 
 *581|
 [fc]
-口の中を犯されながらも、わたしは必死に男たちに懇願したが[r]
-男たちはまったく聞く耳を持たない。[pcms]
+While being violated in my mouth, I desperately pleaded with the men,[r]
+but they did not listen at all.[pcms]
 
 *582|
 [fc]
-そもそも、わたしの言葉を理解してるのかすら怪しい。[pcms]
+It's even doubtful whether they understand my words in the first[r]
+place.[pcms]
 
 *583|
 [fc]
-[ns]感染者Ａ[nse]
-「あ～、だめだあぁ、でるうぅ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahh~, no good, it's coming out~"[pcms]
 
 *584|
 [fc]
-[ns]感染者Ｂ[nse]
-「おれもだめだあぁ～、でるっでるっでるうううぅぅ～」[pcms]
+[ns]Infected Person B[nse]
+"I'm also no good~ It's coming, it's coming out~"[pcms]
 
 *585|
 [fc]
 [vo_tay s="taja_nt0021"]
-[ns]ターヤ[nse]
-「ひいいぃぃぃぃぇぇぇっ！！！」[pcms]
+[ns]Tarja[nse]
+"Hiiiiiiieeeee!!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -924,73 +903,71 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *586|
 [fc]
 [vo_tay s="taja_nt0022"]
-[ns]ターヤ[nse]
-「うぶうっ！　ぐええぇっ！　げっ、げええぇぇぇっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ubuu! Gueeeh! Geh, geeeeeh!!"[pcms]
 
 *587|
 [fc]
-男が、わたしの口内に生臭い白濁液を大量に放出した。[pcms]
+The man released a large amount of fishy white turbid fluid into my[r]
+mouth.[pcms]
 
 *588|
 [fc]
 [vo_tay s="taja_nt0023"]
-[ns]ターヤ[nse]
-「ぐっ……ぐるじ……いっ……おぶうぅぅっ………！」[pcms]
+[ns]Tarja[nse]
+"Guh... so filthy... ubuuuuh...!"[pcms]
 
 *589|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛あぁ゛～くちまん゛こ、ぎぼぢい゛いぃ～♪」[pcms]
+[ns]Infected Person B[nse]
+"Aah~ your mouth pussy feels so good~♪"[pcms]
 
 *590|
 [fc]
-男の射精はいつまでも続き、わたしの喉奥や口内を、生臭く[r]
-ねばつく白濁液で満たしてゆく。[pcms]
+The man's ejaculation continued endlessly, filling my throat and mouth[r]
+with the fishy and sticky white fluid.[pcms]
 
 *591|
 [fc]
-あまりの気持ち悪さに吐き出したいのに、男がペニスを[r]
-喉奥へとねじ込もうとするため、吐き出すことすらままならない。[pcms]
+Despite the extreme discomfort and wanting to spit it out, I couldn't[r]
+because the man was pushing his penis further into my throat.[pcms]
 
 [evcg storage="taja_H012h"][trans_c cross time=300]
 
 *592|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～、お゛まん゛こ、な゛がだじぃ～、さいこ～だぜぇ～♪[r]
-　おれのごどもぉ、うんでぐれよおぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Aah~, your pussy is so tight~ it's the best~♪ Let my seed breed you~"[pcms]
 
 *593|
 [fc]
-まだ痛むあそこの中では、男のペニスがひくついて精液を[r]
-吐き出している。[pcms]
+In my still aching pussy, the man's penis twitched as it ejaculated.[pcms]
 
 *594|
 [fc]
-お腹の中に熱いものが流れ込んでくる感触がある。[r]
-男の精液が、わたしの子宮に流れ込んでるんだ……！[pcms]
+I could feel something hot flowing into my belly. The man's semen was[r]
+flowing into my womb...![pcms]
 
 *595|
 [fc]
-レイプだけじゃなくて、中に出されちゃうなんて……っ！[pcms]
+It's not just rape, but he came inside me...![pcms]
 
 *596|
 [fc]
-嫌、イヤ、いやああぁっ！！[pcms]
+No, NO, NOOOOO!![pcms]
 
 *597|
 [fc]
-こんなの、とうてい現実のこととは思えない。[pcms]
+This can't possibly be real.[pcms]
 
 *598|
 [fc]
-なんだか頭がぐらぐらして、ちゃんとものが考えられない。[pcms]
+My head is spinning, and I can't think straight.[pcms]
 
 *599|
 [fc]
-でも、わたしに群がる薄汚い男たちは、ショックで[r]
-呆然としているわたしのことを[r]
-放っておいてくれなかった。[pcms]
+But the filthy men swarming around me didn't leave me alone, even as I[r]
+stood in shock.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1007,67 +984,65 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *600|
 [fc]
 [vo_tay s="taja_nt0024"]
-[ns]ターヤ[nse]
-「やめ……てっ！　こんな格好……っ！」[pcms]
+[ns]Tarja[nse]
+"Stop it! Not like this...!"[pcms]
 
 *601|
 [fc]
-弱々しく拒絶してみたが、どうせ男たちはわたしの言う事なんて[r]
-はじめから聞いてない。[pcms]
+I weakly attempted to reject them, but the men never listened to me[r]
+from the start.[pcms]
 
 *602|
 [fc]
-わたしは、小さな女の子におしっこさせる時みたいな格好で[r]
-男たちのひとりに抱え上げられてしまった。[pcms]
+I was lifted up by one of the men in a position similar to when a[r]
+little girl is made to pee.[pcms]
 
 *603|
 [fc]
-[ns]感染者Ｃ[nse]
-「おほお゛っ！　み゛ろよっ、お゛まんこから゛ざーめ゛ん゛が[r]
-　だら゛だら゛たれ゛ながれてくる゛ぜぇ～」[pcms]
+[ns]Infected Person C[nse]
+"Ohoh! Look, semen is dripping down from her pussy~"[pcms]
 
 *604|
 [fc]
-男の言葉に、わたしは自分の股間に目をやった。[pcms]
+At the man's words, I looked down at my crotch.[pcms]
 
 *605|
 [fc]
-恥ずかしい体勢で持ち上げられ、ぱっくりと口を[r]
-開いてしまっているわたしの膣口から、中出しされた精液が[r]
-ごぽり、と音をたてて流れ落ちている。[pcms]
+Lifted up in an embarrassing position, semen that had been ejaculated[r]
+inside me was flowing out of my widely opened vaginal opening with a[r]
+gurgling sound.[pcms]
 
 *606|
 [fc]
 [vo_tay s="taja_nt0025"]
-[ns]ターヤ[nse]
-「あああ……ああ……いやっ、いやああぁぁっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aaaaah... ah... no, nooooo!!"[pcms]
 
 *607|
 [fc]
-どこの誰とも知らない男の子供を妊娠するかも知れないという[r]
-恐怖に、全身にぶるぶると震えが走る。[pcms]
+The fear of possibly being pregnant with a child from a man whose name[r]
+I don't even know sent shivers all over my body.[pcms]
 
 *608|
 [fc]
-絶望にうちひしがれるわたしを尻目に、男たちは[r]
-わたしの体を無遠慮に眺め回して喜んでいる。[pcms]
+Ignoring my despair, the men looked over my body indiscreetly and[r]
+rejoiced.[pcms]
 
 *609|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛～、な゛んてえ゛ろいん゛だあ゛ぁ～」[pcms]
+[ns]Infected D[nse]
+"Aah~, what an erotic sight~"[pcms]
 
 *610|
 [fc]
-[ns]感染者Ｅ[nse]
-「この゛お゛んな゛、ぱい゛ぱん゛だから゛あ゛ぁ～、[r]
-　お゛まん゛この゛なかまで゛まる゛みえだぜえ゛ぇ～」[pcms]
+[ns]Infected E[nse]
+"This girl is hairless down there~, you can see everything inside her[r]
+pussy~"[pcms]
 
 *611|
 [fc]
-[ns]感染者Ｆ[nse]
-「あ゛あぁ～、はだし゛ろ゛いのはぁ、や゛っぱり゛ぃ[r]
-　ぱい゛ぱん゛、ばっかな゛ん゛だな゛あ゛ぁ～」[pcms]
+[ns]Infected F[nse]
+"Aah~, the most erotic ones are always the hairless ones~"[pcms]
 
 ;//■イベントCG　taja_H013
 [evcg storage="taja_H013b"][trans_c cross time=300]
@@ -1075,26 +1050,22 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *612|
 [fc]
 [vo_tay s="taja_nt0026"]
-[ns]ターヤ[nse]
-「違う……っ、わたしは日本人……だ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"That's not it... I'm Japanese..."[pcms]
 
 *613|
 [fc]
-[ns]感染者Ｇ[nse]
-「あ゛おいめで、きん゛ぱつの゛、に゛ほん゛じんが、[r]
-　どこに゛いるってんだよ゛～。[r]
-　ばかも゛、や゛すみ゛やすみ゛、い゛えっての゛～」[pcms]
+[ns]Infected G[nse]
+"Hey kid, where do you see a blonde Japanese? Stop talking nonsense~"[pcms]
 
 *614|
 [fc]
-わたしの言葉に、男たちが嘲ったような下卑た笑い声をあげる。[pcms]
+The men let out a scornful and vulgar laugh at my words.[pcms]
 
 *615|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛あぁ～、お゛れぇ、も゛うがまん゛できねぇよ゛ぉ～。[r]
-　おれも゛この、お゛な゛ほーる゛、[r]
-　つかわ゛しても゛ら゛うぜえ゛ぇ～」[pcms]
+[ns]Infected Person D[nse]
+"Aah~, I can't hold back anymore~. I'm gonna use this hole too~"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1104,111 +1075,104 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *616|
 [fc]
-そう言うと、ひとりの男が抱え上げられたままのわたしのあそこに[r]
-ペニスを挿入してきた。[pcms]
+As he said that, one of the men inserted his penis into me while I was[r]
+still being held up.[pcms]
 
 *617|
 [fc]
 [vo_tay s="taja_nt0027"]
-[ns]ターヤ[nse]
-「くううっ！　もっ、もう……やめ………っ、て……っ！！」[pcms]
+[ns]Tarja[nse]
+"Kuuuh! No more... stop... it...!!"[pcms]
 
 *618|
 [fc]
-ペニスを挿入されるだけで、あそこに鋭い痛みが走る。[pcms]
+Just the insertion of the penis caused a sharp pain in my pussy.[pcms]
 
 *619|
 [fc]
-[ns]感染者Ｄ[nse]
-「おっお゛おおぉ゛～！　きん゛ぱつお゛なほーるの゛ぉ、[r]
-　お゛まん゛こ、さい゛こう゛に゛きもちいいいぃぃ～～～！！」[pcms]
+[ns]Infected Person D[nse]
+"Aah~, hairless holes like this, the pussy feels so good~!!!"[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
 *620|
 [fc]
-男はわたしの言葉が全く聞こえてないのか、いきなり激しく[r]
-腰を動かしはじめた。[pcms]
+The man didn't seem to hear my words at all and suddenly began to move[r]
+his hips violently.[pcms]
 
 *621|
 [fc]
-男のペニスに体の内側をかき回される度に、股間から[r]
-鋭い痛みが連続して走る。[pcms]
+Every time the man's penis stirred inside me, a sharp pain shot[r]
+through my crotch.[pcms]
 
 *622|
 [fc]
-股間から体がふたつに裂けてしまいそうな痛みに、わたしは[r]
-涙を流しながら苦悶した。[pcms]
+The pain was so intense it felt like my body was being split in two[r]
+from my crotch, and I writhed in agony with tears streaming down my[r]
+face.[pcms]
 
 *623|
 [fc]
 [vo_tay s="taja_nt0028"]
-[ns]ターヤ[nse]
-「ああぁぁぁっ！　やめてっ！　いたいっ！　いたいよぉっ！[r]
-　おねがいだから、もうやめてえぇっ！　いたいってばっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aaahh! Stop it! It hurts! It hurts! Please, no more, it hurts!"[pcms]
 
 *624|
 [fc]
-[ns]感染者Ｄ[nse]
-「う゛うぅるせぇなあ゛ぁ～お゛なほーるの゛、ぶんざいでぇ～、[r]
-　いい゛から、お゛まえは、だま゛って、や゛られてり゛ゃ[r]
-　い゛い゛んだよお゛ぉ～」[pcms]
+[ns]Infected D[nse]
+"Shut up~ Your hole is a treasure~ Just be quiet and take it~"[pcms]
 
 *625|
 [fc]
-わたしの人格など全く無視した男の言葉に、思わず悔し涙が[r]
-溢れてきてしまう。[pcms]
+My dignity completely ignored by the man's words, I couldn't help but[r]
+let out tears of frustration.[pcms]
 
 *626|
 [fc]
 [vo_tay s="taja_nt0029"]
-[ns]ターヤ[nse]
-「わた……しっ、オナホール……なんかじゃ……ないっっ！！」[pcms]
+[ns]Tarja[nse]
+"I'm not... a fleshlight...!!"[pcms]
 
 *627|
 [fc]
-[ns]感染者Ｄ[nse]
-「じゃ、じゃああぁ、にくにんぎょう゛かあぁ～？[r]
-　あ゛～、あ゛れだあぁ゛～、に゛くべんきだあぁ。[r]
-　せい゛えき、べん゛じょって、やつだな゛、へっへっへっ……」[pcms]
+[ns]Infected D[nse]
+"Then what, a meat doll~? Ah~, I get it~ A meat toilet, that's what[r]
+you are, heh heh heh..."[pcms]
 
 *628|
 [fc]
-男は、オナホールよりもさらに酷い言葉を投げつけてきた。[pcms]
+The man threw even more degrading words at me than calling me a[r]
+fleshlight.[pcms]
 
 *629|
 [fc]
 [vo_tay s="taja_nt0030"]
-[ns]ターヤ[nse]
-「ちっ、違……っ！　わたし、便所でも便器でも……ないっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Tch, wrong...! I'm not a toilet or a urinal...!!"[pcms]
 
 *630|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛あ～っ、い゛ちいちう゛るせぇ、べんじょだなあ゛ぁ～。[r]
-　そん゛ならぁ、ちゃん゛とべんじょら゛しく、[r]
-　あ゛つかってや゛っよ゛～」[pcms]
+[ns]Infected D[nse]
+"Aah~, you're so noisy, just like a toilet~ Then I'll use you properly[r]
+like one~"[pcms]
 
 *631|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛あぁ～っ、ぎぼぢい゛いぃ～っ、[r]
-　い、い゛っぐぞお゛おぉ～～っ！！」[pcms]
+[ns]Infected D[nse]
+"Aaah~, it feels so good~, I'm gonna cum~!!"[pcms]
 
 *632|
 [fc]
 [vo_tay s="taja_nt0031"]
-[ns]ターヤ[nse]
-「やだっ！　やだやだああぁっ！　出さないでえっ！[r]
-　中にはもうっ、ださないでよおおぉっ！！」[pcms]
+[ns]Tarja[nse]
+"No! No, nooo! Don't cum inside! Please, don't let it out inside me!!"[pcms]
 
 *633|
 [fc]
-[ns]感染者Ｄ[nse]
-「お、おおおぉぉ！　ぶっかけてやっよおおぉぉぉっ！！[r]
-　こっ、この、めすぶだがぁああっ！[r]
-　これでも、くらえええぇぇぇっ！！！」[pcms]
+[ns]Infected D[nse]
+"Ooh! I'm gonna splatter it all over you!! Take this, you bitch! Here[r]
+it comes!!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1224,140 +1188,133 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *634|
 [fc]
-男が挿入してたペニスを引き抜くと、先端を[r]
-わたしの無毛の恥丘に擦りつけながら、[r]
-そのまま盛大に射精した。[pcms]
+As he said that, the man pulled out his penis and rubbed the tip[r]
+against my hairless mound before ejaculating massively.[pcms]
 
 *635|
 [fc]
 [vo_tay s="taja_nt0032"]
-[ns]ターヤ[nse]
-「やっ、いやあああぁぁあああっ！！」[pcms]
+[ns]Tarja[nse]
+"No, nooo!!"[pcms]
 
 *636|
 [fc]
-[ns]感染者Ｄ[nse]
-「んっほおおぉぉっ！　ぎぼぢいいいぃぃぃぃぃっっ！！！」[pcms]
+[ns]Infected D[nse]
+"Nnghoooh! It feels so good!!!"[pcms]
 
 *637|
 [fc]
-男のペニスから、信じられないほど大量の精子が迸って、[r]
-わたしのお気に入りのコスプレ衣装、モンバスのハンターコスの[r]
-鎧の上にボドボドと音をたてて付着する。[pcms]
+The man's penis spurted an unbelievable amount of semen, which[r]
+splattered noisily onto my favorite cosplay outfit, the Monster Hunter[r]
+armor.[pcms]
 
 [evcg storage="taja_H013d"][trans_c cross time=300]
 
 *638|
 [fc]
 [vo_tay s="taja_nt0033"]
-[ns]ターヤ[nse]
-「やだあぁっ！　いやあぁっ！[r]
-　ひどいっ！　臭いっ！　汚いいいぃっっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No! No! This is awful! It stinks! It's dirty!!"[pcms]
 
 *639|
 [fc]
-生臭い液体でお気に入りのコスを汚されてしまい、[r]
-思わず涙が溢れてきてしまった。[pcms]
+My favorite cosplay was defiled with the foul-smelling liquid, and I[r]
+couldn't help but burst into tears.[pcms]
 
 *640|
 [fc]
 [vo_tay s="taja_nt0034"]
-[ns]ターヤ[nse]
-「ううぅ……ひど、ひどい……ぐすっ、ひっく……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Uuuh... this is terrible... *sob* *hic*..."[pcms]
 
 *641|
 [fc]
-こんなもので汚されたら、もうこのコスは二度と着れない。[pcms]
+This outfit was ruined by such filth; I could never wear this cosplay[r]
+again.[pcms]
 
 *642|
 [fc]
-射精した男は満足したのか、ふらふらとどこかへ[r]
-行ってしまった。[pcms]
+The satisfied man staggered off somewhere after ejaculating.[pcms]
 
 *643|
 [fc]
-入れ替わりに、２人の男がわたしの前に殺到して、[r]
-小競り合いをはじめた。[pcms]
+In his place, two men rushed over to me and started to scuffle.[pcms]
 
 *644|
 [fc]
-[ns]感染者Ｅ[nse]
-「づぎはお゛れだあ゛あっ！」[pcms]
+[ns]Infected E[nse]
+"Next is me!!"[pcms]
 
 *645|
 [fc]
-[ns]感染者Ｆ[nse]
-「うるぜえっ！　お゛れだよ゛っ！　どけろっ！！」[pcms]
+[ns]Infected F[nse]
+"Shut up! It's my turn! Move it!!"[pcms]
 
 *646|
 [fc]
-男たちは、互いの顔を押し合って、[r]
-相手をわたしの前から遠ざけようとしている。[pcms]
+The men pushed each other's faces, trying to shove the other away from[r]
+me.[pcms]
 
 *647|
 [fc]
-ひとりの男の親指が、もうひとりの男の目に入ったかと思うと、[r]
-そのままぐじゅりという嫌な音をたてて、[r]
-眼球が潰れる音が聞こえてきた。[pcms]
+Just as one man's thumb seemed to enter the eye of another, a[r]
+disgusting squelching sound was heard as an eyeball was crushed.[pcms]
 
 [evcg storage="taja_H013e"][trans_c cross time=300]
 
 *648|
 [fc]
 [vo_tay s="taja_nt0035"]
-[ns]ターヤ[nse]
-「ひいい…………っ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"*gasp*!!"[pcms]
 
 *649|
 [fc]
-目を押しつぶされた男は、眼窩からだらだらと血を流してるのに[r]
-そのことは全く気にならないらしく、わたしの前で[r]
-争いを続けている。[pcms]
+The man with his eye crushed continued to fight in front of me, blood[r]
+streaming from his eye socket, seemingly unfazed by his injury.[pcms]
 
 *650|
 [fc]
-[ns]感染者Ｅ[nse]
-「ち゛っ……くしょう゛、こう゛な゛っだら、[r]
-　む゛りやり゛、い゛れでや゛るう！」[pcms]
+[ns]Infected E[nse]
+"Damn it... if that's how it is, I'll force my way in!"[pcms]
 
 *651|
 [fc]
-[ns]感染者Ｆ[nse]
-「ぬげがげ、させっがよっ！！　お゛れがい゛れるん゛だっ！」[pcms]
+[ns]Infected F[nse]
+"Get off me, let me do it!"[pcms]
 
 *652|
 [fc]
-男たちが口々にそう言うと、ペニスを挿入しようと、[r]
-２人が同時にわたしのあそこに押しつけてきた。[pcms]
+As they both said that, they pressed their penises against me at the[r]
+same time, trying to insert them into my pussy.[pcms]
 
 *653|
 [fc]
 [vo_tay s="taja_nt0036"]
-[ns]ターヤ[nse]
-「やっ、やめてえぇっ！　やだやだあぁっ！[r]
-　無理っ！　２人同時なんて絶対に無理いいっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Stop it! No, nooo! It's impossible! There's no way I can take two at[r]
+once!!"[pcms]
 
 *654|
 [fc]
-[ns]感染者Ｆ[nse]
-「ぐっ……ぜめえなあっ！！」[pcms]
+[ns]Infected F[nse]
+"Guh... you're so annoying!!"[pcms]
 
 *655|
 [fc]
-[ns]感染者Ｅ[nse]
-「お、おらあ゛ぁ……いれでやるぞおっ！！」[pcms]
+[ns]Infected E[nse]
+"I'm gonna put it in now!!"[pcms]
 
 *656|
 [fc]
 [vo_tay s="taja_nt0037"]
-[ns]ターヤ[nse]
-「いっ、痛いぃぃ！　やめっ、やっ！　[r]
-　いたっ、痛いっ、いだいっ、い゛だあ゛ぁ゛い゛ぃ゛！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"It hurts! Stop, stop it! It hurts, it's painful, so painful!!"[pcms]
 
 *657|
 [fc]
-[ns]感染者Ｅ[nse]
-「うぅるああぁぁぁああぁぁぁっ！！」[pcms]
+[ns]Infected E[nse]
+"Shut upppp!!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1370,72 +1327,70 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *658|
 [fc]
 [vo_tay s="taja_nt0038"]
-[ns]ターヤ[nse]
-「ぎっ！　ぎ、ぎぃいいいいいいいぃぃぃぃっっ！！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"*gasp*! *gasp*, it hurts so muchhhhh!!!"[pcms]
 
 *659|
 [fc]
-[ns]感染者Ｆ[nse]
-「お゛おぉ～はいっだあ゛ぁ～」[pcms]
+[ns]Infected F[nse]
+"Oooh~ I'm going in~"[pcms]
 
 *660|
 [fc]
-[ns]感染者Ｅ[nse]
-「あ、あ゛れぇ～、お゛れのも゛はいっでるぞお゛ぉ～」[pcms]
+[ns]Infected E[nse]
+"Ah, ahh~ My dick is going in too~"[pcms]
 
 *661|
 [fc]
-同時に二本のペニスを挿入されて、わたしのあそこは[r]
-限界を超えて引き延ばされ、みちみちと軋んでいた。[pcms]
+Having two dicks inserted at the same time, my pussy was stretched[r]
+beyond its limit, creaking tightly.[pcms]
 
 *662|
 [fc]
-あそこがそのまま裂けるんじゃないかと思うほどの[r]
-強烈な苦痛に、わたしは絶叫した。[pcms]
+The intense pain was so severe that I thought my pussy might tear[r]
+apart, and I screamed.[pcms]
 
 [evcg storage="taja_H013g"][trans_c cross time=300]
 
 *663|
 [fc]
 [vo_tay s="taja_nt0039"]
-[ns]ターヤ[nse]
-「があっ！　いだいっ゛！　い゛だあ゛あぁい゛いい゛っっ！！[r]
-　ざげる゛っ、ざげる゛う゛う゛ぅ゛ぅ゛ぅ゛っ゛！！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gah! It hurts! It hurts so muchhh!! It's going to tear, it's tearing[r]
+apart!!!"[pcms]
 
 *664|
 [fc]
-顔中を涙とよだれと脂汗でぐちょぐちょにしながら[r]
-わたしは筆舌に尽くしがたい激痛に、白目を剥いて苦悶した。[pcms]
+My face was a mess with tears, drool, and sweat as I writhed in[r]
+indescribable agony, my eyes rolling back in pain.[pcms]
 
 *665|
 [fc]
-[ns]感染者Ｅ[nse]
-「あ゛～、ごのおんな～、じろめむいでるぞ～。[r]
-　おまんごに、ちんぼ２ほん、いれられで[r]
-　ぎぼぢ、いいんだなあぁ～」[pcms]
+[ns]Infected E[nse]
+"Ahh~ This woman~ Her eyes are rolling back. She must love having two[r]
+cocks in her pussy, huh~"[pcms]
 
 *666|
 [fc]
-[ns]感染者Ｆ[nse]
-「おれのぉ、ちんぼが、おまんごにはいっでんだがらぁ[r]
-　ぎぼぢよぐっで、とうぜんだなぁ～」[pcms]
+[ns]Infected F[nse]
+"Since my dick is inside her pussy, it's natural she feels good~"[pcms]
 
 *667|
 [fc]
-[ns]感染者Ｅ[nse]
-「ばがやろぉ、おれのちんぼが、おまんごに、はいっでるがらに[r]
-　ぎまっでんだろぉが～」[pcms]
+[ns]Infected E[nse]
+"You idiot, it's because my dick is inside her pussy that she's[r]
+feeling it~"[pcms]
 
 *668|
 [fc]
-[ns]感染者Ｆ[nse]
-「な゛におぉ～、なら、どっぢがごのお゛んな、ざぎにいがぜるが[r]
-　ぎょうぞうだあぁ～、お゛らあ゛あっ！」[pcms]
+[ns]Infected Person F[nse]
+"What~? Then, let's see which one of us can make this woman feel[r]
+better~ Grrahh!"[pcms]
 
 *669|
 [fc]
-[ns]感染者Ｅ[nse]
-「ま゛げるがよ゛おっ、う゛らう゛らあ゛あ゛っ！！」[pcms]
+[ns]Infected E[nse]
+"She's going to cum from this~ Urrahh!!"[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
@@ -1445,67 +1400,65 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *670|
 [fc]
 [vo_tay s="taja_nt0040"]
-[ns]ターヤ[nse]
-「かあぁっ……あぐ……ぅ……ぎぃ……かはあぁ……っ……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gah... ah... ugh... eeh... gahh...!"[pcms]
 
 *671|
 [fc]
-男たちがてんでに腰を振り始め、信じられないほどの激痛が、[r]
-二本のペニスを挿入されたわたしのあそこから[r]
-全身に広がる。[pcms]
+The men began to thrust wildly, and an unbelievable amount of pain[r]
+spread from my pussy, where two dicks were inserted, throughout my[r]
+body.[pcms]
 
 *672|
 [fc]
-気の狂いそうなほどのその激烈な痛みに、もう声も出ない。[pcms]
+The pain was so intense it was maddening, and I couldn't even scream[r]
+anymore.[pcms]
 
 *673|
 [fc]
-あまりの苦痛に、わたしは半ば失神状態に陥った。[pcms]
+Due to the extreme agony, I was on the verge of losing consciousness.[pcms]
 
 *674|
 [fc]
 [vo_tay s="taja_nt0041"]
-[ns]ターヤ[nse]
-「かっ………は………あ………………む…………………」[pcms]
+[ns]Tarja[nse]
+"Gah... ha... ah... mm..."[pcms]
 
 *675|
 [fc]
-[ns]感染者Ｆ[nse]
-「みろよおぉ～、したまでだして、よだれ゛たれながすほど[r]
-　ぎぼぢい゛いんだなあ゛ぁ～」[pcms]
+[ns]Infected Person F[nse]
+"Look at her~ Drooling so much that it's dripping down. She must be[r]
+feeling good~"[pcms]
 
 *676|
 [fc]
-[ns]感染者Ｅ[nse]
-「きんぱつ、にくべんきの、お゛ま゛ん゛こ～。[r]
-　ぐあ゛い、い゛いなあぁ～ぎぼぢいいぃ～♪」[pcms]
+[ns]Infected E[nse]
+"Blonde meat-bank's pussy~ Ahh, feels so good~"[pcms]
 
 *677|
 [fc]
-[ns]感染者Ｆ[nse]
-「お゛れもぉ～、ぎぼぢよぐな゛っでぎだあ゛あぁ～」[pcms]
+[ns]Infected F[nse]
+"I'm also feeling good~"[pcms]
 
 *678|
 [fc]
-[ns]感染者Ｅ[nse]
-「ごのまま゛ぁ～でちま゛い゛そう゛だあ゛あぁ～」[pcms]
+[ns]Infected E[nse]
+"She might cum from this~"[pcms]
 
 *679|
 [fc]
-[ns]感染者Ｆ[nse]
-「な゛ら゛、い゛っしょに゛だすかあ゛ぁ～」[pcms]
+[ns]Infected F[nse]
+"Then, shall we cum together~"[pcms]
 
 *680|
 [fc]
-[ns]感染者Ｅ[nse]
-「あ゛あぁ～それも゛いいなあぁ～、[r]
-　ああ゛ぁ゛～でるっでる゛う゛うっ～」[pcms]
+[ns]Infected E[nse]
+"Ahh~ That sounds good too~, Ahh~ I'm gonna cum, I'm cumming~"[pcms]
 
 *681|
 [fc]
-[ns]感染者Ｆ[nse]
-「お゛っ、お゛れも゛お゛ぉっ、[r]
-　でる゛う゛うう゛ぅぅ～～～～っ！」[pcms]
+[ns]Infected F[nse]
+"Ohh, I'm also gonna cum, Cumming~~~!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1522,36 +1475,36 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 *682|
 [fc]
 [vo_tay s="taja_nt0042"]
-[ns]ターヤ[nse]
-「ごぶっ……………！！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gobuuu...!!!"[pcms]
 
 *683|
 [fc]
-男たちが、同時にわたしの中で絶頂に達した。[pcms]
+The men reached climax inside me at the same time.[pcms]
 
 *684|
 [fc]
-[ns]感染者Ｅ[nse]
-「あ゛～、お゛まんこの゛なかで、どくどくでてる゛うぅ～」[pcms]
+[ns]Infected E[nse]
+"Ahh~, it's pulsing out inside the pussy~"[pcms]
 
 *685|
 [fc]
-[ns]感染者Ｆ[nse]
-「あ゛へ～～～、お゛まん゛こな゛かだし、ぎぼぢいいぃ～～」[pcms]
+[ns]Infected F[nse]
+"Ahe~~~, cumming inside the pussy feels so good~~"[pcms]
 
 *686|
 [fc]
-信じられないほど多量の精液が、わたしの体内に流し込まれる。[pcms]
+An unbelievable amount of semen was poured into my body.[pcms]
 
 *687|
 [fc]
-白濁が激流のように膣内を満たし、射精の勢いで[r]
-子宮さえも押し上げられる。[pcms]
+The white turbidity filled my vagina like a raging torrent, even[r]
+pushing up my womb with the force of ejaculation.[pcms]
 
 *688|
 [fc]
-内臓そのものを犯されているような不快感に、[r]
-わたしはそのまま失神してしまった。[pcms]
+The discomfort of feeling like my very organs were being violated[r]
+caused me to lose consciousness.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1560,50 +1513,49 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *689|
 [fc]
-[ns]感染者Ｅ[nse]
-「あ～、ぎぼぢよがっだなあ゛ぁ～」[pcms]
+[ns]Infected E[nse]
+"Ah~, she felt good from that~"[pcms]
 
 *690|
 [fc]
-[ns]感染者Ｆ[nse]
-「や゛っばりぃ、ながだしは、さい゛こーだなあぁ～」[pcms]
+[ns]Infected Person F[nse]
+"As expected, cumming deep inside is the best~"[pcms]
 
 *691|
 [fc]
-[ns]感染者Ｆ[nse]
-「みろよぉ～、ごのおんな、くちがら、あわ、ふいてんぞ～。[r]
-　やっばりぃ、ながだしはぁ、おんなもぎぼぢいいんだなぁ～」[pcms]
+[ns]Infected Person F[nse]
+"Look at her~ Foaming at the mouth. Women really do feel good from[r]
+being cummed inside~"[pcms]
 
 *692|
 [fc]
-[ns]感染者Ｅ[nse]
-「お゛れだぢぃ、これでほんどうのぉ、あなきょうだいだなあぁ」[pcms]
+[ns]Infected E[nse]
+"Now we're truly blood brothers."[pcms]
 
 *693|
 [fc]
-[ns]感染者Ｆ[nse]
-「ぐふぇふぇふぇ～、ほん゛どうだなあ゛ぁ、きょう゛だいぃ～」[pcms]
+[ns]Infected F[nse]
+"Gufefefe~, that's right, brothers~"[pcms]
 
 *694|
 [fc]
-[ns]感染者Ｅ[nse]
-「でも゛おれぇ～、ま゛だぁ、だしたり゛ねぇなあ゛～」[pcms]
+[ns]Infected E[nse]
+"But I~, still haven't cum enough~"[pcms]
 
 *695|
 [fc]
-[ns]感染者Ｆ[nse]
-「な゛んだよぉ～じつはお゛れもな゛んだあぁ～」[pcms]
+[ns]Infected F[nse]
+"What? Actually, me neither~"[pcms]
 
 *696|
 [fc]
-[ns]感染者Ｅ[nse]
-「よ～しっ、じゃあ゛もういっぱつぅ、い゛ってみようぜぇ～」[pcms]
+[ns]Infected E[nse]
+"Alright then, let's go for another round~"[pcms]
 
 *697|
 [fc]
-[ns]感染者Ｆ[nse]
-「お゛おぉ～、だしてだしてだしまくろ゛う゛ぜぇ～、[r]
-　きょう゛だい゛ぃ～」[pcms]
+[ns]Infected F[nse]
+"Oooh~, let's cum and cum again~, brothers~"[pcms]
 
 ;//BGMフェードアウト
 ;[fadeoutbgm time=500]
@@ -1616,14 +1568,14 @@ Ma-Kun.Sだって知ったせいで、つい怒ってしまったけど、[r]
 
 *698|
 [fc]
-わずかに残った意識の片隅で、男たちがそんな会話を[r]
-交わしているのが聞こえた。[pcms]
+In the corner of my barely remaining consciousness, I could hear the[r]
+men having such a conversation.[pcms]
 
 *699|
 [fc]
 [vo_tay s="taja_nt0043"]
-[ns]ターヤ[nse]
-（お……願い………も…う………やめ……て…………）[pcms]
+[ns]Tarja Pohjonen[nse]
+(Please... no more... stop...)[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

@@ -23,16 +23,15 @@
 *2616|
 [fc]
 [vo_nat s="natu0480"]
-[ns]夏都[nse]
-「離すんじゃねえぞ、誠ォ……！[r]
-　しっかりつかまってろよ！　行くぞっ！」[pcms]
+[ns]Natsu[nse]
+"Don't let go, Makoto...! Hold on tight! We're going!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so19a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2617|
 [fc]
-[ns]宗一郎[nse]
-「みんな、走れっ！」[pcms]
+[ns]Souichirou[nse]
+"Everyone, run!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -41,8 +40,8 @@
 
 *2618|
 [fc]
-姉ちゃんとそーいちの二人が見回しながら声を張り上げると、[r]
-みんなは無言のまま頷き合って、外に向かい走り出した。[pcms]
+As Onee-san and Souichirou look around and raise their voices,[r]
+everyone nods silently and starts running towards the outside.[pcms]
 
 ;//★bg07c 旧日本軍砲台跡（Ａ）・夜
 [bg storage="BG07c"][trans_c cross time=500]
@@ -52,69 +51,66 @@
 *2619|
 [fc]
 [vo_stk s="satuki0337"]
-[ns]彩月[nse]
-「何あれ……どうしてっ！？」[pcms]
+[ns]Satsuki[nse]
+"What's that... Why is this happening!?"[pcms]
 
 *2620|
 [fc]
-外に出た僕達を待ち構えていたのは、[r]
-漆黒の闇の中、煌々と光る、赤い炎だった。[pcms]
+What awaited us outside was a bright, red flame shining in the pitch-[r]
+black darkness.[pcms]
 
 ;//★これでいいのかな
 [evcg storage="bgev03f"][trans_c lr time=300]
 
 *2621|
 [fc]
-南先輩が指さし、叫ぶ方角……、[r]
-島内の町の至る所から、火の手が上がり、[r]
-空気を引き裂く銃声や怒号、悲鳴が鳴り響いていた。[pcms]
+Senior Minami points and screams in the direction... Fires were[r]
+breaking out all over the town on the island, and the air was filled[r]
+with the sound of gunfire, shouts, and screams.[pcms]
 
 *2622|
 [fc]
 [vo_tay s="taja0234"]
-[ns]ターヤ[nse]
-「みてっ！　橋が！　大橋がっ……」[pcms]
+[ns]Tarja[nse]
+"Look! The bridge! The big bridge is..."[pcms]
 
 ;//♂Ｄ：間に合えば戦闘機が橋を爆撃するムービー
 
 *2623|
 [fc]
-[ns]宗一郎[nse]
-「うわっ……！　戦闘機が、橋を爆撃してるっ！[r]
-　なんだよ、俺達の逃げ道、塞ごうってのか！？」[pcms]
+[ns]Souichirou[nse]
+"Whoa...! Fighter jets are bombing the bridge! Are they trying to[r]
+block our escape route!?"[pcms]
 
 *2624|
 [fc]
-冷静沈着なターヤさんですら、[r]
-眼前に広がる異常事態に目を丸くして叫ぶ。[pcms]
+Even the calm and collected Tarja-san was rounding her eyes and[r]
+screaming at the abnormal situation unfolding before her.[pcms]
 
 *2625|
 [fc]
-[ns]誠[nse]
-「あぁ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 *2626|
 [fc]
-僕達が渡ってきた橋が……。[r]
-崩れ落ちていく……。[pcms]
+The bridge we had crossed... was collapsing...[pcms]
 
 *2627|
 [fc]
-ここにいるみんなが、絶望の声を上げている。[pcms]
+Everyone here is raising their voices in despair.[pcms]
 
 *2628|
 [fc]
-もちろん、僕だってそうだ。[pcms]
+Of course, I feel the same way.[pcms]
 
 *2629|
 [fc]
-だけど……。[r]
-今の僕の頭の中には、[r]
-また別の事が広がっていく。[pcms]
+But... Inside my head right now, something else is spreading.[pcms]
 
 *2630|
 [fc]
-どうしてこんな時に……。[pcms]
+Why at a time like this...?[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -126,54 +122,51 @@
 
 *2631|
 [fc]
-姉ちゃんの匂いや、体温。[r]
-滑らかな皮膚。[r]
-それに、柔らかい胸。[pcms]
+Onee-san's scent and body heat. Her smooth skin. And her soft breasts.[pcms]
 
 *2632|
 [fc]
-異性の肉体を全身で感じている内、僕はアソコに、[r]
-なぜだか血が集まりだしていくのを感じていた。[pcms]
+While feeling the female body with my whole being, I could feel blood[r]
+starting to rush down there for some reason.[pcms]
 
 *2633|
 [fc]
-こんな非常時に、どうしたんだろう！[r]
-僕の頭はどうしちゃったんだろう！[pcms]
+In such an emergency, what's wrong with me! What's happened to my[r]
+head![pcms]
 
 *2634|
 [fc]
-今は、非常事態。[r]
-そんな事を考えている場合じゃない。[r]
-だけど沸き上がる欲求を堪えようとすると、苛立ちが募る。[pcms]
+Now is an emergency. This is not the time to be thinking about such[r]
+things. But as I try to suppress the rising desire, my irritation[r]
+grows.[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
 
 *2635|
 [fc]
-[ns]誠[nse]
-「ううっ……ううあぁっ！」[pcms]
+[ns]Makoto[nse]
+"Ugh... Ugh ahh!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na15t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2636|
 [fc]
 [vo_nat s="natu0481"]
-[ns]夏都[nse]
-「どうした、誠！　苦しいのかっ！？」[pcms]
+[ns]Natsu[nse]
+"What's wrong, Makoto! Are you in pain!?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2637|
 [fc]
 [vo_aka s="akari0808"]
-[ns]茜梨[nse]
-「しっ……しっかりしてくださいっ！[r]
-　気を確かに……」[pcms]
+[ns]Akari[nse]
+"Please... hold on! Keep your wits about you..."[pcms]
 
 *2638|
 [fc]
-くそおっ……。[pcms]
+Damn it...[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="na1_cos_b"][ChrSetParts layer=3 chface="F1_na04t"][ChrSetXY layer=3 x=-50 y=0]
@@ -181,29 +174,27 @@
 
 *2639|
 [fc]
-どうして、こんな……っ！[r]
-越智さんの声も、姉ちゃんの声も……。[r]
-全部僕の頭を揺さぶって、この二人を……。[pcms]
+Why, like this...! Akari-san's voice, Onee-san's voice... They all[r]
+shake my head, making me want to... with these two.[pcms]
 
 *2640|
 [fc]
-――ここにいる女の子全部を犯したい、[r]
-そんな気持ちにさせる。[pcms]
+--I want to fuck all the girls here, that's how I feel.[pcms]
 
 *2641|
 [fc]
-そんなこと、考えちゃ駄目なのに！[r]
-今は、そんな事考えちゃ駄目なのに！[pcms]
+I shouldn't be thinking about that! Now is not the time to think about[r]
+such things![pcms]
 
 *2642|
 [fc]
-僕は、どうしてこんな事考えちゃうんだ！？[r]
-もう、発症しちゃったっていうの？[pcms]
+Why am I thinking about such things!? Have I already started showing[r]
+symptoms?[pcms]
 
 *2643|
 [fc]
-このまま感染者になっちゃうのかな。[r]
-このまま、死んじゃうのかな……。[pcms]
+Am I going to become infected like this? Am I going to die like[r]
+this...?[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -211,19 +202,19 @@
 
 *2644|
 [fc]
-[ns]誠[nse]
-「うわぁあああああああぁあっ！」[pcms]
+[ns]Makoto[nse]
+"Uwaaaaaaaah!"[pcms]
 
 *2645|
 [fc]
-そんなのイヤだああああっ！[pcms]
+I don't want that![pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so19a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2646|
 [fc]
-[ns]宗一郎[nse]
-「誠、落ち着けっ！　しっかりするんだっ！」[pcms]
+[ns]Souichirou[nse]
+"Makoto, calm down! Get a grip!"[pcms]
 
 ;//m:並べずに順に表示
 
@@ -238,27 +229,26 @@
 
 *2647|
 [fc]
-みんなが、心配そうな目をして、僕を見つめてる。[pcms]
+Everyone is looking at me with worried eyes.[pcms]
 
 *2648|
 [fc]
-みんなに迷惑かけちゃ駄目だ……。[r]
-僕のせいで、みんなを困らせる訳にはいかない！[pcms]
+I can't be a burden to everyone... I can't let my issues trouble[r]
+everyone![pcms]
 
 *2649|
 [fc]
-僕は、一体どうしたらいいんだっ！？[pcms]
+What should I do!?[pcms]
 
 *2650|
 [fc]
-身体を縛り上げてもらおうか……。[r]
-そうすれば、万一暴れ出しても、簡単に抑えられる。[r]
-だけど、移動速度は落ちてしまう……。[pcms]
+Should I ask them to tie me up...? That way, even if I go berserk,[r]
+they can easily restrain me. But then our movement speed would drop...[pcms]
 
 *2651|
 [fc]
-それか、僕がこのヘンな感覚に耐えれば……。[r]
-こんなのに負けないように、堪える事が出来れば……！[pcms]
+Or if I can endure this strange sensation... If I can resist and not[r]
+give in to it...![pcms]
 
 ;//*_選択肢
 ;//1,身体を拘束してもらおう！			ラベルkousokuへ
@@ -266,14 +256,14 @@
 
 ;	[link target=*kousoku]身体を拘束してもらおう！[endlink]
 ;	[link target=*taeru]みんなに迷惑かけないように、堪えるんだ！[endlink]
-;	[s]
+;[pcms]
 
 *SEL35|身体を拘束してもらおう！／みんなに迷惑かけないように、堪えるんだ！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '身体を拘束してもらおう！'"]
-[eval exp="f.seltext06 = 'みんなに迷惑かけないように、堪えるんだ！'"]
+[eval exp="f.seltext04 = 'Let\'s restrain the body!'"]
+[eval exp="f.seltext06 = 'I\'ll endure it so as not to cause trouble for everyone!'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -319,63 +309,57 @@
 
 *2652|
 [fc]
-…………。[r]
-……。[pcms]
+...[pcms]
 
 ;//bgm08.ogg
 [bgm storage="BGM08"]
 
 *2653|
 [fc]
-みんなが逃げるのに、足手まといになるかもしれない。[pcms]
+I might become a hindrance to everyone's escape.[pcms]
 
 *2654|
 [fc]
-だけど……。[r]
-今すぐにでも姉ちゃんや越智さんを犯したいって気持ちを、[r]
-抑え続ける事は出来なそう……。[pcms]
+But... I don't think I can keep suppressing these feelings of wanting[r]
+to fuck Onee-san and Akari-san right now...[pcms]
 
 *2655|
 [fc]
-そうなれば、今この場を凌いだだけになる。[r]
-僕が暴れるような事になったら……。[pcms]
+If that happens, we'll only have survived the moment. If I start to[r]
+rampage...[pcms]
 
 *2656|
 [fc]
-僕が、完全に発症してしまったら、みんなを傷つける。[pcms]
+If I fully succumb to the symptoms, I might hurt everyone.[pcms]
 
 *2657|
 [fc]
-抑制の効かない身体になって、[r]
-みんなを怪我させちゃうかもしれない。[pcms]
+My body might become uncontrollable, and I could end up injuring[r]
+everyone.[pcms]
 
 *2658|
 [fc]
-それだけじゃ無い。[r]
-僕が、みんなにウィルスを伝染させちゃうかもしれないんだ！[pcms]
+That's not all. I might even infect everyone with the virus![pcms]
 
 *2659|
 [fc]
-[ns]誠[nse]
-「ねっ……ねえちゃん！　ぼ、ぼくを……ぼくの身体を、[r]
-　しばってっ！　うでだけでもいいから！[r]
-　あっ……があああああああぁあっ！！　はっ、はやくっ！！」[pcms]
+[ns]Makoto[nse]
+"Onee-san! Please... tie me up... Even just my arms will do! Ah...[r]
+gaaaahhhhh!! Hurry!!"[pcms]
 
 *2660|
 [fc]
-[ns]誠[nse]
-「このままじゃ、みっ、みんなが、あぶないんだっ！[r]
-　あしでまといだったら、みっ、み、みすて、て、[r]
-　てくれてもいいからっ！」[pcms]
+[ns]Makoto[nse]
+"At this rate, everyone's in danger! If I'm a burden, it's okay to...[r]
+to leave me behind!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na05t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2661|
 [fc]
 [vo_nat s="natu0482"]
-[ns]夏都[nse]
-「誠……分かった！　ちょっと辛抱しろよっ！[r]
-　みんな、タオルもってねえか！？」[pcms]
+[ns]Natsu[nse]
+"Makoto... Got it! Just hang in there! Does anyone have a towel?!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na04t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -383,52 +367,49 @@
 
 *2661a|
 [fc]
-姉ちゃんは、僕を険しい目で睨み付けた後、[r]
-僕の両手首を捻り上げながら、みんなに向かって叫んだ。[pcms]
+Onee-san glared at me fiercely before shouting to everyone while[r]
+twisting my wrists.[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *2662|
 [fc]
-[ns]誠[nse]
-「ぎっ……あっ……いでぇッ！」[pcms]
+[ns]Makoto[nse]
+"Ow... ah... it hurts!"[pcms]
 
 *2663|
 [fc]
-姉ちゃんは、僕の言いたいことがすぐ分かったみたいだ。[r]
-やっぱり、姉ちゃんは僕の家族なんだ……。[pcms]
+Onee-san seemed to understand what I wanted to say right away. She[r]
+really is my family...[pcms]
 
 *2664|
 [fc]
-僕の事を、よく分かってくれている。[pcms]
+She knows me so well.[pcms]
 
 ;//m:テキスト元位置
 
 *2665|
 [fc]
-僕は手首に軽い痛みを覚えながらも、[r]
-姉ちゃんに感謝していた。[pcms]
+While feeling a slight pain in my wrists, I was grateful to Onee-san.[pcms]
 
 *2666|
 [fc]
-咄嗟の事だったのに、考えるより早く、[r]
-身体を動かしていたみたいだった。[pcms]
+It was a spur-of-the-moment decision, but she moved faster than she[r]
+could think.[pcms]
 
 *2667|
 [fc]
-今僕が、どんな状態なのか、[r]
-その僕に対して取る行動はどういうものなのか、[r]
-姉ちゃんは、よく知っているんだ。[pcms]
+Onee-san knows very well what state I'm in and what actions to take[r]
+regarding me.[pcms]
 
 *2668|
 [fc]
-さすが……四年前のあの修羅場をくぐり抜けただけの事はある。[pcms]
+As expected... She's been through that hellish ordeal four years ago.[pcms]
 
 *2669|
 [fc]
-あのときも、もしかしたら、[r]
-こんな状況に遭遇してたのかもしれない。[pcms]
+Maybe she encountered a situation like this back then too.[pcms]
 
 ;//♂Ｄ：上の地の文は整合性破綻するかもしれんのでメモしとく
 
@@ -437,47 +418,48 @@
 *2670|
 [fc]
 [vo_aka s="akari0809"]
-[ns]茜梨[nse]
-「はっ、はいっ！　これを使って下さい！」[pcms]
+[ns]Akari[nse]
+"Yes, here! Please use this!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so04a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2671|
 [fc]
-[ns]宗一郎[nse]
-「俺のも使って下さい！　暴れられたら、止める事出来なそうだし[r]
-　おっと、誠……迷惑かけてるなんて思うんじゃないぞ？[r]
-　俺達親友だろ？　お前と一緒じゃなきゃ逃げる意味がない！」[pcms]
+[ns]Souichirou[nse]
+"Please use mine too! If you go on a rampage, we might not be able to[r]
+stop you. Oh, and Makoto... don't think you're causing trouble, okay?[r]
+We're best friends, right? There's no point in escaping if we're not[r]
+together!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2672|
 [fc]
 [vo_stk s="satuki0338"]
-[ns]彩月[nse]
-「そうよ……誠くん……負けちゃ駄目！[r]
-　迷惑かけるなんて思わないで！　それこそ迷惑よ！[r]
-　あとで、たーっぷり謝ってもらうからね！　そのこと！」[pcms]
+[ns]Satsuki[nse]
+"That's right... Makoto-kun... You can't lose! Don't think you're a[r]
+burden! That would be the real trouble! Later on, you'll have plenty[r]
+of time to apologize for this!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2673|
 [fc]
 [vo_tay s="taja0235"]
-[ns]ターヤ[nse]
-「そうだ。出渕君と、南さんの言うとおりだ。[r]
-　わたしたちは、パーティーでしょう？　だから、負けないで！[r]
-　一緒に逃げるの！　みんなで行けるところまで……」[pcms]
+[ns]Tarja[nse]
+"That's right. What Izubuchi-kun and Minami-san said is true. We're a[r]
+party, aren't we? So don't lose! We'll escape together! As far as we[r]
+all can go..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2674|
 [fc]
 [vo_aka s="akari0810"]
-[ns]茜梨[nse]
-「そうです！　中澤先輩も一緒じゃないと駄目です！[r]
-　ウィルスなんかに負けたら……。[r]
-　私が許しませんから！　絶対負けないで！」[pcms]
+[ns]Akari[nse]
+"That's right! We can't do it without you, Nakazawa-senpai! If you[r]
+lose to the virus... I won't forgive you! You absolutely must not[r]
+lose!"[pcms]
 
 ;//♂Ｄ：上記は他と整合性取れるかどうかあやしい
 
@@ -485,76 +467,75 @@
 
 *2675|
 [fc]
-姉ちゃんの一声で、[r]
-みんなは僕の為にタオルやハンカチを差し出してくれた。[pcms]
+With Onee-san's command, everyone offered towels and handkerchiefs for[r]
+my sake.[pcms]
 
 *2676|
 [fc]
-[ns]誠[nse]
-「あっ……ああぁ……あぐっ……ぐすっ……ううっ……」[pcms]
+[ns]Makoto[nse]
+"Ah... aahh... aguh... gusu... uuh..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na04t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2677|
 [fc]
 [vo_nat s="natu0483"]
-[ns]夏都[nse]
-「よっし！　これだけ縛ってやったら、時間稼ぎにはなるだろ。[r]
-　だけど、気を緩めるんじゃねえぞ、誠！　暴れたりしたら、[r]
-　承知しないからな！　それに泣くな！　うっとおしい！」[pcms]
+[ns]Natsu[nse]
+"Alright! With this much tying up, it should buy us some time. But[r]
+don't let your guard down, Makoto! If you start rampaging, I won't let[r]
+it slide! And stop crying! It's annoying!"[pcms]
 
 *2678|
 [fc]
-僕は怒鳴る姉ちゃんに抱え上げられながらも、[r]
-涙を堪える事が出来なかった。[pcms]
+I couldn't hold back my tears even as Onee-san scolded me while[r]
+lifting me up.[pcms]
 
 *2679|
 [fc]
-タオルや、ハンカチなんてどうでもいい。[pcms]
+Towels and handkerchiefs don't matter.[pcms]
 
 *2680|
 [fc]
-感染しちゃった僕なんか、おいて逃げればいいのに。[r]
-なのに、みんなはそれをしない。[pcms]
+They should just leave me, who's been infected, and escape. But[r]
+everyone isn't doing that.[pcms]
 
 *2681|
 [fc]
-それどころか、僕と一緒に逃げようなんて言ってくれている。[r]
-自分の身が、危ないかもしれないのに。[pcms]
+Instead, they're saying they'll escape with me. Even though their own[r]
+lives might be in danger.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2682|
 [fc]
-みんな、僕の事を考えてくれている。[r]
-その事で、僕の目からは涙が溢れて止まらなくなってしまっていた。[pcms]
+Everyone is thinking of me. That thought made tears overflow from my[r]
+eyes uncontrollably.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2683|
 [fc]
 [vo_tay s="taja0236"]
-[ns]ターヤ[nse]
-「みんな、こっち！　こっちの方が早いし、見つかりにくい！[r]
-　少し行けば、幹線道路に出られるから！」[pcms]
+[ns]Tarja[nse]
+"Everyone, this way! This route is faster and harder to find! If we go[r]
+a little further, we can reach the main road!"[pcms]
 
 *2684|
 [fc]
-ターヤさんは、暗がりの方に走っていくと、[r]
-僕達に向かって手招きした。[pcms]
+Tarja-san ran towards the darkness and beckoned us to follow her.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2685|
 [fc]
 [vo_aka s="akari0811"]
-[ns]茜梨[nse]
-「行きましょう！」[pcms]
+[ns]Akari[nse]
+"Let's go!"[pcms]
 
 *2686|
 [fc]
-暗がりに向かって走るターヤさんの後を追うため、[r]
-みんなは一斉に走り出した。[pcms]
+To follow Tarja-san into the darkness, everyone started running at[r]
+once.[pcms]
 
 [se buf=0 storage="seA052"]
 ;//複数人の走る足音
@@ -580,65 +561,61 @@
 
 *2687|
 [fc]
-…………。[r]
-……。[pcms]
+...[pcms]
 
 ;//bgm08.ogg
 [bgm storage="BGM08"]
 
 *2688|
 [fc]
-みんなが逃げるのに、足手まといになるかもしれない。[r]
-だけど、今はそんなことを言ってる余裕なんかないんだ。[pcms]
+I might become a hindrance to everyone's escape. But now is not the[r]
+time to worry about that.[pcms]
 
 *2689|
 [fc]
-みんなで助かる。[r]
-それが、僕達全員の望みなんだ！[r]
-それを邪魔をするわけにはいかない。[pcms]
+We will all survive together. That's what all of us wish for! I can't[r]
+let anything interfere with that.[pcms]
 
 *2690|
 [fc]
-[ns]誠[nse]
-「ぐっ……あううっ！　た、たちどまっちゃ、[r]
-　だめだっ！　いこう……みんなっ！」[pcms]
+[ns]Makoto[nse]
+"Guh... auuhh! We can't stop... it's no good! Let's go... everyone!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na02t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2691|
 [fc]
 [vo_nat s="natu0484"]
-[ns]夏都[nse]
-「へっ！　何仕切ってんだよ、フラフラのクセに！[r]
-　こういうときは、オレに任せとけ！[r]
-　ほら、しっかり掴まってろよ！？　いくぞ、みんなっ！」[pcms]
+[ns]Natsu[nse]
+"Heh! Who do you think you are, giving orders when you're staggering[r]
+around?! Leave it to me at times like this! Hey, hold on tight, okay?[r]
+Let's go, everyone!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2692|
 [fc]
 [vo_tay s="taja0236"]
-[ns]ターヤ[nse]
-「みんな、こっち！　こっちの方が早いし、見つかりにくい！[r]
-　少し行けば、幹線道路に出られるから！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Everyone, this way! This route is faster and harder to find! If we go[r]
+a little further, we can reach the main road!"[pcms]
 
 *2693|
 [fc]
-ターヤさんは、暗がりの方に走っていくと、[r]
-僕達に向かって手招きした。[pcms]
+Tarja-san ran towards the darkness and beckoned us to follow her.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2694|
 [fc]
 [vo_aka s="akari0811"]
-[ns]茜梨[nse]
-「行きましょう！」[pcms]
+[ns]Akari[nse]
+"Let's go!"[pcms]
 
 *2695|
 [fc]
-暗がりに向かって走るターヤさんの後を追うため、[r]
-みんなは一斉に走り出した。[pcms]
+To follow Tarja-san into the darkness, everyone started running at[r]
+once.[pcms]
 
 [se buf=0 storage="seA052"]
 ;//複数人の走る足音
@@ -666,168 +643,166 @@
 *2696|
 [fc]
 [vo_stk s="satuki0339"]
-[ns]彩月[nse]
-「はあっ……はっ……はあっ！　あっ！[r]
-　道路が見えてきた！　それに人が……、[r]
-　違うっ！　感染者だわ！　感染者の群れよ！」[pcms]
+[ns]Satsuki[nse]
+"Haah... hah... haah! Ah! I can see the road! And there are people...[r]
+No, wait! They're infected! A horde of infected!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2697|
 [fc]
-南先輩の叫び声で、みんなは急ブレーキを掛け、[r]
-その場に立ち止まった。[pcms]
+At Satsuki-senpai's shout, everyone slammed on the brakes and stopped[r]
+in their tracks.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so05a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2698|
 [fc]
-[ns]宗一郎[nse]
-「車が乗り捨てられてるけど、あれじゃ……。[r]
-　中に乗り込む事もできなそうだ……どうする？　[r]
-　感染者と、渋滞しまくってる車の壁……あの中を突っ切るか？」[pcms]
+[ns]Souichirou[nse]
+"There are abandoned cars, but... it doesn't look like we can get[r]
+inside them... What do we do? The infected and a wall of jam-packed[r]
+cars... Do we cut through the middle of that?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2699|
 [fc]
-姉ちゃんに抱え上げられたままの僕は、[r]
-そーいちや南先輩の言う道路の状況はよく分からない。[pcms]
+Being carried by Onee-san, I couldn't quite understand the situation[r]
+on the road that Souichirou and Satsuki-senpai were talking about.[pcms]
 
 *2700|
 [fc]
-だけど、二人の声からだけでも、[r]
-そこがどんなにヤバい状況なのか伝わってくる。[pcms]
+But just from the tone of their voices, I could tell how dangerous the[r]
+situation was.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na23t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2701|
 [fc]
 [vo_nat s="natu0485"]
-[ns]夏都[nse]
-「あの中突っ切れってか？　死にに行くようなモンだぞ」[pcms]
+[ns]Natsu[nse]
+"You're saying we should cut through the middle of that? It's like[r]
+going to our deaths."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2702|
 [fc]
 [vo_tay s="taja0237"]
-[ns]ターヤ[nse]
-「…………どこか、他の道があれば……」[pcms]
+[ns]Tarja[nse]
+"...If there were another way..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2703|
 [fc]
 [vo_aka s="akari0812"]
-[ns]茜梨[nse]
-「ちょっと危険かもしれませんが、あの先に本家があります！[r]
-　身を隠す位は出来そうですけど、どうします？」[pcms]
+[ns]Akari[nse]
+"It might be a bit dangerous, but there's a main house ahead! We[r]
+should be able to hide there, but what do you think?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2704|
 [fc]
-[ns]宗一郎[nse]
-「結構、キモが座ってるじゃないですか、お姫様！[r]
-　他に道もなさそうだし……お伴しますぞ！」[pcms]
+[ns]Souichirou[nse]
+"Well, aren't you brave, princess! It doesn't seem like there's any[r]
+other way... I'll accompany you!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2705|
 [fc]
-みんな強がってはいるけど、声が震えてる。[r]
-だけど、助かりたいって気持ちは一緒なんだ。[pcms]
+Everyone is trying to act tough, but their voices are shaking. But we[r]
+all share the same desire to survive.[pcms]
 
 *2706|
 [fc]
-僕だって、そうだ……。[r]
-だけど、声を出すのもキツくなってきた……。[pcms]
+I feel the same way... But it's getting harder to even speak...[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na08t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2707|
 [fc]
 [vo_nat s="natu0486"]
-[ns]夏都[nse]
-「おいおい、オレ、誠を抱えたままなんだぜ？　でも他を探してる[r]
-　余裕もねえし、いっちょ、やってみるか！　地獄の……、[r]
-　何人だっけ？　肩に担いで走るシーンみたいだよな、はは……」[pcms]
+[ns]Natsu[nse]
+"Hey, hey, I'm carrying Makoto here, you know? But we don't have the[r]
+luxury to look for another way, so let's give it a shot! It's like[r]
+that scene from hell... how many was it? Running with someone on your[r]
+shoulders, haha..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na02t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [eval exp="f.chara_x = 0,f.chara_y = 0"][quake_chara layer=5 y up m]
 
 *2708|
 [fc]
-姉ちゃんは、そう言うと僕の身体の位置を調整するため、[r]
-小さく跳ね上げ、抱え尚した。[pcms]
+Onee-san said that and then gave a small hop to adjust my position[r]
+before holding me tighter.[pcms]
 
 *2709|
 [fc]
-[ns]誠[nse]
-「ぐっ……」[pcms]
+[ns]Makoto[nse]
+"Guh..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2710|
 [fc]
-[ns]宗一郎[nse]
-「余裕ありますね……それに引き替え、誠……。[r]
-　なんだか余裕なさそうだな……もう少しだ、頑張れ！」[pcms]
+[ns]Souichirou[nse]
+"You seem pretty composed... In contrast to Makoto... He doesn't seem[r]
+to have any composure left... Hang in there, just a little longer!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na02t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2711|
 [fc]
 [vo_nat s="natu0487"]
-[ns]夏都[nse]
-「バカ！　余裕なんてねえよ！　でも、やるしかないだろ！[r]
-　なに、あの山登ればいいんだろ！　あんなの、[r]
-　自衛官時代の訓練にくらべりゃ屁でもねえ！　いくぞっ！」[pcms]
+[ns]Natsu[nse]
+"Idiot! I'm not composed at all! But we've got no choice but to do it![r]
+What, we just need to climb that mountain, right? That's nothing[r]
+compared to the training I had during my Self-Defense Force days![r]
+Let's go!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se5_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2712|
 [fc]
 [vo_stk s="satuki0340"]
-[ns]彩月[nse]
-「はいっ！」[pcms]
+[ns]Satsuki[nse]
+"Yes!"[pcms]
 
 *2713|
 [fc]
-そーいちと姉ちゃんのやりとり……緊張感が無いのに、[r]
-緊張してる……。[pcms]
+The exchange between Souichirou and Onee-san... There's no tension,[r]
+yet it's tense...[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2714|
 [fc]
-こんな状況じゃなきゃ、面白かったんだろうけどな。[pcms]
+If it weren't for this situation, it might have been funny.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2715|
 [fc]
 [vo_tay s="taja0238"]
-[ns]ターヤ[nse]
-「行くのなら急ごう。[r]
-　“彼ら”はまだ、わたし達に気が付いていない」[pcms]
+[ns]Tarja Pohjonen[nse]
+"If we're going, let's hurry. 'They' haven't noticed us yet."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2716|
 [fc]
 [vo_aka s="akari0813"]
-[ns]茜梨[nse]
-「あの山は道が悪いので、[r]
-　“彼ら”の足では追いついてこれないと思います……多分。[r]
-　……行きましょう！」[pcms]
+[ns]Akari[nse]
+"The path up that mountain is rough, so 'they' probably won't be able[r]
+to catch up with us on foot... probably. ...Let's go!"[pcms]
 
 *2717|
 [fc]
-どうやらみんなの決意は固まったらしい。[r]
-みんな一斉に身構え、一斉に土を蹴って、[r]
-林の中を駆け出した。[pcms]
+It seems everyone has made up their minds. Everyone got ready at once[r]
+and kicked off the ground together, dashing into the forest.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c lr time=300][hide_chara_int]

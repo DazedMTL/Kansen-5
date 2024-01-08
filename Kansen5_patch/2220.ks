@@ -34,102 +34,101 @@
 
 *1503|
 [fc]
-入り口を塞ぐように稼津央と黒服の男達が並ぶ。[r]
-その数は稼津央を入れて１２人。実に１ダースに及んでいた。[pcms]
+Kazuo and a group of men in black suits line up, blocking the[r]
+entrance. Including Kazuo, there were 12 of thema full dozen.[pcms]
 
 *1504|
 [fc]
 [vo_mis s="misao_st0043"]
-[ns]美沙緒[nse]
-「くっ……」[pcms]
+[ns]Misao[nse]
+"Damn..."[pcms]
 
 *1505|
 [fc]
-美沙緒は悔しそうに顔をゆがませる。[r]
-黒服達の中に、父玄治郎から引き継いだＳＰが[r]
-混ざっていたからだ。[pcms]
+Misao's face twisted in frustration. Among the men in black suits were[r]
+SPs inherited from her father Genjiro.[pcms]
 
 *1506|
 [fc]
-裏切られた……その思いが美沙緒の顔を曇らせる。[pcms]
+Feeling betrayed... that thought clouded Misao's face.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1507|
 [fc]
-[ns]稼津央[nse]
-「残念だけどね、姉さん。他の手下はもう助けには来られないよ」[pcms]
+[ns]Kazuo[nse]
+"Too bad, sister. Your other underlings won't be coming to your[r]
+rescue."[pcms]
 
 *1508|
 [fc]
-再び顔をゆがませる美沙緒を、稼津央は面白い見世物でも[r]
-見るかのように笑いながら見つめていた。[pcms]
+As Misao's face twisted again, Kazuo watched her with a smile, as if[r]
+she were an amusing spectacle.[pcms]
 
 *1509|
 [fc]
 [vo_mis s="misao_st0044"]
-[ns]美沙緒[nse]
-「……やっぱり、コードを不正使用したのは、あなたなのね」[pcms]
+[ns]Misao[nse]
+"...So it was you who misused the code after all."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz18"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1510|
 [fc]
-[ns]稼津央[nse]
-「そうだよ。今頃気がついたの？　ああ、でも安心してよ。[r]
-　姉さんから盗んだ訳じゃないから。姉さんのお仲間から[r]
-　拝借させてもらったけどね」[pcms]
+[ns]Kazuo[nse]
+"That's right. You're just realizing now? Ah, but don't worry. I[r]
+didn't steal it from you. I borrowed it from one of your associates."[pcms]
 
 *1511|
 [fc]
 [vo_mis s="misao_st0045"]
-[ns]美沙緒[nse]
-「じゃあ、春先のあの研究施設の件も、稼津央、あなたなのね」[pcms]
+[ns]Misao[nse]
+"Then, the incident at the research facility in early spring was also[r]
+your doing, Kazuo."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz17"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1512|
 [fc]
-[ns]稼津央[nse]
-「そうだよ。もっともあれは失敗だったけどね。[r]
-　あんな[ruby text="おおごと"][ch text="大事"]になるとは思わなかったよ。[r]
-　時間と金をずいぶん無駄にしちゃったからね。大失敗だ」[pcms]
+[ns]Kazuo[nse]
+"Yes, although that was a failure. I didn't expect it to turn into[r]
+such a big deal. It was a huge waste of time and money. A total[r]
+failure."[pcms]
 
 *1513|
 [fc]
 [vo_mis s="misao_st0046"]
-[ns]美沙緒[nse]
-「……何が目的なの？」[pcms]
+[ns]Misao[nse]
+"...What is your goal?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1514|
 [fc]
-[ns]稼津央[nse]
-「……出来れば、姉さんに気付かれたくなかったんだけどね。[r]
-　なるべく穏便に済ませたかったから、遠回しな方法を[r]
-　取ってきたつもりなんだ」[pcms]
+[ns]Kazuo[nse]
+"...I would have preferred you didn't notice. I wanted to settle[r]
+things quietly, so I've been taking a roundabout approach."[pcms]
 
 *1515|
 [fc]
-[ns]稼津央[nse]
-「でも、こういう状況になったら仕方が無いよね。[r]
-　ちょっと手荒だけど、早く事を済ませたい」[pcms]
+[ns]Kazuo[nse]
+"But now that it's come to this, there's no helping it. It's a bit[r]
+rough, but I want to get this over with quickly."[pcms]
 
 *1516|
 [fc]
 [vo_mis s="misao_st0047"]
-[ns]美沙緒[nse]
-「こういう状況ですって？　今、ここで起きようとしている[r]
-　エピデミックもあなたの仕業なんじゃないの？」[pcms]
+[ns]Misao[nse]
+"What do you mean by 'this situation'? Are you behind the epidemic[r]
+that's about to happen here now?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1517|
 [fc]
-[ns]稼津央[nse]
-「いいや、違うよ。こんな事するくらいなら、とっくの昔に[r]
-　姉さんを痛めつけてでも、欲しいものを手に入れていた」[pcms]
+[ns]Kazuo[nse]
+"No, that's not it. If I wanted to do something like this, I would[r]
+have hurt you long ago to get what I wanted."[pcms]
 
 [chara_int][trans_c cross time=150]
 ;不要？[wait_c time=1000]
@@ -138,13 +137,13 @@
 
 *1518|
 [fc]
-[ns]稼津央[nse]
-「もっとも……」[pcms]
+[ns]Kazuo[nse]
+"Although..."[pcms]
 
 *1519|
 [fc]
-稼津央はわざと言葉を区切り、美沙緒の反応を楽しんでいる。[r]
-黒服達の中にも、にやにやと笑っている者がいた。[pcms]
+Kazuo deliberately paused his words, enjoying Misao's reaction. Among[r]
+the men in black suits, some were grinning smugly.[pcms]
 
 [chara_int]
 ;//[trans_c cross time=0]
@@ -152,286 +151,293 @@
 
 *1520|
 [fc]
-そして、茜梨は、困惑した表情に驚愕の色を加えはじめ、[r]
-固唾を呑んで、自分の叔父と叔母のやりとりに聞き入っていた。[pcms]
+And Akari began to show a mix of confusion and astonishment on her[r]
+face, swallowing hard as she listened to the exchange between her aunt[r]
+and uncle.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz19"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1521|
 [fc]
-[ns]稼津央[nse]
-「金を積んで運ばせた感染者を置いておいた場所に、誰かが[r]
-　侵入したみたいなんだよね。輸送船の中でも何かトラブルが[r]
-　あったみたいなんだけど、僕には報告が無かったしね」[pcms]
+[ns]Kazuo[nse]
+"It seems someone broke into the place where I left the infected[r]
+person I had paid to transport. There was also some trouble on the[r]
+transport ship, but I wasn't informed about it."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1522|
 [fc]
-[ns]稼津央[nse]
-「そこらへんが、原因かもね」[pcms]
+[ns]Kazuo[nse]
+"That might be the cause."[pcms]
 
 *1523|
 [fc]
 [vo_mis s="misao_st0048"]
-[ns]美沙緒[nse]
-「感染者を運び出したですって？　その感染者はどうなったのよ」[pcms]
+[ns]Misao[nse]
+"You moved an infected person? What happened to them?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz17"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1524|
 [fc]
-驚きの色を隠さずに訊ねる美沙緒を見て、稼津央はにんまりと[r]
-満足そうな笑みを浮かべる。[pcms]
+Looking at Misao, who asked with undisguised surprise, Kazuo grinned[r]
+with satisfaction.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1525|
 [fc]
-[ns]稼津央[nse]
-「さあねえ。二人も連れてきたんだよ。それなのに、一人は[r]
-　侵入者に連れて行かれちゃったんだ。酷いよね。高かったのに」[pcms]
+[ns]Kazuo[nse]
+"Who knows? I brought two of them. And yet, one was taken away by an[r]
+intruder. It's terrible. They were expensive."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1526|
 [fc]
-[ns]稼津央[nse]
-「もう一人は、港の港湾施設にまだ居ると思うんだけど。[r]
-　でも、もう連絡が付かないから、確かめようが無いんだよね。[r]
-　大損しちゃいそうだよ、困ったもんだ」[pcms]
+[ns]Kazuo[nse]
+"The other one should still be at the port facility, I think. But I[r]
+can't contact them anymore, so there's no way to check. Looks like I'm[r]
+going to take a big loss, what a problem."[pcms]
 
 *1527|
 [fc]
 [vo_mis s="misao_st0049"]
-[ns]美沙緒[nse]
-「稼津央！　連れ出された方を探さなかったっていうの？！」[pcms]
+[ns]Misao[nse]
+"Kazuo! You're saying you didn't search for the one who was taken[r]
+away?!"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz15"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1528|
 [fc]
-[ns]稼津央[nse]
-「怖いなあ、姉さん。そんなに怒らないでよ。僕が探さない訳[r]
-　ないだろう？　もちろん、探したよ。でも駄目だった」[pcms]
+[ns]Kazuo[nse]
+"Scary, sister. Don't be so angry. It's not like I wouldn't search for[r]
+them. Of course, I did. But it was no use."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz19"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1529|
 [fc]
-[ns]稼津央[nse]
-「どうやら、警備主任と何人かもグルだったみたいでね、発見が[r]
-　遅れたのが駄目だった理由なんだ。昨夜遅くに感染者をここから[r]
-　運び出す段取りだったんだけどね」[pcms]
+[ns]Kazuo[nse]
+"Apparently, the security chief and some others were in on it too,[r]
+which is why the discovery was delayed. The plan was to move the[r]
+infected person out of here late last night."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz16"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1530|
 [fc]
-[ns]稼津央[nse]
-「一人連れ出されたってことは、その時になるまで、[r]
-　判らなかったことなんだ。おかげで昨晩は大変だったんだよ。[r]
-　しかも連れ出したのは、例の保護団体の連中みたいなんだ」[pcms]
+[ns]Kazuo[nse]
+"The fact that one was taken away means we didn't realize until then.[r]
+It caused a lot of trouble last night. And it seems that those who[r]
+took them were from that protection organization."[pcms]
 
 *1531|
 [fc]
 [vo_mis s="misao_st0050"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz16"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1532|
 [fc]
-[ns]稼津央[nse]
-「だからね、姉さん。研究データが欲しいんだ。穴埋めとしてね。[r]
-　全部、そっくり僕にいただけませんか？」[pcms]
+[ns]Kazuo[nse]
+"So, sister. I want the research data as compensation. Could you give[r]
+it all to me?"[pcms]
 
 *1533|
 [fc]
-まるで営業をしているかのような稼津央の笑顔に、[r]
-美沙緒はうすら寒いものを感じていた。[pcms]
+Misao felt a chill at Kazuo's smile, as if he were making a sales[r]
+pitch.[pcms]
 
 *1534|
 [fc]
 [vo_mis s="misao_st0051"]
-[ns]美沙緒[nse]
-「……もう一度訊くわ。何が目的なの？　お金が目当てなの？[r]
-　外国にでも売るつもりでいるの？」[pcms]
+[ns]Misao[nse]
+"...I'll ask again. What is your goal? Are you after money? Planning[r]
+to sell it to a foreign country?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz16"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1535|
 [fc]
-[ns]稼津央[nse]
-「お金そのものが欲しい訳じゃないよ。金はあくまで手段。[r]
-　事を成すのに必要な力というだけに過ぎない」[pcms]
+[ns]Kazuo[nse]
+"I don't want money for its own sake. Money is merely a means to an[r]
+end. It's just necessary power to accomplish things."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1536|
 [fc]
-[ns]稼津央[nse]
-「まあ、外国には売るだろうね。ウイルスの情報を欲しがっている[r]
-　国は、いくらでもあるから。一番高値を付けてくれるところに[r]
-　売り渡すつもりでいるよ」[pcms]
+[ns]Kazuo[nse]
+"Well, I'll probably sell it abroad. There are plenty of countries[r]
+that want information on the virus. I plan to sell it to whoever[r]
+offers the highest price."[pcms]
 
 *1537|
 [fc]
 [vo_mis s="misao_st0052"]
-[ns]美沙緒[nse]
-「事を成す？　何をするつもりでいるの、稼津央」[pcms]
+[ns]Misao[nse]
+"Accomplish what? What are you planning to do, Kazuo?"[pcms]
 
 *1538|
 [fc]
-[ns]稼津央[nse]
-「金の材料を取り敢えず今持っているのは姉さんだからねえ。[r]
-　まあ、話しておいてもいいかな……」[pcms]
+[ns]Kazuo[nse]
+"Since you currently have the resources, sister, maybe I should tell[r]
+you..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1539|
 [fc]
-[ns]稼津央[nse]
-「世界をね、変えたいんだ。今よりももっと人間だけでなく[r]
-　動物、自然にとって良い環境に作り替えたいんだよ。[r]
-　それには、金はいくらあっても足りないだろう？」[pcms]
+[ns]Kazuo[nse]
+"I want to change the world. Make it a better environment not just for[r]
+humans but also for animals and nature. For that, no amount of money[r]
+would be enough, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1540|
 [fc]
-[ns]稼津央[nse]
-「それにね、あのウイルス。あれを“人間が”生み出せたのは、運命、[r]
-　天の采配、ギフト、贈り物、だと思ってるんだ」[pcms]
+[ns]Kazuo[nse]
+"And about that virus... I believe it's fate, divine providence, a[r]
+gift that humans were able to create it."[pcms]
 
 *1541|
 [fc]
 [vo_mis s="misao_st0053"]
-[ns]美沙緒[nse]
-「何を言って……」[pcms]
+[ns]Misao[nse]
+"What are you talking about..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1542|
 [fc]
-[ns]稼津央[nse]
-「だってね。地球環境にとって人間は『多すぎる』とは思わない？[r]
-　人が生きる場所や金を生み出すために、自然を破壊して地球[r]
-　そのものを脅かしてるとは思わないかい？」[pcms]
+[ns]Kazuo[nse]
+"Don't you think there are too many humans for the Earth's[r]
+environment? Don't you think we're threatening the planet itself by[r]
+destroying nature for places for people to live and to generate[r]
+money?"[pcms]
 
 *1543|
 [fc]
-[ns]稼津央[nse]
-「どれだけのレッドデータになってしまうものを作り出せば[r]
-　気が済むんだろうね、人間ってやつは……」[pcms]
+[ns]Kazuo[nse]
+"How much more red data do humans have to create before they're[r]
+satisfied..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz06"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1544|
 [fc]
-[ns]稼津央[nse]
-「……本当はね、４年前のウイルス。あの『人にしか感染せず、[r]
-　短時間で感染者が死亡するタイプ』あれが理想的だったんだ。[r]
-　でももう存在しないし、逆にワクチンなんてのが存在してる」[pcms]
+[ns]Kazuo[nse]
+"...Actually, the virus from four years ago, the type that 'only[r]
+infects humans and kills the infected in a short time,' that was[r]
+ideal. But it no longer exists, and instead, there's even a vaccine."[pcms]
 
 *1545|
 [fc]
-[ns]稼津央[nse]
-「だからあれの改良型を作りたいんだよ、姉さん。それを使って[r]
-　地球規模で人口を調整するんだ。そうすれば、きっと人間以外の[r]
-　生き物にとっても住みやすい地球環境を作れるはずだ」[pcms]
+[ns]Kazuo[nse]
+"That's why I want to create an improved version of it, sister. Using[r]
+it, I plan to adjust the global population. That way, I'm sure we can[r]
+create an Earth environment that's more livable not just for humans[r]
+but for other creatures as well."[pcms]
 
 *1546|
 [fc]
 [vo_mis s="misao_st0054"]
-[ns]美沙緒[nse]
-「狂ってるわ」[pcms]
+[ns]Misao[nse]
+"You're insane."[pcms]
 
 *1547|
 [fc]
-肩をすくめてみせる稼津央は、吐き捨てるように言う美沙緒を、[r]
-憐れな者を見るような目つきで眺めた。[pcms]
+Kazuo, shrugging his shoulders, looked at Misao, who spat out her[r]
+words, with pity as if looking at a pitiful creature.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz06"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1548|
 [fc]
-[ns]稼津央[nse]
-「わかってもらえなくて、残念だよ。僕に言わせれば、近い将来[r]
-　地球が駄目になるのを判ってて、つまらない妥協や、お題目[r]
-　だけのエコを唱えて安心している方が狂ってると思うけどね」[pcms]
+[ns]Kazuo[nse]
+"It's a shame you don't understand. In my opinion, those who know the[r]
+Earth will be ruined in the near future and feel safe just by making[r]
+boring compromises and chanting about eco-friendliness are the crazy[r]
+ones."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz01"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1549|
 [fc]
-[ns]稼津央[nse]
-「姉さんは知ってるかな。この先人間が増え続けると早晩、[r]
-　食料が足りなくなって、結局は飢餓状態や食料調達の為の[r]
-　争いが起きたりして、何万人と死ぬ可能性があるんだよ」[pcms]
+[ns]Kazuo[nse]
+"Do you know, sister? If humans continue to increase, sooner or later,[r]
+there won't be enough food, and eventually, there will be hunger and[r]
+conflicts over food procurement, which could lead to tens of thousands[r]
+of deaths."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1550|
 [fc]
-[ns]稼津央[nse]
-「争いが起きたらどうなると思う？　地球が壊滅的なダメージを[r]
-　受ける可能性が高い。もちろん、他の罪のない動植物だって[r]
-　犠牲になるんだよ」[pcms]
+[ns]Kazuo[nse]
+"What do you think will happen if conflicts arise? There's a high[r]
+possibility that the Earth will suffer catastrophic damage. Of course,[r]
+other innocent animals and plants will also become victims."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz14"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1551|
 [fc]
-[ns]稼津央[nse]
-「それを回避できるモノ、人口調整出来るモノを自由に出来る[r]
-　立場にあるのに、姉さんは何もしようとはしないっ！」[pcms]
+[ns]Kazuo[nse]
+"Despite being in a position to freely control something that can[r]
+avoid that, something that can adjust the population, you refuse to do[r]
+anything!"[pcms]
 
 *1552|
 [fc]
-[ns]稼津央[nse]
-「ちっぽけな国の再構築にしか使おうとしなかった父さんだって、[r]
-　本当に利己的で視野の小さい人間だよっ！！」[pcms]
+[ns]Kazuo[nse]
+"Even our father, who only thought of reconstructing a petty nation,[r]
+was really a selfish person with a narrow perspective!"[pcms]
 
 *1553|
 [fc]
-さきほどまでの薄ら笑いを浮かべていた稼津央が豹変していた。[r]
-怒りに眼を吊り上げ、握りしめた拳がぶるぶると震えている。[pcms]
+The previously smirking Kazuo had changed dramatically. His eyes were[r]
+raised in anger, and his clenched fists were trembling.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz15"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1554|
 [fc]
-だが、それはほんのつかの間でしかなかった。[pcms]
+But it was only for a moment.[pcms]
 
 *1555|
 [fc]
-ふっと息を吐いたあとの稼津央は、それまでどおりの[r]
-見ようによっては柔らかいとも思える笑顔を浮かべていた。[pcms]
+After letting out a breath, Kazuo returned to his usual smile that[r]
+could be seen as gentle depending on the angle.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1556|
 [fc]
-[ns]稼津央[nse]
-「……大事の前の小事だよねえ。最初からこうしてれば良かった。[r]
-　でも、自分は姉さんが好きだったから、出来なかったんだ。[r]
-　甘かったよね、僕は」[pcms]
+[ns]Kazuo[nse]
+"...Minor details before the main event. I should have done this from[r]
+the start. But I liked you, sister, so I couldn't do it. I was too[r]
+soft."[pcms]
 
 *1557|
 [fc]
-まるで独り言のようにそう言うと、稼津央は黒服の前に手を出し、[r]
-当然のように銃を受け取っていた。[pcms]
+As if talking to himself, Kazuo reached out his hand in front of the[r]
+men in black suits and naturally received a gun.[pcms]
 
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1558|
 [fc]
-その銃を美沙緒に向けながら近づく。美沙緒を牽制しながら[r]
-彼女のスカートのポケットを探り、鍵束を取り出していた。[pcms]
+Approaching Misao with the gun pointed at her, he searched her skirt[r]
+pocket while keeping her restrained and took out a bunch of keys.[pcms]
 
 [chara_int][trans_c cross time=150]
 ;不要？[wait_c time=1000]
@@ -439,47 +445,48 @@
 
 *1559|
 [fc]
-[ns]稼津央[nse]
-「これで、奥にいるバケモノを連れてこい」[pcms]
+[ns]Kazuo[nse]
+"With this, bring out the monster inside."[pcms]
 
 *1560|
 [fc]
-そう言いながら、稼津央は取り出した鍵束を黒服の男に手渡した。[pcms]
+As he said this, Kazuo handed the bunch of keys he had taken out to[r]
+one of the men in black suits.[pcms]
 
 *1561|
 [fc]
-受け取った男は、躊躇している。[r]
-その様子を見た稼津央は、美沙緒を見ながらにたりと笑った。[pcms]
+The man who received it hesitated. Seeing this, Kazuo looked at Misao[r]
+and smiled slyly.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz18"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1562|
 [fc]
-[ns]稼津央[nse]
-「大丈夫だよ。心配入らない。姉さんが安全を保障してくれるさ。[r]
-　ねえ、姉さん？　ほら、さっさと行ってこい」[pcms]
+[ns]Kazuo[nse]
+"It's okay. Don't worry. Sister will ensure your safety. Now, go on[r]
+and bring it."[pcms]
 
 *1563|
 [fc]
 [vo_mis s="misao_st0055"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *1564|
 [fc]
-数人の黒服が不承不承ながらも動く。[r]
-美沙緒は顔を強ばらせ、黒服達が奥へと向かうのを見ていた。[pcms]
+Several men in black suits reluctantly began to move. Misao's face[r]
+stiffened as she watched them head towards the back.[pcms]
 
 *1565|
 [fc]
-――ほどなく[pcms]
+--Before long[pcms]
 
 [ChrSetEx layer=5 chbase="ge1_ki_kan"][ChrSetXY layer=5 x=320 y=0][trans_c cross time=150]
 
 *1566|
 [fc]
-黒服達が連れてきたのは、年老いた男性だった。[r]
-その眼は赤く染まっている。そして異臭が漂っていた。[pcms]
+The men in black suits brought back an elderly man. His eyes were dyed[r]
+red, and an odd smell wafted from him.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ak1_dou"][ChrSetParts layer=3 chface="F1_ak15"][ChrSetXY layer=3 x=0 y=0]
@@ -488,54 +495,54 @@
 *1567|
 [fc]
 [vo_aka s="akari_st0014"]
-[ns]茜梨[nse]
-「うそ……でしょう？　まさか……まさかお爺様？！[r]
-　京都でご静養してるはずでしたよね？」[pcms]
+[ns]Akari[nse]
+"No way... You're kidding, right? Grandfather?! He was supposed to be[r]
+resting in Kyoto, wasn't he?"[pcms]
 
 *1568|
 [fc]
-[ns]稼津央[nse]
-「残念だけど茜梨、あれは紛れもなくお前のお爺様だよ」[pcms]
+[ns]Kazuo[nse]
+"Unfortunately for you, Akari, that is undoubtedly your grandfather."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_dou"][ChrSetParts layer=3 chface="F1_ak14"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1569|
 [fc]
 [vo_aka s="akari_st0015"]
-[ns]茜梨[nse]
-「うそ、うそ……いや、いやあああああっ！」[pcms]
+[ns]Akari[nse]
+"No, no... Nooooo!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz16"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *1570|
 [fc]
-膝から[ruby text="くずお"]頽れそうになるのを黒服が支え、茜梨は無理矢理[r]
-立った姿勢を保持され続けた。[r]
-涙がぽたぽたと落ちるが、黒服は気にも留めていない。[pcms]
+As Akari nearly collapsed to her knees, she was supported by the men[r]
+in black suits and forced to maintain her standing position. Tears[r]
+fell drop by drop, but the men in black suits paid no mind.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ge1_ki_kan"][ChrSetXY layer=5 x=320 y=0][trans_c cross time=150]
 
 *1571|
 [fc]
-その老人、美沙緒と稼津央の父であり、茜梨の祖父でもある[r]
-玄治郎は黒服達に両腕を掴まれたまま、ぼんやりと立っている。[pcms]
+The old man, Genjirowho was both Misao and Kazuo's father and Akari's[r]
+grandfatherstood vacantly while being held by both arms by the men in[r]
+black suits.[pcms]
 
 *1572|
 [fc]
-赤い眼はうつろで何も写していない。[r]
-そして、頭部には手術の痕があった。[pcms]
+His red eyes were empty and reflected nothing. And there were scars[r]
+from surgery on his head.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz17"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1573|
 [fc]
-[ns]稼津央[nse]
-「ふうん。脳に外科的処置をしてあるんだ。なるほどね。[r]
-　だからこんなにおとなしくて扱いやすくなってるんだね。[r]
-　これは姉さんの仕業かい？」[pcms]
+[ns]Kazuo[nse]
+"Hmm. There's been surgical treatment on the brain. I see. That's why[r]
+he's so docile and easy to handle. Is this your doing, sister?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz16"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
@@ -544,180 +551,181 @@
 *1574|
 [fc]
 [vo_aka s="akari_st0016"]
-[ns]茜梨[nse]
-「……！」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *1575|
 [fc]
-稼津央の言葉に俯いていた茜梨が顔を上げ、まじまじと[r]
-祖父の頭部に施された手術の痕を見つめる。[pcms]
+Upon hearing Kazuo's words, Akari, who had been looking down, raised[r]
+her head and stared intently at the surgical scars on her[r]
+grandfather's head.[pcms]
 
 *1576|
 [fc]
-信じられないものを見たという目つきで、そして問いただす視線で[r]
-茜梨は、自分の叔母、美沙緒を見つめた。[pcms]
+With a look of disbelief and questioning eyes, Akari gazed at her aunt[r]
+Misao.[pcms]
 
 *1577|
 [fc]
 [vo_mis s="misao_st0056"]
-[ns]美沙緒[nse]
-「……っ」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *1578|
 [fc]
-美沙緒は、茜梨の視線を受け止めきれず、ふっと眼を逸らす。[r]
-その様子を稼津央は、笑みを浮かべながら眺めていた。[pcms]
+Misao couldn't meet Akari's gaze and quickly looked away. Kazuo[r]
+watched this with a smile on his face.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz01"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1579|
 [fc]
-[ns]稼津央[nse]
-「助かるよ、姉さん。運ぶのが容易になった。[r]
-　ありがとうとでも言っておこうかな」[pcms]
+[ns]Kazuo[nse]
+"You've helped me out, sister. It's made transportation easier. Maybe[r]
+I should say thank you."[pcms]
 
 *1580|
 [fc]
 [vo_mis s="misao_st0057"]
-[ns]美沙緒[nse]
-「……くっ」[pcms]
+[ns]Misao[nse]
+"...ugh"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1581|
 [fc]
-[ns]稼津央[nse]
-「父さんが手に入れば、わざわざ危険を冒して感染者を[r]
-　連れ出す事も無かったんだけどね。まあ、いいさ。[r]
-　父さんには足りなくなった代わりを務めて貰う事にするよ」[pcms]
+[ns]Kazuo[nse]
+"If we had father from the start, we wouldn't have had to risk[r]
+bringing out an infected person. Well, it's fine. Father will serve as[r]
+a replacement for what we're missing."[pcms]
 
 *1582|
 [fc]
 [vo_aka s="akari_st0017"]
-[ns]茜梨[nse]
-「お兄様、酷いことをおっしゃらないでください。[r]
-　お姉様も、どうしてこんな事を……お二人のお父様なのに……」[pcms]
+[ns]Akari[nse]
+"Brother, please don't say such awful things. Sister too... why would[r]
+you do this... He's your father as well..."[pcms]
 
 *1583|
 [fc]
-茜梨は両腕を黒服達に掴まれながらも、必死に身体をよじって[r]
-稼津央と美沙緒に訴えた。[pcms]
+Akari, while being held by the men in black suits, desperately twisted[r]
+her body, appealing to Kazuo and Misao.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz06"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1584|
 [fc]
-[ns]稼津央[nse]
-「茜梨、お前は勘違いしてるよ。これが姉さんの本性なんだ」[pcms]
+[ns]Kazuo[nse]
+"Akari, you're misunderstanding something. This is sister's true[r]
+nature."[pcms]
 
 *1585|
 [fc]
 [vo_aka s="akari_st0018"]
-[ns]茜梨[nse]
-「えっ？！」[pcms]
+[ns]Akari[nse]
+"Eh?!"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz06"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1586|
 [fc]
-[ns]稼津央[nse]
-「父さんと４年前の事件の関わりは本当の事だったんだよ、茜梨。[r]
-　それで姉さんが父さんに罰を下した。もっとも、個人的な[r]
-　復讐の意味合いも含まれてるんだろうけどねえ」[pcms]
+[ns]Kazuo[nse]
+"The connection between father and the incident four years ago was[r]
+real, Akari. That's why sister punished father. Of course, it probably[r]
+included a personal desire for revenge."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1587|
 [fc]
-稼津央はちらっと美沙緒を見ながらゆっくりと銃口を上げた。[r]
-驚きのあまり茫然自失になっている茜梨の傍に立つと、[r]
-その頭に銃口を突きつけた。[pcms]
+As Kazuo slowly raised the muzzle of his gun, he glanced at Misao.[r]
+Standing beside Akari, who was stunned into a daze, he pointed the gun[r]
+at her head.[pcms]
 
 *1588|
 [fc]
 [vo_mis s="misao_st0058"]
-[ns]美沙緒[nse]
-「稼津央っ！！　止めなさいっ！！」[pcms]
+[ns]Misao[nse]
+"Kazuo!! Stop it!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1589|
 [fc]
-[ns]稼津央[nse]
-「そして、これは僕の復習。茜梨、じっとしててね。[r]
-　動くと誤って指がトリガー引いちゃうかもしれないから」[pcms]
+[ns]Kazuo[nse]
+"And this is my revenge. Akari, stay still. If you move, I might[r]
+accidentally pull the trigger."[pcms]
 
 *1590|
 [fc]
-茜梨は、これまでに明かされた様々な事、そして自分の身に[r]
-今起こっていることを受け入れるのに必死だった。[pcms]
+Akari was desperately trying to accept the various things that had[r]
+been revealed and what was happening to her now.[pcms]
 
 *1591|
 [fc]
-稼津央を見上げ、何か言いたげな素振りをみせたが、[r]
-すぐに稼津央の言いつけ通り口を閉ざし、身体を強ばらせる。[pcms]
+Looking up at Kazuo, she seemed to want to say something but quickly[r]
+closed her mouth and stiffened her body as he had ordered.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1592|
 [fc]
-[ns]稼津央[nse]
-「……いい子だね、茜梨。さて、姉さん。僕の要求を[r]
-　呑んで貰おうか。データが入っているパソコンのパスワードを[r]
-　教えてくれるよね。のんびり解析してる暇なんてないからねえ」[pcms]
+[ns]Kazuo[nse]
+"...Good girl, Akari. Now then, sister. I suppose you'll agree to my[r]
+demand. You'll tell me the password for the computer that contains the[r]
+data. We don't have time to analyze it leisurely."[pcms]
 
 *1593|
 [fc]
 [vo_mis s="misao_st0059"]
-[ns]美沙緒[nse]
-「絶対に、あなたに教えたりしないわ」[pcms]
+[ns]Misao[nse]
+"I will never tell you."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz17"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1594|
 [fc]
-[ns]稼津央[nse]
-「おやおや、強情で薄情なひとだねえ、姉さんは。[r]
-　茜梨のこのさまを見ても、要求を呑んではくれないのかい？」[pcms]
+[ns]Kazuo[nse]
+"Oh dear, sister is so stubborn and cold-hearted. Even seeing Akari[r]
+like this, you won't comply with my request?"[pcms]
 
 *1595|
 [fc]
 [vo_mis s="misao_st0060"]
-[ns]美沙緒[nse]
-「…………っ」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1596|
 [fc]
-[ns]稼津央[nse]
-「しょうがないなあ。じゃあ荒っぽい手段でいこうか。[r]
-　どのみち、パスワードやデータを手に入れたくらいじゃ、[r]
-　僕の気持ちは収まらないだろうからねえ」[pcms]
+[ns]Kazuo[nse]
+"Can't be helped then. Let's go with a rougher method. After all, just[r]
+getting the password and data won't satisfy me."[pcms]
 
 *1597|
 [fc]
-[ns]稼津央[nse]
-「父さんにしっかり見せてあげたいんだよ、姉さん。[r]
-　僕にも復讐する機会があっていいはずだからね」[pcms]
+[ns]Kazuo[nse]
+"I want father to see it clearly, sister. I should have the chance to[r]
+take revenge too."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1598|
 [fc]
-そう言うと稼津央は、茜梨に突きつけていた銃をさげ、[r]
-黒服に手渡した。[pcms]
+Having said that, Kazuo lowered the gun he had pointed at Akari and[r]
+handed it over to one of the men in black suits.[pcms]
 
 *1599|
 [fc]
-そして、ゆっくりと自分を睨み付ける美沙緒に近づいていく。[pcms]
+Then, he slowly approached Misao, who was glaring at him.[pcms]
 
 ;//めも：オズ立ち絵？と思われるが、曖昧のままにしたいので出さないでおきます。
 
 *1600|
 [fc]
-稼津央が動くと同時に、黒服の中でもリーダー格だと思しき男が[r]
-数人に合図を送り、稼津央の後ろから従っていた。[pcms]
+As Kazuo moved, a man who seemed to be the leader among the men in[r]
+black signaled a few others to follow behind Kazuo.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -744,48 +752,46 @@
 
 *1601|
 [fc]
-[ns]稼津央[nse]
-「さて……こんなもので終わったと思わないでね、姉さん。[r]
-　……おいっ！」[pcms]
+[ns]Kazuo[nse]
+"Now then... don't think it's over just like this, sister. ...Hey!"[pcms]
 
 *1602|
 [fc]
-稼津央が合図を送ると、黒服達は今度は茜梨を押さえつけに[r]
-かかった。[pcms]
+At Kazuo's signal, the men in black suits began to restrain Akari.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1603|
 [fc]
 [vo_aka s="akari_st0021"]
-[ns]茜梨[nse]
-「きゃっ！　いやっ！　止めて！　止めて下さいっ！[r]
-　お願い、お兄様っ！　止めさせてくださっ！　きゃああっ！」[pcms]
+[ns]Akari[nse]
+"Kyaa! No! Stop! Please stop! Please, brother! Make them stop! Kyaaa!"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1604|
 [fc]
-[ns]稼津央[nse]
-「茜梨は、良い声で鳴きそうだねえ……」[pcms]
+[ns]Kazuo[nse]
+"Akari seems like she'll scream nicely..."[pcms]
 
 *1605|
 [fc]
 [vo_mis s="misao_st0081"]
-[ns]美沙緒[nse]
-「！！　止めて稼津央。茜梨には手を出さないでっ！[r]
-　お願いよ、許してあげて、稼津央っ！！！」[pcms]
+[ns]Misao[nse]
+"!! Stop it, Kazuo. Don't lay a hand on Akari! Please, I beg you,[r]
+forgive her, Kazuo!!!"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz16"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1606|
 [fc]
-足元からの懇願に、稼津央は冷たい仮面で応える。[pcms]
+Responding with a cold facade to the pleas coming from below him,[r]
+Kazuo spoke.[pcms]
 
 *1607|
 [fc]
-[ns]稼津央[nse]
-「じゃあ、パスワードを教えてくれるかい、姉さん？」[pcms]
+[ns]Kazuo[nse]
+"So, will you tell me the password now, sister?"[pcms]
 
 ;//*_選択肢
 ;//1,  教えるから止めて ラベルpasswordへ
@@ -794,14 +800,14 @@
 
 ;	[link target=*password]教えるから止めて[endlink]
 ;	[link target=*no_password]絶対に教えない[endlink]
-;	[s]
+;[pcms]
 
 *SEL16|教えるから止めて／絶対に教えない
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '教えるから止めて'"]
-[eval exp="f.seltext06 = '絶対に教えない'"]
+[eval exp="f.seltext04 = 'I\'ll tell you, so please stop'"]
+[eval exp="f.seltext06 = 'I will never tell'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -842,111 +848,109 @@
 *1608|
 [fc]
 [vo_mis s="misao_st0082"]
-[ns]美沙緒[nse]
-「わかったわ……教えるから茜梨を放して」[pcms]
+[ns]Misao[nse]
+"Alright... I'll tell you. Just let Akari go."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz16"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1609|
 [fc]
-[ns]稼津央[nse]
-「パスワードが先だよ。さあ、姉さん」[pcms]
+[ns]Kazuo[nse]
+"Password first. Come on, sister."[pcms]
 
 *1610|
 [fc]
-稼津央が美沙緒に近づく。美沙緒は一瞬逡巡する表情を[r]
-見せたが、稼津央にしか聞えないようにパスワードを囁いた。[pcms]
+As Kazuo approached Misao, she hesitated for a moment but then[r]
+whispered the password so only Kazuo could hear.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1611|
 [fc]
-[ns]稼津央[nse]
-「……おい、ラボから姉さんのノーパソ持ってこい」[pcms]
+[ns]Kazuo[nse]
+"...Hey, bring sister's laptop from the lab."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1612|
 [fc]
-黒服がひとり、足早にラボへと向かって行った。[r]
-その後ろ姿を悔しそうに見つめる美沙緒を、[r]
-稼津央は嬉しそうに眺め下ろしていた。[pcms]
+One of the men in black quickly headed towards the lab. Misao watched[r]
+his retreating figure with frustration as Kazuo looked down at her[r]
+with pleasure.[pcms]
 
 *1613|
 [fc]
-大した時間も掛からずに男が戻ってきた。[r]
-稼津央は起動したままの美沙緒のノーパソを受け取ると、[r]
-手に入れたパスワードを入力する。[pcms]
+The man returned without taking much time. Kazuo received Misao's[r]
+laptop, which was still on, and entered the obtained password.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1614|
 [fc]
-[ns]稼津央[nse]
-「…………」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 *1615|
 [fc]
-新しく開かれた画面をざっと眺めてから、再起動をかけた。[pcms]
+After briefly scanning the newly opened screen, he rebooted it.[pcms]
 
 *1616|
 [fc]
-[ns]稼津央[nse]
-「…………」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 *1617|
 [fc]
-再び立ち上がったノーパソに、再度パスワードを入力する。[r]
-再起動前に一度開いた画面が、再び画面上に現れた。[pcms]
+Once the laptop booted up again, he entered the password once more.[r]
+The screen that had been opened before the reboot appeared again.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1618|
 [fc]
-[ns]稼津央[nse]
-「ふむ。下手な小細工とかしないでくれて嬉しいよ、姉さん」[pcms]
+[ns]Kazuo[nse]
+"Hmm. I'm glad you didn't try any cheap tricks, sister."[pcms]
 
 *1619|
 [fc]
 [vo_mis s="misao_st0083"]
-[ns]美沙緒[nse]
-「もういいでしょう？　十分でしょう？　早く茜梨を放しなさい」[pcms]
+[ns]Misao[nse]
+"Isn't it enough now? You've got what you wanted. Let Akari go[r]
+quickly."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz05"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1620|
 [fc]
-[ns]稼津央[nse]
-「自分の立場をまだわかってないんだねえ、姉さん。[r]
-　僕に命令口調で言うなっ！」[pcms]
+[ns]Kazuo[nse]
+"You still don't understand your position, do you, sister? Don't talk[r]
+to me in that commanding tone!"[pcms]
 
 *1621|
 [fc]
 [vo_mis s="misao_st0084"]
-[ns]美沙緒[nse]
-「くっ……悪かったわ。お願い、稼津央。[r]
-　茜梨を放してあげてちょうだい」[pcms]
+[ns]Misao[nse]
+"Ugh... my apologies. Please, Kazuo. Let Akari go."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz14"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1622|
 [fc]
-[ns]稼津央[nse]
-「くくくっ。駄目だよ、姉さん。僕の復讐はまだ終わってないよ。[r]
-　もっと父さんに、見せてやらないとね」[pcms]
+[ns]Kazuo[nse]
+"Kukuku. No can do, Onee-san. My revenge isn't over yet. I still have[r]
+to show father more."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1623|
 [fc]
 [vo_mis s="misao_st0085"]
-[ns]美沙緒[nse]
-「なっ！！」[pcms]
+[ns]Misao[nse]
+"What!!"[pcms]
 
 *1624|
 [fc]
-冷たい眼で美沙緒に一瞥を与えると、稼津央は茜梨へと[r]
-近づいていった。[pcms]
+With a cold glance at Misao, Kazuo approached Akari.[pcms]
 
 ;//〆フラグpassword_成立
 [eval exp="f.l_password = 1"]
@@ -963,88 +967,89 @@
 
 *1625|
 [fc]
-[ns]稼津央[nse]
-「どうするんだい、姉さん？」[pcms]
+[ns]Kazuo[nse]
+"What will you do, Onee-san?"[pcms]
 
 *1626|
 [fc]
 [vo_mis s="misao_st0086"]
-[ns]美沙緒[nse]
-「…………駄目よ。教えられないわ」[pcms]
+[ns]Misao[nse]
+"...No good. I can't tell you."[pcms]
 
 *1627|
 [fc]
-瞬時に稼津央の顔が凍り付く。貼り付いていた笑いは消え失せ[r]
-冷たい視線が美沙緒に降り注がれた。[pcms]
+In an instant, Kazuo's face froze over. The smile that had been[r]
+plastered on his face disappeared, and a cold gaze was cast down upon[r]
+Misao.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1628|
 [fc]
-[ns]稼津央[nse]
-「茜梨の純血よりも、大切とはね……。あきれるよ、姉さん。[r]
-　あんたは、あのウイルスに別の意味で取り憑かれてるよっ！」[pcms]
+[ns]Kazuo[nse]
+"You value Akari's purity over everything else, huh... I'm appalled,[r]
+Onee-san. You're possessed by that virus in a different way!"[pcms]
 
 *1629|
 [fc]
 [vo_mis s="misao_st0087"]
-[ns]美沙緒[nse]
-「あなたこそ、あのウイルスの恐ろしさをわかってないわっ！[r]
-　データを金儲けや、訳のわからない理想を振りかざす[r]
-　異常者に渡せるものですかっ！」[pcms]
+[ns]Misao[nse]
+"You're the one who doesn't understand the terror of that virus! Do[r]
+you think I can hand over the data to money-grubbers or lunatics[r]
+waving around incomprehensible ideals?!"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz17"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1630|
 [fc]
-[ns]稼津央[nse]
-「おやおや、姉さんは何か、勘違いをしてないか？」[pcms]
+[ns]Kazuo[nse]
+"Oh dear, Onee-san, are you perhaps misunderstanding something?"[pcms]
 
 *1631|
 [fc]
-あざけるような眼で美沙緒を見下ろす稼津央の瞳に、[r]
-新たな狂気が宿り始めていた。[pcms]
+With a mocking look in his eyes, Kazuo looked down at Misao, and a new[r]
+madness began to take hold in his gaze.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1632|
 [fc]
-[ns]稼津央[nse]
-「まあそれならそれでかまわないよ。面倒だし、手に入る金も[r]
-　減るかもしれないけど、あとで時間を掛けて解析して[r]
-　手に入れることにするよ」[pcms]
+[ns]Kazuo[nse]
+"Well, if that's the case, it's fine. It's a hassle and I might get[r]
+less money, but I'll take my time to analyze it later and get my hands[r]
+on it."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1633|
 [fc]
-[ns]稼津央[nse]
-「それにね、どのみち茜梨も手に掛けないと、[r]
-　僕の復讐は完結しないんだ。じゃあね、姉さん」[pcms]
+[ns]Kazuo[nse]
+"Besides, my revenge won't be complete unless I deal with Akari too.[r]
+See you, Onee-san."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1634|
 [fc]
-そう言いながら稼津央は、仰向けに押さえつけられている茜梨に[r]
-のし掛かっていった。[pcms]
+As he said this, Kazuo climbed on top of Akari, who was being held[r]
+down on her back.[pcms]
 
 *1635|
 [fc]
 [vo_aka s="akari_st0022"]
-[ns]茜梨[nse]
-「いや、いやいや。やめて、お兄様。お願い。止めて下さい。[r]
-　お姉様っ！　お兄様を、お兄様を止めてくださいっ！」[pcms]
+[ns]Akari[nse]
+"No, no no. Please stop, Onii-sama. Please stop. Onee-san! Please stop[r]
+Onii-sama!"[pcms]
 
 *1636|
 [fc]
 [vo_mis s="misao_st0088"]
-[ns]美沙緒[nse]
-「……ごめんなさい、茜梨。私を許して……」[pcms]
+[ns]Misao[nse]
+"...I'm sorry, Akari. Please forgive me..."[pcms]
 
 *1637|
 [fc]
-そう言うと美沙緒は、茜梨と稼津央から眼を背けた。[pcms]
+As she spoke, Misao turned her eyes away from Akari and Kazuo.[pcms]
 
 ;//◎_ラベル2220mainへ合流
 [jump target=*2220main]
@@ -1067,241 +1072,243 @@
 
 *1638|
 [fc]
-仰向けに押さえつけられている茜梨は、袴の裾をまくり上げられた。[r]
-同時に胸元をぐいっと開かされる。[pcms]
+Akari, held down on her back, had her hakama skirt rolled up. At the[r]
+same time, her chest was forcefully opened.[pcms]
 
 *1639|
 [fc]
-下着の痕跡は無く、柔らかそうな素肌がさらされていた。[pcms]
+There were no signs of underwear, and her soft-looking bare skin was[r]
+exposed.[pcms]
 
 *1640|
 [fc]
-[ns]稼津央[nse]
-「茜梨は、袴を身につける時は下着をつけないのかい？」[pcms]
+[ns]Kazuo[nse]
+"Akari, do you not wear underwear when you put on a hakama?"[pcms]
 
 *1641|
 [fc]
 [vo_aka s="akari_st0023"]
-[ns]茜梨[nse]
-「……そうです。お兄様、お願いです。やめてください」[pcms]
+[ns]Akari[nse]
+"...Yes. Please, Onii-sama, I'm begging you. Please stop."[pcms]
 
 [evcg storage="akari_H004c"][trans_c cross time=300]
 
 *1642|
 [fc]
-[ns]稼津央[nse]
-「そうなんだ。手間が省けて、いいね」[pcms]
+[ns]Kazuo[nse]
+"Is that so? That saves me the trouble. Nice."[pcms]
 
 *1643|
 [fc]
-茜梨の懇願などあっさり無視して、稼津央はにっこりと笑うと、[r]
-茜梨の股間へと顔を埋めていく。[pcms]
+Ignoring Akari's pleas completely, Kazuo smiled broadly and buried his[r]
+face in her crotch.[pcms]
 
 *1644|
 [fc]
-茜梨は何も出来ずに、自分の大切な所へ降りてくる稼津央の[r]
-顔を受け入れるしかなかった。[pcms]
+Akari could do nothing but accept Kazuo's face descending towards her[r]
+precious place.[pcms]
 
 *1645|
 [fc]
-舌先が伸ばされ、白い恥丘の割れ目へと潜り込む。[r]
-探り当てた茜梨のクリトリスに、舌先が触れた途端、[r]
-茜梨の身体は、ピクリと反応した。[pcms]
+His tongue extended and dived into the slit of her white mound. The[r]
+moment his tongue touched Akari's clitoris, her body reacted with a[r]
+twitch.[pcms]
 
 [evcg storage="akari_H004d"][trans_c cross time=300]
 
 *1646|
 [fc]
 [vo_aka s="akari_st0024"]
-[ns]茜梨[nse]
-「ひっ……い、や……めっ……」[pcms]
+[ns]Akari[nse]
+"Hik...no...stop..."[pcms]
 
 *1647|
 [fc]
-初めて受ける感覚に、茜梨は戸惑いながらも、自分の股間に[r]
-顔を埋める稼津央から眼を背けることが出来なかった。[pcms]
+Feeling the new sensation for the first time, Akari was confused but[r]
+couldn't turn her eyes away from Kazuo burying his face in her crotch.[pcms]
 
 *1648|
 [fc]
-唾液がぴちゃぴちゃとまぶされる。[r]
-稼津央の巧みな舌使いを伴って。[pcms]
+Saliva was smeared with a plop-plop sound, accompanied by Kazuo's[r]
+skillful use of his tongue.[pcms]
 
 *1649|
 [fc]
 [vo_aka s="akari_st0025"]
-[ns]茜梨[nse]
-「い……いやぁ……ぁ、やめて……やめてぇお兄様。[r]
-　こんなこと、こんなこといやです。やめてくださいぃ」[pcms]
+[ns]Akari[nse]
+"No...ahh, stop...please stop, Onii-sama. I don't want this, please[r]
+stop."[pcms]
 
 *1650|
 [fc]
-[ns]稼津央[nse]
-「綺麗だねえ、茜梨。ん……ちゅうっ……もともと毛が薄いのかな。[r]
-　つるつるで、とっても舐めやすいよ。ほら」[pcms]
+[ns]Kazuo[nse]
+"You're beautiful, Akari. Mmm...chu... Are you naturally sparse down[r]
+there? It's smooth and very easy to lick. Look."[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
 
 *1651|
 [fc]
-舌先がクリトリスを転がす。ちゅうちゅうと吸い込み、[r]
-軽く歯をあてられる。[pcms]
+His tongue rolled over her clitoris, sucking it in and lightly grazing[r]
+it with his teeth.[pcms]
 
 *1652|
 [fc]
-瞬間、茜梨の身体はびくんと跳ねあがった。[pcms]
+The moment it happened, Akari's body jerked up.[pcms]
 
 *1653|
 [fc]
 [vo_aka s="akari_st0026"]
-[ns]茜梨[nse]
-「あっ……いやっ、いやです。やめて、やめてお兄様」[pcms]
+[ns]Akari[nse]
+"Ah...no, I don't want this. Please stop, Onii-sama."[pcms]
 
 *1654|
 [fc]
-[ns]稼津央[nse]
-「やめないよ。茜梨のここは、美味しいよ。んっ……んっ……」[pcms]
+[ns]Kazuo[nse]
+"I won't stop. This place of yours is delicious. Mmm...mmm..."[pcms]
 
 *1655|
 [fc]
 [vo_aka s="akari_st0027"]
-[ns]茜梨[nse]
-「いっ…………あっ、い、いやっ……やめっ……」[pcms]
+[ns]Akari[nse]
+"Ah...ahh, no...stop..."[pcms]
 
 *1656|
 [fc]
-[ns]稼津央[nse]
-「口先だけで嫌がっても、駄目だよ茜梨。ほら、ずいぶんと[r]
-　尖って硬くなってきたよ。それに、なんだかぬめってきたね」[pcms]
+[ns]Kazuo[nse]
+"It's no use resisting with just words, Akari. Look how pointed and[r]
+hard it's gotten. And it's starting to get slippery."[pcms]
 
 *1657|
 [fc]
 [vo_aka s="akari_st0028"]
-[ns]茜梨[nse]
-「うそ、です。いや……あっ、いや……んっ、やめて、やめてぇ」[pcms]
+[ns]Akari[nse]
+"That's not true...no...ahh, stop it, please."[pcms]
 
 *1658|
 [fc]
-次第に顔が、身体が火照ってくるのを茜梨は感じ始めていた。[r]
-抵抗の声のあいまの息も、熱く、荒くなってきている。[pcms]
+Gradually, Akari began to feel her face and body grow hot. Even the[r]
+breath between her cries of resistance became hot and ragged.[pcms]
 
 *1659|
 [fc]
 [vo_aka s="akari_st0029"]
-[ns]茜梨[nse]
-「あっ！　あ、やっ……いやっ、やめて、やめてくださっ……[r]
-　お、おに……さまっ、や、やめっ……あっ、い、やっ……」[pcms]
+[ns]Akari[nse]
+"Ah! Ahh...no...please stop...Onii-sama...stop...ahh, no..."[pcms]
 
 *1660|
 [fc]
-[ns]稼津央[nse]
-「本当に処女なのかい？　随分敏感だねえ、茜梨。[r]
-　ほら、聞えるかい？　この隠微な音が……」[pcms]
+[ns]Kazuo[nse]
+"Are you really a virgin? You're quite sensitive, Akari. Listen, can[r]
+you hear it? This subtle sound..."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *1661|
 [fc]
-舌先の動きを止めず、稼津央は茜梨の膣口のまわりを[r]
-指先で撫で回す。[pcms]
+Without stopping his tongue movements, Kazuo caressed around Akari's[r]
+vaginal opening with his fingertips.[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
 
 *1662|
 [fc]
-同時にちゅぷちゅぷという湿った音が茜梨の耳にも聞えてきた。[r]
-耳を音で犯され、茜梨の体温は一気に上昇した。[pcms]
+At the same time, Akari could hear the wet sound of 'chupu chupu' in[r]
+her ears. Her ears were violated by the sound, and Akari's body[r]
+temperature rose rapidly.[pcms]
 
 *1663|
 [fc]
-[ns]稼津央[nse]
-「すごいねえ、茜梨。感じてるんだね。んっ、れるっ……ちゅっ。[r]
-　絶頂を知っている身体の反応だよ、これは。[r]
-　そうか……わかったよ。茜梨はオナニーが好きな子なんだね」[pcms]
+[ns]Kazuo[nse]
+"You're amazing, Akari. You're feeling it, aren't you?[r]
+Mmm...leru...chu. This is the reaction of a body that knows climax. I[r]
+see...I understand now. Akari, you like masturbating, don't you?"[pcms]
 
 *1664|
 [fc]
 [vo_aka s="akari_st0030"]
-[ns]茜梨[nse]
-「ち、違いっ……そんな、ことしてませ……んっ！[r]
-　あっ、ああっ、や、やめっ…………！！」[pcms]
+[ns]Akari[nse]
+"Th-that's not... I haven't done such...things! Ahh, ah, no,[r]
+stop...!!"[pcms]
 
 *1665|
 [fc]
-[ns]稼津央[nse]
-「ウソをついちゃ駄目だよ、茜梨」[pcms]
+[ns]Kazuo[nse]
+"You shouldn't lie, Akari."[pcms]
 
 *1666|
 [fc]
 [vo_aka s="akari_st0031"]
-[ns]茜梨[nse]
-「う、そなんて、あっ、ああっ、い、いやぁ……、あ、いっやっ[r]
-　やめっ、やめてぇ、おに……さ、あぁっ、ああっ、いっやぁ」[pcms]
+[ns]Akari[nse]
+"I'm not lying, ah, ahh, no...ah, no, stop it, please, Onii-[r]
+sama...ahh, ahh, no!"[pcms]
 
 *1667|
 [fc]
-[ns]稼津央[nse]
-「オナニーで、クリトリスをいっぱい可愛がってたんだねえ。[r]
-　でも、こういう風に舌で転がされるのは初めてだろ？[r]
-　それとも、バイブとか使っていじくってたのかな？」[pcms]
+[ns]Kazuo[nse]
+"You've been taking good care of your clit with masturbation, haven't[r]
+you? But having it rolled around with a tongue like this is a first[r]
+for you, right? Or maybe you've been playing with it using a[r]
+vibrator?"[pcms]
 
 *1668|
 [fc]
 [vo_aka s="akari_st0032"]
-[ns]茜梨[nse]
-「そ、っそんなこと、あっ……し、してませっ…………んっっ。[r]
-　やめ、てぇ……あっ、いい、いいやあぁ……あっ、だめぇ」[pcms]
+[ns]Akari[nse]
+"I haven't done anything like that...stop it...ahh, no, noo...ahh,[r]
+it's bad."[pcms]
 
 *1669|
 [fc]
-[ns]稼津央[nse]
-「すごいね。茜梨の愛液がお尻まで垂れそうだよ。[r]
-　処女なのに、こんなに感じまくって、やっぱり血は争えないね。[r]
-　オナニー狂いの淫売だね、茜梨っ！」[pcms]
+[ns]Kazuo[nse]
+"Amazing. Your love juice is about to drip down to your butt. Even[r]
+though you're a virgin, you're feeling it so much, blood can't lie.[r]
+You're a masturbation-crazed whore, Akari!"[pcms]
 
 [evcg storage="akari_H004e"][trans_c cross time=300]
 
 *1670|
 [fc]
 [vo_aka s="akari_st0033"]
-[ns]茜梨[nse]
-「いやあぁ……ちがいま……すぅ。あっ、ああっ、やめ、やめてぇ[r]
-　おに、ぃさま、やめ……やめ……ぇ。うっ、うっくぅ……」[pcms]
+[ns]Akari[nse]
+"No...that's not true...ahh, ah, stop, please stop Onii-[r]
+sama...stop...stop it. Ugh, ughh..."[pcms]
 
 *1671|
 [fc]
-反応してしまう自分を抑えようと、茜梨は必死に自分の人差し指を[r]
-噛んで耐えている。[r]
-自分のあそこがひくひくと蠢くのを感じていたからだ。[pcms]
+In an attempt to suppress her own reactions, Akari desperately bit her[r]
+own index finger to endure it. She could feel her pussy twitching and[r]
+writhing.[pcms]
 
 *1672|
 [fc]
-[ns]稼津央[nse]
-「ほら、もうびちゃびちゃだよ。触ってる僕の指に[r]
-　茜梨のおまんこが食いついてきそうんだよ」[pcms]
+[ns]Kazuo[nse]
+"Look, it's already soaking wet. My fingers touching you feel like[r]
+your pussy is about to cling onto them."[pcms]
 
 [evcg storage="akari_H004f"][trans_c cross time=300]
 
 *1673|
 [fc]
 [vo_aka s="akari_st0034"]
-[ns]茜梨[nse]
-「んっ……くぅ……ううっ……うううっ……っっぅっ」[pcms]
+[ns]Akari[nse]
+"Nn...kuu...uuu...uuuu..."[pcms]
 
 *1674|
 [fc]
-[ns]稼津央[nse]
-「我慢することないんだよ、茜梨。いつもオナニーしてた時の[r]
-　可愛い声を僕にも聴かせてくれよ。欲しがってるよ。[r]
-　茜梨のオナニーでいじられたおまんこはっ！」[pcms]
+[ns]Kazuo[nse]
+"You don't have to hold back, Akari. Let me hear the cute voice you[r]
+make when you masturbate. It's begging for it. Your pussy that's been[r]
+played with during masturbation!"[pcms]
 
 *1675|
 [fc]
 [vo_aka s="akari_st0035"]
-[ns]茜梨[nse]
-「やっ…………んっ、んっ………………だめ……やっんっっ！！」[pcms]
+[ns]Akari[nse]
+"No...nn...no...nooo!!"[pcms]
 
 ;//seフェード停止
 [stopse buf=1]
@@ -1315,49 +1322,49 @@
 *1676|
 [fc]
 [vo_aka s="akari_st0036"]
-[ns]茜梨[nse]
-「くぅっ…………んんっ……んっ！！　ぐぅっ！　やっあっ！」[pcms]
+[ns]Akari[nse]
+"Kuu...nnn...nn!! Guu! Noo!"[pcms]
 
 *1677|
 [fc]
-茜梨の身体が痙攣する。[r]
-それはまさしく絶頂に達した女の反応だった。[pcms]
+Akari's body convulsed. It was indeed the reaction of a woman reaching[r]
+climax.[pcms]
 
 *1678|
 [fc]
 [vo_aka s="akari_st0037"]
-[ns]茜梨[nse]
-「う、そぉ……やぁあ……あっ、こんな、の、いっやあぁっっ！」[pcms]
+[ns]Akari[nse]
+"That's not true...noo...ahh, not like this, nooo!"[pcms]
 
 *1679|
 [fc]
-[ns]稼津央[nse]
-「何を言ってるんだい茜梨。ウソなんかじゃないよ。[r]
-　イったんだろ？　達したんだろ？　辱められて、人が見てる前で[r]
-　イったんだろ？　はははっ！　大した処女の淫売もいたもんだっ」[pcms]
+[ns]Kazuo[nse]
+"What are you saying, Akari? It's not a lie. You came, didn't you? You[r]
+reached climax, right? Humiliated and climaxing in front of someone[r]
+watching. Hahaha! Quite the virgin whore we have here!"[pcms]
 
 *1680|
 [fc]
 [vo_aka s="akari_st0038"]
-[ns]茜梨[nse]
-「いやっ……いやいや……うそです。違いますっ、違うぅ……」[pcms]
+[ns]Akari[nse]
+"No...no no...it's a lie. It's not true...it's different..."[pcms]
 
 *1681|
 [fc]
-[ns]稼津央[nse]
-「身体は正直だよ。もう茜梨のおまんこは、ぐちゅぐちゅだよ。[r]
-　欲しい欲しいって、さっきから口がパクパクしてるよ」[pcms]
+[ns]Kazuo[nse]
+"The body doesn't lie. Your pussy is already gushing. It's been[r]
+opening and closing its mouth since earlier."[pcms]
 
 *1682|
 [fc]
 [vo_aka s="akari_st0039"]
-[ns]茜梨[nse]
-「ぃゃ……ぃゃ……ぁ……うっ……ううっ……」[pcms]
+[ns]Akari[nse]
+"No...no...ahh...ugh...uuuh..."[pcms]
 
 *1683|
 [fc]
-[ns]稼津央[nse]
-「欲しいんだろ、茜梨？　ほら、お望みどおり、挿れてやるよっ」[pcms]
+[ns]Kazuo[nse]
+"You want it, don't you, Akari? Here, as you wish, I'll put it in."[pcms]
 
 [evcg storage="akari_H004h"][trans_c cross time=300]
 
@@ -1366,264 +1373,262 @@
 
 *1684|
 [fc]
-そう宣言すると、稼津央は自分の熱くたぎったペニスを茜梨の[r]
-膣穴に押しつける。[pcms]
+Declaring so, Kazuo pressed his hot throbbing penis against Akari's[r]
+vaginal entrance.[pcms]
 
 *1685|
 [fc]
-茜梨の陰唇は、ぱくぱくとうごめき、押しつけられた稼津央の[r]
-亀頭にまとわりついていた。[pcms]
+Akari's labia writhed and clung to the glans of Kazuo's penis that was[r]
+pressed against them.[pcms]
 
 *1686|
 [fc]
-[ns]稼津央[nse]
-「はっ、はははっ！　茜梨、欲しいんだな。犯されたくて[r]
-　仕方ないんだなっ！　僕のを飲み込みたいって、茜梨の[r]
-　おまんこは、ひくひくしだしてるぞっ！」[pcms]
+[ns]Kazuo[nse]
+"Haha! Akari wants it. You can't help but want to be violated! Your[r]
+pussy is starting to twitch and wants to swallow my dick!"[pcms]
 
 [evcg storage="akari_H004i"][trans_c cross time=300]
 
 *1687|
 [fc]
 [vo_aka s="akari_st0040"]
-[ns]茜梨[nse]
-「ちが……ちがうぅ……やめ……て、おに……さま」[pcms]
+[ns]Akari[nse]
+"That's not...it's not true...stop it, Onii-sama."[pcms]
 
 *1688|
 [fc]
-茜梨の抵抗は弱々しくなっていた。[r]
-口では抵抗しているが、どこか期待しているように見えさえした。[pcms]
+Akari's resistance was becoming feeble. Although she was resisting[r]
+with her words, she seemed to be expecting it somewhere deep down.[pcms]
 
 *1689|
 [fc]
-[ns]稼津央[nse]
-「なんだ、その眼は。　……そうか、わかったよ、茜梨。[r]
-　オナニーしてる時も、乱暴に犯されるのを想像して、[r]
-　イってたんだろ？　無理矢理されるのが、好きなんだなっ！」[pcms]
+[ns]Kazuo[nse]
+"What's with that look? ...I see, I understand now, Akari. Even when[r]
+you masturbated, you imagined being violently violated and came from[r]
+that thought? You like being forced."[pcms]
 
 *1690|
 [fc]
 [vo_aka s="akari_st0041"]
-[ns]茜梨[nse]
-「ちが、違う。違います……そんな、そんなこと…………」[pcms]
+[ns]Akari[nse]
+"That's not true. It's different...I don't think such things..."[pcms]
 
 *1691|
 [fc]
-[ns]稼津央[nse]
-「くくっ。図星だろ。お前のおまんこがさっきよりも僕の亀頭を[r]
-　舐めまくってるよ。欲しい欲しい、犯して犯してってね」[pcms]
+[ns]Kazuo[nse]
+"Heh heh. Hit the nail on the head, didn't I? Your pussy is licking my[r]
+glans more than earlier. It's begging to be violated."[pcms]
 
 *1692|
 [fc]
 [vo_aka s="akari_st0042"]
-[ns]茜梨[nse]
-「ちが……そんなの……違……うっ……」[pcms]
+[ns]Akari[nse]
+"That's not...it's different..."[pcms]
 
 *1693|
 [fc]
-[ns]稼津央[nse]
-「お望みどおり、犯してやるよっ！　茜梨っ！」[pcms]
+[ns]Kazuo[nse]
+"As you wish, I'll violate you! Akari!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *1694|
 [fc]
-稼津央は一気にペニスを茜梨の中へと突き挿れた。[pcms]
+Kazuo thrust his penis into Akari all at once.[pcms]
 
 [evcg storage="akari_H004j"][trans_c cross time=300]
 
 *1695|
 [fc]
 [vo_aka s="akari_st0043"]
-[ns]茜梨[nse]
-「ひんっっ！　あっひああっ、ああっくぅっっ、いっっいあっ！」[pcms]
+[ns]Akari[nse]
+"Hinnn! Ahhhiiaaahh, ahhkuuuu, iiiiahh!"[pcms]
 
 *1696|
 [fc]
-茜梨は涙目になりながら、必死にまた自分の指に食いついた。[r]
-それ以上、なまめかしい声を出さないために。[pcms]
+With tears in her eyes, Akari desperately bit down on her finger again[r]
+to prevent herself from making any more lascivious sounds.[pcms]
 
 *1697|
 [fc]
-[ns]稼津央[nse]
-「うんっ……ああ、茜梨の中は気持ちいいねえ」[pcms]
+[ns]Kazuo[nse]
+"Yeah...ahh, the inside of Akari feels good."[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
 
 *1698|
 [fc]
-稼津央の腰がゆっくりと動き出す。[r]
-茜梨の中の具合を自分のペニスで確かめるように。[pcms]
+Kazuo's hips began to move slowly as if confirming the feel inside[r]
+Akari with his penis.[pcms]
 
 *1699|
 [fc]
 [vo_aka s="akari_st0044"]
-[ns]茜梨[nse]
-「んっ……んんっ……いっ……いたぃ……っ。痛いぃっ！」[pcms]
+[ns]Akari[nse]
+"Nn...nnn...it hurts...it hurts!"[pcms]
 
 *1700|
 [fc]
-[ns]稼津央[nse]
-「処女だって証明は出来たな、茜梨。[r]
-　オナニー狂いで、犯されながら、イった女だけどなっ！」[pcms]
+[ns]Kazuo[nse]
+"There's the proof that you were a virgin, Akari. A masturbation-[r]
+crazed woman who came while being violated!"[pcms]
 
 *1701|
 [fc]
-まぎれもない破瓜の血が、稼津央の腰が動く度に、[r]
-上気して桃色に染まった茜梨の肌を舐めるように落ちていった。[pcms]
+Undeniable proof of her defloration was the blood that fell with each[r]
+movement of Kazuo's hips, licking the flushed peach-colored skin of[r]
+Akari as it flowed down.[pcms]
 
 *1702|
 [fc]
 [vo_aka s="akari_st0045"]
-[ns]茜梨[nse]
-「ひっ……んっ、いっ……痛いっ……いっ……んっぁぁっ……。[r]
-　くっ……んっ、いいっ……あっ、ぁぁぁっ……ぁぁぃっ……」[pcms]
+[ns]Akari[nse]
+"Hik...nn, it...hurts...it...nnahh..."[pcms]
 
 [evcg storage="akari_H004k"][trans_c cross time=300]
 
 *1703|
 [fc]
 [vo_aka s="akari_st0046"]
-[ns]茜梨[nse]
-「や……やぁ……あっ……いっ……痛っ……いぃ。[r]
-　んんっ…………あっ……ぁぁっいっっ……あっぁぁっぁぁっ」[pcms]
+[ns]Akari[nse]
+"No...noo...ahh...it...hurts...ii. Nnn...ahh...ahhhit...ahhahhahh!"[pcms]
 
 *1704|
 [fc]
-[ns]稼津央[nse]
-「なかなかいいおまんこをしてるじゃないか。[r]
-　きゅうきゅう締め付けてくるぞ、茜梨。[r]
-　どれだけオナニーしてたんだ？　処女だってのに、感じまくって」[pcms]
+[ns]Kazuo[nse]
+"You have quite a nice pussy. It's clenching tightly around me, Akari.[r]
+How much did you masturbate? Even though you're a virgin, you're[r]
+feeling it so much."[pcms]
 
 *1705|
 [fc]
 [vo_aka s="akari_st0047"]
-[ns]茜梨[nse]
-「やっ……そんな……こっとっ……んっぃっ痛っ……いぁぁっ！[r]
-　んはあっ……ぁっ、ああっ……いっ、やっ……ぁぁっ！」[pcms]
+[ns]Akari[nse]
+"No...that's not...it hurts...ahhh! Nhaah...ahh, ahh...it, no...ahhh!"[pcms]
 
 *1706|
 [fc]
-稼津央は、茜梨の中を味わおうと、膣壁を舐めるように[r]
-ゆっくりと腰を動かしていた。[pcms]
+Kazuo was slowly moving his hips as if to savor the inside of Akari,[r]
+licking the vaginal walls with his penis.[pcms]
 
 *1707|
 [fc]
-[ns]稼津央[nse]
-「ああ、いいね。そっくりだね、茜梨の中は……」[pcms]
+[ns]Kazuo[nse]
+"Ah, that's good. It's just like you, Akari..."[pcms]
 
 *1708|
 [fc]
 [vo_aka s="akari_st0048"]
-[ns]茜梨[nse]
-「んっ……いやっ……んんんっ、んっ……んんっくぅ……」[pcms]
+[ns]Akari[nse]
+"Nn...no...nnnnn, nnn...nnnkuu..."[pcms]
 
 *1709|
 [fc]
-[ns]稼津央[nse]
-「嫌がるフリなんてしなくていいんだよ、茜梨。[r]
-　お前の中には淫乱の血がたっぷりと受け継がれてるんだから」[pcms]
+[ns]Kazuo[nse]
+"You don't need to pretend to hate it, Akari. You've inherited plenty[r]
+of the slut's blood."[pcms]
 
 *1710|
 [fc]
 [vo_aka s="akari_st0049"]
-[ns]茜梨[nse]
-「な、そ……そんなこと…………んっ……んんっ……うっぁんっ」[pcms]
+[ns]Akari[nse]
+"Th-that's not true...nn...nnnn...uhaann"[pcms]
 
 *1711|
 [fc]
-[ns]稼津央[nse]
-「もう、感じてきてるんだろ？　本当にお前の中は、あの淫売と[r]
-　ひだの感じがそっくりだよ、茜梨」[pcms]
+[ns]Kazuo[nse]
+"You're already feeling it, aren't you? Inside you is really just like[r]
+that whore, Akari."[pcms]
 
 *1712|
 [fc]
 [vo_aka s="akari_st0050"]
-[ns]茜梨[nse]
-「なに……を、あっ……んんんんっ……！　いっ……ぁぁっ！」[pcms]
+[ns]Akari[nse]
+"What are you...ahh...nnnnn...! It...ahhh!"[pcms]
 
 *1713|
 [fc]
-[ns]稼津央[nse]
-「姉さんとそっくりだって、言ってるんだよ茜梨っ！」[pcms]
+[ns]Kazuo[nse]
+"I'm saying you're just like your sister, Akari!"[pcms]
 
 *1714|
 [fc]
 [vo_mis s="misao_st0089"]
-[ns]美沙緒[nse]
-「やめてっ！　稼津央っ！　それ以上はっ！　お願いっ！」[pcms]
+[ns]Misao[nse]
+"Stop it! Kazuo! Please, no more!"[pcms]
 
 *1715|
 [fc]
-ずっと押し黙ったままの美沙緒が突然声をあげた。[r]
-稼津央はその声に振り返りもせずに、口許に薄ら笑いを浮かべた。[pcms]
+Misao, who had been silent until now, suddenly raised her voice. Kazuo[r]
+did not even look back at her but instead let a thin smile play on his[r]
+lips.[pcms]
 
 *1716|
 [fc]
-[ns]稼津央[nse]
-「茜梨、お前は姉さんの子なんだよっ！　あそこに居る父さんと、[r]
-　姉さんが乳繰り合った結果、お前が産まれたんだよっ！[r]
-　はははっ、淫乱の血がお前に流れてるんだよっ！！」[pcms]
+[ns]Kazuo[nse]
+"Akari, you are your sister's child! You were born as a result of your[r]
+father here and your sister getting together! Hahaha, the slut's blood[r]
+flows through you!!"[pcms]
 
 [evcg storage="akari_H004l"][trans_c cross time=300]
 
 *1717|
 [fc]
 [vo_aka s="akari_st0051"]
-[ns]茜梨[nse]
-「う、そ……！　あっ、いやっ……んっ、そんなこと……いっぁ」[pcms]
+[ns]Akari[nse]
+"Th-that's not...! Ah, no...nn, that's not true...iah"[pcms]
 
 *1718|
 [fc]
-[ns]稼津央[nse]
-「父さんが死んだ伊知郎兄さんの子ということにして、[r]
-　今のお前が母親だと思ってる、兄さんの奥さんに預けたんだよっ」[pcms]
+[ns]Kazuo[nse]
+"After father died, they made it seem like you were Ichirou's child[r]
+and left you with his wife, who you think is your mother now."[pcms]
 
 *1719|
 [fc]
-[ns]稼津央[nse]
-「越智家から毎月たっぷり金がいってたはずさ。それはお前が[r]
-　お爺さんと思ってる、お前の実の父親、あそこに居るバケモノの[r]
-　差し金だったんだよ、茜梨っ！　はははっ、ははははっ！」[pcms]
+[ns]Kazuo[nse]
+"The Ochi family must have been sending a good amount of money every[r]
+month. That was all orchestrated by the monster over there, your real[r]
+father whom you think is your grandfather, Akari! Hahaha, hahahaha!"[pcms]
 
 *1720|
 [fc]
 [vo_aka s="akari_st0052"]
-[ns]茜梨[nse]
-「うっ……やっ……ううっ……やあっ……ううっ」[pcms]
+[ns]Akari[nse]
+"Ugh...no...uhh...noo...uhuh"[pcms]
 
 *1721|
 [fc]
-茜梨は自分の指にかぶりつきながら、必死に今明かされた事を[r]
-認めまいと、左右に首を振った。[pcms]
+While biting down on her finger, Akari desperately shook her head from[r]
+side to side, refusing to acknowledge what was being revealed.[pcms]
 
 *1722|
 [fc]
-[ns]稼津央[nse]
-「だから、素直に感じればいいんだよっ！[r]
-　もっと、いやらしい声を上げろっ！　茜梨っ！！！」[pcms]
+[ns]Kazuo[nse]
+"So just feel it honestly! Let out more lewd sounds! Akari!!!"[pcms]
 
 *1723|
 [fc]
 [vo_aka s="akari_st0053"]
-[ns]茜梨[nse]
-「ひっ、きゃあああああっ、あっ、あっ……くぅっ！！！」[pcms]
+[ns]Akari[nse]
+"Hik, kyaaaaaaaah, ah, ah...kuuu!!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *1724|
 [fc]
-それまでゆっくりと動いていた稼津央の腰が、一気に茜梨の中を[r]
-突き抜けた。強烈な一撃。茜梨の口から悲鳴が漏れた。[pcms]
+Until now Kazuo's hips had been moving slowly, but they suddenly[r]
+thrust through Akari in one fierce strike. A scream escaped from[r]
+Akari's mouth.[pcms]
 
 *1725|
 [fc]
-[ns]稼津央[nse]
-「ほら、あえげっ！　やらしい声をあげろっ！[r]
-　感じまくってきてるくせにっ！　この淫乱っ！　はははっ！」[pcms]
+[ns]Kazuo[nse]
+"See, moan! Let out those filthy sounds! Even though you're already[r]
+feeling it so much! You slut! Hahaha!"[pcms]
 
 [evcg storage="akari_H004m"][trans_c cross time=300]
 
@@ -1632,245 +1637,242 @@
 
 *1726|
 [fc]
-稼津央の腰が激しく動き出す。[r]
-茜梨は、苦痛を伴う強烈な刺激に、顔を歪ませながら、[r]
-必死に耐えていた。[pcms]
+Kazuo's hips began to move violently. Akari contorted her face in pain[r]
+from the intense stimulation as she desperately endured.[pcms]
 
 *1727|
 [fc]
 [vo_aka s="akari_st0054"]
-[ns]茜梨[nse]
-「くうっ……ぐっ……んぁっ！　い、痛いっ！　いやぁっ！[r]
-　ひあっ！　あっ……い゛い゛っ……うぎぃっ……いたっいぃ！」[pcms]
+[ns]Akari[nse]
+"Kuu...guh...nahh! It hurts! Nooo! Hiah! Ah...iiiih...ugiiih...it[r]
+hurts!"[pcms]
 
 *1728|
 [fc]
 [vo_aka s="akari_st0055"]
-[ns]茜梨[nse]
-「やめ……ぇ、おに……さ……まっ……ぁ、い、い゛い゛っ！[r]
-　んっくぅ……うっうっあっ、ぁっ、いっ……やああぁっ！」[pcms]
+[ns]Akari[nse]
+"Stop...e, brother...sama...ah, i, iiii! Nnkuu...uhuhuh, ah,[r]
+it...noooah!"[pcms]
 
 *1729|
 [fc]
-[ns]稼津央[nse]
-「そうだよ、茜梨。僕はお前の腹違いのお兄様なんだよっ！[r]
-　はははっ！　姉さん同様、お前も可愛がってやるよ。[r]
-　喜ばせてやるよっ！！　半分他人の血を使ってねっ！！！」[pcms]
+[ns]Kazuo[nse]
+"That's right, Akari. I'm your half-brother! Hahaha! Just like I cared[r]
+for your sister, I'll take care of you too. I'll make you happy!! With[r]
+half-stranger's blood!!!"[pcms]
 
 *1730|
 [fc]
 [vo_aka s="akari_st0056"]
-[ns]茜梨[nse]
-「ひっ、ひああっ！　やぁっ……いっやぁぁぁっ……ぁぁ……」[pcms]
+[ns]Akari[nse]
+"Hik, hiaaah! Noo...iyaaaahhh...ahhh..."[pcms]
 
 *1731|
 [fc]
-稼津央は突き動かすだけでなく、左右に振り腰を回す。[r]
-茜梨の膣内の弱点を探すために。[pcms]
+Kazuo was not only thrusting but also swinging his hips from side to[r]
+side and rotating them to search for Akari's weak spots.[pcms]
 
 *1732|
 [fc]
-自分の膣の中のあちこちを擦り上げたり、突いてくる[r]
-初めての感触に、茜梨は身もだえしていた。[pcms]
+Feeling the new sensation of her vaginal walls being rubbed and[r]
+prodded from the inside, Akari writhed in response.[pcms]
 
 *1733|
 [fc]
 [vo_aka s="akari_st0057"]
-[ns]茜梨[nse]
-「や、やめ……ぇ……んっんんっ……や、や、や……んっぐぅぅ」[pcms]
+[ns]Akari[nse]
+"No, stop...e...nnnnn...no, no, noo...nguuu"[pcms]
 
 *1734|
 [fc]
-[ns]稼津央[nse]
-「……っ！」[pcms]
+[ns]Kazuo[nse]
+"...!"[pcms]
 
 *1735|
 [fc]
 [vo_aka s="akari_st0058"]
-[ns]茜梨[nse]
-「きゃっ、や、ああああっ、ああっ、あいいっ……ああっ！！」[pcms]
+[ns]Akari[nse]
+"Kyaa, no, aaaaaahh, ahh, aiiiih...ahhh!!"[pcms]
 
 *1736|
 [fc]
-ビクンと茜梨の背中が仰け反り、膣が稼津央のペニスを締め上げる。[r]
-ついに、稼津央は茜梨のスポットを探り当てた。[pcms]
+With a jerk, Akari's back arched and her vagina clamped down on[r]
+Kazuo's penis. Finally, Kazuo had found Akari's spot.[pcms]
 
 *1737|
 [fc]
 [vo_aka s="akari_st0059"]
-[ns]茜梨[nse]
-「ひああっ、ああっ、あっ、だ、めぇ……やっ、やめぇ……てっ[r]
-　いやぁ、ああっ、だめ、だめぇ……んっぐぅっ……い゛た……」[pcms]
+[ns]Akari[nse]
+"Hiaaah, ahh, ah, noo...stop, stop it...nooo, nguuu...it hurts..."[pcms]
 
 *1738|
 [fc]
-[ns]稼津央[nse]
-「そうか、ここか。茜梨のスポットはここか。[r]
-　初めてだろ？　男のペニスでこんなところを責められるのは。[r]
-　さあ、鳴け。女の声をあげろっ、茜梨っ！！」[pcms]
+[ns]Kazuo[nse]
+"So this is it, huh? This is your spot, Akari. It's your first time[r]
+being prodded here by a man's penis. Now scream. Let out a woman's[r]
+voice, Akari!!"[pcms]
 
 *1739|
 [fc]
 [vo_aka s="akari_st0060"]
-[ns]茜梨[nse]
-「やっ、嫌っ……んっあっ、や、やめ……てぇ……んっんっ……[r]
-　お願……いぃ、やめ、嫌……やめ、嫌ぁぁぁぁ……ぁぁぁっ！」[pcms]
+[ns]Akari[nse]
+"No, don't want it...nnahh, no, stop it...nnnnn...please, stop it,[r]
+noo...nooooooahhh!"[pcms]
 
 *1740|
 [fc]
 [vo_aka s="akari_st0061"]
-[ns]茜梨[nse]
-「やっ……ああっ、あっ、だめぇ…………やっ、嫌ぁっ……[r]
-　ああっ、ひあっ、ああっ……いやっ……あっ、あっ、あっっ！」[pcms]
+[ns]Akari[nse]
+"No...ahh, noo...stop it...noooahh...ahhh, hiahh, ahhh...noo...ahh,[r]
+ah, ahhh!"[pcms]
 
 *1741|
 [fc]
-稼津央は挿入角度を変えながら、巧みな腰使いで執拗に[r]
-茜梨のスポットを責め立てた。[pcms]
+Kazuo changed the insertion angle and with skillful hip movements[r]
+persistently targeted Akari's spot.[pcms]
 
 *1742|
 [fc]
-次第に茜梨の鼻に掛かった甘い声が混じり、愛液があふれ出す。[r]
-くちゅくちゅぢゅぷぢゅぷという音が大きくなってきていた。[pcms]
+Gradually, Akari's sweet moans became mixed with her breath, and her[r]
+love juices overflowed. The sounds of 'kuchu kuchu' and 'jupu jupu'[r]
+were getting louder.[pcms]
 
 [evcg storage="akari_H004n"][trans_c cross time=300]
 
 *1743|
 [fc]
-[ns]稼津央[nse]
-「くくくっ。凄いな、茜梨。処女だったクセにっ！[r]
-　なんだこの濡れっぷりは、大洪水じゃないかっ！」[pcms]
+[ns]Kazuo[nse]
+"Heh heh heh. Amazing, Akari. Even though you were a virgin! What's[r]
+with this wetness, it's like a great flood!"[pcms]
 
 *1744|
 [fc]
 [vo_aka s="akari_st0062"]
-[ns]茜梨[nse]
-「うそぉ……ああっ、やぁっ……だ、だ、めぇ……あっ、んっあっ[r]
-　いや、嫌ぁっ、やめ、てぇ……おに……さ、まぁ……ああっっ」[pcms]
+[ns]Akari[nse]
+"No way...ahh, no...no, no, no...ah, nnnah...no, I don't want it,[r]
+stop...please...oh god...ahhh!"[pcms]
 
 *1745|
 [fc]
 [vo_aka s="akari_st0063"]
-[ns]茜梨[nse]
-「んあっ、ああっ、だめぇ……いやぁ……やあっ……あっ……[r]
-　ああっ、やっ……やめ……ああっ、ひっひあっ……あああっ」[pcms]
+[ns]Akari[nse]
+"Nnahh, ahh, no...I don't want it...noo...ah...ahh, no...stop...ahh,[r]
+hiahh...ahhh!"[pcms]
 
 *1746|
 [fc]
-[ns]稼津央[nse]
-「茜梨のおまんこが欲しい欲しい、もっともっとって言ってるぞ。[r]
-　淫乱な処女だな、ほら、イけよ。我慢するな、イけ、茜梨っ！」[pcms]
+[ns]Kazuo[nse]
+"Your pussy is begging for it, wanting more and more. What a lewd[r]
+virgin you are, look, come on. Don't hold back, let it out, Akari!"[pcms]
 
 *1747|
 [fc]
 [vo_aka s="akari_st0064"]
-[ns]茜梨[nse]
-「やあっ、やめっ……ああっ、イかな……いぃ、イかないぃっ！[r]
-　だめぇ、やだぁっ……あっ、ああっ、イ……ったり……しなっ！」[pcms]
+[ns]Akari[nse]
+"No, stop...ahh, I won't come...I won't, I won't come! No, I don't[r]
+want to...ahh, ahh, I...won't do it...!"[pcms]
 
 *1748|
 [fc]
-押し寄せる快感に朦朧としながらも、茜梨は必死に抵抗していた。[r]
-指を食いちぎる勢いで噛んでいる。[pcms]
+While dazed by the overwhelming pleasure, Akari desperately resisted.[r]
+She was biting her finger with enough force to tear it off.[pcms]
 
 *1749|
 [fc]
-何かこの快楽を打ち消すものを、と、回らなくなってきている[r]
-頭を無理矢理働かせ、考え始めていた。[pcms]
+Trying to find something to negate this pleasure, her mind, which was[r]
+starting to spin out of control, forced itself to start thinking.[pcms]
 
 *1750|
 [fc]
 [vo_aka s="akari_st0065"]
-[ns]茜梨[nse]
-「やめ……だめ……お、お、かあ……さまぁ……おね……がいぃ。[r]
-　助け……てぇ、やめ……ああっ、ああっ、だめぇ…………」[pcms]
+[ns]Akari[nse]
+"Stop...no...oh god...please...help me...stop it...ahh, ahh, no..."[pcms]
 
 *1751|
 [fc]
 [vo_aka s="akari_st0066"]
-[ns]茜梨[nse]
-「ま、まー……んっあっ……だめ、だめぇ……まーく……んっ！[r]
-　せんっ……ぱいっ、助け……ぇぇ……ああっ、ああっ……！！」[pcms]
+[ns]Akari[nse]
+"No, no-...nnahh...no, no...Makoto-kun...senpai, help me...ahh![r]
+Agiih!"[pcms]
 
 *1752|
 [fc]
-[ns]稼津央[nse]
-「ははは。誰も助けになんか来やしないよ、茜梨。[r]
-　ほら、イきそうだろ、イくんだろ？　僕も一緒にイってやるよ」[pcms]
+[ns]Kazuo[nse]
+"Hahaha. No one is coming to save you, Akari. Look, you're about to[r]
+come, aren't you? I'll come with you."[pcms]
 
 *1753|
 [fc]
 [vo_aka s="akari_st0067"]
-[ns]茜梨[nse]
-「やっ、いやぁっ……！　イかな……いぃっ！　イかな……ああっ[r]
-　まーく……おかあ……や、イかな……いのぉっ！　イかな……！」[pcms]
+[ns]Akari[nse]
+"No, I don't want to...! I won't come...I won't! Makoto...mom...no, I[r]
+won't come...I refuse! I won't come...!"[pcms]
 
 *1754|
 [fc]
-[ns]稼津央[nse]
-「中にたっぷり出してあげるよ。僕のペニスから勢いよく[r]
-　飛び出した精子が、ひくひく蠢いてる茜梨の膣を駆け抜けて、[r]
-　お前の子宮を満たすんだよ。お前の中の中まで犯すんだよ」[pcms]
+[ns]Kazuo[nse]
+"I'm going to fill you up inside. The sperm that shoots out vigorously[r]
+from my penis will race through your twitching pussy and fill your[r]
+womb. I'm going to violate you through and through."[pcms]
 
 *1755|
 [fc]
 [vo_aka s="akari_st0068"]
-[ns]茜梨[nse]
-「やっ、いやあぁ……！　やめ……てぇっ！　おねが……いっ！[r]
-　あ、あああっ、やめ、だめぇ……あっ、いやぁ、やあぁ……んっ」[pcms]
+[ns]Akari[nse]
+"No, I don't want this...! Stop it please! Please...ahh, ahhhh, stop,[r]
+no...ahh, I don't want this, noo...nnn"[pcms]
 
 *1756|
 [fc]
-[ns]稼津央[nse]
-「いいね、またぎゅっと締め付けがあがったよ。やっぱり茜梨は[r]
-　犯されたくてたまらないんだね」[pcms]
+[ns]Kazuo[nse]
+"That's it, you clenched down tight again. You really can't wait to be[r]
+violated, can you?"[pcms]
 
 *1757|
 [fc]
 [vo_aka s="akari_st0069"]
-[ns]茜梨[nse]
-「そんな、ことぉ……あっ、いやあぁ、やめ……おねが……[r]
-　ひああっ、ああっ、だめ、だめだめぇ……イかないっぃぃぃ！」[pcms]
+[ns]Akari[nse]
+"That's not true...ahh, I don't want this, stop...please...hiahh, ahh,[r]
+no, no way...I won't come!"[pcms]
 
 *1758|
 [fc]
-[ns]稼津央[nse]
-「いいや、一緒にイくんだよ、お前はっ！　ほらっほらっ！[r]
-　もう、イくぞっ！　イくぞっ！　中にぶちまけるぞっ！！」[pcms]
+[ns]Kazuo[nse]
+"Nope, we're going to come together! Here we go! Here we go! I'm about[r]
+to come! I'm going to shoot it inside!!"[pcms]
 
 *1759|
 [fc]
 [vo_mis s="misao_st0090"]
-[ns]美沙緒[nse]
-「止めてぇ、稼津央。お願いよ、それだけは、それだけは、[r]
-　許してあげてぇ、稼津央！！」[pcms]
+[ns]Misao[nse]
+"Stop it please, Kazuo. Please, just that, just that much mercy for[r]
+her, Kazuo!!"[pcms]
 
 *1760|
 [fc]
-ラストスパートを掛けた稼津央の腰。美沙緒が悲痛な叫びを[r]
-上げるが、その動きが止まることはなかった。[r]
-むしろ、美沙緒の悲鳴で、より加速しだした。[pcms]
+As Kazuo made his final thrusts. Misao let out a cry of agony but his[r]
+movements did not stop. On the contrary, they accelerated even more[r]
+with Misao's screams.[pcms]
 
 *1761|
 [fc]
 [vo_aka s="akari_st0070"]
-[ns]茜梨[nse]
-「んぐぅっ！　んあ゛っ！　ああっ！　だめっ！　だめぇ！[r]
-　イかな゛い゛ぃぃっ！　い、やあぁっっ！　だめぇ……っ！」[pcms]
+[ns]Akari[nse]
+"Nguuh! Nngah! Ahh! No! No! I won't come! Nooo! I don't want this!"[pcms]
 
 ;//mine:後半から指かんでるのでBGV無し
 
 *1762|
 [fc]
 [vo_aka s="akari_st0071"]
-[ns]茜梨[nse]
-「ぐっ……イかない、のぉ！　イかな゛いぃ！　助け……てぇっ！[r]
-　まーく、まーくんっせんぱっ！！　や゛ぁっ！　あぎぃっ！」[pcms]
+[ns]Akari[nse]
+"Guh...I won't come! I won't! Help me please! Makoto-kun senpai!![r]
+Yahh! Agiih!"[pcms]
 
 *1763|
 [fc]
-[ns]稼津央[nse]
-「出すぞ出すぞ出すぞっ！！！　イけっ！　イけっ！　イけぇっ！」[pcms]
+[ns]Kazuo[nse]
+"I'm going to release it! Come on! Come on! Come!"[pcms]
 
 ;//BGVオフ
 ;//seフェード停止
@@ -1888,60 +1890,61 @@
 *1764|
 [fc]
 [vo_aka s="akari_st0072"]
-[ns]茜梨[nse]
-「ひあああっ！　あっんっぐっっっっ！　やっ、やあっ、やっ[r]
-　イかなっ、んあっ、んんんんんっ、んくうぅぅぅぅぅっっ！[r]
-　やぁっ、んんんっ、いっ、イかな゛っんんっんんんっくうっ」[pcms]
+[ns]Akari[nse]
+"Hiaaah! Ahnnnggggghhh! Noo, noo, don't make me[r]
+come...nnahh...nnnnnnnghhhhhhhh! Yahh, nnnnghhhhhhhh, I won't come[r]
+nnnnghhhhhhhh!"[pcms]
 
 *1765|
 [fc]
-噛みしめた茜梨の指から血がにじんでいた。そうまでしたのに、[r]
-茜梨の背は反り返り、びくんびくんと快楽に震え続けた。[pcms]
+Blood oozed from Akari's fingers that she had bitten down on. Despite[r]
+that much effort to resist, her back arched and she continued to[r]
+tremble with pleasure.[pcms]
 
 *1766|
 [fc]
-[ns]稼津央[nse]
-「イきやがったっ！　この淫売めっ！　血は争えないなっ！[r]
-　処女のオナニー狂いっ！　処女喪失でイきやがったっ！！」[pcms]
+[ns]Kazuo[nse]
+"She came! This whore! Blood doesn't lie! A virgin addicted to[r]
+masturbation! She came from losing her virginity!!"[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
 
 *1767|
 [fc]
-稼津央は、快感に震える茜梨の中に、腰を押しつけ、自分の精子を[r]
-たっぷりと流し込む。[pcms]
+Kazuo pressed his hips against the trembling Akari and poured his[r]
+semen into her in abundance.[pcms]
 
 *1768|
 [fc]
-美沙緒にしたのと同じように、何度も何度も腰を押しつけ、[r]
-背中を震わせながら、注ぎ込んだ。[pcms]
+Just like he did with Misao, he thrust his hips over and over again[r]
+and shuddered as he poured it in.[pcms]
 
 *1769|
 [fc]
 [vo_aka s="akari_st0073"]
-[ns]茜梨[nse]
-「んっ……くううっ……ううっ……ぁぁっ……くっ…………ぁぁ」[pcms]
+[ns]Akari[nse]
+"Nngh...kuuuh...uuuh...aahh...kuh...aah"[pcms]
 
 *1770|
 [fc]
-押し寄せる快楽に反応する身体。劣情に負けたイってしまった自分。[r]
-ないまぜになった涙をうっすらと浮かべながらも、[r]
-茜梨は精液を胎内に飲み込み続けた。[pcms]
+Her body reacted to the surging pleasure. Akari who had lost to her[r]
+lust and came. She faintly teared up as she continued to swallow the[r]
+semen inside her womb.[pcms]
 
 *1771|
 [fc]
-全てを注ぎ込んだ稼津央の腰が止まる。[r]
-と、同時に弓なりだった茜梨の身体は、満足したかのように、[r]
-ことりと背が床に落ちた。[pcms]
+As Kazuo finished pouring everything inside her and his hips stopped[r]
+moving. At the same time Akari's body that had been arched like a bow[r]
+gently fell back onto the floor as if satisfied.[pcms]
 
 [evcg storage="akari_H004p"][trans_c cross time=300]
 
 *1772|
 [fc]
 [vo_aka s="akari_st0074"]
-[ns]茜梨[nse]
-「うっ……ぅぅ……んっ……んっ……ぅぅ……」[pcms]
+[ns]Akari[nse]
+"Ugh...uuuh...nnngh...nnngh...uuuh..."[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1950,52 +1953,53 @@
 
 *1773|
 [fc]
-とろりとした目の茜梨を見下ろしながら、稼津央がゆっくりと[r]
-腰を引き、彼女の胎内からペニスを抜き出す。[pcms]
+Looking down at Akari with dazed eyes, Kazuo slowly pulled his hips[r]
+back and withdrew his penis from her womb.[pcms]
 
 [evcg storage="akari_H004q"][trans_c cross time=300]
 
 *1774|
 [fc]
-茜梨の陰唇は、まるで名残惜しいかのようにペニスに絡みついた。[r]
-白濁した精液の糸が、稼津央の鈴口と茜梨の膣口を結ぶ。[pcms]
+Akari's labia clung to the penis as if reluctant to let go. A thread[r]
+of cloudy semen connected Kazuo's glans to Akari's vaginal opening.[pcms]
 
 *1775|
 [fc]
-その糸が、重力に負けて、てろりと切れた時、茜梨の膣から[r]
-大量の精液がくぷくぷと音を立てながら零れ出た。[pcms]
+As that thread broke off limply due to gravity, a large amount of[r]
+semen spilled out from Akari's pussy with a 'kupu kupu' sound.[pcms]
 
 [evcg storage="akari_H004r"][trans_c cross time=300]
 
 *1776|
 [fc]
-[ns]稼津央[nse]
-「ははははっ！　たっぷり打ち込んでやったぞ。[r]
-　姉さんっ！　よっく見ろっ！　茜梨も喜ばせてやったよっ！」[pcms]
+[ns]Kazuo[nse]
+"Hahaha! I've pumped you full. Look closely sister! I've made Akari[r]
+happy too!"[pcms]
 
 *1777|
 [fc]
-[ns]玄治郎[nse]
-「ぐあああああっ、があっ、あがっああああぐがああああっ！」[pcms]
+[ns]Genjirou[nse]
+"Guuaaaaahhhhhhhhhhhhhh!!"[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1778|
 [fc]
-突如雄叫びを上げ、玄治郎が暴れ出した。[r]
-必死に黒服達が押さえにかかるが、先ほどとは比べものに[r]
-ならない力を発揮する。[pcms]
+Suddenly letting out a roar, Genjirou started thrashing about. The men[r]
+in black suits tried desperately to hold him down but he exhibited an[r]
+unimaginable strength compared to before.[pcms]
 
 *1779|
 [fc]
-べぎっ……という腕の骨が折れる音がして、一瞬ひるんだ黒服達は[r]
-あっという間にふりほどかれ、玄治郎は折れた腕を気にもせず、[r]
-まっすぐ稼津央へと向かっていた。[pcms]
+There was a sound of an arm bone breaking 'begi...', and the men in[r]
+black suits hesitated for a moment only to be quickly shaken off;[r]
+Genjirou didn't even care about his broken arm as he headed straight[r]
+for Kazuo.[pcms]
 
 *1780|
 [fc]
-[ns]稼津央[nse]
-「……ふん。まだ人間が残ってるとでも言いたいのかよっ！！！」[pcms]
+[ns]Kazuo[nse]
+"...Hmph. So you're saying there's still some humanity left in you?!!"[pcms]
 
 ;//■_銃声（単発）
 
@@ -2003,53 +2007,53 @@
 
 *1781|
 [fc]
-傍らに置いてあった銃を手に取ると、稼津央はためらうことなく[r]
-玄治郎を撃ち抜いていた。[pcms]
+Without hesitation Kazuo picked up a gun that was lying nearby and[r]
+shot Genjirou.[pcms]
 
 *1782|
 [fc]
-どおっと、赤い眼をした老人が倒れる。[r]
-見事に頭を打ち抜かれ、二度と起き上がることはなかった。[pcms]
+The old man with red eyes fell with a thud. His head was shot through[r]
+cleanly, and he would never rise again.[pcms]
 
 *1783|
 [fc]
-未だ夢うつつの茜梨はその様をぼんやりと見つめる。[r]
-美沙緒は唇を噛みしめながら、倒れた玄治郎を見つめていた。[pcms]
+Akari, still half in a dream, watched the scene in a daze. Misao bit[r]
+her lip as she stared at the fallen Genjirou.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1784|
 [fc]
-[ns]稼津央[nse]
-「……しまった。殺しちゃったら、金にならないじゃないか。[r]
-　まったく、どこまで僕に迷惑を掛けたら気が済むんだ……」[pcms]
+[ns]Kazuo[nse]
+"...Damn. If I kill him, he won't be worth any money. Just how much[r]
+trouble do you intend to cause me..."[pcms]
 
 *1785|
 [fc]
-自分の父を殺したことなど、稼津央は意に介していなかった。[r]
-倒れている玄治郎をちらっと醒めた眼で見ただけで、[r]
-すぐに自分の身繕いに取りかかっていた。[pcms]
+Kazuo didn't seem to care that he had killed his own father. He[r]
+glanced at the fallen Genjirou with cold eyes and immediately started[r]
+fixing himself up.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1786|
 [fc]
-[ns]稼津央[nse]
-「さて……と。僕は疲れたから、ひと息つきたい。[r]
-　そこの雌豚２匹は、みんなで好きにしてくれていいよ。[r]
-　ちょっとした、ボーナスってことでね」[pcms]
+[ns]Kazuo[nse]
+"Well then... I'm tired, so I want to take a break. Those two sows[r]
+over there, you guys can do whatever you want with them. Consider it a[r]
+little bonus."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1787|
 [fc]
-そう言いながら稼津央は、すたすたと壁際に向かった。[pcms]
+With that, Kazuo walked briskly towards the wall.[pcms]
 
 *1788|
 [fc]
-残された黒服達。総勢１１名。お互い顔を見合わせていたが、[r]
-リーダー格が頷くと、餌を見つけたアリのように、[r]
-それぞれ好みの獲物へと群がった。[pcms]
+The remaining men in black suits, eleven in total, looked at each[r]
+other before the apparent leader nodded, and like ants finding food,[r]
+they swarmed towards their preferred prey.[pcms]
 
 ;//■イベントCG　misao_H002
 ;//●(ラベル02223の使い回し。体位同じ。)
@@ -2057,145 +2061,142 @@
 
 *1789|
 [fc]
-黒服達のリーダー格と思われる男は、ゆっくりと自分のペニスを[r]
-取り出した。[pcms]
+The man who seemed to be the leader of the men in black slowly took[r]
+out his penis.[pcms]
 
 *1790|
 [fc]
-怒張したそれは、あからさまに平均よりも長さがある。[r]
-更に長いにも関わらず、硬く反り返っていた。[pcms]
+His erection was noticeably longer than average and despite its[r]
+length, it was hard and curved upwards.[pcms]
 
 *1791|
 [fc]
-[ns]オズ[nse]
-「前々からあんたにはそそられてたんだよ。[r]
-　一度お手合わせ願いたいってね。[r]
-　随分とご無沙汰だったから、楽しませてもらうぜ」[pcms]
+[ns]Oz[nse]
+"I've been turned on by you for a while now. I've wanted to have a go[r]
+with you. It's been a long time, so I'm going to enjoy this."[pcms]
 
 [evcg storage="misao_H002i"][trans_c cross time=300]
 
 *1792|
 [fc]
-言い終わらないうちに、男は稼津央の精液で塗れている美沙緒の[r]
-膣へズブリと差し込んだ。[pcms]
+Before he finished speaking, the man thrust his penis into Misao's[r]
+vagina, which was still smeared with Kazuo's semen.[pcms]
 
 *1793|
 [fc]
 [vo_mis s="misao_st0091"]
-[ns]美沙緒[nse]
-「んっぐうっ……」[pcms]
+[ns]Misao[nse]
+"Nnguuuh..."[pcms]
 
 *1794|
 [fc]
-[ns]オズ[nse]
-「ふふふっ。これからだぜ、俺の本領はな」[pcms]
+[ns]Oz[nse]
+"Hehehe. The real show starts now."[pcms]
 
 *1795|
 [fc]
 [vo_mis s="misao_st0092"]
-[ns]美沙緒[nse]
-「いっ……ぎぃ……ぐっうっっ、うううっ、いああああっ！！！」[pcms]
+[ns]Misao[nse]
+"It...gyii...guuuhhh, uuuuh, iyaaaah!!!"[pcms]
 
 *1796|
 [fc]
-長いペニスが奥へと突き進む。美沙緒の子宮口をドシドシと[r]
-殴り上げる。激しい突き上げに美沙緒は顔を歪めた。[pcms]
+The long penis thrust deep inside. It pounded against Misao's cervix.[r]
+Misao contorted her face with the intense thrusting.[pcms]
 
 [evcg storage="misao_H002j"][trans_c cross time=300]
 
 *1797|
 [fc]
 [vo_mis s="misao_st0093"]
-[ns]美沙緒[nse]
-「ぐぅぅ……っ！　ああ゛ああ゛ぐぅううっ、ああああっああっ。[r]
-　こわ……れる。やめ゛……てぇ。こわれ……るっ！　いぎぃ！」[pcms]
+[ns]Misao[nse]
+"Guuuh...! Aaahhh...guuuhhh, ahhh! It's breaking...stop...it's[r]
+breaking! Igyii!"[pcms]
 
 *1798|
 [fc]
 [vo_mis s="misao_st0094"]
-[ns]美沙緒[nse]
-「ぐあっっああああっ、ひっひいっいいっ、こわ……れ……っ！[r]
-　やめ……ああっあ゛あ゛あ゛あ゛あ゛あ゛あ゛っっっ！！」[pcms]
+[ns]Misao[nse]
+"Guahhhhh, hiihiiiihiiii, it's breaking...stop...ahhhhhhhhh!!!"[pcms]
 
 *1799|
 [fc]
-己の快楽だけを求めた、激しい腰使いで、美沙緒の子宮口を[r]
-こじ開けんと亀頭がねじ込まれる。[pcms]
+Seeking only his own pleasure, the man's vigorous hip movements seemed[r]
+to pry open Misao's cervix as his glans twisted inside.[pcms]
 
 *1800|
 [fc]
-[ns]オズ[nse]
-「おら、もっと色っぽくあえげよっ！　親父としてた時みたいに[r]
-　エロ声をあげなっ！　この変態があっ！」[pcms]
+[ns]Oz[nse]
+"Hey, moan sexier! Like when you were with your old man. Let out those[r]
+erotic moans! You pervert!"[pcms]
 
 *1801|
 [fc]
 [vo_mis s="misao_st0095"]
-[ns]美沙緒[nse]
-「うぐぅぅぅ……い゛い゛あ゛あ゛……うううっ、ううっ！[r]
-　ああっぐぅ……っ、い゛ごわれ……る゛ぅっっいやああっ」[pcms]
+[ns]Misao[nse]
+"Uguuuu...iiii...uuuuh, uuuuh! Ahhguu...it's breaking...nooo!"[pcms]
 
 [evcg storage="misao_H002k"][trans_c cross time=300]
 
 *1802|
 [fc]
 [vo_mis s="misao_st0096"]
-[ns]美沙緒[nse]
-「や゛め゛えてぇっっ！　ううああっ、あっ、あぎぃぃっ！[r]
-　子宮が、子宮がぁっ！　あああっあ゛あ゛あ゛あ゛あ゛っっ！」[pcms]
+[ns]Misao[nse]
+"Stop it please! Uuuahh, ah, agyiiih! My womb, my womb! Ahhhhhhh!!!"[pcms]
 
 *1803|
 [fc]
-[ns]オズ[nse]
-「変態女っ！　もっと腰振れっ！　俺をもっと気持ちよくさせろ。[r]
-　お前が親父にしてやったみたいになっ！　おらっ！　どうしたっ」[pcms]
+[ns]Oz[nse]
+"You perverted woman! Move your hips more! Make me feel even better.[r]
+Like you did for your old man! Come on! What's wrong?"[pcms]
 
 *1804|
 [fc]
 [vo_mis s="misao_st0097"]
-[ns]美沙緒[nse]
-「ひっひっいいっ……うぐぅ……やめ……お願いぃ、もう、もう、[r]
-　ひっきゃあああっ、こわれるっ！　壊れるっ！！　ひいいっ！」[pcms]
+[ns]Misao[nse]
+"Hihhiiiih...uguu...stop...please, no more, no more, hikyaaaah, it's[r]
+breaking! It's breaking!! Hiiih!"[pcms]
 
 *1805|
 [fc]
-子宮口からにねじ込まれた亀頭ごと、美沙緒は子宮を中から[r]
-揺さぶられ続けた。[pcms]
+With the glans twisted into her cervix, Misao continued to be shaken[r]
+from the inside of her womb.[pcms]
 
 *1806|
 [fc]
-男の罵倒に悔し涙を浮かべながらも、必死に抵抗していた。[pcms]
+While tears of frustration welled up in her eyes, she desperately[r]
+resisted.[pcms]
 
 *1807|
 [fc]
-[ns]オズ[nse]
-「いいぜ、いいぜぇ！　稼津央が喜ぶのもわかるぜっ！[r]
-　お前の親父もさぞ喜んだろうなっ！　淫乱の変態女にっ！」[pcms]
+[ns]Oz[nse]
+"Yeah, that's it! I can see why Kazuo enjoyed this! Your old man must[r]
+have been delighted too! With such a lewd perverted woman!"[pcms]
 
 *1808|
 [fc]
 [vo_mis s="misao_st0098"]
-[ns]美沙緒[nse]
-「ぐっあっ……がはっ……ぐっぐうっ……や゛め゛……ぐぅ……[r]
-　い゛あ゛あ゛あ゛あ゛あ゛っっ、だ、め゛ぇ……んぐっ」[pcms]
+[ns]Misao[nse]
+"Guahh...gahah...guhguuh...stop...iiii...noooo!"[pcms]
 
 *1809|
 [fc]
-[ns]オズ[nse]
-「ふふふっ、キたぜ。キたぜ。ぶちまけてやるよ！[r]
-　中にたっぷりとな。子宮の中に直接注いでやるからよっ！」[pcms]
+[ns]Oz[nse]
+"Hahaha, here it comes. I'm gonna let it all out! Inside you, plenty[r]
+of it. I'll shoot it directly into your womb!"[pcms]
 
 *1810|
 [fc]
 [vo_mis s="misao_st0099"]
-[ns]美沙緒[nse]
-「やめ゛てえ゛……お願……い゛っっんああああ゛あ゛あ゛っ！[r]
-　がはっ、んぐっ……お、ね゛、が、い゛い゛っっ…………！」[pcms]
+[ns]Misao[nse]
+"Stop it please...I beg you...naaaaahhhh!! Gahah, nguh...oh, please,[r]
+nooo!"[pcms]
 
 *1811|
 [fc]
-[ns]オズ[nse]
-「しっかり孕めよっ！　出すぜっ！　たっぷり出してやるっ！」[pcms]
+[ns]Oz[nse]
+"Make sure you get pregnant! Here it comes! I'm gonna give you[r]
+plenty!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -2210,305 +2211,297 @@
 *1812|
 [fc]
 [vo_mis s="misao_st0100"]
-[ns]美沙緒[nse]
-「いぎぃぃぃぃぃぃっ！　がはっがはっがはっ……んん……ぁ」[pcms]
+[ns]Misao[nse]
+"Igyiiiiiiih! Gahahgahahgahah...nnn...ah"[pcms]
 
 *1813|
 [fc]
-男が美沙緒の中からペニスを引き抜くと、稼津央の時以上の[r]
-どろりとして匂いを放つ精液が溢れ出てきた。[pcms]
+When the man pulled his penis out of Misao, a thick and smelly semen[r]
+flowed out more than when Kazuo did it.[pcms]
 
 *1814|
 [fc]
-[ns]オズ[nse]
-「久しぶりだからたっぷり出たぜ。これなら孕めるだろ？[r]
-　こんな事になったから、また人口も減っちまうしな。[r]
-　淫乱の血を受け継いだ、元気なガキ産んでくれよなっ！」[pcms]
+[ns]Oz[nse]
+"It's been a while so I came a lot. This should be enough to get you[r]
+pregnant, right? With things like this happening, the population is[r]
+going to decrease anyway. So make sure you give birth to a healthy kid[r]
+who inherits your slutty blood!"[pcms]
 
 [evcg storage="misao_H002m"][trans_c cross time=300]
 
 *1815|
 [fc]
 [vo_mis s="misao_st0101"]
-[ns]美沙緒[nse]
-「うぅ……ぅ……」[pcms]
+[ns]Misao[nse]
+"Uuu...uu..."[pcms]
 
 *1816|
 [fc]
-胎内から揺さぶられ、軽い脳しんとうを起こしたかのように、[r]
-美沙緒は朦朧としていた。[pcms]
+Shaken from within her womb, Misao seemed to have a mild concussion[r]
+and was dazed.[pcms]
 
 *1817|
 [fc]
-しかし、ゆらゆらと頭を振ることで、拒絶を示していた。[pcms]
+However, she shook her head weakly as if to show rejection.[pcms]
 
 ;//■イベントCG　akari_H005　後ろからの突き上げに踏ん張るような四つん這い姿勢の茜梨
 [evcg storage="akari_H005a"][trans_c cross time=300]
 
 *1818|
 [fc]
-[ns]黒服Ａ[nse]
-「孕むんなら、こっちのお嬢ちゃんもだぜ！」[pcms]
+[ns]Black Suit A[nse]
+"If she's going to get pregnant, this young lady here will too!"[pcms]
 
 *1819|
 [fc]
-茜梨は男達にひっくり返され四つん這いの姿勢で、尻を上げさせ[r]
-られていた。はだけた胸元からは、小柄な体格に合わない[r]
-感度の良さそうな乳房が揺れていた。[pcms]
+Akari was flipped over by the men and made to assume a doggy-style[r]
+position with her butt raised. Her breasts swayed from her disheveled[r]
+top, too large for her petite frame and seemingly sensitive.[pcms]
 
 [evcg storage="akari_H005b"][trans_c cross time=300]
 
 *1820|
 [fc]
-[ns]黒服Ａ[nse]
-「たまんねえな。このモチモチの肌。手のひらに吸い付くぜ。[r]
-　おまんこはピンクでパックリしてやがる」[pcms]
+[ns]Black Suit A[nse]
+"Damn irresistible. This soft and squishy skin sticks to my palm. Her[r]
+pussy is pink and wide open."[pcms]
 
 *1821|
 [fc]
-愛おしいものでも撫でるような手つきで、男は茜梨の尻肉を[r]
-撫で回していた。[pcms]
+With tender strokes as if caressing something precious, the man[r]
+fondled Akari's buttocks.[pcms]
 
 *1822|
 [fc]
 [vo_aka s="akari_st0075"]
-[ns]茜梨[nse]
-「や、やめ……てぇ」[pcms]
+[ns]Akari[nse]
+"Stop... please..."[pcms]
 
 *1823|
 [fc]
-茜梨はぴくりぴくりと身体を震わせ、微かな抵抗の言葉を口に[r]
-すると、男を振り返って自分の尻が撫で回される様を見つめた。[pcms]
+Akari's body twitched and shivered as she uttered faint words of[r]
+resistance, turning to look back at the man caressing her butt.[pcms]
 
 *1824|
 [fc]
-[ns]黒服Ａ[nse]
-「ん～？　なんだ、お嬢ちゃん？[r]
-　ああ、そうか、待たせちゃ悪いよなあ」[pcms]
+[ns]Black Suit A[nse]
+"Hmm? What's up, miss? Ah, I see, my bad for making you wait."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *1825|
 [fc]
-ぷいっと目を逸らした茜梨に、男はにやけた顔で応え、[r]
-一気に茜梨の中へと、ペニスを突き立てた。[pcms]
+With a smirk, the man responded to Akari, who averted her eyes, and[r]
+then he thrust his penis deep inside her in one go.[pcms]
 
 [evcg storage="akari_H005c"][trans_c cross time=300]
 
 *1826|
 [fc]
 [vo_aka s="akari_st0076"]
-[ns]茜梨[nse]
-「ぎっ、きゃあああっっ！！　ひああっ！」[pcms]
+[ns]Akari[nse]
+"Gah, kyaaaah!! Ahh, nooo!"[pcms]
 
 *1827|
 [fc]
-茜梨は背を仰け反らせ悲鳴を上げた。[r]
-さっきとは違う深い挿入感に、わなないていた。[pcms]
+Akari arched her back and screamed. The deep penetration felt[r]
+different from before, making her tremble.[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *1828|
 [fc]
-[ns]黒服Ａ[nse]
-「いい声で鳴くじゃないかっ！　おまけにいい具合だぜ、[r]
-　あんたのおまんこの中はさ。絡みついてくるぜ。淫乱だよなあ」[pcms]
+[ns]Black Suit A[nse]
+"You moan so nicely! And your pussy feels great, clinging onto me.[r]
+You're such a nympho."[pcms]
 
 *1829|
 [fc]
 [vo_aka s="akari_st0077"]
-[ns]茜梨[nse]
-「そんな……こと……ありませっ……ひああっ、んっくうぅっ！[r]
-　いや……やあっ……やめっ……んんっ、はあぁっ、んんっんっ」[pcms]
+[ns]Akari[nse]
+"That's not... true... please stop... no, nooo... stop... ah, ahhh,[r]
+mmm!"[pcms]
 
 *1830|
 [fc]
-[ns]黒服Ａ[nse]
-「言ってる事と、やってる事が一致してないぜ。まったくこんな[r]
-　若くて可愛い嬢ちゃんなのになあ。処女奪われて、犯されて[r]
-　イっちまうんだからなあ。はははっ、おお、締まる締まるっ！」[pcms]
+[ns]Black Suit A[nse]
+"Your words and actions don't match. It's a shame for such a young and[r]
+cute girl like you to lose her virginity and get fucked until she[r]
+cums. Hahaha, oh, it's tightening up!"[pcms]
 
 [evcg storage="akari_H005d"][trans_c cross time=300]
 
 *1831|
 [fc]
 [vo_aka s="akari_st0078"]
-[ns]茜梨[nse]
-「イ……ってなんて……あっ、んんっ……ませっんっ……！[r]
-　や、ぁぁっ、だ……めぇ……イって……ませっ……ひやあっ！」[pcms]
+[ns]Akari[nse]
+"Cumming... what does that... ah, mmm... mean...! No, ahh, stop... I'm[r]
+not... cumming... nooo!"[pcms]
 
 *1832|
 [fc]
-[ns]黒服Ａ[nse]
-「変態のお嬢さんにぶち込めて、最高だよっ！[r]
-　この仕事、受けて良かったぜっ！　犯してやるよ、たっぷりな」[pcms]
+[ns]Black Suit A[nse]
+"Fucking a perverted miss like you is the best! I'm glad I took this[r]
+job! I'll fuck you thoroughly."[pcms]
 
 *1833|
 [fc]
-男は、稼津央がしたように、茜梨の膣内を色々な角度で[r]
-責め立てた。茜梨は被りを振りながら、必死に耐えていた。[pcms]
+The man, like Kazuo had done earlier, assaulted Akari's vagina from[r]
+various angles. Akari shook her head desperately trying to endure.[pcms]
 
 *1834|
 [fc]
 [vo_aka s="akari_st0079"]
-[ns]茜梨[nse]
-「や、やめぇ……んんっ。んっあっ……いやぁ……っ。[r]
-　んはあっ、あっ、や、やだぁ……や、やあっ、んんんっっ」[pcms]
+[ns]Akari[nse]
+"Stop... mmm. Ahh... no... ah, ahhh... no, nooo... mmm!"[pcms]
 
 *1835|
 [fc]
 [vo_aka s="akari_st0080"]
-[ns]茜梨[nse]
-「お、願……いぃ、やめ……てぇ、だめぇ……やだぁあぁ……[r]
-　んんっぅくぅ……んやあぁ……あひっ……いやぁ…………！」[pcms]
+[ns]Akari[nse]
+"Please... I'm begging you, stop... it's wrong... nooo... mmm...[r]
+nooo... ah!"[pcms]
 
 *1836|
 [fc]
-[ns]黒服Ａ[nse]
-「ウソつくなっ！　犯されたくて仕方ないくせになっ！[r]
-　さっきから、お嬢ちゃんのおまんこは、ぐいぐいオレのを[r]
-　奥に奥にって引っ張ってくぜっ！　すっげえ、気持ちいいぜ！」[pcms]
+[ns]Black Suit A[nse]
+"Don't lie! You can't wait to be fucked! Ever since earlier, your[r]
+pussy has been pulling me deeper and deeper! It feels amazing!"[pcms]
 
 [evcg storage="akari_H005e"][trans_c cross time=300]
 
 *1837|
 [fc]
 [vo_aka s="akari_st0081"]
-[ns]茜梨[nse]
-「う、そで……すっぅっ、や、やあっ……ひあっ……んんっ！」[pcms]
+[ns]Akari[nse]
+"That's not... true, ah... noo... ah!"[pcms]
 
 *1838|
 [fc]
-男が腰を揺する度に、茜梨との結合部から、さっき稼津央に[r]
-たっぷりと出された精液が泡立って零れおちている。[pcms]
+With each thrust from the man, the semen that Kazuo had released[r]
+earlier foamed and spilled from where Akari was connected.[pcms]
 
 *1839|
 [fc]
-にちょにちょごぷごぷと粘った音が、男をさらに掻き立てた。[pcms]
+The sticky sounds of 'nicho nicho gopu gopu' further incited the man.[pcms]
 
 *1840|
 [fc]
-[ns]黒服Ａ[nse]
-「たっぷり出されたよなあ、お嬢ちゃん。オレも気持ちよくして[r]
-　やるから、たっぷり出させてくれよぉ。ははっ、また締まるっ。[r]
-　本当に犯されるのが大好きな変態お嬢ちゃんなんだなっ！」[pcms]
+[ns]Black Suit A[nse]
+"You've been filled up nicely, miss. I'll make you feel good too, so[r]
+let me release plenty. Haha, it's tightening again. You really love[r]
+being fucked, you perverted miss!"[pcms]
 
 *1841|
 [fc]
 [vo_aka s="akari_st0082"]
-[ns]茜梨[nse]
-「ち、が……違い……ますっ……くっ……んんっ……や、やめ……[r]
-　もう、やめ……てぇ……うぎぃ……んぅんぅ……いやぁ……」[pcms]
+[ns]Akari[nse]
+"That's not... true... stop... please stop... ugh..."[pcms]
 
 *1842|
 [fc]
 [vo_aka s="akari_st0083"]
-[ns]茜梨[nse]
-「ひっひっ……くうぅっ……んんんっ、んんんんっぐぅ……。[r]
-　…………きゃっ、いや、ああああっ、あ、いやあぁぁぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Hic... ugh... mmm, mmm... ah, nooo, ahhh!"[pcms]
 
 *1843|
 [fc]
-男は探り当てた。さっき稼津央が探し出した茜梨の弱点を。[r]
-仰け反る茜梨の反応に、男はしてやったりと、そこを責め立てた。[pcms]
+The man found it. He discovered Akari's weak spot that Kazuo had found[r]
+earlier. As Akari arched back in response, the man gleefully continued[r]
+to exploit that spot.[pcms]
 
 *1844|
 [fc]
 [vo_aka s="akari_st0084"]
-[ns]茜梨[nse]
-「や、やめっ！　あっ、あひっああっ、だめっだめぇっ！[r]
-　あっ、ふああっ、あくぅっ、ああ、ああくうぅっううっ」[pcms]
+[ns]Akari[nse]
+"Stop! Ahh, ah! No, nooo! Ahh, fuahh, it's too much, ahh!"[pcms]
 
 *1845|
 [fc]
-[ns]黒服Ａ[nse]
-「いい声で鳴くじゃないかっ！　もっと鳴かせてやるからなっ！」[pcms]
+[ns]Black Suit A[nse]
+"You moan so nicely! I'll make you moan even more!"[pcms]
 
 *1846|
 [fc]
-男は執拗に茜梨のスポットを攻撃する。[r]
-茜梨は、押し寄せる快感に必死に歯を食いしばっていた。[pcms]
+The man relentlessly attacked Akari's spot. Akari clenched her teeth[r]
+desperately against the overwhelming pleasure.[pcms]
 
 [evcg storage="akari_H005f"][trans_c cross time=300]
 
 *1847|
 [fc]
 [vo_aka s="akari_st0085"]
-[ns]茜梨[nse]
-「んぐうっ………………ああっ、ひああっ、はひぃっ…………[r]
-　いやっ…………んっ…………あっああっ、あっはあああっ」[pcms]
+[ns]Akari[nse]
+"Nguh... ahh, noo, ah! Noo... mmm... ahh!"[pcms]
 
 *1848|
 [fc]
-食いしばった口許から、涎がたらたらと垂れる。[r]
-結合部からは、透明な愛液がぬるりぬるりとあふれ出していた。[pcms]
+Drool dripped from the corner of her clenched mouth. From their joined[r]
+parts, clear love juices flowed slickly.[pcms]
 
 *1849|
 [fc]
-我慢するために地面に立てられた爪が、茜梨が受ける快感の[r]
-大きさを逆に示していた。[pcms]
+The nails she dug into the ground to endure showed the intensity of[r]
+the pleasure Akari was feeling.[pcms]
 
 [evcg storage="akari_H005g"][trans_c cross time=300]
 
 *1850|
 [fc]
 [vo_aka s="akari_st0086"]
-[ns]茜梨[nse]
-「ひぐぅ……ぅっ……んはあぁ、あっ、あぐぅ…………[r]
-　やっ……やっ……だめっ………………あはあっ、ああっ……！」[pcms]
+[ns]Akari[nse]
+"Higuu... uhh... ah, nooo... stop... ah!"[pcms]
 
 *1851|
 [fc]
 [vo_aka s="akari_st0087"]
-[ns]茜梨[nse]
-「ううっ……あっ、ああっ、ふあああっ、あっあっあっ……！」[pcms]
+[ns]Akari[nse]
+"Uhh... ahh, ahh! Fuahhh!"[pcms]
 
 *1852|
 [fc]
-[ns]黒服Ａ[nse]
-「ふっ……はっ……凄いなお嬢ちゃんのおまんこはよぉ。[r]
-　たっぷり出してやるからなっ！　イけよっ！！　イけっ！」[pcms]
+[ns]Black Suit A[nse]
+"Huff... puff... Your pussy is amazing, miss. I'll release plenty[r]
+inside you! Cum! Cum now!"[pcms]
 
 *1853|
 [fc]
-茜梨の中に放出しようと、男は激しく腰を振る。[r]
-弱点を攻めまくられて、今や茜梨は、甘ったるい声しか[r]
-出せなくなっていた。[pcms]
+As the man thrust vigorously intending to release inside Akari, she[r]
+could only emit sweet moans now that her weak spot was being[r]
+mercilessly exploited.[pcms]
 
 *1854|
 [fc]
 [vo_aka s="akari_st0088"]
-[ns]茜梨[nse]
-「やあっああっ、はひっ、いっああっ、ああ……んっあっ、ああっ[r]
-　だめぇっえ、ああっ、いやぁっあっ、ああっ、あああっあっ」[pcms]
+[ns]Akari[nse]
+"Ahh! Hihh, ahh! Nooo, don't make me cum! Ahh!"[pcms]
 
 *1855|
 [fc]
-[ns]黒服Ａ[nse]
-「そろそろお嬢ちゃんもイきそうだなっ！[r]
-　オレも一緒にイってやるからよっ！　ぶちまけてやるぜっ！」[pcms]
+[ns]Black Suit A[nse]
+"Looks like you're about to cum too, miss! I'll cum with you! I'm[r]
+going to let it all out!"[pcms]
 
 [evcg storage="akari_H005h"][trans_c cross time=300]
 
 *1856|
 [fc]
 [vo_aka s="akari_st0089"]
-[ns]茜梨[nse]
-「いやあぁっ、あっ、あっ、イかないぃっっ……イかなっいいっ。[r]
-　イかなっ、あっ、ひあああっ、あひぃっ、イかな……いぃぃっ」[pcms]
+[ns]Akari[nse]
+"No, I won't cum... I won't cumm! Ahh!"[pcms]
 
 *1857|
 [fc]
-[ns]黒服Ａ[nse]
-「イけっ！　イきやがれっ！　イけっ！　このメスッ！」[pcms]
+[ns]Black Suit A[nse]
+"Cum! Cum now! Cum, you bitch!"[pcms]
 
 *1858|
 [fc]
 [vo_aka s="akari_st0090"]
-[ns]茜梨[nse]
-「イかな……イかな……イがな゛い゛いいいいいっい゛っっ！」[pcms]
+[ns]Akari[nse]
+"I won't cumm... I won't cumm!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -2525,30 +2518,30 @@
 *1859|
 [fc]
 [vo_aka s="akari_st0091"]
-[ns]茜梨[nse]
-「ひいいいいいっ、いいいい゛がな゛いいいいいいいいっっ……」[pcms]
+[ns]Akari[nse]
+"Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii[r]
+iiiiiiiiiiiii!"[pcms]
 
 *1860|
 [fc]
-[ns]黒服Ａ[nse]
-「ふっああああっ！！」[pcms]
+[ns]Black Suit A[nse]
+"Fuuuuck!!"[pcms]
 
 *1861|
 [fc]
-ガクンガクンと茜梨の身体が揺れる。[r]
-男の腰も、ガクンガクンと揺れ、茜梨にありったけの精液を[r]
-搾り取られていた。[pcms]
+Akari's body shook violently with each thrust. The man's hips also[r]
+shook as he squeezed out all his semen into her.[pcms]
 
 *1862|
 [fc]
 [vo_aka s="akari_st0092"]
-[ns]茜梨[nse]
-「ぃぃぃぃ……ぃぃぃぃ………………」[pcms]
+[ns]Akari[nse]
+"Eeeee... eeeee..."[pcms]
 
 *1863|
 [fc]
-[ns]黒服Ａ[nse]
-「くぅぅぅ……」[pcms]
+[ns]Black Suit A[nse]
+"Kuuuu..."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -2556,38 +2549,37 @@
 
 *1864|
 [fc]
-男は名残惜しそうに、茜梨の中から自分のモノを引き抜いた。[r]
-収まりきらない精液がこぼれ落ち、茜梨の開かれた足元に[r]
-白濁の水たまりを作り始めていた。[pcms]
+The man reluctantly pulled his thing out of Akari. The semen that[r]
+couldn't be contained spilled out, beginning to form a puddle of white[r]
+turbidity at the base of Akari's spread legs.[pcms]
 
 *1865|
 [fc]
 [vo_aka s="akari_st0093"]
-[ns]茜梨[nse]
-「う゛あ゛ぁぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Uvaaahhh!"[pcms]
 
 *1866|
 [fc]
-茜梨の口から獣めいた咆吼が発せられる。[r]
-自分の胎内から流れ出る精液へのメスそのものの反応だった。[pcms]
+A bestial roar erupted from Akari's mouth. It was a purely feminine[r]
+reaction to the semen flowing out of her womb.[pcms]
 
 *1867|
 [fc]
-[ns]黒服Ｂ[nse]
-「お、おいっ！　早く代われよっ！　もうキンタマから[r]
-　精液こみ上げてんだよ。ぶち込んですぐに出してえんだっ！」[pcms]
+[ns]Black Suit B[nse]
+"Hey, hurry up and switch with me! The semen's already surging up from[r]
+my balls. I wanna thrust it in and cum right away!"[pcms]
 
 [evcg storage="akari_H005k"][trans_c cross time=300]
 
 *1868|
 [fc]
-別の黒服の男が先ほどの男を乱暴に押しのけ、[r]
-茜梨の前に新たなペニスを晒した。[pcms]
+Another man in a black suit roughly pushed the previous one aside and[r]
+exposed his new penis in front of Akari.[pcms]
 
 *1869|
 [fc]
-舌なめずりをしながら、まだ意識がさまよっている体の茜梨の中に[r]
-ブスリと差し挿れた。[pcms]
+While licking his lips, he thrust it into Akari, who was still dazed.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -2596,83 +2588,82 @@
 *1870|
 [fc]
 [vo_aka s="akari_st0094"]
-[ns]茜梨[nse]
-「ひっ、ぎゃあっ……！」[pcms]
+[ns]Akari[nse]
+"Hih, gyaaah...!"[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *1871|
 [fc]
-[ns]黒服Ｂ[nse]
-「うおおおっ、すげえっ！　食いついてくるぜ、このマンコ」[pcms]
+[ns]Black Suit B[nse]
+"Uooooh, amazing! This pussy is clamping down on me!"[pcms]
 
 *1872|
 [fc]
-男は、やたらと腰をふりまくった。[r]
-さきほどの男や稼津央とはまったく相容れない乱暴な動きだ。[pcms]
+The man swung his hips wildly. His movements were completely different[r]
+from the previous man or Natsu, rough and unyielding.[pcms]
 
 [evcg storage="akari_H005m"][trans_c cross time=300]
 
 *1873|
 [fc]
 [vo_aka s="akari_st0095"]
-[ns]茜梨[nse]
-「いっ、いやっ……やっ、うっ……い、いやぁ……」[pcms]
+[ns]Akari[nse]
+"No, stop... ah, ugh... nooo..."[pcms]
 
 *1874|
 [fc]
-[ns]黒服Ｂ[nse]
-「昨日見た時から、このお嬢ちゃん、やりたかったんだっ！[r]
-　小柄で清楚にみえたのになっ！　いい肉付きじゃないかっ！」[pcms]
+[ns]Black Suit B[nse]
+"Ever since I saw you yesterday, I wanted to do this, miss! You looked[r]
+petite and pure, but what a nice body you have!"[pcms]
 
 *1875|
 [fc]
-男は腰をバンバンと茜梨の尻に打ち付けながら、ざわざわと[r]
-尻肉や乳房をまさぐり、揉みしだいた。[pcms]
+As the man banged his hips against Akari's ass, he roughly groped and[r]
+kneaded her ass flesh and breasts.[pcms]
 
 *1876|
 [fc]
 [vo_aka s="akari_st0096"]
-[ns]茜梨[nse]
-「う゛ぅ……いやぁ……い、痛……ぃぃ、やっ、ううっいやあっ」[pcms]
+[ns]Akari[nse]
+"Uuu... no... it hurts... nooo..."[pcms]
 
 *1877|
 [fc]
-[ns]黒服Ｂ[nse]
-「おまけに、淫乱なんだからなっ！　最高だっ！　ぐははっ、[r]
-　すげえ、マンコ、キューキュー締めつけてるぜ！」[pcms]
+[ns]Black Suit B[nse]
+"And on top of that, you're such a slut! The best! Guhaha, amazing,[r]
+your pussy is squeezing tight!"[pcms]
 
 *1878|
 [fc]
 [vo_aka s="akari_st0097"]
-[ns]茜梨[nse]
-「違……う。淫……乱なんかじゃっ……うっ、うううっ、[r]
-　いやっ……やあっ……うううっ、んんんっっっ」[pcms]
+[ns]Akari[nse]
+"Not... true. I'm not a slut... ugh, uuuuuh, no... nooo..."[pcms]
 
 *1879|
 [fc]
-これまでの男とは違い、茜梨は眉根を寄せ苦悶の表情を[r]
-浮かべていた。[r]
-男の動きで言葉が途切れるものの、甘ったるさが消えていた。[pcms]
+Unlike the previous men, Akari's face was contorted in agony. Her[r]
+words were cut off by the man's movements, but the sweetness had[r]
+vanished.[pcms]
 
 *1880|
 [fc]
-[ns]黒服Ｂ[nse]
-「うぉお、お嬢ちゃんのマンコ、最高ーっ！[r]
-　気持ちいいぞっ！　すげえすげえっ！　うぉおおおおっ」[pcms]
+[ns]Black Suit B[nse]
+"Woah, missy's pussy is the best! Feels so good! Amazing, amazing![r]
+Uoooooh!"[pcms]
 
 *1881|
 [fc]
-[ns]黒服Ｂ[nse]
-「だめだぁ、出る。もう限界だ。出ちまう。出すぞ、出すぞっ！[r]
-　お嬢ちゃんの中にたっぷり出してやるからなっ！！！」[pcms]
+[ns]Black Suit B[nse]
+"Can't hold it anymore, I'm at my limit. Gonna cum. I'm gonna cum![r]
+I'll fill you up plenty inside, miss!!!"[pcms]
 
 *1882|
 [fc]
 [vo_aka s="akari_st0098"]
-[ns]茜梨[nse]
-「や、やめ……ぇっ、んんっ！」[pcms]
+[ns]Akari[nse]
+"Stop, please... nnngghh!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -2689,69 +2680,67 @@
 *1883|
 [fc]
 [vo_aka s="akari_st0099"]
-[ns]茜梨[nse]
-「ぅぅ……あぁっ」[pcms]
+[ns]Akari[nse]
+"Uuu... ahhh"[pcms]
 
 *1884|
 [fc]
-茜梨の背筋にピンと力が入ったものの、あっという間にその張りは[r]
-ほどかれてしまっていた。[pcms]
+Although Akari's back tensed up, it quickly relaxed again.[pcms]
 
 *1885|
 [fc]
-[ns]黒服Ｂ[nse]
-「良かったぜー、お嬢ちゃん。ふはあ」[pcms]
+[ns]Black Suit B[nse]
+"That was great, missy. Fuhaa"[pcms]
 
 [evcg storage="akari_H005o"][trans_c cross time=300]
 
 *1886|
 [fc]
-男はすぐにペニスを引き抜き、征服感に満たされた顔つきで、[r]
-茜梨の中から流れ落ちてくる自分の精液を眺めている。[pcms]
+The man quickly withdrew his penis and looked down at his own semen[r]
+flowing out of Akari with a satisfied expression of conquest.[pcms]
 
 *1887|
 [fc]
-茜梨は、今自分の中に出した男をしかめ面でちらりと眺めた。[pcms]
+Akari glanced at the man who had just cum inside her with a grimace.[pcms]
 
 *1888|
 [fc]
-[ns]オズ[nse]
-「おいおい、へぼいヤツだな。[r]
-　見ろよ、お嬢ちゃんが不満そうじゃないか！」[pcms]
+[ns]Oz[nse]
+"Hey hey, what a lame guy. Look, the missy seems unsatisfied!"[pcms]
 
 *1889|
 [fc]
-[ns]黒服Ｂ[nse]
-「そ、そんなこと……」[pcms]
+[ns]Black Suit B[nse]
+"That's not..."[pcms]
 
 *1890|
 [fc]
-リーダー格の男に顎でクイッと促され、黒服の男は、すごすごと、[r]
-下がっていった。[pcms]
+Urged on by the leader-like man with a jerk of his chin, the black-[r]
+suited man retreated sheepishly.[pcms]
 
 *1891|
 [fc]
-[ns]オズ[nse]
-「お嬢ちゃん、俺はたっぷり可愛がってやるからなっ」[pcms]
+[ns]Oz[nse]
+"Missy, I'll take real good care of you."[pcms]
 
 *1892|
 [fc]
 [vo_aka s="akari_st0100"]
-[ns]茜梨[nse]
-「やぁ……」[pcms]
+[ns]Akari[nse]
+"No..."[pcms]
 
 [evcg storage="akari_H005p"][trans_c cross time=300]
 
 *1893|
 [fc]
-小声で拒否を示したものの、茜梨の目は、男の長く反り返り[r]
-ぬらぬらと照かるペニスに釘付けになっていた。[pcms]
+Despite her soft voice of refusal, Akari's eyes were fixed on the[r]
+man's long, curved-back penis glistening wetly.[pcms]
 
 *1894|
 [fc]
-膣の奥が即座にそのオスに反応し、ぶるるっと身震いが起こる。[r]
-自分の身体の反応に嫌悪感を感じながらも、すでに茜梨は[r]
-メスの本能に振り回されはじめていた。[pcms]
+The depths of her vagina instantly reacted to the male presence,[r]
+shuddering. Despite feeling disgusted by her body's response, Akari[r]
+was already being swept away by her feminine instincts.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -2760,300 +2749,300 @@
 *1895|
 [fc]
 [vo_aka s="akari_st0101"]
-[ns]茜梨[nse]
-「んっきゃああっ、あああああっ、ひあっああああああっっ！！」[pcms]
+[ns]Akari[nse]
+"Nnngghyaaaahh, aaaaaahhhhh, hiaaaaahhhhhhh!!"[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *1896|
 [fc]
-男が根元までひと息に挿れ、膣内の奥底のスポットに一発で[r]
-見事に命中させた。[pcms]
+The man thrust to the hilt in one breath, hitting the deep spot inside[r]
+her perfectly with one shot.[pcms]
 
 *1897|
 [fc]
-茜梨の頭を起点に肉感的な尻まで、一気に筋肉が緊張する。[r]
-強烈な一撃に、茜梨の脳内温度は沸点を超えていた。[pcms]
+From Akari's head to her voluptuous ass, all her muscles tensed at[r]
+once. The intense strike sent Akari's brain temperature soaring past[r]
+boiling point.[pcms]
 
 *1898|
 [fc]
-[ns]オズ[nse]
-「ふふっ、なんともイきやすいお嬢ちゃんだぜ」[pcms]
+[ns]Oz[nse]
+"Heh heh, what an easy-to-come missy."[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *1899|
 [fc]
-男の腰が動き出す。亀頭が抜け出しそうなほど引き抜き、[r]
-そして一気に根元まで茜梨の中に収め込む。[pcms]
+The man began to move his hips. He pulled back so much that the glans[r]
+almost slipped out and then buried himself to the root inside Akari in[r]
+one go.[pcms]
 
 *1900|
 [fc]
-ストロークの長い責めが一往復する度に、茜梨の理性は[r]
-剥がれ落ち、ついに女の本性が現れる。[pcms]
+With each long stroke back and forth, Akari's reason peeled away,[r]
+revealing her true nature as a woman.[pcms]
 
 *1901|
 [fc]
 [vo_aka s="akari_st0102"]
-[ns]茜梨[nse]
-「あああっ、凄いのっ！　スゴイのぉ！　長くて、あああっ！[r]
-　当たる、当たるの、奥に、奥に、私の私の、ひああああっ！」[pcms]
+[ns]Akari[nse]
+"Aaaaahh! It's incredible! So long and... it hits! It hits deep inside[r]
+me, my own... hiaaaaahhh!"[pcms]
 
 *1902|
 [fc]
 [vo_aka s="akari_st0103"]
-[ns]茜梨[nse]
-「んああああっ！　イイ、スゴイぃぃっ！　当たる、当たる、[r]
-　あたるあたるあたるあたるぅっ！　あひぃぃい、イイのおお！」[pcms]
+[ns]Akari[nse]
+"Aaaaahh! It's amazing! It hits, it hits, it keeps hitting me! Ahhh,[r]
+it feels so good!"[pcms]
 
 *1903|
 [fc]
-[ns]オズ[nse]
-「嬉しいねえ。気持ちいいだろう？」[pcms]
+[ns]Oz[nse]
+"Glad to hear it. Feels good, doesn't it?"[pcms]
 
 *1904|
 [fc]
 [vo_aka s="akari_st0104"]
-[ns]茜梨[nse]
-「あっあっあっ、イイ、気持ち……いいぃぃっ、ひあっ、ああっ[r]
-　あっ、そこっ、そこがっ、当たるぅ。あたるっ当たるぅぅっ！」[pcms]
+[ns]Akari[nse]
+"Ah! Ah! Yes, it feels... good, ah, there, right there, it's hitting[r]
+me. It's hitting me!"[pcms]
 
 *1905|
 [fc]
 [vo_aka s="akari_st0105"]
-[ns]茜梨[nse]
-「いいっ、あああっいいいっ、ひあああああっ、長いのがぁ、[r]
-　いいのぉ、いいの、あたるのぉ、あたるぅぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"Yes, ahhh, it feels so good, ahhhh, the long one is... it's good,[r]
+it's good, it's hitting me, it's hitting me!"[pcms]
 
 *1906|
 [fc]
-[ns]オズ[nse]
-「お嬢ちゃんの一番深いところを突いてやるからな？[r]
-　そこが気持ちいいんだろ、お嬢ちゃんは？」[pcms]
+[ns]Oz[nse]
+"I'm going to thrust into the deepest part of you, okay? That's where[r]
+it feels good for you, isn't it, missy?"[pcms]
 
 *1907|
 [fc]
 [vo_aka s="akari_st0106"]
-[ns]茜梨[nse]
-「んっいいっ…………いいっ……あっ、ああっ、あっあっ」[pcms]
+[ns]Akari[nse]
+"Yes... it's good... ah, ahh, ah!"[pcms]
 
 *1908|
 [fc]
-[ns]オズ[nse]
-「子宮の中に直接ぶちまけてやるからな。[r]
-　しっかり全部受け止めて、孕んでくれよな？」[pcms]
+[ns]Oz[nse]
+"I'm going to cum directly inside your womb. Make sure you take it all[r]
+in and get pregnant, okay?"[pcms]
 
 *1909|
 [fc]
 [vo_aka s="akari_st0107"]
-[ns]茜梨[nse]
-「ひやぁ……やっ……あっ、だめっ、あっ、それは……やっあっ、[r]
-　あっひっ、で、でもぉ、いいの……あっ、当たるぅぅ」[pcms]
+[ns]Akari[nse]
+"No... no... ah, that's bad, ah, that is... no, ah, but... it's[r]
+okay... ah, it's hitting me!"[pcms]
 
 *1910|
 [fc]
-男はわざと単調なストロークで攻め、彼女の反応を楽しんでいた。[r]
-それでも茜梨の弱点は、確実に捉えられ続けていた。[pcms]
+The man deliberately used a monotonous stroke to attack her, enjoying[r]
+her reactions. Yet Akari's weak spot was continuously being captured.[pcms]
 
 *1911|
 [fc]
-[ns]オズ[nse]
-「中が精液でズルズルだなあ、何発も出されたもんなあ。[r]
-　それでも、お嬢ちゃんの母ちゃんよりも締め付けが[r]
-　強くて、具合がいいぜ。俺のを握りしめてるぜ」[pcms]
+[ns]Oz[nse]
+"Your insides are all slippery with cum, you've been filled up so many[r]
+times. But even so, you're tighter and feel better than your mother.[r]
+You're gripping me tight."[pcms]
 
 *1912|
 [fc]
 [vo_aka s="akari_st0108"]
-[ns]茜梨[nse]
-「ひいっ……やっ、やあっ……んああっ、あっひいっ、当たるぅ[r]
-　だめ、だめだめぇ、あいいいっ、いあっ、ひっ……ひっああっ！」[pcms]
+[ns]Akari[nse]
+"Eek... no, no... ah, ahhh, it's hitting me. No, no no, ahhh, that[r]
+feels good... ah!"[pcms]
 
 *1913|
 [fc]
-[ns]オズ[nse]
-「肌も白くて綺麗だよなあ、張りがあってお嬢ちゃんのおまんこ[r]
-　同様に吸い付いてくるぜぇ」[pcms]
+[ns]Oz[nse]
+"Your skin is so white and beautiful too, firm just like your pussy[r]
+that clings onto me."[pcms]
 
 *1914|
 [fc]
 [vo_aka s="akari_st0109"]
-[ns]茜梨[nse]
-「っっっんああっ、ひっ……んんっ、あひぃっ、あっ、ああっ、[r]
-　らめぇ……だめぇ……も、うぅぅぅぅ、当たる、当たるぅ」[pcms]
+[ns]Akari[nse]
+"Ahhh... no... no... I can't take it anymore, it's hitting me, it's[r]
+hitting me!"[pcms]
 
 *1915|
 [fc]
-口が半ば開き、涎が垂れ始める。男の腰が振られるたびに、[r]
-茜梨は意識が飛びそうになるのをこらえていた。[pcms]
+Her mouth was half-open with drool beginning to drip. With every[r]
+thrust of the man's hips, Akari struggled to keep from losing[r]
+consciousness.[pcms]
 
 *1916|
 [fc]
-[ns]オズ[nse]
-「朝見た時は、袴の似合う凛としたお嬢様だったのになあ。[r]
-　なんだよ、今のザマは！　とんだ雌豚だったなっ！」[pcms]
+[ns]Oz[nse]
+"This morning you looked like a dignified young lady in your hakama.[r]
+What's with this state now? You turned out to be quite the sow!"[pcms]
 
 *1917|
 [fc]
-[ns]オズ[nse]
-「処女奪われてイきまくりやがってっ！[r]
-　おらっ！　ここがいいんだろがっ！！！」[pcms]
+[ns]Oz[nse]
+"You've been cumming non-stop since you lost your virginity! Take[r]
+this! This is what you like, isn't it?!"[pcms]
 
 *1918|
 [fc]
 [vo_aka s="akari_st0110"]
-[ns]茜梨[nse]
-「！！　んお゛っっっ！！　んおおおお゛っ！！」[pcms]
+[ns]Akari[nse]
+"!! Nghhhhh!! Nghoooooo!!"[pcms]
 
 *1919|
 [fc]
-茜梨の尻肉が波打ち、男の腰でバツンバツンと叩かれる。[r]
-早く力強いストロークに切り替わり、弱点を攻められ、[r]
-もはや茜梨はメスそのものに、成り果てていた。[pcms]
+Akari's butt flesh rippled as the man slapped it with his hips. The[r]
+strokes became faster and more powerful, attacking her weak spot. By[r]
+now Akari had completely become a female in heat.[pcms]
 
 *1920|
 [fc]
 [vo_aka s="akari_st0111"]
-[ns]茜梨[nse]
-「んお゛……っ、んあ゛……ああっ、ぐぅうぅぅっ、あ゛ああ゛」[pcms]
+[ns]Akari[nse]
+"Ngh... ah... ahhh, guuuuuhh, ahhhh!"[pcms]
 
 *1921|
 [fc]
-[ns]オズ[nse]
-「もっと、大声で鳴けっ！　もっと気持ちよくなるぞっ！[r]
-　おらっ！　淫乱嬢ちゃんっ！　もっと締めまくれっ！！！」[pcms]
+[ns]Oz[nse]
+"Moan louder! You'll feel even better! Take this! You lewd missy![r]
+Tighten up more!!"[pcms]
 
 *1922|
 [fc]
 [vo_aka s="akari_st0112"]
-[ns]茜梨[nse]
-「んああああ゛あ゛あ゛っ！　お゛お゛お゛お゛お゛っっ！！[r]
-　い゛い゛いいいいっ、あああっ、んあああっ、あた゛る゛ぅ」[pcms]
+[ns]Akari[nse]
+"Aaaaaahhh! Oooooohhh! It feels so good, ahhh, I'm going to cum!"[pcms]
 
 *1923|
 [fc]
 [vo_aka s="akari_st0113"]
-[ns]茜梨[nse]
-「あああ゛あああ゛あ、い゛いい゛いいい、おお゛お゛おおおおっ[r]
-　き゛も゛ち゛いい゛ぃぃぃっ！　深……いぃ。あ゛たる゛ぅっ」[pcms]
+[ns]Akari[nse]
+"Aaaaaahh! It feels so good! Ohhhhh! It's deep... it's hitting me!"[pcms]
 
 *1924|
 [fc]
-[ns]オズ[nse]
-「くくくっ、いいぜ、いいぜお嬢ちゃん。[r]
-　どうだ、もうイきそうなんだろ？　俺もイけそうだぜっ。[r]
-　イくんだろ？　イきそうなんだろっ？　どうなんだっ！」[pcms]
+[ns]Oz[nse]
+"Hahaha, that's right missy. How about it? You're about to cum again,[r]
+aren't you? I'm close too. You're going to cum? You're about to cum,[r]
+right? What do you say?!"[pcms]
 
 *1925|
 [fc]
 [vo_aka s="akari_st0114"]
-[ns]茜梨[nse]
-「…………ィくぅ……」[pcms]
+[ns]Akari[nse]
+"...I'm cumming..."[pcms]
 
 *1926|
 [fc]
-[ns]オズ[nse]
-「なんだって、聞えねえなあ。いいのか、やめちまうぞっ！」[pcms]
+[ns]Oz[nse]
+"What was that? I can't hear you. Is that okay? I'll stop then!"[pcms]
 
 *1927|
 [fc]
 [vo_aka s="akari_st0115"]
-[ns]茜梨[nse]
-「……イ……くっ……あっ、やめちゃ……や……っああ゛ああ゛」[pcms]
+[ns]Akari[nse]
+"...I'm... cumming... ah, don't stop... please..."[pcms]
 
 *1928|
 [fc]
-[ns]オズ[nse]
-「もっとでけえ声で言えっ！　やめんぞ、こらっ！」[pcms]
+[ns]Oz[nse]
+"Say it louder! I'll stop if you don't!"[pcms]
 
 *1929|
 [fc]
 [vo_aka s="akari_st0116"]
-[ns]茜梨[nse]
-「イきま……す……イく……イっちゃう……イく、イくぅ、[r]
-　イくのぉ、イっちゃうのぉ、お願……い、やめないでぇ…ああ」[pcms]
+[ns]Akari[nse]
+"I'm going to cum... I'm cumming... I'm cumming... please... don't[r]
+stop..."[pcms]
 
 *1930|
 [fc]
-[ns]オズ[nse]
-「はははっ、お願いされてやるよ。犯されてイくんだな？[r]
-　[ruby text="ま　わ"][ch text="輪姦"]されて、イくんだなっ？　どうなんだよっ！」[pcms]
+[ns]Oz[nse]
+"Hahaha, since you're begging for it. You're getting fucked and[r]
+cumming? Getting gangbanged and cumming? What do you say?!"[pcms]
 
 *1931|
 [fc]
 [vo_aka s="akari_st0117"]
-[ns]茜梨[nse]
-「お、犯されてイくっ！　ま、まわされてイくぅっ！[r]
-　イくの、イかせてぇ、イっちゃうの、イっちゃ、あああんんんっ」[pcms]
+[ns]Akari[nse]
+"I'm getting fucked and cumming! I'm getting passed around and[r]
+cumming! I'm going to cum, please make me cum, I'm cumming!"[pcms]
 
 *1932|
 [fc]
 [vo_aka s="akari_st0118"]
-[ns]茜梨[nse]
-「も、らめえ……イっちゃう、イくぅ、イくぅ、あああおおお゛っ[r]
-　イ、かせ、てぇっ！　イく゛ぅ゛イく゛う゛、おお゛あ゛っっ」[pcms]
+[ns]Akari[nse]
+"No more... I'm cumming, I'm going to cum, oh my god I'm cumming! Make[r]
+me cum! I'm cummingggg!"[pcms]
 
 *1933|
 [fc]
-[ns]オズ[nse]
-「今度イったら、何回目になんだよ。言ってみな、嬢ちゃんっ！」[pcms]
+[ns]Oz[nse]
+"If you cum this time, how many times will that be? Tell me missy!"[pcms]
 
 *1934|
 [fc]
 [vo_aka s="akari_st0119"]
-[ns]茜梨[nse]
-「ひあ゛あっ、ろ゛、６回目ぇええぇっ！　ろ゛ろ゛ろ゛……！[r]
-　ひあああ゛ああ゛あっ、あお゛おお゛おお゛おっっっっ！！！」[pcms]
+[ns]Akari[nse]
+"Ahhh! Six... the sixth timeee! Six... Ahhhhh!"[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *1935|
 [fc]
-[ns]オズ[nse]
-「おいおい、俺はまだ出してないぜ。勝手にイってんじゃねーよ。[r]
-　おら、子宮に直接ザーメン流し込んでやるから、[r]
-　一滴残らず受け止めんだぞっ！！」[pcms]
+[ns]Oz[nse]
+"Hey hey, I haven't even cum yet. Don't go cumming on your own. Here[r]
+comes my semen directly into your womb. Make sure you take every[r]
+drop!!"[pcms]
 
 *1936|
 [fc]
-男は更にストロークを早めた。最速のピストン運動。[r]
-その動きに今絶頂に達したばかりなのに茜梨の身体は喜んでいた。[pcms]
+The man quickened his strokes even more. The fastest piston movement.[r]
+Despite just having climaxed, Akari's body was rejoicing at the[r]
+movement.[pcms]
 
 *1937|
 [fc]
 [vo_aka s="akari_st0120"]
-[ns]茜梨[nse]
-「う゛おおお゛っ、お゛っ！　出、してぇっ！　出して、出してぇ。[r]
-　また、またイっちゃうぅ。イくから、中、中にぃいいいいっ！」[pcms]
+[ns]Akari[nse]
+"Ughhhhh! Cum inside me! Cum inside me please. I'm going to cum again.[r]
+Cum inside me!"[pcms]
 
 *1938|
 [fc]
 [vo_aka s="akari_st0121"]
-[ns]茜梨[nse]
-「出して、出して出して、イく、イくっ、イくぅぅっ、中、[r]
-　中にぶ、ちまけてぇ、ぶちまけてぇ、出してぇっっ」[pcms]
+[ns]Akari[nse]
+"Cum inside me, cum inside me please. I'm going to cum, I'm[r]
+cummingggg! Fill me up inside."[pcms]
 
 *1939|
 [fc]
 [vo_aka s="akari_st0122"]
-[ns]茜梨[nse]
-「も、もうだめぇ、またまたまた、イいいい、くぅぅぅっ！[r]
-　欲しいぅっ！　欲しいぃぃっ、中に、ぶち、まけてぇっっ！！」[pcms]
+[ns]Akari[nse]
+"I can't take it anymore... I'm going to cum again and again and[r]
+again! I want it! I want your cum inside me!!"[pcms]
 
 *1940|
 [fc]
-[ns]オズ[nse]
-「おら、お望みどおり、ぶちまけてやるよっっ！！！！」[pcms]
+[ns]Oz[nse]
+"Here you go, just as you wished for. I'll fill you up!!"[pcms]
 
 *1941|
 [fc]
 [vo_aka s="akari_st0123"]
-[ns]茜梨[nse]
-「んぐぅっおお゛おお゛おお゛っ！　イ゛く゛イ゛く゛、[r]
-　イ゛く゛、いいいい゛いいっ、ああああああっあっああっ！！」[pcms]
+[ns]Akari[nse]
+"Nghhhhh! I'm cummingggg! Cummingggg! Cummingggg! Ahhhhh!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -3070,31 +3059,30 @@
 *1942|
 [fc]
 [vo_aka s="akari_st0124"]
-[ns]茜梨[nse]
-「い゛い゛い゛い゛い゛い゛い゛い゛い゛い゛い゛い゛い゛い゛[r]
-　あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛」[pcms]
+[ns]Akari[nse]
+"Eeeeee! Aaaaaaah! Aaaaaaah! Aaaaaaah!"[pcms]
 
 *1943|
 [fc]
-[ns]オズ[nse]
-「うっくうっ！」[pcms]
+[ns]Oz[nse]
+"Ugh, ugh!"[pcms]
 
 *1944|
 [fc]
-茜梨の身体全体が律動する。痙攣の発作でも起こしたかのように[r]
-細かく震え、そして胎内では、子宮が、膣が、男の精子を[r]
-全て搾り取ろうと蠢いていた。[pcms]
+Akari's entire body was convulsing. It trembled minutely as if she was[r]
+having a seizure, and inside her womb, her uterus and vagina were[r]
+writhing, trying to squeeze out every last drop of the man's sperm.[pcms]
 
 *1945|
 [fc]
 [vo_aka s="akari_st0125"]
-[ns]茜梨[nse]
-「んあぁぁぁぁぁ……ぁっあっああっ……ひあっぁっ……」[pcms]
+[ns]Akari[nse]
+"Nghaaaa... ah! Ah! Ahhh... hiaaah...!"[pcms]
 
 *1946|
 [fc]
-[ns]オズ[nse]
-「凄えな。たまんない身体のお嬢ちゃんだぜ……」[pcms]
+[ns]Oz[nse]
+"Damn, you're amazing. What a body you have, missy..."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -3102,39 +3090,41 @@
 
 *1947|
 [fc]
-満足そうな顔をして男は茜梨の子宮口の中から自分のペニスを[r]
-引き抜いた。おびただしい量の精液が、膣口からほとばしる。[pcms]
+With a satisfied look, the man pulled his penis out from inside[r]
+Akari's cervix. A copious amount of semen gushed out from her vaginal[r]
+opening.[pcms]
 
 [evcg storage="akari_H005s"][trans_c cross time=300]
 
 *1948|
 [fc]
 [vo_aka s="akari_st0126"]
-[ns]茜梨[nse]
-「ひやぁぁぁ……」[pcms]
+[ns]Akari[nse]
+"Hyaaaa..."[pcms]
 
 *1949|
 [fc]
-意識していなかった流体の感触に、茜梨は思わず声を漏らした。[pcms]
+Unconsciously feeling the sensation of the fluid, Akari let out an[r]
+involuntary cry.[pcms]
 
 *1950|
 [fc]
-[ns]黒服Ｃ[nse]
-「こ、今度は俺の番だ。代わってくれっ！」[pcms]
+[ns]Black Suit C[nse]
+"It's my turn now. Move over!"[pcms]
 
 *1951|
 [fc]
-[ns]オズ[nse]
-「ああ、可愛がってやれよ、たっぷりとな」[pcms]
+[ns]Oz[nse]
+"Yeah, take good care of her, give her plenty."[pcms]
 
 *1952|
 [fc]
-男はにやっと笑うと、身繕いをしながらその場を離れた。[pcms]
+The man grinned and left the scene, fixing himself up as he went.[pcms]
 
 *1953|
 [fc]
-[ns]黒服Ｃ[nse]
-「うはああ、すげえ、どろどろでピンクのマンコだっ！」[pcms]
+[ns]Black Suit C[nse]
+"Whoa, amazing, such a dripping wet pink pussy!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -3142,18 +3132,18 @@
 
 *1954|
 [fc]
-次の男は、慌ただしく己のペニスを茜梨の中に[r]
-ズブリと差し込んだ。[pcms]
+The next man hurriedly plunged his penis deep into Akari.[pcms]
 
 *1955|
 [fc]
 [vo_aka s="akari_st0127"]
-[ns]茜梨[nse]
-「あっ、あああっ、あ゛あ゛あ゛あ゛っ！」[pcms]
+[ns]Akari[nse]
+"Ah! Aaaaah! Aaaaaah!"[pcms]
 
 *1956|
 [fc]
-茜梨はすぐに快楽におぼれた声を上げ、腰を振り始めた。[pcms]
+Akari immediately raised her voice in pleasure and began to move her[r]
+hips.[pcms]
 
 
 
@@ -3178,8 +3168,8 @@
 
 *1957|
 [fc]
-[ns]稼津央[nse]
-「……やれやれ。見てられないな」[pcms]
+[ns]Kazuo[nse]
+"...Good grief. I can't watch this."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -3193,8 +3183,8 @@
 
 *1958|
 [fc]
-壁際で二人の痴態を黙して眺めていた稼津央は、[r]
-そうひとりごちて、土蔵から出て行った。[pcms]
+Watching the lewd scene in silence from the side of the room, Kazuo[r]
+muttered to himself and left the storehouse.[pcms]
 
 ;//めも：ここから視点をかづおにしてもいいかも？
 ;//めも：しかし立ち絵は貼る。
@@ -3203,89 +3193,91 @@
 
 *1959|
 [fc]
-[ns]稼津央[nse]
-「…………」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 [bgm storage="BGM15"]
 ;//♪bgm15　シリアス：嫌疑：思考
 
 *1960|
 [fc]
-稼津央は美沙緒のノートパソコンを開き、中を見ながら[r]
-片手に衛星回線の携帯電話を持ち、なにやら話し込んでいた。[pcms]
+Kazuo opened Misao's laptop and began to look through it while holding[r]
+a satellite phone in one hand, deeply engaged in conversation.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1961|
 [fc]
-[ns]稼津央[nse]
-「ええ、そうです。ご要望に叶うものだと思いますよ。[r]
-　……え？　ああ、そちらの方は手違いがありまして……」[pcms]
+[ns]Kazuo[nse]
+"Yes, I believe it will meet your requirements. ...What? Oh, there was[r]
+a slight mishap on that end..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1962|
 [fc]
-[ns]稼津央[nse]
-「はい。仕方ないですね。でも何かしら埋め合わせは考えますよ」[pcms]
+[ns]Kazuo[nse]
+"Yes. It can't be helped. But we'll think of some sort of[r]
+compensation."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1963|
 [fc]
-[ns]稼津央[nse]
-「ええ、それでは。先ほど打ち合わせた時間と場所で……[r]
-　ええ、よろしくお願いします」[pcms]
+[ns]Kazuo[nse]
+"Yes, that's right. We'll meet at the time and place we discussed[r]
+earlier... Yes, thank you."[pcms]
 
 *1964|
 [fc]
-すぐ後ろには、何事も無かったかのような顔で、[r]
-例の黒服のリーダー格の男が立ち、稼津央の様子を眺めていた。[pcms]
+Right behind him stood the leader of the black suits, watching Kazuo[r]
+with an expression as if nothing had happened.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1965|
 [fc]
-[ns]稼津央[nse]
-「ふう……まあ、仕方か無いかな」[pcms]
+[ns]Kazuo[nse]
+"Phew... Well, it can't be helped."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1966|
 [fc]
-携帯を閉じると、稼津央は黒服の方へと振り返った。[pcms]
+Closing his phone, Kazuo turned to face the black suit.[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz04"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *1967|
 [fc]
-[ns]稼津央[nse]
-「そろそろ時間なんだが……まだ中に居るやつもいるのか？」[pcms]
+[ns]Kazuo[nse]
+"It's about time... Are there still people inside?"[pcms]
 
 [ChrSetEx layer=3 chbase="oz1_su"][ChrSetParts layer=3 chface="F1_oz01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1968|
 [fc]
-[ns]オズ[nse]
-「ええ。えらくボーナスが気に入ったようで……」[pcms]
+[ns]Oz[nse]
+"Yes. They seem to be quite fond of the bonus..."[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz02"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *1969|
 [fc]
-[ns]稼津央[nse]
-「……そうか。まあ最後の挨拶もしたいから、僕が中にいくよ」[pcms]
+[ns]Kazuo[nse]
+"...I see. Well, I want to say my final goodbyes, so I'll go inside."[pcms]
 
 *1970|
 [fc]
-[ns]オズ[nse]
-「お手数をおかけしますが、よろしくお願いします」[pcms]
+[ns]Oz[nse]
+"I apologize for the inconvenience, but thank you."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1971|
 [fc]
-軽く頭を下げる黒服達に見送られ、稼津央は再び土蔵へと向かった。[pcms]
+With a slight bow from the black suits seeing him off, Kazuo headed[r]
+back into the storehouse.[pcms]
 
 ;//★_土蔵入り口
 ;//★bg13a 越智本家 外観＆前庭・朝昼　とりあえずこれで
@@ -3298,22 +3290,23 @@
 
 *1971a|
 [fc]
-[ns]稼津央[nse]
-「うっぷ……」[pcms]
+[ns]Kazuo[nse]
+"Ugh..."[pcms]
 
 *1972|
 [fc]
-栗の花のような匂いと、まったく違う生臭いような、それでいて[r]
-男心をくすぐるような匂いが充満していた。[r]
-密閉性の良い土蔵の造りが、より堅固に匂いをそこに留めていた。[pcms]
+The storehouse was filled with a smell like chestnut blossoms mixed[r]
+with a raw scent that tickled a man's heart. The well-sealed[r]
+construction of the storehouse trapped the odors firmly inside.[pcms]
 
 *1973|
 [fc]
-稼津央は思わず顔をしかめ、袖口で鼻を覆う。[pcms]
+Kazuo involuntarily frowned and covered his nose with his sleeve.[pcms]
 
 *1974|
 [fc]
-その先では、未だに本能のまま身体を動かす人影が見られた。[pcms]
+In front of him, shadows were still moving according to their[r]
+instincts.[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
@@ -3322,57 +3315,56 @@
 
 *1975|
 [fc]
-[ns]元ＳＰ[nse]
-「美沙緒お嬢様っ！　美沙緒お嬢様っ！　気持ちいいですか？」[pcms]
+[ns]Former SP[nse]
+"Miss Misao! Miss Misao! Does it feel good?"[pcms]
 
 *1976|
 [fc]
-身体をくまなく精液で汚された美沙緒が、うつろな表情で[r]
-横たわっていた。[pcms]
+Misao lay there with a vacant expression, her body covered in semen[r]
+from head to toe.[pcms]
 
 *1977|
 [fc]
-その身体は、美沙緒の中に挿入されたペニスによって[r]
-ゆさゆさと揺さぶられ続けていた。[pcms]
+Her body continued to be rocked gently by the penis inserted inside[r]
+Misao.[pcms]
 
 *1978|
 [fc]
 [vo_mis s="misao_st0102"]
-[ns]美沙緒[nse]
-「………………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *1979|
 [fc]
-男がどんなに腰を振ろうと、腰を回そうと、呼びかけようと、[r]
-美沙緒はまったく反応していなかった。[pcms]
+No matter how much the man thrust or gyrated his hips or called out to[r]
+her, Misao showed no response at all.[pcms]
 
 *1980|
 [fc]
-だが、男にとっても、それはどうでもいい事でしかなかった。[r]
-自分の欲望を以前から渇望していた女の中に吐き出す。[r]
-それだけで十分だったのだ。[pcms]
+But for the man, that didn't matter at all. He was simply spilling his[r]
+desires into a woman he had longed for. That was enough for him.[pcms]
 
 *1981|
 [fc]
-[ns]元ＳＰ[nse]
-「うおおおっ、淫乱で嬉しいですよ、美沙緒お嬢様っ！[r]
-　ぬるぬるでぐちょぐちょのおまんこに、また差し上げますからね」[pcms]
+[ns]Former SP[nse]
+"Uoooo, I'm so happy you're such a slut, Miss Misao! I'll give it to[r]
+you again in your slimy, soaking wet pussy."[pcms]
 
 *1982|
 [fc]
 [vo_mis s="misao_st0103"]
-[ns]美沙緒[nse]
-「……っ、……っ」[pcms]
+[ns]Misao[nse]
+"...h, ...h"[pcms]
 
 *1983|
 [fc]
-男の腰の動きが早まる。美沙緒の頭は、その腰使いと[r]
-同じスピードでがくがくと揺れ続けていた。[pcms]
+The man's hip movements sped up. Misao's head continued to shake at[r]
+the same speed as his thrusting.[pcms]
 
 *1984|
 [fc]
-[ns]元ＳＰ[nse]
-「また、また出させていただきますっ！　美沙緒お嬢様ぁぁっ！」[pcms]
+[ns]Former SP (Security Police)[nse]
+"I'm going to cum again! Miss Misaoaaa!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -3388,19 +3380,19 @@
 
 *1985|
 [fc]
-[ns]元ＳＰ[nse]
-「ふおおおおおおっ、出した、また出したぞっ！」[pcms]
+[ns]Former SP (Security Police)[nse]
+"Fuoohhhhh, I came, I came again!"[pcms]
 
 *1986|
 [fc]
 [vo_mis s="misao_st0104"]
-[ns]美沙緒[nse]
-「………………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *1987|
 [fc]
-美沙緒の心も体も、もはや何の反応も見せていなかった。[r]
-それなのに、男はまた腰を動かし始めていた。[pcms]
+Misao's heart and body no longer showed any response. Yet the man[r]
+began to move his hips again.[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
@@ -3409,58 +3401,57 @@
 
 *1988|
 [fc]
-[ns]黒服Ｂ[nse]
-「くそっ、何がへぼいだっ！　くそ、くそっ！！」[pcms]
+[ns]Black Suit B[nse]
+"Damn it, who's the weak one now! Shit, shit!!"[pcms]
 
 *1989|
 [fc]
 [vo_aka s="akari_st0128"]
-[ns]茜梨[nse]
-「………………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *1990|
 [fc]
-茜梨も身体中に満遍なく精液を浴びせられ、散々男達に[r]
-犯され続け、イかされ続け、何も考えられない状態だった。[pcms]
+Akari too was covered in semen from head to toe, continuously violated[r]
+and brought to climax by the men, unable to think of anything.[pcms]
 
 *1991|
 [fc]
-先ほど、リーダー格にへぼよばわりされた黒服の男が、[r]
-ただひたすら、茜梨を犯し続けていた。[pcms]
+The black-suited man who had been called a weakling by the leader was[r]
+relentlessly continuing to violate Akari.[pcms]
 
 *1992|
 [fc]
-[ns]黒服Ｂ[nse]
-「満足させてやる……っ、ふっ、ふっ、ふっ！！」[pcms]
+[ns]Black Suit B[nse]
+"I'll satisfy you...huh, huh, huh!!"[pcms]
 
 *1993|
 [fc]
 [vo_aka s="akari_st0129"]
-[ns]茜梨[nse]
-「………………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *1994|
 [fc]
-男のピストン運動は単調なままで、ただしつこく中を擦り上げ、[r]
-結合部からねちゃねちゃと隠微な音を出させている[r]
-だけでしかなかった。[pcms]
+The man's piston movements were monotonous, merely persistently[r]
+rubbing inside and making squelching noises from the coupling.[pcms]
 
 *1995|
 [fc]
-男が彼女の尻に打ち付ける、肉と肉とが打ち合う音。[r]
-結合部からの湿った音。そして男の洗い息づかいだけが、[r]
-茜梨の周りで発せられていた。[pcms]
+The sound of flesh hitting flesh as the man pounded her ass. The wet[r]
+sounds from their joining parts. And the man's heavy breathing were[r]
+the only sounds surrounding Akari.[pcms]
 
 *1996|
 [fc]
-犯されている茜梨はぐらぐらと身体を揺さぶられるだけで、[r]
-まるで人形のように相手に身体をまかせ、そして、人間らしい[r]
-反応は何一つしていなかった。[pcms]
+The violated Akari was merely shaken, her body swaying like a doll,[r]
+passively leaving herself to her partner without showing any human-[r]
+like response.[pcms]
 
 *1997|
 [fc]
-[ns]黒服Ｂ[nse]
-「ふっ、ふっ、ふっ………………うおっ！」[pcms]
+[ns]Black Suit B[nse]
+"Huh, huh, huh...uooh!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -3476,25 +3467,25 @@
 *1998|
 [fc]
 [vo_aka s="akari_st0130"]
-[ns]茜梨[nse]
-「………………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *1999|
 [fc]
-男の精液が、ふたたび茜梨の中にぶちまけられても、[r]
-彼女は何の反応も見せなかった。[pcms]
+Even as the man's semen was once again spilled inside Akari, she[r]
+showed no reaction.[pcms]
 
 *2000|
 [fc]
-男は、その様をひと睨みすると、また腰を動かし始めた。[pcms]
+The man glanced at her and began moving his hips again.[pcms]
 
 ;//★bg15a 越智本家 土蔵・点灯
 [bg storage="BG15a"][trans_c cross time=500]
 
 *2001|
 [fc]
-[ns]稼津央[nse]
-「……ちっ」[pcms]
+[ns]Kazuo[nse]
+"...Tch"[pcms]
 
 ;//■_銃声（続けて２発）
 [se buf=1 storage="seC048"]
@@ -3506,8 +3497,8 @@
 
 *2002|
 [fc]
-短く舌打ちをすると、稼津央は手にしていた銃で、[r]
-土蔵に残っていた黒服の男２人を撃ち殺した。[pcms]
+With a short click of his tongue, Kazuo shot and killed the two black-[r]
+suited men remaining in the storehouse with the gun he was holding.[pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
@@ -3517,37 +3508,36 @@
 
 *2003|
 [fc]
-美沙緒、茜梨、それぞれの横にどっと男が倒れ込む。[r]
-それでも、美沙緒も茜梨も、何の反応も見せなかった。[pcms]
+Men collapsed beside Misao and Akari respectively. Still, neither[r]
+Misao nor Akari showed any reaction.[pcms]
 
 *2004|
 [fc]
-稼津央は美沙緒に近づき、転がっている男を足で蹴ってどかし、[r]
-彼女の顔を覗き込むように、腰をかがめた。[pcms]
+Kazuo approached Misao, kicked aside the man lying on the ground with[r]
+his foot, and bent down to peer into her face.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2005|
 [fc]
-[ns]稼津央[nse]
-「姉さん、時間だから僕はそろそろ行くからね。[r]
-　悪いんだけど、人数が多いからさ、姉さんのボート[r]
-　借りていくからね」[pcms]
+[ns]Kazuo[nse]
+"Sister, it's time for me to go soon. Sorry, but since there are so[r]
+many people, I'm going to borrow your boat."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2006|
 [fc]
-[ns]稼津央[nse]
-「代わりって訳じゃないけどさ、僕のリムジン。[r]
-　自由に使っていいから」[pcms]
+[ns]Kazuo[nse]
+"It's not exactly a replacement, but feel free to use my limousine as[r]
+you like."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2007|
 [fc]
-そう言うと、稼津央はポケットから車のキーを出し、[r]
-美沙緒の顔の前に投げ捨てた。[pcms]
+Saying that, Kazuo took out car keys from his pocket and threw them in[r]
+front of Misao's face.[pcms]
 
 [se buf=0 storage="seA055"]
 ;//チャリン
@@ -3555,46 +3545,47 @@
 *2008|
 [fc]
 [vo_mis s="misao_st0105"]
-[ns]美沙緒[nse]
-「……っ」[pcms]
+[ns]Misao[nse]
+"...h"[pcms]
 
 *2009|
 [fc]
-チャリンと響く金属製の音に、微かに美沙緒が反応していた。[pcms]
+The metallic sound of the keys clinking elicited a faint response from[r]
+Misao.[pcms]
 
 *2010|
 [fc]
-その様子を見ながら稼津央は曲げていた腰を伸ばし、[r]
-土蔵の入り口に向かって歩き出す。[pcms]
+Watching her reaction, Kazuo straightened his bent back and started[r]
+walking towards the entrance of the storehouse.[pcms]
 
 *2011|
 [fc]
-[ns]稼津央[nse]
-「ああ、そうだ……」[pcms]
+[ns]Kazuo[nse]
+"Ah, that's right..."[pcms]
 
 *2012|
 [fc]
-振り向きながら、付け足すかのように稼津央が口を開いた。[pcms]
+Turning around as if adding an afterthought, Kazuo spoke up.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2013|
 [fc]
-[ns]稼津央[nse]
-「さっきね、動かしてみたら正門が閉じなくなってしまったんだ。[r]
-　あの分だと、ヤツラが入ってくるだろうから、逃げるんなら[r]
-　なるべく早くね」[pcms]
+[ns]Kazuo[nse]
+"You know, when I tried it earlier, the main gate wouldn't close. If[r]
+they're coming in that way, you should escape as soon as possible if[r]
+you're going to."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2014|
 [fc]
-[ns]稼津央[nse]
-「それじゃあ、姉さん。さようなら」[pcms]
+[ns]Kazuo[nse]
+"Well then, sister. Goodbye."[pcms]
 
 *2015|
 [fc]
-稼津央は、ゆっくりと土蔵から出て行った。[pcms]
+Kazuo slowly exited the storehouse.[pcms]
 
 ;//★_土蔵外部
 ;//★bg13a 越智本家 外観＆前庭・朝昼
@@ -3608,36 +3599,37 @@
 
 *2016|
 [fc]
-土蔵の入り口の外には、黒服達が稼津央が出てくるのを[r]
-待ちかねるように、並んで立っていた。[pcms]
+Outside the entrance of the storehouse, black-suited men were lined up[r]
+as if they couldn't wait for Kazuo to come out.[pcms]
 
 *2017|
 [fc]
-[ns]オズ[nse]
-「中に残っていたものはどうしました？」[pcms]
+[ns]Oz[nse]
+"What did you do with those left inside?"[pcms]
 
 *2018|
 [fc]
-[ns]稼津央[nse]
-「ああ、置いていくよ。ちょっと目障りだったしね……」[pcms]
+[ns]Kazuo[nse]
+"Ah, I left them behind. They were a bit of an eyesore..."[pcms]
 
 *2019|
 [fc]
-[ns]オズ[nse]
-「……そうですか」[pcms]
+[ns]Oz[nse]
+"...I see."[pcms]
 
 *2020|
 [fc]
-[ns]稼津央[nse]
-「…………」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2021|
 [fc]
-稼津央を先頭に黒服達は裏門に向かった。[r]
-パネルを操作して裏門を開けると、港へ向かう小路にも[r]
-感染者がうろついているのが、見て取れた。[pcms]
+Leading the way, Kazuo and the men in black suits headed towards the[r]
+back gate. When they opened the gate using the control panel, they[r]
+could see infected people wandering around the path leading to the[r]
+harbor.[pcms]
 
 ;//★_越智家裏門
 ;//★BG13a 越智家 裏手の港・朝昼　裏門の絵はなかったような
@@ -3645,24 +3637,24 @@
 
 *2022|
 [fc]
-[ns]稼津央[nse]
-「やれやれ……ずいぶんと増えたな。走り抜けないと無理だな」[pcms]
+[ns]Kazuo[nse]
+"Good grief... there's a lot more of them. We'll have to run through."[pcms]
 
 *2023|
 [fc]
-うんざりした表情で稼津央がつぶやく。[r]
-しかし、ハタと思い直す。[pcms]
+With a look of disgust, Kazuo muttered to himself. However, he then[r]
+had a second thought.[pcms]
 
 *2024|
 [fc]
-[ns]稼津央[nse]
-「そうか……こいつらを１匹生け捕りに出来れば、[r]
-　約束の半分の金は手に入るな……」[pcms]
+[ns]Kazuo[nse]
+"That's right... if I can capture one of these creatures alive, I can[r]
+get half of the promised money..."[pcms]
 
 *2025|
 [fc]
-黒服達に命令を下そうと後ろを振り向くと、黒服達全員が[r]
-裏門から出払い、門が閉まったところだった。[pcms]
+As he turned to give orders to his men in black suits, he saw that[r]
+they had all left through the back gate, which was now closing.[pcms]
 
 ;//■_銃声
 [se buf=1 storage="seC048"]
@@ -3670,28 +3662,28 @@
 
 *2026|
 [fc]
-稼津央は何の迷いもなく、操作パネルを銃撃し作動不能の[r]
-状態に仕向けた。[pcms]
+Without any hesitation, Kazuo shot the control panel with his gun,[r]
+rendering it inoperable.[pcms]
 
 *2027|
 [fc]
-[ns]稼津央[nse]
-「姉さんは、娘と父さんと、この屋敷でゆっくり眠ってくれ。[r]
-　僕は、血脈の呪いから解き放たれて晴れて自由の身になったよ」[pcms]
+[ns]Kazuo[nse]
+"Sister, you can rest peacefully here in this mansion with your[r]
+daughter and father. I have been freed from the curse of our bloodline[r]
+and am now truly free."[pcms]
 
 *2028|
 [fc]
-狂気を宿した目で、にんまりと稼津央は微笑んだ。[pcms]
+With madness in his eyes, Kazuo smiled slyly.[pcms]
 
 *2029|
 [fc]
-[ns]稼津央[nse]
-「さて、行くか」[pcms]
+[ns]Kazuo[nse]
+"Well then, shall we go?"[pcms]
 
 *2030|
 [fc]
-踵を返した稼津央。[r]
-その言葉が、最期の言葉となった。[pcms]
+Kazuo turned on his heel. Those words would be his last.[pcms]
 
 ;//■_銃声
 [se buf=1 storage="seC048"]
@@ -3701,8 +3693,8 @@
 
 *2031|
 [fc]
-背後から頭に１発くらい、顔面を吹き飛ばされる。[r]
-どおっと、稼津央は前方に倒れ込み、二度と動くことはなかった。[pcms]
+A single shot to the head from behind blew his face off. With a thud,[r]
+Kazuo fell forward and never moved again.[pcms]
 
 [chara_int_top][trans_c cross time=300]
 
@@ -3710,69 +3702,70 @@
 
 *2032|
 [fc]
-[ns]オズ[nse]
-「あんたのお役目は、ここで終わりだよ。[r]
-　胸くそ悪い復讐劇とやらにつきあったんだ。[r]
-　少しは感謝してくれよ。もっともボーナスは良かったけどな」[pcms]
+[ns]Oz[nse]
+"Your role ends here. I've put up with your disgusting revenge drama.[r]
+You should be a bit grateful. The bonus was good, though."[pcms]
 
 *2033|
 [fc]
-そう言い放つ男の手には、銃が握られていた。[pcms]
+The man who spoke held a gun in his hand.[pcms]
 
 *2034|
 [fc]
-[ns]黒服Ａ[nse]
-「……首尾は？」[pcms]
+[ns]Black Suit A[nse]
+"...How did it go?"[pcms]
 
 *2035|
 [fc]
-[ns]オズ[nse]
-「ああ、大丈夫さ。取引の場所と時間は、手に入れてある。[r]
-　大金が手に入ったら、中東あたりで、次の仕事でも探すか」[pcms]
+[ns]Oz[nse]
+"Yeah, it's all good. I've got the location and time for the deal.[r]
+Once we get the big money, maybe we'll look for the next job somewhere[r]
+in the Middle East."[pcms]
 
 *2036|
 [fc]
-[ns]黒服Ａ[nse]
-「そうですね。まずは、港を目指しますか」[pcms]
+[ns]Black Suit A[nse]
+"That sounds good. Shall we head for the harbor first?"[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_su"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2037|
 [fc]
-[ns]オズ[nse]
-「ああ。わらわらいやがるな。さて、駆け抜けるぞ」[pcms]
+[ns]Oz[nse]
+"Yeah. They're swarming all over the place. Alright, let's run[r]
+through."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2038|
 [fc]
-男は屍と化した稼津央からノートパソコンを拾い上げると、[r]
-先陣を切って駆け出した。[pcms]
+The man picked up a laptop from Kazuo's lifeless body and took the[r]
+lead as he started running.[pcms]
 
 *2039|
 [fc]
-のたりのたりと近づく感染者を、巧みなさばきですり抜け、[r]
-あっという間に黒服達は見えなくなっていった。[pcms]
+They skillfully dodged the approaching infected, and in no time at[r]
+all, the men in black suits were out of sight.[pcms]
 
 *2040|
 [fc]
-[ns]感染者１[nse]
-「……うまそうな、匂い、する……」[pcms]
+[ns]Infected 1[nse]
+"...smells like tasty food..."[pcms]
 
 *2041|
 [fc]
-[ns]感染者２[nse]
-「はら、へった……」[pcms]
+[ns]Infected 2[nse]
+"I'm hungry..."[pcms]
 
 *2042|
 [fc]
-新鮮な血の臭いに惹かれて、感染者達がゆっくりと[r]
-稼津央の遺体に群がり始める。[pcms]
+Attracted by the smell of fresh blood, the infected began to slowly[r]
+gather around Kazuo's corpse.[pcms]
 
 *2043|
 [fc]
-複数の感染者に取り囲まれ、あっという間に稼津央の姿は[r]
-見えなくなった。[pcms]
+Surrounded by several infected, Kazuo's figure quickly disappeared[r]
+from sight.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -3783,8 +3776,8 @@
 
 *2044|
 [fc]
-そして、ムシャムシャとでも表現したくなるような、[r]
-物を喰らう音だけが、辺りに響きだしていた。[pcms]
+And then, only the sound of something being voraciously eaten could be[r]
+heard echoing around.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

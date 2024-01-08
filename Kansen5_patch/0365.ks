@@ -29,221 +29,218 @@
 *5041|
 [fc]
 [vo_han s="hana0016"]
-[ns]花沢[nse]
-「ほら、行ったよ！」[pcms]
+[ns]Hanazawa[nse]
+"Look, there it goes!"[pcms]
 
 *5042|
 [fc]
-[ns]サッカー部男子Ａ[nse]
-「おっしゃ！　まかせろ！」[pcms]
+[ns]Soccer Club Male A[nse]
+"Alright! Leave it to me!"[pcms]
 
 *5043|
 [fc]
-[ns]荒井[nse]
-「…………」[pcms]
+[ns]Arai[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5044|
 [fc]
-俺はこんなビーチにまでやって来て、[r]
-なにをしているんだろうか。[pcms]
+I wonder what I'm even doing here on this beach.[pcms]
 
 *5045|
 [fc]
-気晴らしにいいと、無理矢理連れてこられたけど、[r]
-こんなところでイジけていても、余計に落ち込むだけだ。[pcms]
+I was forcibly brought here to clear my head, but sulking in a place[r]
+like this just makes me feel even more depressed.[pcms]
 
 *5046|
 [fc]
-強い日差しが気の抜けた俺の身体を焼いていく。[r]
-ただ座り込んでいる俺を、周りの客が[r]
-変な目で見ているのがわかった。[pcms]
+The strong sunlight is burning my listless body. I can tell that the[r]
+other guests are looking at me strangely as I just sit here.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_sw1_a"][ChrSetParts layer=5 chface="F1_ha03"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *5047|
 [fc]
 [vo_han s="hana0017"]
-[ns]花沢[nse]
-「荒井くーん、ボール取って！」[pcms]
+[ns]Hanazawa[nse]
+"Arai-kun, get the ball!"[pcms]
 
 *5048|
 [fc]
-目の前にビーチボールが転がってくる。[r]
-でも、俺は何も反応できずにそれを見つめていた。[pcms]
+A beach ball rolls in front of me. But I just stare at it, unable to[r]
+react.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_sw1_a"][ChrSetParts layer=5 chface="F1_ha01"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *5049|
 [fc]
 [vo_han s="hana0018"]
-[ns]花沢[nse]
-「足が痛むの？」[pcms]
+[ns]Hanazawa[nse]
+"Does your leg hurt?"[pcms]
 
 *5050|
 [fc]
-[ns]荒井[nse]
-「いや……」[pcms]
+[ns]Arai[nse]
+"No..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5051|
 [fc]
-ボールを拾う様子のない俺を見て、[r]
-花沢が近くまで歩いてくる。[pcms]
+Seeing that I'm not picking up the ball, Hanazawa walks over to me.[pcms]
 
 *5052|
 [fc]
-こいつの今までの人生で、一人にして欲しいときが[r]
-存在しなかったんだろうか。[pcms]
+Has there ever been a time in her life when she wanted to be left[r]
+alone?[pcms]
 
 *5053|
 [fc]
-俺が浜辺で遊ぶ気分じゃないってことが、[r]
-伝わる様子もない。[pcms]
+It seems like she can't tell that I'm not in the mood to play on the[r]
+beach.[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_sw1_a"][ChrSetParts layer=5 chface="F2_ha02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5054|
 [fc]
 [vo_han s="hana0019"]
-[ns]花沢[nse]
-「一緒に遊ぼうよ、ほら、ね？」[pcms]
+[ns]Hanazawa[nse]
+"Let's play together, come on, please?"[pcms]
 
 *5055|
 [fc]
-花沢が強引に俺の手をつかんで、立ち上がらせようとする。[r]
-それを力任せに振り解くと、花沢は哀しそうな顔をした。[pcms]
+Hanazawa forcefully grabs my hand trying to get me to stand up. When I[r]
+shake her off with all my might, she looks sad.[pcms]
 
 *5056|
 [fc]
-[ns]荒井[nse]
-「みんな待ってるぞ、早くいけよ」[pcms]
+[ns]Arai[nse]
+"Everyone's waiting, hurry up and go."[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_sw1_a"][ChrSetParts layer=5 chface="F2_ha07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5057|
 [fc]
 [vo_han s="hana0020"]
-[ns]花沢[nse]
-「うん……」[pcms]
+[ns]Hanazawa[nse]
+"Okay..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5058|
 [fc]
-花沢はボールをつかむと、まだ何か言いたそうな顔をしながら、[r]
-みんなのところに戻っていった。[pcms]
+Hanazawa grabs the ball and, with a face that still seems to have[r]
+something to say, goes back to the others.[pcms]
 
 *5059|
 [fc]
-[ns]荒井[nse]
-「…………」[pcms]
+[ns]Arai[nse]
+"..."[pcms]
 
 *5060|
 [fc]
-こんな醜態を晒すくらいなら、[r]
-ホテルで大人しくしていれば良かったんだ。[pcms]
+I should have just stayed quietly in the hotel rather than showing[r]
+such an embarrassing display.[pcms]
 
 *5061|
 [fc]
-怪我自体はたいしたことないだろうけど、[r]
-周りからの信頼も自分自身への過大な思い込みも、[r]
-色々と失われた一日だった。[pcms]
+The injury itself isn't a big deal, but it's been a day of losing[r]
+various things, including trust from others and my own overblown self-[r]
+perception.[pcms]
 
 *5062|
 [fc]
-プロのスカウトの前でみっともない真似を晒した上に、[r]
-怪我をしてしまったら、合宿中に名誉挽回のチャンスはない。[pcms]
+After making a fool of myself in front of professional scouts and[r]
+getting injured, there's no chance for redemption during this training[r]
+camp.[pcms]
 
 *5063|
 [fc]
-プロの下部組織にもスクールにも属していないのに、[r]
-少ないアピールのチャンスでこんな結果になるなんて……。[pcms]
+Not belonging to a professional junior team or even a school team,[r]
+it's frustrating to end up with such results on one of the few chances[r]
+I had to appeal...[pcms]
 
 *5064|
 [fc]
-茜梨ちゃんにも顔向けできない。[pcms]
+I can't even face Akari-chan.[pcms]
 
 *5065|
 [fc]
-同じ幼稚園に通っていたときから好きだったのに、[r]
-言いだせないままになっていたら、出渕や中澤みたいな[r]
-オタ野郎と仲良くなってしまった。[pcms]
+I've liked her since we attended the same kindergarten, but before I[r]
+could confess, she became friends with otaku guys like Izubuchi and[r]
+Nakazawa.[pcms]
 
 *5066|
 [fc]
-俺だってあんなに親しくしたこと無いのに、[r]
-あいつらばっかり……。[pcms]
+Even though I've never been that close to her, it's always those[r]
+guys...[pcms]
 
 *5067|
 [fc]
-でも、恥ずかしくて、俺には同じように[r]
-声を掛けることができない。[pcms]
+But I'm too embarrassed to approach her in the same way.[pcms]
 
 *5068|
 [fc]
-父親の会社が傾きかけているのが、[r]
-俺の耳にも入るようになった。[pcms]
+I've started hearing that my father's company is on the brink of[r]
+collapse.[pcms]
 
 *5069|
 [fc]
-多分、潰れてしまうのも時間の問題だろう。[pcms]
+It's probably only a matter of time before it goes under.[pcms]
 
 *5070|
 [fc]
-そうなったら、サッカーどころか、[r]
-学校に通えるのかどうかもわからなかった。[pcms]
+If that happens, it won't just be soccer I'll have to give up; I might[r]
+not even be able to attend school anymore.[pcms]
 
 *5071|
 [fc]
-良家の茜梨ちゃんとは格差が出来てしまう。[r]
-違う世界の住人になってしまう……。[pcms]
+There will be a gap between me and Akari-chan from a good family.[r]
+We'll become residents of different worlds...[pcms]
 
 *5072|
 [fc]
-自分でもわかっているけれど、俺は頭が良くない。[r]
-もちろん成績だって同じだ。[pcms]
+I know it myself, but I'm not smart. Of course, my grades are the[r]
+same.[pcms]
 
 *5073|
 [fc]
-奨学金をもらって進学なんて無理だし、[r]
-何をして働けばいいのか見当も付かない。[pcms]
+It's impossible for me to get a scholarship and advance, and I have no[r]
+idea what kind of job I could do.[pcms]
 
 *5074|
 [fc]
-プロのトップチームに入れたら最高だけど、[r]
-俺はその芽を自分で摘んでしまった。[pcms]
+If I could make it into a top professional team, that would be great,[r]
+but I've nipped that possibility in the bud myself.[pcms]
 
 *5075|
 [fc]
-厳しい世界なのはわかっているけれど、[r]
-頑張り次第で億の年収だって狙える。[pcms]
+I understand it's a tough world, but with enough effort, even an[r]
+annual income of billions is within reach.[pcms]
 
 *5076|
 [fc]
-そうすれば、両親のことだって助けられたのに……。[pcms]
+If that were the case, I could have helped my parents...[pcms]
 
 *5077|
 [fc]
-でも、昨日の強豪校との練習試合で、[r]
-自分の力のなさを痛感してしまった。[pcms]
+But in yesterday's practice match against a strong school team, I[r]
+painfully realized my own lack of ability.[pcms]
 
 *5078|
 [fc]
-みんなが足を引っ張ったんじゃない。[r]
-俺の実力が足らなかったんだ。[pcms]
+It wasn't everyone else holding us back. It was my own lack of skill.[pcms]
 
 *5079|
 [fc]
-[ns]荒井[nse]
-「…………」[pcms]
+[ns]Arai[nse]
+"..."[pcms]
 
 *5080|
 [fc]
-こんな世の中、全部ひっくり返って欲しい。[r]
-リセットを掛けて、全部やり直しに出来たら……。[pcms]
+I wish the whole world would turn upside down. If only there was a[r]
+reset button to start everything over...[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -252,15 +249,15 @@
 *5081|
 [fc]
 [vo_han s="hana0021"]
-[ns]花沢[nse]
-「いやああああっ！　なにすんのっ！　離してっ！」[pcms]
+[ns]Hanazawa[nse]
+"Noooo! What are you doing?! Let go of me!"[pcms]
 
 ;//m:声だけ
 
 *5082|
 [fc]
-[ns]荒井[nse]
-「……？」[pcms]
+[ns]Arai[nse]
+"…?"[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
@@ -269,57 +266,57 @@
 
 *5083|
 [fc]
-みんなの方を見ると、花沢が知らない男に[r]
-絡まれているみたいだった。[pcms]
+Looking over, it seemed like Hanazawa was being entangled by a man I[r]
+didn't recognize.[pcms]
 
 *5084|
 [fc]
-嫌がる花沢に抱き付き、強引に頭を抑えて、[r]
-無理矢理唇を奪っていく。[pcms]
+He clung to the reluctant Hanazawa, forcefully held down her head, and[r]
+stole her lips against her will.[pcms]
 
 *5085|
 [fc]
-[ns]男Ａ[nse]
-「うわっ、いいのかよ、あれ」[pcms]
+[ns]Man A[nse]
+"Whoa, is that okay, what's happening there?"[pcms]
 
 *5086|
 [fc]
-[ns]男Ｂ[nse]
-「酔っぱらいかぁ？」[pcms]
+[ns]Man B[nse]
+"Is he drunk or something?"[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_sw1_b"][ChrSetParts layer=5 chface="F2_ha12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5087|
 [fc]
 [vo_han s="hana0022"]
-[ns]花沢[nse]
-「んんっ！　んやああああっ！　んむっ……」[pcms]
+[ns]Hanazawa[nse]
+"Mmm! N-nooo! Mmph..."[pcms]
 
 *5088|
 [fc]
-騒ぎを聞いた周りがどよめいている。[pcms]
+The commotion caught the attention of the people around, causing a[r]
+stir.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5089|
 [fc]
-なのに……誰も助けに入ろうとしない。[r]
-サッカー部の奴もチアー部の奴もいるってのに。[pcms]
+Yet... no one tried to step in to help. Not even the guys from the[r]
+soccer team or the cheer squad.[pcms]
 
 *5090|
 [fc]
-花沢に世話になっている奴だっているだろう。[r]
-ビーチの客に正義感のある奴は一人もいないのか？[pcms]
+There must be someone who owes Hanazawa a favor. Isn't there a single[r]
+person with a sense of justice among these beachgoers?[pcms]
 
 *5091|
 [fc]
-……ムカツク。[r]
-なにもかも、ぶっ壊してやりたくなる。[pcms]
+...It's infuriating. I feel like smashing everything to pieces.[pcms]
 
 *5092|
 [fc]
-俺は花沢の側まで駆け寄ると、男の肩をつかんで振り向かせ、[r]
-思い切り殴り飛ばしてやった。[pcms]
+I rushed over to Hanazawa's side, grabbed the man's shoulder to turn[r]
+him around, and punched him hard.[pcms]
 
 ;//seB010.ogg
 [se buf=0 storage="seB010"]
@@ -329,96 +326,90 @@
 
 *5093|
 [fc]
-[ns]錯乱している男[nse]
-「ぶはっ！」[pcms]
+[ns]A delirious man[nse]
+"Buh!"[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_sw1_a"][ChrSetParts layer=5 chface="F1_ha05"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *5094|
 [fc]
 [vo_han s="hana0023"]
-[ns]花沢[nse]
-「んはっ！　んゃっ、ぺっ！　ん゛へ゛っ！」[pcms]
+[ns]Hanazawa[nse]
+"Ngh! N-no, pah! Ngh..."[pcms]
 
 *5095|
 [fc]
-[ns]荒井[nse]
-「ムカつくんだよ！」[pcms]
+[ns]Arai[nse]
+"You're pissing me off!"[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_sw1_b"][ChrSetParts layer=5 chface="F2_ha12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5096|
 [fc]
 [vo_han s="hana0024"]
-[ns]花沢[nse]
-「あ、荒井君……」[pcms]
+[ns]Hanazawa[nse]
+"Ah, Arai-kun..."[pcms]
 
 *5097|
 [fc]
-花沢は口元をぬぐいながら、[r]
-涙目で俺の拳を握り締めてきた。[pcms]
+Hanazawa, wiping her mouth, gripped my fist with teary eyes.[pcms]
 
 *5098|
 [fc]
-[ns]荒井[nse]
-「あっ……」[pcms]
+[ns]Arai[nse]
+"Ah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5099|
 [fc]
-やっちまった……、[r]
-合宿先で暴力事件……。[pcms]
+I've done it... a violent incident at the training camp...[pcms]
 
 *5100|
 [fc]
-ただでさえ、難しい状況なのに、[r]
-こんな事件まで起こしてしまうなんて……。[pcms]
+In an already difficult situation, to cause such an incident...[pcms]
 
 *5101|
 [fc]
-[ns]荒井[nse]
-「くっ！」[pcms]
+[ns]Arai[nse]
+"Tch!"[pcms]
 
 *5102|
 [fc]
 [vo_han s="hana0025"]
-[ns]花沢[nse]
-「あっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ah!"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c lr time=300][hide_chara_int]
 
 *5103|
 [fc]
-俺は花沢の手をつかんで、目茶苦茶に走り始めていた。[r]
-ビーチの客をかき分けて、どこか遠くに。[r]
-それだけを考えて……。[pcms]
+I grabbed Hanazawa's hand and started running wildly, pushing through[r]
+the beachgoers, heading somewhere far away. That was all I could think[r]
+about...[pcms]
 
 *5104|
 [fc]
-後ろを振り返ると、俺に殴られた男は、[r]
-血を流しながら、また他の女に迫っているところだった。[pcms]
+Looking back, the man I had punched was bleeding and was already[r]
+approaching another woman.[pcms]
 
 *5105|
 [fc]
-酔っぱらいと言うより、クスリでもやっている[r]
-異常者のようだ。[pcms]
+He seemed less like a drunkard and more like a drug-addled lunatic.[pcms]
 
 *5106|
 [fc]
-なんであんなのが、ビーチに紛れ込んでいたんだ。[r]
-おかげで俺は……。[pcms]
+How did someone like that blend in at the beach? Because of him, I...[pcms]
 
 *5107|
 [fc]
-おかしな男と自分の未来がつながっているような、[r]
-気持ちの悪い感覚を振り払うように、[r]
-俺は走り続けた。[pcms]
+As if trying to shake off the disgusting feeling of my future being[r]
+tied to that strange man, I kept running.[pcms]
 
 *5108|
 [fc]
-当てもなく、考えもなく……。[pcms]
+Aimlessly, without thought...[pcms]
 
 ;//夏都ルートのD2_b 花沢ZAPへ行く為のフラグ成立
 [eval exp="f.l_look_0365_araiZAP = 1"]

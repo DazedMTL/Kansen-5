@@ -37,152 +37,152 @@
 
 *1072|
 [fc]
-食堂でバイキング形式の食事を終えた僕たちは、出かけるために[r]
-エントランスを進んでいた。[pcms]
+After finishing our buffet-style meal in the dining hall, we were[r]
+making our way through the entrance to head out.[pcms]
 
 *1073|
 [fc]
-なんだか、あちこちに具合の悪そうな人がいる。[pcms]
+Somehow, there seem to be people looking unwell here and there.[pcms]
 
 *1074|
 [fc]
-[ns]男性客[nse]
-「ゴホッ……ゴホゴホッ！……げほっ！　ゲホゲホっ！」[pcms]
+[ns]Male Guest[nse]
+"Cough... Cough cough!... Gah! Cough cough!"[pcms]
 
 *1075|
 [fc]
-真っ青な顔色をした男性客が、ふらふらになりながら[r]
-僕たちの横を通り過ぎた。[pcms]
+A male guest with a pale face staggered past us as we stood by.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na23"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1076|
 [fc]
 [vo_nat s="natu_tj0033"]
-[ns]夏都[nse]
-「なんだよ……咳するんなら、せめて口ぐらい手で覆えよな」[pcms]
+[ns]Natsu[nse]
+"What the... If you're going to cough, at least cover your mouth with[r]
+your hand."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1077|
 [fc]
-変な風邪でも流行ってるのかな……気をつけよう。[pcms]
+I wonder if there's some strange cold going around... We should be[r]
+careful.[pcms]
 
 *1078|
 [fc]
-ふと見ると、腕に包帯を巻いた男性がロビーの椅子に座っていた。[pcms]
+At a glance, I saw a man with his arm in a bandage sitting in a chair[r]
+in the lobby.[pcms]
 
 *1079|
 [fc]
-奥さんらしき女性に介抱されてるけど、[r]
-その男性もやっぱり咳き込んでる。[pcms]
+He was being cared for by a woman who seemed to be his wife, but he[r]
+too was coughing heavily.[pcms]
 
 *1080|
 [fc]
-[ns]男[nse]
-「ううっ……ゴホッゴホッ……ゲホホッ……」[pcms]
+[ns]Male[nse]
+"Ugh... Cough cough... Gah cough..."[pcms]
 
 *1081|
 [fc]
 [vo_mob s="sin0001"]
-[ns]女[nse]
-「大丈夫？　やっぱり昨日、定食屋で喧嘩した人、[r]
-　なにか悪い病気でも持ってたんじゃないかしら……」[pcms]
+[ns]Female[nse]
+"Are you okay? Maybe that person you fought with at the diner[r]
+yesterday had some kind of serious illness..."[pcms]
 
 ;//心配する女
 
 *1082|
 [fc]
-[ns]男[nse]
-「ゴホッ……単に咳が出てるだけじゃないか……ゲホッ！[r]
-　噛まれて移る風邪なんかないだろ……ゴホゴホッ！！」[pcms]
+[ns]Male[nse]
+"Cough... It's just a cough, isn't it... Gah cough! There's no such[r]
+thing as a cold that you catch from being bitten... Cough cough!!"[pcms]
 
 *1083|
 [fc]
 [vo_mob s="sin0002"]
-[ns]女[nse]
-「でも、いきなり喧嘩相手の腕を噛んでくるなんて、[r]
-　どう考えても普通じゃないわよ」[pcms]
+[ns]Female[nse]
+"But still, biting the arm of the person you're fighting with out of[r]
+nowhere is definitely not normal."[pcms]
 
 *1084|
 [fc]
-[ns]男[nse]
-「うっ、ゴホゴホッ！　いくら夏場だからって……ゴホッ！[r]
-　冷房の入れすぎなんだよ、このホテル……ゲホッ！[r]
-　うう……ゲホッ！　ゲホゲホッ！　ゴホオッ！！」[pcms]
+[ns]Male[nse]
+"Ugh, cough cough! Even if it's summer... Cough! It's because this[r]
+hotel has the air conditioning on too high... Gah! Ugh... Gah cough![r]
+Cough cough! Cough!!"[pcms]
 
 *1085|
 [fc]
-…………………………。[pcms]
+...[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so12b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1086|
 [fc]
-[ns]宗一郎[nse]
-「なんだか、あっちこっちでゴホゴホいってる人を[r]
-　目にしますなあ」[pcms]
+[ns]Souichirou[nse]
+"It seems like there are people coughing everywhere you look."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1087|
 [fc]
 [vo_nat s="natu_tj0034"]
-[ns]夏都[nse]
-「こんなトコまで来て、風邪ひいて寝込んでたんじゃ[r]
-　やってらんないな。お前らも気をつけろよ」[pcms]
+[ns]Natsu[nse]
+"It would suck to come all this way and end up bedridden with a cold.[r]
+You guys be careful too."[pcms]
 
 *1088|
 [fc]
-[ns]誠[nse]
-「うん、そうだね」[pcms]
+[ns]Makoto[nse]
+"Yeah, that's true."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1089|
 [fc]
-そんな話をしていると、向こうから南先輩がやって来た。[pcms]
+As we were talking about that, Senior Minami came our way.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1090|
 [fc]
 [vo_stk s="satuki_tj0010"]
-[ns]彩月[nse]
-「おはようございます」[pcms]
+[ns]Satsuki[nse]
+"Good morning."[pcms]
 
 *1091|
 [fc]
-[ns]誠[nse]
-「おはようございます、南先輩」[pcms]
+[ns]Makoto[nse]
+"Good morning, Senior Minami."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1092|
 [fc]
 [vo_stk s="satuki_tj0011"]
-[ns]彩月[nse]
-「ねえ、結局昨日って、あれから越智さん、どうなったの？」[pcms]
+[ns]Satsuki[nse]
+"Hey, what ended up happening to Ochi-san after all that yesterday?"[pcms]
 
 *1093|
 [fc]
-開口一番、南先輩が越智さんのことを聞いてきた。[pcms]
+Right off the bat, Senior Minami asked about Ochi-san.[pcms]
 
 *1094|
 [fc]
-[ns]誠[nse]
-「いちおう、病院から戻ってきた越智さんとは少し話が[r]
-　できたんですが、検査の結果自体は異常なしって[r]
-　言ってました」[pcms]
+[ns]Makoto[nse]
+"Well, Ochi-san did come back from the hospital and we managed to talk[r]
+a bit. She said that the test results showed nothing abnormal."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1095|
 [fc]
 [vo_stk s="satuki_tj0012"]
-[ns]彩月[nse]
-「そうなんだ、よかった……ほら、わたし、昨日先に部屋に[r]
-　戻っちゃったから……気になってたのよね」[pcms]
+[ns]Satsuki[nse]
+"Is that so, thank goodness... You see, I went back to my room first[r]
+yesterday... I was worried."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st11"][ChrSetXY layer=3 x=0 y=0]
@@ -191,27 +191,27 @@
 
 *1096|
 [fc]
-[ns]宗一郎[nse]
-「とは言え、あんなショッキングな出来事を体験したあとですから[r]
-　体はなんともなくとも、心の方はどうか……」[pcms]
+[ns]Souichirou[nse]
+"Even if her body is fine after experiencing such a shocking event, I[r]
+wonder about her mental state..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1097|
 [fc]
 [vo_nat s="natu_tj0035"]
-[ns]夏都[nse]
-「気に病んでもしかたないぞ。そういう心の問題は[r]
-　解決するのには時間がかかるもんだから」[pcms]
+[ns]Natsu[nse]
+"There's no use worrying about it. Mental issues take time to[r]
+resolve."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1098|
 [fc]
 [vo_nat s="natu_tj0036"]
-[ns]夏都[nse]
-「でもその辺は、みんな、あの娘に気を遣ってやりな。[r]
-　下手すれば……長く引きずることになるから……」[pcms]
+[ns]Natsu[nse]
+"But everyone should be considerate towards her. If we're not[r]
+careful... it could drag on for a long time..."[pcms]
 
 ;//夏都は我が身のことを言っています
 
@@ -220,87 +220,85 @@
 *1099|
 [fc]
 [vo_stk s="satuki_tj0013"]
-[ns]彩月[nse]
-「そう……ですね……」[pcms]
+[ns]Satsuki[nse]
+"That's true..."[pcms]
 
 ;//彩月も自分自身に照らし合わせて返事をしています
 
 *1100|
 [fc]
-なんだか、その場の雰囲気がちょっと暗くなってしまった。[r]
-みんな、それぞれに思うところがあるんだろう。[pcms]
+The atmosphere around us became a bit gloomy. Everyone must have their[r]
+own thoughts on the matter.[pcms]
 
 *1101|
 [fc]
-空気を敏感に読んだそーいちが、別の話題を振る。[pcms]
+Sensing the mood, Souichirou changed the subject.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_a"][ChrSetParts layer=4 chface="F1_so03a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1102|
 [fc]
-[ns]宗一郎[nse]
-「それはそうと、南先輩もこれからお出かけですか？」[pcms]
+[ns]Souichirou[nse]
+"Speaking of which, are you heading out now, Senior Minami?"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st08"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1103|
 [fc]
 [vo_stk s="satuki_tj0014"]
-[ns]彩月[nse]
-「あ、うん。ほら、船の上でも話さなかったっけ？[r]
-　キャンプ場に泊まり込んで撮影をするつもりだって」[pcms]
+[ns]Satsuki[nse]
+"Ah, yes. Didn't I mention it on the boat? I'm planning to stay[r]
+overnight at the campsite for a photo shoot."[pcms]
 
 *1104|
 [fc]
-[ns]誠[nse]
-「あれ、でも確か、夜景や星空を撮影するって[r]
-　言ってたと思いますけど……」[pcms]
+[ns]Makoto[nse]
+"But I thought you said you were going to shoot nightscapes and starry[r]
+skies..."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1105|
 [fc]
 [vo_stk s="satuki_tj0015"]
-[ns]彩月[nse]
-「うん。予定は昨日の夜からだったんだけど、ほら、昨日[r]
-　あんなことがあったじゃない。だから今から[r]
-　出かけるところなの」[pcms]
+[ns]Satsuki[nse]
+"Yes. The plan was to start last night, but you know what happened[r]
+yesterday. So I'm heading out now."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so02b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1106|
 [fc]
-[ns]宗一郎[nse]
-「なるほど、それで大荷物をお持ちだったんですね」[pcms]
+[ns]Souichirou[nse]
+"I see, that's why you had such heavy luggage."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1107|
 [fc]
 [vo_nat s="natu_tj0037"]
-[ns]夏都[nse]
-「なんだか悪い風邪が流行ってるみたいだから、[r]
-　気をつけるんだよ」[pcms]
+[ns]Natsu[nse]
+"It seems like a nasty cold is going around, so be careful."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1108|
 [fc]
 [vo_stk s="satuki_tj0016"]
-[ns]彩月[nse]
-「はい、ご忠告ありがとうございます。[r]
-　それじゃ、わたしはこれで」[pcms]
+[ns]Satsuki[nse]
+"Yes, thank you for the advice. Well then, I'll be off now."[pcms]
 
 [chara_int_ layer=3][trans_c cross time=150]
 
 *1109|
 [fc]
-大荷物を抱えた南先輩が、軽く頭を下げてその場をあとにした。[pcms]
+Senior Minami, carrying her heavy luggage, gave a slight bow and left[r]
+the scene.[pcms]
 
 *1110|
 [fc]
-なんだろう……理由は別にないけど、なんだか[r]
-南先輩のことが気になる。[pcms]
+I wonder why... There's no particular reason, but I find myself[r]
+concerned about Senior Minami.[pcms]
 
 ;//---------------------------------------------
 ;//アスペクトスイッチ表示ここまで
@@ -309,8 +307,8 @@
 
 *1111|
 [fc]
-僕はしばらく、遠ざかってゆく南先輩の背中を[r]
-見つめていた。[pcms]
+I watched Senior Minami's retreating figure for a while as she walked[r]
+away.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

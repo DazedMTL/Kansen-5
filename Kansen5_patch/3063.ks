@@ -31,8 +31,8 @@
 
 *2120|
 [fc]
-俺とフランク先輩は、南先輩が感染者に翻弄される様を[r]
-隠れた車の中から見ていることしかできなかった。[pcms]
+Nakazawa and Senior Frank could only watch from inside a hidden car as[r]
+Senior Minami was toyed with by the infected.[pcms]
 
 [sysbt_meswin clear]
 
@@ -50,80 +50,76 @@
 *2121|
 [fc]
 [vo_stk s="satuki_tj0061"]
-[ns]彩月[nse]
-「やめてえっ！　いやあっ！！」[pcms]
+[ns]Satsuki[nse]
+"Stop it! Noooo!!"[pcms]
 
 *2122|
 [fc]
-[ns]感染者Ａ[nse]
-「う゛……う゛る゛せえ゛な……こ゛の゛やろ゛う……」[pcms]
+[ns]Infected Person A[nse]
+"Ugh... stop struggling... you bastard..."[pcms]
 
 *2123|
 [fc]
-ひとりの感染者が、彩月の体を軽々と持ち上げて、放置車両の[r]
-ボンネットの上に押し倒した。[pcms]
+An infected person easily lifted Minami's body and pushed her down on[r]
+the hood of an abandoned vehicle.[pcms]
 
 *2124|
 [fc]
-彩月は必死に抗うが、感染者の力は強くてびくともしない。[pcms]
+Minami desperately resisted, but the infected person's strength was so[r]
+great she couldn't move at all.[pcms]
 
 *2125|
 [fc]
-[ns]感染者Ａ[nse]
-「こ゛れ゛……し゛ゃま゛く゛せえ゛なぁ～」[pcms]
+[ns]Infected Person A[nse]
+"This... is getting in the way..."[pcms]
 
 *2126|
 [fc]
-感染者が彩月のＴシャツに手をかけると、中の競泳水着ごと[r]
-いとも簡単に引きちぎり、彩月の胸が露出させる。[pcms]
+The infected person reached for Minami's T-shirt and easily tore it[r]
+along with the competitive swimsuit underneath, exposing her breasts.[pcms]
 
 *2127|
 [fc]
 [vo_stk s="satuki_tj0062"]
-[ns]彩月[nse]
-「いやぁあああああぁぁっ！！」[pcms]
+[ns]Satsuki[nse]
+"Noooooo!!"[pcms]
 
 *2128|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～……あ゛は゛は～。お……お゛めえ、[r]
-　な゛かなか゛いいお゛っぱい……して゛んし゛ゃねぇか……」[pcms]
+[ns]Infected Person A[nse]
+"Ah~... haha~. Hey... you've got some pretty nice tits..."[pcms]
 
 *2129|
 [fc]
-感染者が力任せに南先輩の左胸を絞り上げた。[pcms]
+The infected person roughly squeezed Minami's left breast.[pcms]
 
 *2130|
 [fc]
 [vo_stk s="satuki_tj0063"]
-[ns]彩月[nse]
-「ぎゃああぁっ！　いっ、痛いいっっ！！」[pcms]
+[ns]Satsuki[nse]
+"Gyaaa! It hurts, it hurts!!"[pcms]
 
 *2131|
 [fc]
-揉んでるなどという生やさしい行為ではない。[r]
-胸を握りつぶす勢いで、感染者が南先輩の胸を[r]
-力任せにつかんでいた。[pcms]
+This was not a gentle act of fondling. The infected person was[r]
+forcefully grabbing Minami's breast as if to crush it.[pcms]
 
 *2132|
 [fc]
 [vo_stk s="satuki_tj0064"]
-[ns]彩月[nse]
-「ぎ、ぎぎぎいぃっああぁああぁっ！[r]
-　痛い痛い痛いっ！！　おっぱい痛いいいぃっ！！」[pcms]
+[ns]Satsuki[nse]
+"It hurts, it hurts, my tits hurt!!"[pcms]
 
 *2133|
 [fc]
 [vo_stk s="satuki_tj0065"]
-[ns]彩月[nse]
-「やめてえっ！　痛いいぃっ！！[r]
-　おっぱいちぎれちゃううぅっっ！！！」[pcms]
+[ns]Satsuki[nse]
+"Stop it! It hurts!! My tits are going to rip off!!"[pcms]
 
 *2134|
 [fc]
-[ns]感染者Ａ[nse]
-「な゛……な゛んた゛よ……き゛もち゛よく゛ねえのかよ～。[r]
-　そ゛う゛か～……こ゛っち゛が……い゛いの゛か～」[pcms]
+[ns]Infected Person A[nse]
+"What... you don't like it? Maybe... this is better..."[pcms]
 
 [evcg storage="satuki_H008b"][trans_c cross time=300]
 
@@ -135,33 +131,32 @@
 
 *2135|
 [fc]
-胸を揉んでいた感染者が、いきなりペニスを[r]
-南先輩に挿入した。[pcms]
+The infected person who had been fondling her breasts suddenly[r]
+inserted his penis into Senior Minami.[pcms]
 
 *2136|
 [fc]
 [vo_stk s="satuki_tj0066"]
-[ns]彩月[nse]
-「ぎいぃあああぁぅぅっっ！！！」[pcms]
+[ns]Satsuki[nse]
+"Gyaaaaah!!"[pcms]
 
 *2137|
 [fc]
-潤っていない性器にペニスを無理矢理ねじ込まれて[r]
-激痛に南先輩が絶叫した。[pcms]
+Senior Minami screamed in agony as the penis was forcibly thrust into[r]
+her dry pussy.[pcms]
 
 *2138|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛～……お゛ほ゛ぉ～……お゛ま゛んこ……[r]
-　た゛ま゛んね゛ぇ～」[pcms]
+[ns]Infected Person A[nse]
+"Oh~... ohh~... your pussy... can't take it~"[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
 *2139|
 [fc]
-南先輩の絶叫は全く意に介さず、ペニスを挿入した感染者は[r]
-猛然と腰を振り始めた。[pcms]
+Ignoring Senior Minami's screams, the infected person with his penis[r]
+inserted began to thrust his hips violently.[pcms]
 
 ;//■イベントCG　satuki_H008
 [evcg storage="satuki_H008c"][trans_c cross time=300]
@@ -169,135 +164,124 @@
 *2140|
 [fc]
 [vo_stk s="satuki_tj0067"]
-[ns]彩月[nse]
-「あっ、あがあぁっ！　痛いっ！　いたあぁあいいっ！！[r]
-　やめっ、やめてえっ！！　壊れるうっ！[r]
-　オマンコ壊れちゃううぅっ！！」[pcms]
+[ns]Satsuki[nse]
+"Ah, it hurts! It hurts! Stop, stop it!! It's breaking! My pussy is[r]
+breaking!!"[pcms]
 
 *2141|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛～……お゛ま゛えの゛おま゛んこ……、[r]
-　よ゛くし゛まる゛ぞぉ～。[r]
-　さ゛……さ゛けふ゛のか゛……す゛きな゛のか゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Oh~... your pussy... takes it so well. Do you like sake? Do you like[r]
+it~"[pcms]
 
 *2142|
 [fc]
-南先輩をもっと叫ばせようとして、感染者の腰振りが[r]
-力強さを増した。[pcms]
+The infected person increased the force of his thrusts, trying to make[r]
+Senior Minami scream even more.[pcms]
 
 *2143|
 [fc]
-俺とフランク先輩が隠れているこの車の中にまで[r]
-感染者が腰を打ち付ける音が聞こえてくる。[pcms]
+Nakazawa and Senior Frank could hear the sound of the infected[r]
+person's hips slamming from inside the car where they were hiding.[pcms]
 
 *2144|
 [fc]
 [vo_stk s="satuki_tj0068"]
-[ns]彩月[nse]
-「ぎ、ぎいいぃぃっ！　あがああぁぁあぁっ！[r]
-　さけ……裂けるううぅっ！　痛い痛いいいぃっ！！[r]
-　あああぁ、あぁぁっ、ぎゃあああああぁぁぁっっ！！！」[pcms]
+[ns]Satsuki[nse]
+"It's tearing! It hurts so much!! Ahh, ahh, gyaaaah!!"[pcms]
 
 *2145|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛……お゛お゛ぉ～……さ゛けへ゛は゛……お゛まん゛こが[r]
-　し゛ま゛るん゛た゛な～」[pcms]
+[ns]Infected Person A[nse]
+"Oh... ohh~... your tearing pussy... feels so tight~"[pcms]
 
 *2146|
 [fc]
-[ns]感染者Ａ[nse]
-「い゛……い゛いそ゛～、も゛っと゛さけへ゛～。[r]
-　お゛ま゛んこ……し゛めつ゛け゛ろぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Good... tear more. Make your pussy tighter~"[pcms]
 
 *2147|
 [fc]
 [vo_stk s="satuki_tj0069"]
-[ns]彩月[nse]
-「や、やだっ！！　やめっ……あ、ぎいいぃぃっ！！[r]
-　あああぁぁぁっ！！　くわああぁああぁぁっ！！」[pcms]
+[ns]Satsuki[nse]
+"No, stop... ah, gyaaah!! Ahhh!!"[pcms]
 
 *2148|
 [fc]
-感染者は、ひたすら腰を打ち付けて一方的に快感を貪っている。[r]
-それは膣を使ったオナニーですらなかった。[pcms]
+The infected person kept slamming his hips, selfishly indulging in[r]
+pleasure. It was not even masturbation using a vagina.[pcms]
 
 *2149|
 [fc]
-感染者の腰振りの激しさで、南先輩が押し倒された[r]
-車のサスペンションがぎしぎしと激しく上下に動いている。[pcms]
+The intensity of the infected person's thrusts made the car's[r]
+suspension creak and move violently up and down where Senior Minami[r]
+was pushed down.[pcms]
 
 *2150|
 [fc]
-それがまた、感染者に新たな快感を与えるのだろう。[pcms]
+This probably gave the infected person a new kind of pleasure.[pcms]
 
 *2151|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛……お゛お゛ぉ～……こ゛のう゛こき゛……、[r]
-　き゛も゛ち……い゛いそ゛ぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Oh... ohh~... this bitch... feels so good~"[pcms]
 
 *2152|
 [fc]
 [vo_stk s="satuki_tj0070"]
-[ns]彩月[nse]
-「ひいぃぃいぃっ！　やっ、やめてええぇえぇっ！[r]
-　おっ、オマンコが、えっ、抉れ……るううっ！[r]
-　子宮っ……潰れちゃううぅぅっ！！」[pcms]
+[ns]Satsuki[nse]
+"Please stop! My pussy, it's being gouged out! My womb is going to be[r]
+crushed!!"[pcms]
 
 *2153|
 [fc]
-感染者が上下動に加えて、車のサスを利用して[r]
-グラインドするような動きをみせている。[pcms]
+The infected person added grinding movements to his vertical motion,[r]
+using the car's suspension.[pcms]
 
 *2154|
 [fc]
-その新たな動きは、感染者にさらなる快感を、南先輩に[r]
-さらなる苦痛を与えているように見えた。[pcms]
+The new movement seemed to give the infected person even more pleasure[r]
+and Senior Minami even more pain.[pcms]
 
 *2155|
 [fc]
-その時、別の感染者が南先輩に近づいていくのが見えた。[pcms]
+At that moment, another infected person approached Senior Minami.[pcms]
 
 *2156|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛～……な゛んた゛～……い゛い゛こと……や゛って゛んな～。[r]
-　お゛……お゛れも゛～……お゛ま゛んこ゛……、[r]
-　し゛てえ゛の゛によ゛ぉ～」[pcms]
+[ns]Infected Person B[nse]
+"Ah~... what's this... looks fun. I want to use that pussy too~"[pcms]
 
 *2157|
 [fc]
-[ns]感染者Ｂ[nse]
-「し゛ょ、し゛ょう゛か゛ねぇか゛ら～、お゛れは、[r]
-　く゛ちて゛か゛まん゛する゛かな～」[pcms]
+[ns]Infected Person B[nse]
+"Since there's no help for it, I guess I'll have to settle for the[r]
+mouth~"[pcms]
 
 ;//■イベントCG　satuki_H008
 [evcg storage="satuki_H008d"][trans_c cross time=300]
 
 *2158|
 [fc]
-新たに出現した感染者が、南先輩の頭にまたがると[r]
-いきなり勃起したペニスを口内にねじ込んだ。[pcms]
+The newly appeared infected person straddled Senior Minami's head and[r]
+suddenly forced his erect penis into her mouth.[pcms]
 
 *2159|
 [fc]
 [vo_stk s="satuki_tj0071"]
-[ns]彩月[nse]
-「ぶふうぅっ！」[pcms]
+[ns]Satsuki[nse]
+"Mmph!"[pcms]
 
 *2160|
 [fc]
-[ns]感染者Ｂ[nse]
-「う゛……う゛めえ゛た゛ろ～……お゛れの゛ちんぽ～。[r]
-　お゛ら゛ぁ……も゛っと゛し゛っか゛り……、[r]
-　し゛ゃふ゛れ～」[pcms]
+[ns]Infected Person B[nse]
+"Ugh... ugh, it's so tight... my dick... oh... grip it tighter... rub[r]
+it~"[pcms]
 
 *2161|
 [fc]
-ペニスを南先輩の口にねじ込んだ感染者が、[r]
-勢いよく腰を振り始める。[pcms]
+The infected person who had forced his penis into Senior Minami's[r]
+mouth began to thrust vigorously.[pcms]
 
 ;//■イベントCG　satuki_H008
 [evcg storage="satuki_H008e"][trans_c cross time=300]
@@ -305,21 +289,21 @@
 *2162|
 [fc]
 [vo_stk s="satuki_tj0072"]
-[ns]彩月[nse]
-「げぼぉっ！　えろっ！　ごぶうぅぅっ！[r]
-　おえっ！　げっ、げぼごぼぅっ！」[pcms]
+[ns]Satsuki[nse]
+"Gah! It's so gross! I can't breathe! I'm gonna vomit! Gah, I can't[r]
+breathe!"[pcms]
 
 *2163|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛お゛おお～……す゛……すけ゛え゛しま゛るぅ～。[r]
-　お゛……お゛まん゛こ……き゛も゛ちい゛い゛ぃぃ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahh... ohh, ohh~... it's gonna burst... oh... this pussy... feels so[r]
+good~"[pcms]
 
 *2164|
 [fc]
-性器だけではなく口内まで蹂躙され、単に痛みだけではなく[r]
-呼吸すら怪しい状態になり、南先輩は[r]
-どれほどの苦しさを感じていることか。[pcms]
+Not only was her genitals being ravaged, but with her mouth violated[r]
+as well, Senior Minami was in a dire state where even breathing was[r]
+difficult, let alone the pain.[pcms]
 
 ;//■イベントCG　satuki_H008
 [evcg storage="satuki_H008f"][trans_c cross time=300]
@@ -327,66 +311,63 @@
 *2165|
 [fc]
 [vo_stk s="satuki_tj0073"]
-[ns]彩月[nse]
-「げえぇっ！　やっ……やべでぇ……ぐぅええぇっ……！[r]
-　くっ、ぐるじ……げほっ、げほげほおぉっ！」[pcms]
+[ns]Satsuki[nse]
+"Gah! Stop... it's too much... I can't breathe...! It's too cruel... I[r]
+can't breathe!"[pcms]
 
 *2166|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛～……のと゛のお゛くか゛……ち゛んほ゛にか゛らみつく～。[r]
-　こ゛の゛まま……た゛し゛ちま゛お゛う～」[pcms]
+[ns]Infected Person B[nse]
+"Ah~... the back of her throat... it's clinging to my cock~. Just like[r]
+this... I'm gonna cum~"[pcms]
 
 *2167|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～……お゛れも……き゛もち゛よく゛なって゛きた～。[r]
-　い゛……い゛っは゛い……な゛かた゛しし゛てや゛るそ゛ぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Ah~... I'm also... starting to feel really good~. I'm gonna... cum[r]
+inside... fill her up~"[pcms]
 
 *2168|
 [fc]
-感染者の言葉に、南先輩の顔色が変わる。[r]
-口内にペニスをねじ込まれて、喋るのもままならないはずなのに[r]
-必死の抵抗を見せる南先輩。[pcms]
+Senior Minami's complexion changed at the words of the infected[r]
+person. With a penis thrust into her mouth, she shouldn't have been[r]
+able to speak, yet she showed desperate resistance.[pcms]
 
 *2169|
 [fc]
 [vo_stk s="satuki_tj0074"]
-[ns]彩月[nse]
-「やっ、やめ……げぶうぅっ！　おねが……ぐえぇっ……だから、[r]
-　中だけは……ごほっげほほっ……なかだげわぁ！[r]
-　……やべでぇ……げぼげぼぅっ！！」[pcms]
+[ns]Satsuki[nse]
+"Stop, please stop! I'm begging you... so please, not inside... I[r]
+can't breathe!"[pcms]
 
 *2170|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～……た゛まん゛ねえ゛ぇ～……い゛、いっは゛い、[r]
-　た゛すそ゛おぉ～……お゛まん゛こ゛の、なか゛に、[r]
-　た゛っふ゛り……た゛して゛やる゛ぅ～」[pcms]
+[ns]Infected Person A[nse]
+"Ah~... can't hold it back~... I'm gonna cum, gonna fill up this pussy[r]
+with my seed~"[pcms]
 
 *2171|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛……お゛れも゛……て゛る゛う゛ぅ～。[r]
-　お゛れ゛のさ゛～めん……は゛らい゛っぱい……、[r]
-　の゛み゛ほ゛せ～」[pcms]
+[ns]Infected Person B[nse]
+"Oh... I'm also gonna cum~. My semen... fill her up completely... make[r]
+her drink it all~"[pcms]
 
 *2172|
 [fc]
 [vo_stk s="satuki_tj0075"]
-[ns]彩月[nse]
-「やだっ、やだやだやだあぁっ！　げぼ、げぼげぼおぉっ！[r]
-　やべでよぉ……ぐ、ぐえっおぼおおぉぉぉっ！！」[pcms]
+[ns]Satsuki[nse]
+"No, no, no, nooo! I can't breathe! It's too much... I can't take it[r]
+anymore!"[pcms]
 
 *2173|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～……い゛く゛うぅ～……て゛る゛って゛るう゛うぅぅ～！」[pcms]
+[ns]Infected Person A[nse]
+"Ah~... I'm cumming~... filling her up~!"[pcms]
 
 *2174|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛～……も゛う……た゛めたあ゛ぁ～……て゛る゛うぅ～！」[pcms]
+[ns]Infected Person B[nse]
+"Ah~... can't hold back anymore~... I'm cumming too~!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -403,54 +384,53 @@
 
 *2175|
 [fc]
-南先輩を犯していた感染者が一声叫ぶと、叩きつけるように[r]
-深い挿入とともに絶頂に達し、口を冒していた感染者も、[r]
-ほぼ同時に射精した。[pcms]
+The infected person violating Senior Minami let out a shout and with a[r]
+deep thrust reached climax, and almost simultaneously, the infected[r]
+person in her mouth ejaculated as well.[pcms]
 
 *2176|
 [fc]
 [vo_stk s="satuki_tj0076"]
-[ns]彩月[nse]
-「んっ、んんああぁぁうううぅぅっ！！！」[pcms]
+[ns]Satsuki[nse]
+"Nngh, ahhhhhhhh!!"[pcms]
 
 *2177|
 [fc]
-口を犯されたまま、膣内で感染者に射精されてしまったことに[r]
-南先輩が絶望のうめき声を上げた。[pcms]
+While still being violated in the mouth, Senior Minami let out a moan[r]
+of despair as the infected person ejaculated inside her.[pcms]
 
 *2178|
 [fc]
-膣内で感染者に射精されてしまったことに[r]
-南先輩が絶望のうめき声を上げた。[pcms]
+Senior Minami let out a moan of despair as the infected person[r]
+ejaculated inside her.[pcms]
 
 *2179|
 [fc]
-驚くほど大量の精液が、南先輩の顔面や眼鏡の上に降り注ぎ、[r]
-白濁で汚されていく。[pcms]
+An astonishing amount of semen rained down on Senior Minami's face and[r]
+glasses, sullying her with its cloudiness.[pcms]
 
 *2180|
 [fc]
 [vo_stk s="satuki_tj0077"]
-[ns]彩月[nse]
-「いやあっ！　臭いっ！　げほっ、おえっ、げええぇぇっ！」[pcms]
+[ns]Satsuki[nse]
+"No! It smells! I can't breathe, I'm going to vomit!"[pcms]
 
 *2181|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛……あ゛あ゛ぁ～……き゛もち゛……よ゛かっ゛たか゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Ah... ahhhh~... that felt... so good~"[pcms]
 
 *2182|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛れの゛……さ゛ーめ゛ん……うめ゛えた゛ろぉ～。[r]
-　たっふ゛り……あし゛わ゛え～」[pcms]
+[ns]Infected Person B[nse]
+"My semen... tasted good, didn't it~? Enjoy it thoroughly~"[pcms]
 
 [evcg storage="satuki_H008e"][trans_c cross time=300]
 
 *2183|
 [fc]
-南先輩を犯していた感染者たちは、[r]
-どちらも愉悦に顔を歪めている。[pcms]
+The infected persons who had violated Senior Minami both had twisted[r]
+expressions of pleasure on their faces.[pcms]
 
 ;//■イベントCG　satuki_H008
 [evcg storage="satuki_H008h"][trans_c cross time=300]
@@ -458,40 +438,41 @@
 *2184|
 [fc]
 [vo_stk s="satuki_tj0078"]
-[ns]彩月[nse]
-「あ、ああ、あああ……かん、感染者に……[r]
-　出され……中に出された……」[pcms]
+[ns]Satsuki[nse]
+"Ah, ahh, ahhh... I've been filled by an infected person... he came[r]
+inside..."[pcms]
 
 *2185|
 [fc]
 [vo_stk s="satuki_tj0079"]
-[ns]彩月[nse]
-「えぐっ……ひっく……ああ、くっ、くううぅぅ……。[r]
-　こんな……こんなのって……ぐすっ……」[pcms]
+[ns]Satsuki[nse]
+"*sob*... *hic*... ah, ah, nooo... This is just... too much..."[pcms]
 
 *2186|
 [fc]
-顔面を白濁で汚したまま、南先輩が感染者に[r]
-中出しされてしまった絶望感に、体を震わせて泣いていた。[pcms]
+With her face still smeared with semen, Senior Minami trembled and[r]
+cried from the despair of being filled by the infected person.[pcms]
 
 *2187|
 [fc]
-しかし、それはまだほんの始まりにすぎなかった。[pcms]
+However, this was just the beginning.[pcms]
 
 *2188|
 [fc]
-新たな感染者たちが、南先輩を見つけて次々に近づいてきた。[pcms]
+Newly arrived infected persons spotted Senior Minami and began to[r]
+approach one after another.[pcms]
 
 *2189|
 [fc]
 [vo_stk s="satuki_tj0080"]
-[ns]彩月[nse]
-「い、嫌……来ないで、来ないでよ……。[r]
-　もう嫌っ、いやよおぉっ……！」[pcms]
+[ns]Satsuki[nse]
+"No, don't come any closer, please don't come... I can't take any[r]
+more, please nooo!"[pcms]
 
 *2190|
 [fc]
-南先輩の悲痛な叫び声は、押し寄せる感染者の群れに飲み込まれた。[pcms]
+Senior Minami's cries of agony were drowned out by the advancing horde[r]
+of infected persons.[pcms]
 
 ;//いったん暗転
 
@@ -500,226 +481,215 @@
 
 *2191|
 [fc]
-ひとりの感染者がボンネットの上で寝そべっているところに[r]
-南先輩は抱え上げられて乗せられてしまった。[pcms]
+One of the infected persons lay on the hood of the car and Senior[r]
+Minami was lifted up and placed on top of him.[pcms]
 
 *2192|
 [fc]
 [vo_stk s="satuki_tj0081"]
-[ns]彩月[nse]
-「やだっ！　放してよっ！！　触んないでっ！！」[pcms]
+[ns]Satsuki[nse]
+"No! Let me go!! Don't touch me!!"[pcms]
 
 *2193|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛……あ゛は゛ぁ～……お゛め゛ぇ……おっは゛い……、[r]
-　て゛け゛ぇな゛ぁ～」[pcms]
+[ns]Infected Person C[nse]
+"Ah... ahaha~... your pussy... so warm..., feels so good~"[pcms]
 
 *2194|
 [fc]
-寝そべった感染者が両手を伸ばして、南先輩の双房をつかんだ。[pcms]
+The lying infected person reached out with both hands and grabbed[r]
+Senior Minami's breasts.[pcms]
 
 *2195|
 [fc]
 [vo_stk s="satuki_tj0082"]
-[ns]彩月[nse]
-「嫌っ！　触んないでってば！　放してえっ！」[pcms]
+[ns]Satsuki[nse]
+"No! Don't touch me! Let me go!"[pcms]
 
 *2196|
 [fc]
-嫌がって叫ぶ南先輩の開いた口を狙って、感染者たちが[r]
-勃起したペニスを顔面に突きつける。[pcms]
+As Senior Minami screamed in protest, the infected persons aimed their[r]
+erect penises at her open mouth.[pcms]
 
 *2197|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛～……た゛まん゛ねえ゛ぇ～、[r]
-　お゛……お゛ら゛ぁ……お゛れの゛ちんほ゛……、[r]
-　く゛わえ゛ろ～」[pcms]
+[ns]Infected D[nse]
+"Ah~... can't stand it anymore, grab my cock..., suck it~"[pcms]
 
 *2198|
 [fc]
-[ns]感染者Ｅ[nse]
-「め゛すふ゛たは゛ぁ……ち゛んほ゛……、[r]
-　た゛い゛すき゛た゛よな゛ぁ～、[r]
-　お゛らっ……さ゛っさ゛と……く゛わえ゛るんた゛よおぉ～」[pcms]
+[ns]Infected E[nse]
+"You bitch loves cock..., right? Come on..., suck it quickly~"[pcms]
 
 *2199|
 [fc]
-[ns]感染者Ｆ[nse]
-「く゛わえ゛ねぇん゛なら……こ゛のま゛ま……、[r]
-　ふ゛っか゛ける゛のも……た゛のし゛ぃか゛なぁ～」[pcms]
+[ns]Infected F[nse]
+"If you won't suck it..., then maybe spraying it all over you will be[r]
+fun too~"[pcms]
 
 *2200|
 [fc]
-右を向いても左を見ても、薄汚れたペニスが[r]
-隙あらば南先輩の口にねじ込もうと、[r]
-槍のように突き出されている。[pcms]
+Whether she looked right or left, filthy penises were thrusting[r]
+towards Senior Minami's mouth like spears, ready to pry their way in[r]
+at any opportunity.[pcms]
 
 *2201|
 [fc]
-その臭気から逃れるように、南先輩が体をねじって[r]
-後ろを振り返った。[pcms]
+Trying to escape the stench, Senior Minami twisted her body and looked[r]
+back.[pcms]
 
 *2202|
 [fc]
-[ns]感染者Ｇ[nse]
-「お゛～……お゛しり゛～……すへ゛すへ゛た゛あ゛ぁ～」[pcms]
+[ns]Infected G[nse]
+"Oh~... that ass~... so smooth~"[pcms]
 
 *2203|
 [fc]
-[ns]感染者Ｈ[nse]
-「わ゛……わ゛かい゛……お゛んな゛の……はた゛は……、[r]
-　や゛わら゛かく゛てぇ……た゛まん゛ねぇ゛なあ゛ぁ～」[pcms]
+[ns]Infected H[nse]
+"Ah... young... women's skin... so soft... can't get enough~"[pcms]
 
 *2204|
 [fc]
 [vo_stk s="satuki_tj0083"]
-[ns]彩月[nse]
-「あああぁぁ……お願いだから、もう止めてよぉ……」[pcms]
+[ns]Satsuki[nse]
+"Aaaaah... please, just stop it already..."[pcms]
 
 *2205|
 [fc]
-自分の周囲を十重二十重に取り囲む感染者の群れに、[r]
-南先輩が泣きながら、絶望の声を上げる。[pcms]
+Surrounded by a tenfold, twentyfold horde of infected, Senior Minami[r]
+raised a voice of despair while crying.[pcms]
 
 *2206|
 [fc]
-しかし、ウイルスに脳を冒された感染者たちには[r]
-かつて人だった時には持ち合わせていたはずの[r]
-憐憫の情はすでに失われていた。[pcms]
+However, any semblance of pity that these infected, whose brains had[r]
+been taken over by the virus, might have once possessed as humans was[r]
+now long gone.[pcms]
 
 *2207|
 [fc]
-泣きながら力なく拒絶する南先輩の体を持ち上げると[r]
-ボンネットの上に寝転んでいた感染者の屹立したペニスの上へ[r]
-そのまま体を落とされ、挿入されてしまった。[pcms]
+As Senior Minami weakly resisted while crying, she was lifted up and[r]
+dropped onto the erect penis of an infected person lying on the hood,[r]
+penetrating her.[pcms]
 
 [evcg storage="satuki_H009b"][trans_c cross time=300]
 
 *2208|
 [fc]
 [vo_stk s="satuki_tj0084"]
-[ns]彩月[nse]
-「ひいぃああああぁあぁぁぁっ！」[pcms]
+[ns]Satsuki[nse]
+"Hiiiiiaaaaaaaahhh!"[pcms]
 
 *2209|
 [fc]
-[ns]感染者Ｃ[nse]
-「お゛～……お゛ま゛んこ゛もぉ……く゛あい……い゛いそ゛ぉ～。[r]
-　あ゛あ゛～……き゛もち゛ぃい゛いい゛ぃ～」[pcms]
+[ns]Infected Person C[nse]
+"Oh~... your pussy... so tight... feels so good~. Ah~... it feels[r]
+amazing~"[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
 *2210|
 [fc]
-寝転んだまま南先輩を犯している感染者が、下から猛然と[r]
-南先輩の体を突き上げはじめた。[pcms]
+The infected person lying down began to thrust vigorously into Senior[r]
+Minami from below.[pcms]
 
 *2211|
 [fc]
 [vo_stk s="satuki_tj0085"]
-[ns]彩月[nse]
-「あがぁっ！　あぐうぅっ！　おっ、奥うっ！[r]
-　おまんこっ、のっ、奥っ、がああぁっ！」[pcms]
+[ns]Satsuki[nse]
+"Agah! Aguuuh! Oh, deep inside! My pussy, deep inside, aaaaah!"[pcms]
 
 *2212|
 [fc]
 [vo_stk s="satuki_tj0086"]
-[ns]彩月[nse]
-「嫌ぁあぁっ！　いやあぁっ！　いっ、痛っ……！[r]
-　突き上げ……られてっ……ぐっ、ぐううぅぅぅっ！！」[pcms]
+[ns]Satsuki[nse]
+"No, nooo! It hurts...! The thrusting... it's too much... guh,[r]
+guuuuh!!"[pcms]
 
 *2213|
 [fc]
-南先輩の体が、感染者の突き上げで激しく上下している。[pcms]
+Senior Minami's body was violently moving up and down from the[r]
+infected's thrusting.[pcms]
 
 *2214|
 [fc]
-その凄まじい突き上げに子宮口を押されて、南先輩が苦悶している。[pcms]
+With the intense thrusting pressing against her cervix, Senior Minami[r]
+was in agony.[pcms]
 
 [evcg storage="satuki_H009c"][trans_c cross time=300]
 
 *2215|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛……お゛お゛お～……す゛……す゛け゛えなぁ～。[r]
-　おっ゛は゛い……ふ゛る゛んふ゛る゛ん……ゆ゛れて゛る～」[pcms]
+[ns]Infected Person D[nse]
+"Oh... ohhh~... so slippery~. Your mouth... trembling... shaking~"[pcms]
 
 *2216|
 [fc]
-[ns]感染者Ｇ[nse]
-「け゛……け゛つ゛も……や゛わ゛ら゛けぇ～……、[r]
-　たふ゛たふ゛た゛あぁ～」[pcms]
+[ns]Infected G[nse]
+"Ah... that ass... so soft~... bouncing~"[pcms]
 
 *2217|
 [fc]
-[ns]感染者Ｈ[nse]
-「お゛～……お゛れに゛も～……さ゛わら゛せろ゛おぉ～」[pcms]
+[ns]Infected H[nse]
+"Oh~... let me touch it too~"[pcms]
 
 *2218|
 [fc]
-激しく上下動を繰り返している南先輩の胸や尻の動きに[r]
-惹かれた感染者たちが、我も我もと南先輩の体に[r]
-手を伸ばしてくる。[pcms]
+Attracted by the violent movements of Senior Minami's breasts and[r]
+butt, the infected reached out one after another to touch her body.[pcms]
 
 *2219|
 [fc]
 [vo_stk s="satuki_tj0087"]
-[ns]彩月[nse]
-「ぎぃっ！　いぅっ！　あがあぁっ！　が、がああぁぁっ！」[pcms]
+[ns]Satsuki[nse]
+"Gyah! Eeuh! Agaah! Gah, gaaaah!"[pcms]
 
 *2220|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛～……お゛まん゛この゛なか゛ぁ……、[r]
-　あ゛った゛かく゛って……と゛ろ゛とろた゛あぁ～」[pcms]
+[ns]Infected Person C[nse]
+"Ah~... inside your pussy... it's so warm... and dripping~"[pcms]
 
 *2221|
 [fc]
-言葉にならない叫び声をあげる南先輩と、愉悦に眼を細める[r]
-感染者の言葉の好対照は。薄ら寒くさえあった。[pcms]
+The stark contrast between Senior Minami's inarticulate screams and[r]
+the infected's words of pleasure was chilling to the bone.[pcms]
 
 *2222|
 [fc]
-[ns]感染者Ｆ[nse]
-「こ゛……こ゛んな゛……す゛けへ゛なこ゛うけい……[r]
-　みな゛か゛ら～……し゛ふ゛んで……ちんほ゛しこ゛くのも……、[r]
-　き゛もち゛いい゛なぁ～」[pcms]
+[ns]Infected F[nse]
+"Such a slippery sight... seeing it all from here... jerking off my[r]
+dick... feels good too~"[pcms]
 
 *2223|
 [fc]
-[ns]感染者Ｈ[nse]
-「し゛ゅん゛はん゛か……く゛るまて゛……、[r]
-　ま゛ちき゛れそ゛うに゛ねぇな゛あぁ～、[r]
-　と゛りあ゛えす……た゛しち゛まお゛うかな゛ぁ～」[pcms]
+[ns]Infected H[nse]
+"Ah~... can't hold it anymore in the car..., looks like it's about to[r]
+burst..., maybe I'll just let it out~"[pcms]
 
 [evcg storage="satuki_H009c"][trans_c cross time=300]
 
 *2224|
 [fc]
 [vo_stk s="satuki_tj0088"]
-[ns]彩月[nse]
-「ひぎいっ！　あがっ！　ぐっ！　はがあぁっ！」[pcms]
+[ns]Satsuki[nse]
+"Higii! Agah! Guh! Hagaaaah!"[pcms]
 
 *2225|
 [fc]
-南先輩の苦痛が増すほどに、中が反応するのだろうか、[r]
-下で突き上げている男が喜んでいた。[pcms]
+As Senior Minami's pain intensified, perhaps her insides reacted[r]
+accordingly, as the man thrusting from below seemed pleased.[pcms]
 
 *2226|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛……あ゛あ゛ぁ～……た゛して゛やるぅ……、[r]
-　た゛して゛やる゛そ゛お゛ぉ～。[r]
-　お゛れの゛こた゛ね……た゛っふ゛り……う゛けと゛れぇ～！」[pcms]
+[ns]Infected Person C[nse]
+"Ah... ahhh~... I'll fill you up..., I'll fill you up so much. My[r]
+seeds... spilling inside you~!"[pcms]
 
 *2227|
 [fc]
 [vo_stk s="satuki_tj0089"]
-[ns]彩月[nse]
-「いっ、いやああぁああぁぁあぁぁっ！！」[pcms]
+[ns]Satsuki[nse]
+"No, nooooooo!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -735,45 +705,44 @@
 
 *2228|
 [fc]
-感染者の射精の瞬間、その発射の勢いで南先輩の体が[r]
-びくん、と上に持ち上げられたように見えた。[pcms]
+At the moment of the infected's ejaculation, Senior Minami's body[r]
+seemed to be lifted up by the force of the discharge.[pcms]
 
 [evcg storage="satuki_H009f"][trans_c cross time=300]
 
 *2229|
 [fc]
 [vo_stk s="satuki_tj0090"]
-[ns]彩月[nse]
-「やあっ！　やだあっ！　出てるっ！　でてるうぅっ！！」[pcms]
+[ns]Satsuki[nse]
+"No! No! It's coming out! It's coming out!!"[pcms]
 
 *2230|
 [fc]
-感染者の精液を中出しされるおぞましい感覚に、[r]
-南先輩が身をよじって嫌悪している。[pcms]
+The vile sensation of being filled with the infected's semen made[r]
+Senior Minami twist her body in disgust.[pcms]
 
 *2231|
 [fc]
-結合部から中出しされた精液が逆流して、まだつながったままの[r]
-結合部を真っ白に染めてゆく。[pcms]
+The semen ejaculated inside her flowed back out, whitening the still[r]
+connected parts.[pcms]
 
 *2232|
 [fc]
-しかし、射精した感染者は、なおも腰を振り続けていた。[pcms]
+Yet, the infected person who had ejaculated continued to thrust his[r]
+hips.[pcms]
 
 [evcg storage="satuki_H009g"][trans_c cross time=300]
 
 *2233|
 [fc]
-[ns]感染者Ｃ[nse]
-「た゛……た゛った……い゛っは゛つじゃ……お゛わら゛ねえぇ～。[r]
-　も゛っとも゛っと……た゛させ゛ろぉ～！」[pcms]
+[ns]Infected Person C[nse]
+"It's not over with just one shot... let me do more~!"[pcms]
 
 *2234|
 [fc]
-[ns]感染者Ｈ[nse]
-「あ゛～……も゛う……か゛まんて゛きね゛えぇ～。[r]
-　こ゛っち゛のあなて゛も……い゛い゛や～。[r]
-　い゛れさ゛せろ゛おぉ～」[pcms]
+[ns]Infected H[nse]
+"Ah~... can't hold back anymore. This hole too... feels good. Let me[r]
+in too~"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -782,115 +751,108 @@
 
 *2235|
 [fc]
-我慢の限界に達したのか、別の感染者がいきり立ったペニスを[r]
-南先輩の尻の穴に押しつけ、そのままぐいっと押し込んだ。[pcms]
+Having reached his limit of patience, another infected pressed his[r]
+erect penis against Senior Minami's anal opening and pushed it in with[r]
+force.[pcms]
 
 *2236|
 [fc]
 [vo_stk s="satuki_tj0091"]
-[ns]彩月[nse]
-「ひっ、ひぎいいいいいいぃぃぃぃぃっっっ！！！！」[pcms]
+[ns]Satsuki[nse]
+"Higiiiiiiiiiiiiiiiiiiii!!!"[pcms]
 
 *2237|
 [fc]
-[ns]感染者Ｃ[nse]
-「お゛……お゛お～……お゛まん゛こ……お゛され゛るうぅ～」[pcms]
+[ns]Infected Person C[nse]
+"Oh... ohhh~... your pussy is being filled~"[pcms]
 
 *2238|
 [fc]
-[ns]感染者Ｈ[nse]
-「け゛……け゛つの゛あな……き゛もち゛……い゛いそ゛お゛ぉ～、[r]
-　た゛まん゛ねえ゛ぇ～」[pcms]
+[ns]Infected H[nse]
+"Ah... that ass hole... feels so good~, can't get enough~"[pcms]
 
 [evcg storage="satuki_H009i"][trans_c cross time=300]
 
 *2239|
 [fc]
 [vo_stk s="satuki_tj0092"]
-[ns]彩月[nse]
-「あがあぁっ！　ぎっ！　ぎぎぎぎぃいいぃっ！！[r]
-　裂けるっ！　裂けちゃううぅっ！！」[pcms]
+[ns]Satsuki[nse]
+"Agaaah! Gih! Gihgihgihgiiiiii!! It's tearing! It's going to tear!!"[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
 *2240|
 [fc]
-性器とアナル、２箇所を同時に穿たれて、南先輩が[r]
-さらなる苦痛にのたうっている。[pcms]
+Having her genitals and anus penetrated simultaneously, Senior Minami[r]
+writhed in even greater agony.[pcms]
 
 *2241|
 [fc]
 [vo_stk s="satuki_tj0093"]
-[ns]彩月[nse]
-「いた……いっ！　痛いよおぉ……ぐ、ぎぎぎぃぃっ！[r]
-　おしり……が、は、ああぁううぅぅっ！！」[pcms]
+[ns]Satsuki[nse]
+"It hurts... it hurts... guh, gigigiiii! My butt... it's, ha,[r]
+ahhhhhh!!"[pcms]
 
 [evcg storage="satuki_H009j"][trans_c cross time=300]
 
 *2242|
 [fc]
 [vo_stk s="satuki_tj0094"]
-[ns]彩月[nse]
-「ぐぎぃいぃっ！　しっ……死ぬうぅ、しんじゃううぅっ！！[r]
-　ごはっ、ぐっ、ぎ、ぎいいいぃぃぃっっ！！」[pcms]
+[ns]Satsuki[nse]
+"Gigiiii! I'm... going to die, I'm dying!! Goh, guh, gi, giiiiii!!"[pcms]
 
 *2243|
 [fc]
-[ns]感染者Ｈ[nse]
-「なぁんた゛ぁ……し゛ぬほと゛ぉ……いいのか゛あぁ～。[r]
-　けつ゛の……あ゛な゛て……か゛んし゛るなん゛てぇ……[r]
-　この゛お゛んな゛ぁ……いん゛ら゛んた゛あぁ～」[pcms]
+[ns]Infected H[nse]
+"What's that... you're gonna die... that's good~. Your ass... hole...[r]
+getting fucked... this woman... is so lewd~"[pcms]
 
 *2244|
 [fc]
-[ns]感染者Ｃ[nse]
-「お゛まん゛こと……け゛つの゛あなに゛……ち゛んほ゛……、[r]
-　い゛れら゛れて～、か゛んし゛るな゛んて……、[r]
-　へ゛んた゛いた゛ぁ」[pcms]
+[ns]Infected C[nse]
+"Your pussy and... your ass hole... getting fucked... being[r]
+penetrated~ feels... amazing."[pcms]
 
 *2245|
 [fc]
-[ns]感染者Ｄ[nse]
-「な……な゛んた゛ぁ……へ゛んた゛い……い゛んら゛んおんな[r]
-　た゛った゛のか～……な゛ら…ふ゛っか゛けて゛も……、[r]
-　た゛いし゛ょう゛ふ゛た゛な～」[pcms]
+[ns]Infected D[nse]
+"What... what's this... such a lewd woman... if that's the case...[r]
+even if I cum inside... it's no big deal~"[pcms]
 
 [evcg storage="satuki_H009k"][trans_c cross time=300]
 
 *2246|
 [fc]
 [vo_stk s="satuki_tj0095"]
-[ns]彩月[nse]
-「かは……っ、ぐ……ううぅ……、あぎ……おぉぉぉ……！」[pcms]
+[ns]Satsuki[nse]
+"Kaha... guh... uuuu... agi... ooooooh...!"[pcms]
 
 *2247|
 [fc]
-感染者たちのあまりの責めの激しさに、もはや南先輩は[r]
-声も切れ切れの青息吐息の状態になっている。[pcms]
+Due to the intense assault by the infected, Senior Minami was now[r]
+gasping for breath, her voice coming out in broken whimpers.[pcms]
 
 *2248|
 [fc]
-[ns]感染者Ｈ[nse]
-「お゛……お゛おお゛～……け゛つの゛あな゛の……な゛か゛ぁ、[r]
-　ち゛んほ゛を……く゛いく゛い……、[r]
-　し゛めつ゛けて゛くる゛そ゛ぉ～」[pcms]
+[ns]Infected H[nse]
+"Oh... ohhhh~... inside your ass hole... my dick is... stirring you[r]
+up~"[pcms]
 
 *2249|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛～……ま゛た～……た゛した゛く゛なってき゛たあぁ～」[pcms]
+[ns]Infected Person C[nse]
+"Ahh~... I'm getting turned on again~"[pcms]
 
 *2250|
 [fc]
-[ns]感染者Ｈ[nse]
-「お゛れ゛も～……け゛つのあ゛なの゛なかにぃ……、[r]
-　た゛っふ゛りとぉ……そ゛そき゛こんて゛やる゛そ゛ぉ～」[pcms]
+[ns]Infected H[nse]
+"Me too~... I'm gonna thrust deep inside your ass hole~"[pcms]
 
 *2251|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛あ゛ぁ～……て゛るう゛うぅぅ～！」[pcms]
+[ns]Infected Person C[nse]
+"Ahhh~... here it comes~!"[pcms]
 
 ;//seフェード停止
 [stopse buf=1]
@@ -909,15 +871,16 @@
 
 *2252|
 [fc]
-性器とアナルを犯していた感染者たちが、同時に動きを止めた。[pcms]
+The infected who were violating her genitals and anus stopped moving[r]
+simultaneously.[pcms]
 
 [evcg storage="satuki_H009i"][trans_c cross time=300]
 
 *2253|
 [fc]
 [vo_stk s="satuki_tj0096"]
-[ns]彩月[nse]
-「……あ、かはっ……っ、くう……ううぅぅぅ……」[pcms]
+[ns]Satsuki[nse]
+"...ah, kaha... kuuh... uuuuu..."[pcms]
 
 [se buf=0 storage="se_sex01"]
 
@@ -930,18 +893,18 @@
 
 *2254|
 [fc]
-性器とアナルに同時に射精され、瘧の発作のように[r]
-南先輩の全身がぶるぶると震えている。[pcms]
+Ejaculated into simultaneously at her genitals and anus, Senior[r]
+Minami's entire body shook like she was having a malarial seizure.[pcms]
 
 *2255|
 [fc]
-[ns]感染者Ｄ[nse]
-「おれもぉ～でるうぅ～」[pcms]
+[ns]Infected D[nse]
+"I'm cumming too~"[pcms]
 
 *2256|
 [fc]
-[ns]感染者Ｆ[nse]
-「ふ゛……ふ゛っか゛けて゛……や゛るそ゛おおぉ～！」[pcms]
+[ns]Infected F[nse]
+"I'm gonna cum all over you~!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 
@@ -954,8 +917,8 @@
 
 *2257|
 [fc]
-南先輩の周囲でペニスをしごいたり、こすりつけたりしていた[r]
-感染者たちが、つぎつぎと射精していく。[pcms]
+The infected who had been stroking their penises or rubbing them[r]
+against her began to ejaculate one after another.[pcms]
 
 [se buf=0 storage="se_sex01"]
 
@@ -968,14 +931,13 @@
 
 *2258|
 [fc]
-顔面や胸、尻につぎつぎとウイルスにまみれた白濁液が[r]
-降り注いでゆき、南先輩の体を白く汚してゆく。[pcms]
+Semen covered with the virus rained down on her face, breasts, and[r]
+butt one after another, soiling Senior Minami's body white.[pcms]
 
 *2259|
 [fc]
-[ns]感染者Ｅ[nse]
-「おほおぉ～、うけとれぇ～。[r]
-　この、いんらん、めすぶたおんなあぁ～！」[pcms]
+[ns]Infected E[nse]
+"Ohhooo~ take it all~. You lewd, slutty woman~!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 
@@ -989,23 +951,24 @@
 *2260|
 [fc]
 [vo_stk s="satuki_tj0097"]
-[ns]彩月[nse]
-「は……く………あぁ………んっ……………」[pcms]
+[ns]Satsuki[nse]
+"Ha... ku... ahh... nnh..."[pcms]
 
 *2261|
 [fc]
-南先輩は、もはや感染者たちの精液を浴びても、反応すら見せず、[r]
-ただ、ぼんやりと白濁に汚されるがままになっていた。[pcms]
+Senior Minami was now so overwhelmed by the infected's semen that she[r]
+didn't even react, just lying there blankly as she was dirtied by the[r]
+white muck.[pcms]
 
 *2262|
 [fc]
-[ns]感染者Ｇ[nse]
-「こ゛……こんと゛は……お゛れ゛のは゛んた゛あ゛ぁ～」[pcms]
+[ns]Infected G[nse]
+"This time... it's my turn~"[pcms]
 
 *2263|
 [fc]
-ひとりの感染者がそう宣言すると、南先輩の体を[r]
-後ろからやすやすと持ち上げた。[pcms]
+As one of the infected declared this, he easily lifted Senior Minami's[r]
+body from behind.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1017,21 +980,19 @@
 
 *2264|
 [fc]
-[ns]感染者Ｇ[nse]
-「へ゛……へ゛んた゛いお゛んな゛ぁ……、[r]
-　おれ゛のち゛んほ゛……う゛け゛とれぇ～」[pcms]
+[ns]Infected G[nse]
+"You lewd woman... take my dick deep inside~"[pcms]
 
 *2265|
 [fc]
 [vo_stk s="satuki_tj0098"]
-[ns]彩月[nse]
-「あ、はぐうぅ……っ！」[pcms]
+[ns]Satsuki[nse]
+"Ah, haguuh...!"[pcms]
 
 *2266|
 [fc]
-羽交い締めのような体勢で南先輩の体を持ち上げた感染者は[r]
-下に落ちる反動を利用して、南先輩のアナルに深々と[r]
-ペニスを突き刺した。[pcms]
+The infected holding Senior Minami in a bear hug used the momentum of[r]
+her falling back down to deeply thrust his penis into her anus.[pcms]
 
 ;//■イベントCG　satuki_H010
 [evcg storage="satuki_H010b"][trans_c cross time=300]
@@ -1039,53 +1000,51 @@
 *2267|
 [fc]
 [vo_stk s="satuki_tj0099"]
-[ns]彩月[nse]
-「あっ、また……っ！　そこ……はっ……違っ……ううぅっ！」[pcms]
+[ns]Satsuki[nse]
+"Ah, not again...! That place is... wrong... uuuuh!"[pcms]
 
 *2268|
 [fc]
-本来男性器を挿入するべき場所ではないところを犯されて、[r]
-ぐったりしていた南先輩が、それでも弱々しく拒絶を見せた。[pcms]
+Violated in a place not meant for male penetration, the exhausted[r]
+Senior Minami still weakly showed resistance.[pcms]
 
 *2269|
 [fc]
-[ns]感染者Ｇ[nse]
-「お゛～……い゛んら゛んお゛んなの……け゛つのあ゛な～。[r]
-　き゛も゛ち゛……い゛い゛なあぁ～」[pcms]
+[ns]Infected G[nse]
+"Ohh... this lewd woman's ass hole... feels so good~"[pcms]
 
 *2270|
 [fc]
 [vo_stk s="satuki_tj0100"]
-[ns]彩月[nse]
-「かは……っ、はぁ……っ、あっ、あ、ああぁぁっっっ……！」[pcms]
+[ns]Satsuki[nse]
+"Kaha... haah... ah, ah, aaaaahhhhh...!"[pcms]
 
 *2271|
 [fc]
-[ns]感染者Ｄ[nse]
-「お、おまえら、ばっかり、してんじゃ、ねぇよ。[r]
-　おれにも、やらせろぉ～」[pcms]
+[ns]Infected Person D[nse]
+"Hey, don't you guys hog it all. Let me have a turn too~"[pcms]
 
 *2272|
 [fc]
-[ns]感染者Ｆ[nse]
-「ま゛……ま゛ちく゛たひ゛れて……ち゛んほ゛か゛……、[r]
-　か゛わ゛いち゛まうし゛ゃ……ね゛えか。[r]
-　も゛う……か゛まわ゛ねぇ……い゛れ゛ち゛おうぜ゛～」[pcms]
+[ns]Infected F[nse]
+"If we keep going like this... my dick's gonna... break. Can't wait[r]
+anymore... let's all go in~"[pcms]
 
 *2273|
 [fc]
-ぎらついた欲望を隠そうともしない感染者が、すでにアナルを[r]
-犯されている状態の南先輩に、二人同時につめよった。[pcms]
+The infected, not even trying to hide their lustful gaze, crowded[r]
+around Senior Minami who was already being violated anally, pressing[r]
+in two at a time.[pcms]
 
 *2274|
 [fc]
 [vo_stk s="satuki_tj0101"]
-[ns]彩月[nse]
-「や……やあっ……やめ……てっ……無理……いっ……」[pcms]
+[ns]Satsuki[nse]
+"No... nooo... stop it... it's impossible..."[pcms]
 
 *2275|
 [fc]
-弱々しく拒絶する南先輩の言葉は、何の役にもたたなかった。[pcms]
+The feeble protests of Senior Minami were of no use.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -1099,51 +1058,51 @@
 *2276|
 [fc]
 [vo_stk s="satuki_tj0102"]
-[ns]彩月[nse]
-「ぎゃああああああっぁぁぁぁぁっっっっ！！！！」[pcms]
+[ns]Satsuki[nse]
+"Gyaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhh!!!"[pcms]
 
 *2277|
 [fc]
-南先輩の絶叫が周囲に響き渡る。[pcms]
+Senior Minami's screams echoed around the area.[pcms]
 
 *2278|
 [fc]
-アナルを犯されていたところに、さらに二人の感染者が[r]
-同時にペニスを南先輩の性器に無理矢理ねじ込んでいた。[pcms]
+While her anus was being violated, two more infected forced their[r]
+penises into Senior Minami's genitals simultaneously.[pcms]
 
 *2279|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛っ……お゛おお゛ぉ～……は゛いった゛あぁ～」[pcms]
+[ns]Infected D[nse]
+"Ohh... ohhhh~... it went in~"[pcms]
 
 *2280|
 [fc]
-[ns]感染者Ｆ[nse]
-「や゛……や゛っは゛り……ま゛んこ゛のなか゛は……、[r]
-　さ゛いこ゛うた゛なぁ～」[pcms]
+[ns]Infected F[nse]
+"Yeah... as I thought... the inside of her pussy... feels so good~"[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *2281|
 [fc]
-男たちが好き勝手に腰を振り始め、南先輩の体を蹂躙してゆく。[pcms]
+The men began to move their hips at will, ravaging Senior Minami's[r]
+body.[pcms]
 
 *2282|
 [fc]
-文字通り、臓腑を抉られる感覚に南先輩は悶絶していた。[pcms]
+Literally feeling as if her insides were being gouged out, Senior[r]
+Minami was in agony.[pcms]
 
 *2283|
 [fc]
 [vo_stk s="satuki_tj0103"]
-[ns]彩月[nse]
-「ぎ、ぎぎいっ！　ひぎっ！　ぎいいぃっ！[r]
-　が……ぐう……ぐえ、おっぷ……げ、げえええぇぇぇっっ！！」[pcms]
+[ns]Satsuki[nse]
+"Gi, gigii! Higii! Giiii! Ga...guu...gue, opp...ge, geeeeeee!!"[pcms]
 
 *2284|
 [fc]
-南先輩が、常軌を逸した性行為のあまりの不快感に[r]
-犯されたままで嘔吐した。[pcms]
+Senior Minami vomited from the extreme discomfort of the aberrant[r]
+sexual acts being performed on her.[pcms]
 
 [se buf=0 storage="seD006"]
 ;//♪SE床にこぼれる吐瀉物
@@ -1151,20 +1110,19 @@
 *2285|
 [fc]
 [vo_stk s="satuki_tj0104"]
-[ns]彩月[nse]
-「うえぇぇっ……えろぉっ……おげええぇぇぇ………っ！」[pcms]
+[ns]Satsuki[nse]
+"Ueeeh...erohh...ogeheeeeee...!"[pcms]
 
 *2286|
 [fc]
-[ns]感染者Ｄ[nse]
-「な゛……な゛んた゛ぁ……こ゛のお゛んな゛ぁ……[r]
-　け゛ろ……は゛きやか゛った゛ぁ～」[pcms]
+[ns]Infected D[nse]
+"Wha...what the... this woman... she's puking... all over~"[pcms]
 
 *2287|
 [fc]
 [vo_stk s="satuki_tj0105"]
-[ns]彩月[nse]
-「げえぇぇっ……うえぇぇっ、おええぇぇぇぇ………！」[pcms]
+[ns]Satsuki[nse]
+"Geeeh...ueeeh, oeeehhhhh...!"[pcms]
 
 [se buf=0 storage="seD006"]
 ;//♪SE床にこぼれる吐瀉物
@@ -1174,57 +1132,53 @@
 
 *2288|
 [fc]
-南先輩は、胃の内容物が全部吐き出されてもなお、[r]
-嘔吐を止めずに、胃液を吐き出していた。[pcms]
+Even after emptying all the contents of her stomach, Senior Minami[r]
+couldn't stop vomiting, expelling stomach acid.[pcms]
 
 *2289|
 [fc]
-[ns]感染者Ｇ[nse]
-「き゛った゛ねぇな゛あぁ～……く゛っさ゛い……、[r]
-　け゛ろ゛なんか……ぶ゛ち゛まけやか゛ってよぉ～」[pcms]
+[ns]Infected G[nse]
+"That's disgusting... so gross... getting puke all over like this~"[pcms]
 
 *2290|
 [fc]
-[ns]感染者Ｆ[nse]
-「あ゛～……て゛も～……け゛ろ゛か゛ぁ……[r]
-　ち゛んほ゛に゛まと゛わ゛りつ゛いて゛ぇ～……[r]
-　よ゛け゛いに゛……ぬ゛る゛ぬる゛して゛……き゛もちいいぃ～」[pcms]
+[ns]Infected F[nse]
+"Ah~...but~...the puke... it's sticking to my dick... it's so slippery[r]
+and... feels so good~"[pcms]
 
 [se buf=0 storage="seD006"]
 ;//♪SE床にこぼれる吐瀉物
 
 *2291|
 [fc]
-結合部を吐瀉物にまみれさせながら、それでも南先輩を[r]
-犯している感染者たちは動くのをやめない。[pcms]
+Despite being covered in vomit at the point of union, the infected[r]
+continued their assault on Senior Minami without stopping.[pcms]
 
 *2292|
 [fc]
-大脳新皮質を破壊されている感染者たちは、満足するということを[r]
-知らない。[pcms]
+The infected, with their prefrontal cortexes destroyed, did not know[r]
+the meaning of satisfaction.[pcms]
 
 *2293|
 [fc]
-やつらが動きを止める時は、物理的にペニスが[r]
-勃起しなくなった時か、でなければ死ぬ時だろう。[pcms]
+The only time they would stop moving was when their penises could no[r]
+longer maintain an erection, or perhaps when they died.[pcms]
 
 *2294|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛っ……お゛お゛ぉ～……け゛つ゛のあなか゛……、[r]
-　し゛まって゛……き゛も゛ち゛いい～」[pcms]
+[ns]Infected D[nse]
+"Ah...ohhh~...her ass is so tight... it feels so good~"[pcms]
 
 *2295|
 [fc]
-[ns]感染者Ｇ[nse]
-「お゛まん゛こ゛も～……ぬ゛るぬ゛るて゛ぇ～……お゛……、[r]
-　お゛ほ゛お゛ぉぉ～」[pcms]
+[ns]Infected G[nse]
+"Her pussy too... it's so slippery... oh... ohhhh~"[pcms]
 
 *2296|
 [fc]
-[ns]感染者Ｆ[nse]
-「こ゛の……お゛ま゛んこ゛ぉ～……た゛ま゛んね゛ぇな゛あぁ～。[r]
-　な゛んは゛つて゛も……た゛せそ゛うた゛せ゛ぇ～」[pcms]
+[ns]Infected F[nse]
+"This pussy... I can't get enough of it~ No matter how many times...[r]
+it's always so tight~"[pcms]
 
 ;//■イベントCG　satuki_H010
 [evcg storage="satuki_H010e"][trans_c cross time=300]
@@ -1234,52 +1188,49 @@
 *2297|
 [fc]
 [vo_stk s="satuki_tj0106"]
-[ns]彩月[nse]
-「はっ……かっ……くふっ……ん………んぁ………っ………」[pcms]
+[ns]Satsuki[nse]
+"Ha...kah...kufu...n...nah...!"[pcms]
 
 *2298|
 [fc]
-男たちの盛り上がりに反比例して、どんどんと南先輩の[r]
-反応が弱々しくなる。[pcms]
+As the men's excitement increased, Senior Minami's responses grew[r]
+weaker and weaker.[pcms]
 
 *2299|
 [fc]
-もはや、男たちになされるがまま身を委ねて、時折小さく[r]
-声を上げる程度だ。[pcms]
+Now merely letting the men do as they pleased with her body, she[r]
+occasionally let out small cries.[pcms]
 
 *2300|
 [fc]
-[ns]感染者Ｇ[nse]
-「あ゛～……お゛れ゛ぇ……も゛う……、[r]
-　た゛めた゛ぁ～て゛る゛ううぅ～」[pcms]
+[ns]Infected G[nse]
+"Ah~...I'm... already... done for~"[pcms]
 
 *2301|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛おっ゛れも゛おぉ……て゛るぅて゛る゛う゛うぅ～」[pcms]
+[ns]Infected D[nse]
+"Me too... I'm cumming~"[pcms]
 
 *2302|
 [fc]
-[ns]感染者Ｆ[nse]
-「お゛……お゛ま゛えら゛もかぁ……お゛れも゛ぉ……、[r]
-　で゛そう゛なんた゛ぁ～……し゛ゃ……し゛ゃあ゛……、[r]
-　い゛っし゛ょに゛た゛す゛かあ゛ぁ～」[pcms]
+[ns]Infected F[nse]
+"Oh... even the front is amazing... I'm also gonna... cum soon...[r]
+let's... let's do it together~"[pcms]
 
 *2303|
 [fc]
-[ns]感染者Ｄ[nse]
-「し゛ゃ……し゛ゃあ゛ぁ……い゛く゛……、[r]
-　そ゛おお゛おぉ゛ぉぉっ！」[pcms]
+[ns]Infected D[nse]
+"Then... then I'm going to cum... soooooo~"[pcms]
 
 *2304|
 [fc]
-[ns]感染者Ｇ[nse]
-「お゛おっお゛お゛おお゛おぉぉん゛ん゛んぅうっ！！」[pcms]
+[ns]Infected G[nse]
+"Ohhhhhhhnnnnnnnngggg!!!"[pcms]
 
 *2305|
 [fc]
-[ns]感染者Ｆ[nse]
-「て゛って゛る゛うう゛う゛うぅぅぅぅぅぅっ！！」[pcms]
+[ns]Infected F[nse]
+"I'm cummingggggggggg!!!"[pcms]
 
 ;//BGVオフ
 ;//se即時停止
@@ -1297,57 +1248,54 @@
 *2306|
 [fc]
 [vo_stk s="satuki_tj0107"]
-[ns]彩月[nse]
-「か……はっ………く………！！！」[pcms]
+[ns]Satsuki[nse]
+"Ka...hah...kuk...!!!"[pcms]
 
 *2307|
 [fc]
-南先輩のアナルに１本、性器に２本のペニスを挿入していた[r]
-感染者たちが、ほとんど同時に射精した。[pcms]
+The infected who had inserted one penis into Senior Minami's anus and[r]
+two into her genitals ejaculated almost simultaneously.[pcms]
 
 ;//■イベントCG　satuki_H010
 [evcg storage="satuki_H010g"][trans_c cross time=300]
 
 *2308|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛……お゛おう～……け゛つ゛のあな゛～……、[r]
-　し゛ま゛る゛うぅ～」[pcms]
+[ns]Infected D[nse]
+"Ohh...ohhh~...her ass is so tight~"[pcms]
 
 *2309|
 [fc]
-[ns]感染者Ｆ[nse]
-「お゛ぅっ……お゛ま゛んこ゛の……な゛か゛か゛ぁ～……、[r]
-　く゛ね゛くね゛……う゛こい゛て゛～……、[r]
-　き゛も゛ち゛いい゛い゛いぃぃぃ～」[pcms]
+[ns]Infected Person F[nse]
+"Ouhh...inside her pussy~... it's writhing and squeezing me~... feels[r]
+so gooddddd~"[pcms]
 
 *2310|
 [fc]
-男たちが口々に愉悦の言葉を漏らして、射精の快感を[r]
-味わっていたとき、南先輩の様子に変化があった。[pcms]
+As the men expressed their pleasure aloud, savoring the sensation of[r]
+ejaculation, there was a change in Senior Minami's condition.[pcms]
 
 *2311|
 [fc]
 [vo_stk s="satuki_tj0108"]
-[ns]彩月[nse]
-「かっ……き、く……あ、あは、あはは、はは、[r]
-　あはははははっあはははっ……！」[pcms]
+[ns]Satsuki[nse]
+"Ka...ki, ku...ah, aha, haha, haha, ahahahahahahahaha!!"[pcms]
 
 *2312|
 [fc]
 [vo_stk s="satuki_tj0109"]
-[ns]彩月[nse]
-「ひーっ！　ひーーーっ！　あは、あははははっ！[r]
-　くっくっくっ！　あはははははははははっははははぁ！！」[pcms]
+[ns]Satsuki[nse]
+"Hee! Hee---! Aha, ahahahaha! Kukkukkuk! Ahahahahahahahahaha!!"[pcms]
 
 *2313|
 [fc]
-それまで、死んだように静かな反応しか見せてなかった南先輩が[r]
-突然、火がついたように激しく笑い出した。[pcms]
+Senior Minami, who until then had only shown deadened reactions,[r]
+suddenly burst out laughing uncontrollably as if a fire had been lit[r]
+inside her.[pcms]
 
 *2314|
 [fc]
-南先輩が……壊れてしまった……。[pcms]
+Senior Minami had broken...[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -1390,136 +1338,136 @@
 
 *2315|
 [fc]
-その時、車の中でつかんでいた俺の腕を振りほどいて、[r]
-フランク先輩が車の外に飛び出した。[pcms]
+At that moment, shaking off my arm that he had grabbed inside the car,[r]
+Senior Frank rushed outside.[pcms]
 
 *2316|
 [fc]
-[ns]宗一郎[nse]
-「西先輩！　駄目です！！」[pcms]
+[ns]Souichirou[nse]
+"Senior West! No good!!"[pcms]
 
 *2317|
 [fc]
-[ns]西[nse]
-「出渕っ、俺はもう我慢できない！[r]
-　これ以上ただ見てるくらいなら、死んだ方がマシだ！」[pcms]
+[ns]West[nse]
+"Izubuchi, I can't take it anymore! If all I can do is watch, I'd[r]
+rather be dead!"[pcms]
 
 *2318|
 [fc]
-[ns]宗一郎[nse]
-「いくら先輩が強くても、多勢に無勢ですよ！」[pcms]
+[ns]Souichirou[nse]
+"No matter how strong you are, Senior, you're outnumbered!"[pcms]
 
 *2319|
 [fc]
-[ns]西[nse]
-「ああ、そうだ！　もっと早くに助けに行けば良かったんだ！[r]
-　それに見ろ！」[pcms]
+[ns]West[nse]
+"Yeah, that's right! I should have gone to help sooner! And look at[r]
+that!"[pcms]
 
 [evcg storage="satuki_H010a"][trans_c cross time=300]
 
 *2320|
 [fc]
-フランク先輩が南先輩を指さす。[pcms]
+Senior West pointed at Senior Minami.[pcms]
 
 *2321|
 [fc]
-[ns]西[nse]
-「南は、目の色が変わってない。ってことは、あれは一時的に[r]
-　錯乱してるだけだ！」[pcms]
+[ns]West[nse]
+"Minami's eyes haven't changed color. That means this is just[r]
+temporary madness!"[pcms]
 
 *2322|
 [fc]
-[ns]宗一郎[nse]
-「西先輩……！」[pcms]
+[ns]Souichirou[nse]
+"Senior West...!"[pcms]
 
 [bg storage="BG09a"]
 [image storage="sportscar_base" layer=1 page=back visible=true left=0 top=0][trans_c cross time=500]
 
 *2323|
 [fc]
-[ns]西[nse]
-「お前は逃げろ！　後ろの森に飛び込むんだ！」[pcms]
+[ns]West[nse]
+"You run! Dive into the forest behind us!"[pcms]
 
 *2324|
 [fc]
-そう言い残して、フランク先輩がまだ南先輩に群がっている[r]
-感染者の群れの中に突っ込んでいった。[pcms]
+Leaving those words behind, Senior West plunged into the crowd of[r]
+infected still swarming around Senior Minami.[pcms]
 
 *2325|
 [fc]
-[ns]西[nse]
-「この糞野郎ども！　俺が相手だっ、南を放せっ！！」[pcms]
+[ns]West[nse]
+"You bastards! I'm your opponent, let go of Minami!!"[pcms]
 
 *2326|
 [fc]
-怒髪天を衝くフランク先輩は、鬼神もかくやと[r]
-思うほどに強かった。[pcms]
+Senior West, with a fury that could scare demons, was incredibly[r]
+strong.[pcms]
 
 *2327|
 [fc]
-[ns]西[nse]
-「邪魔だ！　どけえっ！！」[pcms]
+[ns]West[nse]
+"Get out of the way! Move it!!"[pcms]
 
 *2328|
 [fc]
-[ns]感染者Ａ[nse]
-「ごぼおおぉっ！！」[pcms]
+[ns]Infected Person A[nse]
+"Goboooh!!"[pcms]
 
 *2329|
 [fc]
-正拳上段突きが感染者の顔面にめり込み、鼻が真っ平らになった[r]
-感染者が真後ろに棒立ちで倒れた。[pcms]
+A straight punch to the upper section of an infected person's face[r]
+caved in their nose, and they fell backward, standing stiff.[pcms]
 
 *2330|
 [fc]
-[ns]西[nse]
-「せりゃああぁっ！！」[pcms]
+[ns]West[nse]
+"Take that!!"[pcms]
 
 *2331|
 [fc]
-後ろからつかみかかった感染者の手首をとって、そのまま[r]
-一回転して投げ飛ばすと、地面に倒れた感染者の喉元を[r]
-フランク先輩が踏みつける。[pcms]
+Grabbing the wrist of an infected person who had reached out from[r]
+behind, Senior West spun around and threw them to the ground, then[r]
+stepped on the throat of the fallen infected person.[pcms]
 
 *2332|
 [fc]
-喉元を踏まれた感染者は、体をびくびくと痙攣させて[r]
-そのまま動かなくなった。[pcms]
+The infected person whose throat was stepped on convulsed and then[r]
+stopped moving altogether.[pcms]
 
 *2333|
 [fc]
-[ns]宗一郎[nse]
-（先輩……すみません……！）[pcms]
+[ns]Souichirou[nse]
+(I'm sorry, Senior...!)[pcms]
 
 [black_toplayer][trans_c rl time=300][hide_chara_int]
 
 *2334|
 [fc]
-こうしていても、俺はフランク先輩の戦いを[r]
-ただ見守ることしかできない。[pcms]
+Even as I stood there, all I could do was watch over Senior West's[r]
+fight.[pcms]
 
 [bg storage="forest01a"][trans_c rl time=300]
 
 *2335|
 [fc]
-後ろ髪を引かれる思いで、俺は開け放たれた車のドアから[r]
-外に転がり出ると、そのまま森を目指して走った。[pcms]
+With a heavy heart, I rolled out of the open car door and ran towards[r]
+the forest.[pcms]
 
 *2336|
 [fc]
-横目で見ると、相変わらずフランク先輩は獅子奮迅の働きで[r]
-押し寄せる感染者たちを、全身余すところなく駆使して[r]
-倒しながら、南先輩に近づいている。[pcms]
+Glancing sideways, I saw Senior West still fighting valiantly against[r]
+the oncoming infected, getting closer to Senior Minami by knocking[r]
+them down using his entire body.[pcms]
 
 *2337|
 [fc]
-そのフランク先輩にすっかり気を取られて、感染者たちは[r]
-俺に気がつく様子はない。[pcms]
+The infected were so captivated by Senior West that they didn't notice[r]
+me at all.[pcms]
 
 *2338|
 [fc]
-俺は心の中でフランク先輩に手を合わせると、もう振り返らずに[r]
-藪をかき分けて森へと逃げ込んだ。[pcms]
+I joined my hands in my heart for Senior West and without looking back[r]
+anymore, I plunged into the forest, pushing through the underbrush.[pcms]
 
 ;//ここから第三者視点です（た）
 
@@ -1545,8 +1493,8 @@
 
 *2339|
 [fc]
-肘を脳天に、膝を顎に同時に打ち込んで、ひとりの感染者を[r]
-倒したとき、西は宗一郎が無事に森に逃げ込んだのを見た。[pcms]
+As he knocked down an infected person with an elbow to the crown and a[r]
+knee to the chin, West saw Souichirou safely escape into the forest.[pcms]
 
 [bgm storage="BGM12"]
 ;//♪bgm12　情熱的シーン（否エロ
@@ -1555,116 +1503,116 @@
 
 *2340|
 [fc]
-[ns]西[nse]
-「よし、これでデブは心配ないな……っと」[pcms]
+[ns]West[nse]
+"Good, that takes care of the big guy... now."[pcms]
 
 *2341|
 [fc]
-何人もの感染者を徒手空拳で倒した西の体は、[r]
-返り血にまみれていた。[pcms]
+West, who had taken down several infected with his bare hands, was[r]
+covered in their blood.[pcms]
 
 *2342|
 [fc]
-拳や肘、膝など、攻撃に使用する箇所には無数の擦り傷や[r]
-切り傷ができている。[pcms]
+His fists, elbows, knees, and other parts used for striking were[r]
+covered in countless scrapes and cuts.[pcms]
 
 *2343|
 [fc]
-拳には感染者の歯の破片すら突き刺さっていた。[pcms]
+Pieces of an infected person's teeth were even lodged in his knuckles.[pcms]
 
 *2344|
 [fc]
-[ns]西[nse]
-「いま行くぞ、南！！」[pcms]
+[ns]West[nse]
+"I'm coming for you now, Minami!!"[pcms]
 
 *2345|
 [fc]
-両手を挙げて、ゾンビ映画よろしく押し寄せてくる感染者に[r]
-西は真正面から走って突っ込んだ。[pcms]
+Raising both hands, West charged head-on into the horde of infected[r]
+approaching like a scene from a zombie movie.[pcms]
 
 *2346|
 [fc]
-感染者の手前で地面を蹴り、横にジャンプする。[pcms]
+Kicking off the ground just before reaching the infected, he jumped to[r]
+the side.[pcms]
 
 *2347|
 [fc]
-感染者たちが一瞬、西の姿を見失った。[pcms]
+The infected lost sight of West for a moment.[pcms]
 
 *2348|
 [fc]
-西はそのまま、横に止めてあった車のボディに着地すると[r]
-三角蹴りの要領で、感染者たちの頭部に回し蹴りをお見舞いする。[pcms]
+West landed on the body of a parked car and delivered a roundhouse[r]
+kick to the heads of the infected with the technique of a triangle[r]
+kick.[pcms]
 
 *2349|
 [fc]
-何人かの感染者が、将棋倒しになって一度に倒れ込んだ。[pcms]
+Several infected fell like dominoes all at once.[pcms]
 
 *2350|
 [fc]
-彩月のところまで、これでもう邪魔する感染者はいない。[pcms]
+There were no more infected to obstruct him from reaching Satsuki.[pcms]
 
 *2351|
 [fc]
-西がそう思って着地した瞬間、車の下から現れた感染者に[r]
-足首を捕まれてしまった。[pcms]
+The moment West thought this and landed, an infected person who[r]
+emerged from under a car grabbed his ankle.[pcms]
 
 *2352|
 [fc]
-[ns]西[nse]
-「し、しまった！！」[pcms]
+[ns]West[nse]
+"Damn it!!"[pcms]
 
 *2353|
 [fc]
-西は自分の足首をつかんでいる感染者の手首を、全体重をかけて[r]
-何度も踏みつぶす。[pcms]
+West stomped on the wrist of the infected holding his ankle with all[r]
+his weight repeatedly.[pcms]
 
 *2354|
 [fc]
-しかし、感染者の手首は、ぐしゃぐしゃに骨折して[r]
-骨が飛び出しているにも関わらず、[r]
-西の足首をつかんだ手は離れなかった。[pcms]
+However, despite the infected's wrist being crushed and bones[r]
+protruding, the hand holding onto West's ankle did not let go.[pcms]
 
 *2355|
 [fc]
-[ns]西[nse]
-「こっ、このっ！　放せ、放せっ！！」[pcms]
+[ns]West[nse]
+"You... let go, let go!!"[pcms]
 
 *2356|
 [fc]
-西が足首をつかんだ感染者の処理に手間取る間、さっき三角飛びで[r]
-蹴り倒した感染者たちが起き上がり、ゆっくりと西に向かってくる。[pcms]
+While West struggled with the infected holding his ankle, the ones he[r]
+had knocked down with a triangle jump earlier were getting up and[r]
+slowly moving towards him.[pcms]
 
 *2357|
 [fc]
-[ns]感染者Ｂ[nse]
-「い゛……い゛って゛え゛なぁ……こ゛の゛や゛ろうぅ……」[pcms]
+[ns]Infected Person B[nse]
+"Iii...itteee naa...youuuu..."[pcms]
 
 *2358|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛……あ゛あぁ～……は゛ら゛……へ゛った゛あ゛ぁ～」[pcms]
+[ns]Infected C[nse]
+"Aaa...aaah~...hungry...sooo hungry~"[pcms]
 
 *2359|
 [fc]
-[ns]感染者Ｄ[nse]
-「あ゛～……に゛くた゛ぁ～……し゛んせ゛んな……にくた゛ぁ～。[r]
-　う゛まそ゛うた゛なあぁ～」[pcms]
+[ns]Infected D[nse]
+"Aaa~...meat~...fresh meat~. Looks sooo tasty~"[pcms]
 
 *2360|
 [fc]
-[ns]西[nse]
-「うっ、うわっ！　来るなっ、来るなああぁっ！！[r]
-　南、南いいぃぃっっ！！」[pcms]
+[ns]West[nse]
+"Ugh, uwaah! Don't come, don't come aahhh!! Satsuki, Satsuki aahhh!!"[pcms]
 
 *2361|
 [fc]
-西の絶叫は、感染者の群れに飲み込まれた。[pcms]
+West's scream was swallowed by the horde of infected.[pcms]
 
 *2362|
 [fc]
 [vo_stk s="satuki_tj0110"]
-[ns]彩月[nse]
-「うふ、ふふふ……あはは、あはははははっ……！」[pcms]
+[ns]Satsuki[nse]
+"Ufu, fufufu... Ahaha, ahahahahaha...!"[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -1713,119 +1661,115 @@
 
 *2363|
 [fc]
-俺は森に逃げ込んだ。[pcms]
+I fled into the forest.[pcms]
 
 *2364|
 [fc]
-気をつけているつもりでも、藪の中をかき分けて進むのは[r]
-かなりがさがさと大きな音がする。[pcms]
+Even though I was trying to be careful, moving through the underbrush[r]
+made quite a lot of noise.[pcms]
 
 *2365|
 [fc]
-その度に、俺は後ろを振り返って確認してみたが[r]
-感染者が追いかけてくる様子はない。[pcms]
+Every time, I looked back to check, but there was no sign of the[r]
+infected following me.[pcms]
 
 *2366|
 [fc]
-それでも俺は不安に駆られて、森の中へと進んでいった。[pcms]
+Still, driven by anxiety, I continued deeper into the forest.[pcms]
 
 *2367|
 [fc]
-[ns]宗一郎[nse]
-「はあっ……はあっ……こ、ここまで来れば……」[pcms]
+[ns]Souichirou[nse]
+"Haa... haa... I should be safe if I've come this far..."[pcms]
 
 *2368|
 [fc]
-特に根拠はないが、かなり森の中まで入り込んだことで[r]
-なんとなく俺はひと安心する心地になった。[pcms]
+There was no particular reason for it, but having gone quite deep into[r]
+the forest, I somehow felt a bit relieved.[pcms]
 
 *2369|
 [fc]
-そう言えば、誠はどうしてるだろう？[pcms]
+I wonder how Makoto is doing?[pcms]
 
 *2370|
 [fc]
-そう思って携帯の着信を見ると、誠からの着信があった。[r]
-急いで折り返し電話する。[pcms]
+Thinking that, I checked my phone for any calls and saw that there was[r]
+one from Makoto. I hurriedly called back.[pcms]
 
 *2371|
 [fc]
-誠はワンコール鳴らないうちに電話に出てくれた。[pcms]
+Makoto answered the phone before it even rang once.[pcms]
 
 *2372|
 [fc]
-[ns]誠[nse]
-「無事か、そーいち？」[pcms]
+[ns]Makoto[nse]
+"Are you safe, Sou-ichi?"[pcms]
 
 *2373|
 [fc]
-[ns]宗一郎[nse]
-「なんとかな。そっちは？」[pcms]
+[ns]Souichirou[nse]
+"Somehow. What about you?"[pcms]
 
 *2374|
 [fc]
-[ns]誠[nse]
-「神社も感染者だらけだよ！」[pcms]
+[ns]Makoto[nse]
+"The shrine is also full of infected!"[pcms]
 
 *2375|
 [fc]
-[ns]宗一郎[nse]
-「キャンプ場もだ！　いったい、何が起こってるのか……。[r]
-　とりあえず俺は、森の中に逃げ込んだけど……」[pcms]
+[ns]Souichirou[nse]
+"The campsite too! What on earth is happening... Anyway, I've fled[r]
+into the forest..."[pcms]
 
 *2376|
 [fc]
-そこまで話した時に、俺は頭をあげた。[pcms]
+As I said that, I raised my head.[pcms]
 
 *2377|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～……は゛なしこ゛えか゛した゛のは……、[r]
-　こ゛っち゛かあ゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Aaah~... was that voice just now... over hereee~"[pcms]
 
 *2378|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛あ゛ぁ～……あ゛ん゛な……と゛こ゛ろに゛……、[r]
-　い゛たそ゛お゛ぉ～」[pcms]
+[ns]Infected Person B[nse]
+"Aaah~... in such a place... there was someoneee~"[pcms]
 
 *2379|
 [fc]
-[ns]感染者Ｃ[nse]
-「お、お゛おぉ～……す゛い゛ふ゛ん……に゛くつ゛きが……、[r]
-　い゛い゛なあ゛ぁ～……ふ゛とって゛て……、[r]
-　う゛ま゛そう゛た゛あぁ～」[pcms]
+[ns]Infected Person C[nse]
+"Oh, ooh~... so hungry... flesh looks... so good~... plump and tasty~"[pcms]
 
 *2380|
 [fc]
-誠との通話に夢中になって、つい大声を出してしまった。[r]
-その声を感染者に聞かれてしまったらしい。[pcms]
+I was so engrossed in talking with Makoto that I inadvertently raised[r]
+my voice. It seems the infected heard me.[pcms]
 
 *2381|
 [fc]
-[ns]宗一郎[nse]
-「超ヤバいっ！　山の方に逃げるから！」[pcms]
+[ns]Souichirou[nse]
+"Super bad! I'm going to run towards the mountains!"[pcms]
 
 *2382|
 [fc]
-俺は自分の迂闊さを呪ったが、見つかった以上は[r]
-もはやぐずぐずしてられない。[pcms]
+I cursed my own carelessness, but now that I've been found, there's no[r]
+time to dawdle.[pcms]
 
 *2383|
 [fc]
-[ns]宗一郎[nse]
-「見つかった！　これで切るぞ！」[pcms]
+[ns]Souichirou[nse]
+"I've been spotted! I'm going to hang up now!"[pcms]
 
 *2384|
 [fc]
-[ns]誠[nse]
-「あ、そーい……」[pcms]
+[ns]Makoto[nse]
+"Ah, Sou-..."[pcms]
 
 *2385|
 [fc]
-誠がなにか言いかけてたが、返事を待たずに通話を終えると[r]
-俺は追ってきた感染者たちに背を向けて、さらに森の奥へと[r]
-逃げ込んだ。[pcms]
+Makoto started to say something, but without waiting for a reply, I[r]
+ended the call and turned my back on the pursuing infected to flee[r]
+further into the depths of the forest.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

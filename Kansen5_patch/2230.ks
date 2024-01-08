@@ -21,12 +21,12 @@
 *2115|
 [fc]
 [vo_mis s="misao_st0106"]
-[ns]美沙緒[nse]
-（…………？　今のは……）[pcms]
+[ns]Misao[nse]
+"(...? What was that just now...)"[pcms]
 
 *2116|
 [fc]
-美沙緒のうつろだった目に、徐々に焦点がよみがえってきていた。[pcms]
+Focus was gradually returning to Misao's vacant eyes.[pcms]
 
 [se buf=1 storage="seC046"]
 ;//銃声（小）
@@ -37,14 +37,15 @@
 *2117|
 [fc]
 [vo_mis s="misao_st0107"]
-[ns]美沙緒[nse]
-（銃声……だわ。何か……あった？）[pcms]
+[ns]Misao[nse]
+"(That was a gunshot... Did something happen?)"[pcms]
 
 [bg storage="BG15a"][trans_c cross time=500]
 
 *2118|
 [fc]
-思考がハッキリしだした美沙緒は、床から上半身を剥がしにかかる。[pcms]
+Misao, whose thoughts were becoming clearer, began to peel her upper[r]
+body off the floor.[pcms]
 
 ;//#_黒フラ
 [黒フラ]
@@ -52,90 +53,90 @@
 *2119|
 [fc]
 [vo_mis s="misao_st0108"]
-[ns]美沙緒[nse]
-「うっ……」[pcms]
+[ns]Misao[nse]
+"Ugh..."[pcms]
 
 [bgm storage="BGM19"]
 ;//♪bgm19　作中劇用/夜
 
 *2120|
 [fc]
-身体のあちこちが痛む。[r]
-それでも顔をしかめながら、美沙緒は身体を起こしきった。[pcms]
+Her body ached all over. Still, with a grimace, Misao managed to sit[r]
+up completely.[pcms]
 
 *2121|
 [fc]
-まだスッキリしきらない頭で、それでも周囲を注意深く見渡す。[r]
-自分のすぐ傍には、半裸の男が血を流して倒れている。[r]
-見覚えがあった。自分から寝返ったＳＰだ。[pcms]
+With her head still not fully clear, she carefully surveyed her[r]
+surroundings. Right beside her, a half-naked man lay bleeding out. She[r]
+recognized him. He was the SP who had betrayed her.[pcms]
 
 *2122|
 [fc]
 [vo_mis s="misao_st0109"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *2123|
 [fc]
-更にその奥には、父、玄治郎の死体があった。[pcms]
+Further back, there was the corpse of her father, Genjirou.[pcms]
 
 *2124|
 [fc]
-自分を陵辱し茜梨を産ませた、実の父親。[r]
-快楽を自分の身体に教え込んだ男。[r]
-そして、大事な検体でもあった。[pcms]
+The very father who had violated her and fathered Akari. The man who[r]
+had taught her body pleasure. And also, an important specimen.[pcms]
 
 *2125|
 [fc]
 [vo_mis s="misao_st0110"]
-[ns]美沙緒[nse]
-「今となっては……もうどうでもいいわね」[pcms]
+[ns]Misao[nse]
+"Now that it's come to this... it doesn't matter anymore."[pcms]
 
 *2126|
 [fc]
-そう言いながらも、今や単なる肉の塊となった玄治郎を[r]
-美沙緒は[ruby text="ね"]睨めつけていた。[pcms]
+Even as she said this, Misao glared at Genjirou, now just a lump of[r]
+flesh.[pcms]
 
 *2127|
 [fc]
 [vo_mis s="misao_st0111"]
-[ns]美沙緒[nse]
-「…………ふう」[pcms]
+[ns]Misao[nse]
+"...Phew"[pcms]
 
 *2128|
 [fc]
-軽く息を吐くと、更に周囲を見回す。[r]
-少し離れた所に、茜梨が倒れ込んでいるのが見て取れた。[pcms]
+She let out a light breath and looked around once more. A short[r]
+distance away, she could see Akari collapsed on the ground.[pcms]
 
 *2129|
 [fc]
 [vo_mis s="misao_st0112"]
-[ns]美沙緒[nse]
-「茜梨…………」[pcms]
+[ns]Misao[nse]
+"Akari..."[pcms]
 
 *2130|
 [fc]
-痛む身体に鞭を打ち、必死に膝を立て足に力を入れる。[r]
-しかし、下半身全体から、悲鳴が上がっていた。[pcms]
+Despite the pain wracking her body, she forced herself to stand on[r]
+trembling knees. However, screams of pain were coming from her entire[r]
+lower half.[pcms]
 
 *2131|
 [fc]
 [vo_mis s="misao_st0113"]
-[ns]美沙緒[nse]
-「う゛うう゛……」[pcms]
+[ns]Misao[nse]
+"Uuuuuh..."[pcms]
 
 *2132|
 [fc]
-それでも美沙緒はよろよろしながらも、なんとか立ち上がった。[pcms]
+Nevertheless, Misao managed to stand up, albeit unsteadily.[pcms]
 
 *2133|
 [fc]
-刹那――[pcms]
+In that instant--[pcms]
 
 *2134|
 [fc]
-美沙緒の胎内から、おびただしい精液があふれ出し、[r]
-床に染みを作り出した。[pcms]
+A copious amount of semen overflowed from Misao's womb, creating a[r]
+stain on the floor.[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -143,85 +144,89 @@
 *2135|
 [fc]
 [vo_mis s="misao_st0114"]
-[ns]美沙緒[nse]
-「！！　うぐっ……」[pcms]
+[ns]Misao[nse]
+"!! Ugh..."[pcms]
 
 *2136|
 [fc]
-反射的に自分の口を手で押さえ、嫌忌からくる吐き気を押さえ込む[r]
-それでもしばらくの間、美沙緒はその場に立ち尽くしていた。[pcms]
+Reflexively covering her mouth with her hand, she suppressed the[r]
+nausea that came from disgust. Still, for a while, Misao stood frozen[r]
+in place.[pcms]
 
 *2137|
 [fc]
 [vo_mis s="misao_st0115"]
-[ns]美沙緒[nse]
-「ぐっ……駄目よ。しっかりしなさい。今は安全の確保よ……」[pcms]
+[ns]Misao[nse]
+"Guh... No good. Pull yourself together. I need to secure safety[r]
+first..."[pcms]
 
 *2138|
 [fc]
-自分に言い聞かせるために、わざと美沙緒は声に出して言う。[r]
-言葉が耳にしっかりと届き、頭が回転し始めた。[pcms]
+To convince herself, Misao deliberately spoke out loud. The words[r]
+reached her ears clearly, and her mind began to function again.[pcms]
 
 *2139|
 [fc]
 [vo_mis s="misao_st0116"]
-[ns]美沙緒[nse]
-（……確か）[pcms]
+[ns]Misao[nse]
+"(...That's right)"[pcms]
 
 *2140|
 [fc]
-おぼろげな意識の中で聴いた稼津央の言葉。[r]
-床を見ると、すぐそばにリムジンのキーが落ちていた。[pcms]
+In her hazy consciousness, she remembered the words of Katsuo. Looking[r]
+at the floor, she saw the keys to the limousine had fallen nearby.[pcms]
 
 *2141|
 [fc]
-そのキーを拾い上げ、美沙緒は傍らの黒服の男を調べ始めた。[r]
-下半身は裸だが、上半身はきっちり服を着込んでいた。[r]
-上着の中にホルダーに収まった拳銃が２丁、保持されていた。[pcms]
+Picking up the keys, Misao began to search the body of the black-[r]
+suited man beside her. His lower half was naked, but his upper half[r]
+was properly dressed. Inside his jacket, two guns were holstered and[r]
+secured.[pcms]
 
 *2142|
 [fc]
-死体になった男の身体から、疲れ切った女の力では容易に服を[r]
-脱がせることが出来ず、美沙緒はホルダーをあきらめ、２丁の[r]
-拳銃を自分のブラウスとスカートの背中側に無造作に突っ込んだ。[pcms]
+Unable to easily strip the clothes off the now-dead man with her[r]
+exhausted strength, Misao gave up on the holster and carelessly[r]
+stuffed the two guns behind her blouse and skirt.[pcms]
 
 *2143|
 [fc]
 [vo_mis s="misao_st0117"]
-[ns]美沙緒[nse]
-「…………くっ」[pcms]
+[ns]Misao[nse]
+"...Damn"[pcms]
 
 *2144|
 [fc]
-更に注意深く周囲を見るが、残念ながらワクチンの試薬は[r]
-持ち去られたようだった。[pcms]
+She looked around more carefully, but unfortunately, it seemed that[r]
+the vaccine reagent had been taken away.[pcms]
 
 *2145|
 [fc]
 [vo_mis s="misao_st0118"]
-[ns]美沙緒[nse]
-「ぐっ……ううっ……」[pcms]
+[ns]Misao[nse]
+"Guh... Ugh..."[pcms]
 
 *2146|
 [fc]
-痛みを訴える自分の身体を引きずるようにして、[r]
-美沙緒は茜梨へと近づき、その生死を確かめる。[pcms]
+Dragging her pain-stricken body, Misao approached Akari to check if[r]
+she was alive or dead.[pcms]
 
 *2147|
 [fc]
-目は見開いたままだが、何も見ていない。一瞬死を予感させたが[r]
-はだけた胸がゆっくり上下し、呼吸している事がわかった。[pcms]
+Her eyes were wide open but saw nothing. For a moment, it suggested[r]
+death, but then Misao noticed Akari's exposed chest slowly rising and[r]
+falling with breath.[pcms]
 
 *2148|
 [fc]
 [vo_mis s="misao_st0119"]
-[ns]美沙緒[nse]
-「茜梨、茜梨っ！」[pcms]
+[ns]Misao[nse]
+"Akari, Akari!"[pcms]
 
 *2149|
 [fc]
-抱き起こして美沙緒は必死に呼びかけた。[r]
-そのまま揺さぶりも掛けるが、茜梨の反応は芳しくない。[pcms]
+Holding her up, Misao desperately called out to her. She shook her[r]
+vigorously, but Akari's response was not promising.[pcms]
 
 [se buf=0 storage="seB002"]
 ;//平手ペチ
@@ -229,8 +234,8 @@
 *2150|
 [fc]
 [vo_mis s="misao_st0120"]
-[ns]美沙緒[nse]
-「茜梨っ！　茜梨っ！！　しっかりしなさいっ！」[pcms]
+[ns]Misao[nse]
+"Akari! Akari!! Pull yourself together!"[pcms]
 
 ;//■_平手打ちの音（軽い音でパシパシと何度も叩く音）
 [se buf=0 storage="seB002"]
@@ -241,230 +246,227 @@
 *2151|
 [fc]
 [vo_aka s="akari_st0131"]
-[ns]茜梨[nse]
-「うっ……あっ……痛……い」[pcms]
+[ns]Akari[nse]
+"Uh... Ah... It hurts..."[pcms]
 
 *2152|
 [fc]
 [vo_mis s="misao_st0121"]
-[ns]美沙緒[nse]
-「しっかりして、茜梨っ！　ぐずぐずしてる暇がないの」[pcms]
+[ns]Misao[nse]
+"Stay with me, Akari! There's no time for dawdling."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2153|
 [fc]
 [vo_aka s="akari_st0132"]
-[ns]茜梨[nse]
-「うっううっ……」[pcms]
+[ns]Akari[nse]
+"Uuuuh..."[pcms]
 
 *2154|
 [fc]
 [vo_mis s="misao_st0122"]
-[ns]美沙緒[nse]
-「茜梨ってば、しっかりしなさい。あなたに話さなければならない[r]
-　事がいっぱいあるわ。でも、今は身の安全が優先なの」[pcms]
+[ns]Misao[nse]
+"You have to pull yourself together, Akari. There's so much I need to[r]
+tell you. But right now, our safety is the priority."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2155|
 [fc]
 [vo_aka s="akari_st0133"]
-[ns]茜梨[nse]
-「お……ばさま？」[pcms]
+[ns]Akari[nse]
+"Grandma?"[pcms]
 
 *2156|
 [fc]
 [vo_mis s="misao_st0123"]
-[ns]美沙緒[nse]
-「しっかりしてちょうだい、茜梨。生き延びるの。[r]
-　ね、わかる？　私達助け合って、生き延びるのよ。[r]
-　だから、しっかりして。力を貸してちょうだい」[pcms]
+[ns]Misao[nse]
+"Come on, Akari. Survive. You understand? We have to help each other[r]
+and survive. So, pull yourself together. Lend me your strength."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2157|
 [fc]
 [vo_aka s="akari_st0134"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *2158|
 [fc]
-まだぼんやりとした目の茜梨だったが、美沙緒の言葉に[r]
-こくりと頷いていた。[pcms]
+Though Akari's eyes were still hazy, she nodded slightly in response[r]
+to Misao's words.[pcms]
 
 *2159|
 [fc]
-茜梨に肩を貸して立たせに掛かる。しかし茜梨の方がダメージが[r]
-大きいようで、容易に身体に力が入らず、美沙緒も自分の身体の[r]
-痛みにうめき声をあげた。[pcms]
+Trying to help Akari stand by lending her a shoulder, it seemed Akari[r]
+had taken more damage, as she couldn't easily muster the strength in[r]
+her body, causing Misao to groan with her own pain.[pcms]
 
 *2160|
 [fc]
 [vo_mis s="misao_st0124"]
-[ns]美沙緒[nse]
-「うっ……うう……茜梨。茜梨、大丈夫？　ほら、立って。[r]
-　立つの。しっかりして、力を出して」[pcms]
+[ns]Misao[nse]
+"Ugh... Akari. Are you okay? Come on, stand up. Stand. Pull yourself[r]
+together and muster your strength."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2161|
 [fc]
 [vo_aka s="akari_st0135"]
-[ns]茜梨[nse]
-「は……い。　…………い゛っ！　痛いっ！　うぐうううっ！」[pcms]
+[ns]Akari[nse]
+"Yes... Ah! It hurts! Ughhhhh!"[pcms]
 
 *2162|
 [fc]
-無意識のうちに唇を噛みしめ、歯を食いしばって、ようやく[r]
-茜梨は、美沙緒の肩をかりながらも、自分の足で立った。[pcms]
+Unconsciously biting her lip and gritting her teeth, Akari finally[r]
+managed to stand on her own feet with the help of Misao's shoulder.[pcms]
 
 *2163|
 [fc]
-しかし――[pcms]
+However--[pcms]
 
 *2164|
 [fc]
-ぢゅぶぢゅぶごぼごぼと、粘った音を出しながら、茜梨の[r]
-胎内から精液が吐き出され、両足の間に小さな池を作った。[pcms]
+With a sticky, gurgling sound, semen was expelled from Akari's womb,[r]
+forming a small pool between her legs.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2165|
 [fc]
 [vo_aka s="akari_st0136"]
-[ns]茜梨[nse]
-「ひっ！！　……ぐっ……うぐっ…………ぐはっ！」[pcms]
+[ns]Akari[nse]
+"Hik!! ...Ugh...ugh...guhah!"[pcms]
 
 *2166|
 [fc]
-ようやく立った茜梨だったが、膝からがくりと床に落ち、[r]
-四つん這いの姿勢で、げえげえと吐きだした。[pcms]
+Having just managed to stand, Akari collapsed to her knees and, on all[r]
+fours, began to retch violently.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2167|
 [fc]
 [vo_aka s="akari_st0137"]
-[ns]茜梨[nse]
-「ぐはっ、んんげっ……げっ、げっ、げっ……んぶっっ！！」[pcms]
+[ns]Akari[nse]
+"Guhah, nnngeh...geh, geh, geh...nbufuuu!!"[pcms]
 
 *2168|
 [fc]
-悲しいことに、茜梨の胃の中から吐き出されるものも、[r]
-大量の精液だった。[pcms]
+Sadly, what was expelled from Akari's stomach was also a large amount[r]
+of semen.[pcms]
 
 *2169|
 [fc]
-胃液の酸っぱい臭いと消化されかかった精液の饐えた臭い。[r]
-まじりあった強烈な異臭が吐き出された物から立ち上る。[pcms]
+The sour smell of stomach acid mixed with the fetid odor of partially[r]
+digested semen created an intense stench as it was expelled.[pcms]
 
 *2170|
 [fc]
-その臭気にあてられ、茜梨の嘔吐は更に激しくなっていた。[pcms]
+The smell made Akari's vomiting even more violent.[pcms]
 
 *2171|
 [fc]
 [vo_aka s="akari_st0138"]
-[ns]茜梨[nse]
-「んげっ、げっげっ、げふっ、んぐっ……ぐが…………！！」[pcms]
+[ns]Akari[nse]
+"Ngeh, gehgeh, gefu, nngu...gaga...!!"[pcms]
 
 *2172|
 [fc]
-美沙緒は悲しそうな顔で跪き、必死に茜梨の背中をさする。[r]
-ようやく薄黄色く泡立った胃液だけが吐き出されるようになって、[r]
-茜梨の胃はおとなしくなってきていた。[pcms]
+Misao knelt down with a sad look on her face and desperately rubbed[r]
+Akari's back. Eventually, only frothy yellow stomach acid was being[r]
+expelled, and Akari's stomach began to settle down.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2173|
 [fc]
 [vo_aka s="akari_st0139"]
-[ns]茜梨[nse]
-「ぐっ……うぐっ……………………」[pcms]
+[ns]Akari[nse]
+"Guh...ugh..."[pcms]
 
 *2174|
 [fc]
 [vo_mis s="misao_st0125"]
-[ns]美沙緒[nse]
-「茜梨…………」[pcms]
+[ns]Misao[nse]
+"Akari..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2175|
 [fc]
 [vo_aka s="akari_st0140"]
-[ns]茜梨[nse]
-「うっ……うううっ、うわああっ、ああああっ、いやああ！！」[pcms]
+[ns]Akari[nse]
+"Ugh...uuuuh, uwaaaah, aaaaah, noooo!!"[pcms]
 
 *2176|
 [fc]
-茜梨は美沙緒にしがみつき、まるで子供のように号泣した。[r]
-ぼろぼろと涙がこぼれ落ちる。[r]
-美沙緒はあやすように、茜梨の頭をなで続けた。[pcms]
+Akari clung to Misao and cried like a child. Tears streamed down her[r]
+face. Misao continued to stroke her head soothingly.[pcms]
 
 *2177|
 [fc]
 [vo_mis s="misao_st0126"]
-[ns]美沙緒[nse]
-「……茜梨。気をしっかり持って……今は耐えるしかないの……」[pcms]
+[ns]Misao[nse]
+"...Akari. Keep your spirits up...we just have to endure this for[r]
+now..."[pcms]
 
 *2178|
 [fc]
 [vo_aka s="akari_st0141"]
-[ns]茜梨[nse]
-「うっうっうっ……うあああっ、うっううううっ……」[pcms]
+[ns]Akari[nse]
+"Ughughugh...uwaaaah, ughughugh..."[pcms]
 
 *2179|
 [fc]
 [vo_mis s="misao_st0127"]
-[ns]美沙緒[nse]
-「それよりも時間が無いのよ、茜梨。ここから脱出しないと。[r]
-　わかるわね、茜梨」[pcms]
+[ns]Misao[nse]
+"More importantly, we're out of time, Akari. We need to escape from[r]
+here. You understand that, right, Akari?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2180|
 [fc]
 [vo_aka s="akari_st0142"]
-[ns]茜梨[nse]
-「う……ううっ……えぐっ……ぐっ……は、はい゛……ううっ、[r]
-　はい……おば……さま」[pcms]
+[ns]Akari[nse]
+"Uh...ugh...egu...guh...yes...ugh, yes...Auntie."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2181|
 [fc]
-美沙緒は少し落ち着いてきた茜梨の顔から涙をぬぐい、[r]
-お互いが支え合うような形で、立ち上がった。[pcms]
+Misao wiped the tears from Akari's face, which had calmed down a bit,[r]
+and they both stood up, supporting each other.[pcms]
 
 *2182|
 [fc]
-二人とも自分の身体とは思えない重さを感じていた。[r]
-それでも一歩一歩確実に土蔵の入り口へと向かい、[r]
-美沙緒がロックを解除して入り口をわずかに開いた。[pcms]
+Both felt an unnatural heaviness in their bodies. Yet they moved step[r]
+by step towards the entrance of the storehouse, and Misao unlocked it[r]
+to open the door slightly.[pcms]
 
 *2183|
 [fc]
 [vo_mis s="misao_st0128"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *2184|
 [fc]
-少しだけ顔を覗かせて外の様子を伺う。[r]
-幸いな事に、周辺に感染者の姿はまだ無かった。[r]
-二人は頷きあいながら、土蔵を出て、その足で裏門を目指した。[pcms]
+Peeking out just a bit to check outside, fortunately, there were no[r]
+infected in sight. They nodded at each other and left the storehouse,[r]
+heading for the back gate on foot.[pcms]
 
 *2185|
 [fc]
-二人の足取りは、今、墓場からよみがえった者のように[r]
-おぼつかない。[pcms]
+Their steps were unsteady as if they had just risen from the grave.[pcms]
 
 *2186|
 [fc]
-陽が中天にあり、刺すような日差しが二人を射すくめた。[pcms]
+The sun was high in the sky, and its piercing rays bore down on them.[pcms]
 
 ;//★_裏門
 ;//★bg17a 越智家 裏手の港・朝昼
@@ -472,173 +474,178 @@
 
 *2187|
 [fc]
-茜梨を[ruby text="きわ"]際にもたれ掛からせるようにしてなんとか立たせ、[r]
-美沙緒もよろつきながら、裏門のパネルに手を伸ばした。[pcms]
+Leaning heavily on Misao as if she could barely stand, Akari managed[r]
+to stand with Misao's help despite staggering herself as she reached[r]
+for the panel of the back gate.[pcms]
 
 *2188|
 [fc]
-しかし、操作するが裏門はいっこうに自動で動く気配が無かった。[pcms]
+However, despite their attempts to operate it, the back gate showed no[r]
+signs of opening automatically.[pcms]
 
 *2189|
 [fc]
 [vo_mis s="misao_st0129"]
-[ns]美沙緒[nse]
-（反対側から破壊されている？）[pcms]
+[ns]Misao[nse]
+(Has it been destroyed from the other side?)[pcms]
 
 *2190|
 [fc]
-もしかしたらと思い門そのものを押してみるが、残念ながら[r]
-ロックされたままで、１ｍｍたりとも動かなかった。[pcms]
+Thinking it might be possible to push the gate itself open, they tried[r]
+but unfortunately found it locked tight and immovable even by a[r]
+millimeter.[pcms]
 
 ;//■_食事の音（感染者が肉を喰らう音）
 
 *2191|
 [fc]
-[ns]感染者[nse]
-「うま……い。にく、うま……い。んぐ……んぐ……」[pcms]
+[ns]Infected person[nse]
+"Tasty...meat is tasty...ngu...ngu..."[pcms]
 
 *2192|
 [fc]
-門の外から複数人数の感染者の気配と声が聞えてきていた。[r]
-しかも何かをむさぼり食う耳障りな音も聞えてくる。[pcms]
+From outside the gate came the presence and voices of several infected[r]
+people. Moreover, there was an irritating sound of something being[r]
+devoured greedily.[pcms]
 
 *2193|
 [fc]
 [vo_mis s="misao_st0130"]
-[ns]美沙緒[nse]
-（身体がしっかりしてさえいれば塀を乗り越えて裏道から港に[r]
-　いけるけど……今は無理だわね。おまけに門の直ぐ外には[r]
-　ヤツラが大挙しているみたいだし……逃げ切れる自信がないわ）[pcms]
+[ns]Misao[nse]
+(If only our bodies were in better shape we could climb over the fence[r]
+and take the back road to the harbor...but that's impossible now.[r]
+Besides, it seems like they're swarming just outside the gate...I'm[r]
+not confident we can escape.)[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2194|
 [fc]
 [vo_aka s="akari_st0143"]
-[ns]茜梨[nse]
-「叔母……様？」[pcms]
+[ns]Akari[nse]
+"Auntie?"[pcms]
 
 *2195|
 [fc]
 [vo_mis s="misao_st0131"]
-[ns]美沙緒[nse]
-「ここはあきらめましょう、茜梨。車で移動することを考えて[r]
-　回り込みましょう」[pcms]
+[ns]Misao[nse]
+"Let's give up here, Akari. Let's think about moving by car and go[r]
+around."[pcms]
 
 *2196|
 [fc]
 [vo_aka s="akari_st0144"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2197|
 [fc]
-こくりと頷く茜梨に手を貸して、よろめきながら、屋敷の方へと[r]
-歩き出した。[pcms]
+Akari nodded slightly, and with her help, they started walking towards[r]
+the mansion, staggering as they went.[pcms]
 
 *2198|
 [fc]
-[ns]感染者[nse]
-「………………うう」[pcms]
+[ns]Infected person[nse]
+"...uu"[pcms]
 
 *2199|
 [fc]
 [vo_mob s="maid0008"]
-[ns]お手伝いさん[nse]
-「…………ふふ…………」[pcms]
+[ns]Maid[nse]
+"...hehe..."[pcms]
 
 *2200|
 [fc]
-庭を感染者が徘徊している。[r]
-だがその数はまだ２、３人でしかなかった。[pcms]
+Infected individuals were wandering the garden. However, there were[r]
+only two or three of them.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2201|
 [fc]
 [vo_aka s="akari_st0145"]
-[ns]茜梨[nse]
-「酷い……」[pcms]
+[ns]Akari[nse]
+"This is terrible..."[pcms]
 
 *2202|
 [fc]
-その中の一人がお手伝いさんの多恵だと気付いた茜梨が、[r]
-怯えたような声をだし、美沙緒の腕をぎゅっと掴む。[pcms]
+Realizing that one of them was the helper, Tae, Akari let out a[r]
+frightened voice and tightly grabbed Misao's arm.[pcms]
 
 *2203|
 [fc]
-美沙緒は茜梨の手を上から握りしめる事で、怒りで震えそうになる[r]
-自分の手を必死に押さえ込んだ。[pcms]
+Misao gripped Akari's hand from above to suppress her own trembling[r]
+hand that seemed to shake with anger.[pcms]
 
 *2204|
 [fc]
 [vo_mis s="misao_st0132"]
-[ns]美沙緒[nse]
-「駐車場へ行きましょう」[pcms]
+[ns]Misao[nse]
+"Let's head to the parking lot."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2205|
 [fc]
-小声でささやき茜梨を促そうとする。[r]
-しかし、茜梨はその場で首を横に振った。[pcms]
+She whispered softly, trying to urge Akari on. However, Akari shook[r]
+her head on the spot.[pcms]
 
 *2206|
 [fc]
 [vo_mis s="misao_st0133"]
-[ns]美沙緒[nse]
-「何？」[pcms]
+[ns]Misao[nse]
+"What?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2207|
 [fc]
 [vo_aka s="akari_st0146"]
-[ns]茜梨[nse]
-「荷物を取りに行かせて、叔母様」[pcms]
+[ns]Akari[nse]
+"Please let me go get my luggage, Auntie."[pcms]
 
 *2208|
 [fc]
 [vo_mis s="misao_st0134"]
-[ns]美沙緒[nse]
-「気持ちはわかるけれど、できるだけ時間を掛けたくないわ」[pcms]
+[ns]Misao[nse]
+"I understand how you feel, but we shouldn't take too much time."[pcms]
 
 *2209|
 [fc]
 [vo_aka s="akari_st0147"]
-[ns]茜梨[nse]
-「駄目……。荷物の中には携帯が入ってるんです。[r]
-　それがないと……『お母様』と連絡が出来ない。[r]
-　……中澤先輩やみんなとも連絡が取れなくなっちゃうんです」[pcms]
+[ns]Akari[nse]
+"No... Inside the luggage is my cell phone. Without it... I won't be[r]
+able to contact 'Mother'... I won't be able to get in touch with[r]
+Nakazawa-senpai and everyone else."[pcms]
 
 *2210|
 [fc]
 [vo_mis s="misao_st0135"]
-[ns]美沙緒[nse]
-「……わかったわ。『お母様』と連絡は取らないとね。[r]
-　それにお友達とも……。でも、なるべく時間をかけないで、[r]
-　素早く済ませましょう」[pcms]
+[ns]Misao[nse]
+"...Understood. We need to contact 'Mother' and your friends... But[r]
+let's make it quick and not take too much time."[pcms]
 
 *2211|
 [fc]
-美沙緒は茜梨の『お母様』という言葉に、複雑な思いを抱いた。[r]
-やはり茜梨にとっての母は自分ではないのだと……。[pcms]
+Misao felt a complex emotion at Akari's mention of "Mother," realizing[r]
+once again that she was not the mother in Akari's eyes...[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2212|
 [fc]
 [vo_aka s="akari_st0148"]
-[ns]茜梨[nse]
-「ありがとうございます……叔母様……」[pcms]
+[ns]Akari[nse]
+"Thank you... Auntie..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2213|
 [fc]
-美沙緒は笑顔で応え、すぐに二人は屋敷内へと向かった。[pcms]
+Misao responded with a smile, and they immediately headed inside the[r]
+mansion.[pcms]
 
 ;//めも；「茜梨」の服装についてここで、
 ;//　　：今後でるHCGの服装が体操服になっており、この「
@@ -651,100 +658,104 @@
 
 *2214|
 [fc]
-屋敷の中にも、数人の感染者がうろつしているのが確認できた。[r]
-しかし右往左往するだけのヤツラと違って、二人の頭には[r]
-間取りがしっかりと入っている。[pcms]
+Inside the mansion, they could see several infected people wandering[r]
+around. Unlike those who were just running around aimlessly, the two[r]
+of them had a clear layout of the house in their minds.[pcms]
 
 *2215|
 [fc]
-二人は、引き寄せないように、痛む身体でも上手くかわしながら、[r]
-目的を達成した。[pcms]
+Despite their aching bodies, they managed to avoid attracting the[r]
+infected and accomplished their goal.[pcms]
 
 *2216|
 [fc]
-茜梨は本家に来た際に置いたままだった自分の荷物から[r]
-体操服を取り出し、汚された袴から着替えた。[r]
-祖母の形見である薙刀も、茜梨は手に取っていた。[pcms]
+Akari took out a gym uniform from her luggage that she had left at the[r]
+main house when she arrived and changed out of her soiled hakama. She[r]
+also picked up the naginata that was a memento from her grandmother.[pcms]
 
 *2217|
 [fc]
-感染者をかわして抜け出た部屋に、稼津央の言葉の意味通り、[r]
-愼さんが頭を打ち抜かれて亡くなっていた。[pcms]
+As they left the room they had escaped from, avoiding the infected,[r]
+they found Shin-san dead with his head blown off, just as Kazuo had[r]
+said.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2218|
 [fc]
 [vo_aka s="akari_st0149"]
-[ns]茜梨[nse]
-「…………愼さん」[pcms]
+[ns]Akari[nse]
+"...Shin-san"[pcms]
 
 *2219|
 [fc]
 [vo_mis s="misao_st0136"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2220|
 [fc]
-二人は手を合わせたあと、周りを見回しながら、その部屋を[r]
-そっと抜け出した。[pcms]
+After paying their respects with a silent prayer, they cautiously left[r]
+the room while looking around.[pcms]
 
 *2221|
 [fc]
 [vo_mis s="misao_st0137"]
-[ns]美沙緒[nse]
-「ううっ……」[pcms]
+[ns]Misao[nse]
+"Ugh..."[pcms]
 
 *2222|
 [fc]
-襲われないために、必死に痛む身体を動かした。[r]
-しかし痛みは次第に強くなり、また熱も出始めていた。[pcms]
+Desperate to avoid being attacked, they moved their aching bodies.[r]
+However, the pain was getting stronger, and they were starting to[r]
+develop a fever.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2223|
 [fc]
 [vo_aka s="akari_st0150"]
-[ns]茜梨[nse]
-「うっ……ふぅっ……」[pcms]
+[ns]Akari[nse]
+"Ugh...huff..."[pcms]
 
 *2224|
 [fc]
-傍らの茜梨も同様だった。気を遣って動き回ったせいも[r]
-あるのだろうが、熱で頬が紅潮しうっすらと汗をかいている。[r]
-身体も痛むのだろう。時々顔をしかめているのがわかった。[pcms]
+Akari was in a similar state. Perhaps because she had been moving[r]
+around with concern, her cheeks were flushed with fever and she was[r]
+sweating slightly. She must have been in pain too, as she occasionally[r]
+grimaced.[pcms]
 
 *2225|
 [fc]
-そして最前から茜梨が足を、特に股関節のあたりを痛めているのに[r]
-美沙緒は気付いていた。[pcms]
+Misao had noticed that Akari had been hurting her legs, especially[r]
+around the hip joints, for some time now.[pcms]
 
 *2226|
 [fc]
-立とうとして顔をしかめてよろけたり、足の付け根を押さえながら[r]
-引きずるように歩いている事もあった。[pcms]
+She grimaced as she tried to stand and sometimes walked dragging her[r]
+leg while holding her groin.[pcms]
 
 *2227|
 [fc]
-それでも茜梨は必死に身を守ろうと、意思の力だけで[r]
-動いているように思えた。[pcms]
+Yet Akari seemed to be moving solely by the force of her will,[r]
+desperately trying to protect herself.[pcms]
 
 *2228|
 [fc]
 [vo_mis s="misao_st0138"]
-[ns]美沙緒[nse]
-（茜梨……ごめんなさい）[pcms]
+[ns]Misao[nse]
+(Akari... I'm sorry.)[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2229|
 [fc]
-美沙緒は心の中で茜梨にあやまる。自分の娘であったが為に、[r]
-出生の秘密故に、辛く悲しい体験をさせてしまったことを、[r]
-悔いていた。そして早く休ませてあげたいと心から思っていた。[pcms]
+Misao apologized to Akari in her heart. She regretted making her[r]
+daughter go through such painful and sad experiences because of her[r]
+own identity and the secret of her birth. And she sincerely wished she[r]
+could let her rest soon.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -759,147 +770,145 @@
 *2230|
 [fc]
 [vo_mis s="misao_st0139"]
-[ns]美沙緒[nse]
-（…………やっぱり無理かしら）[pcms]
+[ns]Misao[nse]
+(...Maybe it's impossible after all.)[pcms]
 
 [bgm storage="BGM13"]
 ;//♪bgm13　逃走：緊迫
 
 *2231|
 [fc]
-庭木の陰に二人は身を隠しながら、こっそり覗き見ると、[r]
-裏門と違い正門は中途半端に開いていた。[pcms]
+Hiding in the shadows of the shrubbery, they peeked out secretly and[r]
+saw that unlike the back gate, the front gate was half-open.[pcms]
 
 *2232|
 [fc]
-そこからのそのそと感染者が数人続けて、まさに今[r]
-入り込んできていた。[r]
-更に増える可能性が高いと思われた。[pcms]
+From there, several infected people were sneaking in one after[r]
+another, right now. It seemed likely that more would come in.[pcms]
 
 *2233|
 [fc]
 [vo_mis s="misao_st0140"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *2234|
 [fc]
-愼さんが運転していた軽トラックも見える。あの軽トラで[r]
-逃げようかと美沙緒は考えたが、状態を目の当たりにして、[r]
-軽トラをあきらめることにした。動かない可能性もあるからだ。[pcms]
+She could see the light truck that Shin-san had been driving. Misao[r]
+thought about escaping in that light truck but decided against it[r]
+after seeing the situation; there was also a chance it wouldn't start.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2235|
 [fc]
 [vo_mis s="misao_st0141"]
-[ns]美沙緒[nse]
-「茜梨……駐車場に向かいましょう。ここは無理そうだわ」[pcms]
+[ns]Misao[nse]
+"Akari... let's head to the parking lot. It seems impossible here."[pcms]
 
 *2236|
 [fc]
 [vo_aka s="akari_st0151"]
-[ns]茜梨[nse]
-「……はい」[pcms]
+[ns]Akari[nse]
+"...Yes."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2237|
 [fc]
-足音をなるべく立てないように二人は駐車場へと回り込む。[r]
-しかし……[pcms]
+Trying not to make any noise, the two of them circled around to the[r]
+parking lot. However...[pcms]
 
 [ChrSetEx layer=6 chbase="mob_kan5_x_bl"][ChrSetXY layer=6 x=400 y=0][trans_c cross time=150]
 
 *2238|
 [fc]
-[ns]感染者[nse]
-「お……んなの……におい……」[pcms]
+[ns]Infected person[nse]
+"A... woman's... scent..."[pcms]
 
 *2239|
 [fc]
-色めき立つ感染者が、のたりとした足取りで美沙緒と茜梨の[r]
-後ろを追い始めた。[pcms]
+The stirred infected person began to follow behind Misao and Akari[r]
+with a sluggish gait.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2240|
 [fc]
-感染者がついてきていることに気付いた二人は、[r]
-足音を忍ばせることを止め、今自分たちの身体が出せる、[r]
-可能な限りの速度で駐車場に向かった。[pcms]
+Realizing they were being followed by the infected, the two stopped[r]
+trying to be quiet and headed to the parking lot as fast as their[r]
+bodies could manage.[pcms]
 
 ;//★_駐車場　;//m:無い。ひとまずスルー
 
 *2241|
 [fc]
-駐車場には、ほとんどと言っていいぐらい、うろついている[r]
-ヤツは、居なかった。[pcms]
+There were hardly any infected wandering around the parking lot.[pcms]
 
 *2242|
 [fc]
-稼津央のリムジンと、美沙緒の軽自動車が無傷で停まっていて、[r]
-その周りにも、ヤツラの姿は見当たらなかった。[pcms]
+Kazuo's limousine and Misao's compact car were parked undamaged, and[r]
+there were no signs of them around.[pcms]
 
 *2243|
 [fc]
 [vo_mis s="misao_st0142"]
-[ns]美沙緒[nse]
-「……っ」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *2244|
 [fc]
-運転し慣れた車の方が断然有利に思える。[r]
-だから美沙緒はスカートのポケットをまさぐってみたが、[r]
-やはり美沙緒の車のキーも付けてあった鍵束は見当たらない。[pcms]
+Driving a familiar car seemed decidedly advantageous. So Misao fumbled[r]
+in her skirt pocket, but as expected, she couldn't find her key ring[r]
+that also had her car keys.[pcms]
 
 *2245|
 [fc]
-そういえば……と、稼津央がボートを借りると言っていたのを、[r]
-ぼんやりと美沙緒は思い出していた。[pcms]
+Come to think of it... Misao vaguely remembered Kazuo saying he was[r]
+going to borrow a boat.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2246|
 [fc]
 [vo_aka s="akari_st0152"]
-[ns]茜梨[nse]
-「…………叔母様、後ろから……」[pcms]
+[ns]Akari[nse]
+"...Auntie, from behind..."[pcms]
 
 *2247|
 [fc]
 [vo_mis s="misao_st0143"]
-[ns]美沙緒[nse]
-「ええ、わかってるわ」[pcms]
+[ns]Misao[nse]
+"Yes, I know."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2248|
 [fc]
-床から拾い上げた稼津央のリムジンのキーを取り出し、車に[r]
-向ける。キーのボタンを押すと、何の問題もなく、ロックが[r]
-解除される音が響いた。[pcms]
+Picking up Kazuo's limousine keys from the ground, she pointed them at[r]
+the car. Pressing the key button, the sound of the locks being[r]
+released echoed without issue.[pcms]
 
 *2249|
 [fc]
-しかし、離れた場所にいた感染者がその音に気付いたらしく、[r]
-顔を車の方へと向けたのがわかった。[pcms]
+However, an infected person at a distance seemed to notice the sound[r]
+and turned their face towards the car.[pcms]
 
 *2250|
 [fc]
 [vo_mis s="misao_st0144"]
-[ns]美沙緒[nse]
-「急ぐわよ！」[pcms]
+[ns]Misao[nse]
+"We need to hurry!"[pcms]
 
 *2251|
 [fc]
-そう言いながら美沙緒は、小走りでリムジンに向かい、[r]
-ドアをあけて左ハンドルの運転席へと身体を滑り込ませた。[r]
-すぐに反対のドアが開き、茜梨も乗り込んだ。[pcms]
+With that, Misao jogged to the limousine, opened the door, and slid[r]
+into the driver's seat on the left side. Soon after, the opposite door[r]
+opened and Akari also got in.[pcms]
 
 *2252|
 [fc]
-キーを差し込み回す。[pcms]
+She inserted the key and turned it.[pcms]
 
 ;//■_リムジンエンジン始動音
 ;//seC023.ogg	自動車のエンジン始動
@@ -913,53 +922,52 @@
 *2253|
 [fc]
 [vo_mis s="misao_st0145"]
-[ns]美沙緒[nse]
-「ふうっ……」[pcms]
+[ns]Misao[nse]
+"Phew..."[pcms]
 
 *2254|
 [fc]
-すぐにうなりを上げるエンジン音に美沙緒は、ようやく[r]
-安堵のため息をついた。[r]
-隣では茜梨も同じように、ようやくホッとした顔つきになっていた。[pcms]
+The engine roared to life and Misao finally let out a sigh of relief.[r]
+Next to her, Akari also looked relieved.[pcms]
 
 *2255|
 [fc]
-サイドブレーキを解除し、シフトを変える。[r]
-いつもとは違う手順と感触に、美沙緒は顔をしかめながら、[r]
-ゆっくりとハンドルを回し駐車場をのろのろと出た。[pcms]
+Releasing the handbrake and changing gears, Misao grimaced at the[r]
+unfamiliar procedure and sensation as she slowly turned the steering[r]
+wheel and crept out of the parking lot.[pcms]
 
 *2256|
 [fc]
-[ns]感染者[nse]
-「ううう……にげる……なあ」[pcms]
+[ns]Infected person[nse]
+"Uuu... don't run... away"[pcms]
 
 *2257|
 [fc]
-両手を挙げて追ってこようとするアイツラの姿がバックミラーに[r]
-写っていたが、もはや美沙緒も茜梨も意に介していなかった。[pcms]
+The sight of them trying to follow with their hands raised was[r]
+reflected in the rearview mirror, but Misao and Akari no longer paid[r]
+them any mind.[pcms]
 
 ;//★bg19a 越智家 正門・朝昼
 [bg storage="BG19a"][trans_c cross time=500]
 
 *2258|
 [fc]
-正門の前を通り過ぎる。[pcms]
+They passed in front of the main gate.[pcms]
 
 *2259|
 [fc]
-そこには、うつろな顔で、赤い眼に変容したお手伝いさんの[r]
-多恵さんが、まるでいつもどおりの見送りをするように[r]
-たたずんでいた。[pcms]
+There stood housekeeper Taue-san with a vacant face and eyes turned[r]
+red, standing as if she was seeing them off like always.[pcms]
 
 *2260|
 [fc]
 [vo_aka s="akari_st0153"]
-[ns]茜梨[nse]
-「……さよなら、多恵さん」[pcms]
+[ns]Akari[nse]
+"...Goodbye, Taue-san"[pcms]
 
 *2261|
 [fc]
-茜梨は、小声で呟いていた。[pcms]
+Akari whispered softly.[pcms]
 
 ;//★_越智浦とかの景色
 ;//★bg06a 島の周回道路（海沿いの道路）・朝昼
@@ -967,35 +975,36 @@
 
 *2262|
 [fc]
-少しずつ運転のコツが飲み込めたのか、リムジンは次第に[r]
-速度を増してきていた。[pcms]
+Perhaps getting the hang of driving, the limousine gradually picked up[r]
+speed.[pcms]
 
 *2263|
 [fc]
 [vo_aka s="akari_st0154"]
-[ns]茜梨[nse]
-「叔母様……どこに向かっているの？」[pcms]
+[ns]Akari[nse]
+"Auntie... where are we heading?"[pcms]
 
 *2264|
 [fc]
-ぎゅっとハンドルを握りしめた美沙緒は正面を向いたまま答えた。[pcms]
+Gripping the steering wheel tightly, Misao answered without turning[r]
+away from the front.[pcms]
 
 *2265|
 [fc]
 [vo_mis s="misao_st0146"]
-[ns]美沙緒[nse]
-「取り敢えず、人気のない場所を目指すわ」[pcms]
+[ns]Misao[nse]
+"For now, we're aiming for a deserted place."[pcms]
 
 *2266|
 [fc]
 [vo_aka s="akari_st0155"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *2267|
 [fc]
-それが何処なのか茜梨にはわからなかったが、美沙緒にまかせ、[r]
-疲れ切った身体をシートに沈み込ませた。[pcms]
+Akari didn't know where that would be but entrusted Misao and let her[r]
+exhausted body sink into the seat.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

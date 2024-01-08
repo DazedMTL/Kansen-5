@@ -32,18 +32,18 @@
 *5943|
 [fc]
 [vo_tay s="taja_tj0351"]
-[ns]ターヤ[nse]
-「きゃあっ……！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Kyaa...!!"[pcms]
 
 *5944|
 [fc]
-[ns]誠[nse]
-「なんだ……！？」[pcms]
+[ns]Makoto[nse]
+"What the...!?"[pcms]
 
 *5945|
 [fc]
-すさまじい爆発音、そして衝撃に部屋が揺れた気がして、[r]
-僕とターヤは飛び起きた。[pcms]
+A tremendous explosion and the impact made it feel like the room was[r]
+shaking, and Tarja and I jumped up.[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
@@ -53,54 +53,50 @@
 
 *5946|
 [fc]
-[ns]誠[nse]
-「何が起こったんだろう……」[pcms]
+[ns]Makoto[nse]
+"What's happening...?"[pcms]
 
 *5947|
 [fc]
 [vo_tay s="taja_tj0352"]
-[ns]ターヤ[nse]
-「わからない……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I don't know..."[pcms]
 
 *5948|
 [fc]
-ターヤは驚いた顔をしながら、首をふる。[r]
-身体を震わし、どこか怯えているように見える。[pcms]
+Tarja, with a shocked expression, shook her head. Her body trembled,[r]
+and she seemed to be scared.[pcms]
 
 *5949|
 [fc]
-無理もない。[r]
-僕だって不安で仕方がない。[r]
-今日はあまりに色々とありすぎた。[pcms]
+It's no wonder. I'm feeling anxious myself. Today has been too much.[pcms]
 
 *5950|
 [fc]
-「次は何が起こるんだ？」と身構えてしまう。[pcms]
+"What's going to happen next?" I braced myself.[pcms]
 
 *5951|
 [fc]
-お互い大切な人を何人も失った。[r]
-……今日一日で。[r]
-しかも、思い返したくもないような無惨な最期ばかりだ。[pcms]
+We both lost so many important people today. And all of them met such[r]
+tragic ends that I don't even want to remember.[pcms]
 
 *5952|
 [fc]
-そして、僕はターヤのお父さんを……。[pcms]
+And then, I had to deal with Tarja's father...[pcms]
 
 *5953|
 [fc]
 [vo_tay s="taja_tj0353"]
-[ns]ターヤ[nse]
-「誠……」[pcms]
+[ns]Tarja[nse]
+"Makoto..."[pcms]
 
 *5954|
 [fc]
-僕はそっと、ターヤの手を握った。[r]
-こんなことしか僕にはできなかった。[pcms]
+I gently took Tarja's hand. It was all I could do.[pcms]
 
 *5955|
 [fc]
-そして、ターヤは僕の手を握り返してくる。[pcms]
+And then, Tarja squeezed my hand back.[pcms]
 
 [se buf=1 storage="seB059"]
 ;//♪SE爆発音
@@ -109,50 +105,49 @@
 *5956|
 [fc]
 [vo_tay s="taja_tj0354"]
-[ns]ターヤ[nse]
-「きゃっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Kyaa..."[pcms]
 
 *5957|
 [fc]
-[ns]誠[nse]
-「ターヤ！」[pcms]
+[ns]Makoto[nse]
+"Tarja!"[pcms]
 
 *5958|
 [fc]
-僕は怯えるターヤを抱きしめた。[pcms]
+I hugged Tarja, who was frightened.[pcms]
 
 *5959|
 [fc]
-やっぱり、また何かが起こっている。[r]
-まずはどうするべきか？と僕は考えた。[pcms]
+Indeed, something else was happening. What should we do first? I[r]
+thought.[pcms]
 
 *5960|
 [fc]
 [vo_tay s="taja_tj0355"]
-[ns]ターヤ[nse]
-「誠……外、明るくない？」[pcms]
+[ns]Tarja[nse]
+"Makoto... isn't it bright outside?"[pcms]
 
 *5961|
 [fc]
-[ns]誠[nse]
-「そういえば……」[pcms]
+[ns]Makoto[nse]
+"Now that you mention it..."[pcms]
 
 *5962|
 [fc]
-ターヤの言うように外が妙に赤っぽくて明るい。[r]
-渋谷じゃ夜が明るいなんてのは珍しくない。[r]
-だけど……ここは……。[pcms]
+Just as Tarja said, the outside was oddly red and bright. It's not[r]
+unusual for Shibuya to be bright at night. But... this place is...[pcms]
 
 *5963|
 [fc]
-僕は恐る恐る窓の外を見た。[pcms]
+I looked outside the window with trepidation.[pcms]
 
 ;//■イベントCG　これで良いの？
 [evcg storage="bgev03f"][trans_c cross time=500]
 
 *5964|
 [fc]
-窓の外では赤々と火を上げながら町が燃えていた。[pcms]
+Outside the window, the town was burning with red flames.[pcms]
 
 [se buf=0 storage="seB051"]
 ;//♪SE爆発音
@@ -164,20 +159,20 @@
 
 *5965|
 [fc]
-近くの家が爆発で吹き飛んだ。[r]
-それを見て僕は、やっと僕たちがおかれた状況を理解した。[pcms]
+A nearby house had exploded. Seeing that, I finally understood the[r]
+situation we were in.[pcms]
 
 *5966|
 [fc]
-さっきからの爆発はきっとこの火事せいだ。[r]
-大規模な火災で家庭用のプロパンガスタンクが[r]
-爆発しているに違いなかった。[pcms]
+The explosions from before must have been because of this fire. A[r]
+large-scale fire must have caused the propane gas tanks in homes to[r]
+explode.[pcms]
 
 *5967|
 [fc]
-火は隣の家にまで燃え移っている。[r]
-窓から見える方向でこれだから、最悪の場合、[r]
-死角になってる方向だと、すでに火がついている可能性すらある。[pcms]
+The fire had spread to the neighboring houses. If it's like this in[r]
+the direction we can see from the window, then in the worst-case[r]
+scenario, the fire might have already reached areas we can't see.[pcms]
 
 [stopquake]
 
@@ -188,100 +183,97 @@
 *5968|
 [fc]
 [vo_tay s="taja_tj0356"]
-[ns]ターヤ[nse]
-「どうしよう……？　誠……」[pcms]
+[ns]Tarja[nse]
+"What should we do...? Makoto..."[pcms]
 
 *5969|
 [fc]
-[ns]誠[nse]
-「もう、ここにはいられないよ。[r]
-　逃げよう……」[pcms]
+[ns]Makoto[nse]
+"We can't stay here anymore. Let's escape..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_le"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5970|
 [fc]
 [vo_tay s="taja_tj0357"]
-[ns]ターヤ[nse]
-「でも……どうやって？」[pcms]
+[ns]Tarja[nse]
+"But... how?"[pcms]
 
 *5971|
 [fc]
-ターヤの言うとおりだった。[r]
-目的なく、ただ火から逃げ続けてもきっと火にまかれて終わりだ。[pcms]
+Just as Tarja said, running aimlessly from the fire would likely end[r]
+with us being overtaken by it.[pcms]
 
 *5972|
 [fc]
-強い風が吹けば、たとえ近くに燃えるものがなくても、[r]
-高熱や酸欠で人間は死んでしまうと防災訓練で習った。[r]
-関東大震災でも、それで多くの人が亡くなったって……。[pcms]
+If a strong wind blows, even without anything nearby to burn, people[r]
+can die from the high heat or lack of oxygen. I learned that in[r]
+disaster prevention training. Many people died that way during the[r]
+Great Kanto Earthquake...[pcms]
 
 *5973|
 [fc]
-こうなったら、海に逃げるしかない。[r]
-だけど、やっぱり無計画に海に飛び込んだからって[r]
-助かるもんじゃない。[pcms]
+The only option now is to escape to the sea. But jumping into the sea[r]
+without a plan won't guarantee survival.[pcms]
 
 *5974|
 [fc]
-その時は助かっても、きっとそれから先がない。[r]
-体力的にターヤだけは泳ぎきってどこかにたどり着くかも[r]
-しれないけど、それだってかなりの希望的観測だ。[pcms]
+Even if we survive for the moment, there's no guarantee of what comes[r]
+after. Tarja might be able to swim and reach somewhere due to her[r]
+physical strength, but that's quite optimistic.[pcms]
 
 *5975|
 [fc]
-……船でもあればいいんだけど……。[pcms]
+...If only we had a boat...[pcms]
 
 *5976|
 [fc]
-[ns]誠[nse]
-「そうだ！　船だっ！」[pcms]
+[ns]Makoto[nse]
+"That's it! A boat!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_le"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5977|
 [fc]
 [vo_tay s="taja_tj0358"]
-[ns]ターヤ[nse]
-「船……？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"A boat...?"[pcms]
 
 *5978|
 [fc]
-ここで暮らしているターヤなら、きっと船の心あたりの[r]
-一つや二つあるに違いない。[pcms]
+If anyone knows about boats around here, it would be Tarja who lives[r]
+here.[pcms]
 
 *5979|
 [fc]
-[ns]誠[nse]
-「ターヤ、こうなったら、この島から船で逃げるしかないよ。[r]
-　船に心当たりってない？」[pcms]
+[ns]Makoto[nse]
+"Tarja, at this point, our only option is to escape from this island[r]
+by boat. Do you know of any boats?"[pcms]
 
 *5980|
 [fc]
 [vo_tay s="taja_tj0359"]
-[ns]ターヤ[nse]
-「パパのモーターボートが港にあるけど。[r]
-　小型だけど……」[pcms]
+[ns]Tarja[nse]
+"There's my dad's motorboat at the harbor. It's small but..."[pcms]
 
 *5981|
 [fc]
-[ns]誠[nse]
-「それって動く？　運転できる？」[pcms]
+[ns]Makoto[nse]
+"Does it work? Can you drive it?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_le"][ChrSetParts layer=5 chface="F1_ta06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5982|
 [fc]
 [vo_tay s="taja_tj0360"]
-[ns]ターヤ[nse]
-「動かしたことはないけど……。[r]
-　キーはわかるところにあるし、[r]
-　運転も難しくはないみたいだから……たぶん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I've never operated it before... But I know where the keys are, and[r]
+it doesn't seem too difficult to drive... probably..."[pcms]
 
 *5983|
 [fc]
-[ns]誠[nse]
-「よしっ、そうと決まれば善は急げだ！！」[pcms]
+[ns]Makoto[nse]
+"Alright, now that we've decided, we need to act fast!"[pcms]
 
 ;//<条件分岐>
 ;//フラグＡ==1ならばラベル*flag_Aにジャンプ。
@@ -296,26 +288,25 @@
 
 *5984|
 [fc]
-[ns]誠[nse]
-「じゃあ、僕はみんなに知らせてくるよ。[r]
-　ターヤは逃げる準備をしていて。[r]
-　持って逃げる大事なものをまとめたりとか……」[pcms]
+[ns]Makoto[nse]
+"I'll go inform everyone else. Tarja, you get ready to escape. Gather[r]
+anything important that we need to take with us..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_le"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5985|
 [fc]
 [vo_tay s="taja_tj0361"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Okay..."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c lr time=300][hide_chara_int]
 
 *5986|
 [fc]
-僕は準備をターヤに任せてそーいちとフランク先輩のいる[r]
-ゲストルームへと向かった。[pcms]
+I left the preparations to Tarja and headed to the guest room where[r]
+Souichirou and Senior Frank were.[pcms]
 
 [se buf=0 storage="seA011"]
 ;//♪SEドアを開ける
@@ -325,95 +316,92 @@
 
 *5987|
 [fc]
-[ns]誠[nse]
-「そーいちっ！！　フランク先輩っ！！」[pcms]
+[ns]Makoto[nse]
+"Souichirou! Senior Frank!"[pcms]
 
 *5988|
 [fc]
-叫びながらゲストルームへと僕は駆け込んだ。[pcms]
+As I shouted, I ran into the guest room.[pcms]
 
 *5989|
 [fc]
-[ns]誠[nse]
-「えっ……？」[pcms]
+[ns]Makoto[nse]
+"Eh...?"[pcms]
 
 *5990|
 [fc]
-その瞬間……。[r]
-僕は驚きのあまり息を呑み、身体が動かなくなった。[pcms]
+At that moment... I was so shocked that I gasped for air, and my body[r]
+froze.[pcms]
 
 *5991|
 [fc]
-鼻をつく生臭い臭い。[r]
-それは僕の良く知る、精液の臭いだった。[r]
-それ以外にも、そこは汗と体液の臭いが濃密に漂っている。[pcms]
+A foul, fishy smell hit my nose. It was a smell I knew well, the smell[r]
+of semen. The room was also thick with the scent of sweat and bodily[r]
+fluids.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_a"][ChrSetParts layer=5 chface="F2_so24a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5992|
 [fc]
-[ns]宗一郎[nse]
-「ああっ……まことぉ……」[pcms]
+[ns]Souichirou[nse]
+"Ahh... Makoto..."[pcms]
 
 *5993|
 [fc]
-[ns]西[nse]
-「おおっ……ちょうけいかぁ……」[pcms]
+[ns]West[nse]
+"Ohh... Kei-kun..."[pcms]
 
 *5994|
 [fc]
-[ns]誠[nse]
-「う、うわぁ……」[pcms]
+[ns]Makoto[nse]
+"Ugh, wow..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5995|
 [fc]
-二人ともズボンのチャックを開き、ペニスを露出したままで、[r]
-虚ろな表情をして僕に答えた。[r]
-服は精液をはじめとした、さまざまな体液が付着していて……。[pcms]
+Both of them had their zippers open and their penises exposed,[r]
+answering me with vacant expressions. Their clothes were stained with[r]
+semen and various other bodily fluids...[pcms]
 
 *5996|
 [fc]
-そして、その目は……。[r]
-血のように赤かった……。[pcms]
+And their eyes... They were blood red...[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_a"][ChrSetParts layer=5 chface="F2_so24a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5997|
 [fc]
-[ns]宗一郎[nse]
-「まこと……」[pcms]
+[ns]Souichirou[nse]
+"Makoto..."[pcms]
 
 *5998|
 [fc]
-[ns]西[nse]
-「あにじゃ……」[pcms]
+[ns]West[nse]
+"Brother..."[pcms]
 
 *5999|
 [fc]
-[ns]誠[nse]
-「うわあっ！　うわっ……」[pcms]
+[ns]Makoto[nse]
+"Uwah! Uwah..."[pcms]
 
 *6000|
 [fc]
-そんな……そーいちが……。[r]
-僕の親友は感染者になってしまっていた。[pcms]
+It can't be... Souichirou... My best friend had become infected.[pcms]
 
 *6001|
 [fc]
-僕は後じさりした。[r]
-後じさりして逃げようとした。[pcms]
+I stepped back. I tried to step back and escape.[pcms]
 
 *6002|
 [fc]
-ああなってしまったら、そーいちはもう助からない。[r]
-フランク先輩も……。[pcms]
+Once they've turned like that, there's no saving Souichirou or Senior[r]
+Frank...[pcms]
 
 *6003|
 [fc]
-本当は一緒にここから逃げたかった。[r]
-だけど、もう連れて行くことはできない。[pcms]
+I really wanted to escape with them. But now, I can't take them with[r]
+me.[pcms]
 
 [se buf=0 storage="seB022"]
 ;//♪SE人が尻餅をつく
@@ -421,19 +409,19 @@
 
 *6004|
 [fc]
-[ns]誠[nse]
-「あっ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 *6005|
 [fc]
-後じさりしていた僕の背中に何かがあたった。[r]
-……まるで何か人の身体が当たったような感触。[pcms]
+As I was stepping back, I bumped into something... It felt like I had[r]
+bumped into a person's body.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6006|
 [fc]
-僕は恐る恐る振り返る。[pcms]
+I turned around fearfully.[pcms]
 
 ;//m:裸の方かなぁ
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -441,63 +429,60 @@
 *6007|
 [fc]
 [vo_stk s="satuki_tj0262"]
-[ns]彩月[nse]
-「うふふ……まーくん……」[pcms]
+[ns]Satsuki[nse]
+"Ufufu... Mak-kun..."[pcms]
 
 *6008|
 [fc]
-[ns]誠[nse]
-「み、南先輩っ！？」[pcms]
+[ns]Makoto[nse]
+"Se, Senior Minami!?"[pcms]
 
 *6009|
 [fc]
-そうだ。[r]
-そーいちが感染者になってしまったショックで[r]
-南先輩のことを忘れていた。[pcms]
+That's right. In the shock of Souichirou becoming infected, I had[r]
+forgotten about Senior Minami.[pcms]
 
 *6010|
 [fc]
-……先輩の目は赤くはなってはいない。[pcms]
+...Her eyes weren't red.[pcms]
 
 *6011|
 [fc]
-[ns]誠[nse]
-「先輩、早く逃げましょう……！[r]
-　そーいちとフランク先輩が感染者に……」[pcms]
+[ns]Makoto[nse]
+"Senior, we need to escape quickly...! Souichirou and Senior Frank[r]
+have become infected..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6012|
 [fc]
 [vo_stk s="satuki_tj0263"]
-[ns]彩月[nse]
-「うふふっ……。そうなの……？」[pcms]
+[ns]Satsuki[nse]
+"Ufufu... Is that so...?"[pcms]
 
 *6013|
 [fc]
-[ns]誠[nse]
-「せ、先輩……」[pcms]
+[ns]Makoto[nse]
+"Se, Senior..."[pcms]
 
 *6014|
 [fc]
-背筋が凍りついた。[r]
-僕はあまりに混乱していた。[pcms]
+A chill ran down my spine. I was in utter confusion.[pcms]
 
 *6015|
 [fc]
-先輩の目ばかりを気にして、僕は身体に目がいってなかった。[pcms]
+I was so focused on her eyes that I hadn't noticed her body.[pcms]
 
 *6016|
 [fc]
-先輩はほとんど裸で、その身体には……。[r]
-口元も、胸元も、股間も、足までも……全身が色々な[r]
-いやらしい体液でずぶどろになっていた。[pcms]
+Senior was almost naked, and her body was... Her mouth, chest, crotch,[r]
+legs, her entire body was drenched in various lewd bodily fluids.[pcms]
 
 *6017|
 [fc]
-異様な臭いがする。[r]
-大量の体液の混合液の臭いが……。[r]
-それは先輩にぶつかった僕の身体からも……。[pcms]
+An abnormal smell lingered. The smell of a mixture of a large amount[r]
+of bodily fluids... It was also coming from my body after bumping into[r]
+her.[pcms]
 
 ;//　次のセリフ　フォント大
 ;//m:んーどうしよう
@@ -506,28 +491,28 @@
 
 *6018|
 [fc]
-[ns]誠[nse]
-「う、うわぁ……！！」[pcms]
+[ns]Makoto[nse]
+"Ugh, wow...!!"[pcms]
 
 [se buf=0 storage="seA060"]
 ;//♪SE衣擦れ
 
 *6019|
 [fc]
-僕はあわてて汚れた上着を脱ぎ捨てようとした。[r]
-感染者の体液が大量にこびりついてしまった僕の上着を……。[pcms]
+In a panic, I tried to take off my dirty jacket. My jacket was covered[r]
+in a large amount of the infected's bodily fluids...[pcms]
 
 *6020|
 [fc]
-このまま、着ていては僕も感染してしまうかもしれない。[pcms]
+If I keep wearing it, I might get infected too.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6021|
 [fc]
 [vo_stk s="satuki_tj0264"]
-[ns]彩月[nse]
-「つっかま～えたっ！！」[pcms]
+[ns]Satsuki[nse]
+"Gotcha~!"[pcms]
 
 
 [se buf=0 storage="seB014"]
@@ -536,28 +521,27 @@
 
 *6022|
 [fc]
-[ns]誠[nse]
-「あっ！！　ああっ……！！」[pcms]
+[ns]Makoto[nse]
+"Ah!! Ahh...!!"[pcms]
 
 *6023|
 [fc]
-上着を脱ごうとして、手間取っている僕を南先輩は捕まえて、[r]
-床へと組み伏せる。[r]
-すごい力だ。[pcms]
+Satsuki caught me as I fumbled with my jacket and pinned me to the[r]
+floor. She was incredibly strong.[pcms]
 
 *6024|
 [fc]
-先輩の目の色は変わってないのに、[r]
-まるで末期の感染者のように、怪力を発揮していた。[pcms]
+Even though Satsuki's eyes hadn't changed, she exhibited the strength[r]
+of someone in the final stages of infection.[pcms]
 
 *6025|
 [fc]
-[ns]誠[nse]
-「や、やめてください！　せ、先輩っ！！」[pcms]
+[ns]Makoto[nse]
+"Stop, please! Se, Senior!!"[pcms]
 
 *6026|
 [fc]
-僕は先輩から逃れようと身体をよじる。[pcms]
+I twisted my body, trying to escape from Senior.[pcms]
 
 ;//m:メガネ無し赤目は無いので以下カット
 ;//<SoundLoop 2,OFF><SoundLoad 2,seB050"]
@@ -569,10 +553,10 @@
 ;//床に転がったそれはカラーコンタクトで……。
 
 ;//[vo_stk s="satuki_tj0265"]
-;//[ns]彩月[nse]
+[ns]Satsuki[nse]
 ;//「………………」
 
-;//[ns]誠[nse]
+[ns]Makoto[nse]
 ;//「うわぁ……！！　ああっ！！」
 
 ;//先輩の目はこれまで見たことがないくらいに真っ赤だった。
@@ -580,8 +564,8 @@
 *6027|
 [fc]
 [vo_tay s="taja_tj0362"]
-[ns]ターヤ[nse]
-「……誠～」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...Makoto~"[pcms]
 
 ;//立ち無し
 
@@ -589,39 +573,39 @@
 
 *6028|
 [fc]
-[ns]誠[nse]
-「ターヤ！　こ、こっちにきちゃ……んぐぐっ……」[pcms]
+[ns]Makoto[nse]
+"Tarja! Do, don't come over here... nghh...!"[pcms]
 
 *6029|
 [fc]
-先輩の手が僕の口を塞いだ。[pcms]
+Senior's hand covered my mouth.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6030|
 [fc]
 [vo_stk s="satuki_tj0266"]
-[ns]彩月[nse]
-「だぁあめよ……。まーくんっ……」[pcms]
+[ns]Satsuki[nse]
+"No way... Mak-kun..."[pcms]
 
 *6031|
 [fc]
-そう言って先輩は笑う。[pcms]
+Senior said that with a laugh.[pcms]
 
 *6032|
 [fc]
-[ns]誠[nse]
-「んんっ！！　んんんんっ……！！」[pcms]
+[ns]Makoto[nse]
+"Mmm!! Mmmmm!!"[pcms]
 
 *6033|
 [fc]
-僕は口を塞がれたまま叫ぶが声にならない。[pcms]
+I screamed with my mouth covered, but no sound came out.[pcms]
 
 *6034|
 [fc]
 [vo_tay s="taja_tj0363"]
-[ns]ターヤ[nse]
-「……誠～」[pcms]
+[ns]Tarja[nse]
+"...Makoto~"[pcms]
 
 ;//立ち無し
 
@@ -629,23 +613,22 @@
 
 *6035|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *6036|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *6037|
 [fc]
-足音は段々近づいていた。[pcms]
+The footsteps were getting closer.[pcms]
 
 *6038|
 [fc]
-僕の叫び声に不安になったのだろう[r]
-その僕はターヤに逃げろと言いたいのに身動きできず、[r]
-声も出せない。[pcms]
+I wanted to tell Tarja to run away because she seemed anxious from my[r]
+screams, but I couldn't move or make a sound.[pcms]
 
 ;//m:待ち伏せ？修正
 ;//この部屋へと近づいてくるターヤを待ち伏せしようと
@@ -655,37 +638,37 @@
 
 *6039|
 [fc]
-この部屋へと近づいてくるターヤの声に誘われるように、[r]
-そーいちとフランク先輩はドアの横へと静かに進む。[pcms]
+Lured by Tarja's voice approaching this room, Souichirou and Senior[r]
+Frank quietly moved to the side of the door.[pcms]
 
 *6040|
 [fc]
 [vo_tay s="taja_tj0364"]
-[ns]ターヤ[nse]
-「……誠～」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...Makoto~"[pcms]
 
 ;//立ち無し
 
 *6041|
 [fc]
-ターヤは部屋のすぐ前だ。[pcms]
+Tarja was right outside the room.[pcms]
 
 *6042|
 [fc]
-[ns]誠[nse]
-「んんっ！！　んんんっ！？」[pcms]
+[ns]Makoto[nse]
+"Mmm!! Mmmm!?"[pcms]
 
 *6043|
 [fc]
-『君だけでも逃げてくれ！』と叫んでも声にならない。[pcms]
+"Please, just run away!" I wanted to shout, but no sound came out.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6044|
 [fc]
 [vo_stk s="satuki_tj0267"]
-[ns]彩月[nse]
-「んふふっ……だぁめ……」[pcms]
+[ns]Satsuki[nse]
+"Nfufu... No way..."[pcms]
 
 [se buf=0 storage="seA011"]
 ;//♪SEドアを開ける
@@ -696,15 +679,14 @@
 *6045|
 [fc]
 [vo_tay s="taja_tj0365"]
-[ns]ターヤ[nse]
-「誠……！？」[pcms]
+[ns]Tarja[nse]
+"Makoto...!?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_le"][ChrSetParts layer=5 chface="F1_ta18"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *6046|
 [fc]
-南先輩に組み付かれた僕を見たターヤは、[r]
-僕を助けようと、とっさに駆け寄り……。[pcms]
+Seeing me pinned down by Senior, Tarja rushed over to help...[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_le"][ChrSetParts layer=5 chface="F1_ta15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 [eval exp="f.chara_x = 300,f.chara_y = 0"][quake_chara layer=5 lo xy m]
@@ -714,33 +696,33 @@
 *6047|
 [fc]
 [vo_tay s="taja_tj0366"]
-[ns]ターヤ[nse]
-「ああっ！！　な、なにっ……！？」[pcms]
+[ns]Tarja[nse]
+"Aah!! Wha, what...!?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_a"][ChrSetParts layer=5 chface="F2_so24a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6048|
 [fc]
-[ns]宗一郎[nse]
-「うへへっ……」[pcms]
+[ns]Souichirou[nse]
+"Uhehe..."[pcms]
 
 *6049|
 [fc]
-[ns]西[nse]
-「金ぱつぅ……」[pcms]
+[ns]West[nse]
+"Blondie..."[pcms]
 
 *6050|
 [fc]
-僕の願いも虚しく、ターヤは背後から、[r]
-そーいちとフランク先輩に捕らえられてしまった。[pcms]
+Despite my wishes, Tarja was caught from behind by Souichirou and[r]
+Senior Frank.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_le"][ChrSetParts layer=5 chface="F2_ta16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6051|
 [fc]
 [vo_tay s="taja_tj0367"]
-[ns]ターヤ[nse]
-「い、いやぁあああっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No, nooooo!!"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -751,8 +733,8 @@
 
 *6052|
 [fc]
-あたりに響いたターヤの悲鳴と共に、[r]
-僕は絶望のあまり気を失いそうになっていた。[pcms]
+With Tarja's scream echoing around, I felt like I was about to lose[r]
+consciousness in despair.[pcms]
 
 ;//→ファイル*ターヤルート_3000R_DeadEndへジャンプ
 ;//ブロック3190_DeadEndへjump
@@ -766,40 +748,37 @@
 *6053|
 [fc]
 [vo_tay s="taja_tj0368"]
-[ns]ターヤ[nse]
-「うん……。[r]
-　まずは……水と食料？」[pcms]
+[ns]Tarja[nse]
+"Yeah... First, we need... water and food?"[pcms]
 
 *6054|
 [fc]
-[ns]誠[nse]
-「うん……。[r]
-　なんだかモンバスみたいだね」[pcms]
+[ns]Makoto[nse]
+"Yeah... It feels kind of like Monster Bash."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_le"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *6055|
 [fc]
 [vo_tay s="taja_tj0369"]
-[ns]ターヤ[nse]
-「うん……。[r]
-　このクエスト、無事に生還しよう」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah... Let's safely complete this quest."[pcms]
 
 *6056|
 [fc]
-僕たちは顔を見合わせてクスリと笑うと、脱出の準備を始めた。[pcms]
+We exchanged smiles and began preparing for our escape.[pcms]
 
 *6057|
 [fc]
-最初に、買い置きのミネラルウォーターとレトルトなんかの保存食。[r]
-次にターヤの思い出の写真。[r]
-両親の形見になりそうなものを詰め込んだ。[pcms]
+First, we packed up the stockpiled mineral water and preserved foods[r]
+like retort pouches. Next, we packed Tarja's memorable photos. We[r]
+filled it with things that might become mementos of her parents.[pcms]
 
 *6058|
 [fc]
-最後に残った荷物の片隅にモンバスをするためのセットと、[r]
-ターヤの特にお気に入りのＣＤとゲームを詰め込んで[r]
-脱出のための荷造りは終わった。[pcms]
+Last of all, we packed a set for playing Monster Bash and Tarja's[r]
+favorite CDs and games into the remaining luggage. Our packing for[r]
+escape was complete.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

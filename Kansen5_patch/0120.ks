@@ -4,7 +4,7 @@
 ;//登場人物	：主人公、荒井、花沢、その他クラスメイト、医者
 ;//服装		：制服
 ;//日付		：7月16日
-;//時間		：午後14～15時くらい
+;//時間		：午後1415時くらい
 ;//場所		：・学園/教室 ・学園/体育館
 ;//予想容量	：全体を通して10~15K前後
 ;//備考		：主人公一人称視点
@@ -28,170 +28,168 @@
 
 *1005|
 [fc]
-[ns]誠[nse]
-「うわぁっ！」[pcms]
+[ns]Makoto[nse]
+"Uwaa!"[pcms]
 
 *1006|
 [fc]
-後ろで椅子が倒れる音が大きく響いた。[pcms]
+The sound of a chair falling over echoed loudly behind me.[pcms]
 
 *1007|
 [fc]
-僕は身体が落ちる感覚から逃れるように、[r]
-勢い良く立ち上がっている。[pcms]
+I stood up quickly, as if to escape the sensation of falling.[pcms]
 
 *1007a|
 [fc]
-[ruby text="めまい"][ch text="目眩"]のような、鈍い頭の痛みが微かに残っていた。[pcms]
+A dull headache, like dizziness, lingered faintly.[pcms]
 
 ;//BGM06.ogg
 [bgm storage="BGM06"]
 
 *1008|
 [fc]
-なにか、大変な緊急事態だった気がする。[pcms]
+It felt like there had been some kind of serious emergency.[pcms]
 
 *1009|
 [fc]
-それこそ、死んでもおかしくないような……。[pcms]
+It was the kind that wouldn't be surprising if it had killed me...[pcms]
 
 *1010|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1011|
 [fc]
-僕の視界には、静まりかえった教室だけが見えていた。[pcms]
+All I could see in my field of vision was the silent classroom.[pcms]
 
 *1012|
 [fc]
-誰の姿も見えない。[r]
-教室にいるのは僕ひとりだ。[pcms]
+No one else was in sight. I was alone in the classroom.[pcms]
 
 *1013|
 [fc]
-この状況で死ぬのは、中々難しいかもしれない。[pcms]
+Dying in this situation would be quite difficult, I suppose.[pcms]
 
 *1014|
 [fc]
-窓から飛び降りるか、机の角に頭を打って死ぬか……、[r]
-少なくとも緊急事態では無さそうだ。[pcms]
+Unless I jumped out of a window or hit my head on the corner of a desk[r]
+and died... it didn't seem like an emergency situation.[pcms]
 
 *1015|
 [fc]
-[ns]誠[nse]
-「夢……か……」[pcms]
+[ns]Makoto[nse]
+"A dream... perhaps..."[pcms]
 
 *1016|
 [fc]
-どうやら僕は居眠りをしていたらしい。[pcms]
+It seems I must have dozed off.[pcms]
 
 *1017|
 [fc]
-悪夢の類だったんだろう。[r]
-内容は思い出せないけれど、心臓が激しく脈打っている。[pcms]
+It must have been a nightmare. I can't remember the content, but my[r]
+heart is pounding fiercely.[pcms]
 
 *1018|
 [fc]
-なにか、清々しい感じが気持ちよかったことは[r]
-覚えているんだけど、なんだかわからない。[pcms]
+I remember feeling something refreshing and pleasant, but I can't[r]
+quite put my finger on what it was.[pcms]
 
 *1019|
 [fc]
-空を飛んでいるような夢だった気がするけど……、[r]
-そこから落ちたんだろうか？[pcms]
+I feel like it was a dream about flying... Did I fall from there?[pcms]
 
 *1020|
 [fc]
-夢診断をしたら、十中八九、ろくでもない結果が出る内容だ。[pcms]
+If I were to interpret the dream, nine times out of ten, it would[r]
+yield an unfavorable result.[pcms]
 
 *1021|
 [fc]
-空は自由になりたい自分の気持ちを表していて、[r]
-そこから落ちるということは挫折を意味している……。[pcms]
+The sky represents my desire for freedom, and falling from there means[r]
+failure...[pcms]
 
 *1022|
 [fc]
-欲求不満が出てこないのは……。[pcms]
+That it doesn't bring up any frustration...[pcms]
 
 *1023|
 [fc]
-激しい心臓の鼓動の説明が付かないけれど、[r]
-そんなところにしておこう。[pcms]
+I can't explain the intense beating of my heart, but let's leave it at[r]
+that.[pcms]
 
 *1024|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1025|
 [fc]
-僕は倒れた椅子を元に戻しながら、[r]
-頭が落ち着いてくるのを待った。[pcms]
+While setting the fallen chair back in place, I waited for my head to[r]
+clear.[pcms]
 
 *1026|
 [fc]
-教室に誰もいなかったのは幸いだけど、[r]
-どうして僕ひとりだけになっているんだろうか。[pcms]
+It was fortunate that no one else was in the classroom, but why was I[r]
+left alone?[pcms]
 
 *1027|
 [fc]
-朝一番で登校したとか、逆に一番遅く帰るとか、[r]
-そういうことをしないと、教室で一人にはなれない気がする。[pcms]
+You wouldn't end up alone in a classroom unless you arrived first[r]
+thing in the morning or left last, or something like that.[pcms]
 
 *1028|
 [fc]
-僕の知らないうちに世界中の人々が死んでしまって、[r]
-最後の一人になってしまったのなら……どうしよう。[pcms]
+If everyone in the world had died without my knowledge, leaving me as[r]
+the last person alive... what would I do?[pcms]
 
 *1029|
 [fc]
-マルチバースに迷い込んでいたり、[r]
-４０００万年前の日本だったり……。[pcms]
+Maybe I wandered into a multiverse, or it's Japan 40 million years[r]
+ago...[pcms]
 
 *1030|
 [fc]
-ふと、黒板を見ると担任の文字で、[r]
-体育館に集合と書かれてあった。[pcms]
+When I glanced at the blackboard, I saw the teacher's note saying to[r]
+gather in the gymnasium.[pcms]
 
 [fadeoutbgm time=500]
 ;^<SoundRun 0,Stop,ON,2000>
 
 *1031|
 [fc]
-[ns]誠[nse]
-「ああ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 [bgm storage="BGM03"]
 ;//♪bgm03　
 
 *1032|
 [fc]
-そこで、僕は今朝のホームルームを思い出す。[pcms]
+That's when I remembered this morning's homeroom.[pcms]
 
 *1033|
 [fc]
-適当に聞き流していたけれど、[r]
-体育館に行くって話をしていた気がした。[pcms]
+I wasn't paying much attention, but I think there was talk about going[r]
+to the gymnasium.[pcms]
 
 *1034|
 [fc]
-時間的にもバッチリと符合している。[pcms]
+The timing fits perfectly.[pcms]
 
 *1035|
 [fc]
-どうやらみんなに、置いてけぼりを喰ってしまったらしい。[pcms]
+It seems everyone left without me.[pcms]
 
 *1036|
 [fc]
-正直に言って、身体がものすごくだるかった。[r]
-でも、行かないわけにもいかないだろう。[pcms]
+To be honest, my body felt incredibly sluggish. But I couldn't just[r]
+not go.[pcms]
 
 *1037|
 [fc]
-まだ間に合うのか疑問に思いながらも、[r]
-僕は体育館を目指して教室を出て行った。[pcms]
+While doubting if I could still make it, I left the classroom and[r]
+headed for the gymnasium.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -212,39 +210,39 @@
 
 *1038|
 [fc]
-体育館に入ると、人の放つ熱と外の気圧差で[r]
-生温かい風が発生していた。[pcms]
+Entering the gymnasium, a lukewarm breeze was generated by the heat of[r]
+people and the difference in air pressure from outside.[pcms]
 
 *1039|
 [fc]
-人の群れに近づいたときの、むわっという感じだ。[pcms]
+It's that stuffy feeling you get when you approach a crowd of people.[pcms]
 
 *1040|
 [fc]
-あまり僕の得意なものじゃないけれど、[r]
-集団生活でそんなことも言っていられない。[pcms]
+I'm not particularly fond of it, but you can't complain about such[r]
+things in communal life.[pcms]
 
 *1041|
 [fc]
-みんなのおしゃべりに花が咲いているところを見ると、[r]
-そんなに規律正しい集まりじゃないんだろう。[pcms]
+Seeing everyone chatting away, it didn't seem like a very disciplined[r]
+gathering.[pcms]
 
 *1042|
 [fc]
-体育館の中は、集会みたいに人が集まって、[r]
-クラスごとに列を作っているみたいだった。[pcms]
+Inside the gymnasium, people were gathered like at a meeting, forming[r]
+lines by class.[pcms]
 
 *1043|
 [fc]
-そして、その列の先頭には白衣の看護師さんが座っている。[pcms]
+And at the head of those lines sat a nurse in a white coat.[pcms]
 
 *1044|
 [fc]
-もう、恒例になってしまった、あの予防注射だった。[pcms]
+It was that routine vaccination again.[pcms]
 
 *1045|
 [fc]
-インフルエンザや結核の予防接種じゃない。[pcms]
+It's not for influenza or tuberculosis.[pcms]
 
 ;//ここに、ウィルスの画像を差し込もう。
 ;//どうもここは画像がなくてよくない。
@@ -272,13 +270,13 @@
 
 *1046|
 [fc]
-最近になって、男女も年齢も関係なく誰もがやるようになった[r]
-あの感染症予防接種だ。[pcms]
+It's that infectious disease vaccination that recently became[r]
+mandatory for everyone regardless of gender or age.[pcms]
 
 *1047|
 [fc]
-とあるウイルスへの耐性をもたらす、大切な予防接種。[r]
-みんなの人生を変えてしまった……あのウイルスだ。[pcms]
+It's an important vaccination that provides resistance to a certain[r]
+virus, the one that changed everyone's lives... that virus.[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
@@ -289,36 +287,36 @@
 
 *1048|
 [fc]
-朝のホームルームで担任がその話をしていたのを、[r]
-すっかりと忘れて寝てしまった。[pcms]
+I completely forgot about the talk our homeroom teacher gave this[r]
+morning and ended up sleeping through it.[pcms]
 
 *1049|
 [fc]
-もし、僕が予防接種の時間に遅れてしまったら[r]
-どうなるんだろうか。[pcms]
+I wonder what would happen if I were late for the vaccination time.[pcms]
 
 *1050|
 [fc]
-一人で病院に行って注射を受けてくるんだとしたら、[r]
-かなり面倒くさい。[pcms]
+If I have to go to the hospital by myself to get the shot, it would be[r]
+quite a hassle.[pcms]
 
 *1051|
 [fc]
-そして担任は僕のせいで教頭なんかから小言を言われてしまう。[pcms]
+And then the homeroom teacher would get nagged by the vice-principal[r]
+because of me.[pcms]
 
 *1052|
 [fc]
-寝ていた僕が悪いんだから、文句をいう筋でもないけれど、[r]
-それで誰かに迷惑を掛けるのは、なんだかシンドイ思いがした。[pcms]
+It's my fault for sleeping, so I can't really complain, but causing[r]
+trouble for someone else feels quite burdensome.[pcms]
 
 *1053|
 [fc]
-ちょっと急ぎ足で、自分のクラスが作る列まで歩いて行く。[pcms]
+I quicken my pace a bit and walk towards the line formed by my class.[pcms]
 
 *1054|
 [fc]
-連帯責任とか考えた奴は、人間の心理を良くわかっていると[r]
-褒めてあげたくなった。[pcms]
+The person who thought of collective responsibility must really[r]
+understand human psychology; I felt like praising them.[pcms]
 
 ;//◆この辺りで荒井や花沢の立ちキャラ、宗一郎の立ちキャラを出して下さい。
 
@@ -337,112 +335,106 @@
 
 *1055|
 [fc]
-クラスの列にまで来ると、[r]
-生徒が出席番号順に並んでいるのがわかる。[pcms]
+When I got to the class line, I could see that the students were lined[r]
+up in order of attendance numbers.[pcms]
 
 *1056|
 [fc]
-全校集会とかは背の高さ順で並んでいるけれど、[r]
-さすがに出席簿をチェックしながら進行させているんだろう。[pcms]
+For all-school assemblies, we line up by height, but they must be[r]
+checking the attendance book as they proceed.[pcms]
 
 *1057|
 [fc]
-僕の名前、中澤誠の『な』、までは[r]
-まだ順番が来ていないみたいだった。[pcms]
+My name, Nakazawa Makoto, with "Na", doesn't seem to have come up yet.[pcms]
 
 *1058|
 [fc]
-別に一番最後でも構わないんだけれど、[r]
-順番通りが一番楽だ。[pcms]
+I don't mind being last, but following the order is easiest.[pcms]
 
 ;//◆この辺りで二人の表情変化とか
 
 *1059|
 [fc]
-自分の順番の辺りに並ぼうとすると、[r]
-クラスメイトから視線が集まってきた。[pcms]
+As I try to line up in my spot, I feel the gazes of my classmates on[r]
+me.[pcms]
 
 *1060|
 [fc]
-なんとなくバツが悪いみたいな視線から、[r]
-あからさまな悪意の視線まで色々だ。[pcms]
+The gazes range from somewhat guilty to blatantly malicious.[pcms]
 
 *1061|
 [fc]
-でも、僕はもうその視線にすっかりと慣れてしまっていた。[pcms]
+But I had already become completely accustomed to those gazes.[pcms]
 
 *1062|
 [fc]
-何にも気にせずに、僕が並ぶべき順番に入らせてもらって、[r]
-そこに[ruby text="たたず"]佇む。[pcms]
+Without caring about anything, I join the line where I'm supposed to[r]
+be and stand there.[pcms]
 
 *1063|
 [fc]
-[ns]担任教師[nse]
-「何やっとったんだ中澤！　さっさと並ばんか！」[pcms]
+[ns]Homeroom Teacher[nse]
+"What were you doing, Nakazawa! Hurry up and line up!"[pcms]
 
 ;//◆担任教師は男にしておきます
 
 *1064|
 [fc]
-[ns]誠[nse]
-「寝てました、すみません」[pcms]
+[ns]Makoto[nse]
+"I was sleeping, sorry."[pcms]
 
 ;//◆ここで花沢の一人立ちに？
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha11"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *1065|
 [fc]
-近くの列に並んでいる女子のグループから、[r]
-嫌らしい笑い声が聞こえてきた。[pcms]
+I could hear a nasty laugh from a group of girls lined up nearby.[pcms]
 
 *1066|
 [fc]
-サッカー部のエース、荒井の取り巻きたちだ。[pcms]
+They're the followers of Arai, the soccer team's ace.[pcms]
 
 *1067|
 [fc]
-女子のボスは、花沢とかいう名前だったと思うけど、[r]
-興味が薄いので確かなことじゃない。[pcms]
+The boss of the girls, I think her name was Hanazawa, but I'm not[r]
+interested enough to be sure.[pcms]
 
 *1068|
 [fc]
-どうやら、あの連中の指示で、僕は一人[r]
-教室に取り残されたみたいだった。[pcms]
+Apparently, under their direction, I was left alone in the classroom.[pcms]
 
 ;//◆立ち絵消し
 [chara_int][trans_c cross time=150]
 
 *1069|
 [fc]
-周りのクラスメイトは、目を反らしているか[r]
-哀れみの視線をよこしている。[pcms]
+The rest of my classmates either look away or give me a pitying[r]
+glance.[pcms]
 
 *1070|
 [fc]
-別に助けて欲しいとは思わないけれど、[r]
-そんな目で見られるのは少し心外だった。[pcms]
+I don't necessarily want their help, but being looked at with such[r]
+eyes is a bit offensive.[pcms]
 
 *1071|
 [fc]
-[ns]担任教師[nse]
-「お前らも教室で寝てる奴がいたら、[r]
-　起こしてくるくらいの気を利かせんか！」[pcms]
+[ns]Homeroom Teacher[nse]
+"You guys should have the decency to wake up anyone sleeping in the[r]
+classroom!"[pcms]
 
 *1072|
 [fc]
-空気を読めないうちの担任は、[r]
-僕がクラスで孤立していることにも気付いていない。[pcms]
+Our homeroom teacher, who can't read the room, doesn't even realize[r]
+that I'm isolated in the class.[pcms]
 
 *1073|
 [fc]
-大声を上げているが、中身は意外とへたれているので、[r]
-いじめ問題に取り組むなんて、できっこないだろう。[pcms]
+He's loud, but he's actually quite a pushover inside, so he wouldn't[r]
+be able to handle a bullying problem.[pcms]
 
 *1074|
 [fc]
-そう、僕のクラスでの居心地は、[r]
-あまり快適とは言えない有様だった。[pcms]
+Yes, my place in the class wasn't exactly comfortable.[pcms]
 
 ;//◆荒井、花沢立ち絵
 [ChrSetEx layer=3 chbase="ha1_ja1_a"][ChrSetParts layer=3 chface="F1_ha02"][ChrSetXY layer=3 x=30 y=0]
@@ -450,37 +442,36 @@
 
 *1075|
 [fc]
-今のクラスになってから、[r]
-僕は[ruby text="いわゆる"][ch text="所謂"]いじめを受けている。[pcms]
+I've been bullied since I got into this class.[pcms]
 
 *1076|
 [fc]
-僕は体格のいい方じゃない。[r]
-むしろ背の低いチビだ。[pcms]
+I'm not big. In fact, I'm short.[pcms]
 
 *1077|
 [fc]
-太ってはいないけれど、僕を見て喧嘩が強いと思う人も[r]
-少ないだろう。[pcms]
+I'm not fat, but few people would think I'm strong just by looking at[r]
+me.[pcms]
 
 *1078|
 [fc]
-走るのは得意だけれど、球技は全般的に苦手で、[r]
-遠投の成績も女子に負けるくらい酷い。[pcms]
+I'm good at running but generally bad at ball games, and my throwing[r]
+distance is so bad I lose to girls.[pcms]
 
 *1079|
 [fc]
-水泳もなんとか水に浮くことができるくらいで、[r]
-あれを泳ぐと表現するのは難しかった。[pcms]
+I can barely float in water when swimming; calling that swimming would[r]
+be a stretch.[pcms]
 
 *1080|
 [fc]
-顔や仕草が弱々しくて、女っぽいと言われることもある。[pcms]
+My face and gestures are weak and effeminate; I've been told that[r]
+before.[pcms]
 
 *1081|
 [fc]
-でも、殴ったり金を取ったり、あからさまな犯罪行為を[r]
-仕掛けられることは無かった。[pcms]
+But no one has ever tried to hit me or take money from me; there's[r]
+been no blatant criminal behavior against me.[pcms]
 
 ;//◆荒井立ち絵とか
 [chara_int]
@@ -488,75 +479,70 @@
 
 *1082|
 [fc]
-サッカー部の荒井はプロのスカウトが来るくらいの[r]
-期待株だから、問題を起こしたくないんだろう。[pcms]
+Arai from the soccer team is a promising player scouted by[r]
+professionals, so he probably doesn't want to cause any trouble.[pcms]
 
 *1083|
 [fc]
-でも、目茶苦茶にしてやろうとか、[r]
-そんなことすら思えなかった。[pcms]
+But even so, I couldn't even think about messing him up badly.[pcms]
 
 *1084|
 [fc]
-自殺未遂でも起こして、荒井にいじめられたとか遺書に書けば、[r]
-マスコミが騒いでくれるかも知れないが、[r]
-なんというか、どうでもいい。[pcms]
+I could attempt suicide and leave a note saying I was bullied by Arai,[r]
+maybe the media would make a fuss, but somehow, I don't really care.[pcms]
 
 ;//◆立ち絵消し
 [chara_int][trans_c cross time=150]
 
 *1085|
 [fc]
-[ns]担任[nse]
-「ほら、中澤、お前の番だぞ。ボケッとするな」[pcms]
+[ns]Homeroom Teacher[nse]
+"Hey, Nakazawa, it's your turn. Don't space out."[pcms]
 
 *1086|
 [fc]
-そんなことを考えていると、僕に予防接種の順番が[r]
-まわって来る。[pcms]
+As I was thinking about that, it became my turn for the vaccination.[pcms]
 
 *1087|
 [fc]
-先生は僕の順番が回ってくると、看護師になにか[r]
-耳打ちをしていた。[pcms]
+The teacher whispered something to the nurse when it was my turn.[pcms]
 
 *1088|
 [fc]
-看護師は少し動揺したような、複雑な顔をしている。[pcms]
+The nurse looked a bit shaken, with a complicated expression on her[r]
+face.[pcms]
 
 *1089|
 [fc]
-椅子に座って右腕をまくると、机の上に差し出して[r]
-注射の針を待った。[pcms]
+I sat down, rolled up my right sleeve, and extended my arm over the[r]
+desk, waiting for the injection needle.[pcms]
 
 *1090|
 [fc]
-あらかじめ先生に耳打ちされていた看護師は、[r]
-驚くことなく、僕の右腕に刻印されている[r]
-『バーコード』を確認する。[pcms]
+The nurse, who had been forewarned by the teacher's whisper, checked[r]
+the "barcode" engraved on my right arm without surprise.[pcms]
 
 *1091|
 [fc]
-看護師は手元の端末を操作して、バーコードをスキャンした。[pcms]
+The nurse operated the handheld device to scan the barcode.[pcms]
 
 *1092|
 [fc]
-どんな表示が出ているのか、一度見てみたいものだけど、[r]
-それは本人が見られないものだ。[pcms]
+I'd like to see what kind of display it shows just once, but it's[r]
+something that the person themselves can't see.[pcms]
 
 *1093|
 [fc]
-看護師は端末を確認した後、[r]
-おもむろに注射針の用意を始める。[pcms]
+After checking the device, the nurse slowly began to prepare the[r]
+injection needle.[pcms]
 
 *1094|
 [fc]
-このバーコードへのリアクションを見るのも[r]
-久しぶりだった。[pcms]
+It had been a while since I saw someone react to this barcode.[pcms]
 
 *1095|
 [fc]
-とはいえ、もう、うんざりはしているんだけど。[pcms]
+But still, I'm already sick of it.[pcms]
 
 ;//この辺りにも、ウィルスの画像とか
 ;//画像の名前は mob_N011.bmpらしいです
@@ -565,51 +551,50 @@
 
 *1096|
 [fc]
-腕に注射針を刺された。[pcms]
+They stuck the injection needle into my arm.[pcms]
 
 *1097|
 [fc]
-痛さよりも、おぞましさを感じる。[pcms]
+I felt more disgust than pain.[pcms]
 
 *1098|
 [fc]
-不活性化されているのか、弱毒化されているのか[r]
-わからないけれど、あのウイルスを[r]
-身体に入れるのは気味が悪かった。[pcms]
+I don't know if it's inactivated or attenuated, but it felt creepy to[r]
+have that virus put into my body.[pcms]
 
 *1099|
 [fc]
-怖いと言うより、不愉快だ。[pcms]
+It's not so much scary as it is unpleasant.[pcms]
 
 ;//★school07a 体育館
 [bg storage="school07a"][trans_c cross time=500]
 
 *1100|
 [fc]
-[ns]担任[nse]
-「ちょ、ちょっと待て中澤！」[pcms]
+[ns]Homeroom Teacher[nse]
+"Wait, wait a minute, Nakazawa!"[pcms]
 
 *1101|
 [fc]
-予防接種が終わり、椅子から立ち上がって列を離れようとした僕を[r]
-担任が呼び止める。[pcms]
+As the vaccination ended and I stood up from the chair to leave the[r]
+line, the homeroom teacher called out to me.[pcms]
 
 *1102|
 [fc]
-机の向こうで看護師の人が顔をしかめていた。[pcms]
+The nurse was frowning across the desk.[pcms]
 
 *1103|
 [fc]
-なんだろうか、注射に不備でもあったのか？[pcms]
+I wonder what it was, was there something wrong with the injection?[pcms]
 
 *1104|
 [fc]
-担任が僕の背中からなにかを剥ぎ取る。[r]
-どうやら、紙が貼られていたらしい。[pcms]
+The homeroom teacher peeled something off my back. Apparently, there[r]
+had been a paper stuck there.[pcms]
 
 *1105|
 [fc]
-『　僕は感染者です。自分のネーチャンレイプしてます　』[pcms]
+"I am infected. I'm raping my own sister."[pcms]
 
 ;//seG002.ogg
 [se buf=0 storage="seG002"]
@@ -619,24 +604,24 @@
 
 *1106|
 [fc]
-連中がクスクスと笑っているのが聞こえる。[pcms]
+I could hear them snickering.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1107|
 [fc]
-争いは自分と同じレベルの者じゃないと発生しないと言うけど、[r]
-全くその通りだと思った。[pcms]
+They say conflicts only happen with someone on your own level, and I[r]
+thought that was absolutely true.[pcms]
 
 *1108|
 [fc]
-[ns]担任[nse]
-「こ、こ、これは……マズイだろう……」[pcms]
+[ns]Homeroom Teacher[nse]
+"Th-this is... not good..."[pcms]
 
 *1109|
 [fc]
-小さな声で何か言っている担任を見て、[r]
-やっぱりなと僕は思っていた。[pcms]
+Looking at the homeroom teacher muttering in a low voice, I thought to[r]
+myself, as expected.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]

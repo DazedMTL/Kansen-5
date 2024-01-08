@@ -24,229 +24,227 @@
 
 *208|
 [fc]
-僕は急いで姉ちゃんに電話をする。[r]
-寝ていると不意を襲われる心配があるから起こさないと。[pcms]
+I hurriedly call my sister. I have to wake her up because there's a[r]
+risk of being caught off guard while she's asleep.[pcms]
 
 *209|
 [fc]
-部屋に閉じこもっていれば大丈夫だと思うけれど、[r]
-起きていた方がいい。[pcms]
+I think it'll be okay if she stays locked in her room, but it's better[r]
+if she's awake.[pcms]
 
 *210|
 [fc]
-眠り端だけあって、何度コールしても[r]
-電話に出る気配がなかった。[pcms]
+As expected of someone who's half asleep, no matter how many times I[r]
+call, there's no sign of her picking up the phone.[pcms]
 
 *211|
 [fc]
-でも、きっと今は電波の状況が悪いから、[r]
-一度繋がった電話を切るのは恐い。[pcms]
+But, I'm afraid to hang up the once connected call because the signal[r]
+might be bad right now.[pcms]
 
 *212|
 [fc]
-[ns]誠[nse]
-「出てくれよ……」[pcms]
+[ns]Makoto[nse]
+"Please pick up..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *213|
 [fc]
 [vo_aka s="akari0233"]
-[ns]茜梨[nse]
-「中澤先輩……」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *214|
 [fc]
-何度目のコールだったのか、姉ちゃんの携帯は[r]
-持ち主の危機を救うように、その眠りを覚ましてくれた。[pcms]
+After who knows how many calls, my sister's cell phone finally woke[r]
+her up as if to save her from danger.[pcms]
 
 *215|
 [fc]
-眠そうな姉ちゃんの声が聞こえてくる。[pcms]
+I can hear my sister's sleepy voice.[pcms]
 
 ;//◆電話越しです
 
 *216|
 [fc]
 [vo_nat s="natu0121"]
-[ns]夏都[nse]
-「なんだよこんな時間に……寝るって言っただろが」[pcms]
+[ns]Natsu[nse]
+"What do you want at this hour... I told you I'm going to sleep."[pcms]
 
 *217|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、これから部屋に行くから、[r]
-　３回ノックしたら開けてくれ」[pcms]
+[ns]Makoto[nse]
+"Sis, I'm coming to your room, so please open the door when I knock[r]
+three times."[pcms]
 
 *218|
 [fc]
 [vo_nat s="natu0122"]
 ;//◆電話越しです
-[ns]夏都[nse]
-「はぁ……？　だからもう寝るって……」[pcms]
+[ns]Natsu[nse]
+"Huh...? But I said I'm going to sleep..."[pcms]
 
 *219|
 [fc]
-[ns]誠[nse]
-「奴らがたくさん歩いてる、犠牲になっている人がたくさん……」[pcms]
+[ns]Makoto[nse]
+"They're walking around in numbers, many people are becoming[r]
+victims..."[pcms]
 
 ;//◆電話越しです
 
 *220|
 [fc]
 [vo_nat s="natu0123"]
-[ns]夏都[nse]
-「……ちょっと待て」[pcms]
+[ns]Natsu[nse]
+"...Wait a minute."[pcms]
 
 *221|
 [fc]
-僕の尋常じゃない声を察したんだろう。[r]
-多くを語らずに待てと言う。[pcms]
+She must have sensed the urgency in my voice. Without saying much, she[r]
+tells me to wait.[pcms]
 
 *222|
 [fc]
-姉ちゃんは窓から外を見て状況を確認しているみたいだった。[r]
-角度的に大美島方面の火事が見えるだろうか……。[pcms]
+It seems like my sister is checking the situation outside from her[r]
+window. I wonder if she can see the fire in the direction of Omi[r]
+Island...[pcms]
 
 ;//◆ＳＥ　電話越しにガラスの割れる音
 [se buf=0 storage="seB080"]
 
 *223|
 [fc]
-すると、電話越しになにか揉めているような音が聞こえてきた。[r]
-手遅れだったのか？　奴らが部屋の中に……？[pcms]
+Then, I hear some commotion over the phone. Is it too late? Have they[r]
+gotten into the room...?[pcms]
 
 *224|
 [fc]
-[ns]誠[nse]
-「姉ちゃん！？　大丈夫なの！？」[pcms]
+[ns]Makoto[nse]
+"Sis!? Are you okay!?"[pcms]
 
 ;//◆電話越しです
 
 *225|
 [fc]
 [vo_nat s="natu0124"]
-[ns]夏都[nse]
-「だ、大丈夫、状況を確認した」[pcms]
+[ns]Natsu[nse]
+"I-I'm fine, I've checked the situation."[pcms]
 
 *226|
 [fc]
-姉ちゃんの震える声が聞こえてきた。[r]
-早く助けに行かないと。[pcms]
+I can hear my sister's trembling voice. I need to go help her quickly.[pcms]
 
 *227|
 [fc]
-[ns]誠[nse]
-「部屋から出ないで待っていて、[r]
-　すぐに駆けつけるから」[pcms]
+[ns]Makoto[nse]
+"Don't leave your room, just wait there, I'll be there soon."[pcms]
 
 ;//◆電話越しです
 
 *228|
 [fc]
 [vo_nat s="natu0125"]
-[ns]夏都[nse]
-「わ、わかった、気を付けろよ？」[pcms]
+[ns]Natsu[nse]
+"O-Okay, be careful, alright?"[pcms]
 
 *229|
 [fc]
-[ns]誠[nse]
-「うん、それじゃあ」[pcms]
+[ns]Makoto[nse]
+"Yeah, then..."[pcms]
 
 *230|
 [fc]
-姉ちゃんに電話をした僕は、[r]
-そのままそーいちにも連絡を付ける。[pcms]
+After calling my sister, I try to contact Souichirou as well.[pcms]
 
 ;//◆ＳＥ　電話のコール音
 
 *231|
 [fc]
-姉ちゃんと同じで、何度コールしても出る気配がない。[r]
-早く気付いてくれ……。[pcms]
+Just like with my sister, no matter how many times I call, there's no[r]
+sign of him answering. Please notice soon...[pcms]
 
 *232|
 [fc]
-[ns]自動音声[nse]
-「お留守番サービスに接続致します、三分以内に……」[pcms]
+[ns]Automatic Voice[nse]
+"Connecting to the answering service, within three minutes..."[pcms]
 
 *233|
 [fc]
-[ns]誠[nse]
-「くそっ、そーいちは繋がらない！」[pcms]
+[ns]Makoto[nse]
+"Damn it, Souichirou isn't picking up!"[pcms]
 
 *234|
 [fc]
-一度寝たら、電話の音くらいで起きるような奴じゃないな。[r]
-カードキーは持っているから、部屋に入って起こさないと。[pcms]
+Once he's asleep, he's not the type to wake up from the sound of a[r]
+phone. Since I have his card key, I need to enter his room and wake[r]
+him up.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *235|
 [fc]
 [vo_aka s="akari0234"]
-[ns]茜梨[nse]
-「チアー部の子も電話が繋がりません！」[pcms]
+[ns]Akari[nse]
+"I can't get through to the cheerleading team either!"[pcms]
 
 ;//◆前ファイルで、茜梨は警察に電話していますので携帯所持としておきます
 
 *236|
 [fc]
-[ns]誠[nse]
-「寝ているだけならいいんだけど……」[pcms]
+[ns]Makoto[nse]
+"It would be fine if they're just sleeping..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *237|
 [fc]
 [vo_aka s="akari0235"]
-[ns]茜梨[nse]
-「た、助けに行かないと」[pcms]
+[ns]Akari[nse]
+"We have to go help them."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *238|
 [fc]
-僕は越智さんにうなずき返すと、[r]
-その手を取ってエレベータの前まで走っていった。[pcms]
+I nod back at Ochi-san and take her hand, running towards the[r]
+elevator.[pcms]
 
 *239|
 [fc]
-とにかくみんなのいる３Ｆまで戻ろう。[r]
-でも、サッカー部のコーチを見たのは３Ｆだったはず。[pcms]
+Anyway, we need to get back to the 3rd floor where everyone is. But I[r]
+saw the soccer coach on the 3rd floor...[pcms]
 
 *240|
 [fc]
-もしかしたら……。[r]
-嫌な想像が頭の中に溢れていく。[pcms]
+Maybe... Unpleasant thoughts start to overflow in my mind.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *241|
 [fc]
-[ns]男Ａ[nse]
-「お゛……お゛んな゛ぁ～……、[r]
-　わ゛か゛い……お゛ん゛なた゛ぁ～」[pcms]
+[ns]Man A[nse]
+"Oooh... young... laaadies..."[pcms]
 
 *242|
 [fc]
-[ns]誠[nse]
-「うくっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh..."[pcms]
 
 *243|
 [fc]
-横合いの廊下から奴らが一人姿を現した。[r]
-今度は突き落とすというわけにも行かない。[pcms]
+One of them appears from a side corridor. This time it's not possible[r]
+to just push him down.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *244|
 [fc]
 [vo_aka s="akari0236"]
-[ns]茜梨[nse]
-「はあああああああっ！」[pcms]
+[ns]Akari[nse]
+"Haaaaaaaah!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
@@ -265,13 +263,12 @@
 
 *245|
 [fc]
-越智さんがすねの辺りを薙刀で払うと、[r]
-男は手品のように床にすっころぶ。[pcms]
+When Ochi-san sweeps at his shins with her naginata, the man tumbles[r]
+to the floor like magic.[pcms]
 
 *246|
 [fc]
-僕たちはその隙にエレベータの前まで[r]
-走ってボタンを押した。[pcms]
+We take advantage of the opening and run to press the elevator button.[pcms]
 
 ;//*_選択肢
 ;//1,エレベーターを使う   ラベルelevatorへ
@@ -279,14 +276,14 @@
 
 ;	[link target=*elevator]エレベーターを使う[endlink]
 ;	[link target=*kaidan]階段を使う[endlink]
-;	[s]
+;[pcms]
 
 *SEL07|エレベーターを使う／階段を使う
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = 'エレベーターを使う'"]
-[eval exp="f.seltext06 = '階段を使う'"]
+[eval exp="f.seltext04 = 'Use the elevator'"]
+[eval exp="f.seltext06 = 'Use the stairs'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -326,39 +323,37 @@
 
 *247|
 [fc]
-[ns]誠[nse]
-「くそっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it!"[pcms]
 
 *248|
 [fc]
-遅い、早く来てくれ。[r]
-僕はカチャカチャとボタンを連打する。[pcms]
+It's slow, come on faster. I keep pressing the button frantically.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *249|
 [fc]
-そうこうしているうちに、さっき越智さんが転ばした奴が、[r]
-またこっちに向かってこようとしていた。[pcms]
+While doing so, the guy that Ochi-san knocked down earlier is starting[r]
+to head this way again.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *250|
 [fc]
 [vo_aka s="akari0237"]
-[ns]茜梨[nse]
-「ふうっ……」[pcms]
+[ns]Akari[nse]
+"Haaaaaaaah..."[pcms]
 
 *251|
 [fc]
-越智さんがそれを迎え撃とうとする。[r]
-エレベータがくるまでの辛抱だ。[r]
-早く……早く……。[pcms]
+Ochi-san prepares to confront him. It's just a matter of enduring[r]
+until the elevator arrives. Hurry... hurry...[pcms]
 
 *252|
 [fc]
-そして、越智さんと奴らが睨み合っている中、[r]
-やっとエレベータが到着した。[pcms]
+And while Ochi-san and the guys are glaring at each other, the[r]
+elevator finally arrives.[pcms]
 
 ;//◆ＳＥ　エレベータの到着音（チン♪）
 [se buf=0 storage="seC055"]
@@ -370,31 +365,31 @@
 
 *253|
 [fc]
-[ns]誠[nse]
-「早く乗って！」[pcms]
+[ns]Makoto[nse]
+"Get in quickly!"[pcms]
 
 *254|
 [fc]
-開きかけのエレベータに身を乗り出そうとすると、[r]
-向こうに誰かが乗っているのが見える。[pcms]
+As I lean into the opening elevator, I can see someone is already[r]
+inside.[pcms]
 
 *255|
 [fc]
-注意を促して一緒に逃げようと思う間もなく、[r]
-そこから大量の奴らが押し寄せてきた。[pcms]
+Before I have a chance to warn them and escape together, a large group[r]
+of them starts to surge forward.[pcms]
 
 *256|
 [fc]
-[ns]誠[nse]
-「うわああああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Aaaaaaaahhhhhhh!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *257|
 [fc]
 [vo_aka s="akari0238"]
-[ns]茜梨[nse]
-「中澤先輩！　中澤先輩！」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai! Nakazawa-senpai!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -411,42 +406,40 @@
 
 *258|
 [fc]
-いや、待てよ？[pcms]
+No, wait a second?[pcms]
 
 *259|
 [fc]
-サッカー部のコーチはあのヨタヨタした歩きで、[r]
-どうやって屋上までやって来たんだ？[pcms]
+How did the soccer coach, with his staggering walk, manage to get to[r]
+the rooftop?[pcms]
 
 *260|
 [fc]
-ボタンを押したエレベータが、どんどん屋上に向かって[r]
-昇ってくる。[pcms]
+The elevator I pressed is ascending rapidly towards the rooftop.[pcms]
 
 *261|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *262|
 [fc]
 [vo_aka s="akari0239"]
-[ns]茜梨[nse]
-「あっ！　どうしたんですか！？」[pcms]
+[ns]Akari[nse]
+"Ah! What's wrong!?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *263|
 [fc]
-越智さんの手を引っ張って、[r]
-エレベータから離れていく。[pcms]
+I pull Ochi-san's hand and move away from the elevator.[pcms]
 
 *264|
 [fc]
-[ns]誠[nse]
-「エレベーターはヤバイ！　階段で行こう！」[pcms]
+[ns]Makoto[nse]
+"The elevator is dangerous! Let's take the stairs!"[pcms]
 
 ;//#_ブラックアウト
 ;//[black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -458,55 +451,54 @@
 
 *265|
 [fc]
-エレベータがどうなっているかの確認もせずに、[r]
-僕は半分勘を頼りに階段を下りていく。[pcms]
+Without checking what's happening with the elevator, I rely on my[r]
+intuition and start descending the stairs.[pcms]
 
 ;//m:転んでるらしいので下げておく。面白すぎるようなら修正
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=300][trans_c cross time=150]
 
 *266|
 [fc]
-[ns]男Ｂ[nse]
-「あ゛あ゛あ゛っ……おれ゛て゛るのに……、[r]
-　い゛た゛くな゛い……」[pcms]
+[ns]Man B[nse]
+"Aaah... I'm getting out... it doesn't hurt..."[pcms]
 
 *267|
 [fc]
-[ns]誠[nse]
-「くっ……」[pcms]
+[ns]Makoto[nse]
+"Grr..."[pcms]
 
 *268|
 [fc]
-階段にも奴らは入り込んでいたが、[r]
-案の定思うように動けず転倒している。[pcms]
+They've infiltrated the stairs as well, but as expected, they can't[r]
+move properly and are falling over.[pcms]
 
 *269|
 [fc]
-[ns]誠[nse]
-「こいつらに触らないようにして、[r]
-　あと血がかからないように気をつけて」[pcms]
+[ns]Makoto[nse]
+"Make sure not to touch these guys, and be careful not to get any[r]
+blood on you"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *270|
 [fc]
 [vo_aka s="akari0240"]
-[ns]茜梨[nse]
-「は、はい……」[pcms]
+[ns]Akari[nse]
+"Yes, understood..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *271|
 [fc]
-階段から転げ落ちて踊り場に溜まっている[r]
-奴らも居るけれど、ホテルの階段は広いので、[r]
-なんとか避けて進むことが出来た。[pcms]
+Some of them have tumbled down the stairs and are gathering on the[r]
+landing, but since the hotel stairs are wide, we were able to avoid[r]
+them and keep going.[pcms]
 
 *272|
 [fc]
 [vo_aka s="akari0241"]
-[ns]茜梨[nse]
-「はあああああっ！」[pcms]
+[ns]Akari[nse]
+"Haaaaaaaah!"[pcms]
 
 ;//mine:SE
 [se buf=0 storage="seB042"]
@@ -526,13 +518,12 @@
 
 *273|
 [fc]
-振り上げた薙刀が壁にぶつかって、[r]
-甲高い音を立てていた。[pcms]
+The naginata she swung hit the wall, making a high-pitched sound.[pcms]
 
 *274|
 [fc]
-空間が狭いことを意識した越智さんは、[r]
-薙刀の使い方を突くやり方に変えている。[pcms]
+Ochi-san, aware of the tight space, has changed her naginata technique[r]
+to thrusting.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan2_x"][ChrSetXY layer=5 x=260 y=0][trans_c cross time=150]
 
@@ -546,136 +537,132 @@
 
 *275|
 [fc]
-[ns]男Ｂ[nse]
-「う゛あ゛あ゛っ……」[pcms]
+[ns]Man B[nse]
+"Uuuuugh..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *276|
 [fc]
-三階の踊り場にいた奴を、下の階に落とすように[r]
-胸の辺りを強く突くと、その影から人が現れた。[pcms]
+She thrusts strongly at the chest of one of the guys on the third-[r]
+floor landing, sending him down to the lower floor, and then a person[r]
+appears from behind that shadow.[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *277|
 [fc]
-[ns]荒井[nse]
-「うわっ、茜梨ちゃん！」[pcms]
+[ns]Arai[nse]
+"Whoa, Akari-chan!"[pcms]
 
 *278|
 [fc]
-[ns]誠[nse]
-「荒井っ！」[pcms]
+[ns]Makoto[nse]
+"Arai!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *279|
 [fc]
 [vo_aka s="akari0242"]
-[ns]茜梨[nse]
-「荒井先輩！」[pcms]
+[ns]Akari[nse]
+"Arai-senpai!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *280|
 [fc]
-突き落とした奴らとすれ違うように、[r]
-下の階から荒井が上がってくる。[pcms]
+As we pass by the ones we've knocked down, Arai comes up from the[r]
+lower floor.[pcms]
 
 *281|
 [fc]
-越智さんがそっちに向けて薙刀を構えた。[r]
-思わず背筋に緊張が走る。[pcms]
+Ochi-san readies her naginata towards him. I can't help but feel[r]
+tension running down my spine.[pcms]
 
 *282|
 [fc]
-荒井は正気なのか？　それとも……。[pcms]
+Is Arai sane? Or...[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *283|
 [fc]
-[ns]荒井[nse]
-「俺はおかしくなってない！[r]
-　お前たちこそどうなんだ！」[pcms]
+[ns]Arai[nse]
+"I'm not crazy! What about you guys!?"[pcms]
 
 *284|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *285|
 [fc]
 [vo_aka s="akari0243"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *286|
 [fc]
-越智さんと目配せをする。[r]
-荒井におかしくなっている様子はない。[pcms]
+We exchange glances with Ochi-san. There doesn't seem to be anything[r]
+wrong with Arai.[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *287|
 [fc]
-でも、おかしくなるまでには時間が掛かるはずだし、[r]
-正常だっていう保障はどこにもないはずだ。[pcms]
+But it should take time to go crazy, and there's no guarantee anywhere[r]
+that he's sane.[pcms]
 
 *288|
 [fc]
-[ns]荒井[nse]
-「くっ、階段で練習していたら変な奴らが現れた、[r]
-　証明するのは無理だけど……」[pcms]
+[ns]Arai[nse]
+"Damn, I was practicing on the stairs when these weirdos showed up. I[r]
+can't prove it, but..."[pcms]
 
 *289|
 [fc]
-下を見ると、２階への中２階の踊り場に[r]
-死体がいくつか転がっていた。[pcms]
+Looking down, there were several bodies lying on the landing of the[r]
+mezzanine leading to the second floor.[pcms]
 
 *290|
 [fc]
-身体を食いちぎられて絶命している者や、[r]
-[ruby text="あざ"]痣が出来て、首の骨が折れているものもいる。[pcms]
+Some had been bitten to death, while others had bruises and broken[r]
+necks.[pcms]
 
 *291|
 [fc]
-[ns]誠[nse]
-「うっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh..."[pcms]
 
 *292|
 [fc]
-いや……死んでいない。[r]
-まだびくびくと動いている。[r]
-生きているんだ……。[pcms]
+No... they're not dead. They're still twitching. They're alive...[pcms]
 
 *293|
 [fc]
-[ns]荒井[nse]
-「俺が蹴り落とした、でも、まだ生きてる……、[r]
-　なんなんだこいつらは！」[pcms]
+[ns]Arai[nse]
+"I kicked them down, but they're still alive... What are these guys!"[pcms]
 
 *294|
 [fc]
-自分が信じてもらえない不安と、[r]
-命のやりとりをした興奮で、荒井が声を荒げている。[pcms]
+Arai is raising his voice out of anxiety for not being believed and[r]
+the excitement of having dealt with life and death.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *295|
 [fc]
-ちゃんと説明しておいた方がいいだろう。[r]
-こいつらは、間違いなく……。[pcms]
+It would be better to explain properly. These guys are definitely...[pcms]
 
 *296|
 [fc]
-[ns]誠[nse]
-「これは……感染者だよ」[pcms]
+[ns]Makoto[nse]
+"These are... infected people."[pcms]
 
 ;//ふたりだち
 
@@ -685,45 +672,46 @@
 *297|
 [fc]
 [vo_aka s="akari0244"]
-[ns]茜梨[nse]
-「……え？」[pcms]
+[ns]Akari[nse]
+"...Eh?"[pcms]
 
 *298|
 [fc]
-[ns]荒井[nse]
-「感染者！？」[pcms]
+[ns]Arai[nse]
+"Infected!?"[pcms]
 
 *299|
 [fc]
-二人とも驚くと言うより唖然としている。[r]
-すぐに認識することはできないだろう。[pcms]
+Both of them look more stunned than surprised. It's not something they[r]
+can recognize immediately.[pcms]
 
 *300|
 [fc]
-でも、学園で予防接種をして、[r]
-その知識も色々と伝わっているはずだ。[pcms]
+But they should have been vaccinated at school, and that knowledge[r]
+should have been conveyed in various ways.[pcms]
 
 *301|
 [fc]
-４年前に起きた突然の事件とは違うはず。[pcms]
+This is different from the sudden incident that happened four years[r]
+ago.[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak15"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *302|
 [fc]
 [vo_aka s="akari0245"]
-[ns]茜梨[nse]
-「そ、それって、４年前の……」[pcms]
+[ns]Akari[nse]
+"So, that's like... the one from four years ago?"[pcms]
 
 *303|
 [fc]
-[ns]誠[nse]
-「僕は、あの事件を体験しているからわかる……」[pcms]
+[ns]Makoto[nse]
+"I know because I experienced that incident..."[pcms]
 
 *304|
 [fc]
-[ns]荒井[nse]
-「うぐっ……」[pcms]
+[ns]Arai[nse]
+"Ugh..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -731,93 +719,89 @@
 *305|
 [fc]
 [vo_aka s="akari0246"]
-[ns]茜梨[nse]
-「そ、そんな、ま、まだ終わっていないの？[r]
-　お爺さまが……ああっ……」[pcms]
+[ns]Akari[nse]
+"So, so that means, it's not over yet? Grandfather said... Ahh..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *306|
 [fc]
-[ns]誠[nse]
-「しっかりするんだ、今は生き延びることを考えないと」[pcms]
+[ns]Makoto[nse]
+"Pull yourself together, we need to think about surviving right now."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *307|
 [fc]
-僕は越智さんを支えるように抱きすくめる。[r]
-荒井が嫌な顔をしているけれど、知ったことか。[pcms]
+I embrace Ochi-san as if to support her. Arai looks displeased, but I[r]
+don't care.[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *308|
 [fc]
-[ns]荒井[nse]
-「でも、あいつらは脳みそを食べて仲間を増やすんだろ？[r]
-　別に頭を怪我しているようには見えなかったけど」[pcms]
+[ns]Arai[nse]
+"But those guys increase their numbers by eating brains, right? It[r]
+didn't look like their heads were injured though."[pcms]
 
 *309|
 [fc]
-[ns]誠[nse]
-「違う、そんなこと授業じゃ習わなかっただろ？」[pcms]
+[ns]Makoto[nse]
+"No, that's not what we learned in class, right?"[pcms]
 
 *310|
 [fc]
-噂の方が先行してしまって、[r]
-ちゃんと教育が行き届いていない。[pcms]
+Rumors have gotten ahead, and proper education hasn't been provided.[pcms]
 
 *311|
 [fc]
-他のみんなも同じようなものなんだろうか……。[pcms]
+I wonder if everyone else is the same...[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *312|
 [fc]
-[ns]荒井[nse]
-「じゃあ、どうすればいいんだよ、[r]
-　噛まれると死ぬとかも聞いたけど……」[pcms]
+[ns]Arai[nse]
+"Then what should we do? I heard that you die if you get bitten..."[pcms]
 
 *313|
 [fc]
-[ns]誠[nse]
-「感染者の体液に触れないようにしないといけない。[r]
-　血や唾液なんかが駄目だから、噛まれるとアウトだ」[pcms]
+[ns]Makoto[nse]
+"We have to avoid contact with the infected's bodily fluids. Blood and[r]
+saliva are bad, so getting bitten is out."[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *314|
 [fc]
-[ns]荒井[nse]
-「血が駄目なのかよ……危なかったぜ」[pcms]
+[ns]Arai[nse]
+"Blood is bad, huh... That was close."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *315|
 [fc]
-怪我をしている感染者は危険だ。[r]
-蹴り飛ばした反動で血が振りかかったりするかも知れない。[pcms]
+Injured infected are dangerous. Blood might splatter from kicking them[r]
+away.[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *316|
 [fc]
-[ns]誠[nse]
-「引っかかれたりするのも危ないから、[r]
-　極力触らないようにした方がいい」[pcms]
+[ns]Makoto[nse]
+"Getting scratched is also dangerous, so it's best to avoid touching[r]
+them as much as possible."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *317|
 [fc]
-[ns]荒井[nse]
-「でも、これからどうすれば……」[pcms]
+[ns]Arai[nse]
+"But what do we do from here..."[pcms]
 
 *318|
 [fc]
-みんな不安なのはわかる。[r]
-でも、方法は残されている。[pcms]
+I understand everyone is anxious. But there are still ways to survive.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -825,201 +809,193 @@
 *319|
 [fc]
 [vo_aka s="akari0247"]
-[ns]茜梨[nse]
-「確か、２４時間経てば脳が腐って死ぬとか……、[r]
-　それまで持ちこたえればいいんですか？」[pcms]
+[ns]Akari[nse]
+"If I remember correctly, after 24 hours their brains rot and they[r]
+die... Should we just hold out until then?"[pcms]
 
 *320|
 [fc]
-[ns]誠[nse]
-「腐るわけじゃなくて、脳が破壊されるんだ。[r]
-　何ヶ月も長生きする種類がいるけど、[r]
-　２４時間が一応の目安になる」[pcms]
+[ns]Makoto[nse]
+"It's not that their brains rot, but rather they get destroyed. There[r]
+are types that live for months, but 24 hours is a rough guideline."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *321|
 [fc]
-[ns]荒井[nse]
-「お、お前、なんでそんなに詳しいんだよ」[pcms]
+[ns]Arai[nse]
+"Hey, how do you know so much about this?"[pcms]
 
 *322|
 [fc]
-バーコードの件でさんざんからかっている癖に、[r]
-意味はわかってなかったのか？[pcms]
+Despite all the teasing about the barcode incident, he didn't[r]
+understand the meaning?[pcms]
 
 *323|
 [fc]
-でも、今は身の上話をしている時じゃない。[pcms]
+But now is not the time for personal stories.[pcms]
 
 *324|
 [fc]
-[ns]誠[nse]
-「後で話すよ、それよりサッカー部の部員は？」[pcms]
+[ns]Makoto[nse]
+"I'll tell you later, but what about the soccer club members?"[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *325|
 [fc]
-[ns]荒井[nse]
-「他の部員のことは知らない。[r]
-　同部屋の奴は他の部屋に行っているけど、[r]
-　まだ帰ってきてないんだ」[pcms]
+[ns]Arai[nse]
+"I don't know about the other members. The guy in the same room went[r]
+to another room, but he hasn't come back yet."[pcms]
 
 *326|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *327|
 [fc]
-[ns]荒井[nse]
-「もう、奴らになっているのかもな……」[pcms]
+[ns]Arai[nse]
+"They might already be one of them..."[pcms]
 
 *328|
 [fc]
-とりあえず、荒井が感染しているかどうか[r]
-今確かめる方法はない。[pcms]
+For now, there's no way to confirm if Arai is infected.[pcms]
 
 *329|
 [fc]
-最低限のことだけ確認しておくことにする。[pcms]
+I decide to only confirm the bare minimum.[pcms]
 
 *330|
 [fc]
-[ns]誠[nse]
-「僕と越智さんは感染していないけど、証明できない。[r]
-　それは荒井も同じだ」[pcms]
+[ns]Makoto[nse]
+"Ochi-san and I are not infected, but we can't prove it. The same goes[r]
+for Arai."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *331|
 [fc]
-[ns]荒井[nse]
-「お、おう……」[pcms]
+[ns]Arai[nse]
+"Oh, right..."[pcms]
 
 *332|
 [fc]
-[ns]誠[nse]
-「だから、不必要に触り合うのは止めにしよう。[r]
-　荒井もその方が安心だろ？」[pcms]
+[ns]Makoto[nse]
+"That's why we should avoid unnecessary contact. It's safer for you[r]
+too, right Arai?"[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *333|
 [fc]
-[ns]荒井[nse]
-「くっ……わかったよ」[pcms]
+[ns]Arai[nse]
+"Tch... understood."[pcms]
 
 *334|
 [fc]
-荒井はふて腐りながらも理解してくれたようだった。[r]
-お互い、土壇場で揉めるのは勘弁して欲しいはずだ。[pcms]
+It seemed like Arai understood, albeit reluctantly. Neither of us[r]
+wants to cause trouble at this critical moment.[pcms]
 
 *335|
 [fc]
-[ns]誠[nse]
-「越智さんは大丈夫？[r]
-　走ったり出来そう？」[pcms]
+[ns]Makoto[nse]
+"Are you okay, Ochi-san? Can you run if needed?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *336|
 [fc]
 [vo_aka s="akari0248"]
-[ns]茜梨[nse]
-「は、はい……もう、大丈夫です」[pcms]
+[ns]Akari[nse]
+"Yes, I'm fine now."[pcms]
 
 *337|
 [fc]
-[ns]誠[nse]
-「これから、知っている人の無残な姿を見ることになると思う。[r]
-　でも、気を確かに持って」[pcms]
+[ns]Makoto[nse]
+"We might see some gruesome sights of people we know from here on. But[r]
+keep your wits about you."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *338|
 [fc]
 [vo_aka s="akari0249"]
-[ns]茜梨[nse]
-「わかりました、大丈夫です」[pcms]
+[ns]Akari[nse]
+"Understood, I'll be okay."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *339|
 [fc]
-僕はうなずき返すと、踊り場の扉を開けて、[r]
-廊下の様子をうかがった。[pcms]
+I nod back and open the door to the landing to check the hallway.[pcms]
 
 ;//★bg11b ホテル廊下・夜
 [bg storage="BG11b"][trans_c cross time=500]
 
 *340|
 [fc]
-感染者が１０人くらいうろついている。[r]
-みんな……学園の関係者ばかりだ。[pcms]
+About ten infected are wandering around. They're all... associated[r]
+with the academy.[pcms]
 
 *341|
 [fc]
-このフロアは貸し切り同然だったんだから、[r]
-当たり前なのか……。[pcms]
+This floor was practically reserved for us, so it's no surprise...[pcms]
 
 *342|
 [fc]
-サッカー部やチアー部の見知った姿が見える。[pcms]
+I can see familiar faces from the soccer and cheer teams.[pcms]
 
 *343|
 [fc]
-なんでそんな格好をしているのかはわからないけれど、[r]
-チアー部はチアー衣装を着ているみたいだった。[pcms]
+I don't know why they're dressed like that, but the cheer team seems[r]
+to be wearing their cheer outfits.[pcms]
 
 *344|
 [fc]
-サッカー部の奴らは裸だし……、[r]
-いったい何があったんだろうか。[pcms]
+The soccer team guys are naked... what on earth happened?[pcms]
 
 [ChrSetEx layer=4 chbase="ha1_kan1"][ChrSetXY layer=4 x=630 y=0][trans_c cross time=150]
 
 *345|
 [fc]
 [vo_han s="hana0070"]
-[ns]花沢[nse]
-「あはははは……あらいくぅん……、[r]
-　わたしと、えっちなこと……しようよぉ……」[pcms]
+[ns]Hanazawa[nse]
+"Ahahaha... Arai-kun... let's do naughty things together..."[pcms]
 
 *346|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *347|
 [fc]
-花沢だ……チアー衣装が着乱れていて、[r]
-顔や髪に白い液体がかかっている……。[pcms]
+It's Hanazawa... Her cheer outfit is disheveled, and her face and hair[r]
+are splattered with a white liquid...[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *348|
 [fc]
-何が起きたのか詮索するつもりはない。[r]
-感傷に浸っている場合じゃなかった。[pcms]
+I have no intention of prying into what happened. This is no time for[r]
+sentimentality.[pcms]
 
 *349|
 [fc]
-今はとにかく、姉ちゃんとそーいちを助けないといけない。[pcms]
+Right now, I have to save Onee-san and Souichi.[pcms]
 
 *350|
 [fc]
-床に倒れて動かない人の姿もあった。[r]
-きっと、もう死んでいる。[pcms]
+There are also people lying on the floor not moving. They're probably[r]
+already dead.[pcms]
 
 *351|
 [fc]
-階段はちょうど廊下の中央に位置していて、[r]
-右に越智さんと姉ちゃんの部屋があるけれど、[r]
-僕とそーいちの部屋は逆の左側だ。[pcms]
+The staircase is right in the middle of the hallway; Ochi-san and[r]
+Onee-san's room is to the right, but Souichi's and my room is on the[r]
+opposite left side.[pcms]
 
 ;//◆背景　階段踊り場とか
 ;//★SBG01 ホテル　階段踊り場
@@ -1027,7 +1003,7 @@
 
 *351a|
 [fc]
-さて、どうしようか……。[pcms]
+Now, what to do...[pcms]
 
 ;//*_選択肢
 ;//1,一緒に移動しよう   ラベルtogetherへ
@@ -1037,15 +1013,15 @@
 ;	[link target=*together]一緒に移動しよう[endlink]
 ;	[link target=*futate]二手に分かれよう[endlink]
 ;	[link target=*call_natu]取りあえず姉ちゃんを呼ぶ[endlink]
-;	[s]
+;[pcms]
 
 *SEL08|一緒に移動しよう／二手に分かれよう／取りあえず姉ちゃんを呼ぶ
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '一緒に移動しよう'"]
-[eval exp="f.seltext04 = '二手に分かれよう'"]
-[eval exp="f.seltext06 = '取りあえず姉ちゃんを呼ぶ'"]
+[eval exp="f.seltext02 = 'Let\'s move together'"]
+[eval exp="f.seltext04 = 'Let\'s split into two groups'"]
+[eval exp="f.seltext06 = 'For now, let\'s call big sis'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -1091,9 +1067,9 @@
 
 *352|
 [fc]
-[ns]誠[nse]
-「扉の向こうは感染者だらけだけど、[r]
-　僕は、無事な人を助けに行きたい」[pcms]
+[ns]Makoto[nse]
+"The other side of this door is full of infected, but I want to go[r]
+help those who are safe."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak11"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -1101,179 +1077,175 @@
 *353|
 [fc]
 [vo_aka s="akari0250"]
-[ns]茜梨[nse]
-「はい」[pcms]
+[ns]Akari[nse]
+"Yes."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *354|
 [fc]
-荒井も無言で頷く。[pcms]
+Arai nods silently.[pcms]
 
 *355|
 [fc]
-館内放送を使って、無事な人に注意を促したり[r]
-出来ればいいんだけど、今の僕らには[r]
-隠れていられる場所すらない。[pcms]
+If we could use the public address system to warn those who are safe,[r]
+that would be great, but right now we don't even have a place to hide.[pcms]
 
 *356|
 [fc]
-越智さんと荒井がどれくらいの人を助けたいと[r]
-思っているのかわからないけれど、[r]
-僕はねーちゃんとそーいちを助けるのが最低限だ。[pcms]
+I don't know how many people Ochi-san and Arai want to save, but for[r]
+me, saving Onee-san and Souichi is the bare minimum.[pcms]
 
 *357|
 [fc]
-特にねーちゃんは、元自衛隊員だから、[r]
-合流してくれればかなりの戦力になってくれるはず。[pcms]
+Especially since Onee-san is a former Self-Defense Force member, she[r]
+would be a significant asset if we could join up with her.[pcms]
 
 *358|
 [fc]
-[ns]誠[nse]
-「ここでバラバラに行動するのは危険だ。[r]
-　一人じゃ対処できないことでも、三人いれば[r]
-　なんとなかることだってある」[pcms]
+[ns]Makoto[nse]
+"It's dangerous to act separately here. Alone we might not handle it,[r]
+but with three of us, there's a chance we can manage."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *359|
 [fc]
-[ns]荒井[nse]
-「わかったよ、みんな一緒に行動すればいいんだろ」[pcms]
+[ns]Arai[nse]
+"Got it, we'll all stick together then."[pcms]
 
 *360|
 [fc]
-今が非常事態だということは、二人とも理解しているから、[r]
-正論を唱えれば無茶苦茶は言い返してこない。[pcms]
+Both understand that this is an emergency situation, so if I speak[r]
+logically, they won't argue back with nonsense.[pcms]
 
 *361|
 [fc]
-個人のパーソナリティにもよるんだろうけれど、[r]
-この三人なら上手く行動できそうだった。[pcms]
+Their individual personalities may play a part, but it seemed like[r]
+these three could work well together.[pcms]
 
 *362|
 [fc]
-[ns]誠[nse]
-「足は平気なのか？」[pcms]
+[ns]Makoto[nse]
+"Are your legs okay?"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *363|
 [fc]
-[ns]荒井[nse]
-「サッカーをするわけじゃない、[r]
-　特別に問題はないさ」[pcms]
+[ns]Arai[nse]
+"We're not playing soccer, there shouldn't be any special problems."[pcms]
 
 *364|
 [fc]
-荒井はリーダー風を吹かせそうな気がしていたけれど、[r]
-今のところ大人しく従ってくれている。[pcms]
+Arai seemed like he might try to take charge, but for now, he's[r]
+following along quietly.[pcms]
 
 *365|
 [fc]
-姉ちゃんが合流すれば、みんなも異論無く[r]
-従ってくれるはずだから、それまで大人しくしていて欲しい。[pcms]
+If Onee-san joins us, everyone should follow without objections, so I[r]
+want them to behave until then.[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *366|
 [fc]
 [vo_aka s="akari0251"]
-[ns]茜梨[nse]
-「どうするんですか？」[pcms]
+[ns]Akari[nse]
+"What should we do?"[pcms]
 
 *367|
 [fc]
-[ns]誠[nse]
-「僕の姉が元自衛官で、東北事件の時に現場で活躍している。[r]
-　早いうちに合流したいけれど、ここから部屋まで少し遠いかな」[pcms]
+[ns]Makoto[nse]
+"My sister is a former Self-Defense Force member who was active on the[r]
+scene during the Tohoku incident. I want to join up with her as soon[r]
+as possible, but it's a bit far from here to her room."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *368|
 [fc]
-[ns]荒井[nse]
-「この時間じゃほとんど寝てるはずだから、[r]
-　まだパニックになってねえけど……」[pcms]
+[ns]Arai[nse]
+"At this time, most should be asleep, so it hasn't turned into a panic[r]
+yet..."[pcms]
 
 *369|
 [fc]
-荒井の言う通りだ、朝になったらこの島に、[r]
-ものすごいパニックが起こるだろう。[pcms]
+As Arai said, come morning, this island will likely be in a tremendous[r]
+panic.[pcms]
 
 *370|
 [fc]
-あまりグズグズしている暇はない。[pcms]
+We don't have the luxury to dawdle.[pcms]
 
 *371|
 [fc]
-今僕らが行ける部屋は、そーいちの部屋と越智さんの部屋、[r]
-荒井の部屋の３つだ。[pcms]
+The rooms we can go to now are Souichi's room, Ochi-san's room, and[r]
+Arai's room, those three.[pcms]
 
 *372|
 [fc]
-他の部屋のカードキーは持っていないから、[r]
-開けることが出来ない。[pcms]
+We don't have the key cards for the other rooms, so we can't open[r]
+them.[pcms]
 
 *373|
 [fc]
-火災報知器を鳴らしたりすると、余計なパニックが起こるから、[r]
-最終的にはホテルの人に事情を説明するしかないだろう。[pcms]
+Setting off the fire alarm would cause unnecessary panic, so[r]
+ultimately, we'll have to explain the situation to the hotel staff.[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *374|
 [fc]
-[ns]誠[nse]
-「まずはここから一番近いそーいちの部屋に行く。[r]
-　次に荒井の部屋、越智さんの部屋の順番だ」[pcms]
+[ns]Makoto[nse]
+"First, we'll head to Souichi's room, which is closest from here. Then[r]
+Arai's room, followed by Ochi-san's room."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak11"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *375|
 [fc]
 [vo_aka s="akari0252"]
-[ns]茜梨[nse]
-「わかりました」[pcms]
+[ns]Akari[nse]
+"Understood."[pcms]
 
 *376|
 [fc]
-[ns]荒井[nse]
-「助けられる奴を助けていって、[r]
-　最後にお前の姉ちゃんに合流か」[pcms]
+[ns]Arai[nse]
+"We'll help whoever we can along the way, and then join up with your[r]
+sister last?"[pcms]
 
 *377|
 [fc]
-[ns]誠[nse]
-「感染者の体液に触れたり、傷つけられたりしないように。[r]
-　予防接種は効いてないみたいだからな」[pcms]
+[ns]Makoto[nse]
+"Make sure not to come into contact with the infected's bodily fluids[r]
+or get injured. It seems like the vaccinations aren't effective."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *378|
 [fc]
-[ns]荒井[nse]
-「さっきも聞いたよ」[pcms]
+[ns]Arai[nse]
+"I heard that already."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak04"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *379|
 [fc]
 [vo_aka s="akari0253"]
-[ns]茜梨[nse]
-「準備ＯＫです」[pcms]
+[ns]Akari[nse]
+"I'm ready."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *380|
 [fc]
-[ns]誠[nse]
-「行くぞ！」[pcms]
+[ns]Makoto[nse]
+"Let's go!"[pcms]
 
 *381|
 [fc]
-僕は踊り場の扉を開けると、[r]
-一気にそーいちの部屋を目指して走っていった。[pcms]
+I opened the door to the landing and ran straight for Souichi's room.[pcms]
 
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
 [bg storage="BG11b"][trans_c blind_lr time=1000]
@@ -1283,61 +1255,61 @@
 
 *382|
 [fc]
-[ns]男Ｃ[nse]
-「あ゛お゛め……れ゛ぇ？」[pcms]
+[ns]Male C[nse]
+"Agh... me... re...?"[pcms]
 
 *383|
 [fc]
-見たことのある顔を頭の中から追い払って、[r]
-その横を通り抜けていく。[pcms]
+I pushed aside the familiar face that appeared in my mind and passed[r]
+by.[pcms]
 
 *384|
 [fc]
-感染者の動きは鈍く、頭の回転もかなり悪い。[r]
-こっちがミスしなければ十分抜けられる。[pcms]
+The infected's movements are sluggish, and their thought processes are[r]
+quite slow. If we don't make any mistakes, we should be able to get[r]
+away.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_kan2"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *385|
 [fc]
 [vo_han s="hana0071"]
-[ns]花沢[nse]
-「あ～……あらいくんだ～、[r]
-　あらいくぅ～ん……さがしてたのぉ……」[pcms]
+[ns]Hanazawa[nse]
+"Ah~... Arai-kun~... I've been looking for you~..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *386|
 [fc]
-感染している花沢が荒井目がけて走ってくる。[r]
-ヨタヨタとしているがそれなりに速い。[pcms]
+The infected Hanazawa is running towards Arai. She's staggering but[r]
+moving at a decent speed.[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *387|
 [fc]
-[ns]荒井[nse]
-「くっ……」[pcms]
+[ns]Arai[nse]
+"Damn..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *388|
 [fc]
-荒井はどうするつもりなのか、[r]
-その場に立ち止まって迎え撃とうとしていた。[pcms]
+What is Arai planning to do? He stopped in his tracks as if preparing[r]
+to confront her.[pcms]
 
 *389|
 [fc]
-引きつけてくれる気なのか、[r]
-見知った顔を見て足が[ruby text="すく"]竦んだのか……。[pcms]
+Is he trying to draw her attention, or did his legs freeze upon seeing[r]
+a familiar face?[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak17"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *390|
 [fc]
 [vo_aka s="akari0254"]
-[ns]茜梨[nse]
-「ごめんなさい、先輩！」[pcms]
+[ns]Akari[nse]
+"I'm sorry, Senpai!"[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_kan2"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 ;//mine:SE
@@ -1352,35 +1324,36 @@
 
 *391|
 [fc]
-越智さんが気合の声と共に薙刀を一閃する。[pcms]
+Ochi-san lets out a spirited shout as she swings her naginata in a[r]
+flash.[pcms]
 
 *392|
 [fc]
-感染者に血を流させないためか、足下をすくうような[r]
-下段への攻撃だった。[pcms]
+Perhaps to avoid drawing blood from the infected, it was an attack[r]
+aimed low at the legs.[pcms]
 
 ;//m:立ち無し
 
 *393|
 [fc]
 [vo_han s="hana0072"]
-[ns]花沢[nse]
-「ん゛く゛あっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ngh... ack!"[pcms]
 
 *394|
 [fc]
-足への攻撃のためか、結構容赦のない打撃は、[r]
-花沢を転倒させて床に這いつくばらせる効果があった。[pcms]
+The rather merciless blow aimed at the legs caused Hanazawa to fall[r]
+and crawl on the floor.[pcms]
 
 *395|
 [fc]
-骨を折るくらい打ち付けていれば、[r]
-追いかけては来られないだろうけれど……。[pcms]
+If she's hit hard enough to break bones, she won't be able to chase[r]
+after us...[pcms]
 
 *396|
 [fc]
-[ns]誠[nse]
-「今のうちだ！」[pcms]
+[ns]Makoto[nse]
+"Now's our chance!"[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_kan2"][ChrSetXY layer=5 x=330 y=300][trans_c cross time=150]
 [eval exp="f.chara_x = 330,f.chara_y = 300"][quake_chara layer=5 lo xy m]
@@ -1388,33 +1361,32 @@
 *397|
 [fc]
 [vo_han s="hana0073"]
-[ns]花沢[nse]
-「メスブタがぁっ！　あらいくんをかえせっ！[r]
-　のろいころしてやるからなぁっ！[r]
-　じごくにおとしてやるからなぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"You bitch! Give me back Arai-kun! I'll curse you, kill you! I'll drag[r]
+you down to hell!"[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *398|
 [fc]
-[ns]荒井[nse]
-「もう手遅れだ、早く！」[pcms]
+[ns]Arai[nse]
+"It's too late for her, hurry up!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *399|
 [fc]
 [vo_aka s="akari0255"]
-[ns]茜梨[nse]
-「は、はい……」[pcms]
+[ns]Akari[nse]
+"Y-Yes..."[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_kan2"][ChrSetXY layer=5 x=330 y=300][trans_c cross time=150]
 
 *400|
 [fc]
 [vo_han s="hana0074"]
-[ns]花沢[nse]
-「まってぇ～……あらいくぅ～ん……」[pcms]
+[ns]Hanazawa[nse]
+"Wait~... Arai-kun~..."[pcms]
 
 [se buf=1 storage="seA052"]
 ;//複数人の走る足音
@@ -1428,90 +1400,89 @@
 
 *401|
 [fc]
-階段から近い、そーいちの居る部屋の前にたどり着くと、[r]
-僕はカードキーを手に持っていないことに気が付いた。[pcms]
+When we reached the room near the stairs where Souichi was, I realized[r]
+I didn't have the card key in hand.[pcms]
 
 *402|
 [fc]
-どこだ、ズボンのポケットか？[r]
-後ろ？　前？　それとも胸？[pcms]
+Where is it? In my pants pocket? The back? The front? Or maybe in my[r]
+chest pocket?[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *403|
 [fc]
-[ns]荒井[nse]
-「おい、早くしろ！」[pcms]
+[ns]Arai[nse]
+"Hey, hurry up!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *404|
 [fc]
-[ns]誠[nse]
-「わ、わかってる、急かさないでくれ！」[pcms]
+[ns]Makoto[nse]
+"I know, don't rush me!"[pcms]
 
 *405|
 [fc]
-み、見付からない、[r]
-まさか、どこかに落としたのか？[pcms]
+I can't find it, did I drop it somewhere?[pcms]
 
 *406|
 [fc]
-これは携帯だし、これは財布だし……。[pcms]
+This is my phone, and this is my wallet...[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *407|
 [fc]
 [vo_aka s="akari0256"]
-[ns]茜梨[nse]
-「こっちに来ます！　私に任せてください！」[pcms]
+[ns]Akari[nse]
+"They're coming this way! Leave it to me!"[pcms]
 
 [chara_int][trans_c rl time=150]
 
 *408|
 [fc]
-[ns]荒井[nse]
-「茜梨ちゃん！　無理するな！」[pcms]
+[ns]Arai[nse]
+"Akari-chan! Don't overdo it!"[pcms]
 
 *409|
 [fc]
-なんで用意しておかなかったんだ！[r]
-片手に持っていれば３秒で部屋に入れたのに！[pcms]
+Why didn't I prepare it in advance! If I had it in my hand, I could[r]
+have entered the room in 3 seconds![pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *410|
 [fc]
-[ns]荒井[nse]
-「おい！　まだかよ！」[pcms]
+[ns]Arai[nse]
+"Hey! Are you done yet?"[pcms]
 
 *411|
 [fc]
-[ns]誠[nse]
-「あったっ！」[pcms]
+[ns]Makoto[nse]
+"Found it!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *412|
 [fc]
-財布の形に紛れていた、カードキーを[r]
-後ろのポケットに見つけた。[pcms]
+I found the card key, which was camouflaged by the shape of my wallet,[r]
+in my back pocket.[pcms]
 
 *413|
 [fc]
-これを取り出せば……。[pcms]
+If I can just get this out...[pcms]
 
 *414|
 [fc]
-[ns]誠[nse]
-「くっ、引っかかって……」[pcms]
+[ns]Makoto[nse]
+"Damn, it's stuck..."[pcms]
 
 *415|
 [fc]
 [vo_aka s="akari0257"]
-[ns]茜梨[nse]
-「はぁぁぁぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Haaaaaaah!"[pcms]
 
 ;//mine:ここは見えてないからSEだけ
 ;//◆ＳＥ　打撃音
@@ -1524,23 +1495,22 @@
 
 *416|
 [fc]
-後ろから越智さんの気合の声が聞こえてくる。[r]
-感染者を一人倒したらしい。[pcms]
+I could hear Ochi-san's spirited shout from behind. It seems she took[r]
+down one of the infected.[pcms]
 
 *417|
 [fc]
-くそ、カードキーの形がズボンと合ってない！[r]
-端っこが引っかかって……。[pcms]
+Damn, the shape of the card key doesn't fit with my pants! The corner[r]
+is caught...[pcms]
 
 *418|
 [fc]
-[ns]誠[nse]
-「くおっ！」[pcms]
+[ns]Makoto[nse]
+"Kuh!"[pcms]
 
 *419|
 [fc]
-僕は無理矢理引き抜いたカードキーを、[r]
-リーダーに通していく。[pcms]
+I forcefully pulled out the card key and ran it through the reader.[pcms]
 
 ;//◆ＳＥ　不正処理音（ピピピピピピピピピピッ）
 [se buf=0 storage="seC002"]
@@ -1566,25 +1536,25 @@
 
 *420|
 [fc]
-でも、通し方が悪いらしく、[r]
-カードキーを認識しない不正処理音が鳴り響く。[pcms]
+But, apparently, I inserted it wrong, and the error sound indicating[r]
+the card key wasn't recognized blared out.[pcms]
 
 ;//立ち絵なし
 
 *420a|
 [fc]
-[ns]荒井[nse]
-「落ち着けっ！　早く通せよっ！」[pcms]
+[ns]Arai[nse]
+"Calm down! Swipe it quickly!"[pcms]
 
 *421|
 [fc]
-[ns]誠[nse]
-「くうっ！」[pcms]
+[ns]Makoto[nse]
+"Kuuuh!"[pcms]
 
 *422|
 [fc]
-僕は震える手を押さえながら、[r]
-もう一度カードキーを通していく。[pcms]
+While steadying my trembling hands, I tried swiping the card key[r]
+again.[pcms]
 
 ;//◆ＳＥ　不正処理音（ピピピピピピピピピピッ）
 [se buf=0 storage="seC002"]
@@ -1610,37 +1580,37 @@
 
 *423|
 [fc]
-[ns]誠[nse]
-「なぐっ！」[pcms]
+[ns]Makoto[nse]
+"Naguh!"[pcms]
 
 *424|
 [fc]
-[ns]荒井[nse]
-「なにしてんだっ！」[pcms]
+[ns]Arai[nse]
+"What are you doing?!"[pcms]
 
 *425|
 [fc]
 [vo_aka s="akari0258"]
-[ns]茜梨[nse]
-「足の速いのが来ます！」[pcms]
+[ns]Akari[nse]
+"A fast one is coming!"[pcms]
 
 ;//黒シルエットに
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *426|
 [fc]
-そちらを振り返ると、足を引きずりながらも[r]
-機敏な動きを見せる感染者が近づいてくるのが見えた。[pcms]
+When I looked back, I could see an infected person approaching with a[r]
+limp yet agile movement.[pcms]
 
 *427|
 [fc]
-簡単には倒せないかも知れない！[r]
-早く部屋に逃げ込まないと！[pcms]
+We might not be able to take them down easily! We need to escape into[r]
+the room quickly![pcms]
 
 *428|
 [fc]
-[ns]荒井[nse]
-「早くしろぉぉぉぉぉっ！」[pcms]
+[ns]Arai[nse]
+"Hurry upppppp!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1652,29 +1622,29 @@
 
 *429|
 [fc]
-上からすっと、何年もやって来たような動作で、[r]
-カードキーを通すと扉の鍵が開いた。[pcms]
+With a smooth motion as if I had been doing it for years, I swiped the[r]
+card key and the door lock opened.[pcms]
 
 *430|
 [fc]
-追い込まれて余計なことを考えなかったのが[r]
-良かったらしい。[pcms]
+It seems not overthinking due to being cornered worked out for the[r]
+best.[pcms]
 
 *431|
 [fc]
 [vo_aka s="akari0259"]
-[ns]茜梨[nse]
-「あっ！」[pcms]
+[ns]Akari[nse]
+"Ah!"[pcms]
 
 *432|
 [fc]
-[ns]荒井[nse]
-「うわあああああっ！」[pcms]
+[ns]Arai[nse]
+"Uwaaaaaaaah!"[pcms]
 
 *433|
 [fc]
-[ns]誠[nse]
-「なんだっ！」[pcms]
+[ns]Makoto[nse]
+"What?!"[pcms]
 
 [se buf=0 storage="seB012"]
 ;//人間が地面に叩きつけられる音
@@ -1684,8 +1654,8 @@
 
 *434|
 [fc]
-扉を開けた瞬間、後ろから荒井と感染者に押し倒された。[r]
-越智さんの処理が上手く行かなかったらしい。[pcms]
+The moment I opened the door, Arai and an infected person pushed me[r]
+down from behind. It seems Ochi-san's handling didn't go well.[pcms]
 
 [bg storage="BG12c"]
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=0]
@@ -1693,49 +1663,49 @@
 
 *435|
 [fc]
-[ns]誠[nse]
-「くうっ……うわっ！」[pcms]
+[ns]Makoto[nse]
+"Kuuuh...uwah!"[pcms]
 
 [quake_bg xy m]
 
 *436|
 [fc]
-気が付くと、僕は感染者に馬乗りにされ、[r]
-身体の自由を奪われていた。[pcms]
+Before I knew it, I was being straddled by an infected person, and my[r]
+freedom of movement was taken away.[pcms]
 
 *437|
 [fc]
-[ns]感染者Ａ[nse]
-「め゛……め゛か゛ね゛っこ゛～！」[pcms]
+[ns]Infected Person A[nse]
+"Me...me want pussy~!"[pcms]
 
 *438|
 [fc]
-[ns]誠[nse]
-「僕は男だぁっ！」[pcms]
+[ns]Makoto[nse]
+"I'm a guy!"[pcms]
 
 *439|
 [fc]
-感染者はそのままかがみ込むと、[r]
-僕の顔に舌を伸ばしてくる。[pcms]
+The infected person leaned in closer and extended their tongue towards[r]
+my face.[pcms]
 
 *440|
 [fc]
-舐められたら終わりだ！[pcms]
+If they lick me, it's over![pcms]
 
 *441|
 [fc]
-僕は精一杯、感染者の胸を手で押して、[r]
-その接近を防いでいた。[pcms]
+I pushed against the infected person's chest with all my might, trying[r]
+to prevent them from getting any closer.[pcms]
 
 *442|
 [fc]
-[ns]誠[nse]
-「助けてくれぇっ！」[pcms]
+[ns]Makoto[nse]
+"Someone help meee!"[pcms]
 
 *443|
 [fc]
-[ns]荒井[nse]
-「うおおおおおおおおおっ！」[pcms]
+[ns]Arai[nse]
+"Uoooooooh!"[pcms]
 
 ;//◆ＳＥ　打撃音
 [se buf=0 storage="seB009"]
@@ -1745,28 +1715,29 @@
 
 *444|
 [fc]
-立ち上がった荒井が、感染者の顔に向けて[r]
-サッカーボールキックをお見舞いした。[pcms]
+Arai, who had stood up, delivered a soccer ball kick to the face of[r]
+the infected person.[pcms]
 
 *445|
 [fc]
-怪我をしているとはいえ、[r]
-プロ予備軍の蹴りは相当利くはず……。[pcms]
+Even though he's injured, the kick from a pro hopeful should be quite[r]
+effective...[pcms]
 
 *446|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛……お゛んな゛ぁ～！」[pcms]
+[ns]Infected Person A[nse]
+"Guh...wanna pussy~!"[pcms]
 
 *447|
 [fc]
-[ns]誠[nse]
-「ぐううっ……」[pcms]
+[ns]Makoto[nse]
+"Guuuh..."[pcms]
 
 *448|
 [fc]
-荒井の渾身の蹴りも、感染者には利いていないみたいだった。[r]
-すごい力で僕に顔を近づけてくる。[pcms]
+It seemed that Arai's full-force kick didn't affect the infected[r]
+person, who was still pushing their face towards me with incredible[r]
+strength.[pcms]
 
 
 ;//茜梨中＠制服（ハチマキなし）　表情14　驚愕　
@@ -1774,43 +1745,44 @@
 *449|
 [fc]
 [vo_aka s="akari0260"]
-[ns]茜梨[nse]
-「ま、また他の感染者が来ます！」[pcms]
+[ns]Akari[nse]
+"More infected people are coming!"[pcms]
 
 
 ;//荒井右＠ジャージ１（上着なし）　表情06　悲哀;//
 
 *450|
 [fc]
-[ns]荒井[nse]
-「ドアを閉めるんだ！　このっ！　離れろっ！」[pcms]
+[ns]Arai[nse]
+"Close the door! Get off me!"[pcms]
 
 *451|
 [fc]
 [vo_aka s="akari0261"]
-[ns]茜梨[nse]
-「中澤先輩と感染者がいて、ドアが閉まらないんです！」[pcms]
+[ns]Akari[nse]
+"We can't close the door with Nakazawa-senpai and the infected person[r]
+in the way!"[pcms]
 
 *452|
 [fc]
-[ns]荒井[nse]
-「くそっ！」[pcms]
+[ns]Arai[nse]
+"Damn it!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *453|
 [fc]
-荒井はドアの方にまわると、[r]
-感染者の足をつかんで持ち上げはじめた。[pcms]
+Arai went around to the door and began to lift the infected person by[r]
+their legs.[pcms]
 
 *454|
 [fc]
-どうするつもりだ！？[pcms]
+What is he planning to do!?[pcms]
 
 *455|
 [fc]
-[ns]荒井[nse]
-「中澤！　押せっ！」[pcms]
+[ns]Arai[nse]
+"Nakazawa! Push!"[pcms]
 
 [se buf=0 storage="seB007"]
 ;//人間を殴る音
@@ -1818,8 +1790,8 @@
 
 *456|
 [fc]
-僕が感染者の胸を思い切り押すと、[r]
-その身体が宙に浮くような格好になる。[pcms]
+When I pushed against the infected person's chest with all my might,[r]
+their body seemed to float in the air.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -1829,43 +1801,41 @@
 
 *457|
 [fc]
-僕は横に転がるようにしてすり抜けると、[r]
-荒井は逆側に感染者をひっくり返した。[pcms]
+I rolled to the side to slip away, and Arai flipped the infected[r]
+person over to the other side.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *458|
 [fc]
 [vo_aka s="akari0262"]
-[ns]茜梨[nse]
-「中澤先輩！　足です！」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai! Your legs!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *459|
 [fc]
-僕はとっさに足を引っ込めると、[r]
-越智さんが急いでドアを閉める。[pcms]
+I quickly retracted my legs, and Ochi-san hurriedly closed the door.[pcms]
 
 *460|
 [fc]
-そして、また馬乗りにされないように、[r]
-僕はその場から転がるようにして遠ざかった。[pcms]
+Then, to avoid being straddled again, I rolled away from the spot.[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *461|
 [fc]
-[ns]荒井[nse]
-「これでも、くらぇぇぇぇぇっ！」[pcms]
+[ns]Arai[nse]
+"Take this, tooooo!"[pcms]
 
 ;//黒シルエットに
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *462|
 [fc]
-荒井は明かりの点いている電気スタンドを手に持つと、[r]
-そのまま感染者の口めがけて突っ込んでいった。[pcms]
+Arai grabbed an electric lamp that was turned on and thrust it[r]
+straight into the mouth of the infected person.[pcms]
 
 ;//◆ＳＥ　電球が割れる音
 [se buf=0 storage="seB080"]
@@ -1879,99 +1849,96 @@
 
 *463|
 [fc]
-[ns]感染者Ａ[nse]
-「ん゛む゛く゛あ゛あ゛あ゛お゛お゛お゛あっ！」[pcms]
+[ns]Infected Person A[nse]
+"Mmmmmmmmmmmmmah!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *464|
 [fc]
-感染者の口の中で電球が破裂し、[r]
-そのまま感電するように震えている。[pcms]
+The light bulb burst inside the infected person's mouth, and they[r]
+shook as if being electrocuted.[pcms]
 
 *465|
 [fc]
-白い煙が上がるのが、なんだか気持ち悪かった。[pcms]
+The sight of white smoke rising was somewhat nauseating.[pcms]
 
 *466|
 [fc]
-[ns]荒井[nse]
-「トドメだぁぁぁぁぁぁぁっ！」[pcms]
+[ns]Arai[nse]
+"This is the end for youuuuuuuu!"[pcms]
 
 *467|
 [fc]
-荒井はスタンドを感染者に噛ませたまま、[r]
-キックで首の後ろまで貫通させていく。[pcms]
+With the lamp still bitten by the infected person, Arai kicked it[r]
+through to the back of their neck.[pcms]
 
 *468|
 [fc]
-[ns]感染者Ａ[nse]
-「く゛う゛わ゛あ゛あ゛あっ！」[pcms]
+[ns]Infected Person A[nse]
+"Guhwaaaaaaaah!"[pcms]
 
 *469|
 [fc]
-そして……感染者は床に倒れ込み、[r]
-ピクリとも動かなくなる。[pcms]
+And then... the infected person collapsed to the floor and stopped[r]
+moving altogether.[pcms]
 
 *470|
 [fc]
-どっと疲れが出たように、[r]
-僕は下を向いて息を整えた。[pcms]
+Feeling suddenly exhausted, I looked down and caught my breath.[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *471|
 [fc]
-[ns]荒井[nse]
-「お前のドジのせいで、お前が喰われるのは自業自得だけどなっ！[r]
-　こっちにまで迷惑かけんなよっ！」[pcms]
+[ns]Arai[nse]
+"It's your own fault for getting bitten because of your clumsiness![r]
+Don't cause trouble for us too!"[pcms]
 
 *472|
 [fc]
-必死に助けてくれたわりに、[r]
-荒井がツンデレキャラみたいなことを言っている。[pcms]
+Despite desperately helping me, Arai said something that sounded like[r]
+a tsundere character.[pcms]
 
 *473|
 [fc]
-意外にかわいい性格をしているのかな。[pcms]
+I wonder if he has a surprisingly cute personality.[pcms]
 
 ;//黒シルエットに
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *474|
 [fc]
-[ns]感染者Ａ[nse]
-「く゛ほ゛わ゛あ゛あ゛あっ！」[pcms]
+[ns]Infected Person A[nse]
+"Guhobwaaaaaaah!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *475|
 [fc]
-[ns]誠[nse]
-「うわあああっ！」[pcms]
+[ns]Makoto[nse]
+"Uwaaaaah!"[pcms]
 
 *476|
 [fc]
-[ns]荒井[nse]
-「くおおっ！」[pcms]
+[ns]Arai[nse]
+"Kuooooh!"[pcms]
 
 *477|
 [fc]
-感染者がいきなり立ち上がって、[r]
-また襲いかかってきた。[pcms]
+The infected person suddenly stood up and attacked again.[pcms]
 
 *478|
 [fc]
-僕と荒井はその場から飛び退くように、[r]
-一歩後ろに退く。[pcms]
+Arai and I jumped back as if leaping away from that spot.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *479|
 [fc]
 [vo_aka s="akari0263"]
-[ns]茜梨[nse]
-「はああああああっ！」[pcms]
+[ns]Akari[nse]
+"Haaaaaaaah!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
@@ -1983,48 +1950,46 @@
 
 *480|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あ゛あ゛ぁ……」[pcms]
+[ns]Infected Person A[nse]
+"Aaaaaaah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *481|
 [fc]
-越智さんは膝を叩いて感染者を転ばせると、[r]
-口に咥えているスタンドに向かって、[r]
-更に薙刀の一撃を加えていた。[pcms]
+Ochi-san slapped her knee to trip the infected person, then delivered[r]
+another strike with her naginata to the lamp still in their mouth.[pcms]
 
 *482|
 [fc]
-スタンドは完全に後頭部を貫通し、[r]
-致命傷を与えている。[pcms]
+The lamp completely penetrated the back of their head, inflicting a[r]
+fatal wound.[pcms]
 
 *483|
 [fc]
-[ns]誠[nse]
-「はぁ……」[pcms]
+[ns]Makoto[nse]
+"Haa..."[pcms]
 
 *484|
 [fc]
-ようやく訪れた安全な状況に、[r]
-僕たちはみんなでため息を漏らす。[pcms]
+At last, in the safety that had finally arrived, we all let out a sigh[r]
+of relief.[pcms]
 
 *485|
 [fc]
-[ns]宗一郎[nse]
-「んあ……？」[pcms]
+[ns]Souichirou[nse]
+"Huh...?"[pcms]
 
 *486|
 [fc]
-さすがに騒ぎを聞きつけたのか、[r]
-ソファーで寝ていたそーいちがガバッと起き上がる。[pcms]
+Apparently having heard the commotion, Souichirou, who had been[r]
+sleeping on the sofa, suddenly sat up.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so25a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *487|
 [fc]
-そして俺たちの顔を見回すと、[r]
-軽く首をかしげた。[pcms]
+Then, looking around at our faces, he tilted his head slightly.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -2032,8 +1997,8 @@
 
 *488|
 [fc]
-[ns]宗一郎[nse]
-「あれ？　俺のタン塩は？」[pcms]
+[ns]Souichirou[nse]
+"Huh? Where's my grilled tongue?"[pcms]
 
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
 
@@ -2046,29 +2011,29 @@
 
 *489|
 [fc]
-[ns]誠[nse]
-「よし、二手に分かれて無事な人を助けに行こう」[pcms]
+[ns]Makoto[nse]
+"Alright, let's split into two groups and go help those who are safe."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *490|
 [fc]
-[ns]荒井[nse]
-「無事な奴？」[pcms]
+[ns]Arai[nse]
+"Safe people?"[pcms]
 
 *491|
 [fc]
-[ns]誠[nse]
-「カードキーは持ってるだろ？[r]
-　同じ部屋の奴は助けられるはずだ」[pcms]
+[ns]Makoto[nse]
+"You have your card key, right? We should be able to save those in the[r]
+same room."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *492|
 [fc]
 [vo_aka s="akari0264"]
-[ns]茜梨[nse]
-「わかりました、私もみんなが心配です」[pcms]
+[ns]Akari[nse]
+"Understood, I'm worried about everyone too."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0]
@@ -2076,157 +2041,155 @@
 
 *493|
 [fc]
-荒井も無言で頷いた。[pcms]
+Arai nodded silently in agreement.[pcms]
 
 *494|
 [fc]
-感染者は動きが鈍いから、こちらが二手に分かれたら[r]
-動きを分散させることが出来るだろう。[pcms]
+Since the infected move slowly, splitting into two groups should help[r]
+disperse their movements.[pcms]
 
 *495|
 [fc]
-一緒に固まって動いて、三人で十人を相手にするより、[r]
-その方が安全な気がする。[pcms]
+It feels safer than sticking together and facing ten people with just[r]
+the three of us.[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar13"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *496|
 [fc]
-[ns]荒井[nse]
-「二手に分かれるのはいいとして、その組み分けは？」[pcms]
+[ns]Arai[nse]
+"Splitting into two groups is fine, but how will we divide up?"[pcms]
 
 *497|
 [fc]
-[ns]誠[nse]
-「戦力的に、荒井は一人で行けるだろう？」[pcms]
+[ns]Makoto[nse]
+"In terms of combat power, Arai, you can go alone, right?"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *498|
 [fc]
-[ns]荒井[nse]
-「冗談言うな、お前は茜梨ちゃんに守ってもらう気かよ」[pcms]
+[ns]Arai[nse]
+"Don't joke around. Are you planning to have Akari-san protect you?"[pcms]
 
 *499|
 [fc]
-体裁は悪いけれどそれが一番バランスがいい。[r]
-なんと言われても仕方ないが……。[pcms]
+It's not a good look, but that's probably the most balanced option. No[r]
+matter what is said, it can't be helped...[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *500|
 [fc]
 [vo_aka s="akari0265"]
-[ns]茜梨[nse]
-「わ、私は構いませんが……」[pcms]
+[ns]Akari[nse]
+"I-I don't mind, but..."[pcms]
 
 *501|
 [fc]
-[ns]荒井[nse]
-「いや、駄目だ。茜梨ちゃんは俺が守る」[pcms]
+[ns]Arai[nse]
+"No, that's not acceptable. I'll protect Akari-san."[pcms]
 
 *502|
 [fc]
-[ns]誠[nse]
-「くっ……」[pcms]
+[ns]Makoto[nse]
+"Tch..."[pcms]
 
 *503|
 [fc]
-そう言われると、反論しにくい空気になってしまう。[r]
-でも、越智さんは荒井に守ってもらった方が安全かも知れない。[pcms]
+Being told that makes it hard to argue back. But maybe it would be[r]
+safer for Ochi-san to be protected by Arai.[pcms]
 
 *504|
 [fc]
-どうやら荒井は感染していないみたいだし、[r]
-その方が安全だろうか。[pcms]
+It seems like Arai isn't infected, so that might be the safer option.[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar13"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *505|
 [fc]
-[ns]荒井[nse]
-「それとも、俺がお前を守って、[r]
-　女の子を一人で行動させるか？」[pcms]
+[ns]Arai[nse]
+"Or what? Are you going to protect yourself and let the girls act[r]
+alone?"[pcms]
 
 *506|
 [fc]
-[ns]誠[nse]
-「いや、それはないけど……」[pcms]
+[ns]Makoto[nse]
+"No, that's not what I meant, but..."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *507|
 [fc]
-[ns]荒井[nse]
-「グズグズ言いやがって、お前のことはお前が何とかしろ！」[pcms]
+[ns]Arai[nse]
+"Stop dawdling and take care of yourself!"[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak25"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *508|
 [fc]
 [vo_aka s="akari0266"]
-[ns]茜梨[nse]
-「わ、私は一人でも……」[pcms]
+[ns]Akari[nse]
+"I-I can go alone if..."[pcms]
 
 *509|
 [fc]
-[ns]荒井[nse]
-「いや、駄目だ」[pcms]
+[ns]Arai[nse]
+"No, that's not acceptable."[pcms]
 
 *510|
 [fc]
-ここで揉めている場合じゃない。[r]
-その組み分けで行動しよう。[pcms]
+This is not the time to argue. Let's go with that division and act[r]
+accordingly.[pcms]
 
 *511|
 [fc]
-僕の心の問題以外、[r]
-色々と合理的な組み合わせになっている気がする。[pcms]
+Apart from my personal feelings, it seems like a fairly rational[r]
+combination.[pcms]
 
 *512|
 [fc]
-[ns]誠[nse]
-「じゃあ僕は、そーいちの部屋に行く」[pcms]
+[ns]Makoto[nse]
+"Then I'll go to Souichirou's room."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *513|
 [fc]
-[ns]荒井[nse]
-「こっちは、先に茜梨ちゃんの部屋に行こう」[pcms]
+[ns]Arai[nse]
+"We'll head to Akari-san's room first."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *514|
 [fc]
 [vo_aka s="akari0267"]
-[ns]茜梨[nse]
-「じゃあ、逆側になるんですね……」[pcms]
+[ns]Akari[nse]
+"So we're going in opposite directions then..."[pcms]
 
 *515|
 [fc]
-もしものことがあった場合、[r]
-僕は自分のことを自分で何とかしなくちゃいけない。[pcms]
+In case something happens, I'll have to take care of myself.[pcms]
 
 *516|
 [fc]
-ミスは許されなかった。[pcms]
+Mistakes are not an option.[pcms]
 
 *517|
 [fc]
-[ns]荒井[nse]
-「じゃあ行くか」[pcms]
+[ns]Arai[nse]
+"Let's go then."[pcms]
 
 *518|
 [fc]
 [vo_aka s="akari0268"]
-[ns]茜梨[nse]
-「はい……」[pcms]
+[ns]Akari[nse]
+"Yes..."[pcms]
 
 *519|
 [fc]
-[ns]誠[nse]
-「行くぞ！」[pcms]
+[ns]Makoto[nse]
+"Let's go!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -2238,47 +2201,47 @@
 
 *520|
 [fc]
-僕は踊り場の扉を開けると、[r]
-一気にそーいちの部屋を目指して走っていった。[pcms]
+I opened the door to the landing and ran straight for Souichirou's[r]
+room.[pcms]
 
 *521|
 [fc]
-越智さんと荒井も反対側に向かって走っていく。[pcms]
+Ochi-san and Arai also ran off in the opposite direction.[pcms]
 
 ;//黒シルエットに
 [ChrSetEx layer=5 chbase="mob_kan1_x_bl"][ChrSetXY layer=5 x=280 y=0][trans_c cross time=150]
 
 *522|
 [fc]
-[ns]感染者Ｂ[nse]
-「う゛あ゛あ゛……」[pcms]
+[ns]Infected Person B[nse]
+"Uvaaah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *523|
 [fc]
-ダッシュで走り抜けて、トロい感染者の脇を通り抜けていく。[r]
-よし、こいつらは対応できないみたいだ。[pcms]
+We dashed past the slow-moving infected person, slipping by their[r]
+side. Good, it seems they can't respond to us.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_kan1"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *524|
 [fc]
 [vo_han s="hana0075"]
-[ns]花沢[nse]
-「あらいくぅ～ん……」[pcms]
+[ns]Hanazawa[nse]
+"Arai-kun..."[pcms]
 
 *525|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *526|
 [fc]
-廊下の真ん中にいる花沢を軽くパスして、[r]
-横をすり抜ける。[pcms]
+I lightly passed by Hanazawa in the middle of the hallway, slipping by[r]
+her side.[pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
@@ -2287,62 +2250,61 @@
 
 *527|
 [fc]
-いや、横をすり抜けたと思った瞬間、[r]
-僕の足は床を滑って宙に舞っていた。[pcms]
+Just as I thought I had slipped by, my feet skidded on the floor and I[r]
+found myself airborne.[pcms]
 
 *528|
 [fc]
-[ns]誠[nse]
-「ぐううっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh..."[pcms]
 
 *529|
 [fc]
-床に転がった僕は、花沢の横に[r]
-死体が転がっていることに気が付く。[pcms]
+As I lay on the floor, I noticed a corpse lying next to Hanazawa.[pcms]
 
 *530|
 [fc]
-これに[ruby text="つまづ"]躓いて転んでしまったらしい。[pcms]
+It seems I tripped over it and fell.[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_kan2"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *531|
 [fc]
 [vo_han s="hana0076"]
-[ns]花沢[nse]
-「あらいくん……つかまえたぁ……」[pcms]
+[ns]Hanazawa[nse]
+"I've caught you, Arai-kun..."[pcms]
 
 *532|
 [fc]
-[ns]誠[nse]
-「馬鹿っ！　僕は荒井じゃないっ！」[pcms]
+[ns]Makoto[nse]
+"Idiot! I'm not Arai!"[pcms]
 
 *533|
 [fc]
 [vo_han s="hana0077"]
-[ns]花沢[nse]
-「もぉ……はなさないからぁ……」[pcms]
+[ns]Hanazawa[nse]
+"I'm not letting go..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *534|
 [fc]
-[ns]誠[nse]
-「た、助けてくれーっ！」[pcms]
+[ns]Makoto[nse]
+"Somebody, help me!"[pcms]
 
 *535|
 [fc]
-僕は、廊下の逆方向に走っていった二人に向かって、[r]
-助けを求める。[pcms]
+I called for help towards the two who had run off in the opposite[r]
+direction down the hallway.[pcms]
 
 *536|
 [fc]
-振り返った越智さんが僕を見て何か言うが、[r]
-荒井がその手を引っ張って部屋の中に引き込んでしまった。[pcms]
+Ochi-san turned back to say something to me, but Arai pulled her hand[r]
+and dragged her into the room.[pcms]
 
 *537|
 [fc]
-み、見捨てるのかよっ！[pcms]
+Are you abandoning me?![pcms]
 
 ;//BGMは継続したままジャンプ
 
@@ -2355,57 +2317,57 @@
 
 *538|
 [fc]
-[ns]誠[nse]
-「よし、取り合えず僕の姉を呼ぶことにしよう」[pcms]
+[ns]Makoto[nse]
+"Alright, I'll call my sister for help."[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *539|
 [fc]
-[ns]荒井[nse]
-「呼ぶ？　ここにか？」[pcms]
+[ns]Arai[nse]
+"Call her? Here?"[pcms]
 
 *540|
 [fc]
-[ns]誠[nse]
-「姉ちゃんは元自衛官で、[r]
-　東北事件の時に現役で戦った人だ。[r]
-　僕たちが動くよりも多分いいだろう」[pcms]
+[ns]Makoto[nse]
+"My sister is a former Self-Defense Force member who fought actively[r]
+during the Tohoku incident. It's probably better if she handles this[r]
+than us."[pcms]
 
 *541|
 [fc]
-僕たちがあれこれ騒ぐよりも、[r]
-姉ちゃんに動いてもらった方がいいはずだ。[pcms]
+It would be better for my sister to take action than for us to make a[r]
+fuss.[pcms]
 
 *542|
 [fc]
-ここから遠い場所にある姉ちゃんの部屋まで、[r]
-たどり着くことが出来るかどうかも怪しい。[pcms]
+It's doubtful whether I can even make it to my sister's room, which is[r]
+far from here.[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *543|
 [fc]
-[ns]荒井[nse]
-「まぁ、お前がそれでいいなら構わねえけど」[pcms]
+[ns]Arai[nse]
+"Well, if you think that's best, I don't mind."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *544|
 [fc]
 [vo_aka s="akari0269"]
-[ns]茜梨[nse]
-「お姉さん、一人で大丈夫でしょうか？」[pcms]
+[ns]Akari[nse]
+"Is your sister going to be okay by herself?"[pcms]
 
 *545|
 [fc]
-[ns]誠[nse]
-「元プロだから、任せた方がいいよ」[pcms]
+[ns]Makoto[nse]
+"She's a former pro, so it's better to leave it to her."[pcms]
 
 *546|
 [fc]
-心配そうな越智さんに安心して欲しいと[r]
-笑顔を向けながら携帯を使う。[pcms]
+I smiled reassuringly at Ochi-san, who looked worried, as I used my[r]
+phone.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -2413,39 +2375,39 @@
 
 *547|
 [fc]
-どうやら、まだ携帯は使えるみたいだ。[r]
-時間の問題だとは思うけど……。[pcms]
+It seems the phone still works for now. Though I think it's only a[r]
+matter of time...[pcms]
 
 *548|
 [fc]
 [vo_nat s="natu0126"]
 ;//◆電話越しです
-[ns]夏都[nse]
-「誠か！？　どうした！？」[pcms]
+[ns]Natsu[nse]
+"Makoto? What's going on!?"[pcms]
 
 *549|
 [fc]
-[ns]誠[nse]
-「今、三階の階段の踊り場に隠れてるんだけど、[r]
-　ここまで来られるかな？」[pcms]
+[ns]Makoto[nse]
+"I'm hiding at the landing of the third-floor staircase right now. Can[r]
+you make it here?"[pcms]
 
 *550|
 [fc]
-数瞬の間の後、姉ちゃんの少し震える声が聞こえてきた。[pcms]
+After a few moments of silence, I heard my sister's slightly trembling[r]
+voice.[pcms]
 
 *551|
 [fc]
 [vo_nat s="natu0127"]
 ;//◆電話越しです
-[ns]夏都[nse]
-「じ、準備して出るから少し待ってろよ、[r]
-　大丈夫だから心配すんな！」[pcms]
+[ns]Natsu[nse]
+"I'll get ready and head out, so wait a bit. Don't worry, it'll be[r]
+okay!"[pcms]
 
 *552|
 [fc]
-[ns]誠[nse]
-「ありがとう姉ちゃん！[r]
-　友達と三人で待っているか……ら？」[pcms]
+[ns]Makoto[nse]
+"Thanks, sis! We'll wait here with three friends... huh?"[pcms]
 
 [se buf=0 storage="seB027"]
 ;//♪SE鎌で切りつける音
@@ -2459,29 +2421,29 @@
 
 *553|
 [fc]
-鋭い痛みを感じて後ろを振り返ると、[r]
-いつの間にか這い寄っていた感染者が、[r]
-足首にがっちりと噛みついていた。[pcms]
+I felt a sharp pain and turned around to find that an infected person[r]
+had crawled up without me noticing and was now firmly biting into my[r]
+ankle.[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak14"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *554|
 [fc]
 [vo_aka s="akari0270"]
-[ns]茜梨[nse]
-「な、中澤先輩！」[pcms]
+[ns]Akari[nse]
+"Na-Nakazawa-senpai!"[pcms]
 
 *555|
 [fc]
-越智さんが薙刀を振るって、[r]
-感染者を階段から突き落としていく。[pcms]
+Ochi-san swung her naginata and pushed the infected person down the[r]
+stairs.[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *556|
 [fc]
-[ns]荒井[nse]
-「くっ……悪いが、ここからは別行動だぜ」[pcms]
+[ns]Arai[nse]
+"Damn... Sorry, but from here on we split up."[pcms]
 
 ;//[chara_int][trans_c blind_lr time=1000]
 
@@ -2489,18 +2451,18 @@
 [fc]
 [vo_nat s="natu0128"]
 ;//◆電話越しです
-[ns]夏都[nse]
-「どうした誠！　おいっ！」[pcms]
+[ns]Natsu[nse]
+"What's happening, Makoto! Hey!"[pcms]
 
 *558|
 [fc]
-二人の顔を見比べながら、[r]
-僕はこれからどうしようか真剣に悩んでいた。[pcms]
+As I looked back and forth between the two faces, I seriously pondered[r]
+what to do next.[pcms]
 
 *559|
 [fc]
-意識があるうちに、なるべく二人から遠ざかるか、[r]
-それとも……。[pcms]
+Should I try to get as far away from them as possible while I'm still[r]
+conscious, or...?[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -2536,7 +2498,7 @@
 [eval exp="sf.g_prologueSkip = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 

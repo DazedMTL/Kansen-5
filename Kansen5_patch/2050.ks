@@ -24,127 +24,130 @@
 
 *929|
 [fc]
-うろつくヤツラの気を惹かないように注意しながら、[r]
-なんとか無事にテントへと戻ってきた。[pcms]
+I managed to return to the tent without attracting the attention of[r]
+the lurking figures, somehow making it back safely.[pcms]
 
 *930|
 [fc]
-見た感じでは、まだ南先輩が眠るテントは、大丈夫なようだ。[r]
-それでも、注意深くジッパーを下ろしながら、僕は中へ入った。[pcms]
+At first glance, it seems that the tent where Senior Minami is[r]
+sleeping is still okay. Still, I carefully unzipped the entrance and[r]
+entered.[pcms]
 
 [bg storage="tent01a"][trans_c cross time=500]
 
 *931|
 [fc]
-先輩は、まだぐっすりと眠っている。[r]
-良かったと安堵しながら、僕は入り口をしっかりと閉めた。[pcms]
+Senior is still sleeping soundly. Relieved, I made sure to close the[r]
+entrance properly.[pcms]
 
 *932|
 [fc]
-[ns]誠[nse]
-「先輩……南先輩……」[pcms]
+[ns]Makoto[nse]
+"Senior... Senior Minami..."[pcms]
 
 *933|
 [fc]
-先輩の肩を揺さぶりながら、なるべく小声で起こす。[r]
-ほどなく、先輩は目を覚ましてくれた。[pcms]
+I shook Senior's shoulder gently, trying to wake her up with a soft[r]
+voice. Soon enough, she opened her eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *934|
 [fc]
 [vo_stk s="satuki_st0143"]
-[ns]彩月[nse]
-「ん……何？　もう……朝？」[pcms]
+[ns]Satsuki[nse]
+"Mmm... What? Is it... morning already?"[pcms]
 
 *935|
 [fc]
-[ns]誠[nse]
-「シッ！　静かに……」[pcms]
+[ns]Makoto[nse]
+"Shh! Quietly..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *936|
 [fc]
 [vo_stk s="satuki_st0144"]
-[ns]彩月[nse]
-「んんっ……？」[pcms]
+[ns]Satsuki[nse]
+"Mmm...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *937|
 [fc]
-僕は南先輩の口に静かに手を当てて、人差し指を自分の唇の前に[r]
-押し当てた。[pcms]
+I quietly placed my hand over Senior Minami's mouth and pressed my[r]
+index finger to my lips in front of her.[pcms]
 
 *938|
 [fc]
 [vo_stk s="satuki_st0145"]
-[ns]彩月[nse]
-「？？」[pcms]
+[ns]Satsuki[nse]
+"??"[pcms]
 
 *939|
 [fc]
-[ns]誠[nse]
-「その、コンビニに行こうと外に出たんです。そしたら、なんか[r]
-　白っぽい人が居て……それでうずくまってて……」[pcms]
+[ns]Makoto[nse]
+"I went out to go to the convenience store. Then I saw someone pale...[r]
+crouching down..."[pcms]
 
 *940|
 [fc]
 [vo_stk s="satuki_st0146"]
-[ns]彩月[nse]
-「？？」[pcms]
+[ns]Satsuki[nse]
+"??"[pcms]
 
 *941|
 [fc]
-[ns]誠[nse]
-「どうしたのかなーって思って、で、その人が振り向いたら、[r]
-　その……あの……食事中で、よく見たら目が……」[pcms]
+[ns]Makoto[nse]
+"I wondered what was wrong, and when that person turned around,[r]
+their... um... they were in the middle of eating, and when I looked[r]
+closely, their eyes..."[pcms]
 
 ;//■_テントをひっかく音
 
 *942|
 [fc]
-そのとき、誰かがテントを引っ掻くような音がした。[pcms]
+Just then, there was a sound like someone scratching at the tent.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *943|
 [fc]
 [vo_stk s="satuki_st0147"]
-[ns]彩月[nse]
-「！！」[pcms]
+[ns]Satsuki[nse]
+"!!"[pcms]
 
 *944|
 [fc]
-[ns]誠[nse]
-「うわっ……！」[pcms]
+[ns]Makoto[nse]
+"Whoa...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *945|
 [fc]
-僕は咄嗟に南先輩を抱きしめて、そのまま耳許に小声で囁く。[pcms]
+In a split second, I hugged Senior Minami and whispered into her ear.[pcms]
 
 *946|
 [fc]
-[ns]誠[nse]
-「紅かったんです。振り向いたその人の目。周り見たら、[r]
-　うろうろしてるヤツラが結構居て、悲鳴もあちこちから……」[pcms]
+[ns]Makoto[nse]
+"Their eyes were red. When that person turned around. Looking around,[r]
+there were quite a few of them wandering, and screams were coming from[r]
+all over..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st20"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *947|
 [fc]
 [vo_stk s="satuki_st0148"]
-[ns]彩月[nse]
-「う……そ」[pcms]
+[ns]Satsuki[nse]
+"Oh... is that so"[pcms]
 
 *948|
 [fc]
-[ns]誠[nse]
-「本当なんです。信じたくないけど……きっと、今テントを[r]
-　バリバリやってるヤツもアイツらだと思います」[pcms]
+[ns]Makoto[nse]
+"It's true. I don't want to believe it but... I'm sure the one tearing[r]
+at our tent right now is one of them."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -152,25 +155,25 @@
 
 *949|
 [fc]
-何者かがテントを引っ掻く音が、どんどん強くなっている。[r]
-その気になれば、テントなんて簡単に突破されてしまうかも……。[pcms]
+The sound of something scratching at the tent was getting louder. If[r]
+they wanted to, they could easily break through the tent...[pcms]
 
 *950|
 [fc]
 [vo_stk s="satuki_st0149"]
-[ns]彩月[nse]
-「ひっ！」[pcms]
+[ns]Satsuki[nse]
+"Eek!"[pcms]
 
 *951|
 [fc]
-南先輩は、怯えた顔で少し震えながら僕にしがみついてくる。[r]
-僕も震える手で南先輩をぎゅっと抱き返した。[pcms]
+Senior Minami clung to me with a frightened face, trembling slightly.[r]
+My hands shaking, I hugged her back tightly.[pcms]
 
 *952|
 [fc]
 [vo_mob s="oso0003"]
-[ns]女性[nse]
-「きゃあああっ！　いやああぁ！　こ、来ないでっ！」[pcms]
+[ns]Female[nse]
+"Kyaaah! Nooo! Don't come here!"[pcms]
 
 ;//襲われてる女性
 
@@ -178,191 +181,193 @@
 
 *953|
 [fc]
-外から女性の叫び声と逃げ惑う足音が聞こえてきた。[r]
-僕は更に南先輩を強く引き寄せる。[r]
-先輩の身体の震えが大きくなったのを感じていた。[pcms]
+The sound of a woman's scream and the noise of frantic footsteps came[r]
+from outside. I pulled Senior Minami closer to me even more tightly. I[r]
+could feel her body trembling more intensely.[pcms]
 
 ;//♂：ここでテントをひっかく音を消して下さい
 
 *954|
 [fc]
-ふと、テントの入り口から人の気配が消えた。[r]
-引っ掻くような音も聞こえない。[pcms]
+Suddenly, the presence of someone at the tent entrance disappeared.[r]
+The scratching sounds stopped as well.[pcms]
 
 *955|
 [fc]
-さっきの叫び声に触発されて、矛先を変えたんだろう。[pcms]
+They must have been drawn away by the earlier screams.[pcms]
 
 *956|
 [fc]
-僕は震える先輩を抱き留めながら、慎重にテントの窓のカバーを[r]
-はずして外を覗いてみる。[pcms]
+While holding the trembling Senior, I cautiously removed the cover[r]
+from the tent window to peek outside.[pcms]
 
 *957|
 [fc]
-そこは、まさしく４年前と同じ地獄絵図だった。[pcms]
+It was a hellish scene, just like four years ago.[pcms]
 
 *958|
 [fc]
-おぼつかない足取り、よたりよたりと歩き回っている沢山の人影。[r]
-時折光を反射する、特徴的な赤い眼。[pcms]
+Unsteady footsteps, many people wandering aimlessly with their[r]
+distinctive red eyes occasionally reflecting light.[pcms]
 
 *959|
 [fc]
-男女を問わず、あちこちから断続的に悲鳴や断末魔と思えるような[r]
-声が聞こえ、キャンプ場内は、夜明け前という一番静寂に支配[r]
-される時間帯に騒然としていた。[pcms]
+Regardless of gender, intermittent screams and what seemed like death[r]
+throes could be heard, and the campsite was in turmoil during the[r]
+quietest time before dawn.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st32"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *960|
 [fc]
 [vo_stk s="satuki_st0150"]
-[ns]彩月[nse]
-「ぅっ……ぅっ……」[pcms]
+[ns]Satsuki[nse]
+"Uh... uh..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *961|
 [fc]
-南先輩の震えが止まらない。でも僕だって震えていた。[r]
-４年前の惨状を僕たちは知っている。[pcms]
+Senior Minami's trembling wouldn't stop. But I was trembling too. We[r]
+both knew about the tragedy from four years ago.[pcms]
 
 *962|
 [fc]
-これは知っているが故の震えだ。[r]
-恐ろしくてたまらない……。[pcms]
+This trembling was because we knew. It was unbearably frightening...[pcms]
 
 *963|
 [fc]
-でも、なんでこの島でこんな事が起こってるんだろう。[r]
-４年前の場所からは、遠く離れすぎている。[pcms]
+But why is this happening on this island? It's far too distant from[r]
+where it happened four years ago.[pcms]
 
 *964|
 [fc]
-漠然とした不安が無かった訳じゃない。いつだって思っていた。[r]
-もしまた起こったらと。[pcms]
+I always had a vague sense of unease. Always wondering what if it[r]
+happened again.[pcms]
 
 *965|
 [fc]
-目の前の惨状は悪夢を見ているようだけど、現実だ。[r]
-だとしたら、逃げ延びないと。[pcms]
+The tragedy before my eyes seemed like a nightmare, but it was[r]
+reality. If that's the case, we have to escape...[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *966|
 [fc]
-南先輩と一緒に、なんとしても生き抜かないと！[pcms]
+I have to survive this with Senior Minami no matter what![pcms]
 
 *967|
 [fc]
-僕は静かにカバーをかけ直し、決意を固めた。[pcms]
+I quietly replaced the cover and steeled my resolve.[pcms]
 
 *968|
 [fc]
-[ns]誠[nse]
-「南先輩……僕と一緒に生き延びましょう。絶対に。[r]
-　それにはテントに居続けるのは危ないと思うんです」[pcms]
+[ns]Makoto[nse]
+"Senior Minami... Let's survive this together. Absolutely. To do that,[r]
+I think it's dangerous to stay in the tent."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *969|
 [fc]
 [vo_stk s="satuki_st0151"]
-[ns]彩月[nse]
-「！！」[pcms]
+[ns]Satsuki[nse]
+"!!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *970|
 [fc]
-震えていた南先輩が、ハッとして顔を上げる。[r]
-震えが止まると同時に怯えた表情が消え去り、[r]
-はっきりとわかるほど、覚悟を決めた顔つきになっていた。[pcms]
+Startled, Senior Minami looked up sharply. As her trembling stopped,[r]
+the frightened expression on her face vanished, replaced by a look of[r]
+clear determination.[pcms]
 
 *971|
 [fc]
 [vo_stk s="satuki_st0152"]
-[ns]彩月[nse]
-「そうね。ここでヤツラに襲われて仲間にでもなってしまったら、[r]
-　何のために４年前に生き残ったのか判らなくなっちゃう」[pcms]
+[ns]Satsuki[nse]
+"That's right. If we get attacked by them here and end up joining[r]
+their ranks, it would make the survival from four years ago[r]
+meaningless."[pcms]
 
 *972|
 [fc]
-南先輩は、こくりと頷くとそっと僕の腕の中から身体を離した。[pcms]
+Senior Minami nodded solemnly and gently pulled away from my arms.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *973|
 [fc]
 [vo_stk s="satuki_st0153"]
-[ns]彩月[nse]
-「ありがと……」[pcms]
+[ns]Satsuki[nse]
+"Thank you..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *974|
 [fc]
-そう小さく言うと、先輩はバッグをごそごそとやり出して[r]
-違う服に着替えた。実に動きやすそうな服装だ……。[pcms]
+She said softly and began rummaging through her bag to change into[r]
+different clothes. They looked very easy to move in...[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *975|
 [fc]
-いや、こんな時になんだけど……ノーパンノーブラに[r]
-Ｔシャツとスパッツ。[pcms]
+No, not that it's the time for this... but she's wearing a T-shirt and[r]
+leggings with no panties or bra.[pcms]
 
 *976|
 [fc]
-乳首はツンと布を持ち上げてるし、それに下半身は、[r]
-恥丘の割れ目クッキリ！[r]
-食い込んでいるというか、フィットしてるというか。[pcms]
+The nipples were clearly pushing up against the fabric, and as for the[r]
+lower half, the cleft of her mound was distinctly visible! The fabric[r]
+was snug, or rather, it fit perfectly.[pcms]
 
 *977|
 [fc]
-いいな。こういうのも。逃げきったら、ぜひこの服装で、[r]
-着衣エッチをさせて欲しいっ！[pcms]
+I like this. If we manage to escape, I definitely want to have clothed[r]
+sex with her in this outfit![pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *978|
 [fc]
 [vo_stk s="satuki_st0154"]
-[ns]彩月[nse]
-「……何？」[pcms]
+[ns]Satsuki[nse]
+"...What?"[pcms]
 
 *979|
 [fc]
-ちょっとエロイ視線でジロジロ見すぎたかも知れない。[r]
-そんな場合じゃないはずなのに。ああ、もう僕ってば……。[pcms]
+I might have stared a bit too lewdly. This isn't the time for that.[r]
+Ah, what am I thinking...[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *980|
 [fc]
-怪訝な視線で問い返してきた先輩は、僕の答えを待たずに[r]
-荷物をまとめにかかっていた。[pcms]
+Senior Minami gave me a puzzled look and started packing without[r]
+waiting for my answer.[pcms]
 
 *981|
 [fc]
-その様子を見ながら、再び窓のカバーをはずして外を見る。[r]
-ほんのつかの間だったはずなのに、騒乱は大きくなってきていた。[pcms]
+While watching her, I removed the window cover again to look outside.[r]
+The commotion seemed to have grown even though it should have been[r]
+just a moment.[pcms]
 
 *982|
 [fc]
-うろつくヤツラの数が増えた気もするし、遠くから聞こえる悲鳴が[r]
-増えた気がする。[pcms]
+The number of those wandering around seemed to have increased, and the[r]
+screams from afar seemed more numerous.[pcms]
 
 *983|
 [fc]
-ということは、キャンプ場の端っこの方までヤツラが動き回って[r]
-犠牲者を増やしているのかも知れない。[pcms]
+This means that they might be moving around even to the edges of the[r]
+campsite, increasing the number of victims.[pcms]
 
 *984|
 [fc]
-さっきは逃げだそうと思ったけど、かなり被害が拡散している。[r]
-だとしたら、どこにどうやって逃げ出したらいいんだろう。[pcms]
+I thought about running away earlier, but it seems the damage has[r]
+spread considerably. If that's the case, I wonder where and how we[r]
+should escape.[pcms]
 
 ;//*_選択肢
 ;//1,危ない、テントに残っていよう   ラベルtentへ
@@ -373,15 +378,15 @@
 ;	[link target=*tent]危ない、テントに残っていよう[endlink]
 ;	[link target=*bicycle]自転車で逃げよう[endlink]
 ;	[link target=*hasiru]走って逃げよう[endlink]
-;	[s]
+;[pcms]
 
 *SEL15|危ない、テントに残っていよう／自転車で逃げよう／走って逃げよう
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '危ない、テントに残っていよう'"]
-[eval exp="f.seltext04 = '自転車で逃げよう'"]
-[eval exp="f.seltext06 = '走って逃げよう'"]
+[eval exp="f.seltext02 = 'It\'s dangerous, let\'s stay in the tent'"]
+[eval exp="f.seltext04 = 'Let\'s escape by bicycle'"]
+[eval exp="f.seltext06 = 'Let\'s run away'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -427,64 +432,63 @@
 
 *985|
 [fc]
-[ns]誠[nse]
-「南先輩……ちょっと外を見て下さい……」[pcms]
+[ns]Makoto[nse]
+"Senior Minami... please take a look outside..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *986|
 [fc]
 [vo_stk s="satuki_st0155"]
-[ns]彩月[nse]
-「どうかしたの？」[pcms]
+[ns]Satsuki[nse]
+"What's wrong?"[pcms]
 
 *987|
 [fc]
-そう言いながら僕の顔にくっつけるようにして南先輩も[r]
-外を見やる。[pcms]
+As she said that, Senior Minami leaned close to my face to look[r]
+outside as well.[pcms]
 
 *988|
 [fc]
-[ns]誠[nse]
-「さっきよりも、状況が悪くなってる気がするんです。[r]
-　テントから逃げだそうって言ったけど、逆に中に居続けた方が[r]
-　安全ってことはないでしょうか？」[pcms]
+[ns]Makoto[nse]
+"It feels like the situation has gotten worse than before. I said we[r]
+should flee the tent, but might it actually be safer to stay inside?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *989|
 [fc]
 [vo_stk s="satuki_st0156"]
-[ns]彩月[nse]
-「……」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *990|
 [fc]
-[ns]誠[nse]
-「アイツら頭が鈍いから、息を殺してれば見つからずに[r]
-　やり過ごせる気がするんです。もう少し状況が良くなってから、[r]
-　逃げませんか？」[pcms]
+[ns]Makoto[nse]
+"They're not very smart, so if we hold our breath, I feel like we can[r]
+get through this without being found. Shouldn't we wait until the[r]
+situation improves a bit before escaping?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *991|
 [fc]
 [vo_stk s="satuki_st0157"]
-[ns]彩月[nse]
-「……そうね。わかった。そうしましょう」[pcms]
+[ns]Satsuki[nse]
+"...That makes sense. Alright. Let's do that."[pcms]
 
 ;//■_テントの布をボスボスと叩く音
 
 *992|
 [fc]
-[ns]男１[nse]
-「おいっ！　誰かいるんだろ？　助けてくれ！　入れてくれ！」[pcms]
+[ns]Male 1[nse]
+"Hey! Someone's there, right? Help us! Let us in!"[pcms]
 
 *993|
 [fc]
 [vo_mob s="kon0001"]
-[ns]懇願する女[nse]
-「お願いよぉ、開けて！！　中に入れてぇ！」[pcms]
+[ns]Begging Woman[nse]
+"Please, open up!! Let us in!"[pcms]
 
 ;//女１→懇願する女に変更しておく
 
@@ -492,27 +496,27 @@
 
 *994|
 [fc]
-[ns]誠[nse]
-「！！」[pcms]
+[ns]Makoto[nse]
+"!!"[pcms]
 
 *995|
 [fc]
-僕は反射的に入り口のジッパーに手を掛けようとした。[r]
-でもその手を南先輩にさえぎられる。[pcms]
+I reflexively reached for the entrance zipper, but Senior Minami[r]
+stopped my hand.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *996|
 [fc]
 [vo_stk s="satuki_st0158"]
-[ns]彩月[nse]
-「馬鹿なことしないで。定員オーバーだし、それに既に[r]
-　感染してるのかもしれないでしょ？」[pcms]
+[ns]Satsuki[nse]
+"Don't be foolish. We're over capacity, and they might already be[r]
+infected, right?"[pcms]
 
 *997|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -520,259 +524,257 @@
 
 *998|
 [fc]
-[ns]男１[nse]
-「くそっ！　開けっ！」[pcms]
+[ns]Male 1[nse]
+"Damn it! Open up!"[pcms]
 
 *999|
 [fc]
-テントの入り口に鍵なんかついているはずがない。[r]
-ジッパーの下がる音に、僕と南先輩は慌てて中から押さえに[r]
-かかった。[pcms]
+There was no lock on the tent entrance. As the zipper went down,[r]
+Senior Minami and I hurriedly pressed against it from the inside.[pcms]
 
 *1000|
 [fc]
 [vo_mob s="kon0002"]
-[ns]懇願する女[nse]
-「お願い、入れてよぉ！　！！　きゃ、きゃああっ！！」[pcms]
+[ns]Begging Woman[nse]
+"Please, let me in! Ahh! Kyaa!!"[pcms]
 
 *1001|
 [fc]
-[ns]感染者１[nse]
-「おんなあ……みつけたあ……マンコさせろぉ」[pcms]
+[ns]Infected 1[nse]
+"A woman... found one... let me have your pussy..."[pcms]
 
 *1002|
 [fc]
-[ns]男１[nse]
-「うわっ！　やめろっ！　助けてくれっ！」[pcms]
+[ns]Male 1[nse]
+"Ugh! Stop it! Help me!"[pcms]
 
 *1003|
 [fc]
-[ns]感染者２[nse]
-「おとこじゃま……だあ、喰ってやるぅ」[pcms]
+[ns]Infected 2[nse]
+"A man's in the way... I'll eat you..."[pcms]
 
 [quake_bg y m]
 ;//縦揺れ
 
 *1004|
 [fc]
-テントの入り口のすぐ外で、もつれあう気配がしたと同時に、[r]
-僕らの居るテントが揺れ、引き裂くように入り口が開けられた。[pcms]
+Right outside the tent entrance, there was a scuffle, and our tent[r]
+shook violently as someone tried to rip open the entrance.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st20"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1005|
 [fc]
-[ns]誠[nse]
-「うわっ！！」[pcms]
+[ns]Makoto[nse]
+"Uwah!!"[pcms]
 
 *1006|
 [fc]
 [vo_stk s="satuki_st0159"]
-[ns]彩月[nse]
-「ひっ！！」[pcms]
+[ns]Satsuki[nse]
+"Eek!!"[pcms]
 
 *1007|
 [fc]
-血まみれの手がズボッと差し込まれ、赤い眼の薄汚れた[r]
-男が侵入しようとあがいている。[pcms]
+A bloodied hand thrust inside, and a man with red eyes and filthy[r]
+appearance struggled to invade.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1008|
 [fc]
 [vo_stk s="satuki_st0160"]
-[ns]彩月[nse]
-「は、反対からっ！　誠君、反対から逃げるのっ！！」[pcms]
+[ns]Satsuki[nse]
+"No, from the other side! Makoto-kun, we have to escape from the other[r]
+side!!"[pcms]
 
 *1009|
 [fc]
-[ns]誠[nse]
-「は、はいっ！」[pcms]
+[ns]Makoto[nse]
+"Y-Yes!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1010|
 [fc]
-狭いテントの中を這って大急ぎで反対側に移ると、[r]
-僕は震える手でジッパーを下ろしきった。[pcms]
+I crawled through the cramped tent as fast as I could to the opposite[r]
+side, and with trembling hands, I fully unzipped the entrance.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1011|
 [fc]
-すぐに外に飛び出す。[pcms]
+I immediately jumped outside.[pcms]
 
 *1012|
 [fc]
 [vo_stk s="satuki_st0161"]
-[ns]彩月[nse]
-「い、いやあああああっ！！！」[pcms]
+[ns]Satsuki[nse]
+"N-No, ahhhhhh!!"[pcms]
 
 *1013|
 [fc]
-[ns]誠[nse]
-「！！」[pcms]
+[ns]Makoto[nse]
+"!!"[pcms]
 
 ;//★bg04b オートキャンプ場・夜
 [bg storage="BG04c"][trans_c cross time=500]
 
 *1014|
 [fc]
-僕の目に写ったのは、先輩の伸ばされた手だけだった。[r]
-その手も、たった今出てきた薄暗いテントの入り口から、[r]
-ずるずると引きずられたかのように、奥へと消えていく。[pcms]
+All I saw was Senior Satsuki's outstretched hand. That hand, too,[r]
+seemed to be dragged back into the dark entrance of the tent that we[r]
+had just left.[pcms]
 
 *1015|
 [fc]
-どうしたらいいんだ？！[r]
-今すぐにあの手を引き戻せば、助けられるだろうか？[pcms]
+What should I do?! If I pull back that hand right now, can I save her?[pcms]
 
 *1016|
 [fc]
-でも、もう既に中で何かされているのだとしたら……[pcms]
+But if something is already happening to her inside...[pcms]
 
 *1017|
 [fc]
-迷ってる場合じゃないのにっ！！[r]
-でも、僕は逃げ出したその場から足を動かせずにいた。[pcms]
+This is no time to hesitate!! But I couldn't move my feet from where I[r]
+had fled.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=190 y=0]
 
 *1018|
 [fc]
-[ns]感染者１[nse]
-「あ゛あ゛……めし、だ……」[pcms]
+[ns]Infected 1[nse]
+"Agh... food..."[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan2_x_bl"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1019|
 [fc]
-[ns]感染者男３[nse]
-「はらへってるぞぉ……くっていいかあ」[pcms]
+[ns]Infected Man 3[nse]
+"I'm starving... can I eat this?"[pcms]
 
 [ChrSetEx layer=6 chbase="mob_kan5_x_bl"][ChrSetXY layer=6 x=400 y=0][trans_c cross time=150]
 
 *1020|
 [fc]
-[ns]感染者２[nse]
-「までよ……おれがさきに、み、み、みつげだんだぞ？」[pcms]
+[ns]Infected 2[nse]
+"Wait... I found her first, you know?"[pcms]
 
 *1021|
 [fc]
-[ns]誠[nse]
-「！！！」[pcms]
+[ns]Makoto[nse]
+"!!!"[pcms]
 
 *1022|
 [fc]
-こんなに周りにひそんでいたなんて！[r]
-僕は、あっという間に複数の感染者に囲まれていた。[pcms]
+I couldn't believe how many were lurking around us! In no time at all,[r]
+I was surrounded by several infected.[pcms]
 
 ;//m:ここからテキスト追加
 
 *1023|
 [fc]
-感染者達３人は、僕の周囲を均等な距離を保ちつつ取り囲む。[pcms]
+The three infected maintained an even distance as they encircled me.[pcms]
 
 *1024|
 [fc]
-知能なんて退行してるはずなのに、[r]
-なんだってこんな時に機転が利くんだ、コイツら！[pcms]
+Even though their intelligence should be regressing, why are they so[r]
+cunning at a time like this?![pcms]
 
 *1025|
 [fc]
-たったの３人だが、こんな上手い具合に距離を取られたら、[r]
-どの隙間を狙って逃げ出せば良いか判断に困る。[pcms]
+It's only three of them, but with them keeping such a perfect[r]
+distance, it's hard to decide which gap to aim for to escape.[pcms]
 
 *1026|
 [fc]
 [vo_stk s="satuki_st0162"]
-[ns]彩月[nse]
-「いやあああああ！！　はなして！」[pcms]
+[ns]Satsuki[nse]
+"Ahhhhhh!! Let go of me!"[pcms]
 
 *1027|
 [fc]
-テントの中から南先輩の悲鳴が聞こえてきた。[r]
-その声に呼応するように、中で複数の気配が蠢いている。[pcms]
+Senior Satsuki's screams could be heard from inside the tent.[r]
+Responding to her voice, multiple presences were stirring inside.[pcms]
 
 *1028|
 [fc]
-早く南先輩を助け出さないと、取り返しのつかない事に……。[pcms]
+I need to rescue Senior Satsuki quickly, or it'll be too late...[pcms]
 
 *1029|
 [fc]
-せっかく[ruby text="あの時"][ch text="４年前"]に助かったっていうのに、[r]
-僕らはまた同じ目に遭わされるのか！？[pcms]
+Even though we were saved four years ago, are we going to suffer the[r]
+same fate again?![pcms]
 
 *1030|
 [fc]
-一体、僕らが何をしたって言うんだ！！[pcms]
+What on earth did we do to deserve this?![pcms]
 
 *1031|
 [fc]
 [vo_stk s="satuki_st0163"]
-[ns]彩月[nse]
-「なか……中澤君！　どこ！？　助け……あぁあああ！！」[pcms]
+[ns]Satsuki[nse]
+"Naka... Nakazawa-kun! Where are you!? Help... ahhhh!!"[pcms]
 
 *1032|
 [fc]
-[ns]テントの中の感染者[nse]
-「おいおい！　にげるなよ～。い、いまから、これを」[pcms]
+[ns]Infected person inside the tent[nse]
+"Hey hey! Don't run away~. Now, I'm going to do this..."[pcms]
 
 *1033|
 [fc]
 [vo_stk s="satuki_st0164"]
-[ns]彩月[nse]
-「お前達なんかに……ひぅ……お前達なんか……ぐぼっ」[pcms]
+[ns]Satsuki[nse]
+"I won't let you guys... hii... you guys... gubohh"[pcms]
 
 *1034|
 [fc]
-[ns]誠[nse]
-「南先輩！　い、今いきますっ！！」[pcms]
+[ns]Makoto[nse]
+"Senior Satsuki! I-I'm coming now!!"[pcms]
 
 *1035|
 [fc]
-もう考えてる時間は無い。[r]
-早くあの中から南先輩を助け出さないと！[pcms]
+There's no time left to think. I have to rescue Senior Satsuki from[r]
+there quickly![pcms]
 
 *1036|
 [fc]
-４年前だって助かったんだ！[r]
-今回だって……。[pcms]
+We were saved even four years ago! This time too...[pcms]
 
 *1037|
 [fc]
-[ns]感染者1[nse]
-「おぉ！？　どうずるん゛だ？」[pcms]
+[ns]Infected 1[nse]
+"Oh!? How are you going to slip away?"[pcms]
 
 *1038|
 [fc]
-[ns]感染者２[nse]
-「そんな、か、か、か、……かんたんには、とお゛さねえぞ？」[pcms]
+[ns]Infected 2[nse]
+"You can't get away that easily, you know?"[pcms]
 
 *1039|
 [fc]
-取り囲んだ感染者達が腕を左右に広げつつ、[r]
-その輪を縮めていく。[pcms]
+The encircling infected began to close in, spreading their arms left[r]
+and right.[pcms]
 
 *1040|
 [fc]
-どこでも良い。[r]
-とにかく体当たりでもして、一気にこの囲みを抜け出す。[pcms]
+Anywhere would do. I just need to break through this encirclement with[r]
+a body slam.[pcms]
 
 *1041|
 [fc]
-[ns]誠[nse]
-「うおああああああああああああああああ！！！」[pcms]
+[ns]Makoto[nse]
+"Uooooooaaaaaaaaaaaaaaaaaaaaaa!!!"[pcms]
 
 *1042|
 [fc]
-今まで出したこともないような大声。[r]
-腹の底からの声を張り上げ、僕は一つの隙間をめがけて突っ込んだ。[pcms]
+With a louder scream than I've ever let out before, I charged towards[r]
+an opening in their circle.[pcms]
 
 *1043|
 [fc]
-感染者の腕が目の前を横切っていく。[pcms]
+The arms of the infected crossed in front of me.[pcms]
 
 ;//SE　ドン
 [se buf=0 storage="seB010"]
@@ -785,23 +787,22 @@
 
 *1044|
 [fc]
-１人の感染者にぶつかり、バランスを崩した僕は、[r]
-あわや地面に顔から衝突しそうになるのを[r]
-なんとか片手を先について防いだ。[pcms]
+I collided with one of the infected and almost lost my balance, but I[r]
+managed to prevent a face-first collision with the ground by putting[r]
+out one hand first.[pcms]
 
 *1045|
 [fc]
-僕にぶつかった感染者も同じようにバランスを崩していて、[r]
-すぐにはその腕が伸びてこない。[pcms]
+The infected that I bumped into also lost balance and couldn't[r]
+immediately reach out with their arms.[pcms]
 
 *1046|
 [fc]
-このままダッシュでテントまで……。[r]
-南先輩を……。[pcms]
+I need to dash to the tent... To save Senior Satsuki...[pcms]
 
 *1047|
 [fc]
-足を先に踏みだそうとするが動かない。[pcms]
+My feet wouldn't move as I tried to step forward.[pcms]
 
 *1048|
 [fc]
@@ -810,7 +811,7 @@
 
 *1049|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「っ……」[pcms]
 
 *1050|
@@ -826,19 +827,19 @@
 
 *1052|
 [fc]
-[ns]感染者４[nse]
-「ここにも、ひとりいたのか～～」[pcms]
+[ns]Infected 4[nse]
+「ここにも、ひとりいたのか」[pcms]
 
 [ChrSetEx layer=1 chbase="mob_kan1_x_bl"][ChrSetXY layer=1 x=790 y=0][trans_c cross time=150]
 
 *1053|
 [fc]
-[ns]感染者５[nse]
+[ns]Infected 5[nse]
 「よかったぁ……ちょうど、はらが、へって」[pcms]
 
 *1054|
 [fc]
-[ns]感染者２[nse]
+[ns]Infected 2[nse]
 「までよ……おれがさきに、み、み、みつげだんだぞ？」[pcms]
 
 *1055|
@@ -848,7 +849,7 @@
 
 *1056|
 [fc]
-[ns]感染者３[nse]
+[ns]Infected 3[nse]
 「ちょっと、ちいせぇけど、まぁ腹の足しにはなるだろ」[pcms]
 
 *1057|
@@ -864,17 +865,17 @@
 
 *1058|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「ぐぁっっっっ！！」[pcms]
 
 *1059|
 [fc]
-[ns]感染者１[nse]
+[ns]Infected 1[nse]
 「おぉ！？　あ、あじは、どうなんだ？」[pcms]
 
 *1060|
 [fc]
-[ns]感染者２[nse]
+[ns]Infected 2[nse]
 「までよ……おれがさきに、み、み、みつげだんだぞ？」[pcms]
 
 ;//#_赤フラ
@@ -894,7 +895,7 @@
 
 *1062|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「南……せ……」[pcms]
 
 [sysbt_meswin clear]
@@ -935,7 +936,7 @@
 
 *1063|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「南先輩……自転車で逃げませんか？」[pcms]
 
 *1064|
@@ -947,12 +948,12 @@
 *1065|
 [fc]
 [vo_stk s="satuki_st0165"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「気は確か？」[pcms]
 
 *1066|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「え……？」[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -977,7 +978,7 @@
 *1070|
 [fc]
 [vo_stk s="satuki_st0166"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「……どうせなら、バイクか車にしましょうよ」[pcms]
 
 *1071|
@@ -993,7 +994,7 @@
 
 *1072|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「アイツらの鈍い動きを考えたら、走り抜けられますよね」[pcms]
 
 *1073|
@@ -1005,19 +1006,19 @@
 *1074|
 [fc]
 [vo_stk s="satuki_st0167"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「そうだね。走るのが一番安全かもしれない。[r]
 　ヤツラの動きをみながら、うまくあいだをすり抜けよう」[pcms]
 
 *1075|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「はい！」[pcms]
 
 *1076|
 [fc]
 [vo_stk s="satuki_st0168"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「それに、もし途中で、鍵が付けっぱなしのが見つかったら、[r]
 　バイクでも車でも、どっちでもいいから調達しよう」[pcms]
 
@@ -1030,7 +1031,7 @@
 
 *1077|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「バイクか車って……免許持ってるんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -1038,7 +1039,7 @@
 *1078|
 [fc]
 [vo_stk s="satuki_st0169"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「持ってる訳じゃないけど、運転は出来るわ。[r]
 　卒業と同時に車に乗れるようにって思って、教習所に通ったの」[pcms]
 
@@ -1047,13 +1048,13 @@
 *1079|
 [fc]
 [vo_stk s="satuki_st0170"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「まだ仮免取ったばっかだけど、路上に出たこともあるから[r]
 　なんとかなると思うわ」[pcms]
 
 *1080|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「そういえば隣のテントや他にも、バイク停めてある所が[r]
 　結構ありましたね。どれか使えるかな……」[pcms]
 
@@ -1068,7 +1069,7 @@
 
 *1082|
 [fc]
-[ns]隣の男[nse]
+[ns]The man next door[nse]
 「ふっわああああ……ったく、何だよ。騒がしいなー。[r]
 　っるせーぞ、ったく、静かにしろよっ」[pcms]
 
@@ -1080,112 +1081,115 @@
 *1084|
 [fc]
 [vo_mob s="kan10001"]
-[ns]感染者女1[nse]
+[ns]Infected Woman 1[nse]
 「ああ、チンポみつけたあ」[pcms]
 
 *1085|
 [fc]
-[ns]感染者男３[nse]
+[ns]Infected Man 3[nse]
 「はらへってるぞぉ……くっていいかあ」[pcms]
 
 *1086|
 [fc]
 [vo_mob s="kan20001"]
-[ns]感染者女２[nse]
-「まんこにいれてえ、エッチしようよお」[pcms]
+[ns]Infected Woman 2[nse]
+"Uwah! Wh-what the hell are you guys! Uwah, ugyaaaaa!"[pcms]
 
 ;//♂：ラベル02052と同一の台詞です
 
 *1087|
 [fc]
-[ns]隣の男[nse]
-「うわっ！　な、なんだお前らっ！　うわっ、うぎゃあああっ！」[pcms]
+[ns]The man next door[nse]
+"Ahahaha, the dick's gonna tear off, let's feel good together"[pcms]
 
 *1088|
 [fc]
 [vo_mob s="kan20002"]
-[ns]感染者女２[nse]
-「あははああ、ちんこもげちゃうぅ、きもちよくなろーよぉ」[pcms]
+[ns]Infected Woman 2[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st20"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1089|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1090|
 [fc]
 [vo_stk s="satuki_st0171"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+I want to procure something from nearby as soon as possible, but it[r]
+seems there are many of those creatures lurking around.[pcms]
 
 *1091|
 [fc]
-手近なところからすぐにでも調達したいところだけど、[r]
-どうやら周りにはうろうろしているヤツラが多そうだ。[pcms]
+There's a high chance of being attacked while starting the engine.[r]
+Besides, if we panic and fall while riding together, we'll definitely[r]
+die.[pcms]
 
 *1092|
 [fc]
-エンジン掛けたりしてる間に襲われる可能性が高い。[r]
-それに焦って、二人乗りで転けたりしたら、確実に死ぬ。[pcms]
+It would be better to dash through them and consider our options after[r]
+making some progress.[pcms]
 
 *1093|
 [fc]
-それだったら、ダッシュで駆け抜けてある程度進んでから、[r]
-様子を見て考えた方がいいだろう。[pcms]
+"Senpai Minami... Let's make a run for it. I feel like that's the best[r]
+option."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1094|
 [fc]
-[ns]誠[nse]
-「南先輩……駆け抜けましょう。それが一番いい気がします」[pcms]
+[ns]Makoto[nse]
+"Yeah, let's do that. First, we need to escape from here."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1095|
 [fc]
 [vo_stk s="satuki_st0172"]
-[ns]彩月[nse]
-「うん、そうしよう。まずはここから逃げだそう」[pcms]
+[ns]Satsuki[nse]
+"Yes. For now, let's head towards the hotel where everyone is."[pcms]
 
 *1096|
 [fc]
-[ns]誠[nse]
-「はい。取り敢えず、みんながいるホテルの方に向かいましょう」[pcms]
+[ns]Makoto[nse]
+"Got it. Let's count down and burst out all at once."[pcms]
 
 *1097|
 [fc]
 [vo_stk s="satuki_st0173"]
-[ns]彩月[nse]
-「わかった。カウントダウンして一斉に飛び出そう」[pcms]
+[ns]Satsuki[nse]
+"Yes."[pcms]
 
 *1098|
 [fc]
-[ns]誠[nse]
-「はい」[pcms]
+[ns]Makoto[nse]
+I put my hand on the zipper of the tent entrance. Senpai Minami and I[r]
+look at each other and nod in agreement.[pcms]
 
 *1099|
 [fc]
-テントの入り口のジッパーに手を掛ける。[r]
-南先輩と顔を見合わせ、お互い頷き合う。[pcms]
+"5, 4, 3, 2, 1!!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1100|
 [fc]
 [vo_stk s="satuki_st0174"]
-[ns]彩月[nse]
-「５、４、３、２、１っっ！！」[pcms]
+[ns]Satsuki[nse]
+In one swift motion, we pull down the zipper and burst out of the[r]
+tent.[pcms]
 ;//m:KWはカット
 
 [chara_int][trans_c cross time=150]
 
 *1101|
 [fc]
-一気にジッパーを引き下ろし、僕たちはテントの外へと[r]
-飛び出した。[pcms]
+In one swift motion, we pull down the zipper and burst out of the[r]
+tent.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

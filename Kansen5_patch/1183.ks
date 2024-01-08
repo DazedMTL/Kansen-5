@@ -20,43 +20,42 @@
 
 *3504|
 [fc]
-[ns]オズ[nse]
-「なんだ、外が騒がしいな」[pcms]
+[ns]Oz[nse]
+"What's that, it's noisy outside."[pcms]
 
 *3505|
 [fc]
-男の合図を受けた黒服の一人が、[r]
-土蔵の扉を開けて外を確認しに行く。[pcms]
+At the signal from the man, one of the men in black suits opens the[r]
+door of the storehouse to check outside.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3506|
 [fc]
-なにか声のようなものが聞こえてきた。[r]
-自衛隊じゃなくて感染者のような呻き声だ。[pcms]
+I can hear something like voices. It's not the Self-Defense Forces,[r]
+but more like the groans of the infected.[pcms]
 
 *3507|
 [fc]
-門はちゃんと閉まっていたのに、[r]
-突破されてしまったんだろうか。[pcms]
+The gate was properly closed, yet it seems to have been breached.[pcms]
 
 *3508|
 [fc]
-それともどこか他に、[r]
-感染者が入り込む隙間みたいなものが……。[pcms]
+Or is there somewhere else, like a gap that the infected could have[r]
+slipped through...?[pcms]
 
 *3509|
 [fc]
-[ns]男Ａ[nse]
-「門が開いてます！　奴らがなだれ込んできました！[r]
-　このままじゃ退路が……」[pcms]
+[ns]Man A[nse]
+"The gate is open! They're pouring in! We'll be cut off at this[r]
+rate..."[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_jk"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3510|
 [fc]
-[ns]オズ[nse]
-「[ruby text="うろた"]狼狽えるなっ！　お前は残れっ！」[pcms]
+[ns]Oz[nse]
+"Don't panic! You stay here!"[pcms]
 
 [se buf=0 storage="seA050"]
 ;//走り去る
@@ -64,31 +63,31 @@
 
 *3511|
 [fc]
-男は黒服たちに合図をすると、[r]
-銃を構えて外に出て行ってしまった。[pcms]
+The man signals to the men in black suits and then heads outside with[r]
+his gun ready.[pcms]
 
 *3512|
 [fc]
-退路を確保するために戦う気なんだろうか。[r]
-門の前にはかなりの数の感染者がいた。[pcms]
+He seems intent on fighting to secure a retreat. There were quite a[r]
+number of infected in front of the gate.[pcms]
 
 *3513|
 [fc]
-とても倒しきれる数じゃないと思うけど、[r]
-こいつ等はそれを知らない。[pcms]
+I don't think it's a number that can be completely taken down, but[r]
+these guys don't know that.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3514|
 [fc]
 [vo_nat s="natu0261"]
-[ns]夏都[nse]
-「ううっ……くうっ……」[pcms]
+[ns]Natsu[nse]
+"Ugh... hnn..."[pcms]
 
 *3515|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、大丈夫……？」[pcms]
+[ns]Makoto[nse]
+"Onee-san, are you okay...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -101,89 +100,88 @@
 
 *3516|
 [fc]
-外から派手な銃撃戦の音が聞こえてきた。[r]
-戦いを始めたんだ。[pcms]
+The sound of a fierce gun battle can be heard from outside. The fight[r]
+has begun.[pcms]
 
 *3517|
 [fc]
-一人だけ残った黒服が、落ち着かなそうに[r]
-そわそわとその音を聞いている。[pcms]
+The one man in black left behind is restlessly listening to that[r]
+sound, looking uneasy.[pcms]
 
 [se buf=0 storage="seC046"]
 ;//銃声・遠め
 
 *3518|
 [fc]
-状況によっては、この男一人だけ残して[r]
-男たちが撤退することだってあり得るだろう。[pcms]
+Depending on the situation, it's possible that the men might retreat,[r]
+leaving just this one man behind.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3519|
 [fc]
 [vo_mis s="misao0118"]
-[ns]美沙緒[nse]
-「その人の手当をさせて、出血が酷いし骨も折れている」[pcms]
+[ns]Misao[nse]
+"Let me tend to this person's wounds, the bleeding is severe and bones[r]
+are broken."[pcms]
 
 *3520|
 [fc]
-[ns]男Ａ[nse]
-「んなもん知るか、黙って座ってろ！」[pcms]
+[ns]Man A[nse]
+"Like I care, just sit down and shut up!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3521|
 [fc]
 [vo_mis s="misao0119"]
-[ns]美沙緒[nse]
-「放っておいたら死ぬわ、あなた責任取れるの？」[pcms]
+[ns]Misao[nse]
+"If you leave him, he'll die. Can you take responsibility for that?"[pcms]
 
 *3522|
 [fc]
-[ns]男Ａ[nse]
-「くっ……」[pcms]
+[ns]Man A[nse]
+"Tch..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3523|
 [fc]
-僕や姉ちゃんをどう使うつもりなのか、[r]
-わからないんだろう。[pcms]
+I don't know what they plan to do with me and Onee-san.[pcms]
 
 *3524|
 [fc]
-姉ちゃんが死んでしまったら、[r]
-あのボスの男にドヤされるかもしれない。[pcms]
+If Onee-san dies, that boss man might get angry.[pcms]
 
 *3525|
 [fc]
-判断が付かなかった男は、考えることを放棄した。[r]
-面倒くさそうに美沙緒さんに言葉を吐き捨てる。[pcms]
+The indecisive man gives up on thinking and throws his words at Misao-[r]
+san with annoyance.[pcms]
 
 *3526|
 [fc]
-[ns]男Ａ[nse]
-「さっさとしろ」[pcms]
+[ns]Man A[nse]
+"Just hurry up."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi04"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *3527|
 [fc]
 [vo_mis s="misao0120"]
-[ns]美沙緒[nse]
-「ありがとう」[pcms]
+[ns]Misao[nse]
+"Thank you."[pcms]
 
 *3528|
 [fc]
-[ns]誠[nse]
-「すみません……」[pcms]
+[ns]Makoto[nse]
+"I'm sorry..."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi02"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *3529|
 [fc]
-凄惨な格好をしながら、僕にニコリと笑って[r]
-奥に進んでいく。[pcms]
+While looking terribly disheveled, she smiles at me and moves further[r]
+inside.[pcms]
 
 [chara_int][trans_c cross time=150]
 [se buf=0 storage="seC035"]
@@ -192,9 +190,8 @@
 
 *3530|
 [fc]
-美沙緒さんはラボのコンソールパネルで、[r]
-何かの認証と数字を入力すると、[r]
-扉を開けて中に入っていった。[pcms]
+Misao-san enters some authentication and numbers into the lab's[r]
+console panel, then opens the door and goes inside.[pcms]
 
 ;//◆ＳＥ　銃声
 [se buf=0 storage="seC046"]
@@ -205,59 +202,57 @@
 
 *3531|
 [fc]
-外からは繰り返し鋭い銃声が響いてきて、[r]
-戦いの激しさを物語っている。[pcms]
+Sharp gunshots keep echoing from outside, telling the intensity of the[r]
+battle.[pcms]
 
 *3532|
 [fc]
-[ns]男[nse]
-「ぐわああああああああああっ！」[pcms]
+[ns]Male[nse]
+"Gwaaaaaaaaaaaaah!"[pcms]
 
 *3533|
 [fc]
-[ns]男Ａ[nse]
-「くううっ……」[pcms]
+[ns]Man A[nse]
+"Guh..."[pcms]
 
 *3534|
 [fc]
-誰かの絶叫が聞こえてきた。[r]
-感染者かも知れないけれど、黒服の仲間のように思える。[pcms]
+A scream can be heard. It might be one of the infected, but it seems[r]
+like it could be one of the men in black suits.[pcms]
 
 *3535|
 [fc]
-一人残った男の焦りは、[r]
-どんどん[ruby text="つの"]募っているみたいだった。[pcms]
+The desperation of the man left alone seems to be growing by the[r]
+minute.[pcms]
 
 *3536|
 [fc]
-苛々しながら出入口のドアを少し開けて、[r]
-外を確認している。[pcms]
+Annoyed, he opens the entrance door slightly to check outside.[pcms]
 
 *3537|
 [fc]
-まともな仕事をしている人間じゃないだろうに、[r]
-一人が心細いんだ。[pcms]
+He's not someone who does decent work, yet he feels lonely by himself.[pcms]
 
 *3538|
 [fc]
 [vo_mis s="misao0121"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *3539|
 [fc]
-ふと気が付くと、ラボの中から救急キットを持った[r]
-美沙緒さんが出て来るところだった。[pcms]
+Suddenly, I notice Misao-san coming out of the lab with an emergency[r]
+kit in hand.[pcms]
 
 *3540|
 [fc]
-足音を消し、無言でラボから出てきた美沙緒さんは、[r]
-救急キットと拳銃を手にしている。[pcms]
+With silent footsteps, Misao-san comes out of the lab without a word,[r]
+holding an emergency kit and a handgun.[pcms]
 
 *3541|
 [fc]
-男は苛つきながら外を見ているばかりで、[r]
-美沙緒さんのことにまるで気が付いていなかった。[pcms]
+The man is too busy looking outside with irritation to notice anything[r]
+about Misao-san.[pcms]
 
 ;//◆ＳＥ　銃声
 [se buf=0 storage="seC048"]
@@ -265,13 +260,13 @@
 
 *3542|
 [fc]
-問答無用で、背後から黒服の背中を打ち抜く。[r]
-男は何が起きたか理解できないようだった。[pcms]
+Without question, she shoots the man in black in the back from behind.[r]
+The man doesn't seem to understand what happened.[pcms]
 
 *3543|
 [fc]
-[ns]男Ａ[nse]
-「な……てめ……」[pcms]
+[ns]Man A[nse]
+"Wha... you bitch..."[pcms]
 
 ;//◆ＳＥ　銃声
 [se buf=0 storage="seC048"]
@@ -284,9 +279,8 @@
 
 *3544|
 [fc]
-振り返ろうとしていた男の胸の辺りを、[r]
-もう一度撃った美沙緒さんは、黒服の拳銃を奪うと[r]
-そのまま扉を閉めた。[pcms]
+As the man was about to turn around, Misao-san shot him again in the[r]
+chest, took the gun from the man in black, and then closed the door.[pcms]
 
 [se buf=0 storage="seA020"]
 ;//スライド扉閉め
@@ -304,26 +298,26 @@
 *3545|
 [fc]
 [vo_mis s="misao0122"]
-[ns]美沙緒[nse]
-「今、ロープを切るから待ってて」[pcms]
+[ns]Misao[nse]
+"I'm going to cut the rope now, so wait for me."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3546|
 [fc]
 [vo_nat s="natu0262"]
-[ns]夏都[nse]
-「すまねぇ……」[pcms]
+[ns]Natsu[nse]
+"I'm sorry..."[pcms]
 
 *3547|
 [fc]
-救急キットのハサミを使って、[r]
-ビニールロープをバチバチと切っていく。[pcms]
+Using the scissors from the emergency kit, she cuts through the vinyl[r]
+rope with a snapping sound.[pcms]
 
 *3548|
 [fc]
-姉ちゃんは黒服から奪った拳銃を受け取ると、[r]
-残弾を確認して何度か感触を確かめていた。[pcms]
+Onee-san receives the gun taken from the man in black, checks the[r]
+remaining bullets, and repeatedly feels its grip.[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi08"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
@@ -333,81 +327,81 @@
 *3549|
 [fc]
 [vo_mis s="misao0123"]
-[ns]美沙緒[nse]
-「茜梨のこと、ありがとう……、[r]
-　こんなことに巻き込んで、ごめんなさい」[pcms]
+[ns]Misao[nse]
+"Thank you for taking care of Akari... I'm sorry for getting you[r]
+involved in this."[pcms]
 
 *3550|
 [fc]
-美沙緒さんは姉ちゃんの血を拭きながら、[r]
-消毒や手当を行っていく。[pcms]
+Misao-san wipes Onee-san's blood while disinfecting and treating her[r]
+wounds.[pcms]
 
 *3551|
 [fc]
-[ns]誠[nse]
-「お礼なんて……僕が好きでやったことですから……、[r]
-　でも、姉ちゃんは本当に……」[pcms]
+[ns]Makoto[nse]
+"No need for thanks... I did it because I wanted to... But Onee-san,[r]
+you really..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3552|
 [fc]
 [vo_nat s="natu0263"]
-[ns]夏都[nse]
-「気持ちわりい声出すな、みっともねぇ」[pcms]
+[ns]Natsu[nse]
+"Don't make such a disgusting sound, it's shameful."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3553|
 [fc]
-姉ちゃんの手当を終えた美沙緒さんは、[r]
-越智さんのところに行くと、その具合を確かめ始める。[pcms]
+After finishing treating Onee-san, Misao-san goes over to check on[r]
+Ochi-san's condition.[pcms]
 
 *3554|
 [fc]
-手間取ってしまったけれど、[r]
-早く処置しないと、まずいはずだ。[pcms]
+It took some time, but she needs to treat her quickly, or it could be[r]
+bad.[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi06"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *3555|
 [fc]
 [vo_mis s="misao0124"]
-[ns]美沙緒[nse]
-「茜梨、私がわかる？」[pcms]
+[ns]Misao[nse]
+"Akari, can you understand me?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3556|
 [fc]
 [vo_aka s="akari0511"]
-[ns]茜梨[nse]
-「…………ぃ」[pcms]
+[ns]Akari[nse]
+"...Yes."[pcms]
 
 *3557|
 [fc]
-その間も、美沙緒さんは医療キットを使って[r]
-越智さんを助ける準備を進めていた。[pcms]
+Meanwhile, Misao-san continues to prepare to help Ochi-san using the[r]
+medical kit.[pcms]
 
 *3558|
 [fc]
-何か注射をするつもりのようだけど、[r]
-本当にワクチンが存在するんだろうか？[pcms]
+It seems like she's about to give an injection, but does a real[r]
+vaccine even exist?[pcms]
 
 *3559|
 [fc]
-美沙緒さんは懐から液体の入ったケースを取り出すと、[r]
-それを注射器に注入していく。[pcms]
+Misao-san takes out a case filled with liquid from her pocket and[r]
+starts injecting it into a syringe.[pcms]
 
 *3560|
 [fc]
-その液体の色にはどこか見覚えがあった。[r]
-僕らが散々、接種させられてきたものにそっくりだ。[pcms]
+The color of the liquid is familiar. It looks just like what we've[r]
+been forced to be vaccinated with all this time.[pcms]
 
 *3561|
 [fc]
-[ns]誠[nse]
-「それは、予防接種のワクチン……じゃないですよね」[pcms]
+[ns]Makoto[nse]
+"That's not the preventive vaccine, is it?"[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi08"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
@@ -419,47 +413,44 @@
 *3562|
 [fc]
 [vo_mis s="misao0125"]
-[ns]美沙緒[nse]
-「これは……試薬よ」[pcms]
+[ns]Misao[nse]
+"This is... a reagent."[pcms]
 
 *3563|
 [fc]
-美沙緒さんは少し迷ってから、[r]
-その液体を試薬だと説明した。[pcms]
+Misao-san hesitates a little before explaining that the liquid is a[r]
+reagent.[pcms]
 
 *3564|
 [fc]
-でも、そんなのおかしい。[r]
-試薬が存在するってことは……。[pcms]
+But that's strange. If there's a reagent, it means...[pcms]
 
 [bgm storage="BGM08"]
 ;//♪bgm08　シリアス：嫌疑
 
 *3565|
 [fc]
-[ns]誠[nse]
-「僕たちは予防接種を受けていたのに感染しました。[r]
-　その薬が試薬だということは、別のウイルスが存在している[r]
-　ことを知っていたということですか……？」[pcms]
+[ns]Makoto[nse]
+"We were infected despite receiving vaccinations. Does that mean you[r]
+knew there was another virus...?"[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi04"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *3566|
 [fc]
-美沙緒さんは手早く注射の準備を進めながら、[r]
-なにかを迷っているみたいだった。[pcms]
+While preparing the injection quickly, Misao-san seems to be[r]
+hesitating about something.[pcms]
 
 *3567|
 [fc]
-邪魔をしたくはないけれど……、[r]
-みんなの家族を、幸せを、二度も奪ったウイルスの情報を[r]
-黙って見過ごすことはできない。[pcms]
+I don't want to interfere... but I can't overlook information about a[r]
+virus that has taken away everyone's families and happiness twice.[pcms]
 
 *3568|
 [fc]
-[ns]誠[nse]
-「ウイルスは根絶されたと、政府は発表しています。[r]
-　でも、新型ウイルスの試薬は作られていた」[pcms]
+[ns]Makoto[nse]
+"The government has announced that the virus was eradicated. But a[r]
+reagent for a new virus was created."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na23"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -467,14 +458,14 @@
 *3569|
 [fc]
 [vo_nat s="natu0264"]
-[ns]夏都[nse]
-「おい、あんまり興奮するな」[pcms]
+[ns]Natsu[nse]
+"Hey, don't get too worked up."[pcms]
 
 *3570|
 [fc]
-[ns]誠[nse]
-「美沙緒さんは、その存在を知っていたんですね？[r]
-　今回の事態に関係があるんですか？」[pcms]
+[ns]Makoto[nse]
+"Misao-san, you knew about its existence, didn't you? Is it related to[r]
+the current situation?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi06"][ChrSetXY layer=3 x=60 y=0]
@@ -483,42 +474,40 @@
 *3571|
 [fc]
 [vo_mis s="misao0126"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *3572|
 [fc]
-美沙緒さんが越智さんに注射針を刺していく。[r]
-普通に静脈注射なのか、もしかしたら特殊な打ち方を[r]
-している可能性もあった。[pcms]
+Misao-san injects Ochi-san with the needle. It could be a normal[r]
+intravenous injection or perhaps a special technique.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi08"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *3573|
 [fc]
-そこまでの作業を終えると、[r]
-美沙緒さんは難しい顔をして下を向いてしまう。[pcms]
+After completing the procedure, Misao-san looks down with a troubled[r]
+expression.[pcms]
 
 *3574|
 [fc]
-なにも知らないという態度には見えなかった。[pcms]
+She doesn't seem to be feigning ignorance.[pcms]
 
 *3575|
 [fc]
-僕は腕をまくり上げて、美沙緒さんにバーコードを見せる。[pcms]
+I roll up my sleeve and show Misao-san my barcode.[pcms]
 
 *3576|
 [fc]
-[ns]誠[nse]
-「僕には聞く権利があります。いや、僕だけじゃない。[r]
-　越智さんも、みんなも、生きている人も死んだ人も、[r]
-　みんな聞く権利がある」[pcms]
+[ns]Makoto[nse]
+"I have the right to ask. Not just me. Ochi-san, everyone, those who[r]
+are alive and those who have died, we all have the right to know."[pcms]
 
 *3577|
 [fc]
-美沙緒さんは注射のあとに脱脂綿を張り付けながら、[r]
-何かを考えるように黙りこくる。[pcms]
+After the injection, Misao-san applies a cotton swab while silently[r]
+contemplating something.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -531,10 +520,9 @@
 
 *3578|
 [fc]
-[ns]男Ｂ[nse]
-「おいっ、入れてくれっ！　早くっ！　おいっ！[r]
-　なにしてるんだっ！　早くっ！　こいつ、[r]
-　ぐわああああああああっ！」[pcms]
+[ns]Man B[nse]
+"Hey, let me in! Hurry up! Hey! What are you doing?! Hurry up! This[r]
+guy, gwaahhhhh!"[pcms]
 
 [stopse buf=0]
 ;<SoundRun 2,Stop,ON,2000>
@@ -544,109 +532,105 @@
 
 *3579|
 [fc]
-いつの間にか、外から銃声が聞こえなくなっている。[r]
-男たちは全滅したのかも知れない。[pcms]
+Suddenly, I realize that I can no longer hear gunshots from outside.[r]
+Perhaps all the men have been wiped out.[pcms]
 
 *3580|
 [fc]
-もう問答を続けているような状況じゃなかった。[r]
-僕たちも早くしないと、逃げ場を失ってしまう。[pcms]
+It's no longer a situation where we can continue questioning. We need[r]
+to hurry or we'll lose our chance to escape.[pcms]
 
 *3581|
 [fc]
-美沙緒さんは静かに立ち上がると、[r]
-もう一度ラボに戻ってバッグを持って来た。[pcms]
+Misao-san quietly stands up and goes back into the lab to bring out a[r]
+bag.[pcms]
 
 *3582|
 [fc]
-そこにはＰＤＡとメモリが数枚入っている。[pcms]
+In it are several PDAs and memory cards.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi04"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3583|
 [fc]
 [vo_mis s="misao0127"]
-[ns]美沙緒[nse]
-「屋敷の裏手から港に出られるわ。[r]
-　港の桟橋に蒼いラインのボートがある。[r]
-　それで沖の孤島に逃げて」[pcms]
+[ns]Misao[nse]
+"You can get to the harbor from behind the mansion. There's a boat[r]
+with blue lines at the dock. Use it to escape to an offshore island."[pcms]
 
 *3584|
 [fc]
-[ns]誠[nse]
-「沖の孤島？」[pcms]
+[ns]Makoto[nse]
+"An offshore island?"[pcms]
 
 *3585|
 [fc]
 [vo_mis s="misao0128"]
-[ns]美沙緒[nse]
-「越智家の別荘があるの、[r]
-　落ち着いたら政府の人間に、そのＰＤＡとメモリを渡して。[r]
-　多分、大丈夫なはず」[pcms]
+[ns]Misao[nse]
+"There's a Ochi family's villa there. Once things settle down, hand[r]
+over the PDAs and memory cards to someone from the government. It[r]
+should be alright."[pcms]
 
 *3586|
 [fc]
-何が大丈夫なのかわからなかったけれど、[r]
-大事な物だということはわかった。[pcms]
+I didn't understand what would be alright, but I knew that it was[r]
+something important.[pcms]
 
 *3587|
 [fc]
-僕は落とさないように、バッグの持ち手を手首に通して[r]
-しっかりと確保する。[pcms]
+I thread the bag's handle through my wrist to make sure I don't drop[r]
+it and secure it tightly.[pcms]
 
 *3588|
 [fc]
 [vo_mis s="misao0129"]
-[ns]美沙緒[nse]
-「ボートは動かせる？」[pcms]
+[ns]Misao[nse]
+"Can you operate the boat?"[pcms]
 
 *3589|
 [fc]
-[ns]誠[nse]
-「やってみます」[pcms]
+[ns]Makoto[nse]
+"I'll give it a try."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3590|
 [fc]
-美沙緒さんは僕に鍵を渡しながら、[r]
-静かに微笑んだ。[pcms]
+As Misao-san hands me the keys, she smiles quietly.[pcms]
 
 *3591|
 [fc]
-この鍵を僕に渡すってことは……、[r]
-美沙緒さんは来ないってことだ。[pcms]
+By handing me these keys... it means Misao-san isn't coming with us.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3592|
 [fc]
 [vo_nat s="natu0265"]
-[ns]夏都[nse]
-「誠、ここでお別れだ」[pcms]
+[ns]Natsu[nse]
+"Makoto, this is where we part ways."[pcms]
 
 *3593|
 [fc]
-[ns]誠[nse]
-「そんなっ！　どうしてっ！」[pcms]
+[ns]Makoto[nse]
+"No way! Why?!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3594|
 [fc]
 [vo_nat s="natu0266"]
-[ns]夏都[nse]
-「出血が多すぎた、もう立つこともできない」[pcms]
+[ns]Natsu[nse]
+"I've lost too much blood, I can't even stand anymore."[pcms]
 
 *3595|
 [fc]
-そんな……そーいちや荒井だけじゃなく、[r]
-姉ちゃんまで……。[pcms]
+Not just Souichirou and Arai, but Onee-san too...[pcms]
 
 *3596|
 [fc]
-[ns]誠[nse]
-「つ、連れて行く！　姉ちゃんも越智さんもっ！」[pcms]
+[ns]Makoto[nse]
+"I'll take you with us! Onee-san and Ochi-san too!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na23"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [se buf=0 storage="seB001"]
@@ -658,25 +642,25 @@
 
 *3597|
 [fc]
-姉ちゃんは容赦なく僕の頬をぶっ叩いていた。[r]
-そして、すぐにきつく抱きしめてくる。[pcms]
+Onee-san slapped my cheek mercilessly. Then, she hugged me tightly[r]
+right away.[pcms]
 
 *3598|
 [fc]
-おっぱいに押しつけるみたいな、[r]
-呼吸もできない強烈なハグを……。[pcms]
+It was a strong hug that made it hard to breathe, as if she was[r]
+pressing me against her breasts...[pcms]
 
 *3599|
 [fc]
 [vo_nat s="natu0267"]
-[ns]夏都[nse]
-「お前はその子と生き残れ、[r]
-　そして、そのバッグの中身を[ruby text="しか"]然るべきところに届けろ」[pcms]
+[ns]Natsu[nse]
+"Survive with that girl, and make sure to deliver the contents of that[r]
+bag to the right place."[pcms]
 
 *3600|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Onee-san..."[pcms]
 
 ;//■イベントCG
 [evcg storage="natu_N002b"][trans_c cross time=300]
@@ -684,19 +668,18 @@
 *3601|
 [fc]
 [vo_nat s="natu0268"]
-[ns]夏都[nse]
-「泣いてる場合じゃねえだろ」[pcms]
+[ns]Natsu[nse]
+"This is no time to cry."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3602|
 [fc]
-姉ちゃんは僕を愛おしむようにキスをすると、[r]
-頭を撫でてきた。[pcms]
+Onee-san kissed me affectionately and then stroked my head.[pcms]
 
 *3603|
 [fc]
-こんなときに、そんな子供扱いするなんて……。[pcms]
+To treat me like a child at a time like this...[pcms]
 
 ;//■イベントCG
 [evcg storage="natu_N002c"][trans_c cross time=300]
@@ -707,9 +690,9 @@
 *3604|
 [fc]
 [vo_nat s="natu0269"]
-[ns]夏都[nse]
-「お前が子供だったのはこれで最後だ。[r]
-　男として、好きな女を守ってどこまでも行け」[pcms]
+[ns]Natsu[nse]
+"This is the last time you're a child. As a man, protect the woman you[r]
+love and go as far as you can."[pcms]
 
 
 ;//
@@ -724,8 +707,8 @@
 *3605|
 [fc]
 [vo_mis s="misao0130"]
-[ns]美沙緒[nse]
-「茜梨をお願いね……」[pcms]
+[ns]Misao[nse]
+"Please take care of Akari..."[pcms]
 
 
 ;//
@@ -739,8 +722,8 @@
 
 *3606|
 [fc]
-美沙緒さんは越智さんのおでこにキスをすると、[r]
-軽く髪を撫でて僕に微笑んだ。[pcms]
+Misao-san kissed Akari-san's forehead, stroked her hair lightly, and[r]
+smiled at me.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -752,13 +735,13 @@
 
 *3607|
 [fc]
-僕は気を失っている越智さんを背中に乗せてもらうと、[r]
-しっかり立ち上がる。[pcms]
+I had Akari-san placed on my back while she was unconscious, and I[r]
+stood up firmly.[pcms]
 
 *3608|
 [fc]
-ここからは、もう助けてくれる人なんていない。[r]
-僕が越智さんを守るんだ。[pcms]
+From here on out, there's no one else to help us. It's up to me to[r]
+protect Ochi-san.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 [se buf=0 storage="seA021"]
@@ -771,25 +754,25 @@
 
 *3609|
 [fc]
-後ろを振り返らずに扉を出ると、[r]
-すぐに感染者が襲いかかってきた。[pcms]
+Without looking back, I exit through the door, and immediately, the[r]
+infected attack.[pcms]
 
 *3610|
 [fc]
-動き自体は遅いから、[r]
-囲まれなければ余裕を持って避けることができる。[pcms]
+Their movements are slow, so as long as I'm not surrounded, I can[r]
+avoid them with ease.[pcms]
 
 [se buf=0 storage="seA017"]
 
 *3611|
 [fc]
-後ろから扉が閉まる音が聞こえてきた。[r]
-姉ちゃんと美沙緒さんは立て籠もるつもりなんだ。[pcms]
+I hear the door closing behind me. Onee-san and Misao-san plan to[r]
+barricade themselves inside.[pcms]
 
 *3612|
 [fc]
-そのうち自衛隊が来て救助されるかも知れない。[r]
-まだ、終わったわけじゃないんだ。[pcms]
+Maybe the Self-Defense Forces will come to rescue them. It's not over[r]
+yet.[pcms]
 
 [bg storage="BG13b"][trans_c blind_lr time=1000]
 ;不要？[wait_c time=1000]
@@ -798,35 +781,36 @@
 
 *3613|
 [fc]
-裏庭を突っ切ると、そこに小さな門を発見した。[r]
-この辺りまで来ると、もう感染者の姿はない。[pcms]
+As I cut through the backyard, I discover a small gate. By this area,[r]
+there are no more infected in sight.[pcms]
 
 ;//◆ＳＥ　扉を叩く音
 
 *3614|
 [fc]
-[ns]オズ[nse]
-「おいっ！　開けろっ！　何してんだっ！」[pcms]
+[ns]Oz[nse]
+"Hey! Open up! What are you doing?!"[pcms]
 
 *3615|
 [fc]
-黒服のボスが土蔵の扉を叩いている。[r]
-弾を使い切ったのか、銃を使う様子はなかった。[pcms]
+The boss in black is banging on the storehouse door. He seems to have[r]
+run out of bullets since he isn't using his gun.[pcms]
 
 *3616|
 [fc]
-その音につられているのか、僕を追っていた感染者まで[r]
-そちらの方に身体が向き始めている。[pcms]
+Perhaps attracted by the noise, even the infected that were chasing me[r]
+start to turn in that direction.[pcms]
 
 *3617|
 [fc]
-土蔵の周りに、ものすごい数の感染者が集まっていた。[r]
-黒服のボスは扉を叩きながら、感染者を蹴り飛ばして凌いでいる。[pcms]
+Around the storehouse, a tremendous number of infected have gathered.[r]
+The boss in black kicks them away while continuing to bang on the[r]
+door.[pcms]
 
 *3618|
 [fc]
-すると、どういうわけか土蔵の扉が中から開いた。[r]
-何をしているんだ！？[pcms]
+Then, for some reason, the storehouse door opens from the inside. What[r]
+are they doing?![pcms]
 
 ;//◆ＳＥ　銃声
 [se buf=0 storage="seC046"]
@@ -834,34 +818,33 @@
 
 *3619|
 [fc]
-その瞬間、ずしりと重い銃声が辺りに響き渡り、[r]
-すぐに扉が閉まった。[pcms]
+The moment it opens, a heavy gunshot rings out, and the door[r]
+immediately closes again.[pcms]
 
 *3620|
 [fc]
-きっと姉ちゃんだ。[r]
-万が一にもあいつに逃げられないように、[r]
-とどめを刺したんだ。[pcms]
+It must be Onee-san. To ensure that guy doesn't escape at any cost,[r]
+she finished him off.[pcms]
 
 *3621|
 [fc]
-[ns]オズ[nse]
-「畜生ぉぉっ！　俺のはらわたで窒息しやがれぇぇっ！」[pcms]
+[ns]Oz[nse]
+"Damn it! Choke on my guts!"[pcms]
 
 *3622|
 [fc]
-男が生きたまま感染者に引き裂かれていく。[r]
-あれは……村上さんだ。[pcms]
+The man is being torn apart by the infected while still alive.[r]
+That's... Murakami-san.[pcms]
 
 *3623|
 [fc]
-女性の感染者が男の股間に群がって、[r]
-それをもぎ取るような動作をしていた。[pcms]
+A female infected is crowding around the man's crotch, making motions[r]
+as if tearing something off.[pcms]
 
 *3624|
 [fc]
-思わず目を反らした僕は、[r]
-裏庭の門を開けて外に出て行く。[pcms]
+I involuntarily averted my eyes and opened the gate to the backyard to[r]
+go outside.[pcms]
 
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
 [bg storage="BG17b"][trans_c blind_lr time=1000]
@@ -870,46 +853,46 @@
 
 *3625|
 [fc]
-港は炎上する船と感染者、[r]
-乗り捨てられた車などで混乱を呈していた。[pcms]
+The port was in chaos with burning ships, infected people, and[r]
+abandoned cars everywhere.[pcms]
 
 *3626|
 [fc]
-でも、感染者の犠牲になっている人がいるようで、[r]
-特に僕を狙ってくる奴はいない。[pcms]
+But it seemed like there were victims of the infected, so none of them[r]
+were particularly targeting me.[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *3627|
 [fc]
-感染者を避けながら、港で蒼いラインのボートを見つけると、[r]
-僕はすぐにそれに乗り込んでいった。[pcms]
+While avoiding the infected, I found a boat with blue lines at the[r]
+port and immediately boarded it.[pcms]
 
 *3628|
 [fc]
-越智さんを寝かせると、[r]
-そのまま鍵を差し込んでエンジンを掛ける。[pcms]
+I laid Akari-san down, then inserted the key and started the engine.[pcms]
 
 *3629|
 [fc]
-計器類の意味はわからないし、[r]
-車のように足が来る位置にアクセルもブレーキもなかった。[pcms]
+I didn't understand the meaning of the instruments, and unlike a car,[r]
+there were no pedals for the accelerator or brake where my feet would[r]
+go.[pcms]
 
 *3630|
 [fc]
-アクセルはどれなんだ？[r]
-ハンドル以外に動かせるものを探していく。[pcms]
+Which one is the accelerator? I searched for anything else that could[r]
+be moved besides the steering wheel.[pcms]
 
 *3631|
 [fc]
-すると、肘をかけられるようになっているその先に、[r]
-レバーのような物が[ruby text="しつら"]設えられてあった。[pcms]
+Then, at the end where I could rest my elbow, there was something like[r]
+a lever set up.[pcms]
 
 *3632|
 [fc]
-これがアクセルなんじゃないだろうか。[r]
-自然な位置に肘をかけ、レバーを倒していく。[pcms]
+This must be the accelerator. I naturally placed my elbow on it and[r]
+pushed the lever down.[pcms]
 
 ;//ループ
 [se buf=1 storage="seC019" loop=true]
@@ -917,17 +900,17 @@
 
 *3633|
 [fc]
-[ns]誠[nse]
-「進んだっ！」[pcms]
+[ns]Makoto[nse]
+"It's moving!"[pcms]
 
 *3634|
 [fc]
-それさえわかってしまえば、[r]
-後は初めてプレイするゲームと同じだ。[pcms]
+Once I understood that, it was like playing a new game for the first[r]
+time.[pcms]
 
 *3635|
 [fc]
-僕は沖合に向けて、船を滑らせていった。[pcms]
+I glided the boat out towards the open sea.[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
@@ -948,17 +931,17 @@
 
 *3636|
 [fc]
-島が遠ざかっていく。[pcms]
+The island was getting farther away.[pcms]
 
 *3637|
 [fc]
-あちこちで起きている火災の煙や、[r]
-自衛隊のヘリコプターがよく見えた。[pcms]
+The smoke from various fires and the Self-Defense Force helicopters[r]
+were clearly visible.[pcms]
 
 *3638|
 [fc]
-南先輩や稼津央さんはどうしただろうか。[r]
-姉ちゃんと美沙緒さんは大丈夫なのか……。[pcms]
+I wonder how Senpai Minami and Hyuuga Natsu-san are doing. Are Onee-[r]
+san and Misao-san okay...?[pcms]
 
 [se buf=0 storage="seB063"]
 ;//◆ＳＥ　爆発（遠くで）
@@ -966,54 +949,52 @@
 
 *3639|
 [fc]
-越智本家を出てからどれくらい時間が経ったのか、[r]
-島で突然の大爆発が起きていた。[pcms]
+Since leaving the Ochi main house, some time had passed when suddenly[r]
+there was a huge explosion on the island.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
 
 *3640|
 [fc]
-あれは、港の奥。[r]
-越智本家の辺りだ……。[pcms]
+That's near the port. Around the Ochi main house area...[pcms]
 
 *3641|
 [fc]
-姉ちゃんと美沙緒さんは逃げたのか！？[r]
-どうして爆発なんか……。[pcms]
+Did Onee-san and Misao-san escape!? Why would there be an[r]
+explosion...?[pcms]
 
 *3642|
 [fc]
 [vo_aka s="akari0512"]
-[ns]茜梨[nse]
-「あ……ああっ……」[pcms]
+[ns]Akari[nse]
+"Ah...ahh..."[pcms]
 
 *3643|
 [fc]
-[ns]誠[nse]
-「越智さん……」[pcms]
+[ns]Makoto[nse]
+"Akari-san..."[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *3644|
 [fc]
-いつの間に目を覚ましたのか、[r]
-越智さんは島の方を見つめながら涙を流していた。[pcms]
+Before I knew it, Akari-san had woken up and was looking towards the[r]
+island with tears streaming down her face.[pcms]
 
 [se buf=0 storage="seB063"]
 ;//◆ＳＥ　爆発（遠くで）
 
 *3645|
 [fc]
-チアー部の友達も、そーいちも荒井も死んだ。[r]
-ターヤさんも村上さんも、他にもいっぱい……。[pcms]
+All my friends from the cheerleading squad, Souichi, Arai, Tarja-san,[r]
+Murakami-san, and so many others... they're dead.[pcms]
 
 *3646|
 [fc]
-僕は自然に溢れてくる涙を止めることができなかった。[r]
-でも、僕は生きている。[r]
-越智さんも……。[pcms]
+I couldn't stop the tears that naturally started to flow. But I'm[r]
+alive. And so is Akari-san...[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -1021,27 +1002,26 @@
 *3647|
 [fc]
 [vo_aka s="akari0513"]
-[ns]茜梨[nse]
-「ばい……ばい……」[pcms]
+[ns]Akari[nse]
+"Goodbye...goodbye..."[pcms]
 
 *3648|
 [fc]
-越智さんが大神島に向かって、手を振っていた。[r]
-誰に別れを告げているのか、それすら定かじゃない。[pcms]
+Akari-san was waving towards Oshima Island. It wasn't clear who she[r]
+was saying farewell to.[pcms]
 
 *3649|
 [fc]
-でも、越智さんは確実に元に戻る気配を見せていた。[pcms]
+But Akari-san definitely showed signs of returning to her former self.[pcms]
 
 *3650|
 [fc]
-ワクチンを打ったんだ。[r]
-越智さんは必ず治る……。[pcms]
+She had been vaccinated. Akari-san will surely recover...[pcms]
 
 *3651|
 [fc]
-僕は美沙緒さんの試薬の効果を信じて、[r]
-越智さんを抱きしめた。[pcms]
+I believed in the effects of Misao-san's reagent and hugged Akari-san[r]
+tightly.[pcms]
 
 ;不要？[wait_c time=1000]
 [sysbt_meswin clear]

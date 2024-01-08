@@ -21,13 +21,13 @@
 
 *3623|
 [fc]
-[ns]宗一郎[nse]
-「急げ、レディを待たせるな！　エントランスだぞ！」[pcms]
+[ns]Souichirou[nse]
+"Hurry up, don't keep the lady waiting! To the entrance!"[pcms]
 
 *3624|
 [fc]
-[ns]誠[nse]
-「わかってるよ！」[pcms]
+[ns]Makoto[nse]
+"I know, I know!"[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_le"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=130 y=0]
 [ChrSetEx layer=4 chbase="ta1_le"][ChrSetParts layer=4 chface="F1_ta06"][ChrSetXY layer=4 x=500 y=0][trans_c cross time=150]
@@ -36,63 +36,60 @@
 
 *3625|
 [fc]
-ドキドキしながら廊下を走っていくと、[r]
-玄関前に白いレオタードの二人が[r]
-話ながら立っているのが見えた。[pcms]
+My heart pounding, I ran down the hallway and saw two people in white[r]
+leotards standing and talking in front of the entrance.[pcms]
 
 *3626|
 [fc]
-他にそれらしき人影はない。[r]
-すると、二人組が、Satto☆さんとTaryanさんに、[r]
-間違いなさそうだ。[pcms]
+No other figures were in sight. Then, it must be Satto☆-san and[r]
+Taryan-san, the duo.[pcms]
 
 *3627|
 [fc]
-ひとりは、くりっとした黒い瞳が印象的な、[r]
-いかにも『島っ娘』というショートカットの子。[pcms]
+One of them is a girl with round black eyes and a short haircut that[r]
+screams "island girl."[pcms]
 
 *3628|
 [fc]
-そして、もう一人は……。[pcms]
+And the other one is...[pcms]
 
 *3629|
 [fc]
-[ns]宗一郎[nse]
-「ぬおうっ！　さっきの金髪美少女じゃないか！」[pcms]
+[ns]Souichirou[nse]
+"Whoa! Isn't that the blonde beauty from earlier!"[pcms]
 
 *3630|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3631|
 [fc]
-僕はビックリしてしまって声も出なかった。[r]
-本当に、この二人がSatto☆さんとTaryanさんなのか？[pcms]
+I was so surprised that I couldn't even speak. Are these two really[r]
+Satto☆-san and Taryan-san?[pcms]
 
 *3632|
 [fc]
-さっきの体操の子が今までずっと、[r]
-僕らとモンバスしてたって？[pcms]
+Was the girl from the gymnastics earlier really playing Monster Bash[r]
+with us all this time?[pcms]
 
 *3633|
 [fc]
-冗談もほどほどにして欲しい。[pcms]
+They should really limit their jokes.[pcms]
 
 *3634|
 [fc]
-そんなはずあるわけないと思いつつも、[r]
-あの二人が探している二人であるようにと、[r]
-僕の心が勝手に祈りの声を上げていた。[pcms]
+Despite thinking it couldn't possibly be true, my heart involuntarily[r]
+prayed that these two were indeed the ones we were looking for.[pcms]
 
 *3635|
 [fc]
-話しかけて違う人だったら、死ぬほど恥ずかしいんだけど、[r]
-確認しないわけにもいかない。[pcms]
+If I talk to them and they're the wrong people, I'll die of[r]
+embarrassment, but I can't just not confirm it.[pcms]
 
 *3636|
 [fc]
-僕とそーいちは、恐る恐るその二人に近づいていく。[pcms]
+Souichirou and I cautiously approached the two.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_le"][ChrSetParts layer=3 chface="F1_sa10"][ChrSetXY layer=3 x=130 y=0]
 [ChrSetEx layer=4 chbase="ta1_le"][ChrSetParts layer=4 chface="F1_ta10"][ChrSetXY layer=4 x=500 y=0][trans_c cross time=150]
@@ -101,31 +98,30 @@
 [fc]
 [vo_sat s="sato0001"]
 [ns]？？？[nse]
-「あ、もしかしてMa-kun.sとFatty.G？」[pcms]
+"Ah, could you be Ma-kun.s and Fatty.G?"[pcms]
 
 ;//怜
 
 *3638|
 [fc]
-[ns]宗一郎[nse]
-「そうでござるーっ！！！」[pcms]
+[ns]Souichirou[nse]
+"Indeed we are-!!!"[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_le"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=130 y=0][trans_c cross time=150]
 
 *3639|
 [fc]
-黒髪の女の子の方が、目をぱちくりとしながら[r]
-俺達に明るく挨拶してきてくれた。[pcms]
+The girl with black hair blinked her eyes and greeted us cheerfully.[pcms]
 
 *3640|
 [fc]
-この子がSatto☆さんで間違いないな。[r]
-すると、この金髪の子がTaryanさんか……。[pcms]
+This must be Satto☆-san, no doubt about it. Then, this blonde must be[r]
+Taryan-san...[pcms]
 
 *3641|
 [fc]
-まさか、二人が新体操をしているとは思わなかった。[r]
-しかも、一緒に合宿中だったとは。[pcms]
+I never imagined that the two of them would be doing rhythmic[r]
+gymnastics. And to think we were at the same training camp.[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_le"][ChrSetParts layer=4 chface="F1_ta01"][ChrSetXY layer=4 x=500 y=0][trans_c cross time=150]
 
@@ -133,19 +129,19 @@
 [fc]
 [vo_tay s="taja0001"]
 [ns]Taryan[nse]
-「…………」[pcms]
+"..."[pcms]
 
 ;//◆組み込み時にTaryanに変換。以下、名前が判明するまでネームチップこのまま
 
 *3643|
 [fc]
-昼間のことを覚えているのか、Taryanさんの顔が[r]
-みるみるうちに強ばっていくのがわかった。[pcms]
+Remembering what happened during the day, I could see Taryan-san's[r]
+face stiffen up in no time.[pcms]
 
 *3644|
 [fc]
-うわ、まだ怒ってるよ。[r]
-第一印象最悪から始まる関係なのか。[pcms]
+Wow, she's still mad. Is this relationship going to start off on the[r]
+worst first impression?[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_le"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=130 y=0][trans_c cross time=150]
 
@@ -153,19 +149,17 @@
 [fc]
 [vo_sat s="sato0002"]
 [ns]Satto☆[nse]
-「あはは、君がFatty.Gだよね。[r]
-　思ってた通りの人だ」[pcms]
+"Ahaha, you must be Fatty.G. You're just like I imagined."[pcms]
 
 ;//◆組み込み時にSatto☆に変換。以下、名前が判明するまでネームチップこのまま
 
 *3646|
 [fc]
-Satto☆さんは、なにはともあれ嬉しそうに[r]
-僕らを迎えてくれていた。[pcms]
+Satto☆-san seemed genuinely happy to welcome us regardless.[pcms]
 
 *3647|
 [fc]
-Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
+Taryan-san was staring at me with an icy gaze.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_le"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=130 y=0][trans_c cross time=150]
 
@@ -173,19 +167,19 @@ Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
 [fc]
 [vo_sat s="sato0003"]
 [ns]Satto☆[nse]
-「じゃあ、こっちの人がMa-kun.sだ」[pcms]
+"So, this person here must be Ma-kun.s"[pcms]
 
 *3649|
 [fc]
-[ns]誠[nse]
-「そうです、Satto☆さんがイメージ通りの人でビックリしたよ」[pcms]
+[ns]Makoto[nse]
+"Yes, I'm surprised that Satto☆-san is just like I imagined."[pcms]
 
 *3650|
 [fc]
 [vo_sat s="sato0004"]
 [ns]Satto☆[nse]
-「Ma-kun.sは、思っていたよりも格好いいって言うか、[r]
-　カワイイ系だよね？」[pcms]
+"Ma-kun.s is cooler than I thought, or should I say, more on the cute[r]
+side?"[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_le"][ChrSetParts layer=4 chface="F1_ta06"][ChrSetXY layer=4 x=500 y=0][trans_c cross time=150]
 
@@ -193,95 +187,93 @@ Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
 [fc]
 [vo_tay s="taja0002"]
 [ns]Taryan[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *3652|
 [fc]
-話を振られても、Taryanさんは僕を無視するように、[r]
-無言を貫き通していた。[pcms]
+Even when spoken to, Taryan-san continued to ignore me with her[r]
+silence.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_le"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=130 y=0][trans_c cross time=150]
 
 *3653|
 [fc]
 [vo_sat s="sato_z0001"]
-[ns]怜[nse]
-「あたしは[ruby text="むらかみ"][ch text="村上"] [ruby text="さと"][ch text="怜"]。よろしくね。[r]
-　こっちがTaryan。ターヤ・ポホヨネンていうの」[pcms]
+[ns]Sato[nse]
+"I'm Sato. Nice to meet you. This is Taryan. Tarja Pohjonen."[pcms]
 
 ;//ここからネームチップ怜に
 
 *3654|
 [fc]
-ポホヨネンって珍しい響きの名前だと思う。[r]
-どこの国の人なんだろうか。[pcms]
+Pohjonen is an unusual name; I wonder what country she's from.[pcms]
 
 *3655|
 [fc]
-[ns]宗一郎[nse]
-「日本語は通じるのですかな？」[pcms]
+[ns]Souichirou[nse]
+"Can she understand Japanese?"[pcms]
 
 *3656|
 [fc]
-[ns]誠[nse]
-「そりゃ、ボイスチャットしてるんだから通じるだろ」[pcms]
+[ns]Makoto[nse]
+"Of course she can, we've been voice chatting."[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_le"][ChrSetParts layer=4 chface="F1_ta01"][ChrSetXY layer=4 x=500 y=0][trans_c cross time=150]
 
 *3657|
 [fc]
 [vo_tay s="taja0003"]
-[ns]ターヤ[nse]
-「通じる」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I understand."[pcms]
 
 ;//ここからネームチップターヤに
 
 *3658|
 [fc]
-本当に、ゲームの中のTaryanさんそのままの人だ。[r]
-うまく付き合える自信がない上に、最悪の出会いをしてしまった。[pcms]
+She's really just like Taryan-san from inside the game. I'm not[r]
+confident about getting along well after such a terrible first[r]
+meeting.[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_le"][ChrSetParts layer=4 chface="F1_ta05"][ChrSetXY layer=4 x=500 y=0][trans_c cross time=150]
 
 *3659|
 [fc]
-ターヤさんはまだ、恨み足りないのか[r]
-僕を睨んだまま突っ立っている。[pcms]
+Tarja-san is still glaring at me as if her resentment isn't satisfied[r]
+yet.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3660|
 [fc]
-[ns]宗一郎[nse]
-「わたくしめが、東海の覇王こと、[r]
-　出渕宗一郎でございます」[pcms]
+[ns]Souichirou[nse]
+"I am Souichirou Izubuchi, known as the Overlord of Tokai."[pcms]
 
 *3661|
 [fc]
-そーいちはTaryanさんの様子に気が付かないように[r]
-モンバスの挨拶そのまま、うやうやしい礼で[r]
-自己紹介を始めていた。[pcms]
+Souichirou seemed oblivious to Taryan-san's mood and started[r]
+introducing himself with a very polite bow, just like in Monster Bash.[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_le"][ChrSetParts layer=5 chface="F2_sa03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3662|
 [fc]
 [vo_sat s="sato0006"]
-[ns]怜[nse]
-「やると思った～！　きっとこの島に来て、[r]
-　みんなやってるんだよ！　面白いよね！」[pcms]
+[ns]Sato[nse]
+"I knew you'd do it! Everyone who comes to this island ends up doing[r]
+it! It's fun, right?"[pcms]
 
 *3663|
 [fc]
-空気が読めないのか、わざと流しているのか、[r]
-二人が盛り上がっている。[pcms]
+Whether he can't read the mood or is doing it on purpose, the two of[r]
+them are getting excited.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3664|
 [fc]
-こうなったら、僕も挨拶しないわけにはいかないだろう。[pcms]
+I guess I have no choice but to introduce myself now that it's come to[r]
+this.[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_le"][ChrSetParts layer=3 chface="F1_ta06"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="sa1_le"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0]
@@ -289,56 +281,54 @@ Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
 
 *3665|
 [fc]
-[ns]誠[nse]
-「僕がMa-kun.sこと、中澤誠です。[r]
-　二人に会えて嬉しいんですけど……」[pcms]
+[ns]Makoto[nse]
+"I'm Makoto Nakazawa, also known as Ma-kun.s. I'm happy to meet you[r]
+both, but..."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_le"][ChrSetParts layer=5 chface="F1_sa03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3666|
 [fc]
 [vo_sat s="sato0007"]
-[ns]怜[nse]
-「あははっ、Ma-kun.sは現実でも自分のことを僕って言ってるよ、[r]
-　予想通りだね？」[pcms]
+[ns]Sato[nse]
+"Ahaha, Ma-kun.s even refers to himself as 'I' in real life, just as I[r]
+expected, right?"[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_le"][ChrSetParts layer=3 chface="F1_ta01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3667|
 [fc]
 [vo_tay s="taja0004"]
-[ns]ターヤ[nse]
-「私、戻る」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I'm going back."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_le"][ChrSetParts layer=5 chface="F1_sa10"][ChrSetXY layer=5 x=350 y=0]
 [chara_int_ layer=3][trans_c cross time=150]
 
 *3668|
 [fc]
-ターヤさんはプイッと顔を背ける、[r]
-昼にもやっていた仕草をすると、[r]
-踵を返して立ち去ってしまった。[pcms]
+Tarja-san turned her face away with a huff, repeating the gesture she[r]
+had done earlier in the day, and then she turned on her heel and left.[pcms]
 
 *3669|
 [fc]
-僕はその背中を見送ることしかできない。[pcms]
+I could only watch her back as she left.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so30b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3670|
 [fc]
-[ns]宗一郎[nse]
-「ふむ、なにか失礼をしましたかな？」[pcms]
+[ns]Souichirou[nse]
+"Hmm, did I say something rude?"[pcms]
 
 *3671|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3672|
 [fc]
-はい、僕が何かしました。[r]
-ごめんなさい……。[pcms]
+Yes, I did something. I'm sorry...[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_le"][ChrSetParts layer=5 chface="F1_sa03"][ChrSetXY layer=5 x=350 y=0]
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so01a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
@@ -346,115 +336,114 @@ Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
 *3673|
 [fc]
 [vo_sat s="sato0008"]
-[ns]怜[nse]
-「あんまり気にしないで？　気むずかしい子だからさ」[pcms]
+[ns]Sato[nse]
+"Don't worry about it too much? She's just a moody girl."[pcms]
 
 *3674|
 [fc]
-村上さんはいつものことだとばかりに、[r]
-あまり気にしていないようだった。[pcms]
+Murakami-san seemed not to care much, as if it was usual for her.[pcms]
 
 *3675|
 [fc]
-でも、自分に責任があることを知っている僕は、[r]
-ちょっと胸が痛い。[pcms]
+But knowing that I'm responsible makes my chest hurt a little.[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_le"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3676|
 [fc]
 [vo_sat s="sato0009"]
-[ns]怜[nse]
-「１８日のモンバスイベントは参加できそう？」[pcms]
+[ns]Sato[nse]
+"Can you participate in the Monster Bash event on the 18th?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3677|
 [fc]
-[ns]宗一郎[nse]
-「無論であります。１８日は合宿が休みだから、[r]
-　参加できることでしょうぞ」[pcms]
+[ns]Souichirou[nse]
+"Of course. The 18th is a day off from the training camp, so I should[r]
+be able to participate."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_le"][ChrSetParts layer=5 chface="F1_sa03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3678|
 [fc]
 [vo_sat s="sato0010"]
-[ns]怜[nse]
-「やった！　それまでにはターやんの機嫌も治るだろうし、[r]
-　楽しい思い出が出来るね」[pcms]
+[ns]Sato[nse]
+"Yay! By then, Taryan's mood should have improved, and we'll make some[r]
+fun memories."[pcms]
 
 *3679|
 [fc]
-僕は１８日の予定をまだ決めていなかった。[pcms]
+I haven't decided on my plans for the 18th yet.[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_le"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0]
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so02b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3680|
 [fc]
-姉ちゃんと過ごせる唯一の機会かも知れないし、[r]
-モンバスのイベントも待っている。[pcms]
+It might be my only chance to spend time with my sister, and the[r]
+Monster Bash event is waiting.[pcms]
 
 *3681|
 [fc]
-こうして、うじうじ考えているのが一番いけないんだけれど、[r]
-どうしたものだろうか。[pcms]
+Thinking about it like this is probably the worst thing to do, but[r]
+what should I do?[pcms]
 
 *3682|
 [fc]
 [vo_sat s="sato0011"]
-[ns]怜[nse]
-「この大神島全体を使ったラリーイベントをやるんだって。[r]
-　[ruby text="エムツー"][ch text="ＭＭＯ通信"]に記事が載ってたから楽しみ！」[pcms]
+[ns]Sato[nse]
+"They're going to have a rally event using the entire Oogami Island.[r]
+I'm excited because there was an article about it in MMO[r]
+Communication!"[pcms]
 
 ;//m:このボイス、エムツーで録ったかしら？
 
 *3683|
 [fc]
-[ns]宗一郎[nse]
-「地元民がいるなら、こちらが有利ですな！」[pcms]
+[ns]Souichirou[nse]
+"If we have a local resident with us, we'll have an advantage!"[pcms]
 
 *3684|
 [fc]
 [vo_sat s="sato0012"]
-[ns]怜[nse]
-「島の案内なら任せてよ～、[r]
-　裏道でも抜け道でもなんでも教えちゃうからね」[pcms]
+[ns]Sato[nse]
+"Leave the island tour to me~ I'll teach you all the shortcuts and[r]
+back alleys."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so01a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3685|
 [fc]
-[ns]宗一郎[nse]
-「どうしたんだ？」[pcms]
+[ns]Souichirou[nse]
+"What's wrong?"[pcms]
 
 *3686|
 [fc]
-[ns]誠[nse]
-「あ、いや……」[pcms]
+[ns]Makoto[nse]
+"Oh, no, it's just..."[pcms]
 
 *3687|
 [fc]
-そーいちが、変な顔をして俺に話を振ってきた。[pcms]
+Soichi gave me a strange look and started talking to me.[pcms]
 
 *3688|
 [fc]
-せっかく村上さんが話を盛り上げてくれているのに、[r]
-こんな態度は良くないな。[pcms]
+It's not good to act like this when Murakami-san is trying to liven up[r]
+the conversation.[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_le"][ChrSetParts layer=5 chface="F1_sa06"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3689|
 [fc]
 [vo_sat s="sato0013"]
-[ns]怜[nse]
-「ごめんね、ターやんのことでしょ？」[pcms]
+[ns]Sato[nse]
+"Sorry about Taryan, right?"[pcms]
 
 *3690|
 [fc]
-[ns]誠[nse]
-「あ、いや、違うんだけど……」[pcms]
+[ns]Makoto[nse]
+"Ah, no, that's not it but..."[pcms]
 
 ;//m:笑顔で申し訳なさそうな顔は無かったので修正
 
@@ -462,104 +451,100 @@ Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
 
 *3691|
 [fc]
-村上さんが申し訳なさそうな顔をしている。[pcms]
+Murakami-san had a sorry look on her face.[pcms]
 
 *3692|
 [fc]
-それもあるんだけど、それだけじゃない。[r]
-なんと言えばいいのかわからなくて、[r]
-僕は一人オロオロとしていた。[pcms]
+That was part of it, but not all. Not knowing what to say, I was just[r]
+flustered on my own.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so03a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3693|
 [fc]
-[ns]宗一郎[nse]
-「大丈夫、みんなで盛り上げていけば、[r]
-　ターヤさんも乗ってくるさ」[pcms]
+[ns]Souichirou[nse]
+"It's okay, if we all get excited together, Taryan will join in too."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_le"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3694|
 [fc]
 [vo_sat s="sato0014"]
-[ns]怜[nse]
-「そうそう、もう短くない付き合いなんだし」[pcms]
+[ns]Sato[nse]
+"Exactly, we've been acquainted for more than a short while now."[pcms]
 
 *3695|
 [fc]
-確かに、モンバスでパーティーを組むようになってから、[r]
-結構月日が経っている。[pcms]
+Indeed, quite some time has passed since we started forming parties in[r]
+Monster Bash.[pcms]
 
 *3696|
 [fc]
-ときには、揉めてしまうこともあったけれど、[r]
-なんとかやってこられた。[pcms]
+Sometimes we had disagreements, but somehow we've managed to get by.[pcms]
 
 *3697|
 [fc]
-ターヤさんとも仲直りできるかも知れない。[pcms]
+I might be able to reconcile with Taryan-san.[pcms]
 
 *3698|
 [fc]
 [vo_aka s="akari0100"]
-[ns]茜梨[nse]
-「あ、あの……中澤先輩？」[pcms]
+[ns]Akari[nse]
+"Um... Nakazawa-senpai?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3699|
 [fc]
-[ns]誠[nse]
-「え、あ、越智さん？」[pcms]
+[ns]Makoto[nse]
+"Eh, oh, Ochi-san?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3700|
 [fc]
-僕が振り返ると、そこには少し戸惑っているような様子の[r]
-越智さんが立ちすくんでいた。[pcms]
+When I turned around, there stood Ochi-san, looking a bit bewildered.[pcms]
 
 *3701|
 [fc]
-僕とそーいちが、知らない女の子と仲良さそうにしているから、[r]
-話しかけにくかったのかも知れない。[pcms]
+Maybe she found it hard to approach because Soichi and I seemed[r]
+friendly with a girl she didn't know.[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_le"][ChrSetParts layer=5 chface="F2_sa03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3702|
 [fc]
 [vo_sat s="sato0015"]
-[ns]怜[nse]
-「すごーい、いかにも東京って感じのかわいい子だね」[pcms]
+[ns]Sato[nse]
+"Wow, she's super cute and totally has that Tokyo vibe."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3703|
 [fc]
 [vo_aka s="akari0101"]
-[ns]茜梨[nse]
-「いえ、実家はこっちですので……」[pcms]
+[ns]Akari[nse]
+"No, my family home is actually around here..."[pcms]
 
 *3704|
 [fc]
-さすが、３６０度に仲良くしましょう光線を発射している[r]
-村上さんは、すぐ越智さんに話しかけていた。[pcms]
+As expected, Sato-san, who emits a 360-degree friendship ray, was[r]
+already talking to Ochi-san.[pcms]
 
 *3705|
 [fc]
-僕らの知り合いだと悟った瞬間にこれだから、[r]
-物怖じするなんてことは無い人なんだろう。[pcms]
+The moment she realized we were acquaintances, it's clear she's not[r]
+the type to be intimidated.[pcms]
 
 *3706|
 [fc]
-[ns]誠[nse]
-「えーと、知り合いの村上怜さん」[pcms]
+[ns]Makoto[nse]
+"Uh, this is an acquaintance of mine, Murakami Sato-san."[pcms]
 
 *3707|
 [fc]
-[ns]誠[nse]
-「えーと、後輩の越智茜梨さん」[pcms]
+[ns]Makoto[nse]
+"Uh, and this is my junior, Ochi Akari-san."[pcms]
 
 ;//m:あとで茜梨に関係を説明するシーンあったかな？
 ;//「付き合いが長い」って盛り上がったばかりで「知り合い」はちょっと冷たい気がするので
@@ -572,84 +557,81 @@ Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
 *3708|
 [fc]
 [vo_sat s="sato0016"]
-[ns]怜[nse]
-「よろしくね、茜梨ちゃん」[pcms]
+[ns]Sato[nse]
+"Nice to meet you, Akari-chan."[pcms]
 
 *3709|
 [fc]
-[ns]誠[nse]
-「こっちが、後輩の越智茜梨さんだよ」[pcms]
+[ns]Makoto[nse]
+"This is my junior, Ochi Akari-san."[pcms]
 
 *3710|
 [fc]
 [vo_aka s="akari0102"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「あの、よろしくお願いします……、[r][ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
-　じゃなくて、もう夕方の練習が始まりますよ？」[pcms]
+"Instead of that, isn't it time for evening practice to start?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so26a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3711|
 [fc]
-[ns]宗一郎[nse]
-「なぬ、思ったより早いですな」[pcms]
+[ns]Souichirou[nse]
+"What, it's starting earlier than I thought."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3712|
 [fc]
-越智さんは僕たちが遅刻しないように、[r]
-わざわざ呼びに来てくれたらしい。[pcms]
+It seems Ochi-san came all the way here to make sure we wouldn't be[r]
+late.[pcms]
 
 *3713|
 [fc]
-ついさっき、あんなことがあったばかりなのに……、[r]
-許してくれてるのかな？[pcms]
+Even though that incident just happened a little while ago... I wonder[r]
+if she's forgiven us?[pcms]
 
 *3714|
 [fc]
-食堂の方を見ると、エントランスホールを抜けて、[r]
-体育館に移動している鶯谷学園の面々が見えていた。[pcms]
+Looking towards the cafeteria, I could see the members of Uguisudani[r]
+Academy passing through the entrance hall and moving to the gymnasium.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3715|
 [fc]
-[ns]宗一郎[nse]
-「ありがとうございます姫、[r]
-　このご恩は一生忘れませんぞ」[pcms]
+[ns]Souichirou[nse]
+"Thank you, princess. I will never forget this kindness."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_le"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=130 y=0][trans_c cross time=150]
 
 *3716|
 [fc]
 [vo_sat s="sato0017"]
-[ns]怜[nse]
-「そーいち君って、ずっとそういうキャラなんだね。[r]
-　ちょっと尊敬しちゃう！」[pcms]
+[ns]Sato[nse]
+"Soichi-kun, you've always had that character, huh? I'm a bit in awe!"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so03b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3717|
 [fc]
-[ns]宗一郎[nse]
-「村上さんには、とても適いませんとも」[pcms]
+[ns]Souichirou[nse]
+"I am indeed unworthy of Murakami-san's praise."[pcms]
 
 *3718|
 [fc]
-この二人は波長が合うらしい。[r]
-ゲームしてるときから、なんとなくそんな気はしてた。[pcms]
+These two seem to be on the same wavelength. I had a feeling about[r]
+this when we were playing games.[pcms]
 
 *3719|
 [fc]
-そーいちのキャラを作るような話し方と、[r]
-誰にでも明るく接する村上さんには、[r]
-共通点があるんだろう。[pcms]
+It must be Souichirou's character-building way of speaking and[r]
+Murakami-san's brightness towards everyone that they have in common.[pcms]
 
 *3720|
 [fc]
-[ns]誠[nse]
-「ごめんね、もう行かないと」[pcms]
+[ns]Makoto[nse]
+"Sorry, we really have to go now."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so02a"][ChrSetXY layer=4 x=640 y=0]
 [ChrSetEx layer=3 chbase="sa1_le"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=130 y=0][trans_c cross time=150]
@@ -657,34 +639,33 @@ Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
 *3721|
 [fc]
 [vo_sat s="sato0018"]
-[ns]怜[nse]
-「あたしたちは、もう上がりなの。[r]
-　実は晩ご飯がまだで、お腹空いてるから早く帰らないと～」[pcms]
+[ns]Sato[nse]
+"We're heading out now. Actually, we haven't had dinner yet and I'm[r]
+starving, so we need to get back quickly"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3722|
 [fc]
 [vo_aka s="akari0103"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *3723|
 [fc]
-明るく振る舞いながら笑みを浮かべる村上さんを、[r]
-越智さんが複雑な表情で見ている。[pcms]
+Murakami-san kept her smile while acting cheerfully, and Ochi-san[r]
+watched her with a complex expression.[pcms]
 
 *3724|
 [fc]
-こんな顔をする越智さんは、[r]
-ちょっと珍しい気がした。[pcms]
+Seeing Ochi-san make such a face felt a bit unusual.[pcms]
 
 *3725|
 [fc]
 [vo_sat s="sato_z0002"]
-[ns]怜[nse]
-「今夜、一応あたしのＩＤでキャンプ用意しておくから。[r]
-　疲れてなかったらいつもの時間に集合ね」[pcms]
+[ns]Sato[nse]
+"Tonight, I'll set up the camp under my ID. If you're not too tired,[r]
+let's meet at the usual time."[pcms]
 
 ;//m:コテージをキャンプで収録しなおす
 
@@ -692,17 +673,17 @@ Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
 
 *3726|
 [fc]
-[ns]宗一郎[nse]
-「アイアイサー！　了解したでござる！」[pcms]
+[ns]Souichirou[nse]
+"Aye aye sir! Understood!"[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_le"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=130 y=0][trans_c cross time=150]
 
 *3727|
 [fc]
 [vo_sat s="sato0020"]
-[ns]怜[nse]
-「パスワードはいつものだから、[r]
-　それじゃあね、茜梨ちゃんもばいばーい」[pcms]
+[ns]Sato[nse]
+"The password is the usual one. So then, see you later, Akari-chan,[r]
+bye-bye!"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so02a"][ChrSetXY layer=4 x=640 y=0]
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj18"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -710,103 +691,104 @@ Taryanさんは、凍てつく視線で僕を真っ直ぐ見据えている。[pcms]
 *3728|
 [fc]
 [vo_aka s="akari0104"]
-[ns]茜梨[nse]
-「あ、はい、さようなら……」[pcms]
+[ns]Akari[nse]
+"Ah, yes, goodbye..."[pcms]
 
 [chara_int_ layer=3][trans_c cross time=150]
 
 *3729|
 [fc]
-村上さんは最後まで笑顔を崩さず、[r]
-嵐のように去って行ってしまった。[pcms]
+Murakami-san kept her smile until the end and left like a storm.[pcms]
 
 *3730|
 [fc]
-なんとなく、村上さんの育った環境が[r]
-見えてくるような気がした。[pcms]
+I felt like I could catch a glimpse of the environment Murakami-san[r]
+grew up in.[pcms]
 
 *3731|
 [fc]
-大家族で兄妹も多くて……、[r]
-なんて想像してる暇はないんだけど。[pcms]
+With a large family and many siblings... but there's no time for such[r]
+imaginings.[pcms]
 
 *3732|
 [fc]
-[ns]誠[nse]
-「ごめん、待たせちゃったね」[pcms]
+[ns]Makoto[nse]
+"Sorry for making you wait."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3733|
 [fc]
 [vo_aka s="akari0105"]
-[ns]茜梨[nse]
-「いえ……大事なお話でしたか？」[pcms]
+[ns]Akari[nse]
+"No... Was it an important conversation?"[pcms]
 
 *3734|
 [fc]
-[ns]誠[nse]
-「あー、うん、前から約束してたんだ」[pcms]
+[ns]Makoto[nse]
+"Ah, yeah, it was something we promised a while back."[pcms]
 
 *3735|
 [fc]
-越智さんはあんまり細かく聞いては来なかった。[pcms]
+Ochi-san didn't ask too many details.[pcms]
 
 *3736|
 [fc]
-感覚的に、根掘り葉掘り聞くべきことじゃないと[r]
-思っているんだろう。[pcms]
+Intuitively, she must think it's not something she should pry into too[r]
+much.[pcms]
 
 *3737|
 [fc]
-こういう、空気の読める人の方が、[r]
-本当は人との付き合いが上手いんだろうな。[pcms]
+People who can read the atmosphere like her are probably really good[r]
+at dealing with others.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so03a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3738|
 [fc]
-[ns]宗一郎[nse]
-「さあ、食事とプライベートが終わったら、[r]
-　残るは仕事だ仕事！」[pcms]
+[ns]Souichirou[nse]
+"Now that our meal and private time are over, all that's left is work,[r]
+work!"[pcms]
 
 *3739|
 [fc]
-[ns]誠[nse]
-「じゃあ、行こうか」[pcms]
+[ns]Makoto[nse]
+"Then, shall we go?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3740|
 [fc]
 [vo_aka s="akari0106"]
-[ns]茜梨[nse]
-「はい」[pcms]
+[ns]Akari[nse]
+"Yes."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3741|
 [fc]
-グラウンドに夜間照明の設備があったから、[r]
-サッカー部はグラウンドかも知れない。[pcms]
+The soccer club might be on the field since there are night lights[r]
+installed on the ground.[pcms]
 
 *3742|
 [fc]
-越智さんは、引き続き体育館で濃密な練習の時間だろう。[pcms]
+Ochi-san will probably continue with intense practice in the[r]
+gymnasium.[pcms]
 
 *3743|
 [fc]
-あの、金髪の子。[r]
-ターヤさんとは最悪の出会い方をしてしまったけれど、[r]
-村上さんとは上手くやってけると思う。[pcms]
+That blonde girl, Tarja-san... Although we had the worst first[r]
+encounter, I think I can get along well with Murakami-san.[pcms]
 
 *3744|
 [fc]
-ゲームと現実で、そんなに性格って違わないものなんだな。[pcms]
+It's strange how personalities don't really differ much between games[r]
+and reality.[pcms]
 
 *3745|
 [fc]
-妙なことに納得しながら、僕は体育館への道を急いで行った。[pcms]
+While coming to terms with this odd realization, I hurried on my way[r]
+to the gymnasium.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

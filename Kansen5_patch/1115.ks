@@ -29,53 +29,53 @@
 *2033|
 [fc]
 [vo_stk s="satuki0169"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2034|
 [fc]
-わたしは、中澤君たちを見殺しにした。[pcms]
+"I abandoned Nakazawa-kun and the others."[pcms]
 
 *2035|
 [fc]
-色々理由を付けているけれど、[r]
-つまるところは、恐いだけなんじゃないだろうか。[pcms]
+"I've been making various excuses, but when it comes down to it, maybe[r]
+I'm just scared."[pcms]
 
 *2036|
 [fc]
-みんなは立派だと思う。[r]
-自分の命を犠牲にして、他人を助けて……。[pcms]
+"I think everyone else is admirable. Sacrificing their own lives to[r]
+save others..."[pcms]
 
 *2037|
 [fc]
-西君はいい人だと思っていたけれど、[r]
-ここまでだとは思わなかった。[pcms]
+"I thought Nishi-kun was a good person, but I never imagined he would[r]
+go this far."[pcms]
 
 *2038|
 [fc]
-中澤君も、４年前の地獄を生き延びた人なのに、[r]
-越智さんを助けるため、またそこに飛び込んでいる。[pcms]
+"Nakazawa-kun too, despite having survived the hell from four years[r]
+ago, he's diving back into it to save Ochi-san."[pcms]
 
 *2039|
 [fc]
-出渕くんも荒井君も、気持ちよく死ねるのかも知れない。[r]
-誰を恨むでもなく、未練を残すでもなく……。[pcms]
+"Izubuchi-kun and Arai-kun might even die contentedly. Without blaming[r]
+anyone, without leaving any regrets..."[pcms]
 
 *2040|
 [fc]
 [vo_stk s="satuki0170"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2041|
 [fc]
-喉が渇いたわたしは、何か飲み物を探しに[r]
-レストランの方に移動していった。[pcms]
+"Thirsty, I went looking for something to drink and moved towards the[r]
+restaurant."[pcms]
 
 *2042|
 [fc]
-通りに面したコンビニには行きたくない。[r]
-どうせ、人がたくさんいるだろうし……。[pcms]
+"I didn't want to go to the convenience store facing the street. It's[r]
+probably crowded with people anyway..."[pcms]
 
 ;//〆黒画面（感染３のＢＧ流用）
 ;//#_ブラックアウト
@@ -83,33 +83,31 @@
 
 *2043|
 [fc]
-レストランに入ると、そこはやっぱり[r]
-人がまばらにしか存在していなかった。[pcms]
+"When I entered the restaurant, as expected, there were only a sparse[r]
+number of people there."[pcms]
 
 *2044|
 [fc]
-注文ができるわけでもないレストランに、[r]
-用がある人も少ないだろう。[pcms]
+"In a restaurant where you can't place orders, there would be few[r]
+people with any business there."[pcms]
 
 *2045|
 [fc]
-わたしは、厨房の奥、バックヤードを目指して[r]
-進んで行く。[pcms]
+"I headed towards the back of the kitchen, aiming for the backyard."[pcms]
 
 *2046|
 [fc]
-冷えてはいないだろうけれど、[r]
-なにか飲み物があるはずだ。[pcms]
+"It might not be chilled, but there should be something to drink."[pcms]
 
 *2047|
 [fc]
-すると、奥の方からなにか人の話し声が聞こえてきた。[r]
-どうやら先客が居るらしい。[pcms]
+"Then, from the back, I could hear some people talking. It seems there[r]
+are already customers here."[pcms]
 
 *2048|
 [fc]
-面倒だなと思いつつ、どんな人たちがいるのか、[r]
-耳をそばだててみる。[pcms]
+"Feeling annoyed, I strained my ears to listen to what kind of people[r]
+were there."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
@@ -117,17 +115,18 @@
 
 *2049|
 [fc]
-[ns]男Ａ[nse]
-「オズ……潮時……」[pcms]
+[ns]Man A[nse]
+"Oz... it's time..."[pcms]
 
 *2050|
 [fc]
-どうも、オズ一尉という人物が、奥にいる男たちに[r]
-潮時だという連絡をしてきたらしい。[pcms]
+"Apparently, a person named Lieutenant Oz was informing the men in the[r]
+back that it was time."[pcms]
 
 *2051|
 [fc]
-もう少し近寄って、その話をじっくり聞いてみる。[pcms]
+"I moved a little closer to listen in on their conversation more[r]
+carefully."[pcms]
 
 ;//<SoundRun 0,Stop,ON>
 ;//<SoundRun 0,Stop,ON,2000>
@@ -135,128 +134,126 @@
 
 *2052|
 [fc]
-[ns]男Ａ[nse]
-「運んできた標本も、混乱してるうちにどこかに行っちまった。[r]
-　あの女が持っているデータやサンプルを奪って、[r]
-　島を脱出しよう」[pcms]
+[ns]Man A[nse]
+"The specimens we brought have gone missing in the chaos. We should[r]
+steal the data and samples that woman has and escape the island."[pcms]
 
 *2053|
 [fc]
-[ns]男Ｂ[nse]
-「向こうと合流する気か？」[pcms]
+[ns]Man B[nse]
+"You planning to meet up with them?"[pcms]
 
 *2054|
 [fc]
-[ns]男Ａ[nse]
-「出て行ったガキやビッチがどうなったか知らないが、[r]
-　俺たちも出て行く準備をした方がいい」[pcms]
+[ns]Man A[nse]
+"I don't know what happened to the brats and bitches that left, but we[r]
+should prepare to get out too."[pcms]
 
 *2055|
 [fc]
-なんの話をしているんだろう。[r]
-どうも、あの稼津央という部下の黒服らしいけど……。[pcms]
+"What are they talking about? They seem to be the black-suited[r]
+subordinates of that Kazutsuo..."[pcms]
 
 *2056|
 [fc]
-[ns]男Ｃ[nse]
-「行くなら早く連絡しないとな、[r]
-　少し待ってもらうかした方がいい」[pcms]
+[ns]Male C[nse]
+"If we're going, we need to contact them soon, or maybe we should ask[r]
+them to wait a bit."[pcms]
 
 *2057|
 [fc]
-[ns]男Ｂ[nse]
-「向こうに行くのか……」[pcms]
+[ns]Man B[nse]
+"You're going over there...?"[pcms]
 
 *2058|
 [fc]
-[ns]男Ａ[nse]
-「行かなきゃ大金にありつけないかもしれん、[r]
-　あのメガネの若大将から貰えるギャラなんて、[r]
-　たかが知れている」[pcms]
+[ns]Man A[nse]
+"If we don't go, we might miss out on a big payday. The salary we'd[r]
+get from that glasses-wearing young boss is peanuts."[pcms]
 
 *2059|
 [fc]
-[ns]男Ｂ[nse]
-「感染者がたくさんいるぞ？」[pcms]
+[ns]Man B[nse]
+"There are a lot of infected people there, right?"[pcms]
 
 *2060|
 [fc]
-[ns]男Ａ[nse]
-「あんなウスノロの、みっともねえ奴らなんか敵じゃない。[r]
-　格好付けてくたばった、扉のガキとは違う」[pcms]
+[ns]Man A[nse]
+"Those weaklings are no match for us. They're nothing like that kid[r]
+who died trying to look cool at the door."[pcms]
 
 *2061|
 [fc]
-扉のガキ……西君のことか。[pcms]
+"The kid at the door... he must be talking about Nishi-kun."[pcms]
 
 [bgm storage="BGM15"]
 ;//♪bgm15　シリアス：嫌疑：思考
 
 *2062|
 [fc]
-あの女というのは美沙緒さんのことだろうか。[r]
-データやサンプルと言っているから、[r]
-間違いないだろう。[pcms]
+"The woman they're talking about must be Maeda Misao-san. Since they[r]
+mentioned data and samples, it must be her."[pcms]
 
 *2063|
 [fc]
-この島で研究職に就いている人間が、[r]
-そうそう居るとも思えない。[pcms]
+"It's unlikely that there are many other people employed in research[r]
+on this island."[pcms]
 
 *2064|
 [fc]
-[ns]男Ｃ[nse]
-「そういや、あのメガネの若大将はどうする？」[pcms]
+[ns]Male C[nse]
+"By the way, what about that glasses-wearing young boss?"[pcms]
 
 *2065|
 [fc]
-[ns]男Ｂ[nse]
-「どうするって……」[pcms]
+[ns]Man B[nse]
+"What about him...?"[pcms]
 
 *2066|
 [fc]
-[ns]男Ｃ[nse]
-「このまま俺たちが消えたら、あいつから話が広がって、[r]
-　これからの仕事がやりにくくなる」[pcms]
+[ns]Male C[nse]
+"If we disappear like this, word will spread from him, and it'll make[r]
+our future work difficult."[pcms]
 
 *2067|
 [fc]
-[ns]男Ａ[nse]
-「なら、決まりだな」[pcms]
+[ns]Man A[nse]
+"Then it's decided."[pcms]
 
 *2068|
 [fc]
-メガネの若大将……稼津央さんのことか。[r]
-話の流れからして、殺すつもりらしい。[pcms]
+"The glasses-wearing young boss... must be Kazutsuo-san. From the flow[r]
+of the conversation, it seems they intend to kill him."[pcms]
 
 *2069|
 [fc]
-男たちが、意思を統一して他の仲間に連絡を付けはじめた。[r]
-これは、どういうことなのか考える。[pcms]
+"The men started coordinating their intentions and began contacting[r]
+their other comrades. I ponder what this all means."[pcms]
 
 *2070|
 [fc]
-稼津央さんを殺して口封じをした上に、[r]
-美沙緒さんの研究成果を奪って逃げると言っているのか。[pcms]
+"They're talking about silencing Kazutsuo-san and stealing Maeda-san's[r]
+research results before fleeing."[pcms]
 
 *2071|
 [fc]
-それはつまり、美沙緒さんのところに向かっている、[r]
-みんなだって無事では済まないと言うことになる。[pcms]
+"That means everyone heading towards Maeda-san's location won't get[r]
+away unscathed either."[pcms]
 
 *2072|
 [fc]
-でも、ここで危険を冒すわけにはいかない。[r]
-それじゃ、ここに残った意味がない。[pcms]
+"But I can't afford to take risks here. Otherwise, there would be no[r]
+point in me staying behind."[pcms]
 
 *2073|
 [fc]
-下手に動くと、こいつらに殺される可能性がある。[r]
-感染者から逃げて、こんな男たちに殺されてどうするのか。[pcms]
+If I act carelessly, there's a chance these guys will kill me. What's[r]
+the point of escaping from the infected only to be killed by men like[r]
+these?[pcms]
 
 *2074|
 [fc]
-わたしは……。[pcms]
+I...[pcms]
 
 ;//*_選択肢
 ;//1,関わるのはよそう   　ラベルthrough_ozu_mens　へ
@@ -264,14 +261,14 @@
 
 ;	[link target=*through_ozu_mens]関わるのはよそう[endlink]
 ;	[link target=*call_kaduo]稼津央さんに知らせよう[endlink]
-;	[s]
+;[pcms]
 
 *SEL12|関わるのはよそう／稼津央さんに知らせよう
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '関わるのはよそう'"]
-[eval exp="f.seltext06 = '稼津央さんに知らせよう'"]
+[eval exp="f.seltext04 = 'Let\'s not get involved'"]
+[eval exp="f.seltext06 = 'Let\'s inform Katatsu-san'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -311,31 +308,30 @@
 
 *2075|
 [fc]
-やめよう。[r]
-今更格好を付ける理由もないはずだ……。[pcms]
+Let's stop. There's no reason to put on airs now...[pcms]
 
 *2076|
 [fc]
-男たちがバックヤードから出てこようとしている。[r]
-わたしは辺りを見回して、隠れられるところを探した。[pcms]
+The men are about to come out from the backyard. I look around for a[r]
+place to hide.[pcms]
 
 *2077|
 [fc]
 [vo_stk s="satuki0171"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2078|
 [fc]
-調理台の影に隠れて身体を丸くする。[r]
-これだけ薄暗ければ、見付かる心配はない。[pcms]
+I curl up in the shadow of the kitchen counter. It's dark enough that[r]
+I shouldn't be found.[pcms]
 
 ;//◆ＳＥ　複数の足音
 
 *2079|
 [fc]
-複数の足音が通り過ぎていく。[r]
-力強い大人の男の足音だ。[pcms]
+Multiple footsteps pass by. They are the strong footsteps of adult[r]
+men.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -346,29 +342,28 @@
 
 *2080|
 [fc]
-わたしは頭を抱えて目を閉じ、耳を塞いで、[r]
-なにもわからなくなった。[pcms]
+I hold my head, close my eyes, and cover my ears, becoming oblivious[r]
+to everything.[pcms]
 
 *2081|
 [fc]
-わたしには関係がない。[r]
-どうしようもなかった。[pcms]
+It has nothing to do with me. There was nothing I could do.[pcms]
 
 *2082|
 [fc]
-わたしの家族を奪った連中の子供や孫がどうなろうとも、[r]
-関係がない。[pcms]
+It doesn't concern me what happens to the children or grandchildren of[r]
+those who took my family from me.[pcms]
 
 *2083|
 [fc]
 [vo_stk s="satuki0172"]
-[ns]彩月[nse]
-「ううっ……」[pcms]
+[ns]Satsuki[nse]
+"Ugh..."[pcms]
 
 *2084|
 [fc]
-自然に込み上げてくる涙をそのままにして、[r]
-わたしはその場で丸くなり続けていた。[pcms]
+I let the tears that naturally well up continue to fall as I remain[r]
+curled up on the spot.[pcms]
 
 ;//〆フラグthrough_ozu_mens　成立
 [eval exp="f.l_through_ozu_mens = 1"]
@@ -385,28 +380,26 @@
 
 *2085|
 [fc]
-急いで知らせなくちゃ。[r]
-みんな……殺されちゃう。[pcms]
+I have to hurry and let them know. Everyone... they'll be killed.[pcms]
 
 *2086|
 [fc]
-話が本当なら、狙われているのは稼津央さんだけじゃない。[r]
-美沙緒さんだって無事じゃ済まないはずだ。[pcms]
+If what I heard is true, then it's not just Kazutsuo-san who's being[r]
+targeted. Misao-san won't get off unscathed either.[pcms]
 
 *2087|
 [fc]
-越智さんの実家に向かっているみんなだって……、[r]
-取りあえず稼津央さんに知らせよう。[pcms]
+Everyone heading towards Ochi-san's family home as well... For now, I[r]
+need to inform Kazutsuo-san.[pcms]
 
 *2088|
 [fc]
-[ns]男Ａ[nse]
-「よし、行くか」[pcms]
+[ns]Man A[nse]
+"Alright, let's go."[pcms]
 
 *2089|
 [fc]
-男たちが行動を開始しようとしている。[r]
-急がないと。[pcms]
+The men are about to start moving. I have to hurry.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -416,43 +409,42 @@
 
 *2090|
 [fc]
-[ns]稼津央[nse]
-「はい、食料や飲み物は心配ありませんが、[r]
-　それよりも……」[pcms]
+[ns]Kazuo[nse]
+"Yes, we have no worries about food or drink, but more importantly..."[pcms]
 
 *2091|
 [fc]
 [vo_stk s="satuki0173"]
-[ns]彩月[nse]
-「ちょっと、すみません！」[pcms]
+[ns]Satsuki[nse]
+"Excuse me for a moment!"[pcms]
 
 *2092|
 [fc]
-[ns]稼津央[nse]
-「君は……？」[pcms]
+[ns]Kazuo[nse]
+"You are...?"[pcms]
 
 *2093|
 [fc]
 [vo_stk s="satuki0174"]
-[ns]彩月[nse]
-「緊急事態です！」[pcms]
+[ns]Satsuki[nse]
+"It's an emergency!"[pcms]
 
 *2094|
 [fc]
-自衛隊の制服を着ている男と話をしていた稼津央さんを、[r]
-遠くから呼び止める。[pcms]
+I call out to Kazutsuo-san, who is talking with a man in a Self-[r]
+Defense Force uniform, from a distance.[pcms]
 
 *2095|
 [fc]
-そして、近くまで寄るとそのまま強引に手を取って、[r]
-裏の方に引っ張っていった。[pcms]
+Then, as I get closer, I abruptly grab his hand and pull him towards[r]
+the back.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz17"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *2096|
 [fc]
-[ns]稼津央[nse]
-「緊急事態とはなにかな？」[pcms]
+[ns]Kazuo[nse]
+"What kind of emergency is it?"[pcms]
 
 [chara_int][trans_c cross time=150]
 [bgm storage="BGM04"]
@@ -460,44 +452,42 @@
 
 *2097|
 [fc]
-わたしに手を引かれるまま、[r]
-稼津央さんは落ち着いて対応している。[pcms]
+Being led by the hand by me, Kazutsuo-san responds calmly.[pcms]
 
 *2098|
 [fc]
-この人には、動じるということがないのだろうか。[pcms]
+I wonder if there's anything that can faze this man.[pcms]
 
 *2099|
 [fc]
-わたしは、歩きながらさっき聞いたことを[r]
-手短に説明していった。[pcms]
+As we walk, I briefly explain what I overheard earlier.[pcms]
 
 *2100|
 [fc]
-もう、男たちが動いていることも。[pcms]
+That the men are already on the move as well.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 ;不要？[wait_c time=1000]
 
 *2101|
 [fc]
-[ns]稼津央[nse]
-「なるほどね、それは“大変”だ」[pcms]
+[ns]Kazuo[nse]
+"I see, that is indeed 'serious'."[pcms]
 
 *2102|
 [fc]
 [vo_stk s="satuki0175"]
-[ns]彩月[nse]
-「随分、落ち着いているんですね」[pcms]
+[ns]Satsuki[nse]
+"You're very calm, aren't you?"[pcms]
 
 *2103|
 [fc]
-稼津央さんは、このことを予見していたように[r]
-うろたえるということがなかった。[pcms]
+Kazutsuo-san doesn't show any sign of being flustered, as if he had[r]
+anticipated this situation.[pcms]
 
 *2104|
 [fc]
-これから自分が殺されるかも知れないというのに。[pcms]
+Even though he might be killed soon.[pcms]
 
 ;//◆自衛隊に助けを求めればええのにとか突っ込まれりゅ
 [bg storage="elevator_hall"][trans_c cross time=500]
@@ -505,146 +495,143 @@
 
 *2105|
 [fc]
-[ns]稼津央[nse]
-「さあ、こちらにどうぞ」[pcms]
+[ns]Kazuo[nse]
+"Come this way, please."[pcms]
 
 *2106|
 [fc]
-稼津央さんの案内で、最上階と直通のエレベータに[r]
-連れて行かれる。[pcms]
+Kazutsuo-san leads me to an elevator that goes directly to the top[r]
+floor.[pcms]
 
 *2107|
 [fc]
 [vo_stk s="satuki0176"]
-[ns]彩月[nse]
-「わたしもですか？」[pcms]
+[ns]Satsuki[nse]
+"Me too?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2108|
 [fc]
-[ns]稼津央[nse]
-「南君でしたっけ、私に緊急事態だと迫ってきた君を、[r]
-　多くの人が目撃している」[pcms]
+[ns]Kazuo[nse]
+"You're Minami-kun, right? The one who insisted there was an[r]
+emergency. Many people have seen you."[pcms]
 
 *2109|
 [fc]
 [vo_stk s="satuki0177"]
-[ns]彩月[nse]
-「あ……」[pcms]
+[ns]Satsuki[nse]
+"Ah..."[pcms]
 
 *2110|
 [fc]
-男たちは稼津央さんの姿を探すことだろう。[r]
-そして、緊急だと言って一緒に歩いて行ったわたしのことを、[r]
-彼らは見逃すだろうか。[pcms]
+The men will be looking for Kazutsuo-san. And what about me, who[r]
+walked with him saying it was an emergency? Will they overlook me?[pcms]
 
 *2111|
 [fc]
-稼津央さんの居所を吐かせるため、[r]
-事情を知っていそうなわたしを消すため……、[r]
-彼らはなんでもするに違いない。[pcms]
+To force out Kazutsuo-san's whereabouts, to eliminate me because I[r]
+seem to know the situation... they will surely do anything.[pcms]
 
 *2112|
 [fc]
 [vo_stk s="satuki0178"]
-[ns]彩月[nse]
-「あの人たちは誰なんですか？[r]
-　このホテルの警備みたいなものなんでしょう？」[pcms]
+[ns]Satsuki[nse]
+"Who are those people? Are they like the hotel's security?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2113|
 [fc]
-[ns]稼津央[nse]
-「いや、彼らは仕事のために雇った傭兵です」[pcms]
+[ns]Kazuo[nse]
+"No, they are mercenaries I hired for a job."[pcms]
 
 *2114|
 [fc]
 [vo_stk s="satuki0179"]
-[ns]彩月[nse]
-「傭兵……？」[pcms]
+[ns]Satsuki[nse]
+"Mercenaries...?"[pcms]
 
 *2115|
 [fc]
-映画の中でしか聞けないような言葉が、[r]
-わたしの命を脅かそうとしているなんて……。[pcms]
+The word 'mercenaries,' something I'd only expect to hear in movies,[r]
+is now threatening my life...[pcms]
 
 *2116|
 [fc]
-どこまで混乱が広がれば気が済むのだろうか。[r]
-死ぬまで終わりは来ないのだろうか……。[pcms]
+I wonder how much more chaos will spread before they're satisfied.[r]
+Will it never end until I'm dead...?[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2117|
 [fc]
-[ns]稼津央[nse]
-「父が雇って、姉が引き継いだＳＰのような兵隊を[r]
-　私は持っていないんですよ」[pcms]
+[ns]Kazuo[nse]
+"My father hired them, and my sister took over, like SP soldiers. I[r]
+don't have such troops."[pcms]
 
 *2118|
 [fc]
 [vo_stk s="satuki0180"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2119|
 [fc]
-[ns]稼津央[nse]
-「黒服を着せているから見分けがつかないでしょうが、[r]
-　金で“どうとでも”動くゴロツキです」[pcms]
+[ns]Kazuo[nse]
+"It's hard to tell because they're dressed in black suits, but they're[r]
+thugs who will do anything for money."[pcms]
 
 *2120|
 [fc]
-どうしてそんな連中とつるんでいるのか、[r]
-自業自得としか思えなかった。[pcms]
+Why is he associating with such people? It seems like he's getting[r]
+what he deserves.[pcms]
 
 *2121|
 [fc]
-この混乱の中で、安定した収入のために動ける人間なんて、[r]
-数えるくらいしかいないだろう。[pcms]
+In this chaos, there are probably only a handful of people who can act[r]
+for a stable income.[pcms]
 
 *2122|
 [fc]
 [vo_stk s="satuki0181"]
-[ns]彩月[nse]
-「仕事ってなんですか？」[pcms]
+[ns]Satsuki[nse]
+"What kind of job is it?"[pcms]
 
 *2123|
 [fc]
-[ns]稼津央[nse]
-「君は知らない方がいい」[pcms]
+[ns]Kazuo[nse]
+"It's better if you don't know."[pcms]
 
 *2124|
 [fc]
-傭兵を雇うような仕事なんて、ろくなものじゃないはずだ。[r]
-荒事なのは間違いないとしても、きっと犯罪性があるだろう。[pcms]
+Any job that involves hiring mercenaries can't be good. Even if it's[r]
+rough work, it's bound to be criminal.[pcms]
 
 *2125|
 [fc]
 [vo_stk s="satuki0182"]
-[ns]彩月[nse]
-「そういえば、彼らは電話を使っているみたいでした。[r]
-　携帯は駄目になっているのに……無線ですか？」[pcms]
+[ns]Satsuki[nse]
+"By the way, it seemed like they were using phones. Mobiles are out of[r]
+service... are they using radios?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2126|
 [fc]
-[ns]稼津央[nse]
-「彼らの無線は、そこまで遠くの人間とは話せない。[r]
-　多分、本家の衛星電話を使ったんでしょう」[pcms]
+[ns]Kazuo[nse]
+"Their radios can't communicate with people that far away. They[r]
+probably used the main house's satellite phone."[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz02"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *2127|
 [fc]
-稼津央さんはエレベータの扉を開けると、[r]
-レディーファーストだと言わんばかりに私を先に乗せた。[pcms]
+Kazutsuo-san opens the elevator door and, as if to say 'ladies first,'[r]
+ushers me in ahead of him.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -656,155 +643,149 @@
 
 *2128|
 [fc]
-最上階の部屋は、稼津央さんの執務室に[r]
-なっている部屋だった。[pcms]
+The top floor room turned out to be Kazutsuo-san's office.[pcms]
 
 *2129|
 [fc]
-社長室のようなものだろうか。[r]
-稼津央さんはホテルの社長ではなかった気もするが。[pcms]
+It's like a CEO's office, I suppose. Though I don't think Kazutsuo-san[r]
+is the president of the hotel.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2130|
 [fc]
-[ns]稼津央[nse]
-「ドアを開けたままにしておいてください」[pcms]
+[ns]Kazuo[nse]
+"Please leave the door open."[pcms]
 
 *2131|
 [fc]
 [vo_stk s="satuki0183"]
-[ns]彩月[nse]
-「はい……」[pcms]
+[ns]Satsuki[nse]
+"Yes..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2132|
 [fc]
-わたしは開閉スイッチを押しっぱなしにして、[r]
-ドアを開け続ける。[pcms]
+I keep pressing the open/close switch, keeping the door open.[pcms]
 
 *2133|
 [fc]
-そして、稼津央さんは室内から椅子を運んでくると、[r]
-それをエレベータのドアに挟んだ。[pcms]
+Then, Kazutsuo-san brings a chair from inside the room and wedges it[r]
+in the elevator door.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2134|
 [fc]
-[ns]稼津央[nse]
-「これで、少し時間が稼げるでしょう」[pcms]
+[ns]Kazuo[nse]
+"This should buy us some time."[pcms]
 
 *2135|
 [fc]
-彼らがエレベータを使えないようにしたのか。[r]
-でも、感染者がいるとはいえ、階段から上ってくることもできる。[pcms]
+He's made it so they can't use the elevator. But even with infected[r]
+around, they could still come up the stairs.[pcms]
 
 *2136|
 [fc]
-稼津央さんは、室内にある少し変わった電話機を取り出し、[r]
-どこかに連絡を取り始めた。[pcms]
+Kazutsuo-san takes out a slightly unusual phone from inside the room[r]
+and starts making a call.[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz02"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *2137|
 [fc]
-[ns]稼津央[nse]
-「衛星電話だよ、姉さんに警告しておかないと」[pcms]
+[ns]Kazuo[nse]
+"It's a satellite phone. I have to warn my sister."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2138|
 [fc]
 [vo_stk s="satuki0184"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2139|
 [fc]
-みんなもそっちに向かっている。[pcms]
+Everyone is heading that way.[pcms]
 
 *2140|
 [fc]
-準備できるかどうかわからないけれど、[r]
-不意を突かれることはなくなるだろう。[pcms]
+Whether they can prepare or not, at least they won't be caught off[r]
+guard.[pcms]
 
 *2141|
 [fc]
-[ns]稼津央[nse]
-「姉さん、大変なことになったね。[r]
-　いや、世間話じゃない。[r]
-　私の雇った傭兵が、姉さんの研究資料を狙っているらしい」[pcms]
+[ns]Kazuo[nse]
+"Sister, things have gotten pretty bad. No, this isn't small talk. The[r]
+mercenaries I hired seem to be after your research materials."[pcms]
 
 ;不要？[wait_c time=2000]
 
 *2142|
 [fc]
-[ns]稼津央[nse]
-「生き延びられたら、いくらでも文句を聞くよ。[r]
-　一応、ＳＰにも気をつけた方がいい」[pcms]
+[ns]Kazuo[nse]
+"If we survive, I'll listen to all your complaints. You should be[r]
+careful of the SP too."[pcms]
 
 ;不要？[wait_c time=4000]
 
 *2143|
 [fc]
-[ns]稼津央[nse]
-「わかった、そこで頑張って。[r]
-　茜梨は中澤君と友達が必ず連れて行くから、待っていて」[pcms]
+[ns]Kazuo[nse]
+"Understood, hang in there. Akari will definitely be brought along by[r]
+Nakazawa-kun and friends, so wait for them."[pcms]
 
 ;不要？[wait_c time=2000]
 
 *2144|
 [fc]
-[ns]稼津央[nse]
-「最後になるかも知れないけど、すまなかった。姉さん」[pcms]
+[ns]Kazuo[nse]
+"This might be the last time, but I'm sorry, sister."[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz09"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 ;不要？[wait_c time=2000]
 
 *2145|
 [fc]
-稼津央さんはそう言って受話器を置いた。[r]
-複雑な心境なんだろう。[pcms]
+Kazutsuo-san says this and puts down the receiver. He must be feeling[r]
+complicated.[pcms]
 
 *2146|
 [fc]
-わたしに似ているのかも知れない……、[r]
-みんなを見捨てたわたしと。[pcms]
+I might be similar to him... abandoning everyone like I did.[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz02"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *2147|
 [fc]
-[ns]稼津央[nse]
-「そう落ち込まなくていい、[r]
-　君がここに残ったおかげでみんなが助かるんだ。[r]
-　自分を責めるのはまだ早いだろう」[pcms]
+[ns]Kazuo[nse]
+"Don't be so down. Thanks to you staying here, everyone else was[r]
+saved. It's too early to blame yourself."[pcms]
 
 *2148|
 [fc]
 [vo_stk s="satuki0185"]
-[ns]彩月[nse]
-「わたしは、なにも言っていませんが」[pcms]
+[ns]Satsuki[nse]
+"I haven't said anything though."[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz01"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *2149|
 [fc]
-[ns]稼津央[nse]
-「それは失礼」[pcms]
+[ns]Kazuo[nse]
+"My apologies then."[pcms]
 
 *2150|
 [fc]
-でも、わたしは許してくれる相手がいることで、[r]
-心が楽になり始めていた。[pcms]
+But I was beginning to feel relieved knowing there was someone who[r]
+would forgive me.[pcms]
 
 *2151|
 [fc]
-前田の息子に慰められてホッとするなんて、[r]
-皮肉な話だけど。[pcms]
+It's ironic that I feel comforted by Maeda's son.[pcms]
 
 [chara_int][trans_c cross time=150]
 [fadeoutbgm time=500]
@@ -816,8 +797,8 @@
 
 *2152|
 [fc]
-突然、辺りに銃声が鳴り響いた。[r]
-革靴の音を鳴らして、黒服たちが階段から現れる。[pcms]
+Suddenly, gunshots rang out around us. Men in black suits appeared[r]
+from the staircase, their dress shoes clacking on the steps.[pcms]
 
 [bgm storage="BGM14"]
 ;//♪bgm14　逃走：エロ：緊迫緊張
@@ -826,58 +807,56 @@
 
 *2153|
 [fc]
-[ns]稼津央[nse]
-「どうした？　慌てているみたいだが」[pcms]
+[ns]Kazuo[nse]
+"What's the matter? You seem to be in a hurry."[pcms]
 
 *2154|
 [fc]
-[ns]男Ａ[nse]
-「説明は必要なさそうだな」[pcms]
+[ns]Man A[nse]
+"It looks like there's no need for explanations."[pcms]
 
 *2155|
 [fc]
-男たちが一斉に銃を構える。[r]
-こんなに早く見付かるなんて……。[pcms]
+The men all aimed their guns at once. To be found this quickly...[pcms]
 
 [ChrSetEx layer=3 chbase="kz1_sui"][ChrSetParts layer=3 chface="F1_kz08"][ChrSetXY layer=3 x=50 y=0][trans_c cross time=150]
 
 *2156|
 [fc]
-[ns]稼津央[nse]
-「話は聞いたよ、私から得られるギャラが少ないことが[r]
-　不満らしいね」[pcms]
+[ns]Kazuo[nse]
+"I've heard the talk, you're dissatisfied with the small fee you're[r]
+getting from me."[pcms]
 
 *2157|
 [fc]
-[ns]男Ｃ[nse]
-「自衛隊が来ているから面倒でね、[r]
-　手っ取り早くやらせてもらうよ」[pcms]
+[ns]Male C[nse]
+"The Self-Defense Forces are coming, so to avoid the hassle, we'll[r]
+make this quick."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2158|
 [fc]
 [vo_stk s="satuki0186"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2159|
 [fc]
-稼津央さんが、そっとわたしの手を握ってきた。[pcms]
+Kazutsuo-san gently took my hand.[pcms]
 
 *2160|
 [fc]
-振り解くこともできたけれど、[r]
-そうする気になれない。[pcms]
+I could have shaken it off, but I didn't feel like doing so.[pcms]
 
 *2161|
 [fc]
-わたしは、しっかりとその手を握り返していった。[pcms]
+I firmly gripped his hand back.[pcms]
 
 *2162|
 [fc]
-いよいよ、最期の時。[r]
-４年間、先延ばしにされていた運命がこれだ。[pcms]
+Finally, the end has come. This is the fate that has been postponed[r]
+for four years.[pcms]
 
 ;//めも：最後　→　最期　にしました
 
@@ -899,37 +878,35 @@
 
 *2163|
 [fc]
-銃声が聞こえた瞬間、[r]
-身体のあちこちに熱い点のようなものを感じた。[pcms]
+The moment I heard the gunshot, I felt hot spots all over my body.[pcms]
 
 [se buf=0 storage="seC046"]
 ;//♪SEライフル発砲音（遠くから・単発）
 
 *2164|
 [fc]
-自分の血が、宙を飛び散る様が見える。[pcms]
+I could see my own blood spraying through the air.[pcms]
 
 *2165|
 [fc]
-不思議と痛みはなかった。[r]
-それほどの恐怖もない。[pcms]
+Strangely, there was no pain. Nor was there that much fear.[pcms]
 
 *2166|
 [fc]
 [vo_stk s="satuki0187"]
-[ns]彩月[nse]
-「ごめんね……彩月……」[pcms]
+[ns]Satsuki[nse]
+"I'm sorry... Satsuki..."[pcms]
 
 [white_toplayer][trans_c cross time=2000][hide_chara_int_w]
 
 *2167|
 [fc]
-床に倒れる衝撃を感じることもなく、[r]
-頭の中にそれだけが反芻していた。[pcms]
+Without feeling the impact of falling to the floor, that thought alone[r]
+kept replaying in my mind.[pcms]
 
 *2168|
 [fc]
-ただ……それだけが……。[pcms]
+Just... that alone...[pcms]
 
 ;//〆フラグcall_kaduo　成立
 [eval exp="f.l_call_kaduo = 1"]

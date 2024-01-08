@@ -34,27 +34,27 @@
 ;//#_ブラックアウト
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
 
-;//♪bgm10～
+;//♪bgm10
 
 *237|
 [fc]
-[ns]宗一郎[nse]
-「俺が先だっ！」[pcms]
+[ns]Souichirou[nse]
+"I'll be first!"[pcms]
 
 *238|
 [fc]
-[ns]誠[nse]
-「僕が先だよっ！」[pcms]
+[ns]Makoto[nse]
+"No, I'll be first!"[pcms]
 
 *239|
 [fc]
-僕とそーいちは先を争って、大きく揺れる胸めがけ、[r]
-駆け出していた。[pcms]
+Soichi and I were racing towards the large, swaying breasts, both of[r]
+us eager to be the first.[pcms]
 
 *240|
 [fc]
-だけど、ほんの僅か出遅れてしまったせいで、[r]
-そーいちの方が先に、大きな胸をゲットしていた。[pcms]
+But because I was just a little late getting started, Soichi got to[r]
+the large breasts before me.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -71,148 +71,144 @@
 
 *241|
 [fc]
-[ns]宗一郎[nse]
-「はははっ！　俺が一番乗りだぁっ！！[r]
-　ん？　こういうとき、乗りって言うのか？」[pcms]
+[ns]Souichirou[nse]
+"Hahaha! I'm the first one here!! Huh? Is that what you say in times[r]
+like this?"[pcms]
 
 *242|
 [fc]
-[ns]誠[nse]
-「そんなのどうだっていいだろ！　ちくしょー！　先越された！」[pcms]
+[ns]Makoto[nse]
+"Who cares about that! Damn it! He beat me to it!"[pcms]
 
 *243|
 [fc]
-宗一郎は誇らしげに笑うと、[r]
-花沢を軽々と持ち上げ、足を開かせた。[pcms]
+Souichirou laughed proudly, lifted Hanazawa effortlessly, and spread[r]
+her legs.[pcms]
 
 *244|
 [fc]
 [vo_han s="hana0083"]
-[ns]花沢[nse]
-「やっ……やだああぁあっ！　こんなの駄目ぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"No...nooo! This is wrong!"[pcms]
 
 *245|
 [fc]
-[ns]宗一郎[nse]
-「むっ……ムフッ！　ムフフッ！！　ただ胸がデカいだけの[r]
-　ビッチだと思ってたけど、柔らかくて……[r]
-　いい匂いがするなぁ～……あぁ、もう限界だァ！」[pcms]
+[ns]Souichirou[nse]
+"Mmm...Mmmh! Mmmh!! I thought she was just a bitch with big tits, but[r]
+they're so soft... and smell so good... Ahh, I can't take it anymore!"[pcms]
 
 *246|
 [fc]
-パチン。[pcms]
+Snap.[pcms]
 
 *247|
 [fc]
-パチン。[pcms]
+Snap.[pcms]
 
 *248|
 [fc]
-[ns]誠[nse]
-「ん？　何の音？」[pcms]
+[ns]Makoto[nse]
+"Huh? What's that sound?"[pcms]
 
 *249|
 [fc]
-花沢とそーいちの間から、[r]
-まるで頬を叩いた時の様な、[r]
-変な音が規則的に聞こえてくる。[pcms]
+From between Hanazawa and Soichi, a strange sound like slapping cheeks[r]
+could be heard at regular intervals.[pcms]
 
 *250|
 [fc]
-その音のする方へ目を向けると、びっくりするほど大きなアレが、[r]
-花沢の股間部分の間で、ししおどしの様な動きを繰り返していた。[pcms]
+When I looked towards the source of the sound, I was surprised to see[r]
+something incredibly large moving back and forth between Hanazawa's[r]
+crotch area, like a Shishi-odoshi.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
 
 *251|
 [fc]
-[ns]誠[nse]
-「うっ……なんてデカい……」[pcms]
+[ns]Makoto[nse]
+"Ugh...how big..."[pcms]
 
 *252|
 [fc]
-思わず口に出してしまうほど、驚異的な大きさだった。[r]
-それに引き替え、僕のは……。[pcms]
+I couldn't help but say it out loud, it was so shockingly large. In[r]
+contrast, mine was...[pcms]
 
 [bgm storage="BGM08"]
 ;//♪bgm08　シリアス：嫌疑
 
 *253|
 [fc]
-水着を下ろして、自分の“モノ”と、[r]
-そーいちのモノを交互に見比べ、僕はがっくりとうなだれる。[pcms]
+Pulling down my swimsuit, I compared my "thing" with Soichi's, and I[r]
+slumped in disappointment.[pcms]
 
 *254|
 [fc]
-僕のは、まだ皮を少し被った状態。[r]
-大きさも、そーいちのモノに比べたらまるで子供のみたい。[pcms]
+Mine was still partially covered with skin. In terms of size, it was[r]
+like a child's compared to Soichi's.[pcms]
 
 *255|
 [fc]
-[ns]誠[nse]
-「うっ……ううううっ！　で、デカけりゃいいってもんじゃ無い！[r]
-　ぼ、僕だって！　僕だって……入れたらきっと気持ちいいんだ！[r]
-　ちきしょおおおぉっ！！」[pcms]
+[ns]Makoto[nse]
+"Ugh...uuuugh! Just because it's big doesn't mean it's better! I...I[r]
+too! If I put it in, it will surely feel good! Damn it!"[pcms]
 
 *256|
 [fc]
 [vo_han s="hana0084"]
-[ns]花沢[nse]
-「やっ……い、入れるって何！　やだやだやだぁっ！！[r]
-　やめて、ねっ、落ち着いて……やめてぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"No...what do you mean 'put it in'? No no no! Stop, please, calm[r]
+down...stop it!"[pcms]
 
 *257|
 [fc]
-[ns]宗一郎[nse]
-「やめてと言われてやめるバカがどこにいるかッ！[r]
-　もう俺は我慢なんかしないッ！　入れるぞ！[r]
-　誠、俺とお前は親友だよな！」[pcms]
+[ns]Souichirou[nse]
+"Who would stop just because they're told to? I'm not holding back[r]
+anymore! I'm going to put it in! Makoto, we're best friends, right?"[pcms]
 
 *258|
 [fc]
-[ns]誠[nse]
-「……？」[pcms]
+[ns]Makoto[nse]
+"...?"[pcms]
 
 *259|
 [fc]
-[ns]宗一郎[nse]
-「俺は、このクソビッチのクソ穴に剛直をブチ込む事にしたッ！[r]
-　お前は、前を使えェぇぇ！」[pcms]
+[ns]Souichirou[nse]
+"I've decided to thrust my hard dick into this fucking bitch's shitty[r]
+hole! You take the front!"[pcms]
 
 *260|
 [fc]
-[ns]誠[nse]
-「えっ……い、いいの！？　いいのか！？[r]
-　あ、ありがてぇ……僕が、花沢のアソコに入れていいのかっ！」[pcms]
+[ns]Makoto[nse]
+"Eh...is that okay!? Really!? Thank you...I can put it in Hanazawa's[r]
+pussy?"[pcms]
 
 *261|
 [fc]
 [vo_han s="hana0085"]
-[ns]花沢[nse]
-「ちょっと！　何勝手に話進めてるの！？　やだあぁっ！[r]
-　押しつけないでよっ！　いやぁあぁぁっっ！[r]
-　ああぁっ！　荒井君！　助けてぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"Hey! Who said you could decide on your own!? Nooo! Don't force it on[r]
+me! Noooo! Ahhh! Arai-kun! Help me!"[pcms]
 
 *262|
 [fc]
-花沢は僕の後ろに向かい、すがるような目をして叫んでいた。[r]
-荒井、って叫んでるけど、あいつは砂の中に埋もれてるはず。[r]
-いくら呼んでも、無駄だ。[pcms]
+Hanazawa was looking back at me with pleading eyes and screaming.[r]
+She's calling for Arai, but he should be buried in the sand. No matter[r]
+how much she calls, it's useless.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
 
 *263|
 [fc]
-そう思いながらも、確認のためにと振り返ると、[r]
-そこには腐った魚みたいな目をした荒井が、[r]
-薄気味悪い顔をして突っ立っていた。[pcms]
+Even though I thought that, when I turned around to check, there was[r]
+Arai with eyes like a rotten fish, standing there with a creepy[r]
+expression on his face.[pcms]
 
 *264|
 [fc]
-[ns]誠[nse]
-「えっ……荒井！　いつの間にあの砂を……」[pcms]
+[ns]Makoto[nse]
+"Eh...Arai! When did you get out of that sand...?"[pcms]
 
 [evcg storage="mob_H013b"][trans_c cross time=300]
 
@@ -221,28 +217,25 @@
 
 *265|
 [fc]
-[ns]荒井[nse]
-「言っただろ……許さないって……でも、今はそんなのはいい。[r]
-　女だろ！　女っ！　俺はタマってんだよ！[r]
-　どけ！　俺が入れてやるんだ！」[pcms]
+[ns]Arai[nse]
+"I told you...I won't forgive you...but that doesn't matter now. It's[r]
+a woman! A woman! I'm so horny! Move! I'll put it in!"[pcms]
 
 *266|
 [fc]
-[ns]誠[nse]
-「は……？　誰がそんなこと決めたんだよ！[r]
-　僕が入れるんだ、僕が！」[pcms]
+[ns]Makoto[nse]
+"Ha...? Who decided that? It's me who will put it in, me!"[pcms]
 
 *267|
 [fc]
-[ns]宗一郎[nse]
-「あーあ……誠、モタモタしてると、先越されるぞ？[r]
-　じゃあ、俺はこっち……クソ穴一番乗り！[r]
-　そーれっ！」[pcms]
+[ns]Souichirou[nse]
+"Ah-ah...Makoto, if you dawdle, you'll be beaten to it. Well then,[r]
+I'll take this side... First one in the shitty hole! There!"[pcms]
 
 *268|
 [fc]
-そーいちは、かけ声と共に花沢の体をさらに高い位置まで持ち上げると、[r]
-そのまま一気に、大きなモノの上に落とした。[pcms]
+With a shout, Soichi lifted Hanazawa even higher and then dropped her[r]
+down onto his large thing all at once.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -258,157 +251,148 @@
 *269|
 [fc]
 [vo_han s="hana0086"]
-[ns]花沢[nse]
-「ぎっ……ぎいぃいいっ！！　いっ……いだいいいぃっ！[r]
-　ぎゃぁあぁあっ！！　痛いよおおっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Gah...giiiiiih!! It...it hurts! Gyaaaah!! It hurts so much!!"[pcms]
 
 *270|
 [fc]
-[ns]誠[nse]
-「う、うわぁ……」[pcms]
+[ns]Makoto[nse]
+"Whoa..."[pcms]
 
 *271|
 [fc]
-花沢の白くて丸いお尻を、小さな赤い筋が垂れていく。[r]
-無理もない、あんな大きいのが、一気に入れられたんだから。[r]
-だけど、そんな事を心配している余裕は無い。[pcms]
+Red streaks were trailing down Hanazawa's white and round butt. It was[r]
+no surprise; something that big had been forced in all at once. But[r]
+there was no time to worry about that.[pcms]
 
 *272|
 [fc]
-そーいちの言うとおり、早くしないと荒井に先を越されて、[r]
-僕は一人虚しくオナニーをして処理するしかなくなっちゃう。[pcms]
+If I don't hurry up as Soichi said, Arai will beat me to it and I'll[r]
+be left masturbating alone in vain.[pcms]
 
 *273|
 [fc]
-[ns]誠[nse]
-「くそっ！　僕とそーいちが先だったんだ！[r]
-　荒井は黙ってシコってればいいんだ！　そらあっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it! It was supposed to be me and Soichi first! Arai should just[r]
+shut up and jerk off! Here goes!"[pcms]
 
 *274|
 [fc]
-そーいちに持ち上げられた花沢のアソコに、[r]
-ギンギンになった僕のモノを押し当て、ねじ込もうとした時だ。[pcms]
+As I was about to push and twist my rock-hard thing into Hanazawa's[r]
+pussy, which Soichi had lifted up...[pcms]
 
 *275|
 [fc]
-僕の体に密着するような状態で、[r]
-荒井のヤツが、大きく開いた花沢の足の間に割り込んできた。[pcms]
+Arai squeezed into the position close to my body, wedging himself[r]
+between Hanazawa's widely spread legs.[pcms]
 
 *276|
 [fc]
-[ns]荒井[nse]
-「それは俺の台詞だっ！　俺も入れるんだよ、マンコの中に！[r]
-　ぎぎぎぎっ……！」[pcms]
+[ns]Arai[nse]
+"That's my line! I'm going to put it in too, right into her pussy![r]
+Gigi gigi gigi...!"[pcms]
 
 *277|
 [fc]
 [vo_han s="hana0087"]
-[ns]花沢[nse]
-「やめてったら！　痛いよおっ！[r]
-　さっ……裂けちゃうよおおっ！」[pcms]
+[ns]Hanazawa[nse]
+"Stop it! It hurts! It's... it's going to tear!"[pcms]
 
 [evcg storage="mob_H013e"][trans_c cross time=300]
 
 *278|
 [fc]
 [vo_han s="hana0088"]
-[ns]花沢[nse]
-「ぎっ……ぎいいいいぃいぃっ！！　あがあぁあっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Gii...giiiiiih!! Agh ahhhh!! It hurts so much!!"[pcms]
 
 *279|
 [fc]
-[ns]誠[nse]
-「ど、どけったら！　僕のが入らないじゃないかっ！」[pcms]
+[ns]Makoto[nse]
+"Move it! I can't get in if you don't!"[pcms]
 
 *280|
 [fc]
-[ns]荒井[nse]
-「お前こそどけよ！　くそおっ！　このやろぉっ！」[pcms]
+[ns]Arai[nse]
+"You move! Damn it! You bastard!"[pcms]
 
 *281|
 [fc]
-僕と荒井のモノは、まるでチャンバラでもするような状態で、[r]
-花沢のアソコをこすり上げていた。[pcms]
+My and Arai's things were rubbing against Hanazawa's pussy as if we[r]
+were sword fighting.[pcms]
 
 *282|
 [fc]
-初めはピッタリと閉じていたアソコには、[r]
-次第に僕達の粘液がまとわりつき、[r]
-滑りが良くなり出していた。[pcms]
+At first, her pussy that was tightly closed began to get slippery with[r]
+our fluids, making it easier to slide.[pcms]
 
 *283|
 [fc]
-このままこすり続けているだけでも、十分気持ちいい。[r]
-だけど、どうせ出すなら[ruby text="なか"]膣がいい。[pcms]
+Just rubbing against her like this felt good enough, but if I'm going[r]
+to cum, I'd prefer to do it inside her.[pcms]
 
 *284|
 [fc]
-僕は、荒井とのチャンバラをやめて、[r]
-花沢の柔らかな割れ目の奥にある小さな穴に、[r]
-我慢汁を吹き出させる亀頭を押しつけた。[pcms]
+I stopped the sword fight with Arai and pressed the head of my dick,[r]
+which was leaking pre-cum, against the small hole in the back of[r]
+Hanazawa's soft slit.[pcms]
 
 *285|
 [fc]
-[ns]荒井[nse]
-「ぐぬぬぬ……俺も入れるんだっつの！[r]
-　くっそ！　お前の祖チンが邪魔なんだよ！[r]
-　うぉおおっ！」[pcms]
+[ns]Arai[nse]
+"Gnununu... I'm going to put it in too! Damn it! Your ancestor dick is[r]
+in the way! Uooooh!"[pcms]
 
 *286|
 [fc]
-[ns]誠[nse]
-「祖チンって言うなよ！　そんなのだって、[r]
-　入るんだよちゃんと！　くううっ！」[pcms]
+[ns]Makoto[nse]
+"Don't call it an ancestor dick! Even something like that can get in[r]
+properly! Kuuuh!"[pcms]
 
 *287|
 [fc]
-祖チンだなんて言いやがって！[r]
-コイツだけは絶対許さない！[pcms]
+Calling it an ancestor dick! I'll never forgive this guy![pcms]
 
 *288|
 [fc]
-怒りに燃えた僕は、自分のモノが折れてもかまわないとばかりに、[r]
-腰を強く押し込んだ。[pcms]
+Fueled by anger, I pushed my hips forcefully as if I didn't care if my[r]
+dick broke.[pcms]
 
 [evcg storage="mob_H013c"][trans_c cross time=300]
 
 *289|
 [fc]
 [vo_han s="hana0089"]
-[ns]花沢[nse]
-「ぎっ……んぎいぃぃいぃっ！！　さっ……裂けるぅううっ！[r]
-　ぎゃあぁあぁあぁっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Gii...ngiiiiih!! It's... tearing! Gyaaaahhh!!"[pcms]
 
 *290|
 [fc]
-[ns]宗一郎[nse]
-「痛い痛いうるさいな。そろそろ俺も本気出すんだから、[r]
-　この程度で音を上げられても困るんだよ！　そらっ！」[pcms]
+[ns]Souichirou[nse]
+"You're so noisy about it hurting. I'm about to get serious, so it'll[r]
+be a problem if you start complaining now! There!"[pcms]
 
 *291|
 [fc]
 [vo_han s="hana0090"]
-[ns]花沢[nse]
-「おっ、おっ、お尻っ！　お尻痛いよおっ！[r]
-　だっ、駄目だよおおっ！　いぎぃいいぃいぃいっ！[r]
-　そんな、そんな乱暴にしないでぇぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"My, my butt! My butt hurts! No, you can't! Don't be so rough!"[pcms]
 
 *292|
 [fc]
-[ns]誠[nse]
-「乱暴もクソもあるか！　いい加減僕のモノを飲み込めぇぇっ！」[pcms]
+[ns]Makoto[nse]
+"Rough or not, just swallow my dick already!"[pcms]
 
 *293|
 [fc]
-[ns]荒井[nse]
-「俺のもだっ！　はいれぇぇっ！！」[pcms]
+[ns]Arai[nse]
+"Mine too! Let it in!"[pcms]
 
 *294|
 [fc]
 [vo_han s="hana0091"]
-[ns]花沢[nse]
-「ひっぐうっ！？　ひっ……ひ、ひいいっ……、[r]
-　いぎいいっ……かっ……あぁ……あぁぁっ……」[pcms]
+[ns]Hanazawa[nse]
+"Higguh!? Hii...hiii... igiiih...kaa...ahh...ahhh!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -418,84 +402,78 @@
 
 *295|
 [fc]
-ブチブチッ……ぶちゅっ！[pcms]
+Buchi buchitsu...buchu![pcms]
 
 *296|
 [fc]
-小さく、肉が裂ける音が聞こえた直後、[r]
-花沢のアソコは、体液をおしっこみたいに吹き出させながら、[r]
-僕と荒井のモノを飲み込んだ。[pcms]
+Right after the small sound of flesh tearing, Hanazawa's pussy[r]
+squirted out bodily fluids like pee while swallowing mine and Arai's[r]
+dicks.[pcms]
 
 *297|
 [fc]
-僕と、荒井のモノが、花沢の中で絡み合い、[r]
-そーいちのモノが、薄い壁一枚隔てて、圧迫を強くする。[pcms]
+My and Arai's dicks intertwined inside Hanazawa, while Souichirou's[r]
+dick pressed against the thin wall separating us.[pcms]
 
 *298|
 [fc]
-僕達三人のモノが、花沢の中で蛇の様に絡み合って、[r]
-モノに与える刺激を加速させていった。[pcms]
+Our three dicks twisted inside Hanazawa like snakes, accelerating the[r]
+stimulation they gave each other.[pcms]
 
 *299|
 [fc]
-さっきまでは争っていたけど、[r]
-こんな風に気持ちよくなれるんなら、[r]
-もう、水に流してやってもいい気がする。[pcms]
+Although we were fighting over her just a moment ago, if we can feel[r]
+this good together, I might just let bygones be bygones.[pcms]
 
 [evcg storage="mob_H013d"][trans_c cross time=300]
 
 *300|
 [fc]
 [vo_han s="hana0092"]
-[ns]花沢[nse]
-「ぎっ……ぐううっ……ぐっ……うぶっ！[r]
-　うっ……うぇぇぇぇっ！　うぇぇっ！　ゲボオッ！！」[pcms]
+[ns]Hanazawa[nse]
+"Gii...guuuh...guh...ubu! Ugh...ueeeeh! Ueeeh! Geroooh!!"[pcms]
 
 *301|
 [fc]
-[ns]荒井[nse]
-「うわっ！　コイツ、ゲロ吐きやがった！[r]
-　きったねええぇぇぇ！！」[pcms]
+[ns]Arai[nse]
+"Uwah! She puked! That's disgusting!!"[pcms]
 
 *302|
 [fc]
-[ns]誠[nse]
-「引っかかったじゃないか！[r]
-　どうしてくれんだこのクソビッチ！」[pcms]
+[ns]Makoto[nse]
+"I got splashed with it! What are you going to do about this, you[r]
+shitty bitch!"[pcms]
 
 *303|
 [fc]
-[ns]宗一郎[nse]
-「ははは。ケツ穴を選んだ俺、勝ち組だな。[r]
-　ゲロの影響一切なし！　しかもキッツキツで気持ちいい！[r]
-　さすが俺！」[pcms]
+[ns]Souichirou[nse]
+"Hahaha. Choosing the ass was a win for me. No effect from the puke at[r]
+all! Plus, it's super tight and feels good! As expected of me!"[pcms]
 
 [evcg storage="mob_H013f"][trans_c cross time=300]
 
 *304|
 [fc]
 [vo_han s="hana0093"]
-[ns]花沢[nse]
-「ぎぃいいっ……かっ、勝ち組とか……関係ないでしょおっ！[r]
-　もう抜いてぇっ！　こんなのやめてよおっ！[r]
-　荒井君まで、こんな事……酷いよおぉっ！」[pcms]
+[ns]Hanazawa[nse]
+"Giiih...winning or losing...that doesn't matter right now! Just pull[r]
+out! Stop this already! Even you, Arai-kun, doing such terrible[r]
+things..."[pcms]
 
 *305|
 [fc]
-[ns]荒井[nse]
-「あっ、そうなの？　ならこのまま中だししていいよな！[r]
-　こっち来てから一回も出してないからさ、[r]
-　たっぷり中だししてやるよ！」[pcms]
+[ns]Arai[nse]
+"Ah, is that so? Then I guess it's okay to cum inside! I haven't cum[r]
+since coming here, so I'll fill you up plenty!"[pcms]
 
 *306|
 [fc]
-あっ、そういえば僕もだ。[r]
-なんか、もの凄い出そうな気がする。[pcms]
+Ah, that reminds me, me too. I feel like I'm going to cum a lot.[pcms]
 
 *307|
 [fc]
-中だしってすっごい気持ちいいらしいし、[r]
-僕もやっちゃおっと。[pcms]
+Cumming inside is supposed to feel amazing, so I might as well do it[r]
+too.[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
@@ -503,180 +481,168 @@
 *308|
 [fc]
 [vo_han s="hana0094"]
-[ns]花沢[nse]
-「なっ、中は駄目っ！　絶対駄目！　[r]
-　赤ちゃん出来ちゃうでしょっ！[r]
-　ぐっ……ぎぃいぃっ！　おしっ、お尻もそんなにしないでっ！」[pcms]
+[ns]Hanazawa[nse]
+"No, not inside! Absolutely not! You'll make a baby! Guh...giiiih![r]
+Don't be so rough with my butt either!"[pcms]
 
 [evcg storage="mob_H013e"][trans_c cross time=300]
 
 *309|
 [fc]
 [vo_han s="hana0095"]
-[ns]花沢[nse]
-「もう、やっ、め……ひぃぎぁあっっ！！[r]
-　ぐぎぃいいぃいっ！！　いだいぃいいっ！[r]
-　アソコもお尻もさけぢゃう゛う゛ぅ゛ぅ゛っ！！」[pcms]
+[ns]Hanazawa[nse]
+"I can't take it anymore...hiigiiiahhh!! Giiiiih!! It hurts! My pussy[r]
+and my ass are going to tear apart!!"[pcms]
 
 *310|
 [fc]
-[ns]宗一郎[nse]
-「あはは、すごい声！　面白いなぁ！[r]
-　もっと鳴けよ！　ほらー！　ほらぁー！」[pcms]
+[ns]Souichirou[nse]
+"Ahaha, what a great voice! This is fun! Scream more for me! Here-![r]
+Here-!"[pcms]
 
 [evcg storage="mob_H013f"][trans_c cross time=150]
 
 *311|
 [fc]
 [vo_han s="hana0096"]
-[ns]花沢[nse]
-「あぎいいいいぃぃぃっ！！　も、もうらめぇ……、[r]
-　いだぎもぢいいぃい……ぎいいぃいっ！[r]
-　こんなの、ヘンだよぉおっ！」[pcms]
+[ns]Hanazawa[nse]
+"Agiiiiih!! No more...it hurts too much...giiiiih! This is weird!"[pcms]
 
 *312|
 [fc]
-[ns]誠[nse]
-「ヘン！？　どうヘンなの！？[r]
-　気持ちいいの？　ねえ！　ねえ！」[pcms]
+[ns]Makoto[nse]
+"Weird!? How is it weird!? Does it feel good? Hey! Hey!"[pcms]
 
 *313|
 [fc]
-[ns]荒井[nse]
-「気持ちいいよな！　だって俺が気持ちいいんだから！[r]
-　アソコもギッチギチに銜え込んでるしな！[r]
-　ダラダラだらしなく汁も垂らして！　気持ちいいって言えよ！」[pcms]
+[ns]Arai[nse]
+"It must feel good! Because I'm feeling great! Your pussy is clamping[r]
+down so tight on me! Dripping with juices too! Say it feels good!"[pcms]
 
 *314|
 [fc]
 [vo_han s="hana0097"]
-[ns]花沢[nse]
-「ぎっ……ぎもぢいいぃいよおぉおっ！！[r]
-　わだじのながでぇっ！　おぢんぢん暴れでぇっっ！[r]
-　ばっ……バカになりゅうううっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Gii...it feels so good!! My body is going crazy! My pussy is raging![r]
+I'm going to lose my mind!!"[pcms]
 
 *315|
 [fc]
-[ns]誠[nse]
-「そうかぁ、よっぽど気持ちいいんだな！[r]
-　僕も、もうそろそろ出ちゃいそうだ！[r]
-　あははっ！　中だしだっ！　花沢マンコに中だし！　はははっ」[pcms]
+[ns]Makoto[nse]
+"So you're feeling really good then! I'm about to cum too soon as[r]
+well! Ahaha! Inside cumming! Cumming inside Hanazawa's pussy! Hahaha"[pcms]
 
 *316|
 [fc]
-花沢の中の熱い肉がヌルヌルと僕のモノを包み込んで、[r]
-亀頭の先や根元を擦る。[pcms]
+The hot flesh inside Hanazawa wrapped around my dick slickly, rubbing[r]
+against the tip and base.[pcms]
 
 *317|
 [fc]
-手で擦るより、全然気持ちいい！[r]
-これ、越智さんとだったらもっと気持ちいいのかな！[pcms]
+It feels way better than rubbing it with my hand! I wonder if it would[r]
+feel even better with Ochi-san![pcms]
 
 *318|
 [fc]
-越智さん……。[r]
-よし、このままの勢いで、越智さんともセックスだ！[r]
-その前に、花沢をイカせてやろう！[pcms]
+Right, Ochi-san... With this momentum, I'll have sex with Ochi-san[r]
+too! But before that, I'll make Hanazawa cum![pcms]
 
 *319|
 [fc]
-女の子がイく瞬間って凄くマンコを締めるらしいからな。[r]
-今でも気持ちいいんだ、もっと気持ちいいに違いない！[r]
-でも、どうやったらイカせられるんだろう……。[pcms]
+They say girls really tighten their pussies when they cum. It already[r]
+feels good now, so it must feel even better! But how do I make her[r]
+cum...?[pcms]
 
 *320|
 [fc]
-エロＤＶＤなんかだと、クリトリスがどうした、なんて[r]
-言ってたな……。[pcms]
+In those adult DVDs, they always talk about something to do with the[r]
+clitoris...[pcms]
 
 *321|
 [fc]
-よし、僕もやってみよう。[r]
-越智さんとセックスするときの予行練習だ！[pcms]
+Alright, I'll give it a try. Consider it a rehearsal for when I have[r]
+sex with Ochi-san![pcms]
 
 *322|
 [fc]
-僕と荒井のモノがねじ込まれて汁を噴き出させている、[r]
-花沢のアソコの真ん中で小さく跳ねる突起に、[r]
-ありったけの力を込めて指を押し当てた。[pcms]
+I pressed my finger down with all my strength on the small protrusion[r]
+that was bouncing in the middle of Hanazawa's pussy, which was being[r]
+penetrated and made to squirt by mine and Arai's dicks.[pcms]
 
 *323|
 [fc]
 [vo_han s="hana0098"]
-[ns]花沢[nse]
-「ひっ……ひいぃいいいぃっ！！　そっ、それイイッ！！[r]
-　くっ、クリトリスぅうぅっ！　ひぎぃいぃぃっ！[r]
-　いっ、イクっ！　も、もうダメぇぇっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Hii...hiiiiii!! Th-that's good!! Ahh, my clitoris! Higiiiiii!! I'm[r]
+cumming! I can't take it anymore!!"[pcms]
 
 *324|
 [fc]
-僕は、クリトリスに押し当てた指に愛液を絡め、[r]
-力一杯擦り上げた。[pcms]
+I wrapped my finger with her love juices and rubbed it against her[r]
+clitoris as hard as I could.[pcms]
 
 *325|
 [fc]
-堅くとがった肉の芽が、僕の指の腹に当たるたび、[r]
-花沢はビックリした様に息をのむ。[pcms]
+Every time the hard, pointed bud of flesh hit the pad of my finger,[r]
+Hanazawa gasped as if she was surprised.[pcms]
 
 *326|
 [fc]
 [vo_han s="hana0099"]
-[ns]花沢[nse]
-「ひっ……ひいいっ！　ひっ……」[pcms]
+[ns]Hanazawa[nse]
+"Hii...hiii! Hii..."[pcms]
 
 [evcg storage="mob_H013c"][trans_c cross time=300]
 
 *327|
 [fc]
-それがよっぽど気持ちいいのか、花沢のアソコの入り口は、[r]
-痛いほど僕のモノを締め付ける。[pcms]
+It must feel really good because the entrance to Hanazawa's pussy is[r]
+squeezing my dick painfully tight.[pcms]
 
 *328|
 [fc]
-[ns]宗一郎[nse]
-「おっ……おおっ！　ケツ穴もギューッとしてきた！[r]
-　俺のビッグマグナムも、発射準備完了っ！」[pcms]
+[ns]Souichirou[nse]
+"Oh...ohhh! Her ass is tightening up too! My Big Magnum is ready to[r]
+fire!"[pcms]
 
 *329|
 [fc]
-[ns]荒井[nse]
-「おっ、俺も……出そうだっ！」[pcms]
+[ns]Arai[nse]
+"Oh, I'm about to...cum too!"[pcms]
 
 *330|
 [fc]
-[ns]誠[nse]
-「よおっし！　みんなで一斉にイってみようぜ！[r]
-　イクぞおおおっ！　花沢っ！　イク時はイクって言えよっ！」[pcms]
+[ns]Makoto[nse]
+"Alright! Let's all cum together! Here I gooo! Hanazawa! Make sure to[r]
+say you're cumming when you do!"[pcms]
 
 *331|
 [fc]
 [vo_han s="hana0100"]
-[ns]花沢[nse]
-「はっ……はいいいっ！　わっ、わたし、もうイキますっ！[r]
-　わたしのイク所、見てぇぇっ！！　あぁぁぁあっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Yes...yes sir! I'm about to cum! Watch me cumming!! Aaaahhh!!"[pcms]
 
 *332|
 [fc]
-[ns]誠[nse]
-「ぐううぅ！　でっ、でるううっ！！」[pcms]
+[ns]Makoto[nse]
+"Guuuh! It's...coming out!!"[pcms]
 
 *333|
 [fc]
-[ns]宗一郎[nse]
-「うううっ！　け、ケツ穴いいって言ええっ！」[pcms]
+[ns]Souichirou[nse]
+"Uuuuh! Say that the ass feels good!"[pcms]
 
 *334|
 [fc]
 [vo_han s="hana0101"]
-[ns]花沢[nse]
-「けっ……ケツ……あぁぁあっ！！[r]
-　ケツ穴とおマンコでイクううっ！！　全部イッちゃうううっ！[r]
-　いっ……イクっ！　いぐうううううぅぅっ！！！」[pcms]
+[ns]Hanazawa[nse]
+"My ass...ahhh!! Cumming with both my ass and pussy! I'm cumming all[r]
+over!! I'm...cumming! Iguuuuuuu!!"[pcms]
 
 *335|
 [fc]
-[ns]荒井[nse]
-「っは！　で、でるっ！」[pcms]
+[ns]Arai[nse]
+"Hah! It's...coming out!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -691,10 +657,10 @@
 *336|
 [fc]
 [vo_han s="hana0102"]
-[ns]花沢[nse]
-「ひぁぁああぁっ！！　イッ！　イクの止まらないぃぃっ！[r]
-　こっ、腰っ！　勝手に動いてとまんないよおおっ！[r]
-　ひぁぁぁぁぁっ！！　イキ過ぎてしんじゃううぅ……あぁ……」[pcms]
+[ns]Hanazawa[nse]
+"Hiaaaaah!! I'm cumming! It won't stop! My hips! They're moving on[r]
+their own and won't stop! Hiaaaaaah!! I'm going to die from cumming[r]
+too much...ahh..."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -703,38 +669,36 @@
 
 *337|
 [fc]
-[ns]誠[nse]
-「はぁ～……出た出た。[r]
-　中だしって、凄いなあ……」[pcms]
+[ns]Makoto[nse]
+"Haa...it came out. Cumming inside is amazing..."[pcms]
 
 *338|
 [fc]
-[ns]荒井[nse]
-「ああ、腰抜けるかと思ったよ……」[pcms]
+[ns]Arai[nse]
+"Ah, thought my hips were gonna give out..."[pcms]
 
 *339|
 [fc]
-[ns]宗一郎[nse]
-「腰抜けてるっていうか、花沢、気絶したぞ。[r]
-　俺らの勝利だな。モンバスに続き、俺らまた勝利！[r]
-　やっぱ無敵だぞオイ！」[pcms]
+[ns]Souichirou[nse]
+"More like Hanazawa's passed out. We win. After Monbus, we win again![r]
+We're invincible, man!"[pcms]
 
 *340|
 [fc]
-[ns]誠[nse]
-「無敵！　よし、このまま他の女にも中だしだ！[r]
-　今なら、負ける気がしないっ！」[pcms]
+[ns]Makoto[nse]
+"Invincible! Alright, let's keep going and cum inside the other girls[r]
+too! I feel like I can't lose right now!"[pcms]
 
 *341|
 [fc]
-[ns]宗一郎[nse]
-「よし！　すぐ行くぞ！　この勢いのまま、[r]
-　女全部ヤッちまおう！」[pcms]
+[ns]Souichirou[nse]
+"Alright! Let's go right away! With this momentum, let's do all the[r]
+girls!"[pcms]
 
 *342|
 [fc]
-そーいちは、お尻からデカいモノを引き抜くと、[r]
-花沢の体をその場に投げ捨てた。[pcms]
+Souichirou pulled his big dick out of her ass and threw Hanazawa's[r]
+body aside.[pcms]
 
 ;//●_SE　ドサ
 
@@ -748,13 +712,13 @@
 *343|
 [fc]
 [vo_han s="hana0103"]
-[ns]花沢[nse]
-「んぎっ……あううぅ……」[pcms]
+[ns]Hanazawa[nse]
+"Ngi...auuu..."[pcms]
 
 *344|
 [fc]
-花沢は、乱暴に落とされたせいか小さく呻き、[r]
-僕達三人の足下で半目を開いたまま、気絶していた。[pcms]
+Because she was dropped so roughly, Hanazawa moaned softly and lay at[r]
+our feet with her eyes half-open, passed out.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -776,19 +740,17 @@
 
 *345|
 [fc]
-半開きの目が、赤く充血していく……。[r]
-そういえば、そーいちも荒井も、目が赤い。[pcms]
+Her half-open eyes were getting bloodshot... Now that I think about[r]
+it, both Souichirou and Arai have red eyes too.[pcms]
 
 *346|
 [fc]
-なんだっけ。[r]
-これって、ヤバかった気がする。[pcms]
+What was it again? This seems bad, I think.[pcms]
 
 *347|
 [fc]
-でも、まあいいや。[r]
-次の女だ。[r]
-次の女に中だしファックだ！[pcms]
+But, well, whatever. On to the next girl. Time for a creampie fuck[r]
+with the next girl![pcms]
 
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
 ;不要？[wait_c time=1000]

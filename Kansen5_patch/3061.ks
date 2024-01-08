@@ -31,78 +31,78 @@
 
 *1632|
 [fc]
-[ns]誠[nse]
-（そうだな……時間もまだあることだし、[r]
-　越智さんの部屋まで行ってみよう）[pcms]
+[ns]Makoto[nse]
+"Hmm, I still have some time... Maybe I'll go check on Ochi-san's[r]
+room."[pcms]
 
 *1633|
 [fc]
-少々押しつけがましいかも知れないけど、昨日、あんなことが[r]
-あったばかりだし、越智さんのことが心配だ。[pcms]
+"It might be a bit forward, but after what happened yesterday, I'm[r]
+worried about Ochi-san."[pcms]
 
 *1634|
 [fc]
-ちょっと部屋に行って顔を見るくらいの時間はあるだろう。[pcms]
+"I should have enough time to at least drop by her room and see her[r]
+face."[pcms]
 
 *1635|
 [fc]
-そう考えた僕は、エレベーターホールへと向かった。[pcms]
+"With that thought in mind, I headed towards the elevator hall."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1636|
 [fc]
-………………………………………[pcms]
+"..."[pcms]
 
 *1637|
 [fc]
-………………………………[pcms]
+"..."[pcms]
 
 *1638|
 [fc]
-………………………[pcms]
+"..."[pcms]
 
 ;//★bg11a ホテル廊下・朝昼
 [bg storage="BG11a"][trans_c cross time=500]
 
 *1639|
 [fc]
-[ns]誠[nse]
-「ええっと、越智さんの部屋は……」[pcms]
+[ns]Makoto[nse]
+"Let's see, Ochi-san's room is..."[pcms]
 
 *1640|
 [fc]
-朝にも一度訪れた越智さんの部屋の前まで行き、深呼吸してから[r]
-おもむろにドアをノックした。[pcms]
+"I arrived in front of Ochi-san's room, which I had visited once in[r]
+the morning, took a deep breath, and then knocked on the door."[pcms]
 
 [se buf=0 storage="seA035"]
 ;//♪SEゆっくりしたノック音
 
 *1641|
 [fc]
-しばらく待ったけど、何の反応もない。[pcms]
+"I waited for a while, but there was no response."[pcms]
 
 *1642|
 [fc]
-留守かな……念のため、もう一度ドアをノックしてみた。[pcms]
+"Maybe she's not in... Just to be sure, I knocked on the door again."[pcms]
 
 [se buf=0 storage="seA035"]
 ;//♪SEゆっくりしたノック音
 
 *1643|
 [fc]
-……………………………………。[pcms]
+"..."[pcms]
 
 *1644|
 [fc]
-やはり、何の反応もない。[r]
-たぶん留守なんだろう。[pcms]
+"Still no response. She's probably out."[pcms]
 
 *1645|
 [fc]
-でも、この時間に部屋にいる方が逆に心配だとも言えるし、[r]
-むしろ留守で良かったはずだ。[pcms]
+"But then again, it's worrying if she's in her room at this hour.[r]
+Maybe it's actually better that she's out."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -110,29 +110,29 @@
 
 *1646|
 [fc]
-そんな事を考えていると、廊下の奥から誰かがこちらに向かって[r]
-やって来るのが見えた。[pcms]
+"As I was thinking this, I saw someone coming towards me from down the[r]
+hallway."[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
 
 *1647|
 [fc]
-[ns]誠[nse]
-「花沢……？」[pcms]
+[ns]Makoto[nse]
+"Hanazawa...?"[pcms]
 
 *1648|
 [fc]
-チアコスに身を包んだ花沢が、ゆっくりと僕の方に向かってくるが[r]
-なんだかその様子がおかしい。[pcms]
+"Hanazawa, dressed in a cheerleader costume, was slowly approaching[r]
+me, but something about her seemed off."[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_che_a"][ChrSetParts layer=5 chface="F1_ha11"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *1649|
 [fc]
 [vo_han s="hana_tj0028"]
-[ns]花沢[nse]
-「あ、あはぁ、なに、よ、なかざわ、じゃ、ない……」[pcms]
+[ns]Hanazawa[nse]
+"Ah, ahaha, what's up, Nakazawa, isn't it...?"[pcms]
 
 ;//m:立ち通常から感染に変えたいのでちょっとテキスト修正
 
@@ -142,12 +142,12 @@
 
 *1649a|
 [fc]
-[ruby text="す"]饐えた匂いのする白い液体が、花沢の[r]
-体のあちこちにへばりつき、垂れ流れている。[pcms]
+"A sour-smelling white liquid was clinging to various parts of[r]
+Hanazawa's body and dripping down."[pcms]
 
 *1650|
 [fc]
-明らかにそれは……精液だった。[pcms]
+"It was clearly... semen."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ha1_che_a"][ChrSetParts layer=3 chface="F1_ha11"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
@@ -156,9 +156,9 @@
 *1651|
 [fc]
 [vo_han s="hana_tj0029"]
-[ns]花沢[nse]
-「ふ、ふん、でも、あんた、みたいな、チビでも、いちおうは[r]
-　おとこだから、チンポはついてるのよねぇ……」[pcms]
+[ns]Hanazawa[nse]
+"Heh, heh, but even a shorty like you is still a guy, so you've got a[r]
+dick, right...?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="ha1_che_a"][ChrSetParts layer=4 chface="F1_ha11"][ChrSetXY layer=4 x=630 y=0][trans_c cross time=150]
@@ -166,18 +166,18 @@
 
 *1652|
 [fc]
-花沢が舌なめずりをしながら、糸の切れた操り人形みたいな[r]
-ぎくしゃくとした動作で、こちらに近づいてくる。[pcms]
+"Hanazawa licked her lips and approached me with jerky movements like[r]
+a puppet with its strings cut."[pcms]
 
 *1653|
 [fc]
-[ns]誠[nse]
-「はな……ざわ……」[pcms]
+[ns]Makoto[nse]
+"Hana...zawa..."[pcms]
 
 *1654|
 [fc]
-喉がからからに渇いて、舌が口の裏側に張り付いたようになり[r]
-上手く言葉が喋れない。[pcms]
+"My throat was parched, my tongue stuck to the roof of my mouth, and I[r]
+couldn't speak properly."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ha2_che_a"][ChrSetParts layer=5 chface="F2_ha03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -186,9 +186,9 @@
 *1655|
 [fc]
 [vo_han s="hana_tj0030"]
-[ns]花沢[nse]
-「ふ、ふふふ……あたしと、おまんこ、させて、あげるから[r]
-　ありがたく、おもいなさいよ……く、くくくくっ……」[pcms]
+[ns]Hanazawa[nse]
+"Hehehe... I'll let you have sex with me, so be grateful...[r]
+kukukuku..."[pcms]
 
 ;//m:立ち通常から感染に変えたいのでちょっとテキスト修正
 
@@ -196,13 +196,12 @@
 
 *1656|
 [fc]
-自らチアのユニフォームをたくし上げ、[r]
-卑猥な言葉を織り交ぜながら、[r]
-花沢がさらに近づいてくる。[pcms]
+"Lifting her cheerleader uniform herself and interspersing lewd words,[r]
+Hanazawa came even closer."[pcms]
 
 *1657|
 [fc]
-その時、僕は見た。[pcms]
+"That's when I saw it."[pcms]
 
 ;//#_赤フラ
 [backlay_c][image storage="effect_red" layer="&sf.effectlayer" page=back visible=true left=0 top=0 opacity=255][trans_c wipe_r time=0]
@@ -212,7 +211,7 @@
 
 *1658|
 [fc]
-近づいてきた花沢の瞳が……真っ赤に染まっているのを。[pcms]
+"The eyes of Hanazawa who was approaching... were dyed bright red."[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -240,40 +239,39 @@
 
 *1659|
 [fc]
-[ns]誠[nse]
-「あ…………ああぁ………………」[pcms]
+[ns]Makoto[nse]
+"Ah... ahhh..."[pcms]
 
 [se buf=0 storage="seB023" loop=true]
 ;//♪SE心臓の鼓動
 
 *1660|
 [fc]
-その時、僕の脳裏に４年前のエピデミックの光景が[r]
-突然フラッシュバックした。[pcms]
+"At that moment, the scenes from the epidemic four years ago suddenly[r]
+flashed back in my mind."[pcms]
 
 *1661|
 [fc]
-記憶の奔流が、まるでＤＶＤのスキップサーチのように[r]
-大量の意味のない映像となって脳内を通過していく。[pcms]
+"The torrent of memories passed through my brain like a DVD on skip[r]
+search, turning into a mass of meaningless images."[pcms]
 
 *1662|
 [fc]
-[ns]誠[nse]
-「う、うわああああぁぁぁっ！！」[pcms]
+[ns]Makoto[nse]
+"Uwaaaahhhhh!!"[pcms]
 
 *1663|
 [fc]
-UNKNOWN-LV4。[r]
-致死率９９％、史上最悪のウイルス。[pcms]
+"UNKNOWN-LV4. A virus with a 99% fatality rate, the worst in history."[pcms]
 
 *1664|
 [fc]
-感染し、発症した人間は、大脳を破壊されてしまうため[r]
-食欲や性欲といった本能的な行動を取る……。[pcms]
+"Those infected and symptomatic have their cerebrum destroyed and[r]
+exhibit instinctual behaviors such as hunger and sexual desire..."[pcms]
 
 *1665|
 [fc]
-僕の全身を、言葉にできない恐怖が貫いた。[pcms]
+"An indescribable terror pierced through my entire body."[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -294,46 +292,47 @@ UNKNOWN-LV4。[r]
 
 *1666|
 [fc]
-[ns]誠[nse]
-「くっ！」[pcms]
+[ns]Makoto[nse]
+"Kuh!"[pcms]
 
 *1667|
 [fc]
-次の瞬間、僕は全力疾走でエレベーターホールへと向かっていた。[pcms]
+"The next moment, I was sprinting at full speed towards the elevator[r]
+hall."[pcms]
 
 *1668|
 [fc]
-自分史上最速のラップを叩きだしてホールに到着すると、[r]
-エレベーターの下ボタンを連打する。[pcms]
+"I hit my personal best lap time getting to the hall and started[r]
+frantically pressing the elevator's down button."[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_kan1"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *1669|
 [fc]
 [vo_han s="hana_tj0031"]
-[ns]花沢[nse]
-「なんで、にげる、のよ。ほんとうに、しつれいな、[r]
-　オタク、の、クソチビ……まち、なさい、よ……」[pcms]
+[ns]Hanazawa[nse]
+"Why are you running away? Really rude, you damn shorty otaku... wait[r]
+for me..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1670|
 [fc]
-花沢がぎょろりと目を剥いて、さっきよりも足早に僕に向かって[r]
-再び近づいてきた。[pcms]
+"Hanazawa's eyes bulged as she quickened her pace towards me once[r]
+again."[pcms]
 
 ;//★elevator_hall エレベーターホール
 [bg storage="elevator_hall"][trans_c cross time=500]
 
 *1671|
 [fc]
-[ns]誠[nse]
-（はやく……早く来てくれっ！）[pcms]
+[ns]Makoto[nse]
+"(Hurry...hurry up and get here!)"[pcms]
 
 *1672|
 [fc]
-こういう時に限って、エレベーターの階数表示が[r]
-一番上になっていたりするのは何故だ！？[pcms]
+Why is it that the elevator floor indicator always seems to be at the[r]
+top when you're in a hurry like this!?[pcms]
 
 [se buf=0 storage="seC028"]
 ;//♪SEスイッチ音
@@ -352,13 +351,13 @@ UNKNOWN-LV4。[r]
 
 *1673|
 [fc]
-[ns]誠[nse]
-（早く来い、早く来い、早く来い……！）[pcms]
+[ns]Makoto[nse]
+"(Come on, come on, come on...!)"[pcms]
 
 *1674|
 [fc]
-僕はファ●コン全盛期なら間違いなくクラスのヒーローに[r]
-なれそうな速度で、エレベーターのボタンを連打した。[pcms]
+I was mashing the elevator button with a speed that would have made me[r]
+the hero of my class during the peak of my fanboy days.[pcms]
 
 ;//se即時停止
 [stopse buf=0]
@@ -370,25 +369,25 @@ UNKNOWN-LV4。[r]
 *1675|
 [fc]
 [vo_han s="hana_tj0032"]
-[ns]花沢[nse]
-「ま゛でぇ、ながざわ゛あぁ！」[pcms]
+[ns]Hanazawa[nse]
+"Wait, damn it, Nagazawa... wait for me!"[pcms]
 
 *1676|
 [fc]
-背後に迫る花沢が、ゾンビ映画さながらに[r]
-僕に向かって手を伸ばす。[pcms]
+Hanazawa, looming behind me, reached out her hands towards me like a[r]
+zombie from a horror movie.[pcms]
 
 [se buf=0 storage="seC055"]
 ;//♪SEエレベーターの到着音
 
 *1677|
 [fc]
-その時、エレベーターの扉が開いた。[pcms]
+Just then, the elevator doors opened.[pcms]
 
 *1678|
 [fc]
-[ns]誠[nse]
-「来たっ！！」[pcms]
+[ns]Makoto[nse]
+"It's here!!"[pcms]
 
 ;//エレベーターの箱の中の画像ってあるんでしょうか？（た）
 
@@ -397,258 +396,254 @@ UNKNOWN-LV4。[r]
 
 *1679|
 [fc]
-猛然とエレベーターの中に転がり込むと同時に『閉』ボタンを[r]
-今度は連打した。[pcms]
+As I tumbled into the elevator, I started frantically pressing the[r]
+"close" button.[pcms]
 
 *1680|
 [fc]
-エレベーターの扉が、僕に向けて伸ばした花沢の指先すれすれで[r]
-閉まってゆく。[pcms]
+The elevator doors closed just as Hanazawa's fingertips reached out[r]
+towards me.[pcms]
 
 *1681|
 [fc]
-[ns]誠[nse]
-「よ、よかった……助かった……」[pcms]
+[ns]Makoto[nse]
+"Thank goodness... I'm saved..."[pcms]
 
 *1682|
 [fc]
-思わず腰が抜けて、背中をエレベーターの壁にもたれかけたまま、[r]
-ずるずるとその場にしゃがみ込んでしまった。[pcms]
+My legs gave out and I slumped down against the wall of the elevator,[r]
+sliding down to the floor.[pcms]
 
 *1683|
 [fc]
-心臓がまだ、爆発しそうなほどドキドキしている。[pcms]
+My heart was still pounding as if it was about to explode.[pcms]
 
 *1684|
 [fc]
-しかし、いつまでもこうしている訳にはいかない。[pcms]
+However, I couldn't stay like this forever.[pcms]
 
 *1685|
 [fc]
-花沢がエレベーターのボタンを押して、[r]
-扉を開けないとも限らない。[pcms]
+There was no guarantee that Hanazawa wouldn't press the elevator[r]
+button and open the doors.[pcms]
 
 *1686|
 [fc]
-[ns]誠[nse]
-（あれ……感染者って、そういう知能は持ってないんだっけ？）[pcms]
+[ns]Makoto[nse]
+"(Wait... do infected people even have that kind of intelligence?)"[pcms]
 
 *1687|
 [fc]
-どっちだったろう……。[pcms]
+Which was it again...?[pcms]
 
 *1688|
 [fc]
-とっさのことで気が動転して、僕は感染者がそういう知能を[r]
-持っているのかどうかを思い出すことができなかった。[pcms]
+In my panic, I couldn't remember whether infected people retained that[r]
+level of intelligence or not.[pcms]
 
 *1689|
 [fc]
-とにかく、エレベーターの箱の中で腰を抜かして[r]
-へたり込んでいるだけじゃ、何の解決に[r]
-もつながらないことは確かだ。[pcms]
+Anyway, just sitting here with my legs buckled inside the elevator box[r]
+wasn't going to solve anything.[pcms]
 
 *1690|
 [fc]
-[ns]誠[nse]
-「でも……上と下、どっちに行くべきだろう……」[pcms]
+[ns]Makoto[nse]
+"But... which should I choose, up or down..."[pcms]
 
 *1691|
 [fc]
-順当に考えるなら、外に逃げることを想定して、[r]
-ロビー階に行くべきだろう。[pcms]
+If you think about it logically, you'd expect to go to the lobby floor[r]
+to escape outside.[pcms]
 
 *1692|
 [fc]
-でも、いくら性格の悪い花沢でも、自然発症はしないはずだ。[r]
-ということは、当然、外部の感染者との接触によって[r]
-ウイルスを移されたと考えるのが自然といえる。[pcms]
+But even someone as nasty as Hanazawa wouldn't spontaneously develop[r]
+symptoms. That means she must have been infected through contact with[r]
+an external infected person.[pcms]
 
 *1693|
 [fc]
-つまり、少なくとも外にはある程度大勢の感染者や[r]
-未発症のキャリアの人間がいる、と考えるべきだろう。[pcms]
+So at least outside, there should be a considerable number of infected[r]
+people or asymptomatic carriers.[pcms]
 
 *1694|
 [fc]
-自慢じゃないが、僕は体力がないし、[r]
-運動神経も良くない。[pcms]
+I'm not proud of it, but I don't have much stamina, and my reflexes[r]
+aren't great either.[pcms]
 
 *1695|
 [fc]
-浜から神社まで自転車で移動するだけで青息吐息になって[r]
-しまうような僕が、多数の感染者をかいくぐって[r]
-無事に安全な場所まで逃げることができるだろうか？[pcms]
+Can someone like me, who gets winded just biking from the beach to the[r]
+shrine, really dodge a multitude of infected people and safely escape[r]
+to a secure location?[pcms]
 
 *1696|
 [fc]
-……正直、あまり自信がない。[pcms]
+...Honestly, I'm not very confident about that.[pcms]
 
 *1697|
 [fc]
-そうだとしたら、部屋に立て籠もって助けが来るのを[r]
-待った方がまだ現実的じゃないだろうか？[pcms]
+If that's the case, wouldn't it be more realistic to barricade myself[r]
+in a room and wait for help?[pcms]
 
 *1698|
 [fc]
-その場合、問題は食料だ。[pcms]
+The problem then would be food.[pcms]
 
 *1699|
 [fc]
-断水にでもならない限りは、水はとりあえず部屋にいれば[r]
-確保に問題はないだろう。[pcms]
+As long as there's no water outage, water shouldn't be an issue if I[r]
+stay in my room.[pcms]
 
 *1700|
 [fc]
-でも、食べるものに関しては……[r]
-おそらく、スナック菓子くらいしかないはず。[pcms]
+But when it comes to food... there's probably nothing but snack foods[r]
+available.[pcms]
 
 *1701|
 [fc]
-しかも、そーいちが僕の分まで食い散らかしてなければ、という[r]
-但し書き付き。[pcms]
+That is, assuming Souichi hasn't eaten all of mine already.[pcms]
 
 *1702|
 [fc]
-１日２日程度なら、何も食べなくても死なないだろうけど[r]
-それ以上の長期間にわたって助けが来なければ……。[pcms]
+I wouldn't die from not eating for a day or two, but if help doesn't[r]
+come over a longer period...[pcms]
 
 *1703|
 [fc]
-ロビーに降りるにせよ、部屋に立て籠もるにせよ[r]
-リスクがあることは確かだ。[pcms]
+Whether I go down to the lobby or barricade myself in a room, there's[r]
+definitely risk involved.[pcms]
 
 *1704|
 [fc]
-積極的にリスクをとり、ロビーに降りるか、[r]
-それとも消極的なリスクを選び、部屋に立て籠もるか……。[pcms]
+Do I actively take the risk and go down to the lobby, or do I choose[r]
+the passive risk and barricade myself in a room?[pcms]
 
 *1705|
 [fc]
-僕はどちらにしたらいいのか判断がつかなかった。[pcms]
+I couldn't decide which was the better option.[pcms]
 
 *1706|
 [fc]
-必ずどちらかを選ばなくちゃならないんだけど、本音で言えば[r]
-どちらも選ばず、今すぐ姉ちゃんと暮らす[r]
-東京の部屋にワープしたい。[pcms]
+The truth is, I don't want to choose either; I'd rather warp right now[r]
+to the Tokyo apartment where I live with my sister.[pcms]
 
 *1707|
 [fc]
-無論、そんなことができる訳がないんだけど……、[r]
-僕が考えているのは、ただの駄々っ子の理屈だと言うことは[r]
-自分でも分かっていた。[pcms]
+Of course, that's impossible... I knew that what I was thinking was[r]
+just childish reasoning.[pcms]
 
 *1708|
 [fc]
-でも、いやだ……どちらも選べない。選びたくない。[pcms]
+But I don't want to... I can't choose either. I don't want to choose.[pcms]
 
 *1709|
 [fc]
-その時、エレベーターががたんと音をたてて動き出した。[pcms]
+Just then, the elevator lurched into motion with a clunk.[pcms]
 
 *1710|
 [fc]
-はっとして階数表示を見ると、下に下がっている。[pcms]
+I looked up in surprise at the floor indicator and saw that it was[r]
+going down.[pcms]
 
 *1711|
 [fc]
-[ns]誠[nse]
-「い……いやだっ！！」[pcms]
+[ns]Makoto[nse]
+"No... I don't want this!!"[pcms]
 
 *1712|
 [fc]
-自分でどちらかを選択することはできないけれど、[r]
-選択肢がなくなることは想定していなかった。[pcms]
+I couldn't make the choice myself, but I hadn't anticipated being left[r]
+with no choice at all.[pcms]
 
 *1713|
 [fc]
-僕はエレベーターのボタンにかじりつくと、[r]
-自分の部屋がある階を連打した。[pcms]
+I bit down on the elevator button and frantically pressed the floor[r]
+where my room was located.[pcms]
 
 *1714|
 [fc]
-しかし、エレベーターは反応せず、そのまま[r]
-ゆっくりと下がり続けている。[pcms]
+However, the elevator didn't respond and continued to slowly descend.[pcms]
 
 *1715|
 [fc]
-[ns]誠[nse]
-（ど……どうしよう……）[pcms]
+[ns]Makoto[nse]
+"(What... what should I do...)"[pcms]
 
 *1716|
 [fc]
-持っているものと言えば、携帯ゲーム機くらいのものだ。[r]
-顔面に投げつけても、大したダメージは与えられないだろう。[pcms]
+All I had on me was a portable game console. Throwing it at someone's[r]
+face wouldn't do much damage.[pcms]
 
 *1717|
 [fc]
-[ns]誠[nse]
-（やっぱり、ゾンビ映画みたいにエレベーターのドアが開いたら[r]
-　大量の感染者が押し寄せてくるんだろうか……）[pcms]
+[ns]Makoto[nse]
+"(Maybe when the elevator doors open, just like in a zombie movie, a[r]
+horde of infected will rush in...)"[pcms]
 
 *1718|
 [fc]
-そうなったら、間違いなく僕は一巻の終わりだ。[pcms]
+If that happened, it would undoubtedly be the end for me.[pcms]
 
 *1719|
 [fc]
-とりあえず、ドアが開いたら全力で走り抜ける。[pcms]
+For now, I'll just have to run through as soon as the doors open.[pcms]
 
 *1720|
 [fc]
-その事だけを考えて、エレベーターがロビーに到着するのを[r]
-じりじりとしながら待った。[pcms]
+I waited for the elevator to reach the lobby, my anxiety growing by[r]
+the second.[pcms]
 
 *1721|
 [fc]
-心臓が破裂しそうなほどドキドキしている。[pcms]
+My heart felt like it was going to burst from how hard it was[r]
+pounding.[pcms]
 
 *1722|
 [fc]
-緊張しすぎて吐きそうだ。[pcms]
+I was so tense I felt like I was going to throw up.[pcms]
 
 [se buf=0 storage="seC055"]
 ;//♪SEエレベーターの到着音
 
 *1723|
 [fc]
-緊張した状況にあまりにも不釣り合いなマヌケな音をたてて、[r]
-エレベーターがロビーに到着した。[pcms]
+With a comically inappropriate noise, the elevator arrived at the[r]
+lobby.[pcms]
 
 *1724|
 [fc]
-ドアがゆっくりと開いてゆく。[pcms]
+The doors slowly opened.[pcms]
 
 ;//★bg10a ホテルモールフロア＆エントランス・朝昼
 [bg storage="BG10a"][trans_c lr time=300]
 
 *1725|
 [fc]
-でも、映画みたいにゾンビの大群が[r]
-押し寄せてくることはなかった。[pcms]
+But unlike in the movies, there wasn't a swarm of zombies rushing in.[pcms]
 
 *1726|
 [fc]
-[ns]誠[nse]
-（よし……行くぞ！）[pcms]
+[ns]Makoto[nse]
+"(Alright... let's go!)"[pcms]
 
 *1727|
 [fc]
-がちがちと鳴りそうな歯を食いしばって、僕は一気に[r]
-エレベーターの中からロビーへと走り出す。[pcms]
+Clenching my teeth as if they were about to chatter, I dashed from the[r]
+elevator into the lobby in one go.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1728|
 [fc]
-周囲を見回す余裕なんかまったくなかった。[pcms]
+I had no time to look around.[pcms]
 
 *1729|
 [fc]
-ただ、それまでの高級リゾートホテルのたたずまいとは[r]
-全く異なる喧噪にロビーが満たされていることは分かった。[pcms]
+But I could tell that the lobby was filled with a noise completely[r]
+different from the upscale resort hotel's usual atmosphere.[pcms]
 
 ;//★bg10a ホテルモールフロア＆エントランス・朝昼
 [bg storage="BG10a"][trans_c lr time=300]
@@ -665,24 +660,24 @@ UNKNOWN-LV4。[r]
 
 *1730|
 [fc]
-幽鬼のようにふらふらと蠢く人の姿や、逃げ惑う人の姿。[pcms]
+There were figures staggering around like ghosts and people running in[r]
+panic.[pcms]
 
 *1731|
 [fc]
-誰かの悲鳴、絶叫、助けを求める悲痛な声が[r]
-耳に飛び込んでくる。[pcms]
+Screams, cries of terror, and desperate pleas for help assaulted my[r]
+ears.[pcms]
 
 [se buf=0 storage="seA047"]
 ;//♪SE走る足音
 
 *1732|
 [fc]
-僕はそれら全てを振り切るように、[r]
-一番近い出口に向かって走り続けた。[pcms]
+I ran towards the nearest exit as if shaking off everything around me.[pcms]
 
 *1733|
 [fc]
-その時、僕は誰かに思い切り足を払われる。[pcms]
+Then, someone tripped me up with all their might.[pcms]
 
 [quake_bg xy m]
 
@@ -698,67 +693,66 @@ UNKNOWN-LV4。[r]
 
 *1734|
 [fc]
-僕はいきなり転び、床に激しく顔面を叩きつけてしまった。[pcms]
+I suddenly fell and slammed my face hard against the floor.[pcms]
 
 *1735|
 [fc]
-目の裏側に星が飛び散る。鼻も痛い。[pcms]
+Stars scattered behind my eyes. My nose hurt too.[pcms]
 
 *1736|
 [fc]
-鼻の下がなんだかぬるぬるする。[pcms]
+The area under my nose felt slimy.[pcms]
 
 *1737|
 [fc]
-たぶん、鼻血が出てるんだと思うけど、[r]
-あまりの痛さに目が開けられない。[pcms]
+I probably had a nosebleed, but the pain was so intense I couldn't[r]
+open my eyes.[pcms]
 
 *1738|
 [fc]
-しかも転んだ拍子に、自分の膝がみぞおちに入ってしまい、[r]
-肺の空気が全部押し出されてしまった。[pcms]
+Moreover, when I fell, my knee hit my solar plexus, and all the air[r]
+was pushed out of my lungs.[pcms]
 
 *1739|
 [fc]
-僕は床でのたうちながら、なんとか空気を吸い込もうと、[r]
-酸欠の金魚みたいに必死に口を動かしていく。[pcms]
+Writhing on the floor, I desperately moved my mouth like an oxygen-[r]
+starved goldfish trying to suck in air.[pcms]
 
 *1740|
 [fc]
 [vo_aka s="akari_tj0234"]
-[ns]茜梨[nse]
-「あ、はあぁ、やっ、と、みつけたぁ、まーくんせんぱい。[r]
-　うふ、ふふふ、うふふふっ……」[pcms]
+[ns]Akari[nse]
+"Ah, haaah, noo, I've found you, Mak-kun senpai. Ufu, fufufu,[r]
+ufufufu..."[pcms]
 
 *1741|
 [fc]
-こ、この声は……越智さん？[pcms]
+This voice... is it Ochi-san?[pcms]
 
 *1742|
 [fc]
 [vo_aka s="akari_tj0235"]
-[ns]茜梨[nse]
-「だめ、ですよぉ。ろびーは、はしっちゃあ。[r]
-　わたしが、とめ、なかったら、だれかに、[r]
-　ぶつかって、ました、よぉ」[pcms]
+[ns]Akari[nse]
+"No, you can't. You shouldn't run in the lobby. If I hadn't stopped[r]
+you, you would have bumped into someone."[pcms]
 
 *1743|
 [fc]
 [vo_aka s="akari_tj0236"]
-[ns]茜梨[nse]
-「それよりぃ……わたしぃ、まーくんせんぱいのこと、さがしてぇ[r]
-　こーんなに、おまんこ、ぬるぬるに、なっちゃったんですよぉ」[pcms]
+[ns]Akari[nse]
+"Besides... I've been looking for you so much, Mak-kun senpai, that my[r]
+pussy has gotten all wet."[pcms]
 
 *1744|
 [fc]
-え！？　越智さん……いま、何て？[pcms]
+Eh!? Ochi-san... what did you just say?[pcms]
 
 *1745|
 [fc]
 [vo_aka s="akari_tj0237"]
-[ns]茜梨[nse]
-「せんぱいの、せいですからねぇ。ちゃーんと、せきにんとって[r]
-　きれいに、してくださいねぇ。うふ、うふふふふ……」[pcms]
+[ns]Akari[nse]
+"It's all your fault, senpai. So you better take responsibility and[r]
+clean it up nicely for me. Ufu, ufufufufu..."[pcms]
 
 ;//★bg10a ホテルモールフロア＆エントランス・朝昼
 [bg storage="BG10a"]
@@ -768,8 +762,8 @@ UNKNOWN-LV4。[r]
 
 *1746|
 [fc]
-ようやく、痛みが少しひいてきた。[r]
-どうにか目が開けられそうだ。[pcms]
+Finally, the pain subsided a little. It seemed like I could open my[r]
+eyes now.[pcms]
 
 
 ;mm キャラに白加算150
@@ -779,9 +773,9 @@ UNKNOWN-LV4。[r]
 
 *1747|
 [fc]
-まだぼんやりとした視界のまま目を開けると、薄汚れたチアコスを[r]
-身につけた越智さんが、立ったまま僕の顔を見下ろし、[r]
-どこか呆けたような笑顔を浮かべている。[pcms]
+As I opened my eyes still blurry with pain, Ochi-san in her dirty[r]
+cheerleader costume was looking down at me with a vacant smile on her[r]
+face.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -797,14 +791,14 @@ UNKNOWN-LV4。[r]
 
 *1748|
 [fc]
-そして……越智さんの目の色が、僕を絶望に突き落とした。[pcms]
+And then... the color of Ochi-san's eyes plunged me into despair.[pcms]
 
 *1749|
 [fc]
 [vo_mob s="un0003"]
-[ns]女[nse]
-「あ、あらぁ、あなた、これから、おまんこなの？[r]
-　い、いいわねぇ。わたしも、なかまに、いれてくれない？」[pcms]
+[ns]Female[nse]
+"Oh my, are you about to have pussy fun? That's nice. Can you include[r]
+me too?"[pcms]
 
 ;//知らない女 立ちキャラに似たような褐色娘いるけど、微妙に違うから貼らない
 
@@ -813,35 +807,33 @@ UNKNOWN-LV4。[r]
 *1750|
 [fc]
 [vo_aka s="akari_tj0238"]
-[ns]茜梨[nse]
-「いいですよぉ～。じゃ、さいしょはおねえさんが[r]
-　せんぱいと、おまんこ、してくださいねぇ♪」[pcms]
+[ns]Akari[nse]
+"Sure~. Then let big sister have pussy fun with senpai first♪"[pcms]
 
 *1751|
 [fc]
 [vo_mob s="un0004"]
-[ns]女[nse]
-「わ、わるいわねぇ。でも、それじゃ、おことばに、あまえて、[r]
-　えんりょなく、このこの、おちんぽ、[r]
-　いれさせて、もらうわね……うふ、うふふふっ……」[pcms]
+[ns]Female[nse]
+"Oh, I'm sorry. But then, without hesitation, I'll take this[r]
+opportunity to slide this cock inside me... Ufu, ufufufu..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1752|
 [fc]
-知らない女の声が足元で聞こえたかと思うと、いきなり[r]
-ズボンに手をかけてきた。[pcms]
+Just as I heard a woman's voice at my feet, she suddenly reached for[r]
+my pants.[pcms]
 
 *1753|
 [fc]
-[ns]誠[nse]
-「な……なにを……？」[pcms]
+[ns]Makoto[nse]
+"Wha... what are you...?"[pcms]
 
 *1754|
 [fc]
 [vo_mob s="un0005"]
-[ns]女[nse]
-「うふふ～……えいっ」[pcms]
+[ns]Female[nse]
+"Ufufu~... Ei!"[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -859,34 +851,34 @@ UNKNOWN-LV4。[r]
 
 *1755|
 [fc]
-女がにまっと笑ったかと思うと、もの凄い力でベルトごと[r]
-パンツとズボンを一気に引きちぎられてしまった。[pcms]
+The woman grinned wickedly and with incredible strength, she tore off[r]
+my belt along with my pants and underwear in one go.[pcms]
 
 *1756|
 [fc]
-下半身が空気にさらされる感触がする。[pcms]
+I felt the sensation of my lower half being exposed to the air.[pcms]
 
 *1757|
 [fc]
 [vo_mob s="un0006"]
-[ns]女[nse]
-「あらぁ～、ぼくぅ、おちんぽ、ほーけいなんだぁ～」[pcms]
+[ns]Female[nse]
+"Oh my, you have quite the impressive cock."[pcms]
 
 *1758|
 [fc]
-知らない女の指が、僕のペニスにからみつき、[r]
-ゆっくりと上下に動き出す。[pcms]
+The unknown woman's fingers entwined with my penis, slowly beginning[r]
+to move up and down.[pcms]
 
 *1759|
 [fc]
-それだけで、僕のペニスは臨戦態勢になって反り返ってしまった。[pcms]
+With just that, my penis was in battle-ready mode, curving upwards.[pcms]
 
 *1760|
 [fc]
 [vo_mob s="un0007"]
-[ns]女[nse]
-「きゃはは。おっきく、なったぁ～。[r]
-　じゃ、このおちんぽ、かわむいて、いれちゃおぅ～っと」[pcms]
+[ns]Female[nse]
+"Kyahaha. It's gotten so big~. Now, let's take this cock and slide it[r]
+in."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che_kan2"][ChrSetXY layer=5 x=240 y=0][trans_c cross time=150]
 [wait_c time=150]
@@ -895,9 +887,8 @@ UNKNOWN-LV4。[r]
 *1761|
 [fc]
 [vo_aka s="akari_tj0239"]
-[ns]茜梨[nse]
-「じゃあ、わたしの、おまんこは、なめて、きれいに[r]
-　してくださいね～。うふふふっ……」[pcms]
+[ns]Akari[nse]
+"Then please lick my pussy clean~. Ufufufu..."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -908,7 +899,8 @@ UNKNOWN-LV4。[r]
 
 *1762|
 [fc]
-次の瞬間、僕は顔面と股間に異なる刺激を受けていた。[pcms]
+The next moment, I was receiving different stimuli on my face and[r]
+crotch.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -936,239 +928,235 @@ UNKNOWN-LV4。[r]
 *1763|
 [fc]
 [vo_mob s="un0008"]
-[ns]女[nse]
-「あは、ああぁっ！　おちんぽ、はいってきたあぁっ！」[pcms]
+[ns]Female[nse]
+"Aha, aahh! The cock is going in aahh!"[pcms]
 
 *1764|
 [fc]
 [vo_aka s="akari_tj0240"]
-[ns]茜梨[nse]
-「んく、ううっ！　まーくん、せんぱいの、くちが、[r]
-　おまんこに、あたって、きもちいいよぉ……っ！」[pcms]
+[ns]Akari[nse]
+"Nnkuh, uuh! Mak-kun senpai, your mouth is on my pussy, it feels so[r]
+good...!"[pcms]
 
 *1765|
 [fc]
-顔面に、越智さんのアソコが押しつけられる。[pcms]
+Akari's crotch was pressed against my face.[pcms]
 
 ;//これも上記『ペニス／チンポ』と同様です。正気でも『オマンコ』と地の文で
 ;//表記した方がいいのなら、適宜書き換えて下さい。（た）
 
 *1766|
 [fc]
-滴るほどに濡れた越智さんのアソコが、僕の鼻や口を塞ぐ。[r]
-中からはなんだか、イカ臭い嗅ぎ慣れた匂いもする。[pcms]
+Akari's dripping wet pussy covered my nose and mouth. From inside, I[r]
+could smell a familiar fishy scent.[pcms]
 
 [evcg storage="etc_H001c"][trans_c cross time=300]
 
 *1767|
 [fc]
 [vo_aka s="akari_tj0241"]
-[ns]茜梨[nse]
-「はあぁ、んあああん。せんぱいぃ、もっとちゃんとなめてぇ。[r]
-　あかりのおまんこに、した、つっこんで、くりとりすも[r]
-　ぺろぺろしてえぇ」[pcms]
+[ns]Akari[nse]
+"Haaah, naaahn. Senpai, lick me more properly. Slide your tongue down[r]
+and lick my clit too."[pcms]
 
 *1768|
 [fc]
-そんな事をいいながら、さらにアソコを僕の顔に押しつけて[r]
-越智さんが腰をぐりぐりと動かす。[pcms]
+While saying that, Akari pressed her crotch even harder against my[r]
+face and began to grind her hips.[pcms]
 
 *1769|
 [fc]
-鼻からは血が流れ出していて、口でしか呼吸できないのに、[r]
-その口も越智さんのアソコで塞がれて、息ができない。[pcms]
+Blood was flowing from my nose, and although I could only breathe[r]
+through my mouth, it was blocked by Akari's pussy, making it[r]
+impossible to breathe.[pcms]
 
 *1770|
 [fc]
-僕はなんとか呼吸を確保しようと、必死に頭を動かした。[pcms]
+I desperately moved my head around trying to secure a way to breathe.[pcms]
 
 *1771|
 [fc]
 [vo_aka s="akari_tj0242"]
-[ns]茜梨[nse]
-「んはあっ！　そっ、そうっ、そこおっ！　いいっ！[r]
-　おまんこ、きもちいいよおっ、せんぱいいっ！」[pcms]
+[ns]Akari[nse]
+"Nhaah! Yes, that's it, right there! It feels good! My pussy feels so[r]
+good, senpai!"[pcms]
 
 *1772|
 [fc]
-僕の気持ちも知らず、越智さんが僕の顔にまたがったまま[r]
-身をよじって嬌声を上げた。[pcms]
+Unaware of how I felt, Akari continued to moan while straddling my[r]
+face.[pcms]
 
 *1773|
 [fc]
 [vo_mob s="un0009"]
-[ns]女[nse]
-「んんっ！　んああっ！　ほーけいの、くせにぃ、このおちんぽ[r]
-　なかなか、きもち、いいわよっ……はああっ、んんうっ！」[pcms]
+[ns]Female[nse]
+"Nnnh! Nnaah! For a virgin cock, it feels surprisingly good... Haaah,[r]
+nnnuh!"[pcms]
 
 *1774|
 [fc]
-僕のペニスに、見知らぬ女がまたがって腰を振っている。[pcms]
+An unknown woman was straddling my penis and swinging her hips.[pcms]
 
 *1775|
 [fc]
-生まれて初めて体験する女性の中の感触は、とても熱く、[r]
-とろけた肉が竿やカリにまとわりつく感触が[r]
-信じられないほど気持ちよかった。[pcms]
+The sensation inside a woman for the first time was incredibly hot;[r]
+the melting flesh clung to the shaft and glans in an unbelievably[r]
+pleasurable way.[pcms]
 
 *1776|
 [fc]
-自分でするのとは全く異なる強烈な快感が全身に走る。[pcms]
+A strong pleasure unlike anything I'd done by myself coursed through[r]
+my entire body.[pcms]
 
 *1777|
 [fc]
-本当なら、僕にとって何もかもが初めてのこの体験を、[r]
-もっとちゃんと堪能するところなんだろうけど、[r]
-今はそれどころじゃない。[pcms]
+Under normal circumstances, I would have savored this first-time[r]
+experience more thoroughly, but right now I couldn't afford to do so.[pcms]
 
 *1778|
 [fc]
 [vo_aka s="akari_tj0243"]
-[ns]茜梨[nse]
-「んああっ、んはううぅっ！　せんぱいのっ、はながっ[r]
-　くりとりすにあたって……んはああっ！」[pcms]
+[ns]Akari[nse]
+"Nnaahh, nhaauuh! Senpai's nose is hitting my clit... nhaaah!"[pcms]
 
 *1779|
 [fc]
 [vo_aka s="akari_tj0244"]
-[ns]茜梨[nse]
-「ぬるぬるするよぉ、おまんこ、ぬるぬるするよおぉ……！[r]
-　んああっ、ひああっ、んにゃああぁあっっ！」[pcms]
+[ns]Akari[nse]
+"It's so slippery, my pussy is so slippery...! Nnaahh, hiaahh,[r]
+nnyaaahhh!"[pcms]
 
 *1780|
 [fc]
-越智さんのアソコから流れ出る愛液と、中出しされた精液が[r]
-僕の鼻から流れ出た鼻血と混じって喉に流れ込み、[r]
-生臭さと鉄臭さで、思わず吐きそうになる。[pcms]
+Akari's love juices mixed with the semen inside her flowed out and[r]
+mixed with the blood from my nose, running down my throat. The fishy[r]
+and metallic taste almost made me vomit.[pcms]
 
 [evcg storage="etc_H001d"][trans_c cross time=300]
 
 *1781|
 [fc]
 [vo_mob s="un0010"]
-[ns]女[nse]
-「い、いいっ、いいいいっ、おまんこ、の、おくっ！[r]
-　あたるっ、このおちんぽ、あたるのおおっ！！」[pcms]
+[ns]Female[nse]
+"Iiit's good, it's hitting the back of my pussy! This cock is hitting[r]
+it right!!"[pcms]
 
 *1782|
 [fc]
-僕にまたがった見知らぬ女は、好き勝手に腰を振りたくって[r]
-勝手に快感を貪っている。[pcms]
+The unknown woman straddling me swung her hips freely, indulging in[r]
+pleasure on her own accord.[pcms]
 
 *1783|
 [fc]
-女が腰をひと振りするごとに、溢れ出した愛液が僕のペニスを[r]
-より滑らかに濡らしてゆき、結合部がじゅび、じゅぶっと[r]
-下品な音をたてる。[pcms]
+With each thrust of her hips, the overflowing love juices made my[r]
+penis even slicker, and the joining parts made lewd squelching sounds.[pcms]
 
 *1784|
 [fc]
-女が時折、アソコで僕のペニスを締めつけてくる。[r]
-入り口がきゅうっと締まり、その後、中全体が[r]
-ざわざわと蠢いて刺激してきた。[pcms]
+The woman occasionally tightened around my penis with her pussy. The[r]
+entrance clenched tightly and then the inside writhed and stimulated[r]
+me further.[pcms]
 
 *1785|
 [fc]
 [vo_aka s="akari_tj0245"]
-[ns]茜梨[nse]
-「はあぁあぁん……まーくんせんぱいにぃ、ぬるぬるの[r]
-　おまんこ、なめられてぇ……いっちゃいそ、なのぉ……」[pcms]
+[ns]Akari[nse]
+"Haaahhhn... Mak-kun senpai is licking my slippery pussy... I'm going[r]
+to cum soon..."[pcms]
 
 *1786|
 [fc]
 [vo_mob s="un0011"]
-[ns]女[nse]
-「んああっ、ああああっ！　あたしも、あたしもぉお！[r]
-　おちんぽで、おまんこぶちぬかれてぇ、[r]
-　いっちゃううぅぅぅう！」[pcms]
+[ns]Female[nse]
+"Nnaahh, aaaaah! Me too, me toooo! This cock is pounding my pussy so[r]
+hard, I'm gonna cummm!"[pcms]
 
 *1787|
 [fc]
-意識が……朦朧としてきた。[pcms]
+My consciousness was becoming hazy...[pcms]
 
 *1788|
 [fc]
-口の中は、越智さんがアソコから垂れ流す愛液と精液、それに[r]
-自分の鼻血とで溢れかえり、すでに呼吸が怪しくなっている。[pcms]
+My mouth was overflowing with Akari's love juices and semen along with[r]
+my own blood; breathing had become difficult.[pcms]
 
 *1789|
 [fc]
-おまけに、顔の上でも、ペニスでも、生まれてはじめて感じる、[r]
-女性の生のアソコの感触……。[pcms]
+In addition to that, on my face and on my penis, I was feeling the[r]
+sensation of a woman's raw pussy for the first time...[pcms]
 
 *1790|
 [fc]
-[ns]誠[nse]
-（んあ、ああぁ……オチンチンが、溶けちゃう……）[pcms]
+[ns]Makoto[nse]
+(Nnah, aaah... My dick is going to melt...)[pcms]
 
 *1791|
 [fc]
-越智さんのアソコに口を塞がれたまま、[r]
-僕は声にならない声を上げた。[pcms]
+"With Ochi-san's crotch pressed against my mouth, I let out a[r]
+voiceless cry."[pcms]
 
 *1792|
 [fc]
-腰から下がとろけそうに熱い。[pcms]
+"It's so hot below my waist, it feels like it's melting."[pcms]
 
 [evcg storage="etc_H001b"][trans_c cross time=300]
 
 *1793|
 [fc]
 [vo_mob s="un0012"]
-[ns]女[nse]
-「はあ！　ああぁっ！　んっ、やっ、だめえぇっ！[r]
-　いくっ！　だしてっ！　だしなさいいっ！」[pcms]
+[ns]Female[nse]
+"Haa! Aaahh! Nn, no, stop it! I'm cumming! Let it out! Let it out[r]
+inside!"[pcms]
 
 *1794|
 [fc]
 [vo_mob s="un0013"]
-[ns]女[nse]
-「あたしの、おまんこの、なかに……っ！[r]
-　こくて、あつくて、くっさいざーめんっ、どばどばって、[r]
-　いっぱい……だしなさいよおっ！」[pcms]
+[ns]Female[nse]
+"Inside my pussy...! Thick, hot, smelly semen, let it out in big[r]
+spurts... fill me up!"[pcms]
 
 *1795|
 [fc]
 [vo_aka s="akari_tj0246"]
-[ns]茜梨[nse]
-「んやっ、んやあぁっ！　だめ、も、だめえぇっ！[r]
-　せんぱいっ、いくっ！　あたしも、いっちゃうのっ！」[pcms]
+[ns]Akari[nse]
+"Nyahh, nyahhaaah! No, I can't take it anymore! Senpai, I'm cumming![r]
+I'm going to cum too!"[pcms]
 
 *1796|
 [fc]
-越智さんが、僕の顔に腰をこすりつける動きをいっそう早めた。[pcms]
+Ochi-san quickened the movement of her hips grinding against my face.[pcms]
 
 *1797|
 [fc]
-その動きに押されて、僕の鼻から新たな出血が流れ出して[r]
-僕の喉へと流れ込んだ。[pcms]
+Pushed by her movements, fresh blood flowed from my nose and into my[r]
+throat.[pcms]
 
 *1798|
 [fc]
-もう、よく分からないけれど……[r]
-たぶん、鼻の骨が折れてるに違いない。[pcms]
+I don't really understand anymore... but probably, my nose bone is[r]
+definitely broken.[pcms]
 
 *1799|
 [fc]
-酸素が足りずに、頭がぼーっとしてるにも関わらず、[r]
-ペニスはもう爆発寸前だった。[pcms]
+Even though my head is getting fuzzy due to lack of oxygen, my penis[r]
+is on the verge of exploding.[pcms]
 
 *1800|
 [fc]
 [vo_aka s="akari_tj0247"]
-[ns]茜梨[nse]
-「ひあああぁぁぁっ！　んああぁぁっ！　いくっいくうううっ！」[pcms]
+[ns]Akari[nse]
+"Hiaaaaahhh! Nyaahhh! I'm cumming, I'm cumminggg!"[pcms]
 
 *1801|
 [fc]
 [vo_mob s="un0014"]
-[ns]女[nse]
-「やあぁっ！　あああぁぁっ！　いっ……くうううぅぅっっ！」[pcms]
+[ns]Female[nse]
+"Yaaahh! Aaaaahhh! I'm... cummingggg!"[pcms]
 
 *1802|
 [fc]
-[ns]誠[nse]
-（く、くううううぅぅぅっ！！！）[pcms]
+[ns]Makoto[nse]
+(Ku, kuuuuuuuuu!!)[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1185,59 +1173,56 @@ UNKNOWN-LV4。[r]
 
 *1803|
 [fc]
-そのまま、僕はまたがった女の中で爆発した。[pcms]
+And then, I exploded inside the woman straddling me.[pcms]
 
 *1804|
 [fc]
 [vo_mob s="un0015"]
-[ns]女[nse]
-「んっほおおおおぉぉっぉおおおぉぉっ！！！」[pcms]
+[ns]Female[nse]
+"Nnhooooooohhhhh!!!"[pcms]
 
 *1805|
 [fc]
-ペニスだけが、まるで別の生き物のように元気よく脈動して[r]
-どくん、どくんと暴れながら、白濁液を[r]
-女の体内にぶちまけてゆく。[pcms]
+Only my penis, as if it were a separate living creature, pulsed[r]
+vigorously and wildly spurted out cloudy fluid into the woman's body.[pcms]
 
 *1806|
 [fc]
 [vo_mob s="un0016"]
-[ns]女[nse]
-「ひぃああぁあっ！　あつうぅい！　おまんこ、あついぃぃ……！[r]
-　あ、ぬ、る、ひ、ああ、あああ、あああぁぁぁぁああっ！！」[pcms]
+[ns]Female[nse]
+"Hiiiaaahh! It's so hot! My pussy is so hot...! Ah, nu, ru, hi, aah,[r]
+aaaaah, aaaaaahhhhh!!"[pcms]
 
 *1807|
 [fc]
-意味のない言葉を吐きながら、女の体が僕の上で[r]
-びくびくと痙攣し、アソコがペニスを締めつける。[pcms]
+While uttering meaningless words, the woman's body convulsed on top of[r]
+me and her pussy clenched tightly around my penis.[pcms]
 
 [evcg storage="etc_H001f"][trans_c cross time=300]
 
 *1808|
 [fc]
 [vo_aka s="akari_tj0248"]
-[ns]茜梨[nse]
-「はあぁあ……すごぉい……おまんこから、あんなにぃ……[r]
-　いっぱい、ながれだしててぇ……」[pcms]
+[ns]Akari[nse]
+"Haaaah... amazing... so much is flowing out from my pussy..."[pcms]
 
 *1809|
 [fc]
 [vo_aka s="akari_tj0249"]
-[ns]茜梨[nse]
-「すごく、えっち……うふふ……せんぱいぃ……こんどはぁ[r]
-　あかりの、おまんこの、なかにもぉ、おちんちん[r]
-　いれて、くださぁい……うふ、うふふふっ……」[pcms]
+[ns]Akari[nse]
+"It's so naughty... ufufu... senpai... next time please put your cock[r]
+inside Akari's pussy too... ufu, ufufufu..."[pcms]
 
 *1810|
 [fc]
-越智さんが、相変わらず僕の顔にアソコをこすりつけながら[r]
-何か言っている。[pcms]
+Ochi-san continued to rub her crotch against my face while saying[r]
+something.[pcms]
 
 *1811|
 [fc]
 [vo_aka s="akari_tj0250"]
-[ns]茜梨[nse]
-「せん……ぱい……？」[pcms]
+[ns]Akari[nse]
+"Sen... pai...?"[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -1260,39 +1245,39 @@ UNKNOWN-LV4。[r]
 
 *1812|
 [fc]
-でも、僕の耳にはその言葉は、もうはっきりと伝わらない。[pcms]
+But the words no longer reached my ears clearly.[pcms]
 
 *1813|
 [fc]
-僕……このまま……死んじゃうんだろうか……。[pcms]
+"Am I... going to die like this...?"[pcms]
 
 *1814|
 [fc]
-そう言えば……どれくらい、呼吸をしてなかっただろう……。[pcms]
+Come to think of it... how long has it been since I last breathed...?[pcms]
 
 *1815|
 [fc]
-はじめての体験が……最後の体験に……なるなんて……。[pcms]
+My first experience... is going to be my last one...[pcms]
 
 *1816|
 [fc]
-こんな……のは……いやだ………。[pcms]
+This is not... what I wanted...[pcms]
 
 *1817|
 [fc]
-いや………だ……………。[pcms]
+I don't... want this...[pcms]
 
 *1818|
 [fc]
-………………………………………………………。[pcms]
+"..."[pcms]
 
 *1819|
 [fc]
-…………………………………。[pcms]
+"..."[pcms]
 
 *1820|
 [fc]
-……………………。[pcms]
+"..."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1329,5 +1314,5 @@ UNKNOWN-LV4。[r]
 [eval exp="sf.g_prologueSkip = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 

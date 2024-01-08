@@ -23,227 +23,232 @@
 
 *1252|
 [fc]
-南先輩を支え、荷物も持って……と、いつになく頑張った僕は、[r]
-ちょっと身体のあちこちに痛みを感じ始めていた。[pcms]
+I, who unusually worked hard supporting Senior Minami and carrying the[r]
+luggage, started to feel pain here and there in my body.[pcms]
 
 *1253|
 [fc]
-衝突した時のダメージが、今更出てきているのかもしれない。[pcms]
+The damage from when we collided might be catching up to me now.[pcms]
 
 *1254|
 [fc]
-[ns]誠[nse]
-「……はっ……はっ」[pcms]
+[ns]Makoto[nse]
+"...hah... hah"[pcms]
 
 *1255|
 [fc]
 [vo_stk s="satuki_st0209"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *1256|
 [fc]
-山道の先に、木が伐採されて開けた場所が見えてきた。[r]
-どうやらこの細い道は、山の上の集落に続く道になっているようだ。[pcms]
+A cleared area where trees had been cut down came into view at the end[r]
+of the mountain path. It seems this narrow path leads to a settlement[r]
+on top of the mountain.[pcms]
 
 ;//★_山の集落
 [bg storage="village01c"][trans_c cross time=500]
 
 *1257|
 [fc]
-そこは、肩を寄せ合うように建ち並ぶ、[r]
-こじんまりとした集落だった。[pcms]
+It was a small village where the houses stood close together, as if[r]
+huddling for warmth.[pcms]
 
 *1258|
 [fc]
-簡単に数えられる程度の家々が並んでいる。[pcms]
+There were only a handful of houses lined up, easy to count.[pcms]
 
 *1259|
 [fc]
-どこかの家で休ませてもらえないだろうか……、[r]
-そんな期待を持ちながら僕たちは歩を進めた。[pcms]
+Wondering if we could rest at someone's house, we continued walking[r]
+with that hope.[pcms]
 
 *1260|
 [fc]
-誰か居たら声を掛けてみようと思うけれど、[r]
-人の姿が見当たらない。[pcms]
+I thought to call out if there was anyone around, but I couldn't see[r]
+any signs of people.[pcms]
 
 *1261|
 [fc]
-目の前にある一軒のお宅の玄関が半開きになっていた。[r]
-こっそり中を覗いてみる。[pcms]
+The front door of a house right in front of us was half-open. I sneak[r]
+a peek inside.[pcms]
 
 *1262|
 [fc]
-薄暗がりの中に人影が見えるけれど――[pcms]
+Although I can see a figure in the dim light--[pcms]
 
 *1263|
 [fc]
-[ns]感染者[nse]
-「う……うう……」[pcms]
+[ns]Infected person[nse]
+"Ugh... ugh..."[pcms]
 
 *1264|
 [fc]
-あの、おぼつかない足取りは……。[pcms]
+That unsteady gait...[pcms]
 
 *1265|
 [fc]
-振り返ったらわかるけれど、[r]
-あの人の眼は赤く染まっているに違いない。[pcms]
+If I turned around, I would realize that their eyes must be dyed red.[pcms]
 
 *1266|
 [fc]
-こんな山奥にまで……たぶん、ここの住人なんだろう。[pcms]
+Even in such a remote mountain area... they're probably one of the[r]
+residents here.[pcms]
 
 *1267|
 [fc]
-まだ僕たちには気がついていない様子だけど、油断は出来ない。[r]
-今の僕や南先輩のコンディションを考えたら、アイツらの相手は[r]
-とても無理だ。[pcms]
+We haven't been noticed yet, but we can't let our guard down.[r]
+Considering the condition of both Senior Minami and myself, dealing[r]
+with them is out of the question.[pcms]
 
 *1268|
 [fc]
-そっと家から離れて辺りを見回す。[r]
-山を越えて、反対側の町に行く太い道が見えるけど、[r]
-町は人が多すぎて、かえって危ない気がする。[pcms]
+I quietly move away from the house and look around. I can see a main[r]
+road that crosses the mountain to the town on the other side, but the[r]
+town seems too crowded and therefore dangerous.[pcms]
 
 *1269|
 [fc]
-実際、町があるだろう方向の上空に、[r]
-黒煙が上がっているのが遠目にわかった。[pcms]
+Indeed, I could see smoke rising in the sky in the direction where the[r]
+town should be, even from a distance.[pcms]
 
 *1270|
 [fc]
-どうしようか。もう１本山の中に続いている細い道も見える。[r]
-この集落でさえ危ないなら、取り敢えず山に分け入った方が[r]
-いいかもしれない。[pcms]
+What should we do? I can also see another narrow path continuing into[r]
+the mountains. If even this village is dangerous, it might be better[r]
+to head into the mountains for now.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st32"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1271|
 [fc]
-[ns]誠[nse]
-「南先輩。このまま山の中に進みます。体調はどうですか？」[pcms]
+[ns]Makoto[nse]
+"Senior Minami. We'll continue into the mountains. How are you[r]
+feeling?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1272|
 [fc]
 [vo_stk s="satuki_st0210"]
-[ns]彩月[nse]
-「ごめん、誠君。迷惑掛けるね。さっきよりは少しマシかな」[pcms]
+[ns]Satsuki[nse]
+"Sorry, Makoto-kun. I'm causing you trouble. I feel a bit better than[r]
+before."[pcms]
 
 *1273|
 [fc]
-[ns]誠[nse]
-「じゃあ、進みます」[pcms]
+[ns]Makoto[nse]
+"Then, let's move on."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1274|
 [fc]
-しばらく進むと、集落の外れだと思えるような場所に、[r]
-ポツリと家が建っていた。[pcms]
+After walking for a while, we reached what seemed to be the outskirts[r]
+of the village, where a solitary house stood.[pcms]
 
 *1275|
 [fc]
-普通の住宅じゃなくて、集会所っぽい感じだ。[pcms]
+It didn't look like a normal residence but more like a community[r]
+center.[pcms]
 
 *1276|
 [fc]
-周囲を伺っても、感染者どころか人の気配すらない。[r]
-ここで、休むってのはどうだろうか。[pcms]
+Looking around, there was no sign of infected people or even any[r]
+people at all. Maybe we could rest here?[pcms]
 
 *1277|
 [fc]
-[ns]誠[nse]
-「南先輩。あそこで、休みませんか？[r]
-　誰も周りに居ないようだし、たぶん大丈夫じゃないかと」[pcms]
+[ns]Makoto[nse]
+"Senior Minami. Shall we rest over there? It seems like there's no one[r]
+around, so it's probably safe."[pcms]
 
 *1278|
 [fc]
 [vo_stk s="satuki_st0211"]
-[ns]彩月[nse]
-「……取り敢えず、もう少し近くまで行ってみようか」[pcms]
+[ns]Satsuki[nse]
+"...Let's go a bit closer and see."[pcms]
 
 ;//★_集落の公民館(淫祭の集会場)
 [bg storage="village03c"][trans_c cross time=500]
 
 *1279|
 [fc]
-扉に手を掛けてみる。[r]
-残念ながら鍵が掛かっていてびくともしない。[pcms]
+I try the door handle. Unfortunately, it's locked and won't budge.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1280|
 [fc]
-[ns]誠[nse]
-「中にもひとの気配はないですね。[r]
-　どこか……窓でも割って中に入りましょう」[pcms]
+[ns]Makoto[nse]
+"There's no sign of anyone inside either. Maybe we should break a[r]
+window to get in..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1281|
 [fc]
 [vo_stk s="satuki_st0212"]
-[ns]彩月[nse]
-「待って。その音で誰か呼ぶ可能性もあるでしょ？[r]
-　ん……と、ちょっと待ってて」[pcms]
+[ns]Satsuki[nse]
+"Wait. That noise might attract someone, right? Hmm... just wait a[r]
+moment."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1282|
 [fc]
-南先輩は、しばらく扉を見つめて何事か考えている。[r]
-まだおぼつかない足取りで扉に近づき、扉の枠の上に手を伸ばし、[r]
-指先で探っていた。[pcms]
+Senior Minami stared at the door for a while as if thinking about[r]
+something. She approached the door with her still unsteady steps,[r]
+reached up to the frame, and started feeling around with her[r]
+fingertips.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st30"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1283|
 [fc]
 [vo_stk s="satuki_st0213"]
-[ns]彩月[nse]
-「ほら、あった！」[pcms]
+[ns]Satsuki[nse]
+"Look, here it is!"[pcms]
 
 *1284|
 [fc]
-先輩の指に鍵がつままれている。[r]
-地方の公民館なのだとしたら、あり得る話だった。[pcms]
+The key was pinched between Senior's fingers. If this was a rural[r]
+community center, it was a plausible scenario.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1285|
 [fc]
 [vo_stk s="satuki_st0214"]
-[ns]彩月[nse]
-「急いで事を運ばなくて良かったでしょ？」[pcms]
+[ns]Satsuki[nse]
+"See? It was good that we didn't rush things, right?"[pcms]
 
 *1286|
 [fc]
-南先輩は得意げな顔で微笑んで見せた。[r]
-衝突事故以来、辛そうな顔しか見ていなかったので、[r]
-その笑顔はとびきり僕に元気を与えてくれる。[pcms]
+Senior Minami showed off a proud smile. Since the collision accident,[r]
+I had only seen her in pain, so that smile gave me an extraordinary[r]
+boost of energy.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1287|
 [fc]
-[ns]誠[nse]
-「はいっ！　流石です、南先輩！」[pcms]
+[ns]Makoto[nse]
+"Yes! As expected of you, Senior Minami!"[pcms]
 
 *1288|
 [fc]
 [vo_stk s="satuki_st0215"]
-[ns]彩月[nse]
-「ふふっ」[pcms]
+[ns]Satsuki[nse]
+"Fufu"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1289|
 [fc]
-早速、鍵を使って扉をあけ、そっと中へと入っていった。[pcms]
+We immediately used the key to open the door and quietly entered[r]
+inside.[pcms]
 
 ;//★_公民館の部屋(淫祭の民家)
 ;//めも：時刻は夜明け前→早朝にかけて
@@ -252,193 +257,189 @@
 
 *1290|
 [fc]
-随分と年季の入った建物だった。[r]
-集会所として機能はしているようで、ずっと閉めていた家特有の[r]
-かび臭さなんかは無い。[pcms]
+The building was quite old but seemed to function as a community[r]
+center, without the musty smell that often comes with long-closed[r]
+houses.[pcms]
 
 *1291|
 [fc]
-外から容易に覗けたように、窓にはカーテンすら無かった。[r]
-給湯室があって、お茶の葉と未開封のおせんべいが少しある。[r]
-蛇口をひねれば水が出たし、スイッチを押すと電気も点いた。[pcms]
+As easily seen from outside, there were no curtains on the windows.[r]
+There was a kitchenette with some tea leaves and unopened rice[r]
+crackers. The faucet worked when turned on, and the lights came on[r]
+with a switch press.[pcms]
 
 *1292|
 [fc]
-小さな冷蔵庫も置かれていたけど、[r]
-こっちはコンセントが抜かれていて中身が空っぽだ。[pcms]
+There was also a small refrigerator, but it was unplugged and empty[r]
+inside.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1293|
 [fc]
 [vo_stk s="satuki_st0216"]
-[ns]彩月[nse]
-「水が確保できただけでもありがたいわ」[pcms]
+[ns]Satsuki[nse]
+"It's a blessing that we were able to secure some water."[pcms]
 
 *1294|
 [fc]
-[ns]誠[nse]
-「そうですね」[pcms]
+[ns]Makoto[nse]
+"Indeed."[pcms]
 
 *1295|
 [fc]
-湯飲みがあったので、それで僕と南先輩は水を飲んだ。[r]
-ひと息付けた感じだ。[pcms]
+We found some teacups, so Senior Minami and I drank some water. It[r]
+felt like a much-needed break.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1296|
 [fc]
 [vo_stk s="satuki_st0217"]
-[ns]彩月[nse]
-「ちょっと、休んでいいかな」[pcms]
+[ns]Satsuki[nse]
+"Can we take a little break?"[pcms]
 
 *1297|
 [fc]
-身体が痛むのか、少し苦しそうな表情を見せながら、[r]
-南先輩は身体を横たえた。[pcms]
+Senior Minami lay down with a pained expression, perhaps due to her[r]
+body aching.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1298|
 [fc]
-僕もその直ぐ傍に座り込む。[r]
-本当なら僕もごろりと寝転がりたいところだ。[pcms]
+I sat down right beside her. Honestly, I wanted to lie down too.[pcms]
 
 *1299|
 [fc]
-でも、二人で寝入ってしまったら、何かあっても対応出来ない。[r]
-どちらかが見張りの役目を担わなくちゃ。[pcms]
+But if we both fell asleep, we wouldn't be able to respond if[r]
+something happened. One of us needed to keep watch.[pcms]
 
 *1300|
 [fc]
-携帯を取り出して確認するけれど、メールも着信も無かった。[r]
-こんな場所なのに、バッチリ３本立っている。[r]
-誰かに連絡がつくといいんだけど……。[pcms]
+I checked my phone, but there were no messages or calls. Despite the[r]
+location, I had a perfect signal with three bars. Hopefully, I could[r]
+get in touch with someone...[pcms]
 
 [se buf=0 storage="seC001"]
 ;//♪SE携帯のボタン操作音
 
 *1301|
 [fc]
-まずは姉ちゃんに電話してみる。[pcms]
+First, I tried calling my sister.[pcms]
 
 ;//◆ＳＥ　電話呼び出し音
 ;不要？[wait_c time=1500]
 
 *1302|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1303|
 [fc]
-出ない。[r]
-呼び出しているけれど姉ちゃんは出ず、[r]
-留守電に切り替わってしまった。[pcms]
+She didn't answer. The call went through but my sister didn't pick up,[r]
+and it switched over to voicemail.[pcms]
 
 *1304|
 [fc]
-次に越智さんに電話してみる。[r]
-でも、こちらは呼び出し音さえ鳴らなかった。[r]
-自分で電源切ってるとかだったらいいんだけど……。[pcms]
+Next, I tried calling Ochi-san. But this time, not even the ringing[r]
+tone sounded. It would be good if she had just turned off her phone...[pcms]
 
 *1305|
 [fc]
-そして、そーいちの携帯に電話をしてみる。[r]
-数回の呼び出し音の後、眠そうなそーいちの声が電話に出た。[pcms]
+Then, I tried calling Souichirou. After a few rings, a sleepy[r]
+Souichirou answered the phone.[pcms]
 
 *1306|
 [fc]
-[ns]宗一郎[nse]
-「こんな早朝に、何のようだね、誠。ふああ～あ」[pcms]
+[ns]Souichirou[nse]
+"What's up so early in the morning, Makoto? Yawn~"[pcms]
 
 *1307|
 [fc]
-[ns]誠[nse]
-「そーいちっ！　良かった、連絡が付いて」[pcms]
+[ns]Makoto[nse]
+"Souichirou! Thank goodness, I got through to you."[pcms]
 
 *1308|
 [fc]
-[ns]宗一郎[nse]
-「何が良かっただ。まだまだ眠っていられる時間なのに。[r]
-　それより、いったい何処にいるんだ？　まさかあのまま……[r]
-　これは、したり……」[pcms]
+[ns]Souichirou[nse]
+"What's so good about it? It's still time for sleeping. More[r]
+importantly, where are you? You didn't stay out all night... Did[r]
+you...?"[pcms]
 
 *1309|
 [fc]
-[ns]誠[nse]
-「いや、それどころじゃないんだってば。ね、そーいち、[r]
-　周りの様子、変じゃないか？」[pcms]
+[ns]Makoto[nse]
+"No, it's not about that. Hey, Souichirou, doesn't something seem off[r]
+around you?"[pcms]
 
 *1310|
 [fc]
-[ns]宗一郎[nse]
-「周り？　いや、昨日との違いと言えば、ベッドがひとつ[r]
-　空っぽなだけで」[pcms]
+[ns]Souichirou[nse]
+"Around me? Well, the only difference from yesterday is that one bed[r]
+is empty..."[pcms]
 
 *1311|
 [fc]
-[ns]誠[nse]
-「そうじゃなくって。部屋の中だけじゃなくて、周囲だよ。[r]
-　部屋の外とか、ホテルの周りとか」[pcms]
+[ns]Makoto[nse]
+"Not just inside your room. Look outside your room, around the hotel."[pcms]
 
 *1312|
 [fc]
-[ns]宗一郎[nse]
-「ふむ……変わりないように思うが……どれ………………ふああ」[pcms]
+[ns]Souichirou[nse]
+"Hmm... It seems normal but... let me check... Yawn"[pcms]
 
 *1313|
 [fc]
-あくびをかみ殺しながら、どこかに移動している感じだ。[r]
-カチャリとホテルの部屋の扉を開ける音が、電話越しに[r]
-聞こえてきた。[pcms]
+Suppressing a yawn, it felt like he was moving somewhere. The sound of[r]
+a hotel room door opening came through the phone.[pcms]
 
 *1314|
 [fc]
-[ns]宗一郎[nse]
-「…………おおっ！！」[pcms]
+[ns]Souichirou[nse]
+"...Oh!!"[pcms]
 
 *1315|
 [fc]
-[ns]誠[nse]
-「どうした？！」[pcms]
+[ns]Makoto[nse]
+"What happened?!"[pcms]
 
 *1316|
 [fc]
-[ns]宗一郎[nse]
-「いやあ、これはこれは。あの花沢がなんとおっぱい丸出しで[r]
-　廊下をうろついておる。いや、なかなかの眼福」[pcms]
+[ns]Souichirou[nse]
+"Well, well. Hanazawa is wandering the hallway with her breasts[r]
+completely exposed. What a sight for sore eyes."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
 
 *1317|
 [fc]
-瞬時に背筋が凍り付く。あの花沢さんが？！[pcms]
+My spine froze instantly. Hanazawa-san?![pcms]
 
 *1318|
 [fc]
-[ns]誠[nse]
-「だめだっ！　そーいち！　早くドアを閉めろっ！！」[pcms]
+[ns]Makoto[nse]
+"No! Souichirou! Close the door quickly!!"[pcms]
 
 *1319|
 [fc]
-[ns]宗一郎[nse]
-「何を言って…………」[pcms]
+[ns]Souichirou[nse]
+"What are you talking about..."[pcms]
 
 *1320|
 [fc]
 [vo_han s="hana_st0001"]
-[ns]花沢[nse]
-「あははあ、ちんぽ、みっけえ」[pcms]
+[ns]Hanazawa[nse]
+"Ahaha, found a dick."[pcms]
 
 ;//m:電話越し
 
 *1321|
 [fc]
-[ns]宗一郎[nse]
-「え？！　う、うわああ。ぎゃっ、ぎゃあああっ！！！！」[pcms]
+[ns]Souichirou[nse]
+"Eh?! Uwaaah. Gyah, gyaaaahhh!!!!"[pcms]
 
 ;//転調。BGMここから
 [bgm storage="BGM13"]
@@ -446,265 +447,264 @@
 
 *1322|
 [fc]
-[ns]誠[nse]
-「そーいち！！！！！」[pcms]
+[ns]Makoto[nse]
+"Souichirou!!!!!"[pcms]
 
 *1323|
 [fc]
-争っているような激しい物音が[r]
-そーいちの悲鳴と一緒に聞こえてきた。[pcms]
+Sounds of a struggle and Souichirou's screams could be heard over the[r]
+phone.[pcms]
 
 *1324|
 [fc]
-そして、突然ブツリと携帯が切れてしまう。[pcms]
+Then suddenly, the call was cut off.[pcms]
 
 *1325|
 [fc]
-僕は間を置かず、すぐにリダイヤルする。[r]
-でも、呼び出し音が虚しく響くだけで[r]
-そーいちが出ることは無かった。[pcms]
+I immediately redialed without pause, but only the ringing echoed[r]
+emptily; Souichirou did not answer.[pcms]
 
 *1326|
 [fc]
-ウソだろう……。[pcms]
+This can't be happening...[pcms]
 
 *1327|
 [fc]
-いや、何てことをしたんだっ！[r]
-電話なんて掛けさえしなければっ！！[r]
-周囲の確認なんてさせなければっ！！！[pcms]
+No, what have I done?! If only I hadn't made that call!! If only I[r]
+hadn't asked him to check outside!![pcms]
 
 *1328|
 [fc]
-すぐに事情を説明して安全を確保させるべきだったのにっ！[r]
-僕は、僕は、大馬鹿野郎だっ！！！[pcms]
+I should have explained the situation immediately to ensure safety! I[r]
+am such an idiot!!![pcms]
 
 *1329|
 [fc]
-[ns]誠[nse]
-「……ぅっぅぅ」[pcms]
+[ns]Makoto[nse]
+"...uhh uhh."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1330|
 [fc]
 [vo_stk s="satuki_st0218"]
-[ns]彩月[nse]
-「どうしたの、何かあったの？」[pcms]
+[ns]Satsuki[nse]
+"What's wrong? Did something happen?"[pcms]
 
 *1331|
 [fc]
-[ns]誠[nse]
-「……先輩。僕が、僕が馬鹿なことをしたばっかりに……」[pcms]
+[ns]Makoto[nse]
+"...Senior. Because of my stupidity..."[pcms]
 
 *1332|
 [fc]
 [vo_stk s="satuki_st0219"]
-[ns]彩月[nse]
-「？？」[pcms]
+[ns]Satsuki[nse]
+"???"[pcms]
 
 *1333|
 [fc]
-[ns]誠[nse]
-「もう、みんな……たぶんですけど、ダメかもしれないです。[r]
-　そーいちは無事だったのに、でも僕のせいで……それに、[r]
-　姉ちゃんも越智さんも、誰も携帯に出てくれないんです」[pcms]
+[ns]Makoto[nse]
+"It's all over... probably. Everyone... Souichirou was safe, but[r]
+because of me... And neither Onee-san nor Ochi-san are answering their[r]
+phones."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1334|
 [fc]
-僕は携帯を握りしめ、にじみ出てくる涙を必死にぬぐった。[pcms]
+I gripped my cell phone tightly, desperately wiping away the tears[r]
+that were starting to form.[pcms]
 
 *1335|
 [fc]
-南先輩は、なぐさめる訳でもなく、励ますわけでもなく……[r]
-どこか哀しみを伴った複雑な表情で僕を見つめていた。[pcms]
+Satsuki, without offering comfort or encouragement, looked at me with[r]
+a complex expression tinged with sadness.[pcms]
 
 *1336|
 [fc]
-僕も先輩も、４年前のエピデミックの生き残りだ。[r]
-何人もの親しい人を無くした。[pcms]
+Both Satsuki-senpai and I are survivors of the epidemic four years[r]
+ago. We've lost many people close to us.[pcms]
 
 *1337|
 [fc]
-励ましの言葉も、なぐさめも何の役にも立たない。[r]
-自分で気持ちにケリをつけなくちゃどうしようも無いことだった。[pcms]
+Words of encouragement or comfort are useless. It's something that has[r]
+to be dealt with internally.[pcms]
 
 *1338|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1339|
 [fc]
-ふと、嫌なことに思い至る。[r]
-僕は涙をぬぐい、まだ僕を見ている南先輩に口を開いた。[pcms]
+Suddenly, a dreadful thought occurred to me. I wiped my tears and[r]
+opened my mouth to speak to Satsuki-senpai, who was still looking at[r]
+me.[pcms]
 
 *1340|
 [fc]
-[ns]誠[nse]
-「先輩……そーいちと電話で話すことが出来たんです。[r]
-　でも、周囲の確認を僕がするように言って……[r]
-　そーいちは襲われた……んです」[pcms]
+[ns]Makoto[nse]
+"Senpai... I was able to speak with Souichirou on the phone. But I[r]
+asked him to check the surroundings... and he was attacked..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1341|
 [fc]
 [vo_stk s="satuki_st0220"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *1342|
 [fc]
-[ns]誠[nse]
-「そーいちの話だと、花沢さんが襲った相手のようなんですけど[r]
-　…………おかしくないですか？」[pcms]
+[ns]Makoto[nse]
+"According to Souichirou, it seemed like Hanazawa-san was the one who[r]
+attacked him... Doesn't that seem strange?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1343|
 [fc]
 [vo_stk s="satuki_st0221"]
-[ns]彩月[nse]
-「……何が？　……あっ！」[pcms]
+[ns]Satsuki[nse]
+"...What does? Ah!"[pcms]
 
 *1344|
 [fc]
-[ns]誠[nse]
-「そうなんです。僕も先輩も、もちろん花沢さんだって、[r]
-　予防ワクチンを受けていました。なのに、花沢さんは[r]
-　そーいちの話からすると、感染者になっていた」[pcms]
+[ns]Makoto[nse]
+"Exactly. You, me, even Hanazawa-san, we all received the vaccine. Yet[r]
+according to Souichirou, Hanazawa-san had become infected."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st20"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1345|
 [fc]
 [vo_stk s="satuki_st0222"]
-[ns]彩月[nse]
-「ワクチンが……効いてない？　まさか……」[pcms]
+[ns]Satsuki[nse]
+"The vaccine... isn't working? No way..."[pcms]
 
 *1346|
 [fc]
-[ns]誠[nse]
-「突然変異とか、似てるけど違うとか、新種のウイルスの[r]
-　可能性が高い……気がする……」[pcms]
+[ns]Makoto[nse]
+"There's a high possibility it's a mutation or something similar but[r]
+different, maybe a new strain of the virus... I think..."[pcms]
 
 *1347|
 [fc]
-血の気の引いた顔をした南先輩が、[r]
-おぞましいものを思い出すように眉根を寄せる。[pcms]
+Satsuki-senpai's face turned pale as if recalling something horrific,[r]
+her brows furrowing.[pcms]
 
 *1348|
 [fc]
-二人同時にぞくりと背筋が震え上がった。[pcms]
+Both of us shivered simultaneously.[pcms]
 
 *1349|
 [fc]
-[ns]誠[nse]
-「……なんでこんな事になったんだろう。[r]
-　もう４年も経っているしあの場所からは、ここは遠すぎます」[pcms]
+[ns]Makoto[nse]
+"...Why did this have to happen? It's been four years, and this place[r]
+is too far from that location."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1350|
 [fc]
 [vo_stk s="satuki_st0223"]
-[ns]彩月[nse]
-「……」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *1351|
 [fc]
-[ns]誠[nse]
-「どうして、こんな島で……」[pcms]
+[ns]Makoto[nse]
+"Why on this island..."[pcms]
 
 *1352|
 [fc]
-僕はそう言いながら、ふと心当たりに行き着いてしまった。[r]
-南先輩もハッとして僕を見る。先輩も気がついたらしい。[pcms]
+As I said this, I suddenly realized something. Satsuki-senpai also[r]
+looked at me sharply, as if she had come to the same realization.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1353|
 [fc]
 [vo_stk s="satuki_st0224"]
-[ns]彩月[nse]
-「ウイルスの研究をしてるって言ってたわよね、美沙緒さん。[r]
-　彼女が何か関わっている可能性はあるんじゃない？」[pcms]
+[ns]Satsuki[nse]
+"Maeda Misao-san mentioned she was researching viruses. Could she be[r]
+involved in this somehow?"[pcms]
 
 *1354|
 [fc]
-[ns]誠[nse]
-「……わからないけど……でも」[pcms]
+[ns]Makoto[nse]
+"...I don't know but... maybe"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1355|
 [fc]
 [vo_stk s="satuki_st0225"]
-[ns]彩月[nse]
-「！！」[pcms]
+[ns]Satsuki[nse]
+"!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1356|
 [fc]
-ふいに、身体を痛めている人とは思えない動きで、南先輩は[r]
-僕の頭を押さえ込み、自分も身体を低くする。[pcms]
+With a movement not befitting someone in pain, Satsuki-senpai quickly[r]
+pushed my head down and lowered her own body as well.[pcms]
 
 *1357|
 [fc]
-[ns]誠[nse]
-「何を……」[pcms]
+[ns]Makoto[nse]
+"What are you..."[pcms]
 
 *1358|
 [fc]
 [vo_stk s="satuki_st0226"]
-[ns]彩月[nse]
-「静かに……ほら」[pcms]
+[ns]Satsuki[nse]
+"Quiet... look there."[pcms]
 
 *1359|
 [fc]
-南先輩が顔を向けた先、窓の向こうに気配があった。[pcms]
+At the direction Satsuki-senpai was looking, there was a presence[r]
+beyond the window.[pcms]
 
 *1360|
 [fc]
-僕と先輩は、低い体勢のまま、窓に近づき覗き込む。[r]
-集落から来たと思える感染者が、ひとりよたよたと歩いていた。[pcms]
+Both of us, staying low, crept closer to the window to peer out. An[r]
+infected person, seemingly from the village, was staggering by alone.[pcms]
 
 *1361|
 [fc]
-僕たちが息を殺してじっとしていると、[r]
-ソイツはこちらに気付かず通り過ぎていく。[pcms]
+As we held our breath and stayed still, the creature passed by without[r]
+noticing us.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1362|
 [fc]
 [vo_stk s="satuki_st0227"]
-[ns]彩月[nse]
-「気付かれなければ、やり過ごせるでしょ。[r]
-　眼で確認されたり、音に反応されさえしなければ」[pcms]
+[ns]Satsuki[nse]
+"If we're not noticed, we can get by. As long as we're not seen or[r]
+heard."[pcms]
 
 *1363|
 [fc]
-[ns]誠[nse]
-「はい……」[pcms]
+[ns]Makoto[nse]
+"Yes..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1364|
 [fc]
 [vo_stk s="satuki_st0228"]
-[ns]彩月[nse]
-「この窓、無防備すぎるわ。何か塞げるものが無いか、[r]
-　ちょっと中を探しましょう」[pcms]
+[ns]Satsuki[nse]
+"This window is too vulnerable. Let's look for something inside to[r]
+block it with."[pcms]
 
 *1365|
 [fc]
-[ns]誠[nse]
-「あ、はい……」[pcms]
+[ns]Makoto[nse]
+"Ah, yes..."[pcms]
 
 ;//m:要ボイス加工。加工間に合わないなら台詞ごとカット
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -712,43 +712,43 @@
 *1366|
 [fc]
 [vo_stk s="satuki_st0229"]
-[ns]彩月[nse]
-「じゃあ、手分けして、物音立てないように探索よ」[pcms]
+[ns]Satsuki[nse]
+"Let's split up and search quietly."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1367|
 [fc]
-南先輩はそう言うと、少し危うい足取りで奥の方へと消えていった。[pcms]
+Satsuki-senpai said this and then disappeared towards the back with an[r]
+unsteady gait.[pcms]
 
 *1368|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1369|
 [fc]
-ちょっとだけ、先輩を怖く感じてしまう。[r]
-こんな状況だし、今し方、新種のウイルスなんて嫌な話も[r]
-していたのに……。[pcms]
+I felt a little scared of Satsuki-senpai. Given the situation and the[r]
+recent talk of a new virus strain...[pcms]
 
 *1370|
 [fc]
-先輩は、あくまで冷静で、話の内容に囚われることもなく、[r]
-周囲に気を配っていた。[pcms]
+Senpai remained utterly calm, not caught up in the content of our[r]
+conversation, always aware of our surroundings.[pcms]
 
 *1371|
 [fc]
-クール……すぎる。ちょっと怖いぐらいに。[pcms]
+Too cool... almost frighteningly so.[pcms]
 
 *1372|
 [fc]
-あのエピデミックの経験が先輩を変えたんだろうか？[r]
-４年前、先輩はどうやって生き延びたんだろう……。[pcms]
+I wonder if that epidemic experience changed Senpai? How did she[r]
+manage to survive four years ago...?[pcms]
 
 *1373|
 [fc]
-想像が出来なかった。[pcms]
+I couldn't imagine it.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

@@ -35,188 +35,185 @@
 
 *2919|
 [fc]
-[ns]誠[nse]
-「んっ……ちゅうっ……れろっ…………」[pcms]
+[ns]Makoto[nse]
+"Mmm... *kiss*... *lick*..."[pcms]
 
 *2920|
 [fc]
-ストッキング越しに彩芽先輩へのクンニ。[r]
-僕の舌が、先輩のおまんこの形を探し出す。[pcms]
+Cunnilingus on Satsuki-senpai through her stockings. My tongue[r]
+searches for the shape of her pussy.[pcms]
 
 *2921|
 [fc]
 [vo_stk s="satuki_st0362"]
-[ns]彩芽[nse]
-「んっ……あっ……」[pcms]
+[ns]Ayame[nse]
+"Mmm... Ah..."[pcms]
 
 *2922|
 [fc]
-ちょっともどかしいんだけど、これはこれで……なかなか。[r]
-下着が僕の涎で、少しずつ染みをつくっていくのもいい感じだ。[pcms]
+It's a bit frustrating, but this is quite... something. The underwear[r]
+getting stained with my saliva is also a nice touch.[pcms]
 
 *2923|
 [fc]
-[ns]誠[nse]
-「んんんっ……ここ？　んっ……それとも、ここ？」[pcms]
+[ns]Makoto[nse]
+"Mmmm... Here? Mmm... Or maybe, here?"[pcms]
 
 *2924|
 [fc]
 [vo_stk s="satuki_st0363"]
-[ns]彩芽[nse]
-「あっ、やっ……んっ、ああっ…………」[pcms]
+[ns]Ayame[nse]
+"Ah, no... Mmm, ah..."[pcms]
 
 *2925|
 [fc]
-なんだろう。なんか違う。この前の先輩と……。[r]
-なんだか恥ずかしがるように、指を時々噛みながら、[r]
-先輩の股間を舐め回してる僕をちらちらと見てる。[pcms]
+I wonder what's different. Unlike the last time with senpai... She[r]
+occasionally bites her finger in embarrassment, glancing at me as I[r]
+lick around her crotch.[pcms]
 
 *2926|
 [fc]
 [vo_stk s="satuki_st0364"]
-[ns]彩芽[nse]
-「あっ、あぅうっ……はあっ……ああっ」[pcms]
+[ns]Ayame[nse]
+"Ah, ah... Haa... Ahh!"[pcms]
 
 *2927|
 [fc]
-[ns]誠[nse]
-「ちゅうっ……れろれろっ……んっっちゅうっ。あ、ここだ」[pcms]
+[ns]Makoto[nse]
+"*kiss*... *lick lick*... Mmm*kiss*. Ah, here it is."[pcms]
 
 *2928|
 [fc]
 [vo_stk s="satuki_st0365"]
-[ns]彩芽[nse]
-「きゃっ、やっ……そこは……あっ、そこは、弱い……の」[pcms]
+[ns]Ayame[nse]
+"Kyah, no... That spot... Ah, that spot is sensitive..."[pcms]
 
 *2929|
 [fc]
-ようやく舌先にとんがりを感じた。[r]
-まだ硬くなりきってはいないけど、先輩のクリトリスだ。[pcms]
+Finally, I feel a pointed sensation on my tongue tip. It's not fully[r]
+hard yet, but it's senpai's clitoris.[pcms]
 
 *2930|
 [fc]
-僕は、そこを重点的に責めた。[r]
-舌先でつんつんしたり、ぐるっと形をなぞりながら舐めたり、[r]
-吸い込んだり、軽く噛んだり……。[pcms]
+I focus on that spot. Teasing it with the tip of my tongue, tracing[r]
+its shape while licking, sucking it in, and lightly biting...[pcms]
 
 *2931|
 [fc]
 [vo_stk s="satuki_st0366"]
-[ns]彩芽[nse]
-「ひゃっ……ああっ、んっんっあああっ、きゃうっ……あっ！[r]
-　あっ、だめ……そこばっかり、だめぇ……弱いんだ……からあ」[pcms]
+[ns]Ayame[nse]
+"Hyah... Ahh, mmmmmahh, kyauh... Ah! No... not just there, it's too[r]
+sensitive..."[pcms]
 
 *2932|
 [fc]
-弱いって言われたら、責めるべきだよね。[pcms]
+If she says it's weak, then I should focus on it more.[pcms]
 
 *2933|
 [fc]
 [vo_stk s="satuki_st0367"]
-[ns]彩芽[nse]
-「きゃあっ……ああっ、あっ、あああくぅっ！　ひっ……ああっ、[r]
-　だめ、だめぇ……あっ、あああっあっあっ、あっああっ！」[pcms]
+[ns]Ayame[nse]
+"Kyah... Ahh, ah, ahhhhkuh! Hic... Ahh, no, nooo... Ah, ahhahhahhahh,[r]
+ahahh!"[pcms]
 
 *2934|
 [fc]
 [vo_stk s="satuki_st0368"]
-[ns]彩芽[nse]
-「はあっ、ひっ……ああっ、あっ、だめぇ、いじわる……[r]
-　誠君の、いじわ……あっ、ああああっ、ひああっ、ああんっ！」[pcms]
+[ns]Ayame[nse]
+"Haa, hic... Ahh, ah, nooo, you're mean... Makoto-kun's teasing... Ah,[r]
+ahhhhh, hiaahh, ahhn!"[pcms]
 
 *2935|
 [fc]
-[ns]誠[nse]
-「いじわるじゃないです。んっれるっ……可愛がって……んちゅっ[r]
-　ぢゅぷっ……だけです」[pcms]
+[ns]Makoto[nse]
+"I'm not being mean. Mmmlick... Just doting on you... *kiss*[r]
+*slurp*... that's all."[pcms]
 
 *2936|
 [fc]
 [vo_stk s="satuki_st0369"]
-[ns]彩芽[nse]
-「やっ、ああっ、ああんっ、あっ、だめ……ぇ、ふわあっ……[r]
-　あっ、あああっ、そんなにされ……たら、あっ、あああっ」[pcms]
+[ns]Ayame[nse]
+"No, ahhn, ahhn, ah, no... eeh, fuwahh... Ah, ahhhh, if you do it like[r]
+that... Ah, ahhhh"[pcms]
 
 *2937|
 [fc]
-コリコリした感触が舌に伝わってきた。[r]
-彩芽先輩のクリトリスは、完全に勃起して、僕の舌に[r]
-ぴんぴんと心地よい感触を伝えてくる。[pcms]
+The firm sensation transmits to my tongue. Satsuki-senpai's clitoris[r]
+is fully erect now, sending delightful sensations to my tongue.[pcms]
 
 *2938|
 [fc]
-[ns]誠[nse]
-「んっ……んちゅううううっ」[pcms]
+[ns]Makoto[nse]
+"Mmm... *deep kiss*"[pcms]
 
 *2939|
 [fc]
 [vo_stk s="satuki_st0370"]
-[ns]彩芽[nse]
-「ひぁっあああっ、ああっ、やっ、だめぇっ、強いよぉ、[r]
-　まだ、まだ、そこだけでイきたくないのぉ……おねがいっっ！」[pcms]
+[ns]Ayame[nse]
+"Hyahahhhh, ahh, no, it's too strong, I don't want to come just from[r]
+that spot yet... please!"[pcms]
 
 *2940|
 [fc]
-クリトリスって、やっぱりそんなに気持ちがいいポイントなんだ。[r]
-ここだけでイけちゃうものなんだ。[pcms]
+The clitoris really is such a pleasurable spot. It can make her come[r]
+just from that alone.[pcms]
 
 *2941|
 [fc]
 [vo_stk s="satuki_st0371"]
-[ns]彩芽[nse]
-「あっ、ああああっ、ふあああっ……ああんっ、あっ、誠君、[r]
-　誠君も気持ちよく……んっ、ああっ、ねっ、ねっ、ねえっ、[r]
-　あっ、あああっ、お願いぃ……あっあああっ……」[pcms]
+[ns]Ayame[nse]
+"Ah, ahhhhh, fuwahhh... Ahhn, ah, Makoto-kun, make it feel good for[r]
+you too... Mmm, ah, right? Right? Please... Ahhahhhh..."[pcms]
 
 *2942|
 [fc]
-[ns]誠[nse]
-「僕を気持ちよく……んちゅうっ。れるっ……してくれるの？」[pcms]
+[ns]Makoto[nse]
+"Make it feel good for me... *kiss*. Lick me?"[pcms]
 
 *2943|
 [fc]
 [vo_stk s="satuki_st0372"]
-[ns]彩芽[nse]
-「うんっ……うんっっ！　交代ぃ、お願いっ、させてっえっ。[r]
-　誠君のおちんちん、じゅぼじゅぼしたいのぉ……ああっひっ」[pcms]
+[ns]Ayame[nse]
+"Yes... Yes! Let's switch places, please. I want to suck on Makoto-[r]
+kun's cock... Ahh hic"[pcms]
 
 *2944|
 [fc]
-[ns]誠[nse]
-「んっんんんっちゅうううっ！」[pcms]
+[ns]Makoto[nse]
+"Mmmmm*kiss*!"[pcms]
 
 *2945|
 [fc]
 [vo_stk s="satuki_st0373"]
-[ns]彩芽[nse]
-「ひやあぁぁぁんっ、ああっ、あっあああっ……！」[pcms]
+[ns]Ayame[nse]
+"Hyahahhhn, ahh, ahhahhhh...!"[pcms]
 
 *2946|
 [fc]
-名残惜しいので、もうひと吸い。おまんこの入り口の方も[r]
-舐めにかかったら、僕の涎と違う、とろりとした液が[r]
-溢れていた。[pcms]
+Reluctantly giving one last suck. As I start licking towards the[r]
+entrance of her pussy, a different kind of thick fluid overflows from[r]
+my saliva.[pcms]
 
 *2947|
 [fc]
-[ns]誠[nse]
-「んっ……じゃあ、交代してください」[pcms]
+[ns]Makoto[nse]
+"Mmm... Then please, let's switch."[pcms]
 
 *2948|
 [fc]
 [vo_stk s="satuki_st0374"]
-[ns]彩芽[nse]
-「はっ……はっ……う、うん。あっ……あぁ……」[pcms]
+[ns]Ayame[nse]
+"Hah... Hah... Yes. Ahh... Aah..."[pcms]
 
 *2949|
 [fc]
-彩芽先輩のおまんこから顔を剥がして、僕はゆっくり[r]
-横になった。[pcms]
+Peeling my face away from Satsuki-senpai's pussy, I slowly lay down on[r]
+my side.[pcms]
 
 *2950|
 [fc]
-ちょっと息の荒い先輩が、紅潮した顔で僕を見ながら、[r]
-すぐにズボンを脱がせてくれた。[pcms]
+The slightly breathless senpai looks at me with flushed cheeks and[r]
+quickly starts to take off my pants.[pcms]
 
 ;//■イベントCG　satuki_H004(5k)
 [evcg storage="satuki_H004a"][trans_c cross time=300]
@@ -224,68 +221,69 @@
 *2951|
 [fc]
 [vo_stk s="satuki_st0375"]
-[ns]彩芽[nse]
-「んふふふっ……やっぱり、最初は可愛いよね……誠君と一緒」[pcms]
+[ns]Ayame[nse]
+"Nfufufu... As expected, it's cute at first... just like being with[r]
+Makoto-kun."[pcms]
 
 *2952|
 [fc]
-そう言いながら彩芽先輩は、僕のちんちんの皮をゆっくりと[r]
-引き下ろした。[pcms]
+While saying that, Satsuki-senpai slowly pulls down the skin of my[r]
+dick.[pcms]
 
 *2953|
 [fc]
-[ns]誠[nse]
-「んっひゃぅ……」[pcms]
+[ns]Makoto[nse]
+"Mmmhyau..."[pcms]
 
 *2954|
 [fc]
-やっぱりこの感触だけは、弱い。[r]
-また女の子みたいな声が出てしまった。[pcms]
+That sensation is still my weakness. I let out a girlish voice again.[pcms]
 
 *2955|
 [fc]
 [vo_stk s="satuki_st0376"]
-[ns]彩芽[nse]
-「大きくなあれ。うふふっ……硬くなあれ」[pcms]
+[ns]Ayame[nse]
+"Grow bigger. Ufufu... Get harder."[pcms]
 
 *2956|
 [fc]
-そんな何かを育てるような台詞をいいながら、先輩の指先が[r]
-ちんちんの棹を優しくなで上げ、握りしめて皮ごと擦る。[pcms]
+While saying such nurturing words, senpai's fingertips gently stroke[r]
+up the shaft of my dick and grip it with the skin to rub it.[pcms]
 
 *2957|
 [fc]
-みるみるうちに、充填が完了していく。[pcms]
+The filling completes rapidly.[pcms]
 
 *2958|
 [fc]
 [vo_stk s="satuki_st0377"]
-[ns]彩芽[nse]
-「ん～。すてき。この変化はギャップがあって、わたし好き。[r]
-　本当に誠君みたいだよね。普段はカワイイキャラなのに、[r]
-　いざというとき頼りになる……」[pcms]
+[ns]Ayame[nse]
+"Mmm. Lovely. This change has such a gap; I like it. It's really like[r]
+Makoto-kun. Normally such a cute character but when it comes down to[r]
+it, so reliable..."[pcms]
 
 *2959|
 [fc]
-[ns]誠[nse]
-「そんな事ないですよ……うひゃぁ……」[pcms]
+[ns]Makoto[nse]
+"That's not true... Uhya..."[pcms]
 
 *2960|
 [fc]
 [vo_stk s="satuki_st0378"]
-[ns]彩芽[nse]
-「ここが気持ちいいのよね……コロコロしてて、わたしも好きよ。[r]
-　この手触り……袋の中に宝珠が収められてるのよねえ……」[pcms]
+[ns]Ayame[nse]
+"This spot feels good, doesn't it... Rolling them around, I like it[r]
+too. This texture... It's like there are jewels stored inside the[r]
+sack..."[pcms]
 
 *2961|
 [fc]
-先輩の指が僕の袋を弄ぶ。柔らかく袋ごと持ち上げたり、[r]
-玉の形を確かめるみたいに指先なぞったり。[pcms]
+Senpai's fingers play with my sack. She softly lifts it up and traces[r]
+the shape of the balls with her fingertips.[pcms]
 
 *2962|
 [fc]
-そのたびに、僕は情けない声をあげてしまうんだけど、[r]
-先輩は、嬉しそうに更に指先を駆使する。[pcms]
+Each time, I can't help but let out a pathetic voice, but senpai[r]
+happily uses her fingertips even more.[pcms]
 
 ;//■イベントCG　satuki_H004
 [evcg storage="satuki_H004b"][trans_c cross time=300]
@@ -293,65 +291,66 @@
 *2963|
 [fc]
 [vo_stk s="satuki_st0379"]
-[ns]彩芽[nse]
-「ん～……れろう……ぺちょっ……れろっ……」[pcms]
+[ns]Ayame[nse]
+"Mmm... Lick... Pecho... Lick..."[pcms]
 
 *2964|
 [fc]
-[ns]誠[nse]
-「ひやあぁ」[pcms]
+[ns]Makoto[nse]
+"Hiyaa!"[pcms]
 
 *2965|
 [fc]
-指先だけじゃなく舌が僕の玉を転がし始めた。[pcms]
+It's not just her fingertips; now her tongue starts rolling my balls[r]
+around.[pcms]
 
 *2966|
 [fc]
 [vo_stk s="satuki_st0380"]
-[ns]彩芽[nse]
-「うふふ……気持ちいい……舌に気持ちいいの、この感触。[r]
-　れるうっ……ちゅちゅっ……れろんっ……んんっ、んっ」[pcms]
+[ns]Ayame[nse]
+"Ufufu... It feels good... This sensation on my tongue. Licking...[r]
+Chuchu... Lick... Mmm, mmm."[pcms]
 
 ;//■イベントCG　satuki_H004
 [evcg storage="satuki_H004c"][trans_c cross time=300]
 
 *2967|
 [fc]
-舌先で転がされる僕の玉が袋の中で右往左往してる。[r]
-先輩は容赦なく袋ごと玉を吸い込んだ。[pcms]
+My balls roll around inside the sack from the movement of her tongue,[r]
+and senpai mercilessly sucks them into her mouth along with the sack.[pcms]
 
 *2968|
 [fc]
 [vo_stk s="satuki_st0381"]
-[ns]彩芽[nse]
-「んちゅううっ…………！　んれろっ！　ちゅぶっ！[r]
-　んふう。カワイイ……ころころころころ……気持ちいいぃ」[pcms]
+[ns]Ayame[nse]
+"Nchu...! Lick! Chub! Nfuu. Cute... Rolling around... It feels good."[pcms]
 
 *2969|
 [fc]
-ひゃあひゃあ言う僕を見つめながら、その舌先が今度は上へ[r]
-向かって這い上がってきた。[pcms]
+While watching me make whimpering noises, her tongue now crawls up[r]
+towards the top.[pcms]
 
 *2970|
 [fc]
 [vo_stk s="satuki_st0382"]
-[ns]彩芽[nse]
-「んふっ……んっ……ちゅうっ……れるっ……ぢゅぢゅぢゅっ」[pcms]
+[ns]Ayame[nse]
+"Nfu... Mmm... Chuu... Lick... Jyujyujuu"[pcms]
 
 *2971|
 [fc]
-[ns]誠[nse]
-「んっ……ひぁ……」[pcms]
+[ns]Makoto[nse]
+"Mmm... Hia..."[pcms]
 
 *2972|
 [fc]
-指先で未だに僕の袋と玉を愛撫しながら今度は熱い唇が僕の[r]
-亀頭を舐め回す。[pcms]
+While still caressing my sack and balls with her fingertips, now her[r]
+hot lips lick all around my glans.[pcms]
 
 *2973|
 [fc]
-鈴口から舌先を入れ、握った手も上下にしながら、[r]
-それを追うように舌先でも根元から頭まで一気にれろんと舐める。[pcms]
+She inserts her tongue into the urethral opening and moves her hand up[r]
+and down, while her tongue follows suit, licking from the base to the[r]
+tip in one go.[pcms]
 
 ;//■イベントCG　satuki_H004
 [evcg storage="satuki_H004d"][trans_c cross time=300]
@@ -359,48 +358,47 @@
 *2974|
 [fc]
 [vo_stk s="satuki_st0383"]
-[ns]彩芽[nse]
-「んれろ……んちゅぅ。んふふっ、美味しい……んちゅうっ！[r]
-　熱くて……んぢゅ……硬くて……ちゅうっ……凄い……」[pcms]
+[ns]Ayame[nse]
+"Lick... Nchu. Nfufu, delicious... Nchu! Hot... Nju... Hard... Chuu...[r]
+Amazing..."[pcms]
 
 *2975|
 [fc]
 [vo_stk s="satuki_st0384"]
-[ns]彩芽[nse]
-「ぢゅっ……んんじゅぼっ、じゅぶっ、じゅぶっ……んんっ[r]
-　口の……んぢゅ、中……んぢゅ……熱いぃ……れるっ」[pcms]
+[ns]Ayame[nse]
+"Jyu... Nnjuubo, jubu, jubu... Mmm. The inside of my mouth... Nju, is[r]
+so hot... Lick"[pcms]
 
 *2976|
 [fc]
 [vo_stk s="satuki_st0385"]
-[ns]彩芽[nse]
-「んぐっじゅっ……んぐっじゅっじゅっ……ぢゅぶっ……[r]
-　欲ひい……欲しい……んぢゅっっじゅじゅっ……れるっ」[pcms]
+[ns]Ayame[nse]
+"Ngujyu... Ngujyujyu... Jubu... I want it... I want it...[r]
+Njyujyujyu... Lick"[pcms]
 
 *2977|
 [fc]
-亀頭が喉の奥まで吸い込まれてる。先輩が何か言う度に[r]
-喉の奥が締まってまとわりついてくる。[pcms]
+My glans is sucked deep into her throat. Every time senpai says[r]
+something, the back of her throat tightens and clings to me.[pcms]
 
 *2978|
 [fc]
 [vo_stk s="satuki_st0386"]
-[ns]彩芽[nse]
-「んぐっじゅじゅじゅっ……ちゅぢゅぢゅぢゅっ……[r]
-　欲しい……欲しいぃ……んぢゅっぢゅっ、ぢゅうっっ」[pcms]
+[ns]Ayame[nse]
+"Ngujyujyu... Chujyujyu... I want it... I want it... Njyujyu, jyu!"[pcms]
 
 *2979|
 [fc]
 [vo_stk s="satuki_st0387"]
-[ns]彩芽[nse]
-「んぐっぐっ……ぢゅっぢゅっ……中に……んりゅうっ、[r]
-　欲しい……む゛ぢゅう……れるぅんっぐっじゅぼっ……」[pcms]
+[ns]Ayame[nse]
+"Nggg... Jyujyu... Inside me... Nryuu, I want it... Mjyu...[r]
+Licknnnggjubo..."[pcms]
 
 *2980|
 [fc]
-先輩は何かに取り憑かれたみたいに僕のちんちんを喉の奥まで[r]
-吸い込む。口の中では、熱くてざらりとした舌がべろべろと[r]
-容赦なく舐め回していた。[pcms]
+Senpai sucks my cock deep into her throat as if possessed by[r]
+something. Inside her mouth, the hot and rough tongue mercilessly[r]
+licks all over.[pcms]
 
 ;//■イベントCG　satuki_H004
 [evcg storage="satuki_H004f"][trans_c cross time=300]
@@ -408,25 +406,25 @@
 *2981|
 [fc]
 [vo_stk s="satuki_st0388"]
-[ns]彩芽[nse]
-「喉……まで……んじゅうううっ……熱いぃ……れるっ。[r]
-　誠……んちゅう……君の……じゅぶっ……熱いよぉ」[pcms]
+[ns]Ayame[nse]
+"Throat... all the way... Njuuuu... It's hot... Lick. Makoto-kun,[r]
+your... Chub... It's hot"[pcms]
 
 *2982|
 [fc]
 [vo_stk s="satuki_st0389"]
-[ns]彩芽[nse]
-「れるっ……硬いぃ……んじゅゆぅぅっ……れるんっ……[r]
-　中に……んじゅっ……欲し……い……んちゅうううちゅっ」[pcms]
+[ns]Ayame[nse]
+"Lick... It's hard... Njuyuuu... Licknnn... Inside me... Nju... I want[r]
+it..."[pcms]
 
 *2983|
 [fc]
-僕の奥底から熱い塊が這い上がってくる。[pcms]
+A hot mass crawls up from the depths of me.[pcms]
 
 *2984|
 [fc]
-[ns]誠[nse]
-「あ、彩芽、せ、先輩ぃ。駄目ですぅ、出ちゃいますぅ！」[pcms]
+[ns]Makoto[nse]
+"Ah, Ayame, se-senpai. No good, it's coming out!"[pcms]
 
 ;//■イベントCG　satuki_H004
 [evcg storage="satuki_H004e"][trans_c cross time=300]
@@ -434,25 +432,24 @@
 *2985|
 [fc]
 [vo_stk s="satuki_st0390"]
-[ns]彩芽[nse]
-「んふふっ……」[pcms]
+[ns]Ayame[nse]
+"Nfufu..."[pcms]
 
 *2986|
 [fc]
-僕のちんちんを口に含んだまま、あやしく彩芽先輩が笑う。[r]
-そして、更に先輩の口や舌の動きが激しくなった。[pcms]
+With my cock still in her mouth, Ayame-senpai laughs mischievously and[r]
+then intensifies the movement of her mouth and tongue even more.[pcms]
 
 *2987|
 [fc]
 [vo_stk s="satuki_st0391"]
-[ns]彩芽[nse]
-「んっちゅっちゅっ、じゅぼじゅぶぉっ！　れるううううっ！[r]
-　んじゅうっ……じゅっ……んぐんんんんぐんんっっっ！」[pcms]
+[ns]Ayame[nse]
+"Nnchuchuchu, jubojubo! Lickuuuu! Njuu... Jyu... Ngunngnnngnnn!"[pcms]
 
 *2988|
 [fc]
-[ns]誠[nse]
-「ひああっ、ほんと、駄目ですぅ。出ちゃいますよぉっ！」[pcms]
+[ns]Makoto[nse]
+"Hiyaah, really, no good. It's coming out!"[pcms]
 
 ;//■イベントCG　satuki_H004
 [evcg storage="satuki_H004d"][trans_c cross time=300]
@@ -460,16 +457,16 @@
 *2989|
 [fc]
 [vo_stk s="satuki_st0392"]
-[ns]彩芽[nse]
-「んぐうっ……ひょうだい……んれるっ、口の……中に……[r]
-　あっついの……んぢゅぶ……じゅぼじゅぼ……っっっ！」[pcms]
+[ns]Ayame[nse]
+"Nguu... Give it to me... Lick, inside my mouth... The hot stuff...[r]
+Njubu... Jubojubo!"[pcms]
 
 *2990|
 [fc]
 [vo_stk s="satuki_st0393"]
-[ns]彩芽[nse]
-「飲ませて……んぐるううぅっ、れるっ……誠……君の……れるっ[r]
-　熱い……じゅぶっ……の、飲ませ……んんぐぐぅる……てっ」[pcms]
+[ns]Ayame[nse]
+"Let me drink it... Nguruuuu, lick... Makoto-kun's hot... Chubu... Let[r]
+me drink it..."[pcms]
 
 ;//■イベントCG　satuki_H004
 [evcg storage="satuki_H004e"][trans_c cross time=300]
@@ -477,14 +474,14 @@
 *2991|
 [fc]
 [vo_stk s="satuki_st0394"]
-[ns]彩芽[nse]
-「飲みたい……んれるっ……のぉ……ぢゅぼじゅぼっ……[r]
-　精液……ぃ……じゅぶっ……飲ませてぇ……んぢゅる」[pcms]
+[ns]Ayame[nse]
+"I want to drink it... Licknnoo... Jubojubo! Your semen... Chubu...[r]
+Let me drink it..."[pcms]
 
 *2992|
 [fc]
-[ns]誠[nse]
-「い、いいんですか？」[pcms]
+[ns]Makoto[nse]
+"Is it okay?"[pcms]
 
 ;//■イベントCG　satuki_H004
 [evcg storage="satuki_H004f"][trans_c cross time=300]
@@ -492,12 +489,12 @@
 *2993|
 [fc]
 [vo_stk s="satuki_st0395"]
-[ns]彩芽[nse]
-「んっ……ぢゅるっ……んっ」[pcms]
+[ns]Ayame[nse]
+"Mmm... Jyuru..."[pcms]
 
 *2994|
 [fc]
-こくこくと先輩が頷く。だから、僕は――[pcms]
+Senpai nods firmly. So, I--[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -510,29 +507,48 @@
 
 *2995|
 [fc]
-[ns]誠[nse]
-「出しますぅっ！　出てますっっ！　うおっっ！！」[pcms]
+[ns]Makoto[nse]
+"I'm coming! It's coming out! Uooh!!"[pcms]
 
 *2996|
 [fc]
-先輩の喉を突き破る勢いで、腰が跳ね上がり、僕は先輩の[r]
-口の中に発射した。[pcms]
+With a force that seems to pierce through senpai's throat, my hips[r]
+jerk up, and I ejaculate into senpai's mouth.[pcms]
 
 *2997|
 [fc]
 [vo_stk s="satuki_st0396"]
-[ns]彩芽[nse]
-「んっぐううううっ……んぐっ……ぢゅっ……ぢゅっ……[r]
-　んぐっ……んくっんくっ……むぐっ……ごくっ……」[pcms]
+[ns]Ayame[nse]
+"Nggguuuuuu... Nguu... Jyu... Jyu... Nguu.. Nkunnkunnnkunnnkunnnkunnnk[r]
+unnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnk[r]
+unnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnk[r]
+unnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnk[r]
+unnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnk[r]
+unnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnnkunnngukunn[r]
+ngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunn[r]
+ngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunn[r]
+ngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunn[r]
+ngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunn[r]
+ngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunn[r]
+ngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunn[r]
+ngukunnngukunnngukunnngukunnngukunnngukunnngukunnngukunnnggokunkunkunk[r]
+unkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunku[r]
+nkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkunkun[r]
+kunkunkunkunkunkunkunkunkunkunkunkgokgokgokgokgokgokgokgokgokgokgokgok[r]
+gokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokg[r]
+okgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgo[r]
+kgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgokgok[r]
+gokgokgokgokswallowing my semen with a gulp.[pcms]
 
 *2998|
 [fc]
-びゅうびゅう出てる僕の精液を、彩芽先輩は喉を鳴らして飲み干す。[pcms]
+As I ejaculate continuously, Ayame-senpai swallows it down with[r]
+audible gulps.[pcms]
 
 *2999|
 [fc]
 [vo_stk s="satuki_st0397"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「んくぅ……ごくん……むぐん……んっんっんんんっ」[pcms]
 
 *3000|
@@ -548,7 +564,7 @@
 *3002|
 [fc]
 [vo_stk s="satuki_st0398"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「んっふっ……んっ…………はあっ……」[pcms]
 
 ;//■イベントCG　satuki_H004
@@ -557,27 +573,27 @@
 *3003|
 [fc]
 [vo_stk s="satuki_st0399"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「凄い……いっぱい飲んじゃったぁ。美味しい……濃くて臭いも[r]
 　強くて……鼻から抜けてぇ……んっはあっ……たっぷり出たね」[pcms]
 
 *3004|
 [fc]
 [vo_stk s="satuki_st0400"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「うふふっ……精液飲んだの、すっごく久しぶり……[r]
 　美味しかったわ、誠君」[pcms]
 
 *3005|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「ずるいですよ、先輩。さっきはイかさせてくれなかったのに。[r]
 　僕だけ、出させるなんて……」[pcms]
 
 *3006|
 [fc]
 [vo_stk s="satuki_st0401"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「んふっ……ごめんね。どうしても飲みたかったの。[r]
 　ね、今度は一緒に気持ちよくなろう」[pcms]
 
@@ -603,55 +619,55 @@
 
 *3010|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「あ……ゴム、ありますか？」[pcms]
 
 *3011|
 [fc]
 [vo_stk s="satuki_st0402"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「……いい、いらない」[pcms]
 
 *3012|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「え？　でも……」[pcms]
 
 *3013|
 [fc]
 [vo_stk s="satuki_st0403"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「バージン上げられなかったけど、初生セックスのバージン、[r]
 　誠君に……あげる」[pcms]
 
 *3014|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「初……生？　え？　ほ、ほんとに？　僕に？」[pcms]
 
 *3015|
 [fc]
 [vo_stk s="satuki_st0404"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「うん……初体験の時から、ゴムあり……なの。[r]
 　本当は最初ぐらい生が良かったんだけど……相手が嫌がったの」[pcms]
 
 *3016|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「な、なんて、もったいないことをっ！！」[pcms]
 
 *3017|
 [fc]
 [vo_stk s="satuki_st0405"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「……怖かったんじゃない？　きっと。生き残りの女だもん。[r]
 　ウイルス……怖かったんだと思う。生でいいって言っても、[r]
 　少し付き合ってたあいだ、ずっとゴムありだったもの……」[pcms]
 
 *3018|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「僕も生き残りですからね。怖くないです。その人に感謝します。[r]
 　彩芽先輩の初生……いただきますっ！」[pcms]
 
@@ -662,12 +678,12 @@
 *3020|
 [fc]
 [vo_stk s="satuki_st0406"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「もう、馬鹿ね……ね、早く挿れて。わたしの初生奪って……」[pcms]
 
 *3021|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「はい」[pcms]
 
 ;//■イベントCG　satuki_H005 挿入
@@ -687,18 +703,18 @@
 
 *3024|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「彩芽先輩のおまんこで、フェラされてるみたいです」[pcms]
 
 *3025|
 [fc]
 [vo_stk s="satuki_st0407"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「ん……もう……」[pcms]
 
 *3026|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「うわあ……なんかすっごくエロイ」[pcms]
 
 *3027|
@@ -709,7 +725,7 @@
 *3028|
 [fc]
 [vo_stk s="satuki_st0408"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「んっ……ねえ、焦らさないでよ……早く、もっと奥まで……」[pcms]
 
 *3029|
@@ -723,14 +739,14 @@
 *3030|
 [fc]
 [vo_stk s="satuki_st0409"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「あっ、ああっん……んっ、ねえ、早く……あっ、[r]
 　ねえ、早く初生バージン奪って……あっ、ああっ、[r]
 　焦らさないで……早く、奪って……んっあああっ」[pcms]
 
 *3031|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「はい。いただきます」[pcms]
 
 [se buf=0 storage="se_sex01"]
@@ -747,7 +763,7 @@
 *3033|
 [fc]
 [vo_stk s="satuki_st0410"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「あっ、あひっ、あああっ、入ってきたあぁ。あ、ああっ、[r]
 　やっ、ああっ、なに、なにこれぇ……全然、ぜ……んぜん、[r]
 　違うぅ、ああっ、あっ、すごい……ああっ、あっ」[pcms]
@@ -763,7 +779,7 @@
 *3035|
 [fc]
 [vo_stk s="satuki_st0411"]
-[ns]彩芽[nse]
+[ns]Ayame[nse]
 「あっ、あああっ、奥に、奥まで入ってきたああ……あっ、[r]
 　ああっ、お願い……少し、少し、そのままでぇ……」[pcms]
 
@@ -785,32 +801,32 @@
 *3039|
 [fc]
 [vo_stk s="satuki_st0412"]
-[ns]彩芽[nse]
-「はああっ……凄い……全然っ……違う。誠君のおちんちんの[r]
-　熱も、硬さも、伝わり方が違うの。あっ……ああっ……。[r]
-　本当に、ひとつになったって感じがする……んっ……」[pcms]
+[ns]Ayame[nse]
+"Haaah... amazing... it's completely different. I can feel the heat[r]
+and hardness of your cock, and the way it transmits is different.[r]
+Ah... aahh... It really feels like we've become one... nn..."[pcms]
 
 *3040|
 [fc]
-[ns]誠[nse]
-「僕も同じです。凄いです、先輩のおまんこの中。[r]
-　僕、挿れるだけで出しちゃいそうになりました」[pcms]
+[ns]Makoto[nse]
+"I feel the same. It's amazing inside your pussy, Senpai. Just[r]
+inserting it made me feel like I was going to cum."[pcms]
 
 *3041|
 [fc]
 [vo_stk s="satuki_st0413"]
-[ns]彩芽[nse]
-「それは、駄目よぉ。もっと気持ちよくなろ……気持ちよくして」[pcms]
+[ns]Ayame[nse]
+"You can't do that. Let's feel even better... make me feel good."[pcms]
 
 *3042|
 [fc]
-[ns]誠[nse]
-「はい。動きますよ」[pcms]
+[ns]Makoto[nse]
+"Yes. I'll start moving."[pcms]
 
 *3043|
 [fc]
-僕はゆっくりと腰を動かした。本当に気持ちよくて出ちゃいそう。[r]
-でも、ぐっと我慢。先輩を気持ちよくしたいから。[pcms]
+I slowly moved my hips. It felt so good I thought I might cum, but I[r]
+held back. Because I wanted to make Senpai feel good.[pcms]
 
 ;//■イベントCG　satuki_H005 挿入
 [evcg storage="satuki_H005g"][trans_c cross time=300]
@@ -818,29 +834,29 @@
 *3044|
 [fc]
 [vo_stk s="satuki_st0414"]
-[ns]彩芽[nse]
-「んっああぁあっ、すごっ……すごいっ！　あ、熱いぃっ！[r]
-　生のおちんちん、凄いぃっ、あっ、ああっ、ああっあっ」[pcms]
+[ns]Ayame[nse]
+"Nnnaaahhh, amazing... so amazing! Ah, it's hot! Your raw cock is[r]
+incredible, ah, aahh, aahhahh!"[pcms]
 
 *3045|
 [fc]
 [vo_stk s="satuki_st0415"]
-[ns]彩芽[nse]
-「気持ちいい……いいのっ……熱いよぉ、誠君のおちんちんっ！[r]
-　あっ、ああっ……んっんんっあっ……気持ち、いいっ……」[pcms]
+[ns]Ayame[nse]
+"It feels good... so good... your cock is hot, Makoto-kun! Ah, aahh...[r]
+nnnnnahh... it feels so good..."[pcms]
 
 *3046|
 [fc]
-腰をいろんな角度から突き挿れる。[r]
-回してみたりしながら、僕は膣壁をなぞり、先輩のスポットを[r]
-探ろうと奮闘していた。[pcms]
+I thrust my hips from various angles. While rotating, I traced the[r]
+vaginal walls, struggling to find Senpai's spot.[pcms]
 
 *3047|
 [fc]
 [vo_stk s="satuki_st0416"]
-[ns]彩芽[nse]
-「ああっ、んっあっ……擦れる……おちんちんで擦られるぅ……[r]
-　凄いよぉ、感じるぅ……全然、違うぅっ、ああ、いい、いいっ」[pcms]
+[ns]Ayame[nse]
+"Aaah, nnaahh... it's rubbing... your cock is rubbing me... It's[r]
+amazing, I can feel it... it's completely different, aah, it's good,[r]
+so good!"[pcms]
 
 ;//■イベントCG　satuki_H005 挿入
 [evcg storage="satuki_H005i"][trans_c cross time=300]
@@ -848,27 +864,27 @@
 *3048|
 [fc]
 [vo_stk s="satuki_st0417"]
-[ns]彩芽[nse]
-「生……好きぃっ、気持ち良すぎるぅ……あっ、ああっ、[r]
-　誠……くっ、あっ、いいっ、いいいっ、あんっ」[pcms]
+[ns]Ayame[nse]
+"Raw... I love it, it feels too good... ah, aahh, Makoto... kuh, ah,[r]
+it's good, so good, aahn!"[pcms]
 
 *3049|
 [fc]
-[ns]誠[nse]
-「僕も生気持ちいいです。もっともっと気持ち良くしてあげます」[pcms]
+[ns]Makoto[nse]
+"I also love how raw feels. I'll make you feel even better."[pcms]
 
 *3050|
 [fc]
 [vo_stk s="satuki_st0418"]
-[ns]彩芽[nse]
-「してぇ、してしてっ！　あっ、ああっ、熱いぃっ、硬いぃぃっ、[r]
-　初めて、初めてぇ、こんな、こんなぁぁっ、ああっぁあっ」[pcms]
+[ns]Ayame[nse]
+"Do it, do it more! Ah, aahh, it's hot, so hard... for the first time,[r]
+for the first time ever, like this, like thisss, aahhhaaahh!"[pcms]
 
 *3051|
 [fc]
-くちゅくちゅという隠微な音が、僕と先輩が繋がっている部分から[r]
-漏れ出した。先輩の中は、どんどん熱を帯びてきて、[r]
-僕のちんちんを[ruby text="とろ"]蕩かしそうだった。[pcms]
+The indecent sound of squelching leaked from where Senpai and I were[r]
+connected. Inside her was getting hotter and hotter, as if it was[r]
+going to melt my dick.[pcms]
 
 ;//■イベントCG　satuki_H005 挿入
 [evcg storage="satuki_H005h"][trans_c cross time=300]
@@ -876,55 +892,55 @@
 *3052|
 [fc]
 [vo_stk s="satuki_st0419"]
-[ns]彩芽[nse]
-「あひっ、あっ、熱いぃ、溶けちゃう、おまんこ溶けちゃうぅ。[r]
-　あっ、ああっ、あっ…………ひああっ、あっあくううっっ！！」[pcms]
+[ns]Ayame[nse]
+"Ahih, ah, it's hot, my pussy is going to melt. Ah, aahh, ah...[r]
+hiaaahh, akuuuhhh!!"[pcms]
 
 *3053|
 [fc]
-びくんと先輩の背中が反り返る。[r]
-今当たった場所が、きっと先輩のスポットだ。[pcms]
+Senpai's back arched with a jerk. The spot I just hit must be her[r]
+sensitive spot.[pcms]
 
 *3054|
 [fc]
-僕はそこ目掛けて、腰の動きを加速させた。[pcms]
+I aimed for that spot and accelerated my hip movements.[pcms]
 
 *3055|
 [fc]
 [vo_stk s="satuki_st0420"]
-[ns]彩芽[nse]
-「あひっ、ひあっっ！　やっ、やっ、すごっ……すごいっ！[r]
-　溶けるっ！　熱いぃっ！　ひあっくぅ、ああっああんあああっ」[pcms]
+[ns]Ayame[nse]
+"Ahih, hiaaahh! No, no, amazing... so amazing! It's melting! It's hot![r]
+Hiaakuu, aahhaaannaaah!"[pcms]
 
 *3056|
 [fc]
 [vo_stk s="satuki_st0421"]
-[ns]彩芽[nse]
-「やっ、おかしくなるっ、おかし……くなっ！　あっんんんっ！[r]
-　そこ、弱……いぃ、だめ、だめだめ、おかしくっ、ああぁあっ」[pcms]
+[ns]Ayame[nse]
+"No, I'm going crazy, going crazy! Ahnnnnn! There, it's weak... no, no[r]
+no no, I'm going crazy, aahhaaah!"[pcms]
 
 *3057|
 [fc]
-[ns]誠[nse]
-「ここですね、ここがいいんですね」[pcms]
+[ns]Makoto[nse]
+"This is the spot, isn't it? This is where you like it."[pcms]
 
 *3058|
 [fc]
-僕は更にそこを攻め立てた。[pcms]
+I attacked that spot even more.[pcms]
 
 *3059|
 [fc]
 [vo_stk s="satuki_st0422"]
-[ns]彩芽[nse]
-「あっ、ああああっ、だめぇ、だめっ、あっ熱い熱いぃぃっ、[r]
-　溶けるっ、そんなに擦られたらっ、あっぁああっ、あんんんっ」[pcms]
+[ns]Ayame[nse]
+"Ah, aaaaahh, noo, noo, ah it's hot hot hiiihhh! If you rub me like[r]
+that, I'm going to melt, ahhhaaannn!"[pcms]
 
 *3060|
 [fc]
 [vo_stk s="satuki_st0423"]
-[ns]彩芽[nse]
-「生……凄いぃ、スゴ……イぃ、どうして……どうしてぇ……[r]
-　こんなに……感じ…………あっ、ああああああいいいいいっく」[pcms]
+[ns]Ayame[nse]
+"Raw... it's incredible, so incredible... why does it... why does it[r]
+feel so... intense... ah, aaaaaaaaaiiiiiii'm cumming!"[pcms]
 
 ;//seフェード停止
 [stopse buf=1]
@@ -941,20 +957,20 @@
 
 *3061|
 [fc]
-先輩の背中がピンと仰け反る。[r]
-同時におまんこの中がぐにゅぐにゅと動き、僕のちんちんを[r]
-容赦なく絞り、擦り上げる。奥へ奥へと引き込もうとしていた。[pcms]
+Senpai's back arched straight up. At the same time, her pussy clenched[r]
+and writhed around my dick unrelentingly, pulling me deeper and deeper[r]
+inside.[pcms]
 
 *3062|
 [fc]
 [vo_stk s="satuki_st0424"]
-[ns]彩芽[nse]
-「やっ、やあ……あっ……」[pcms]
+[ns]Ayame[nse]
+"No, noo... ah..."[pcms]
 
 *3063|
 [fc]
-[ns]誠[nse]
-「先輩、今イっちゃいました？」[pcms]
+[ns]Makoto[nse]
+"Senpai, did you just cum?"[pcms]
 
 ;//■イベントCG　satuki_H005 挿入
 [evcg storage="satuki_H005l"][trans_c cross time=300]
@@ -962,21 +978,22 @@
 *3064|
 [fc]
 [vo_stk s="satuki_st0425"]
-[ns]彩芽[nse]
-「ん……うん。もう……あっ、ああっ、そんなこと……訊かないで[r]
-　あぅっ、凄いの、生おちんちん……だとぉ、あっぁああっ」[pcms]
+[ns]Ayame[nse]
+"Nn... yeah. I just... ah, aahh, don't ask such things... auhh, it's[r]
+amazing with a raw cock... there it goes again!"[pcms]
 
 *3065|
 [fc]
-[ns]誠[nse]
-「もっとイっちゃってくださいっ！」[pcms]
+[ns]Makoto[nse]
+"Please cum more!"[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *3066|
 [fc]
-僕はまた動きを増して、先輩の奥をずんずんと攻め立てた。[pcms]
+I increased my movements again and attacked Senpai's depths[r]
+relentlessly.[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005m"][trans_c cross time=300]
@@ -984,21 +1001,21 @@
 *3067|
 [fc]
 [vo_stk s="satuki_st0426"]
-[ns]彩芽[nse]
-「ああっんあああっ！　ひあっ、熱いぃっ！　当たるっ！[r]
-　あたるあたるあたるぅっ！　あっ、あんあっ、あひっいいっ」[pcms]
+[ns]Ayame[nse]
+"Aaannnaaahh! Hiahh, it's hot! It's hitting! It's hitting hitting[r]
+hitting! Ahh, annahh, ahih good!"[pcms]
 
 *3068|
 [fc]
 [vo_stk s="satuki_st0427"]
-[ns]彩芽[nse]
-「ぴたっって……ぴたってぇ、くっつくぅ、おちんちんっ！[r]
-　あっ、生の、生の、おちんちんがぁっ、擦るぅぅぅっ！！」[pcms]
+[ns]Ayame[nse]
+"It sticks... sticks to meee, your cock! Ahh, raw cock is rubbing[r]
+meee!!"[pcms]
 
 *3069|
 [fc]
-[ns]誠[nse]
-「……っ！」[pcms]
+[ns]Makoto[nse]
+"...!"[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005o"][trans_c cross time=300]
@@ -1006,33 +1023,33 @@
 *3070|
 [fc]
 [vo_stk s="satuki_st0428"]
-[ns]彩芽[nse]
-「あひっっ！　あ、だめだめだめぇ、また、またまたぁ……！[r]
-　凄いよぉっ、あっ、溶けるぅ、おまんこ溶けちゃうぅっ！」[pcms]
+[ns]Ayame[nse]
+"Ahihhh! No no noo, again, again agaaain...! It's amazingggg, ah, I'm[r]
+meltingggg, my pussy is meltinggg!"[pcms]
 
 *3071|
 [fc]
 [vo_stk s="satuki_st0429"]
-[ns]彩芽[nse]
-「あひっっ！　熱い、熱い熱いっ！　溶ける、溶けるぅっ！[r]
-　ずんずんされて、当たってぇっ！　ああ、だめ、また……」[pcms]
+[ns]Ayame[nse]
+"Ahihhh! It's hot, hot hot! Meltingggg! You're thrusting and hitting[r]
+meee! Ahh noo, again..."[pcms]
 
 *3072|
 [fc]
 [vo_stk s="satuki_st0430"]
-[ns]彩芽[nse]
-「イっちゃう、また、またイっちゃうぅ。生のおちんちんで、[r]
-　また、また、イくぅ、イっちゃうっ！」[pcms]
+[ns]Ayame[nse]
+"I'm cumming again, again I'm cumminggg. With your raw cock again and[r]
+again I'm cumminggg!"[pcms]
 
 *3073|
 [fc]
-僕もそろそろ限界だった。[r]
-生のおまんこの感触は凄くて、我ながらよくここまで持ったと思う。[pcms]
+I was also nearing my limit. The sensation of her raw pussy was[r]
+incredible; I'm surprised I lasted this long.[pcms]
 
 *3074|
 [fc]
-[ns]誠[nse]
-「せ、先輩。僕も、僕ももうっ！」[pcms]
+[ns]Makoto[nse]
+"Se-Senpai. I also can't hold back any longer!"[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005l"][trans_c cross time=300]
@@ -1040,33 +1057,33 @@
 *3075|
 [fc]
 [vo_stk s="satuki_st0431"]
-[ns]彩芽[nse]
-「嬉し……ぃっ、一緒に、イってぇっ！　あっ、あああっ！[r]
-　ねっ、中に、中に、生で、生精液、ちょうだいっ！[pcms]
+[ns]Ayame[nse]
+"I'm happy... let's cum together! Ahh aaaaah! Heyyy, inside meee, give[r]
+me your raw semen!"[pcms]
 
 *3076|
 [fc]
 [vo_stk s="satuki_st0432"]
-[ns]彩芽[nse]
-「中で生で、出され……初めてぇっ……！！　ああっ、熱いっ、[r]
-　もっと、熱いの、ちょうだいっ！　あっ、ああああっんんっ」[pcms]
+[ns]Ayame[nse]
+"Inside me raw for the first timeee...!! Aaahh it's hot! Give me more[r]
+of that heat! Ahh aaaaannnn!"[pcms]
 
 *3077|
 [fc]
 [vo_stk s="satuki_st0433"]
-[ns]彩芽[nse]
-「も、もうイっちゃう。出してぇ。どぴゅどぴゅ出してぇ……！[r]
-　中出し、バージンも、奪ってぇっあっあああっあっ」[pcms]
+[ns]Ayame[nse]
+"I'm cumming again. Let it outtt. Cum inside meee...! Take my[r]
+virginity with a creampieee ahhhaaaahhh!"[pcms]
 
 *3078|
 [fc]
-[ns]誠[nse]
-「……っ！」[pcms]
+[ns]Makoto[nse]
+"...!"[pcms]
 
 *3079|
 [fc]
-僕の腰は今までにないぐらいの速度で動き出す。[r]
-ラストスパートだ。奥からもう込み上げてきてる。[pcms]
+My hips started moving at an unprecedented speed. It's the final[r]
+spurt. It's already surging up from deep inside.[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005m"][trans_c cross time=300]
@@ -1074,23 +1091,23 @@
 *3080|
 [fc]
 [vo_stk s="satuki_st0434"]
-[ns]彩芽[nse]
-「汚してぇ、誠君のせーえき、でぇ……あっ、わたしのぉ、[r]
-　あた……しのぉ、おまんこ、膣、子宮っっ！！　全部ぅっ！[r]
-　出してぇ、ぶちまけてぇ、どろどろに汚してぇ、ああっ！」[pcms]
+[ns]Ayame[nse]
+"I want to dirty it, with Makoto-kun's semen... Ah, my pussy, my[r]
+vagina, my womb!! All of it! Let it out, spill it, make it all messy,[r]
+ahh!"[pcms]
 
 *3081|
 [fc]
 [vo_stk s="satuki_st0435"]
-[ns]彩芽[nse]
-「ちょうだいっ、せーえきぃ！　欲しい、初めての、欲しいぃ！[r]
-　いっぱい、いっぱい熱いの、熱いの、どぴゅどぴゅっ、[r]
-　あっ、だめ、イっちゃう、イっちゃう、イくイく、一緒っっ！！」[pcms]
+[ns]Ayame[nse]
+"Give it to me, your semen! I want it, my first time, I want it! Lots[r]
+and lots of your hot cum, spurting out, ah, no, I'm cumming, I'm[r]
+cumming, cumming together!!"[pcms]
 
 *3082|
 [fc]
-[ns]誠[nse]
-「出しますっ！！！！」[pcms]
+[ns]Makoto[nse]
+"I'm cumming!!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1107,12 +1124,12 @@
 *3083|
 [fc]
 [vo_stk s="satuki_st0436"]
-[ns]彩芽[nse]
-「あっああああああっ！！！　すごいぃぃぃいいいいいいいっ！」[pcms]
+[ns]Ayame[nse]
+"Ahhhhhhhhhh!!! It's amazingggggggggg!"[pcms]
 
 *3084|
 [fc]
-先輩の頭が仰け反る。全身がぶるぶると震えまくる。[pcms]
+Senpai's head threw back. Her whole body was shaking violently.[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005q"][trans_c cross time=300]
@@ -1120,21 +1137,21 @@
 *3085|
 [fc]
 [vo_stk s="satuki_st0437"]
-[ns]彩芽[nse]
-「んくうっイイイイ、ああああっ、ああっ熱い、熱い熱い熱いっ！[r]
-　出てる、出てるぅ、わたしの中に、あっあああああっぁあっ！」[pcms]
+[ns]Ayame[nse]
+"Nkuuuh, it feels so good, ahhh, it's hot, hot hot hot! It's coming[r]
+out, it's coming out inside me, ahhhhhhhhh!"[pcms]
 
 *3086|
 [fc]
 [vo_stk s="satuki_st0438"]
-[ns]彩芽[nse]
-「はじ、めてのぉ……中に生のぉ、せー……えきぃ……っ！[r]
-　あ、あああ、染み込むぅ……おまんこに、染み込むぅ……っ！」[pcms]
+[ns]Ayame[nse]
+"For the first time... raw semen inside...! Ah, ahhh, it's seeping[r]
+in... into my pussy, seeping in...!"[pcms]
 
 *3087|
 [fc]
-まだ中からどくどくと出ていた。全部注ぎ込むために[r]
-僕は何度も何度も腰を先輩に押しつけた。[pcms]
+It was still spurting out from inside. To pour everything into her, I[r]
+pressed my hips against her over and over again.[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005m"][trans_c cross time=300]
@@ -1142,34 +1159,35 @@
 *3088|
 [fc]
 [vo_stk s="satuki_st0439"]
-[ns]彩芽[nse]
-「んはあ……あっ、はあっ、はあっ……あっ、凄い……生って……[r]
-　凄い……ああ、まだ出てる……わかる……中でどくどくぅ……」[pcms]
+[ns]Ayame[nse]
+"Nnhaha... Ahh, hahh, hahh... Ahh, it's incredible... raw is...[r]
+incredible... Ahh, it's still coming out... I can feel it... throbbing[r]
+inside..."[pcms]
 
 *3089|
 [fc]
 [vo_stk s="satuki_st0440"]
-[ns]彩芽[nse]
-「はあっ……あっ……はあっ、はあっ……凄い……素敵……。[r]
-　生おちんちんも中出しも……すてきぃ…………」[pcms]
+[ns]Ayame[nse]
+"Hahh... Ahh... Hahh, hahh... amazing... wonderful... Raw dick and[r]
+creampie are... wonderful..."[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005n"][trans_c cross time=300]
 
 *3090|
 [fc]
-[ns]誠[nse]
-「はっ……はっ……」[pcms]
+[ns]Makoto[nse]
+"Hah... Hah..."[pcms]
 
 *3091|
 [fc]
-全部出し切ったはずなのに、僕のちんちんは、まだまだ[r]
-硬いままだった。[pcms]
+Even though I should have released everything, my dick was still hard[r]
+as ever.[pcms]
 
 *3092|
 [fc]
-余韻にひたる先輩の膣が、ひくんひくんと動く度に、[r]
-僕のちんちんは、ぴくんぴくんと反応していた。[pcms]
+Every time Senpai's vagina twitched in the afterglow, my dick would[r]
+react and twitch in response.[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005o"][trans_c cross time=300]
@@ -1177,18 +1195,18 @@
 *3093|
 [fc]
 [vo_stk s="satuki_st0441"]
-[ns]彩芽[nse]
-「んふふっ……まだ硬いね……生のおちんちん、熱いね……。[r]
-　ね……もう１回、中に欲しいな……」[pcms]
+[ns]Ayame[nse]
+"Nfufu... It's still hard... Your raw cock is hot... Hey... I want it[r]
+inside again..."[pcms]
 
 *3094|
 [fc]
-[ns]誠[nse]
-「！！　はいっ！！」[pcms]
+[ns]Makoto[nse]
+"!! Yes!!"[pcms]
 
 *3095|
 [fc]
-僕の腰は、すぐに動き出した。[pcms]
+My hips immediately started moving again.[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
@@ -1199,13 +1217,13 @@
 *3096|
 [fc]
 [vo_stk s="satuki_st0442"]
-[ns]彩芽[nse]
-「ひあっっ！　やっ、すごっっ！　あっ、あああっ、んっいいっ」[pcms]
+[ns]Ayame[nse]
+"Hiaaah! Noo, that's amazing! Ahh, ahhh, nnngh good!"[pcms]
 
 *3097|
 [fc]
-僕の精液で中はぬるぬる度がアップしてる。[r]
-最初からさっき見つけたスポットを突きまくった。[pcms]
+My semen made her insides even more slippery. From the start, I[r]
+pounded the spot I found earlier.[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005o"][trans_c cross time=300]
@@ -1213,20 +1231,20 @@
 *3098|
 [fc]
 [vo_stk s="satuki_st0443"]
-[ns]彩芽[nse]
-「あっ、あひっ！　だ、だめっ、いきなりっ！　あっ、やあっ！[r]
-　あうっ、ああああっ、熱いぃっ！　おかし……くなるっっ！！」[pcms]
+[ns]Ayame[nse]
+"Ah, ahih! Noo, not so suddenly! Ahh, yaaah! Auhh, ahhhhhh, it's so[r]
+hot! I'm going crazy!!"[pcms]
 
 *3099|
 [fc]
 [vo_stk s="satuki_st0444"]
-[ns]彩芽[nse]
-「ああっ、ああっ、ああっ、あっ、あっ、あっ、あっあっっ！！」[pcms]
+[ns]Ayame[nse]
+"Ahhh, ahhh, ahhh, ah, ah, ah, ahhhhh!!"[pcms]
 
 *3100|
 [fc]
-[ns]誠[nse]
-「先輩っ！　先輩、好きですっ！　好きですっ！」[pcms]
+[ns]Makoto[nse]
+"Senpai! Senpai, I love you! I love you!"[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005l"][trans_c cross time=300]
@@ -1234,40 +1252,40 @@
 *3101|
 [fc]
 [vo_stk s="satuki_st0445"]
-[ns]彩芽[nse]
-「嬉しぃいっ……あっ、嬉しいっ……ああっ！　生でおちんちん[r]
-　挿れら……れて、ああっ、ひとつ……ひとつにぃ……なってっ」[pcms]
+[ns]Ayame[nse]
+"I'm so happy... Ahh, I'm happy... Ahhh! Being penetrated by your raw[r]
+cock, ahh, becoming one... becoming one..."[pcms]
 
 *3102|
 [fc]
 [vo_stk s="satuki_st0446"]
-[ns]彩芽[nse]
-「あっ、嬉しいぃっ！　も、もう、ひとりは、嫌っ……ひああっ！[r]
-　も、もう、嫌なのぉっ……あっあああっ、あんっふああっん」[pcms]
+[ns]Ayame[nse]
+"Ahh, I'm so happy! No more being alone is unbearable... Hiaaah! No[r]
+more of being alone... Ahhhhhh, ahnfhahhhn"[pcms]
 
 *3103|
 [fc]
-[ns]誠[nse]
-「しませんっ、もう、一人になんてっ！」[pcms]
+[ns]Makoto[nse]
+"I won't let you be alone anymore!"[pcms]
 
 *3104|
 [fc]
 [vo_stk s="satuki_st0447"]
-[ns]彩芽[nse]
-「嬉しいっ……嬉しいっ、まーく、んっ、誠……まことぉ……！[r]
-　ひとりに、しない……でぇっ、も、もうっ……お願……いいっ！」[pcms]
+[ns]Ayame[nse]
+"I'm happy... I'm happy, Mak-kun, Makoto...! Don't leave me alone...[r]
+please!"[pcms]
 
 *3105|
 [fc]
 [vo_stk s="satuki_st0448"]
-[ns]彩芽[nse]
-「ひとつになっ……てぇ、わたしと、わたしとぉっ！[r]
-　あっ、あああっ、凄いっ、凄いっ、熱いっ、溶けるぅっ！！」[pcms]
+[ns]Ayame[nse]
+"Become one with me, with me! Ahh, ahhhhhh, it's amazing, it's hot,[r]
+I'm melting!!"[pcms]
 
 *3106|
 [fc]
-[ns]誠[nse]
-「僕も、僕もっ！」[pcms]
+[ns]Makoto[nse]
+"Me too, me too!"[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005o"][trans_c cross time=300]
@@ -1275,23 +1293,23 @@
 *3107|
 [fc]
 [vo_stk s="satuki_st0449"]
-[ns]彩芽[nse]
-「溶けて……ひとつ……ああっ、誠……と、ひとつぅっっ、[r]
-　あんくううぅっ！　当たる、あたるあたるあたるあたるぅっ！」[pcms]
+[ns]Ayame[nse]
+"Melting into one... Ahh, Makoto... becoming one with youuuuuh![r]
+Mmmnnngh! It's hitting me, hitting hitting hitting me!!"[pcms]
 
 *3108|
 [fc]
 [vo_stk s="satuki_st0450"]
-[ns]彩芽[nse]
-「あっ、また、またイっちゃう、イっちゃう、イっちゃうっ！[r]
-　来てっ、きてきてきてっ！　出して出してぇ、いっぱいっ！[r]
-　一緒に、一緒に、来てっ！　イっちゃうの、出して、いっ……！」[pcms]
+[ns]Ayame[nse]
+"Ahh, I'm going to cum again, cumming again and again! Come on, come[r]
+come come! Release it all inside me! Together, together, come with me![r]
+I'm cumming out with youuuu...!"[pcms]
 
 *3109|
 [fc]
 [vo_stk s="satuki_st0451"]
-[ns]彩芽[nse]
-「いっぱっ…………あああああああぁっっっ！！！」[pcms]
+[ns]Ayame[nse]
+"So muchhhh... ahhhhhhhhh!!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1307,52 +1325,51 @@
 
 *3110|
 [fc]
-[ns]誠[nse]
-「んぐぅっ……！」[pcms]
+[ns]Makoto[nse]
+"Nnguhh...!"[pcms]
 
 *3111|
 [fc]
 [vo_stk s="satuki_st0452"]
-[ns]彩芽[nse]
-「出てる出てるっ、あああっ、いいいっ、いいっいいいいっ！！[r]
-　熱い熱いぃ、溶けるっ溶けるぅっっ！！　ふあああああっ！！」[pcms]
+[ns]Ayame[nse]
+"It's coming out, ahhh, it feels so goodddddd!! It's hot hot hot,[r]
+melting awayyyyy!! Fuaaaaaahhh!!"[pcms]
 
 *3112|
 [fc]
 [vo_stk s="satuki_st0453"]
-[ns]彩芽[nse]
-「あっあああっ、わたしの……中ぁ、誠で……いっぱいぃ……[r]
-　あっ、あっあっ……あっあああっ………………はぁん……」[pcms]
+[ns]Ayame[nse]
+"Ahhhhh, inside me... filled with Makoto... Ahh, ahhh... haaan..."[pcms]
 
 ;//■イベントCG　satuki_H005
 [evcg storage="satuki_H005q"][trans_c cross time=300]
 
 *3113|
 [fc]
-[ns]誠[nse]
-「……っ、ふっ…………っ」[pcms]
+[ns]Makoto[nse]
+"... Huh... Huh..."[pcms]
 
 *3114|
 [fc]
 [vo_stk s="satuki_st0454"]
-[ns]彩芽[nse]
-「凄い……ね、誠君……中、たぎっちゃってる……。[r]
-　ああっ……わたしの中、全部、誠君のせーえきでいっぱいだよぉ」[pcms]
+[ns]Ayame[nse]
+"It's incredible... right, Makoto-kun? Inside is boiling over...[r]
+Ahh... My insides are filled with your semen..."[pcms]
 
 *3115|
 [fc]
-[ns]誠[nse]
-「は……はい」[pcms]
+[ns]Makoto[nse]
+"Yes..."[pcms]
 
 *3116|
 [fc]
-まだ先輩のおまんこは、ざわめいていた。[r]
-でも、僕も先輩も肩で息をしてて、顔はきっと真っ赤だし、[r]
-汗もうんとこさ、吹きだしてた。[pcms]
+Senpai's pussy was still buzzing. But both Senpai and I were breathing[r]
+heavily with our shoulders and our faces must have been bright red[r]
+with sweat pouring down.[pcms]
 
 *3117|
 [fc]
-だから、僕はちんちんをゆっくり引き抜いた。[pcms]
+So I slowly pulled out my dick.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -1363,64 +1380,64 @@
 *3118|
 [fc]
 [vo_stk s="satuki_st0455"]
-[ns]彩芽[nse]
-「あああっ、んっんああっ……凄い……生だと、抜く時も、[r]
-　こんなに、気持ちいいんだ……ぁ……はあっ……あっ」[pcms]
+[ns]Ayame[nse]
+"Aaaaaahh... nnnnnaaahh... incredible... even pulling out feels so[r]
+good when it's raw... haaahh... ahh"[pcms]
 
 *3119|
 [fc]
-先輩の膣口から、とろりと僕の精液があふれ出す。[r]
-先輩の愛液と混ざって、泡立った白濁した液が流れ出した。[pcms]
+From Senpai's vaginal opening, my semen oozed out thickly. Mixed with[r]
+Senpai's love juices, the frothy white liquid flowed out.[pcms]
 
 *3120|
 [fc]
 [vo_stk s="satuki_st0456"]
-[ns]彩芽[nse]
-「んふう……凄く濃い匂い……いっぱい出してくれたのね……」[pcms]
+[ns]Ayame[nse]
+"Nfuu... Such a strong smell... You came a lot, didn't you..."[pcms]
 
 *3121|
 [fc]
-[ns]誠[nse]
-「いっぱい出しちゃいました……」[pcms]
+[ns]Makoto[nse]
+"I came a lot..."[pcms]
 
 *3122|
 [fc]
 [vo_stk s="satuki_st0457"]
-[ns]彩芽[nse]
-「んふふ……嬉しい。生で中だしバージン、誠君に奪って[r]
-　もらえて、すっごく嬉しいわ…………」[pcms]
+[ns]Ayame[nse]
+"Nfufu... I'm happy. To have my virginity taken raw and inside by[r]
+Makoto-kun, I'm really happy..."[pcms]
 
 *3123|
 [fc]
-とろとろと流れ出す精液と愛液を、彩芽先輩は本当に[r]
-愛おしそうな顔で見つめていた。[pcms]
+The semen and love juices that flowed out thickly, Senpai looked at[r]
+them with a truly affectionate expression.[pcms]
 
 *3124|
 [fc]
 [vo_stk s="satuki_st0458"]
-[ns]彩芽[nse]
-「ね……もう１回。もっと味わいたいの……」[pcms]
+[ns]Ayame[nse]
+"Hey... one more time. I want to savor it more..."[pcms]
 
 *3125|
 [fc]
-[ns]誠[nse]
-「えっ！」[pcms]
+[ns]Makoto[nse]
+"Eh!"[pcms]
 
 *3126|
 [fc]
-どくんと、一気にちんちんに血液が流れ込む。[r]
-なんて現金な僕のちんちん……でも、求められるのは嬉しい。[pcms]
+My dick throbbed as blood rushed into it all at once. What a[r]
+straightforward dick I have... but being desired is a happy thing.[pcms]
 
 *3127|
 [fc]
 [vo_stk s="satuki_st0459"]
-[ns]彩芽[nse]
-「んふっ……大丈夫そうよね？　ね、入ってきて。な・ま・で」[pcms]
+[ns]Ayame[nse]
+"Nfuh... You seem fine, right? Come on, enter me. Raw."[pcms]
 
 *3128|
 [fc]
-抜き出したばかりなのに、僕はちんちんをまた彩芽先輩の[r]
-おまんこの中に収め直した。[pcms]
+Even though I had just pulled out, I put my dick back inside Senpai's[r]
+pussy.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

@@ -35,87 +35,82 @@
 
 *5681|
 [fc]
-柔らかなオレンジ色の灯りがともるホテルの廊下の中、[r]
-六つの人影が揺れ、若者特有の良く通る高い声が響く。[pcms]
+The soft orange light flickers in the hotel corridor, where six[r]
+silhouettes sway, and the distinct high-pitched voices of youth echo.[pcms]
 
 *5682|
 [fc]
-その影が灯りに近づき、薄れ、[r]
-代わりに六人の姿が露わになっていくと、[r]
-それは、瑞々しい肌に紺色の服をまとった姿が浮かび上がる。[pcms]
+As those shadows approach the light and fade, the figures of six[r]
+people become clear, revealing fresh skin clad in navy blue attire.[pcms]
 
 *5683|
 [fc]
 [vo_mob s="aka0001"]
-[ns]赤坂[nse]
-「楽しかったぁ……まだまだ寝たくないよ～」[pcms]
+[ns]Akasaka[nse]
+"That was so much fun... I don't want to go to sleep yet~"[pcms]
 
 *5684|
 [fc]
-一人の少女が、不満げに呟くと、[r]
-最も前を歩く年不相応の妖艶さを持った少女が返した。[pcms]
+A girl mutters with dissatisfaction, and the girl walking at the[r]
+front, who possesses an allure beyond her years, responds.[pcms]
 
 *5685|
 [fc]
 [vo_mob s="midori0001"]
-[ns]緑川[nse]
-「もったいないから、寝ないで遊べばいいんじゃないの？[r]
-　それとも、何？　赤坂は疲れたのかしらねぇ」[pcms]
+[ns]Midorigawa[nse]
+"It's a waste to sleep now, isn't it? Why don't we just stay up and[r]
+play? Or what, Akasaka, are you tired?"[pcms]
 
 *5686|
 [fc]
-その妖艶な口が閉じるのを待たず、[r]
-同じ顔をした二人の少女が、ほぼ同時に口を挟んだ。[pcms]
+Before the enchanting mouth could close, two girls with identical[r]
+faces interjected almost simultaneously.[pcms]
 
 *5687|
 [fc]
 [vo_mob s="siro_ane0001"]
-[ns]白石　姉[nse]
-「なんか花沢さん、具合悪いみたいだったけど、[r]
-　もう元気になったかな？」[pcms]
+[ns]Shiraishi Ane[nse]
+"It seemed like Hanazawa-san wasn't feeling well earlier, I wonder if[r]
+she's feeling better now?"[pcms]
 
 *5688|
 [fc]
 [vo_mob s="siro_imo0001"]
-[ns]白石　妹[nse]
-「もし元気そうだったら、一緒に遊びたいな……。[r]
-　そうだ！　私カードゲーム持ってきたんだよね。[r]
-　あれなら疲れないと思うけど、どうかな」[pcms]
+[ns]Shiraishi Imouto[nse]
+"If she looks well enough, I'd love to play together... That's right![r]
+I brought a card game. It shouldn't be tiring, what do you think?"[pcms]
 
 *5689|
 [fc]
 [vo_mob s="ao0001"]
-[ns]青山[nse]
-「それ、いいね！」[pcms]
+[ns]Aoyama[nse]
+"That sounds good!"[pcms]
 
 *5690|
 [fc]
 [vo_mob s="ouse0001"]
-[ns]黄瀬[nse]
-「でも～……無理はさせない方がいいよね。[r]
-　……まあ、そのとき次第～！　さって、起きてるかな、[r]
-　花沢さん」[pcms]
+[ns]Kise[nse]
+"But... we shouldn't push her too hard, right? ...Well, it depends on[r]
+how she's feeling~! Now, let's see if Hanazawa-san is awake."[pcms]
 
 *5691|
 [fc]
-満面の笑みを浮かべた少女が客室のドアに手をかけ、[r]
-勢いよく開く。[pcms]
+A girl with a beaming smile reaches for the door of the guest room and[r]
+swings it open with vigor.[pcms]
 
 *5692|
 [fc]
-僅かに開いた扉から、[r]
-廊下と同じように柔らかな灯りが光の壁を作り、伸びていく。[pcms]
+A sliver of light from the slightly opened door creates a wall of[r]
+light that stretches out, just like in the corridor.[pcms]
 
 *5693|
 [fc]
-同じようにして笑う他の五人は、[r]
-待ちきれないと言わんばかりに、[r]
-半開きの扉へとなだれ込んだ。[pcms]
+The other five girls, also smiling in anticipation, couldn't wait and[r]
+tumbled through the half-open door.[pcms]
 
 *5694|
 [fc]
-その光が、[r]
-あどけない少女を地獄に引き込む罠とも知らず。[pcms]
+Unaware that this light was a trap luring an innocent girl into hell.[pcms]
 
 ;//seA011.ogg
 [se buf=0 storage="seA011"]
@@ -130,18 +125,18 @@
 *5695|
 [fc]
 [vo_mob s="midori0002"]
-[ns]緑川[nse]
-「えっ……何してるの、貴方たち……」[pcms]
+[ns]Midorikawa[nse]
+"Eh... What are you all doing...?"[pcms]
 
 *5696|
 [fc]
-薄暗い廊下から、ほんの少し明るい客室に飛び込んだ少女達は、[r]
-部屋に入る前の勢いを落とした。[pcms]
+The girls who jumped from the dim corridor into the slightly brighter[r]
+guest room slowed their pace as they entered.[pcms]
 
 *5697|
 [fc]
-眩しさに目が眩んだのではない。[r]
-目の前で行われている非日常の光景の為に、だ――[pcms]
+It wasn't because their eyes were dazzled by brightness. It was[r]
+because of the extraordinary scene unfolding before them--[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -163,338 +158,320 @@
 *5698|
 [fc]
 [vo_han s="hana0041"]
-[ns]花沢[nse]
-「んっ……んんっ！　も、もっと奧までっ！[r]
-　わたしのなか、おちんちんでいっぱいにしてぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"Mmm... Mmmh! More, deeper! Fill me up with your dick inside me!"[pcms]
 
 *5699|
 [fc]
-[ns]部員Ａ[nse]
-「言われなくっても、もっとヤッてやるよ！[r]
-　花沢のマンコ、なかなかいい感じだし、[r]
-　止めろっていっても、止めないぞっ！」[pcms]
+[ns]Club Member A[nse]
+"I'll do you more even without you asking! Hanazawa's pussy feels[r]
+pretty good, and I won't stop even if you tell me to!"[pcms]
 
 *5700|
 [fc]
 [vo_han s="hana0042"]
-[ns]花沢[nse]
-「んぁっ！　の、のぞむところよっ！[r]
-　先輩こそ、さっきみたいに……、[r]
-　簡単に出したら、ダメですからねっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ah! That's exactly what I want! Just don't cum too easily like[r]
+before, senpai!"[pcms]
 
 *5701|
 [fc]
 [vo_han s="hana0043"]
-[ns]花沢[nse]
-「あはぁ……んんっ……んんん――！」[pcms]
+[ns]Hanazawa[nse]
+"Ahaha... Mmm... Mmmm--!"[pcms]
 
 ;//BGV
 
 *5702|
 [fc]
-小さな音を立て、客室の扉が閉まる。[r]
-だけど、六人は指一つ動かすことはなかった。[pcms]
+With a small noise, the door to the guest room closes. Yet, the six[r]
+people did not move a finger.[pcms]
 
 *5703|
 [fc]
-それ以外には、六人の少女達の目線を受ける男女だけが、[r]
-大きな声を上げていた。[pcms]
+Beyond that, only a man and a woman receiving the gaze of the six[r]
+girls were raising their voices loudly.[pcms]
 
 *5704|
 [fc]
-六人の少女は、みな一様に目を見開いたまま、[r]
-心臓と呼吸以外を忘れ、[r]
-身体をぶつけ合う男女を注視していた。[pcms]
+The six girls, all with their eyes wide open, forgot everything but[r]
+their heartbeats and breaths as they watched the man and woman collide[r]
+with each other.[pcms]
 
 *5705|
 [fc]
-この位の年代の少女なら、経験が無かったとしても、[r]
-何らかの形で、見聞きした事はあるだろう。[pcms]
+Girls of this age might have no experience, but they would have seen[r]
+or heard something of this nature in some form.[pcms]
 
 *5706|
 [fc]
-目の前で行われている二人の行為が、[r]
-セックスだと言うことを認識するのに、[r]
-それほどの時間は必要としなかった筈だ。[pcms]
+It shouldn't have taken them long to recognize that the act being[r]
+performed before them was sex.[pcms]
 
 *5707|
 [fc]
 [vo_han s="hana0044"]
-[ns]花沢[nse]
-「ふううっ……さっき、先輩が出したのが、[r]
-　わたしの体をながれてく……ぬる～って、ゆっくり……。[r]
-　ふふっ……えっち……あはっ……」[pcms]
+[ns]Hanazawa[nse]
+"Fuuu... The cum that senpai released earlier is flowing inside me...[r]
+slowly... Haha... naughty... Ahaha..."[pcms]
 
 *5708|
 [fc]
-少女特有の柔らかな肉に、背後から組み付く男の指が食い込み、[r]
-荒々しく前後に揺さぶられ、[r]
-腰から電波した振動は、柔らかな胸の肉を震わせる。[pcms]
+The man's fingers dig into the soft flesh unique to young girls from[r]
+behind, shaking her roughly back and forth, sending vibrations from[r]
+her waist that tremble her soft breasts.[pcms]
 
 *5709|
 [fc]
-まるでゴムマリの様に膨らみ、弾けそうな胸の肉は、[r]
-男の体の動きに合わせ、宙で円を描いていた。[pcms]
+The breasts that swell and seem about to burst like rubber balls move[r]
+in circles in the air following the man's movements.[pcms]
 
 *5710|
 [fc]
-円の動きを繰り返す胸や整った顔には、[r]
-すでに一度吐き出したであろう男の欲望の象徴――[pcms]
+The breasts repeating circular motions and her well-composed face were[r]
+already marked by the symbol of male desire[pcms]
 
 *5711|
 [fc]
-精液が付着し、[r]
-オレンジ色の光を受けてヌラヌラとした妖しい光を放っていた。[pcms]
+semen that stuck to them and shone with a lurid light under the orange[r]
+glow.[pcms]
 
 *5712|
 [fc]
-その反射光を受けた一人の少女が、[r]
-漸く現実世界へと、精神を取り戻した。[pcms]
+One of the girls, reflecting that light, finally returned to reality.[pcms]
 
 *5713|
 [fc]
 [vo_mob s="aka0002"]
-[ns]赤坂[nse]
-「何してるの、花沢さ……」[pcms]
+[ns]Akasaka[nse]
+"What are you doing, Hanazawa sa..."[pcms]
 
 *5714|
 [fc]
-まだ他の五人は身動きすら出来ず、[r]
-固唾をのんで花沢と呼ばれる少女の痴態を見つめ続けている。[pcms]
+The other five still couldn't move, holding their breath as they[r]
+continued to stare at Hanazawa's lewd behavior.[pcms]
 
 *5715|
 [fc]
-その視線の中心に立つ花沢は、[r]
-一人の少女の放った、震える声の方向へと目を向けた。[pcms]
+Hanazawa, standing at the center of their gaze, turned her eyes[r]
+towards the direction of a trembling voice released by one of the[r]
+girls.[pcms]
 
 [evcg storage="mob_H003b"][trans_c cross time=300]
 
 *5716|
 [fc]
 [vo_han s="hana0045"]
-[ns]花沢[nse]
-「あはぁ……みんな……ごめんねぇ……。[r]
-　先にはじめちゃってた……あはっ……ああっ！　んんっ！[r]
-　先輩のおちんちん、気持ちいいよお～？　みんなも、ほらぁ」[pcms]
+[ns]Hanazawa[nse]
+"Ahaha... everyone... sorry... I started without you... Ahah... Aah![r]
+Mmmh! Senpai's dick feels so good~? Look everyone..."[pcms]
 
 *5717|
 [fc]
-[ns]先輩Ａ[nse]
-「花沢のマンコだって、吸い付いて来るみたいで最高だぜ！？[r]
-　もしかしてお前のって、名器ってやつじゃねえの？」[pcms]
+[ns]Senior A[nse]
+"Hanazawa's pussy is gripping me like it's sucking me in; it's[r]
+amazing! Could it be that yours is one of those legendary pussies?"[pcms]
 
 *5718|
 [fc]
 [vo_han s="hana0046"]
-[ns]花沢[nse]
-「んひいいっ！　そんなに強くされたら、わたし……。[r]
-　またイッちゃいそうですよっ！　ねぇ、みんなも、[r]
-　わたし達と一緒に楽しみましょうよぉ……」[pcms]
+[ns]Hanazawa[nse]
+"Nyiiih! If you do it that strongly, I'm going to... I might cum[r]
+again! Hey everyone, why don't you join us and have fun together..."[pcms]
 
 *5719|
 [fc]
-二人が絡み合う姿を見つめる少女達の瞳の中に写る花沢と、[r]
-その背後に絡みつく男の目の色に異変が起こりだしていた。[pcms]
+The eyes of the girls watching the entwined pair began to show signs[r]
+of changenot because of the orange light.[pcms]
 
 *5720|
 [fc]
-オレンジ色の光のせいではない。[r]
-花沢と、男の瞳や、白目が次第に鮮烈な赤に染まりだしていく。[pcms]
+The whites and pupils of Hanazawa and the man's eyes began to turn a[r]
+vivid red.[pcms]
 
 *5721|
 [fc]
-その、妖しい赤の色は、[r]
-年齢不相応な妖艶さを持つ少女の口の束縛を解いた。[pcms]
+The sinister red color released the lips of the young girl who[r]
+possessed a seductiveness beyond her years.[pcms]
 
 *5722|
 [fc]
 [vo_mob s="midori0003"]
-[ns]緑川[nse]
-「あ……あれ……もしかして……」[pcms]
+[ns]Midorigawa[nse]
+"Ah... that... could it be...?"[pcms]
 
 *5723|
 [fc]
-彼女の脳裏には、嫌悪すべき記憶が蘇ったのだろう。[r]
-しかし、その後に続く言葉は無かった。[pcms]
+Perhaps memories that should be loathed were resurfacing in her mind.[r]
+However, no words followed.[pcms]
 
 *5724|
 [fc]
 [vo_han s="hana0047"]
-[ns]花沢[nse]
-「ふふふっ……あぁ……みんなに見られてるぅ……。[r]
-　ドキドキしちゃう……あぁあ……頭の中、ヘンになりそ……。[r]
-　乳首もクリトリスも、ビンビンになっちゃってる……」[pcms]
+[ns]Hanazawa[nse]
+"Fufufu... Ahh... being watched by everyone... It's making me[r]
+excited... Ahh... My head's getting all fuzzy... My nipples and clit[r]
+are so hard..."[pcms]
 
 *5725|
 [fc]
-未だ体を竦ませ、花沢と男の獣じみた行為を見つめる[r]
-少女達と対象に、その中心に位置する花沢は、[r]
-甘く、上気した吐息を漏らす。[pcms]
+Still stiffened, the girls continued to gaze at Hanazawa and the man's[r]
+beastly behavior, while Hanazawa, at the center of their attention,[r]
+let out sweet, flushed breaths.[pcms]
 
 *5726|
 [fc]
-その言葉通りに、白く柔らかな胸の先端では、[r]
-充血して尖った乳首が赤い軌跡を描き、揺れる。[pcms]
+True to her words, the tips of her soft white breasts were engorged[r]
+and pointed, tracing red paths as they swayed.[pcms]
 
 *5727|
 [fc]
-一方下半身の、堅い肉の棒を飲み込んだ、[r]
-ふくよかな丘の中心では、小さな肉の芽が乳首と同じように、[r]
-弾けそうになるほど膨らみ、頭をのぞかせていた。[pcms]
+Meanwhile, at the center of her voluptuous hills that had engulfed the[r]
+hard rod of flesh, a small bud of flesh was swollen as much as her[r]
+nipples, peeking out.[pcms]
 
 *5728|
 [fc]
-その二つの、所謂『女性の性感帯』の上を、[r]
-男の吐き出した欲望と、花沢が溢れさせる様々な体液が伝い、[r]
-オレンジ色の光を受け、輝く体液が宙を舞う。[pcms]
+Over those two so-called "female erogenous zones," the man's expelled[r]
+desire and various fluids overflowing from Hanazawa trickled down,[r]
+catching the orange light and making the bodily fluids dance in the[r]
+air.[pcms]
 
 [evcg storage="mob_H003c"][trans_c cross time=300]
 
 *5729|
 [fc]
 [vo_han s="hana0048"]
-[ns]花沢[nse]
-「んっ……あはああっ……おまんこが勝手にキューッってする！[r]
-　あはぁぁっ……先輩のかたいの、中にいっぱい感じる……。[r]
-　……かたいおちんちんから、精子がでるんだね……」[pcms]
+[ns]Hanazawa[nse]
+"Nn... Ahaha... My pussy is clenching on its own! Ahaha... I can feel[r]
+so much of senpai's hard one inside... Senpai's cock is going to[r]
+release sperm, isn't it..."[pcms]
 
 *5730|
 [fc]
 [vo_han s="hana0049"]
-[ns]花沢[nse]
-「わたし、おまんこの中に、先輩の精子だされて……。[r]
-　赤ちゃん出来ちゃう……あははっ！　それも、[r]
-　気持ちよさそうっ！　あははっ！　あははっ！」[pcms]
+[ns]Hanazawa[nse]
+"I'm getting senpai's sperm released inside my pussy... I might get[r]
+pregnant... Ahaha! That also feels so good! Ahaha! Ahaha!"[pcms]
 
 *5731|
 [fc]
-[ns]先輩Ａ[nse]
-「おっ、俺も中だししたいっ！　さっきは外にだしちまったけど、[r]
-　あれより気持ちいいだろうし……いいな？　花沢……。[r]
-　俺、お前の中に出していいんだなぁ！？」[pcms]
+[ns]Senior A[nse]
+"Oh, I want to cum inside too! I came outside last time, but it must[r]
+feel better inside... right, Hanazawa? I can cum inside you, right?!"[pcms]
 
 *5732|
 [fc]
 [vo_han s="hana0050"]
-[ns]花沢[nse]
-「出してぇっ！　わたしの中……いっちばん奧に出してっ！[r]
-　あぁ……想像しちゃう……おまんこの一番奥に精子が当たったら[r]
-　わたしどうなっちゃうんだろう……あははっ！」[pcms]
+[ns]Hanazawa[nse]
+"Cum inside! Cum deep inside me! Ahh... I'm imagining it... What will[r]
+happen to me if sperm hits the very back of my pussy... Ahaha!"[pcms]
 
 *5733|
 [fc]
-二人の望みは、一致している。[r]
-しかし、それを見つめ続ける六人の少女達は、[r]
-別の考えを持っていた。[pcms]
+Their desires were aligned. However, the six girls who continued to[r]
+watch had different thoughts.[pcms]
 
 *5734|
 [fc]
 [vo_mob s="siro_ane0002"]
-[ns]白石　姉[nse]
-「花沢さん……あなた……何言ってるの……？」[pcms]
+[ns]Shiraishi Ane[nse]
+"Hanazawa-san... what are you saying...?"[pcms]
 
 *5735|
 [fc]
 [vo_mob s="siro_imo0002"]
-[ns]白石　妹[nse]
-「あなた……荒井君の事が好きだったんじゃないの……。[r]
-　まさか、誰でも良かったの……！？」[pcms]
+[ns]Shiraishi Imouto[nse]
+"Didn't you like Arai-kun? Could it be that anyone would have been[r]
+fine...?!"[pcms]
 
 *5736|
 [fc]
-同じ顔をした少女が、申し合わせた様に口を開く。[r]
-口調は強かったが、反面体を小刻みに震わせながらも、[r]
-それぞれが、花沢と男の言葉を否定した。[pcms]
+The girls with identical faces opened their mouths as if they had[r]
+agreed beforehand. Although their tone was strong, they trembled[r]
+slightly as they each denied the words of Hanazawa and the man.[pcms]
 
 *5737|
 [fc]
 [vo_han s="hana0051"]
-[ns]花沢[nse]
-「そうよ……わたしが好きなのは、荒井君……。[r]
-　だけど、こなかったのよ！　だから、先輩とセックスしてるの！[r]
-　それの何がいけないの！？　気持ちいいんだもの、セックス！」[pcms]
+[ns]Hanazawa[nse]
+"That's right... The one I like is Arai-kun... But he didn't come![r]
+That's why I'm having sex with senpai! What's wrong with that!? Sex[r]
+feels good!"[pcms]
 
 *5738|
 [fc]
-[ns]先輩[nse]
-「おいおい、今は俺とのセックスに集中してくれよ。[r]
-　別の野郎の名前なんか、出すんじゃない！[r]
-　そらっ……奧までブッさしてやるから！」[pcms]
+[ns]Senior[nse]
+"Hey hey, focus on having sex with me right now. Don't bring up some[r]
+other guy's name! Here... I'll thrust deep inside you!"[pcms]
 
 *5739|
 [fc]
 [vo_han s="hana0052"]
-[ns]花沢[nse]
-「んっ……くぁぁっ！　奧っ！　奧に当たってるううっ！[r]
-　先輩のおちんちん、堅くて大きなのが当たってるっ！[r]
-　あはぁぁあ……頭、クラクラするうっ！」[pcms]
+[ns]Hanazawa[nse]
+"Nn... Qaaah! Deep! It's hitting deep! Senpai's cock, it's hard and[r]
+big and hitting me! Ahhaaa... My head's spinning!"[pcms]
 
 *5740|
 [fc]
-[ns]先輩Ａ[nse]
-「おおっ……また締まりが良くなって……くうっ！[r]
-　我慢できそうもないっ！」[pcms]
+[ns]Senior A[nse]
+"Ooh... It's getting tighter again... Kuu! I can't hold back!"[pcms]
 
 *5741|
 [fc]
 [vo_han s="hana0053"]
-[ns]花沢[nse]
-「んぉおおっ！　中にっ！　中に出していいってばっ！[r]
-　精子ちょうだいっ！　わたしのおまんこに一杯出してっ！[r]
-　一滴漏らさず、全部出してぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"Noooh! Inside! You can cum inside! Give me your sperm! Fill up my[r]
+pussy with it! Don't leave a single drop, cum everything inside me!"[pcms]
 
 *5742|
 [fc]
-[ns]先輩Ａ[nse]
-「ああ……だけど、俺がイクのに合わせろよ？[r]
-　一緒にイクんだぞっ！　みんなに見られて、[r]
-　イキ顔晒すんだぞっ！　いいな！？」[pcms]
+[ns]Senior A[nse]
+"Aah... but match my timing when I cum, okay? We're going to cum[r]
+together! You're going to show your orgasm face to everyone! Got it?!"[pcms]
 
 *5743|
 [fc]
 [vo_han s="hana0054"]
-[ns]花沢[nse]
-「あぁああぁ……わたし、みんなに見られてイクのっ！[r]
-　ねえ……見てっ……！　わたしのはずかしい顔……！[r]
-　イク顔見てぇっ！　お願いいいいっ……」[pcms]
+[ns]Hanazawa[nse]
+"Aaaaah... I'm going to cum while everyone watches! Hey... look at[r]
+me...! My embarrassing face...! Watch me cum! Pleaseee..."[pcms]
 
 *5744|
 [fc]
 [vo_han s="hana0055"]
-[ns]花沢[nse]
-「あ――っ……んあぁあっ！　あああぁっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Ah-- Nnaaahh! Aaaaah!!"[pcms]
 
 *5745|
 [fc]
-目を見開いたままの六人の少女へ、快楽に溺れた目を向けながら、[r]
-花沢は悲鳴の様な声を投げつけた。[pcms]
+With eyes wide open, Hanazawa threw a scream-like voice towards the[r]
+six girls drowned in pleasure.[pcms]
 
 *5746|
 [fc]
-一方の六人の少女達は、常軌を逸した花沢の赤い目や、[r]
-甘く、切ない悲鳴を受け、体を硬直させた。[pcms]
+Meanwhile, the six girls stiffened their bodies in response to[r]
+Hanazawa's red eyes and her sweet yet pained screams.[pcms]
 
 *5747|
 [fc]
 [vo_han s="hana0056"]
-[ns]花沢[nse]
-「んんっ……んっ……！！　ひぁぁっ！　[r]
-　おっ、おまんこ、すごいいっ！　わたし、もうイッちゃううっ！[r]
-　見てっ……イクとこ、みててえぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"Nnnn... Nn...!! Hiaaah! Oh, my pussy feels amazing! I'm going to cum[r]
+now! Look at me... Watch me as I cum eeehh!"[pcms]
 
 *5748|
 [fc]
-[ns]先輩Ａ[nse]
-「うっ……そ、そんなに、しめるなぁっ！[r]
-　イクぞおっ！　一緒にイケっ、花沢ァッ！」[pcms]
+[ns]Senior A[nse]
+"Ugh... don't tighten up like that! I'm going to cum! Let's cum[r]
+together, Hanazawaah!"[pcms]
 
 *5749|
 [fc]
 [vo_han s="hana0057"]
-[ns]花沢[nse]
-「ひっ……あぁあっ！　ダメぇっ！　イクうううっ！[r]
-　あぁっ！　凄いのくるっ！　イクっうぅううぅ！[r]
-　みんなに見られて、イッちゃうううっ――――！！」[pcms]
+[ns]Hanazawa[nse]
+"Hiih... Aaahh! Noo! I'm cummingggg! Aaahh! Something amazing is[r]
+coming! I'm cummingggg! Everyone's watching as I cummm----!!"[pcms]
 
 
 [stopse buf=1]
@@ -509,14 +486,18 @@
 
 *5750|
 [fc]
-花沢は大きく体を仰け反らせ、全身を痙攣させた。[pcms]
+Hanazawa arched her body greatly and convulsed all over.[pcms]
 
 *5751|
 [fc]
 [vo_han s="hana0058"]
-[ns]花沢[nse]
-「んひいいいぃいぃっ！　ダメっ！　こっ、こしが抜けちゃうっ！[r]
-　力が入らないいいぅっ！　んぁぁッ……また、イクううっ！」[pcms]
+[ns]Hanazawa[nse]
+"Nhiieeiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii[r]
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiieeeeeeeeeeeeeee[r]
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
+eeeeeeeeeeeee"[pcms]
 
 
 [se buf=0 storage="se_sex01"]
@@ -530,34 +511,35 @@
 
 *5752|
 [fc]
-その叫びの後、花沢は暫く体の動きも呼吸も止めていた。[pcms]
+After her scream, Hanazawa stopped moving and even her breathing for a[r]
+while.[pcms]
 
 *5753|
 [fc]
-それを合図として、[r]
-二人の獣の錯乱した宴は終わりを告げた。[pcms]
+This signaled the end of the chaotic feast between the two beasts.[pcms]
 
 *5754|
 [fc]
 [vo_mob s="ao0002"]
-[ns]青山[nse]
-「あ……あ、あぁ……あ……は、花沢……さん……」[pcms]
+[ns]Aoyama[nse]
+"Ah... ah, ah... ah... Ha, Hanazawa-san..."[pcms]
 
 *5755|
 [fc]
-しかし、それは――[r]
-六人の少女達を襲う地獄の第二章の幕開けだった。[pcms]
+However, this was-- the beginning of a second chapter of hell that[r]
+would befall the six girls.[pcms]
 
 *5756|
 [fc]
 [vo_mob s="midori0004"]
-[ns]緑川[nse]
-「花沢はなんか変だよ！　ここから出るんだよっ！」[pcms]
+[ns]Midorigawa[nse]
+"Something's wrong with Hanazawa! We need to get out of here!"[pcms]
 
 *5757|
 [fc]
-妖艶な少女が叫びながらドアノブに手を掛けた瞬間。[r]
-六人の少女を拘束していた何かが、順を追って解かれていく。[pcms]
+The moment the bewitching girl screamed and reached for the doorknob.[r]
+Whatever was restraining the six girls began to be released one by[r]
+one.[pcms]
 
 ;//●_SE　ドアをノックする音
 ;//seA034.ogg
@@ -567,47 +549,44 @@
 *5758|
 [fc]
 [vo_mob s="ouse0002"]
-[ns]黄瀬[nse]
-「ひっ……なにっ……みっ、緑川先輩！　外に、誰かいる……」[pcms]
+[ns]Kise[nse]
+"Hik... what's that... Midorigawa-senpai! There's someone outside..."[pcms]
 
 *5759|
 [fc]
-緑川の引いたドアが思い切りよく開くと、[r]
-少女の叫びを裏付けるかのように、[r]
-沢山の人影を客室に呼び込んだ。[pcms]
+As Midorigawa forcefully opened the door, as if to confirm the girl's[r]
+screams, a multitude of figures were invited into the guest room.[pcms]
 
 *5760|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「うわ、すっげ……もうヤッてたのか……？[r]
-　ってか、赤坂もいるじゃん」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Wow, damn... they've already started? And look, Akasaka is here too."[pcms]
 
 *5761|
 [fc]
-[ns]サッカー部員Ｃ[nse]
-「青山、お前もだったの？」[pcms]
+[ns]Soccer Club Member C[nse]
+"Aoyama, you too?"[pcms]
 
 *5762|
 [fc]
-[ns]サッカー部員Ｄ[nse]
-「あぁ……女の良い匂いするな……」[pcms]
+[ns]Soccer Club Member D[nse]
+"Ah... the scent of a woman is nice..."[pcms]
 
 *5763|
 [fc]
-[ns]サッカー部員Ｅ[nse]
-「みんなやる気満々ってやつ？[r]
-　でも、花沢一人だって……」[pcms]
+[ns]Soccer Club Member E[nse]
+"Everyone's eager, huh? But it's just Hanazawa alone..."[pcms]
 
 *5764|
 [fc]
-ドアを引いた緑川も、他の少女達も、再び動きを止めた。[r]
-沢山の男達が、この客室になだれ込んできたのだ。[r]
-だが、彼らの目には、不穏な色は見えなかった。[pcms]
+Both Midorigawa, who had pulled the door, and the other girls stopped[r]
+moving again. A multitude of men had flooded into the guest room.[r]
+However, there was no ominous look in their eyes.[pcms]
 
 *5765|
 [fc]
-それでも、六人の少女の足は震え、[r]
-その場から動かす事が出来なくなっていたのだ。[pcms]
+Still, the legs of the six girls trembled, and they were unable to[r]
+move from their spot.[pcms]
 
 [evcg storage="mob_H003f"][trans_c cross time=300]
 [se buf=0 storage="se_sex03" loop=true]
@@ -616,65 +595,61 @@
 *5766|
 [fc]
 [vo_han s="hana0059"]
-[ns]花沢[nse]
-「はぁぁっ……あぁ……きもちよくて、しぬかとおもった……。[r]
-　ねぇ……緑かわせんぱい……みんな……。[r]
-　みんなで、セックスしましょうよ……」[pcms]
+[ns]Hanazawa[nse]
+"Haaah... ah... it felt so good, I thought I was going to die...[r]
+Hey... Midorigawa-senpai... everyone... Let's all have sex..."[pcms]
 
 *5767|
 [fc]
-それまで硬直していた花沢は、大きく息を吸い込むと、[r]
-なだれ込んできた男達と、立ちすくむ少女達を交互に見渡し、[r]
-緩やかに、猫なで声で呟いた。[pcms]
+Until then, Hanazawa had been rigid, but after taking a deep breath,[r]
+she looked back and forth between the men who had flooded in and the[r]
+girls standing petrified, and murmured in a seductive, purring voice.[pcms]
 
 *5768|
 [fc]
 [vo_mob s="aka0003"]
-[ns]赤坂[nse]
-「ど……どういうこと……これ……花沢さんっ！」[pcms]
+[ns]Akasaka[nse]
+"Wh... what's going on... this... Hanazawa-san!"[pcms]
 
 *5769|
 [fc]
 [vo_han s="hana0060"]
-[ns]花沢[nse]
-「赤さかさん……きもちいいよぉ……セックス……。[r]
-　みんなも、シたかったんでしょ～？[r]
-　ほんとは、わたしがひとりじめしたかったんだけど……」[pcms]
+[ns]Hanazawa[nse]
+"Akasaka-san... it feels good... sex... Everyone wanted to do it too,[r]
+right~? I really wanted to have you all to myself though..."[pcms]
 
 *5770|
 [fc]
-赤坂は、花沢の言葉が理解できないのか、[r]
-いぶかしげな目を、涎塗れの顔に向けた。[pcms]
+Akasaka looked incredulous, his eyes questioning as he turned them[r]
+towards Hanazawa's drool-covered face.[pcms]
 
 *5771|
 [fc]
 [vo_han s="hana0060a"]
-[ns]花沢[nse]
-「おちんちん、たっくさんあるよぉ……。[r]
-　えらびほうだい……あはっ……あはははっ！[r]
-　おとこのこたちも、おまんこ、えらびほうだいだよおっ！」[pcms]
+[ns]Hanazawa[nse]
+"There are so many dicks... choose as you like... ahah... ahahaha!"[pcms]
 
 *5772|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「ら、乱交ってやつ……？　いいのかよ、赤坂……」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Is this like... an orgy? Is that okay with you, Akasaka...?"[pcms]
 
 *5773|
 [fc]
 [vo_han s="hana0061"]
-[ns]花沢[nse]
-「あはははは！　えんりょなんて、いらないからっ！[r]
-　みんなでたのしもうよっ！　まだまだ、よるはながいからぁ！[r]
-　あっはははははははっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ahahaha! No need to be shy! Let's all enjoy ourselves! The night is[r]
+still long! Ahahahahaha!"[pcms]
 
 *5774|
 [fc]
-驚喜と狂気を称えた花沢の笑い声が、[r]
-客室の中にいる全ての人物の耳を突き刺した。[pcms]
+The laughter of Hanazawa, filled with both joy and madness, pierced[r]
+the ears of everyone in the guest room.[pcms]
 
 *5775|
 [fc]
-それが、狂乱の宴の第二幕を開く合図となった。[pcms]
+This was the signal that opened the second act of the frenzied[r]
+banquet.[pcms]
 
 ;//--------------------------
 ;//回想中JUMP
@@ -687,27 +662,27 @@
 
 *5776|
 [fc]
-[ns]サッカー部員Ｃ[nse]
-「青山……」[pcms]
+[ns]Soccer Club Member C[nse]
+"Aoyama..."[pcms]
 
 *5777|
 [fc]
 [vo_mob s="ao0003"]
-[ns]青山[nse]
-「あっ……だ、ダメだよ、こんな所でっ……」[pcms]
+[ns]Aoyama[nse]
+"Ah... no, we can't do this here..."[pcms]
 
 *5778|
 [fc]
 [vo_mob s="midori0005"]
-[ns]緑川[nse]
-「何考えてるんだ、お前ら！　はなせよ、誰がこんな所で、[r]
-　セックスするなんて……きゃあっ！」[pcms]
+[ns]Midorikawa[nse]
+"What are you guys thinking! Let go of me, who would have sex in a[r]
+place like this... kyaa!"[pcms]
 
 *5779|
 [fc]
-[ns]先輩Ａ[nse]
-「細かい事きにするなよ、緑川ァ……。[r]
-　元々ヤりたくて、ここに来たんだろおぉ！？」[pcms]
+[ns]Senior A[nse]
+"Don't sweat the small stuff, Midorigawa... You came here wanting to[r]
+do it, didn't you!?"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -719,38 +694,37 @@
 
 *5780|
 [fc]
-客室に、男達がなだれ込み、[r]
-未だ拘束されている様に立ち尽くす六人の少女へと向かう。[pcms]
+The men flooded into the guest room, heading towards the six girls who[r]
+still stood as if they were restrained.[pcms]
 
 *5781|
 [fc]
-――しかし、彼らは『まだ』感染している訳では無かった。[pcms]
+--However, they were not yet "infected."[pcms]
 
 *5782|
 [fc]
-彼らを突き動かしたのは、青い性。[r]
-ただ、それだけだった。[pcms]
+What drove them was their primal lust. That was all.[pcms]
 
 *5783|
 [fc]
-この時点では――[pcms]
+At this point--[pcms]
 
 *5784|
 [fc]
-暫くの間、少女達は抵抗していた。[r]
-しかし、暴走する青い性に負けた彼女達は、[r]
-まだ『正常な』男達の手によって屈服していった。[pcms]
+For a while, the girls resisted. But they were eventually subdued by[r]
+the rampaging primal lust, at the hands of men who were still[r]
+"normal."[pcms]
 
 *5785|
 [fc]
-なだれ込んだ男達は、一人、また一人と、[r]
-少女の体を求め数を増やしていた。[pcms]
+The men who had flooded in began to seek out the girls' bodies one by[r]
+one, increasing their numbers.[pcms]
 
 *5786|
 [fc]
-一人が少女の体に組み付くと、[r]
-皆感情のタガが外れてしまったのか、[r]
-それぞれの欲望を抑えることが出来なくなってしまっていた。[pcms]
+Once one man clung to a girl's body, it seemed as if everyone's[r]
+emotional restraints had come undone, and they could no longer[r]
+suppress their own desires.[pcms]
 
 *MEMORIES_START02
 
@@ -764,474 +738,448 @@
 
 *5787|
 [fc]
-[ns]先輩Ａ[nse]
-「良いながめだなぁ……せんぱいのオマンコ、丸見えだっ！[r]
-　最初と違って、良い感じにこなれてるなぁ！」[pcms]
+[ns]Senior A[nse]
+"What a view... Senpai's pussy is completely exposed! It's nicely[r]
+broken in compared to the beginning!"[pcms]
 
 *5788|
 [fc]
 [vo_mob s="midori0006"]
-[ns]緑川[nse]
-「んっ……ああぁ……こんな格好、恥ずかしいだろっ……、[r]
-　やだぁ！　やめろおっ……んっ……くふっうっ！」[pcms]
+[ns]Midorigawa[nse]
+"Nn... aah... such an embarrassing position... no! Stop it... nn...[r]
+kufuu!"[pcms]
 
 *5789|
 [fc]
 [vo_mob s="midori0007"]
-[ns]緑川[nse]
-「んあぁっ……うっ……あはぁっ！」[pcms]
+[ns]Midorigawa[nse]
+"Nnaahh... uh... ahah!"[pcms]
 
 [evcg storage="mob_H004b"][trans_c cross time=300]
 
 *5790|
 [fc]
 [vo_mob s="ouse0003"]
-[ns]黄瀬[nse]
-「んんっ……あぶぁっ……こんなので、[r]
-　処女無くしたくなかったのにぃいっ！[r]
-　もっと、ロマンティックなのを期待してたのっ！　んぶっ！」[pcms]
+[ns]Kise[nse]
+"Nnnn... abuahh... I didn't want to lose my virginity like this! I was[r]
+expecting something more romantic! Nbuu!"[pcms]
 
 *5791|
 [fc]
 [vo_mob s="ouse0004"]
-[ns]黄瀬[nse]
-「んぶっ……ちゅっ……ぷあぁっ！」[pcms]
+[ns]Kise[nse]
+"Nbuu... chu... puahh!"[pcms]
 
 *5792|
 [fc]
-[ns]サッカー部員Ｅ[nse]
-「ロマンも何も、ヤることは一緒！[r]
-　もっと口使ってよ黄瀬っ！」[pcms]
+[ns]Soccer Club Member E[nse]
+"Romance or not, fucking is all the same! Use your mouth more, Kise!"[pcms]
 
 *5793|
 [fc]
-[ns]サッカー部員Ｆ[nse]
-「黄瀬って、処女だったんだな……。[r]
-　フェロモンむんむんだから、もう経験済みだと思ってた。[r]
-　俺、一番の相手って事か……なんかいいな……」[pcms]
+[ns]Soccer Club Member F[nse]
+"Kise was a virgin, huh... With all those pheromones, I thought she[r]
+was experienced. I'm her first then... kinda nice..."[pcms]
 
 *5794|
 [fc]
-[ns]サッカー部員Ｃ[nse]
-「青山、俺、お前の事ホントに好きなんだよ……。[r]
-　だけど、こういうのもいいだろっ！」[pcms]
+[ns]Soccer Club Member C[nse]
+"Aoyama, I really like you... But this is good too, right!"[pcms]
 
 *5795|
 [fc]
 [vo_mob s="ao0004"]
-[ns]青山[nse]
-「んぎいいいっ！　キツいよおっ！　に、二本もいっぺんにっ！[r]
-　ばかっ……こんなっ……んあぁっ！」[pcms]
+[ns]Aoyama[nse]
+"Ngyiiii! It's tight! Two at once is too much! Idiot... not like[r]
+this... nnaahh!"[pcms]
 
 *5796|
 [fc]
 [vo_mob s="ao0005"]
-[ns]青山[nse]
-「ぎっ……んぎいいっ！　あぁっ！」[pcms]
+[ns]Aoyama[nse]
+"Gii... ngyiiii! Aahh!"[pcms]
 
 *5797|
 [fc]
-[ns]サッカー部員Ｇ[nse]
-「良いんですか、先輩の彼女じゃ……」[pcms]
+[ns]Soccer Club Member G[nse]
+"Is this okay? She's your girlfriend..."[pcms]
 
 *5798|
 [fc]
-[ns]サッカー部員Ｃ[nse]
-「……聞くなよ、そんなこと！　お前が入れちまったんだろ……」[pcms]
+[ns]Soccer Club Member C[nse]
+"...Don't ask me that! You're the one who went in..."[pcms]
 
 *5799|
 [fc]
 [vo_mob s="ao0006"]
-[ns]青山[nse]
-「かっ、彼氏なら、んぎいいっ！　止めなさいよおっ！[r]
-　どうして……こんな事出来るの、アンタ達っ！[r]
-　お尻……抜いてぇえぇっ！！」[pcms]
+[ns]Aoyama[nse]
+"If he's my boyfriend, then ngyiiii! Stop it! Why can you guys do[r]
+something like this! My ass... pull it outttt!!"[pcms]
 
 *5800|
 [fc]
-男達の耳には、すでに少女の悲鳴は届かない。[pcms]
+The men's ears were already deaf to the girls' screams.[pcms]
 
 *5801|
 [fc]
-少女達もまた、自らの身に降りかかった驚異に怯え、[r]
-狂気の渦の中に巻き込まれていくにつれ、[r]
-自分たちの置かれた状況を把握仕切れなくなってしまっていた。[pcms]
+The girls, too, were becoming increasingly disoriented amidst the[r]
+whirlwind of madness, unable to fully grasp the situation that had[r]
+befallen them.[pcms]
 
 *5802|
 [fc]
-いくら体を鍛えていたとはいえ、[r]
-群がる男の数と、ため込んだ欲求の爆発力の前に、[r]
-少女達は無力でしかなかった。[pcms]
+No matter how much they had trained their bodies, they were powerless[r]
+against the number of men swarming them and the explosive force of[r]
+their pent-up desires.[pcms]
 
 *5803|
 [fc]
-[ns]先輩Ａ[nse]
-「緑川のマンコも、花沢のみたいにイイ感じだぁ……。[r]
-　ぐっちゅぐちゅ音がして、イヤらしいしな」[pcms]
+[ns]Senior A[nse]
+"Midorigawa's pussy feels good too... It's making squishy noises, so[r]
+lewd."[pcms]
 
 *5804|
 [fc]
 [vo_mob s="midori0008"]
-[ns]緑川[nse]
-「いっ、言わないで、そんなことっ！[r]
-　あぁあっ……チンポ、すっごい太いっ！[r]
-　入り口が裂けちゃうっ！」[pcms]
+[ns]Midorikawa[nse]
+"Don't say that! Ahhh... your dick is so thick! It feels like it's[r]
+going to split me open!"[pcms]
 
 [evcg storage="mob_H004c"][trans_c cross time=300]
 
 *5805|
 [fc]
 [vo_mob s="ouse0005"]
-[ns]黄瀬[nse]
-「うぶっ……あぶうぅっ！　れろっ……ちゅっ……ぶちゅうっ！[r]
-　んんっ……んっ、あぶぅううっ！　れろっ……」[pcms]
+[ns]Kise[nse]
+"Ubuu... abuuu! Lero... chu... buchuu! Nnn... nnn, abuuuu! Lero..."[pcms]
 
 *5806|
 [fc]
-[ns]サッカー部員Ｅ[nse]
-「うっわ、チア服美少女のフェラ！　さいっこうに燃えるな！」[pcms]
+[ns]Soccer Club Member E[nse]
+"Wow, a cheerleader beauty giving a blowjob! This is so hot!"[pcms]
 
 *5807|
 [fc]
-[ns]サッカー部員Ｆ[nse]
-「俺なんて、後ろから犯してんだぜ！？」[pcms]
+[ns]Soccer Club Member F[nse]
+"I'm fucking her from behind, you know!?"[pcms]
 
 *5808|
 [fc]
 [vo_mob s="ouse0006"]
-[ns]黄瀬[nse]
-「ぶあっ……いやぁぁ……こ、こんなつもりじゃ……、[r]
-　んぶっ……あぶううっ！　ぶっ……ぷふうぅっ！」[pcms]
+[ns]Kise[nse]
+"Buaa... nooo... I didn't intend for this... nubuu... abuuu! Buu...[r]
+pufuuu!"[pcms]
 
 *5809|
 [fc]
-[ns]サッカー部員Ｅ[nse]
-「おおおっ！　泣きながらフェラする顔も最高！[r]
-　なんだかんだで、舌も使ってくれてるし、[r]
-　生まれつき好きだったんじゃないの？　こういうの」[pcms]
+[ns]Soccer Club Member E[nse]
+"Ohhh! Even her crying face while giving a blowjob is the best![r]
+Despite everything, she's using her tongue well. Maybe she was born to[r]
+like this kind of thing."[pcms]
 
 *5810|
 [fc]
-[ns]サッカー部員Ｆ[nse]
-「それでもやっぱ処女だよ……すっげーキッツイもの！[r]
-　オナ禁破ってブッこいてなかったら、もう出してたよ、俺」[pcms]
+[ns]Soccer Club Member F[nse]
+"But she's still a virgin... so damn tight! If I hadn't broken my no-[r]
+fap, I would have cum already."[pcms]
 
 *5811|
 [fc]
 [vo_mob s="ouse0007"]
-[ns]黄瀬[nse]
-「んぶうっ！　出さないでっ……だめだから！[r]
-　中はダメぇ～……んぶうっ！　お、おクチなら、[r]
-　いくら出してもいいか、らっ……んぶうっ！」[pcms]
+[ns]Kise[nse]
+"Nbuu! Don't cum... it's bad! Not inside~... nubuu! If it's my mouth,[r]
+you can cum as much as you want, okay... nubuu!"[pcms]
 
 *5812|
 [fc]
 [vo_mob s="ao0007"]
-[ns]青山[nse]
-「お尻ヒリヒリするうっ！　アソコも……んんぁっ！[r]
-　お腹の中で、ごりごりしてっ……手のおちんちんも、[r]
-　熱くてぇっ……こんなのイヤなのに……私……あぁっ！」[pcms]
+[ns]Aoyama[nse]
+"My butt is stinging! And down there too... nnnahh! It's grinding[r]
+inside my belly... the dick in my hand is so hot too... I hate this[r]
+but... I..."[pcms]
 
 *5813|
 [fc]
-[ns]サッカー部員Ｇ[nse]
-「青山さんの尻の穴……ぎゅーぎゅーいって、すごいっ！[r]
-　チンコが根元から千切られそうだ！」[pcms]
+[ns]Soccer Club Member G[nse]
+"Aoyama's ass is so tight... it feels like my dick is going to be[r]
+ripped off from the base!"[pcms]
 
 *5814|
 [fc]
-[ns]サッカー部員Ｃ[nse]
-「こっちは、相性ばっちりだよな、青山ぁ……。[r]
-　やっぱ、俺はお前のマンコが好きなんだよっ！[r]
-　もちろん、お前も好きなんだ！　青山っ！」[pcms]
+[ns]Soccer Club Member C[nse]
+"We're a perfect match, Aoyama... I really love your pussy! Of course,[r]
+I love you too, Aoyama!"[pcms]
 
 *5815|
 [fc]
 [vo_mob s="ao0008"]
-[ns]青山[nse]
-「なっ、に、こんなっ……んぁっ！　所で、そんな事言ってっ！[r]
-　んぎいいいっ！　まだ、お尻、きついいいっ！[r]
-　んううぅ……」[pcms]
+[ns]Aoyama[nse]
+"Wha-what are you saying in a place like this... nnaahh! My ass is[r]
+still too tight! Nuuu..."[pcms]
 
 *5816|
 [fc]
-[ns]サッカー部員Ｈ[nse]
-「あぁ……青山の顔、エロい……。[r]
-　手も柔らかくて、オマンコにいれなくても、イッちまいそう！」[pcms]
+[ns]Soccer Club Member H[nse]
+"Ahh... Aoyama's face is so erotic... Her hands are soft too, I might[r]
+cum just from that without even putting it in her pussy!"[pcms]
 
 *5817|
 [fc]
-客室の中に響く声が、大きくなり出していた。[r]
-それと共に、男も、少女達にも変化が現れだしていた。[pcms]
+The voices echoing in the room were growing louder. Along with that,[r]
+changes were beginning to appear in both the men and the girls.[pcms]
 
 *5818|
 [fc]
-この雰囲気に飲まれたのか、或いはまた別の理由からか。[r]
-この部屋にいる全ての男女の言葉や息づかいが変わりだしていた。[pcms]
+Whether they were consumed by the atmosphere or for some other reason,[r]
+the words and breaths of all the men and women in this room were[r]
+changing.[pcms]
 
 [evcg storage="mob_H004d"][trans_c cross time=300]
 
 *5819|
 [fc]
 [vo_mob s="ao0009"]
-[ns]青山[nse]
-「くううっ……お尻の穴、火傷しちゃいそう……。[r]
-　手のおちんちんも、あっつくて……アソコの中のも、[r]
-　ビクンってハネてるよぉ……」[pcms]
+[ns]Aoyama[nse]
+"Kuuu... my ass feels like it's burning... The dick in my hand is so[r]
+hot... and the one inside is twitching..."[pcms]
 
 *5820|
 [fc]
 [vo_mob s="ao0010"]
-[ns]青山[nse]
-「いっぺんに、一杯のおちんちん……。[r]
-　あぁ……私、ヘンになっちゃうよ……あっ……お、お尻っ！[r]
-　お、おま……オマンコいっぺんに突かれたらァっ！」[pcms]
+[ns]Aoyama[nse]
+"So many dicks at once... Ahh... I'm going to go crazy... Ahh... my[r]
+ass! If you thrust into my pussy and ass at the same time!"[pcms]
 
 *5821|
 [fc]
-[ns]サッカー部員Ｈ[nse]
-「うっ……おおおっ！　亀頭の先っぽが……」[pcms]
+[ns]Soccer Club Member H[nse]
+"Uhh... ohhh! The tip of my glans..."[pcms]
 
 *5822|
 [fc]
-[ns]サッカー部員Ｉ[nse]
-「裏筋まで、手の柔らかい肉がこすれて……あぁっ……」[pcms]
+[ns]Soccer Club Member I[nse]
+"The soft flesh of her hand rubbing against my shaft... ahhh..."[pcms]
 
 *5823|
 [fc]
 [vo_mob s="ao0011"]
-[ns]青山[nse]
-「あっ……んんんっ！　わ、私の手、気持ちいいのぉ？[r]
-　おちんちんから出たおツユがヌルヌルの手、いいの……？」[pcms]
+[ns]Aoyama[nse]
+"Ah... nnnn! Does my hand feel good? The pre-cum from your dick makes[r]
+my hand all slippery, is that good...?"[pcms]
 
 *5824|
 [fc]
-[ns]サッカー部員Ｇ[nse]
-「くううぅっ……青山さんのお尻の奧、堅いのあたって……」[pcms]
+[ns]Soccer Club Member G[nse]
+"Kuuuuh... something hard is hitting the inside of Aoyama's ass..."[pcms]
 
 *5825|
 [fc]
-[ns]サッカー部員Ｃ[nse]
-「お前が犯されてる所みて、俺……すっげー興奮してきた！[r]
-　乱交も、たまにはいいな！　それとも、これからはずっと、[r]
-　こうするか？　青山ぁ！」[pcms]
+[ns]Soccer Club Member C[nse]
+"Seeing you getting fucked, I'm getting super excited! An orgy isn't[r]
+bad once in a while! Or maybe we should always do this from now on,[r]
+Aoyama?"[pcms]
 
 *5826|
 [fc]
 [vo_mob s="ao0012"]
-[ns]青山[nse]
-「やっ、やだっ……私は、アンタと……んんっ！[r]
-　あっ……んあぁっ！　やぁっ！　これ、いいよおっ！[r]
-　やっぱり、いっぱいおちんちんがあったほうが、いいよおっ！」[pcms]
+[ns]Aoyama[nse]
+"No, no way... I'm with you and... nnnh! Ahh... naahh! Yaaah! This[r]
+feels good! After all, it's better to have lots of dicks!"[pcms]
 
 *5827|
 [fc]
 [vo_mob s="ouse0008"]
-[ns]黄瀬[nse]
-「あぁ……ぶうっ……アゴが……つかれっ……んぶうっ！」[pcms]
+[ns]Kise[nse]
+"Ahh... buu... my jaw is getting tired... nubuu!"[pcms]
 
 *5828|
 [fc]
-[ns]サッカー部員Ｅ[nse]
-「ダメだよ黄瀬、休んだらダメっ！　[r]
-　もう少しでイキそうなんだから！[r]
-　あとちょっと頑張ってくれよ」[pcms]
+[ns]Soccer Club Member E[nse]
+"You can't rest now, Kise, no way! I'm about to cum! Just a little[r]
+more, keep it up."[pcms]
 
 *5829|
 [fc]
-[ns]サッカー部員Ｆ[nse]
-「さ、さっきから黄瀬のマンコが痙攣してるんだよ。[r]
-　俺のチンコに噛みつくみたいにさ……。[r]
-　すっげぇ溢れてきてるしな、マン汁も！」[pcms]
+[ns]Soccer Club Member F[nse]
+"Kise's pussy has been convulsing for a while now. It's like it's[r]
+biting down on my dick... And her pussy juice is overflowing too!"[pcms]
 
 *5830|
 [fc]
 [vo_mob s="ouse0009"]
-[ns]黄瀬[nse]
-「ぷあっ！　やぁっ！　言わないでぇ～……！[r]
-　恥ずかしいよ～……んんっ！　わたし……初めてなのにぃ……。[r]
-　すっごい興奮して……あむうっ！　んぶっ……」[pcms]
+[ns]Kise[nse]
+"Puaa! Nooo! Don't say that~! It's embarrassing~... nnnh! It's my[r]
+first time and I'm so excited... amuuu! Nubu..."[pcms]
 
 *5831|
 [fc]
 [vo_mob s="ouse0010"]
-[ns]黄瀬[nse]
-「ぷあっ……おちんちん、舐めたくて仕方ないのおっ……。[r]
-　すっごい、ぺろぺろしたいっ！　アソコも、[r]
-　グチョグチョになっちゃうううっ！」[pcms]
+[ns]Kise[nse]
+"Puaa... I can't help but want to lick dicks... I really want to lick[r]
+them a lot! My pussy is getting so wet too!"[pcms]
 
 *5832|
 [fc]
-少女達は、この部屋に入ってきてすぐの自分たちを、[r]
-忘れてしまったのだろうか。[pcms]
+Had the girls forgotten about themselves as they were when they first[r]
+entered this room?[pcms]
 
 *5833|
 [fc]
-目の前で行われていた痴態に、体を動かせなくなった、[r]
-自分たちの事を。[pcms]
+Their own inability to move as they witnessed the lewd acts unfolding[r]
+before them.[pcms]
 
 *5834|
 [fc]
-自分たちが『痴態』の主になっている今、[r]
-少女達の目には、何が映っているんだろうか。[pcms]
+Now that they have become the main performers of these lewd acts, what[r]
+do the girls see in their eyes?[pcms]
 
 *5835|
 [fc]
-身動きが取れなかった、怯えた自分たちか――[pcms]
+Was it their frightened selves who couldn't move before--[pcms]
 
 *5836|
 [fc]
-それとも――[pcms]
+Or--[pcms]
 
 *5837|
 [fc]
-この部屋の中心で、痴態を晒していた花沢の姿なのか。[pcms]
+The figure of Hanazawa, who was exposing herself at the center of this[r]
+room.[pcms]
 
 *5838|
 [fc]
 [vo_mob s="midori0009"]
-[ns]緑川[nse]
-「んおおおっ！　オマンコの入り口から中まで、おおおっ！[r]
-　アンタのブッといのが、ズルぅって動くと、[r]
-　体が痺れるみたいだよおっ！」[pcms]
+[ns]Midorigawa[nse]
+"Nooo! From the entrance of my pussy all the way inside, ohhh! Your[r]
+thick one moving inside makes my body feel numb!"[pcms]
 
 *5839|
 [fc]
-[ns]先輩Ａ[nse]
-「……激しいのがいいのかぁ？　それとも、ゆっくりがいいか……[r]
-　いってみろ、みどりかわぁっ！」[pcms]
+[ns]Senior A[nse]
+"...Do you like it rough? Or do you prefer it slow? Tell me,[r]
+Midorigawa!"[pcms]
 
 *5840|
 [fc]
 [vo_mob s="midori0010"]
-[ns]緑川[nse]
-「んっ……はぁっ！　んあぁっ！　んぎいいぃっ！[r]
-　はっ……はげしいのが、いいっ！　ガンガン奧まで入れてっ！[r]
-　激しく出し入れしてぇっ！　んおおぉおぉおっっ！！」[pcms]
+[ns]Midorikawa[nse]
+"Nngh... haaah! Nnaahh! Ngiieehh! Hah... rough is good! Pound me deep[r]
+and hard! Thrust in and out violently! Noooohhh!!"[pcms]
 
 *5841|
 [fc]
-[ns]先輩Ａ[nse]
-「よおっし！　ガッツンガッツンついてやるうぅっ！[r]
-　チンコで、つきころしてやるううっっ！」[pcms]
+[ns]Senior A[nse]
+"Alright! I'm gonna pound you hard! I'll fuck you to death with my[r]
+cock!"[pcms]
 
 [evcg storage="mob_H004c"][trans_c cross time=300]
 
 *5842|
 [fc]
-獣達の叫びと、[r]
-留まることなく上昇する体温が客室の窓を曇らせる。[pcms]
+The cries of the beasts and the ever-rising body heat fog up the[r]
+windows of the guest room.[pcms]
 
 *5843|
 [fc]
-客室全体を、悦楽の空気が浸食していく。[pcms]
+The entire guest room is being eroded by an atmosphere of pleasure.[pcms]
 
 *5844|
 [fc]
 [vo_mob s="ao0013"]
-[ns]青山[nse]
-「あがぁっ！　お、オマンコとお尻いいいっ！[r]
-　んぁあぁっ！　ぎいいいいいっっ！！[r]
-　アツいよおぉっ！　イッちゃううっ！　イッちゃううっ！」[pcms]
+[ns]Aoyama[nse]
+"Aghaah! My pussy and my butt! Nnaahh! Giiiihh!! It's so hot! I'm[r]
+gonna cum! I'm gonna cum!"[pcms]
 
 *5845|
 [fc]
-[ns]サッカー部員Ｃ[nse]
-「ひさしぶりに、中だししていいか……あおやま……」[pcms]
+[ns]Soccer Club Member C[nse]
+"It's been a while, can I cum inside... Aoyama...?"[pcms]
 
 *5846|
 [fc]
 [vo_mob s="ao0014"]
-[ns]青山[nse]
-「んぎいいっ！　いいいっ！　いっ、いいよっ！[r]
-　出してぇっ！　いっぱい……お尻にも……顔にも、[r]
-　せーし頂戴っ！　あぁっっ！　イクううっ！」[pcms]
+[ns]Aoyama[nse]
+"Ngiieehh! Yes! Yes! Cum inside me! Fill me up... in my butt... on my[r]
+face, give me your semen! Aaahhh! I'm cumming!"[pcms]
 
 *5847|
 [fc]
 [vo_mob s="ouse0011"]
-[ns]黄瀬[nse]
-「んぶううっ！　ぷはぁっ！　喉、くるしいっ！[r]
-　でも、おちんちん舐めたいぃぃっ！[r]
-　精子のませてぇっ！　全部飲んであげるからっっ！」[pcms]
+[ns]Kise[nse]
+"Nbuuuhh! Puaahh! My throat, it's tight! But I want to lick your cock![r]
+Let me drink your cum! I'll swallow it all!"[pcms]
 
 *5848|
 [fc]
-[ns]サッカー部員Ｆ[nse]
-「おおおおっ……オマンコがまたギューッとしてきたじゃん！[r]
-　おっ、俺は……尻にブッかけようかな……」[pcms]
+[ns]Soccer Club Member F[nse]
+"Ooooh... Your pussy is clenching again! Maybe I'll... cum on your[r]
+ass..."[pcms]
 
 *5849|
 [fc]
 [vo_mob s="ouse0012"]
-[ns]黄瀬[nse]
-「れろっ！　ぶちゅうっ！　んんっ！　ダメっ！[r]
-　なっ……中っ！　おま……オマンコの中に出してよおっ！[r]
-　わたしの処女マンコに一杯だしていいからぁっ！　れろっ！」[pcms]
+[ns]Kise[nse]
+"Lerohh! Buchuuu! Nnnh! No! Inside... Cum inside my pussy! You can[r]
+fill up my virgin pussy as much as you want! Lerohh!"[pcms]
 
 *5850|
 [fc]
-[ns]サッカー部員Ｅ[nse]
-「なんだよ、さっきと、いってることちがうじゃないかよお！[r]
-　やっぱ、おうせって、いんらんだったんだぁ……」[pcms]
+[ns]Soccer Club Member E[nse]
+"What's this, you're saying something different from earlier! You[r]
+really were a horny slut..."[pcms]
 
 *5851|
 [fc]
 [vo_mob s="ouse0013"]
-[ns]黄瀬[nse]
-「ちゅばっ！　んぶっ……うん！　うんっ！[r]
-　わたしは、エッチな事ばっかり考えてたっ！[r]
-　今日、こんな風にされるの、ちょっと期待してたのっ！」[pcms]
+[ns]Kise[nse]
+"Chubaa! Nbuu... Yeah! Yeah! I've been thinking about naughty things[r]
+all along! I was kind of hoping to be done like this today!"[pcms]
 
 *5852|
 [fc]
 [vo_mob s="ouse0014"]
-[ns]黄瀬[nse]
-「だから、いっぱい……わたしを犯してぇっ！[r]
-　あぁっ！　考えただけでイッちゃうううっ！[r]
-　せーしちょうだいよおっ！　んぶううっ！」[pcms]
+[ns]Kise[nse]
+"So please, fuck me a lot... Ahh! Just thinking about it makes me cum![r]
+Give me your semen! Nbuuuhh!"[pcms]
 
 [evcg storage="mob_H004d"][trans_c cross time=300]
 
 *5853|
 [fc]
-男達も、少女達も、みな一様に性をむさぼりだした。[pcms]
+Both the men and the girls had begun to devour sex in their own way.[pcms]
 
 *5854|
 [fc]
-この中の誰かが。[r]
-おそらく、男達は、すでにウィルスに冒されていた。[pcms]
+Someone in this room. Probably, the men had already been infected with[r]
+the virus.[pcms]
 
 *5855|
 [fc]
-それが、少女達にも伝播したのだ。[pcms]
+And that had spread to the girls as well.[pcms]
 
 *5856|
 [fc]
-この客室の狂気は、[r]
-驚異のウィルスと混ざり合い、[r]
-浸食を加速させていく。[pcms]
+The madness in this guest room mixes with the astonishing virus,[r]
+accelerating the erosion.[pcms]
 
 *5857|
 [fc]
 [vo_mob s="ao0015"]
-[ns]青山[nse]
-「ひっ……ひいいっ！　イクうううぅっ！　いやぁぁっ！[r]
-　体が勝手に震えちゃうううっ！[r]
-　イクううううっ―――――ッ！！」[pcms]
+[ns]Aoyama[nse]
+"Hii... Hiiihh! I'm cummingggg! Nooo! My body is shaking on its own![r]
+I'm cummingggg-----!!"[pcms]
 
 *5858|
 [fc]
 [vo_mob s="ouse0015"]
-[ns]黄瀬[nse]
-「んぶっ！　ちゅうぅううっ！　ぷあぁっ！[r]
-　わたしもイッちゃうううっ！　お願いいいっ！[r]
-　せーしちょうだいいいっ！　イクうううぅっ！」[pcms]
+[ns]Kise[nse]
+"Nbuuuhh! Chuuuuuuuhh! Puaaahh! I'm gonna cum toooohh! Pleaseee! Give[r]
+me your semen! I'm cummingggg!"[pcms]
 
 *5859|
 [fc]
-[ns]サッカー部員Ｃ＆Ｅ＆Ｆ＆Ｈ＆Ｉ[nse]
-「うっ……うぉおおっ！　だすぞおっ！」[pcms]
+[ns]Soccer Club Member C & E & F & H & I[nse]
+"Uhh... Uooohh! I'm gonna cum!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -1245,13 +1193,13 @@
 
 *5860|
 [fc]
-複雑に絡み合う男女達が、申し合わせたかのように絶頂し、[r]
-むせかえる様な匂いを拡げていった。[pcms]
+The complexly intertwined men and women climax as if on cue, spreading[r]
+a choking smell.[pcms]
 
 *5861|
 [fc]
-その熱気は空気を伝い、[r]
-荒々しく突かれ、体を揺する緑川の心も揺さぶった。[pcms]
+The heat spreads through the air, shaking Midorikawa's heart as she is[r]
+roughly penetrated and her body sways.[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
@@ -1260,28 +1208,26 @@
 *5862|
 [fc]
 [vo_mob s="midori0011"]
-[ns]緑川[nse]
-「すご、い……せいえきの……匂い……。[r]
-　あたし、この匂い……あぁっ！　お、おまんこ、[r]
-　擦られて……こんな匂い嗅いだら、あたしっ！」[pcms]
+[ns]Midorikawa[nse]
+"Amazing... the smell of semen... I love this smell... Ahh! My pussy,[r]
+being rubbed... smelling this, I'll...!"[pcms]
 
 [evcg storage="mob_H004g"][trans_c cross time=300]
 
 *5863|
 [fc]
-[ns]部員Ａ[nse]
-「あんしんしろおっ……おまえにも、くれてやるからなっ！[r]
-　イクぞっ！　せいし、マンコのなかにくれてやるうっ！」[pcms]
+[ns]Club Member A[nse]
+"Don't worry... I'll give it to you too! Here I come! I'll fill your[r]
+pussy with my semen!"[pcms]
 
 [evcg storage="mob_H004h"][trans_c cross time=300]
 
 *5864|
 [fc]
 [vo_mob s="midori0012"]
-[ns]緑川[nse]
-「ひぃああぁっ！　あがぁっ！　オマンコ、こわれるぅうっ！[r]
-　イクうううっ！　イクウウウウぅううっ！[r]
-　イッちゃうううぅっぁあぁっ！！！！」[pcms]
+[ns]Midorikawa[nse]
+"Hiiiaaahh! Agaahh! My pussy is breakingggg! I'm cummingggg! I'm[r]
+CUMMINGGGGG!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -1300,10 +1246,9 @@
 *5865|
 [fc]
 [vo_mob s="midori0013"]
-[ns]緑川[nse]
-「おっ……おおおおっ！　あがぁあぁっ！！[r]
-　おま、オマンコの中ぁっっ！　アツいぃいっ！[r]
-　また、イクうううっ！！」[pcms]
+[ns]Midorigawa[nse]
+"Oh... Ooooohhh!! Agaahhaaahhh!! Inside my pussy!! It's so hottttt![r]
+I'm gonna cum againnnn!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -1313,21 +1258,23 @@
 
 *5866|
 [fc]
-少女達は絶頂と共に、獣の様な声を上げ、[r]
-狂気を加速させる。[pcms]
+With their climaxes, the girls let out beast-like screams,[r]
+accelerating the madness.[pcms]
 
 *5867|
 [fc]
-それは、同じ時、同じ室内に存在するもの全てを包み込む。[pcms]
+This madness envelops everything that exists at the same time, in the[r]
+same room.[pcms]
 
 *5868|
 [fc]
-同じ顔をした少女二人と、もう一人の少女も、[r]
-例外ではなかった。[pcms]
+The twin sisters with the same face, Shiraishi, and another girl,[r]
+Akasaka, were no exception.[pcms]
 
 *5869|
 [fc]
-彼女達もすでに狂気の檻の中、獣の様な声を上げ出していた。[pcms]
+They too had begun to let out beast-like screams within the cage of[r]
+madness.[pcms]
 
 ;//#_ホワイトアウト
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
@@ -1342,15 +1289,14 @@
 *5870|
 [fc]
 [vo_mob s="aka0005"]
-[ns]赤坂[nse]
-「やだっ！　こんなのイヤぁっ！　見ないでぇっ！[r]
-　いやぁぁあああぁぁぁっ！！」[pcms]
+[ns]Akasaka[nse]
+"No! I don't want this! Don't look at meee! Nooooooo!!"[pcms]
 
 *5871|
 [fc]
 [vo_mob s="aka0006"]
-[ns]赤坂[nse]
-「んあぁっ……んっ……くあぁっ！」[pcms]
+[ns]Akasaka[nse]
+"Nnaahh... Nnn... Kuaaahh!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1361,23 +1307,20 @@
 
 *5872|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「見ないでって、基本おさえてるじゃん、あかさか……。[r]
-　でも、オマンコどっろどろじゃんか！[r]
-　濡れすぎてて、すっげーすべるぞっ！」[pcms]
+[ns]Soccer Club Senior B[nse]
+"You say don't look, but you're holding back the basics, Akasaka...[r]
+But your pussy is dripping wet! It's so wet it's super slippery!"[pcms]
 
 *5873|
 [fc]
 [vo_mob s="siro_ane0003"]
-[ns]白石　姉[nse]
-「いやぁあっ！　こんなのイヤだあっ！[r]
-　でっ、でも……あぁっ！」[pcms]
+[ns]Shiraishi Ane[nse]
+"No wayyy! I don't want thisss! But... Ahhh!"[pcms]
 
 *5874|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「おんなじかおみながら、ヤるなんて、[r]
-　すっげーな……」[pcms]
+[ns]Soccer Club Member J[nse]
+"Fucking while looking at the same face is really something..."[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
@@ -1385,33 +1328,32 @@
 *5875|
 [fc]
 [vo_mob s="siro_imo0003"]
-[ns]白石　妹[nse]
-「なんで、こんな事……おねえちゃん……あぁ……。[r]
-　こんなの……イヤだけど……。[r]
-　みんなに見られて……恥ずかしいけどっ……なんだか……」[pcms]
+[ns]Shiraishi Imouto[nse]
+"Why is this happening... Onee-san... Ahh... I don't want this...[r]
+Being watched by everyone is embarrassing but... somehow..."[pcms]
 
 *5876|
 [fc]
-[ns]サッカー部員Ｋ[nse]
-「ふたごと、あかさかを“おかせる”なんて、[r]
-　さいっこうだな！　ねらってたんだぜ、おれ……」[pcms]
+[ns]Soccer Club Member K[nse]
+"Fucking both twins and Akasaka is the best! I've been aiming for[r]
+this, man..."[pcms]
 
 *5877|
 [fc]
 [vo_mob s="siro_imo0004"]
-[ns]白石　妹[nse]
-「やっ……んぁっ……はぁっ……ああっ！　ふあぁっ」[pcms]
+[ns]Shiraishi Imouto[nse]
+"No... Nnahh... Haaahh... Ahhh! Fuaaahh"[pcms]
 
 *5878|
 [fc]
-同じ顔をした、双子の姉妹、白石。[r]
-そして、その上に乗せられる形で犯される、赤坂。[r]
-彼女達も狂気の虜となりつつあった。[pcms]
+The twin sisters with the same face, Shiraishi. And Akasaka, who is[r]
+being fucked on top of them. They too were becoming captives of[r]
+madness.[pcms]
 
 *5879|
 [fc]
-まだ、僅かな理性は残されている様にも見えるが、[r]
-この場から逃げる事は、すでに諦めていた。[pcms]
+There still seemed to be a slight bit of reason left in them, but they[r]
+had already given up on escaping from this place.[pcms]
 
 ;//■イベントCG　mob_H005
 [evcg storage="mob_H005c"][trans_c cross time=300]
@@ -1419,71 +1361,67 @@
 *5880|
 [fc]
 [vo_mob s="siro_ane0004"]
-[ns]白石　姉[nse]
-「やぁ……エッチな汁のにおいが……あぁ……。[r]
-　赤坂さんの……お腹にいっぱいたれてきて、あっつい……」[pcms]
+[ns]Shiraishi Ane[nse]
+"No... The smell of naughty juices... Ahh... It's dripping a lot on[r]
+Akasaka-san's belly, it's so hot..."[pcms]
 
 *5881|
 [fc]
 [vo_mob s="aka0007"]
-[ns]赤坂[nse]
-「やっ……やあぁっ！　言わないでぇっ！[r]
-　我慢しても、ダメなのっ……おまんこ、気持ち良くて……、[r]
-　あっ、あふれちゃううっ！」[pcms]
+[ns]Akasaka[nse]
+"No... Nooo! Don't say it! Even if I try to hold back, it's no use...[r]
+My pussy feels so good... Ah, it's overflowing!"[pcms]
 
 *5882|
 [fc]
 [vo_mob s="siro_imo0005"]
-[ns]白石　妹[nse]
-「おねえちゃんの、こんなに近くでみちゃったよお……。[r]
-　エッチな汁、いっぱい出てて、泡だってるよお……」[pcms]
+[ns]Shiraishi Imouto[nse]
+"I saw Onee-san's pussy up close... It's oozing so much naughty juice,[r]
+it's frothing..."[pcms]
 
 *5883|
 [fc]
 [vo_mob s="siro_ane0005"]
-[ns]白石　姉[nse]
-「あっ……あんたのだって……べとべとっ……んああっ！[r]
-　いっ、今は、突かないでぇっ！　頭、真っ白になるうっ！」[pcms]
+[ns]Shiraishi Ane[nse]
+"Ah... Yours too... It's so sticky... Nnahh! Don't thrust now, my head[r]
+is going blank!"[pcms]
 
 *5884|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「つかないでっていわれても……おれ、もうがまんできないもの！[r]
-　ぬくと、おまえのマンコがなかにひっぱるんだよっ……」[pcms]
+[ns]Soccer Club Member J[nse]
+"Even if you say don't thrust... I can't hold back anymore! When I[r]
+pull out, your pussy clings to me..."[pcms]
 
 *5885|
 [fc]
 [vo_mob s="siro_imo0006"]
-[ns]白石　妹[nse]
-「おねえちゃんのおまんこのいりぐち……きゅってなって、[r]
-　なんだか、おちんちんくわえてるみたいぃぃ……」[pcms]
+[ns]Shiraishi Imouto[nse]
+"Onee-san's pussy entrance... It's tightening up, it kind of looks[r]
+like it's sucking on the cock..."[pcms]
 
 *5886|
 [fc]
-[ns]サッカー部員Ｋ[nse]
-「おっ、おまえのもだろっ！　やっぱふたごって、[r]
-　にるもんだな……はんのうするタイミングも、[r]
-　マンコのうごきもそっくりだぜ……」[pcms]
+[ns]Soccer Club Member K[nse]
+"Oh, yours too! Twins really are alike... Even the timing of their[r]
+reactions and the movement of their pussies are identical..."[pcms]
 
 *5887|
 [fc]
 [vo_mob s="siro_imo0007"]
-[ns]白石　妹[nse]
-「やぁっ……言わないでっばぁ……。[r]
-　たすけてぇ……おねえちゃん……」[pcms]
+[ns]Shiraishi Imouto[nse]
+"No... Don't say that... Help me... Onee-san..."[pcms]
 
 *5888|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「さいきん、ヤれなかったからさぁ……。[r]
-　きょうは、なんかいでもなかだし、できそうだぁ……。[r]
-　おまえだって、なかでだされたいんだろぉ？」[pcms]
+[ns]Soccer Club Senior B[nse]
+"I haven't been able to do it recently... Today, I feel like I could[r]
+cum inside many times... You want it inside too, don't you?"[pcms]
 
 *5889|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「さいしょにだしてやったとき、ヒーヒーないてたもんな！[r]
-　あかさかっ！　きいてる？　あっはははっ！」[pcms]
+[ns]Soccer Club Senior B[nse]
+"When I first came inside you, you were crying out! Akasaka! Are you[r]
+listening? Ahahaha!"[pcms]
 
 ;//■イベントCG　mob_H005
 [evcg storage="mob_H005d"][trans_c cross time=300]
@@ -1491,93 +1429,88 @@
 *5890|
 [fc]
 [vo_mob s="aka0008"]
-[ns]赤坂[nse]
-「ひっ……ひどいぃぃっ！　いま、そんなこと言わなくてもっ……[r]
-　ひぐぁっ！　そ、そんな、乱暴にしないでぇっ！[r]
-　やああぁっ！　オマンコ、めくれちゃうよおっ！　んぎぃいっ！」[pcms]
+[ns]Akasaka[nse]
+"Hic... That's cruel! You don't have to say that now... Higuahh! Don't[r]
+be so rough! Nooo! My pussy is going to get turned inside out! Ngyii!"[pcms]
 
 *5891|
 [fc]
-[ns]サッカー部員Ｋ[nse]
-「おおお、せんぱい、ケッコーかげきなことヤッてんすね！[r]
-　お、おれも、なかだししていいっすか！？」[pcms]
+[ns]Soccer Club Member K[nse]
+"Oooh, Senior, you're doing something pretty intense! Can I cum inside[r]
+too?"[pcms]
 
 *5892|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「あたりまえだろ！　なかだし、さいこうにいいぞっ！」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Of course! Cumming inside is the best!"[pcms]
 
 *5893|
 [fc]
 [vo_mob s="siro_imo0008"]
-[ns]白石　妹[nse]
-「やっ……そ、そんなぁっ！　やだぁっ！[r]
-　でっ、でも、もう生でヤッてるしっ……どうしようっ！[r]
-　おねえちゃん、どうしようぅうっ！」[pcms]
+[ns]Shiraishi Imouto[nse]
+"No... That's... Nooo! But, we're already doing it raw... What should[r]
+I do! Onee-san, what should we do!"[pcms]
 
 *5894|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「あぁ、おれも、なかでだしちまおっかなー」[pcms]
+[ns]Soccer Club Member J[nse]
+"Ah, maybe I'll cum inside too."[pcms]
 
 *5895|
 [fc]
 [vo_mob s="siro_ane0006"]
-[ns]白石　姉[nse]
-「ダメえぇっ！　中はっ……いやぁっ！[r]
-　オマンコが……ビクンっていっちゃうっ！」[pcms]
+[ns]Shiraishi Ane[nse]
+"No way! Not inside... Nooo! My pussy is... twitching!"[pcms]
 
 *5896|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「はははっ！　かわいいこえだなぁ！」[pcms]
+[ns]Soccer Club Member J[nse]
+"Hahaha! What a cute voice!"[pcms]
 
 *5897|
 [fc]
-この狭い空間の中、狂気のボルテージは天井知らず。[r]
-男達の行為や言動は、[r]
-レイプと言っても過言では無い状態にまで達していた。[pcms]
+In this confined space, the voltage of madness knew no ceiling. The[r]
+men's actions and words had reached a state that could not be[r]
+overstated as rape.[pcms]
 
 *5898|
 [fc]
-しかし、それを受けた白石姉妹や、赤坂は、[r]
-口でこそ抵抗しているものの、[r]
-一向にその場から動こうとしなかった。[pcms]
+However, the Shiraishi sisters and Akasaka, while verbally resisting,[r]
+did not attempt to move from that place at all.[pcms]
 
 *5899|
 [fc]
-小刻みに跳ね上げる細い腰や、[r]
-リズミカルに吹き出す愛液を除いては。[pcms]
+Apart from their slender waists bouncing minutely and the rhythmic[r]
+spurting of love juices.[pcms]
 
 *5900|
 [fc]
-[ns]サッカー部員Ｋ[nse]
-「しっかし……こんなことまでできるとはおもってなかった！[r]
-　やっぱ、きてよかったぜー！」[pcms]
+[ns]Soccer Club Member K[nse]
+"Man... I never thought we could do something like this! Coming here[r]
+was definitely a good choice!"[pcms]
 
 *5901|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「ほんとだよ！　こんなきもちいいことできるなんてな！[r]
-　それに、こんなにかわいいおんなとだぞ！？[r]
-　おれもう、しんでもいいや！」[pcms]
+[ns]Soccer Club Member J[nse]
+"For real! Who knew we could do something this pleasurable! And with[r]
+such cute girls too! I could die happy now!"[pcms]
 
 *5902|
 [fc]
-二人の男は、同じ顔をした姉妹の膣に向かい、[r]
-何度も腰を打ち付け、笑い合う。[pcms]
+The two men laughed together as they repeatedly thrust their hips[r]
+towards the vaginas of the twin sisters with the same face.[pcms]
 
 *5903|
 [fc]
-その二人が挟み込む男もまた、[r]
-赤坂の細い腰を抱え、柔らかな尻に向け、腰を打ち付けていた。[pcms]
+The man sandwiched between them also held Akasaka's slender waist and[r]
+thrust his hips towards her soft ass.[pcms]
 
 *5904|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「お、おお……おまえのケツ、やわらけえなあ……。[r]
-　パンパンいいおとだして……オマンコからまんじるたらして……[r]
-　みられて、こうふんするクチか、おまえも……」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Oh, ohh... Your ass is so soft... It makes such a good sound when I[r]
+slap it... Your pussy is dripping with juice... You get excited being[r]
+watched too, don't you..."[pcms]
 
 ;//■イベントCG　mob_H005
 [evcg storage="mob_H005c"][trans_c cross time=300]
@@ -1585,64 +1518,58 @@
 *5905|
 [fc]
 [vo_mob s="aka0009"]
-[ns]赤坂[nse]
-「ちっ、違うよっ！　そんなこと、ないいぃい……。[r]
-　んあぁぁっ！　こ、こんなの、イヤなのに……。[r]
-　見られちゃいけないのに、わたし……あぁっ！」[pcms]
+[ns]Akasaka[nse]
+"Tch, that's not true! There's no way... Nnahh! Even though I hate[r]
+this... I shouldn't be seen like this, but I... Ahh!"[pcms]
 
 *5906|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「あれっ……なんか“しらいし”のオマンコ、[r]
-　さっきよりきっつくなってきた……」[pcms]
+[ns]Soccer Club Member J[nse]
+"Huh... Shiraishi's pussy has gotten tighter than before..."[pcms]
 
 *5907|
 [fc]
 [vo_mob s="siro_imo0009"]
-[ns]白石　妹[nse]
-「やだやだっ！　違うっ！　それは、違うのっ！[r]
-　キツくなんてしてないよっ！　あぁぁっ！[r]
-　でも、なんだかクリがぴくってしちゃううっ……」[pcms]
+[ns]Shiraishi Imouto[nse]
+"No no! That's not true! It's not getting tighter! Ahhh! But somehow[r]
+my clit is twitching..."[pcms]
 
 *5908|
 [fc]
-[ns]サッカー部員Ｋ[nse]
-「……だとよ、おねえちゃんよっ！　いもうとのほう、[r]
-　だんだんノッてきたみたいだぞっ！　ふたごなら、[r]
-　おまえもそうなんだろおっ！　ちがうかっ！？」[pcms]
+[ns]Soccer Club Member K[nse]
+"...You hear that, Onee-san? Your little sister seems to be getting[r]
+into it gradually! If she's like that, you must be too, right? Am I[r]
+wrong?!"[pcms]
 
 *5909|
 [fc]
-二人の姉妹を犯す男達は、二人同じようなタイミングで、[r]
-下卑た言葉を投げかけた。[pcms]
+The men violating the two sisters threw lewd words at them in almost[r]
+the same timing.[pcms]
 
 *5910|
 [fc]
 [vo_mob s="siro_ane0007"]
-[ns]白石　姉[nse]
-「んぃいいっ……やぁっ！　ノッてなんかぁっ！[r]
-　こっ、こんなの……初めてだ、しっ……んああっ！[r]
-　ぎっ……お、オマンコ、痛いぃいっ！」[pcms]
+[ns]Shiraishi Ane[nse]
+"Nyiiihh... Nooo! I'm not getting into it! This is my first time and[r]
+it's like this... Nnahh! Nooo! My pussy hurts!"[pcms]
 
 *5911|
 [fc]
 [vo_mob s="siro_imo0010"]
-[ns]白石　妹[nse]
-「わたしもなのにぃっ……酷いよっ……こんなの、[r]
-　酷いよおおっ！」[pcms]
+[ns]Shiraishi Imouto[nse]
+"It's happening to me too... It's terrible... This is just awful!"[pcms]
 
 *5912|
 [fc]
-[ns]サッカー部員Ｊ＆Ｋ[nse]
-「ははっ……ほんっと、かわいいえだな……。[r]
-　おんなじかお、おんなじこえ……。[r]
-　ふたりとも、イクときのかおもおなじか？　ははっ！」[pcms]
+[ns]Soccer Club Member J & K[nse]
+"Haha... Really, what cute voices... The same face, the same voice...[r]
+Do both of you also have the same face when you cum? Haha!"[pcms]
 
 *5913|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「あかさかだけは、ちがうだろうな……おい、[r]
-　いつもより、もっといいかおしろよな！　あかさかっ！」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Akasaka is different though, right? Hey, make a better face than[r]
+usual when you cum! Akasaka!"[pcms]
 
 ;//■イベントCG　mob_H005
 [evcg storage="mob_H005d"][trans_c cross time=300]
@@ -1650,37 +1577,35 @@
 *5914|
 [fc]
 [vo_mob s="aka0010"]
-[ns]赤坂[nse]
-「やぁっ……酷いよぉ……そんな事、[r]
-　いままで言った事ないじゃない！　どうしちゃったのよっ！[r]
-　ひあぁっ！　グリグリ回しちゃダメぇ！　おちんちんイイッ！」[pcms]
+[ns]Akasaka[nse]
+"Nooo... That's awful... You've never said such things before! What's[r]
+gotten into you! Hiahh! Don't twist it around! Your cock feels good!"[pcms]
 
 *5915|
 [fc]
 [vo_mob s="siro_imo0011"]
-[ns]白石　妹[nse]
-「こんなの、恥ずかしいし、酷い……。[r]
-　でも、オマンコの中が……すごいっ……グチュグチュしてっ！[r]
-　もう、なんだか訳がわかんないよおっ！」[pcms]
+[ns]Shiraishi Imouto[nse]
+"This is so embarrassing and terrible... But inside my pussy... it[r]
+feels amazing... It's all squishy! I can't make sense of anything[r]
+anymore!"[pcms]
 
 *5916|
 [fc]
 [vo_mob s="siro_ane0008"]
-[ns]白石　姉[nse]
-「おっ、おちんちん、こんなに気持ちいいなんてっ……。[r]
-　初めてなのに、こんなっ……ひぁっ！[r]
-　やだぁっ！　セックス……クセになりそうぅっ！」[pcms]
+[ns]Shiraishi Ane[nse]
+"Ohh, I never knew a cock could feel this good... It's my first time[r]
+and like this... Hiahh! Nooo! Sex might become an addiction!"[pcms]
 
 *5917|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「やーっぱイイんじゃん！　よっし！　ラストスパート、[r]
-　イッてみっかぁ？」[pcms]
+[ns]Soccer Club Member J[nse]
+"Yeah, it feels great, doesn't it? Alright! For the last spurt, shall[r]
+we cum?"[pcms]
 
 *5918|
 [fc]
-[ns]サッカー部員Ｋ[nse]
-「よおっし！」[pcms]
+[ns]Soccer Club Member K[nse]
+"Alright!"[pcms]
 
 ;//■イベントCG　mob_H005
 [evcg storage="mob_H005b"][trans_c cross time=300]
@@ -1688,57 +1613,54 @@
 *5919|
 [fc]
 [vo_mob s="siro_ane0009"]
-[ns]白石　姉[nse]
-「だっ、だけど……中はダメっ！　外にっ……お願い……。[r]
-　なんでもするっ……外にだしてくれたら、[r]
-　なんでもするからっ！」[pcms]
+[ns]Shiraishi Ane[nse]
+"But... Not inside please! Outside... Please... I'll do anything... If[r]
+you cum outside, I'll do anything for you!"[pcms]
 
 *5920|
 [fc]
 [vo_mob s="siro_imo0012"]
-[ns]白石　妹[nse]
-「わたしもダメっ！　なかだし怖いいいっ！[r]
-　外っ！　外にお願いっ！」[pcms]
+[ns]Shiraishi Imouto[nse]
+"I can't either! I'm scared of cumming inside! Outside please! Please[r]
+cum outside!"[pcms]
 
 *5921|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「なんでもする、か……くくっ……あかさか……、[r]
-　おまえは、どうしてほしい？」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Anything, huh... Heh heh... Akasaka... What do you want me to do?"[pcms]
 
 *5922|
 [fc]
 [vo_mob s="aka0011"]
-[ns]赤坂[nse]
-「わっ、わたしもダメっ！　き、今日は、危ない日なのっ！[r]
-　だから、ダメぇっ！　外に出してっ！[r]
-　赤ちゃん出来ちゃうからぁ！」[pcms]
+[ns]Akasaka[nse]
+"No, I can't! Today is a dangerous day for me! That's why you can't![r]
+Please, cum outside! I could get pregnant!"[pcms]
 
 *5923|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「あっははっ！　おまえのばあいは、なかにだされたら、[r]
-　きぜつするくらいイッちまうからだろ！？[r]
-　なかだしだいすきなクセに！　はははっ！」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Ahahaha! In your case, if you get cum inside, you'd probably faint[r]
+from pleasure, right!? You love getting cum inside, don't you![r]
+Hahaha!"[pcms]
 
 *5924|
 [fc]
 [vo_mob s="aka0012"]
-[ns]赤坂[nse]
-「やぁっ！　言わないでぇっ！　そんなのっ……ひぐっ！？[r]
-　やっ……やあっ！　中でグリグリ回しちゃダメっ！[r]
-　入り口擦られたら、私っ！　イクっ！　イッちゃうよっ！」[pcms]
+[ns]Akasaka[nse]
+"No! Don't say that! That's... Higuu!? No... Nooo! Don't twist it[r]
+around inside! If you rub the entrance, I'll... I'm going to cum! I'm[r]
+cumming!"[pcms]
 
 *5925|
 [fc]
-もう、この空間の中に正気を保ったものは無くなってきていた。[r]
-全ての男女を、狂気とウィルスが掌握してしまった。[pcms]
+Sanity had left the confines of this space. Both men and women were[r]
+now under the control of madness and the virus.[pcms]
 
 *5926|
 [fc]
-閉鎖された空間の中、[r]
-狂気が伝染し、お互いの干渉で膨らみ加速した。[r]
-結果として、この部屋全てが狂気にとらわれてしまったのだ。[pcms]
+In the closed space, madness spread contagiously, swelling and[r]
+accelerating with each interaction. As a result, the entire room was[r]
+consumed by insanity.[pcms]
 
 ;//■イベントCG　mob_H005
 [evcg storage="mob_H005c"][trans_c cross time=300]
@@ -1746,44 +1668,43 @@
 *5927|
 [fc]
 [vo_mob s="siro_imo0013"]
-[ns]白石　妹[nse]
-「やあぁあっ！　オマンコの入り口突かないでぇっ！[r]
-　エッチな汁、吹き出ちゃうよおおっ！」[pcms]
+[ns]Shiraishi Imouto[nse]
+"Nooo! Don't poke at the entrance of my pussy! My naughty juices are[r]
+going to squirt out!"[pcms]
 
 *5928|
 [fc]
 [vo_mob s="siro_ane0010"]
-[ns]白石　姉[nse]
-「ばかぁっ！　そんな事言わないのっ！　私まで、[r]
-　エッチな汁あふれちゃうよっ！　あっ……かっ、[r]
-　かき回さないでっ！　オマンコ、グリグリしないでぇっ！」[pcms]
+[ns]Shiraishi Ane[nse]
+"Idiot! Don't say such things! Now I'm going to overflow with naughty[r]
+juices too! Ah... Don't... Don't stir it up! Don't twirl around inside[r]
+my pussy!"[pcms]
 
 *5929|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「おっ……おおおっ！　もう、おれムリ！　がまんムリ！[r]
-　だすぞ、だすぞだすぞおおっ！」[pcms]
+[ns]Soccer Club Member J[nse]
+"Oh... Oooh! I can't take it anymore! I can't hold back! I'm going to[r]
+cum, I'm cumming!"[pcms]
 
 *5930|
 [fc]
 [vo_mob s="siro_imo0014"]
-[ns]白石　妹[nse]
-「やああっ！　お願い外っ！　外にぃいいっ！[r]
-　んおおおっ！　おおおおっ！　イクっ！　私バカになるうぅっ！[r]
-　イクうううっ！」[pcms]
+[ns]Shiraishi Imouto[nse]
+"Nooo! Please, outside! Cum outside! Nnooo! Ooooh! I'm cumming! I'm[r]
+going to lose my mind! I'm cumming!"[pcms]
 
 *5931|
 [fc]
 [vo_mob s="siro_ane0011"]
-[ns]白石　姉[nse]
-「私も、もうダメっ！　んぎいいいいいっ！[r]
-　イクイクっ！　イクううぅうっ！　んあぁあっ！」[pcms]
+[ns]Shiraishi Ane[nse]
+"I can't take it anymore either! Ngiiiiiiiiii! I'm cumming! I'm[r]
+cumming! Naaaaah!"[pcms]
 
 *5932|
 [fc]
-[ns]サッカー部員Ｊ＆Ｋ[nse]
-「くっ……おおっ！　チンコおしだされるっ！　ああぁっ！[r]
-　だ、だめだっ！　だすぞおおっ！」[pcms]
+[ns]Soccer Club Members J & K[nse]
+"Ku... Oooh! My cock is being pushed out! Aaahh! No, I can't take it![r]
+I'm cumming!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1802,55 +1723,54 @@
 ;[vo_mob s="siro_ane0012"]
 ;[wait_c time=100]
 [vo_mob s="siro_ane0012"]
-[ns]白石姉＆妹[nse]
-「あぁあっ……はぁっ……あぁ……」[pcms]
+[ns]Shiraishi Sisters[nse]
+"Aaahh... Haaah... Ah..."[pcms]
 
 ;//BGV
 
 *5934|
 [fc]
-血や双子の愛液に塗れた男性器が押し出されると共に、[r]
-二人の男が雄叫びと、精液を吹き上げた。[pcms]
+As the men's penises, smeared with blood and the twins' love juices,[r]
+were pulled out, they let out a roar and ejaculated.[pcms]
 
 *5935|
 [fc]
-それぞれの欲望が空中で交差し、[r]
-それぞれが犯す相手めがけ降り注いだ。[pcms]
+Their desires crossed in mid-air, raining down on their respective[r]
+partners.[pcms]
 
 *5936|
 [fc]
-同じ顔をした双子の姉妹の顔は、[r]
-同じ様に、精液で汚されていく。[pcms]
+The faces of the twin sisters, identical in appearance, were now[r]
+similarly defiled with semen.[pcms]
 
 *5937|
 [fc]
 [vo_mob s="siro_imo0015"]
-[ns]白石姉＆妹[nse]
-「あぁぁあ……精子……いっぱい……ふぁぁっ……。[r]
-　くっさい精子……かおじゅう、一杯ぃい……」[pcms]
+[ns]Shiraishi Sisters[nse]
+"Aaaah... So much sperm... Faaah... Smelly sperm... all over my[r]
+face..."[pcms]
 
 *5938|
 [fc]
-その二人の顔を見た瞬間、赤坂の体にも異変が起きる。[pcms]
+The moment they saw the two faces, a change also came over Akasaka's[r]
+body.[pcms]
 
 *5939|
 [fc]
-柔らかな尻や、重力に引かれた胸が大きく震え、[r]
-エビ反るような状態になって、大きく息を吸い込んだ。[pcms]
+Her soft butt and breasts, pulled by gravity, shook violently as she[r]
+arched back like a shrimp and took a deep breath.[pcms]
 
 *5940|
 [fc]
 [vo_mob s="aka0013"]
-[ns]赤坂[nse]
-「あっ……んあっ！　ひぁっっ！！　オマンコ、熱いいいいっ！[r]
-　やぁっ！　イクうううぅっ！！！」[pcms]
+[ns]Akasaka[nse]
+"Ah... Nnah! Hiaaah!! My pussy is so hot! Yaaah! I'm cumming!!"[pcms]
 
 *5941|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「くおおっ！　チンコ、ぬけるっ！　なんてしめつけだっ！[r]
-　うううっ！　だっ、だすぞっ！[r]
-　おまえのケツにだしてやるうっ！」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Kuooo! My dick is slipping out! What a tight squeeze! Uuuuh! I'm[r]
+gonna cum! I'm going to cum on your ass!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1865,41 +1785,40 @@
 *5942|
 [fc]
 [vo_mob s="aka0014"]
-[ns]赤坂[nse]
-「ひっ……あああっ！　お尻っ！　お尻にあっついのがっ！[r]
-　せーし、お尻にぃいっ！　アツぃいいっ！　んあぁっ！」[pcms]
+[ns]Akasaka[nse]
+"Hii... Aaahh! My butt! Something hot is in my butt! Se-semen in my[r]
+butt! It's so hot! Naaah!"[pcms]
 
 *5943|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「はっ……はははっ！　おまえのいうこと、きいたわけじゃないが[r]
-　しめつけすぎて、そとにだされちまったぜ……」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Ha... Hahaha! It's not like I listened to what you said, but you[r]
+squeezed so tight, I ended up cumming outside..."[pcms]
 
 *5944|
 [fc]
 [vo_mob s="aka0015"]
-[ns]赤坂[nse]
-「はーっ……あぁ……はあっ……あぁ……」[pcms]
+[ns]Akasaka[nse]
+"Ha-... Ah... Haaah... Ah..."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *5945|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「おーおー、おれらをさそったはなざわも、[r]
-　まーたサカってるぜ、みてみろよ、あれ、すっげーな……」[pcms]
+[ns]Soccer Club Member J[nse]
+"O-oh-oh, Hanazawa who tempted us is getting screwed again, look at[r]
+that, it's amazing..."[pcms]
 
 *5946|
 [fc]
-よほど激しく絶頂したのか、[r]
-双子を犯していた男の一人が、肩で息をしながら、[r]
-また別の獣を顎で指し示す。[pcms]
+One of the men who had been ravishing the twins was panting heavily[r]
+and pointed his chin towards another beast of prey.[pcms]
 
 *5947|
 [fc]
-その先には、この宴の元凶となった、[r]
-花沢が、初めとはまた別の男と絡み合っていた。[pcms]
+There was Hanazawa, the instigator of this feast, entangled with yet[r]
+another man.[pcms]
 
 ;//mine:ここから花沢さん
 
@@ -1908,17 +1827,18 @@
 
 *5948|
 [fc]
-[ns]サッカー部員Ｌ[nse]
-「だめだぁっ！　コーフンしすぎちまった！[r]
-　はなざわぁっ！　だっ、だすぞっ！　なかだしするぞっ！」[pcms]
+[ns]Soccer Club Member L[nse]
+"I can't take it anymore! I'm too aroused! Hanazawa! I'm gonna cum![r]
+I'm going to cum inside!"[pcms]
 
 *5949|
 [fc]
 [vo_han s="hana0062"]
-[ns]花沢[nse]
-「いいわよっ！　だしなさいっ！　わたしのおまんこに、[r]
-　すきなだけ、だしなさいっ！　ああああああああああああっ！[r]
-　でっ、でてるっ！　ドクドクでてるの、わかるよおっ！」[pcms]
+[ns]Hanazawa[nse]
+"Go ahead! Cum inside me! Cum as much as you want inside my pussy! Aaa[r]
+aaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh[r]
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh[r]
+hhhhhhhhhhhhhhhhhhhhh![pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1930,29 +1850,28 @@
 
 *5950|
 [fc]
-男の叫びと共に二人の結合部から、[r]
-とても一人分の精液とは思えない量の、[r]
-ドロリとした液体が噴き出した。[pcms]
+With the man's scream, a thick liquid that seemed too much for one[r]
+person spurted out from where they were joined.[pcms]
 
 *5951|
 [fc]
-それを見ていた、もう一人の男が花沢ににじり寄り、[r]
-射精し、力の抜けた体を突き飛ばした。[pcms]
+Seeing this, another man approached Hanazawa and after ejaculating,[r]
+pushed away his spent body.[pcms]
 
 *5952|
 [fc]
-[ns]サッカー部員Ｍ[nse]
-「どけよっ！　いつまでハメてんだ、このやろう！[r]
-　つぎはおれだよ、おれっ！　いくぞはなざわっ！」[pcms]
+[ns]Soccer Club Member M[nse]
+"Move it! How long are you going to be stuck in there, you bastard![r]
+It's my turn now, mine! Here I come Hanazawa!"[pcms]
 
 ;//#_赤フラ
 [赤フラ]
 
 *5953|
 [fc]
-鼻息を荒くした男が、花沢に組み付いていた男を突き飛ばし、[r]
-そのまま、前戯もなくそそり立った男性器を押し当て、[r]
-腰を突き出した。[pcms]
+The man with ragged breathing pushed away the man who had been[r]
+attached to Hanazawa and immediately pressed his erect penis against[r]
+her without any foreplay and thrust his hips forward.[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
@@ -1960,76 +1879,70 @@
 *5954|
 [fc]
 [vo_han s="hana0063"]
-[ns]花沢[nse]
-「んあっ……ふふっ……やすみ、なし？[r]
-　でも、ちょうどいいわ……わたし、まだまんぞくしてないしっ！[r]
-　あんたは、どうかしら……あははっ！」[pcms]
+[ns]Hanazawa[nse]
+"Nnah... Hehe... No rest? But that's just perfect... I'm not satisfied[r]
+yet either! What about you... Ahaha!"[pcms]
 
 *5955|
 [fc]
-[ns]サッカー部員Ｍ[nse]
-「なに、すぐなかせてやるよ！　それにしても……。[r]
-　おまえのマンコ、ザーメンとまんじるでぐっちょぐちょだなぁ！[r]
-　ヌルヌルしてて、きもちいい～！」[pcms]
+[ns]Soccer Club Member M[nse]
+"What? I'll make you cum right away! But still... Your pussy is so wet[r]
+with semen and love juice. It's slippery and feels so good~!"[pcms]
 
 *5956|
 [fc]
 [vo_han s="hana0064"]
-[ns]花沢[nse]
-「なに、ひとのセーシでこうふんしてるの、アンタ！[r]
-　ヘンタイなの？　ねぇ、あははっ！」[pcms]
+[ns]Hanazawa[nse]
+"What? Are you getting excited over someone else's semen? Are you a[r]
+pervert? Hey, ahaha!"[pcms]
 
 *5957|
 [fc]
-[ns]サッカー部員Ｍ[nse]
-「ばっ、バカ！　そんなんじゃねえよ！[r]
-　おまえのマンコがきもちいいんだよっ！[r]
-　クソ……このクソビッチ！　オッパイだけデカくてよぉっ！」[pcms]
+[ns]Soccer Club Member M[nse]
+"Shut up, idiot! It's not like that! Your pussy just feels good, damn[r]
+it... This fucking bitch with her big tits!"[pcms]
 
 *5958|
 [fc]
 [vo_han s="hana0065"]
-[ns]花沢[nse]
-「んあっ！　ふあぁっ！　ら、らめぇっ！[r]
-　そんなに、おまんこ、ズボズボしないでぇっ！[r]
-　ひぁぁぁあぁっ！　ヘンタイおとこにイカされるううっ！」[pcms]
+[ns]Hanazawa[nse]
+"Nnahh! Fuaahh! Stop itttt! Don't thrust into my pussy like thatttt![r]
+Hiaaaaahhhh! Being made to cum by a pervert mannnn!"[pcms]
 
 *5959|
 [fc]
-[ns]サッカー部員Ｍ[nse]
-「ヘンタイとかいうんじゃねえよ！[r]
-　おまえだって、いろんなおとこにおかされて、[r]
-　イッちまうヘンタイだろうがよっ！　くっ……しまるっ！」[pcms]
+[ns]Soccer Club Member M[nse]
+"Don't call me a pervert! You're the one who gets fucked by all sorts[r]
+of men and cums like a pervert too, damn it... It's tightening up!"[pcms]
 
 *5960|
 [fc]
 [vo_han s="hana0066"]
-[ns]花沢[nse]
-「ヘンタイのクセに、わたしのナカにだそうっての！？[r]
-　あ……ああぁ……いい、いいわぁ……、わたし、ヘンタイ……。[r]
-　ヘンタイっていわれると、クラクラする……」[pcms]
+[ns]Hanazawa[nse]
+"Calling me a pervert while you're trying to cum inside me!? Ah...[r]
+Aaahh... That's fine, that's fineee... Call me a pervert... Being[r]
+called a pervert makes me dizzy..."[pcms]
 
 *5961|
 [fc]
-[ns]サッカー部員Ｍ[nse]
-「へっ……なんだよ！　ヘンタイ！　おまえ、マゾか？[r]
-　ののしられてこうふんする、マゾかよっ！[r]
-　このヘンタイおんな！　おれのチンコでイッちまえよ！」[pcms]
+[ns]Soccer Club Member M[nse]
+"Heh... What the hell! Pervert! Are you a masochist? Getting excited[r]
+being insulted, you masochist! You perverted woman! Cum with my dick[r]
+already!"[pcms]
 
 *5962|
 [fc]
 [vo_han s="hana0067"]
-[ns]花沢[nse]
-「なっ……なによ！　じゃあ、アンタは、そのヘンタイおんなの、[r]
-　セーシまみれのおまんこになかだししようっていう、[r]
-　ヘンタイおとこじゃないのっ！　んああっ！」[pcms]
+[ns]Hanazawa[nse]
+"What... What are you saying! Then, aren't you a perverted man trying[r]
+to cum inside the pussy of this perverted woman, all covered in semen?[r]
+Nnaahh!"[pcms]
 
 *5963|
 [fc]
-[ns]サッカー部員Ｍ[nse]
-「ヘンタイがっ！　この、ヘンタイっ！[r]
-　ザーメンまみれのオマンコに、またおれがナカだししてやるっ！[r]
-　くそっ！　これでもくらえっ！　イクぞっ！」[pcms]
+[ns]Soccer Club Member M[nse]
+"Pervert! You pervert! I'll cum inside your semen-covered pussy again![r]
+Damn it! Take this! I'm cumming!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -2046,16 +1959,14 @@
 *5964|
 [fc]
 [vo_han s="hana0068"]
-[ns]花沢[nse]
-「ひぁあぁぁあっ！！　おっ、おまんこのなか、[r]
-　セーシでタプタプいうっ！　おなかのなか、あっついいいっ！[r]
-　ひぁっ！　イクっ……あぁあっ！　イクううっ！」[pcms]
+[ns]Hanazawa[nse]
+"Hiaaahhh!! My pussy is making squelching sounds with all the semen![r]
+It's so hot inside my belly! Hiah! I'm cumming... Aaahh! I'm cumming!"[pcms]
 
 *5965|
 [fc]
-[ns]サッカー部員Ｍ[nse]
-「ううっ……もっ、もういっかい……。[r]
-　あっちみたいに、つづき……しようぜ……」[pcms]
+[ns]Soccer Club Member M[nse]
+"Ugh... Once more... Let's continue... like those guys over there..."[pcms]
 
 ;//mine:　また赤坂・白石姉妹に
 
@@ -2067,15 +1978,14 @@
 
 *5966|
 [fc]
-[ns]先輩Ａ[nse]
-「おおっ！　あかさかのまんこもいいな！[r]
-　こりゃ、ぜんいんとあじみしなきゃダメだな！」[pcms]
+[ns]Senior A[nse]
+"Whoa! Akasaka's pussy is also great! I've got to sample everyone!"[pcms]
 
 *5967|
 [fc]
 [vo_mob s="aka0016"]
-[ns]赤坂[nse]
-「[ruby text="・"]やらあっ！　わたしのなかにだけ、だしてぇっ！」[pcms]
+[ns]Akasaka[nse]
+"Yaraah! Only cum inside me, please!"[pcms]
 
 ;//■イベントCG　mob_H005
 [evcg storage="mob_H005g"][trans_c cross time=300]
@@ -2083,41 +1993,38 @@
 *5968|
 [fc]
 [vo_mob s="siro_imo0016"]
-[ns]白石　妹[nse]
-「だめぇ～……つぎは、わたしだよおっ……。[r]
-　せいし、ほしいなぁ……」[pcms]
+[ns]Shiraishi Imouto[nse]
+"No way~... Next, it's my turn... I want your semen..."[pcms]
 
 *5969|
 [fc]
 [vo_mob s="siro_ane0013"]
-[ns]白石　姉[nse]
-「だめだよおっ！　わたしだよっ！」[pcms]
+[ns]Shiraishi Ane[nse]
+"No way! It's my turn!"[pcms]
 
 *5970|
 [fc]
-[ns]サッカー部員Ｋ[nse]
-「わかった、わかった！　こんどこそ、おまえのマンコに、[r]
-　ブチかましてやるよ！　こんどはおしだすんじゃないぞっ！」[pcms]
+[ns]Soccer Club Member K[nse]
+"Got it, got it! This time for sure, I'll shoot it into your pussy! I[r]
+won't push it out this time!"[pcms]
 
 *5971|
 [fc]
-[ns]サッカー部員Ｊ[nse]
-「おれのもだぞおっ！　いくらしまりがいいからって、[r]
-　チンコおいだしたらダメだぞっ！」[pcms]
+[ns]Soccer Club Member J[nse]
+"Mine too! Just because it feels tight, don't push my dick out!"[pcms]
 
 *5972|
 [fc]
 [vo_mob s="siro_imo0017"]
-[ns]白石姉＆妹[nse]
-「うっ……うんっ！　こんどは、中に出していいからぁっ！[r]
-　わたしの中に、出してぇっ！」[pcms]
+[ns]Shiraishi Sisters[nse]
+"Ugh... Yeah! This time, it's okay to cum inside! Cum inside me!"[pcms]
 
 ;//♂Ｄ：上の台詞は、組み込み時に　白石姉＆妹　に変換する
 
 *5973|
 [fc]
-[ns]サッカー部員Ｊ＆Ｋ[nse]
-「くうっ！　く、くれてやるっ！　イケっ……イケぇっ！」[pcms]
+[ns]Soccer Club Members J & K[nse]
+"Kuuuh! We'll give it to you! Cum... Cumming!"[pcms]
 
 ;//■イベントCG　mob_H005
 [evcg storage="mob_H005h"][trans_c cross time=300]
@@ -2125,26 +2032,24 @@
 *5974|
 [fc]
 [vo_mob s="siro_imo0018"]
-[ns]白石姉＆妹[nse]
-「ひっ……あぁぁぁっ！！　イクううっ！　せいし出されて、[r]
-　イッちゃうううっ！　オマンコに、[r]
-　せいしはいってくるううぅっ！」[pcms]
+[ns]Shiraishi Sisters[nse]
+"Hih... Aaahhh!! I'm cumming! Getting filled with semen, I'm cumming![r]
+Semen is entering my pussy!"[pcms]
 
 ;//♂Ｄ：上の台詞は、組み込み時に　白石姉＆妹　に変換する
 
 *5975|
 [fc]
-[ns]先輩Ａ[nse]
-「おっ、おれらも、イこうぜっ！　おらっ！　ぜんぶ、ハラでのめっ！[r]
-　いくぞおっ！」[pcms]
+[ns]Senior A[nse]
+"Hey, let's cum too, guys! Here we go! Swallow it all with your belly![r]
+I'm cumming!"[pcms]
 
 *5976|
 [fc]
 [vo_mob s="aka0017"]
-[ns]赤坂[nse]
-「ひっ……ひぃいっ！　オマンコの中で、[r]
-　おちんちんが膨らんでっ……！[r]
-　あっ……はっ、弾けてるっっ！　あぁっ！　イクうううっ！」[pcms]
+[ns]Akasaka[nse]
+"Hih... Hiiih! The cock is swelling inside my pussy...! Ah... Haah,[r]
+it's bursting! Aaahh! I'm cumming!"[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -2192,33 +2097,32 @@
 *5977|
 [fc]
 [vo_mob s="midori0014"]
-[ns]緑川[nse]
-「おほおぉっ！　おおっ……お、おおおっ！[r]
-　おま、おまんこっ！　すごいいいいいぃぃっ！」[pcms]
+[ns]Midorigawa[nse]
+"Ohooohh! Ooh... Oh, ohhh! Your pussy is so good!"[pcms]
 
 *5978|
 [fc]
-[ns]サッカー部先輩Ｂ[nse]
-「みどりかわさんっ！　だすよっ！　だすよおおっ！」[pcms]
+[ns]Soccer Club Senior B[nse]
+"Midorigawa-san! I'm cumming! I'm cumming!"[pcms]
 
 *5979|
 [fc]
 [vo_mob s="ao0016"]
-[ns]青山[nse]
-「ま、また、いっぱい……みんなにまけないくらい、[r]
-　せいし頂戴っ！　全身に、せいしちょうだいいいいっ！」[pcms]
+[ns]Aoyama[nse]
+"Ma, more... I want as much semen as everyone else, please! Give me[r]
+your semen all over my body!"[pcms]
 
 *5980|
 [fc]
 [vo_mob s="ouse0016"]
-[ns]黄瀬[nse]
-「んぶっ……ぷああっ！　また、おクチと、おまんこに、[r]
-　せーし飲ませてっ！　んぶううっ！　ぶちゅっ！」[pcms]
+[ns]Kise[nse]
+"Nbuuh... Puuaahh! Let me drink semen again, in my mouth and pussy![r]
+Nbuuuhh! Bchuu!"[pcms]
 
 *5981|
 [fc]
-[ns]サッカー部員Ｅ＆Ｆ[nse]
-「おおっ……そんなに……ああぁっ！　でるうっ！」[pcms]
+[ns]Soccer Club Member E & F[nse]
+"Ooh... So much... Aaahh! I'm cumming!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -2233,24 +2137,22 @@
 *5982|
 [fc]
 [vo_mob s="midori0015"]
-[ns]緑川[nse]
-「せっ……せーし！　せーし、おまんこにアツいの！[r]
-　いいねぇ……こ、これっ……ああっ！　イクうううっ！」[pcms]
+[ns]Midorikawa[nse]
+"Seh... Semen! Hot semen in my pussy! It feels good... This is it...[r]
+Aaahh! I'm cumming!"[pcms]
 
 *5983|
 [fc]
 [vo_mob s="ao0017"]
-[ns]青山[nse]
-「はっ……あっ！　いいにおいっ！　わたし、[r]
-　においだけで、イッちゃうううっ！」[pcms]
+[ns]Aoyama[nse]
+"Haah... Ahh! It smells so good! I can cum just from the smell alone!"[pcms]
 
 *5984|
 [fc]
 [vo_mob s="ouse0017"]
-[ns]黄瀬[nse]
-「んぶぁあっ！　おクチも、オマンコも、[r]
-　せーしいっぱいいっ！　ああっっっ！[r]
-　イクイクっ！　あぁあっ！　んぶぁあっ！」[pcms]
+[ns]Kise[nse]
+"Nbuahh! Both my mouth and pussy are full of semen! Aaahhhhh! I'm[r]
+cumming, cumming! Aaahh! Nbuahh!"[pcms]
 
 ;//#_ホワイトアウト
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
@@ -2260,21 +2162,21 @@
 
 *5985|
 [fc]
-淫らな獣達が、銘々に叫ぶなか、[r]
-宴の中心人物が周りを見回し、[r]
-精液に塗れた顔をうれしそうに歪め、笑った。[pcms]
+Amidst the cries of the lewd beasts, the central figure of the feast[r]
+looked around, her face smeared with semen twisted in delight as she[r]
+laughed.[pcms]
 
 *5986|
 [fc]
-背後から、また別の男が突き立て続けている中、[r]
-花沢は、周りの獣達に対し、呟く。[pcms]
+From behind, as another man continued to thrust into her, Hanazawa[r]
+muttered to the beasts around her.[pcms]
 
 *5987|
 [fc]
 [vo_han s="hana0069"]
-[ns]花沢[nse]
-「……まだまだ……よるは、これから……。[r]
-　ふふっ……あはははっ！　あっはははははっ！」[pcms]
+[ns]Hanazawa[nse]
+"...Not yet... The night is just beginning... Fufu... Ahahaha![r]
+Ahahahaha!"[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

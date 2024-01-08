@@ -23,290 +23,292 @@
 *3476|
 [fc]
 [vo_stk s="satuki_st0532"]
-[ns]彩芽[nse]
-「わたしが、囮になるわ。アイツらを引きつけるから、[r]
-　その隙に、３人は逃げて」[pcms]
+[ns]Ayame[nse]
+"I'll be the decoy. I'll draw them in, so you three take the chance to[r]
+escape."[pcms]
 
 *3477|
 [fc]
-[ns]誠[nse]
-「な、何を。駄目です彩芽先輩。それなら、男の僕がやりますっ！」[pcms]
+[ns]Makoto[nse]
+"Wh-What are you saying? That's not okay, Ayame-senpai. If that's the[r]
+case, I, a man, should do it!"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3478|
 [fc]
 [vo_stk s="satuki_st0533"]
-[ns]彩芽[nse]
-「駄目。わたしがやる。わたしの方が誠君よりも足も速いし、[r]
-　運動神経もいいし、体力だってあるわよ」[pcms]
+[ns]Ayame[nse]
+"No. I'm doing it. I can run faster than you, Makoto-kun, and I have[r]
+better reflexes and more stamina too."[pcms]
 
 *3479|
 [fc]
-[ns]誠[nse]
-「うっ……それは……」[pcms]
+[ns]Makoto[nse]
+"Ugh... That's..."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st07"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3480|
 [fc]
 [vo_stk s="satuki_st0534"]
-[ns]彩芽[nse]
-「それに……越智さんはまだ上手く走れない。そうでしょ？」[pcms]
+[ns]Ayame[nse]
+"Besides... Akari-san still can't run properly, right?"[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3481|
 [fc]
 [vo_aka s="akari_st0219"]
-[ns]茜梨[nse]
-「いえ、大丈夫です」[pcms]
+[ns]Akari[nse]
+"No, I'm fine."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3482|
 [fc]
 [vo_stk s="satuki_st0535"]
-[ns]彩芽[nse]
-「嘘言わないのよ。無理をすればそれだけで足手まといになるの。[r]
-　それよりも、誠君におぶってもらいなさい」[pcms]
+[ns]Ayame[nse]
+"Don't lie. If you push yourself, you'll just be a burden. Instead,[r]
+have Makoto-kun carry you."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st07"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3483|
 [fc]
 [vo_stk s="satuki_st0536"]
-[ns]彩芽[nse]
-「それに……わたしは、会っておかないとならない人が……[r]
-　あの中にいるのよ……外にね」[pcms]
+[ns]Ayame[nse]
+"And... there's someone I have to meet... out there, among them."[pcms]
 
 *3484|
 [fc]
-[ns]誠[nse]
-「……それは……でも……」[pcms]
+[ns]Makoto[nse]
+"...That's... but..."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3485|
 [fc]
 [vo_stk s="satuki_st0537"]
-[ns]彩芽[nse]
-「お願い。行かせて。それに……ようやく『高嶺の花』に、[r]
-　手が届きそうでしょ？　ちゃんとしっかり守りなさい」[pcms]
+[ns]Ayame[nse]
+"Please. Let me go. Besides... you're finally within reach of the[r]
+'unattainable flower', right? Make sure to protect it properly."[pcms]
 
 *3486|
 [fc]
-[ns]誠[nse]
-「彩芽先輩……」[pcms]
+[ns]Makoto[nse]
+"Ayame-senpai..."[pcms]
 
 *3487|
 [fc]
-先輩は、もう覚悟を決めた冴え冴えとした笑顔を僕に向けた。[r]
-僕の頭をぽんぽんと撫でる。[pcms]
+Senpai turned to me with a clear and determined smile, having made up[r]
+her mind. She patted my head gently.[pcms]
 
 *3488|
 [fc]
-僕はみっともないな、と思いながらも涙がにじんでくるのを[r]
-感じていた。[pcms]
+I felt tears welling up in my eyes, even though I thought it was[r]
+shameful.[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak11"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3489|
 [fc]
 [vo_aka s="akari_st0220"]
-[ns]茜梨[nse]
-「彩芽？　先輩？　あ、あの……必ず、戻ってきて下さい。[r]
-　待ってますから」[pcms]
+[ns]Akari[nse]
+"Ayame? Senpai? Please... make sure to come back. We'll be waiting."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3490|
 [fc]
 [vo_stk s="satuki_st0538"]
-[ns]彩芽[nse]
-「大丈夫よ。必ず追いつくわ。やることをやったらね」[pcms]
+[ns]Ayame[nse]
+"Don't worry. I'll catch up for sure. After I've done what I need to[r]
+do."[pcms]
 
 *3491|
 [fc]
 [vo_aka s="akari_st0221"]
-[ns]茜梨[nse]
-「はい。約束ですよ、彩芽……先輩」[pcms]
+[ns]Akari[nse]
+"Yes. It's a promise, Ayame... senpai."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3492|
 [fc]
 [vo_stk s="satuki_st0539"]
-[ns]彩芽[nse]
-「うん。無事に合流したら、ちゃんと話すから。彩芽の訳をね」[pcms]
+[ns]Ayame[nse]
+"Yeah. Once we safely regroup, I'll tell you everything. About Ayame's[r]
+reasons."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3493|
 [fc]
 [vo_aka s="akari_st0222"]
-[ns]茜梨[nse]
-「はい……わかりました。待ってます」[pcms]
+[ns]Akari[nse]
+"Yes... I understand. I'll be waiting."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3494|
 [fc]
 [vo_stk s="satuki_st0540"]
-[ns]彩芽[nse]
-「ん。誠君、これ、お願い」[pcms]
+[ns]Ayame[nse]
+"Mm. Makoto-kun, please take care of this for me."[pcms]
 
 *3495|
 [fc]
-そう言って、先輩は僕に大事なカメラを渡してきた。[pcms]
+With those words, senpai handed me her precious camera.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st11"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3496|
 [fc]
 [vo_stk s="satuki_st0541"]
-[ns]彩芽[nse]
-「あとで、ちゃんと取りに行くから。落としたりしないでよ。[r]
-　それも越智さん同様に、守りきってね」[pcms]
+[ns]Ayame[nse]
+"I'll come back for it later. Don't drop it. Just like with Akari-san,[r]
+make sure to protect it."[pcms]
 
 *3497|
 [fc]
-[ns]誠[nse]
-「わかりました」[pcms]
+[ns]Makoto[nse]
+"Understood."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3498|
 [fc]
 [vo_stk s="satuki_st0542"]
-[ns]彩芽[nse]
-「越智さん、誠君にしっかり掴まっておぶさって、運んで貰って。[r]
-　同時に周りに目を配って、誠君を守ってあげてね」[pcms]
+[ns]Ayame[nse]
+"Akari-san, hold on tight to Makoto-kun and have him carry you. At the[r]
+same time, keep an eye on your surroundings and protect Makoto-kun."[pcms]
 
 *3499|
 [fc]
 [vo_aka s="akari_st0223"]
-[ns]茜梨[nse]
-「はい」[pcms]
+[ns]Akari[nse]
+"Yes."[pcms]
 
 *3500|
 [fc]
-彩芽先輩は、満足そうににっこりと笑い、おもむろに眼鏡を[r]
-取り出してかけた。眼鏡を掛けた先輩の顔には決意の色があった。[pcms]
+Senpai smiled contentedly and slowly put on her glasses. There was a[r]
+look of determination on her face with the glasses on.[pcms]
 
 *3501|
 [fc]
-あの眼鏡……もしかしたら、何か意味があるのかもしれない。[r]
-無事に戻ってきたら、訊いてみよう。もっと彩芽先輩の事が[r]
-知りたいから……。[pcms]
+Those glasses... they might mean something important. When she comes[r]
+back safely, I'll ask her about it. Because I want to know more about[r]
+Ayame-senpai...[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi04"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *3502|
 [fc]
 [vo_mis s="misao_st0243"]
-[ns]美沙緒[nse]
-「……これ、使える？」[pcms]
+[ns]Misao[nse]
+"...Can you use this?"[pcms]
 
 *3503|
 [fc]
-美沙緒さんは、拳銃を取り出し、先輩に渡した。[pcms]
+Misao-san took out a handgun and handed it to senpai.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st07"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3504|
 [fc]
 [vo_stk s="satuki_st0543"]
-[ns]彩芽[nse]
-「……！　ありがとう。大丈夫。使えるわ」[pcms]
+[ns]Ayame[nse]
+"...! Thank you. It's fine. I can use it."[pcms]
 
 *3505|
 [fc]
 [vo_mis s="misao_st0244"]
-[ns]美沙緒[nse]
-「……そう。くれぐれも気をつけて。必ず戻ってきてね」[pcms]
+[ns]Misao[nse]
+"...Alright. Please be careful and make sure to come back."[pcms]
 
 *3506|
 [fc]
 [vo_stk s="satuki_st0544"]
-[ns]彩芽[nse]
-「ええ。必ず……」[pcms]
+[ns]Ayame[nse]
+"Yes. Definitely..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3507|
 [fc]
-先輩が裏口から出ることになった。[r]
-ヤツらを引きつけて、集落とは反対に誘導するから、[r]
-タイミングを見計らって、ここから出て駆け抜ける。[pcms]
+Senpai decided to go out through the back door. She would draw them[r]
+away, leading them in the opposite direction of the village, and we[r]
+would take that opportunity to run out from here.[pcms]
 
 *3508|
 [fc]
-そういう作戦になった。[pcms]
+That was the plan.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3509|
 [fc]
 [vo_stk s="satuki_st0545"]
-[ns]彩芽[nse]
-「いい？　タイミングを間違えないでねっ！」[pcms]
+[ns]Ayame[nse]
+"Okay? Don't mess up the timing!"[pcms]
 
 *3510|
 [fc]
-裏口のドアノブに手を掛けながら、先輩が振り返る。[pcms]
+Senpai turned back to us while holding the doorknob of the back door.[pcms]
 
 *3511|
 [fc]
-僕たち３人は、いっせいに頷き、そして、先輩を見送った。[pcms]
+The three of us nodded all at once and then saw senpai off.[pcms]
 
 *3512|
 [fc]
 [vo_stk s="satuki_st0546"]
-[ns]彩芽[nse]
-「行ってくる」[pcms]
+[ns]Ayame[nse]
+"I'm off."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3513|
 [fc]
-ドアが大きく開かれる。すぐに閉められ先輩の姿は見えなくなった。[pcms]
+The door swung open wide. It was quickly closed, and senpai's figure[r]
+disappeared from sight.[pcms]
 
 *3514|
 [fc]
 [vo_stk s="satuki_st0547"]
-[ns]彩芽[nse]
-「おおおおおいっ！！　こっち、こっちだーーっ！」[pcms]
+[ns]Ayame[nse]
+"Heyyyyy!! This way, this way--!"[pcms]
 
 ;//♂：声のみ。立ち絵無し
 
 *3515|
 [fc]
-外から先輩の大声が聞えてきた。[pcms]
+We could hear senpai's loud voice from outside.[pcms]
 
 *3516|
 [fc]
-次いで走り去る足音がする。[r]
-僕たちは窓際に移動して、感染者の動向を探った。[pcms]
+Footsteps running away can be heard. We moved to the window to check[r]
+on the movements of the infected.[pcms]
 
 *3517|
 [fc]
-先輩が走り抜けて行った方に、よたよたと大勢の感染者が[r]
-歩いて行く。[pcms]
+Staggering along, a large group of infected people walked in the[r]
+direction where senpai had run through.[pcms]
 
 *3518|
 [fc]
-もう少し減ったら……もう少し……。[pcms]
+Just a little more... just a bit more...[pcms]
 
 *3519|
 [fc]
-[ns]誠[nse]
-「今だっ！！　行きますよっ！」[pcms]
+[ns]Makoto[nse]
+"Now's the time!! Let's go!"[pcms]
 
 *3520|
 [fc]
-僕は越智さんをおんぶして、後ろ手にバットを持ち、[r]
-美沙緒さんと共に一気に扉を開けて、駆け出した。[pcms]
+I carried Akari-san on my back, holding a bat behind me, and together[r]
+with Misao-san, we flung open the door and dashed out.[pcms]
 
 ;//★forest01a 森１・朝昼
 [bg storage="forest01c"][trans_c cross time=500]
@@ -323,31 +325,31 @@
 
 *3521|
 [fc]
-彩芽先輩のおかげで、ほとんど感染者に会うことなく、[r]
-僕たちは山を駆け下りていく。[pcms]
+Thanks to Ayame-senpai, we were able to run down the mountain without[r]
+encountering many infected people.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_sdf1_x"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=6 chbase="mob_sdf1_x"][ChrSetXY layer=6 x=512 y=0][trans_c cross time=150]
 
 *3522|
 [fc]
-[ns]防疫隊員[nse]
-「！！」[pcms]
+[ns]Epidemic Prevention Team Member[nse]
+"!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_sdf2_x"][ChrSetXY layer=5 x=200 y=0][trans_c cross time=150]
 [ChrSetEx layer=6 chbase="mob_sdf2_x"][ChrSetXY layer=6 x=512 y=0][trans_c cross time=150]
 
 *3523|
 [fc]
-山の半ばほどで、隊服を着た２人の男に出くわした。[r]
-その人達は、反射的に銃を構え、僕たちに狙いを付ける。[pcms]
+Halfway down the mountain, we came across two men in uniforms. They[r]
+reflexively aimed their guns at us.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3524|
 [fc]
-[ns]誠[nse]
-「うわっ！　撃たないでっ！　撃たないでっ！」[pcms]
+[ns]Makoto[nse]
+"Whoa! Don't shoot! Please don't shoot!"[pcms]
 
 ;//めも：背負われている
 
@@ -356,8 +358,8 @@
 *3525|
 [fc]
 [vo_aka s="akari_st0224"]
-[ns]茜梨[nse]
-「止めてぇっ！　撃たないでぇっ！」[pcms]
+[ns]Akari[nse]
+"Stop it! Don't shoot!"[pcms]
 
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -365,8 +367,8 @@
 *3526|
 [fc]
 [vo_mis s="misao_st0245"]
-[ns]美沙緒[nse]
-「やめなさいっ！　撃つなっ！」[pcms]
+[ns]Misao[nse]
+"Stop it! Don't fire!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mob_sdf2_x"][ChrSetXY layer=5 x=200 y=0]
@@ -374,36 +376,36 @@
 
 *3527|
 [fc]
-[ns]防疫隊員１[nse]
-「……非感染者か？」[pcms]
+[ns]Epidemic Prevention Team Member 1[nse]
+"...Are you uninfected?"[pcms]
 
 *3528|
 [fc]
-[ns]誠[nse]
-「そうです、立てこもってて、逃げてきたんです」[pcms]
+[ns]Makoto[nse]
+"Yes, we've been holed up and just escaped."[pcms]
 
 *3529|
 [fc]
-[ns]防疫隊員２[nse]
-「ゆっくり、こちらに降りてこい」[pcms]
+[ns]Epidemic Prevention Team Member 2[nse]
+"Slowly come down here."[pcms]
 
 *3530|
 [fc]
-銃を構えたまま、男達が命令する。[pcms]
+With their guns still aimed, the men ordered us.[pcms]
 
 *3531|
 [fc]
-[ns]誠[nse]
-「わかりました。彼女を降ろしてから、そちらに行きます。[r]
-　う、撃たないでくださいね」[pcms]
+[ns]Makoto[nse]
+"Understood. I'll put her down and then come over. Please, don't[r]
+shoot."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3532|
 [fc]
-僕は越智さんを背中から下ろし、持っていたバットを地面に[r]
-投げ捨てた。そして両手を挙げながら、男の元へ向かった。[pcms]
+I lowered Akari-san from my back, threw the bat I was holding onto the[r]
+ground, and raised my hands while walking towards the men.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mob_sdf2_x"][ChrSetXY layer=5 x=200 y=0]
@@ -411,8 +413,8 @@
 
 *3533|
 [fc]
-[ns]防疫隊員２[nse]
-「今、連絡を取る。感染していないとは限らないからな」[pcms]
+[ns]Epidemic Prevention Team Member 2[nse]
+"We're making contact now. It's not certain you're not infected."[pcms]
 
 
 [chara_int]
@@ -421,10 +423,10 @@
 *3534|
 [fc]
 [vo_mis s="misao_st0246"]
-[ns]美沙緒[nse]
-「感染の可能性はないわ。それよりも、問い合わせるなら、[r]
-　研究所にいたメインスタッフ、前田美沙緒の名前を確認しなさい。[r]
-　私がその本人よ。身分証も持っているわ」[pcms]
+[ns]Misao[nse]
+"There's no chance we're infected. More importantly, if you're making[r]
+inquiries, check the name Maeda Misao from the main staff at the lab.[r]
+I am that person. I have my ID too."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mob_sdf2_x"][ChrSetXY layer=5 x=200 y=0]
@@ -432,13 +434,13 @@
 
 *3535|
 [fc]
-[ns]防疫隊員２[nse]
-「……わかった。しかし、そのまま動くな」[pcms]
+[ns]Epidemic Prevention Team Member 2[nse]
+"...Understood. However, don't move from there."[pcms]
 
 *3536|
 [fc]
-そう言いながら男は無線で連絡を取っていた。[r]
-その間も、もう一人の男は、僕たちに狙いを定めたままだ。[pcms]
+While saying this, one of the men was communicating via radio. The[r]
+other man kept his gun trained on us the whole time.[pcms]
 
 ;//[chara_int][trans_c cross time=150]
 
@@ -450,33 +452,33 @@
 
 *3537|
 [fc]
-大した時間は経ってないのに、ひどく長く感じる。[r]
-じりじりとした思いが、僕たちを包んでいた。[pcms]
+It hadn't been much time, but it felt terribly long. A tense feeling[r]
+enveloped us.[pcms]
 
 *3538|
 [fc]
-[ns]防疫隊員２[nse]
-「確認は取れた。身分証の提示を」[pcms]
+[ns]Epidemic Prevention Team Member 2[nse]
+"Confirmation received. Show your ID."[pcms]
 
 *3539|
 [fc]
-男が差し出した手に、美沙緒さんは写真が付いている、[r]
-カードのようなものを手渡している。[pcms]
+Misao-san handed over something like a card with a photo to the[r]
+outstretched hand of the man.[pcms]
 
 *3540|
 [fc]
-男が写真と美沙緒さんを見比べ、納得したかのように頷き、[r]
-そのカードを返却した。[pcms]
+The man compared the photo with Misao-san, nodded as if satisfied, and[r]
+returned the card.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_sdf1_x"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=6 chbase="mob_sdf1_x"][ChrSetXY layer=6 x=512 y=0][trans_c cross time=150]
 
 *3541|
 [fc]
-[ns]防疫隊員２[nse]
-「失礼しました。しかしながら、わたしどもの命令に救助は[r]
-　含まれておりません。申し訳ありませんが、自力で[r]
-　安全の確保をお願いします」[pcms]
+[ns]Epidemic Prevention Team Member 2[nse]
+"We apologize for the inconvenience. However, our orders do not[r]
+include rescue operations. We're sorry, but please ensure your own[r]
+safety."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -484,52 +486,52 @@
 *3542|
 [fc]
 [vo_mis s="misao_st0247"]
-[ns]美沙緒[nse]
-「冗談も休み休み言いなさい。無線を貸しなさい。[r]
-　あなたの上官に直接、話をするから」[pcms]
+[ns]Misao[nse]
+"Don't joke around. Lend me your radio. I'll speak directly to your[r]
+superior officer."[pcms]
 
 *3543|
 [fc]
-[ns]防疫隊員２[nse]
-「しかし……」[pcms]
+[ns]Epidemic Prevention Team Member 2[nse]
+"But..."[pcms]
 
 *3544|
 [fc]
-[ns]防疫隊員１[nse]
-「それは、出来かねます」[pcms]
+[ns]Epidemic Prevention Team Member 1[nse]
+"We cannot comply with that request."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3545|
 [fc]
 [vo_mis s="misao_st0248"]
-[ns]美沙緒[nse]
-「たった今、自力でどうにかしろとか言ったわよね。[r]
-　ええ、自力でどうにかするわ。その為に無線を貸せと[r]
-　言っているのよ。そのくらいしなさい。さもないと……」[pcms]
+[ns]Misao[nse]
+"You just said to fend for ourselves, right? Yes, I'll take care of it[r]
+myself. That's why I'm asking for the radio. Do that much.[r]
+Otherwise..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3546|
 [fc]
 [vo_mis s="misao_st0249"]
-[ns]美沙緒[nse]
-「あとで……どんな事になっても、私は知らないわよ」[pcms]
+[ns]Misao[nse]
+"Later... whatever happens, I won't know anything about it."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mob_sdf1_x"][ChrSetXY layer=5 x=200 y=0][trans_c cross time=150]
 
 *3547|
 [fc]
-[ns]防疫隊員１[nse]
-「…………」[pcms]
+[ns]Epidemic Prevention Team Member 1[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="mob_sdf1_x"][ChrSetXY layer=4 x=512 y=0][trans_c cross time=150]
 
 *3548|
 [fc]
-[ns]防疫隊員２[nse]
-「…………」[pcms]
+[ns]Epidemic Prevention Team Member 2[nse]
+"..."[pcms]
 
 [chara_int]
 ;[ChrSetEx layer=4 chbase="mob_sdf1_x"][ChrSetXY layer=4 x=512 y=0]
@@ -537,21 +539,21 @@
 
 *3549|
 [fc]
-顔を見合わせた男達は、美沙緒さんの迫力に負けたのか、[r]
-不承不承ながらも、美沙緒さんに無線を渡そうとする。[pcms]
+The men looked at each other and, perhaps intimidated by Misao-san's[r]
+forcefulness, reluctantly began to hand over the radio to her.[pcms]
 
 *3550|
 [fc]
 [vo_mis s="misao_st0250"]
-[ns]美沙緒[nse]
-「上官を呼び出しなさい。話はそれからだわ」[pcms]
+[ns]Misao[nse]
+"Call your superior officer. We'll talk after that."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3551|
 [fc]
-僕と越智さんは、なりゆきを傍らで見守るしかなかった。[pcms]
+Akari-san and I could only watch the situation unfold from the side.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -566,18 +568,18 @@
 *3552|
 [fc]
 [vo_mis s="misao_st0251"]
-[ns]美沙緒[nse]
-「話はついたわ。拠点まであなた達が私達を護衛しなさい。[r]
-　信じられないなら、すぐに確認してもいいのよ」[pcms]
+[ns]Misao[nse]
+"We've come to an agreement. You guys will escort us to the base. If[r]
+you can't believe it, you can confirm it right now."[pcms]
 
 [ChrSetEx layer=5 chbase="mob_sdf1_x"][ChrSetXY layer=5 x=200 y=0][trans_c cross time=150]
 
 *3553|
 [fc]
-[ns]防疫隊員１[nse]
-「いえ……その必要はありません。[r]
-　わたしどもが先頭と[ruby text="しんがり"]殿をつとめますので、[r]
-　護衛と案内はお任せください。それでは、出発します……」[pcms]
+[ns]Epidemic Prevention Team Member 1[nse]
+"No... there's no need for that. We will lead and cover the rear(ruby[r]
+text="shingari"). Leave the escort and guidance to us. Now, let's[r]
+depart..."[pcms]
 
 ;mm 防疫隊員とサイズ合わないから女キャラと一緒には表示しない
 [chara_int]
@@ -587,34 +589,35 @@
 
 *3554|
 [fc]
-先頭の男のすぐ後ろに越智さん、そして美沙緒さんが続いた。[pcms]
+Akari-san followed right behind the leading man, with Misao-san[r]
+following her.[pcms]
 
 *3555|
 [fc]
-でも、僕は――[pcms]
+But me--[pcms]
 
 *3556|
 [fc]
-[ns]誠[nse]
-「すみませんっ。先に行ってくださいっ！[r]
-　僕はあとから追いかけますっ」[pcms]
+[ns]Makoto[nse]
+"I'm sorry. Please go ahead! I'll catch up later!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3557|
 [fc]
-言うか言わないの内に、僕はバットを拾い上げ駆け出した。[pcms]
+Without waiting for a response, I picked up the bat and started[r]
+running.[pcms]
 
 *3558|
 [fc]
 [vo_aka s="akari_st0225"]
-[ns]茜梨[nse]
-「先輩っ！　先輩ーーっ！！」[pcms]
+[ns]Akari[nse]
+"Senpai! Senpai--!!"[pcms]
 
 *3559|
 [fc]
-越智さんの泣きそうな声が追ってきた。[r]
-でも、僕は振り返らず、来た道を、ひたすら駆け戻った。[pcms]
+Akari-san's voice, almost crying, chased after me. But without looking[r]
+back, I just kept running back the way we came.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -626,31 +629,31 @@
 
 *3560|
 [fc]
-[ns]誠[nse]
-「んっ……はあっ……はっ……はっ」[pcms]
+[ns]Makoto[nse]
+"Nn...haah...hah...hah"[pcms]
 
 *3561|
 [fc]
-急がなくちゃ……彩芽先輩を、もう一人なんかにしない。[r]
-約束したんだ。一人なんかにしないってっ！[pcms]
+I have to hurry... I can't leave Satsuki-senpai alone. I promised. I[r]
+promised I wouldn't leave her alone![pcms]
 
 [ChrSetEx layer=2 chbase="na1_sk1_a"][ChrSetParts layer=2 chface="F1_na17"][ChrSetXY layer=2 x=300 y=0][trans_c cross time=150]
 
 *3562|
 [fc]
 [vo_nat s="natu_st0004"]
-[ns]夏都[nse]
-「あ゛れ～、ま゛ごとだあ、やあっと、みつけたあ」[pcms]
+[ns]Natsu[nse]
+"Ah~re~, it's playtime, yaa~tto, found you~"[pcms]
 
 *3563|
 [fc]
-[ns]誠[nse]
-「うわっっ！！」[pcms]
+[ns]Makoto[nse]
+"Uwah!!"[pcms]
 
 *3564|
 [fc]
-木の陰から、ゆらっと姉ちゃんが顔を出した。[r]
-赤い眼になってしまった、夏都姉ちゃんが……[pcms]
+From behind the trees, Natsu-onee-san's face appeared, swaying. Natsu-[r]
+onee-san with red eyes...[pcms]
 
 [ChrSetEx layer=3 chbase="so1_se_a"][ChrSetParts layer=3 chface="F1_so24a"][ChrSetXY layer=3 x=640 y=0][trans_c cross time=150]
 [ChrSetEx layer=4 chbase="ar1_ja1"][ChrSetParts layer=4 chface="F1_ar24"][ChrSetXY layer=4 x=50 y=0][trans_c cross time=150]
@@ -660,57 +663,56 @@
 
 *3565|
 [fc]
-その後ろには、さっき集会所の窓から見かけた面々が[r]
-ずらりと居並んでいた。[pcms]
+Behind her were all the people I had seen from the assembly hall[r]
+window lined up.[pcms]
 
 *3566|
 [fc]
-なんでみんな揃ってるんだよ。感染しても、仲良しのまんま[r]
-居続けるものなのか？[pcms]
+Why are they all together? Even after being infected, do they stay[r]
+friends and stick together?[pcms]
 
 *3567|
 [fc]
-[ns]宗一郎[nse]
-「おお、まこと～どこいってたんだあ？　なあ、はらへった。[r]
-　まこと、くってもいいかあ？」[pcms]
+[ns]Souichirou[nse]
+"Oh, Makoto~ where have you been? Hey, I'm hungry. Makoto, can I eat[r]
+you?"[pcms]
 
 *3568|
 [fc]
-[ns]誠[nse]
-「冗談じゃないっ！　お断りだっ！」[pcms]
+[ns]Makoto[nse]
+"You've got to be kidding! Absolutely not!"[pcms]
 
 *3569|
 [fc]
 [vo_nat s="natu_st0005"]
-[ns]夏都[nse]
-「まご～とぉ、さがしたん、だよぉ～。なあ、おれとえっち[r]
-　しよーぜぇ。なあ、ま゛ごとぉ、しよーよぉ、えっちぃ」[pcms]
+[ns]Natsu[nse]
+"Mako~to, I've been looking for you~. Hey, let's have sex. Come on,[r]
+Mako~to, let's do it, let's have sex."[pcms]
 
 *3570|
 [fc]
-[ns]誠[nse]
-「やめてくれっ！　やめてくれよっ！　姉ちゃんっ！」[pcms]
+[ns]Makoto[nse]
+"Stop it! Please stop! Onee-san!"[pcms]
 
 *3571|
 [fc]
-心が押しつぶされそうになる。[r]
-どうしてだよっ！　なんで、なんで僕の大切な仲間がっ！！[pcms]
+My heart felt like it was being crushed. Why? Why are my precious[r]
+friends...!![pcms]
 
 *3572|
 [fc]
-[ns]宗一郎[nse]
-「まこ～とぉ～、くわせろぉ～、あしでもうででもいいからあ」[pcms]
+[ns]Souichirou[nse]
+"Mako~to~, let me eat~ anything is fine, a leg or an arm."[pcms]
 
 *3573|
 [fc]
-[ns]誠[nse]
-「うっ、ううっ！　うわあああっ！！！」[pcms]
+[ns]Makoto[nse]
+"Ugh, ugh! Uwaaaah!!!"[pcms]
 
 *3574|
 [fc]
-僕は必死にバットを振り回した。[r]
-まだ僕には仲間がいる。大事なひとが。[r]
-その人を助けなくちゃいけないんだっ！[pcms]
+I swung the bat desperately. I still have friends. Important people. I[r]
+have to save them![pcms]
 
 [se buf=0 storage="seB010"]
 ;//打撃
@@ -730,53 +732,52 @@
 
 *3575|
 [fc]
-宗一郎の頭を横殴りにした。夏都姉ちゃんの横っ腹を殴る。[r]
-荒井は、思いっきり頭をぶんなぐってやった。[pcms]
+I struck Souichirou on the head from the side. I hit Natsu-onee-san in[r]
+the side of her body. Arai, I gave him a good whack on the head.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3576|
 [fc]
-[ns]誠[nse]
-「ごめんっ！　ごめんっっ！！！」[pcms]
+[ns]Makoto[nse]
+"I'm sorry! I'm so sorry!!!"[pcms]
 
 *3577|
 [fc]
-そして、僕は一気に駆け抜けたっ！！[pcms]
+And then, I ran through them all at once!![pcms]
 
 ;//★_集会所
 [bg storage="village03c"][trans_c cross time=500]
 
 *3578|
 [fc]
-先輩が飛び出した裏口から、更に奥の山を見る。[r]
-とろくさいのが、１人、奥に向かってのたりのたりと[r]
-歩いているのが見えた。[pcms]
+I looked towards the mountains beyond the back door that Satsuki-[r]
+senpai had burst out of. A sluggish figure was walking towards the[r]
+back.[pcms]
 
 ;//★forest02a 森２・朝昼
 [bg storage="forest02c"][trans_c cross time=500]
 
 *3579|
 [fc]
-遠巻きにして、ヤツラが向かう方を観察しながら[r]
-僕は気取られないように、進んだ。[pcms]
+Keeping my distance, I observed the direction they were heading while[r]
+making sure not to be noticed as I moved forward.[pcms]
 
 *3580|
 [fc]
-アイツらの行く先には、絶対彩芽先輩が居るはずだから。[pcms]
+Because Satsuki-senpai must be where they are heading.[pcms]
 
 ;//★bg07a 旧日本軍砲台跡（Ａ）・朝昼
 [bg storage="BG07c"][trans_c cross time=500]
 
 *3581|
 [fc]
-たどり着いたのは、砲台跡だった。[r]
-そこに、彩芽先輩が立っている。[pcms]
+I arrived at the remains of a battery. There stood Satsuki-senpai.[pcms]
 
 *3582|
 [fc]
-あの白っぽいコートを来た、[r]
-彩芽先輩の姉だと言う女性と向き合っていた。[pcms]
+The woman who claimed to be Satsuki-senpai's sister was wearing a pale[r]
+coat.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -796,67 +797,68 @@
 *3583|
 [fc]
 [vo_stk s="satuki_st0548"]
-[ns]彩芽[nse]
-「彩月っ！　彩月なんでしょっ！　ごめんなさいっ！[r]
-　ごめんなさいっ！　見捨てて、ごめんなさいっ！」[pcms]
+[ns]Ayame[nse]
+"Satsuki! It's Satsuki, right? I'm sorry! I'm so sorry! For leaving[r]
+you behind, I'm sorry!"[pcms]
 
 *3584|
 [fc]
 [vo_stk s="satuki_st0549"]
-[ns]彩芽[nse]
-「許してくれなんて言わないわ……でも……」[pcms]
+[ns]Ayame[nse]
+"I won't ask for forgiveness... but..."[pcms]
 
 *3585|
 [fc]
-泣き出しそうな表情の彩芽先輩は、そう言いながら美沙緒さんに[r]
-手渡された銃をゆっくりと上げ、構えた。[pcms]
+Satsuki-senpai's face looked like she was about to cry as she said[r]
+this while slowly raising and aiming the gun handed to her by Misao-[r]
+san.[pcms]
 
 *3586|
 [fc]
 [vo_stk s="satuki_st0550"]
-[ns]彩芽[nse]
-「行かせて欲しいの。一緒には行けないの。お願い。[r]
-　絶対に彩月の事は、忘れないから。だから、行かせて」[pcms]
+[ns]Ayame[nse]
+"Please let me go. I can't go with you. Please. I will never forget[r]
+about Satsuki. So please, let me go."[pcms]
 
 *3587|
 [fc]
 [vo_mob s="satuki_hon0008"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *3588|
 [fc]
-僕は必死に先輩を助けようと、ふたりが居る場所目指して[r]
-歩を進めていた。[pcms]
+I was desperately trying to help Satsuki-senpai, moving towards where[r]
+the two of them were.[pcms]
 
 *3589|
 [fc]
 [vo_stk s="satuki_st0551"]
-[ns]彩芽[nse]
-「彩月……彩月ぃ……お願い」[pcms]
+[ns]Ayame[nse]
+"Satsuki... Satsuki... please."[pcms]
 
 *3590|
 [fc]
 [vo_mob s="satuki_hon0009"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *3591|
 [fc]
-ふと、風が彩月さんの髪を掻き上げる。[pcms]
+Suddenly, the wind lifted Satsuki-san's hair.[pcms]
 
 [evcg storage="satuki_N004b"][trans_c cross time=500]
 
 *3592|
 [fc]
-その表情が僕からもよく見えた。[r]
-彩月さんは口許に優し気な笑みを浮かべている。[pcms]
+I could see her expression clearly even from where I was. Satsuki-san[r]
+had a gentle smile around her lips.[pcms]
 
 *3593|
 [fc]
 [vo_stk s="satuki_st0552"]
-[ns]彩芽[nse]
-「彩月……今度は、ちゃんとする……からっ！」[pcms]
+[ns]Ayame[nse]
+"Satsuki... this time, I'll do it right...!"[pcms]
 
 ;//■_銃声
 [se buf=1 storage="seC048"]
@@ -865,30 +867,30 @@
 
 *3594|
 [fc]
-僕が駆けつける前に、先輩の銃が火を噴いた。[r]
-白っぽいコートの女性は、ゆっくりと後ろに倒れていく。[pcms]
+Before I could reach her, Satsuki-senpai's gun fired. The woman in the[r]
+pale coat slowly fell backward.[pcms]
 
 *3595|
 [fc]
 [vo_stk s="satuki_st0553"]
-[ns]彩芽[nse]
-「さ、彩月っ！　彩月ぃっ！！」[pcms]
+[ns]Ayame[nse]
+"Sa, Satsuki! Satsuki!!"[pcms]
 
 *3596|
 [fc]
-彩芽先輩は、涙を流しながら、倒れた女性の元へと走った。[r]
-ようやくたどり着いた僕も、その後を追った。[pcms]
+Ayame-senpai, with tears streaming down her face, ran to the fallen[r]
+woman. I finally reached them and followed suit.[pcms]
 
 *3597|
 [fc]
 [vo_stk s="satuki_st0554"]
-[ns]彩芽[nse]
-「彩月……ごめんね。ごめんねぇ……」[pcms]
+[ns]Ayame[nse]
+"Satsuki... I'm sorry. I'm so sorry..."[pcms]
 
 *3598|
 [fc]
-そう言いながら彩芽先輩は、優しく彩月さんの瞼を下ろしていく。[r]
-その顔は、微笑んでいるように見えた。[pcms]
+While saying that, Ayame-senpai gently closed Satsuki-san's eyelids.[r]
+Her face seemed to be smiling.[pcms]
 
 [bg storage="BG07c"][trans_c cross time=500]
 
@@ -896,48 +898,48 @@
 
 *3599|
 [fc]
-[ns]誠[nse]
-「彩芽先輩……」[pcms]
+[ns]Makoto[nse]
+"Ayame-senpai..."[pcms]
 
 *3600|
 [fc]
 [vo_stk s="satuki_st0555"]
-[ns]彩芽[nse]
-「誠君っ！　来て……くれたんだ」[pcms]
+[ns]Ayame[nse]
+"Makoto-kun! You came... for me."[pcms]
 
 *3601|
 [fc]
-[ns]誠[nse]
-「ひとりにしないって、僕約束しましたから」[pcms]
+[ns]Makoto[nse]
+"I promised I wouldn't leave you alone."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st32"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3602|
 [fc]
 [vo_stk s="satuki_st0556"]
-[ns]彩芽[nse]
-「あ、ありがとっ、うっうっ……あのね、これが姉の彩月。[r]
-　本物の彩月なの……」[pcms]
+[ns]Ayame[nse]
+"Th-thank you, *sob*... This is my sister Satsuki. The real[r]
+Satsuki..."[pcms]
 
 *3603|
 [fc]
-断続的に吹き込む風が、彩月さんの髪をそよがせる。[pcms]
+Intermittent gusts of wind rustled Satsuki-san's hair.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3604|
 [fc]
-[ns]誠[nse]
-「傷が……」[pcms]
+[ns]Makoto[nse]
+"The wound..."[pcms]
 
 *3605|
 [fc]
-彩月さんの額には、たった今撃ち抜かれた傷の他に、額から[r]
-側頭部に伸びる傷跡があった。[pcms]
+On Satsuki-san's forehead, besides the wound that had just been[r]
+inflicted, there was a scar extending from her forehead to her temple.[pcms]
 
 *3606|
 [fc]
-僕は力なくうなだれている先輩をそっと抱きしめた。[pcms]
+I gently embraced Ayame-senpai, who was slumped over in despair.[pcms]
 
 ;//■イベントCG　彩月と抱擁
 [evcg storage="satuki_N003e"][trans_c cross time=500]
@@ -947,35 +949,35 @@
 *3607|
 [fc]
 [vo_stk s="satuki_st0557"]
-[ns]彩芽[nse]
-「…………４年前のは、外れてたのね……ごめんね。[r]
-　余計に苦しませたのね。　ごめ……ううっ……ごめんね、[r]
-　彩月ぃっ……ううっあっ、ごめんねっ、ごめんねっううっ」[pcms]
+[ns]Ayame[nse]
+"...The one from four years ago missed, didn't it... I'm sorry. I made[r]
+you suffer even more. I'm sorry... *sob*... I'm sorry, Satsuki...[r]
+*sob* ah, I'm sorry, I'm so sorry *sob*"[pcms]
 
 ;//■イベントCG　彩月と抱擁
 [evcg storage="satuki_N003f"][trans_c cross time=500]
 
 *3608|
 [fc]
-僕は泣きじゃくる先輩を抱きしめながら、立ち上がらせた。[pcms]
+I hugged the sobbing senpai and helped her to stand up.[pcms]
 
 *3609|
 [fc]
-[ns]誠[nse]
-「先輩、行きましょう。アイツら、そろそろここに[r]
-　たどり着きます。僕たちは生きなくちゃならないんです」[pcms]
+[ns]Makoto[nse]
+"Senpai, let's go. They'll be here soon. We have to live."[pcms]
 
 *3610|
 [fc]
 [vo_stk s="satuki_st0558"]
-[ns]彩芽[nse]
-「……ええ、そうね。わたしは、彩月の分も……ぐすっ」[pcms]
+[ns]Ayame[nse]
+"...Yes, that's right. I have to live for Satsuki's sake too...[r]
+*sniffle*"[pcms]
 
 *3611|
 [fc]
-[ns]誠[nse]
-「ええ、僕は姉ちゃんや、そーいちの分もプラスして……。[r]
-　さ、もう一踏ん張り、行きましょう」[pcms]
+[ns]Makoto[nse]
+"Yes, and I have to live for Onee-chan and Souichi's sake too... Come[r]
+on, one more push, let's go."[pcms]
 
 ;//★bg07a 旧日本軍砲台跡
 
@@ -985,19 +987,19 @@
 *3612|
 [fc]
 [vo_stk s="satuki_st0559"]
-[ns]彩芽[nse]
-「ええ、ありがとう誠君。来てくれて嬉しかった」[pcms]
+[ns]Ayame[nse]
+"Yes, thank you Makoto-kun. I was so happy you came for me."[pcms]
 
 *3613|
 [fc]
-[ns]誠[nse]
-「約束しましたから。さあ、行きますよ」[pcms]
+[ns]Makoto[nse]
+"I promised. Now, let's go."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3614|
 [fc]
-僕は先輩の手を取って、走り出した。[pcms]
+I took senpai's hand and we started running.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1010,130 +1012,128 @@
 *3615|
 [fc]
 [vo_aka s="akari_st0226"]
-[ns]茜梨[nse]
-「…………島が、どんどん小さくなるわ、叔母様」[pcms]
+[ns]Akari[nse]
+"...The island is getting smaller and smaller, Auntie."[pcms]
 
 *3616|
 [fc]
 [vo_mis s="misao_st0252"]
-[ns]美沙緒[nse]
-「ええ、そうね。よく見ておきましょう。次に戻ることが[r]
-　あるとしても、ずいぶん様変わりしてるはずだから……」[pcms]
+[ns]Misao[nse]
+"Yes, that's right. Let's take a good look. Even if we return, it will[r]
+have changed a lot..."[pcms]
 
 *3617|
 [fc]
 [vo_aka s="akari_st0227"]
-[ns]茜梨[nse]
-「……はい」[pcms]
+[ns]Akari[nse]
+"...Yes."[pcms]
 
 *3618|
 [fc]
 [vo_mis s="misao_st0253"]
-[ns]美沙緒[nse]
-「間に合って良かったわ……」[pcms]
+[ns]Misao[nse]
+"Thank goodness we made it in time..."[pcms]
 
 *3619|
 [fc]
-そう言いながら美沙緒さんが僕たちを見た。[pcms]
+While saying that, Misao-san looked at us.[pcms]
 
 *3620|
 [fc]
-次の人員を輸送するため戻るヘリに、[r]
-僕たちは乗せて貰っている。[pcms]
+We were on the helicopter returning to transport the next group of[r]
+people.[pcms]
 
 *3621|
 [fc]
-僕と彩芽先輩は、飛び立つ寸前のヘリに[r]
-ギリギリのところで間に合っていた。[pcms]
+Ayame-senpai and I had barely made it onto the helicopter just before[r]
+it took off.[pcms]
 
 *3622|
 [fc]
-美沙緒さんが僕たちの事を伝えておいてくれたので、[r]
-銃を構えられることもなく、[r]
-むしろ助けられながら乗せられた格好だ。[pcms]
+Thanks to Misao-san informing them about us, we weren't greeted with[r]
+guns but rather helped aboard.[pcms]
 
 *3623|
 [fc]
-[ns]誠[nse]
-「ありがとうございました。美沙緒さんのおかげです」[pcms]
+[ns]Makoto[nse]
+"Thank you very much. It's all thanks to you, Misao-san."[pcms]
 
 *3624|
 [fc]
 [vo_stk s="satuki_st0560"]
-[ns]彩芽[nse]
-「ありがとうございました」[pcms]
+[ns]Ayame[nse]
+"Thank you very much."[pcms]
 
 *3625|
 [fc]
 [vo_mis s="misao_st0254"]
-[ns]美沙緒[nse]
-「南さんには、こちらがお礼を言わなくちゃならないわ。[r]
-　あなたのおかげで、私も茜梨も生き延びられた。[r]
-　中澤君にはハラハラさせられたけど、でも、良かったわ」[pcms]
+[ns]Misao[nse]
+"I should be thanking you, Minami-san. Thanks to you, both Akari and I[r]
+were able to survive. Nakazawa-kun had us worried, but in the end, it[r]
+turned out well."[pcms]
 
 *3626|
 [fc]
 [vo_aka s="akari_st0228"]
-[ns]茜梨[nse]
-「そうですよ……心配したんですからね、中澤先輩。[r]
-　南……彩芽先輩も、無事に間に合って良かったです」[pcms]
+[ns]Akari[nse]
+"That's right... You had us worried, Nakazawa-senpai. And Minami...[r]
+Ayame-senpai, I'm glad you made it safely."[pcms]
 
 *3627|
 [fc]
 [vo_stk s="satuki_st0561"]
-[ns]彩芽[nse]
-「ええ、ありがとう」[pcms]
+[ns]Ayame[nse]
+"Yes, thank you."[pcms]
 
 *3628|
 [fc]
-僕たちはお互いの無事を確認し合い、安堵のため息を漏らした。[pcms]
+We confirmed each other's safety and let out sighs of relief.[pcms]
 
 *3629|
 [fc]
-僕は先輩の手を握りしめ、席へと促した。[r]
-肩を寄せ合い、先輩と並んで座る。[pcms]
+I gripped senpai's hand tightly and urged her to take a seat. We sat[r]
+down side by side, leaning on each other.[pcms]
 
 *3630|
 [fc]
-[ns]誠[nse]
-「さようなら……姉ちゃん、そーいち、みんな……」[pcms]
+[ns]Makoto[nse]
+"Goodbye... Onee-chan, Souichi, everyone..."[pcms]
 
 *3631|
 [fc]
-僕は小声で仲間であり親しい間柄だった人間に別れを告げた。[r]
-もうずいぶんと島は小さくなってしまったから、届かないかも[r]
-しれないけど……。[pcms]
+I whispered a farewell to my comrades and close friends. The island[r]
+had already become quite small; my words might not reach them...[pcms]
 
 *3632|
 [fc]
 [vo_stk s="satuki_st0562"]
-[ns]彩芽[nse]
-「さようなら……」[pcms]
+[ns]Ayame[nse]
+"Goodbye..."[pcms]
 
 *3633|
 [fc]
-彩芽先輩も小声で呟いて、頭をことりと僕の肩に預けてきた。[r]
-確かな人の温もりが、僕の肩越しに伝わってきていた。[pcms]
+Ayame-senpai also murmured softly and rested her head on my shoulder.[r]
+The certain warmth of a person was transmitted over my shoulder.[pcms]
 
 *3634|
 [fc]
-また僕は、それまでの暮らしを、ぶつんと切られ奪われた。[r]
-でも、今度は憶えている。絶対忘れない。[pcms]
+Once again, my life up until now had been abruptly cut off and taken[r]
+away. But this time, I remember. I will never forget.[pcms]
 
 *3635|
 [fc]
-痛みを伴っているけれど、その痛みごと憶え続ける。[r]
-絶望もしない。決してしない。[pcms]
+Even though it comes with pain, I will continue to remember that pain.[r]
+I won't despair. Never.[pcms]
 
 *3636|
 [fc]
-僕には生きるための意義が出来た。[r]
-命が続く限り、共に歩んでくれる人が居る限り、[r]
-思い出が生き続ける限り、僕は前を見て歩き続ける。[pcms]
+I have found a reason to live. As long as my life continues, as long[r]
+as there are people who will walk with me, as long as the memories[r]
+live on, I will keep looking forward and walking.[pcms]
 
 *3637|
 [fc]
-語り継ぐ為に――[pcms]
+For the sake of passing it on--[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -1187,5 +1187,5 @@
 [eval exp="sf.g_end_satukiB = 1"]
 ;;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 

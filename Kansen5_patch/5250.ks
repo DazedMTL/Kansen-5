@@ -24,76 +24,74 @@
 *3083|
 [fc]
 [vo_nat s="natu0502"]
-[ns]夏都[nse]
-「足下に気をつけろよ！」[pcms]
+[ns]Natsu[nse]
+"Watch your step!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3084|
 [fc]
-僕は姉ちゃんの背中に守られながら、[r]
-必死に込み上げてくる衝動と戦っていた。[pcms]
+I was desperately fighting the urge that was welling up inside me,[r]
+protected by my sister's back.[pcms]
 
 *3085|
 [fc]
-みんなも暗い森の道を必死に走っている。[r]
-きっとかすり傷でいっぱいになっているはずだ……。[pcms]
+Everyone was also desperately running through the dark forest path.[r]
+They must be covered in scratches...[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3086|
 [fc]
 [vo_aka s="akari0832"]
-[ns]茜梨[nse]
-「森には感染者がいません、落ち着いて走りましょう」[pcms]
+[ns]Akari[nse]
+"There are no infected in the forest, let's run calmly."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so26a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3087|
 [fc]
-[ns]宗一郎[nse]
-「お、落ち着いて、はひぃ、走る、んぶうっ、無理……」[pcms]
+[ns]Souichirou[nse]
+"O-Okay, calm down, hii, running, ngh, impossible..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se5_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3088|
 [fc]
 [vo_stk s="satuki0361"]
-[ns]彩月[nse]
-「お姉さんの通った道を着いていくのよ」[pcms]
+[ns]Satsuki[nse]
+"Follow the path your Onee-san took."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3089|
 [fc]
 [vo_tay s="taja0259"]
-[ns]ターヤ[nse]
-「わたしは平気」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I am fine."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3090|
 [fc]
-タオルを噛みしめる感覚が遠くなってくる。[r]
-もう、全てを放り投げてしまいたい。[pcms]
+The sensation of biting down on a towel was becoming distant. I just[r]
+wanted to throw everything away.[pcms]
 
 *3091|
 [fc]
-みんなとセックスして、たらふく食べて、[r]
-死んだように眠りたい……。[pcms]
+Have sex with everyone, eat my fill, and sleep like I'm dead...[pcms]
 
 *3092|
 [fc]
-でも、それは駄目だ。[r]
-みんなが死んでしまう……。[pcms]
+But that's not allowed. Everyone would die...[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3093|
 [fc]
 [vo_aka s="akari0833"]
-[ns]茜梨[nse]
-「見えてきました！　そこです！」[pcms]
+[ns]Akari[nse]
+"I can see it! It's right there!"[pcms]
 
 ;//★bg19f 越智家 正門・夜 閉じ
 [bg storage="BG19f"][trans_c cross time=500]
@@ -104,18 +102,18 @@
 *3094|
 [fc]
 [vo_nat s="natu0503"]
-[ns]夏都[nse]
-「くそっ……」[pcms]
+[ns]Natsu[nse]
+"Damn it..."[pcms]
 
 *3095|
 [fc]
-越智さんの実家の前に出た姉ちゃんは、[r]
-そこに集まっている感染者の数に舌打ちを漏らしていた。[pcms]
+In front of Ochi-san's family home, my sister let out a click of her[r]
+tongue at the number of infected gathered there.[pcms]
 
 *3096|
 [fc]
-僕を背負っていたら戦えない。[r]
-まだ気が付かれていないけれど、時間の問題だ。[pcms]
+I can't fight while carrying me on her back. They haven't noticed us[r]
+yet, but it's only a matter of time.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -123,8 +121,8 @@
 *3097|
 [fc]
 [vo_aka s="akari0834"]
-[ns]茜梨[nse]
-「任せてください！」[pcms]
+[ns]Akari[nse]
+"Leave it to me!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=0]
 [ChrSetEx layer=3 chbase="mob_kan2_x"][ChrSetXY layer=3 x=-90 y=0]
@@ -132,21 +130,21 @@
 
 *3098|
 [fc]
-そう言いながら、僕たちを残して越智さんが[r]
-感染者の群に飛び込んでいく。[pcms]
+As she said that, Ochi-san left us behind and plunged into the group[r]
+of infected.[pcms]
 
 *3099|
 [fc]
 [vo_aka s="akari0835"]
-[ns]茜梨[nse]
-「はぁぁぁぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Haaaaaaah!"[pcms]
 
 ;//m:絵が無いから声だけね
 
 *3100|
 [fc]
-後ろから突然襲いかかってきた越智さんに、[r]
-感染者たちは反応できていなかった。[pcms]
+The infected were unable to react to Ochi-san who suddenly attacked[r]
+from behind.[pcms]
 
 [se buf=0 storage="seB027"]
 ;//鎌で切りつける音
@@ -166,43 +164,42 @@
 
 *3101|
 [fc]
-右に左に振るわれる薙刀で、[r]
-立っている感染者がどんどん地面に打ち倒されていく。[pcms]
+With her naginata swinging left and right, the standing infected were[r]
+rapidly knocked down to the ground.[pcms]
 
 *3102|
 [fc]
-そして、一度地面に転んでしまうと、[r]
-薙刀で強打された足がもつれるのか、[r]
-中々立ち上がってこられない。[pcms]
+And once they fell to the ground, their legs tangled from the strong[r]
+blow of the naginata, making it hard for them to get back up.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so02a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3103|
 [fc]
-[ns]宗一郎[nse]
-「いいですぞ、いいですぞ……」[pcms]
+[ns]Souichirou[nse]
+"This is good, this is good..."[pcms]
 
 *3104|
 [fc]
-そして、越智さんは薙刀を振るいながら感染者を打ち倒し、[r]
-なんとか正門前までたどり着いていた。[pcms]
+And Ochi-san, while swinging her naginata and knocking down the[r]
+infected, somehow managed to reach the front gate.[pcms]
 
 *3105|
 [fc]
-焦ったように、インターホンを何度も鳴らしていく。[pcms]
+In a panic, she repeatedly rang the intercom.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3106|
 [fc]
 [vo_aka s="akari0836"]
-[ns]茜梨[nse]
-「茜梨です！　今到着しました！」[pcms]
+[ns]Akari[nse]
+"It's Akari! I've just arrived!"[pcms]
 
 *3107|
 [fc]
-越智さんが、インターホンに向かって必死に叫ぶ。[r]
-自分の為じゃない、他人の為に……。[pcms]
+Ochi-san was desperately shouting into the intercom. Not for herself,[r]
+but for others...[pcms]
 
 [se buf=0 storage="seA023"]
 ;//錆びた鉄扉がきしんで開く音
@@ -212,48 +209,47 @@
 
 *3108|
 [fc]
-すると、まるでそのときを待ち構えていたみたいに、[r]
-門が開き始めた。[pcms]
+Then, as if it had been waiting for that moment, the gate began to[r]
+open.[pcms]
 
 *3109|
 [fc]
-姉ちゃんがみんなに向かって檄を飛ばす。[pcms]
+My sister shouted commands to everyone.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na05t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3110|
 [fc]
 [vo_nat s="natu0504"]
-[ns]夏都[nse]
-「突っ込めっ！　隙間を縫って走り込むんだっ！」[pcms]
+[ns]Natsu[nse]
+"Charge! Run through the gap!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so19a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3111|
 [fc]
-[ns]宗一郎[nse]
-「くおおおおおおっ！　これで最後だぁぁぁっ！」[pcms]
+[ns]Souichirou[nse]
+"Kuoooooh! This is the end!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3112|
 [fc]
-息を切らしていたみんなが、少しだけ開いた正門の隙間から[r]
-なだれ込んでいく。[pcms]
+Everyone, out of breath, poured through the slightly opened main gate.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3113|
 [fc]
-南先輩が最後まで残ってしんがりを努めていた。[pcms]
+Senior Minami stayed until the end to cover our rear.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3114|
 [fc]
 [vo_aka s="akari0837"]
-[ns]茜梨[nse]
-「全員入りました！」[pcms]
+[ns]Akari[nse]
+"Everyone is in!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -271,12 +267,12 @@
 
 *3115|
 [fc]
-越智さんがそう叫ぶと、[r]
-門が感染者の侵入を拒むように閉じていく。[pcms]
+As Ochi-san shouted that, the gate closed as if to deny entry to the[r]
+infected.[pcms]
 
 *3116|
 [fc]
-全員……助かったんだ……。[pcms]
+Everyone... we're saved...[pcms]
 
 ;//★bg13d 越智本家 外観＆前庭・夜 消灯
 [bg storage="BG13d"][trans_c cross time=500]
@@ -284,63 +280,62 @@
 
 *3117|
 [fc]
-[ns]宗一郎[nse]
-「も、もう、走る、無理……」[pcms]
+[ns]Souichirou[nse]
+"I can't... run anymore..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta13"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3118|
 [fc]
 [vo_tay s="taja0260"]
-[ns]ターヤ[nse]
-「ふうっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Phew..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3119|
 [fc]
 [vo_stk s="satuki0362"]
-[ns]彩月[nse]
-「はぁっ、はぁっ、はぁっ……」[pcms]
+[ns]Satsuki[nse]
+"Haah, haah, haah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3120|
 [fc]
-僕は姉ちゃんの背中から下ろされると、地面に座り込む。[r]
-身体に力が入らない。[pcms]
+I was let down from my sister's back and sat down on the ground. I[r]
+couldn't muster any strength in my body.[pcms]
 
 [ChrSetEx layer=5 chbase="ge1_ki"][ChrSetParts layer=5 chface="F1_ge01"][ChrSetXY layer=5 x=320 y=0][pimage storage="ge1_ki_bl" layer=5 page=back visible=true dx=0 dy=0 opacity=230][trans_c cross time=150]
 
 *3121|
 [fc]
-気が付くと、そんな僕を見下ろしている[r]
-誰かの存在に気が付いた。[pcms]
+Before I knew it, I realized there was someone looking down at me.[pcms]
 
 *3122|
 [fc]
-美沙緒さんが来てくれたんだろうか……。[pcms]
+I wonder if Misao-san has come for me...[pcms]
 
 ;mm 加算ここまで
 [ChrSetEx layer=5 chbase="ge1_ki"][ChrSetParts layer=5 chface="F1_ge01"][ChrSetXY layer=5 x=320 y=0][trans_c cross time=1000]
 
 *3123|
 [fc]
-しかし、その姿は美沙緒さんに似てもにつかない、[r]
-老人の姿だった。[pcms]
+However, the figure was not even remotely similar to Misao-san; it was[r]
+the figure of an old man.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3124|
 [fc]
 [vo_aka s="akari0838"]
-[ns]茜梨[nse]
-「お爺さま……っ！」[pcms]
+[ns]Akari[nse]
+"Grandfather...!"[pcms]
 
 *3125|
 [fc]
-僕は[ruby text="もうろう"][ch text="朦朧"]とする意識の中、[r]
-越智さんの驚いた声を聞きながら、眠りに落ちていった。[pcms]
+As my consciousness grew hazy, I heard Ochi-san's surprised voice as I[r]
+fell into sleep.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

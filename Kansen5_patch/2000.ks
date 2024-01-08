@@ -37,9 +37,9 @@
 
 *1|
 [fc]
-丁重にも僕たちは、リムジンで帰路につかせてもらうことになった。[r]
-越智さんはにこやかに見送ってくれたけれど、[r]
-いよいよもって、お嬢様なんだなあと実感させられてしまう。[pcms]
+We were courteously offered a ride back in a limousine. Although Ochi-[r]
+san saw us off with a smile, it really drove home the fact that she[r]
+truly is a lady of high standing.[pcms]
 
 [bgm storage="BGM05"]
 ;//♪bgm05　日常シーン：昼２
@@ -49,145 +49,146 @@
 
 *2|
 [fc]
-[ns]宗一郎[nse]
-「……いやあ、実に素晴らしい料理の数々でしたな。[r]
-　特に、あのブリッブリのエビ、そして噛む度に旨味が口の中に[r]
-　染み出すあの鯛！！」[pcms]
+[ns]Souichirou[nse]
+"...Ah, the array of splendid dishes was truly magnificent. Especially[r]
+those plump shrimp, and the sea bream that released its deliciousness[r]
+with every bite!"[pcms]
 
 [evcg storage="car_2000c"][trans_c cross time=150]
 
 *3|
 [fc]
-[ns]宗一郎[nse]
-「いやはや、あれほどのエビと鯛には、滅多にお目に[r]
-　掛かれませんよ。さすがは地元の名士だけのことは[r]
-　ありましたな。そう思いませんか？　兄者？」[pcms]
+[ns]Souichirou[nse]
+"Indeed, it's rare to come across shrimp and sea bream of such[r]
+quality. It's clear why she's a local dignitary. Don't you agree,[r]
+brother?"[pcms]
 
 *4|
 [fc]
-[ns]誠[nse]
-「うん……そうだね、確かに美味しかったよな」[pcms]
+[ns]Makoto[nse]
+"Yeah... that's right, they were certainly delicious."[pcms]
 
 [evcg storage="car_2000d"][trans_c cross time=150]
 
 *5|
 [fc]
-[ns]宗一郎[nse]
-「こらこら、そんな簡単な言葉で済ませてどうするんです？[r]
-　仮にも新聞部員たるもの、もっとこう、的確で人心を[r]
-　煽る表現をですな……」[pcms]
+[ns]Souichirou[nse]
+"Come now, how can you be satisfied with such a simple response? As[r]
+members of the newspaper club, we should be using more precise and[r]
+stirring expressions..."[pcms]
 
 *6|
 [fc]
-[ns]誠[nse]
-「ああ……うん……」[pcms]
+[ns]Makoto[nse]
+"Ah... yeah..."[pcms]
 
 [evcg storage="car_2000f"][trans_c cross time=150]
 
 *7|
 [fc]
-確かにそーいちがご満悦になるほど、美味しかった。[r]
-今まで食べてきたものが、いったい何だったのか……、[r]
-って思えるぐらい、美味しかったと思う。[pcms]
+Indeed, the meal was so delightful that even Souichirou was thoroughly[r]
+pleased. It made me wonder what on earth I had been eating up until[r]
+now...[pcms]
 
 [evcg storage="car_2000f"][trans_c cross time=150]
 
 *8|
 [fc]
-でも、僕は、押し黙ったままの南先輩に気が向いていて、[r]
-そーいちには、ありきたりで適当な返事しかしていない。[pcms]
+But my attention was drawn to the silent Satsuki-senpai, and I only[r]
+gave Souichirou perfunctory responses.[pcms]
 
 *9|
 [fc]
-お屋敷を辞去するときの南先輩は、きちんとした対応を[r]
-していたけれど、その表情は硬かった。[pcms]
+When we left the mansion, Satsuki-senpai had acted properly, but her[r]
+expression was stiff.[pcms]
 
 *10|
 [fc]
-その硬い表情のまま車に乗り込み、[r]
-押し黙ってずっと俯いている。[pcms]
+She got into the car with that stiff expression and remained silent,[r]
+looking down the whole time.[pcms]
 
 *11|
 [fc]
-そーいちとは対照的なその様子が気になった僕は、[r]
-南先輩を凝視していた。[pcms]
+Contrary to Souichirou's demeanor, I was concerned about Satsuki-[r]
+senpai's state and found myself staring at her.[pcms]
 
 [evcg storage="car_2000g"][trans_c cross time=150]
 
 *12|
 [fc]
 [vo_stk s="satuki_st0001"]
-[ns]彩月[nse]
-「……？」[pcms]
+[ns]Satsuki[nse]
+"...?"[pcms]
 
 *13|
 [fc]
-ふっと、南先輩が顔を上げ、僕を見つめ返してくる。[pcms]
+Suddenly, Satsuki-senpai lifted her face and met my gaze.[pcms]
 
 *14|
 [fc]
-しまった……あからさまに見つめすぎたかも知れない。[pcms]
+Damn... I might have stared too obviously.[pcms]
 
 *15|
 [fc]
-目を逸らそうと思ったのだけど、南先輩の眼差しに、[r]
-僕は目を逸らすことが出来なかった。[pcms]
+I thought about looking away, but I couldn't divert my eyes from[r]
+Satsuki-senpai's gaze.[pcms]
 
 *16|
 [fc]
-何かを問いかけるような……苦しげで……哀しげな……[r]
-そんな南先輩の眼差し……。[pcms]
+Her eyes seemed to be asking something... they were pained... and[r]
+sorrowful...[pcms]
 
 [evcg storage="car_2000b"][trans_c cross time=150]
 
 *17|
 [fc]
-[ns]宗一郎[nse]
-「……舌鼓が何度打たれたことか。あのムチッとしていて、[r]
-　それでいて……」[pcms]
+[ns]Souichirou[nse]
+"...I can't count how many times my taste buds were delighted. That[r]
+firm yet..."[pcms]
 
 [evcg storage="car_2000h"][trans_c cross time=1000]
 
 *18|
 [fc]
-そーいちのひとり解説が続く中、僕と南先輩は[r]
-複雑な視線を絡め続けていた。[pcms]
+While Souichirou continued his monologue, Satsuki-senpai and I kept[r]
+exchanging complex glances.[pcms]
 
 *19|
 [fc]
-ふいに僕と見つめ合っていた南先輩の口角がきゅっと上がり、[r]
-不安げだった瞳に、奥底から炎を思わせる力強さが宿る。[pcms]
+Suddenly, the corners of Satsuki-senpai's mouth lifted in a tight[r]
+smile, and a strong flame-like intensity appeared in her previously[r]
+anxious eyes.[pcms]
 
 *20|
 [fc]
-おもむろに携帯を取り出すと、何かを打ち込み、[r]
-僕の目の前にその携帯の画面を見せてきた。[pcms]
+She casually took out her phone, typed something, and then showed me[r]
+the screen.[pcms]
 
 *21|
 [fc]
-――この後、少し付き合って――[pcms]
+--Would you accompany me for a bit after this--[pcms]
 
 *22|
 [fc]
-画面には、そんな文章が書かれてあった。[pcms]
+The screen displayed such a message.[pcms]
 
 *23|
 [fc]
-僕はまた南先輩を見つめ返す。その瞳には有無を言わせない力強さが[r]
-宿り、僕はこくりと頷くしかなかった。[pcms]
+I looked back at Satsuki-senpai. Her eyes held an undeniable strength,[r]
+and I could only nod in response.[pcms]
 
 [evcg storage="car_2000b"][trans_c cross time=150]
 
 *24|
 [fc]
-[ns]宗一郎[nse]
-「……舌の上でとろけ、喉の奥でさえ味わいを感じる……」[pcms]
+[ns]Souichirou[nse]
+"...melting on the tongue, even the back of the throat savors the[r]
+flavor..."[pcms]
 
 *25|
 [fc]
-恍惚にも似た表情をしたそーいちのひとり解説は、[r]
-延々と続いていて、僕と南先輩のやりとりには、[r]
-ちっとも気付いていない。[pcms]
+Souichirou's rapturous monologue continued endlessly, completely[r]
+oblivious to the exchange between me and Satsuki-senpai.[pcms]
 
 ;//---------------------------------------------
 ;//アスペクトスイッチ表示ここまで
@@ -199,135 +200,134 @@
 *26|
 [fc]
 [vo_stk s="satuki_st0002"]
-[ns]彩月[nse]
-「あ……運転手さん、すみませんがここで止めて下さい」[pcms]
+[ns]Satsuki[nse]
+"Ah... Driver, please stop here."[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *27|
 [fc]
-運転手は無言で頷くと、静かに車を止める。[r]
-外を見ると、どうやらキャンプ場の入り口らしい。[pcms]
+The driver nodded silently and brought the car to a quiet stop.[r]
+Looking outside, it seemed to be the entrance to a campsite.[pcms]
 
 ;//非表示
 
 *27a|
 [fc]
-[ns]宗一郎[nse]
-「おや、どうしたのです？　ここで降りられるのですか？」[pcms]
+[ns]Souichirou[nse]
+"Oh? What's the matter? Are you getting off here?"[pcms]
 
 *28|
 [fc]
 [vo_stk s="satuki_st0003"]
-[ns]彩月[nse]
-「ええ。もともと今夜は夜空や夜景撮影するつもりで、[r]
-　キャンプ場に泊まる予定でいたの。[r]
-　もうね、テント張って来ちゃってあるのよ」[pcms]
+[ns]Satsuki[nse]
+"Yes. I originally planned to take pictures of the night sky and[r]
+cityscape tonight, so I was going to stay at the campsite. I've[r]
+already set up my tent there."[pcms]
 
 [se buf=0 storage="seA030"]
 ;//車ドアあけ
 
 *29|
 [fc]
-[ns]宗一郎[nse]
-「そうでしたか……って、え？」[pcms]
+[ns]Souichirou[nse]
+"Is that so... wait, what?"[pcms]
 
 *30|
 [fc]
-南先輩は、僕の腕を取って一緒に降りるように促す。[r]
-僕もあらがわずに、シートから腰を上げた。[pcms]
+Satsuki-senpai took my arm and urged me to get off with her. Without[r]
+resisting, I lifted myself from the seat.[pcms]
 
 *31|
 [fc]
-[ns]宗一郎[nse]
-「兄者？　なぜきみまで降りようと？」[pcms]
+[ns]Souichirou[nse]
+"Brother? Why are you getting off too?"[pcms]
 
 *32|
 [fc]
-[ns]誠[nse]
-「いや、その……まあ」[pcms]
+[ns]Makoto[nse]
+"No, it's just... well"[pcms]
 
 *33|
 [fc]
 [vo_stk s="satuki_st0004"]
-[ns]彩月[nse]
-「ちょっと、中澤君借りるわね」[pcms]
+[ns]Satsuki[nse]
+"I'm borrowing Nakazawa-kun for a bit."[pcms]
 
 *34|
 [fc]
-[ns]誠[nse]
-「そういうわけで……じゃあ、また後でな」[pcms]
+[ns]Makoto[nse]
+"So that's how it is... see you later then."[pcms]
 
 *35|
 [fc]
-[ns]宗一郎[nse]
-「いやいや、誠が降りるのなら、ぜひ拙者も……」[pcms]
+[ns]Souichirou[nse]
+"No, no, if Makoto is getting off, then I must insist on joining..."[pcms]
 
 [bg storage="BG03e"][trans_c cross time=500]
 
 *36|
 [fc]
-そう言いながら同じドアから降りようとするそーいちの目の前で、[r]
-にっこり笑いながら、南先輩はドアを閉め、更にそのドアを[r]
-押さえつけつつ、声を上げる。[pcms]
+As Souichirou tried to follow through the same door, Satsuki-senpai[r]
+closed it with a smile and held it shut while raising her voice.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *37|
 [fc]
 [vo_stk s="satuki_st0005"]
-[ns]彩月[nse]
-「運転手さん、この子はホテルまで送って下さい」[pcms]
+[ns]Satsuki[nse]
+"Driver, please take this young man to the hotel."[pcms]
 
 [se buf=0 storage="seC010"]
 ;//車走り去り
 
 *38|
 [fc]
-すぐに運転手はうなずき、ウインドウにほっぺたの肉を[r]
-むぎゅっと押しつけたデブ君を乗せて、[r]
-車は走り去っていった。[pcms]
+The driver nodded immediately, and with 'Chubby-kun' pressing his[r]
+cheek against the window, the car drove off.[pcms]
 
 *39|
 [fc]
-反対のドアからなら降りられたはずなのに。[r]
-そーいちは、今の状況にちょっと混乱を来しているようだ。[pcms]
+Even though he could have gotten off from the other door, Souichirou[r]
+seemed a bit confused by the situation.[pcms]
 
 *40|
 [fc]
-[ns]誠[nse]
-「ははは……すまんな、そーいち」[pcms]
+[ns]Makoto[nse]
+"Haha... sorry about that, Sou-ichi."[pcms]
 
 *41|
 [fc]
-僕は、リアのウインドウに貼り付き直したそーいちに、[r]
-手を振り、その姿が小さくなるのを南先輩と並んで見送った。[pcms]
+I waved back at Sou-ichi, who had plastered himself against the rear[r]
+window, watching his figure shrink in the distance alongside Satsuki-[r]
+senpai.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *42|
 [fc]
 [vo_stk s="satuki_st0006"]
-[ns]彩月[nse]
-「さて、と……あそこのコンビニで飲み物仕込もうっか」[pcms]
+[ns]Satsuki[nse]
+"Well then... shall we stock up on drinks at that convenience store[r]
+over there?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *43|
 [fc]
-そう言いながら南先輩は、キャンプ場入り口にあるコンビニへと、[r]
-歩を進めていた。[pcms]
+With that, Satsuki-senpai started walking towards the convenience[r]
+store located at the entrance of the campsite.[pcms]
 
 *44|
 [fc]
-どうして僕を誘ったのか、直ぐにでも訊きたかったが、[r]
-取り敢えず南先輩のあとを追う。[pcms]
+I wanted to ask her right away why she invited me, but for now, I just[r]
+followed behind Satsuki-senpai.[pcms]
 
 *45|
 [fc]
-マウンテンヂュー……ここにはあるかなあ？[r]
-そんな事を思いながら……。[pcms]
+I wondered if they had Mountain Dew here... as I thought about it.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>

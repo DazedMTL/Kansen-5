@@ -29,13 +29,13 @@
 
 *1364|
 [fc]
-誠が出て行ったあと、しばらくベッドで幸せを噛みしめながら[r]
-オレはのてのてしていた。[pcms]
+After Makoto left, I spent some time on the bed, savoring the[r]
+happiness and feeling content.[pcms]
 
 *1365|
 [fc]
-でも、そろそろ仕度をしないとやばい時間になって、[r]
-シャワーを浴びようとバスルームに入る。[pcms]
+But it's getting to be the time when I really need to start getting[r]
+ready, so I head to the bathroom to take a shower.[pcms]
 
 ;//〆：間
 ;//#_ブラックアウト
@@ -54,22 +54,23 @@
 *1366|
 [fc]
 [vo_nat s="natu_nt0097"]
-[ns]夏都[nse]
-「う～ん。ま、こんなもんかな……」[pcms]
+[ns]Natsu[nse]
+"Hmm. Well, this should be fine..."[pcms]
 
 *1367|
 [fc]
-鏡に映っているオレ。まあまあだと思う。[pcms]
+The reflection of me in the mirror. I think it looks pretty good.[pcms]
 
 *1368|
 [fc]
-ライブでモッシュになったりした時の事を考えて、[r]
-ホルターネックのレオタードにした。[pcms]
+Thinking about when I get into the mosh pit at live shows, I decided[r]
+on a halterneck leotard.[pcms]
 
 *1369|
 [fc]
-これならトップスがモッシュのはずみで脱げちまう可能性はない。[r]
-その上に、デニムのミニスカートを履き、ベルトを締めた。[pcms]
+With this, there's no chance my top will come off due to the momentum[r]
+of the mosh. On top of that, I put on a denim miniskirt and tightened[r]
+my belt.[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情10　困り　
@@ -77,38 +78,37 @@
 *1370|
 [fc]
 [vo_nat s="natu_nt0098"]
-[ns]夏都[nse]
-「う～ん。どうすっかな～」[pcms]
+[ns]Natsu[nse]
+"Hmm. What should I do..."[pcms]
 
 *1371|
 [fc]
-髪型で迷った。いつものように結わえ上げようと思ったけど、[r]
-誠は下ろしたままの方が、好みかもしれない。[pcms]
+I was unsure about my hairstyle. I thought about tying it up like[r]
+usual, but maybe Makoto prefers it down.[pcms]
 
 *1372|
 [fc]
-服装は……ちょっとビッチ過ぎるか？[pcms]
+Is my outfit... a bit too slutty?[pcms]
 
 *1373|
 [fc]
-安いし動きやすいし、まあデザインはさておき、結構好きだけど、[r]
-もしかして誠は、もうちょっとお嬢っぽいのが、好きなのかな。[pcms]
+It's cheap and easy to move in, and aside from the design, I quite[r]
+like it, but maybe Makoto prefers something a bit more ladylike.[pcms]
 
 *1374|
 [fc]
-あ～でもまあ、バイト先のギャルのアドバイスは正しかったって、[r]
-ことではあったしなあ。[pcms]
+Ah, but well, the advice from the gal at my part-time job was right,[r]
+after all.[pcms]
 
 *1375|
 [fc]
-オトコが攻めてくる服装……そんな言い方をしてたっけ。[r]
-そんなもんかな～なんて思ってたけど……。[r]
-アドバイスありがとって帰ったら言わなくちゃな……。[pcms]
+Men are drawn to this kind of outfit... Was that how she put it? I was[r]
+thinking it might be true... I'll have to thank her when I get back.[pcms]
 
 *1376|
 [fc]
-攻めてくる……か。[r]
-昨夜の誠は、オトコとして攻めまくってくれたからなあ……。[pcms]
+Drawn to... yeah. Last night, Makoto really went on the offensive as a[r]
+man...[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情09　照れ　
@@ -116,100 +116,100 @@
 *1377|
 [fc]
 [vo_nat s="natu_nt0099"]
-[ns]夏都[nse]
-「……ぁ」[pcms]
+[ns]Natsu[nse]
+"...Ah"[pcms]
 
 *1378|
 [fc]
-あそこが軽く疼く。まだ誠の余韻が身体に残ってる。[pcms]
+My pussy twinges slightly. Makoto's afterglow is still lingering in my[r]
+body.[pcms]
 
 *1379|
 [fc]
-寝乱れたベッド……一度濡れて乾いたシーツ。[r]
-そこからオレと誠の匂いが立ち上ってる気がした。[pcms]
+The bed is a mess... The sheets have been wet and dried. It feels like[r]
+the scent of Makoto and me is rising from there.[pcms]
 
 *1380|
 [fc]
 [vo_nat s="natu_nt0100"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *1381|
 [fc]
-オンナとして抱きたい。[r]
-そう言われた時、オレは素直に嬉しかった。[pcms]
+I was honestly happy when he said he wanted to embrace me as a woman.[pcms]
 
 *1382|
 [fc]
-でも、オレはこれまでの関係を変える決断を誠にさせてしまった[r]
-気がしてた。[pcms]
+But I felt like I had forced Makoto to make a decision that changed[r]
+our relationship up until now.[pcms]
 
 *1383|
 [fc]
-少し前までは、擬似的家族のまま、家族的な愛情を交わせれば[r]
-いいとオレは思ってた。[pcms]
+Until a little while ago, I thought it would be fine if we just[r]
+exchanged familial love as a pseudo-family.[pcms]
 
 *1384|
 [fc]
-むしろその方が、気が楽だった。[r]
-恋愛は、どうも苦手だったから。[pcms]
+In fact, that was more comfortable for me. I've always been bad at[r]
+romance.[pcms]
 
 *1385|
 [fc]
-恋愛経験が無い訳じゃないけど、そういう関係になればなるほど、[r]
-オレはどういう態度を取ったらいいのか、わからなくなってた。[pcms]
+It's not that I've never had romantic experiences, but the more I got[r]
+into such relationships, the less I knew how to behave.[pcms]
 
 *1386|
 [fc]
-ついついぶっきらぼうになったりして、恋愛する前は友人関係を[r]
-築いてた人間と、不仲になったりした。[pcms]
+I would inadvertently become curt and ended up falling out with people[r]
+who were friends before we started dating.[pcms]
 
 *1387|
 [fc]
-それ以来、オレはなるべく恋愛にならないように気を遣ってきた[r]
-つもりだった。[pcms]
+Since then, I've been careful not to let things turn into romance as[r]
+much as possible.[pcms]
 
 *1388|
 [fc]
-でも……それを誠が崩した。[pcms]
+But... Makoto broke through that.[pcms]
 
 *1389|
 [fc]
-オナニーなんてそんなにする方じゃなかったけど、[r]
-想像の相手が誠になることが、どんどん増えていった。[pcms]
+I wasn't much for masturbation, but Makoto increasingly became the[r]
+subject of my fantasies.[pcms]
 
 *1390|
 [fc]
-でも、自分から誠と恋愛関係になるきっかけや、[r]
-決断をする勇気は出なかった。[pcms]
+However, I didn't have the courage to initiate a romantic relationship[r]
+with Makoto or make that decision myself.[pcms]
 
 *1391|
 [fc]
-もしも断られたら……疑似家族の関係まで失ってしまう。[r]
-オレにとって、誠は、もう唯一無二の家族でもあった。[pcms]
+If he rejected me... I might lose even our pseudo-family relationship.[r]
+To me, Makoto had become my one and only family.[pcms]
 
 *1392|
 [fc]
-だから失うのが怖くて、オレは躊躇っていた。[pcms]
+So I was afraid of losing him, and that's why I hesitated.[pcms]
 
 *1393|
 [fc]
-別に恋愛の初めの切り口上は、オトコがしなくちゃいけない、[r]
-なんて事はこれっぱかしも思ってなかった。[pcms]
+I never really thought that men had to be the ones to initiate[r]
+romance.[pcms]
 
 *1394|
 [fc]
-でも、ギャル達が言ってた、オトコが攻めてくる服装で、[r]
-誠を挑発してた事は認める。[pcms]
+But I admit that by wearing clothes that "men are drawn to," as the[r]
+gals said, I was provoking Makoto.[pcms]
 
 *1395|
 [fc]
-オレは、誠が決断してくれることを望んでいたんだ。[pcms]
+I was hoping that Makoto would make the decision for us.[pcms]
 
 *1396|
 [fc]
-大切な決断のはずなのに、オレは誠に丸投げしちゃってた。[r]
-しかも……性欲を刺激して……。[pcms]
+It was an important decision, yet I completely left it up to Makoto.[r]
+And on top of that... by stimulating his sexual desire...[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情10　困り　
@@ -217,26 +217,28 @@
 *1397|
 [fc]
 [vo_nat s="natu_nt0101"]
-[ns]夏都[nse]
-「……ちょっと、ずるかったよな」[pcms]
+[ns]Natsu[nse]
+"...I was a bit sneaky, wasn't I?"[pcms]
 
 *1398|
 [fc]
-でも、やっぱり誠に『オトコとオンナになれた』[r]
-『本当の同棲カップル』って言われた時は嬉しかった。[pcms]
+But still, when Makoto said we "became man and woman" and "a real[r]
+cohabiting couple," I was happy.[pcms]
 
 *1399|
 [fc]
-正直なところ、挑発してた手前、ある程度の覚悟はしてたから。[pcms]
+Honestly, since I provoked him, I was somewhat prepared for what might[r]
+come.[pcms]
 
 *1400|
 [fc]
-『我慢出来なくてシちゃった。でも姉ちゃんは恋愛対象じゃない』[pcms]
+"I couldn't hold back and came. But you're not a romantic interest,[r]
+Onee-san."[pcms]
 
 *1401|
 [fc]
-そう言われても、仕方がないと思ってた。[r]
-だから、誠の言葉は、望外の喜びをオレに与えてくれていた。[pcms]
+I thought it would be okay if he said that. So Makoto's words brought[r]
+me unexpected joy.[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情09　照れ　
@@ -244,13 +246,14 @@
 *1402|
 [fc]
 [vo_nat s="natu_nt0102"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *1403|
 [fc]
-ちょっとは頑張ろう。恋愛関係は苦手だけど。[r]
-大切な誠だけに恋愛の先導を担わせすぎないために。[pcms]
+I'll try a little harder. Even though I'm not good at romantic[r]
+relationships. So that I don't leave all the leading up to precious[r]
+Makoto.[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情03　笑顔２
@@ -258,12 +261,13 @@
 *1404|
 [fc]
 [vo_nat s="natu_nt0103"]
-[ns]夏都[nse]
-「うん……頑張ろう」[pcms]
+[ns]Natsu[nse]
+"Yeah... I'll do my best."[pcms]
 
 *1405|
 [fc]
-オレは鏡の前で、無意識のうちにガッツポーズを取っていた。[pcms]
+I found myself unconsciously striking a guts pose in front of the[r]
+mirror.[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情01　通常　
@@ -271,22 +275,23 @@
 *1406|
 [fc]
 [vo_nat s="natu_nt0104"]
-[ns]夏都[nse]
-「あ、そろそろ行かないと、まずいな」[pcms]
+[ns]Natsu[nse]
+"Ah, I need to get going soon or it'll be bad."[pcms]
 
 *1407|
 [fc]
-気持ちを切り替える。[r]
-せっかく誠がプレゼントしてくれたこの旅行と、[r]
-ライブフェスを楽しまなくちゃ。[pcms]
+Time to switch gears. I have to enjoy this trip that Makoto gave me as[r]
+a present, and the live festival too.[pcms]
 
 *1408|
 [fc]
-誠と夜に合流したら、フェスの様子をいっぱい語ってやらなきゃな。[pcms]
+I'll have to tell Makoto all about the festival when we meet up[r]
+tonight.[pcms]
 
 *1409|
 [fc]
-もう一度鏡の前で、オレはざっと見直して、部屋を出た。[pcms]
+Once again, I quickly checked myself in the mirror before leaving the[r]
+room.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -301,8 +306,8 @@
 *1410|
 [fc]
 [vo_nat s="natu_nt0105"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -310,14 +315,14 @@
 
 *1411|
 [fc]
-階数番号の光が順次あがって来るのを、何の気なしに見ていた。[r]
-オレが居る階まで、あともうちょっとだ。[pcms]
+I watched the floor numbers light up one by one without much thought.[r]
+It's almost my floor.[pcms]
 
 *1412|
 [fc]
 [vo_mob s="banshee0001"]
-[ns]女[nse]
-「きゃああぁぁぁぁぁっ」[pcms]
+[ns]Female[nse]
+"Kyaaaahhhhh!"[pcms]
 
 ;//m:叫ぶ女の使う
 
@@ -331,17 +336,17 @@
 *1413|
 [fc]
 [vo_nat s="natu_nt0106"]
-[ns]夏都[nse]
-「……！？」[pcms]
+[ns]Natsu[nse]
+"...!?"[pcms]
 
 *1414|
 [fc]
-叫び声？　どこから？　何かあったんだろうか。[pcms]
+A scream? From where? What could have happened?[pcms]
 
 *1415|
 [fc]
-キョロキョロと周りを見回し、耳を澄ませてみたけど、[r]
-それっきり同じような声は聞えてこなかった。[pcms]
+I looked around and strained my ears, but no similar sounds came after[r]
+that.[pcms]
 
 ;//■_エレベーターの到着音
 ;//seC055.ogg
@@ -349,8 +354,7 @@
 
 *1416|
 [fc]
-エレベーターの扉が開く。[r]
-降りる人がいるかもしれない。[pcms]
+The elevator doors opened. There might be someone getting off.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -358,8 +362,8 @@
 
 *1417|
 [fc]
-そう思って、オレは扉の横に寄って立っていた。[r]
-しかし……そこから動く事が出来なくなった。[pcms]
+Thinking that, I stood to the side of the doors. But then... I[r]
+couldn't move from there.[pcms]
 
 ;//bgm16.ogg
 [bgm storage="BGM16"]
@@ -370,8 +374,8 @@
 
 *1417a|
 [fc]
-[ns]感染者男[nse]
-「おああ……あ～なんだ、ひらいた……」[pcms]
+[ns]Infected Man[nse]
+"Oooh... ah~ it opened..."[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情14　恐怖　
@@ -380,45 +384,45 @@
 *1418|
 [fc]
 [vo_nat s="natu_nt0107"]
-[ns]夏都[nse]
-「…………っ！」[pcms]
+[ns]Natsu[nse]
+"...!"[pcms]
 
 *1419|
 [fc]
-エレベーターの中に居たのは、忘れようにも忘れられない、[r]
-赤い眼をした感染者だった。[pcms]
+Inside the elevator was an infected person with red eyes,[r]
+unforgettable even if I tried.[pcms]
 
 *1420|
 [fc]
-叫びそうになる自分の口に手を当て、必死に飲み下す。[r]
-気付かれたら終わりだ。[pcms]
+I covered my mouth with my hand to stop myself from screaming and[r]
+swallowed hard. If he notices me, it's over.[pcms]
 
 *1421|
 [fc]
-じりじりと後ずさる。まだヤツは中でもたもたしてて[r]
-オレには気付いていないはず。[pcms]
+I slowly backed away. The guy was still fumbling inside and hadn't[r]
+noticed me yet.[pcms]
 
 *1422|
 [fc]
-なんで、こんなところに。どうして、４年も経った今。[r]
-パニックを起こしそうになるのを、必死に押し殺し、[r]
-オレは立てこもれる自分の部屋に戻ろうという考えに至った。[pcms]
+Why here, why now after four years? Desperately suppressing the panic[r]
+rising within me, I decided to return to my room where I could[r]
+barricade myself in.[pcms]
 
 *1423|
 [fc]
-[ns]荒井[nse]
-「あたらしーまんこが……ほしーなあ」[pcms]
+[ns]Arai[nse]
+"I want a new pussy..."[pcms]
 
 *1424|
 [fc]
 [vo_han s="hana_nt0025"]
-[ns]花沢[nse]
-「あたしとしてよぉ……ね～、あたしに、どばどばだしてぇ」[pcms]
+[ns]Hanazawa[nse]
+"Do it with me... hey, come on, give it to me in spurts."[pcms]
 
 *1425|
 [fc]
-オレの部屋の方から声がする。[r]
-恐る恐る顔を向けると、見かけた事のある男女が歩いてきていた。[pcms]
+I heard voices from the direction of my room. Tentatively looking that[r]
+way, I saw a man and a woman I recognized walking towards me.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -432,34 +436,33 @@
 
 *1426|
 [fc]
-あれは、確か誠の学園の子だ……。[r]
-でも、ふたりとも目が赤いっ！[pcms]
+They're from Makoto's school... But both of their eyes are red![pcms]
 
 *1427|
 [fc]
-何が起こっているのか、ハッキリとわかった。[r]
-またあの４年前の惨事が繰り返されようとしてる。[pcms]
+It became clear what was happening. The same disaster from four years[r]
+ago was about to repeat itself.[pcms]
 
 *1428|
 [fc]
-心臓がバクバクと早鐘を打つ。[r]
-一気に身体中が粟立った。[pcms]
+My heart pounded wildly. Chills ran through my entire body all at[r]
+once.[pcms]
 
 *1429|
 [fc]
 [vo_han s="hana_nt0026"]
-[ns]花沢[nse]
-「あ、たし～あたしと～もっとして～」[pcms]
+[ns]Hanazawa[nse]
+"Ah, with me~ do more with me~"[pcms]
 
 *1430|
 [fc]
-[ns]荒井[nse]
-「あれ～、どこかで……あ～すげえおっぱい」[pcms]
+[ns]Arai[nse]
+"Hey~, have we met before... ah~ such amazing tits."[pcms]
 
 *1431|
 [fc]
-男の子の赤い眼と視線が合ってしまった。[r]
-まずい。もうあっちへは、オレの部屋にはどうあがいても戻れない。[pcms]
+My eyes met with the red eyes of the boy. This is bad. There's no way[r]
+I can get back to my room now.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -473,22 +476,22 @@
 
 *1432|
 [fc]
-[ns]感染者男[nse]
-「お、おお？　まんこのにおいする……ぞ」[pcms]
+[ns]Infected Man[nse]
+"Oh, ohh? I smell pussy..."[pcms]
 
 *1433|
 [fc]
-エレベーターからようやく出てきたヤツも鼻をひくつかせてる。[r]
-アイツも、すぐにオレに気付くだろう。[pcms]
+The guy finally came out of the elevator, his nose twitching. He'll[r]
+notice me soon too.[pcms]
 
 *1434|
 [fc]
-どうしたらいい？　どうしたら。冷静に……冷静に……。[pcms]
+What should I do? What can I do? Stay calm... stay calm...[pcms]
 
 *1435|
 [fc]
-そのときオレは、エレベーター横に扉があることに気がついた。[r]
-あそこしかない。あそこしか。[pcms]
+That's when I noticed a door next to the elevator. There's no other[r]
+way. Only there.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mob_kan2_x"][ChrSetXY layer=5 x=260 y=0][trans_c bt time=500]
@@ -497,8 +500,8 @@
 
 *1436|
 [fc]
-[ns]感染者男[nse]
-「おおお？　あ～み～つけた～」[pcms]
+[ns]Infected Man[nse]
+"Oooh? Ah~ found you~"[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情15　絶叫　
@@ -507,20 +510,20 @@
 *1437|
 [fc]
 [vo_nat s="natu_nt0108"]
-[ns]夏都[nse]
-「や、やめろーーーっ！」[pcms]
+[ns]Natsu[nse]
+"Stop---!"[pcms]
 
 [chara_int][trans_c lr time=300]
 
 *1438|
 [fc]
-オレは男を突き飛ばした。よろけて転げるソイツのそばを[r]
-通り抜け、エレベーター横の扉を開ける。[pcms]
+I pushed the man away. As he stumbled and fell, I passed by him and[r]
+opened the door next to the elevator.[pcms]
 
 *1439|
 [fc]
-階段スペースに出て、オレはなんとか扉を閉めることが出来た。[r]
-防火用の扉を、オレはすぐにロックする。[pcms]
+I made it out to the stairwell space and managed to close the door. I[r]
+immediately locked the fire door.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -549,17 +552,18 @@
 *1440|
 [fc]
 [vo_nat s="natu_nt0109"]
-[ns]夏都[nse]
-「…………ぁぁ……やめてぇ……」[pcms]
+[ns]Natsu[nse]
+"...ahh... please stop..."[pcms]
 
 *1441|
 [fc]
-オレは、扉近くから離れ、隅にうずくまり、[r]
-ガタガタと震えながら、膝を抱え込んだ。[pcms]
+I moved away from the door, crouched in a corner, and hugged my knees,[r]
+shaking uncontrollably.[pcms]
 
 *1442|
 [fc]
-頭の中に、４年前の出来事がまざまざとよみがえってきていた。[pcms]
+The events from four years ago vividly came back to haunt me in my[r]
+mind.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -571,164 +575,168 @@
 
 *1443|
 [fc]
-４年前、オレはエピデミックの中心地。[r]
-明田県本荘市近くの自衛隊基地に勤務してた。[pcms]
+Four years ago, I was stationed at a Self-Defense Force base near[r]
+Honjo City in Akita Prefecture, the epicenter of the epidemic.[pcms]
 
 *1444|
 [fc]
-非常時のための訓練に明け暮れる日々を送っていたオレは、[r]
-誠の父、中澤一等陸曹の下に配属されていた。[pcms]
+I was assigned under Sergeant Major Nakazawa, Makoto's father,[r]
+spending my days in training for emergencies.[pcms]
 
 *1445|
 [fc]
-オレは、自分の父親を知らない。何処の誰かすらもわからない。[r]
-オレは中澤一等陸曹の中に、父という存在を見ていた。[pcms]
+I never knew my own father. I didn't even know who or where he was. In[r]
+Sergeant Major Nakazawa, I saw the figure of a father.[pcms]
 
 *1446|
 [fc]
-こういう人が自分の父親だったらいいのに……と。[pcms]
+I often thought to myself, "If only he could be my father..."[pcms]
 
 *1447|
 [fc]
-職務上の場に立った時は、とても厳しい上官だった。[r]
-でも、部下の相談には真摯に向き合い、励まし、[r]
-一緒に考えてくれる、頼りになる人だった。[pcms]
+When on duty, he was a very strict superior officer. But he was also a[r]
+reliable person who sincerely faced his subordinates' concerns,[r]
+encouraged them, and thought together with them.[pcms]
 
 *1448|
 [fc]
-あの日――エピデミックが起こった日。[r]
-基地は避難場所としても機能していた。[pcms]
+That daythe day the epidemic broke outthe base also functioned as an[r]
+evacuation site.[pcms]
 
 *1449|
 [fc]
-感染者を入れないよう厳重な警戒を敷いていたはずだった。[pcms]
+We were supposed to be on strict guard to prevent infected individuals[r]
+from entering.[pcms]
 
 *1450|
 [fc]
-でも――基地内で感染者が発生した。[pcms]
+Butthere was an outbreak of infection inside the base.[pcms]
 
 *1451|
 [fc]
-逃げてきた人なのか、それとも出動して戻った仲間の誰かなのか、[r]
-今となっては、突き止めようもない。[pcms]
+Whether it was someone who had fled there or one of our comrades who[r]
+had returned from deployment, it's impossible to determine now.[pcms]
 
 *1452|
 [fc]
-でも、感染はあっという間に基地内に広がっていった。[pcms]
+Nevertheless, the infection spread rapidly within the base.[pcms]
 
 *1453|
 [fc]
-オレは……感染した一般人や同僚を何人も撃ち殺した。[r]
-もしかしたら感染してない人さえも、撃ってしまったかもしれない。[pcms]
+I... I shot and killed many infected civilians and colleagues. I might[r]
+have even shot people who weren't infected.[pcms]
 
 *1454|
 [fc]
-見分けてる暇なんて、なかった。[r]
-ちょっとでも怪しい動きをした人間は、片っ端から撃ち殺した。[pcms]
+There was no time to distinguish. Anyone who made even a slightly[r]
+suspicious move was shot dead on the spot.[pcms]
 
 *1455|
 [fc]
-それでも、基地を捨てざるを得なかった。[pcms]
+Still, we had no choice but to abandon the base.[pcms]
 
 *1456|
 [fc]
-オレと中澤一等陸曹。[r]
-わずかに残った同僚と最期のヘリに乗ってオレ達は脱出した。[pcms]
+Sergeant Major Nakazawa and I, along with a few remaining colleagues,[r]
+escaped on the last helicopter.[pcms]
 
 *1457|
 [fc]
-機内での中澤隊長の顔が忘れられない。[r]
-その時の中澤隊長は、父親の顔になっていた。[pcms]
+I can't forget the face of Captain Nakazawa on that helicopter. At[r]
+that time, he had the face of a father.[pcms]
 
 *1458|
 [fc]
-誰もが中澤一等陸曹を慕っていた。[r]
-だから息子を、誠を助けたい……と言葉少なに漏らされた時、[r]
-オレも仲間も、迷い無く志願した。[pcms]
+Everyone admired Sergeant Major Nakazawa. So when he quietly mentioned[r]
+wanting to save his son, Makoto, all of us volunteered without[r]
+hesitation.[pcms]
 
 *1459|
 [fc]
-隊長は、わたくしごとだからと最初断ってきた。[r]
-自分一人で、助けに行くから後のことは頼む…………と。[pcms]
+The captain initially refused, saying it was a personal matter. He[r]
+said he would go to rescue him alone and asked us to take care of[r]
+everything else.[pcms]
 
 *1460|
 [fc]
-でも誰も首を縦に振らなかった。[r]
-息子さんだからじゃない、生存者がいるなら、救助対象でしかない。[r]
-だったらオレ達の任務だと、言い張った。[pcms]
+But no one agreed. It wasn't because he was his son; if there were[r]
+survivors, they were simply rescue targets. We insisted it was our[r]
+mission.[pcms]
 
 *1461|
 [fc]
-ひとりの父親の顔で『感謝する』とオレ達に深く頭を下げた[r]
-中澤一等陸曹の姿は、鮮やかにオレの脳裏に焼き付いていた。[pcms]
+The sight of Sergeant Major Nakazawa bowing deeply to us with the face[r]
+of a father saying "I'm grateful" is vividly etched in my mind.[pcms]
 
 *1462|
 [fc]
-誠が通っていた学園に、オレ達はヘリから降下した。[pcms]
+We descended from the helicopter to the school Makoto attended.[pcms]
 
 *1463|
 [fc]
-学園の中は、感染者で溢れていた。[r]
-そこでもオレは沢山の感染者を撃ちまくった。[pcms]
+The school was overflowing with infected individuals. There too, I[r]
+shot many infected people.[pcms]
 
 *1464|
 [fc]
-だけど余りに数が多すぎて、囲まれてしまった仲間を[r]
-見捨てるしかなかった。[pcms]
+But there were too many of them, and we had to abandon our surrounded[r]
+comrades.[pcms]
 
 *1465|
 [fc]
-唯一の手がかり、誠の携帯のＧＰＳ機能を頼りに、準備室の中で[r]
-気を失っている誠を見つけた時には、オレと隊長のふたりきりに[r]
-なっていた。[pcms]
+Using the only clue we had, Makoto's mobile GPS function, we found him[r]
+unconscious in the prep room; by then, it was just the captain and me[r]
+left.[pcms]
 
 *1466|
 [fc]
-誠はその時頭に怪我を負っていた。[r]
-たぶんそのせいで、どんなに声を掛けても意識を取り戻す事は[r]
-無かった。[pcms]
+Makoto had a head injury at that time. Probably because of that, no[r]
+matter how much we called out to him, he didn't regain consciousness.[pcms]
 
 *1467|
 [fc]
-オレが誠を背負い、隊長が退路を切り開いた。[r]
-学園を脱出して、ようやく動かせる車を見つけた。[pcms]
+I carried Makoto on my back while the captain cleared our retreat[r]
+path. After escaping from the school, we finally found a car that[r]
+could move.[pcms]
 
 *1468|
 [fc]
-あれは――オレが背負っていた誠を車の傍に下ろしたときだった。[pcms]
+It happened when I put Makoto down next to the carI was carrying him[r]
+on my back.[pcms]
 
 *1469|
 [fc]
-隊長の様子が一変した。[pcms]
+The captain's demeanor changed drastically.[pcms]
 
 *1470|
 [fc]
-基地内の格闘ですでに隊長は負傷していたらしい。[pcms]
+It seemed he had already been injured in a fight inside the base.[pcms]
 
 *1471|
 [fc]
-オレを襲おうと手が伸ばされる。その手が引っ込められる。[r]
-隊長は自分の中でウイルスと戦っていた。[pcms]
+His hand reached out to attack me but then retracted. The captain was[r]
+fighting the virus inside him.[pcms]
 
 *1472|
 [fc]
-かろうじて押さえ込んだ時に、隊長はオレに誠を託し、[r]
-自分を射殺するように命じた。[pcms]
+When he barely managed to suppress it, he entrusted Makoto to me and[r]
+ordered me to shoot him while he was still human.[pcms]
 
 *1473|
 [fc]
-嫌だった。自分が慕っていた人間を自分の手に掛けたくなかった。[pcms]
+I didn't want to do it. I didn't want to kill the person I admired[r]
+with my own hands.[pcms]
 
 *1474|
 [fc]
-でも苦しそうな隊長の様子。そして『人間であるうちに』という[r]
-言葉に突き動かされ、オレは昏倒したままの誠のすぐ横で、[r]
-誠の父親を射殺した。[pcms]
+But seeing the captain in agony and his words "while I'm still human"[r]
+compelled me, and right next to Makoto who was still unconscious, I[r]
+shot his father dead.[pcms]
 
 *1475|
 [fc]
-オレは……唯一無二の家族であり、弟であり、今や恋人と[r]
-呼べるようになった誠の親をこの手で殺したんだ。[pcms]
+I... killed the only family I had, who was also like a brother to me[r]
+and now could be called my loverMakoto's parent with my own hands.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -743,60 +751,58 @@
 *1476|
 [fc]
 [vo_nat s="natu_nt0110"]
-[ns]夏都[nse]
-「…………ぅぅ」[pcms]
+[ns]Natsu[nse]
+"...uhh"[pcms]
 
 *1477|
 [fc]
-身体の震えが止まらない。それでもオレは息を殺し[r]
-自分を抱きしめて、必死に恐怖心と戦っていた。[pcms]
+My body wouldn't stop shaking. Still, I held my breath and hugged[r]
+myself tightly, desperately fighting against my fear.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1478|
 [fc]
-中澤隊長を射殺したあとの事は、よく憶えていない。[r]
-気がついたら、オレは検問を築いていた仲間の部隊に[r]
-収容されていた。[pcms]
+I don't remember much after shooting Captain Nakazawa. When I came to,[r]
+I had been taken in by a unit of comrades who were setting up[r]
+checkpoints.[pcms]
 
 *1479|
 [fc]
-今でもあの光景は忘れない。[r]
-もう山の向こうになってしまった本荘の町を焼き払う[r]
-爆弾の火柱が無数に立ち上るさまを。[pcms]
+I'll never forget that scene. The sight of countless pillars of fire[r]
+from bombs incinerating the town of Honjo, now beyond the mountains.[pcms]
 
 *1480|
 [fc]
-今でもオレは忘れない。[r]
-その光に照らされて眠る誠の横顔を見ながら、泣いたことを。[pcms]
+I'll never forget that night. Crying while looking at Makoto's[r]
+sleeping face illuminated by that light.[pcms]
 
 *1481|
 [fc]
-オレは……自分が大切にしていた人までも手に掛けて生き残った。[pcms]
+I... survived by taking the lives of even those dear to me.[pcms]
 
 *1482|
 [fc]
-悪夢にうなされ眠れない日々を過ごしたオレを、[r]
-救ってくれたのは誠だ。[pcms]
+Makoto saved me from days of sleepless nights tormented by nightmares.[pcms]
 
 *1483|
 [fc]
-誠と暮らすことが出来るようになって、日を追うごとに[r]
-オレは眠れるようになってきていた。[pcms]
+As I started living with Makoto, day by day, I was able to sleep more[r]
+and more.[pcms]
 
 *1484|
 [fc]
-誠はオレに感謝するなんて言うけど、感謝したいのは[r]
-オレの方だった。[pcms]
+Makoto would thank me, but the one who wanted to express gratitude was[r]
+me.[pcms]
 
 *1485|
 [fc]
-それなのに――[pcms]
+And yet--[pcms]
 
 *1486|
 [fc]
-またあの地獄がオレの目の前に現れた。[r]
-オレを地獄へ飲み込もうとしていた。[pcms]
+That hell appeared before my eyes again. It was trying to swallow me[r]
+into its depths.[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情14　恐怖　
@@ -805,14 +811,13 @@
 *1487|
 [fc]
 [vo_nat s="natu_nt0111"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *1488|
 [fc]
-震えが止まらない。[r]
-考えがまとまらない。[r]
-かろうじてパニックを起こしてないのだけが救いだった。[pcms]
+My shaking wouldn't stop. My thoughts were in disarray. The only[r]
+saving grace was that I wasn't in a full-blown panic.[pcms]
 
 ;//■_携帯着信音
 ;//seC003.ogg
@@ -823,16 +828,16 @@
 *1489|
 [fc]
 [vo_nat s="natu_nt0112"]
-[ns]夏都[nse]
-「！！」[pcms]
+[ns]Natsu[nse]
+"!!"[pcms]
 
 *1490|
 [fc]
-オレは暗い淵から現実世界へと引き戻された。[pcms]
+I was pulled back from the dark abyss into the real world.[pcms]
 
 *1491|
 [fc]
-携帯の着信は誠からだった！[pcms]
+The call on my cell phone was from Makoto![pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情15　絶叫　
@@ -840,19 +845,19 @@
 *1492|
 [fc]
 [vo_nat s="natu_nt0113"]
-[ns]夏都[nse]
-「誠っ？　誠っ？」[pcms]
+[ns]Natsu[nse]
+"Makoto? Makoto?"[pcms]
 
 *1493|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、姉ちゃん、大丈夫？」[pcms]
+[ns]Makoto[nse]
+"Onee-san, Onee-san, are you okay?"[pcms]
 
 *1494|
 [fc]
-開口一番に大丈夫と訊いてくる誠。[r]
-向こうで何かあったんだろうか。[r]
-だとしたら、余計な心配はさせたくない。[pcms]
+Makoto's first words were to ask if I was okay. Something must have[r]
+happened on his end. If that's the case, I don't want to worry him[r]
+unnecessarily.[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情14　恐怖　
@@ -860,19 +865,19 @@
 *1495|
 [fc]
 [vo_nat s="natu_nt0114"]
-[ns]夏都[nse]
-「あ、ああ、なんとか。そっちは、どうなってる？」[pcms]
+[ns]Natsu[nse]
+"Ah, yeah, somehow. What about over there? How is it?"[pcms]
 
 *1496|
 [fc]
-[ns]誠[nse]
-「こっちは小島に渡ってて、ここは大丈夫だよ。[r]
-　でも、姉ちゃんの居る大神島は……酷い状態だと思う」[pcms]
+[ns]Makoto[nse]
+"We've crossed over to a small island, and it's safe here. But I think[r]
+the situation on Oogamijima, where you are, must be terrible."[pcms]
 
 *1497|
 [fc]
-誠の声が少し震えている。[r]
-オレが居る島で、やっぱり４年前が再現されているんだ。[pcms]
+Makoto's voice was trembling a little. The same thing that happened[r]
+four years ago is happening again on the island I'm on.[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情07　泣き　
@@ -880,8 +885,8 @@
 *1498|
 [fc]
 [vo_nat s="natu_nt0115"]
-[ns]夏都[nse]
-「ああ……そうらしい。なあ誠、オレちょっと……」[pcms]
+[ns]Natsu[nse]
+"Ah... seems like it. Hey, Makoto, I'm a bit..."[pcms]
 
 
 ;//夏都大＠Ｗ水着＋上着＋スカ（Ａ）　表情14　恐怖　
@@ -889,60 +894,60 @@
 *1499|
 [fc]
 [vo_nat s="natu_nt0116"]
-[ns]夏都[nse]
-「……え？　誠？　誠っ？　誠っっ！！」[pcms]
+[ns]Natsu[nse]
+"...eh? Makoto? Makoto?! Makotooo!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1500|
 [fc]
-突然ブツリと通信が途絶えた。[r]
-かけ直してみるが、呼び出し音すらしなかった。[pcms]
+Suddenly the communication was cut off. I tried calling back, but[r]
+there wasn't even a ringtone.[pcms]
 
 *1501|
 [fc]
-単なる通信網の破損であって欲しい。[r]
-もし誠に何かあったら…………。[pcms]
+I hope it's just a breakdown in the communication network. If[r]
+something happened to Makoto...[pcms]
 
 ;//seG014.ogg
 [se buf=0 storage="seG014"]
 
 *1502|
 [fc]
-[ns]感染者[nse]
-「う゛ぼぼぼぼ……」[pcms]
+[ns]Infected person[nse]
+"Uvobobobo..."[pcms]
 
 *1503|
 [fc]
-頭の上から不気味な咆吼が聞えてきた。[r]
-ヤツラ、オレの上の階段にいるのかもしれない。[pcms]
+A creepy roar came from above my head. They might be on the staircase[r]
+above me.[pcms]
 
 *1504|
 [fc]
-まずい。ここに居たらまずい。[r]
-でも……怖い。４年前の恐怖が心に刻み込まれている。[pcms]
+This is bad. I shouldn't stay here. But... I'm scared. The terror from[r]
+four years ago is etched into my heart.[pcms]
 
 ;//seG014.ogg
 [se buf=0 storage="seG014"]
 
 *1505|
 [fc]
-[ns]感染者[nse]
-「うごおおおお……」[pcms]
+[ns]Infected person[nse]
+"Ugoooh..."[pcms]
 
 *1506|
 [fc]
-やだ。助けて誠。もう嫌だ。[r]
-助けて、誠。[pcms]
+No, I can't stand this. Help me, Makoto. I don't want this anymore.[r]
+Help me, Makoto.[pcms]
 
 *1507|
 [fc]
-とにかく、し、下に降りなくちゃ……。[pcms]
+Anyway, I have to get down...[pcms]
 
 *1508|
 [fc]
-オレはガクガクと震える足に鞭打って、[r]
-階段を転げそうになりながら下の階へと向かった。[pcms]
+I whipped my trembling legs into action and headed down to the lower[r]
+floor, nearly tumbling down the stairs.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

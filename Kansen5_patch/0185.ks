@@ -1,13 +1,13 @@
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 ;//シーン名	：『』
 ;//file名	：0185
-;//登場人物	：主人公、夏都
+;//登場人物	：主人公、夏
 ;//服装		：
 ;//日付		：
 ;//時間		：
 ;//場所		：
 ;//予想容量	：全体を通して5K前後
-;//備考		：夏都一人称視点
+;//備考		：夏一人称視点
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *0185_TOP
 ;{SceneSet 家族として女として}
@@ -19,7 +19,7 @@
 ;//bgm07.ogg
 [bgm storage="BGM07"]
 
-;//■イベントCG　natu_H001（寝乱れ夏都）
+;//■イベントCG　natu_H001（寝乱れ夏）
 [evcg storage="natu_H001a"][trans_c cross time=300]
 
 ;//システムアイコン＆メッセージウィンドウ表示
@@ -28,311 +28,291 @@
 *2327|
 [fc]
 [vo_nat s="natu0320"]
-[ns]夏都[nse]
-「んがっ……」[pcms]
+[ns]Natsu[nse]
+"Ngh..."[pcms]
 
 *2328|
 [fc]
-んっ……。[r]
-寝ちまってたか。[pcms]
+"Huh... Did I fall asleep?"[pcms]
 
 *2329|
 [fc]
-やっぱりオレ、酒よえーなぁ……。[r]
-たったあれだけで酔いつぶれっちまった。[pcms]
+"I really am weak to alcohol... I got completely wasted from just that[r]
+little bit."[pcms]
 
 *2330|
 [fc]
-つーか、なんだこれ。[r]
-誠のヤロウ、人様の顔にタオルなんか掛けやがって。[r]
-オレは死人じゃねっつーの。[pcms]
+"And what's this? That bastard Makoto, draping a towel over someone's[r]
+face. I'm not dead, you know."[pcms]
 
 *2331|
 [fc]
-でもまあ、丁度いい明るさだし、[r]
-またこのまま寝ちまおう。[pcms]
+"But well, it's just the right amount of brightness, so maybe I'll[r]
+just go back to sleep like this."[pcms]
 
 ;//♂Ｄ：SE　かちゃかちゃ　食器の触れる音
 
 *2332|
 [fc]
-……。[r]
-誠は洗い物か。[pcms]
+"... Makoto's doing the dishes, huh."[pcms]
 
 *2333|
 [fc]
-男の癖に、マメな奴だよな、ホント……。[r]
-生まれてくるとき、性別まちがえちまったんじゃねえのか？[pcms]
+"For a guy, he's really diligent... Did he get his gender mixed up[r]
+when he was born or what?"[pcms]
 
 *2334|
 [fc]
-ふふ……。[r]
-オレと逆だったらよかったのかもな。[r]
-まあ、そんなこと言っても仕方ないか。[pcms]
+"Heh... It might have been better if it were the other way around.[r]
+Well, no use saying things like that now."[pcms]
 
 *2335|
 [fc]
-それにしても、嬉しい。[r]
-あの、誠がオレを旅行に誘ってくれるなんて。[pcms]
+"Still, it makes me happy. That Makoto would invite me on a trip."[pcms]
 
 *2336|
 [fc]
-しかも、金まで出してくれるなんてな。[r]
-年上としては、ちょっと情けない気もするけど、[r]
-今のオレじゃ、太っ腹な所見せようにも無理だしなぁ。[pcms]
+"And to think he'd even pay for it. As the older one, it feels a bit[r]
+shameful, but with my current situation, I can't afford to be[r]
+generous."[pcms]
 
 *2337|
 [fc]
-……スケベで、ひょろっとして、頼りない奴だと思ってたけど、[r]
-良い子に育ったな……誠。[pcms]
+"I thought he was just a lecherous, skinny, unreliable guy, but he[r]
+turned out to be a good kid... Makoto."[pcms]
 
 *2338|
 [fc]
-もう、オレには誠しかいないんだ。[r]
-たった一人の、オレの家族なんだ。[pcms]
+"Now, Makoto is all I have. The only family I've got."[pcms]
 
 *2339|
 [fc]
-天国のお前のオヤジさんに、見せてやりたいよ。[r]
-みんなが、今のお前を見たら喜んだだろうのにな。[pcms]
+"I wish I could show you to your dad in heaven. Everyone would be so[r]
+happy to see how you are now."[pcms]
 
 *2340|
 [fc]
-……。[r]
-それは、オレも同じか。[pcms]
+"... That goes for me too, I guess."[pcms]
 
 *2341|
 [fc]
-尤も、こんなザマ見たら嘆くだろうけどな、[r]
-オレの親は。[pcms]
+"Although, if they saw the state I'm in now, my parents would probably[r]
+be sighing."[pcms]
 
 *2342|
 [fc]
-生きているのか、死んでいるのか……。[r]
-何処の誰かもわかんねーけど。[pcms]
+"Whether they're alive or dead... I don't even know who or where they[r]
+are."[pcms]
 
 *2343|
 [fc]
-小さい頃から、オレは一人だった。[r]
-ずっと、一人。[pcms]
+"Ever since I was little, I've been alone. Always, alone."[pcms]
 
 *2344|
 [fc]
-ガキの頃……。[r]
-周囲のヤツらから変な目で見られ、[r]
-苛められたりした。[pcms]
+"When I was a kid... I was looked at strangely by those around me and[r]
+got bullied."[pcms]
 
 *2345|
 [fc]
-オレの見た目、他のヤツらと違ってたもんな。[r]
-女にしちゃ色々とデカいしな……。[pcms]
+"My appearance was different from the other kids. For a girl, various[r]
+parts of me were too big..."[pcms]
 
 *2346|
 [fc]
-性格も、男ばっかの所にいたから、こんな風になっちまった。[r]
-まあ、それが原因ってワケでもなさそうだけど。[pcms]
+"My personality too, since I was always around boys, I ended up like[r]
+this. Though that might not be the only reason."[pcms]
 
 *2347|
 [fc]
-どうしちまったんだ、オレ。[r]
-昔の事思い出すなんて。[r]
-よっぽど酔いが回ったか？[pcms]
+"What's gotten into me? Thinking about the past like this. Am I that[r]
+drunk?"[pcms]
 
 *2348|
 [fc]
-もう眠い。[r]
-なのに――[pcms]
+"I'm so sleepy. And yet--"[pcms]
 
 *2349|
 [fc]
-思い出したくもない事や、楽しかったこと。[r]
-色々な想い出が、次々と湧き上がる。[pcms]
+"Unwanted memories and happy times alike keep surfacing one after[r]
+another."[pcms]
 
 *2350|
 [fc]
-施設に入って、そこから男ばっかりのガッコに入って……。[r]
-そんで、自衛隊か。[pcms]
+"After entering the institution, I went to an all-boys school... And[r]
+then joined the Self-Defense Forces."[pcms]
 
 *2351|
 [fc]
-男ばっかのガッコに入って……。[r]
-女もいたにはいたけど、[r]
-オレをを合わせても全体の一割にも満たなかったか。[pcms]
+"Going to an all-boys school... There were girls too, but including[r]
+me, we didn't even make up ten percent of the total."[pcms]
 
 *2352|
 [fc]
-妙にモテたな。女から。[r]
-男とはケンカばっかりしてたのに。[pcms]
+"I was oddly popular with the girls. Even though I was always fighting[r]
+with the boys."[pcms]
 
 *2353|
 [fc]
-……女にモテても仕方ないのにな。[r]
-オレだって女だもの。[r]
-男と付き合いたかった。[pcms]
+"...Not that it did me any good being popular with girls. I'm a girl[r]
+myself. I wanted to date guys."[pcms]
 
 *2354|
 [fc]
-そのまま男だらけの、自衛隊に入って……。[pcms]
+"And so I joined the Self-Defense Forces, which was full of men..."[pcms]
 
 *2355|
 [fc]
-あれ？　あれは、なんでだっけな。[pcms]
+"Huh? Why did I do that again?"[pcms]
 
 *2356|
 [fc]
-オレは、アルコールで痺れた脳を無理に回転させ、[r]
-自衛隊に入った理由を必死に思い出していた。[r]
-何も、こんな事で必死になる必要もないのに。[pcms]
+"I forced my alcohol-numbed brain to spin as I desperately tried to[r]
+remember why I joined the Self-Defense Forces. There's really no need[r]
+to be so desperate about such a thing."[pcms]
 
 *2357|
 [fc]
-浮かんでは消え、消えては浮かぶ記憶の欠片の中に、[r]
-やっと、その理由の片隅が見え始めた。[pcms]
+"In the midst of memories that appeared and vanished, a corner of the[r]
+reason why finally began to emerge."[pcms]
 
 *2358|
 [fc]
-そうか、あの番組だ。[r]
-格好良かったんだ。[pcms]
+"Right, it was that TV show. It looked so cool."[pcms]
 
 *2359|
 [fc]
-ドンパチが格好いいんじゃない。[r]
-人助けする、自衛隊の人達がもの凄く格好良く見えたんだ。[r]
-オレも、いろんな国の困ってる人を助けたい、なんて思ったんだ。[pcms]
+"It wasn't the shooting that was cool. It was the Self-Defense Force[r]
+members helping people that looked incredibly cool. I wanted to help[r]
+people in trouble in various countries too."[pcms]
 
 *2360|
 [fc]
-憧れが加速したオレは、色々な資格を取った。[pcms]
+"Driven by that admiration, I acquired various qualifications."[pcms]
 
 *2361|
 [fc]
-そして、オレは晴れて自衛官となった。[pcms]
+"And then, I finally became a Self-Defense official."[pcms]
 
 *2362|
 [fc]
-……憧れて入った筈なのに、なんだかセクハラにあってみたり。[r]
-あれはあんまりいい想い出じゃねえな。[pcms]
+"...Despite joining because of my admiration, it wasn't all great; I[r]
+had my share of sexual harassment. Those aren't very good memories."[pcms]
 
 *2363|
 [fc]
-そんな中、唯一オレを認めてくれたのが、[r]
-誠の親父さんだったな。[pcms]
+"Amidst all that, the one person who acknowledged me was Makoto's[r]
+father."[pcms]
 
 *2364|
 [fc]
-あの人のおかげで、今のオレがあるといっても過言じゃない。[r]
-あの人がいたから、今こうして、誠と一緒に暮らしているんだ。[pcms]
+"It's no exaggeration to say that because of him, I am who I am today.[r]
+It's because of him that I'm living with Makoto now."[pcms]
 
 *2365|
 [fc]
-あの人のおかげで……オレは、一人じゃない。[pcms]
+"Thanks to him... I'm not alone."[pcms]
 
 *2366|
 [fc]
-ずっと一人だったオレを、家に呼んでもてなしてくれたり……。[r]
-家族同様に接してくれた。[pcms]
+"He was the one who always invited me over to his house and treated me[r]
+like family..."[pcms]
 
 *2367|
 [fc]
-感謝しても、しきれない相手。[pcms]
+A person I can never thank enough.[pcms]
 
 *2368|
 [fc]
-誠も懐いてくれたしな。[pcms]
+Makoto also became very attached to me.[pcms]
 
 *2369|
 [fc]
 [vo_nat s="natu0321"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *2370|
 [fc]
-なのに、四年前のあの日。[pcms]
+And yet, on that day four years ago.[pcms]
 
 *2371|
 [fc]
-誠以外のオレの『家族』はあの事件……。[r]
-エピデミックのせいで『また』失われた。[pcms]
+Except for Makoto, my "family" was lost again due to that incident...[r]
+the epidemic.[pcms]
 
 *2372|
 [fc]
-もう、思い出したくもない。[r]
-大切な人が失われた、あの日の事なんか。[pcms]
+I don't even want to remember it. That day when I lost someone[r]
+important to me.[pcms]
 
 *2373|
 [fc]
-ああ……。[pcms]
+Ah...[pcms]
 
 *2374|
 [fc]
-オレは、良い姉でいられてるか？[r]
-誠にとって、オレは良い家族なのか？[r]
-親を失った誠は、オレをどう思っている……。[pcms]
+Am I being a good sister? To Makoto, am I a good family member? What[r]
+does Makoto, who lost his parents, think of me...?[pcms]
 
 *2375|
 [fc]
-こうして二人で生活するようになった今。[r]
-オレは、誠にとって必要な存在なのか？[pcms]
+Now that we've come to live together like this. Am I a necessary[r]
+existence for Makoto?[pcms]
 
 *2376|
 [fc]
-最近、誠もマセて来ている。[r]
-オレの事をちゃんと女として見てくれている節もあるが……。[pcms]
+Lately, Makoto has become more mature. There are times when he seems[r]
+to see me properly as a woman...[pcms]
 
 *2377|
 [fc]
-それでも不安は、常につきまとう。[pcms]
+But still, the anxiety is always there.[pcms]
 
 *2378|
 [fc]
-嗚呼……。[r]
-きっと、オレは誠の事が好きなんだ。[pcms]
+Ah... Surely, I must like Makoto.[pcms]
 
 *2379|
 [fc]
-家族というものを越えて、オレは……。[r]
-誠を、男として好きなんだ。[pcms]
+Beyond the concept of family, I... I like Makoto as a man.[pcms]
 
 *2380|
 [fc]
-だけど……。[pcms]
+But...[pcms]
 
 *2381|
 [fc]
-オレは確かに女だ。[r]
-誠だって、確かに男だ。[pcms]
+I am certainly a woman. And Makoto is certainly a man.[pcms]
 
 *2382|
 [fc]
-オレ達は家族だ。[r]
-その壁を越える事があるんだろうか。[pcms]
+We are family. Can we ever cross that barrier?[pcms]
 
 *2383|
 [fc]
-嗚呼、駄目だ。[r]
-酒は……嫌いじゃない。[pcms]
+Ah, it's no good. Alcohol... I don't hate it.[pcms]
 
 *2384|
 [fc]
-だけど、あんまり飲むもんじゃねえな。[pcms]
+But, it's not something to drink too much of.[pcms]
 
 *2385|
 [fc]
-もう、頭が回らない。[r]
-余計な事も考えちまう。[pcms]
+My head isn't working anymore. It makes me think of unnecessary[r]
+things.[pcms]
 
 *2386|
 [fc]
-分からないなら、分からないままでいい。[pcms]
+If I don't understand, then it's fine to stay that way.[pcms]
 
 *2387|
 [fc]
-オレと、誠の関係は……。[pcms]
+My relationship with Makoto...[pcms]
 
 *2388|
 [fc]
-このままでいいんだ。[pcms]
+It's fine the way it is now.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -340,7 +320,7 @@
 
 *2389|
 [fc]
-今は……。[pcms]
+For now...[pcms]
 
 ;//ZAP成立フラグ
 [eval exp="f.l_natu0185 = 1"]

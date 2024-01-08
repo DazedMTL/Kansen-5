@@ -8,7 +8,7 @@
 ;//時間		：夕
 ;//場所		：階段-踊り場
 ;//予想容量	：――
-;//備考		：[ns]夏都[nse]⇒[ns]茜梨[nse]になってるためボイスなしの部分があります。
+[ns]Natsu[nse]
 ;//			：ZAP処理はしなくてもよい？
 ;//イベント	：natu_H008  ※貼り付け-済
 ;//			：natu_H009  ※貼り付け-済
@@ -17,7 +17,7 @@
 *4105_TOP
 ;{SceneSet 地獄の釜}
 
-;//m:プロット時のブロック名K_b夏都ＺＡＰ
+;//m:プロット時のブロック名K_b夏ＺＡＰ
 
 ;//--------------------------
 ;//回想なのか通常プレイなのかの分岐判断
@@ -54,20 +54,20 @@
 *1745|
 [fc]
 [vo_nat s="natu_nt0167"]
-[ns]夏都[nse]
-「怖い、怖い、怖いっ…………！」[pcms]
+[ns]Natsu[nse]
+"Scary, scary, scary...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1746|
 [fc]
-ホテルの階段を一番下まで下りたオレは、そこにあったドアに[r]
-鍵をかけ、その前にうずくまってぶるぶると震えていた。[pcms]
+Having descended to the bottom of the hotel staircase, I locked the[r]
+door there and crouched in front of it, trembling violently.[pcms]
 
 *1747|
 [fc]
-自分の腕を自分の両手で抱きしめて、なんとか落ち着こうと[r]
-したけど、頭の中で４年前の悪夢がフラッシュバックする。[pcms]
+I hugged my arms with both hands, trying to calm myself, but the[r]
+nightmare from four years ago flashed back in my mind.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情14　恐怖　
@@ -76,138 +76,135 @@
 *1748|
 [fc]
 [vo_nat s="natu_nt0168"]
-[ns]夏都[nse]
-（ひっ────！！）[pcms]
+[ns]Natsu[nse]
+(Gasp────!!)[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1749|
 [fc]
-地獄のスナップショットのような、その記憶の断片に[r]
-オレは心底怯えてしまう。[pcms]
+Those fragments of memory, like snapshots from hell, filled me with[r]
+profound fear.[pcms]
 
 *1750|
 [fc]
-４年経った今でも、オレは未だに医者のカウンセリングを[r]
-定期的に受けている。[pcms]
+Even now, four years later, I'm still receiving regular counseling[r]
+from a doctor.[pcms]
 
 *1751|
 [fc]
-医者が言うには、オレは重度のＰＴＳＤなんだそうだ。[pcms]
+The doctor says I have severe PTSD.[pcms]
 
 *1752|
 [fc]
-もっとも、あの地獄以下のクソみたいな体験を経て、[r]
-正気で生活できてるんだから、ＰＴＳＤ程度で済んでいる[r]
-自分の神経の太さをむしろ褒めてやりたい。[pcms]
+After all, having gone through an experience worse than hell and still[r]
+managing to live a sane life, I'd rather praise the resilience of my[r]
+own nerves for only having PTSD.[pcms]
 
 *1753|
 [fc]
-これまでは、そう思ってた。[r]
-ついさっきまでは。[pcms]
+Until now, that's what I thought. Until just a moment ago.[pcms]
 
 *1754|
 [fc]
-でも──エレベーターを開けた途端に襲いかかって来た[r]
-赤い目をした男や女の姿を見た瞬間に、オレの心は[r]
-４年前に一気に引き戻されてしまった。[pcms]
+But──the moment I opened the elevator and was attacked by men and[r]
+women with red eyes, my heart was instantly pulled back to four years[r]
+ago.[pcms]
 
 *1755|
 [fc]
-オレの心の中で、あの地獄以下の時間で体験した、[r]
-ありとあらゆることがぐるぐると脈絡なく[r]
-浮かんでは消え、消えてはまた浮かんでくる。[pcms]
+In my heart, everything I experienced during that hellish time swirls[r]
+around without coherence, appearing and disappearing, disappearing and[r]
+then reappearing again.[pcms]
 
 *1756|
 [fc]
-ただ本能的な欲望のままに犯し、喰らい、襲いかかってくる[r]
-かつては人だったはずの、人の形をした別の生き物たち。[pcms]
+Those who were once human, now creatures in human form, attack,[r]
+devour, and assault purely on instinctual desire.[pcms]
 
 *1757|
 [fc]
-感染しなければ、その人たちにだって、記憶や感情があり、[r]
-家族や友人や同僚や仲間がいて、愛し愛されて[r]
-生きてたに違いない。[pcms]
+If they hadn't been infected, those people would have had memories and[r]
+emotions, families, friends, colleagues, companions, and lives filled[r]
+with love.[pcms]
 
 *1758|
 [fc]
-オレたちはそんな感染者たちを、一片の慈悲もなく[r]
-徹底的に、完璧に、完膚無きまでに『処分』した。[pcms]
+We disposed of such infected individuals without a shred of mercy,[r]
+thoroughly, perfectly, completely.[pcms]
 
 *1759|
 [fc]
-男も、女も、若者も、老人も、大人も、子供も関係なく[r]
-ただ正確無比に黙々と『処分』を続けた。[pcms]
+Men and women, young and old, adults and children alike were disposed[r]
+of silently and precisely without distinction.[pcms]
 
 *1760|
 [fc]
-血と汗と脂と肉と糞尿と臓物と髪の毛の燃える臭いとともに、[r]
-悲鳴と絶叫と怨嗟と哀願と意味のない唸り声とに[r]
-オレの人生のとある期間はべったり塗り潰されてしまった。[pcms]
+My life for a certain period was smeared with the burning smell of[r]
+blood, sweat, fat, flesh, excrement, viscera, and hair, along with[r]
+screams, shrieks, curses, pleas, and meaningless groans.[pcms]
 
 *1761|
 [fc]
-オレは感情を捨て、心を殺して自分を一個の機械だと[r]
-思うようにしていた。[pcms]
+I discarded my emotions and killed my heart to think of myself as a[r]
+machine.[pcms]
 
 *1762|
 [fc]
-心や感情なんて邪魔なものを持たず、与えられた命令を[r]
-ただ正確に、的確に、確実に実行する機械だと。[pcms]
+A machine without troublesome things like a heart or emotions, just[r]
+executing given orders accurately and effectively.[pcms]
 
 *1763|
 [fc]
-いくらよく訓練された兵士でも、そう考えなければ[r]
-とっくに壊れてしまっていただろう。[pcms]
+Even the most well-trained soldier would have broken down long ago if[r]
+they didn't think this way.[pcms]
 
 *1764|
 [fc]
-しかし、そうやって心を殺し続けたそのツケは[r]
-最悪の形でオレの上に降りかかってきた。[pcms]
+However, the price for continuously killing my heart came down on me[r]
+in the worst way possible.[pcms]
 
 *1765|
 [fc]
-親の顔を知らないオレを、実の親も同様にかわいがり、[r]
-面倒を見てくれた中澤隊長──誠の父親を[r]
-この手で殺さなくてはならなくなってしまって……。[pcms]
+I had to kill Captain Nakazawa──Makoto's father who loved me like his[r]
+own child and took care of me despite not knowing my own parents'[r]
+faces...[pcms]
 
 *1766|
 [fc]
-指導者として尊敬していたし、肉親に対する愛情に[r]
-近い感情すら抱いていた、あの中澤隊長を──！[pcms]
+I respected him as a leader and even felt an emotion close to familial[r]
+love for Captain Nakazawa──![pcms]
 
 *1767|
 [fc]
-血液や唾液から感染して、近しい人が新たな感染者として[r]
-襲いかかってくるっていう、UNKNOWN-LV4の存在は[r]
-本当に『悪夢』だ。[pcms]
+The existence of UNKNOWN-LV4 where infection spreads through blood or[r]
+saliva and loved ones attack as new infected is truly a "nightmare."[pcms]
 
 *1768|
 [fc]
-それまで語り合い、笑い、一緒に過ごしてきた人が、ある日突然[r]
-記憶も感情もなくした一匹の狂える獣となって[r]
-自分に襲いかかってくる。[pcms]
+People you've talked with, laughed with, spent time with suddenly[r]
+become crazed beasts without memory or emotion and attack you.[pcms]
 
 *1769|
 [fc]
-感染者は仕方ないが、襲われた側の人間は、それまで見知った[r]
-人間が襲いかかってきた時に『はい、そうですか』と相手を[r]
-ぶち殺せるほど、器用に感情のスイッチは切り替えられない。[pcms]
+It's unavoidable for the infected, but the humans being attacked can't[r]
+just flip an emotional switch and kill someone they recognize as "Oh[r]
+well."[pcms]
 
 *1770|
 [fc]
-自分が愛し、守りたいと思っているものを、自分の手で[r]
-殺し、排除しなくてはならないというこの自家撞着こそが[r]
-このウイルスの最悪にクソなところだ。[pcms]
+The contradiction of having to kill and eliminate what you love and[r]
+want to protect by your own hands is the most fucked up aspect of this[r]
+virus.[pcms]
 
 *1771|
 [fc]
-オレはそれが怖い。怖くて仕方がない。[pcms]
+I'm scared of that. Terrified beyond words.[pcms]
 
 *1772|
 [fc]
-自分があんな化け物になってしまうのも嫌だが、オレが愛する[r]
-人たちが、あんな化け物になって襲いかかってきたら……。[pcms]
+I hate the thought of becoming such a monster myself, but if the[r]
+people I love were to become such monsters and attack me...[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情14　恐怖　
@@ -215,52 +212,52 @@
 *1773|
 [fc]
 [vo_nat s="natu_nt0169"]
-[ns]夏都[nse]
-（嫌だ、嫌だ、嫌だ…………っ！！！）[pcms]
+[ns]Natsu[nse]
+(No, no, no...!!!)[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1774|
 [fc]
-そう考えるだけで、オレは気が狂いそうになる。[pcms]
+Just thinking about it makes me feel like I'm going insane.[pcms]
 
 *1775|
 [fc]
-もしも誠が感染者になって襲いかかって来ても、たぶんオレは[r]
-攻撃することができないだろう。[pcms]
+Even if Makoto became infected and attacked me, I probably wouldn't be[r]
+able to fight back.[pcms]
 
 *1776|
 [fc]
-自分の手で、愛するものの命を絶つような経験は[r]
-中澤隊長の一度っきりでもう十分だ。[pcms]
+Having to take the life of a loved one with my own handsonce was[r]
+enough with Captain Nakazawa.[pcms]
 
 *1777|
 [fc]
-いや、一度でも多すぎるくらいだ。[pcms]
+No, even once is too much.[pcms]
 
 *1778|
 [fc]
-再びそんな事になるくらいなら、死んだ方がまだマシだ。[pcms]
+If it were to happen again, I'd rather be dead. That would be better.[pcms]
 
 *1779|
 [fc]
-しかし、それ以外の感染者にまで、座して身を委ねるようなことは[r]
-したくない。そこまでオレは人間ができてない。[pcms]
+But I don't want to just sit back and let other infected do as they[r]
+please. I'm not that noble.[pcms]
 
 *1780|
 [fc]
-でも、今オレは、身を守るための隊員服も、命を預けられる仲間も[r]
-敵に立ち向かうための銃もナイフもなにひとつ持たずに[r]
-感染者が溢れかえるまっただ中にいる。[pcms]
+But right now, I'm in the midst of an overflowing horde of infected[r]
+without any squad gear to protect myself, no comrades to entrust my[r]
+life to, no guns or knives to confront the enemy.[pcms]
 
 *1781|
 [fc]
-なにひとつ、感染者の集団に対抗する術を[r]
-持ち合わせてないっていう現実。[pcms]
+The reality that I have absolutely nothing to counter a horde of[r]
+infected with.[pcms]
 
 *1782|
 [fc]
-それが怖い。ひたすらに怖い。[pcms]
+That's what scares me. It scares me endlessly.[pcms]
 
 ;//SE：背後のドアを激しく叩く音
 ;//seA040.ogg
@@ -268,8 +265,8 @@
 
 *1783|
 [fc]
-その時、オレが背を預けていたドアの内側から、ドンドンと[r]
-激しくドアを叩く音が聞こえてきた。[pcms]
+At that moment, from inside the door I was leaning against, I heard a[r]
+loud banging as someone violently hit the door.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情14　恐怖　
@@ -278,44 +275,45 @@
 *1784|
 [fc]
 [vo_nat s="natu_nt0170"]
-[ns]夏都[nse]
-「ひ、ひいいぃっ！！」[pcms]
+[ns]Natsu[nse]
+"Eek! Ahhh!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1785|
 [fc]
-その音に怯えたオレの口から、我ながらみっともない声が漏れる。[pcms]
+Frightened by that sound, an embarrassingly pathetic voice escaped my[r]
+lips.[pcms]
 
 *1786|
 [fc]
-ドアの向こうから、誰かの話す声が聞こえてくる。[pcms]
+From beyond the door, I could hear someone talking.[pcms]
 
 *1787|
 [fc]
-[ns]男Ａ[nse]
-「くそ、開かねえぞ！　さっきまで開けられたのに！[r]
-　誰かがドアの向こうでロックしたらしい！」[pcms]
+[ns]Man A[nse]
+"Damn, it won't open! It was possible to open it just a moment ago![r]
+Someone must have locked it from the other side!"[pcms]
 
 *1788|
 [fc]
-男の声に応えて、別の男の声が聞こえてくる。[pcms]
+In response to the man's voice, another man's voice could be heard.[pcms]
 
 *1789|
 [fc]
-[ns]男Ｂ[nse]
-「侵入経路が塞がれてるんなら、その出入口はとりあえず[r]
-　それ以上の確認は不要だ。お前はそのドアを確保しろ。[r]
-　他の者はそれ以外の侵入経路の確認を急げ！」[pcms]
+[ns]Man B[nse]
+"If the entryway is blocked, then there's no need to check it further[r]
+for now. Secure that door. Everyone else, hurry and check for other[r]
+possible entry points!"[pcms]
 
 *1790|
 [fc]
-厳しい口調で的確な指示を出す、誰かの声が聞こえてくる。[pcms]
+A stern voice giving precise instructions could be heard.[pcms]
 
 *1791|
 [fc]
-感染者では絶対にあり得ない、知的で理性的な口調は[r]
-間違いなく普通の人間のそれだった。[pcms]
+The intelligent and rational tone of voice was unmistakably that of a[r]
+normal human being, not an infected person.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情01　通常　
@@ -323,12 +321,13 @@
 *1792|
 [fc]
 [vo_nat s="natu_nt0171"]
-[ns]夏都[nse]
-（生きてる人だ……っ！！）[pcms]
+[ns]Natsu[nse]
+(There are living people...!!)[pcms]
 
 *1793|
 [fc]
-オレは思わず、ドアの向こうの人に声をかけていた。[pcms]
+Without thinking, I found myself calling out to the person on the[r]
+other side of the door.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情04　真剣　
@@ -336,60 +335,59 @@
 *1794|
 [fc]
 [vo_nat s="natu_nt0172"]
-[ns]夏都[nse]
-「おい、このドアの向こうにいる人、聞こえるか！？[r]
-　アンタ、感染してないマトモな人間なんだろっ！」[pcms]
+[ns]Natsu[nse]
+"Hey, can you hear me, the person on the other side of this door!?[r]
+You're a sane human being who isn't infected, right!?"[pcms]
 
 *1795|
 [fc]
-オレの叫ぶ声を聞いて、ドアの向こうから返事が返ってくる。[pcms]
+Hearing my shouting voice, a reply came from beyond the door.[pcms]
 
 *1796|
 [fc]
-[ns]男Ａ[nse]
-「女か！？　ヤツらに襲われたのか！？」[pcms]
+[ns]Man A[nse]
+"A woman!? Were you attacked by them!?"[pcms]
 
 *1797|
 [fc]
 [vo_nat s="natu_nt0173"]
-[ns]夏都[nse]
-「襲われてない！　ヤツらの姿を見て、あわててここまで[r]
-　逃げてきたんだ！　今、ドアのロックを外すから[r]
-　中に入ってもいいか！？」[pcms]
+[ns]Natsu[nse]
+"I wasn't attacked! I saw them and panicked, so I ran here! I'm going[r]
+to unlock the door now, is it okay if I come in!?"[pcms]
 
 *1798|
 [fc]
-ドアの向こうが、なにやら考え込んでいるらしく沈黙する。[pcms]
+The other side fell silent as if pondering.[pcms]
 
 *1799|
 [fc]
-[ns]男Ａ[nse]
-「よし、入ってこい。ただし、妙な真似はするなよ。[r]
-　お前が本当に感染者じゃないかどうかは、俺たちが判断する」[pcms]
+[ns]Man A[nse]
+"Alright, come in. But don't try anything funny. We'll be the ones to[r]
+decide whether you're really not infected."[pcms]
 
 *1800|
 [fc]
 [vo_nat s="natu_nt0174"]
-[ns]夏都[nse]
-「大丈夫だ！　オレは定期的にワクチンも注射してる！[r]
-　それに外傷もないし、体液なんかもいっさい浴びてない！」[pcms]
+[ns]Natsu[nse]
+"It's okay! I've been regularly getting vaccinated! Plus, I don't have[r]
+any injuries, and I haven't been exposed to any bodily fluids!"[pcms]
 
 *1801|
 [fc]
 [vo_nat s="natu_nt0175"]
-[ns]夏都[nse]
-「なんなら素っ裸になるから、全身くまなく[r]
-　見てもらっても構わない！」[pcms]
+[ns]Natsu[nse]
+"If it helps, I'll strip naked so you can check my entire body[r]
+thoroughly!"[pcms]
 
 *1802|
 [fc]
-ドアの向こうで、男がなにやら仲間と小声で話してるけど[r]
-なにを言ってるのかまでは分からない。[pcms]
+The man on the other side was whispering something to his companions,[r]
+but I couldn't make out what they were saying.[pcms]
 
 *1803|
 [fc]
-[ns]男Ａ[nse]
-「よし、いいぞ、入ってこい。ゆっくりとだぞ」[pcms]
+[ns]Man A[nse]
+"Alright, come in. But do it slowly."[pcms]
 
 ;//※SE-カギを外す音
 [se buf=0 storage="seA033"]
@@ -397,8 +395,8 @@
 
 *1804|
 [fc]
-男の言葉に従って、オレはドアのロックを外し、[r]
-中へゆっくりと足を踏み入れた。[pcms]
+Following the man's words, I unlocked the door and slowly stepped[r]
+inside.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
@@ -408,40 +406,38 @@
 
 *1805|
 [fc]
-[ns]男Ａ[nse]
-「ふむ……。確かに外傷も見当たらないし、血液や体液も[r]
-　浴びてない。それに……よし、これなら大丈夫そうだな」[pcms]
+[ns]Man A[nse]
+"Hmm... Indeed, there are no visible injuries, and you haven't been[r]
+exposed to blood or bodily fluids. And... good, it seems you're okay."[pcms]
 
 *1806|
 [fc]
-何が『それに』なのかは良く分からないが、オレを見て[r]
-ドアの内側でオレを迎え入れた、黒ずくめの服装に[r]
-身を包んだ男がそう言った。[pcms]
+I wasn't sure what he meant by "And...", but the man dressed in all[r]
+black who had welcomed me inside said that after looking at me.[pcms]
 
 *1807|
 [fc]
-[ns]男Ａ[nse]
-「よく無事だったな。運が良かったぜ、お嬢ちゃん」[pcms]
+[ns]Man A[nse]
+"You're lucky to be safe. You're fortunate, miss."[pcms]
 
 *1808|
 [fc]
-異星人を対峙する２人組のエージェントみたいな[r]
-格好をした男が、そんな事を言う。[pcms]
+The man dressed like an agent confronting aliens said that.[pcms]
 
 *1809|
 [fc]
-ドアの向こうは、ホテル１階のロビーだった。[pcms]
+The other side of the door turned out to be the hotel's first-floor[r]
+lobby.[pcms]
 
 *1810|
 [fc]
-オレを中に入れてくれた男と同じ、黒服に身を包んだ男たちが、[r]
-およそ１０名ほど、ロビーの要所を押さえるような配置で[r]
-佇んでいるのが見える。[pcms]
+About ten men dressed in black suits like the one who let me in were[r]
+standing around the lobby in strategic positions.[pcms]
 
 *1811|
 [fc]
-ロビーの角には、感染者だろうか……集められた死体で[r]
-小山ができていた。[pcms]
+In a corner of the lobby was a small mountain of bodiesperhaps[r]
+infected peoplethat had been collected.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情22　悔恨　
@@ -449,62 +445,62 @@
 *1812|
 [fc]
 [vo_nat s="natu_nt0176"]
-[ns]夏都[nse]
-「うっ………」[pcms]
+[ns]Natsu[nse]
+"Ugh..."[pcms]
 
 *1813|
 [fc]
-また、オレの脳内を４年前の記憶がフラッシュバックして、[r]
-思わず顔を背けてしまう。[pcms]
+Memories from four years ago flashed back in my mind, and I[r]
+involuntarily turned my face away.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1814|
 [fc]
-[ns]男Ａ[nse]
-「大丈夫かい、お嬢ちゃん？　まあ、あんな風に人が[r]
-　ごろごろとおっ死んでんのを目にするなんてなぁ、[r]
-　普通の人にゃまずねぇだろうからな」[pcms]
+[ns]Man A[nse]
+"You okay there, miss? Well, seeing people lying dead all over like[r]
+that isn't something normal folks would usually witness."[pcms]
 
 *1815|
 [fc]
-オレを中に招き入れてくれた男が、気にした風でもなく[r]
-事もなげにそう言う。[pcms]
+The man who had invited me in said it casually as if it wasn't a big[r]
+deal.[pcms]
 
 *1816|
 [fc]
-[ns]男Ａ[nse]
-「ま、あんなもんは気にしねぇで、こっちに来なよ。[r]
-　仲間たちに引き合わせっからよ」[pcms]
+[ns]Man A[nse]
+"Don't worry about that stuff; come over here. I'll introduce you to[r]
+our comrades."[pcms]
 
 *1817|
 [fc]
-どこか野卑な物言いの男がそう言うと、仲間たちのところに[r]
-オレを連れて行く。[pcms]
+The man with a somewhat vulgar way of speaking said that and took me[r]
+over to his companions.[pcms]
 
 *1818|
 [fc]
-オレは黙って、男のあとについて行った。[r]
-数人の男たちが固まっているところに男は向かう。[pcms]
+I silently followed the man. He headed towards a group of several men[r]
+huddled together.[pcms]
 
 *1819|
 [fc]
-やっぱり、黒服は全員仲間なんだろう。[pcms]
+It seemed that all the men in black suits were indeed comrades.[pcms]
 
 *1820|
 [fc]
-全員、同じ黒ずくめの服装に身を包み、一見リラックスした[r]
-様子に見えて、注意深く周囲に気を配っている。[pcms]
+All of them were dressed in similar all-black attire and appeared[r]
+relaxed at first glance but were carefully watching their[r]
+surroundings.[pcms]
 
 *1821|
 [fc]
-男たちの奥には、施錠されて格子状のシャッターが下ろされた[r]
-ホテルのメインエントランスがあった。[pcms]
+Behind the men was the hotel's main entrance, secured with a locked[r]
+grid-like shutter.[pcms]
 
 *1822|
 [fc]
-そこに見える光景に、オレは足がすくんでそれ以上[r]
-近づくことができなかった。[pcms]
+The sight beyond that made my legs freeze, and I couldn't move any[r]
+closer.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -516,38 +512,38 @@
 
 *1823|
 [fc]
-[ns]感染者Ａ[nse]
-「あぁああぁ～、ぐぅおおおぉ～、ながにいれろおぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Aaaaah~ Gooooh~, let me innnn~"[pcms]
 
 *1824|
 [fc]
-[ns]感染者Ｂ[nse]
-「はらへっだああぁ～、ぐわぜろおぉ～、にぐぐわぜろ～」[pcms]
+[ns]Infected Person B[nse]
+"I'm so hungrrryyy~, gwazerooo~, nigugwazero~"[pcms]
 
 *1825|
 [fc]
-[ns]感染者Ｃ[nse]
-「ああっぁああぁ～、おまんこぉ～おまんこがしたいのぉ～」[pcms]
+[ns]Infected Person C[nse]
+"Aaahh~ I want pussy~ I want to do it~"[pcms]
 
 *1826|
 [fc]
-[ns]感染者Ｄ[nse]
-「がああぁう゛ぅっ、ぐあ゛っぎあ゛あぁあぁう゛うぅっっ！」[pcms]
+[ns]Infected D[nse]
+"Gaaaahh, guahh, giagahh, ahhhh!"[pcms]
 
 *1827|
 [fc]
-[ns]感染者Ｅ[nse]
-「ごろずぅ……ごろじでぐっでやるぅ……があああぁぁ！！」[pcms]
+[ns]Infected E[nse]
+"Gorozuu... I'll do it roughly... gaaaah!!"[pcms]
 
 *1828|
 [fc]
-[ns]感染者Ｆ[nse]
-「あはは……あははははっ、あはははははは……あはははっ！！」[pcms]
+[ns]Infected F[nse]
+"Ahaha... ahahahaha, ahahahahaha... ahaha!!"[pcms]
 
 *1829|
 [fc]
-[ns]感染者Ｇ[nse]
-「んああぁ～ちんぽぉ、おちんぽおぉ～ぶちごんでえぇ～♪」[pcms]
+[ns]Infected G[nse]
+"Nnaah~ dick~, oh cock~ smash it in~♪"[pcms]
 
 ;//◆上は女性？　フルボイスなら一応注意と言うことで
 ;//◆削除すればいいだけですのでそのままに
@@ -558,26 +554,25 @@
 
 *1830|
 [fc]
-思い思いに手を伸ばし、定まらない視線を彷徨わせながら[r]
-こちらに詰めかけようとする、薄汚れた服装をした[r]
-赤い瞳の群れがシャッターの向こうにいた。[pcms]
+Reaching out aimlessly and with wandering gazes, a crowd with red eyes[r]
+and filthy clothes pressed against the shutter on the other side.[pcms]
 
 *1831|
 [fc]
-人間としての理性も尊厳も知性も失って、ただ己の根源的な欲望を[r]
-満たそうと押し寄せる顔、顔、顔……。[pcms]
+Face after face surged forward, having lost all human reason, dignity,[r]
+and intelligence, driven only by their primal desires.[pcms]
 
 *1832|
 [fc]
-目にした光景は、オレのトラウマを呼び起こすには十分だった。[pcms]
+The sight before me was enough to trigger my trauma.[pcms]
 
 *1833|
 [fc]
-嫌だ、嫌だ、嫌だっ！　怖い……怖い……っ！！[pcms]
+No, no, no! I'm scared... so scared...!![pcms]
 
 *1834|
 [fc]
-吐き気がする。気持ちが悪い……。[pcms]
+I feel nauseous. It's disgusting...[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -590,126 +585,120 @@
 *1835|
 [fc]
 [vo_nat s="natu_nt0177"]
-[ns]夏都[nse]
-「う、うう……」[pcms]
+[ns]Natsu[nse]
+"Ugh, ugh..."[pcms]
 
 *1836|
 [fc]
-オレは口元を押さえて、その場にしゃがみ込んでしまった。[pcms]
+I covered my mouth with my hand and crouched down on the spot.[pcms]
 
 [chara_int][trans_c tb time=500]
 
 *1837|
 [fc]
-[ns]男Ａ[nse]
-「おいおい、大丈夫かいお嬢ちゃん。なぁに、心配いらねえって。[r]
-　あのケダモノどもは入っちゃこれねぇからよ」[pcms]
+[ns]Man A[nse]
+"Hey hey, are you okay, miss? Don't worry about it. Those beasts can't[r]
+get in here."[pcms]
 
 *1838|
 [fc]
-オレを案内してくれた男が言葉をかけてくる。[pcms]
+The man who had guided me spoke to me.[pcms]
 
 *1839|
 [fc]
-[ns]男Ｂ[nse]
-「まあ、普通のお嬢さんにゃ、ちーっと刺激の強ぇ光景かもな。[r]
-　だけど心配いらねぇぜ。いくら来ても、俺たちが[r]
-　全員ぶち殺すだけだからよ」[pcms]
+[ns]Man B[nse]
+"Well, for a normal young lady, it might be a bit of a shocking sight.[r]
+But don't worry. No matter how many come, we'll just kill them all."[pcms]
 
 *1840|
 [fc]
-[ns]男Ｃ[nse]
-「お姉ちゃん、このホテルの宿泊客かい？　ま、災難だったが[r]
-　運が悪かったと思って諦めた方がいいぜ。にしても……」[pcms]
+[ns]Male C[nse]
+"Miss, are you a guest at this hotel? Well, it's unfortunate, but you[r]
+should just accept it as bad luck. But still..."[pcms]
 
 *1841|
 [fc]
-ひとりの男が、そう言いながらオレの肩に手をかけた。[pcms]
+A man said that while placing his hand on my shoulder.[pcms]
 
 *1842|
 [fc]
-[ns]男Ｃ[nse]
-「お姉ちゃん、なかなか別嬪さんなんだなぁ。俺の好みだぜ。[r]
-　スタイルもいいし、服装も……魅力的でセクシーだ」[pcms]
+[ns]Male C[nse]
+"Miss, you're quite the beauty. You're just my type. Nice figure and[r]
+your clothes... they're attractive and sexy."[pcms]
 
 *1843|
 [fc]
-男はオレの肩に手を置いたまま、この場の[r]
-血なまぐさい雰囲気には全くそぐわないことを言い始めた。[pcms]
+The man began to say things completely out of place in this blood-[r]
+curdling atmosphere while keeping his hand on my shoulder.[pcms]
 
 *1844|
 [fc]
-その違和感は、感染者に怯えて麻痺してたオレの心が[r]
-正気に戻るきっかけを与えてくれた。[pcms]
+The dissonance gave my mind, paralyzed by fear of the infected, a[r]
+chance to return to sanity.[pcms]
 
 *1845|
 [fc]
-[ns]男Ａ[nse]
-「へっへ……この娘を中に入れたのは俺だからな。[r]
-　その事を忘れんなよ」[pcms]
+[ns]Man A[nse]
+"Heh heh... I'm the one who let this girl in. Don't forget that."[pcms]
 
 *1846|
 [fc]
-[ns]男Ｄ[nse]
-「ああ、わかってるって。しっかし、この娘の肌の色見てると、[r]
-　チェンマイのあの娘を思い出さねぇか？」[pcms]
+[ns]Male D[nse]
+"Yeah, I know. But looking at this girl's skin color, doesn't it[r]
+remind you of that girl from Chiang Mai?"[pcms]
 
 *1847|
 [fc]
-[ns]男Ａ[nse]
-「オメェも好きだなぁ。ありゃ、ジャマフ・イズラミヤーフと[r]
-　やり合った後だっけか」[pcms]
+[ns]Man A[nse]
+"You sure like that kind of thing. That was after the fight with[r]
+Jamafu Izuramiyarufu, right?"[pcms]
 
 *1848|
 [fc]
-[ns]男Ａ[nse]
-「そう言や、あんときもだいぶん部隊が大勢死んだっけなあ。[r]
-　幸い、俺は[ruby text="ボディバッグ"][ch text="死体袋"]の仲間入りは[r]
-　避けられたけどな」[pcms]
+[ns]Man A[nse]
+"Speaking of which, a lot of our troops died back then too. Luckily, I[r]
+avoided joining the body bags."[pcms]
 
 *1849|
 [fc]
-男たちは、オレが聞いてないと思ってるのか、互いに[r]
-そんな会話を交わしている。[pcms]
+The men were having such a conversation as if they thought I wasn't[r]
+listening.[pcms]
 
 *1850|
 [fc]
-会話の中に混じる物騒な単語は、明らかに一般人の[r]
-ものとは思えない。[pcms]
+The dangerous words mixed into their conversation clearly didn't seem[r]
+like those of ordinary people.[pcms]
 
 *1851|
 [fc]
-この連中……いったい何者なんだ……？[pcms]
+Who are these guys...?[pcms]
 
 *1852|
 [fc]
-その時には、オレの頭はだいぶん冷静さを取り戻していた。[pcms]
+By then, my mind had regained a good deal of calmness.[pcms]
 
 *1853|
 [fc]
-しかし、まだオレが怯えたまんまだと思い込んでる男は、[r]
-相変わらずオレの肩に手を置いたままで[r]
-話し続けている。[pcms]
+However, the man who still believed I was frightened kept talking non-[r]
+stop with his hand still on my shoulder.[pcms]
 
 *1854|
 [fc]
-[ns]男Ｃ[nse]
-「彼女、スタイルもいいよなあ……おっぱいが大きくて、[r]
-　そこんとこも俺の好みにばっちりだぜ……。[r]
-　サイズ、なにカップあるんだい？」[pcms]
+[ns]Male C[nse]
+"She's got a nice figure... big breasts too, exactly to my liking...[r]
+What size are you, what cup?"[pcms]
 
 *1855|
 [fc]
-男の声は、ほとんどオレの耳元で[r]
-囁くような調子になっていた。[pcms]
+The man's voice was almost whispering in my ear.[pcms]
 
 *1856|
 [fc]
-これは、女を口説く時の話し方だ。[pcms]
+This was the way a man talks when he's hitting on a woman.[pcms]
 
 *1857|
 [fc]
-オレは、その場からゆっくりと立ち上がった。[pcms]
+I slowly stood up from where I was.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情01　通常　
@@ -717,28 +706,26 @@
 *1858|
 [fc]
 [vo_nat s="natu_nt0178"]
-[ns]夏都[nse]
-「かなり落ち着いたんで、もう大丈夫だから。[r]
-　心配してくれてありがとう」[pcms]
+[ns]Natsu[nse]
+"I've calmed down quite a bit now, so I'm fine. Thanks for worrying[r]
+about me."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1859|
 [fc]
-そう言って軽く笑うと、嫌味にならない程度の勢いで[r]
-その場から歩き出し、肩に乗せられた男の手を[r]
-振り切った。[pcms]
+With a light smile that wasn't too sarcastic, I walked away from the[r]
+spot and shook off the man's hand from my shoulder.[pcms]
 
 *1860|
 [fc]
-[ns]男Ｃ[nse]
-「あ、おいおい……あんまりうろうろすんじゃねえぞ。[r]
-　そんなことよりよ……」[pcms]
+[ns]Male C[nse]
+"Hey, hey... don't wander around too much. Instead of that..."[pcms]
 
 *1861|
 [fc]
-手を振り切られた男が、オレの背後でなにか言ってるが、[r]
-それは気にしない。[pcms]
+The man whose hand I had shaken off was saying something behind me,[r]
+but I didn't care.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -746,8 +733,9 @@
 
 *1862|
 [fc]
-すっかり冷静さを取り戻したオレは、散歩するような調子で[r]
-注意深く男たちの様子と周囲の状況とを素早く観察した。[pcms]
+Having completely regained my composure, I observed the men's behavior[r]
+and the surrounding situation carefully and quickly as if taking a[r]
+stroll.[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
@@ -758,91 +746,89 @@
 *1863|
 [fc]
 [vo_nat s="natu_nt0179"]
-[ns]夏都[nse]
-（あれは……！）[pcms]
+[ns]Natsu[nse]
+"(That is...!)"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1864|
 [fc]
-冷静になって見てみると、男たちが醸し出す異様さの原因には[r]
-すぐに気がついた。[pcms]
+Now that I was calm, I quickly noticed the cause of the men's[r]
+strangeness.[pcms]
 
 *1865|
 [fc]
-男たちは全員、背広の内側に、ホルスターに吊した[r]
-拳銃を携えていた。[pcms]
+All the men were carrying guns in holsters inside their suit jackets.[pcms]
 
 *1866|
 [fc]
-胸元の膨らみかただけじゃ、銃の種類までは[r]
-ちょっと分からないが……多分、“マカ”か“トカ”か[r]
-そんなとこだろう。[pcms]
+I can't tell the type of gun just from the bulge in their chest... but[r]
+probably a "Mak" or a "Tok" or something like that.[pcms]
 
 ;//m:銃の名称を適当に濁しておく
 
 *1867|
 [fc]
-そして、ホテルの一角に集められた死体。[pcms]
+And then, the corpses gathered in a corner of the hotel.[pcms]
 
 *1868|
 [fc]
-さっきは思わず目を背けてしまったけど、[r]
-よく見たら、明らかに赤目じゃない人間の死体が[r]
-何人も混じっている。[pcms]
+Although I had instinctively looked away before, upon closer[r]
+inspection, it was clear that among them were several bodies of people[r]
+who didn't have red eyes.[pcms]
 
 *1869|
 [fc]
-こいつら、感染してない人間までお構いなしで[r]
-撃ち殺したのか……！？[pcms]
+Did these guys shoot and kill even people who weren't infected without[r]
+any care...!?[pcms]
 
 *1870|
 [fc]
-オレは腹の底から、怒りがふつふつと沸いてくるのを[r]
-感じていた。[pcms]
+I could feel anger bubbling up from the pit of my stomach.[pcms]
 
 *1871|
 [fc]
-こいつらは、ただのホテルの警備員じゃないことは確かだ。[r]
-警備員が実銃で武装してたりしたら大問題だしな。[pcms]
+It was certain that these guys weren't just hotel security guards. It[r]
+would be a big problem if security guards were armed with real guns.[pcms]
 
 *1872|
 [fc]
-かと言って、単なる武装ヤクザの集団とも思えない。[pcms]
+But I couldn't see them as just a group of armed yakuza either.[pcms]
 
 *1873|
 [fc]
-言葉遣いに品はないが、山賊軍隊みたいな武装ヤクザと違って、[r]
-この男たちは統率がとれている。[pcms]
+They lacked refinement in their speech, but unlike armed yakuza that[r]
+resembled bandit troops, these men were well-coordinated.[pcms]
 
 *1874|
 [fc]
-身のこなしや立ち居振る舞い、ちょっとした言葉の使い方から[r]
-考えて、軍隊経験のある人間だということは間違いない。[pcms]
+From their movements, their demeanor, and the subtle use of language,[r]
+it was clear they had military experience.[pcms]
 
 *1875|
 [fc]
-ただ、流儀がオレの知ってる自衛隊式とは違う。[r]
-海外で戦闘経験のある傭兵集団……とかだろうか。[pcms]
+However, their style was different from the Self-Defense Forces I[r]
+knew. Maybe they were a group of mercenaries with combat experience[r]
+overseas...[pcms]
 
 *1876|
 [fc]
-なんで、こんな連中がこんな場所にいるんだよ！？[pcms]
+Why are these guys in a place like this!?[pcms]
 
 *1877|
 [fc]
-それに、オレを中に入れたのは……どうしてだ？[pcms]
+And why did they let me inside... why?[pcms]
 
 *1878|
 [fc]
 [ns]？？？[nse]
-「うろうろしないで、やつらの所に戻ってもらおうか」[pcms]
+"Don't wander around, let's have you return to where the others are."[pcms]
 
 ;//オズ
 
 *1879|
 [fc]
-その時、突然オレは背中から誰かに声をかけられた。[pcms]
+At that moment, I was suddenly addressed by someone from behind.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -855,8 +841,9 @@
 
 *1880|
 [fc]
-全く気配を感じさせずに後ろにつかれた事に驚いて振り返ると、[r]
-そこには、酷薄な目つきをした男が立っていた。[pcms]
+Surprised that someone had managed to approach me without any[r]
+presence, I turned around to find a man with a cold look in his eyes[r]
+standing there.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情04　真剣　
@@ -864,44 +851,42 @@
 *1881|
 [fc]
 [vo_nat s="natu_nt0180"]
-[ns]夏都[nse]
-「あんたは……？」[pcms]
+[ns]Natsu[nse]
+"Who are you...?"[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1882|
 [fc]
-[ns]オズ[nse]
-「俺はオズ。こいつらの指揮官……と言ったとこだ」[pcms]
+[ns]Oz[nse]
+"I'm Oz. You could say I'm the commander of these guys..."[pcms]
 
 *1883|
 [fc]
-[ns]オズ[nse]
-「そんなことはどうでもいい。用はいま言った通りだ。[r]
-　連中のところに戻るんだ」[pcms]
+[ns]Oz[nse]
+"But that doesn't matter. My request is as I just said. Return to[r]
+where the others are."[pcms]
 
 *1884|
 [fc]
-普通にしてるだけなのに、オズと名乗った男の全身からは[r]
-死線をくぐり抜けてきた人間だけが持つ、[r]
-独特の凄みが感じられた。[pcms]
+Even though he was just standing there normally, the man who called[r]
+himself Oz exuded a unique intensity that only those who have survived[r]
+death can possess.[pcms]
 
 *1885|
 [fc]
-間違いなく、こいつは相当[r]
-修羅場を潜ってきた人間に違いない。[pcms]
+Without a doubt, this guy has been through some serious battles.[pcms]
 
 *1886|
 [fc]
-[ns]オズ[nse]
-「女、聞こえなかったのか？[r]
-　俺は何度も同じ事を言うのが嫌いだ。[r]
-　早く連中のところに戻れ」[pcms]
+[ns]Oz[nse]
+"Woman, didn't you hear me? I hate repeating myself. Get back to where[r]
+the others are quickly."[pcms]
 
 *1887|
 [fc]
-あまりコイツは怒らせない方が賢い……のは間違いないが、[r]
-オレはどうしても、この男に訊きたいことがあった。[pcms]
+It was clear that it would be wise not to anger this guy... but there[r]
+was something I just had to ask him.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情01　通常　
@@ -909,17 +894,17 @@
 *1888|
 [fc]
 [vo_nat s="natu_nt0181"]
-[ns]夏都[nse]
-「なあ、あんたが連中の指揮官だって言うんなら[r]
-　ひとつふたつ質問してもいいか？」[pcms]
+[ns]Natsu[nse]
+"Hey, if you're the commander of these guys, can I ask you one or two[r]
+questions?"[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1889|
 [fc]
-[ns]オズ[nse]
-「言ってみろ。答えるかどうかは、[r]
-　お前の質問を聞いてから考えてやる」[pcms]
+[ns]Oz[nse]
+"Speak. Whether I answer or not will depend on your questions after I[r]
+hear them."[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情02　笑顔１
@@ -927,9 +912,9 @@
 *1890|
 [fc]
 [vo_nat s="natu_nt0182"]
-[ns]夏都[nse]
-「そりゃあ、どうも……じゃ、最初の質問だ。[r]
-　あのロビーの端に集められてる死体だが……」[pcms]
+[ns]Natsu[nse]
+"Thanks... so here's my first question. About those bodies gathered at[r]
+the end of the lobby..."[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情04　真剣　
@@ -937,16 +922,16 @@
 *1891|
 [fc]
 [vo_nat s="natu_nt0183"]
-[ns]夏都[nse]
-「あそこで撃たれて死んでる中には、目が赤くない[r]
-　明らかに普通の人間の死体もあった」[pcms]
+[ns]Natsu[nse]
+"Among those shot dead there are bodies with normal eyes, clearly not[r]
+infected."[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1892|
 [fc]
-[ns]オズ[nse]
-「……………………………」[pcms]
+[ns]Oz[nse]
+"..."[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情04　真剣　
@@ -954,15 +939,15 @@
 *1893|
 [fc]
 [vo_nat s="natu_nt0184"]
-[ns]夏都[nse]
-「なんで、感染してない人を撃ち殺した？」[pcms]
+[ns]Natsu[nse]
+"Why did you shoot and kill people who weren't infected?"[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1894|
 [fc]
-[ns]オズ[nse]
-「それを、お前が訊いてどうする？」[pcms]
+[ns]Oz[nse]
+"What will you do with that information if I tell you?"[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情05　怒り　
@@ -970,54 +955,53 @@
 *1895|
 [fc]
 [vo_nat s="natu_nt0185"]
-[ns]夏都[nse]
-「いいから答えろ！」[pcms]
+[ns]Natsu[nse]
+"Just answer me!"[pcms]
 
 *1896|
 [fc]
-思わず頭にかっと血がのぼって、オレは叫んでしまった。[pcms]
+I couldn't help but raise my voice as anger rushed to my head.[pcms]
 
 *1897|
 [fc]
-オレの声を聞いて、黒服の男たちが近寄ってくる。[pcms]
+Hearing my voice, men in black suits started to approach.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1898|
 [fc]
-オレの問いに、オズと名乗った男が『やれやれ……』とでも[r]
-言いたげに、鼻でふっ、と笑った。[pcms]
+The man who called himself Oz let out a snort as if to say "give me a[r]
+break..."[pcms]
 
 *1899|
 [fc]
-そして、男の雰囲気が一変した。[pcms]
+Then, the man's demeanor completely changed.[pcms]
 
 *1900|
 [fc]
-それまでは、まだこの男としてはリラックスしてたんだろう。[r]
-甘さというか、つけ込む隙のようなもんが感じられた。[pcms]
+Until now, he must have been relatively relaxed. There was a sense of[r]
+sweetness, or rather an opportunity to take advantage of.[pcms]
 
 *1901|
 [fc]
-しかし、今、オズの態度からはそんなものは[r]
-これっぽっちも感じられない。[pcms]
+But now, there was not a trace of such a thing in Oz's attitude.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1902|
 [fc]
-[ns]オズ[nse]
-「年長者への口の利き方を知らん女だな。まあいい。[r]
-　次の質問を言ってみろ」[pcms]
+[ns]Oz[nse]
+"You're a woman who doesn't know how to speak to her elders. Well,[r]
+fine. Go ahead with your next question."[pcms]
 
 *1903|
 [fc]
-オズが、死神のような目つきでそう言う。[pcms]
+Oz said this with eyes like those of the Grim Reaper.[pcms]
 
 *1904|
 [fc]
-オレのひとつめの質問に答えるつもりはない、というのが[r]
-その言葉から伺えた。[pcms]
+It was clear from his words that he had no intention of answering my[r]
+first question.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情04　真剣　
@@ -1025,20 +1009,19 @@
 *1905|
 [fc]
 [vo_nat s="natu_nt0186"]
-[ns]夏都[nse]
-「オレをどうするつもりだ？」[pcms]
+[ns]Natsu[nse]
+"What are you planning to do with me?"[pcms]
 
 *1906|
 [fc]
-オレの質問に、またオズが鼻で笑った。[pcms]
+At my question, Oz laughed through his nose again.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1907|
 [fc]
-[ns]オズ[nse]
-「その質問には答えてやろう。[r]
-　お前には連中の相手をしてもらう」[pcms]
+[ns]Oz[nse]
+"I'll answer that question. You're going to entertain these guys."[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情12　不満　
@@ -1046,21 +1029,22 @@
 *1908|
 [fc]
 [vo_nat s="natu_nt0187"]
-[ns]夏都[nse]
-「…………はあ？」[pcms]
+[ns]Natsu[nse]
+"...Huh?"[pcms]
 
 *1909|
 [fc]
-オズの言ってる意味がよく分からずに、思わずオレは[r]
-我ながらマヌケな声を上げて聞き返してしまった。[pcms]
+Not fully understanding what Oz meant, I inadvertently let out a[r]
+stupid-sounding voice as I asked again.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1910|
 [fc]
-[ns]オズ[nse]
-「連中と寝ろ。感染者に襲われてた命を拾ってやったんだ。[r]
-　その程度の簡単な見返りを要求してもかまわんだろ」[pcms]
+[ns]Oz[nse]
+"Sleep with them. We picked up your life after you were attacked by[r]
+the infected. It's not unreasonable to ask for that simple a favor in[r]
+return."[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情05　怒り　
@@ -1068,92 +1052,89 @@
 *1911|
 [fc]
 [vo_nat s="natu_nt0188"]
-[ns]夏都[nse]
-「誰がお前らなんかと寝るかよっ！」[pcms]
+[ns]Natsu[nse]
+"Who would sleep with you guys?!"[pcms]
 
 *1912|
 [fc]
-思わずオレは、かっとなってそう言い返していた。[pcms]
+I couldn't help but retort angrily.[pcms]
 
 *1913|
 [fc]
-しかし、オズはオレの返答に怒った様子はない。[pcms]
+However, Oz didn't seem angry at my response.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1914|
 [fc]
-[ns]オズ[nse]
-「馬鹿な女だ。和姦で済ませることもできたのに[r]
-　そうしなかったのは、お前自身の選択だ」[pcms]
+[ns]Oz[nse]
+"Stupid woman. You could have settled this amicably, but you chose not[r]
+to."[pcms]
 
 *1915|
 [fc]
-あくまで淡々と、オズがそう答える。[pcms]
+Oz answered dispassionately.[pcms]
 
 *1916|
 [fc]
-その静かさが、かえって不気味だった。[pcms]
+His calmness was somehow more ominous.[pcms]
 
 *1917|
 [fc]
-[ns]男Ａ[nse]
-「オズ、ここは俺が……」[pcms]
+[ns]Man A[nse]
+"Oz, let me handle this..."[pcms]
 
 *1918|
 [fc]
-オレたちの周囲を取り囲んでいた黒服のひとりが、[r]
-オズに話しかける。[pcms]
+One of the men in black suits surrounding us spoke to Oz.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1919|
 [fc]
-[ns]オズ[nse]
-「引っ込んでろ。口も手も出すな」[pcms]
+[ns]Oz[nse]
+"Back off. Don't open your mouth or lay a finger on her."[pcms]
 
 *1920|
 [fc]
-しかし、オズにぎろりと一瞥されると、屈強な男がまるで[r]
-蛇に睨まれた蛙のように身をすくめて、[r]
-すごすごと引き下がった。[pcms]
+But when Oz glared at him sharply, the burly man shrank back like a[r]
+frog being stared down by a snake and reluctantly retreated.[pcms]
 
 *1921|
 [fc]
-オズがオレに向き直って口を開く。[pcms]
+Oz turned back to face me and opened his mouth.[pcms]
 
 *1922|
 [fc]
-[ns]オズ[nse]
-「女。もう一度だけ言う。これが最後のチャンスだ。[r]
-　こいつらと寝ろ」[pcms]
+[ns]Oz[nse]
+"Woman. I'll say it one more time, this is your last chance. Sleep[r]
+with these men."[pcms]
 
 *1923|
 [fc]
-オズの目が、じっとオレの目を見据えている。[pcms]
+Oz's eyes were fixedly staring into mine.[pcms]
 
 *1924|
 [fc]
-人を殺すことをなんとも思っていない人間の目だ。[pcms]
+They were the eyes of someone who thought nothing of killing a person.[pcms]
 
 *1925|
 [fc]
-オレは両手の掌にじんわりと汗をかいていた。[pcms]
+I felt sweat forming on the palms of my hands.[pcms]
 
 *1926|
 [fc]
-こいつの言葉を拒絶したら、どんなことになるのか……[r]
-残念だけど簡単に予想がつく。[pcms]
+If I rejected his words, I could easily imagine what would happen[r]
+next... Unfortunately, it was easy to predict.[pcms]
 
 *1927|
 [fc]
-でも、だからと言って、オズの言葉は[r]
-オレが受け入れられるような内容じゃなかった。[pcms]
+But that didn't mean I could accept what Oz was saying.[pcms]
 
 *1928|
 [fc]
-[ns]オズ[nse]
-「女、答えろ」[pcms]
+[ns]Oz[nse]
+"Woman, answer me."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1161,7 +1142,7 @@
 
 *1929|
 [fc]
-オレは腹を決めた。[pcms]
+I made up my mind.[pcms]
 
 ;//bgm12.ogg
 [bgm storage="BGM12"]
@@ -1172,41 +1153,41 @@
 *1930|
 [fc]
 [vo_nat s="natu_nt0189"]
-[ns]夏都[nse]
-「寝言は寝てから言え。この人殺しヤロウどもが。[r]
-　オレとやりたきゃ、力づくで言うこときかせてみな！」[pcms]
+[ns]Natsu[nse]
+"Save your sleep talk for when you're asleep, you murderers. If you[r]
+want to mess with me, try forcing me to listen!"[pcms]
 
 *1931|
 [fc]
-オレの啖呵に、周囲を取り囲んでいた黒服たちの間から[r]
-おお……とか、ああ……とか言った声が漏れた。[pcms]
+At my defiant words, murmurs of "ooh..." and "aah..." leaked out from[r]
+among the black-suited men surrounding us.[pcms]
 
 *1932|
 [fc]
-感嘆のどよめきと言うよりも、身の程知らずの人間を[r]
-嘲笑するようなその声に、オレは一抹の不安を感じた。[pcms]
+Rather than a murmur of admiration, their voices mocked the ignorance[r]
+of someone out of their depth, and I felt a twinge of anxiety.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1933|
 [fc]
-[ns]オズ[nse]
-「つくづく馬鹿な女だ。まあいい。[r]
-　それがお前の回答だということだな」[pcms]
+[ns]Oz[nse]
+"You're an incredibly foolish woman. Well, fine. That's your answer[r]
+then."[pcms]
 
 *1934|
 [fc]
-そう言うと、オズがオレに近づいてきた。[pcms]
+With that said, Oz approached me.[pcms]
 
 *1935|
 [fc]
-気負いもなにもなく、ただ普通に歩いて近づいてくる。[pcms]
+He walked towards me without any bravado, just normally.[pcms]
 
 *1936|
 [fc]
-[ns]オズ[nse]
-「今の言葉を死ぬほど後悔することになるだろうが……[r]
-　年長者への礼儀をその体に叩き込んでやる」[pcms]
+[ns]Oz[nse]
+"You'll regret those words to death... but I'll teach you how to show[r]
+respect to your elders through your body."[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情05　怒り　
@@ -1214,43 +1195,44 @@
 *1937|
 [fc]
 [vo_nat s="natu_nt0190"]
-[ns]夏都[nse]
-「ざけんなっ！！」[pcms]
+[ns]Natsu[nse]
+"Don't screw with me!!"[pcms]
 
 [se buf=0 storage="seB039"]
 ;//♪SE狼男のパンチ風切り音
 
 *1938|
 [fc]
-オレは先手必勝とばかりに、オズの股間目がけて[r]
-トウキックをお見舞いした。[pcms]
+I aimed a kick at Oz's crotch with the intent of striking first and[r]
+winning.[pcms]
 
 [quake_bg xy m]
 
 *1939|
 [fc]
-しかし、オレの蹴りはオズの股間を直撃することなく、[r]
-あっさりとオズの腕に払いのけられてしまった。[pcms]
+However, my kick didn't hit Oz's crotch directly and was easily[r]
+brushed aside by his arm.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1940|
 [fc]
-[ns]オズ[nse]
-「ふん、鼻っ柱の強い女だと思ったら、お前も軍属の人間か。[r]
-　初手が金的蹴りとは、戦場格闘術の教本通りの行動だな。[r]
-　少しは腕に憶えがあるつもりみたいだが……」[pcms]
+[ns]Oz[nse]
+"Hmph, I thought you were a woman with a strong backbone, but you're[r]
+also a military person, huh? A groin kick as the first move is[r]
+straight out of the combat manual. You seem to think you have some[r]
+skill..."[pcms]
 
 *1941|
 [fc]
-なんの感情も見せずに、淡々とオズが話す。[pcms]
+Oz spoke dispassionately, showing no emotion.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1942|
 [fc]
-[ns]オズ[nse]
-「その程度の腕では、話にもならんな」[pcms]
+[ns]Oz[nse]
+"But with that level of skill, you're not even worth talking about."[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -1265,42 +1247,41 @@
 *1943|
 [fc]
 [vo_nat s="natu_nt0191"]
-[ns]夏都[nse]
-「んあっ！？」[pcms]
+[ns]Natsu[nse]
+"Ngh!?"[pcms]
 
 *1944|
 [fc]
-次の瞬間、オレは横っ面に強烈な衝撃を感じてよろめいた。[pcms]
+The next moment, I felt a strong impact on my cheek and staggered.[pcms]
 
 *1945|
 [fc]
-俺の周囲を囲んだ黒服たちが、にやにやしながら[r]
-オレがよろめくのを見ている。[pcms]
+The men in black suits surrounding me were grinning as they watched me[r]
+stumble.[pcms]
 
 *1946|
 [fc]
-な……何をされたんだ……？[r]
-頬をビンタされたみたいだが……。[pcms]
+What... what happened? It felt like I was slapped on the cheek...[pcms]
 
 *1947|
 [fc]
-まったく……腕が動いたのが分からなかった。[pcms]
+I didn't even see his arm move at all.[pcms]
 
 *1948|
 [fc]
-そ、そんなことって……。[pcms]
+How... how is that even possible...?[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1949|
 [fc]
-[ns]オズ[nse]
-「見えるところに傷を残すと興醒めだからな。[r]
-　顔は勘弁しておいてやる」[pcms]
+[ns]Oz[nse]
+"Leaving marks where they can be seen is a turn-off. I'll spare your[r]
+face."[pcms]
 
 *1950|
 [fc]
-そう言って、オズが一歩前に踏み出した。[pcms]
+With that said, Oz stepped forward.[pcms]
 
 
 ;//夏都大＠水着＋上着＋スカ（Ａ）　表情14　恐怖　
@@ -1308,13 +1289,13 @@
 *1951|
 [fc]
 [vo_nat s="natu_nt0192"]
-[ns]夏都[nse]
-「ひっ、ひえっ！！」[pcms]
+[ns]Natsu[nse]
+"Eek, eek!!"[pcms]
 
 *1952|
 [fc]
-見えない攻撃に、オレは思わずファイティングポーズをとった腕で[r]
-上半身をカバーして身を竦めた。[pcms]
+Unable to see the attack, I instinctively took a fighting pose and[r]
+covered my upper body with my arms, cowering.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1336,42 +1317,43 @@
 *1953|
 [fc]
 [vo_nat s="natu_nt0193"]
-[ns]夏都[nse]
-「ぐううぅぅぅっ！！」[pcms]
+[ns]Natsu[nse]
+"Guhhhhh!!"[pcms]
 
 *1954|
 [fc]
-守りを固めた腕はなんの役にも立たず、オレの両脇腹が[r]
-連続で痛打された。[pcms]
+My arms, raised in defense, were useless as I was struck repeatedly in[r]
+both sides of my abdomen.[pcms]
 
 *1955|
 [fc]
-ボクシングの世界では、アッパーカットは天国に昇天、[r]
-ボディブローは地獄の苦しみなんて表現がされるけど、[r]
-オレが感じていたのは、まさに地獄の苦しみ×２だった。[pcms]
+In the world of boxing, an uppercut is said to send you to heaven,[r]
+while a body blow is the agony of hell. What I was feeling was exactly[r]
+double the agony of hell.[pcms]
 
 *1956|
 [fc]
 [vo_nat s="natu_nt0194"]
-[ns]夏都[nse]
-「ぐうぅぅぅ……ああぁぁぁ……くうぅっ……」[pcms]
+[ns]Natsu[nse]
+"Guhhh... ahhh... kuhhh..."[pcms]
 
 *1957|
 [fc]
-膝を折ってその場に倒れてのたうち回りたいほどの激痛が[r]
-オズに打たれた両脇腹から全身に広がってゆくが、[r]
-必死に足を踏ん張り、かろうじてオレは立っていた。[pcms]
+Intense pain spread throughout my body from both sides of my abdomen[r]
+where Oz had struck me. Desperately bracing my legs, I barely managed[r]
+to stay standing.[pcms]
 
 *1958|
 [fc]
-や……やばい……こいつ……レベルが……ぜんぜん違う……。[pcms]
+This is bad... this guy... he's on a completely different level...[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1959|
 [fc]
-[ns]オズ[nse]
-「今ので倒れないのは褒めてやる。だが、これで終わりだ」[pcms]
+[ns]Oz[nse]
+"I'll give you credit for not falling after that. But this is the[r]
+end."[pcms]
 
 ;//SE　重いパンチの音
 ;//seB008.ogg
@@ -1384,23 +1366,23 @@
 *1960|
 [fc]
 [vo_nat s="natu_nt0195"]
-[ns]夏都[nse]
-「ぐ………ふっ………！」[pcms]
+[ns]Natsu[nse]
+"Guh... huff...!"[pcms]
 
 *1961|
 [fc]
-オレが身構える間もなく、オズのパンチが深々とオレの鳩尾を[r]
-打ち抜いていた。[pcms]
+Before I could brace myself, Oz's punch had deeply penetrated my solar[r]
+plexus.[pcms]
 
 *1962|
 [fc]
-肺の空気が全部外に絞り出され、呼吸ができない。[pcms]
+All the air was squeezed out of my lungs, and I couldn't breathe.[pcms]
 
 *1963|
 [fc]
-胃が突き破られたんじゃないかと思うような強烈な激痛に[r]
-たまらずオレはその場に膝をついて、前のめりに[r]
-倒れていた。[pcms]
+The intense pain was so severe I thought my stomach had been[r]
+punctured. Unable to bear it, I fell to my knees and collapsed[r]
+forward.[pcms]
 
 [chara_int][trans_c tb time=500]
 [se buf=0 storage="seB013"]
@@ -1409,47 +1391,44 @@
 *1964|
 [fc]
 [vo_nat s="natu_nt0196"]
-[ns]夏都[nse]
-「か……はっ……ぐっ、ぐうううぅぅぅっ……！」[pcms]
+[ns]Natsu[nse]
+"Ka... hah... guh, guhhhhhh...!"[pcms]
 
 *1965|
 [fc]
-床に倒れ込んで悶絶するオレを見下ろして、[r]
-オズが冷たく言い放った。[pcms]
+Looking down at me writhing on the floor, Oz coldly stated.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1966|
 [fc]
-[ns]オズ[nse]
-「ふん……手間をかけさせやがって。[r]
-　これで少しは身の程を知っただろう」[pcms]
+[ns]Oz[nse]
+"Hmph... you've caused me enough trouble. Maybe now you've learned[r]
+your place."[pcms]
 
 *1967|
 [fc]
-[ns]男Ｄ[nse]
-「お疲れさまでした、オズ。[r]
-　この女、どうします？」[pcms]
+[ns]Male D[nse]
+"Good work, Oz. What should we do with this woman?"[pcms]
 
 *1968|
 [fc]
-[ns]オズ[nse]
-「さすがにこんな開けっぴろげなとこだと気が散るからな。[r]
-　そうだな……バーがいいだろう。連れて行け」[pcms]
+[ns]Oz[nse]
+"It's too open here and distracting. Yeah... let's take her to the[r]
+bar. Take her away."[pcms]
 
 *1969|
 [fc]
-[ns]男Ｃ[nse]
-「了解しました」[pcms]
+[ns]Male C[nse]
+"Understood."[pcms]
 
 *1970|
 [fc]
-床に倒れたオレの両腕を、黒服が左右からつかむ。[pcms]
+The men in black suits grabbed both of my arms as I lay on the floor.[pcms]
 
 *1971|
 [fc]
-男たちはそのままオレの体を引きずって、[r]
-バーラウンジへと連れて行った。[pcms]
+The men dragged my body away and took me to the bar lounge.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1466,7 +1445,7 @@
 ;//bgm16.ogg
 [bgm storage="BGM16"]
 
-;//■イベントCG　natu_H008(6k)（まんぐりがえし状態の夏都。両足を別々の男にホールドされ　無理矢理開脚させられてる）
+;//■イベントCG　natu_H008(6k)（まんぐりがえし状態の夏。両足を別々の男にホールドされ　無理矢理開脚させられてる）
 [evcg storage="natu_H008a"][trans_c cross time=300]
 
 ;//システムアイコン＆メッセージウィンドウ表示
@@ -1475,50 +1454,48 @@
 *1972|
 [fc]
 [vo_nat s="natu_nt0197"]
-[ns]夏都[nse]
-「ちっ……くしょ……放せっ！　放しやがれっ！！」[pcms]
+[ns]Natsu[nse]
+"Tch... damn it... let go! Let go of me!!"[pcms]
 
 *1973|
 [fc]
-オレは男たちに押さえつけられて、恥ずかしい格好を[r]
-させられていた。[pcms]
+I was held down by the men, forced into an embarrassing position.[pcms]
 
 [evcg storage="natu_H008c"][trans_c cross time=300]
 
 *1974|
 [fc]
-黒服が、両側から１本ずつ足をつかんで、思い切り[r]
-オレの足を広げている。[pcms]
+The black suits grabbed one leg each and spread my legs wide open with[r]
+force.[pcms]
 
 *1975|
 [fc]
-オールインワンのレオタードだからまだマシだったが、[r]
-ミニスカートはめくれ上がって、思い切り股間が[r]
-剥き出しになってしまっていた。[pcms]
+It was somewhat better since I was wearing an all-in-one leotard, but[r]
+if it had been a miniskirt, it would have flipped up completely,[r]
+exposing my crotch.[pcms]
 
 *1976|
 [fc]
-[ns]オズ[nse]
-「いい格好だな。パンツがまる見えだぜ」[pcms]
+[ns]Oz[nse]
+"Nice view. Your panties are totally visible."[pcms]
 
 *1977|
 [fc]
-恥ずかしい格好で押さえつけられているオレを見下ろしながら[r]
-近づいてきたオズがそう言った。[pcms]
+Oz approached as he looked down at me held in an embarrassing position[r]
+and said that.[pcms]
 
 [evcg storage="natu_H008d"][trans_c cross time=300]
 
 *1978|
 [fc]
 [vo_nat s="natu_nt0198"]
-[ns]夏都[nse]
-「うる……せえっ！　この人殺し集団がっ！[r]
-　いいからオレを放せっ！」[pcms]
+[ns]Natsu[nse]
+"Shut up! You murderers! Just let me go!"[pcms]
 
 *1979|
 [fc]
-[ns]オズ[nse]
-「口の減らない女だな」[pcms]
+[ns]Oz[nse]
+"You've got quite a mouth on you."[pcms]
 
 ;//SE：重いキックの音
 ;//seB009.ogg
@@ -1526,30 +1503,30 @@
 
 *1980|
 [fc]
-そう言うと、オズがいきなりオレの腹に蹴りをくれた。[pcms]
+As he said that, Oz suddenly kicked me in the stomach.[pcms]
 
 [evcg storage="natu_H008b"][trans_c cross time=300]
 
 *1981|
 [fc]
 [vo_nat s="natu_nt0199"]
-[ns]夏都[nse]
-「ぐっ……ぐぶっ！　ぐぇほっ！　げ……げぼおぉぉえぇぇっ！」[pcms]
+[ns]Natsu[nse]
+"Guh... gubh! Ghehoh! Ge... gebhoooooehhh!"[pcms]
 
 *1982|
 [fc]
-強烈な蹴りが胃袋に直撃し、オレは思わず[r]
-押さえつけられたまま吐いてしまった。[pcms]
+The powerful kick hit my stomach directly, and I couldn't help but[r]
+vomit while still being held down.[pcms]
 
 *1983|
 [fc]
-[ns]オズ[nse]
-「少しは素直になれるように、俺がその体に教えてやる」[pcms]
+[ns]Oz[nse]
+"I'll teach your body to be a bit more obedient."[pcms]
 
 *1984|
 [fc]
-オズがそう言うと、オレのレオタードの股ぐりを横にずらして[r]
-いきなりチンポを突っ込んできた。[pcms]
+Oz said that as he shifted the crotch of my leotard aside and suddenly[r]
+thrust his dick inside.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1562,135 +1539,130 @@
 *1985|
 [fc]
 [vo_nat s="natu_nt0200"]
-[ns]夏都[nse]
-「ぎっ、ぐぎいいぃぃぃっっ！！」[pcms]
+[ns]Natsu[nse]
+"Gih, guhiiiiii!!"[pcms]
 
 *1986|
 [fc]
-濡れてないマンコにいきなりチンポを突っ込まれた激痛に[r]
-オレは身をよじった。[pcms]
+The sudden pain of a dick thrusting into my dry pussy made me writhe.[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
 *1987|
 [fc]
-[ns]オズ[nse]
-「さんざん手間をかけさせやがって。この腐れビッチが！[r]
-　どうせいろんな男とさんざん遊び倒してんだろ？[r]
-　ヤリマンの癖に勿体つけてんじゃねえよ！」[pcms]
+[ns]Oz[nse]
+"After all the trouble you've caused. You rotten bitch! You've[r]
+probably been fooling around with all sorts of guys, haven't you?[r]
+Don't act so high and mighty, you slut!"[pcms]
 
 *1988|
 [fc]
-オズがそれまでの物静かな態度をかなぐり捨て、激しい口調で[r]
-オレを罵りながら腰を打ち付けてくる。[pcms]
+Oz discarded his previously calm demeanor and began to thrust his hips[r]
+violently while hurling insults at me.[pcms]
 
 [evcg storage="natu_H008f"][trans_c cross time=300]
 
 *1989|
 [fc]
 [vo_nat s="natu_nt0201"]
-[ns]夏都[nse]
-「あ、がああぁっ！　ぐううっ！　ぎうっ！　ぐううぅぅっ！」[pcms]
+[ns]Natsu[nse]
+"Ah, agaaaah! Guuuh! Giuh! Guuuuuh!"[pcms]
 
 ;//mine:ちょっとうるさいけど、しばらくこれで
 
 *1990|
 [fc]
-オズのチンポがオレのオマンコを出入りする度に、[r]
-濡れてないオマンコから激痛が走る。[pcms]
+With every thrust of Oz's dick, a sharp pain shot through my dry[r]
+pussy.[pcms]
 
 *1991|
 [fc]
-[ns]オズ[nse]
-「ふん、ヤリマンの癖に締まりだけはいいじゃねぇか！[r]
-　裸みてぇな格好しやがってよ、それで男あさりすんのかぁ！[r]
-　チンポだったらなんだっていいんだろ、ああ！？」[pcms]
+[ns]Oz[nse]
+"Hmph, for a slut, you're pretty tight! Dressed almost naked like[r]
+that, is that how you go hunting for men? Any dick will do for you,[r]
+huh?!"[pcms]
 
 [evcg storage="natu_H008g"][trans_c cross time=300]
 
 *1992|
 [fc]
 [vo_nat s="natu_nt0202"]
-[ns]夏都[nse]
-「ちっ……違………ぐっ！　ぎ、ああっ！　ぐうううぅっ！！」[pcms]
+[ns]Natsu[nse]
+"Ch... No... Guh! Gi, aah! Guuuuuuh!!"[pcms]
 
 *1993|
 [fc]
-[ns]オズ[nse]
-「だいたい、女なんてなぁ男にヤラれるためにいるんだから[r]
-　黙っておとなしく股開いてりゃいいんだよ！！[r]
-　この淫売っ！」[pcms]
+[ns]Oz[nse]
+"Women are just meant to be fucked by men, so you should just shut up[r]
+and spread your legs obediently! You whore!"[pcms]
 
 *1994|
 [fc]
 [vo_nat s="natu_nt0203"]
-[ns]夏都[nse]
-「いっ……痛……っ！　ぐっぐううぅっ！[r]
-　あぎっ！　があああぁあぁっ！」[pcms]
+[ns]Natsu[nse]
+"It... hurts...! Guhguuuuh! Agh! Gaaaaaaah!"[pcms]
 
 *1995|
 [fc]
-体が引き裂かれそうな激痛に苦悶しながら、オレはオズの言葉を[r]
-ただ聞いているだけだった。[pcms]
+Writhing in excruciating pain, all I could do was listen to Oz's[r]
+words.[pcms]
 
 *1996|
 [fc]
-オズはまるで、全ての女に対する憎しみをぶつけるように[r]
-オレの上で狂ったように腰を振っていた。[pcms]
+Oz seemed to be venting all his hatred towards women as he frantically[r]
+moved his hips on top of me.[pcms]
 
 [evcg storage="natu_H008h"][trans_c cross time=300]
 
 *1997|
 [fc]
-[ns]オズ[nse]
-「ふん、ようやくおとなしくなってきやがったな。[r]
-　最初っからそうしてりゃいいんだよっ！！」[pcms]
+[ns]Oz[nse]
+"Hmph, finally you're starting to quiet down. You should've been like[r]
+this from the start!"[pcms]
 
 *1998|
 [fc]
-[ns]オズ[nse]
-「そもそも俺たちに拾ってもらった命なんだから、[r]
-　感謝くらいすんのが当然だろう！」[pcms]
+[ns]Oz[nse]
+"After all, your life was saved by us. It's only natural for you to be[r]
+grateful!"[pcms]
 
 *1999|
 [fc]
-[ns]オズ[nse]
-「馬鹿女にできることなんて、肉便器になって[r]
-　ヤラせる以外にあるとでも思ったのかよっ！」[pcms]
+[ns]Oz[nse]
+"What else can a stupid woman do but become a cum dumpster and let[r]
+herself be fucked?!"[pcms]
 
 *2000|
 [fc]
-オズはオレに罵倒の言葉を浴びせかけながら、[r]
-どんどん興奮していっていた。[pcms]
+As he showered me with abusive words, Oz became more and more excited.[pcms]
 
 *2001|
 [fc]
-コイツは、真性のドＳなのかも知れない。[pcms]
+He might be a true sadist.[pcms]
 
 *2002|
 [fc]
-[ns]オズ[nse]
-「よぉし……じゃ、精液便所のオマンコの中に、[r]
-　たっぷりと俺様のザーメンを流し込んでやるから、[r]
-　ありがたく受けとれっ！　この淫乱クソビッチがっ！！」[pcms]
+[ns]Oz[nse]
+"Alright... then, I'll pour my semen into your cum toilet pussy. Be[r]
+thankful and accept it! You nympho bitch!!"[pcms]
 
 *2003|
 [fc]
 [vo_nat s="natu_nt0204"]
-[ns]夏都[nse]
-「ぎっ……やっ、やだ……っ、中は………やめ……ろっ……！」[pcms]
+[ns]Natsu[nse]
+"Gih... No, I don't want... inside... stop it...!"[pcms]
 
 *2004|
 [fc]
-オレは痛みをこらえて中出しを拒絶したが、[r]
-それはオズのサド心をよけい駆り立てただけだった。[pcms]
+I tried to resist the pain and reject the creampie, but that only[r]
+spurred on Oz's sadistic desires.[pcms]
 
 *2005|
 [fc]
-[ns]オズ[nse]
-「黙れ、黙れ、黙れっ！　この薄汚ねえ淫乱肉便器がっ！[r]
-　出してやる……っ！　受け取れ……ええええぇえぇぇぇっ！！」[pcms]
+[ns]Oz[nse]
+"Shut up, shut up, shut up! You filthy nympho cum dumpster! I'm going[r]
+to cum... Take it... eeeeeeeeh!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1706,46 +1678,44 @@
 
 *2006|
 [fc]
-オズが吼えると、そのままオレのオマンコの中に射精した。[pcms]
+With a roar, Oz ejaculated inside my pussy.[pcms]
 
 *2007|
 [fc]
 [vo_nat s="natu_nt0205"]
-[ns]夏都[nse]
-「ぐうっ、くっ！　くっ……そ……がっ……っ！　くうぅっ！」[pcms]
+[ns]Natsu[nse]
+"Guuh, kuh! Kuh...so...gah...! Kuuuh!"[pcms]
 
 *2008|
 [fc]
-オズのチンポが、オレのオマンコの中で[r]
-びくびくと震えているのを感じる。[pcms]
+I could feel Oz's dick twitching inside my pussy as he came.[pcms]
 
 *2009|
 [fc]
-熱いものが子宮の中に流れ込んでくる感触はあまりに屈辱的で、[r]
-オレは涙が出そうになった。[pcms]
+The sensation of something hot flowing into my womb was so humiliating[r]
+that I felt like crying.[pcms]
 
 *2010|
 [fc]
-射精を終えたオズが、オレのオマンコの中から[r]
-チンポを引き抜いた。[pcms]
+After finishing, Oz pulled his dick out of my pussy.[pcms]
 
 [evcg storage="natu_H008k"][trans_c cross time=300]
 
 *2011|
 [fc]
 [vo_nat s="natu_nt0206"]
-[ns]夏都[nse]
-（くっ……オレの体は、誠だけのモンなのに……[r]
-　こんなクズ野郎に、いいように汚されちまうなんて……！）[pcms]
+[ns]Natsu[nse]
+(Kuh... My body is supposed to be only for Makoto... To be defiled by[r]
+such scum...!)[pcms]
 
 *2012|
 [fc]
-屈辱に、オレは唇を噛んで涙をこらえていた。[pcms]
+With humiliation, I bit my lip and held back tears.[pcms]
 
 *2013|
 [fc]
-[ns]オズ[nse]
-「……なんだ、その不服そうなツラは」[pcms]
+[ns]Oz[nse]
+"...What's with that dissatisfied look?"[pcms]
 
 ;//SE：重いキックの音
 ;//seB009.ogg
@@ -1753,72 +1723,71 @@
 
 *2014|
 [fc]
-オレのその悔しそうな表情が勘に障ったんだろうか、[r]
-オズがいきなりオレの腹に、また蹴りを入れた。[pcms]
+Perhaps my frustrated expression annoyed him; Oz suddenly kicked me in[r]
+the stomach again.[pcms]
 
 [evcg storage="natu_H008j"][trans_c cross time=300]
 
 *2015|
 [fc]
 [vo_nat s="natu_nt0207"]
-[ns]夏都[nse]
-「ごぶ……うっ！　ぐううっ！　げほっ！　げほげほぉぉっ！！」[pcms]
+[ns]Natsu[nse]
+"Gobu...uh! Guuuh! Gehoh! Gehogehoooo!!"[pcms]
 
 *2016|
 [fc]
-すでにダメージを受けている鳩尾を的確に蹴り抜かれて、[r]
-オレは全身に走る痛みに目を白黒させて悶絶した。[pcms]
+He accurately kicked my already damaged solar plexus, and I convulsed[r]
+with pain flashing through my entire body.[pcms]
 
 *2017|
 [fc]
-この男は、苦痛で人を屈服させる術を知っている……。[pcms]
+This man knew how to make people submit through pain...[pcms]
 
 *2018|
 [fc]
-オレが怯えた表情を浮かべると、オズは嬉しそうに[r]
-酷薄な微笑を浮かべた。[pcms]
+As I showed a frightened expression, Oz smiled cruelly with delight.[pcms]
 
 *2019|
 [fc]
-[ns]オズ[nse]
-「よし、それでいい。最初からそうやって素直にしてれば[r]
-　痛い思いをしないで済んだんだ」[pcms]
+[ns]Oz[nse]
+"Good, that's better. If you had been obedient like this from the[r]
+start, you wouldn't have had to suffer."[pcms]
 
 *2020|
 [fc]
-冷静さを取り戻したオズが、落ち着いた口調でそう言ったけど、[r]
-その言葉だけは絶対に嘘だと断言できる。[pcms]
+Oz regained his composure and spoke in a calm tone, but I could assert[r]
+with certainty that those words were an absolute lie.[pcms]
 
 *2021|
 [fc]
-コイツは女を責め苛むことでしか、性的興奮を[r]
-感じることができない、真性のサディストだ。[pcms]
+He was a true sadist who could only feel sexual excitement by[r]
+tormenting women.[pcms]
 
 *2022|
 [fc]
-[ns]オズ[nse]
-「おとなしく、この連中にご奉仕するか？　どうだ？」[pcms]
+[ns]Oz[nse]
+"So, will you obediently serve these guys? What do you say?"[pcms]
 
 *2023|
 [fc]
-嫌も応もない。オレは悔しさに涙を流しながらも[r]
-首を縦に振るしかなかった。[pcms]
+There was no choice. With tears of frustration streaming down my face,[r]
+I could only nod in agreement.[pcms]
 
 *2024|
 [fc]
 [vo_nat s="natu_nt0208"]
-[ns]夏都[nse]
-「は………はい…………」[pcms]
+[ns]Natsu[nse]
+"Yes... yes..."[pcms]
 
 *2025|
 [fc]
-泣きながら弱々しく頷いたオレを見て、オズが満足したように[r]
-目を光らせて、にんまりと笑った。[pcms]
+Seeing me nod weakly while crying, Oz's eyes lit up with satisfaction,[r]
+and he grinned broadly.[pcms]
 
 *2026|
 [fc]
-[ns]オズ[nse]
-「よし。じゃあ、さっそく相手するんだ」[pcms]
+[ns]Oz[nse]
+"Good. Then let's get started right away."[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1826,7 +1795,7 @@
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
-;//■イベントCG　natu_H009(6k)（立ちバック状態の夏都。カウンターに腰掛けた男にパイズリ）
+;//■イベントCG　natu_H009(6k)（立ちバック状態の夏。カウンターに腰掛けた男にパイズリ）
 [evcg storage="natu_H009a"][trans_c cross time=300]
 
 ;//システムアイコン＆メッセージウィンドウ表示
@@ -1837,13 +1806,13 @@
 
 *2027|
 [fc]
-[ns]男Ｂ[nse]
-「ほら、もっとちゃんとチンポを胸の間に挟むんだ」[pcms]
+[ns]Man B[nse]
+"Hey, make sure you properly sandwich that dick between your breasts."[pcms]
 
 *2028|
 [fc]
-カウンターに腰掛けた男がそう言って、チンポをオレの胸に[r]
-押しつけてくる。[pcms]
+The man sitting on the counter said that as he pressed his dick[r]
+against my chest.[pcms]
 
 ;//■イベントCG　natu_H009
 [evcg storage="natu_H009b"][trans_c cross time=300]
@@ -1851,66 +1820,66 @@
 *2029|
 [fc]
 [vo_nat s="natu_nt0209"]
-[ns]夏都[nse]
-「くっ………」[pcms]
+[ns]Natsu[nse]
+"Guh..."[pcms]
 
 *2030|
 [fc]
-本当はこんな連中のチンポなんて、触るのどころか[r]
-見るのも嫌だったが、そんな事を口にしようものなら[r]
-ロクな事にならないのは明白だ。[pcms]
+Truthfully, I didn't even want to touch these guys' dicks, let alone[r]
+look at them, but it was clear that speaking out would not end well.[pcms]
 
 *2031|
 [fc]
-オレは屈辱をこらえて、男の言葉に従って胸の間にチンポを[r]
-挟み込み、男の体に胸全体を押しつけた。[pcms]
+Enduring the humiliation, I followed the man's words and sandwiched[r]
+his dick between my breasts, pressing my entire chest against his[r]
+body.[pcms]
 
 *2032|
 [fc]
-[ns]男Ｂ[nse]
-「よし、じゃあそのまま、おっぱいを上下に動かすんだ」[pcms]
+[ns]Man B[nse]
+"Alright, now move your breasts up and down like that."[pcms]
 
 *2033|
 [fc]
-言われた通りにすると、男が歓喜の声を上げる。[pcms]
+When I did as I was told, the man let out a cry of joy.[pcms]
 
 *2034|
 [fc]
-[ns]男Ｂ[nse]
-「おおっ……こりゃいい。たまんねぇ胸マンコだぜぇ」[pcms]
+[ns]Man B[nse]
+"Oh... this is good. Your tits are an amazing pussy."[pcms]
 
 *2035|
 [fc]
-足元では、別の男がオレの尻をつかんで寄せ、その間に[r]
-勃起した自分のチンポを挟んで擦りつけている。[pcms]
+At my feet, another man grabbed my ass and pulled it towards him,[r]
+sandwiching his erect dick between my butt cheeks and rubbing against[r]
+it.[pcms]
 
 *2036|
 [fc]
-[ns]男Ａ[nse]
-「こっちも具合いいぜぇ。そっちが胸マンコなら、[r]
-　さしずめこっちはケツマンコだな」[pcms]
+[ns]Man A[nse]
+"This feels good too. If that's a tit pussy, then this must be an ass[r]
+pussy."[pcms]
 
 *2037|
 [fc]
-[ns]男Ｂ[nse]
-「お前、ケツマンコって普通、アナルのことだぞ」[pcms]
+[ns]Man B[nse]
+"You know, 'ass pussy' usually means anal, right?"[pcms]
 
 *2038|
 [fc]
-[ns]男Ａ[nse]
-「うるせぇな。ニュアンスは伝わるだろ、ニュアンスは。[r]
-　この女、肉付きが良くって、ケツもたぷたぷしてて[r]
-　たまんねぇよ」[pcms]
+[ns]Man A[nse]
+"Shut up. You get the nuance, right? The nuance. This girl's got nice[r]
+meat on her, and her ass is so plump and irresistible."[pcms]
 
 *2039|
 [fc]
-[ns]男Ａ[nse]
-「さってと、じゃあ、挿れさせてもらうとしようかねぇ」[pcms]
+[ns]Man A[nse]
+"Well then, I guess it's time to stick it in."[pcms]
 
 *2040|
 [fc]
-オレの足元でチンポをケツ肉に挟んで擦りつけていた男が[r]
-レオタードの股布を横にずらすと、チンポを挿入してきた。[pcms]
+The man who had been rubbing his dick against my butt flesh moved[r]
+Leonard's loincloth aside and inserted his dick.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1921,33 +1890,31 @@
 *2041|
 [fc]
 [vo_nat s="natu_nt0210"]
-[ns]夏都[nse]
-「くっ………うううううぅぅぅぅっっ……！」[pcms]
+[ns]Natsu[nse]
+"Guh... uuuuuuuuuuh...!"[pcms]
 
 *2042|
 [fc]
-オレのオマンコの中を、男のペニスが分け入って奥に進んでいく[r]
-感触がする。[pcms]
+I could feel the man's penis entering and advancing deeper inside my[r]
+pussy.[pcms]
 
 *2043|
 [fc]
-誠のチンポと違って、知らない男のチンポが[r]
-オマンコを進んでいく感触は、胸がむかむかするような[r]
-嫌悪感しか感じられない。[pcms]
+Unlike Makoto's dick, the sensation of an unknown man's dick moving[r]
+through my pussy only brought a nauseating sense of disgust.[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
 *2044|
 [fc]
-[ns]男Ａ[nse]
-「おおぉ……こりゃ、なかなか具合いいぜ。[r]
-　遊んでんのかと思ってたけど、意外と[r]
-　使い込んでねぇな、このオマンコ」[pcms]
+[ns]Man A[nse]
+"Oh... this is quite nice. I thought you were just playing around, but[r]
+it turns out this pussy isn't that worn out."[pcms]
 
 *2045|
 [fc]
-そんな事を言いながら、男がオレの後ろで腰を振り始める。[pcms]
+While saying such things, the man behind me began to thrust his hips.[pcms]
 
 ;//■イベントCG　natu_H009
 [evcg storage="natu_H009d"][trans_c cross time=300]
@@ -1955,24 +1922,24 @@
 *2046|
 [fc]
 [vo_nat s="natu_nt0211"]
-[ns]夏都[nse]
-「うううっ！　くうっ……はあっ！　んああっ……くうううぅっ」[pcms]
+[ns]Natsu[nse]
+"Uuuuh! Guh... hah! Naaah... kuuuuuh!"[pcms]
 
 *2047|
 [fc]
-男のチンポがオレの子宮口を押し上げる不快感に、[r]
-オレは思わず声をあげてしまう。[pcms]
+The discomfort of the man's dick pushing up against my cervix made me[r]
+involuntarily raise my voice.[pcms]
 
 *2048|
 [fc]
-[ns]男Ｂ[nse]
-「気持ちよさそうに喘いでねぇで、俺のチンポも[r]
-　ちゃんと気持ちよくしてくれよ。ほら、舐めるんだ」[pcms]
+[ns]Man B[nse]
+"Don't just moan like you're enjoying it; make sure you pleasure my[r]
+dick too. Come on, lick it."[pcms]
 
 *2049|
 [fc]
-カウンターに座った男が、そう言って胸の間に挟んだ[r]
-チンポの先端を、口の前まで突き出してくる。[pcms]
+The man sitting at the counter said that as he pushed the tip of the[r]
+dick sandwiched between my breasts up to my mouth.[pcms]
 
 ;//■イベントCG　natu_H009
 [evcg storage="natu_H009e"][trans_c cross time=300]
@@ -1980,59 +1947,56 @@
 *2050|
 [fc]
 [vo_nat s="natu_nt0212"]
-[ns]夏都[nse]
-「う、ううっ……」[pcms]
+[ns]Natsu[nse]
+"Ugh, uuuuh..."[pcms]
 
 *2051|
 [fc]
-突き出された男のチンポの先端は、先走り汁で濡れ光り、[r]
-異臭を放っている。[pcms]
+The tip of the man's dick that was thrust in front of me was wet and[r]
+shiny with pre-cum, emitting a foul odor.[pcms]
 
 *2052|
 [fc]
-嫌悪感のあまり、無表情を装うことができずに、[r]
-つい顔が歪んでしまう。[pcms]
+Unable to maintain an expressionless face due to the overwhelming[r]
+disgust, my face involuntarily twisted.[pcms]
 
 *2053|
 [fc]
-[ns]男Ｂ[nse]
-「なんだぁ、その嫌そうな顔はよぉ！[r]
-　優しくしてやってるうちに、言うこときいた方が[r]
-　身のためだと思うがなぁ……」[pcms]
+[ns]Man B[nse]
+"What's with that disgusted face? You'd better listen while I'm being[r]
+nice to you... it's for your own good..."[pcms]
 
 *2054|
 [fc]
-こんなものに、口や舌で奉仕しなけりゃならないなんて……。[r]
-屈辱感に、オレは涙が溢れてきてしまった。[pcms]
+The humiliation of having to service such a thing with my mouth and[r]
+tongue made tears overflow from my eyes.[pcms]
 
 *2055|
 [fc]
-でも、こいつらを怒らせたら、何をされるか分からない。[r]
-オレは涙を流しながら、男のチンポの先端に舌を伸ばして[r]
-絡めるようにしながら舐めはじめた。[pcms]
+But if I angered these guys, there was no telling what they would do.[r]
+With tears streaming down my face, I extended my tongue to the tip of[r]
+the man's dick and began to lick it as if entwining it.[pcms]
 
 *2056|
 [fc]
-[ns]男Ｂ[nse]
-「へっへ……泣きながらしゃぶるなんて、オズじゃねぇが[r]
-　なかなか興奮するぜ……お、おっ、それ、いいぞっ。[r]
-　もっと強く吸いつくんだ」[pcms]
+[ns]Man B[nse]
+"Heh heh... sucking while crying, even if it's not Oz, this is pretty[r]
+exciting... oh, ohh, that's good. Suck on it harder."[pcms]
 
 *2057|
 [fc]
 [vo_nat s="natu_nt0213"]
-[ns]夏都[nse]
-「は……ひっ……んちゅ……んぷ……じゅ……れろっ……」[pcms]
+[ns]Natsu[nse]
+"Ha... hic... nchu... nup... ju... lero..."[pcms]
 
 *2058|
 [fc]
-[ns]男Ａ[nse]
-「おいおい、こっちも忘れてもらっちゃ困るぜ……っと！」[pcms]
+[ns]Man A[nse]
+"Hey hey, don't forget about me over here... there!"[pcms]
 
 *2059|
 [fc]
-男のチンポが、オレのオマンコの中の[r]
-気持ちいいポイントを擦りあげた。[pcms]
+The man's dick rubbed against a pleasurable spot inside my pussy.[pcms]
 
 ;//■イベントCG　natu_H009
 [evcg storage="natu_H009f"][trans_c cross time=300]
@@ -2040,24 +2004,23 @@
 *2060|
 [fc]
 [vo_nat s="natu_nt0214"]
-[ns]夏都[nse]
-「んああああぁぁっ……！　ふああぁぁんっ……！」[pcms]
+[ns]Natsu[nse]
+"Naaaaahhh...! Fuaaahhhn...!"[pcms]
 
 *2061|
 [fc]
-電気が走ったみたいなその感覚に、思わずオレは[r]
-声をあげてしまう。[pcms]
+The sensation was like an electric shock, and I couldn't help but[r]
+raise my voice.[pcms]
 
 *2062|
 [fc]
-[ns]男Ａ[nse]
-「ようやく少しは気分、出てきたみてぇじゃねぇかよ……[r]
-　じゃ、続けて行くぜっ！」[pcms]
+[ns]Man A[nse]
+"Looks like you're finally getting into the mood... let's keep going!"[pcms]
 
 *2063|
 [fc]
-オレの感じるポイントを見つけたことに気を良くした男が、[r]
-さらに腰を振りたくって、オマンコを刺激してゆく。[pcms]
+Pleased to have found my sensitive spot, the man thrust his hips even[r]
+more vigorously, stimulating my pussy.[pcms]
 
 ;//■イベントCG　natu_H009
 [evcg storage="natu_H009g"][trans_c cross time=300]
@@ -2065,91 +2028,92 @@
 *2064|
 [fc]
 [vo_nat s="natu_nt0215"]
-[ns]夏都[nse]
-「ああっ！　んんっ！　いああっ！　はああっ！　くうっ！」[pcms]
+[ns]Natsu[nse]
+"Aah! Nnnh! Iyaaa! Haaa! Kuuuh!"[pcms]
 
 *2065|
 [fc]
-心はこれっぽっちもついて行ってないのに、感じるポイントを[r]
-男に責められ続けて、オレは声をあげてしまう。[pcms]
+Even though my heart isn't in it at all, being continuously stimulated[r]
+at my sensitive spot by the man, I can't help but raise my voice.[pcms]
 
 *2066|
 [fc]
-[ns]男Ｂ[nse]
-「ほらほら、お口がお留守になってんぜ」[pcms]
+[ns]Man B[nse]
+"Hey hey, your mouth is getting neglected here."[pcms]
 
 *2067|
 [fc]
-胸にチンポを挟んでいる男がそう言うと、オレの口の中に[r]
-チンポをねじ込んでくる。[pcms]
+As the man who was sandwiching his dick between my breasts said that,[r]
+he thrust his dick into my mouth.[pcms]
 
 *2068|
 [fc]
 [vo_nat s="natu_nt0216"]
-[ns]夏都[nse]
-「ん………っ！　りゅぷ……はんっ！　ちゅ……ひあああっ！」[pcms]
+[ns]Natsu[nse]
+"Mmm...! Slurp... Ahn! Suck... Hiaaah!"[pcms]
 
 *2069|
 [fc]
-背後の男に責められ、切れ切れに喘ぎ声をあげながら、[r]
-それでも男のチンポに舌を絡ませないとならないなんて……。[pcms]
+Being tormented by the man behind me, I gasp in short breaths, yet I[r]
+still have to entwine my tongue around the man's dick...[pcms]
 
 *2070|
 [fc]
-畜生、畜生、畜生……精神も、肉体も弱い自分が悔しくて[r]
-オレは涙を流しながら、男たちに体を弄ばれていた。[pcms]
+Damn it, damn it, damn it... I'm so frustrated with myself for being[r]
+weak both mentally and physically, as I cry while the men play with my[r]
+body.[pcms]
 
 *2071|
 [fc]
-[ns]男Ａ[nse]
-「ううっ……オマンコの中が、熱くなってきた……んっ……！[r]
-　お、中がチンポに絡みついて……いいぞっ！」[pcms]
+[ns]Man A[nse]
+"Ugh... The inside of your pussy is getting hot... Mmm...! Oh, it's[r]
+wrapping around my dick... that's good!"[pcms]
 
 *2072|
 [fc]
-[ns]男Ｂ[nse]
-「んんっ……胸マンコも……っ、口も、気持ちいいぜ……っ！[r]
-　柔らかくてあったけぇのが……おおっ、たまんねぇ……！」[pcms]
+[ns]Man B[nse]
+"Nnn... The tit-pussy too... and the mouth, they feel good...! Soft[r]
+and warm... Ohh, can't get enough...!"[pcms]
 
 *2073|
 [fc]
-なんで、なんでオレはこんな連中に体を弄くられて[r]
-感じちまってるんだ！？[pcms]
+Why, why am I being played with by these guys and feeling it!?[pcms]
 
 *2074|
 [fc]
-なんで女の体ってのは、こんなクソみたいな男のチンポでも[r]
-刺激されたら感じるようになってんだよ！？[pcms]
+Why is a woman's body made to feel pleasure from even such crappy[r]
+men's dicks when stimulated!?[pcms]
 
 *2075|
 [fc]
 [vo_nat s="natu_nt0217"]
-[ns]夏都[nse]
-「くっ……くううっ……ぶじゅる……じゅば……はあぁああぁっ」[pcms]
+[ns]Natsu[nse]
+"Kuh... Kuuuh... Slurp... Suck... Haaaah!"[pcms]
 
 *2076|
 [fc]
-心は責められるほど嫌悪感が膨らむのに、体は快感を感じている。[pcms]
+Even though my heart swells with disgust the more I'm tormented, my[r]
+body feels pleasure.[pcms]
 
 *2077|
 [fc]
-心と体がべりべりと音をたてて剥がれていきそうだ。[pcms]
+It feels like my heart and body are being torn apart with a ripping[r]
+sound.[pcms]
 
 *2078|
 [fc]
-[ns]男Ａ[nse]
-「おっ……おおうっ！　オマンコの中が[r]
-　きゅうきゅう締まって……吸いついてきやがる……っ！」[pcms]
+[ns]Man A[nse]
+"Ohh... Oooh! The inside of your pussy is clamping down tight...[r]
+sucking me in...!"[pcms]
 
 *2079|
 [fc]
-[ns]男Ａ[nse]
-「ど、どうせだったら、一緒にイこうか……っ！[r]
-　なあ、彼女……っ！！」[pcms]
+[ns]Man A[nse]
+"Since we're at it, let's cum together...! Right, sweetheart...?!"[pcms]
 
 *2080|
 [fc]
-男がそう言うと、腰振りの速度を上げた。[pcms]
+As the man said that, he increased the speed of his hip thrusts.[pcms]
 
 ;//■イベントCG　natu_H009
 [evcg storage="natu_H009h"][trans_c cross time=300]
@@ -2157,26 +2121,26 @@
 *2081|
 [fc]
 [vo_nat s="natu_nt0218"]
-[ns]夏都[nse]
-「じゅ……ひんっ！　く、き……りゅぶっ……やっ…！[r]
-　かは………ああぁぁ……じゅぶ……い、いやぁ……っ！！」[pcms]
+[ns]Natsu[nse]
+"Suck... Hnn! Kuh, ki... slurp... yah...! Kah... Aaahhh... slurp...[r]
+nooo...!"[pcms]
 
 *2082|
 [fc]
 [vo_nat s="natu_nt0219"]
-[ns]夏都[nse]
-（や、止めてくれ……。さっさと出してイッちまえっ！[r]
-　誰もお前のチンポなんかでイキたくなんてないんだよ……っ！）[pcms]
+[ns]Natsu[nse]
+(Stop, please stop... Just cum and get it over with! Nobody wants to[r]
+cum from your dick...!)[pcms]
 
 *2083|
 [fc]
-[ns]男Ｂ[nse]
-「お、俺も……もう、そろそろ……っ、お、おおうっ……！」[pcms]
+[ns]Man B[nse]
+"I'm also... almost there... Ohh...!"[pcms]
 
 *2084|
 [fc]
-[ns]男Ａ[nse]
-「おおっ、おおうっ、出るっ、出るぞ………っ！！」[pcms]
+[ns]Man A[nse]
+"Ohh, ohh, I'm cumming, I'm cumming...!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -2193,108 +2157,104 @@
 *2085|
 [fc]
 [vo_nat s="natu_nt0220"]
-[ns]夏都[nse]
-「あ、あああああ、あああああああああっっ！！」[pcms]
+[ns]Natsu[nse]
+"Ah, aaaaaah, aaaaaaaaaaaaaaaaaah!!"[pcms]
 
 *2086|
 [fc]
-男たちが快感を口にしながら絶頂に達した。[pcms]
+The men reached climax while voicing their pleasure.[pcms]
 
 *2087|
 [fc]
-そして、オレもまた、男たちの絶頂とほぼ同時にオーガズムに[r]
-達してしまった。[pcms]
+And then, almost simultaneously with the men's climax, I also reached[r]
+orgasm.[pcms]
 
 *2088|
 [fc]
-その事実は、オレを落ち込ませるのに十分だった。[r]
-オレは……こんなクソ野郎どもにイカされてしまった……。[pcms]
+This fact was enough to bring me down. I was... made to cum by these[r]
+shitty bastards...[pcms]
 
 ;//■イベントCG　natu_H009
 [evcg storage="natu_H009j"][trans_c cross time=300]
 
 *2089|
 [fc]
-[ns]男Ｂ[nse]
-「おうっ！　出るっ！　まだ出るっ！　たまんねぇっ！！」[pcms]
+[ns]Male B[nse]
+"Ooh! I'm cumming! Still cumming! Can't get enough!!"[pcms]
 
 *2090|
 [fc]
-オレにパイズリさせてる男のチンポの先端から、生臭くて濃い[r]
-ザーメンが飛び散って、オレの顔の上にぶっかけられる。[pcms]
+The man who had me give him a titjob sprayed his smelly and thick[r]
+semen from the tip of his dick, splattering it all over my face.[pcms]
 
 *2091|
 [fc]
-[ns]男Ａ[nse]
-「おほぉうっ……オマンコがチンポに吸いついて……きやがるっ」[pcms]
+[ns]Man A[nse]
+"Ohoooh... Your pussy is sucking on my dick..."[pcms]
 
 *2092|
 [fc]
-オレのオマンコの中で射精した男が、満足そうな声を上げながら[r]
-オマンコの中で、チンポを何度もひくつかせている。[pcms]
+The man who ejaculated inside my pussy let out a satisfied moan while[r]
+making his dick twitch inside me several times.[pcms]
 
 *2093|
 [fc]
-オレは、顔中にザーメンをぶっかけられた不快感以上に[r]
-自分が絶頂に達してしまったことに、言葉にできない[r]
-屈辱感を感じていた。[pcms]
+I felt an indescribable sense of humiliation far greater than the[r]
+discomfort of having semen splattered all over my face because I had[r]
+reached climax.[pcms]
 
 *2094|
 [fc]
-誠以外のチンポでイカされちまうなんて……っ！[pcms]
+To be made to cum by a dick other than Makoto's...![pcms]
 
 *2095|
 [fc]
-苦しくて、悲しくて、やりきれない……。[pcms]
+It's painful, sad, and unbearable...[pcms]
 
 *2096|
 [fc]
-[ns]男Ｂ[nse]
-「ふ、ふう……へ、へへへ。なんだかんだ言っても、[r]
-　オメェもしょせんは女だよなぁ」[pcms]
+[ns]Man B[nse]
+"Phew... Hehehe. No matter what you say, in the end, you're just a[r]
+woman."[pcms]
 
 *2097|
 [fc]
-オレの顔にザーメンをぶっかけた男が、[r]
-満足そうな表情を浮かべて話しかけてきた。[pcms]
+The man who splattered his semen on my face spoke to me with a[r]
+satisfied expression.[pcms]
 
 *2098|
 [fc]
-[ns]男Ｂ[nse]
-「嫌がってたクセに、最後はしっかり感じてたじゃねぇか。[r]
-　な、これで分かったろ。女の体ってのは[r]
-　そういう風にできてんだよ。へっへへ……」[pcms]
+[ns]Man B[nse]
+"Despite all your protesting, in the end you felt it properly. See,[r]
+now you understand. That's how a woman's body is made. Heh heh heh..."[pcms]
 
 *2099|
 [fc]
-男はオレを懐柔しようとするように、[r]
-猫なで声で話しかけてくる。[pcms]
+The man tried to coax me with a cajoling voice as if petting a cat.[pcms]
 
 *2100|
 [fc]
-[ns]男Ｂ[nse]
-「だから、こういう事になっちまってる以上は、嫌がってねぇで、[r]
-　どうせだったら楽しまねぇと損なんだって」[pcms]
+[ns]Man B[nse]
+"So since things have come to this, instead of protesting, you're[r]
+losing out if you don't enjoy it."[pcms]
 
 *2101|
 [fc]
-[ns]男Ｂ[nse]
-「な、どうよ？　気持ちよかっただろ？」[pcms]
+[ns]Man B[nse]
+"So, how about it? It felt good, didn't it?"[pcms]
 
 *2102|
 [fc]
-心をレイプされて気持ちいい訳がねぇだろう！[pcms]
+As if I could feel good being raped in the heart![pcms]
 
 *2103|
 [fc]
-オレはその時、心底この男たちを[r]
-ぶっ殺してやりたい衝動に駆られた。[pcms]
+At that moment, I was truly driven by the urge to kill these men.[pcms]
 
 *2104|
 [fc]
-オレの気も知らずに、ドヤ顔でそんな事を話しかけてくる[r]
-男を見てたら、オレの中の反抗心がどうしても[r]
-抑えきれなくなってしまった。[pcms]
+Without knowing how I felt, the man who spoke to me with such a smug[r]
+face ignited an uncontrollable spirit of rebellion within me.[pcms]
 
 ;//■イベントCG　natu_H009
 [evcg storage="natu_H009k"][trans_c cross time=300]
@@ -2302,33 +2262,33 @@
 *2105|
 [fc]
 [vo_nat s="natu_nt0221"]
-[ns]夏都[nse]
-「……ぺっ！」[pcms]
+[ns]Natsu[nse]
+"Ptooey!"[pcms]
 
 *2106|
 [fc]
-次の瞬間、オレは、思わず男の顔に向かって[r]
-唾を吐きかけていた。[pcms]
+The next moment, I found myself spitting in the man's face without[r]
+thinking.[pcms]
 
 *2107|
 [fc]
-オレの唾が顔に吐きかけられた瞬間、それまで射精の満足感から[r]
-えびす顔だった男の顔が、一瞬で仁王のような赤ら顔になり[r]
-もの凄い憤怒の形相になった。[pcms]
+The moment my spit hit his face, the man's expression, previously[r]
+satisfied from ejaculation, turned into a furious scowl as red as a[r]
+guardian deity.[pcms]
 
 *2108|
 [fc]
-男の髪の毛は怒りのために逆立っている。[pcms]
+The man's hair stood on end from his rage.[pcms]
 
 *2109|
 [fc]
-怒髪天を衝くって慣用句が事実なんだってのを[r]
-オレはその時目の当たりにした。[pcms]
+I witnessed firsthand that the phrase "anger makes the hair stand on[r]
+end" was indeed true.[pcms]
 
 *2110|
 [fc]
-[ns]男Ｂ[nse]
-「なめんなああぁっ、このクソアマがああぁっ！！」[pcms]
+[ns]Man B[nse]
+"Don't you dare mock me, you fucking bitch!"[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -2339,32 +2299,31 @@
 
 *2111|
 [fc]
-男の大きな掌が思い切りオレの頬を張り飛ばし、オレはそのまま[r]
-床にごろごろと転がった。[pcms]
+The man's large palm struck my cheek hard, and I rolled across the[r]
+floor.[pcms]
 
 *2112|
 [fc]
-何回転も床の上を転がり、ようやく体が止まる。[pcms]
+I tumbled several times on the floor before finally coming to a stop.[pcms]
 
 *2113|
 [fc]
-倒れたオレの頭の上に、オズがいた。[pcms]
+Oz was standing over me as I lay there.[pcms]
 
 *2114|
 [fc]
-氷よりも冷たい目つきで、オレのことを見下ろしている。[pcms]
+He looked down at me with eyes colder than ice.[pcms]
 
 *2115|
 [fc]
-[ns]オズ[nse]
-「お前ら、この女をしっかり押さえてろ。まだ自分の立場が[r]
-　分かってないみたいだから、今度こそしっかり[r]
-　体に教え込んでやる」[pcms]
+[ns]Oz[nse]
+"You guys, hold this woman down properly. It seems she still doesn't[r]
+understand her place, so this time I'll make sure to teach her body a[r]
+lesson."[pcms]
 
 *2116|
 [fc]
-オズの命令を受けて、黒服たちがオレの体を[r]
-がっちりと押さえ込んだ。[pcms]
+Following Oz's orders, the men in black suits firmly pinned me down.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -2375,7 +2334,7 @@
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
 
-;//■イベントCG　natu_H008(6k)(夏都にフィストファック)
+;//■イベントCG　natu_H008(6k)(夏にフィストファック)
 [evcg storage="natu_H008p"][trans_c cross time=300]
 
 ;//システムアイコン＆メッセージウィンドウ表示
@@ -2384,205 +2343,199 @@
 *2117|
 [fc]
 [vo_nat s="natu_nt0222"]
-[ns]夏都[nse]
-「ああぁあぁっぎぎぎぎぎぃぃぃぃいいぃぃっっっ！！！！」[pcms]
+[ns]Natsu[nse]
+"Aaaaahhhhhggggggggg!!!"[pcms]
 
 *2118|
 [fc]
-オズの拳が、いきなりオレのオマンコにぶち込まれた。[pcms]
+Oz's fist suddenly plunged into my pussy.[pcms]
 
 *2119|
 [fc]
-想像を絶するその苦痛に、オレは白目を剥いて絶叫していた。[pcms]
+I screamed with my eyes rolled back in my head from the unimaginable[r]
+pain.[pcms]
 
 [evcg storage="natu_H008q"][trans_c cross time=300]
 
 *2120|
 [fc]
 [vo_nat s="natu_nt0223"]
-[ns]夏都[nse]
-「があああぁぁっっっ！！　あがああぁぁぁああっ！！[r]
-　ぎゃあぁぁぁっっ！！　ぎぎいいぃぃぃぃっぃいいっ！！！」[pcms]
+[ns]Natsu[nse]
+"Gaaaahhhhh!! Agaaaaahhh!! Gyaaaahhh!! Giiiiiiiiii!!!"[pcms]
 
 *2121|
 [fc]
-痛い！　痛い！！　痛い！！！　痛い！！！！！[pcms]
+It hurts! It hurts!! It hurts!!! It hurts!!!!!![pcms]
 
 *2122|
 [fc]
-赤ん坊の頭ほどもある男の拳が、オレのオマンコを[r]
-ずぼ抜いている。[pcms]
+A man's fist, as big as a baby's head, was thrusting in and out of my[r]
+pussy.[pcms]
 
 *2123|
 [fc]
-オマンコの壁が限界まで引き延ばされて、いまにもミチミチと[r]
-切れてしまいそうだ。[pcms]
+The walls of my pussy were stretched to their limits, as if they were[r]
+about to tear apart any moment.[pcms]
 
 *2124|
 [fc]
-[ns]オズ[nse]
-「今度こそ、自分の置かれた立場ってのを[r]
-　しっかり理解させねえとなあ！！」[pcms]
+[ns]Oz[nse]
+"This time for sure, I'll make you understand the situation you're[r]
+in!!"[pcms]
 
 *2125|
 [fc]
-[ns]オズ[nse]
-「馬鹿女だとは思ったが、ここまで[r]
-　頭が悪いとは思わなかったぜ！！[r]
-　物覚えが悪いにもほどがあるぜ、この馬鹿女はよぉ！」[pcms]
+[ns]Oz[nse]
+"I knew you were a stupid woman, but I didn't think you were this[r]
+brainless!! You really have trouble learning, don't you, you stupid[r]
+bitch!"[pcms]
 
 *2126|
 [fc]
-オレのオマンコに拳を叩き込んだまま、オズがその拳を[r]
-前後に動かしはじめた。[pcms]
+With his fist still inside my pussy, Oz began to move it back and[r]
+forth.[pcms]
 
 ;//se_sex02.ogg(LOOP)
 [se buf=1 storage="se_sex02" loop=true]
 
 *2127|
 [fc]
-膣がごりごりと男の拳で抉られる激痛に、[r]
-オレは涙とよだれを垂れ流して悶絶していた。[pcms]
+The excruciating pain of my vagina being gouged by the man's fist made[r]
+me writhe in agony, tears and drool streaming down my face.[pcms]
 
 *2128|
 [fc]
 [vo_nat s="natu_nt0224"]
-[ns]夏都[nse]
-「ぎゃああああっ！　ぐぎぎぎぃいぃぃいっぅっうううぅっ！[r]
-　いぎゃああぁんんっ！　がががああああぁあぁっっ！！」[pcms]
+[ns]Natsu[nse]
+"Gyaaaaaaah! Gugigigiiiiii! Igyaaannn! Gagagaaaaahhh!!"[pcms]
 
 *2129|
 [fc]
-[ns]オズ[nse]
-「動物の躾と同じだなあ！　痛けりゃ二度と[r]
-　逆らわなくなるってんだから、女ってのは、[r]
-　本当に馬鹿でどうしようもねぇな！！」[pcms]
+[ns]Oz[nse]
+"It's just like training an animal! If it hurts enough, they'll never[r]
+disobey again. Women really are stupid and hopeless creatures!!"[pcms]
 
 *2130|
 [fc]
-[ns]オズ[nse]
-「今度こそ、きっちり躾けておかねぇと、次はチンポ[r]
-　噛みちぎるかもしれねえしなあ！」[pcms]
+[ns]Oz[nse]
+"If I don't train you properly this time, next time you might bite off[r]
+a dick!"[pcms]
 
 *2131|
 [fc]
-[ns]オズ[nse]
-「おい、聞いてんのか、この淫乱肉便器はよっ！！」[pcms]
+[ns]Oz[nse]
+"Hey, are you listening, you horny flesh toilet?!"[pcms]
 
 *2132|
 [fc]
-オズが滅茶苦茶な速度で、オマンコに突っ込んだ拳を動かす。[pcms]
+Oz moved his fist inside my pussy at a frantic pace.[pcms]
 
 *2133|
 [fc]
-このままオマンコを突き殺されそうなほどの苦痛に[r]
-オレは死の恐怖すら感じて叫び狂っていた。[pcms]
+I screamed in terror at the pain that felt like it was going to kill[r]
+me right there and then.[pcms]
 
 *2134|
 [fc]
 [vo_nat s="natu_nt0225"]
-[ns]夏都[nse]
-「ぐぎゃあぁぁぁあぁ！　じぬうっ！　じぬじぬううぅぅっ！！[r]
-　いだあぁあいぃ！　いだいいだいいだいいぃぃぃっっっ！！」[pcms]
+[ns]Natsu[nse]
+"Gygyaaaah! I'm dying! I'm dying! It hurts! It hurts so much!!"[pcms]
 
 *2135|
 [fc]
-[ns]オズ[nse]
-「ははははは……それだけ叫べてりゃ死なねぇよ、この馬鹿女。[r]
-　まあ、痛ぇだけじゃ、こういう動物は駄目なんだろうから[r]
-　少しは気持ちよくもしといてやるか」[pcms]
+[ns]Oz[nse]
+"Hahaha... As long as you can scream like that, you won't die, you[r]
+stupid woman. Well, pain alone isn't enough for an animal like you, so[r]
+maybe I should make it feel a bit good too."[pcms]
 
 *2136|
 [fc]
-そう言うと、オズが拳の動かしかたを加減した。[pcms]
+With that said, Oz adjusted the movement of his fist.[pcms]
 
 *2137|
 [fc]
 [vo_nat s="natu_nt0226"]
-[ns]夏都[nse]
-「ぎゃぼおおぉぉっ！　おおおんんんっぅうううっっ！！[r]
-　あぐうぅぅああああぁぁぁあっ！　おんおんおおおぉぉっ！！」[pcms]
+[ns]Natsu[nse]
+"Gyaboooooh! Oooonnnnuuuuhhh! Aguuuuaaaaahhh! On on ooooh!"[pcms]
 
 *2138|
 [fc]
-どういう加減の具合なのかは分からないが、さっきまで[r]
-激痛一辺倒だったオマンコに、時折もの凄い快感が[r]
-混じるようになってきた。[pcms]
+I couldn't tell what kind of adjustment he made, but now my pussy,[r]
+which had only felt intense pain until now, started to mix with[r]
+tremendous pleasure occasionally.[pcms]
 
 *2139|
 [fc]
-[ns]オズ[nse]
-「ふん、やっぱこの辺かよ。女ってのは本当に[r]
-　どうしようもねえな。馬鹿で見栄っ張りで感情的で……[r]
-　本当にロクな生き物じゃねえ！！」[pcms]
+[ns]Oz[nse]
+"Hmph, so this is the spot, huh? Women really are hopeless. Stupid,[r]
+vain, emotional... truly worthless creatures!"[pcms]
 
 *2140|
 [fc]
-そしてまた、強烈な異物感と激痛がオレの体を襲う。[pcms]
+And then again, an intense foreign sensation and severe pain assaulted[r]
+my body.[pcms]
 
 *2141|
 [fc]
 [vo_nat s="natu_nt0227"]
-[ns]夏都[nse]
-「ぐぎゃあああああぁぁっっ！　いだいいだいっいだいいぃっ！[r]
-　じぬっじぬうぅじぬじぬじぬっ、じんじゃうぅぅっ！[r]
-　おまんござけでじんじゃうよおぉっ！！」[pcms]
+[ns]Natsu[nse]
+"Gygyaaaaaaahhh! It hurts, it hurts! I'm dying, I'm dying! I'm going[r]
+to die from my pussy being torn apart!"[pcms]
 
 *2142|
 [fc]
-[ns]オズ[nse]
-「よっし、そろそろ頃合いだな。これ以上やると[r]
-　本当に死んじまうかも知れねぇしな。ああ、面倒くせぇ」[pcms]
+[ns]Oz[nse]
+"Alright, it's about time. If we go any further, she might actually[r]
+die. Ahh, what a hassle."[pcms]
 
 *2143|
 [fc]
-[ns]オズ[nse]
-「うらあっ！　馬鹿女っ！　オマンコ、拳でズボ抜かれて[r]
-　イッちまいなっ！！」[pcms]
+[ns]Oz[nse]
+"Uraah! Stupid woman! Cum from having your pussy fisted!"[pcms]
 
 *2144|
 [fc]
-オズが緩急をつけて、オマンコの中の拳を突き動かした。[pcms]
+Oz alternated the pace as he thrust his fist inside my pussy.[pcms]
 
 *2145|
 [fc]
 [vo_nat s="natu_nt0228"]
-[ns]夏都[nse]
-「ひあああっ！　あがあああっ！　ぎぎいいぃぃっ！　ぎゃあっ！[r]
-　ぐげげげげっ！　ごぎいぃっぐがああっ！　ぼげえぇぇっ！」[pcms]
+[ns]Natsu[nse]
+"Hiaaaa! Agaaaaa! Gigiiiiii! Gyaaa! Guegegege! Gogiiiiigaaaa![r]
+Bogeheee!"[pcms]
 
 *2146|
 [fc]
-激痛と異物感と快感が一緒くたになって、オマンコから[r]
-オレの全身に広がってゆく。[pcms]
+The intense pain, foreign sensation, and pleasure all mixed together,[r]
+spreading from my pussy to my entire body.[pcms]
 
 *2147|
 [fc]
-ごちゃ混ぜになって訳の分からないその感覚に、[r]
-オレは気分が悪くなってきた。[pcms]
+The sensation, a jumbled mess that made no sense, started to make me[r]
+feel sick.[pcms]
 
 *2148|
 [fc]
-[ns]オズ[nse]
-「おらあっ！　ここだろぉがあっ！　どうなんだよっ！！」[pcms]
+[ns]Oz[nse]
+"Oraa! This is the spot, isn't it?! How's that?!"[pcms]
 
 *2149|
 [fc]
 [vo_nat s="natu_nt0229"]
-[ns]夏都[nse]
-「あ、ああ、ああああ、ああああああああああああ！！！！！」[pcms]
+[ns]Natsu[nse]
+"Ah, aah, aaaaa, aaaaaaaaaaaaaaaaaaaaaaa!!!!!!"[pcms]
 
 [evcg storage="natu_H008r"][trans_c cross time=300]
 
 *2150|
 [fc]
-オズの拳が、オマンコの１点を打ち抜いた時、[r]
-オレはオマンコから、高々と潮を噴き上げていた。[pcms]
+When Oz's fist struck a particular spot inside my pussy, I was[r]
+squirting high from my pussy.[pcms]
 
 *2151|
 [fc]
-苦痛と快感が同時に押し寄せたその感覚を処理できずに[r]
-気持ち悪さのあまり、オレはそのまま嘔吐した。[pcms]
+Unable to process the sensation of pain and pleasure at the same time,[r]
+I felt so sick that I vomited on the spot.[pcms]
 
 ;//※ボイスなし
 ;//茜梨】
@@ -2590,14 +2543,13 @@
 *2152|
 [fc]
 [vo_nat s="natu_nt0229a"]
-[ns]夏都[nse]
-「げええっ！　おげえええぇぇっ！　げろおっ！　おげえぇぇっ！[r]
-　うげええぇぇっ！　おえっおぅえええぇぇぇっ！！」[pcms]
+[ns]Natsu[nse]
+"Geeeh! Ogeeeeh! Geroh! Ogeeeh! Ugeeeeh! Oeh oueeeeeh!!"[pcms]
 
 *2153|
 [fc]
-もう何回も吐いて、吐くものなんて何も残ってないのに、[r]
-胃がえずいて痛むほど、オレは吐き続けた。[pcms]
+I had vomited so many times that there was nothing left to throw up,[r]
+but my stomach was in so much pain from heaving that I kept vomiting.[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -2608,47 +2560,45 @@
 
 *2154|
 [fc]
-[ns]オズ[nse]
-「あーあ、きったねぇなあぁ。これだから女はウンザリなんだぜ。[r]
-　まあ、クソ漏らさなかっただけヨシとしておこうか。[r]
-　よっ……と！」[pcms]
+[ns]Oz[nse]
+"Ah-ah, that's disgusting. This is why women are so tiresome. Well, at[r]
+least you didn't shit yourself. Let's consider that a win. Yo...to!"[pcms]
 
 *2155|
 [fc]
-オズがかけ声とともに、オレのオマンコから[r]
-拳を一気に引き抜いた。[pcms]
+With a shout, Oz suddenly pulled his fist out of my pussy.[pcms]
 
 *2156|
 [fc]
-まるで、ワインのコルク栓を一気に抜いた時のように[r]
-ぽん、とオレのオマンコが音をたてた。[pcms]
+It made a 'pop' sound, just like when you pull the cork out of a wine[r]
+bottle, coming from my pussy.[pcms]
 
 *2157|
 [fc]
-そして、オレのオマンコからは、ぶびぶびと下品な音をたてて[r]
-長々と中に入った空気が押し出されていた。[pcms]
+Then, from my pussy came a vulgar bubbling sound as the air that had[r]
+been pushed inside was expelled at length.[pcms]
 
 *2158|
 [fc]
-[ns]男Ｄ[nse]
-「すげぇチナラだな。どれだけ空気が入ってたんだよ」[pcms]
+[ns]Male D[nse]
+"Damn, what a pussy. How much air got in there?"[pcms]
 
 *2159|
 [fc]
-ひとりの男が蔑んだ口調でそう言う。[pcms]
+A man said with a scornful tone.[pcms]
 
 [evcg storage="natu_H008t"][trans_c cross time=300]
 
 *2160|
 [fc]
 [vo_nat s="natu_nt0230"]
-[ns]夏都[nse]
-「は……ひ………あぐ…ぅ………ん…………」[pcms]
+[ns]Natsu[nse]
+"Ha...hi...agu...u...n..."[pcms]
 
 *2161|
 [fc]
-しかし、ようやく死ぬほどの苦痛から解放された安堵に、[r]
-オレは半分失神していた。[pcms]
+However, relieved from the excruciating pain that almost killed me, I[r]
+was half-fainting.[pcms]
 
 ;//SE：強いキックの音
 ;//SE：重いキックの音
@@ -2660,62 +2610,61 @@
 
 *2162|
 [fc]
-その時、オズが放った蹴りがオレの下腹にめり込んだ。[pcms]
+At that moment, Oz's kick buried itself in my lower abdomen.[pcms]
 
 *2163|
 [fc]
 [vo_nat s="natu_nt0231"]
-[ns]夏都[nse]
-「ぐぎゃあああぁぁっっ！　ぎいいっぐううぅううぅっ！！[r]
-　が、ががあああぁあぁっくううぅぅぅっ！！」[pcms]
+[ns]Natsu[nse]
+"Gugyaaaaaaahh! Giiiguuuuuuuh! Ga, gagaaaaaahkuuuuuuh!!"[pcms]
 
 *2164|
 [fc]
-子宮が破裂するんじゃないかと思うほどの激痛に、[r]
-オレは身をよじって苦悶した。[pcms]
+The pain was so intense I thought my uterus might burst; I writhed in[r]
+agony.[pcms]
 
 *2165|
 [fc]
-このオズって男は、いったいどれだけ人間に苦痛を与える[r]
-バリエーションを持ってるんだろう？[pcms]
+I wondered how many variations of pain this man named Oz could inflict[r]
+on a person?[pcms]
 
 *2166|
 [fc]
 [vo_nat s="natu_nt0232"]
-[ns]夏都[nse]
-「があぁぁ……ぐううぅっ……ぐっ、くふうぅぅ……」[pcms]
+[ns]Natsu[nse]
+"Gaaaah...guuuuh...guh, kufuuu..."[pcms]
 
 *2167|
 [fc]
-空気が抜けたような音を立て続けて苦しむオレの髪の毛を[r]
-ぐいっと掴んで持ち上げると、オズが顔を近づけてきて[r]
-オレの耳元で言った。[pcms]
+As I continued to make sounds like the air was being let out and[r]
+suffered, Oz grabbed my hair and lifted it up, then leaned in close to[r]
+my ear and said.[pcms]
 
 *2168|
 [fc]
-[ns]オズ[nse]
-「おとなしく、この連中にご奉仕するか？　どうだ？」[pcms]
+[ns]Oz[nse]
+"Will you quietly serve these guys? How about it?"[pcms]
 
 *2169|
 [fc]
-その台詞は、最初にオレにそう聞いてきた時の調子と、[r]
-全く同じだった。[pcms]
+The line was delivered with the same tone as when he first asked me[r]
+that question.[pcms]
 
 *2170|
 [fc]
-何の感情も感じさせない、暗く冷たい目つき。[pcms]
+His eyes were dark and cold, showing no emotion.[pcms]
 
 *2171|
 [fc]
-感染者なんか比較にならない、その底なしの暴力と狂気の前に、[r]
-オレの心は折れてしまった。[pcms]
+In front of his bottomless violence and madness, incomparable even to[r]
+the infected, my spirit was broken.[pcms]
 
 *2172|
 [fc]
 [vo_nat s="natu_nt0233"]
-[ns]夏都[nse]
-「ごめんなさい……なんでも、言う通りにしますから……[r]
-　もう、乱暴しないでください……」[pcms]
+[ns]Natsu[nse]
+"I'm sorry... I'll do whatever you say... Please don't be rough[r]
+anymore..."[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -2726,7 +2675,7 @@
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
 
-;//■イベントCG　natu_H010(6k)（床の上に正常位の夏都。頭の上方の男にフェラ。　両手で左右別々手コキ。さらに胸の上に乗る男。パイズリ）
+;//■イベントCG　natu_H010(6k)（床の上に正常位の夏。頭の上方の男にフェラ。　両手で左右別々手コキ。さらに胸の上に乗る男。パイズリ）
 [evcg storage="natu_H010a"][trans_c cross time=300]
 
 ;//システムアイコン＆メッセージウィンドウ表示
@@ -2735,182 +2684,183 @@
 *2173|
 [fc]
 [vo_nat s="natu_nt0234"]
-[ns]夏都[nse]
-「んぷっ……んちゅ……じゅっ……ちゅぱっ……れろっ……」[pcms]
+[ns]Natsu[nse]
+"Npuh...nchu...juh...chupa...lero..."[pcms]
 
 *2174|
 [fc]
-[ns]男Ａ[nse]
-「よしよし、そうだ。もっと裏筋も舐めるんだ」[pcms]
+[ns]Man A[nse]
+"Good girl, that's right. Lick the underside more."[pcms]
 
 *2175|
 [fc]
-オレは、床に横たわって男たちの欲望を一身に受けていた。[pcms]
+I was lying on the floor, taking in all the men's desires by myself.[pcms]
 
 *2176|
 [fc]
-頭の上の男のペニスを口に含み、言われた通りに舌を這わせる。[pcms]
+I took the penis of the man above my head into my mouth and moved my[r]
+tongue as instructed.[pcms]
 
 *2177|
 [fc]
-[ns]男Ｃ[nse]
-「しっかし、いいオッパイしてんなぁ。揉みごたえ、挟みごたえも[r]
-　申し分ねぇぜ」[pcms]
+[ns]Male C[nse]
+"Man, you've got some nice tits. They feel great to squeeze and are[r]
+perfect for tit-fucking."[pcms]
 
 *2178|
 [fc]
-別の男がオレの体に跨がって、胸の間にチンポを挟んで[r]
-擦りあげている。[pcms]
+Another man straddled over me, sandwiching his cock between my breasts[r]
+and rubbing it up and down.[pcms]
 
 *2179|
 [fc]
-[ns]男Ｂ[nse]
-「おら、休むんじゃねぇ。ちゃんと手を動かすんだよっ！」[pcms]
+[ns]Man B[nse]
+"Hey, don't rest. Keep your hands moving!"[pcms]
 
 *2180|
 [fc]
-[ns]男Ｄ[nse]
-「こっちも忘れんな。いっぺんに動かせばいいだろうが。[r]
-　物覚えの悪りぃヤツだな」[pcms]
+[ns]Male D[nse]
+"Don't forget this side either. You can move them both at once. You're[r]
+such a slow learner."[pcms]
 
 *2181|
 [fc]
-オレの左右に陣取った男たちが、チンポを手に握らせて[r]
-手コキを求めてくる。[pcms]
+The men on either side of me took their cocks in my hands and demanded[r]
+handjobs.[pcms]
 
 [evcg storage="natu_H010b"][trans_c cross time=300]
 
 *2182|
 [fc]
 [vo_nat s="natu_nt0235"]
-[ns]夏都[nse]
-「はっ……はひっ……しゅび……ばせん……ちゅっ……れろっ」[pcms]
+[ns]Natsu[nse]
+"Ha...hah...shubi...basen...chu...lero"[pcms]
 
 *2183|
 [fc]
-男にちょっとでも叱責されると、体にびくんと怯えが走る。[pcms]
+Even a slight scolding from a man sent shivers of fear through my[r]
+body.[pcms]
 
 *2184|
 [fc]
-また、あんな苦痛を与えられるんじゃないかと思うと[r]
-体が強ばってしまう。[pcms]
+I tensed up at the thought of being subjected to that kind of pain[r]
+again.[pcms]
 
 *2185|
 [fc]
-[ns]男Ｅ[nse]
-「おふっ！　またオマンコが締まったぜ！　いやぁ、この女[r]
-　本当に具合がいいぜぇ～。あー、たまんねぇっ！」[pcms]
+[ns]Man E[nse]
+"Oh fuck! Her pussy just tightened up again! Man, this chick is really[r]
+something. Ahh, I can't get enough!"[pcms]
 
 *2186|
 [fc]
-オマンコに挿入した男が、そう言いながら腰を動かし続けている。[pcms]
+The man inside my pussy kept moving his hips as he said that.[pcms]
 
 *2187|
 [fc]
-もう、反抗心とか尊厳とかは忘れることにしたけど、[r]
-それでもオレの目からは、涙が流れてしまう。[pcms]
+I've decided to forget about things like defiance and dignity, but[r]
+still, tears are streaming down my face.[pcms]
 
 *2188|
 [fc]
-嫌そうな顔さえしなければ、男たちはきっとこの涙を[r]
-随喜の涙だと勘違いしてくれるに違いない。[pcms]
+If I don't make a disgusted face, the men will surely mistake these[r]
+tears for tears of joy.[pcms]
 
 *2189|
 [fc]
-[ns]男Ａ[nse]
-「泣くほど気持ちいいらしいぜ～。まったくとんでもねぇ[r]
-　好きモンだよなぁ～。おらっ、もっと強く吸い付けっ！」[pcms]
+[ns]Man A[nse]
+"She's crying it feels so good. She's such a freakin' masochist. Come[r]
+on, suck it harder!"[pcms]
 
 *2190|
 [fc]
 [vo_nat s="natu_nt0236"]
-[ns]夏都[nse]
-「じゅじゅうっ！　じゅるじゅるじゅばっ！　れろっ、えろっ。[r]
-　ぺろぺろっ……あむっ、りゅりっ……じゅるりるじゅっ！」[pcms]
+[ns]Natsu[nse]
+"Sucking... slurp slurp...lick, erotic...lick lick...chomp,[r]
+suck...slurp slurp!"[pcms]
 
 *2191|
 [fc]
-悔しい、悔しいっ……。[r]
-なんでオレは、こんなに非力で弱いんだ……。[pcms]
+It's so frustrating... Why am I so powerless and weak...[pcms]
 
 *2192|
 [fc]
-男たちに体を好き放題にされながら、オレは自分が[r]
-女であることを、生まれて初めて呪っていた。[pcms]
+While being toyed with by the men, for the first time in my life, I[r]
+cursed the fact that I was a woman.[pcms]
 
 *2193|
 [fc]
-オマンコやおっぱいがなければ、この男たちにこんな目に[r]
-あわせられることもなかっただろう。[pcms]
+If I didn't have a pussy or breasts, these men wouldn't have been able[r]
+to do this to me.[pcms]
 
 *2194|
 [fc]
-でも、もしオレが男だったら、こいつらは容赦なく[r]
-オレを殺していたのかも知れない。[pcms]
+But if I were a man, maybe they would have mercilessly killed me[r]
+instead.[pcms]
 
 *2195|
 [fc]
-それに……オレが男だったら、誠との関係は、[r]
-全然違ったものになってしまっていた。[pcms]
+And if I were a man... my relationship with Makoto would have been[r]
+completely different.[pcms]
 
 *2196|
 [fc]
-誠……まこと……オレの誠……っ。[pcms]
+Makoto... Makoto... My Makoto...[pcms]
 
 *2197|
 [fc]
-ごめん……オレ、すっかり汚れちまった……。[pcms]
+I'm sorry... I've been completely defiled...[pcms]
 
 *2198|
 [fc]
-この男たちに好き放題に汚されて、もう、お前に[r]
-愛される資格がなくなっちまった……。[pcms]
+These men have dirtied me as they pleased, and now, I no longer[r]
+deserve to be loved by you...[pcms]
 
 *2199|
 [fc]
-オレは男たちに体を弄くられながら、誠と体を重ねた時の[r]
-夢のように甘くて濃密な瞬間に想いを馳せていた。[pcms]
+While being played with by the men, my thoughts drifted to the dream-[r]
+like sweet and intense moments when I was with Makoto.[pcms]
 
 *2200|
 [fc]
-体はここにあるけれど、せめて意識だけでも[r]
-誠と寄り添っていたい。[pcms]
+My body is here, but at least in my mind, I want to be close to[r]
+Makoto.[pcms]
 
 [evcg storage="natu_H010c"][trans_c cross time=300]
 
 *2201|
 [fc]
 [vo_nat s="natu_nt0237"]
-[ns]夏都[nse]
-「あうんっ……んっ、じゅっ……ひああっ……くうっ……」[pcms]
+[ns]Natsu[nse]
+"Ah...mmh, suck...ahhh...kuh..."[pcms]
 
 *2202|
 [fc]
-男たちに弄ばれて、オレの体が徐々に昂ぶっていく。[pcms]
+Being toyed with by the men, my body gradually becomes aroused.[pcms]
 
 *2203|
 [fc]
-[ns]男Ｃ[nse]
-「ひっひひひっ。いい声で啼くじゃねぇかよ」[pcms]
+[ns]Male C[nse]
+"Hehehe. You moan so nicely."[pcms]
 
 *2204|
 [fc]
-執拗に感じる所を弄くられて、嫌でもオレの体は[r]
-性的に反応してしまう。[pcms]
+Relentlessly played with in sensitive spots, my body can't help but[r]
+respond sexually.[pcms]
 
 *2205|
 [fc]
-いま、オレの体を触ってんのは、こいつらじゃなくて誠の指だ。[r]
-オレのオマンコに挿入されてんのは、愛しい誠のチンポだ。[pcms]
+Right now, it's not these guys touching me, it's Makoto's fingers. The[r]
+dick inside my pussy is my beloved Makoto's.[pcms]
 
 *2206|
 [fc]
-オレはそう考えて、必死に自分を誤魔化していた。[pcms]
+I thought that way, desperately trying to deceive myself.[pcms]
 
 *2207|
 [fc]
-[ns]男Ｅ[nse]
-「うおおおぉっ！　おおうっ、出るっ、出るぞおぉっ！！」[pcms]
+[ns]Male E[nse]
+"Uooooh! Ohhh, I'm gonna cum, I'm cumming!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -2972,69 +2922,68 @@
 
 *2208|
 [fc]
-四方八方から、男たちが射精した精液が降り注いで[r]
-オレは精液まみれにされてしまう。[pcms]
+From all directions, the men ejaculate their semen, drenching me in[r]
+it.[pcms]
 
 *2209|
 [fc]
-顔も、髪も、おっぱいも、腕も、足も。[r]
-体のあらゆるところが白濁で覆われてゆく。[pcms]
+My face, hair, breasts, arms, legs. Every part of my body is covered[r]
+in their milky white fluid.[pcms]
 
 *2210|
 [fc]
-オレは薄ぼんやりとした快感を覚えながらも、その光景を[r]
-何の感慨もなく見つめていた。[pcms]
+While feeling a faint pleasure, I watched the scene without any[r]
+emotion.[pcms]
 
 *2211|
 [fc]
-体の外側だけじゃない。オマンコの中でも射精されて[r]
-あらゆるところが男たちの白濁で汚されている。[pcms]
+Not just on the outside of my body. Inside my pussy too, I'm dirtied[r]
+everywhere with the men's white fluid.[pcms]
 
 [evcg storage="natu_H010f"][trans_c cross time=300]
 
 *2212|
 [fc]
 [vo_nat s="natu_nt0238"]
-[ns]夏都[nse]
-（誠………ごめん…………）[pcms]
+[ns]Natsu[nse]
+(Makoto... I'm sorry...)[pcms]
 
 *2213|
 [fc]
-オレは脳裏に浮かんだ誠の顔に謝った。[pcms]
+I apologized to Makoto's face that appeared in my mind.[pcms]
 
 *2214|
 [fc]
 [vo_nat s="natu_nt0239"]
-[ns]夏都[nse]
-（オレ……汚れちまった……。[r]
-　お前だけのものでいたかったのに……）[pcms]
+[ns]Natsu[nse]
+(I've been defiled... I wanted to be only yours...)[pcms]
 
 *2215|
 [fc]
-[ns]男Ａ[nse]
-「よっし、次だ次。今度はケツの穴にも入れてみっかぁ？」[pcms]
+[ns]Man A[nse]
+"Alright, next up. How about we try putting it in her ass this time?"[pcms]
 
 *2216|
 [fc]
-[ns]男Ｂ[nse]
-「オマンコにチンポ２本挿し、なんてのも[r]
-　おもしれぇかもな。げひゃひゃひゃひゃ」[pcms]
+[ns]Man B[nse]
+"Two dicks in her pussy at once might be pretty fun too. Gehyahyahya!"[pcms]
 
 *2217|
 [fc]
-男たちがなにか楽しそうに話してるが、もう、どうでもいい。[pcms]
+The men are talking about something that seems fun to them, but I[r]
+don't care anymore.[pcms]
 
 *2218|
 [fc]
-オレは目を閉じて、ただ、誠のことだけを考えた。[pcms]
+I closed my eyes and just thought about Makoto.[pcms]
 
 [evcg storage="natu_H010g"][trans_c cross time=300]
 
 *2219|
 [fc]
 [vo_nat s="natu_nt0240"]
-[ns]夏都[nse]
-（誠……愛してる………）[pcms]
+[ns]Natsu[nse]
+(Makoto... I love you...)[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -3060,15 +3009,15 @@
 
 *2220|
 [fc]
-………………………………………[pcms]
+...[pcms]
 
 *2221|
 [fc]
-………………………………[pcms]
+...[pcms]
 
 *2222|
 [fc]
-………………………[pcms]
+...[pcms]
 
 ;//bgm12.ogg
 [bgm storage="BGM12"]
@@ -3078,34 +3027,34 @@
 
 *2223|
 [fc]
-黒服たちと夏都との集団セックスには参加せず、その様子を[r]
-黙って見ていたオズが、男たちに声をかけた。[pcms]
+Oz, who had not participated in the gangbang with Natsu and had been[r]
+silently watching, spoke to the men.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2224|
 [fc]
-[ns]オズ[nse]
-「お前ら、今のうちにしっかり楽しんでおけよ」[pcms]
+[ns]Oz[nse]
+"You guys better enjoy this while you can."[pcms]
 
 *2225|
 [fc]
-[ns]男Ｃ[nse]
-「どちらに行くんですか、オズ？」[pcms]
+[ns]Male C[nse]
+"Where are you going, Oz?"[pcms]
 
 *2226|
 [fc]
-[ns]オズ[nse]
-「俺はこれから、メガネの若大将のとこに行ってきて[r]
-　ちょっとビジネスの話をしてくる。じゃあ、後は頼んだぞ」[pcms]
+[ns]Oz[nse]
+"I'm off to see the young boss with the glasses to discuss some[r]
+business. I'm counting on you guys to handle the rest."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2227|
 [fc]
-オズは男たちにそう言い残すと、相変わらず男たちに[r]
-好き放題に弄ばれている夏都には一瞥もくれずに、[r]
-その場から立ち去った。[pcms]
+Oz left those words with the men and, without so much as a glance at[r]
+Natsu, who was still being played with by the men as they pleased, he[r]
+walked away from the scene.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

@@ -1,13 +1,13 @@
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 ;//シーン名	：『』
 ;//file名	：0195
-;//登場人物	：主人公、夏都、
+;//登場人物	：主人公、夏、
 ;//服装		：
 ;//日付		：７月１６日
 ;//時間		：22:00ごろ
 ;//場所		：
 ;//予想容量	：全体を通して3K前後
-;//備考		：夏都一人称視点
+;//備考		：夏一人称視点
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *0195_TOP
 ;{SceneSet 憂鬱の家庭}
@@ -37,9 +37,9 @@
 
 ;//m:体験版範囲書き戻し済み
 
-;//夏都ＺＡＰ
+;//夏ＺＡＰ
 
-;//★発生条件：ブロック00185の夏都ＺＡＰを見ていると自働発生
+;//★発生条件：ブロック00185の夏ＺＡＰを見ていると自働発生
 
 [wait_c time=500]
 
@@ -61,12 +61,12 @@
 *2501|
 [fc]
 [vo_nat s="natu0322"]
-[ns]夏都[nse]
-「んっ……んぁぁっ……ふあっ……」[pcms]
+[ns]Natsu[nse]
+"Mmm... Ahh... Haa..."[pcms]
 
 *2502|
 [fc]
-あの半端ヤロー……。[pcms]
+"That half-assed jerk..."[pcms]
 
 ;//条件分岐
 ;//フラグtouch_natu成立しているかどうか
@@ -81,7 +81,7 @@
 
 *2503|
 [fc]
-中途半端に人様の胸弄りやがって！[pcms]
+"Playing with someone's chest half-heartedly like that!"[pcms]
 
 ;//ラベル gouryu　へ
 [jump target=*gouryu]
@@ -92,7 +92,7 @@
 
 *2504|
 [fc]
-触りたいんなら、触ればいいじゃねえか……。[pcms]
+"If you want to touch, then just touch me already..."[pcms]
 
 ;//ラベル gouryu　へ
 [jump target=*gouryu]
@@ -102,45 +102,42 @@
 
 *2505|
 [fc]
-妙に期待しちまったじゃねえかよ……。[r]
-そのおかげで、アソコが火照って……くそっ！[r]
-目が覚めちまったしよぉ！[pcms]
+"You got me all expectant for nothing... Now my pussy is all hot[r]
+because of it... Damn it! And now I'm wide awake!"[pcms]
 
 *MEMORIES_START
 
 *2506|
 [fc]
 [vo_nat s="natu0323"]
-[ns]夏都[nse]
-「んっ……はぁっ……ふぁぁっ！」[pcms]
+[ns]Natsu[nse]
+"Mmm... Hah... Faaah!"[pcms]
 
 *2507|
 [fc]
-なんで、オレ……こんなになってんだよ……。[r]
-やっぱ期待しちまってんのかな……。[r]
-酔いも、中途半端だからか……。[pcms]
+"Why am I... getting so worked up...? Maybe it's because I'm expecting[r]
+something... Or maybe it's the alcohol, being only half-drunk..."[pcms]
 
 *2508|
 [fc]
 [vo_nat s="natu0324"]
-[ns]夏都[nse]
-「……はぁっ……」[pcms]
+[ns]Natsu[nse]
+"...Hah..."[pcms]
 
 *2509|
 [fc]
-アイツも部屋に籠もったみたいだし……。[r]
-ここでオナっても、大丈夫だよな。[pcms]
+"He seems to have holed up in his room... It should be safe to[r]
+masturbate here, right?"[pcms]
 
 *2510|
 [fc]
-ああ……我慢もできねえし……。[r]
-ヤッちまうか！[pcms]
+"Ah... I can't hold back anymore... I'm going to do it!"[pcms]
 
 *2511|
 [fc]
-乱雑に被せられたタオルケットを少しずらし、[r]
-万一の事があっても大丈夫なようにと、パンツを履いたまま、[r]
-その上から、“アソコ”をそっと撫でてみた。[pcms]
+"I shifted the carelessly thrown blanket a little, and to be safe in[r]
+case of anything, I kept my panties on and gently stroked my pussy[r]
+over them."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -148,8 +145,8 @@
 *2512|
 [fc]
 [vo_nat s="natu0325"]
-[ns]夏都[nse]
-「ひっ……んんっ……あっ、はっっ……」[pcms]
+[ns]Natsu[nse]
+"Hik... Mmm... Ah, hah..."[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
@@ -159,164 +156,157 @@
 
 *2513|
 [fc]
-軽く触れただけなのに、指の腹には生暖かい液体が絡みつき、[r]
-糸を引いて伸びていくのが分かる。[pcms]
+"Even though I only touched it lightly, I could feel a warm liquid[r]
+wrapping around the pad of my finger, stretching and pulling into[r]
+threads."[pcms]
 
 *2514|
 [fc]
-誠がした、たったあれだけの事は、[r]
-オレのアソコを、“こんなに”濡らしていた。[pcms]
+"The little that Makoto did, it made my pussy this wet."[pcms]
 
 *2515|
 [fc]
-やっぱりオレ、どうかしている。[r]
-酒のせいだけじゃない。[r]
-あんな事を考えたせいか。[pcms]
+"I must be going crazy. It's not just the alcohol. Maybe it's because[r]
+I thought about that."[pcms]
 
 *2516|
 [fc]
-今更、誠と男女の関係について考えるなんて。[pcms]
+"To think about having a sexual relationship with Makoto now, of all[r]
+times."[pcms]
 
 *2517|
 [fc]
-アイツが、妙に良いところ見せたせいか？[r]
-妙に、意識しちまったもんな……“アレ”で。[pcms]
+"Is it because he showed me his good side? I've become strangely[r]
+conscious of him... because of 'that'."[pcms]
 
 *2518|
 [fc]
-ふと、誠の笑顔が頭に浮かぶ。[r]
-考えちゃいけない。[r]
-そう思いつつもオレは、指をアソコの割れ目に食い込ませた。[pcms]
+"Suddenly, Makoto's smiling face comes to mind. I shouldn't be[r]
+thinking about this. Yet, I let my finger dig into the slit of my[r]
+pussy."[pcms]
 
 *2519|
 [fc]
 [vo_nat s="natu0326"]
-[ns]夏都[nse]
-「んっ……んんんっ……」[pcms]
+[ns]Natsu[nse]
+"Mmm... Mmmm..."[pcms]
 
 *2520|
 [fc]
-アイツは、オレにこんな事をしたいと思っているんだろうか？[r]
-アイツがオレに対して、こんな事をする日が来るんだろうか？[pcms]
+"Does he want to do this kind of thing to me? Will there come a day[r]
+when he does this kind of thing to me?"[pcms]
 
 *2521|
 [fc]
-アイツなら、オレにどんなことをするんだろう。[r]
-なんだか、色んなエロ動画を観てるみたいだけど……。[pcms]
+"What would he do to me? He seems to watch a lot of porn..."[pcms]
 
 *2522|
 [fc]
-この間チラッと覗いた時は、結構過激なのを観ていたな。[r]
-女の子を、強引にねじ伏せるような……。[pcms]
+"When I peeked the other day, he was watching something pretty[r]
+hardcore. Like forcefully overpowering a girl..."[pcms]
 
 *2523|
 [fc]
-アイツも、そうしたいんだろうか？[r]
-オレに対しても、あんな風にしたいんだろうか。[pcms]
+"Does he want to do that? Does he want to do that to me too?"[pcms]
 
 *2524|
 [fc]
-体格差なんて関係なしに、オレの体を貪る。[r]
-あの、誠が……。[pcms]
+"Ignoring our difference in build, he'd devour my body. That[r]
+Makoto..."[pcms]
 
 *2525|
 [fc]
-酔ったせいか。[r]
-目をつむっただけで、[r]
-誠が体をまさぐっているような錯覚に陥る。[pcms]
+"Maybe it's because I'm drunk. Just by closing my eyes, I get the[r]
+illusion that Makoto is fondling my body."[pcms]
 
 *2526|
 [fc]
-今オレのアソコを弄っているのは、自分の指だと言うのに。[pcms]
+"Even though it's my own fingers that are playing with my pussy right[r]
+now."[pcms]
 
 *2527|
 [fc]
 [vo_nat s="natu0327"]
-[ns]夏都[nse]
-「くっ……クリなんかも、乱暴にしたいの……か……？[r]
-　ひっ……んあぁっ！」[pcms]
+[ns]Natsu[nse]
+"Kuh... Do you want to be rough with my clit too...? Hik... Ahh!"[pcms]
 
 *2528|
 [fc]
-想像の中の誠の細い指が、[r]
-クリトリスに押し当てられる。[pcms]
+"In my imagination, Makoto's slender fingers are pressing against my[r]
+clit."[pcms]
 
 *2529|
 [fc]
-パンツ越しに、あの細い指が、[r]
-皮から飛び出したクリトリスの先端に触れる。[pcms]
+"Through the panties, those slender fingers touch the tip of my clit[r]
+that's peeking out from under the hood."[pcms]
 
 *2530|
 [fc]
-そして、そのままオレのパンツは横にずらされ、[r]
-充血し、愛液にまみれた肉をかき分けていく。[pcms]
+"Then, as is, my panties are pushed aside, and his fingers part the[r]
+engorged, wet flesh."[pcms]
 
 *2531|
 [fc]
 [vo_nat s="natu0328"]
-[ns]夏都[nse]
-「んぎいいいっ！　そんなに強くするなっ！[r]
-　まっ……まこっ……とっ……ふあっ！」[pcms]
+[ns]Natsu[nse]
+"Ngyiiii! Don't be so rough! My... pussy... Ahh!"[pcms]
 
 *2532|
 [fc]
-相変わらず、目の前には誰もいない。[r]
-なのにオレは、誠の名前を呼び続ける。[pcms]
+"As usual, there's no one in front of me. Yet I keep calling out[r]
+Makoto's name."[pcms]
 
 *2533|
 [fc]
 [vo_nat s="natu0329"]
-[ns]夏都[nse]
-「まっ……誠ぉ……そんなに、乱暴なのは……んぁっ！[r]
-　ひっ……ひいいいっ！」[pcms]
+[ns]Natsu[nse]
+"Ma... Makoto... being so rough is... Ahh! Hik... Hiiii!"[pcms]
 
 *2534|
 [fc]
-誠が、意地の悪い笑みをオレに向け、[r]
-興奮し、緩んだオレの顔を観て笑う。[pcms]
+"Makoto looks at me with a wicked smile, laughing at my excited and[r]
+slackened face."[pcms]
 
 *2535|
 [fc]
-あの誠が、オレを笑う。[r]
-そう思うと、屈辱と共に妙な興奮が頭を支配していく。[pcms]
+"That Makoto is laughing at me. The thought brings a strange[r]
+excitement along with humiliation."[pcms]
 
 *2536|
 [fc]
-小柄な誠が、自分で言うのも何だけど、[r]
-鍛え上げたこの体が、あんなのに負けるとは思えない。[pcms]
+"It's strange to say as the person himself, but I can't imagine this[r]
+well-trained body losing to someone like him."[pcms]
 
 *2537|
 [fc]
-なのに……。[pcms]
+"And yet..."[pcms]
 
 *2538|
 [fc]
-妄想の中の誠は屈強で。[r]
-妄想の中オレは、誠の腕に抗うことが出来ないで、[r]
-“アイツ”の好きなように、弄ばれている。[pcms]
+"In my fantasy, Makoto is strong and overpowering. In this fantasy, I[r]
+can't resist his arms and am played with however he likes."[pcms]
 
 *2539|
 [fc]
-そのことが、オレに不思議な興奮を与えていた。[pcms]
+"That thought strangely excites me."[pcms]
 
 *2540|
 [fc]
 [vo_nat s="natu0330"]
-[ns]夏都[nse]
-「くっ……クリ……あまり弄るな……ひぁっ！[r]
-　駄目っ……誠は、こんな子じゃないだ……ろっ！[r]
-　んあっ！　ひいっ……やっ、やめろおっ！」[pcms]
+[ns]Natsu[nse]
+"Kuh... Don't play with my clit too much... Hiah! No good... Makoto[r]
+isn't like that... Ahh! Hii... Stop it!"[pcms]
 
 *2541|
 [fc]
-脳内の誠は、オレの胸や腹、太腿を強く噛みつき、[r]
-乱暴にアソコをまさぐり、[r]
-動画から知り得た知識か、体の至る所に手や舌を這わせる。[pcms]
+The Makoto in my mind bites down hard on my chest, belly, and thighs,[r]
+roughly fondles my pussy, and using knowledge from videos, he crawls[r]
+his hands and tongue all over my body.[pcms]
 
 *2542|
 [fc]
-そして、オレをあざ笑いながら、皮を被った若い“アレ”を、[r]
-濡れた割れ目に押し当てた。[pcms]
+And while mocking me, he presses his young, covered "thing" against my[r]
+wet slit.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -324,39 +314,35 @@
 *2543|
 [fc]
 [vo_nat s="natu0331"]
-[ns]夏都[nse]
-「やっ……やめろおっ！　お、オレ達は、[r]
-　そんな事はしちゃ駄目なんだっ！　オレと、お前は……。[r]
-　こんな事しちゃ駄目なんだっ……んあっっ！」[pcms]
+[ns]Natsu[nse]
+"Stop... stop it! We... we shouldn't be doing this! You and I... It's[r]
+wrong for us to do this... Ahhh!"[pcms]
 
 *2544|
 [fc]
-何処までいっても、妄想だ。[r]
-オレの都合のいい、妄想。[pcms]
+It's all just a fantasy. A convenient fantasy of mine.[pcms]
 
 *2545|
 [fc]
-本当の誠は、こんな事はしない。[r]
-もしあったとしても……。[r]
-こんな乱暴な事は出来ないだろう。[pcms]
+The real Makoto wouldn't do this. Even if it were to happen... he[r]
+couldn't be this rough.[pcms]
 
 *2546|
 [fc]
-でも、今のオレの脳内の誠は、そうじゃない。[pcms]
+But the Makoto in my mind right now isn't like that.[pcms]
 
 *2547|
 [fc]
-これは、オレの望んだ事なんだ。[r]
-オレが、“アイツ”にされたいこと……。[pcms]
+This is what I wanted. What I want "him" to do to me...[pcms]
 
 *2548|
 [fc]
-オレの本心は、こんな風に、アイツに乱暴にされたいんだ。[pcms]
+Deep down, I want him to treat me roughly like this.[pcms]
 
 *2549|
 [fc]
-頭の中の誠は、相変わらず笑ってる。[r]
-オレのアソコを激しく掻き回しながら、笑ってる。[pcms]
+The Makoto in my head is still laughing. Laughing while he fiercely[r]
+stirs up my pussy.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -367,32 +353,31 @@
 *2550|
 [fc]
 [vo_nat s="natu0332"]
-[ns]夏都[nse]
-「んっううっ！　ひっ……んぎいいっ！　ぁぁっ！」[pcms]
+[ns]Natsu[nse]
+"Nnghh! Hik... Ngyiiii! Ahhh!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *2551|
 [fc]
-実際には、オレの指がアソコに入っているだけ。[r]
-それを、自分の意志で強く掻き回しているだけ。[pcms]
+In reality, it's just my fingers inside my pussy. I'm the one stirring[r]
+it up strongly with my own will.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *2552|
 [fc]
-なのに、誠のアレが、今こうしていると想像するだけで、[r]
-オレの頭は沸騰した水を注ぎ込まれた様になっていく。[pcms]
+Yet just by imagining Makoto's "thing" doing this right now, my mind[r]
+starts to boil as if hot water is being poured into it.[pcms]
 
 *2553|
 [fc]
 [vo_nat s="natu0333"]
-[ns]夏都[nse]
-「まっ……まこ……あぁあっ！　中……中に出すのかっ……！？[r]
-　オレの中にっ……んんああっ！　駄目だっ！[r]
-　そんなの……駄目っ……あぁっ！」[pcms]
+[ns]Natsu[nse]
+"Ma... Makoto... Ahhh! Are you going to cum inside... Inside me...[r]
+Nnnahhh! No, that's wrong! We can't... Ahhh!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -406,38 +391,37 @@
 
 *2554|
 [fc]
-本当は、何も入っていない。[r]
-今まで、誰にも許したことはない。[pcms]
+In truth, there's nothing inside. I've never allowed anyone until now.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *2555|
 [fc]
-オレの、始めてはアイツに……。[r]
-こんな風に、奪われたい……。[pcms]
+My first time should be with "him"... I want it to be taken like[r]
+this...[pcms]
 
 *2556|
 [fc]
-そんな妄想が、頭の中で膨らみ、弾けていく。[pcms]
+Such fantasies swell and burst in my head.[pcms]
 
 *2557|
 [fc]
-オレは、“アイツ”に中だしされる事を想像しながら、[r]
-痛いほど尖り、皮から頭を出したクリトリスを強くつまみ上げた。[pcms]
+While imagining being cum inside by "him," I pinch my painfully sharp[r]
+and protruding clit hard.[pcms]
 
 *2558|
 [fc]
-たったそれだけ。[r]
-たったそれだけなのに、腹の中にある臓器が収縮していく。[pcms]
+That's all it is. Just that, yet the organs inside my belly contract.[pcms]
 
 *2559|
 [fc]
-次の瞬間――[pcms]
+The next moment--[pcms]
 
 *2560|
 [fc]
-オレの体は、まるで宙に浮いたような開放感に包まれていった。[pcms]
+My body is enveloped in a sensation of floating in the air, a feeling[r]
+of release.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -445,8 +429,8 @@
 *2561|
 [fc]
 [vo_nat s="natu0334"]
-[ns]夏都[nse]
-「イッ……イクうううっ！　うぁああっ！　誠おおっ！」[pcms]
+[ns]Natsu[nse]
+"I'm cumming... Cummingggg! Ahhhh! Makotooo!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -456,76 +440,74 @@
 *2562|
 [fc]
 [vo_nat s="natu0335"]
-[ns]夏都[nse]
-「はっ……はっ……んあぁっ……ふあぁあ……」[pcms]
+[ns]Natsu[nse]
+"Hah... Hah... Nnahhh... Fuaaahhh..."[pcms]
 
 *2563|
 [fc]
-…………。[pcms]
+...[pcms]
 
 *2564|
 [fc]
-派手な絶頂を迎えたオレは、焦点が定まらない目を、[r]
-天井に向けた。[pcms]
+After reaching a flashy climax, I aim my unfocused eyes at the[r]
+ceiling.[pcms]
 
 *2565|
 [fc]
-誠に笑われ、犯される事を想像しながら絶頂してしまった。[r]
-妙に気恥ずかしく、後ろめたい。[pcms]
+I came while imagining being laughed at and violated by Makoto. It[r]
+feels oddly embarrassing and guilty.[pcms]
 
 *2566|
 [fc]
-一緒に住んでいる『家族』を、[r]
-そんな風に思っている自分が……だ。[pcms]
+The fact that I think of a "family" member in such a way...[pcms]
 
 *2567|
 [fc]
 [vo_nat s="natu0336"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *2568|
 [fc]
-何してるんだろ、オレ……。[pcms]
+What am I doing...[pcms]
 
 *2569|
 [fc]
-ようやく焦点が合いだした目の奥で、[r]
-オレの心が囁いた。[pcms]
+As my eyes finally start to focus again, a whisper comes from deep[r]
+within me.[pcms]
 
 *2570|
 [fc]
-誠が何をしたいかなんて考えるより……。[pcms]
+Rather than thinking about what Makoto wants to do...[pcms]
 
 *2571|
 [fc]
-オレがどうしたいか、じゃないのか？[pcms]
+Isn't it about what I want to do?[pcms]
 
 *2572|
 [fc]
-オレが考えるべきは、それだ。[r]
-人がどう思ってるなんて、分からない。[pcms]
+That's what I should be considering. You can't know what others are[r]
+thinking.[pcms]
 
 *2573|
 [fc]
-自分が、どう行動するか。[r]
-それが一番重要な筈なのに……。[pcms]
+What matters most is how I act. And yet...[pcms]
 
 *2574|
 [fc]
-それでもやっぱり、答は出せない。[r]
-誠と、オレの関係については……。[pcms]
+I still can't find the answer. About the relationship between Makoto[r]
+and me...[pcms]
 
 *2575|
 [fc]
 [vo_nat s="natu0337"]
-[ns]夏都[nse]
-「はぁ……部屋、戻るか……」[pcms]
+[ns]Natsu[nse]
+"Sigh... Should I go back to my room..."[pcms]
 
 *2576|
 [fc]
-自分の手で汚してしまったパンツを脱ぎながら、[r]
-余韻が残り、ふらつく足を部屋へと向けた。[pcms]
+While taking off the panties I've soiled with my own hand, I head back[r]
+to my room with legs still shaky from the afterglow.[pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

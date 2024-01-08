@@ -38,18 +38,18 @@
 *623|
 [fc]
 [vo_tay s="taja0090"]
-[ns]ターヤ[nse]
-「……なっ……なんてこと……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...What... what is this..."[pcms]
 
 *624|
 [fc]
-南せんぱいがグッタリしているのを眺めていると、[r]
-ターヤさんがぼくたちの前にあらわれた。[pcms]
+As we were looking at Minami-senpai lying exhausted, Tarja-san[r]
+appeared before us.[pcms]
 
 *625|
 [fc]
-金色のかみの毛や、透き通るような白い肌が、[r]
-がまぶしい光を浴びて、キラキラ光ってる。[pcms]
+Her golden hair and translucent white skin were bathed in a dazzling[r]
+light, sparkling brightly.[pcms]
 
 [bgm storage="BGM07"]
 ;//♪bgm07　日没：ロマンティック
@@ -58,89 +58,83 @@
 
 *626|
 [fc]
-[ns]宗一郎[nse]
-「お、おお……ターヤさん……。[r]
-　きっ……綺麗だ……まるで人形……フィギア！」[pcms]
+[ns]Souichirou[nse]
+"Oh, oh... Tarja-san... You're... beautiful... like a doll... a[r]
+figure!"[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_sw"][ChrSetParts layer=5 chface="F2_ar04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *627|
 [fc]
-[ns]荒井[nse]
-「う、うむ……、小さな口、おおきな目……。[r]
-　あれは、ヤるしかないな……」[pcms]
+[ns]Arai[nse]
+"Yes, yes... small mouth, big eyes... That's something we've got to[r]
+do..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_sw"][ChrSetParts layer=5 chface="F1_ta15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *628|
 [fc]
 [vo_tay s="taja0091"]
-[ns]ターヤ[nse]
-「貴方たち……大丈夫なの……。[r]
-　口がうまく回ってないけど、もしかして日射病……」[pcms]
+[ns]Tarja[nse]
+"Are you guys... okay? Your speech isn't clear, could it be[r]
+heatstroke...?"[pcms]
 
 *629|
 [fc]
-ぼくたちを見たターヤさんは、その場で足を止め、[r]
-じっとこちらを見つめていた。[pcms]
+Tarja-san stopped in her tracks when she saw us, staring intently at[r]
+us.[pcms]
 
 *630|
 [fc]
-だけど、なんだかフラフラしてる。[r]
-疲れているのかな。[r]
-いや、違う。[pcms]
+But she seemed a bit unsteady. Maybe she's tired. No, that's not it.[pcms]
 
 *631|
 [fc]
-いままでの女の子たちとおなじように、[r]
-ターヤさんも気持ち良くなりたいんだ。[pcms]
+Just like the other girls before her, Tarja-san wants to feel good[r]
+too.[pcms]
 
 *632|
 [fc]
-あの子はシャイなかんじがしたから、[r]
-そんなこと自分から言い出せないんだろうな。[pcms]
+She seemed shy, so she probably couldn't say such things herself.[pcms]
 
 *633|
 [fc]
-[ns]誠[nse]
-「よし、わかった。キミの気持ちはよくわかった。[r]
-　いくぞみんな！　ターヤさんを気持ち良くさせるんだ！[r]
-　それが、ボクたちのしめい！　やくわり！」[pcms]
+[ns]Makoto[nse]
+"Alright, I understand how you feel. Let's go, everyone! We'll make[r]
+Tarja-san feel good! That's our mission! Our role!"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_sw"][ChrSetParts layer=3 chface="F1_ar12"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so15b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *634|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「おう！　だけどお前、大丈夫か？[r]
-　なんか話し方ヘンだぞ？」[pcms]
+[ns]Souichirou & Arai[nse]
+"Yeah! But are you okay? You're talking weird, you know?"[pcms]
 
 *635|
 [fc]
-[ns]誠[nse]
-「きにすんな！　いくぞっ！」[pcms]
+[ns]Makoto[nse]
+"Don't worry about it! Let's go!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *636|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「突撃いっちばぁぁぁん！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Charge at full speed!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_sw"][ChrSetParts layer=5 chface="F2_ta16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *637|
 [fc]
 [vo_tay s="taja0092"]
-[ns]ターヤ[nse]
-「え……な、何をする気……きゃあっ！」[pcms]
+[ns]Tarja[nse]
+"Eh... what are you planning to do... kyaa!"[pcms]
 
 *638|
 [fc]
-これで何度目だろう。[r]
-ぼくたちは、我先にとターヤさんのオマンコめがけ、[r]
-飛びかかった。[pcms]
+How many times has it been? We rushed towards Tarja-san's pussy, each[r]
+of us eager to be first.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -156,34 +150,33 @@
 
 *639|
 [fc]
-目を丸くして驚いているターヤさんの水着を握り、[r]
-強引に引っ張ると、僕達三人は、はじけそうになっているモノを、[r]
-露出したピンク色のオマンコに押し込んだ。[pcms]
+As Tarja-san looked on in shock, we grabbed her swimsuit and pulled it[r]
+off forcefully, and the three of us pushed our about-to-burst dicks[r]
+into her exposed pink pussy.[pcms]
 
 [evcg storage="taja_H019b"][trans_c cross time=300]
 
 *640|
 [fc]
 [vo_tay s="taja0093"]
-[ns]ターヤ[nse]
-「ぎっ……！？　いぎいぃいあああああぁぁぁっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gih...!? Igiyiiiaaaaaahhh!!"[pcms]
 
 *641|
 [fc]
-まったく、どいつもコイツもガッつきやがって。[r]
-穴なら他にもあるんだから、別にオマンコじゃなくたって[r]
-いいじゃないか。[pcms]
+Really, everyone is so eager. There are other holes available, it[r]
+doesn't have to be the pussy.[pcms]
 
 *642|
 [fc]
-でも、僕だってそろそろ中だししないとダメだ。[r]
-中だししないと、ぼくの頭の中がハジケてしまいそうだ。[pcms]
+But I need to cum inside soon too. If I don't, my head feels like it's[r]
+going to burst.[pcms]
 
 *643|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「きついな！　小柄マンコサイコぉおおっ！！[r]
-　ってか、お前らどけよ！　このマンコはゆずらないぞっ！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"It's tight! This petite pussy is amazing! But hey, move aside! I[r]
+won't give up this pussy!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -195,273 +188,253 @@
 *644|
 [fc]
 [vo_tay s="taja0094"]
-[ns]ターヤ[nse]
-「ガッ……あがぁあっっ！　あがっ！　かはぁっ！」[pcms]
+[ns]Tarja[nse]
+"Gah... agaaaah! Agah! Kahah!"[pcms]
 
 *645|
 [fc]
-みんな早く入れたくて、やみくもに腰を突き立てていると、[r]
-ぼくたちのはき出したガマン汁が潤滑液になって、[r]
-ついに三本同時に、ターヤさんの中にねじ込まれた。[pcms]
+In their eagerness to penetrate her, our pre-cum served as lubricant,[r]
+and finally all three dicks were simultaneously twisted inside Tarja-[r]
+san.[pcms]
 
 [evcg storage="taja_H019d"][trans_c cross time=300]
 
 *646|
 [fc]
 [vo_tay s="taja0095"]
-[ns]ターヤ[nse]
-「あっ……あ……がぁ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah... ah... gah..."[pcms]
 
 *647|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「くそっ！　みんな抜けよ！　独占したいんだよ、ミニマンコを！[r]
-　でも、これはこれで……きつすぎてすぐイッちまいそうだ！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Damn it! Everyone pull out! I want to monopolize this mini pussy! But[r]
+this is too tight; I might cum too soon!"[pcms]
 
 *648|
 [fc]
 [vo_tay s="taja0096"]
-[ns]ターヤ[nse]
-「ぎ……あぁ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gih... ah..."[pcms]
 
 ;//m:気絶
 
 *649|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「あれ？　ターヤさんどうしたの？　口から泡こぼして……。[r]
-　……そうか！　これ、気持ち良いいのか！[r]
-　そうだよな！　そうだよな！　気持ちいいものな！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Huh? What's wrong with Tarja-san? Foaming at the mouth... Oh, I get[r]
+it! This must feel good! Right! It must feel good!"[pcms]
 
 *650|
 [fc]
-ぼくたちがこんなにきもちいいのだもの。[pcms]
+If we're feeling this good...[pcms]
 
 *651|
 [fc]
-さん本ものモノが、こんな小さなオマンコに入って、[r]
-それぞれデタラメに突きあげているんだから、[r]
-ターヤさんみたいな小柄な子が、気絶するのもうなづける。[pcms]
+Three dicks inside such a small pussy, thrusting randomly, it's[r]
+understandable that a petite girl like Tarja-san would faint.[pcms]
 
 *652|
 [fc]
-小柄な体を犯すというのもそうだけど、[r]
-体の柔らかさも、それを加速させている。[pcms]
+The act of violating such a petite body, and her flexibility, both[r]
+accelerate the sensation.[pcms]
 
 *653|
 [fc]
-[ns]宗一郎[nse]
-「しっかし、こんな体位でのセックスって興奮するな！[r]
-　驚きだぜ！」[pcms]
+[ns]Souichirou[nse]
+"Man, sex in this position is so exciting! It's surprising!"[pcms]
 
 *654|
 [fc]
-[ns]荒井[nse]
-「ギッチギチのマンコから、[r]
-　愛液がションベンみたく吹き出しててエロい！」[pcms]
+[ns]Arai[nse]
+"The pussy is so tight that the love juices are spraying out like pee,[r]
+so erotic!"[pcms]
 
 *655|
 [fc]
-ぼくたちが一斉にむらがって、足が思いっきり広げられ、[r]
-背中もすごいエビ反り状態。[pcms]
+We all crowded in at once, her legs spread wide and her back arched[r]
+dramatically.[pcms]
 
 *656|
 [fc]
-引き締まったお腹のラインや小さな胸が、[r]
-ぼくたちの腰の動きにあわせて、[r]
-反り返って小刻みに揺れている。[pcms]
+The lines of her tight abdomen and small breasts shook minutely in[r]
+response to our thrusting hips.[pcms]
 
 *657|
 [fc]
-結合部分もばっちり見えて、最高だ！[pcms]
+The joining part is perfectly visible, it's the best![pcms]
 
 ;//♂Ｄ：絵次第では上の地の文カット
 
 *658|
 [fc]
-[ns]誠[nse]
-「あっ……ああぁっ！！　でっ、出るっ！」[pcms]
+[ns]Makoto[nse]
+"Ah... ahhh!! I'm going to cum!"[pcms]
 
 [evcg storage="taja_H019e"][trans_c cross time=300]
 
 *659|
 [fc]
 [vo_tay s="taja0097"]
-[ns]ターヤ[nse]
-「え……あ……だ、だめ……だめぇぇっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Eh... ah... no... nooo!!"[pcms]
 
 *660|
 [fc]
-きをうしなっていたターヤさんは、[r]
-僕の悲鳴のせいで目を覚ましたようだ。[pcms]
+Tarja-san seemed to have regained consciousness due to my scream.[pcms]
 
 *661|
 [fc]
-ダメっていうけど、何がダメなんだろう。[pcms]
+I wonder what she means by 'no'.[pcms]
 
 *662|
 [fc]
-[ns]誠[nse]
-「そんな事いっても……もう、ぼくもダメ。[r]
-　あ……あ……でるうっ！」[pcms]
+[ns]Makoto[nse]
+"Even if you say that... I can't hold back anymore. Ah... ah... I'm[r]
+cumming!"[pcms]
 
 *663|
 [fc]
-[ns]宗一郎[nse]
-「おいおい、やめてくれ。[r]
-　それに今出すと後であまり気持ち良くないぞ？」[pcms]
+[ns]Souichirou[nse]
+"Hey, hey, stop that. Besides, if you cum now, it won't feel as good[r]
+later, right?"[pcms]
 
 [evcg storage="taja_H019f"][trans_c cross time=300]
 
 *664|
 [fc]
 [vo_tay s="taja0098"]
-[ns]ターヤ[nse]
-「ダメダメっ！　出さないでっ！[r]
-　いやぁあぁあっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No, no! Don't cum! Nooo!!"[pcms]
 
 *665|
 [fc]
-[ns]誠[nse]
-「くっ……うううぅっ！　あ、あぁ……。[r]
-　ちょっと出ちゃった……」[pcms]
+[ns]Makoto[nse]
+"Ugh... uuu... Ah, ahh... I let a little out..."[pcms]
 
 [evcg storage="taja_H019g"][trans_c cross time=300]
 
 *666|
 [fc]
 [vo_tay s="taja0099"]
-[ns]ターヤ[nse]
-「やぁああああああぁぁぁぁっ！！！[r]
-　ひぃああぁあぁっ！　出さないでって言ったのにっ！[r]
-　あぁああぁぁっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nooo! I told you not to cum! Aaahhh!!"[pcms]
 
 *667|
 [fc]
-[ns]荒井[nse]
-「ははは、早漏め」[pcms]
+[ns]Arai[nse]
+"Haha, premature ejaculator."[pcms]
 
 *668|
 [fc]
-[ns]宗一郎[nse]
-「……お前、言えたギリか？」[pcms]
+[ns]Souichirou[nse]
+"...You barely made it, didn't you?"[pcms]
 
 [evcg storage="taja_H019e"][trans_c cross time=300]
 
 *669|
 [fc]
 [vo_tay s="taja0100"]
-[ns]ターヤ[nse]
-「あぁ……ああぁ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah... aah..."[pcms]
 
 *670|
 [fc]
-宗一郎に言われなかったら、[r]
-ぜんぶだしちゃうところだった。[pcms]
+If Souichirou hadn't said anything, I would have let it all out.[pcms]
 
 *671|
 [fc]
-まだもったいないし、もう少しガマンしてから[r]
-ブッぱなしたほうがきもちいいんだ。[pcms]
+It's still too precious to waste, and it feels better to hold it in a[r]
+bit longer before letting it all out.[pcms]
 
 *672|
 [fc]
-[ns]誠[nse]
-「ありがとう、そーいち……うっ……ぐすっ……。[r]
-　ありがとう……ありがとう……」[pcms]
+[ns]Makoto[nse]
+"Thank you, Sou-ichi... ugh... *sniffle*... Thank you... thank you..."[pcms]
 
 *673|
 [fc]
-[ns]宗一郎[nse]
-「いいってことよ……ううっ……お前、涙ふけよ。[r]
-　俺もなんか、泣きたくなっちまう……」[pcms]
+[ns]Souichirou[nse]
+"It's alright... ugh... wipe your tears. You're making me want to cry[r]
+too..."[pcms]
 
 *674|
 [fc]
 [vo_tay s="taja0101"]
-[ns]ターヤ[nse]
-「泣きたいのは、こっちよ！　うぅ……でも、なんだか……。[r]
-　頭がボーっとしてきた……。[r]
-　それに、あ、アソコも……なんだか……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"The one who wants to cry is me! Uuu... but somehow... My head is[r]
+getting all fuzzy... And, my pussy is also... kind of..."[pcms]
 
 *675|
 [fc]
 [vo_tay s="taja0102"]
-[ns]ターヤ[nse]
-「あぁ……んっ……んんっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aah... mmm... mmm..."[pcms]
 
 *676|
 [fc]
-[ns]荒井[nse]
-「お、さっきよりマンコが熱くなってきた気がする。[r]
-　それに、マン汁の量も増えてきた？[r]
-　感じてるの？　ねえ、感じてる！？」[pcms]
+[ns]Arai[nse]
+"Oh, her pussy feels hotter than before. And the amount of love juices[r]
+has increased? Are you feeling it? Hey, are you feeling it!?"[pcms]
 
 *677|
 [fc]
 [vo_tay s="taja0103"]
-[ns]ターヤ[nse]
-「かっ、感じてなんか……ない……。[r]
-　だけど……ヘン……ヘン……あぁ……」[pcms]
+[ns]Tarja[nse]
+"I'm not... feeling anything... But... it's strange... strange...[r]
+aah..."[pcms]
 
 *678|
 [fc]
-ヘンなんて言うけど、きっと感じてるんだ。[r]
-だけど、シャイなターヤさんはそんなこと、[r]
-口にだしていうなんてできないだろう。[pcms]
+She says it's strange, but she's surely feeling it. But shy Tarja-san[r]
+can't bring herself to say such things out loud.[pcms]
 
 *679|
 [fc]
-だけど、いってもらったほうが興奮する。[r]
-もっとオマンコを気持ち良くしてあげたら、[r]
-いってくれるかな？[pcms]
+But it's more exciting if she says it. If I make her pussy feel even[r]
+better, maybe she'll say it?[pcms]
 
 *680|
 [fc]
-今よりさらに腰をふれば、[r]
-きもちよくなってくれるだろう。[pcms]
+If I move my hips even more from now on, she'll feel even better.[pcms]
 
 [evcg storage="taja_H019d"][trans_c cross time=300]
 
 *681|
 [fc]
-[ns]誠[nse]
-「わかったよ、ターヤさん！[r]
-　きみがしてほしいことって、[r]
-　こういうことだよね！」[pcms]
+[ns]Makoto[nse]
+"I understand, Tarja-san! This is what you want, right? This is what[r]
+you're asking for!"[pcms]
 
 *682|
 [fc]
 [vo_tay s="taja0104"]
-[ns]ターヤ[nse]
-「えっ……あっ……あぁっ！[r]
-　そっ、そんな、のっ！　ら、乱暴……もっと、[r]
-　優しく……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Eh... ah... aah! That's, that's too rough! More gently..."[pcms]
 
 *683|
 [fc]
-[ns]宗一郎[nse]
-「え？　優しいのがいいの？」[pcms]
+[ns]Souichirou[nse]
+"Eh? You want it gentle?"[pcms]
 
 *684|
 [fc]
-[ns]荒井[nse]
-「うーん、ゆっくりの方がいいのか？」[pcms]
+[ns]Arai[nse]
+"Hmm, so she prefers it slow?"[pcms]
 
 [evcg storage="taja_H019d"][trans_c cross time=300]
 
 *685|
 [fc]
 [vo_tay s="taja0105"]
-[ns]ターヤ[nse]
-「やだ……やだあぁぁっ！　頭の中がザワザワする！[r]
-　ひぃぃんっ！　やぁあっ！　めっ、めちゃくちゃに、[r]
-　メチャクチャにしていいからっ！　あぁっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No... nooo! My mind is all a buzz! Eeeek! Nooo! Just mess me up, mess[r]
+me up completely! Aaah!"[pcms]
 
 *686|
 [fc]
-あれ、きゅうに言っていることがかわった。[r]
-また感じだしたんだな？[pcms]
+Wait, she suddenly changed what she's saying. She's started to feel it[r]
+again?[pcms]
 
 ;//mine:差分が
 ;//それに、めが赤くなってきた。
@@ -469,202 +442,187 @@
 
 *687|
 [fc]
-メチャクチャにしていい、という許可が出たんだ。[r]
-ヤってやるよ！[pcms]
+She gave permission to mess her up. I'll do just that![pcms]
 
 *688|
 [fc]
-[ns]誠[nse]
-「おのぞみどおり、ヤッてやる！[r]
-　その代わり、オマンコいい、っていって！[r]
-　おねがい！　おねがいします！」[pcms]
+[ns]Makoto[nse]
+"As you wish, I'll do it! But in return, say 'my pussy feels good'![r]
+Please! Please!"[pcms]
 
 *689|
 [fc]
-[ns]宗一郎[nse]
-「それはいいな！　俺からもお願いしますターヤさん！[r]
-　オマンコいいって、大きな声で言って、イッてください！[pcms]
+[ns]Souichirou[nse]
+"That's great! I also ask you, Tarja-san! Say 'my pussy feels good'[r]
+loudly and cum for us!"[pcms]
 
 *690|
 [fc]
-[ns]荒井[nse]
-「オマンコ！　な美少女がオマンコって言う！[r]
-　そりゃいいぞ！　俺もお願いするから！[r]
-　ねえ、言って！」[pcms]
+[ns]Arai[nse]
+"A beautiful girl saying 'pussy'! That's hot! I'm also asking you![r]
+Please, say it!"[pcms]
 
 *691|
 [fc]
 [vo_tay s="taja0106"]
-[ns]ターヤ[nse]
-「あぅ……あぁ……そ、そんなの……。[r]
-　そんな……頭が……ふわふわする……あぁ……。[r]
-　お……お、お……」[pcms]
+[ns]Tarja[nse]
+"Ah... aah... that's... My head is spinning... aah... Pu-pu-pu..."[pcms]
 
 *692|
 [fc]
-[ns]誠[nse]
-「そう！　そのちょうし！　言うと気持ちいいよ！[r]
-　ぜったい気持ちいいから！　いってみてよ！」[pcms]
+[ns]Makoto[nse]
+"Yes! That's the spirit! Saying it will feel good! It will definitely[r]
+feel good! Try saying it!"[pcms]
 
 *693|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「そうだよ！　言ってみて！　ターヤさんのオマンコ台詞、[r]
-　聞いてみたい！　言って言ってイッて－！！！」[pcms]
+[ns]Souichirou & Arai[nse]
+"That's right! Try saying it! We want to hear Tarja-san's pussy line,[r]
+say it and cum!!"[pcms]
 
 [evcg storage="taja_H019g"][trans_c cross time=300]
 
 *694|
 [fc]
 [vo_tay s="taja0107"]
-[ns]ターヤ[nse]
-「お……おお……お……」[pcms]
+[ns]Tarja[nse]
+"Pu-pu-pu..."[pcms]
 
 *695|
 [fc]
-ターヤさんは、まだ恥ずかしがってるんだ。[r]
-もっと気持ち良くしなきゃダメなのかもしれないな。[r]
-さっきもそうだったものね。[pcms]
+Tarja-san is still embarrassed. Maybe we need to make her feel even[r]
+better. It was the same before.[pcms]
 
 *696|
 [fc]
-ぼくは、ターヤさんのオマンコにつっこんだまま、[r]
-動きをとめていたモノを、再びつきうごかしはじめた。[pcms]
+I started moving again while still inside Tarja-san's pussy, which I[r]
+had stopped moving before.[pcms]
 
 *697|
 [fc]
-ふたりも、ぼくのかんがえをよみとってくれたのか、[r]
-無言のままで、同じようにこしをつきだし始めた。[pcms]
+The two of them seemed to have read my thoughts and began thrusting[r]
+their hips in silence as well.[pcms]
 
 *698|
 [fc]
-[ns]誠[nse]
-「そらっ！　これがいいんだろう！[r]
-　こうして、キミをメチャクチャにしてあげるからさ！[r]
-　自分を解放するんだっ！　心の呪縛をときはなて！」[pcms]
+[ns]Makoto[nse]
+"There! This is what you like, right? I'll mess you up just like this![r]
+Release yourself! Break free from the chains of your heart!"[pcms]
 
 *699|
 [fc]
 [vo_tay s="taja0108"]
-[ns]ターヤ[nse]
-「あっ……あううぅっ！　こ、心……うぁぁっ！[r]
-　おっ……お、おお……おおおっ！」[pcms]
+[ns]Tarja[nse]
+"Ah... aughh! My heart... uwaahh! Pu-pu-pu..."[pcms]
 
 *700|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「よし、もう一押しだ！　それっ！[r]
-　俺のチンコいいだろうっ！　オマンコ壊してやるっ！」[pcms]
+[ns]Souichirou & Arai[nse]
+"Alright, one more push! There! My dick feels good, doesn't it? I'll[r]
+break your pussy!"[pcms]
 
 *701|
 [fc]
-[ns]誠[nse]
-「さあ、ターヤさん！　キミの心はもうじゆうだ！[r]
-　ぼくたちのうでのなかで、キミの心を解放するんだ！[r]
-　さあっ！　さあぁぁっ！！！」[pcms]
+[ns]Makoto[nse]
+"Now, Tarja-san! Your heart is free! In our arms, release your heart![r]
+Now! Nowww!!"[pcms]
 
 *702|
 [fc]
-このころになると、ぼくたちの腰のうごきは、[r]
-息をあわせたみたいになっていた。[pcms]
+By this time, our hip movements had become synchronized as if we were[r]
+breathing together.[pcms]
 
 *703|
 [fc]
-ターヤさんのちいさく、せまく、キツいオマンコの中を、[r]
-三人のモノがいろんな所を突き立てる。[pcms]
+Tarja-san's tight, narrow pussy is being prodded by three dicks in[r]
+various places.[pcms]
 
 *704|
 [fc]
-それとともに、ターヤさんの息はあらくはげしくなって、[r]
-ことばもだんだん、うわごとみたいになってきていた。[pcms]
+Along with that, Tarja-san's breathing becomes rough and violent, and[r]
+her words gradually turn into delirious mutterings.[pcms]
 
 *705|
 [fc]
-そしてぼくと、そーいちのモノが、[r]
-ターヤさんの胎内の一番奥をつよくたたいた。[pcms]
+Then, Souichirou and my dick strongly pounded the deepest part of[r]
+Tarja-san's womb.[pcms]
 
 *706|
 [fc]
 [vo_tay s="taja0109"]
-[ns]ターヤ[nse]
-「ぎっ……あ、ああ……そ、それ……あぁっ！[r]
-　おまんこ！　おまんこすごぃいぃっ！！[r]
-　あぁぁあっ！　ダメっ、ああっ！　言っちゃったァっ！」[pcms]
+[ns]Tarja[nse]
+"Gih... ah, aah... that... ahh! Pussy! My pussy feels so good!! Ahh[r]
+ahh! No, ahh! I said it!!"[pcms]
 
 *707|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「うぉおおおおっ！　ターヤさんがオマンコって言った！[r]
-　うぉおおおっ！　うぉおおっ！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Woahhh! Tarja-san said pussy! Woahhh! Woahhh!"[pcms]
 
 *708|
 [fc]
-ぼくたちはこうふんのあまり、きのきいた言葉を[r]
-言うことができなくなっていた。[pcms]
+We were so excited that we couldn't speak any coherent words.[pcms]
 
 *709|
 [fc]
-だけど、それはターヤさんもおなじ。[r]
-みんなきもちよすぎて、へんな声をあげているじょうたいだ。[pcms]
+But it was the same for Tarja-san. Everyone was feeling too good,[r]
+making strange noises.[pcms]
 
 *710|
 [fc]
 [vo_tay s="taja0110"]
-[ns]ターヤ[nse]
-「あはぁ……おまんこ、おまんこ、いい……あぁ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ahaa... pussy, pussy, it's good... ahh..."[pcms]
 
 *711|
 [fc]
 [vo_tay s="taja0111"]
-[ns]ターヤ[nse]
-「あぁ……んあぁっ！　はっ……はぁっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ahh... n-ahh! Ha... hah..."[pcms]
 
 *712|
 [fc]
-ターヤさんがうわごとのようにくりかえす、[r]
-みだらなことばが、ぼくののうみそのなかをはしりまわる。[pcms]
+The lewd words that Tarja-san repeated like delirium ran through my[r]
+brain.[pcms]
 
 [evcg storage="taja_H019d"][trans_c cross time=300]
 
 *713|
 [fc]
 [vo_tay s="taja0112"]
-[ns]ターヤ[nse]
-「ひぁっ！　もうダメっ！　イク……、[r]
-　頭の中が灼けるっ！　イクうっ！　オマンコ、イクぅぅっ！[r]
-　ひぁぁあっ！！　イクぅうっ――――ッ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hiah! I can't anymore! I'm cumming... My brain is burning! I'm[r]
+cumming! My pussy, I'm cumminggg! Hiaahh!! I'm cumming----!!"[pcms]
 
 *714|
 [fc]
-なんてかわいい声なんだ！[r]
-ぼくも、もうげんかいだ！[pcms]
+What a cute voice! I'm at my limit too![pcms]
 
 *715|
 [fc]
-ぼくたちよにんは、まるでけものみたいなさけびこえをあげ、[r]
-いっせいにからだをふるわせだした。[pcms]
+The four of us let out beast-like screams and started to shake our[r]
+bodies all at once.[pcms]
 
 *716|
 [fc]
-みんなのからだがこすれあわさって、[r]
-のうみそから、せすじ、せすじから、こし、チンコのさきまで、[r]
-でんきがながされたみたいになる。[pcms]
+Our bodies rubbed against each other, and from our brains to our[r]
+spines, from our spines to our hips, to the tips of our cocks, it felt[r]
+like electricity was flowing through.[pcms]
 
 *717|
 [fc]
-それは、ぼくたちのげんかいをしらせるあいずだった。[pcms]
+It was a sign that we were reaching our limits.[pcms]
 
 *718|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「うぅううっ！　いっイクぞおおっぉおおっ！！[r]
-　しゃっ……射精いいいぃっっ！！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Uuuuuh! I'm going to cummmmm!! Ejaculatingggg!!"[pcms]
 
 *719|
 [fc]
 [vo_tay s="taja0113"]
-[ns]ターヤ[nse]
-「イッ……いくううぅうぅっ！！　あぁあぁっ―――ッ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Cumming... I'm cummingggg!! Ahh ahh----!!"[pcms]
 
 ;//<SoundLoop 2,OFF><SoundLoad 2,se_sex02"]
 ;//SE：連射っぽい
@@ -682,10 +640,9 @@
 *720|
 [fc]
 [vo_tay s="taja0114"]
-[ns]ターヤ[nse]
-「うっ……うぇぇっ！　もう、限界いぃっ！[r]
-　どっ、どいてぇっ！　みんなどいてぇっ！[r]
-　うっ……うぇぇぇっ！　おぇぇっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ugh... uweeh! I can't take it anymore! Move, move away! Everyone move[r]
+away! Ugh... uweeeh! Uweeh!!"[pcms]
 
 [evcg storage="taja_H019i"][trans_c cross time=300]
 
@@ -693,37 +650,35 @@
 
 *721|
 [fc]
-ターヤさんも、もどした！[r]
-そうか、そうか……そんなにきもちよかったのか！[r]
-ぼくもイッぱいだした甲斐があるってもんだ！[pcms]
+Tarja-san also threw up! So that's it... she felt that good! It was[r]
+worth ejaculating so much![pcms]
 
 *722|
 [fc]
-ぼくたちのからだに、[r]
-ターヤさんの口からあふれたとしゃぶつがふりそそぐ。[pcms]
+Our bodies are showered with the vomit that overflowed from Tarja-[r]
+san's mouth.[pcms]
 
 [evcg storage="taja_H019j"][trans_c cross time=300]
 
 *723|
 [fc]
-だけどターヤさんのからだから出たものなら、[r]
-きたないものなんてなにもない。[pcms]
+But if it's something that came from Tarja-san's body, there's nothing[r]
+dirty about it.[pcms]
 
 *724|
 [fc]
-越智さんのなら、もっといいんだけど……。[pcms]
+If it were from Akari-san, it would be even better...[pcms]
 
 *725|
 [fc]
-そうだ、ぼくは越智さんとセックスして、[r]
-イカせなきゃならないんだ。[r]
-そして、中だしもしてやらないと……。[pcms]
+That's right, I have to have sex with Akari-san and make her cum. And[r]
+I have to creampie her too...[pcms]
 
 *726|
 [fc]
 [vo_tay s="taja0115"]
-[ns]ターヤ[nse]
-「あっ……あはぁ……いい……いいよぉ……」[pcms]
+[ns]Tarja[nse]
+"Ah... ahaa... it's good... it's so good..."[pcms]
 
 ;//BGV
 
@@ -755,75 +710,70 @@
 
 *727|
 [fc]
-[ns]誠[nse]
-「こんなことしてられない！[r]
-　ぼくは、さきにいくぞ！」[pcms]
+[ns]Makoto[nse]
+"I can't be doing this! I'm going ahead!"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_sw"][ChrSetParts layer=3 chface="F1_ar13"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_ha_a"][ChrSetParts layer=4 chface="F1_so15a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *728|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「え……おい、もう少しターヤさんと楽しんで……」[pcms]
+[ns]Souichirou & Arai[nse]
+"Eh... hey, let's enjoy Tarja-san a little more..."[pcms]
 
 *729|
 [fc]
-[ns]誠[nse]
-「うるさいな！　ぼくはやらなきゃならないことがある！[r]
-　おいていくぞ！」[pcms]
+[ns]Makoto[nse]
+"Shut up! I have things I need to do! I'm leaving you behind!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *730|
 [fc]
-ぼくは、越智さんとセックスしなきゃならないんだ。[r]
-こんなところでモタモタしてるばあいじゃない。[pcms]
+I have to have sex with Akari-san. I can't be dawdling around here.[pcms]
 
 *731|
 [fc]
-じめんにうちすてられたターヤさんをしりめに、[r]
-ぼくはそのばから駆け出そうとした。[pcms]
+Leaving Tarja-san discarded on the ground behind me, I tried to dash[r]
+away from the spot.[pcms]
 
 *732|
 [fc]
-だけど、あしがおもうようにうごかない。[r]
-さすがになんかいもなかだしして、つかれたのかな？[pcms]
+But my legs wouldn't move as I wanted. Maybe I'm tired from cumming[r]
+inside so many times?[pcms]
 
 *733|
 [fc]
-でも、そんなこといってられないんだ。[r]
-ぼくは、すすまなきゃならないんだ……！[pcms]
+But I can't be saying that. I have to move forward...![pcms]
 
 [ChrSetEx layer=3 chbase="ar1_sw"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so13b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *734|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「わかった！　次のオマンコを発見したんだな！[r]
-　そうはさせるか、誠っ！」[pcms]
+[ns]Souichirou & Arai[nse]
+"Got it! You've found your next pussy, haven't you? We won't let you[r]
+do as you please, Makoto!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *735|
 [fc]
-ぼくのうしろにいたはずのふたりが、[r]
-いつのまにかまえをはしっていく。[pcms]
+The two who were supposed to be behind me had already started running[r]
+ahead at some point.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
 
 *736|
 [fc]
-[ns]誠[nse]
-「あっ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 *737|
 [fc]
-なんでだよ、ぼくのからだ！[r]
-もっとはやくうごけ！[r]
-そうじゃないと、越智さんをよこどりされちゃう！[pcms]
+Why, my body! Move faster! Otherwise, Akari-san will be taken by[r]
+someone else![pcms]
 
 ;//ブロック06070へjump
 [jump storage="6070.ks" target=*6070_TOP]

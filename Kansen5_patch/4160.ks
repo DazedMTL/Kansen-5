@@ -28,197 +28,197 @@
 
 *2875|
 [fc]
-[ns]稼津央[nse]
-「悪いけど、ちょっと動くのがしんどい……んでね。[r]
-　オズからインカムを外してこっちに寄越してくれないかな」[pcms]
+[ns]Kazuo[nse]
+"Sorry, but it's a bit hard for me to move... Can you take the[r]
+intercom off Oz and bring it here?"[pcms]
 
 *2876|
 [fc]
-[ns]誠[nse]
-「わかりました……」[pcms]
+[ns]Makoto[nse]
+"Understood..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2877|
 [fc]
-僕はオズの死体近くに跪いた。[r]
-頭から血が流れている。白目を剥いて息絶えていた。[pcms]
+I knelt down near Oz's body. Blood was flowing from his head. His eyes[r]
+were rolled back, and he was dead.[pcms]
 
 *2878|
 [fc]
-ちょっと気味悪い。出来れば触りたくなんかない。[r]
-でも、稼津央さんがわざわざ言うからには必要な訳で……。[pcms]
+It's a bit creepy. I'd rather not touch it if I could help it. But[r]
+since Souichirou-san went out of his way to ask, it must be[r]
+necessary...[pcms]
 
 *2879|
 [fc]
-僕は、こいつがいきなり復活して襲って来たらどうしよう。[r]
-そんな事を考えながら、恐る恐る手を伸ばした。[pcms]
+I wondered what I would do if he suddenly came back to life and[r]
+attacked me. With that thought in mind, I hesitantly reached out my[r]
+hand.[pcms]
 
 *2880|
 [fc]
-[ns]誠[nse]
-「うう……」[pcms]
+[ns]Makoto[nse]
+"Ugh..."[pcms]
 
 *2881|
 [fc]
-僕はインカムを外し、指先でつまみあげた。[r]
-その手のまま、デスクの上に置いた。[pcms]
+I removed the intercom and picked it up with my fingertips. Then I[r]
+placed it on the desk.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2882|
 [fc]
-[ns]稼津央[nse]
-「大丈夫だよ、インカムは噛みついたりしないから」[pcms]
+[ns]Kazuo[nse]
+"It's okay, the intercom won't bite you."[pcms]
 
 *2883|
 [fc]
-そう笑いながら稼津央さんはインカムを確認する。[pcms]
+With a laugh, Souichirou-san checked the intercom.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2884|
 [fc]
-[ns]稼津央[nse]
-「うん……思った通りオフになってるな。さて、作戦はこうだ。[r]
-　これを使って僕が下のヤツラをここに呼び寄せる」[pcms]
+[ns]Kazuo[nse]
+"Yeah... just as I thought, it's turned off. Now, here's the plan.[r]
+I'll use this to call the guys downstairs over here."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2885|
 [fc]
-[ns]稼津央[nse]
-「連中はロビーから直通のＶＩＰ専用のエレベーターでやって来る。[r]
-　きみたちは、そうだな……トイレにでも隠れてやり過ごし、[r]
-　入れ違いにロビーへ降りていく」[pcms]
+[ns]Kazuo[nse]
+"They'll come up using the VIP elevator that goes directly from the[r]
+lobby. You guys should... let's see... hide in the bathroom and wait[r]
+it out, then head down to the lobby when they've passed."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2886|
 [fc]
-[ns]稼津央[nse]
-「お姉さんを見つけ助け出し、ホテルから外に逃げればいい」[pcms]
+[ns]Kazuo[nse]
+"Find your sister, rescue her, and then escape from the hotel."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2887|
 [fc]
 [vo_stk s="satuki_nt0171"]
-[ns]彩月[nse]
-「……簡単に言わないでよ。外に出る方法がないわ」[pcms]
+[ns]Satsuki[nse]
+"...Don't say it like it's easy. There's no way out."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2888|
 [fc]
-[ns]稼津央[nse]
-「どうして？　ここにはどうやって来たの？[r]
-　逆をたどればいいじゃないか」[pcms]
+[ns]Kazuo[nse]
+"Why not? How did you get here? Just retrace your steps."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2889|
 [fc]
 [vo_stk s="satuki_nt0172"]
-[ns]彩月[nse]
-「う……それは……。ここには、シャトルバスで来たわ。[r]
-　非常階段に横付けするつもりだったんだけど……」[pcms]
+[ns]Satsuki[nse]
+"Uh... that is... We came here by shuttle bus. We were planning to[r]
+park next to the emergency stairs..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st32"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2890|
 [fc]
 [vo_stk s="satuki_nt0173"]
-[ns]彩月[nse]
-「わたしの運転ミスで、非常階段にもろにぶつけてしまったの。[r]
-　あのバスが、また動くとは思えない。だからホテルから[r]
-　脱出する方法がないのよ。お姉さんを見つけたとしてもね」[pcms]
+[ns]Satsuki[nse]
+"But due to my driving mistake, we crashed right into the emergency[r]
+stairs. I don't think that bus will move again. So there's no way to[r]
+escape from the hotel, even if we find my sister."[pcms]
 
 *2891|
 [fc]
-南先輩は、申し訳なさそうに、少しうつむき加減で説明をした。[r]
-稼津央さんは、ふむふむと頷くと、引き出しからキーを取り出し、[r]
-デスクの上に置いた。[pcms]
+Senior Minami explained with a look of regret, slightly bowing her[r]
+head. Souichirou-san nodded thoughtfully and then took a key out of[r]
+the drawer and placed it on the desk.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2892|
 [fc]
-[ns]稼津央[nse]
-「これを使ってくれてかまわないよ。ロビーのスタッフ用の[r]
-　通路から、僕の車がある車庫に行ける。ロビーが無事なら[r]
-　そこも無事なはずだから」[pcms]
+[ns]Kazuo[nse]
+"Feel free to use this. It'll take you from the staff passage in the[r]
+lobby to my car in the garage. If the lobby is safe, then that place[r]
+should be safe too."[pcms]
 
 *2893|
 [fc]
-[ns]稼津央[nse]
-「そこから、車で脱出すればいいさ」[pcms]
+[ns]Kazuo[nse]
+"From there, you can escape by car."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2894|
 [fc]
 [vo_stk s="satuki_nt0174"]
-[ns]彩月[nse]
-「でも、そうしたら……あなたはどうするのよ」[pcms]
+[ns]Satsuki[nse]
+"But if we do that... what will you do?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2895|
 [fc]
-[ns]稼津央[nse]
-「優しいお嬢さんだね。僕の事なんか気に掛けなくていいんだ。[r]
-　どのみち……僕の命も、そう長くは持たないから」[pcms]
+[ns]Kazuo[nse]
+"You're a kind young lady. Don't worry about me. In any case... my[r]
+life won't last much longer."[pcms]
 
 *2896|
 [fc]
-そう言って稼津央さんは、そばに立つ越智さんを振り仰いだ。[r]
-越智さんの顔がくしゃっと歪む。[r]
-目には涙が盛り上がってきていた。[pcms]
+As he said this, Souichirou-san looked up at Akari standing beside[r]
+him. Akari's face twisted in distress. Tears were welling up in her[r]
+eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2897|
 [fc]
 [vo_aka s="akari_nt0149"]
-[ns]茜梨[nse]
-「……血が止まらないんです。押さえてるんだけど、[r]
-　血が……お兄様の血が……」[pcms]
+[ns]Akari[nse]
+"...The bleeding won't stop. I'm pressing down on it, but... the[r]
+blood... my brother's blood..."[pcms]
 
 *2898|
 [fc]
-さっきから越智さんは稼津央さんの傍にずっと立っていた。[pcms]
+Akari had been standing by Souichirou-san's side all this time.[pcms]
 
 *2899|
 [fc]
-稼津央さんの身体の陰になって見えなかったけど、[r]
-越智さんはずっと傷口を押さえ続けていたようだった。[pcms]
+She was hidden in the shadow of Souichirou-san's body, but it seemed[r]
+she had been continuously pressing down on the wound.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2900|
 [fc]
-[ns]稼津央[nse]
-「茜梨……もういいよ。手を離して……みんなと行きなさい。[r]
-　さ、遠慮なんかせずに鍵を受け取ってくれ」[pcms]
+[ns]Kazuo[nse]
+"Akari... that's enough. Let go of your hand... and go with everyone.[r]
+Now, don't hesitate and take the key."[pcms]
 
 *2901|
 [fc]
-[ns]誠[nse]
-「……わかりました。ありがとうございます」[pcms]
+[ns]Makoto[nse]
+"...Understood. Thank you very much."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2902|
 [fc]
-僕は内心複雑だった。[r]
-今回の惨劇を引き起こした張本人に、最後の最後に助けて[r]
-もらう皮肉さに……。[pcms]
+I felt conflicted inside. The irony of being helped at the very end by[r]
+the person who caused this tragedy...[pcms]
 
 *2903|
 [fc]
-でも姉ちゃんを助け出すことが優先だ。[r]
-僕はデスクから鍵を持ち上げた。[pcms]
+But rescuing my sister was the priority. I picked up the key from the[r]
+desk.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

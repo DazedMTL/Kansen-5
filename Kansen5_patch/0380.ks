@@ -1,7 +1,7 @@
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 ;//シーン名	：『越智本家』
 ;//file名	：0380
-;//登場人物	：主人公、宗一郎、茜梨、彩月、夏都、美沙緒、稼津央
+;//登場人物	：主人公、宗一郎、茜梨、彩月、夏、美沙緒、稼津央
 ;//服装		：制服
 ;//日付		：8/18
 ;//時間		：(18時)
@@ -20,13 +20,13 @@
 
 *5223|
 [fc]
-一度ホテルに戻った後、僕とそーいちはシャワーを浴びて[r]
-制服に着替えた。[pcms]
+After returning to the hotel, Souichirou and I took a shower and[r]
+changed into our uniforms.[pcms]
 
 *5224|
 [fc]
-どんな席なのかイマイチわからないけれど、[r]
-学生は制服を着ておけば間違いないだろう。[pcms]
+I'm not quite sure what kind of seating it will be, but if you're a[r]
+student, wearing a uniform should be foolproof.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -42,201 +42,192 @@
 
 *5225|
 [fc]
-そして循環バスに乗って、スポーツセンターの更に先、[r]
-港町にある岬の丘の上にたどり着くと、[r]
-そこが越智本家だった。[pcms]
+Then, taking the loop bus past the sports center to the cape on the[r]
+hill in the port town, we arrived at the Ochi family's main house.[pcms]
 
 ;//★bg19b 越智家 正門・夕方
 [bg storage="BG19b"][trans_c cross time=1000]
 
 *5226|
 [fc]
-[ns]誠[nse]
-「こ、これは……本格的だな」[pcms]
+[ns]Makoto[nse]
+"This is... pretty authentic."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *5227|
 [fc]
-[ns]宗一郎[nse]
-「うむ、奥の方には土蔵がいくつかあるみたいだな。[r]
-　由緒正しいお金持ちという感じだ」[pcms]
+[ns]Souichirou[nse]
+"Hmm, it seems there are several storehouses in the back. It has the[r]
+feel of a distinguished and wealthy family."[pcms]
 
 *5228|
 [fc]
-そーいちは全然気にしていないけれど、[r]
-僕は正直、ちょっと引いていた。[pcms]
+Souichirou doesn't seem to care at all, but honestly, I was a bit[r]
+taken aback.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5229|
 [fc]
-越智さんの素性について、ずいぶん理解していると[r]
-思っていたけれど、こうして実家を目の前にすると、[r]
-足がすくんでしまう。[pcms]
+I thought I understood quite a bit about Miss Ochi's background, but[r]
+now that I'm facing her family home, my legs are freezing up.[pcms]
 
 *5230|
 [fc]
-まず、家の敷地面積があり得ないことになっていた。[pcms]
+First of all, the size of the house's property was unbelievable.[pcms]
 
 *5231|
 [fc]
-右も左も、ずーっと越智さんの家だ。[r]
-当然、中にあるお屋敷も推して知るべしなんだろう。[pcms]
+To the right and left, it's all Miss Ochi's house. Naturally, the[r]
+mansion inside must be something to behold as well.[pcms]
 
 *5232|
 [fc]
-そして、この門。[pcms]
+And then, this gate.[pcms]
 
 *5233|
 [fc]
-時代劇の武家屋敷かという、訪れたものを拒むような、[r]
-偉容を誇る門構えだ。[pcms]
+It's a gate with a grand presence that seems to reject visitors, like[r]
+something out of a period drama about a samurai residence.[pcms]
 
 *5234|
 [fc]
-生半可なキャッチセールスの勧誘員では、[r]
-この門を叩く気にはなれないだろう。[pcms]
+No half-hearted salesperson would feel up to knocking on this gate.[pcms]
 
 *5235|
 [fc]
-なんとなく物怖じしていると、中から見知った顔、[r]
-制服姿の越智さんが現れて、僕たちを出迎えてくれた。[pcms]
+As I was feeling somewhat intimidated, a familiar face appeared from[r]
+inside, Miss Ochi in her uniform, welcoming us.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5236|
 [fc]
 [vo_aka s="akari0179"]
-[ns]茜梨[nse]
-「本日は、ようこそいらっしゃいました、[r]
-　来て頂けて嬉しいです」[pcms]
+[ns]Akari[nse]
+"Welcome today, I'm glad you could come."[pcms]
 
 *5237|
 [fc]
-[ns]宗一郎[nse]
-「おお、姫自らお出迎えとは、この宗一郎感激いたしましたぞ、[r]
-　ありがとうございます」[pcms]
+[ns]Souichirou[nse]
+"Oh, to be greeted by the princess herself, this Souichirou is deeply[r]
+moved. Thank you very much."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5238|
 [fc]
-[ns]誠[nse]
-「あ、ありがとうございます」[pcms]
+[ns]Makoto[nse]
+"Th-thank you."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5239|
 [fc]
 [vo_aka s="akari0180"]
-[ns]茜梨[nse]
-「ふふっ、そんなに固くならないでください。[r]
-　ただの夕食会ですから」[pcms]
+[ns]Akari[nse]
+"Fufu, please don't be so formal. It's just a dinner party."[pcms]
 
 *5240|
 [fc]
-そーいちは、いつも通りみたいだけど、[r]
-僕はちょっと身体が固くなっていた。[pcms]
+Souichirou seems as usual, but I felt a little stiff.[pcms]
 
 *5241|
 [fc]
-なんというか、身分の差みたいなものを感じてしまって、[r]
-恐縮してしまう。[pcms]
+Somehow, I feel the difference in social status and can't help but[r]
+feel intimidated.[pcms]
 
 *5242|
 [fc]
-世が世なら、お姫様というのは、[r]
-全く誇張ではなかった。[pcms]
+If this were another era, calling her a princess would not be an[r]
+exaggeration at all.[pcms]
 
 *5243|
 [fc]
-[ns]誠[nse]
-「あれ……？」[pcms]
+[ns]Makoto[nse]
+"Huh...?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5244|
 [fc]
 [vo_aka s="akari0181"]
-[ns]茜梨[nse]
-「どうしました？」[pcms]
+[ns]Akari[nse]
+"What's wrong?"[pcms]
 
 *5245|
 [fc]
-[ns]誠[nse]
-「あ、いや……」[pcms]
+[ns]Makoto[nse]
+"Oh, no... it's nothing."[pcms]
 
 *5246|
 [fc]
-なんとなく、正門の前に立つ越智さんに、[r]
-既視感を覚えた。[pcms]
+Somehow, standing in front of the main gate with Miss Ochi gave me a[r]
+sense of dj vu.[pcms]
 
 *5247|
 [fc]
-なんだろうか、なんかのアニメで[r]
-こんなシーンを見たのかな。[pcms]
+I wonder if it's from some anime scene I've seen before.[pcms]
 
 *5248|
 [fc]
-思い出せない僕は、越智さんに招かれるまま、[r]
-門をくぐってお屋敷の中に入っていった。[pcms]
+Unable to recall, I followed Miss Ochi's invitation and entered[r]
+through the gate into the mansion.[pcms]
 
 ;//★bg13b 越智本家 外観＆前庭・夕方
 [bg storage="BG13b"][trans_c blind_lr time=1000]
 
 *5249|
 [fc]
-前庭に入ると、いよいよお屋敷の広さが[r]
-実感できるようになっていた。[pcms]
+Once inside the front yard, I could really feel the vastness of the[r]
+mansion.[pcms]
 
 *5250|
 [fc]
-後ろの門から先、全部が越智さんの実家になっている。[pcms]
+Everything beyond the back gate belongs to Miss Ochi's family home.[pcms]
 
 *5251|
 [fc]
 [vo_stk s="satuki0123"]
-[ns]彩月[nse]
-「お上りさんが、なにをキョロキョロしているのかしら？」[pcms]
+[ns]Satsuki[nse]
+"What's with the country bumpkin looking around so curiously?"[pcms]
 
 ;//m:声のみ
 
 *5252|
 [fc]
-[ns]誠[nse]
-「えっ！」[pcms]
+[ns]Makoto[nse]
+"Eh!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5253|
 [fc]
-[ns]宗一郎[nse]
-「南先輩じゃありませんか、招待されていたんですな」[pcms]
+[ns]Souichirou[nse]
+"Isn't that Senior Minami? So you were invited too."[pcms]
 
 *5254|
 [fc]
-形のいい低木の木陰から、制服姿の南先輩が顔を出して、[r]
-僕らを驚かせていた。[pcms]
+From the shade of some well-shaped shrubs, Senior Minami in her[r]
+uniform popped out and surprised us.[pcms]
 
 *5255|
 [fc]
-なんで南先輩がここにいるんだ？[r]
-招待されたって、本当に？[pcms]
+Why is Senior Minami here? Invited? Really?[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5256|
 [fc]
 [vo_stk s="satuki0124"]
-[ns]彩月[nse]
-「島をあちこち写真撮ってまわっているうちに、[r]
-　ここにたどり着いたのよ」[pcms]
+[ns]Satsuki[nse]
+"I ended up here while taking photos around the island."[pcms]
 
 *5257|
 [fc]
-[ns]宗一郎[nse]
-「なるほど、このお屋敷は、写真の撮り甲斐もあるでしょうな」[pcms]
+[ns]Souichirou[nse]
+"I see, this mansion must be quite a place for photography."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="st1_se1_b"][ChrSetParts layer=3 chface="f1_st03"][ChrSetXY layer=3 x=0 y=0]
@@ -246,44 +237,44 @@
 *5258|
 [fc]
 [vo_stk s="satuki0125"]
-[ns]彩月[nse]
-「ここまで大きな日本家屋は、なかなか無いからね、[r]
-　越智さんにお願いして、中を撮影させてもらったってわけ」[pcms]
+[ns]Satsuki[nse]
+"You don't often find such large Japanese houses like this one. I[r]
+asked Miss Ochi if I could take pictures inside."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5259|
 [fc]
 [vo_aka s="akari0182"]
-[ns]茜梨[nse]
-「折角でしたから、南先輩もお誘いしちゃいました」[pcms]
+[ns]Akari[nse]
+"Since it was such an occasion, I invited Senior Minami as well."[pcms]
 
 *5260|
 [fc]
-胸の前で手を合わせて、にっこりと笑う越智さんが愛おしい。[r]
-ナイスだ。[pcms]
+Miss Ochi clasped her hands in front of her chest and smiled sweetly.[r]
+Nice one.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5261|
 [fc]
-南先輩と、今日の休日に会うのは難しいかと思っていたけれど、[r]
-こんなところで会えるなんて。[pcms]
+I thought it would be difficult to meet Senior Minami on this day off,[r]
+but to meet her here of all places...[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so30b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *5262|
 [fc]
-[ns]宗一郎[nse]
-「そういえば、荒井はどうしたんでしょうな。[r]
-　確か、あいつもお呼ばれされていたはずですが」[pcms]
+[ns]Souichirou[nse]
+"By the way, what happened to Arai? He was also supposed to be[r]
+invited."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *5263|
 [fc]
 [vo_aka s="akari0183"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「何度も連絡を取ったんですが……、[r]
 　メールでも返事をもらえなくて」[pcms]
 
@@ -291,13 +282,13 @@
 
 *5264|
 [fc]
-[ns]宗一郎[nse]
+[ns]Souichirou[nse]
 「なんて失礼な奴だ！[r]
 　返事くらいしてもいいだろうに！」[pcms]
 
 *5265|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「…………」[pcms]
 
 *5266|
@@ -326,7 +317,7 @@
 *5269|
 [fc]
 [vo_aka s="akari0184"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「あっ、お姉様」[pcms]
 
 ;//m:声のみ
@@ -358,7 +349,7 @@
 *5274|
 [fc]
 [vo_aka s="akari0185"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「私の叔母で、前田美沙緒さんと言います。[r]
 　でも、叔母さんっていう感じじゃなくて、[r]
 　お姉様と呼ばせて頂いています」[pcms]
@@ -368,7 +359,7 @@
 *5275|
 [fc]
 [vo_mis s="misao0007"]
-[ns]美沙緒[nse]
+[ns]Misao[nse]
 「よろしくね」[pcms]
 
 *5276|
@@ -386,13 +377,13 @@
 
 *5278|
 [fc]
-[ns]宗一郎[nse]
+[ns]Souichirou[nse]
 「本日は、お招き頂ありがとうございます。[r]
 　出渕宗一郎と申します」[pcms]
 
 *5279|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「中澤誠です、よろしくお願いします」[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -400,7 +391,7 @@
 *5280|
 [fc]
 [vo_stk s="satuki0126"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「南彩月といいます、今日は無理を聞いて頂いて、[r]
 　ありがとうございました」[pcms]
 
@@ -410,7 +401,7 @@
 *5281|
 [fc]
 [vo_mis s="misao0008"]
-[ns]美沙緒[nse]
+[ns]Misao[nse]
 「さあ、あがって？　すぐに御飯の支度が出来るから」[pcms]
 
 *5282|
@@ -434,12 +425,12 @@
 *5285|
 [fc]
 [vo_stk s="satuki0127"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「前田さんのことをジロジロみて、どうしちゃったの？」[pcms]
 
 *5286|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「み、見てないですよ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -447,7 +438,7 @@
 *5287|
 [fc]
 [vo_aka s="akari0186"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -455,12 +446,12 @@
 *5288|
 [fc]
 [vo_stk s="satuki0128"]
-[ns]彩月[nse]
+[ns]Satsuki[nse]
 「年上のお姉さんが好み？」[pcms]
 
 *5289|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「違いますってば！」[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
@@ -468,7 +459,7 @@
 *5290|
 [fc]
 [vo_mis s="misao0009"]
-[ns]美沙緒[nse]
+[ns]Misao[nse]
 「ふふふっ、さあ、上がって」[pcms]
 
 [se buf=0 storage="seA023"]
@@ -489,7 +480,7 @@
 
 *5293|
 [fc]
-[ns]宗一郎[nse]
+[ns]Souichirou[nse]
 「さすがですな、セキュリティは万全と見受けました」[pcms]
 
 ;//★bg13b 越智本家 外観＆前庭・夕方
@@ -499,7 +490,7 @@
 *5294|
 [fc]
 [vo_mis s="misao0010"]
-[ns]美沙緒[nse]
+[ns]Misao[nse]
 「でも、機械は所詮機械なのよ？」[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -541,13 +532,15 @@
 *5302|
 [fc]
 越智さんの無垢な笑顔の裏に、[r]
-こんな実家が隠れていたなんて……。[pcms]
+Once again, realizing the difference in status between Miss Ochi and[r]
+myself, I thought I would meet the person under protection in this[r]
+house, and my legs were a little shaky.[pcms]
 
 *5303|
 [fc]
-改めて、越智さんとの身分の差を知ることになってしまった僕は、[r]
-この家の中にいる警備対象と会うことになるんだと思いながら、[r]
-ちょっと足が竦んでいた。[pcms]
+Once again, realizing the difference in status between Miss Ochi and[r]
+myself, I thought I would meet the person under protection in this[r]
+house, and my legs were a little shaky.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

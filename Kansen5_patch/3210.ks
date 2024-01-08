@@ -31,67 +31,67 @@
 
 *6221|
 [fc]
-[ns]感染者[nse]
-「うう……。あぁ……ひだぁ……」[pcms]
+[ns]Infected person[nse]
+"Ugh... Ah... Hidaa..."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6222|
 [fc]
-燃えさかる町の中は思ったより逃げやすい状況だった。[pcms]
+The town ablaze was easier to escape from than I thought.[pcms]
 
 *6223|
 [fc]
-感染者が火から逃げるかどうかは随分と個体差があるみたいだけど、[r]
-どちらにせよ僕たちにかまっている余裕は無さそうだ。[pcms]
+It seems there's quite a variation in whether the infected try to[r]
+escape from the fire or not, but either way, they don't seem to have[r]
+the luxury to pay us any attention.[pcms]
 
 *6224|
 [fc]
-火を見て、本能的に逃げるのが意外に多い感じだったけど、[r]
-中には腰を振り、あえぎ声を上げながら、[r]
-火に包まれているような奴もいる。[pcms]
+Many instinctively flee from the fire, but some sway their hips and[r]
+moan, as if enveloped in flames.[pcms]
 
 *6225|
 [fc]
-逆に火に飛び込んでいるのもいて、あれは感染者なのか、[r]
-それとも理性が残っているうちに感染した自分の身体を[r]
-滅してしまおうとした人なのかはわからない。[pcms]
+Others jump into the fire, whether they are infected or perhaps people[r]
+trying to destroy their own bodies while they still have some reason[r]
+left, I can't tell.[pcms]
 
 *6226|
 [fc]
-とにかく、僕とターヤは特に苦労らしい苦労はせずに[r]
-燃えさかる町を抜けることができた。[pcms]
+Anyway, Tarja and I managed to get through the burning town without[r]
+much trouble.[pcms]
 
 *6227|
 [fc]
-[ns]誠[nse]
-「大丈夫？　ターヤ？」[pcms]
+[ns]Makoto[nse]
+"Are you okay? Tarja?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6228|
 [fc]
 [vo_tay s="taja_tj0399"]
-[ns]ターヤ[nse]
-「うん……。誠は？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah... What about you, Makoto?"[pcms]
 
 *6229|
 [fc]
-[ns]誠[nse]
-「大丈夫だよ……」[pcms]
+[ns]Makoto[nse]
+"I'm fine..."[pcms]
 
 *6230|
 [fc]
-僕がぎゅっとターヤの手を握ると、ターヤは僕の手を握り返す。[r]
-その温もりと存在に僕は心が安らぐ思いがした。[pcms]
+When I tightly squeezed Tarja's hand, she squeezed mine back. The[r]
+warmth and presence of her hand brought peace to my heart.[pcms]
 
 *6231|
 [fc]
-……きっと、ターヤもそうだろう。[pcms]
+...Surely, Tarja must feel the same.[pcms]
 
 *6232|
 [fc]
-僕たちは手をつないだまま、港へと急いで行く。[pcms]
+We hurried to the port, still holding hands.[pcms]
 
 [se buf=0 storage="seA052"]
 ;//♪SE複数人の走る足音
@@ -110,33 +110,33 @@
 
 *6233|
 [fc]
-[ns]感染者Ａ[nse]
-「うううっ……。あ゛あ゛っ……」[pcms]
+[ns]Infected Person A[nse]
+"Uuuuh... Aaah..."[pcms]
 
 *6234|
 [fc]
-港が近づいて来ると、火の手は収まり、[r]
-代わりに感染者が増えてきた。[pcms]
+As we approached the port, the flames died down, but the number of[r]
+infected increased.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *6235|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛あ゛っ……。おんなあ゛あ゛っ……」[pcms]
+[ns]Infected Person B[nse]
+"Aaah... Womennn..."[pcms]
 
 *6236|
 [fc]
-[ns]誠[nse]
-「ターヤ、毛布を！」[pcms]
+[ns]Makoto[nse]
+"Tarja, the blanket!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6237|
 [fc]
 [vo_tay s="taja_tj0400"]
-[ns]ターヤ[nse]
-「うんっ……！」[pcms]
+[ns]Tarja[nse]
+"Right...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -145,44 +145,43 @@
 
 *6238|
 [fc]
-[ns]感染者Ｃ[nse]
-「お゛おお゛っ……！　くらい……」[pcms]
+[ns]Infected Person C[nse]
+"Oooh...! Dark..."[pcms]
 
 *6239|
 [fc]
-僕たちは襲いかかってきた感染者たちの上に[r]
-火避けのためにかぶってきた毛布を掛けてやった。[r]
-このあたりまで来ると、もうすっかり下火だ。[pcms]
+We threw the blankets we had brought to protect ourselves from the[r]
+fire over the attacking infected. By this point, the fire had mostly[r]
+died down.[pcms]
 
 *6240|
 [fc]
-毛布の役目は終わりだし、かぶっていると[r]
-感染者につかまりやすくなる。[r]
-だから、潮時だった。[pcms]
+The blankets had served their purpose, and wearing them made it easier[r]
+for the infected to catch us. It was time to let them go.[pcms]
 
 *6241|
 [fc]
-数体の感染者が毛布で視界を塞がれて、毛布の下で[r]
-右往左往している。[pcms]
+A few infected were blinded by the blankets and stumbled around[r]
+beneath them.[pcms]
 
 *6242|
 [fc]
-[ns]誠[nse]
-「やったね……」[pcms]
+[ns]Makoto[nse]
+"We did it..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6243|
 [fc]
 [vo_tay s="taja_tj0401"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja[nse]
+"Yeah..."[pcms]
 
 *6244|
 [fc]
-僕たちは顔を見合わせて笑った。[r]
-上手くいって感染者が毛布の下でもごもごとやっているのも[r]
-おかしかったけど、二人の息がぴったりだったことに……。[pcms]
+We looked at each other and laughed. It was funny to see the infected[r]
+struggling under the blankets, but also because our breathing was[r]
+perfectly in sync...[pcms]
 
 [chara_int][trans_c cross time=150]
 [se buf=0 storage="seA052"]
@@ -193,13 +192,13 @@
 
 *6245|
 [fc]
-僕たちはひたすら港に向かって走った。[r]
-足の遅い僕にターヤが合わせてくれる感じで、ひたすらに進む。[pcms]
+We ran straight for the port. Tarja adjusted her pace to match my[r]
+slower one, and we kept moving forward.[pcms]
 
 *6246|
 [fc]
-感染者に追いかけられないように、上手くかわし続けた僕たちは[r]
-いつしか港のすぐ近くまで、たどりついていた。[pcms]
+We managed to dodge the infected chasing us and before we knew it, we[r]
+were near the port.[pcms]
 
 ;//★bg02c 大神港・夜
 [bg storage="BG02c"][trans_c cross time=500]
@@ -210,68 +209,67 @@
 
 *6247|
 [fc]
-[ns]感染者[nse]
-「うう゛あ゛っ……。あ゛あ゛あっ……」[pcms]
+[ns]Infected Person[nse]
+"Uuvaah... Aaahah..."[pcms]
 
 *6248|
 [fc]
-港の周りには、相当な数の感染者がいる。[r]
-やっぱり感染者でも火事でこう熱いと、[r]
-水の方へと逃げるんだろうか……。[pcms]
+There were quite a few infected around the port. Maybe even the[r]
+infected seek water when it gets this hot from a fire...[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6249|
 [fc]
-[ns]誠[nse]
-「ターヤ、ボートはどっち？」[pcms]
+[ns]Makoto[nse]
+"Tarja, which way is the boat?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta13"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6250|
 [fc]
 [vo_tay s="taja_tj0402"]
-[ns]ターヤ[nse]
-「あっち……」[pcms]
+[ns]Tarja[nse]
+"Over there..."[pcms]
 
 *6251|
 [fc]
-ターヤが指差した方には数体の感染者がいた。[pcms]
+There were several infected in the direction Tarja pointed.[pcms]
 
 *6252|
 [fc]
-[ns]誠[nse]
-「道はあそこだけ？」[pcms]
+[ns]Makoto[nse]
+"Is that the only way?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6253|
 [fc]
 [vo_tay s="taja_tj0403"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *6254|
 [fc]
-ターヤはすまなそうに首を縦に振った。[r]
-どうやら、迂回路はないらしい。[pcms]
+Tarja shook her head apologetically. It seems there's no detour[r]
+available.[pcms]
 
 *6255|
 [fc]
-[ns]誠[nse]
-「しかたがない。行こう……」[pcms]
+[ns]Makoto[nse]
+"Can't be helped. Let's go..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6256|
 [fc]
 [vo_tay s="taja_tj0404"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah..."[pcms]
 
 *6257|
 [fc]
-ターヤは今度は力強く、首を縦に振った。[pcms]
+This time, Tarja nodded firmly.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c lr time=300][hide_chara_int]

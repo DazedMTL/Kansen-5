@@ -34,159 +34,161 @@
 *2386|
 [fc]
 [vo_nat s="natu_tj0038"]
-[ns]夏都[nse]
-「いや～、しっかし盛り上がったなあ～」[pcms]
+[ns]Natsu[nse]
+"Man, that really got everyone pumped up, huh?"[pcms]
 
 *2387|
 [fc]
-目当てのバンドの出番まではまだ間があるため、[r]
-会場をぶらぶらして、たまたま目についた別のバンドの[r]
-ライブを見終わったところだった。[pcms]
+Since there was still some time before the band I was looking forward[r]
+to was up, I wandered around the venue and just finished watching a[r]
+live performance by another band that caught my eye.[pcms]
 
 *2388|
 [fc]
-名前も聞いたことのないバンドだったが、[r]
-なかなかオレ好みの演奏だったと思う。[pcms]
+I had never heard of the band before, but I think their performance[r]
+was quite to my liking.[pcms]
 
 *2389|
 [fc]
-お客もノリが良く、モッシュやダイブでさんざん暴れ倒した。[r]
-リフトなんてされたの、いつ以来だろう？[pcms]
+The crowd was into it too, going wild with moshing and diving. When[r]
+was the last time I got lifted up like that?[pcms]
 
 *2390|
 [fc]
-お陰で、腹がぺこぺこだ。[pcms]
+Thanks to that, I'm starving.[pcms]
 
 *2391|
 [fc]
-で、ライブ会場からちょっと離れて、オレはひとり、[r]
-ビーチの海の家で遅めの昼食をとっていた。[pcms]
+So, a little away from the live venue, I found myself alone at a beach[r]
+house having a late lunch.[pcms]
 
 *2392|
 [fc]
-不思議とこういう場所で食べる、キャベツの芯が入ってたりする[r]
-やっすいソース焼きそばは、趣があって旨く感じる。[pcms]
+Strangely enough, cheap stir-fried noodles with bits of cabbage core[r]
+in them taste pretty good and have a certain charm when eaten in a[r]
+place like this.[pcms]
 
 *2393|
 [fc]
 [vo_nat s="natu_tj0039"]
-[ns]夏都[nse]
-「でも、こういう拾いもんがあるから、夏フェスは[r]
-　楽しいんだよな～」[pcms]
+[ns]Natsu[nse]
+"But it's these unexpected finds that make summer festivals so much[r]
+fun."[pcms]
 
 *2394|
 [fc]
-自分の知ってるバンドの演奏しか聴かないって奴がいるけど[r]
-オレにはちょっと信じられない。[pcms]
+There are people who only listen to bands they know, but I can't quite[r]
+understand that.[pcms]
 
 *2395|
 [fc]
-それって、新たな音楽との出会いのチャンスを[r]
-自分から捨ててるように思えて仕方がなかった。[pcms]
+To me, it feels like they're throwing away the chance to encounter new[r]
+music.[pcms]
 
 *2396|
 [fc]
-オレにも、そういう出会いがきっかけで聞くようになった[r]
-音楽がいくつかある。[pcms]
+I've got a few bands that I started listening to because of such[r]
+encounters.[pcms]
 
 *2397|
 [fc]
-スカを聞くようになったのも、ライブ会場で偶然耳にしたのが[r]
-きっかけだし、アイリッシュ・ギターなんて、そんなきっかけでも[r]
-なければ、絶対に知ることすらなかっただろう。[pcms]
+I started listening to ska because I happened to hear it at a live[r]
+venue, and I would have never known about Irish guitar if not for such[r]
+an opportunity.[pcms]
 
 *2398|
 [fc]
 [vo_nat s="natu_tj0040"]
-[ns]夏都[nse]
-（それもこれも、オレをこの旅行に誘ってくれた誠と、[r]
-　ホテルを用意してくれた茜梨ちゃんのお陰だな）[pcms]
+[ns]Natsu[nse]
+(All this is thanks to Makoto who invited me on this trip and Akari-[r]
+chan who arranged the hotel.)[pcms]
 
 *2399|
 [fc]
-育ててくれてるオレへの恩返しだなんて言って、自分のための[r]
-金に手をつけてまで、旅行に連れて行ってくれた誠には[r]
-本当に、いくら感謝してもし足りない。[pcms]
+He says it's his way of repaying me for raising him, but I can never[r]
+thank Makoto enough for spending his own money to take me on this[r]
+trip.[pcms]
 
 *2400|
 [fc]
-それに、オレの安月給じゃいくら奮発しても、ここみたいな[r]
-高級なホテルに泊まることなんてできなかっただろう。[pcms]
+And with my meager salary, there's no way I could have splurged on a[r]
+fancy hotel like this one.[pcms]
 
 *2401|
 [fc]
-ホテルを手配してくれたのは茜梨ちゃんだが、それだって[r]
-オレが誠の保護者だという理由だから、これだって[r]
-言ってしまえば誠のお陰みたいなもんだ。[pcms]
+The hotel was arranged by Akari-chan, but that's because I'm[r]
+considered Makoto's guardian, so in a way, this is also thanks to[r]
+Makoto.[pcms]
 
 *2402|
 [fc]
-オレは本当にいい弟を持って幸せ者だ、と[r]
-心の中で手を合わせた。[pcms]
+I truly am blessed to have such a good younger brother, I thought to[r]
+myself with gratitude.[pcms]
 
 *2403|
 [fc]
-[ns]男[nse]
-「ううっ……げほっ、げほほっ……ごほごほっ……」[pcms]
+[ns]Male[nse]
+"Ugh... *cough* *cough cough*... *cough cough*..."[pcms]
 
 *2404|
 [fc]
-そんな事を考えていると、オレの席の横を[r]
-ごほごほと咳をしながら男が通り過ぎた。[pcms]
+As I was thinking about this, a man passed by my seat coughing[r]
+heavily.[pcms]
 
 *2405|
 [fc]
 [vo_nat s="natu_tj0041"]
-[ns]夏都[nse]
-（なんだよ……咳するなとは言わねぇけど、せめて[r]
-　口ぐらい押さえろよな……）[pcms]
+[ns]Natsu[nse]
+(What's with him... I'm not saying don't cough, but at least cover[r]
+your mouth...)[pcms]
 
 *2406|
 [fc]
-人が飯喰ってるその横を、口も隠さないで咳をしながら通り過ぎる[r]
-その無神経さに、思わずオレはカチンときてしまう。[pcms]
+It really ticks me off when someone passes by coughing without[r]
+covering their mouth right next to where people are eating.[pcms]
 
 *2407|
 [fc]
-せっかくのいい気分が台無しだ。[pcms]
+It completely ruins the good mood.[pcms]
 
 *2408|
 [fc]
 [vo_nat s="natu_tj0042"]
-[ns]夏都[nse]
-（しかし、そう言えば……）[pcms]
+[ns]Natsu[nse]
+(But come to think of it...)[pcms]
 
 *2409|
 [fc]
-オレは焼きそばをすすりながら、ビーチ全体を見回した。[pcms]
+As I slurped my noodles, I looked around the entire beach.[pcms]
 
 *2410|
 [fc]
-いろんなイベントが集中しているせいだろうか、なんとなく[r]
-昨日あたりから揉め事を目にすることが多くなっている。[pcms]
+Maybe it's because various events are concentrated here, but since[r]
+yesterday, I've noticed more disturbances happening around.[pcms]
 
 [se buf=0 storage="seC015"]
 ;//♪SE遠くの救急車
 
 *2411|
 [fc]
-いまも、ぱっと見回しただけでも、何組かが[r]
-小競り合いのようなことをしていた。[pcms]
+Even now, just by looking around quickly, I could see several groups[r]
+getting into small scuffles.[pcms]
 
 *2412|
 [fc]
-救急車の走り去る音がどこか遠くから聞こえてくる。[pcms]
+The sound of an ambulance driving away can be heard from somewhere far[r]
+off.[pcms]
 
 *2413|
 [fc]
 [vo_nat s="natu_tj0043"]
-[ns]夏都[nse]
-（なんだろうな、これは……）[pcms]
+[ns]Natsu[nse]
+(What's going on here...)[pcms]
 
 *2414|
 [fc]
-良く見ると、ビーチのあちらこちらに[r]
-咳き込んでいる人がいるみたいだった。[pcms]
+Looking closer, there seem to be people coughing here and there on the[r]
+beach.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -196,33 +198,33 @@
 *2415|
 [fc]
 [vo_nat s="natu_tj0044"]
-[ns]夏都[nse]
-（悪い夏風邪でも流行ってるんだろうか……？）[pcms]
+[ns]Natsu[nse]
+(Is there some nasty summer cold going around...?)[pcms]
 
 [se buf=1 storage="seC016"]
 ;//♪SE遠くのパトカー
 
 *2416|
 [fc]
-咳き込んでるのは、なぜか男ばかり……のようにも思える。[r]
-なんだか妙な感じだ。[pcms]
+For some reason, it seems like it's only men who are coughing... It[r]
+feels oddly specific.[pcms]
 
 *2417|
 [fc]
 [vo_nat s="natu_tj0045"]
-[ns]夏都[nse]
-（せっかくフェスに遊びに来ても、体調を崩したら[r]
-　何にもならねぇしな……オレも気をつけよう）[pcms]
+[ns]Natsu[nse]
+(It's no use coming to a festival for fun if you're just going to get[r]
+sick... I should be careful too.)[pcms]
 
 *2418|
 [fc]
-そんな事を考えてると、今度はパトカーのサイレンの音が[r]
-遠くの方から聞こえてきた。[pcms]
+As I was thinking about this, now the sound of police sirens could be[r]
+heard from afar.[pcms]
 
 *2419|
 [fc]
-なんだかこの島全体が、どことなく浮き足立ったような[r]
-妙な喧噪に包まれているようにも感じられる。[pcms]
+The whole island seems to be somewhat on edge, enveloped in an odd[r]
+commotion.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
@@ -231,18 +233,19 @@
 
 *2419a|
 [fc]
-[ns]男Ａ[nse]
-「あ～、へへへっ……ねえちゃん、スゲェカッコしてんなぁ…」[pcms]
+[ns]Man A[nse]
+"Ah~, hehehe... Hey girl, you're looking really cool..."[pcms]
 
 *2420|
 [fc]
-[ns]男Ｂ[nse]
-「男を誘ってんだよなぁ……おっぱいも、すげぇデケぇじゃん～」[pcms]
+[ns]Man B[nse]
+"You're seducing men, aren't you... And those tits, they're freaking[r]
+huge~"[pcms]
 
 *2421|
 [fc]
-そんな事を考えるでもなしに考えてると、[r]
-突然、妙な男たちがオレに難癖をつけてきた。[pcms]
+As if not thinking about anything in particular, suddenly some weird[r]
+guys started picking a fight with me.[pcms]
 
 [bgm storage="BGM22"]
 ;//♪bgm22　一般シーン：昼・元気
@@ -253,72 +256,70 @@
 *2422|
 [fc]
 [vo_nat s="natu_tj0046"]
-[ns]夏都[nse]
-「ん～、なんだテメェら？」[pcms]
+[ns]Natsu[nse]
+"Hmm? What do you want?"[pcms]
 
 *2423|
 [fc]
-男たちはどっちもオレと同い年か、少し上くらいの年齢だろう。[pcms]
+The men were both about my age or maybe a bit older.[pcms]
 
 *2424|
 [fc]
-真っ昼間っから酒でも飲んでるのか、二人ともなんだか[r]
-足元がふらふらしてる。[pcms]
+Maybe they've been drinking in the middle of the day; both of them[r]
+seem unsteady on their feet.[pcms]
 
 *2425|
 [fc]
-[ns]男Ａ[nse]
-「ひとりきりなんだろ～、カッコつけんなって。[r]
-　俺たちが、相手してやろうっていってんだよ～。へへへ……」[pcms]
+[ns]Man A[nse]
+"You're all alone, aren't you? No need to act tough. We're offering to[r]
+keep you company, hehehe..."[pcms]
 
 *2426|
 [fc]
 [vo_nat s="natu_tj0047"]
-[ns]夏都[nse]
-「うるせぇタコ。オメェらなんてお呼びじゃねぇんだよ。[r]
-　ウゼーからとっととどっかに消えろ、ボケ」[pcms]
+[ns]Natsu[nse]
+"Shut up, you octopus. I didn't call for you guys. You're annoying, so[r]
+scram, idiot."[pcms]
 
 *2427|
 [fc]
-[ns]男Ｂ[nse]
-「おおぉ～こええぇ～、くっくっくっ……。[r]
-　こんなにいいケツしてんのに、おねえさん、おっかねぇなあ～」[pcms]
+[ns]Man B[nse]
+"Oooh~ scary~ kukukuku... Such a nice ass for an Onee-san, you're[r]
+pretty feisty, huh~"[pcms]
 
 *2428|
 [fc]
-そんなフザケた事を言いながら、男の片方がいきなり[r]
-オレのケツを撫で回した。[pcms]
+While talking such nonsense, one of the men suddenly started stroking[r]
+my butt.[pcms]
 
 *2429|
 [fc]
 [vo_nat s="natu_tj0048"]
-[ns]夏都[nse]
-「なっ、何しやがるっ！」[pcms]
+[ns]Natsu[nse]
+"What the hell are you doing?!"[pcms]
 
 *2430|
 [fc]
-[ns]男Ａ[nse]
-「あ～、なにオマエだけ、イイコトしてんだよぉ～。[r]
-　オレにもヤラせろよぉ～」[pcms]
+[ns]Man A[nse]
+"Ah~, why only you getting the good stuff? Let me have a turn too~"[pcms]
 
 *2431|
 [fc]
-片方の男がオレのケツを撫で回したのを見て、もう一人の男が[r]
-オレのチチに手を伸ばしてきやがった。[pcms]
+Seeing one man stroke my butt, the other man reached out for my tits.[pcms]
 
 *2432|
 [fc]
 [vo_nat s="natu_tj0049"]
-[ns]夏都[nse]
-「ざけんじゃねぇよ！」[pcms]
+[ns]Natsu[nse]
+"Don't mess with me!"[pcms]
 
-;//■イベントCG　削除natu_N003（夏都のファイティングポーズ）
+;//■イベントCG　削除natu_N003（夏のファイティングポーズ）
 ;//[evcg storage="natu_N003a"][trans_c cross time=300]
 
 *2433|
 [fc]
-とっさにオレはファイティングポーズを取ると、両方の[r]
-男たちの顎の先をかすめるように、素早くパンチをお見舞いした。[pcms]
+In an instant, I took a fighting pose and quickly threw punches that[r]
+grazed the chins of both men.[pcms]
 
 ;//SE：殴る音（２発）
 [quake_bg x m]
@@ -334,137 +335,134 @@
 
 *2434|
 [fc]
-オレのパンチは、狙い違わず両方の男の顎の先に[r]
-キレイにヒットした。[pcms]
+My punches hit their mark cleanly on the chins of both men without[r]
+missing.[pcms]
 
 *2435|
 [fc]
-顎の先を早いパンチがかすめると、首を支点に脳が揺さぶられて[r]
-簡単に脳震盪を起こさせることができる。[pcms]
+A quick punch grazing the chin can shake the brain by using the neck[r]
+as a pivot, easily causing a concussion.[pcms]
 
 *2436|
 [fc]
-上手く入れば、相手はそのまま意識を失って、[r]
-それ以上揉め事になることもない。[pcms]
+If landed properly, the opponent would lose consciousness and there[r]
+would be no further trouble.[pcms]
 
 *2437|
 [fc]
-イマイチな場合でも、足にきて動けなくなったり、[r]
-腰が抜けたみたいに座り込んだりさせられる。[pcms]
+Even if it's not perfect, it can still make them unable to move or sit[r]
+down as if their hips gave out.[pcms]
 
 *2438|
 [fc]
-大して相手を痛めつけずに戦闘能力を奪うには、これが一番だ。[pcms]
+To incapacitate someone without causing much harm, this is the best[r]
+method.[pcms]
 
 *2439|
 [fc]
-いまのパンチは、我ながらキレイに決まった方だと思っていた。[pcms]
+I thought to myself that the punch I just threw landed quite[r]
+beautifully.[pcms]
 
 *2440|
 [fc]
-普通なら、間違いなくどっちも気を失って[r]
-足から崩れ落ちるところだ。[pcms]
+Normally, both would undoubtedly lose consciousness and crumble to the[r]
+ground.[pcms]
 
 *2441|
 [fc]
-しかし………この男たちはフツウじゃなかった。[pcms]
+However... these men were not normal.[pcms]
 
 *2442|
 [fc]
-[ns]男Ａ[nse]
-「ん～、な、なんだぁ～、そのパンチ……。[r]
-　ち、ちっとも、きかねぇなあぁ～」[pcms]
+[ns]Man A[nse]
+"Hmm~, what's that punch... It doesn't affect me at all~"[pcms]
 
 *2443|
 [fc]
-[ns]男Ｂ[nse]
-「エロい、カッコしてっから、おれたちが～、わざわざ～、[r]
-　こ、こえをかけて、やったってのによぉ～」[pcms]
+[ns]Man B[nse]
+"Because you're dressed so erotically, we went out of our way~ to talk[r]
+to you~"[pcms]
 
 *2444|
 [fc]
-どちらの男も、気を失うどころか、これっぽっちも[r]
-いまのパンチが利いてる様子がない。[pcms]
+Neither man seemed to be affected by the punch at all; they didn't[r]
+seem to feel it even as much as a mosquito bite.[pcms]
 
 *2445|
 [fc]
-蚊が刺したほどにも感じていないのか、どちらもニヤニヤと[r]
-薄笑いを浮かべながらオレの体をいやらしい目つきで[r]
-眺め回している。[pcms]
+Both were smirking and leering at my body with a lustful gaze as if[r]
+they hadn't felt a thing.[pcms]
 
 *2446|
 [fc]
 [vo_nat s="natu_tj0050"]
-[ns]夏都[nse]
-（う、嘘だろ……。マジかよ……。[r]
-　いまのパンチ、かなりのクリーンヒットだぜ……）[pcms]
+[ns]Natsu[nse]
+(No way... Are you serious... That punch was a pretty clean hit...)[pcms]
 
 *2447|
 [fc]
-動揺を押し殺し、オレは素早く次の手を考えた。[pcms]
+Suppressing my confusion, I quickly thought of my next move.[pcms]
 
 *2448|
 [fc]
 [vo_nat s="natu_tj0051"]
-[ns]夏都[nse]
-（あんまり、こういうコトはしたくねぇんだけど[r]
-　相手がフツウじゃねぇんだから、仕方ねぇよな……）[pcms]
+[ns]Natsu[nse]
+(I really don't want to do this kind of thing but since these guys[r]
+aren't normal, I have no choice...)[pcms]
 
 *2449|
 [fc]
 [vo_nat s="natu_tj0052"]
-[ns]夏都[nse]
-（オメェらが悪ぃんだぜ……オレみたいな女に[r]
-　ちょっかいを出してきたんだから……なっ！）[pcms]
+[ns]Natsu[nse]
+(It's your fault... for messing with a woman like me... right?!)[pcms]
 
 *2450|
 [fc]
-次の瞬間、オレは目にもとまらぬ早業で、両方の男の股間を[r]
-思い切り蹴り上げた。[pcms]
+The next moment, with lightning-fast speed, I kicked both men's[r]
+crotches as hard as I could.[pcms]
 
 *2451|
 [fc]
-蹴り上げられた男たちの体が、ふわっと浮き上がる。[pcms]
+The bodies of the men I kicked floated up in the air.[pcms]
 
 *2452|
 [fc]
-オレのつま先には、蹴り飛ばした男のキンタマが[r]
-ぐにゃりと潰れる感触が伝わってきた。[pcms]
+I could feel the sensation of their balls crushing against my toes.[pcms]
 
 *2453|
 [fc]
 [vo_nat s="natu_tj0053"]
-[ns]夏都[nse]
-「悪く思うなよ……自業自得ってヤツだからな……」[pcms]
+[ns]Natsu[nse]
+"Don't take it personally... It's what you get for reaping what you[r]
+sow..."[pcms]
 
 *2454|
 [fc]
-女のオレには分からないが、健康な男にとって、それがどんなに[r]
-激しい苦痛をもたらすものなのかは、隊にいた頃に教わった。[pcms]
+I don't know from a woman's perspective, but I learned during my time[r]
+in the squad how much intense pain this can bring to a healthy man.[pcms]
 
 *2455|
 [fc]
-間違いなく、これで相手は戦意喪失の筈だった。[pcms]
+Without a doubt, this should have made them lose their will to fight.[pcms]
 
 *2456|
 [fc]
-しかし……。[pcms]
+However...[pcms]
 
 *2457|
 [fc]
-[ns]男Ｂ[nse]
-「お、おおぉ～、ごのお゛んな～、なまいぎだな゛ぁ゛～」[pcms]
+[ns]Man B[nse]
+"Oh, ooh~ this woman~, she's so feisty~"[pcms]
 
 *2458|
 [fc]
-[ns]男Ａ[nse]
-「い、いでぇな、ごの゛ぐぞあ゛ま゛ぁ゛……」[pcms]
+[ns]Man A[nse]
+"It hurts, these damn balls~"[pcms]
 
 *2459|
 [fc]
-男たちは、体が浮き上がるほどの衝撃でキンタマを[r]
-蹴り飛ばされたにも関わらず、何のダメージも[r]
-受けていなかった。[pcms]
+Despite being kicked in the balls hard enough to lift their bodies off[r]
+the ground, the men didn't seem to take any damage at all.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,1000>
@@ -472,16 +470,16 @@
 *2460|
 [fc]
 [vo_nat s="natu_tj0054"]
-[ns]夏都[nse]
-「う、嘘だろ……なんなんだよ、オマエら……」[pcms]
+[ns]Natsu[nse]
+"You've got to be kidding... What are you guys..."[pcms]
 
 *2461|
 [fc]
-驚いて、オレは相手の顔をまじまじと見つめてしまう。[pcms]
+In shock, I stared intently at their faces.[pcms]
 
 *2462|
 [fc]
-その時、気がついた。[pcms]
+That's when I noticed it.[pcms]
 
 [bgm storage="BGM04"]
 ;//♪bgm04　シリアスシーン：死
@@ -494,29 +492,27 @@
 
 *2463|
 [fc]
-ふらふらと体を所在なく揺らしながら、オレに難癖をつけてきた[r]
-男たちの目が……どちらも血の色のように赤い。[pcms]
+The eyes of the men who had been harassing me were both blood red.[pcms]
 
 ;//★bg05a ビーチ（＆ライブフェス会場外観）・朝昼
 [bg storage="BG05a"][trans_c cross time=500]
 
 *2464|
 [fc]
-[ns]男Ａ[nse]
-「ごういう、な゛まいぎなお゛んなにはぁ～、[r]
-　おじお゛ぎがぁ、びづよう゛だなあ゛～」[pcms]
+[ns]Man A[nse]
+"For such a feisty woman~, our strength is necessary~"[pcms]
 
 *2465|
 [fc]
-[ns]男Ｂ[nse]
-「へっへへへ……お゛れだぢがあ゛ぁ、ちん゛ぽでだっぷり゛[r]
-　ぎょう゛いぐじで、やら゛ねぇどなあ゛ぁ～」[pcms]
+[ns]Male B[nse]
+"Hehehe... I'm gonna fill you up with my dick, make you squirm, and[r]
+you're gonna love it~"[pcms]
 
 *2466|
 [fc]
 [vo_nat s="natu_tj0055"]
-[ns]夏都[nse]
-「あ……あああ……あぁ………」[pcms]
+[ns]Natsu[nse]
+"Ah... aaaa... ahh..."[pcms]
 
 [bg storage="BG05a"][trans_c cross time=500]
 
@@ -528,7 +524,7 @@
 
 *2467|
 [fc]
-まさか、まさか……そんな、まさかっ！[pcms]
+No way, no way... This can't be happening![pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -563,156 +559,154 @@
 
 *2468|
 [fc]
-オレの脳裏に、４年前の……東北アウトブレイクの[r]
-思い出したくもないクソみたいな記憶が蘇る。[pcms]
+Memories of the horrific Tohoku Outbreak from four years ago flood my[r]
+mind, memories I never wanted to recall.[pcms]
 
 *2469|
 [fc]
-人の形をしていながら、人とは全く異なるものになり果てて[r]
-しまったものたちを、オレたちは徹底的に殲滅した。[pcms]
+We exterminated those who, while still in human form, had become[r]
+something entirely different.[pcms]
 
 *2470|
 [fc]
-男も、女も、子供も、老人も、若者も……一切の区別なく、[r]
-無慈悲に、非情に、一体残らず焼き尽くした！[pcms]
+Men, women, children, the elderly, the young... we mercilessly and[r]
+ruthlessly incinerated them all without distinction![pcms]
 
 *2471|
 [fc]
-好きも嫌いも、いいも悪いもなかった。[r]
-それがオレたちの仕事だったんだから。[pcms]
+There was no liking or disliking, no good or bad. That was our job.[pcms]
 
 *2472|
 [fc]
-業火の中で生きながら焼かれて死ぬ、かつて人だった生き物の[r]
-あげる悲鳴や、肉の焼ける匂いが、今もオレの耳や鼻の奥に[r]
-こびりついていた。[pcms]
+The screams of once-human creatures being burned alive and the smell[r]
+of burning flesh still cling to the back of my ears and nose.[pcms]
 
 *2473|
 [fc]
-もう感染者は残ってない！　だれ一人残ってないんだ！！[r]
-オレたちが一人残らず駆除したんだから！[r]
-あんなクソみたいな思いをして！！[pcms]
+There can't be any infected left! Not a single one! We eradicated them[r]
+all without exception, after going through such hell![pcms]
 
 *2474|
 [fc]
-オレの感情がそう叫ぶ。[r]
-でも、オレの理性は冷徹な判断を下す。[pcms]
+My emotions scream that. But my reason makes a cold judgment.[pcms]
 
 *2475|
 [fc]
-この男たちは感染者だ、と。[pcms]
+These men are infected.[pcms]
 
 ;//★bg05a ビーチ（＆ライブフェス会場外観）・朝昼
 [bg storage="BG05a"][trans_c cross time=500]
 
 *2476|
 [fc]
-[ns]男Ａ[nse]
-「どう゛じだあ゛～、ぐぞあ゛ま゛ぁ～？[r]
-　ごねえんならぁ、ごっぢがらいぐぞおぉ～」[pcms]
+[ns]Man A[nse]
+"How's that~, you like it~? If you resist, I'll give you a good[r]
+pounding~"[pcms]
 
 *2477|
 [fc]
-ヤバイ、ヤバイ、ヤバイっ！[pcms]
+This is bad, really bad![pcms]
 
 *2478|
 [fc]
-逃げなきゃ、こっから一目散に逃げなきゃ……と思っても[r]
-オレの足はオレの言うことを聞かない。[pcms]
+I have to run, I need to escape as fast as I can... but my legs won't[r]
+listen to me.[pcms]
 
 *2479|
 [fc]
-怖い、怖い、怖くてたまらない……！[r]
-体がすくんで動けない……。[pcms]
+I'm scared, so scared I can't stand it...! My body is frozen with fear[r]
+and I can't move...[pcms]
 
 *2480|
 [fc]
-その時、オレの脳裏に誠の顔が浮かんだ。[pcms]
+At that moment, Makoto's face flashes through my mind.[pcms]
 
 *2481|
 [fc]
-誠、まこと……オレのたったひとりの家族！[pcms]
+Makoto... my only family![pcms]
 
 *2482|
 [fc]
-あいつを残して、オレはこんなとこで、こんな連中に[r]
-ヤラレる訳にはいかない……。[pcms]
+I can't leave him behind and get taken down by these guys here...[pcms]
 
 *2483|
 [fc]
-どうせヤラレるんなら、せめてはじめては誠がいい……！[pcms]
+If I'm going to be done in anyway, I'd rather it be with Makoto for[r]
+the first time...![pcms]
 
 *2484|
 [fc]
-次の瞬間、オレはその場から脱兎の如く逃げ出していた。[pcms]
+The next instant, I was running away as fast as a fleeing rabbit.[pcms]
 
 *2485|
 [fc]
-[ns]男Ｂ[nse]
-「あ゛～、ま゛でよぉ～、ごのぉくそあ゛まぁ゛～」[pcms]
+[ns]Man B[nse]
+"Ah~, wait up~, you shitty bitch~"[pcms]
 
 *2486|
 [fc]
-どこか間の抜けた感染者の声を背中に聞きながら、[r]
-オレは人でごった返すビーチの中に逃げ込んだ。[pcms]
+With the infected's foolish voices behind me, I dashed into the[r]
+crowded beach.[pcms]
 
 *2487|
 [fc]
-その時、ようやく気がついた。[pcms]
+That's when I finally realized it.[pcms]
 
 *2488|
 [fc]
-昨日からあっちこっちで目にしていた小競り合い。[r]
-あれはみんな、感染者が引き起こしてたもんだったんだ。[pcms]
+All the small fights I had seen here and there since yesterday were[r]
+all caused by the infected.[pcms]
 
 *2489|
 [fc]
-そして今、明らかに感染者と思われる連中に[r]
-襲われている人の数は目に見えて増え、ビーチは騒然としていた。[pcms]
+And now, the number of people being attacked by those who clearly[r]
+seemed to be infected was visibly increasing, and the beach was in[r]
+turmoil.[pcms]
 
 *2490|
 [fc]
-感染者に襲われて逃げ惑う人、感染者に果敢に反撃してる人、[r]
-すでに襲われて血まみれで倒れてる人すらいる。[pcms]
+People fleeing from the infected, people bravely fighting back against[r]
+the infected, and even those who had already been attacked and were[r]
+lying bloodied on the ground.[pcms]
 
 *2491|
 [fc]
-そんな緊迫したビーチの状況にお構いなしで、フェスの会場から[r]
-ノリのいい音楽がガンガン聞こえてくるのが、[r]
-妙に場違いで、なんだか腹立たしかった。[pcms]
+The upbeat music blaring from the festival venue, completely oblivious[r]
+to the tense situation on the beach, felt oddly out of place and made[r]
+me angry.[pcms]
 
 *2492|
 [fc]
-ひっきりなしに聞こえてくる救急車やパトカーのサイレンも、[r]
-全部この感染者がらみのモンだったんだろうか？[pcms]
+I wonder if all the continuous ambulance and police car sirens were[r]
+also related to these infected?[pcms]
 
 *2493|
 [fc]
-確かなことは何も分からない。[pcms]
+I don't know anything for certain.[pcms]
 
 *2494|
 [fc]
-ただ、ひとつ言えることは、ここにこうして立ちすくんでいても[r]
-事態はなにひとつ良くはならない、ということだ。[pcms]
+All I can say is that standing here frozen won't make the situation[r]
+any better.[pcms]
 
 *2495|
 [fc]
-むしろ感染者に襲われる危険性は、時間が経つほど[r]
-増してくるだろう。[pcms]
+In fact, the longer I wait, the more likely it is that I'll be[r]
+attacked by the infected.[pcms]
 
 *2496|
 [fc]
-オレはとにかく逃げなくちゃならない。[r]
-でも、どこに逃げる？[pcms]
+I have to escape somehow. But where?[pcms]
 
 *2497|
 [fc]
-くだくだ考えてる暇はねぇ。ぱっと思いついたのは２つだ。[pcms]
+There's no time to think it over. Two options come to mind[r]
+immediately.[pcms]
 
 *2498|
 [fc]
-ひとつは、誠のいるホテルの方に逃げる。[r]
-もうひとつは、警察や病院のある、港の方に逃げるかだ。[pcms]
+One is to run towards the hotel where Makoto is. The other is to run[r]
+towards the port where the police station and hospital are located.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -724,8 +718,8 @@
 *2499|
 [fc]
 [vo_nat s="natu_tj0056"]
-[ns]夏都[nse]
-「どうする……どっちへ逃げる……？」[pcms]
+[ns]Natsu[nse]
+"What should I do... which way should I run...?"[pcms]
 
 [bgm storage="BGM14"]
 ;//♪bgm14　逃走：エロ：緊迫緊張
@@ -736,14 +730,14 @@
 
 ;	[link target=*escape_hotel]ホテルの方向に逃げる[endlink]
 ;	[link storage="3066.ks" target=*3066_TOP]港の方向に逃げる[endlink]
-;	[s]
+;[pcms]
 
 *SEL22|ホテルの方向に逃げる／港の方向に逃げる
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = 'ホテルの方向に逃げる'"]
-[eval exp="f.seltext06 = '港の方向に逃げる'"]
+[eval exp="f.seltext04 = 'Escape towards the hotel'"]
+[eval exp="f.seltext06 = 'Escape towards the harbor'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -782,39 +776,39 @@
 
 *2500|
 [fc]
-オレはホテルの方向目指して、一目散に走り出した。[pcms]
+I started running towards the hotel at full speed.[pcms]
 
 *2501|
 [fc]
-砂浜を道路の方に駆け上がってゆく。[pcms]
+I ran up from the sandy beach towards the road.[pcms]
 
 *2502|
 [fc]
-人の多い浜辺の砂は踏み固められており、砂に足が埋まって[r]
-走りづらいなんてこともないのがありがたい。[r]
-これが、さらさらの砂浜なら大変なところだった。[pcms]
+The sand on the crowded beach was packed down, making it easier to run[r]
+without sinking in. It would have been much harder if it had been[r]
+loose sand.[pcms]
 
 *2503|
 [fc]
-砂浜ダッシュの辛さは、体験したことのない人間には[r]
-分からないだろう。[pcms]
+The difficulty of a beach dash is something that those who have never[r]
+experienced it wouldn't understand.[pcms]
 
 [ChrSetEx layer=6 chbase="mob_kan5_x_bl"][ChrSetXY layer=6 x=400 y=0][trans_c cross time=150]
 
 *2504|
 [fc]
-[ns]感染者[nse]
-「お゛お゛ぉ～、お゛ん゛なあ゛あ゛ぁ～」[pcms]
+[ns]Infected person[nse]
+"Grrrghh, woomaaan aargh..."[pcms]
 
 *2505|
 [fc]
-オレの行く手に感染者が立ち塞がる。[pcms]
+An infected person blocks my way.[pcms]
 
 *2506|
 [fc]
 [vo_nat s="natu_tj0057"]
-[ns]夏都[nse]
-「どけっ、邪魔だっ！」[pcms]
+[ns]Natsu[nse]
+"Move it, you're in the way!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -823,20 +817,20 @@
 
 *2507|
 [fc]
-オレはとっさに感染者の脛に足払いをかけると、襟首に手をかけて[r]
-そのまま後ろに放り投げた。[pcms]
+I quickly tripped the infected person's shin and grabbed them by the[r]
+collar, throwing them backward.[pcms]
 
 *2508|
 [fc]
-感染者は、オレに襲いかかろうとした勢いのまま、[r]
-ごろごろと砂浜を転がっていく。[pcms]
+The infected person, trying to pounce on me, rolled down the sandy[r]
+beach with the momentum.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=190 y=0][trans_c cross time=150]
 
 *2509|
 [fc]
-[ns]感染者[nse]
-「あ゛～、は゛ら゛へっだあ゛ぁ～、にぐ～ぐわぜろお゛～」[pcms]
+[ns]Infected person[nse]
+"Aaargh, my stooomach huuurts, nguuuuh..."[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -847,33 +841,34 @@
 *2510|
 [fc]
 [vo_nat s="natu_tj0058"]
-[ns]夏都[nse]
-「このヤロウっ！！」[pcms]
+[ns]Natsu[nse]
+"You bastard!!"[pcms]
 
 *2511|
 [fc]
-新手の感染者の胸板を、両手で突き飛ばして転ばせると、[r]
-それ以上深追いせずにオレは先を急いだ。[pcms]
+I pushed another new infected person in the chest with both hands,[r]
+knocking them down, and without pursuing further, I hurried on.[pcms]
 
 *2512|
 [fc]
 [vo_nat s="natu_tj0059"]
-[ns]夏都[nse]
-「感染者のクセに失礼なヤロウだな……。[r]
-　オレを見て、性欲じゃなくて食欲の対象にするなんて」[pcms]
+[ns]Natsu[nse]
+"The nerve of these infected... To see me not as an object of sexual[r]
+desire but as one of hunger."[pcms]
 
 *2513|
 [fc]
-殴っても蹴っても、たいして痛みもダメージも感じない連中だ。[pcms]
+No matter how much I punch or kick them, these guys hardly feel any[r]
+pain or damage.[pcms]
 
 *2514|
 [fc]
-その代わり、運動機能が低下してるから、いったん転ばせると[r]
-なかなか起き上がることができない。[pcms]
+Instead, their motor functions have deteriorated, so once they fall[r]
+over, they have a hard time getting back up.[pcms]
 
 *2515|
 [fc]
-今はそれが最善の策だと思われた。[pcms]
+At that moment, it seemed like the best strategy.[pcms]
 
 ;//★bg06a 島の周回道路（海沿いの道路）・朝昼
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
@@ -881,84 +876,85 @@
 
 *2516|
 [fc]
-その後も、何人か現れた感染者を突き転ばしながら、オレは[r]
-どうにか峠道まで出る事ができた。[pcms]
+After that, I managed to reach the mountain road while knocking down[r]
+several more infected people who appeared.[pcms]
 
 *2517|
 [fc]
 [vo_nat s="natu_tj0060"]
-[ns]夏都[nse]
-「よっし、じゃ、こっからは本気で走るぞ！」[pcms]
+[ns]Natsu[nse]
+"Alright, from here on out, I'm running for real!"[pcms]
 
 *2518|
 [fc]
-自分自身を鼓舞するようにそう宣言してから、オレは峠道を[r]
-ホテルに向かって走り出した。[pcms]
+I declared this to motivate myself and then started running towards[r]
+the hotel on the mountain road.[pcms]
 
 *2519|
 [fc]
-峠道には、すでに乗り捨てられた車が何台も放置されている。[r]
-そのことからも、この感染者による混乱が[r]
-全島レベルで広がっていることが分かった。[pcms]
+On the mountain road, there were already several cars abandoned. This[r]
+indicated that the chaos caused by the infected had spread across the[r]
+entire island.[pcms]
 
 [se buf=1 storage="seB063"]
 ;//♪SE遠くでの爆撃音
 
 *2520|
 [fc]
-オレは走りながら、遠くに見える町に目をやる。[pcms]
+While running, I glanced at the town in the distance.[pcms]
 
 *2521|
 [fc]
 [vo_nat s="natu_tj0061"]
-[ns]夏都[nse]
-「あれは………」[pcms]
+[ns]Natsu[nse]
+"That is..."[pcms]
 
 *2522|
 [fc]
-街場のあちこちから、黒煙がたなびいて立ち上っていた。[pcms]
+Plumes of black smoke were rising from various parts of the town.[pcms]
 
 *2523|
 [fc]
-耳を澄ませば、風に乗ってかすかに喧噪が聞こえてくる。[pcms]
+If I listened carefully, I could faintly hear noise carried by the[r]
+wind.[pcms]
 
 *2524|
 [fc]
-サイレンの音、怒声、悲鳴、爆発音……。[pcms]
+Sirens, shouts of anger, screams, sounds of explosions...[pcms]
 
 *2525|
 [fc]
-町に行くまでもない。[r]
-ここからでも、既に町が大混乱に陥っていることは理解できた。[pcms]
+There was no need to go to town to understand; even from here, it was[r]
+clear that the town was in complete chaos.[pcms]
 
 *2526|
 [fc]
 [vo_nat s="natu_tj0062"]
-[ns]夏都[nse]
-（仕方ない……。ちょっと方針変更したほうが良さそうだな……）[pcms]
+[ns]Natsu[nse]
+"(Can't be helped... Looks like I need to change my plan a bit...)"[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *2527|
 [fc]
-オレは峠道を外れて、森の中へと足を踏み入れた。[pcms]
+I stepped off the mountain road and into the forest.[pcms]
 
 *2528|
 [fc]
-少しでも人目……いや、感染者の目につきづらい方へ進んで[r]
-まずはオレ自身の安全を確保するのが先決だ。[pcms]
+To avoid being seen by people... no, by infected people as much as[r]
+possible, it was crucial to secure my own safety first.[pcms]
 
 *2529|
 [fc]
 [vo_nat s="natu_tj0063"]
-[ns]夏都[nse]
-「誠……どうか無事でいてくれ……」[pcms]
+[ns]Natsu[nse]
+"Makoto... please be safe..."[pcms]
 
 *2530|
 [fc]
-祈るような気持ちで誠の無事を願うと、[r]
-オレは藪をかき分けて、森の奥へと進んでいった。[pcms]
+With a prayerful heart wishing for Makoto's safety, I pushed through[r]
+the bushes and proceeded deeper into the forest.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

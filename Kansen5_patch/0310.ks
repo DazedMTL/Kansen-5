@@ -1,7 +1,7 @@
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 ;//シーン名	：『逢魔が時』
 ;//file名	：0310
-;//登場人物	：夏都、姦染３の登場人物（マルガリータ、漣、悠帆、瑞樹、渡、浩介、
+;//登場人物	：夏、姦染３の登場人物（マルガリータ、漣、悠帆、瑞樹、渡、浩介、
 ;//登場人物	：重吉、壬、朋美）
 ;//服装		：
 ;//日付		：8/17  
@@ -37,50 +37,48 @@
 *4340|
 [fc]
 [vo_nat s="natu0062"]
-[ns]夏都[nse]
-「ふぃー、やっぱそれなりに出費がかさむな」[pcms]
+[ns]Natsu[nse]
+"Phew, that sure did cost a pretty penny."[pcms]
 
 *4341|
 [fc]
-オレは旅行用のキャリーバッグを引きながら、[r]
-新しいシャツと下着を買い込んで、[r]
-列車に向かうところだった。[pcms]
+I was pulling a travel bag, having just bought some new shirts and[r]
+underwear, on my way to catch the train.[pcms]
 
 *4342|
 [fc]
-昼過ぎに上がってしまった仕事のことを思うと、[r]
-申し訳ない気持ちでいっぱいになる。[pcms]
+Thinking about the work I finished just after noon, I was filled with[r]
+a sense of guilt.[pcms]
 
 *4343|
 [fc]
-みんな笑顔で送り出してくれたけれど、[r]
-おみやげたくさん買って帰らなくちゃ、[r]
-オレの気が済まなかった。[pcms]
+Everyone sent me off with smiles, but I wouldn't be satisfied unless I[r]
+bought lots of souvenirs to bring back.[pcms]
 
 *4344|
 [fc]
-誠とその友達が用意してくれた旅行のプレゼントなんて、[r]
-わくわくしない方がどうかしてる。[pcms]
+The trip that Makoto and his friends prepared for me as a present is[r]
+something to be excited about, no doubt.[pcms]
 
 *4345|
 [fc]
-ライブフェスにもいけるし、久しぶりに羽を伸ばして[r]
-楽しむことができそうだった。[pcms]
+I can even go to a live music festival; it looks like I'll finally be[r]
+able to spread my wings and have some fun after a long time.[pcms]
 
 *4346|
 [fc]
 [vo_nat s="natu0063"]
-[ns]夏都[nse]
-「さてと……」[pcms]
+[ns]Natsu[nse]
+"Alright then..."[pcms]
 
 *4347|
 [fc]
-後は、このまま渋谷駅に向かい、[r]
-そこから東京駅に行って新幹線の旅のはじまりだ。[pcms]
+Now, all that's left is to head to Shibuya Station, and from there to[r]
+Tokyo Station to begin my journey on the Shinkansen.[pcms]
 
 *4348|
 [fc]
-さて、駅弁はどこのご当地ものを食べようかな……。[pcms]
+I wonder which local bento I should eat at the station...[pcms]
 
 ;//■イベントCG
 [evcg storage="mob_N013"][trans_c lr time=300]
@@ -90,196 +88,192 @@
 [vo_mob s="maru0001"]
 [se buf=0 storage="seB008"]
 ;//seB008.ogg
-[ns]マルガリータ[nse]
-「ハッ！」[pcms]
+[ns]Margarita[nse]
+"Hah!"[pcms]
 
 *4350|
 [fc]
 [vo_nat s="natu0064"]
-[ns]夏都[nse]
-「うはっ！」[pcms]
+[ns]Natsu[nse]
+"Whoa!"[pcms]
 
 ;//seB012.ogg
 [se buf=0 storage="seB012"]
 
 *4351|
 [fc]
-金髪のねーちゃんがくれてやった蹴りで、[r]
-たるんだデカブツの男が地面にぶっ倒されていた。[pcms]
+A blonde Onee-san had just kicked a flabby big guy to the ground.[pcms]
 
 ;//★shibuya_laser_floor01a 渋谷・laser前
 [bg storage="shibuya_laser_floor01a"][ChrSetXY layer=0 x=-800 y=0][trans_c cross time=500]
 
 *4352|
 [fc]
-悲鳴を上げる間もなく地面に転がった男が、[r]
-金髪のねーちゃんを下から睨み付けている。[pcms]
+Before he could even scream, the man who fell was glaring up at the[r]
+blonde Onee-san from the ground.[pcms]
 
 *4353|
 [fc]
-でも、そんなゲスの視線なんてものともせずに、[r]
-ねーちゃんは背筋をピンと伸ばして見下ろしていた。[pcms]
+But without being phased by such a lowlife's gaze, the Onee-san stood[r]
+tall and looked down upon him.[pcms]
 
 *4354|
 [fc]
-[ns]航[nse]
-「漣っ、大丈夫かっ！」[pcms]
+[ns]Kou[nse]
+"Ren, are you okay?!"[pcms]
 
 *4355|
 [fc]
 [vo_mob s="ren0024"]
-[ns]漣[nse]
-「お兄ちゃんっ！[r]
-　先輩が……先輩がちょうど通りかかってくれたから……」[pcms]
+[ns]Ripples[nse]
+"Big brother! A senior... A senior happened to pass by and..."[pcms]
 
 *4356|
 [fc]
-[ns]航[nse]
-「先輩？」[pcms]
+[ns]Kou[nse]
+"Senior?"[pcms]
 
 *4357|
 [fc]
-どうも同じ学園の仲良しグループが、[r]
-チンピラに絡まれているらしい。[pcms]
+It seems like a group of friends from the same school were being[r]
+hassled by some thugs.[pcms]
 
 *4358|
 [fc]
-倒れている線の細い子を、すごい美少女がかばうようにして、[r]
-男たちとの間に立ちふさがっていた。[pcms]
+A very beautiful girl was standing protectively in front of a slender[r]
+boy who had fallen, blocking the men.[pcms]
 
 *4359|
 [fc]
-両方の仲間たちが続々とこの場に集まり始めている。[r]
-警察が来るのも時間の問題だな。[pcms]
+Members from both sides were starting to gather at the scene. It's[r]
+only a matter of time before the police arrive.[pcms]
 
 *4360|
 [fc]
-[ns]浩助[nse]
-「なんだ？　やる気か？」[pcms]
+[ns]Kousuke[nse]
+"What's this? You looking for a fight?"[pcms]
 
 *4361|
 [fc]
-先陣に立つ金髪のねーちゃんの隣で、[r]
-喧嘩っ早そうなのが粋がっている。[pcms]
+Next to the leading blonde Onee-san, a quick-tempered guy was acting[r]
+tough.[pcms]
 
 *4362|
 [fc]
-こいつは、チンピラとどっこいどっこいの[r]
-感じしかしなかった。[pcms]
+This guy seemed just as much of a delinquent as the thugs.[pcms]
 
 *4363|
 [fc]
-[ns]重吉[nse]
-「ウゥ～、“また”おまえか！[r]
-　今日こそは思い知らせてやるゥ～！？」[pcms]
+[ns]Shigeyoshi[nse]
+"Ugh, you again! Today I'll make you realize...!"[pcms]
 
 *4364|
 [fc]
-まるで相撲取りのように一直線の動きで、[r]
-デカブツがねーちゃんに突進していく。[pcms]
+Like a sumo wrestler charging in a straight line, the big guy lunged[r]
+at the Onee-san.[pcms]
 
 *4365|
 [fc]
-素人は、相手のこういう動きを捌くのが苦手だ。[r]
-デカブツはそれなりに喧嘩慣れしているみたいだった。[pcms]
+Amateurs are bad at dealing with this kind of movement. The big guy[r]
+seemed to be quite experienced in fighting.[pcms]
 
 *4366|
 [fc]
-でも、ぱっと見、金髪のねーちゃんはただ者じゃない。[pcms]
+But at first glance, the blonde Onee-san didn't seem like an ordinary[r]
+person.[pcms]
 
 *4367|
 [fc]
-このデカブツを相手に、眉ひとつ動かさないで、[r]
-迎え撃とうとしている。[pcms]
+She didn't even flinch and was ready to face off against this big guy.[pcms]
 
 *4368|
 [fc]
-[ns]壬[nse]
-「やめないか」[pcms]
+[ns]Mizunoto[nse]
+"Stop it."[pcms]
 
 *4369|
 [fc]
 [vo_nat s="natu0065"]
-[ns]夏都[nse]
-「うほっ」[pcms]
+[ns]Natsu[nse]
+"Uho!"[pcms]
 
 *4370|
 [fc]
-そこに現れた、アニキらしき、しぶい男の一喝で、[r]
-デカブツの動きがピタリと止まる。[pcms]
+Then appeared a cool-looking guy who seemed like an older brother, and[r]
+with one shout, he stopped the big guy in his tracks.[pcms]
 
 *4371|
 [fc]
-まるで任侠映画を見ているみたいで、[r]
-なんだか興奮してきた。[pcms]
+It felt like watching a yakuza movie, and I was getting excited.[pcms]
 
 *4372|
 [fc]
-[ns]壬[nse]
-「シゲ、俺はお前にそんな事をしろと言ったか？」[pcms]
+[ns]Mizunoto[nse]
+"Shige, did I ever tell you to do something like this?"[pcms]
 
 *4373|
 [fc]
-落ち着いた声の中に静かな怒りが忍ばされている。[pcms]
+There was a quiet anger hidden in his calm voice.[pcms]
 
 *4374|
 [fc]
-この男からは、チンピラの殴り合いとは違う、[r]
-本物のプロの匂いが感じられた。[pcms]
+This man had an aura different from that of ordinary brawling thugs;[r]
+he smelled like a real professional.[pcms]
 
 *4375|
 [fc]
-[ns]重吉[nse]
-「ア、アニキ……お、俺はその……」[pcms]
+[ns]Shigeyoshi[nse]
+"A-Aniki... I just..."[pcms]
 
 *4376|
 [fc]
-[ns]壬[nse]
-「余計な事をするな。言われたとおりに動け！」[pcms]
+[ns]Mizunoto[nse]
+"Don't do anything unnecessary. Just do as you're told!"[pcms]
 
 *4377|
 [fc]
-[ns]重吉[nse]
-「わ、わかったよ……。ちっ、運のいい奴らだ」[pcms]
+[ns]Shigeyoshi[nse]
+"I get it... Tch, lucky bastards."[pcms]
 
 *4378|
 [fc]
-どうやら見物もこれで終わりのようだった。[pcms]
+It seems that the show is over for now.[pcms]
 
 *4379|
 [fc]
-あのアニキは素人を暴力で脅して楽しむ気はないらしい。[pcms]
+That Aniki doesn't seem to enjoy threatening amateurs with violence[r]
+for fun.[pcms]
 
 *4380|
 [fc]
-デカブツがやられた後、金髪のねーちゃんとアニキの一騎打ちが[r]
-見たかったんだけど、そうはならないみたいだ。[pcms]
+I wanted to see a one-on-one fight between the blonde Onee-san and[r]
+Aniki after the big guy was taken down, but it seems that's not going[r]
+to happen.[pcms]
 
 *4381|
 [fc]
-こんなところで揉め事を起こしたって何にもならないのは、[r]
-重々承知の上だろう。[pcms]
+I'm well aware that causing trouble in a place like this won't lead to[r]
+anything good.[pcms]
 
 *4382|
 [fc]
-暴力も脅しも金のためならやるんだろうけど、[r]
-プロがこんなところで油を売っていても、[r]
-客の見物になるだけだからな。[pcms]
+Violence and threats are only used for the sake of money, but even a[r]
+pro hanging around here is just for show to the spectators.[pcms]
 
 *4383|
 [fc]
-すると、そこにアニキの手下たちが集まり始めていた。[r]
-結構な数がいるが、もう揉め事は起こさないだろう。[pcms]
+Then, Aniki's underlings began to gather around. There were quite a[r]
+few of them, but it seemed there would be no more trouble.[pcms]
 
 *4384|
 [fc]
-電車の時間に遅れないようにその場を立ち去ろうとしたとき、[r]
-視界の片隅に異様な雰囲気の少女がいることに気が付いた。[pcms]
+As I was about to leave to catch my train on time, I noticed a girl[r]
+with an unusual aura in the corner of my vision.[pcms]
 
 *4385|
 [fc]
-サイズの合わない男物のシャツに身を包み、[r]
-キョロキョロと辺りを見回している。[pcms]
+She was wrapped in a men's shirt that didn't fit her size, looking[r]
+around restlessly.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -290,77 +284,78 @@
 
 *4386|
 [fc]
-あの瞳……血で染まったような真っ赤な瞳は……。[pcms]
+Those eyes... those deep red eyes, as if stained with blood...[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
 
 *4387|
 [fc]
-オレの背筋が瞬時に凍り付いた。[pcms]
+My spine froze in an instant.[pcms]
 
 *4388|
 [fc]
-４年前の光景が脳裏にフラッシュバックする。[pcms]
+The scene from four years ago flashed back in my mind.[pcms]
 
 *4389|
 [fc]
-アレはもう終わった。[pcms]
+It was all over.[pcms]
 
 *4390|
 [fc]
-米軍と協力した最後の掃討任務にオレも参加した。[pcms]
+I also participated in the last cleanup mission in cooperation with[r]
+the U.S. military.[pcms]
 
 *4391|
 [fc]
-一人残らず殺して、燃やしたはずだ。[pcms]
+We were supposed to have killed them all and burned them without a[r]
+trace.[pcms]
 
 *4392|
 [fc]
-[ns]壬[nse]
-「行くぞ」[pcms]
+[ns]Ren[nse]
+"Let's go."[pcms]
 
 *4393|
 [fc]
-気が付くと、チンピラの一味はすぐ横のビルの中に[r]
-消えて行ってしまった。[pcms]
+Before I knew it, the gang of thugs had disappeared into the building[r]
+next door.[pcms]
 
 *4394|
 [fc]
-立ち止まっていた見物人が解散だとばかりに、[r]
-歩き始める。[pcms]
+The onlookers who had stopped to watch began to walk away as if[r]
+dispersing.[pcms]
 
 ;//seB023.ogg(LOOP)
 [se buf=0 storage="seB023" loop=true]
 
 *4395|
 [fc]
-でも、オレは……、[r]
-破れそうになるほどの心臓の鼓動を止めることができなかった。[pcms]
+But I... couldn't stop the pounding of my heart, which felt like it[r]
+was about to burst.[pcms]
 
 *4396|
 [fc]
-いや、違う。[r]
-こんな東京の真ん中にいるはずがない。[pcms]
+No, that's wrong. There's no way she could be here in the middle of[r]
+Tokyo.[pcms]
 
 *4397|
 [fc]
-あれはただのカラーコンタクトか、[r]
-そういう病気なだけだ。[pcms]
+It must be just colored contacts or some kind of illness.[pcms]
 
 *4398|
 [fc]
-人の流れに合わせるように、オレも自分の足を前後させ始める。[r]
-同じ流れに乗ることで、不安を紛らわせるように。[pcms]
+I started moving my feet back and forth to blend in with the flow of[r]
+people, as if to distract myself from the anxiety.[pcms]
 
 *4399|
 [fc]
-そんなはずはない。[pcms]
+It can't be.[pcms]
 
 *4400|
 [fc]
-同じ言葉をなんども、胸の中でつぶやきながら、[r]
-オレは渋谷駅への道を歩いていった。[pcms]
+Muttering the same words over and over in my heart, I walked towards[r]
+Shibuya Station.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

@@ -19,109 +19,107 @@
 
 *3480|
 [fc]
-[ns]誠[nse]
-「ほら、この子だよ」[pcms]
+[ns]Makoto[nse]
+"Look, it's this girl here."[pcms]
 
 
 ;//宗一郎中＠制服　表情15Ａ恐怖　　　　　;//
 
 *3481|
 [fc]
-[ns]宗一郎[nse]
-「ええっ！　この子に似た美少女がいたのか！？」[pcms]
+[ns]Souichirou[nse]
+"What! There was a beautiful girl who looked like her!?"[pcms]
 
 *3482|
 [fc]
-そーいちが、突然大声を上げて僕の携帯にかじりついてくる。[pcms]
+Souichirou suddenly raises his voice and clings to my cell phone.[pcms]
 
 ;//〆施設の食堂
 [bg storage="BG300a"][trans_c cross time=500]
 
 *3483|
 [fc]
-周りの生徒は、その言葉の不穏さと異常なテンションに[r]
-冷たい視線を送ってよこす。[pcms]
+The other students send cold glances due to the ominous nature of his[r]
+words and his abnormal excitement.[pcms]
 
 *3484|
 [fc]
-女の子のグループからは、あからさまな非難の視線が[r]
-集まっているように見えた。[pcms]
+From the groups of girls, there seem to be blatant glares of[r]
+condemnation gathering.[pcms]
 
 *3485|
 [fc]
-もちろん、鋼の心臓を持つデブ君に、[r]
-そんな攻撃が通用するはず無いけれど。[pcms]
+Of course, to Debu-kun with a heart of steel, such attacks would never[r]
+work.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3486|
 [fc]
-[ns]宗一郎[nse]
-「でも、お前、この子日本人じゃないだろう！？[r]
-　大神島で似た人を探すって無理があるぞ」[pcms]
+[ns]Souichirou[nse]
+"But, you know, this girl isn't Japanese, right!? It's impossible to[r]
+find someone similar on Oogamijima."[pcms]
 
 *3487|
 [fc]
-[ns]誠[nse]
-「僕もびっくりしたよ、でもいたんだから仕方ない」[pcms]
+[ns]Makoto[nse]
+"I was surprised too, but there she was, so it can't be helped."[pcms]
 
 *3488|
 [fc]
-昼の練習が終わって夕暮れにさしかかった頃、[r]
-僕たちはスポーツセンターの食堂で[r]
-晩ご飯を食べているところだった。[pcms]
+As dusk approached after the afternoon practice, we were eating dinner[r]
+at the sports center's cafeteria.[pcms]
 
 *3489|
 [fc]
-鶯谷学園の一同は先生も生徒もみんな集まって、[r]
-ここで食事を取っている。[pcms]
+Everyone from Uguisudani Academy, both teachers and students, gathered[r]
+here for a meal.[pcms]
 
 *3490|
 [fc]
-僕とそーいちは、その末席というか、端っこの方で[r]
-こっそりと食べていたんだけど、この有り様だ。[pcms]
+Makoto and I were eating quietly at the very end or rather on the[r]
+edge, but this is the situation now.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so31b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3491|
 [fc]
-[ns]宗一郎[nse]
-「ど、ど、どこにいいるんだ！？[r]
-　その金髪の美少女は！」[pcms]
+[ns]Souichirou[nse]
+"Where, where, where is she!? The blonde beauty!"[pcms]
 
 *3492|
 [fc]
-そーいちが大げさな動きで食堂をキョロキョロと見回して、[r]
-金髪の少女を捜している。[pcms]
+Souichirou looks around the cafeteria with exaggerated movements,[r]
+searching for the blonde girl.[pcms]
 
 *3493|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3494|
 [fc]
-周囲からの視線が更に冷たくなっている気がするけれど、[r]
-そーいちは気にも留めていない。[pcms]
+The gazes from around us seem to become even colder, but Souichirou[r]
+doesn't seem to care.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3495|
 [fc]
-僕はそろそろ、この状況が恥ずかしく思えてきて、[r]
-身体が小さくなり始めていた。[pcms]
+I'm starting to feel embarrassed by this situation and feel myself[r]
+shrinking.[pcms]
 
 *3496|
 [fc]
 [vo_stk s="satuki0109"]
-[ns]彩月[nse]
-「おぉ、確かに似てるねー」[pcms]
+[ns]Satsuki[nse]
+"Oh, she does look similar indeed."[pcms]
 
 *3497|
 [fc]
 [vo_aka s="akari0094"]
-[ns]茜梨[nse]
-「あ、ホントですね」[pcms]
+[ns]Akari[nse]
+"Ah, really."[pcms]
 
 ;//m:2人声のみ
 
@@ -129,8 +127,8 @@
 
 *3498|
 [fc]
-[ns]誠[nse]
-「うわぁっ！」[pcms]
+[ns]Makoto[nse]
+"Whoa!"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c lr time=300][hide_chara_int]
@@ -142,239 +140,236 @@
 
 *3499|
 [fc]
-突然、後ろからかけられた声に驚いて振り返ると、[r]
-越智さんと南先輩が僕の携帯に映った少女を、[r]
-のぞき込んでいるところだった。[pcms]
+Suddenly startled by a voice from behind, I turn around to find Ochi-[r]
+san and Minami-senpai peering into the girl displayed on my cell[r]
+phone.[pcms]
 
 *3500|
 [fc]
-[ns]誠[nse]
-「こ、こ、これは違うんだ、その、なんていうか……」[pcms]
+[ns]Makoto[nse]
+"Th-this isn't what it looks like, it's just that... um..."[pcms]
 
 *3501|
 [fc]
-徳用ラードがはしゃぐから、[r]
-女の子が集まって来ちゃったじゃないか！[pcms]
+Because Souichirou was making a fuss, girls have gathered around![pcms]
 
 *3502|
 [fc]
-男の密やかな楽しみを女子に見られるのはマズイ。[pcms]
+It's bad for boys to have their secret pleasures seen by girls.[pcms]
 
 *3503|
 [fc]
-これは、超えられてはならない僕の禁断の領域だった。[pcms]
+This was my forbidden territory that should not be crossed.[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_ja2"][ChrSetParts layer=4 chface="F1_aj08"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3504|
 [fc]
 [vo_aka s="akari0095"]
-[ns]茜梨[nse]
-「あっ……」[pcms]
+[ns]Akari[nse]
+"Ah..."[pcms]
 
 *3505|
 [fc]
-[ns]誠[nse]
-「え……？」[pcms]
+[ns]Makoto[nse]
+"Eh...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3506|
 [fc]
-僕が慌てて携帯を隠そうとすると、[r]
-横からフランク先輩がそれをかっさらう。[pcms]
+As I panic trying to hide my cell phone, Frank-senpai snatches it away[r]
+from the side.[pcms]
 
 *3507|
 [fc]
-[ns]誠[nse]
-「フランク先輩！」[pcms]
+[ns]Makoto[nse]
+"Frank-senpai!"[pcms]
 
 *3508|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *3509|
 [fc]
-先輩は興味がなさそうに携帯の画像を眺めると、[r]
-大きくため息を吐く。[pcms]
+The senior looks at the image on the cell phone with disinterest and[r]
+then sighs deeply.[pcms]
 
 *3510|
 [fc]
-[ns]西[nse]
-「恋多き男を射止めた女は負け組だ。[r]
-　兄者はそれでもいいのか？」[pcms]
+[ns]West[nse]
+"The woman who captures a man of many loves is a loser. Are you okay[r]
+with that, brother?"[pcms]
 
 *3511|
 [fc]
-[ns]誠[nse]
-「これは、そういうんじゃないんですよ！」[pcms]
+[ns]Makoto[nse]
+"This isn't like that at all!"[pcms]
 
 *3512|
 [fc]
-[ns]西[nse]
-「まあ、確かにあの子に似ているな。[r]
-　本人何じゃないのか？」[pcms]
+[ns]West[nse]
+"Well, she certainly does look like her. Isn't she the person[r]
+herself?"[pcms]
 
 *3513|
 [fc]
-[ns]誠[nse]
-「ううう……」[pcms]
+[ns]Makoto[nse]
+"Ugh..."[pcms]
 
 *3514|
 [fc]
-それを確かめられれば苦労はないんだけれど、[r]
-接点と呼べそうなものがなにもない状況で、[r]
-声をかけに行くことはできない。[pcms]
+If I could confirm that, I wouldn't be having such a hard time, but[r]
+with no point of contact to speak of, I can't just go up and talk to[r]
+her.[pcms]
 
 *3515|
 [fc]
-それとも、レイヤーだから勝手に写真を撮ろうとしたら[r]
-怒ったんだろうか？[pcms]
+Or maybe she got angry because I tried to take a photo of her without[r]
+permission since she's a cosplayer?[pcms]
 
 *3516|
 [fc]
-いやいや、都合よく考えすぎだ。[r]
-普通、勝手に写真を撮られたら誰でも怒るだろう。[pcms]
+No, no, that's too convenient of an assumption. Normally, anyone would[r]
+get angry if their photo was taken without consent.[pcms]
 
 *3517|
 [fc]
-[ns]西[nse]
-「兄者は、取材中なのにこれに見とれてたのか」[pcms]
+[ns]West[nse]
+"Brother, were you captivated by this during your coverage?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3518|
 [fc]
 [vo_stk s="satuki0110"]
-[ns]彩月[nse]
-「そういえば、よだれ垂らしそうな顔で[r]
-　この子の演技を見てたよね」[pcms]
+[ns]Satsuki[nse]
+"Speaking of which, you had a face like you were about to drool while[r]
+watching this girl's performance."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3519|
 [fc]
 [vo_aka s="akari0096"]
-[ns]茜梨[nse]
-「えええっ！」[pcms]
+[ns]Akari[nse]
+"Eeeh!"[pcms]
 
 *3520|
 [fc]
-[ns]誠[nse]
-「ち、違います！　ただ、すごいなと思っただけですよ！」[pcms]
+[ns]Makoto[nse]
+"No, it's not like that! I was just impressed, that's all!"[pcms]
 
 *3521|
 [fc]
-これ以上、この話をするのは危険だ。[r]
-どう取り繕っても負け戦以上にはならない。[pcms]
+Continuing this conversation is dangerous. No matter how I try to[r]
+explain it, it's a losing battle.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3522|
 [fc]
-僕がフランク先輩から携帯を取り戻そうとすると、[r]
-それより先に、花沢が横から奪い取る。[pcms]
+As I tried to take my phone back from Frank-senpai, Hanazawa snatched[r]
+it from the side before I could.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha01"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3523|
 [fc]
 [vo_han s="hana0005"]
-[ns]花沢[nse]
-「うわぁ……」[pcms]
+[ns]Hanazawa[nse]
+"Ugh..."[pcms]
 
 *3524|
 [fc]
-[ns]誠[nse]
-「ぐうっ」[pcms]
+[ns]Makoto[nse]
+"Guh..."[pcms]
 
 *3525|
 [fc]
-花沢が露骨に気持ち悪そうな顔をして、[r]
-僕の携帯の画像を眺めていた。[pcms]
+Hanazawa made an overtly disgusted face as she looked at the image on[r]
+my phone.[pcms]
 
 *3526|
 [fc]
-誰も見てくれなんて頼んでないのに！[r]
-これ以上、僕の禁断の領域に踏み込まないでくれ！[pcms]
+Nobody asked her to look! Please don't delve any further into my[r]
+forbidden realm![pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha04"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3527|
 [fc]
 [vo_han s="hana0006"]
-[ns]花沢[nse]
-「こんなエロ画像持ち歩いてるなんてキモイ。[r]
-　なんに使うつもりなのよ？」[pcms]
+[ns]Hanazawa[nse]
+"It's creepy to carry around such erotic images. What do you intend to[r]
+use them for?"[pcms]
 
 *3528|
 [fc]
-花沢は心底気持ち悪そうな顔をして睨んでいる。[pcms]
+Hanazawa glared at me with a face full of genuine disgust.[pcms]
 
 *3529|
 [fc]
-いくら花沢といえども、女の子にそんな顔をされるのは、[r]
-それなりにダメージのある攻撃だった。[pcms]
+Even coming from Hanazawa, being looked at with such a face by a girl[r]
+is an attack with its own damage.[pcms]
 
 *3530|
 [fc]
-[ns]誠[nse]
-「別に、ただ入ってるだけだよ。[r]
-　特別な意味なんて無い」[pcms]
+[ns]Makoto[nse]
+"It's nothing, they're just there. There's no special meaning."[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha08"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3531|
 [fc]
 [vo_han s="hana0007"]
-[ns]花沢[nse]
-「特別な意味ねぇ」[pcms]
+[ns]Hanazawa[nse]
+"No special meaning, huh."[pcms]
 
 *3532|
 [fc]
-[ns]誠[nse]
-「あっ！」[pcms]
+[ns]Makoto[nse]
+"Ah!"[pcms]
 
 *3533|
 [fc]
-花沢はその画像だけじゃなく、他に何が入っているのか[r]
-確かめるように指を動かしていた。[pcms]
+Hanazawa wasn't just looking at that image; she was moving her fingers[r]
+to check what else was in there.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha01"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3534|
 [fc]
 [vo_han s="hana0008"]
-[ns]花沢[nse]
-「うわぁ……なにこれ」[pcms]
+[ns]Hanazawa[nse]
+"Eww... what is this?"[pcms]
 
 *3535|
 [fc]
-ギョッとしたような花沢の顔が、[r]
-みるみる不快なものへと変わっていく。[pcms]
+Hanazawa's face, which had been startled, turned increasingly into one[r]
+of discomfort.[pcms]
 
 *3536|
 [fc]
-まるでナメクジかカマドウマでも見るような目で、[r]
-携帯の画像を眺めていた。[pcms]
+She looked at the images on the phone as if she were looking at slugs[r]
+or house centipedes.[pcms]
 
 *3537|
 [fc]
-どんなのをみているんだろうか……、[r]
-もうこの時間を終わりにしたい。[pcms]
+I wonder what she's looking at... I just want this moment to end.[pcms]
 
 *3538|
 [fc]
-合宿が終わってもいいから、家に帰りたい……。[pcms]
+I wouldn't mind if the training camp ended; I just want to go home...[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha04"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3539|
 [fc]
 [vo_han s="hana0009"]
-[ns]花沢[nse]
-「こういうの撮られるのは、チアー部として困るんだけど」[pcms]
+[ns]Hanazawa[nse]
+"It's a problem for the cheerleading club to have such photos taken."[pcms]
 
 ;//■イベントＣＧ　akari_N001　茜梨の一発目チアーＣＧ（少し画質を落とすとか？）
 [evcg storage="akari_N001a"][trans_c cross time=300]
@@ -382,38 +377,38 @@
 *3540|
 [fc]
 [vo_aka s="akari0097"]
-[ns]茜梨[nse]
-「ええええええ……」[pcms]
+[ns]Akari[nse]
+"Eeeeeeh..."[pcms]
 
 *3541|
 [fc]
-[ns]誠[nse]
-「あああああっ……」[pcms]
+[ns]Makoto[nse]
+"Aaaaaah..."[pcms]
 
 *3542|
 [fc]
-そこには、越智さんがチアー部で必死に頑張っている、[r]
-麗しい画像が映っていた。[pcms]
+There, an image of Ochi-san working hard in the cheerleading club was[r]
+displayed, looking beautiful.[pcms]
 
 *3543|
 [fc]
-画像の中の越智さんが、爽やかな笑みを浮かべているのが[r]
-また痛々しい。[pcms]
+The Ochi-san in the image had a refreshing smile, which made it all[r]
+the more painful.[pcms]
 
 *3544|
 [fc]
-当の本人は、僕の方をチラチラと見ながら、[r]
-真っ赤になって困ったように俯いていた。[pcms]
+The real Ochi-san was glancing at me while turning bright red and[r]
+looking troubled as she hung her head.[pcms]
 
 *3545|
 [fc]
-[ns]誠[nse]
-「も、もういいだろ！　十分だろ！」[pcms]
+[ns]Makoto[nse]
+"That's enough already! Isn't it enough?"[pcms]
 
 *3546|
 [fc]
-でも花沢は自分の画像でも探しているのか、[r]
-次々にボタンを操作して携帯の中身を確認している。[pcms]
+But Hanazawa, as if searching for her own image, kept pressing buttons[r]
+and checking the contents of the phone.[pcms]
 
 ;//〆施設の食堂
 [bg storage="BG300a"][trans_c cross time=500]
@@ -423,92 +418,91 @@
 *3547|
 [fc]
 [vo_han s="hana0010"]
-[ns]花沢[nse]
-「うわぁ、越智さんの画像ばっかりこんなに……、[r]
-　ストーカーなの？」[pcms]
+[ns]Hanazawa[nse]
+"Ugh, there are so many images of Ochi-san like this... Are you a[r]
+stalker?"[pcms]
 
 *3548|
 [fc]
-花沢が背筋をぶるっと震わせて、心の底から怖がるように[r]
-携帯の画像を眺めていた。[pcms]
+Hanazawa shivered and looked at the images on the phone as if she were[r]
+truly frightened from the bottom of her heart.[pcms]
 
 *3549|
 [fc]
-あぁ……禁断の領域が……僕のエデンが……。[pcms]
+Ah... my forbidden realm... my Eden...[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha04"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3550|
 [fc]
 [vo_han s="hana0011"]
-[ns]花沢[nse]
-「最低」[pcms]
+[ns]Hanazawa[nse]
+"The worst."[pcms]
 
 *3551|
 [fc]
-[ns]誠[nse]
-「他人の携帯をいじる方が、サイテーだ！」[pcms]
+[ns]Makoto[nse]
+"It's worse to mess with someone else's phone!"[pcms]
 
 *3552|
 [fc]
-[ns]西[nse]
-「うん、そうだな」[pcms]
+[ns]West[nse]
+"Yeah, that's true."[pcms]
 
 *3553|
 [fc]
-フランク先輩がみそ汁をすすりながら、そんなことを言う。[pcms]
+Frank-senpai said that while slurping his miso soup.[pcms]
 
 *3554|
 [fc]
 [vo_han s="hana0012"]
-[ns]花沢[nse]
-「取材に来て、エロ写メ撮ってる方が最低に決まってるでしょ！」[pcms]
+[ns]Hanazawa[nse]
+"It's the worst to come here for coverage and take erotic photos!"[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha08"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3555|
 [fc]
-[ns]西[nse]
-「それも、全くその通り」[pcms]
+[ns]West[nse]
+"That's also completely true."[pcms]
 
 *3556|
 [fc]
-[ns]誠[nse]
-「ぐぐぐっ……」[pcms]
+[ns]Makoto[nse]
+"Gggg..."[pcms]
 
 *3557|
 [fc]
-涙がこぼれてしまいそうだった。[pcms]
+I felt like I was about to cry.[pcms]
 
 *3558|
 [fc]
-憧れの越智さんに秘密の画像を見られてしまうどころか、[r]
-これだけの不特定多数に秘密を知られてしまうなんて……。[pcms]
+To have my secret images seen by my admired Ochi-san is one thing, but[r]
+to have my secrets known by so many unspecified people...[pcms]
 
 *3559|
 [fc]
-もう、隕石が落ちてきて、世界が破滅するほかに[r]
-僕が助かる道はない。[pcms]
+Now, only a meteor falling and destroying the world could save me.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha01"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3560|
 [fc]
 [vo_han s="hana0013"]
-[ns]花沢[nse]
-「私のとか撮ってないでしょうねえ……」[pcms]
+[ns]Hanazawa[nse]
+"You haven't been taking pictures of me, have you...?"[pcms]
 
 *3561|
 [fc]
-花沢は僕のライブラリを全て確認するまで、[r]
-気が済まないみたいに、忙しくボタンを操作していく。[pcms]
+Hanazawa seemed unsatisfied until she had checked my entire library,[r]
+busily pressing buttons.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha08"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3562|
 [fc]
-隅から隅まで探しても花沢の画像なんて無いけれど、[r]
-もういい加減にして欲しい。[pcms]
+Even after searching from corner to corner, there were no images of[r]
+Hanazawa, but I wish she would just stop already.[pcms]
 
 ;//◆ＳＥ　誠のメールの着信音（誠と宗一郎は凝ってそうとか、ハードルを上げてみたり）
 ;//seC003.ogg
@@ -516,46 +510,44 @@
 
 *3563|
 [fc]
-そのとき、僕の携帯にメールの着信があって、[r]
-バイブと一緒にメロディーが流れ出した。[pcms]
+Just then, an email notification came to my phone, and a melody played[r]
+along with the vibration.[pcms]
 
 [eval exp="f.chara_x = 330,f.chara_y = 0"][quake_chara layer=5 lo xy m]
 
 *3564|
 [fc]
-花沢はびくっとして身体が固まっている。[pcms]
+Hanazawa flinched and her body stiffened.[pcms]
 
 *3565|
 [fc]
 [vo_han s="hana0014"]
-[ns]花沢[nse]
-「あっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ah!"[pcms]
 
 *3566|
 [fc]
-僕はその隙を逃さずに、花沢の手から自分の携帯を[r]
-取り戻すことに成功していた。[pcms]
+I didn't miss the opportunity and successfully snatched my phone back[r]
+from Hanazawa's hands.[pcms]
 
 *3567|
 [fc]
-もう、大分、僕の信頼というか紳士指数は[r]
-下がってしまったと思うけれど、[r]
-全部見られるよりはいい。[pcms]
+I'm sure my trustworthiness, or rather my gentlemanly index, has[r]
+dropped quite a bit, but it's better than having everything seen.[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_ja1_a"][ChrSetParts layer=5 chface="F1_ha04"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *3568|
 [fc]
 [vo_han s="hana0015"]
-[ns]花沢[nse]
-「本当にキモチワルイわね……、[r]
-　合宿は遊びじゃないんだから、[r]
-　しっかりやってくれないと困るのよ」[pcms]
+[ns]Hanazawa[nse]
+"That's really disgusting... This training camp isn't for play, you[r]
+need to take it seriously or it'll be a problem."[pcms]
 
 *3569|
 [fc]
-[ns]誠[nse]
-「手なんか抜いてない！　それは新聞を見てから言ってくれ！」[pcms]
+[ns]Makoto[nse]
+"I'm not slacking off! You can say that after you read the newspaper!"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c lr time=300][hide_chara_int]
@@ -567,181 +559,177 @@
 
 *3570|
 [fc]
-僕は、ハッとした思いで振り返ると、[r]
-越智さんのことを見る。[pcms]
+I turned around with a start and looked at Ochi-san.[pcms]
 
 *3571|
 [fc]
-花沢に最低だと思われてもいいけれど、[r]
-越智さんにそんなこと思われたら、[r]
-もう生きていけない。[pcms]
+It's one thing to be thought of as the worst by Hanazawa, but I[r]
+couldn't live with myself if Ochi-san thought that of me.[pcms]
 
 *3572|
 [fc]
-少なくとも、新聞部のチアー部担当をつづけるのが、[r]
-苦行になってしまう……。[pcms]
+At the very least, continuing as the cheerleading correspondent for[r]
+the newspaper club would become an ordeal...[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3573|
 [fc]
 [vo_aka s="akari0098"]
-[ns]茜梨[nse]
-「あ、あの……中澤先輩は、写真を撮るのもお上手ですね」[pcms]
+[ns]Akari[nse]
+"Um... Nakazawa-senpai, you're also very good at taking photos."[pcms]
 
 *3574|
 [fc]
-越智さんはしどろもどろになりながらも、[r]
-そんなことを言って僕をフォローしてくれていた。[pcms]
+Ochi-san was stammering, but she said that to back me up.[pcms]
 
 *3575|
 [fc]
-越智さんマジで天使過ぎる。[pcms]
+Ochi-san is seriously too angelic.[pcms]
 
 *3576|
 [fc]
-花沢のビッチとは原子核の構成から異なっているに違いない。[pcms]
+Hanazawa the bitch must be made up of different atomic nuclei[r]
+altogether.[pcms]
 
 *3577|
 [fc]
-[ns]誠[nse]
-「そ、それは、被写体がいいから、写真の方も……、[r]
-　良くなるんだよ……きっと」[pcms]
+[ns]Makoto[nse]
+"Th-that's because the subject is good, so the photos turn out...[r]
+well... definitely."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj09"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3578|
 [fc]
 [vo_aka s="akari0099"]
-[ns]茜梨[nse]
-「そ、そぅなんですね」[pcms]
+[ns]Akari[nse]
+"Is that so?"[pcms]
 
 *3579|
 [fc]
-越智さんは恥ずかしがっているような、困っているような、[r]
-複雑な様子で立ちすくんでいる。[pcms]
+Ochi-san stood frozen in a complex state, looking both embarrassed and[r]
+troubled.[pcms]
 
 *3580|
 [fc]
-僕はかける言葉も見つからずに、[r]
-ただ冷たい汗を流しつづけていた。[pcms]
+I couldn't find any words to say and just kept sweating cold sweat.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3581|
 [fc]
-越智さんはチアー部の女の子が呼ぶ声に反応して、[r]
-そそくさと自分の席に戻っていく。[pcms]
+Ochi-san responded to the voice of a cheerleading girl calling her and[r]
+hurried back to her seat.[pcms]
 
 *3582|
 [fc]
-携帯を取り戻した僕も、身体をカチコチにしたまま、[r]
-食べかけの食事を喉に通していった。[pcms]
+Having retrieved my phone, I continued eating my meal with my body[r]
+still stiff as a board.[pcms]
 
 *3583|
 [fc]
-席の向こうでは、チアー部の女の子が越智さんを囲んで、[r]
-僕をチラ見しながらヒソヒソと何ごとかを話している。[pcms]
+Across the table, the cheerleading girls surrounded Ochi-san and were[r]
+whispering about something while glancing at me.[pcms]
 
 *3584|
 [fc]
-どうやら花沢が中心になって話をしているみたいだけれど、[r]
-今回はどうあっても言い逃れできない。[pcms]
+It seemed like Hanazawa was leading the conversation, but this time[r]
+there was no way I could talk my way out of it.[pcms]
 
 *3585|
 [fc]
-もう地球が爆発するしか、僕の助かる道はなかった。[pcms]
+Only the explosion of the earth could save me now.[pcms]
 
 *3586|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3587|
 [fc]
-ふと、剣呑な視線を感じてそちらを見ると、[r]
-サッカー部の荒井が僕を睨んでいる真っ最中だった。[pcms]
+Suddenly feeling a hostile gaze, I looked over to find Arai from the[r]
+soccer club glaring at me.[pcms]
 
 *3588|
 [fc]
-ああ……右も左も敵ばかりで、[r]
-僕の居場所がどんどん減っている……。[pcms]
+Ah... surrounded by enemies on all sides, my place in the world was[r]
+shrinking rapidly...[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so03a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3589|
 [fc]
-[ns]宗一郎[nse]
-「元気出せ、親友よ」[pcms]
+[ns]Souichirou[nse]
+"Cheer up, best friend."[pcms]
 
 *3590|
 [fc]
-[ns]誠[nse]
-「そーいち……」[pcms]
+[ns]Makoto[nse]
+"Souichi..."[pcms]
 
 *3591|
 [fc]
-元はと言えば、そーいちが騒ぎ始めたから[r]
-こんなことになったんだ。[pcms]
+After all, it was Souichi who started this commotion in the first[r]
+place.[pcms]
 
 *3592|
 [fc]
-そんな偉そうなセリフを言われる筋はない。[pcms]
+He had no right to say such a grand line.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so31b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3593|
 [fc]
-[ns]宗一郎[nse]
-「さっきの越智さんの画像も含めて、[r]
-　俺の持ってないのがたくさんあるんだろ？[r]
-　コピーよろしく」[pcms]
+[ns]Souichirou[nse]
+"Including that photo of Ochi-san from earlier, you have a lot I don't[r]
+have, right? I'd like a copy."[pcms]
 
 *3594|
 [fc]
-殴りたい……このデブを心いくまで殴りたい……。[pcms]
+I want to punch him... I want to punch this fatso to my heart's[r]
+content...[pcms]
 
 *3595|
 [fc]
-しかも周りを意識してか、小声で話しているところが[r]
-更にむかつく。[pcms]
+And what's more irritating is that he's talking in a low voice,[r]
+probably conscious of our surroundings.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3596|
 [fc]
-僕は気を取り直すと、携帯に着信があったことを思い出して、[r]
-それを確認することにした。[pcms]
+I pulled myself together and remembered that I had received a[r]
+notification on my phone, so I decided to check it.[pcms]
 
 *3597|
 [fc]
-メーラーを開くと２件と表示が出ている。[pcms]
+When I opened the mailer, it showed two messages.[pcms]
 
 *3598|
 [fc]
-一件は姉ちゃんからで、件名の『晩飯食った？』が[r]
-内容の全てだろうから読むのを忘れていた。[pcms]
+One was from my sister with the subject "Have you eaten dinner?" which[r]
+probably summed up the entire content, so I had forgotten to read it.[pcms]
 
 *3599|
 [fc]
-２件目は、モンバスのメンバーズメールだ。[pcms]
+The second message was from the Monbas members' mail.[pcms]
 
 *3600|
 [fc]
-誰からだろうと思って開くと、驚いたことに、[r]
-Satto☆さんからのメールだった。[pcms]
+Wondering who it could be from, I opened it to find, to my surprise,[r]
+an email from Satto☆.[pcms]
 
 *3601|
 [fc]
 [ns]Satto☆[nse]
-『島に来た？　ひょっとしてスポーツセンターにいる？』[pcms]
+"Are you on the island? Maybe at the sports center?"[pcms]
 
 *3602|
 [fc]
-僕は素早く簡単なメールを打つと、[r]
-それをSatto☆さんに返信する。[pcms]
+I quickly typed a simple email and sent a reply to Satto☆.[pcms]
 
 ;//◆ＳＥ　誠のメールの着信音
 ;//seC003.ogg
@@ -750,34 +738,33 @@ Satto☆さんからのメールだった。[pcms]
 *3603|
 [fc]
 [ns]Satto☆[nse]
-『やったね、それじゃこれから[r]
-　センターのエントランスで会わない？』[pcms]
+"Great, then how about we meet at the center's entrance from now on?"[pcms]
 
 *3604|
 [fc]
-僕の返信から間を置かずに、[r]
-またすぐSatto☆さんからメールがあった。[pcms]
+Without any delay after my reply, another email from Satto☆ came[r]
+through.[pcms]
 
 *3605|
 [fc]
-なんでSatto☆さんがスポーツセンターにいるんだ？[r]
-島の人は結構自由に出入りしているのかな。[pcms]
+Why is Satto☆ at the sports center? I wonder if the islanders come and[r]
+go quite freely.[pcms]
 
 *3606|
 [fc]
-僕はその辺りも込めて、チャカチャカとメールを打っていく。[pcms]
+I typed out an email, including my thoughts about that.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3607|
 [fc]
-[ns]宗一郎[nse]
-「飯を食いながらメールを打つのは、どうかと思うがなぁ」[pcms]
+[ns]Souichirou[nse]
+"I think it's questionable to be sending emails while eating."[pcms]
 
 *3608|
 [fc]
-本当にこいつは２、３度殴ってやらなければ、[r]
-気が済まなくなってきた。[pcms]
+I really feel like I won't be satisfied until I've punched this guy[r]
+two or three times.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -788,36 +775,36 @@ Satto☆さんからのメールだった。[pcms]
 *3609|
 [fc]
 [ns]Satto☆[nse]
-『えへへ、会えばわかるってことでお楽しみに☆ミ』[pcms]
+"Ehehe, you'll understand when we meet, so look forward to it☆"[pcms]
 
 *3610|
 [fc]
-平和そうに飯を食っているそーいちを見ると、[r]
-ひとりで抜け駆けしたくなってくるけれど、[r]
-その気持ちをぐっと堪えて携帯を見せた。[pcms]
+Looking at Souichi peacefully eating his meal, I felt the urge to[r]
+sneak away by myself, but I held back that feeling and showed him my[r]
+phone.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so19a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [eval exp="f.chara_x = 0,f.chara_y = 0"][quake_chara layer=5 xy up m]
 
 *3611|
 [fc]
-[ns]宗一郎[nse]
-「なん……なにぃぃぃぃぃぃっ！」[pcms]
+[ns]Souichirou[nse]
+"Wha...whaaaaat?!"[pcms]
 
 *3612|
 [fc]
-[ns]誠[nse]
-「静かにしろーーーっ！」[pcms]
+[ns]Makoto[nse]
+"Keep it down---!"[pcms]
 
 *3613|
 [fc]
-また大声を上げたそーいちに、周囲の人々が冷たい視線を[r]
-送ってくる。[pcms]
+Once again, Souichi raised his voice and the people around us sent[r]
+cold glances his way.[pcms]
 
 *3614|
 [fc]
-その冷たい視線の対象には、僕も含まれているんだと思うと[r]
-泣きたい気持ちになってきた。[pcms]
+The thought that I was also a target of those cold stares made me feel[r]
+like crying.[pcms]
 
 ;//SE　箸がテーブルに落ちる音とか食器のぶつかる音
 
@@ -825,25 +812,26 @@ Satto☆さんからのメールだった。[pcms]
 
 *3615|
 [fc]
-[ns]宗一郎[nse]
-「飯を食っている場合じゃないぞ」[pcms]
+[ns]Souichirou[nse]
+"This is no time to be eating."[pcms]
 
 *3616|
 [fc]
-[ns]誠[nse]
-「急ぐか」[pcms]
+[ns]Makoto[nse]
+"Should we hurry?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3617|
 [fc]
-僕とそーいちは、かき込むように晩飯を平らげると、[r]
-食器を所定の位置に下げて新聞部の関係者のところへ戻る。[pcms]
+Souichi and I quickly finished our dinner as if gobbling it down,[r]
+placed the dishes in their proper place, and returned to the newspaper[r]
+club members.[pcms]
 
 *3618|
 [fc]
-みんなは談笑しながらゆっくりと食べているみたいで、[r]
-まだ晩飯は終わりそうもなかった。[pcms]
+It seemed like everyone was still leisurely chatting and eating, and[r]
+dinner didn't look like it would be over anytime soon.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st08"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so05a"][ChrSetXY layer=5 x=340 y=0]
@@ -851,13 +839,13 @@ Satto☆さんからのメールだった。[pcms]
 
 *3619|
 [fc]
-[ns]宗一郎[nse]
-「ちょっとヤボ用ができましたので、失礼します」[pcms]
+[ns]Souichirou[nse]
+"I have a bit of an urgent matter to attend to, so please excuse me."[pcms]
 
 *3620|
 [fc]
-[ns]誠[nse]
-「すぐに戻りますので」[pcms]
+[ns]Makoto[nse]
+"We'll be back soon."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 ;//seA050.ogg
@@ -865,17 +853,18 @@ Satto☆さんからのメールだった。[pcms]
 
 *3621|
 [fc]
-僕らは返事も聞かず、飛び出すようにその場を離れていく。[r]
-頭の中はこれから会う、二人のことでいっぱいになっていた。[pcms]
+We left the place as if running away without waiting for a response.[r]
+My head was filled with thoughts of the two people I was about to[r]
+meet.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3622|
 [fc]
 [vo_stk s="satuki0111"]
-[ns]彩月[nse]
-「泣いた烏が、もうエロい顔してる。[r]
-　イジメ甲斐が無くて残念だね、花沢さん」[pcms]
+[ns]Satsuki[nse]
+"The crow that cried is already making a lewd face. It's a shame[r]
+there's no fun in teasing you, Hanazawa-san."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

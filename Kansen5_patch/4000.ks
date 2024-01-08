@@ -37,19 +37,18 @@
 
 *1|
 [fc]
-姉ちゃんがシャワーを浴びる音が、扉越しに聞えてくる。[r]
-いつもの事なんだけど……なんだろう。[r]
-妙に興奮する。[pcms]
+The sound of Onee-san taking a shower can be heard through the door.[r]
+It's a usual occurrence, but... somehow, it's exciting.[pcms]
 
 *2|
 [fc]
-あんな風に抱きしめられたからだろうか、[r]
-姉ちゃんの感触が僕の身体の隅々に残っているような気がした。[pcms]
+Maybe it's because she hugged me like that, I feel like Onee-san's[r]
+touch lingers all over my body.[pcms]
 
 *3|
 [fc]
-いつものアパートと同じ状況なのに……、[r]
-なんだかソワソワとして落ち着かない。[pcms]
+Even though it's the same situation as always in our apartment..., I[r]
+feel restless and can't calm down.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -57,9 +56,8 @@
 
 *4|
 [fc]
-もしかして、僕はなんか期待してるのかな。[r]
-旅行先だからって、姉ちゃんがサービスしてくれるとは[r]
-思わないけど……。[pcms]
+I wonder if I'm expecting something. I don't think Onee-san would[r]
+provide any "service" just because we're on a trip...[pcms]
 
 ;//■_扉の開く音
 ;//seA011.ogg
@@ -70,123 +68,121 @@
 *5|
 [fc]
 [vo_nat s="natu_nt0001"]
-[ns]夏都[nse]
-「風呂空いたよ～、さっさと入っちゃいな」[pcms]
+[ns]Natsu[nse]
+"The bath is free now, hurry up and get in."[pcms]
 
 *6|
 [fc]
-姉ちゃんは、いつもの風呂上がりの格好で僕の前に現れた。[r]
-タンクトップにＴバックという軽装だ。[pcms]
+Onee-san appeared in front of me in her usual post-bath outfit. A tank[r]
+top and T-back panties, quite light clothing.[pcms]
 
 *7|
 [fc]
-見慣れてるはずなのに、なんだか、今日は直視できない。[r]
-だから、ついつい、僕は言葉尻を取って、自分の気持ちを[r]
-悟られないように、ごまかした。[pcms]
+Even though I'm used to seeing her like this, today, I can't look[r]
+directly at her. So, I end up catching my words and disguising my[r]
+feelings so she won't notice.[pcms]
 
 *8|
 [fc]
-[ns]誠[nse]
-「ふ、風呂って言うなよ。シャワーとか言ってよ、せめて」[pcms]
+[ns]Makoto[nse]
+"Hey, don't call it a bath. Say shower or something, at least."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_ts1_c"][ChrSetParts layer=5 chface="F1_na12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *9|
 [fc]
 [vo_nat s="natu_nt0002"]
-[ns]夏都[nse]
-「あ～？　どっちでもいいじゃん、そんな事。[r]
-　ってか、バスタブに湯～張ったんだから、風呂だろ？[r]
-　それよっか、早く入ってこいよ」[pcms]
+[ns]Natsu[nse]
+"Huh? It doesn't matter what you call it. Besides, I filled the[r]
+bathtub with hot water, so it's a bath, right? More importantly, hurry[r]
+up and get in."[pcms]
 
 *10|
 [fc]
-[ns]誠[nse]
-「わかってるよ……」[pcms]
+[ns]Makoto[nse]
+"I know..."[pcms]
 
 *11|
 [fc]
-僕の様子を訝しむように姉ちゃんがのぞき込んでくる。[r]
-なんかおかしいかな、いつもと同じだと思うけど……。[pcms]
+Onee-san looks at me suspiciously as if she's wondering about my[r]
+behavior. I wonder if something's wrong, I think it's the same as[r]
+always...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_ts1_c"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *12|
 [fc]
 [vo_nat s="natu_nt0003"]
-[ns]夏都[nse]
-「風呂場でオナニーすんなよ」[pcms]
+[ns]Natsu[nse]
+"Don't masturbate in the bathroom."[pcms]
 
 *13|
 [fc]
-[ns]誠[nse]
-「しないって！」[pcms]
+[ns]Makoto[nse]
+"I won't!"[pcms]
 
 *14|
 [fc]
-いつもの受け答えだと思う。[r]
-でも、姉ちゃんはちょっと心配そうな顔で僕を見ていた。[pcms]
+It's the usual response, I think. But Onee-san looked at me with a[r]
+slightly worried expression.[pcms]
 
 *15|
 [fc]
-警察になんて呼ばれて、人が死ぬところを見ちゃったからな。[r]
-姉ちゃんは心配なのかも知れないけど……。[pcms]
+Maybe Onee-san is worried because we were called by the police and saw[r]
+someone die...[pcms]
 
 *16|
 [fc]
-僕は胸の辺りのソワソワが、[r]
-段々酷くなってくるのを感じていた。[pcms]
+I could feel the restlessness around my chest getting worse.[pcms]
 
 *17|
 [fc]
-[ns]誠[nse]
-「じゃあ、入るね」[pcms]
+[ns]Makoto[nse]
+"Okay, I'm going in."[pcms]
 
 *18|
 [fc]
-姉ちゃんの姿に視線を合わせないようにしながら、[r]
-シャワールームに歩いて行く。[pcms]
+Without meeting Onee-san's gaze, I walk towards the shower room.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_ts1_c"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *19|
 [fc]
 [vo_nat s="natu_nt0004"]
-[ns]夏都[nse]
-「ん？　あ、ああ。オレみたいに、バスタブに湯～張って[r]
-　入った方が気持ちいいぞ、そうしろ」[pcms]
+[ns]Natsu[nse]
+"Hm? Oh, yeah. You should fill the bathtub with hot water like I did[r]
+and get in, it feels good, do that."[pcms]
 
 *20|
 [fc]
-[ns]誠[nse]
-「……うん、わかった」[pcms]
+[ns]Makoto[nse]
+"...Yeah, got it."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *21|
 [fc]
-姉ちゃんは家族として僕を心配してくれているのに、[r]
-変な考えが頭の中から離れなかった。[pcms]
+Even though Onee-san is worried about me as family, I can't get these[r]
+strange thoughts out of my head.[pcms]
 
 *22|
 [fc]
-褐色の肌に白っぽいものがチラチラとするのが、[r]
-いつも以上に僕の股間を刺激している。[pcms]
+The glimpses of her tanned skin with white spots here and there are[r]
+stimulating my crotch more than usual.[pcms]
 
 *23|
 [fc]
-姉ちゃんとそんなこと出来るはず無いのに、[r]
-もう股間は完全に勃起して痛いくらいになっていた。[pcms]
+Even though there's no way anything could happen between Onee-san and[r]
+me, my crotch is fully erect and painfully so.[pcms]
 
 *24|
 [fc]
-僕はそれを悟られないようにバスルームへ向かおうとするけれど、[r]
-背中に姉ちゃんの視線を感じる。[pcms]
+I try to head to the bathroom without letting her realize that, but I[r]
+can feel Onee-san's gaze on my back.[pcms]
 
 *25|
 [fc]
-なんでもない風を装って、[r]
-僕はシャワールームに消えていった。[pcms]
+Pretending like nothing is wrong, I disappear into the shower room.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

@@ -281,7 +281,7 @@
 [eval exp="sf.bt_num_v_stop      = 19"]
 [eval exp="sf.bt_num_v_autowait  = 20"]
 
-;オフ状態ボタンの透過度。0～255で指定。透過させなくていいなら255で。
+;オフ状態ボタンの透過度。0255で指定。透過させなくていいなら255で。
 ;この透過度が適用されるのは、OFFボタン（cnf_off.png）のみです。
 [eval exp="sf.opa_offbt = 153"]
 
@@ -752,7 +752,7 @@
 [eval exp="sf.dialog_def_ShadowLevel = 204"]
 ;影の色（0xRRGGBB形式/色定数）
 [eval exp="sf.dialog_def_ShadowColor = '0x000000'"]
-;影の幅（0:シャープ～ぼける）
+;影の幅（0:シャープぼける）
 [eval exp="sf.dialog_def_ShadowWidth = 2"]
 ;影の位置のＸ座標（0:真下）
 [eval exp="sf.dialog_def_ShadowOffsetX = 3"]
@@ -1020,7 +1020,7 @@
 [eval exp="sf.bgm01_x  = tf.BGM_bt_x[0]"]
 [eval exp="sf.bgm01_y  = tf.BGM_bt_y[1]"]
 ;BGM 1個目ボタン ファイル名指定には、必ず前後にアポストロフィを付けてください
-;～nowボタンはスクリプトでファイル名生成するので通常ボタン名のみ指定でOKです。
+;nowボタンはスクリプトでファイル名生成するので通常ボタン名のみ指定でOKです。
 [eval exp="sf.bgm01_bt  = 'bgm01'"]
 ;BGM 1個目ogg ファイル名指定には、必ず前後にアポストロフィを付けてください
 [eval exp="sf.bgm01_ogg  = 'BGM01.ogg'"]

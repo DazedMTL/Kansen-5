@@ -21,13 +21,14 @@
 
 *1374|
 [fc]
-並んでいる黒服の男達が一斉に頭を下げる。[r]
-それに軽く挨拶を返しながら、美沙緒は正門のコンパネに向かった。[pcms]
+The men in black suits lined up all bow their heads in unison. As she[r]
+returns their greeting with a nod, Misao heads towards the control[r]
+panel at the main gate.[pcms]
 
 *1375|
 [fc]
-あくびをかみ殺し指先で目を擦りながら、コンパネを操作して[r]
-門を開いていく。[pcms]
+Suppressing a yawn and rubbing her eyes with her fingertips, she[r]
+operates the control panel to open the gate.[pcms]
 
 ;//★bg19c 越智家 正門・夜
 [bg storage="BG19c"][trans_c cross time=500]
@@ -37,7 +38,7 @@
 
 *1376|
 [fc]
-開いた門を見ながら美沙緒は何事か考え込んでいた。[pcms]
+As the gate opens, Misao seems lost in thought.[pcms]
 
 [bgm storage="BGM15"]
 ;//♪bgm15　シリアス：嫌疑：思考
@@ -45,22 +46,22 @@
 *1377|
 [fc]
 [vo_mis s="misao_st0001"]
-[ns]美沙緒[nse]
-（いったい誰が……あの施設に不正にアクセスしたのかしら。[r]
-　春先のと同じだわ。あの時の連中なのかしら……）[pcms]
+[ns]Misao[nse]
+(Who could it be... who accessed that facility unauthorized? It's just[r]
+like early spring. Could it be those people from that time...)[pcms]
 
 *1378|
 [fc]
 [vo_mis s="misao_st0002"]
-[ns]美沙緒[nse]
-（……おかげで徹夜の作業になったじゃない……。[r]
-　……でも、補給輸送船の運航とも符合してたし……。[r]
-　なんだか胸騒ぎがする……何か大事が起こらなければいいけど）[pcms]
+[ns]Misao[nse]
+(...thanks to that, I ended up working all night... But it did[r]
+coincide with the supply transport ship's schedule... I have a bad[r]
+feeling about this... I hope nothing serious happens.)[pcms]
 
 *1379|
 [fc]
-黒服達が見つめる中、美沙緒は考えに囚われ、[r]
-未だコンパネの前で立ち尽くしていた。[pcms]
+Under the watchful eyes of the men in black suits, Misao is still[r]
+caught up in her thoughts, standing in front of the control panel.[pcms]
 
 ;//■_軽トラの走る音
 [se buf=0 storage="seC022"]
@@ -70,28 +71,28 @@
 *1380|
 [fc]
 [vo_mis s="misao_st0003"]
-[ns]美沙緒[nse]
-「……あら？」[pcms]
+[ns]Misao[nse]
+"...Oh?"[pcms]
 
 *1381|
 [fc]
-軽トラが門に向かって走ってくる。美沙緒にとっては[r]
-見慣れた軽トラ。料理人の愼さんが運転しているはずだ。[pcms]
+A light truck is heading towards the gate. It's a familiar sight for[r]
+Misao; it should be driven by Mr. Shin, the cook.[pcms]
 
 *1382|
 [fc]
 [vo_mis s="misao_st0004"]
-[ns]美沙緒[nse]
-（市場からの帰りかしらね……）[pcms]
+[ns]Misao[nse]
+(Is he coming back from the market...)[pcms]
 
 *1383|
 [fc]
-お抱え料理人の愼さんは、新鮮な食材を手に入れるために、[r]
-毎早朝市場に出かける。[pcms]
+The household cook, Mr. Shin, goes to the market early every morning[r]
+to get fresh ingredients.[pcms]
 
 *1384|
 [fc]
-きっと、今日もその帰りなのだろう。[pcms]
+He must be on his way back today as well.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,1000>
@@ -106,125 +107,127 @@
 *1385|
 [fc]
 [vo_mis s="misao_st0005"]
-[ns]美沙緒[nse]
-「えっ？！」[pcms]
+[ns]Misao[nse]
+"Eh?!"[pcms]
 
 *1386|
 [fc]
-いつものように駐車場に向かうと思っていた美沙緒に向かって[r]
-愼さんの軽トラが突っ込んできた。[pcms]
+Instead of heading to the parking lot as usual, Mr. Shin's light truck[r]
+is heading straight for Misao.[pcms]
 
 *1387|
 [fc]
-正門近くの壁にぶつかり軽トラが止まる。[r]
-壁の一部がくずれ、軽トラの前部が少しつぶれた。[r]
-だが幸い美沙緒に怪我はない。[pcms]
+The light truck stops after hitting a wall near the main gate. Part of[r]
+the wall crumbles, and the front of the truck is slightly crushed.[r]
+Fortunately, Misao is unharmed.[pcms]
 
 [bgm storage="BGM04"]
 ;//♪bgm04　シリアスシーン：死
 
 *1388|
 [fc]
-[ns]愼さん[nse]
-「うう……」[pcms]
+[ns]Mr. Shin[nse]
+"Ugh..."[pcms]
 
 *1389|
 [fc]
-衝撃でエンジンが止まった軽トラから、愼さんが転がるように[r]
-出てくる。[r]
-その姿は、それほどの大事故とは思えないのに、血まみれだった。[pcms]
+Mr. Shin rolls out of the light truck, which has stopped due to the[r]
+impact. Despite not looking like a major accident, he is covered in[r]
+blood.[pcms]
 
 *1390|
 [fc]
 [vo_mis s="misao_st0006"]
-[ns]美沙緒[nse]
-「愼さんっ！　大丈夫？！」[pcms]
+[ns]Misao[nse]
+"Mr. Shin! Are you okay?!"[pcms]
 
 *1391|
 [fc]
-美沙緒が駆け寄ると、愼さんはその場に[ruby text="くずお"]頽れ、[r]
-何事かいいたげに美沙緒を見上げる。[pcms]
+As Misao rushes over, Mr. Shin collapses on the spot and looks up at[r]
+her as if trying to say something.[pcms]
 
 *1392|
 [fc]
-[ns]愼さん[nse]
-「お、お嬢さ……ま」[pcms]
+[ns]Mr. Shin[nse]
+"Miss..."[pcms]
 
 *1393|
 [fc]
 [vo_mis s="misao_st0007"]
-[ns]美沙緒[nse]
-「どうしたの！　その傷！　今の事故でとは思えないわ」[pcms]
+[ns]Misao[nse]
+"What happened to you! Those wounds! They don't seem like they're from[r]
+the accident just now."[pcms]
 
 *1394|
 [fc]
-愼さんの腕は、肉がえぐられ血がどくどくと溢れていた。[r]
-必死にもう片方の手で押さえているが意味を成さない。[pcms]
+Mr. Shin's arm is torn and blood is gushing out. He desperately tries[r]
+to hold it with his other hand, but it's futile.[pcms]
 
 *1395|
 [fc]
-[ns]愼さん[nse]
-「ふ、ふらふら～っと、馬鹿な野郎が車の前に出てきたんです。[r]
-　轢きはしなかったんですが……うっ……ううっ」[pcms]
+[ns]Mr. Shin[nse]
+"I was driving and suddenly, some idiot stumbled in front of the car.[r]
+I didn't hit him but... ugh... ugh."[pcms]
 
 *1396|
 [fc]
-傷が相当痛むのだろう、言葉を繋ごうとしているが、[r]
-顔が歪み舌が回らなくなっている。[pcms]
+The pain must be severe; he tries to continue speaking, but his face[r]
+contorts and he can't articulate his words.[pcms]
 
 *1397|
 [fc]
-[ns]愼さん[nse]
-「それで……ついカッとなって車を、降りてそいつを……[r]
-　どなりつけてやったら、いきなり噛みついてきて……ううっ」[pcms]
+[ns]Mr. Shin[nse]
+"And then... I got so angry that I got out of the car and started[r]
+yelling at him... and suddenly he bit me... ugh."[pcms]
 
 *1398|
 [fc]
 [vo_mis s="misao_st0008"]
-[ns]美沙緒[nse]
-「何ですって！」[pcms]
+[ns]Misao[nse]
+"What did you say!"[pcms]
 
 *1399|
 [fc]
-美沙緒の顔色が変わる。なぜなら愼さんが語る男の様子は、[r]
-動きといい、噛みついた事といい、感染者の特徴を如実に[r]
-表していると感じたからだ。[pcms]
+Misao's complexion changes. The behavior of the man Mr. Shin[r]
+describes, both his movements and the biting, seem to unmistakably[r]
+indicate the characteristics of an infected person.[pcms]
 
 *1400|
 [fc]
 [vo_mis s="misao_st0009"]
-[ns]美沙緒[nse]
-（まさか……でも、一昨日からなんだか町中が騒がしいし……）[pcms]
+[ns]Misao[nse]
+(Could it be... but then again, the town has been noisy since the day[r]
+before yesterday...)[pcms]
 
 *1401|
 [fc]
-[ns]愼さん[nse]
-「うっ……ううっ……」[pcms]
+[ns]Mr. Shin[nse]
+"Ugh... ugh..."[pcms]
 
 *1402|
 [fc]
-美沙緒は苦しむ愼さんの様子にハッとなり、声を上げた。[pcms]
+Misao is startled by Mr. Shin's suffering and raises her voice.[pcms]
 
 *1403|
 [fc]
 [vo_mis s="misao_st0010"]
-[ns]美沙緒[nse]
-「誰か！！　誰かーーっ！！」[pcms]
+[ns]Misao[nse]
+"Someone!! Anybody--!!"[pcms]
 
 *1404|
 [fc]
-振り返ったが、さっきまで居並んでいた黒服達の姿が見えない。[pcms]
+She turns around but can't see any of the black-suited men who were[r]
+there just a moment ago.[pcms]
 
 *1405|
 [fc]
-でも、その声を聞きつけたのか、あるいは黒服達が気を利かして[r]
-呼びに行ったのか、誰かがやってくる気配がした。[pcms]
+But perhaps they heard her or had gone to get help on their own, as[r]
+she senses someone approaching.[pcms]
 
 *1406|
 [fc]
-稽古をしていたのだろう。[r]
-袴姿の茜梨がバタバタと駆けつけてきた。[r]
-その後ろには、パジャマ姿の稼津央も見える。[pcms]
+Akari, likely having been practicing, arrives hurriedly in her hakama[r]
+outfit, followed by Kazuo in his pajamas.[pcms]
 
 ;//袴
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -232,56 +235,56 @@
 *1407|
 [fc]
 [vo_aka s="akari_st0001"]
-[ns]茜梨[nse]
-「お姉様？　どうしたんですか？　きゃっ！！　愼さんっ！！」[pcms]
+[ns]Akari[nse]
+"Sister? What happened? Kyah!! Mr. Shin!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1408|
 [fc]
 [vo_mis s="misao_st0011"]
-[ns]美沙緒[nse]
-「茜梨、すぐに救急箱を持って来てちょうだい」[pcms]
+[ns]Misao[nse]
+"Akari, please bring the first aid kit quickly."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1409|
 [fc]
 [vo_aka s="akari_st0002"]
-[ns]茜梨[nse]
-「は、はい」[pcms]
+[ns]Akari[nse]
+"Yes, right away."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1410|
 [fc]
-とって返す茜梨を見ながら美沙緒は携帯で１１９番を押す。[pcms]
+As Akari turns back, Misao dials 119 on her mobile phone.[pcms]
 
 *1411|
 [fc]
-しかし、電話の先は呼び出し音すらしない無音の状態だった。[pcms]
+However, there is only silence on the other end of the phone, not even[r]
+a dial tone.[pcms]
 
 *1412|
 [fc]
 [vo_mis s="misao_st0012"]
-[ns]美沙緒[nse]
-（何か……起こってるわ。本当に感染者が出ているのかも……。[r]
-　でも、愼さんはワクチンを接種しているから大丈夫なはず……）[pcms]
+[ns]Misao[nse]
+(Something's... happening. There might really be infected people[r]
+around... But Mr. Shin should be fine since he's been vaccinated...)[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sle"][ChrSetParts layer=5 chface="F2_kz15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1413|
 [fc]
-[ns]稼津央[nse]
-「…………」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1414|
 [fc]
-携帯を握りしめながら考えにふけっている美沙緒は、[r]
-冷たい光を宿した視線を投げかける稼津央には、[r]
-気が付いていなかった。[pcms]
+Misao, deep in thought while clutching her mobile phone, did not[r]
+notice Kazuo casting a cold gaze upon her.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

@@ -22,24 +22,23 @@
 
 *1368|
 [fc]
-[ns]誠[nse]
-「じゃ、３人揃ったことだし、[r]
-　僕たちもさっそくスタートしようか」[pcms]
+[ns]Makoto[nse]
+"Now that the three of us are here, let's get started right away."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1369|
 [fc]
-[ns]宗一郎[nse]
-「ラジャー！」[pcms]
+[ns]Souichirou[nse]
+"Roger that!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1370|
 [fc]
 [vo_tay s="taja_tj0001"]
-[ns]ターヤ[nse]
-「…………了解」[pcms]
+[ns]Tarja[nse]
+"...Understood."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -120,16 +119,16 @@
 
 *1371|
 [fc]
-そう言って僕たちは、イベントの参加登録のための列に並んだ。[pcms]
+With that, we lined up to register for the event.[pcms]
 
 *1372|
 [fc]
-今回、僕たちが参加するモンバスのイベントは、[r]
-このビーチがスタート地点になっていた。[pcms]
+The event we're participating in at Monbas starts right here on this[r]
+beach.[pcms]
 
 *1373|
 [fc]
-島内には４箇所、ポートが設置されているポイントがある。[pcms]
+There are four ports set up around the island.[pcms]
 
 ;//m:テキストの区切りを修正する
 
@@ -146,38 +145,38 @@
 
 *1374|
 [fc]
-大神島商店街。[pcms]
+Oogami Island Shopping District.[pcms]
 
 ;//★bg09a リゾートホテル外観・朝昼
 [bg storage="BG09a"][trans_c cross time=500]
 
 *1375|
 [fc]
-大神リゾートホテル。[pcms]
+Oogami Resort Hotel.[pcms]
 
 ;//★bg04a オートキャンプ場・朝昼
 [bg storage="BG04a"][trans_c cross time=500]
 
 *1376|
 [fc]
-キャンプ場公園。[pcms]
+Campground Park.[pcms]
 
 ;//★bg08a 大神神社・朝昼
 [bg storage="BG08a"][trans_c cross time=500]
 
 *1377|
 [fc]
-そして大神島神社の４箇所だ。[pcms]
+And the Oogami Island Shrine, making four locations in total.[pcms]
 
 *1378|
 [fc]
-それぞれのポートからは、個別にクエストがダウンロードできる。[pcms]
+From each port, you can download individual quests.[pcms]
 
 *1379|
 [fc]
-クエストをクリアすると『紋章』が手に入り、[r]
-４種類の紋章全てを揃えると、ビーチのポートで[r]
-ダウンロードできるクエストが手に入る……という具合だ。[pcms]
+Clearing a quest earns you an "emblem," and collecting all four types[r]
+of emblems allows you to access a quest that can be downloaded at the[r]
+beach port...[pcms]
 
 ;//★bg05a ビーチ（＆ライブフェス会場外観）・朝昼
 [bg storage="BG05a"][trans_c cross time=500]
@@ -189,204 +188,204 @@
 
 *1380|
 [fc]
-ビーチのポートでダウンロードしたクエストでは、[r]
-ドスギドライスという、ヒドラの強化型のモンスターと、[r]
-闘うことができる。[pcms]
+At the beach port, you can download a quest to fight a monster called[r]
+Dosugidoraisu, an enhanced type of Hydra.[pcms]
 
 *1381|
 [fc]
-このイベントのために用意されたモンスターだから、[r]
-このモンスターと闘えること自体が、すでにイベントの[r]
-景品みたいなものだとも言える。[pcms]
+This monster was prepared especially for the event, so just being able[r]
+to fight it is already like a prize of the event itself.[pcms]
 
 *1382|
 [fc]
-普通にゲームをプレイしていたのでは、まず手に入れることが[r]
-できない、レアな素材が取れるというもっぱらの噂だ。[pcms]
+It's rumored that you can get rare materials from it that you wouldn't[r]
+normally be able to obtain just by playing the game regularly.[pcms]
 
 *1383|
 [fc]
-しかし、それ以外にも主催者側は、このイベント自体に[r]
-タイムアタックの要素を盛り込んで、参加するプレイヤーたちの[r]
-競争心をあおる仕掛けを用意していた。[pcms]
+However, in addition to that, the organizers have also incorporated a[r]
+time attack element into the event itself to stir up the competitive[r]
+spirit of the participating players.[pcms]
 
 *1384|
 [fc]
-最終クエストをクリアしてスタッフに届け出た先着順で、[r]
-旅行券やアイテムチケット、非売品のグッズなんかが[r]
-貰えるそうだ。[pcms]
+The first players to clear the final quest and report to the staff[r]
+will receive prizes such as travel vouchers, item tickets, and[r]
+exclusive merchandise that isn't for sale.[pcms]
 
 *1385|
 [fc]
-それを聞いた僕とそーいちは、あらかじめ[r]
-レンタサイクルを押さえておいた。[pcms]
+Hearing this, Souichirou and I made sure to reserve rental bicycles in[r]
+advance.[pcms]
 
 *1386|
 [fc]
-もともと海水浴シーズンだということに加えて、ロックフェスが[r]
-同時期に開催されていることもあって、[r]
-貸自転車屋は大盛況だった。[pcms]
+On top of it being the beach season, there was also a rock festival[r]
+happening at the same time, so the bicycle rental shops were extremely[r]
+busy.[pcms]
 
 *1387|
 [fc]
-参加者の中にも、レンタサイクルが借りられずに、[r]
-泣く泣く本数の少ない島内のバスを[r]
-利用するしかない人も多いはずだ。[pcms]
+There must be many participants who couldn't rent bicycles and had no[r]
+choice but to use the island's infrequent bus service with tears in[r]
+their eyes.[pcms]
 
 *1388|
 [fc]
-それだけでも、僕たちの方が機動性では勝っているはず。[pcms]
+Even with that alone, we should have an advantage in terms of[r]
+mobility.[pcms]
 
 *1389|
 [fc]
-[ns]誠[nse]
-「そう言えば、ターヤさんも自転車で来たんだよね？」[pcms]
+[ns]Makoto[nse]
+"By the way, Tarja-san, you came by bicycle too, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1390|
 [fc]
 [vo_tay s="taja_tj0002"]
-[ns]ターヤ[nse]
-「うん。家から乗ってきた」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah. I rode here from home."[pcms]
 
 *1391|
 [fc]
-この格好のまま自転車で移動してきたんだとしたら、[r]
-相当人目を惹いたんじゃないかとは思ったけど[r]
-それは口に出さないでおいた。[pcms]
+I thought she must have attracted quite a bit of attention if she came[r]
+in her current outfit, but I decided not to mention it.[pcms]
 
 *1392|
 [fc]
-また機嫌を悪くされても困るし。[pcms]
+I didn't want to upset her mood again.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1393|
 [fc]
-そうこうするうちに、列が進んで僕らの登録する番になった。[pcms]
+While we were talking, the line moved forward and it was our turn to[r]
+register.[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta02"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_si_a"][ChrSetParts layer=4 chface="F1_so03a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1394|
 [fc]
-[ns]宗一郎[nse]
-「よし、登録も済んだし、それじゃ第一のポイントに[r]
-　移動開始だ、諸君」[pcms]
+[ns]Souichirou[nse]
+"Alright, registration is done. Now let's head to the first point,[r]
+everyone."[pcms]
 
 *1395|
 [fc]
-[ns]誠[nse]
-「狙うは特別仕様の[ruby text="ピーエースピー"][ch text="ＰＡＰ"]だな、やっぱり」[pcms]
+[ns]Makoto[nse]
+"Our target is the special PAP, right?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so31b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1396|
 [fc]
 [vo_tay s="taja_tj0003"]
-[ns]ターヤ[nse]
-「最初はどこに行くの？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Where are we going first?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1397|
 [fc]
-[ns]宗一郎[nse]
-「そりゃ、もちろんいちばん難易度の高いところからでしょう」[pcms]
+[ns]Souichirou[nse]
+"Of course, we'll start with the place with the highest difficulty[r]
+level."[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1398|
 [fc]
-[ns]誠[nse]
-「なんで？　普通は楽なところから[r]
-　回ろうと考えるんじゃないか？」[pcms]
+[ns]Makoto[nse]
+"Why? Wouldn't people normally think to start with the easier places?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1399|
 [fc]
-[ns]宗一郎[nse]
-「ちっちっちっ。分かってないなあ、このボーイは」[pcms]
+[ns]Souichirou[nse]
+"Tsk tsk tsk. You don't get it, boy."[pcms]
 
 *1400|
 [fc]
-宗一郎が人差し指を１本立てて左右にぴこぴこ振ると[r]
-これ見よがしに肩をすくめ、両手を上に向けた。[pcms]
+Souichirou raised his index finger and waggled it from side to side[r]
+conspicuously before shrugging his shoulders and raising both hands[r]
+upwards.[pcms]
 
 *1401|
 [fc]
-そういう行動は、英国紳士と言うよりは[r]
-アメリカ人がやりそうなポーズに思えるんだけど……。[pcms]
+That kind of behavior seems more like an American pose than something[r]
+an English gentleman would do...[pcms]
 
 *1402|
 [fc]
-話が妙な方向に脱線しても面倒くさそうだし[r]
-とりあえずは指摘しないでおこう。[pcms]
+I thought it would be troublesome if the conversation went off on a[r]
+strange tangent, so I decided not to point it out for now.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_a"][ChrSetParts layer=4 chface="F1_so02a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1403|
 [fc]
-[ns]宗一郎[nse]
-「リアルもゲーム同様に考えないと。ここで問題になるのは[r]
-　俺と誠の基本性能だよ」[pcms]
+[ns]Souichirou[nse]
+"You have to think about it like a game in real life too. The issue[r]
+here is our basic performancemine and Makoto's."[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta10"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1404|
 [fc]
 [vo_tay s="taja_tj0004"]
-[ns]ターヤ[nse]
-「どういう意味？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"What do you mean?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1405|
 [fc]
-[ns]宗一郎[nse]
-「俺たちの残存ＨＰと運動性能を考えた場合、近場から回ったら[r]
-　最後には間違いなく、神社に行き着く体力が[r]
-　足りなくなるだろう」[pcms]
+[ns]Souichirou[nse]
+"Considering our remaining HP and physical abilities, if we start from[r]
+nearby places, we'll definitely run out of energy to reach the shrine[r]
+at the end."[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1406|
 [fc]
 [vo_tay s="taja_tj0005"]
-[ns]ターヤ[nse]
-「要するに運動不足だから、いちばん大変そうなところから[r]
-　先に回りたい、ということね」[pcms]
+[ns]Tarja[nse]
+"So basically, you're out of shape and want to tackle the most[r]
+challenging places first."[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta02"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1407|
 [fc]
-[ns]宗一郎[nse]
-「そ、そうはっきり言われると、立つ瀬がないのですが……、[r]
-　まあ、そういうことです。では出発！」[pcms]
+[ns]Souichirou[nse]
+"Well, when you put it so bluntly, it's a bit embarrassing... but yes,[r]
+that's the plan. Let's depart!"[pcms]
 
 *1408|
 [fc]
-最後はなんだかグダグダになったけど、とりあえず僕ら３人は[r]
-最初の目的地、大神島神社を目指して移動を開始した。[pcms]
+In the end, it got a bit messy, but the three of us started moving[r]
+towards our first destination, the Oogamijima Shrine.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1409|
 [fc]
-………………………………………[pcms]
+...[pcms]
 
 *1410|
 [fc]
-………………………………[pcms]
+...[pcms]
 
 *1411|
 [fc]
-………………………[pcms]
+...[pcms]
 
 ;//m:神社は初回じゃないけど気分で入れておく
 ;//現在地MAP表示 ビーチ（＆ライブフェス会場外観）
@@ -410,132 +409,130 @@
 
 *1412|
 [fc]
-[ns]宗一郎[nse]
-「ひいっ……はあっ……ふうっ……へえっ……」[pcms]
+[ns]Souichirou[nse]
+"Hii...haa...phew...hee..."[pcms]
 
 ;//立ち無し
 
 *1413|
 [fc]
-[ns]誠[nse]
-「ぜ、ぜえっ……ぜえっ……ぜえっ……ぜえっ……」[pcms]
+[ns]Makoto[nse]
+"Ze...zee...zee...zee..."[pcms]
 
 *1414|
 [fc]
-よ……予想はしてたけど、実際に山の上にある神社まで[r]
-たどり着いた時には、僕もそーいちも青息吐息の状態だった。[pcms]
+As expected, by the time we reached the shrine at the top of the[r]
+mountain, both Souichirou and I were gasping for breath.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1415|
 [fc]
 [vo_tay s="taja_tj0006"]
-[ns]ターヤ[nse]
-「そんなに辛いかなあ……」[pcms]
+[ns]Tarja[nse]
+"Is it really that hard?"[pcms]
 
 *1416|
 [fc]
-ひとり涼しい顔をしているのはターヤさんだけ。[pcms]
+The only one with a cool expression was Tarja-san.[pcms]
 
 *1417|
 [fc]
-[ns]誠[nse]
-「いや……まあ……ある意味……予想通り……だけど……」[pcms]
+[ns]Makoto[nse]
+"No...well...in a sense...as expected..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1418|
 [fc]
-全身から汗をだらだらと流しながら、息も絶え絶えに[r]
-ようやく言葉を絞り出す。[pcms]
+While dripping sweat from all over, I finally managed to squeeze out[r]
+some words, breathless.[pcms]
 
 *1419|
 [fc]
-ターヤさんは新体操で鍛えられているとは言え、[r]
-つくづく基本性能の差を感じてしまう。[pcms]
+I couldn't help but feel the fundamental difference in our physical[r]
+capabilities, with Tarja-san being trained in rhythmic gymnastics.[pcms]
 
 *1420|
 [fc]
-ゲーム内でこれだけパラメータに差があれば[r]
-足手まといにも程があるので、とても[r]
-一緒にパーティは組めないだろう。[pcms]
+If there was such a difference in parameters within the game, it would[r]
+be too much of a burden to form a party together.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1421|
 [fc]
-そう考えれば、まだ現実で良かったかも……やめよう。[r]
-空しくなる。[pcms]
+Thinking about it, maybe it was still better in reality...let's stop.[r]
+It's disheartening.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so27a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1422|
 [fc]
-[ns]宗一郎[nse]
-「な……だから言っただろ……いちばん辛いところから[r]
-　回るべき……だって……ぶしゅーーーーっ……」[pcms]
+[ns]Souichirou[nse]
+"See...I told you...we should start with the hardest[r]
+part...because...bushu----..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1423|
 [fc]
-切れ切れにそんな台詞を口にしながら、最後にそーいちが[r]
-盛大な排気音を発した。[pcms]
+While saying such lines in fits and starts, Souichirou let out a grand[r]
+exhaust noise at the end.[pcms]
 
 *1424|
 [fc]
-そんな、どこかの弁が開いたみたいな音を立ててる人間に[r]
-汗まみれでドヤ顔されても返事に困る。[pcms]
+It's hard to respond when someone making noises like a valve has[r]
+opened is looking smug and covered in sweat.[pcms]
 
 *1425|
 [fc]
-身軽なデヴは、瞬発力はあるけど持久力はないという事が[r]
-図らずも証明された格好だ。[pcms]
+It seems that the nimble Dev has proven to have explosive power but no[r]
+stamina.[pcms]
 
 *1426|
 [fc]
-僕はまあ、スポーツや体を動かすこととはまるで無縁だから、[r]
-山の上まで自転車で向かう、という時点で[r]
-だいたいどういうことになるのか予想はついていたけど……。[pcms]
+I mean, I have absolutely nothing to do with sports or physical[r]
+activity, so I had an idea of what would happen when we headed up the[r]
+mountain by bike...[pcms]
 
 *1427|
 [fc]
-今回ばかりは、ほとほと自分が[r]
-インドアな人間なのだということを思い知らされた。[pcms]
+This time, I was painfully reminded of just how much of an indoor[r]
+person I am.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1428|
 [fc]
 [vo_tay s="taja_tj0007"]
-[ns]ターヤ[nse]
-「そろそろ大丈夫？　もう動ける？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Are you okay now? Can you move yet?"[pcms]
 
 *1429|
 [fc]
-[ns]誠[nse]
-「あ、ああ、どうにか大丈夫……かな」[pcms]
+[ns]Makoto[nse]
+"Ah, yeah, somehow I'm okay...I think."[pcms]
 
 *1430|
 [fc]
-僕とそーいちは、ターヤさんに先導される形で[r]
-神社の前に自転車を留めると、へろへろとその後を[r]
-ついていった。[pcms]
+Guided by Tarja-san, Souichirou and I parked our bikes in front of the[r]
+shrine and followed her weakly.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1431|
 [fc]
-……………………………………[pcms]
+...[pcms]
 
 *1432|
 [fc]
-……………………………[pcms]
+...[pcms]
 
 *1433|
 [fc]
-……………………[pcms]
+...[pcms]
 
 ;//★bg08a 大神神社・朝昼
 [bg storage="BG08a"][trans_c cross time=500]
@@ -545,175 +542,171 @@
 
 *1434|
 [fc]
-神社の境内は、むせ返りそうな蝉時雨に満ちていた。[pcms]
+The shrine precincts were filled with an overwhelming chorus of[r]
+cicadas.[pcms]
 
 *1435|
 [fc]
-どこの神社もそうだけど、神域とされている空間に[r]
-生えている木は、どこか神聖な感じがする。[pcms]
+The trees growing in the sacred space of any shrine always seem to[r]
+have a divine presence.[pcms]
 
 *1436|
 [fc]
-天を衝いてまっすぐに伸びる木々が[r]
-そう感じさせるんだろうか。[pcms]
+I wonder if it's the trees reaching straight up to the sky that make[r]
+it feel that way.[pcms]
 
 *1437|
 [fc]
-その中でも、ひときわ巨大な一本の木を指さして[r]
-ターヤさんが言う。[pcms]
+Pointing at one particularly huge tree, Tarja-san said,[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1438|
 [fc]
 [vo_tay s="taja_tj0008"]
-[ns]ターヤ[nse]
-「ほら、これ。これが天然記念物の[ruby text="おおくす"][ch text="大楠"]。[r]
-　樹齢２６００年の古木」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Look, this one. This is the natural monument, the Great Camphor Tree.[r]
+It's an ancient tree that's 2,600 years old."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so02b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1439|
 [fc]
-[ns]宗一郎[nse]
-「悠久の時間を感じさせますなあ……」[pcms]
+[ns]Souichirou[nse]
+"It makes you feel the passage of eternal time..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1440|
 [fc]
-今から２６００年前って言うと……ええと、紀元前だから……[r]
-日本はまだ弥生時代のはず。[pcms]
+If we go back 2,600 years from now...let's see, that's before[r]
+Christ... Japan would still be in the Yayoi period.[pcms]
 
 *1441|
 [fc]
-そう考えると、この木がどれほど長い時間を生きてきたのかを[r]
-改めて感じて、何だか畏敬の念すら覚える。[pcms]
+Thinking about it that way, I'm struck anew by how long this tree has[r]
+lived and even feel a sense of awe.[pcms]
 
 *1442|
 [fc]
-人間の短い一生と比べると、それは永遠と[r]
-言っていいほどの長い年月だ。[pcms]
+Compared to the short lifespan of humans, it's almost like an[r]
+eternity.[pcms]
 
 *1443|
 [fc]
-その長い年月の間に、この木はここで、どれほど多くの[r]
-人の営みを見てきたのだろう。[pcms]
+During that long time, I wonder how much human activity this tree has[r]
+witnessed here.[pcms]
 
 *1444|
 [fc]
-蝉しぐれに混じって、どこかからお神楽の音色が聞こえてくる[r]
-境内で、僕は柄にもなくそんなことを考えた。[pcms]
+In the precincts where the sound of Kagura music can be heard amidst[r]
+the cicada chorus, I found myself uncharacteristically contemplating[r]
+such things.[pcms]
 
 *1445|
 [fc]
-なぜだろう……この神社にははじめて来たはずなのに、[r]
-なんだか以前にも、この大楠が生えている光景を[r]
-目にしたような気がする。[pcms]
+I wonder why...even though it's my first visit to this shrine, I feel[r]
+like I've seen this scene with the Great Camphor Tree before.[pcms]
 
 *1445a|
 [fc]
-[ruby text="デジャヴュ"][ch text="既視感"]というやつだろうか……？[pcms]
+Could it be dj vu...?[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1446|
 [fc]
 [vo_tay s="taja_tj0009"]
-[ns]ターヤ[nse]
-「これ、なにかしら？」[pcms]
+[ns]Tarja[nse]
+"What's this?"[pcms]
 
 *1447|
 [fc]
-本殿の近くで、ターヤさんが声をあげる。[pcms]
+"Near the main shrine, Ms. Tarja raised her voice."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1448|
 [fc]
-見ると、手水場の横に、神社には明らかに場違いと思われる[r]
-妙な物体があった。[pcms]
+Looking over, next to the water basin, there was a strange object that[r]
+seemed clearly out of place at a shrine.[pcms]
 
 *1449|
 [fc]
-ポストをふた回りほど小さくしたような形の白いボックスが[r]
-周囲の光景との違和感をものともせずに設置されている。[pcms]
+A white box, shaped like a postbox but about half the size, was[r]
+installed without any regard for the mismatch with its surroundings.[pcms]
 
 *1450|
 [fc]
-すでにその前には、イベント参加者の列ができていた。[pcms]
+Already, a line of event participants had formed in front of it.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so04w"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1451|
 [fc]
-[ns]宗一郎[nse]
-「ははあ、これがこの神社に設置されている[r]
-　ネットワーク端末のようですな」[pcms]
+[ns]Souichirou[nse]
+"Haha, it seems this is a network terminal installed at this shrine."[pcms]
 
 *1452|
 [fc]
-ボックスの後ろから繁みに向かって伸びるケーブルを見て[r]
-そーいちがそう言った。[pcms]
+Looking at the cable stretching from the back of the box into the[r]
+thicket, Souichirou made that observation.[pcms]
 
 *1453|
 [fc]
-[ns]誠[nse]
-「なるほどね。それならこの周囲の風景との[r]
-　ミスマッチも納得だね」[pcms]
+[ns]Makoto[nse]
+"I see. That explains the mismatch with the surrounding scenery."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1454|
 [fc]
-僕たちも、データをダウンロードするべく、端末の前に[r]
-できていた列の最後尾に並ぶ。[pcms]
+We too lined up at the end of the queue in front of the terminal to[r]
+download data.[pcms]
 
 *1455|
 [fc]
-でも、その人の列の中に何人か咳き込んでいる人がいた。[r]
-ここでもか……夏風邪でも流行ってるのかな……。[pcms]
+But within that line, there were several people coughing. Even here...[r]
+I wonder if there's a summer cold going around...[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1456|
 [fc]
 [vo_tay s="taja_tj0010"]
-[ns]ターヤ[nse]
-「ちょっと、あの人たち……大丈夫かな？」[pcms]
+[ns]Tarja[nse]
+"Hey, are those people... okay?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1457|
 [fc]
-ターヤさんがそっと指さした方には、データを[r]
-ダウンロードし終えたカップルと思しき男女がいたが[r]
-なんだか様子がおかしい。[pcms]
+Ms. Tarja quietly pointed towards a couple who seemed to have finished[r]
+downloading their data, but they looked somewhat off.[pcms]
 
 *1458|
 [fc]
-どちらも具合が悪いのか、なんだか足下がおぼつかずに[r]
-ふらふらとした足取りで歩いている。[pcms]
+Both seemed unwell, walking with unsteady steps as if they couldn't[r]
+quite find their footing.[pcms]
 
 *1459|
 [fc]
-[ns]宗一郎[nse]
-「かなり気温が高いですから、熱中症かも知れませんな。[r]
-　我々も水分補給には気をつけないと」[pcms]
+[ns]Souichirou[nse]
+"The temperature is quite high; it might be heatstroke. We also need[r]
+to be careful to stay hydrated."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1460|
 [fc]
 [vo_tay s="taja_tj0011"]
-[ns]ターヤ[nse]
-「わたしは水筒を持ってきてるから。[r]
-　この衣装は、肌の露出が多いけど風通しが悪いから」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I've brought a water bottle. This costume doesn't expose much skin[r]
+but it's not very breathable."[pcms]
 
 *1461|
 [fc]
-その辺の準備はぬかりないってことか。[r]
-さすが有名コスプレイヤー。[pcms]
+She's well-prepared in that regard. As expected of a famous cosplayer.[pcms]
 
 ;//---------------------------------------------
 ;//アスペクトスイッチ表示ここまで
@@ -724,82 +717,81 @@
 
 *1462|
 [fc]
-[ns]宗一郎[nse]
-「……なんだか面妖な人が近づいてきたな」[pcms]
+[ns]Souichirou[nse]
+"...It seems a rather peculiar person is approaching us."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1463|
 [fc]
-そーいちが肉に埋もれた顎をしゃくった方向を見ると、[r]
-明らかに妙な出で立ちの人が、僕たちに向かって近づいてきた。[pcms]
+Souichirou glanced in the direction indicated by his jutting chin, and[r]
+indeed, a person in an odd outfit was approaching us.[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_mi2"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1464|
 [fc]
-着ているものは白い着物に緋袴という巫女装束なんだけど、[r]
-顔を布で隠して、木の枝で作った鹿の角みたいな髪飾りを[r]
-頭の左右に立てている。[pcms]
+They were dressed in a white kimono with scarlet hakama, like a shrine[r]
+maiden's attire, but their face was covered with cloth and they had[r]
+hair ornaments that looked like deer antlers made from tree branches[r]
+on either side of their head.[pcms]
 
 *1465|
 [fc]
-おまけに、その角の間には、白黒の曲玉が組み合わさった[r]
-陰陽マークが飾られている。[pcms]
+In addition, between those antlers was an ornament featuring a black[r]
+and white yin-yang symbol.[pcms]
 
 *1466|
 [fc]
 [vo_sat s="sato_tj0001"]
 [ns]？？？[nse]
-「おお……聖域に導かれし者たちよ……」[pcms]
+"Oh... those led to the sanctuary..."[pcms]
 
 ;//怜
 
 *1467|
 [fc]
-そのデタラメな衣装の巫女さんが、[r]
-僕たちに向かって話しかけてきた。[pcms]
+The shrine maiden in that nonsensical outfit began to speak to us.[pcms]
 
 *1468|
 [fc]
 [vo_sat s="sato_tj0002"]
-[ns]聖域の巫女[nse]
-「私は聖域の巫女……この地の神を祀る者。[r]
-　導かれし者たちよ。諍うことなく順番を守り、[r]
-　神の賜る情報を受け取るがよいぞ」[pcms]
+[ns]Shrine Maiden of the Sanctuary[nse]
+"I am the shrine maiden of the sanctuary... one who serves the deity[r]
+of this land. Those who are led here, wait your turn without[r]
+quarreling and receive the information bestowed by the gods."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos0"][ChrSetParts layer=5 chface="F2_ta10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1469|
 [fc]
 [vo_tay s="taja_tj0012"]
-[ns]ターヤ[nse]
-「…………怜？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...Sato?"[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_mi2"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1470|
 [fc]
 [vo_sat s="sato_tj0003"]
-[ns]聖域の巫女[nse]
-「いえいえ、私は聖域の巫女なるぞ」[pcms]
+[ns]Shrine Maiden of the Sanctuary[nse]
+"No, no, I am indeed the shrine maiden of the sanctuary."[pcms]
 
 *1471|
 [fc]
-いえいえ、どう聞いても村上さんの声です。[pcms]
+No matter how you listen, it's definitely Ms. Murakami's voice.[pcms]
 
 *1472|
 [fc]
 [vo_sat s="sato_tj0004"]
-[ns]聖域の巫女[nse]
-「なお、手に入れた情報はこの地で遊ぶことなかれ。[r]
-　ここは聖域ゆえ、別の場所に移動してから[r]
-　プレイするのだ」[pcms]
+[ns]Shrine Maiden of the Sanctuary[nse]
+"Furthermore, do not play with the information you have obtained here.[r]
+This is a sanctuary; move to another location before you play."[pcms]
 
 *1473|
 [fc]
-村上さん、最初はまだ格好つけてたけど、最後の方は[r]
-プレイとか言っちゃってるし……。[pcms]
+Ms. Murakami was trying to act cool at first, but by the end, she[r]
+slipped up and said 'play'...[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta03"][ChrSetXY layer=3 x=0 y=0]
@@ -809,52 +801,51 @@
 *1474|
 [fc]
 [vo_tay s="taja_tj0013"]
-[ns]ターヤ[nse]
-「そっか。怜の実家だもんね、ここ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Right. This is Sato's family home after all."[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1475|
 [fc]
-[ns]誠[nse]
-「村上さんの言っていた実家の手伝いって、[r]
-　このことだったんだ」[pcms]
+[ns]Makoto[nse]
+"So this is what Ms. Murakami meant by helping out at home."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1476|
 [fc]
-[ns]宗一郎[nse]
-「やはり神社の娘さんは、家のお手伝いだと[r]
-　巫女装束を着るのですな。良くお似合いです」[pcms]
+[ns]Souichirou[nse]
+"As expected, a shrine maiden's daughter wears her shrine maiden[r]
+attire when helping out at home. It suits you well."[pcms]
 
 *1477|
 [fc]
 [vo_sat s="sato_tj0005"]
-[ns]聖域の巫女[nse]
-「はて？　何のことを言っているのだ？[r]
-　私は聖域の巫女。人違いではないのか？」[pcms]
+[ns]Shrine Maiden of the Sanctuary[nse]
+"Huh? What are you talking about? I am the shrine maiden of the[r]
+sanctuary. Are you not mistaken?"[pcms]
 
 *1478|
 [fc]
-すっかり正体はバレているのに、村上さんはあくまで自分は[r]
-『聖域の巫女』だと言い張るつもりらしい。[pcms]
+Despite her identity being completely obvious, Ms. Murakami seems[r]
+intent on insisting that she is the "shrine maiden of the sanctuary."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1479|
 [fc]
-そうこうするうちに、列が進んで僕たちがデータを[r]
-ダウンロードする順番がやって来た。[pcms]
+While we were talking, the line moved forward and it was our turn to[r]
+download data.[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_mi2"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1480|
 [fc]
 [vo_sat s="sato_tj0006"]
-[ns]聖域の巫女[nse]
-「導かれし者たちよ。汝らがご神託を受ける番が来たぞ。[r]
-　手にした端末を接続して、あとは画面の表示に従うのだ」[pcms]
+[ns]Shrine Maiden of the Sanctuary[nse]
+"Those who are led here, your time to receive divine oracle has come.[r]
+Connect your device and then follow the instructions on the screen."[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0]
@@ -863,72 +854,71 @@
 
 *1481|
 [fc]
-[ns]宗一郎[nse]
-「このご神体は、訪れる者に試練を与えるのですな」[pcms]
+[ns]Souichirou[nse]
+"This divine body bestows trials upon its visitors."[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta10"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1482|
 [fc]
 [vo_tay s="taja_tj0014"]
-[ns]ターヤ[nse]
-「怜はもうプレイしたの？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Has Sato already played?"[pcms]
 
 *1483|
 [fc]
 [vo_sat s="sato_tj0007"]
-[ns]聖域の巫女[nse]
-「私は聖域を管理する者ゆえ、まことに残念だがこのたびの[r]
-　試練には参加できないのだ。他のご神体からの情報取得も[r]
-　ままならぬし、管理規約でも禁じられている」[pcms]
+[ns]Shrine Maiden of the Sanctuary[nse]
+"As one who manages this sanctuary, I regret that I cannot participate[r]
+in this trial. I am also unable to obtain information from other[r]
+divine bodies due to management regulations and prohibitions."[pcms]
 
 *1484|
 [fc]
-[ns]誠[nse]
-「そっか、それは残念だね」[pcms]
+[ns]Makoto[nse]
+"That's too bad."[pcms]
 
 *1485|
 [fc]
 [vo_sat s="sato_tj0008"]
-[ns]聖域の巫女[nse]
-「案ずるには及ばず。その代わりに運営側より非売品のグッズを[r]
-　すでに頂いておりますゆえ」[pcms]
+[ns]Shrine Maiden of the Sanctuary[nse]
+"Worry not. Instead, I have already received non-saleable goods from[r]
+the organizers."[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1486|
 [fc]
-この口調のままでも、なんとなく会話が成立するんだなあ。[r]
-ちょっと面白い。[pcms]
+Even with this manner of speaking, somehow our conversation makes[r]
+sense. It's kind of amusing.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_a"][ChrSetParts layer=4 chface="F1_so02a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1487|
 [fc]
-[ns]宗一郎[nse]
-「村上さん、どこかクエストをプレイするのに[r]
-　お勧めのポイントなどありますかな？」[pcms]
+[ns]Souichirou[nse]
+"Ms. Murakami, do you have any recommended spots to play quests?"[pcms]
 
 *1488|
 [fc]
 [vo_sat s="sato_tj0009"]
-[ns]聖域の巫女[nse]
-「ふむ、ならば町に降りたのち『干物茶屋』に向かうがよいぞ。[r]
-　あそこならば落ち着いて遊べるだろうし、お茶を飲みながら[r]
-　乾物も食べられる」[pcms]
+[ns]Shrine Maiden of the Sanctuary[nse]
+"Hmm, then after you descend into town, you should head to the 'Dried[r]
+Food Tea House'. There you can play in peace, and enjoy tea and dried[r]
+foods."[pcms]
 
 *1489|
 [fc]
-[ns]誠[nse]
-「『干物茶屋』ね、了解。どうもありがとう」[pcms]
+[ns]Makoto[nse]
+"'Dried Food Tea House', got it. Thank you very much."[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta20"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1490|
 [fc]
 [vo_tay s="taja_tj0015"]
-[ns]ターヤ[nse]
-「怜もお手伝い、頑張ってね」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Sato, do your best to help out too."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="sa2_mi2"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -936,14 +926,15 @@
 *1491|
 [fc]
 [vo_sat s="sato_tj0010"]
-[ns]聖域の巫女[nse]
-「聖域を訪れる者たちに道を指し示すのが私の仕事。[r]
-　礼には及びません。さあ、行くのです、冒険者たちよ！」[pcms]
+[ns]Shrine Maiden of the Sanctuary[nse]
+"It is my duty to guide those who visit this sanctuary. There is no[r]
+need for thanks. Now go forth, adventurers!"[pcms]
 
 *1492|
 [fc]
-最後まで『聖域の巫女』のポーズを崩さない村上さんと別れ、[r]
-僕たちは教えてもらった『干物茶屋』へと向かうことにした。[pcms]
+Having maintained her "Shrine Maiden of the Sanctuary" pose to the[r]
+end, we parted ways with Ms. Murakami and decided to head to the[r]
+'Dried Food Tea House' she recommended.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -954,15 +945,15 @@
 
 *1493|
 [fc]
-………………………………………[pcms]
+...[pcms]
 
 *1494|
 [fc]
-………………………………[pcms]
+...[pcms]
 
 *1495|
 [fc]
-………………………[pcms]
+...[pcms]
 
 ;//ここはモンバス用の背景とキャラになる
 
@@ -991,24 +982,25 @@
 
 *1496|
 [fc]
-[ns]イノシシ型のモンスター[nse]
-「ヴゥルオオゥッ！！」[pcms]
+[ns]Boar-type Monster[nse]
+"Vuur Oooh!!"[pcms]
 
 ;//m:ブルボアで表記いいのかな？とりあえず回避しておく
 
 *1497|
 [fc]
-手負いになったイノシシ型のモンスターが、闇雲に突進してくる。[pcms]
+The wounded boar-type monster charges blindly.[pcms]
 
 *1498|
 [fc]
 [ns]Ma-Kun.S[nse]
-「引き続き援護するから、前衛よろしく！」[pcms]
+"I'll continue to provide support, so front line, please do your[r]
+best!"[pcms]
 
 *1499|
 [fc]
-速度のあるタイプのモンスターと見て、速射が効くタイプの[r]
-弓で攻撃してたのが功を奏したらしい。[pcms]
+It seems that attacking with a rapid-firing type of bow was effective[r]
+against this fast-moving type of monster.[pcms]
 
 ;//★monbBG_02a モンバス
 [evcg storage="monbBG_02a"][trans_c cross time=300]
@@ -1017,7 +1009,7 @@
 *1500|
 [fc]
 [ns]Fatty.G[nse]
-「そっち行った！」[pcms]
+"It went that way!"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_taja"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1025,7 +1017,7 @@
 [fc]
 [vo_tay s="taja_tj0016"]
 [ns]Taryan[nse]
-「ＯＫ」[pcms]
+"OK."[pcms]
 
 ;mm ターヤ消去
 [move layer=5 path="(-500,0,0,)" time=250][wm]
@@ -1034,14 +1026,14 @@
 
 *1502|
 [fc]
-モンスターがTaryanさんに向かっていく。[pcms]
+The monster heads towards Taryan-san.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty"][ChrSetXY layer=5 x=-110 y=130][trans_c cross time=150]
 
 *1503|
 [fc]
-そーいちのキャラ、Fatty.Gはモンスターの背後に回り込んで、[r]
-次の攻撃までの待ち時間を稼いでいた。[pcms]
+Souichirou's character, Fatty.G, circles behind the monster, buying[r]
+time until the next attack.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_behemos"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1067,8 +1059,8 @@
 
 *1504|
 [fc]
-Taryanさんのキャラがモンスターの横に回って飛び上がり、[r]
-モンスターの頭に連続切りをお見舞いする。[pcms]
+Taryan-san's character leaps to the side of the monster and delivers a[r]
+series of slashes to its head.[pcms]
 
 ;//■イベントCG　ブルボア
 [evcg storage="monb01q"][trans_c cross time=300]
@@ -1078,8 +1070,8 @@ Taryanさんのキャラがモンスターの横に回って飛び上がり、[r]
 
 *1505|
 [fc]
-[ns]イノシシ型のモンスター[nse]
-「グゥアアアゥゥウアアォオオォォォンンン！！」[pcms]
+[ns]Boar-type Monster[nse]
+"Guuaaaauuuuaaoooonnn!!"[pcms]
 
 [se buf=0 storage="seE008"]
 ;//♪SE地鳴りの音（極大）
@@ -1094,27 +1086,26 @@ Taryanさんのキャラがモンスターの横に回って飛び上がり、[r]
 
 *1506|
 [fc]
-Taryanさんの攻撃を受けたイノシシ型のモンスターが、[r]
-断末魔の鳴き声とともに、どうと横倒しに倒れて[r]
-そのまま動かなくなった。[pcms]
+The boar-type monster, struck by Taryan-san's attack, collapses[r]
+sideways with a death cry and stops moving.[pcms]
 
 *1507|
 [fc]
 [ns]Ma-Kun.S[nse]
-「え……もう終わり？」[pcms]
+"Eh... is it over already?"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty"][ChrSetXY layer=5 x=-110 y=130][trans_c cross time=150]
 
 *1508|
 [fc]
 [ns]Fatty.G[nse]
-「お、俺の見せ場が……」[pcms]
+"Oh, my moment to shine..."[pcms]
 
 *1509|
 [fc]
-そーいちが嘆くのも無理はない。[r]
-せっかくの重装備での攻撃も、わずか１、２度で敵が沈んだんじゃ[r]
-達成感よりもやり残した感の方が大きいだろう。[pcms]
+Souichirou's disappointment is understandable. If an enemy goes down[r]
+after just one or two hits, the feeling of having something left[r]
+undone is probably greater than the sense of achievement.[pcms]
 
 ;//モンバスアイキャッチ　ブルボア
 [sysbt_meswin clear]
@@ -1141,51 +1132,50 @@ Taryanさんの攻撃を受けたイノシシ型のモンスターが、[r]
 *1510|
 [fc]
 [vo_tay s="taja_tj0017"]
-[ns]ターヤ[nse]
-「なんだか、とってもあっけなかったね」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Somehow, that was very anticlimactic."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so13b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1511|
 [fc]
-[ns]宗一郎[nse]
-「ひょっとして、個別のクエストはどれもこの程度の[r]
-　難易度なのかも知れませんな」[pcms]
+[ns]Souichirou[nse]
+"Perhaps, the difficulty level of each individual quest is about this[r]
+much."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1512|
 [fc]
-確かに、プレイしてみた感触として、パーティで倒すほどの[r]
-強さのモンスターだとはちょっと思えなかった。[pcms]
+Indeed, from the feel of playing it, it didn't seem like a monster[r]
+that required a party to defeat.[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta01"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so13b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1513|
 [fc]
-[ns]誠[nse]
-「考えてみたら、ひとりでこのイベントに参加する人だって[r]
-　大勢いるだろうから、その辺の強さのバランスは[r]
-　考えてるのかも」[pcms]
+[ns]Makoto[nse]
+"Thinking about it, there must be many people who participate in this[r]
+event alone, so maybe they've considered the balance of difficulty in[r]
+that regard."[pcms]
 
 *1514|
 [fc]
-[ns]宗一郎[nse]
-「むしろ、シングルプレイの参加者の方が多いと考えるほうが[r]
-　自然かも知れないな。ちと方針変更といきましょう」[pcms]
+[ns]Souichirou[nse]
+"Rather, it might be more natural to assume that there are more single[r]
+players participating. Let's change our strategy a bit."[pcms]
 
 *1515|
 [fc]
-どうやら、この調子だと残る３つのクエストも、この程度の[r]
-難易度だと思って問題はないだろう。[r]
-だとしたら、わざわざ３人がまとまって移動する必要はない。[pcms]
+It seems that if things continue at this rate, the remaining three[r]
+quests will likely be of similar difficulty. If that's the case,[r]
+there's no need for all three of us to move together.[pcms]
 
 *1516|
 [fc]
-僕たちは時間短縮のため、残る３つの紋章クエストが[r]
-ダウンロードできるポートに、それぞれが[r]
-単独で向かうことにした。[pcms]
+We decided to split up and head to the ports where we could download[r]
+the remaining three crest quests individually in order to save time.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

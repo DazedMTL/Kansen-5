@@ -37,49 +37,42 @@
 
 *2718|
 [fc]
-でも……。[r]
-僕は、もう限界だ……。[pcms]
+But... I'm at my limit...[pcms]
 
 *2719|
 [fc]
-みんなの柔らかそうに揺れるオッパイや、[r]
-お尻を眺めていると……。[pcms]
+When I look at everyone's soft, swaying breasts and butts...[pcms]
 
 *2720|
 [fc]
-姉ちゃんの、髪の毛から漂ういい匂いや、[r]
-時々腕に当たるオッパイの感覚が、[r]
-僕の頭の中を完全にショートさせてしまった。[pcms]
+The scent of Onee-san's hair and the occasional touch of her breasts[r]
+against my arm completely short-circuited my brain.[pcms]
 
 *2721|
 [fc]
-[ns]誠[nse]
-「あああぁぁあぁっ！！　ねっ！　ねえちゃあぁあん！[r]
-　ぼっ、ぼく、もうだめだあぁっ！　がま、ん、できないっ！[r]
-　うあぁああっ！！」[pcms]
+[ns]Makoto[nse]
+"Aaaaahhh!! Hey! Onee-san! I-I can't take it anymore! I can't hold[r]
+back! Uwaaaahhh!!"[pcms]
 
 *2722|
 [fc]
-僕の頭の中はもう、[r]
-女の子の身体の事しか考えられ無くなっていた。[pcms]
+My mind could only think about girls' bodies.[pcms]
 
 ;//★forest02c 森２・夜
 [bg storage="forest02c"][trans_c cross time=500]
 
 *2723|
 [fc]
-[ns]誠[nse]
-「ねっ……ねえちゃんっ……ねえちゃんの、[r]
-　お、おま……おまんこに、いれさせてえぇっ！」[pcms]
+[ns]Makoto[nse]
+"Hey... Onee-san... Let me put it in your pussy, please!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na14t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2724|
 [fc]
 [vo_nat s="natu0488"]
-[ns]夏都[nse]
-「ま、誠っ！？　止めろっ！　誠ぉおっ！[r]
-　落ち着け！　こ、コノヤロっ！　あっ……！」[pcms]
+[ns]Natsu[nse]
+"Ma-Makoto!? Stop it! Makotooo! Calm down! You jerk! Ah...!"[pcms]
 
 [chara_int][trans_c lr time=300]
 
@@ -88,8 +81,7 @@
 
 *2725|
 [fc]
-こんな風になる前は、[r]
-絶対に腕力じゃ勝てなかった。[pcms]
+Before this happened, I never could have won against her in strength.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -100,150 +92,136 @@
 
 *2726|
 [fc]
-だけど……。[pcms]
+But now...[pcms]
 
 *2727|
 [fc]
-頭の中が、女の子で一杯になっている今の僕は、[r]
-鍛えられて、引き締まった……だけど女らしい柔らかさを残した[r]
-姉ちゃんを強引に押さえ込んでいた。[pcms]
+With my mind filled with thoughts of girls, I was able to forcefully[r]
+pin down Onee-san, who was trained and toned... yet retained a[r]
+feminine softness.[pcms]
 
 [sysbt_meswin clear]
 
 ;//bgm14.ogg
 [bgm storage="BGM14"]
 
-;//■イベントCG　natu_H017(5k)（ビキニ+コスプレの夏都、立ちバック）
+;//■イベントCG　natu_H017(5k)（ビキニ+コスプレの夏、立ちバック）
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 [evcg storage="natu_H017a"][trans_c cross time=300]
 [sysbt_meswin]
 
 *2728|
 [fc]
-[ns]誠[nse]
-「もっ、もう、がまんなんて、できないよっ！[r]
-　チンコ、ばくはつしそうだっ！　ね、ねえちゃん！[r]
-　ねえちゃんのなかで、バクハツさせてよっ！」[pcms]
+[ns]Makoto[nse]
+"I can't hold back anymore! My cock feels like it's going to explode![r]
+Onee-san! Let me explode inside you!"[pcms]
 
 *2729|
 [fc]
 [vo_nat s="natu0489"]
-[ns]夏都[nse]
-「ぎっ……あっ……！　ば、バカ野郎っ！　何考えてんだっ！[r]
-　逃げようって言った……あっ！　ああぁぁっ！」[pcms]
+[ns]Natsu[nse]
+"Guh... Ah...! You idiot! What are you thinking? I told you to run[r]
+away... Ah! Aaahhh!"[pcms]
 
 *2730|
 [fc]
-姉ちゃんの身体……。[r]
-褐色で、柔らかくて、いい匂いのする身体……。[pcms]
+Onee-san's body... Tanned, soft, and smelling so good...[pcms]
 
 *2731|
 [fc]
-ずっと、家であんな格好をして、[r]
-僕を挑発していた姉ちゃん。[pcms]
+She always provoked me at home with that look.[pcms]
 
 *2732|
 [fc]
-今……その姉ちゃんとセックスして、[r]
-中出しするんだ！　そうしないと頭がおかしくなりそうだ！[pcms]
+Now... I'm going to have sex with Onee-san and cum inside her! If I[r]
+don't, I feel like I'll go crazy![pcms]
 
 *2733|
 [fc]
-[ns]誠[nse]
-「まっ、マンコに……いれるんだっ！　ねえちゃんの、[r]
-　マンコにいいっ！！」[pcms]
+[ns]Makoto[nse]
+"I'm going to put it in... in your pussy, Onee-san!"[pcms]
 
 *2734|
 [fc]
 [vo_nat s="natu0490"]
-[ns]夏都[nse]
-「止めろおおっ！　落ち着け、バカっ！[r]
-　ひぎっ！？　あっ……あぎいぃいっ！　お、押しつけるなぁっ！[r]
-　なんでそんなにしてんだよっ！　こらぁあっ！」[pcms]
+[ns]Natsu[nse]
+"Stop it! Calm down, you fool! Higii!? Ah... Agyiiii! Don't push[r]
+against me! Why are you doing this?! Hey!"[pcms]
 
 *2735|
 [fc]
-僕と姉ちゃんが組み合っているのを聞きつけたのか、[r]
-越智さん達も、[r]
-僕みたいにチンコを大きくした男に群がられていた。[pcms]
+Perhaps alerted by the sound of me and Onee-san grappling, Ochi-san[r]
+and the others were also surrounded by men with their dicks as hard as[r]
+mine.[pcms]
 
 *2736|
 [fc]
 [vo_tay s="taja0239"]
-[ns]ターヤ[nse]
-「きゃああああああああぁあっ！　何するのっ！[r]
-　離してぇっ！」[pcms]
+[ns]Tarja[nse]
+"Kyaaaaaaaah! What are you doing? Let go of me!"[pcms]
 
 *2737|
 [fc]
-[ns]感染者Ａ[nse]
-「かっ、か、かわい、いいいっ！[r]
-　この、こは、お゛れ゛が、もら、もらったぁぁっ！」[pcms]
+[ns]Infected Person A[nse]
+"Cu-cuteee! This girl, I'll take her!"[pcms]
 
 *2738|
 [fc]
 [vo_aka s="akari0814"]
-[ns]茜梨[nse]
-「ターヤさんっ！　みんなっ！　きゃあっ！[r]
-　やだっ！　こないでっ！　止めてぇっ！」[pcms]
+[ns]Akari[nse]
+"Tarja-san! Everyone! Kyaaah! No! Don't come near me! Stop it!"[pcms]
 
 *2739|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛は゛あぁあっ……！　お、おれ゛は、こっち゛ぃ～」[pcms]
+[ns]Infected Person B[nse]
+"Ahahaah...! I-I'll take this one~"[pcms]
 
 *2740|
 [fc]
 [vo_stk s="satuki0341"]
-[ns]彩月[nse]
-「やだああぁあっ！　誠くんっ！　みんなぁっ！[r]
-　あっ……きゃあああああああああああっッ！[r]
-　やっ、やめっ……あぁぁぁああああぁっ！！」[pcms]
+[ns]Satsuki[nse]
+"No, noooo! Makoto-kun! Everyone! Ah... Kyaaaaaaaaaah! Stop...[r]
+Aaaaaahhh!!"[pcms]
 
 *2741|
 [fc]
-[ns]宗一郎[nse]
-「お前ら……離せよ！　やめろっ……やめろぉおっ！[r]
-　ぎぁああああああああぁっ！！[r]
-　ぎゃあっ！　ああああああああぁぁあっ！！！」[pcms]
+[ns]Souichirou[nse]
+"You guys... let go! Stop it... Stop it! Gyaaaahhh!! Gyah![r]
+Aaaaaaahhh!!!"[pcms]
 
 *2742|
 [fc]
-[ns]感染者男Ｃ[nse]
-「がっ……はあ゛あぁ゛！　でっ、でふ゛は、[r]
-　あ、あぶら゛み、おお、く゛て……だめ゛だぁ……」[pcms]
+[ns]Infected Man C[nse]
+"Gah... Haaaah! The, the flesh is so soft... can't handle it..."[pcms]
 
 *2743|
 [fc]
-[ns]宗一郎[nse]
-「がふっ……あっ……あ……ま、まご……ど……あ、[r]
-　あがぁああああああぁああぁあっ！！」[pcms]
+[ns]Souichirou[nse]
+"Gafuuh... Ah... Ah... Ma-ma crotch... Ah, Agaaaaaaahhh!!"[pcms]
 
 *2744|
 [fc]
-道路をうろついていた奴らも、[r]
-僕みたいに我慢の限界に来ていたんだろう。[pcms]
+The guys wandering the streets must have reached their limits just[r]
+like me.[pcms]
 
 *2745|
 [fc]
-姉ちゃんに入れたあとのお楽しみにと思っていた[r]
-越智さん達は変な男達に取り囲まれて行く。[pcms]
+I had been saving Ochi-san and the others for after I was done with[r]
+Onee-san, but now they were surrounded by strange men.[pcms]
 
 *2746|
 [fc]
-[ns]誠[nse]
-「そーいち？　そーいちー？[r]
-　みんなー？　どこ、いったー？　あれぇ……？」[pcms]
+[ns]Makoto[nse]
+"Souichi? Souichi? Everyone? Where did you go? Huh...?"[pcms]
 
 *2747|
 [fc]
-そして、沢山の男達に身体を引きずられ、[r]
-あっと言う間にみんなの声は小さくなって、[r]
-周りに出来た人垣の中に消えていった。[pcms]
+And then, dragged away by many men, everyone's voices quickly faded[r]
+away into the crowd that had formed around them.[pcms]
 
 *MEMORIES_START
 
-;//■イベントCG　natu_H017(5k)（ビキニ+コスプレの夏都、立ちバック）
+;//■イベントCG　natu_H017(5k)（ビキニ+コスプレの夏、立ちバック）
 [evcg storage="natu_H017a"][trans_c cross time=300]
 
 ;システムボタン＆ウィンドウ表示
@@ -251,57 +229,52 @@
 
 *2748|
 [fc]
-[ns]誠[nse]
-「ま、まあ、いいやぁ……ねえちゃんと、するからさ！[r]
-　なかだし、いっぱいさせてよ、ねえちゃんっ！」[pcms]
+[ns]Makoto[nse]
+"Well, it doesn't matter... I'm going to do it with Onee-san! Let me[r]
+cum inside a lot, Onee-san!"[pcms]
 
 *2749|
 [fc]
 [vo_nat s="natu0491"]
-[ns]夏都[nse]
-「何言ってやがんだ……完全にイカれちまって……！[r]
-　そーいちやみんなが、ヤられちまうんだぞ！[r]
-　目覚ませバカ野郎！　誠っ！　やめろおっ！」[pcms]
+[ns]Natsu[nse]
+"What are you saying... You've completely lost it...! Souichi and the[r]
+others are being attacked! Wake up you idiot! Makoto! Stop it!"[pcms]
 
 *2750|
 [fc]
-[ns]誠[nse]
-「やめろって……なんで……？　ぼく、もうがまんできないって、[r]
-　いってるでしょ！　ぼくのチンコ、ばくはつしちゃうってば！[r]
-　だから、ねえちゃんのマンコにいれるんだよ！」[pcms]
+[ns]Makoto[nse]
+"Stop it? Why...? I'm telling you, I can't hold back anymore! My dick[r]
+is going to explode! That's why I'm going to put it in Onee-san's[r]
+pussy!"[pcms]
 
 *2751|
 [fc]
 [vo_nat s="natu0492"]
-[ns]夏都[nse]
-「誠……テメぇ……あっ……ぎいいっ！！　お、押しつけるなっ！[r]
-　むっ……無理だっ！　止めろっ！　あがあぁあっ！[r]
-　いっ……痛いいいぃっ！！！　あぁぁあっっ！！」[pcms]
+[ns]Natsu[nse]
+"Makoto... You bastard... Ah... Gyiii!! Don't push against me! It's[r]
+impossible! Stop it! Agaaaaahh! It hurts so much!!! Aaaahhh!!"[pcms]
 
 *2752|
 [fc]
-姉ちゃんの柔らかなマン肉が僕のチンコを挟んでいる。[r]
-なのに、そこから先には、なかなか進まなくて、[r]
-ただ、肉の割れ目にチンコの先を擦りつけるだけになっていた。[pcms]
+Onee-san's soft pussy flesh is squeezing my dick. Yet, I can't seem to[r]
+push any further; all I can do is rub the tip of my dick against the[r]
+slit of her flesh.[pcms]
 
 *2753|
 [fc]
-どうして……はいんないんだよ！[r]
-僕は姉ちゃんのオマンコに入れなきゃならないのに！[pcms]
+Why won't it go in?! I need to put it in Onee-san's pussy![pcms]
 
 *2754|
 [fc]
-[ns]誠[nse]
-「やめろっていわれても、むりだよっ！[r]
-　ぼくはもうげんかいなんだ！　たすけてくれるんでしょ！？[r]
-　だったら……なかだしさせてよ！　ねえちゃん！」[pcms]
+[ns]Makoto[nse]
+"Even if you tell me to stop, I can't! I've reached my limit! You're[r]
+going to help me, right!? Then let me cum inside! Onee-san!"[pcms]
 
 *2755|
 [fc]
 [vo_nat s="natu0493"]
-[ns]夏都[nse]
-「何言って……あっ……あがああぁっ！！[r]
-　ぎっ……ぎぁあああああああああぁぁぁっ！！！！」[pcms]
+[ns]Natsu[nse]
+"What are you saying... Ah... Agaaaaahh!! Guh... Gyaahhhhhhhhh!!!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -311,76 +284,69 @@
 
 *2756|
 [fc]
-[ns]誠[nse]
-「あ……あ～……はいったぁ……きつ、きつだぁっ！[r]
-　ねえちゃんのマンコ、きっついいいいっ！」[pcms]
+[ns]Makoto[nse]
+"Ah... Ahh... It's in... It's tight! Onee-san's pussy is so tight!"[pcms]
 
 ;//se_sex02.ogg(LOOP)
 [se buf=1 storage="se_sex02" loop=true]
 
 *2757|
 [fc]
-とっくに我慢の限界を超えていた僕は、[r]
-張り裂けそうなほど大きくなったチンコを、[r]
-折れてもかまわないと、姉ちゃんのマンコに押し込んだ。[pcms]
+Having long surpassed my limit, I pushed my dick, swollen to the point[r]
+of bursting, into Onee-san's pussy as if I didn't care if it broke.[pcms]
 
 [evcg storage="natu_H017c"][trans_c cross time=300]
 
 *2758|
 [fc]
 [vo_nat s="natu0494"]
-[ns]夏都[nse]
-「んっ……ぎぃいぃいっ！！　あがあぁああぁあっ！！」[pcms]
+[ns]Natsu[nse]
+"Nngh... Gyiii!! Agaaaaahh!!"[pcms]
 
 *2759|
 [fc]
-[ns]誠[nse]
-「ねっ、ねえちゃんがわるいんだっ！　ぼくを、[r]
-　ずっと、そのオッパイとかでゆうわくして……！[r]
-　ねてるときも、ぼくにオマンコみせたりして！」[pcms]
+[ns]Makoto[nse]
+"It's all Onee-san's fault! You've been tempting me all this time with[r]
+those breasts...! Even when you're sleeping, you show me your pussy!"[pcms]
 
 *2760|
 [fc]
-[ns]誠[nse]
-「それで、やめろなんて……きくわけないだろっ！[r]
-　あぁっ！　オマンコのなかが、チンコがけずられるみたい！[r]
-　あつくて、ぜんぶつつまれてっ！」[pcms]
+[ns]Makoto[nse]
+"And now you tell me to stop... There's no way I can listen! Ahh! The[r]
+inside of your pussy feels like it's shaving my cock! It's so hot, and[r]
+it's squeezing me all over!"[pcms]
 
 *2761|
 [fc]
-おかしいな……。[r]
-僕のチンコはこんなにガチガチになってるのに、[r]
-どうして、姉ちゃんのオマンコは濡れてないんだ？[pcms]
+It's strange... My dick is so hard, so why isn't Onee-san's pussy wet?[pcms]
 
 *2762|
 [fc]
-こんな筈はないんだ！[r]
-僕が気持ち良いのなら、姉ちゃんだって気持ちいいはずなんだ！[pcms]
+It can't be like this! If I'm feeling good, Onee-san should be feeling[r]
+good too![pcms]
 
 [evcg storage="natu_H017b"][trans_c cross time=300]
 
 *2763|
 [fc]
 [vo_nat s="natu0495"]
-[ns]夏都[nse]
-「ぎぃッ……！　オメェ……なに……言ってるのか分かって……！[r]
-　あぎぃああっ！　抜けっ！　ぬけぇぇっ！　痛いいいっ！[r]
-　おっ……おがぁあっ！！」[pcms]
+[ns]Natsu[nse]
+"Gyih...! You... do you even understand what you're saying...![r]
+Agiiiaahh! Pull out! Pull ouuut! It hurts!! Ogh... Ogaaaahh!!"[pcms]
 
 [evcg storage="natu_H017c"][trans_c cross time=300]
 
 *2764|
 [fc]
-[ns]感染者男Ｅ[nse]
-「おー……こ、このみの、おんなぁ……、それに……、[r]
-　かわいい、おとこだなぁ……おっ、おれも、[r]
-　まぜて、くれよ……なぁ～……」[pcms]
+[ns]Infected Man E[nse]
+"Oh-... This woman, and... such a cute boy... Oh, let me join in[r]
+too... please..."[pcms]
 
 *2765|
 [fc]
-フラフラと寄ってきた男が身体をピタリとくっつけて、[r]
-姉ちゃんのオマンコに、僕の倍はありそうなチンコを押し当て、[r]
-強引にねじ込んだ。[pcms]
+A staggering man came close, pressing his body against us, and pushed[r]
+his dick, which seemed twice as big as mine, against Onee-san's pussy[r]
+and forcefully twisted it inside.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -391,151 +357,142 @@
 *2766|
 [fc]
 [vo_nat s="natu0496"]
-[ns]夏都[nse]
-「お、おい……よせっ！　よせぇっ！！　何考えて……あっ！[r]
-　あぁぁああああああああぁあっ！！！[r]
-　ぎゃああああああああああああああああぁぁあっ！！！」[pcms]
+[ns]Natsu[nse]
+"Hey... stop it! Stop it!! What are you thinking... Ah![r]
+Aaaaaaaaahhhhhhhhhhh!! Gyaaaaaaaaaaaaaaaaaaaaahhh!!!"[pcms]
 
 *2767|
 [fc]
-姉ちゃんのオマンコは、僕ともう一人のチンコを銜え込んだ。[pcms]
+Onee-san's pussy was now taking in both my dick and another man's.[pcms]
 
 *2768|
 [fc]
-よっぽど気持ちがいいのか、姉ちゃんは白目を剥いて、[r]
-口をパクパクさせていた。[pcms]
+Maybe it felt too good, because Onee-san was rolling her eyes back,[r]
+opening and closing her mouth.[pcms]
 
 [evcg storage="natu_H017f"][trans_c cross time=300]
 
 *2769|
 [fc]
 [vo_nat s="natu0497"]
-[ns]夏都[nse]
-「あっ……あがぁ……あ……ああ……」[pcms]
+[ns]Natsu[nse]
+"Ah... Agaaah... Ah... Aaah..."[pcms]
 
 *2770|
 [fc]
-[ns]感染者男Ｅ[nse]
-「あ、あんたの、あいて……な、なか、なか……、[r]
-　ぐあい、いいなぁっ！　いい、マンコだなっ！[r]
-　そ、それに……アンタ、けっこう……か、かわいい……」[pcms]
+[ns]Infected Man E[nse]
+"Ah, your partner... inside, inside... feels so good! Such a nice[r]
+pussy! And you... you're quite cute..."[pcms]
 
 *2771|
 [fc]
-[ns]誠[nse]
-「なっ、なにいってんの……それより、アンタがいれたせいで……[r]
-　ねえちゃんのオマンコ、ギッチギチ……キツすぎて……、[r]
-　こんなの、も、もたないっ……！」[pcms]
+[ns]Makoto[nse]
+"What are you talking about... Because of you pushing yours in...[r]
+Onee-san's pussy is too tight... It's too much... I can't hold on any[r]
+longer...!"[pcms]
 
 *2772|
 [fc]
-ただでさえ狭いオマンコに、僕のと、[r]
-強引に割り込んできた男のチンコが二本も入って、[r]
-三人それぞれが、それぞれを圧迫している状態になっていた。[pcms]
+Already tight pussy was now filled with my dick and the one from the[r]
+man who forced his way in, each of us pressing against each other.[pcms]
 
 *2773|
 [fc]
-そのせいで、僕ももう一人の男も限界が近いのか、[r]
-おしっこをするときみたいに、身体を震わせ始めた。[pcms]
+Because of that, both the other man and I felt like we were nearing[r]
+our limits, our bodies starting to shake like when we pee.[pcms]
 
 *2774|
 [fc]
-それは、姉ちゃんも同じ。[r]
-気持ち良すぎて気絶している筈なのに、[r]
-大きなお尻を震わせて、変な声で喘ぎ始めた。[pcms]
+It was the same for Onee-san. Even though she should be unconscious[r]
+from too much pleasure, she started moaning with strange voices,[r]
+shaking her big butt.[pcms]
 
 [evcg storage="natu_H017g"][trans_c cross time=300]
 
 *2775|
 [fc]
 [vo_nat s="natu0498"]
-[ns]夏都[nse]
-「おっ……おおぉ……くる、しいっ……お腹……裂けるっ……、[r]
-　あ、あぁあ……身体が熱いぃぃっ！　ああぁっ！[r]
-　あっ……ぎぃいっ……んがあっっ！」[pcms]
+[ns]Natsu[nse]
+"Ohh... Ooohh... It's painful... My stomach feels like it's going to[r]
+split open... Ah, aahh... My body is so hot! Aaahh! Ah... Gyiii...[r]
+Ngaahhh!"[pcms]
 
 *2776|
 [fc]
 [vo_nat s="natu0499"]
-[ns]夏都[nse]
-「あっ……ひぎぃっ……あっ……あがぁっ！」[pcms]
+[ns]Natsu[nse]
+"Ah... Higyihh... Ah... Agaaahh!"[pcms]
 
 *2777|
 [fc]
-[ns]感染者男Ｅ[nse]
-「しっ、しかし、このおんな……いい、かっこしてるぜぇっ！[r]
-　ビキニに、はだの、いろっ……これで、お、オイルぬってたら、[r]
-　さい、こうだったのになぁっ！」[pcms]
+[ns]Infected Man E[nse]
+"But man, this woman... she's got a nice figure! In a bikini, with[r]
+that skin color... If only she was oiled up, it would have been[r]
+perfect!"[pcms]
 
 *2778|
 [fc]
-[ns]誠[nse]
-「オイルっ！　あぁ……ね、ねえちゃんのからだに、[r]
-　オイル……あぁ……いいっ！　それ、いいっ！」[pcms]
+[ns]Makoto[nse]
+"Oil! Ahh... Oil on Onee-san's body... Ahh... That's good! That's a[r]
+great idea!"[pcms]
 
 *2779|
 [fc]
-男の言った一言は、僕の心とチンコに火を付け、[r]
-一気に燃え広がって、快楽を求める動きを加速させた。[pcms]
+The man's single comment ignited a fire in both my heart and my dick,[r]
+spreading rapidly and accelerating my movements in search of pleasure.[pcms]
 
 *2780|
 [fc]
-[ns]誠[nse]
-「あっ……あぁっ！　で、でそうになってきたっ！[r]
-　がまんじる……いっぱいあふれて、アンタのとこすれて……！[r]
-　ねえちゃんのなかで、こすれて、せーしでそうだっ！」[pcms]
+[ns]Makoto[nse]
+"Ah... Ahh! I'm going to cum soon! My pre-cum is overflowing, rubbing[r]
+against yours... Inside Onee-san, rubbing together, I'm going to cum!"[pcms]
 
 *2781|
 [fc]
-[ns]感染者男Ｅ[nse]
-「お、おれも、こんなの、もたねえよ……、[r]
-　にほんざしなんて、うまれて、はじめてだし……、[r]
-　このおんなのマンコ……きもちよすぎんだよ！」[pcms]
+[ns]Infected Man E[nse]
+"I can't hold on either... This is my first time experiencing Japanese[r]
+hospitality... This woman's pussy feels too good!"[pcms]
 
 *2782|
 [fc]
-情けないと思いつつも、[r]
-入り口や奧がまるでチンコを絞るみたいな動きをする姉ちゃんの[r]
-マンコのせいで、僕達は我慢の限界を感じていた。[pcms]
+Despite feeling pathetic, the entrance and depths of Onee-san's pussy[r]
+were squeezing like they were milking our dicks, and we were both[r]
+feeling our limits.[pcms]
 
 *2783|
 [fc]
-今ここで出しちゃってもまだまだ出せそうだし、[r]
-何より、もう我慢なんて出来なそうだ。[pcms]
+It seems like I could still cum even if I did it now, and more[r]
+importantly, I don't think I can hold back any longer.[pcms]
 
 *2784|
 [fc]
-もう少し、姉ちゃんの中を感じていたかったけど……。[pcms]
+I wanted to feel more of Onee-san inside me but...[pcms]
 
 *2785|
 [fc]
-[ns]誠[nse]
-「あ……あああああああっ！[r]
-　でっ、でるっ！　でるでるううっ！！　ぼく、[r]
-　ねえちゃんのオマンコになかだしするうっ！　ああぁあっ！」[pcms]
+[ns]Makoto[nse]
+"Ah... Aaaaaaaaahhh! I'm cumming! I'm cumming inside Onee-san's pussy![r]
+Aaaahhh!"[pcms]
 
 *2786|
 [fc]
-[ns]感染者男Ｅ[nse]
-「おれも、もうむりだっ！　おとこの、きみのかおも、かわいいし[r]
-　おんなのマンコもきっつきつで……もうだめだあっ！[r]
-　でるうぅ～！　うおおおおっ！」[pcms]
+[ns]Infected Man E[nse]
+"I can't take it anymore either! Your cute face and this tight pussy[r]
+are too much for me... I'm cumming too! Uoooooh!"[pcms]
 
 *2787|
 [fc]
-僕はあまりの気持ち良さのせいで全身の力が抜け、[r]
-変な顔をしながら、[r]
-姉ちゃんの中にありったけの精液をブチ蒔けた。[pcms]
+Due to the overwhelming pleasure, all strength left my body and I made[r]
+a strange face as I sprayed all my semen inside Onee-san.[pcms]
 
 [evcg storage="natu_H017f"][trans_c cross time=300]
 
 *2788|
 [fc]
 [vo_nat s="natu0500"]
-[ns]夏都[nse]
-「ひっ……ひぁあああああああぁっ！！　裂けるっ！[r]
-　だめっ……ああぁっ！！　あがっ……が……あああああぁッ！[r]
-　や、やだ……あ……があぁ……」[pcms]
+[ns]Natsu[nse]
+"Hiih... Hiaaaaaaaaah!! It's tearing me apart! Nooo... Aaahhh!![r]
+Agaahh... Gaaahhhhhh! No, noo... Ahh... Gaaah..."[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -554,51 +511,48 @@
 *2789|
 [fc]
 [vo_nat s="natu0501"]
-[ns]夏都[nse]
-「お、おお……お、あぁ……あが……あ……」[pcms]
+[ns]Natsu[nse]
+"Ohh... Oohh... Ohh... Aaah..."[pcms]
 
 [evcg storage="natu_H017i"][trans_c cross time=300]
 
 *2790|
 [fc]
-僕ともう一人の男は、ほぼ同時に、姉ちゃんのお腹の中に[r]
-激しく射精し、二本のチンコがねじ込まれたオマンコの隙間からは[r]
-大量の精液が溢れだしていた。[pcms]
+The other man and I ejaculated violently into Onee-san's belly at[r]
+almost the same time, and from the gaps of the pussy stuffed with two[r]
+dicks, a large amount of semen overflowed.[pcms]
 
 *2791|
 [fc]
-[ns]誠[nse]
-「あれ、ねえちゃん、くちから……あわ、ふいてる。[r]
-　きもちよかった？　ねえ……ねえってば！　ねえちゃん？」[pcms]
+[ns]Makoto[nse]
+"Hey, Onee-san, you're foaming at the mouth... Did it feel good?[r]
+Hey... Hey! Onee-san?"[pcms]
 
 *2792|
 [fc]
-[ns]感染者男Ｅ[nse]
-「あぁ、だ、だめだ、このマンコ……もう、き、きぜつ、[r]
-　してるぞ……。なあ、き、きみ……お、おれと、[r]
-　い、いっぱつ、ど、どうだ……」[pcms]
+[ns]Infected Man E[nse]
+"Ah, no good, this pussy is already breaking down. Hey, you... how[r]
+about one round with me..."[pcms]
 
 *2793|
 [fc]
-グッタリとして動かない姉ちゃんにチンコを入れたまま、[r]
-男は僕に色目を使い出した。[pcms]
+The man with his dick still inside the motionless Onee-san started[r]
+making eyes at me.[pcms]
 
 *2794|
 [fc]
-だけど、僕にはそんな趣味は全くない。[r]
-それよりも、越智さんやターヤさん、[r]
-それに南先輩のオマンコに入れなきゃならないんだ。[pcms]
+But I have absolutely no interest in that. Instead, I need to put it[r]
+in Ochi-san's pussy, Tarja-san's, and Senior Minami's.[pcms]
 
 *2795|
 [fc]
-[ns]誠[nse]
-「どいてくれよ……きもち、わるいなあ……。[r]
-　どけってばっ！」[pcms]
+[ns]Makoto[nse]
+"Move aside... You're making me feel sick. Get out of the way!"[pcms]
 
 *2796|
 [fc]
-[ns]感染者男Ｅ[nse]
-「あ……ああ……」[pcms]
+[ns]Infected Man E[nse]
+"Ah... Aaah..."[pcms]
 
 
 ;//●_SE　どさ
@@ -610,13 +564,14 @@
 
 *2797|
 [fc]
-僕は、すり寄ってくる男と、[r]
-押さえ込んでいた姉ちゃんの身体を同時に突き放した。[pcms]
+I pushed away both the man who was coming onto me and Onee-san who I[r]
+had been holding down.[pcms]
 
 *2798|
 [fc]
-そして……一緒にいた三人の中の誰かに中だししようと、[r]
-沢山の人が楽しげな声を上げる方へと足を向けた。[pcms]
+And then... I turned towards the direction where many people were[r]
+raising their voices in excitement, thinking of cumming inside one of[r]
+the three girls I was with.[pcms]
 
 ;//■イベントCG　akari_H023(5k)
 [evcg storage="akari_H023a"][trans_c cross time=300]
@@ -625,269 +580,252 @@
 
 *2799|
 [fc]
-[ns]感染者男Ａ[nse]
-「あぁ……しろ、す゛くみ゛ずってぇ……いい゛よな゛ぁ……」[pcms]
+[ns]Infected Man A[nse]
+"Ahh... it's so tight and wet... feels so good..."[pcms]
 
 *2800|
 [fc]
-[ns]感染者男Ｂ[nse]
-「く、くわえろぉお……しゃぶってくれよお……！[r]
-　お、おいしいんだぞおっ、おれの、チンポはよおっ！[r]
-　ほらっ……ほらぁっ！」[pcms]
+[ns]Infected Man B[nse]
+"Suck it... suck it for me...! My dick is delicious, you know! Come[r]
+on... come on!"[pcms]
 
 *2801|
 [fc]
 [vo_aka s="akari0815"]
-[ns]茜梨[nse]
-「イヤですっ！　やだあああああぁっ！[r]
-　あぁ……も、もう、いやぁあっ！[r]
-　お願い……もう、やめてぇっ！」[pcms]
+[ns]Akari[nse]
+"No, please! I don't want this! Ahh... no more, please... Please[r]
+stop!"[pcms]
 
 *2802|
 [fc]
-[ns]誠[nse]
-「あぁ……」[pcms]
+[ns]Makoto[nse]
+"Ahh..."[pcms]
 
 *2803|
 [fc]
-人だかりを掻き分け、騒ぎの中心にたどり着くと、[r]
-そこでは、白いスクール水着を着た越智さんが男に囲まれ、[r]
-弱々しい悲鳴を上げていた。[pcms]
+As I pushed through the crowd and reached the center of the commotion,[r]
+I saw Ochi-san surrounded by men in a white school swimsuit, letting[r]
+out feeble screams.[pcms]
 
 *2804|
 [fc]
-越智さんは男の“モノ”を、おいしそうに銜え込んでいる。[pcms]
+Ochi-san had a man's "thing" in her mouth, sucking on it as if it were[r]
+delicious.[pcms]
 
 [evcg storage="akari_H023b"][trans_c cross time=300]
 
 *2805|
 [fc]
 [vo_aka s="akari0816"]
-[ns]茜梨[nse]
-「やっ……はぁっ！　ダメっ……いやっ……」[pcms]
+[ns]Akari[nse]
+"No... Ahh! Stop... I don't want this..."[pcms]
 
 *2806|
 [fc]
-その姿を見て、僕の心はヤスリで削られる様な感覚に襲われた。[pcms]
+Seeing her like that, my heart felt as if it was being scraped with a[r]
+file.[pcms]
 
 *2807|
 [fc]
-[ns]誠[nse]
-「あぁ……あぁあああ……」[pcms]
+[ns]Makoto[nse]
+"Ahh... Ahhhhhh..."[pcms]
 
 *2808|
 [fc]
-僕の越智さんが、別の男に……。[r]
-それに、あんなのじゃ……僕はどうしたらいいんだよ！[r]
-僕が越智さんを一番に犯す筈だったのに！[pcms]
+My Ochi-san is being taken by another man... And with that thing...[r]
+What am I supposed to do now! I was supposed to be the first one to[r]
+fuck Ochi-san![pcms]
 
 *2809|
 [fc]
-[ns]誠[nse]
-「ちっ……ちっきしょおおっ！　僕のモノなんだぞ！[r]
-　僕の越智さんなんだぞっ！！」[pcms]
+[ns]Makoto[nse]
+"Damn it... Damn it all! She's mine! Ochi-san is mine!!"[pcms]
 
 *2810|
 [fc]
-僕は、犯されている越智さんに向かって駆けだしていた。[pcms]
+I started running towards Ochi-san, who was being violated.[pcms]
 
 *2811|
 [fc]
 [vo_aka s="akari0817"]
-[ns]茜梨[nse]
-「なっ、まー君先輩！　助けてくださいっ！　いやぁあっ！[r]
-　離してっ！　離してぇぇっ！！」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai, please help me! Noooo! Let go of me! Let go!!"[pcms]
 
 *2812|
 [fc]
-[ns]感染者男Ａ[nse]
-「げ、げんき゛、い゛い゛なぁ！　すっ、スポーツしょ、[r]
-　し゛ょう゛じょってや、やつ゛か゛ぁ～？」[pcms]
+[ns]Infected Man A[nse]
+"She's so lively, isn't she? This sporty girl, she's a good one,[r]
+huh~?"[pcms]
 
 *2813|
 [fc]
-[ns]感染者男Ｂ[nse]
-「いっ、いいか、げん……くわ、えろおおっ！[r]
-　そらぁっ！」[pcms]
+[ns]Infected Man B[nse]
+"Hey, come on... suck it! There you go!"[pcms]
 
 *2814|
 [fc]
 [vo_aka s="akari0818"]
-[ns]茜梨[nse]
-「んっ……うぶううっ！？　ぐっ……ぐぼっ！　ぶぁっ！[r]
-　んぶっ……べっ……あぶっううっ！　げぼっ……。[r]
-　んぶううっう！　あぶううっ……」[pcms]
+[ns]Akari[nse]
+"Mmm... Ughh!? Gulp... Gobble! Blah! Mmmph... Spit... Ughh! Gag...[r]
+Mmmphh!"[pcms]
 
 [evcg storage="akari_H023a"][trans_c cross time=300]
 
 *2815|
 [fc]
-二人の男は、僕の事なんか気にもせずに、[r]
-茜梨さんの口とオマンコを犯し始めた。[pcms]
+The two men didn't care about me at all and started violating Akari's[r]
+mouth and pussy.[pcms]
 
 *2816|
 [fc]
-[ns]誠[nse]
-「どっ……どけよっ！[r]
-　僕だって、越智さんとセックスしたいんだぞ！[r]
-　ちくしょおおっ！　どけったらっ！」[pcms]
+[ns]Makoto[nse]
+"Move it... Get out of the way! I want to have sex with Ochi-san too![r]
+Damn it! Move!"[pcms]
 
 *2817|
 [fc]
-[ns]感染者男Ａ[nse]
-「あ゛ぁ゛～？　じゃ、じゃま゛す゛んじゃねぇ～」[pcms]
+[ns]Infected Man A[nse]
+"What? Don't get in the way~"[pcms]
 
 *2818|
 [fc]
-[ns]感染者男Ｂ[nse]
-「て、てめえ、は……むねでも、もんでろっ！[r]
-　おんなぁっ！　てめーも、き、をぬくんじゃねえっ！」[pcms]
+[ns]Infected Man B[nse]
+"You bastard, go... fondle some breasts or something! Woman! Don't get[r]
+in our way!"[pcms]
 
 *2819|
 [fc]
-[ns]誠[nse]
-「なにっ！」[pcms]
+[ns]Makoto[nse]
+"What did you say!"[pcms]
 
 *2820|
 [fc]
 [vo_aka s="akari0819"]
-[ns]茜梨[nse]
-「まー君先輩……んぶっ……！　ぶっ……ぶぇぇっ！[r]
-　あぶっ……んぶうぁあぁっ！　あぁっ！」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai... Mmmph! Gag... Ughh! Mmm... Mmmghhh!! Ahh...[r]
+Gah..."[pcms]
 
 *2821|
 [fc]
-確かに、越智さんのおっぱいも魅力的だ……。[pcms]
+Indeed, Ochi-san's breasts are attractive...[pcms]
 
 *2822|
 [fc]
-白いスクール水着に絞り上げられて膨らんだ、[r]
-柔らかそうな胸……。[pcms]
+The soft-looking breasts bulging out from the white school swimsuit...[pcms]
 
 *2823|
 [fc]
-男の罵声と越智さんの揺れる胸に吸い込まれるようにして、[r]
-僕の手は自然と伸び、鷲づかみにしていた。[pcms]
+Drawn in by the men's abusive shouts and Akari's shaking breasts, my[r]
+hands naturally reached out and grabbed them.[pcms]
 
 *2824|
 [fc]
-[ns]誠[nse]
-「うわぁ……や、やわらかい……。[r]
-　おちさんのおっぱい……おっぱいっ！[r]
-　すくみずも、たまんないやっ！」[pcms]
+[ns]Makoto[nse]
+"Wow... they're so soft... Ochi-san's breasts... her breasts! The[r]
+swimsuit is irresistible too!"[pcms]
 
 *2825|
 [fc]
 [vo_aka s="akari0820"]
-[ns]茜梨[nse]
-「まー君先輩ぃいっ……そんなっ！　負けないでって、[r]
-　言ったのに……あぁっ！　ひっ……そ、そんなっ！[r]
-　やめてぇっ！」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai... not like this! You said not to give in... Ahh![r]
+No... Stop it!"[pcms]
 
 *2826|
 [fc]
-[ns]誠[nse]
-「まける……？　ぼくが、いつ……なににまけたの？[r]
-　おちさん、何いってるの……？」[pcms]
+[ns]Makoto[nse]
+"Give in...? When have I ever... lost to anything? Ochi-san, what are[r]
+you talking about...?"[pcms]
 
 *2827|
 [fc]
 [vo_aka s="akari0821"]
-[ns]茜梨[nse]
-「まー君先輩……んぶっ！　げほっ……あぶううっ！[r]
-　んっ……んぎいいいぃいっ！！　あがっ……ぎっ……」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai... Mmmph! Cough... Ughh! Mmm... Mmmghhh!! Ahh...[r]
+Gah..."[pcms]
 
 [evcg storage="akari_H023e"][trans_c cross time=300]
 
 *2828|
 [fc]
 [vo_aka s="akari0822"]
-[ns]茜梨[nse]
-「ぶっ……うぶうっ！　あぶっ……あがぁあっ！！」[pcms]
+[ns]Akari[nse]
+"Mmmph... Ughh! Ughh... Ahhh!!"[pcms]
 
 *2829|
 [fc]
-[ns]誠[nse]
-「あぁ……やわらかいよっ……おっぱい、あったかくて、[r]
-　やわらかいっ！　やっぱ、越智さんは……僕の……。[r]
-　あぁあっ！　越智さんのオマンコは、僕のものだっ！」[pcms]
+[ns]Makoto[nse]
+"Ahh... they're so soft... her breasts are warm and soft! After all,[r]
+Ochi-san is... mine. Ahhh! Ochi-san's pussy is mine!"[pcms]
 
 *2830|
 [fc]
-もう、我慢なんかするもんか！[r]
-邪魔なヤツがいたって構うもんか！[pcms]
+I can't stand it anymore! Who cares if there's someone in the way![pcms]
 
 *2831|
 [fc]
-僕は、越智さんのオマンコに中だしして、[r]
-子供を孕ませなきゃならないんだっ！[pcms]
+I have to cum inside Ochi-san's pussy and impregnate her![pcms]
 
 *2832|
 [fc]
-[ns]誠[nse]
-「くそっ……僕のも入れてやるっ！[r]
-　越智さんのことは、僕がいちばん好きなんだぞっ！[r]
-　おまえらなんか、さわることもゆるされないんだぞ！」[pcms]
+[ns]Makoto[nse]
+"Damn it... I'll put mine in too! I love Ochi-san the most! You guys[r]
+aren't even allowed to touch her!"[pcms]
 
 *2833|
 [fc]
 [vo_aka s="akari0823"]
-[ns]茜梨[nse]
-「ぶっ……ぶうぁぁっ！　んげっ……げほっ！[r]
-　やだっ……やだあぁあっ！　まー君先輩っ！[r]
-　しっかりしてっ！　やめてぇぇぇぇっっ！！」[pcms]
+[ns]Akari[nse]
+"Mmmph... Ughh! Cough... Nooo! Nakazawa-senpai! Pull yourself[r]
+together! Stop it!!"[pcms]
 
 *2834|
 [fc]
-[ns]感染者男Ａ[nse]
-「こ゛、ごるぁ！　じゃ、じゃま゛すんじゃ、ねえっ！[r]
-　こっ、この゛、く、くそ゛が、ぎぃいっ！」[pcms]
+[ns]Infected Man A[nse]
+"You bastard! Don't get in our way, damn it! You piece of shit!"[pcms]
 
 *2835|
 [fc]
-[ns]誠[nse]
-「うるさいっ！　ぼくのものなんだ！[r]
-　このオマンコは、ぼくのものなんだ！[r]
-　おまえなんかにとやかくいわれるすじあいはないっ！」[pcms]
+[ns]Makoto[nse]
+"Shut up! She's mine! This pussy is mine! You have no right to tell me[r]
+what to do!"[pcms]
 
 *2836|
 [fc]
-僕のアソコはまるで膨らみきった風船みたいで、[r]
-少しでもさわったら破裂してしまいそうだった。[pcms]
+My dick felt like an overinflated balloon that would burst if touched[r]
+even slightly.[pcms]
 
 *2837|
 [fc]
-だけど、そうなる前に……。[r]
-僕は、越智さんのオマンコに入れなきゃならないんだ。[pcms]
+But before that happens... I have to put it inside Ochi-san's pussy.[pcms]
 
 *2838|
 [fc]
-僕の精子は、[r]
-越智さんの中に出さなきゃならないんだっ！[pcms]
+I have to cum inside Ochi-san![pcms]
 
 *2839|
 [fc]
-[ns]誠[nse]
-「くっそ！　はいれぇっ！　もういっぽんくらいはいるだろっ！[r]
-　くそおっ！　はいれよ……はいれよおおっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it! Get in there! There's room for one more! Damn it! Get in...[r]
+get in there!"[pcms]
 
 [evcg storage="akari_H023d"][trans_c cross time=300]
 
 *2840|
 [fc]
 [vo_aka s="akari0824"]
-[ns]茜梨[nse]
-「ぎっ……あがあぁぁあっっ！　あっ……ぎいいっ！」[pcms]
+[ns]Akari[nse]
+"Ghh... agaaahhh!! Ah... giihh!"[pcms]
 
 *2841|
 [fc]
-[ns]感染者男Ａ[nse]
-「あ゛っ……む、む゛りだぁっ……」[pcms]
+[ns]Infected Man A[nse]
+"Ah... n-no, it's impossible..."[pcms]
 
 *2842|
 [fc]
-[ns]誠[nse]
-「むりなもんかっ！　そっ……それぇっ！」[pcms]
+[ns]Makoto[nse]
+"Impossible my ass! There... take that!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -897,206 +835,184 @@
 
 *2843|
 [fc]
-僕は、既にねじ込まれたチンコに押しつけるようにして、[r]
-ギチギチに閉じ、体液に塗れたオマンコの中へとねじ込んだ。[pcms]
+I pushed my dick against the ones already forced in, twisting into the[r]
+tightly closed, fluid-covered pussy.[pcms]
 
 *2844|
 [fc]
 [vo_aka s="akari0825"]
-[ns]茜梨[nse]
-「ぎっ……ぎゃあぁあああぁあぁっ！！」[pcms]
+[ns]Akari[nse]
+"Ghh... gyaaahhhhh!!"[pcms]
 
 *2845|
 [fc]
 [vo_aka s="akari0826"]
-[ns]茜梨[nse]
-「あっ、が、あ……あ、がぁ……あ……」[pcms]
+[ns]Akari[nse]
+"Ah, ga, ah... ah, gah... ah..."[pcms]
 
 *2846|
 [fc]
-越智さんは、僕のチンコが入った瞬間、[r]
-絶叫しながら白目を剥き、気絶してしまった。[pcms]
+The moment my dick entered Ochi-san, she screamed, rolled her eyes[r]
+back, and fainted.[pcms]
 
 *2847|
 [fc]
-せっかく僕のを入れたんだから。[r]
-せっかく僕のが入ったんだから。[pcms]
+Since I've already put mine in. Since my dick is already inside.[pcms]
 
 *2848|
 [fc]
-もっと良い声を上げて欲しいのに。[r]
-もっと可愛い声を聞かせて欲しいのに！[pcms]
+I wish she would make nicer sounds. I want to hear her cute voice![pcms]
 
 *2849|
 [fc]
-そう思った瞬間、腰の奥で何かが爆発した様に、[r]
-勝手に前後し出してしまった。[pcms]
+The moment I thought that, something exploded deep in my hips, and I[r]
+started moving back and forth on my own.[pcms]
 
 *2850|
 [fc]
-[ns]誠[nse]
-「ああ……越智さんのオマンコ……これが、[r]
-　越智さんのオマンコ！　すごいきもちいいよっ！[r]
-　ぼくのチンコ、べろべろなめられてるみたいだ！」[pcms]
+[ns]Makoto[nse]
+"Aah... Ochi-san's pussy... this is Ochi-san's pussy! It feels[r]
+amazing! My dick feels like it's being licked all over!"[pcms]
 
 *2851|
 [fc]
-[ns]感染者男Ａ[nse]
-「おっ……おま゛え゛の、ちん゛こが、お゛れの、に、[r]
-　こ、こす゛れ゛て゛ぇ～……」[pcms]
+[ns]Infected Man A[nse]
+"Oh... your dick, rubbing against mine, it's so..."[pcms]
 
 *2852|
 [fc]
-[ns]感染者男Ｂ[nse]
-「こっ、こいつ、くち、うごかせよぉおっ……！[r]
-　べ、べろ……もっと、うごかせぇぇ……！　おらぁっ！」[pcms]
+[ns]Infected Man B[nse]
+"This guy, move your mouth...! Your tongue... move it more...! Come[r]
+on!"[pcms]
 
 *2853|
 [fc]
 [vo_aka s="akari0827"]
-[ns]茜梨[nse]
-「あっ……んぶっ……げっ……うげぇっ！[r]
-　ぶぁああっ！　あぶっ……げぶっ……うぼおっ！」[pcms]
+[ns]Akari[nse]
+"Ah... nghh... geh... ughh! Bwaaah! Abh... gebh... ubooh!"[pcms]
 
 *2854|
 [fc]
-僕たちは、茜梨さんの可愛らしい声を合図に、[r]
-腰を振る大きさを一斉に強くした。[pcms]
+We all increased the intensity of our thrusts at once, taking Akari's[r]
+cute voice as the signal.[pcms]
 
 *2855|
 [fc]
-そのせいか、僕達に絡みつかれた越智さんの身体は、[r]
-まるで踊るようにして、宙に跳ねていた。[pcms]
+Because of that, Ochi-san's body, entangled with us, bounced in the[r]
+air as if dancing.[pcms]
 
 *2856|
 [fc]
-[ns]感染者男Ａ[nse]
-「おぁ゛……ぎっち、ぎちで……お、おれ゛……。[r]
-　も、もう、で、でそう゛だぁ……」[pcms]
+[ns]Infected Man A[nse]
+"Oh... it's so tight, I'm... I'm about to cum..."[pcms]
 
 *2857|
 [fc]
-[ns]感染者男Ｂ[nse]
-「お、おれもだぁ～……の、のどの、おくに、[r]
-　ひっかかって……ちん、こ……はじけそうだぁ。[r]
-　の、のど、まんこ……さいっこうだぜぇ……」[pcms]
+[ns]Infected Man B[nse]
+"Me too... it's caught in the back of her throat... my dick... feels[r]
+like it's going to burst. Her throat pussy... is the best..."[pcms]
 
 *2858|
 [fc]
-[ns]誠[nse]
-「ぼくのも……もう、ダメだっ！[r]
-　こ、こんな、イヤらしいカッコみせられて……、[r]
-　ぼ、ぼく……あぁっ！」[pcms]
+[ns]Makoto[nse]
+"I can't hold back anymore either! Seeing such a lewd pose... I'm[r]
+going to cum!"[pcms]
 
 *2859|
 [fc]
-[ns]感染者男Ａ[nse]
-「なっ、なか゛だし、するぞぉ゛お゛ぉ……！[r]
-　お゛れ゛のこ、はら゛めぇぇっ！」[pcms]
+[ns]Infected Man A[nse]
+"I'm going to cum inside... I'm going to impregnate her!"[pcms]
 
 *2860|
 [fc]
-[ns]誠[nse]
-「ぼくだって、なかだしするぞっ！[r]
-　それに、越智さんのこどもは、[r]
-　ぼくがはらませるんだっ！　ぶっ、ぶちまけてやるっ！」[pcms]
+[ns]Makoto[nse]
+"I'm going to cum inside too! And Ochi-san's child will be mine! I'll[r]
+fill her up!"[pcms]
 
 *2861|
 [fc]
-[ns]感染者男Ｂ[nse]
-「おれ、は、の、のど、マンコに、ぶちまけて……、[r]
-　はらませるぞおっ！　いく、ぞおおっ！」[pcms]
+[ns]Infected Man B[nse]
+"I'm going to cum in her throat pussy and impregnate her! Here I[r]
+come!"[pcms]
 
 *2862|
 [fc]
 [vo_aka s="akari0828"]
-[ns]茜梨[nse]
-「げぶっ……がはっ！　げぇっ……！[r]
-　なか、なかだし、やめてぇっ！　ダメぇっ！[r]
-　赤ちゃん……こんなのじゃイヤあっっ！！」[pcms]
+[ns]Akari[nse]
+"Gebh... gahh! Geeh...! Stop cumming inside! No! I don't want a baby[r]
+like this!!"[pcms]
 
 *2863|
 [fc]
-僕達に囲まれ、踊る茜梨さんは、[r]
-目を覚ましたとたん、首を振りながら悲鳴を上げた。[pcms]
+Surrounded by us, Akari woke up and screamed while shaking her head.[pcms]
 
 *2864|
 [fc]
-だけど今の僕達の耳には、[r]
-それすら甘美な刺激として聞こえ、[r]
-興奮を加速させていく。[pcms]
+But to our ears now, even that sounded like a sweet stimulus,[r]
+accelerating our excitement.[pcms]
 
 *2865|
 [fc]
-[ns]感染者男Ｂ[nse]
-「あはぁ～……いい！　いいぞおっ！[r]
-　も、もっと、こえ、だせぇっ！[r]
-　だけど、おれの、なめろっ！　のどのおくで、しめろっ！」[pcms]
+[ns]Infected Man B[nse]
+"Ahah~... that's good! Scream more! But lick mine! Tighten around it[r]
+in your throat!"[pcms]
 
 *2866|
 [fc]
-[ns]感染者男Ａ[nse]
-「あぁ……だ、だめ゛だぁ……いい、こえ、[r]
-　み゛ずぎ……しま、り゛いい……あぁっ！[r]
-　で、でるううっ！　なか゛だし、だぁぁっ！」[pcms]
+[ns]Infected Man A[nse]
+"Ah... no good... such a nice voice, so wet and tight... ahh! I'm[r]
+cumming! Inside!"[pcms]
 
 *2867|
 [fc]
-[ns]誠[nse]
-「ぼ、ぼくだってぇっ！　くっ……ううううっ！[r]
-　あぁああぁあぁっ！」[pcms]
+[ns]Makoto[nse]
+"I'm cumming too! Ugh... uuuuhhh! Aaahhhh!!"[pcms]
 
 *2868|
 [fc]
 [vo_aka s="akari0829"]
-[ns]茜梨[nse]
-「ぶっ……あぶっ！　うげっ……うぶあああっ！[r]
-　あぶっ……んぶっ……じゅっ……じゅううっ！[r]
-　ぶうううっ！　あぶぁぁあっ！！」[pcms]
+[ns]Akari[nse]
+"Buh... abuh! Ughh... ubuaaah! Abuh... nghh... juh... juuuh! Buuuuh![r]
+Abuaaah!!"[pcms]
 
 *2869|
 [fc]
-揺れるおっぱい……。[r]
-柔らかなおしり……。[r]
-それを包み込む、白い水着……。[pcms]
+Jiggling breasts... Soft butt... Wrapped in a white swimsuit...[pcms]
 
 *2870|
 [fc]
-キツキツに締め付ける、越智さんのオマンコ……。[r]
-苦しそうに喘ぐ声……。[pcms]
+The tight squeeze of Ochi-san's pussy... Her gasping voice[r]
+struggling...[pcms]
 
 *2871|
 [fc]
-全部が、僕の股間の神経に電気を流す。[r]
-全部が、僕の制御を失わせていく！[pcms]
+All of it sends electricity through the nerves in my groin. All of it[r]
+makes me lose control![pcms]
 
 *2872|
 [fc]
-こんなに強烈な刺激は、始めて。[r]
-姉ちゃんのより、もっと凄い。[pcms]
+This intense stimulation is a first for me. Even more amazing than[r]
+with Onee-san.[pcms]
 
 *2873|
 [fc]
-僕のチンコの先は一気に熱くなり、[r]
-射精をこらえる力を奪い去った。[pcms]
+The tip of my dick became instantly hot, robbing me of the strength to[r]
+hold back ejaculation.[pcms]
 
 *2874|
 [fc]
-[ns]誠[nse]
-「越智さんっ！　い、イクよっ！[r]
-　なかに、いっぱいだしてあげるからねっ！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san! I'm cumming! I'll fill you up inside!"[pcms]
 
 *2875|
 [fc]
-[ns]感染者男Ａ[nse]
-「お゛れ゛もぉおっ！　だ、だ、だす゛ぞおっ！[r]
-　おおおっ！」[pcms]
+[ns]Infected Man A[nse]
+"Me tooo! I'm gonna cum! Ohhh!"[pcms]
 
 *2876|
 [fc]
-[ns]感染者男Ｂ[nse]
-「あぁあぁ……イクううっ……でるうっ！[r]
-　の、のめぇぇぇっ！」[pcms]
+[ns]Infected Man B[nse]
+"Aaahh... I'm cumming... it's coming out! Swallow it!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -1113,86 +1029,77 @@
 *2877|
 [fc]
 [vo_aka s="akari0830"]
-[ns]茜梨[nse]
-「ぶあぁっ……いやぁあぁっ！！　やだぁあっ！！[r]
-　ぶっ……じゅぶうっ！　ぶちゅっ！　んげぇっ！[r]
-　おぇぇっ！！　あぶぁあっ！！」[pcms]
+[ns]Akari[nse]
+"Buaahh... nooo!! Stop!! Buh... jubuhh! Butchuu! Ngeehh! Oeehh!![r]
+Abuaahh!!"[pcms]
 
 [evcg storage="akari_H023g"][trans_c cross time=300]
 
 *2878|
 [fc]
-[ns]誠[nse]
-「はっ……はぁっ……ど、どう……？[r]
-　ぼくの、せいし……あ……あれ……、[r]
-　おち、さん……？　おちさんっ！」[pcms]
+[ns]Makoto[nse]
+"Ha... Haa... How is it...? My semen... Ah... Ahh... Ochi-san...?[r]
+Ochi-san!"[pcms]
 
 *2879|
 [fc]
 [vo_aka s="akari0831"]
-[ns]茜梨[nse]
-「あ……あがぁ……はぁ……あ……ああ……」[pcms]
+[ns]Akari[nse]
+"Ah... Agaa... Haa... Ah... Aah..."[pcms]
 
 [evcg storage="akari_H023h"][trans_c cross time=300]
 
 *2880|
 [fc]
-越智さんは、僕達の精液を全身に浴び、[r]
-白い水着や白い肌を、さらに白く染めて、[r]
-小さく喘ぎながら、目を閉じてしまった。[pcms]
+Akari was showered in our semen, her white swimsuit and fair skin[r]
+stained even whiter, as she gasped softly and closed her eyes.[pcms]
 
 *2881|
 [fc]
-[ns]誠[nse]
-「あれ……ねえ、つづきしようよ、[r]
-　ねえ……ねちゃった……。[r]
-　これじゃ、だめだぁ……つぎの、オマンコさがさなきゃ……」[pcms]
+[ns]Makoto[nse]
+"Hey... let's continue, hey... she's fallen asleep... This isn't[r]
+good... I need to find the next pussy..."[pcms]
 
 *2882|
 [fc]
-……そうだよ。[r]
-オマンコは、まだ他にも残ってたはず……。[pcms]
+That's right. There should still be other pussies remaining...[pcms]
 
 *2883|
 [fc]
-あとは、南せんぱいと、ターヤさんだ。[pcms]
+The only ones left are Minami-senpai and Tarja-san.[pcms]
 
 *2884|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *2885|
 [fc]
-首を振って、周りを見ると、[r]
-沢山の男達が、壁を作っている。[r]
-その壁の中に、二人がいるんだろう。[pcms]
+Shaking my head and looking around, I see many men forming a wall.[r]
+Inside that wall must be the two of them.[pcms]
 
 *2886|
 [fc]
-みんなもう、楽しくヤッている。[r]
-僕を待たずに……。[pcms]
+Everyone is already having fun without waiting for me...[pcms]
 
 *2887|
 [fc]
-[ns]誠[nse]
-「くそっ……越智さんも、姉ちゃんも、[r]
-　南せんぱいも、ターヤさんも、全部ぼくのものなのに！[r]
-　なんで、みんなかってなことばっかりしてるんだよ！」[pcms]
+[ns]Makoto[nse]
+"Damn it... Ochi-san, Onee-san, Minami-senpai, Tarja-san, they're all[r]
+mine! Why is everyone doing whatever they want!"[pcms]
 
 *2888|
 [fc]
-僕を待たずに、みんなが好き勝手やってるかと思うと、[r]
-無性に腹が立ってくる。[pcms]
+The thought of everyone doing as they please without waiting for me[r]
+makes me incredibly angry.[pcms]
 
 *2889|
 [fc]
-居ても立っても居られなくなった僕は、[r]
-すぐ近くに出来ていた人垣をかき分けながら、[r]
-その中心へと向かった。[pcms]
+Unable to stand still any longer, I push through the crowd that had[r]
+formed nearby and head towards the center.[pcms]
 
 ;//■イベントCG　satuki_H016(5k)
 [evcg storage="satuki_H016a"][trans_c cross time=300]
@@ -1200,178 +1107,163 @@
 *2890|
 [fc]
 [vo_stk s="satuki0342"]
-[ns]彩月[nse]
-「やだ……こんな……もう……あぁ……、[r]
-　もう、許して……あぁ……」[pcms]
+[ns]Satsuki[nse]
+"No... not like this... anymore... Ahh... please, forgive me...[r]
+Ahh..."[pcms]
 
 *2891|
 [fc]
-[ns]感染者男Ｃ[nse]
-「まだ、まだ……ヘバってんじゃ、ねえぞっ！[r]
-　あとが、つかえてんだぞっ！」[pcms]
+[ns]Infected Man C[nse]
+"Not yet, not yet... Don't you start slacking off now! There's a line[r]
+waiting here!"[pcms]
 
 *2892|
 [fc]
-[ns]感染者男Ｄ[nse]
-「むっ、むね……ぱい、ズリ……で、[r]
-　おおっ……」[pcms]
+[ns]Infected Man D[nse]
+"Mmm, breast... tit-fucking... Ohh..."[pcms]
 
 *2893|
 [fc]
-[ns]感染者男Ｅ[nse]
-「おれ……おっぱい、すきなんだぁ……。[r]
-　こ、これだけ、で、ろっかいは、いける、ぞおっ……。[r]
-　あぁ～……すべ、すべ、で……あぁ……」[pcms]
+[ns]Infected Man E[nse]
+"I love breasts... With these alone, I can come six times, man...[r]
+Ahh~... so smooth and... Ahh..."[pcms]
 
 [evcg storage="satuki_H016b"][trans_c cross time=300]
 
 *2894|
 [fc]
 [vo_stk s="satuki0343"]
-[ns]彩月[nse]
-「ぎっ……！　あぎぃああっ！　いっ……いやぁっ！[r]
-　痛いいっ！　あがぁぁあっ！！！　離してっ！　胸やめて！！[r]
-　ま、誠くんっ！？　まさか……君もっ！？」[pcms]
+[ns]Satsuki[nse]
+"Gih...! Agiiaah! Noo... it hurts! Agaahh!! Let go! Stop touching my[r]
+breasts!! Makoto-kun!? You can't be... you too!?"[pcms]
 
 *2895|
 [fc]
-[ns]誠[nse]
-「ああ～……南せんぱぃぃ～……。[r]
-　ぼくも、なかだし、してあげるねぇ～あはっ、あははっ！[r]
-　ねえちゃんも、越智さんも、よろこんでくれたよ……」[pcms]
+[ns]Makoto[nse]
+"Aah~... Minami-senpai~... I'll cum inside you too~ Ahaha, ahaha!"[pcms]
 
 *2896|
 [fc]
-[ns]誠[nse]
-「きっと……南せんぱいも、よろこんでくれるとおもうから、[r]
-　ぼ、ぼくも、なかまにいれさせて、もらうよ……あはっ！」[pcms]
+[ns]Makoto[nse]
+"I'm sure... Minami-senpai will be pleased too, so I'll join in...[r]
+Ahaha!"[pcms]
 
 *2897|
 [fc]
 [vo_stk s="satuki0344"]
-[ns]彩月[nse]
-「誠くん……負けない……ぎっ！？　あぎぃああっっ！！[r]
-　ら、乱暴すぎっ！　あぎぃああっっ！！[r]
-　いたいっ！　やだあぁあっ！！」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun... I won't lose... Gih!? Agiiaah!! That's too rough![r]
+Agiiaah!! It hurts! Noo!!"[pcms]
 
 *2898|
 [fc]
 [vo_stk s="satuki0345"]
-[ns]彩月[nse]
-「あがっ……ぎっ……いいいいっ！！」[pcms]
+[ns]Satsuki[nse]
+"Agahh... Gih... Eeeek!!"[pcms]
 
 [evcg storage="satuki_H016a"][trans_c cross time=300]
 
 *2899|
 [fc]
-[ns]誠[nse]
-「まけない？　なにが……？　ぼくは、まけてなんかないよ……。[r]
-　それより、ぼくはどうしたらいいの？　南せんぱい……」[pcms]
+[ns]Makoto[nse]
+"Not lose? What do you mean...? I'm not losing at all... So what[r]
+should I do now? Minami-senpai..."[pcms]
 
 *2900|
 [fc]
 [vo_stk s="satuki0346"]
-[ns]彩月[nse]
-「誠……くん……そんな……いやっ……いやぁあぁっ！！[r]
-　元に戻ってっ！　誠くん！　いやぁあっっ！！[r]
-　あぎいっ！　んあぁっ！　ぎっ……ああぁあっ！！」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun... that's not right... noo... nooo!! Go back to normal![r]
+Makoto-kun! Nooo!! Agiih! Naaah! Gih... Aaah!!"[pcms]
 
 *2901|
 [fc]
-南せんぱいの身体は、既に大量の精液がまとわりついた状態で、[r]
-男の中で身体をくねらせている。[pcms]
+Minami-senpai's body was already covered in a large amount of semen,[r]
+writhing among the men.[pcms]
 
 *2902|
 [fc]
-すべすべした肌を流れ落ちる精液を見ていると、[r]
-僕のチンコはどんどん回復していった。[pcms]
+Watching the semen flow down her smooth skin made my cock recover more[r]
+and more.[pcms]
 
 *2903|
 [fc]
-だけど、今回も僕が入れようとするのを、[r]
-沢山の男達が邪魔をする。[pcms]
+But again, as I tried to enter, many men were in the way.[pcms]
 
 *2904|
 [fc]
-だけど、さっき越智さんとヤッた時は、[r]
-僕のともう一人のが入っても大丈夫だった。[r]
-南先輩のオマンコも、もう濡れてるんだから大丈夫だろう。[pcms]
+However, when I did it with Ochi-san earlier, it was fine even when[r]
+another one entered. Minami-senpai's pussy must be wet enough by now;[r]
+it should be fine.[pcms]
 
 *2905|
 [fc]
-そうじゃないとおかしいもの。[r]
-女の子のオマンコは、赤ちゃんが生まれてくる位なんだから。[r]
-二本チンコが入るくらい問題ないはずだ。[pcms]
+It would be strange if it weren't. A girl's pussy is made to give[r]
+birth to a baby, so it shouldn't be a problem for two dicks to enter.[pcms]
 
 *2906|
 [fc]
-[ns]誠[nse]
-「……もとに、もどってっていっても……」[pcms]
+[ns]Makoto[nse]
+"...even if you say go back..."[pcms]
 
 *2907|
 [fc]
-入れても、大丈夫な筈だし……。[r]
-第一、南せんぱいのアソコ、スパッツが破けて丸見えだし。[pcms]
+It should be fine to enter... Besides, Minami-senpai's crotch is fully[r]
+exposed with her spats torn.[pcms]
 
 *2908|
 [fc]
-[ns]誠[nse]
-「ごくっ……」[pcms]
+[ns]Makoto[nse]
+"Gulp..."[pcms]
 
 *2909|
 [fc]
-ピッタピタに張り付いたスパッツが、[r]
-せんぱいの丸いお尻を強調している。[pcms]
+The tight spats clung to her, emphasizing senpai's round butt.[pcms]
 
 *2910|
 [fc]
-それに……僕を誘うようにくねくねと蠢いている。[pcms]
+And it's wriggling as if inviting me...[pcms]
 
 *2911|
 [fc]
-これはもう、入れなきゃダメだ。[r]
-僕の弾けそうなチンコを、南せんぱいの中に入れなきゃダメだ！[pcms]
+I have to enter. I must put my throbbing cock inside Minami-senpai![pcms]
 
 *2912|
 [fc]
-[ns]感染者男Ｃ[nse]
-「なっ、な゛にし、てんだ、てめ……！[r]
-　お、お゛い、や、やめ、ろお゛……おし、つけるなっ！[r]
-　き゛つ、い゛だろおっ！　おがぁ……あ゛ぁ……」[pcms]
+[ns]Infected Man C[nse]
+"Wha- what are you doing, you bastard...! Hey, stop it... don't push[r]
+me! It hurts, doesn't it?! Ogahh... Aaah..."[pcms]
 
 *2913|
 [fc]
-[ns]感染者男Ｄ[nse]
-「あ、ああ……その、てが、あったかぁ……。[r]
-　おま、んこ、にほんざしかぁ……」[pcms]
+[ns]Infected Man D[nse]
+"Ah, ahh... that hand is so warm... Two dicks in one pussy..."[pcms]
 
 *2914|
 [fc]
-[ns]感染者男Ｅ[nse]
-「お、おれも、ヤッときゃ、よかったな……。[r]
-　く、くそっ……つ、つぎ、お、おれも……」[pcms]
+[ns]Infected Man E[nse]
+"I should've done it too... Damn it... next time, I'll also..."[pcms]
 
 *2915|
 [fc]
 [vo_stk s="satuki0347"]
-[ns]彩月[nse]
-「だめぇぇぇっ！　これ以上はっ……誠くん！　ダメぇっ！[r]
-　二本なんて、絶対無理っ！　やぁあぁっ！[r]
-　あ……あ、あぁあ、あぁ……ああぁぁあぁ―――っ！！」[pcms]
+[ns]Satsuki[nse]
+"No wayyyy! Not anymore than this... Makoto-kun! No! Two at once is[r]
+absolutely impossible! Yaaah!! Ahh... Aaah, aahh---!!"[pcms]
 
 *2916|
 [fc]
-僕は、クネクネと動く南せんぱいのお尻を鷲掴みにして、[r]
-その動きを抑え、腰を突き出した。[pcms]
+I grab Minami-senpai's wriggling butt tightly to stop her movements[r]
+and thrust my hips forward.[pcms]
 
 *2917|
 [fc]
-柔らかくて丸いお尻の感覚が両手を通過し、脳を刺激する。[pcms]
+The sensation of her soft and round butt passes through my hands and[r]
+stimulates my brain.[pcms]
 
 *2918|
 [fc]
-そして僕は、[r]
-そのまま勢いよく南先輩のアソコにチンコを突き込んだ。[pcms]
+And then, I thrust my cock forcefully into Senpai Minami's pussy.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1381,51 +1273,49 @@
 *2919|
 [fc]
 [vo_stk s="satuki0348"]
-[ns]彩月[nse]
-「ひっ……ひうっ！？　あっ……ぎっ……ぎぁあぁっ！」[pcms]
+[ns]Satsuki[nse]
+"Hii...hiuu!? Ah...gi...gyaaaah!"[pcms]
 
 *2920|
 [fc]
-[ns]誠[nse]
-「おっ……おおおっ……！　さっ、きまでと、ちがうっ！[r]
-　ねえちゃんとも、越智さんとも、ちがううっ！[r]
-　でも、キツいいっ！　み、みんな、さいこううっ！」[pcms]
+[ns]Makoto[nse]
+"Oh...oooooh...! It's different from before, different from Onee-san[r]
+and Ochi-san! But it's so tight! Everyone's the best!"[pcms]
 
 *2921|
 [fc]
-人により、個性がある。[r]
-オマンコも、やっぱりそうだった。[pcms]
+Each person has their own individuality. It seems pussies are no[r]
+exception.[pcms]
 
 *2922|
 [fc]
-ねえちゃん、越智さん、そして南せんぱい……。[r]
-同じオマンコなのに、みんな違う！[pcms]
+Onee-san, Ochi-san, and now Senpai Minami... Even though it's the same[r]
+pussy, they're all different![pcms]
 
 *2923|
 [fc]
-これなら、何度中だししても飽きそうもない。[r]
-さっきイッたばかりだけど、また中だしできる！[r]
-何度でも中だししてやるぞっ！[pcms]
+I could cum inside them countless times without getting bored. I just[r]
+came a while ago, but I can do it again! I'll cum inside over and[r]
+over![pcms]
 
 *2924|
 [fc]
-俄然やる気の出てきた僕は、キツさを楽しむのと、[r]
-何度でも中だし出来るという安心感から、[r]
-遠慮無しに腰を振り、快楽を求めだした。[pcms]
+Feeling suddenly motivated by the tightness and the reassurance that I[r]
+can cum inside as many times as I want, I started moving my hips[r]
+without restraint, seeking pleasure.[pcms]
 
 *2925|
 [fc]
-[ns]誠[nse]
-「うあっ！　ぼ、ぼくのチンコ、南せんぱいのなかで、[r]
-　かわがめくれるっ！　ぜんぶ、めくれちゃうっ！」[pcms]
+[ns]Makoto[nse]
+"Uah! My cock, inside Senpai Minami, it's peeling back! Everything's[r]
+peeling back!"[pcms]
 
 *2926|
 [fc]
 [vo_stk s="satuki0349"]
-[ns]彩月[nse]
-「ぎっ……あがっ！　誠、くんっ！　ぬっ、抜いてぇっ！[r]
-　キツすぎるからっ！　ぎぃいっ……こんなの、ダメっ！[r]
-　さっ、裂ける！　裂ける！！！　あぎいいいっ！！」[pcms]
+[ns]Satsuki[nse]
+"Gi...agah! Makoto-kun! Pull it out! It's too tight! Gyii...this is[r]
+bad! It's tearing! It's tearing!!! Agyiiii!!"[pcms]
 
 [evcg storage="satuki_H016d"][trans_c cross time=300]
 
@@ -1435,91 +1325,86 @@
 *2927|
 [fc]
 [vo_stk s="satuki0350"]
-[ns]彩月[nse]
-「おっ……あがぁっ！　あぎっ……ぎいいっ！」[pcms]
+[ns]Satsuki[nse]
+"Oh...agahh! Agyi...gyiiii!"[pcms]
 
 *2928|
 [fc]
-[ns]感染者男Ｃ[nse]
-「おっ……お゛お……おまえ゛の、ちんこ……で、[r]
-　なか゛が、もっと、きつ゛く゛なって……、[r]
-　ちつの、なか゛……ぎっちぎち～……」[pcms]
+[ns]Infected Man C[nse]
+"Oh...ogoo...your cock...makes it even tighter...the inside of the[r]
+pussy...so tight..."[pcms]
 
 *2929|
 [fc]
-[ns]感染者男Ｄ[nse]
-「こ、こいつ、むねが、パンパンで、ピンクいろに、[r]
-　なってきたぁ～……しろい、むねが、ピンクにぃ～！」[pcms]
+[ns]Infected Man D[nse]
+"This guy, her breasts are swelling up, turning pink...the white[r]
+breasts are turning pink!"[pcms]
 
 *2930|
 [fc]
-[ns]感染者男Ｅ[nse]
-「ちく、ちくび、も、コリコリしてんぞぉ～！[r]
-　きもち、いいんだろっ！　なぁ、ねえちゃんよぉっ！」[pcms]
+[ns]Infected Man E[nse]
+"Her nipples are also getting hard! It must feel good, right? Right,[r]
+Onee-san?"[pcms]
 
 *2931|
 [fc]
 [vo_stk s="satuki0351"]
-[ns]彩月[nse]
-「ばっ……馬鹿っ！　あぐっ……あぁっ！　痛いっ！[r]
-　無理だって……ああぁあぁっ！！　あがあぁっっ！！」[pcms]
+[ns]Satsuki[nse]
+"Stu...stupid! Aguh...ahh! It hurts! It's impossible...aghaaahhh!![r]
+Agahhh!!"[pcms]
 
 *2932|
 [fc]
 [vo_stk s="satuki0352"]
-[ns]彩月[nse]
-「ぎぁあぁっ！　ぐぎぃいいっ！！　あがぁっっ！」[pcms]
+[ns]Satsuki[nse]
+"Gyaaaah! Gyiiii!! Agahhh!!"[pcms]
 
 *2933|
 [fc]
-[ns]誠[nse]
-「あはっ！　みなみせんぱい、おもしろいこえ！[r]
-　そうか、きもちいいんだ！　そうでしょ、せんぱいっ！[r]
-　もっときもちよくしてあげる！　ぼくもきもよくなりたいし！」[pcms]
+[ns]Makoto[nse]
+"Ahah! Senpai Minami, what an interesting voice! So that means it[r]
+feels good! Right, Senpai? I'll make you feel even better! I want to[r]
+feel good too!"[pcms]
 
 *2934|
 [fc]
-みなみせんぱいの目は、だんだん上をむいて、[r]
-白目の部分が多くなっていく。[pcms]
+Senpai Minami's eyes gradually roll back, showing more of the whites.[pcms]
 
 *2935|
 [fc]
-面白い声に、この表情はきっと……。[r]
-さっきまでと同じように気持ちいいんだ。[pcms]
+With that interesting voice and this expression... It must feel as[r]
+good as before.[pcms]
 
 *2936|
 [fc]
-もっともっと、せんぱいに気持ち良くなってもらいたい！[r]
-僕も、もっと気持ち良くなりたいし！[pcms]
+I want to make Senpai feel even better! And I want to feel even better[r]
+too![pcms]
 
 *2937|
 [fc]
-ただ、乱暴にするのも良いけど、[r]
-もっともっときもちよくなってもらいたい。[r]
-だけど、どうしたらいいんだろう……。[pcms]
+It's good to be rough, but I want to make her feel even better. But[r]
+how should I do it...[pcms]
 
 *2938|
 [fc]
-僕は、せんぱいのオマンコのを強引にかき回しながら、[r]
-どうやったらこれ以上きもちよくすることができるか、[r]
-気持ち良くなれるか、脳みそをフル回転させていた。[pcms]
+While forcefully stirring inside Senpai's pussy, I racked my brain for[r]
+ways to make her feel even better.[pcms]
 
 *2939|
 [fc]
 [vo_stk s="satuki0353"]
-[ns]彩月[nse]
-「あっ……ぎっ……あが……あぁ……お尻……いた……、[r]
-　あぁ……アソコ……さけぢゃう……あぎぃいっ……」[pcms]
+[ns]Satsuki[nse]
+"Ah...gi...aga...ahh...my butt...hurts..., ahh...my pussy...is going[r]
+to tear...agyiii..."[pcms]
 
 *2940|
 [fc]
-お尻……？[r]
-僕が握ってる、このお尻が良いのかな？[r]
-それなら、もっと強く握ろうか……。[pcms]
+Her butt...? Is it this butt that I'm holding that's good? Then maybe[r]
+I should grip it even harder...[pcms]
 
 *2941|
 [fc]
-それとも……。[pcms]
+Or maybe...[pcms]
 
 ;//よく見ると、みなみせんぱいの丸いお尻の中心が、
 ;//ひくひくと息をするように動いているのが見えた。
@@ -1531,17 +1416,17 @@
 
 *2942|
 [fc]
-よく見ると、みなみせんぱいのオマンコの先で、[r]
-ひくひくと息をするように動いている小さな突起が見えた。[pcms]
+Looking closely, I could see a small protrusion at the tip of Senpai[r]
+Minami's pussy, twitching as if breathing.[pcms]
 
 *2943|
 [fc]
-[ns]誠[nse]
-「あぁ……こ、これ……」[pcms]
+[ns]Makoto[nse]
+"Ah...this..."[pcms]
 
 *2944|
 [fc]
-僕はその妖しく動く部分に、勢いよく指を押し当てた。[pcms]
+I pressed my finger forcefully against that bewitchingly moving part.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1551,135 +1436,123 @@
 *2945|
 [fc]
 [vo_stk s="satuki0354"]
-[ns]彩月[nse]
-「ひっ……ひうううぅっ！！！　あっ……ひぁぁっ！！[r]
-　やぁぁっ！　ダメぇっ！　それ、ダメっ！[r]
-　ひぁあぁぁっ！　ぎぁあぁっ！」[pcms]
+[ns]Satsuki[nse]
+"Hii...hiuuuuu!!! Ah...hyaaah!! Yahhh! Noo! That's bad! That's bad![r]
+Hyaaaahhh! Gyaaaah!"[pcms]
 
 *2946|
 [fc]
-[ns]誠[nse]
-「うっ……うわっ！　オマンコ、キツいっ！　す、すごいっ！[r]
-　あ、あれー？　せんぱい？　だいじょうぶですか？」[pcms]
+[ns]Makoto[nse]
+"Ugh...uwah! The pussy, it's tight! Amazing! Ah, what-? Senpai? Are[r]
+you okay?"[pcms]
 
 *2947|
 [fc]
 [vo_stk s="satuki0355"]
-[ns]彩月[nse]
-「あっ……あ……ひっ……あぁ……あ……あぁ……あがぁ……」[pcms]
+[ns]Satsuki[nse]
+"Ah...ah...hi...ahh...ah...ahh...agah..."[pcms]
 
 *2948|
 [fc]
-僕の指が“ソコ”に触れたとたん、[r]
-みなみせんぱいの身体は大きくけいれんし、[r]
-目はかんぜんに白目をむいていた。[pcms]
+The moment my finger touched "that spot," Senpai Minami's body[r]
+convulsed greatly, and her eyes completely rolled back to show the[r]
+whites.[pcms]
 
 *2949|
 [fc]
-[ns]感染者男Ｃ[nse]
-「お゛あ゛……し、しろ゛め、むいた゛ぁ～！[r]
-　まっ、ま゛んこも……ぎゅうっと゛き、た゛ぁぁ！」[pcms]
+[ns]Infected Man C[nse]
+"Ogah...her eyes rolled back! The pussy too...it's tightening up!"[pcms]
 
 *2950|
 [fc]
-[ns]感染者男Ｄ[nse]
-「むっ、むね……すべすべぇ……あぁ……」[pcms]
+[ns]Infected Man D[nse]
+"Her breasts...so smooth...ahh..."[pcms]
 
 *2951|
 [fc]
-[ns]感染者男Ｅ[nse]
-「ぷるぷるしてるぅ……あぁ～……。[r]
-　きんもぢ、いいぃ～……」[pcms]
+[ns]Infected Man E[nse]
+"They're trembling...ahh~...feels so good..."[pcms]
 
 *2952|
 [fc]
-みなみせんぱいの体は、僕達みんなをよろこばせている。[r]
-僕達はそれにこたえるべきだ！[r]
-それが、男ってもんだからな！[pcms]
+Senpai Minami's body is pleasing all of us. We should respond to that![r]
+That's what being a man is all about![pcms]
 
 *2953|
 [fc]
-[ns]誠[nse]
-「もっと、ぐりぐりしてやるっ！　せんぱい！[r]
-　きもちいい！？　きもちいいでしょっ！？[r]
-　いろんなところ、ぐりぐりしてあげるからねっ！」[pcms]
+[ns]Makoto[nse]
+"I'll grind even more! Senpai! Does it feel good!? It feels good,[r]
+right!? I'll grind all sorts of places for you!"[pcms]
 
 *2954|
 [fc]
-[ns]感染者男Ｃ[nse]
-「お、おでも、まけ゛ねえ、ぞぉあぁあ゛ぁ゛……」[pcms]
+[ns]Infected Man C[nse]
+"I won't lose either, ooooh..."[pcms]
 
 *2955|
 [fc]
-[ns]感染者男Ｄ[nse]
-「むっ……むね、に、ぶっかけてやるぞっ！[r]
-　ざーめん、ついかァァ！！」[pcms]
+[ns]Infected Man D[nse]
+"I'll cum on those breasts too! More semen!!"[pcms]
 
 *2956|
 [fc]
-[ns]感染者男Ｅ[nse]
-「おれも、ま、まけねえっ！　アツいおれのせーし、[r]
-　く、くらえっ！　おらぁっ！！」[pcms]
+[ns]Infected Man E[nse]
+"I won't lose either! Take my hot semen, take this!!"[pcms]
 
 *2957|
 [fc]
-[ns]誠[nse]
-「そらっ！　せんぱいも、なんかいってよっ！[r]
-　もっときもちよくなろうよおっ！[r]
-　そらあぁっ！」[pcms]
+[ns]Makoto[nse]
+"Here it comes! Say something too, Senpai! Let's feel even better[r]
+together! Here we gooo!"[pcms]
 
 *2958|
 [fc]
-みんなが、さつきせんぱいのからだをメチャクチャに突き回し、[r]
-ぼくもそれにまけないようにと、ねじこんだチンコや[r]
-クリトリスに押し当てた指をすり鉢みたいに回し、押しつけた。[pcms]
+Everyone was thrusting into Senpai Satsuki's body, and I wasn't about[r]
+to be outdone, so I twisted my dick and the fingers pressing on her[r]
+clit around like a mortar and pestle, pressing down hard.[pcms]
 
 *2959|
 [fc]
 [vo_stk s="satuki0356"]
-[ns]彩月[nse]
-「ふぁあっ！　あぎっ……あっ！　ひゃあぁっ！！[r]
-　ダメっ！　グリグリ、ダメぇっ！　ぎぃいいっ！[r]
-　ひぁっ！　おっ……おおおっ！　おちん……あぁっ！！」[pcms]
+[ns]Satsuki[nse]
+"Aaah! Agi... Ah! Hyaaah!! No! Don't grind it like that! Gyiii! Hyaah![r]
+Oh... Oooh! Your cock... Aaah!!"[pcms]
 
 *2960|
 [fc]
-[ns]感染者男Ｃ[nse]
-「お゛、おち゛ん、ちんが、どう゛したぁ？[r]
-　いい、んだろ゛ぉ？　きも゛ち、いいって、いえよぉ゛！」[pcms]
+[ns]Infected Man C[nse]
+"Ogah, what's wrong with your cock? It feels good, doesn't it? Say it[r]
+feels good!"[pcms]
 
 *2961|
 [fc]
 [vo_stk s="satuki0357"]
-[ns]彩月[nse]
-「あっひぁあっ！　たすけてぇ…こんなの…！　ごんなのイヤぁ！[r]
-　誠くんっ！　ダメぇっ！　やめてぇぇっ！！」[pcms]
+[ns]Satsuki[nse]
+"Ah-hiyaaah! Help me... not like this...! I don't want this! Makoto-[r]
+kun! Nooo! Stop it!!"[pcms]
 
 *2962|
 [fc]
-[ns]感染者男Ｄ[nse]
-「た、たすけ、て……とか！　いっ、いっても、むだだぁっ！[r]
-　ぶっ、ぶっかけて、やるぞおっ！　この、デカいむねと、[r]
-　め、めがね！　めがねに、ぶっかけてやるうっ！」[pcms]
+[ns]Infected Man D[nse]
+"Help, you say? Even if you scream, it's useless! I'm gonna cum on[r]
+those big breasts and... on your glasses! I'll cum on your glasses!"[pcms]
 
 *2963|
 [fc]
-[ns]感染者男Ｅ[nse]
-「おれ、も！　お、おでもだぁっ！！　うぉおおっ！」[pcms]
+[ns]Infected Man E[nse]
+"Me too! I'm cumming too!! Uooooh!"[pcms]
 
 *2964|
 [fc]
-[ns]誠[nse]
-「ぼくも、もうダメぇっ！　いくぞおおっ、[r]
-　せんぱい、ぜんぶうけとめてっ！」[pcms]
+[ns]Makoto[nse]
+"I can't hold back anymore either! Here I come, Senpai, take it all!"[pcms]
 
 *2965|
 [fc]
 [vo_stk s="satuki0358"]
-[ns]彩月[nse]
-「ぎっ……ぎゃあぁっ！　ああぁぁああぁっ！！[r]
-　中ダメっ！　やめてぇぇっ！！　ひぃあああぁあっ！！[r]
-　ダメっ……あぎぃいぁぁあああぁぁああぁっ！！」[pcms]
+[ns]Satsuki[nse]
+"Gii... Gyaaaah! Aaaahhh!! Inside is bad! Stop it!! Hiiiaaahhh!! No...[r]
+Agiiiiiaaaaahhh!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -1697,97 +1570,90 @@
 *2966|
 [fc]
 [vo_stk s="satuki0359"]
-[ns]彩月[nse]
-「あ……あぁ……はっ……はっ……あぁ……あ……」[pcms]
+[ns]Satsuki[nse]
+"Ah... Aaah... Hah... Hah... Aaah... Ah..."[pcms]
 
 [evcg storage="satuki_H016g"][trans_c cross time=300]
 
 *2967|
 [fc]
-[ns]感染者男Ｃ[nse]
-「おあ～……で、でた゛ぁ……と、とまんね゛ぇ……」[pcms]
+[ns]Infected Man C[nse]
+"Ooah~... it's out... can't stop..."[pcms]
 
 *2968|
 [fc]
-[ns]感染者男Ｄ[nse]
-「お、おでもぁあ～……せーし、とまんね！　ああぁ～」[pcms]
+[ns]Infected Man D[nse]
+"Oh, I'm cumming too~... can't stop the semen! Aaah~"[pcms]
 
 *2969|
 [fc]
-[ns]感染者男Ｅ[nse]
-「あ……あぁ……すっげぇ……あぁ……」[pcms]
+[ns]Infected Man E[nse]
+"Ah... Aaah... that's amazing... Aaah..."[pcms]
 
 *2970|
 [fc]
-[ns]誠[nse]
-「うっ……はぁっ……あぁ……」[pcms]
+[ns]Makoto[nse]
+"Ugh... Haaah... Aaah..."[pcms]
 
 *2971|
 [fc]
 [vo_stk s="satuki0360"]
-[ns]彩月[nse]
-「誠……くん……あぁ……君は、違うって……。[r]
-　お、おもって……たのに……大丈夫だって……あぁ……」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun... Ahh... I thought you were different... That it would be[r]
+okay... Ahh..."[pcms]
 
 *2972|
 [fc]
-ぼく達は、白めを剥いて喘ぐみなみせんぱいのからだじゅうに、[r]
-こわれた蛇口みたいないきおいで精液をブチまけていった。[pcms]
+We ejaculated our semen onto Senpai Minami's body, which was[r]
+convulsing with her eyes rolled back, like a broken faucet.[pcms]
 
 *2973|
 [fc]
-よほど気持ちいいんだろうか、[r]
-みなみせんぱいは、体を精液がながれていくのに、[r]
-なにもいわず、地面につっぷして体をけいれんさせていた。[pcms]
+Perhaps feeling good, Senpai Minami didn't say anything as the semen[r]
+flowed over her body, she just lay face down on the ground convulsing.[pcms]
 
 ;//#_ブラックアウト
 
 *2974|
 [fc]
-まだだしたりないぞ！[r]
-こんなんじゃ、ぼくのチンコはまんぞくできないぞっ！[pcms]
+I'm not satisfied yet! This isn't enough to satisfy my dick![pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *2975|
 [fc]
-まだ、ひとりのこってたはずだ……。[r]
-きんぱつの、こがらな子……。[pcms]
+There should still be one more person left... The small blonde girl...[pcms]
 
 *2976|
 [fc]
-た、た……。[r]
-ターヤ！[pcms]
+Ta... Tarja![pcms]
 
 *2977|
 [fc]
-[ns]誠[nse]
-「そうだ！　ターヤさんがのこってる！[r]
-　つっ、つぎは、ターヤさんに中だしだっ！」[pcms]
+[ns]Makoto[nse]
+"That's right! Tarja-san is still left! Next, I'll cum inside Tarja-[r]
+san!"[pcms]
 
 *2978|
 [fc]
-頭の中が、だんだんかすんできている。[r]
-なんだか、へんなかんじがひろがっている。[pcms]
+My head is getting cloudy. A strange feeling is spreading.[pcms]
 
 *2979|
 [fc]
-きっと、これは……。[r]
-なかだししないとなおらない。[pcms]
+Surely, this is something that won't heal unless I cum inside...[pcms]
 
 *2980|
 [fc]
-おんなのオマンコになかだししなきゃ、[r]
-おさまらないんだ……。[pcms]
+I won't be satisfied until I cum inside a woman's pussy...[pcms]
 
 *2981|
 [fc]
-ぼくは、つぎのえもの……。[pcms]
+I am hunting for my next prey...[pcms]
 
 *2982|
 [fc]
-ターヤさんをめざし、ふるえて、[r]
-ちからがはいらないあしをおさえながら歩き出した。[pcms]
+I aimed for Tarja-san, trembling, and started walking while holding my[r]
+legs that had no strength.[pcms]
 
 ;//■イベントCG　taja_H018(5k)
 [evcg storage="taja_H018b"][trans_c cross time=300]
@@ -1795,93 +1661,87 @@
 
 *2983|
 [fc]
-[ns]誠[nse]
-「わぁ……すごいカッコ……さすが、ターヤさん……。[r]
-　からだ、やわらかいんだぁ……」[pcms]
+[ns]Makoto[nse]
+"Wow... such an amazing pose... As expected of Tarja-san... Your body[r]
+is so flexible..."[pcms]
 
 *2984|
 [fc]
 [vo_tay s="taja0240"]
-[ns]ターヤ[nse]
-「中澤、君……みな、いで……こんなの……。[r]
-　やだ……わたし……もう……駄目……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nakazawa-kun... everyone is gone... something like this... No... I[r]
+can't take it anymore..."[pcms]
 
 *2985|
 [fc]
 [vo_tay s="taja0241"]
-[ns]ターヤ[nse]
-「ふあ……あ……あー……あぁ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Fuaa... Ah... Aa-... Aaah..."[pcms]
 
 *2986|
 [fc]
-ターヤさんは、ヨガのポーズみたいなカッコをして、[r]
-じめんにねころがっていた。[pcms]
+Tarja-san was lying on the ground in a pose like a yoga position.[pcms]
 
 *2987|
 [fc]
-まるみえになった、ピンクいろのおまんこは、[r]
-ポッカリとひらいて、なかみもまるみえだ。[pcms]
+The fully exposed pink pussy was wide open, and its insides were[r]
+completely visible.[pcms]
 
 *2988|
 [fc]
-これまでなかだしはしてきたけど、[r]
-こんなにじっくりとみたのは、はじめて。[pcms]
+I've cum inside before, but this is the first time I've looked at it[r]
+so closely.[pcms]
 
 *2989|
 [fc]
-まっかにはれたアソコのいりぐちや、[r]
-すごくおおきくなった、あずきみたいなとっきが、[r]
-ピクピクうごいて、たくさんのせいえきをあふれさせている。[pcms]
+The entrance to her bright red swollen pussy and the bean-like[r]
+clitoris that had become very large were twitching, overflowing with[r]
+lots of semen.[pcms]
 
 *2990|
 [fc]
-ドロドロとながれおちるせいえきや、あいえきにまみれた、[r]
-ターヤさんのしろいはだをみていると、[r]
-ぼくのチンコはどんどんおおきくなっていく。[pcms]
+Looking at Tarja-san's white skin covered in the thick semen and love[r]
+juices flowing down, my dick was getting bigger and bigger.[pcms]
 
 *2991|
 [fc]
-あの『アナ』は、どんなかんじなんだろう。[r]
-いままでの“アナ”と、またちがうんだろうな。[pcms]
+I wonder what that "hole" feels like. It must feel different from all[r]
+the others I've been in so far.[pcms]
 
 *2992|
 [fc]
-ぐじゅぐじゅで、やわらかそうで……。[r]
-ドロドロしてて、きもちよさそう。[pcms]
+It looks mushy and soft... Thick and like it would feel good.[pcms]
 
 *2993|
 [fc]
-あのアナをつかいたい。[r]
-あのナカに、たっぷりだしてやりたい。[pcms]
+I want to use that hole. I want to fill it up with plenty of my cum.[pcms]
 
 *2994|
 [fc]
-ぼくはまるで、ひかりにさそわれる“ガ”みたいに、[r]
-ふらふらとターヤさんのからだへとちかづいた。[pcms]
+Like a moth drawn to light, I staggered towards Tarja-san's body.[pcms]
 
 *2995|
 [fc]
-[ns]誠[nse]
-「あぁ……かわいい……きれいないろの、オマンコ……。[r]
-　ぬるっぬるで……きもちよさそう……」[pcms]
+[ns]Makoto[nse]
+"Ahh... so cute... such a pretty color, your pussy... It's so slippery[r]
+and looks like it would feel good..."[pcms]
 
 *2996|
 [fc]
 [vo_tay s="taja0242"]
-[ns]ターヤ[nse]
-「ひっ……やだ……中澤くん……こないでっ……。[r]
-　もう、許して……やぁあ……」[pcms]
+[ns]Tarja[nse]
+"Hiih... no... Nakazawa-kun... don't come closer... Please, I beg[r]
+you... Yahh..."[pcms]
 
 *2997|
 [fc]
-[ns]誠[nse]
-「……なんで……なんできらうんだよ！[r]
-　ぼくのチンコ、いれてほしくないの！？」[pcms]
+[ns]Makoto[nse]
+"...Why... why do you hate it? Don't you want my dick inside you?!"[pcms]
 
 *2998|
 [fc]
 [vo_tay s="taja0243"]
-[ns]ターヤ[nse]
+[ns]Tarja Pohjonen[nse]
 「バカなこといわないでっ！　ああ……ひっ！？[r]
 　やめて……やめてぇぇっ……」[pcms]
 
@@ -1892,7 +1752,7 @@
 
 *3000|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「あぁ……てれてるんだ、ターヤさん！[r]
 　こんなはずかしいカッコみられて、てれてるんでしょ！[r]
 　はずかしがらなくていいのに……ははっ！　そらっ！」[pcms]
@@ -1900,7 +1760,7 @@
 *3001|
 [fc]
 [vo_tay s="taja0244"]
-[ns]ターヤ[nse]
+[ns]Tarja[nse]
 「ひっ……や、やだあぁぁああああああああああぁっ！[r]
 　離してってば！　やぁああっ！　ひあああっ！！」[pcms]
 
@@ -1914,22 +1774,22 @@
 
 *3003|
 [fc]
-[ns]誠[nse]
-「はぁ～……やわらかい……。[r]
+[ns]Makoto[nse]
+「はぁ……やわらかい……。[r]
 　もしかして、ターヤさんって、けっこうユルユルー？[r]
-　もっとしまりいいとおもってたんだけどな～……がっかり」[pcms]
+　もっとしまりいいとおもってたんだけどな……がっかり」[pcms]
 
 *3004|
 [fc]
 [vo_tay s="taja0245"]
-[ns]ターヤ[nse]
+[ns]Tarja[nse]
 「そ、そんなっ！　わたしは……あぁぁあああああぁっ！！[r]
 　い、言うなあぁ……わたしは、そんな……、[r]
 　好きで……こうなったんじゃないっ！　いやぁああぁあっ！！」[pcms]
 
 *3005|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「ふうん……まあ、いいや。[r]
 　ユルユルオマンコ、いただきまーす」[pcms]
 
@@ -1941,7 +1801,7 @@
 *3006|
 [fc]
 [vo_tay s="taja0246"]
-[ns]ターヤ[nse]
+[ns]Tarja Pohjonen[nse]
 「ひっ……ひぅうっ……やっ……はぁっ……はっ……」[pcms]
 
 ;//se_sex02.ogg(LOOP)
@@ -1961,7 +1821,7 @@
 
 *3009|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「おお……これ、けっこう……」[pcms]
 
 *3010|
@@ -1986,12 +1846,12 @@
 
 *3014|
 [fc]
-[ns]感染者男Ｇ[nse]
+[ns]Infected Man G[nse]
 「ずっと……ねらってたんだ……この、きんぱつの、こ……」[pcms]
 
 *3015|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「ん？　だれ？　アンタ」[pcms]
 
 [evcg storage="taja_H018e"][trans_c cross time=300]
@@ -2007,7 +1867,7 @@
 
 *3018|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「ああ……」[pcms]
 
 *3019|
@@ -2022,20 +1882,20 @@
 
 *3021|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「おい、おまえも、いっしょに、いれろ！[r]
 　こいつの、オマンコ、ユルくてさあ……。[r]
 　なかなかイケないんだよね。だから、にほんざししようぜ！」[pcms]
 
 *3022|
 [fc]
-[ns]感染者男Ｇ[nse]
+[ns]Infected Man G[nse]
 「お、おお……いいのか？　え、えんりょ、なんか、[r]
 　しないぞっ！　お、おれも、いれるぞおおっ！」[pcms]
 
 *3023|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「よっし！　さあ、こいっ！」[pcms]
 
 *3024|
@@ -2048,7 +1908,7 @@
 *3025|
 [fc]
 [vo_tay s="taja0247"]
-[ns]ターヤ[nse]
+[ns]Tarja[nse]
 「やっ……あぁ……だめ……もう……無理っ……ひっ！？[r]
 　ひっ……ひぃいあぁぁああぁぁぁぁっ！！！[r]
 　ぎゃああああああああああぁぁああああぁっ！！！」[pcms]
@@ -2056,7 +1916,7 @@
 *3026|
 [fc]
 [vo_tay s="taja0248"]
-[ns]ターヤ[nse]
+[ns]Tarja Pohjonen[nse]
 「あがっ！　ぎっ！　あぎぃああぁぁあっ！！　ぎぁぁあっ！」[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
@@ -2064,14 +1924,14 @@
 
 *3027|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「あっ……あっ！　すっ、すごい！　アンタの、[r]
 　ぼくのをおしつけてて、ターヤさんのなか、[r]
 　どろっどろのオマンコにこすりつけられるっ！」[pcms]
 
 *3028|
 [fc]
-[ns]感染者男Ｇ[nse]
+[ns]Infected Man G[nse]
 「おおっ……おおおっ！　お、おれの、チンコも、[r]
 　すっげぇ、おされてっ！　ヌルヌルで、すげえっ！[r]
 　にほんざし、たまんねえなっ！」[pcms]
@@ -2095,8 +1955,8 @@
 
 *3032|
 [fc]
-[ns]誠[nse]
-「はぁ～……ぐちゅぐちゅっていって、いいおとするね～……」[pcms]
+[ns]Makoto[nse]
+「はぁ……ぐちゅぐちゅっていって、いいおとするね……」[pcms]
 
 *3033|
 [fc]
@@ -2117,200 +1977,182 @@
 *3036|
 [fc]
 [vo_tay s="taja0249"]
-[ns]ターヤ[nse]
+[ns]Tarja Pohjonen[nse]
 「中澤……くん……あなた、ま、負けちゃったの……ぎぃっ！[r]
 　あなたは、大丈夫だって、信じて……たの……にっ！[r]
 　あがああああああああっぁっ！！　んぎぃああぁあっ！」[pcms]
 
 *3037|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「へ……？」[pcms]
 
 *3038|
 [fc]
-まけた……？[r]
-ぼくが、まけた……。[pcms]
+I lost...? I lost...[pcms]
 
 *3039|
 [fc]
-なににまけたっていうんだろう。[r]
-いくらかんがえても、わからない。[pcms]
+I wonder what I lost to. No matter how much I think about it, I can't[r]
+figure it out.[pcms]
 
 *3040|
 [fc]
-ターヤさんのことばが、ぼくのあたまのなかをグルグルまわる。[r]
-だけど、いくらかんがえても、さっぱりわからない。[pcms]
+Tarja-san's words keep going round and round in my head. But no matter[r]
+how much I think about it, I just can't understand.[pcms]
 
 *3041|
 [fc]
-だんだん、いらいらしてきた！[r]
-ぼくが、なににまけたっていうんだ！？[pcms]
+I'm starting to get irritated! What have I lost to!?[pcms]
 
 *3042|
 [fc]
-[ns]誠[nse]
-「くそっ！　くそおおっ！　ぼくは……まけてなんかないっ！[r]
-　……そうか、わかったぞっ！　ターヤさんをイカせないからか！[r]
-　ぼくが、ターヤさんをイカせてないからだな！？」[pcms]
+[ns]Makoto[nse]
+"Damn it! Damn it all! I haven't lost... Oh, I see now! Is it because[r]
+I haven't made Tarja-san cum!? Is it because I haven't made her cum!?"[pcms]
 
 [evcg storage="taja_H018h"][trans_c cross time=300]
 
 *3043|
 [fc]
 [vo_tay s="taja0250"]
-[ns]ターヤ[nse]
-「ひっ……ひぎぃいいぃいぁあっ！　ちが、うっ！　あぁあっ！[r]
-　あがっ……がぁあああああああぁああぁあっ！！[r]
-　あぎいいいいぃいぃぃぃぃいっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hii...higyiiiiaaaaah! No, ugh! Ahhh! Agah...gaaaahhhhhhhhhhhhh!![r]
+Agyiiiiiiiiiiiiiiii!!"[pcms]
 
 *3044|
 [fc]
-[ns]誠[nse]
-「くそっ……お、オマンコをイカせればいいんだろっ！[r]
-　この、ビッチ！　きもちよくなりたかっただけかよっ！[r]
-　なら、もっとキツいのヤッてやるっ！　ほらっ！　ほらぁっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it...so, I just need to make your pussy cum, right!? You bitch![r]
+You just wanted to feel good, didn't you!? Then, I'll give you[r]
+something even tighter! Here! Here!"[pcms]
 
 *3045|
 [fc]
-[ns]感染者男Ｇ[nse]
-「おい、おい……はげし、すぎるぞ……おれの、チンコにも、[r]
-　お、おまえの、あたって……きもち、いいじゃねえかっ！[r]
-　おれも、まけ、て……られっかよっ！」[pcms]
+[ns]Infected Man G[nse]
+"Hey, hey...that's too intense...it's hitting mine too, and it feels[r]
+good, doesn't it!? I'm not going to lose either!"[pcms]
 
 [evcg storage="taja_H018g"][trans_c cross time=300]
 
 *3046|
 [fc]
 [vo_tay s="taja0251"]
-[ns]ターヤ[nse]
-「あがっ！　ぎぁあああぁぁあっ！！　ひぐうぁっ！[r]
-　んぎぃあああああああああああぁああっぁっ！！」[pcms]
+[ns]Tarja[nse]
+"Agah! Gyaaaaaaaah!! Higuah! Ngyiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!"[pcms]
 
 *3047|
 [fc]
-[ns]誠[nse]
-「はははっ！　これがいいんだね！　もっとはげしくしてやる！[r]
-　こんなにかわいいんだから、もっと、せいそだとおもってたのに[r]
-　ただの、ビッチじゃないか！　セックスだいすきなんだろ！」[pcms]
+[ns]Makoto[nse]
+"Hahaha! This is what you like, isn't it!? I'll do it even more[r]
+intensely! You're so cute, I thought you were more chaste but you're[r]
+just a bitch! You love sex, don't you!"[pcms]
 
 *3048|
 [fc]
-[ns]感染者男Ｇ[nse]
-「あっははは！　び、ビッチかぁ！　ま、まあ、マンコあれば、[r]
-　だれでもいいけどな、お、おれは！　かわいくて、[r]
-　あな、さえありゃ、いいんだ！　あはははっ！　そらっ！」[pcms]
+[ns]Infected Man G[nse]
+"Ahahaha! A bitch, huh? Well, as long as there's a pussy, anyone will[r]
+do for me! As long as she's cute and has a hole, that's all that[r]
+matters! Ahahaha! Take this!"[pcms]
 
 *3049|
 [fc]
 [vo_tay s="taja0252"]
-[ns]ターヤ[nse]
-「ひっ！　ぎぁあぁっ！　ひど、いいっ！　いやぁあっ！[r]
-　あがあぁぁぁっ！！　アソコが裂けちゃう゛ッ！[r]
-　いた゛いいいっ！　いやぁああああぁあぁっ！」[pcms]
+[ns]Tarja[nse]
+"Hii! Gyaaah! That's awful! Nooo! Agaaaaah!! My pussy is going to tear[r]
+apart! It hurts! Nooooooo!"[pcms]
 
 *3050|
 [fc]
-[ns]誠[nse]
-「さける！？　そんなこと、ないだろっ！[r]
-　こんなにユルユルなんだから！　そんなこといって、[r]
-　にげようったって、ゆるさないからな、ビッチ！」[pcms]
+[ns]Makoto[nse]
+"Tear apart!? That's not possible! It's so loose! Saying that, you're[r]
+trying to escape, but I won't let you, bitch!"[pcms]
 
 *3051|
 [fc]
-[ns]感染者男Ｇ[nse]
-「おお、いうね、にいちゃん！　お、おれも、にがさないぞっ！[r]
-　このまま、なかだし、だあぁっ！」[pcms]
+[ns]Infected Man G[nse]
+"Oh yeah, that's the spirit, bro! I won't let go either! I'm going to[r]
+cum inside like this!"[pcms]
 
 *3052|
 [fc]
 [vo_tay s="taja0253"]
-[ns]ターヤ[nse]
-「ぎぃあぁぁっ！　もう中だしいやっ！[r]
-　こんなの、死……死ぬっ！　いやあぁあっ！[r]
-　助けてっ！　たすけて、ライラっ！　ママぁっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gyiaaahh! No more cumming inside! This is...I'll die! Noooo! Help me![r]
+Help me, Laila! Mama!"[pcms]
 
 [evcg storage="taja_H018f"][trans_c cross time=300]
 
 *3053|
 [fc]
-なんだろう、ターヤさんのこえをきくと、[r]
-むねのすごいおくそこがチクチクする。[pcms]
+Somehow, when I hear Tarja-san's voice, something deep in my chest[r]
+starts to prick.[pcms]
 
 *3054|
 [fc]
-これ、もしかして……。[pcms]
+This might be...[pcms]
 
 *3055|
 [fc]
-これがぼくチンコをしげきしてるのかな！[r]
-ヌルヌルで、ドロッドロのオマンコのなかで、[r]
-どんどんおおきくなっていくもの！[pcms]
+Is this my dick getting stimulated? Inside the slippery and gooey[r]
+pussy, it keeps getting bigger and bigger![pcms]
 
 *3056|
 [fc]
-もう、このままなかにださないと、[r]
-ぼくのあたまはヘンになってしまう。[pcms]
+If I don't cum inside now, my head will go crazy.[pcms]
 
 *3057|
 [fc]
-ターヤさんのオマンコに、いっぱいだしてやらないと！[r]
-ぼくのタマのなかが、からっぽになるくらい、[r]
-ぜんぶ、ぜんぶ！[pcms]
+I have to cum a lot inside Tarja-san's pussy! Until my balls are[r]
+completely empty, everything, all of it![pcms]
 
 *3058|
 [fc]
-[ns]誠[nse]
-「そうかっ！　そうだよね、ターヤさん！[r]
-　ぼくのせいし、ぜんぶだすから！　キミのからだに、[r]
-　ぼくのせいしがしみわたるくらいだすからねっ！」[pcms]
+[ns]Makoto[nse]
+"That's right! That's right, Tarja-san! I'll release all my semen[r]
+inside you! Until my semen permeates your body!"[pcms]
 
 *3059|
 [fc]
-[ns]感染者男Ｇ[nse]
-「おれっ、おれも！　まっ、まけねえぞっ！[r]
-　ぐおおおっ！」[pcms]
+[ns]Infected Man G[nse]
+"Me too, me too! I won't lose either! Guoooooh!"[pcms]
 
 *3060|
 [fc]
 [vo_tay s="taja0254"]
-[ns]ターヤ[nse]
-「やだ……もう、これ以上……だされたら、わた、しっ！[r]
-　アソコ、は、破裂……しちゃうっ！　あがぁっ！[r]
-　あぎぃいいぃいぃああぁぁあぁああああぁぁっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No...not anymore...if you cum more inside me, my...my pussy will[r]
+burst...agahh! Agyiiiiiiiiiiiaaaaaaaaaaaaaah!!"[pcms]
 
 *3061|
 [fc]
-[ns]誠[nse]
-「いいこえだあぁっ！　も、もう、ぼく……がまんしないぞっ！[r]
-　まだまだ、オマンコはいっぱいあるんだ！　ターヤさんのばんに[r]
-　なったら、またいっぱいだしてあげるから！」[pcms]
+[ns]Makoto[nse]
+"What a nice voice! I won't hold back anymore! There's still plenty of[r]
+pussy left! When it's Tarja-san's turn again, I'll cum a lot inside[r]
+her!"[pcms]
 
 *3062|
 [fc]
-[ns]誠[nse]
-「だから、いま……いまあるせいしを、ぜんぶあげるから！[r]
-　ぜんぶうけとめてくれたら、うれしいなっ！[r]
-　あははっ！　あはははは！　イクぞおおっ！」[pcms]
+[ns]Makoto[nse]
+"So now...I'll give you all the semen I have now! If you take it all[r]
+in, I'll be happy! Ahaha! Ahahahaha! Here I cum!"[pcms]
 
 *3063|
 [fc]
 [vo_tay s="taja0255"]
-[ns]ターヤ[nse]
-「あぁあっ！　いやっ！　いやぁあああああああああぁっ！！[r]
-　もう、中だしいやぁあああああああああああああぁっ！」[pcms]
+[ns]Tarja[nse]
+"Aaaahh! Noo! Nooooooo!! Not inside anymoreeeeeee!!"[pcms]
 
 *3064|
 [fc]
-[ns]感染者男Ｇ[nse]
-「おれも、だす、ぞおおっ！！　あぁぁ～……」[pcms]
+[ns]Infected Man G[nse]
+"I'm also going to cummmmm!! Aaahh~..."[pcms]
 
 *3065|
 [fc]
 [vo_tay s="taja0256"]
-[ns]ターヤ[nse]
-「あっ……ぁあああああああああぁぁぁっ！！[r]
-　いやあぁあっ！　ダメぇっ！　あがあぁあぁぁあああっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah...aaaaaaaahhhhhhhhhhh!! Nooo! Stop it! Agaaaaaaahhh!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -2328,51 +2170,48 @@
 *3066|
 [fc]
 [vo_tay s="taja0257"]
-[ns]ターヤ[nse]
-「あぁ……は……あ……も、もうイヤ……。[r]
-　死にたい……死にたいっ！　こんなの……。[r]
-　イヤあああああああああぁっっ！」[pcms]
+[ns]Tarja[nse]
+"Ahh...ha...ah...no more...I want to die...I want to die! This is...[r]
+Noooooooooo!!"[pcms]
 
 [evcg storage="taja_H018a"][trans_c cross time=300]
 
 *3067|
 [fc]
-ぼくと、いっしょにオマンコをせめていたおとこは、[r]
-ほとんどどうじに、ターヤさんのからだぜんたいに、[r]
-せいしをブチまけた。[pcms]
+The man who was attacking Tarja-san's pussy with me almost[r]
+simultaneously splattered his semen all over her body.[pcms]
 
 [evcg storage="taja_H018j"][trans_c cross time=300]
 
 *3068|
 [fc]
-ふたりのせいしは、ものすごいいきおいでふきだし、[r]
-そのはんどうでチンコがおしだされ、からだじゅうにも、[r]
-せいしがふりそそいでいく。[pcms]
+The two loads of semen erupted with such force that our dicks were[r]
+pushed out and semen rained down all over her body.[pcms]
 
 *3069|
 [fc]
 [vo_tay s="taja0258"]
-[ns]ターヤ[nse]
-「あぁ……はぁ……あぐぅ……あぁ……」[pcms]
+[ns]Tarja[nse]
+"Ah...haa...aguuh...ah..."[pcms]
 
 *3070|
 [fc]
-ターヤさんは、ぼくがおかしたときとおなじかっこうで、[r]
-かんぜんにしろめをむいて、おおきくけいれんしていた。[pcms]
+Tarja-san was convulsing greatly in the same strange pose as when I[r]
+violated her, her eyes completely rolled back.[pcms]
 
 *3071|
 [fc]
-すこしやすませてあげないと……。[pcms]
+I should give her a little break...[pcms]
 
 *3072|
 [fc]
-このままれんぞくしても、オマンコはクタクタだろう。[r]
-それじゃ、きもちよくないもんな。[pcms]
+If we continue like this non-stop, her pussy will be worn out. That[r]
+wouldn't feel good.[pcms]
 
 *3073|
 [fc]
-ぼくは、じめんにくずれおちていくターヤさんからはなれ、[r]
-たくさんのおとこたちがつくるひとがきをみわたした。[pcms]
+I moved away from Tarja-san who had collapsed on the ground and looked[r]
+over the crowd of men she had attracted.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -2395,30 +2234,28 @@
 
 *3074|
 [fc]
-めのまえが、だんだんぼやけだし、[r]
-つよいたいようのひかりをうけたみたいに、まぶしくなっていく。[pcms]
+My vision started to blur as if being dazzled by the strong sunlight.[pcms]
 
 *3075|
 [fc]
-だんだんしろくなっていくしかいのなか。[pcms]
+The sky gradually turned white.[pcms]
 
 *3076|
 [fc]
-とおくから、おんなこのたのしそうなこえがきこえる。[pcms]
+From afar, I could hear the joyful voices of women.[pcms]
 
 *3077|
 [fc]
-[ns]誠[nse]
-「あぁ……ま、まだ、なかだし、したい……。[r]
-　だ、だせば、だすほど……きぶんが、よくなってる……。[r]
-　そっ、それに、おなかへったな……」[pcms]
+[ns]Makoto[nse]
+"Ah...I still want to cum inside... The more I release, the better it[r]
+feels... And I'm hungry..."[pcms]
 
 *3078|
 [fc]
-[ns]誠[nse]
-「だけど、なんだか、からだが……。[r]
-　こころも、かるい……こんなきもち、うまれてはじめて……。[r]
-　も、もっと、おんな……なかだし……しないと……」[pcms]
+[ns]Makoto[nse]
+"But somehow, my body... My heart also feels light... This is the[r]
+first time I've ever felt like this... I need to... cum inside more[r]
+women..."[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -2430,18 +2267,16 @@
 
 *3079|
 [fc]
-だんだん、なにもかんがえられなくなっていく。[r]
-じぶんのからだが、じぶんのものじゃなくなったみたい。[pcms]
+Gradually, I can't think of anything. It's as if my body isn't my own[r]
+anymore.[pcms]
 
 *3080|
 [fc]
-ぼく……。[r]
-ぼく、いったい、だれなんだろう。[pcms]
+I... Who am I, really?[pcms]
 
 *3081|
 [fc]
-…………。[r]
-……。[pcms]
+...[pcms]
 
 ;<SoundFade 0,3000>
 [fadeoutbgm time=500]
@@ -2449,9 +2284,8 @@
 
 *3082|
 [fc]
-いいや……。[r]
-ぼくは、おんなのこのオマンコになかだしできれば、[r]
-それでいいや……。[pcms]
+No, it's fine... As long as I can cum inside a girl's pussy, that's[r]
+all I need...[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -2491,7 +2325,7 @@
 [eval exp="sf.g_prologueSkip = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 

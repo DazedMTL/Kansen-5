@@ -18,159 +18,157 @@
 
 ;//★_集会所
 
-;//♪bgm18～継続中
+;//♪bgm18継続中
 
 *2769|
 [fc]
-[ns]誠[nse]
-「さっきの事が気に掛かるので、僕もちょっと越智さんの様子を[r]
-　みたいです。何が出来るって訳でもないけど……」[pcms]
+[ns]Makoto[nse]
+"I'm still concerned about what happened earlier, so I'd like to check[r]
+on Ochi-san too. Not that I can do much..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2770|
 [fc]
 [vo_mis s="misao_st0213"]
-[ns]美沙緒[nse]
-「そんなこと無いわ。ああやって茜梨が呼んでるんですもの。[r]
-　居てくれるだけで違うと思う」[pcms]
+[ns]Misao[nse]
+"That's not true. Akari is calling out like that. I think it makes a[r]
+difference just having you there."[pcms]
 
 *2771|
 [fc]
-[ns]誠[nse]
-「はい」[pcms]
+[ns]Makoto[nse]
+"Yes."[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 [bg storage="village04a"][trans_c cross time=500]
 
 *2772|
 [fc]
-越智さんが寝ている部屋に入ると、彼女は布団の上に[r]
-ペタンと座って、涙ぐんでいた。[pcms]
+When I entered the room where Ochi-san was sleeping, she was sitting[r]
+flat on the futon, her eyes brimming with tears.[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi09"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2773|
 [fc]
 [vo_mis s="misao_st0214"]
-[ns]美沙緒[nse]
-「茜梨……」[pcms]
+[ns]Misao[nse]
+"Akari..."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_cos"][ChrSetParts layer=3 chface="F1_ak02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2774|
 [fc]
 [vo_aka s="akari_st0194"]
-[ns]茜梨[nse]
-「あ、おねーさま。どこ行ってたのおぉ？　私、私ぃ」[pcms]
+[ns]Akari[nse]
+"Ah, Onee-sama. Where did you go? I, I..."[pcms]
 
 *2775|
 [fc]
-[ns]誠[nse]
-「越智さん、大丈夫？」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, are you okay?"[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_cos"][ChrSetParts layer=3 chface="F1_ak03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2776|
 [fc]
 [vo_aka s="akari_st0195"]
-[ns]茜梨[nse]
-「あ、まーくん先輩。うれしー、探してたのぉ」[pcms]
+[ns]Akari[nse]
+"Ah, Ma-kun-senpai. I'm so happy, I was looking for you."[pcms]
 
 *2777|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_cos"][ChrSetParts layer=3 chface="F1_ak09"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2778|
 [fc]
 [vo_aka s="akari_st0196"]
-[ns]茜梨[nse]
-「ね、ね。おねー様もまーくん先輩もぉ、ここに座って。[r]
-　私の傍に。ね、ね？」[pcms]
+[ns]Akari[nse]
+"Hey, hey. Onee-sama and Ma-kun-senpai, sit here. Next to me. Okay,[r]
+okay?"[pcms]
 
 *2779|
 [fc]
-布団の上をぱたぱたと叩きながら越智さんが手招きする。[r]
-どう否定しても、幼い子供のリアクションにしか見えない。[r]
-とても僕が知っている彼女の態度とはかけ離れていた。[pcms]
+As Ochi-san beckoned with a patting motion on the futon, it was[r]
+impossible to deny that her reactions were those of a young child. It[r]
+was a far cry from the attitude of the Ochi-san I knew.[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi02"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2780|
 [fc]
 [vo_mis s="misao_st0215"]
-[ns]美沙緒[nse]
-「はいはい。ねえ、茜梨。身体の調子はどうなの？」[pcms]
+[ns]Misao[nse]
+"Alright, alright. Hey, Akari. How are you feeling?"[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_cos"][ChrSetParts layer=3 chface="F1_ak08"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2781|
 [fc]
 [vo_aka s="akari_st0197"]
-[ns]茜梨[nse]
-「えー？　うん、大丈夫。お姉様来てくれたから寂しくないし」[pcms]
+[ns]Akari[nse]
+"Eh? Yeah, I'm fine. I'm not lonely because Onee-sama is here."[pcms]
 
 *2782|
 [fc]
-そう言って越智さんはにぱっと笑った。[pcms]
+Saying that, Ochi-san smiled brightly.[pcms]
 
 *2783|
 [fc]
 [vo_mis s="misao_st0216"]
-[ns]美沙緒[nse]
-「そう。でももう少し眠って身体を休めましょう」[pcms]
+[ns]Misao[nse]
+"That's good. But you should sleep a little more and rest your body."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_cos"][ChrSetParts layer=3 chface="F1_ak06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2784|
 [fc]
 [vo_aka s="akari_st0198"]
-[ns]茜梨[nse]
-「えー？　またひとりで寝るの、やっ……」[pcms]
+[ns]Akari[nse]
+"Eh? Sleep alone again, no..."[pcms]
 
 *2785|
 [fc]
-[ns]誠[nse]
-「傍に居るから。ね、越智さん。僕も少し休みたいし」[pcms]
+[ns]Makoto[nse]
+"I'll be by your side. Right, Ochi-san? I want to rest a bit too."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_cos"][ChrSetParts layer=3 chface="F1_ak03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2786|
 [fc]
 [vo_aka s="akari_st0199"]
-[ns]茜梨[nse]
-「……うん。じゃあ、私の傍にごろんってなってね。[r]
-　お姉様も、ね？」[pcms]
+[ns]Akari[nse]
+"...Okay. Then lie down next to me. Onee-sama too, okay?"[pcms]
 
 *2787|
 [fc]
-そう言いながら越智さんは布団の上に身体を伸ばした。[pcms]
+As she said this, Ochi-san stretched out on the futon.[pcms]
 
 *2788|
 [fc]
-美沙緒さんは越智さんに布団を掛けてあげながら、[r]
-その隣に横たわる。子供をあやすように、布団の上から[r]
-ぽんぽんと、リズムよくあやしていた。[pcms]
+Misao covered Ochi-san with a futon and lay down next to her,[r]
+rhythmically patting her through the futon as if soothing a child.[pcms]
 
 *2789|
 [fc]
-僕も、越智さんを真ん中にして、反対側に寝転んだ。[pcms]
+I also lay down on the opposite side with Ochi-san in the middle.[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_cos"][ChrSetParts layer=3 chface="F1_ak09"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2790|
 [fc]
 [vo_aka s="akari_st0200"]
-[ns]茜梨[nse]
-「うふふ。嬉しいなあ。お姉様とまーくん先輩と一緒」[pcms]
+[ns]Akari[nse]
+"Ufufu. I'm so happy. With Onee-sama and Ma-kun-senpai together."[pcms]
 
 *2791|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [chara_int]
 ;//[trans_c cross time=0]
@@ -178,26 +176,25 @@
 
 *2792|
 [fc]
-よほどダメージが大きかったんだろうな……。[r]
-安全が確保できたら心療内科に掛かった方がいいレベルかも……。[pcms]
+The damage must have been quite severe... Once it's safe, she might[r]
+need to see a psychiatrist...[pcms]
 
 *2793|
 [fc]
-すうすうと越智さんの寝息が聞えてきた。[r]
-安心したのか、あっという間に眠りに戻っていったようだ。[pcms]
+Ochi-san's breathing became steady as she slept. She seemed reassured[r]
+and quickly fell back into sleep.[pcms]
 
 *2794|
 [fc]
-でも、もう少し傍に居た方がいいかな。[r]
-まだ浅い眠りだろうから、ヘタに動くとまた起こしちゃうかも[r]
-しれないし……。[pcms]
+But maybe I should stay a little longer. Her sleep still seems[r]
+shallow, and if I move carelessly, I might wake her up again...[pcms]
 
 [black_toplayer][trans_c cross time=2000][hide_chara_int]
 
 *2795|
 [fc]
-そんな事を考えている内に、僕もやっぱり疲れてたみたいで、[r]
-いつの間にか眠ってしまっていた。[pcms]
+As I thought about this, it seems I was tired too because before I[r]
+knew it, I had fallen asleep as well.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>

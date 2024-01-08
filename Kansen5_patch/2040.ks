@@ -21,176 +21,171 @@
 
 *508|
 [fc]
-[ns]誠[nse]
-「んっ？！」[pcms]
+[ns]Makoto[nse]
+"Huh?!"[pcms]
 
 ;//★tent01a 彩月のテント内 夜
 [bg storage="tent01a"][trans_c cross time=500]
 
 *509|
 [fc]
-パチッと目が覚めた。[r]
-どこかで……悲鳴が聞こえたような気がして……。[pcms]
+I snapped awake. It felt like I heard a scream from somewhere...[pcms]
 
 *510|
 [fc]
-しばらく耳を澄ませてみたけれど、悲鳴どころか人の声さえ[r]
-聞こえてこない。気のせい……だったのかな。[pcms]
+I strained my ears for a while, but I couldn't hear anything, not even[r]
+a voice, let alone a scream. Maybe it was just my imagination...[pcms]
 
 [bgm storage="BGM01"]
 ;//♪bgm01　エロシーン/ドラマティック
 
 *511|
 [fc]
-悲鳴は聞こえなかったけれど、すぐ隣からすぅすぅという[r]
-可愛らしい寝息が聞こえている。[pcms]
+Although I didn't hear a scream, I could hear cute, soft breathing[r]
+coming from right next to me.[pcms]
 
 *512|
 [fc]
-南先輩はぐっすりと眠っているようだ。[r]
-思わずその綺麗な寝顔に見惚れてしまう。[pcms]
+Senior Minami seems to be fast asleep. I can't help but be captivated[r]
+by her beautiful sleeping face.[pcms]
 
 *513|
 [fc]
-美人って、眠っていても美人なんだなあ。[r]
-女の子の寝顔をこんな間近でじっくり見るなんて、[r]
-初めての事だけど、きっと世の中で一番の寝顔だと思う。[pcms]
+Beautiful women are still beautiful even when they're asleep. It's my[r]
+first time seeing a girl's sleeping face up close like this, but I'm[r]
+sure it's the best in the world.[pcms]
 
 *514|
 [fc]
-寝息は僕の耳を優しくくすぐり、テント内に漂う甘い香りは[r]
-僕の肺を満たしていた。[pcms]
+The sound of her breathing gently tickles my ears, and the sweet scent[r]
+drifting inside the tent fills my lungs.[pcms]
 
 *515|
 [fc]
-南先輩の体液の匂い。甘酸っぱくて芳醇で、なんというか[r]
-そう、まさしくフェロモンの香りって感じだ。[pcms]
+It's the smell of Senior Minami's body fluids. It's sweet and sour,[r]
+rich, and well, it's exactly what you'd call the scent of pheromones.[pcms]
 
 *516|
 [fc]
-それにしても、セックスって凄いんだなあ。[r]
-オナニーなんかの比じゃなかった。[pcms]
+Sex is really something else. It's nothing compared to masturbation.[pcms]
 
 *517|
 [fc]
-女の子というか、南先輩は凄かった。[r]
-何が凄いって、普段の姿からはわからなかったあの肉感的な身体。[pcms]
+It's not just any girl, Senior Minami was amazing. What's amazing is[r]
+that voluptuous body that you wouldn't expect from her usual[r]
+appearance.[pcms]
 
 *518|
 [fc]
-たわわなおっぱいも凄いけど、パツンと張ってるお尻も凄い。[r]
-もちろん、マンコだって。何もかも凄かった。[pcms]
+Her bountiful breasts are incredible, but so is her tight butt. And of[r]
+course, her pussy too. Everything was amazing.[pcms]
 
 *519|
 [fc]
-やっぱり水泳なんてやってるせいかな。[r]
-水泳に限らず何かしら運動している子って、[r]
-自分の身体の使い方を知ってる気がする。[pcms]
+I wonder if it's because she swims. Not just swimming, but girls who[r]
+do some kind of sport seem to know how to use their bodies.[pcms]
 
 *520|
 [fc]
-身体を自分の意思で自在に操れるから、快感の引き出し方も[r]
-わかってるような……。[pcms]
+Because they can freely control their bodies with their will, they[r]
+seem to know how to draw out pleasure...[pcms]
 
 *521|
 [fc]
-越智さんも……そうなのかな。[pcms]
+I wonder if Ochi-san is the same...[pcms]
 
 *522|
 [fc]
-なんだか、ちょっとだけ裏切ったような気がしてしまう。[r]
-でも、慕ってくれてるとは思うけど、恋人って訳じゃないし、[r]
-それに……こんな据え膳を逃したら男の恥じゃん。[pcms]
+I feel a little like I've betrayed her. But even though she looks up[r]
+to me, we're not lovers, and besides... it would be a shame for a man[r]
+to pass up an opportunity like this.[pcms]
 
 *523|
 [fc]
-いや……言い訳なんだけどさ。[pcms]
+No... it's just an excuse.[pcms]
 
 *524|
 [fc]
-なんとなく心がちくちくとした僕は、[r]
-頭をぶるぶるっと振って越智さんの事を追い出した。[pcms]
+Feeling a prickling in my heart, I shook my head vigorously to cast[r]
+Ochi-san out of my thoughts.[pcms]
 
 *525|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *526|
 [fc]
-身体がだるい。でも心地よい弛緩だ。[r]
-今日の合宿再開が昼からで助かった。[pcms]
+My body feels heavy, but it's a pleasant kind of fatigue. Thank[r]
+goodness the camp resumes in the afternoon today.[pcms]
 
 *527|
 [fc]
-まだ夜明け前。[r]
-このまま南先輩の横で、昼ぐらいまでぐっすり眠れば、[r]
-体力も回復してるだろう。[pcms]
+It's still before dawn. If I sleep next to Senior Minami until around[r]
+noon, my strength should be fully restored.[pcms]
 
 *528|
 [fc]
-[ns]誠[nse]
-「……ぁ！」[pcms]
+[ns]Makoto[nse]
+"Ah!"[pcms]
 
 *529|
 [fc]
-……まずい。[pcms]
+...This is bad.[pcms]
 
 *530|
 [fc]
-『キャンプ場でセックスするカップル』って、[r]
-まんまホラー映画の死亡フラグじゃん。[pcms]
+"A couple having sex at a campsite" is exactly like a death flag in a[r]
+horror movie.[pcms]
 
 *531|
 [fc]
-しまった……立てちゃったよ……。[r]
-どうしよう、ホッケーマスクの殺人鬼とか現れたら。[pcms]
+Damn... I've set it up... What if a hockey-masked killer shows up?[pcms]
 
 *532|
 [fc]
-体力奪われ切った今の僕なんて、きっと間違いなく[r]
-殺されちゃうよな。[pcms]
+With my strength completely drained like this, I'm sure I'd definitely[r]
+be killed.[pcms]
 
 *533|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *534|
 [fc]
-いやいや、現実世界なんだし、映画じゃないんだから。[r]
-そんな、ゲームのフラグ立てたみたいに……。[pcms]
+No, no, this is the real world, not a movie. It's not like setting up[r]
+a flag in a game...[pcms]
 
 *535|
 [fc]
-大丈夫。そんな事があるわけない。[r]
-……無いよな。……無いよね……。[pcms]
+It'll be fine. There's no way that could happen. ...Right?[r]
+...Right...?[pcms]
 
 *536|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *537|
 [fc]
-頭のどこかに、その不吉な予感がこびりついてしまった。[r]
-気分転換しなくちゃと思い立ち、僕はコンビニまで[r]
-行ってみることにする。[pcms]
+That ominous premonition has stuck in my mind. Thinking I need a[r]
+change of pace, I decide to go to the convenience store.[pcms]
 
 *538|
 [fc]
-キャンプ場に隣接なんてどうかなと思ったけど、[r]
-こんな時間でもお店がやってるんだから、確かにありがたいかも。[pcms]
+I was skeptical about having one right next to the campsite, but it's[r]
+certainly convenient that the store is open even at this hour.[pcms]
 
 *539|
 [fc]
-……もしも、コンドーム買い足してきたら、またセックス[r]
-させてくれるかな……。[pcms]
+...I wonder if she'll let me have sex with her again if I go buy more[r]
+condoms...[pcms]
 
 *540|
 [fc]
-ちょっとだけ気持ちを持ち直してわくわくしながら、[r]
-僕は南先輩を起こさないようにと、そっとテントを抜け出した。[pcms]
+Feeling slightly better and excited at the thought, I quietly slipped[r]
+out of the tent so as not to wake Senior Minami.[pcms]
 
 ;//★_キャンプ場（夜明け前）
 ;//★bg04b オートキャンプ場・夜 とりあえず夜を貼っておく
@@ -199,44 +194,42 @@
 
 *541|
 [fc]
-外はまだ薄暗かった。でも、深夜の暗さほどではなくて、[r]
-ぼんやりと物の見分けが付く。これなら外灯も所々あるから[r]
-問題無くコンビニまで行けるだろう。[pcms]
+Outside it was still dim, but not as dark as deep night, and I could[r]
+vaguely make out objects. With some streetlights here and there, I[r]
+should be able to get to the convenience store without any problems.[pcms]
 
 *542|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *543|
 [fc]
-それにしても、今日は色々な事がありすぎた。[pcms]
+Still, a lot has happened today.[pcms]
 
 *544|
 [fc]
-お屋敷での食事に始まって、[r]
-越智さんの家があの事件の関係者だという事の発覚。[pcms]
+It started with dinner at the mansion and then the revelation that[r]
+Ochi-san's family was involved in that incident.[pcms]
 
 *545|
 [fc]
-そして……南先輩の告白があった。[r]
-僕と同じバーコードを持っていたなんて……。[pcms]
+And then... there was Senior Minami's confession. That she had the[r]
+same virginity as me...[pcms]
 
 *546|
 [fc]
-噂が半分本当だったってのも、正直ショックだったけど、[r]
-家族を全員失って、天涯孤独の身の上になってしまった先輩。[pcms]
+The rumors being half true was honestly a shock, but Senior Minami[r]
+lost her entire family and ended up completely alone in the world.[pcms]
 
 *547|
 [fc]
-セックスを快楽の手段として捉えているのも、男遊びしてるのも、[r]
-言うなれば、あのエピデミックの生き残りでひとりぽっちに[r]
-なったのが、一番の理由のような気がする。[pcms]
+Seeing sex as a means of pleasure and playing around with men might be[r]
+because she was left all alone as a survivor of that epidemic.[pcms]
 
 *548|
 [fc]
-きっと、人とふれあう手っ取り早い方法として、セックスを[r]
-選んでしまったんじゃないだろうか。[pcms]
+Perhaps she chose sex as the quickest way to interact with people.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,1000>
@@ -245,27 +238,27 @@
 [fc]
 [vo_mob s="oso0001"]
 [ns]？？？[nse]
-「き、きゃあぁ……」[pcms]
+"Kyaaah...!"[pcms]
 
 *550|
 [fc]
-[ns]誠[nse]
-「え？！」[pcms]
+[ns]Makoto[nse]
+"Huh?!"[pcms]
 
 *551|
 [fc]
-悲鳴？　思わず足が止まる。[r]
-どっちから聞こえたのかわからなかったけど、確かに聞こえた。[pcms]
+A scream? I involuntarily stopped in my tracks. I couldn't tell where[r]
+it came from, but I definitely heard it.[pcms]
 
 *552|
 [fc]
-僕が悲鳴で目を覚ましたような気がしたのは、やっぱり本当に[r]
-聞こえていたんだ。[pcms]
+I thought I woke up because of a scream, and it turns out I really did[r]
+hear one.[pcms]
 
 *553|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 ;//新BGM
 [bgm storage="BGM18"]
@@ -273,143 +266,139 @@
 
 *554|
 [fc]
-どこから聞こえたんだろうと、耳を研ぎ澄ます。[pcms]
+I strained my ears, trying to figure out where it came from.[pcms]
 
 *555|
 [fc]
-でも、しばらくその場に立ち尽くしていたのに、[r]
-悲鳴はそれっきりで、全然うんともすんとも聞こえてこなかった。[pcms]
+But even after standing still for a while, the scream did not come[r]
+again, and I couldn't hear anything else at all.[pcms]
 
 *556|
 [fc]
-[ns]誠[nse]
-「……ぁ」[pcms]
+[ns]Makoto[nse]
+"...Ah"[pcms]
 
 *557|
 [fc]
-もしかして、悲鳴っていっても嬌声のほうかな。[r]
-どこかでセックスしてるエロイ声なのかも……。[pcms]
+Maybe that scream was actually a moan. Maybe it's the erotic voice of[r]
+someone having sex somewhere...[pcms]
 
 *558|
 [fc]
-って事は……もしかして僕と南先輩のも外に筒抜けで[r]
-みんなに聞かれてた……のか？　うわあ、ちょっと恥ずかしい……[pcms]
+That means... maybe everyone could hear me and Senior Minami too...[r]
+from outside? Ugh, that's a bit embarrassing...[pcms]
 
 *559|
 [fc]
-僕は自分でも赤面してるな……と思いながらまた歩き始めた。[r]
-まだ薄暗くて良かったよ、本当に。[pcms]
+I started walking again, feeling my face flush with embarrassment.[r]
+Thank goodness it's still dim outside.[pcms]
 
 *560|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *561|
 [fc]
-南先輩、仲間みたいなもんだしって言ってたな……。[r]
-僕自身も、先輩のバーコードを見た瞬間に、妙な同胞意識って[r]
-いうか、これまで以上の親近感みたいなのをどこかで感じていた。[pcms]
+Senior Minami said we're like comrades... The moment I saw her[r]
+barcode, I felt a strange sense of kinship, or a greater sense of[r]
+closeness than before.[pcms]
 
 *562|
 [fc]
-先輩は僕のバーコードを知っていた訳だから、同じような感覚を[r]
-持ち続けていてくれたのかもしれない。[pcms]
+Since she knew about my barcode, she might have continued to feel the[r]
+same way.[pcms]
 
 *563|
 [fc]
-だとしたら……思い上がりなのかもしれないけど、僕だったら[r]
-南先輩を本当の意味で、支えてあげられるんじゃないのかな。[pcms]
+If that's the case... it might be presumptuous of me, but maybe I[r]
+could truly support Senior Minami.[pcms]
 
 *564|
 [fc]
-僕の事情を知ってる姉ちゃんやそーいち。[r]
-ふたりとも良き理解者で大事な人だけど……。[pcms]
+Onee-san and Souichi know about my situation. Both are good confidants[r]
+and important to me, but...[pcms]
 
 *565|
 [fc]
-きっと、僕の奥底で感じてる、この寂しさや虚無感……、[r]
-ブツリと人生を断絶されちゃったような感覚ってのは、[r]
-真の意味では理解出来ないと思う。[pcms]
+I'm sure they can't truly understand this loneliness and sense of void[r]
+I feel deep down... the sensation as if my life has been abruptly[r]
+severed.[pcms]
 
 *566|
 [fc]
-実際に体験した者、当事者でなくちゃわからない感覚だから。[pcms]
+It's a feeling only those who have experienced it firsthand can[r]
+understand.[pcms]
 
 *567|
 [fc]
-でも、同じ境遇の南先輩なら僕のことを判ってくれるし、[r]
-僕も南先輩の孤独感や心情を理解出来ると思う。[pcms]
+But Senior Minami, being in the same situation, would understand me,[r]
+and I think I can comprehend her loneliness and feelings as well.[pcms]
 
 *568|
 [fc]
-男遊びなんかで埋めてる部分を、僕が補って、支えてあげる事が[r]
-出来ると思う。[pcms]
+I think I can fill the void she's been trying to cover with flings[r]
+with men and support her.[pcms]
 
 *569|
 [fc]
-今晩限りで終わりにしたくないんだ……僕は。[r]
-セックスに限らず、南先輩とのことを……。[pcms]
+I don't want this to end with just tonight... not just the sex, but[r]
+everything with Senior Minami.[pcms]
 
 *570|
 [fc]
-そんな事をつらつらと考えていた僕の視線は、自然と足元を[r]
-向いていた。[pcms]
+As I pondered these things, my gaze naturally fell to the ground.[pcms]
 
 *571|
 [fc]
-答えが見えたような気がして、ふと顔を上げると、前方に[r]
-白くぼんやりとした塊が見える。[pcms]
+Feeling as if I had found an answer, I looked up and saw a white,[r]
+blurry mass in the distance.[pcms]
 
 *572|
 [fc]
-一瞬、お化け？　とビビったけど、よく見るとどうやら[r]
-人がうずくまっているのが判った。[pcms]
+For a moment, I was scared it might be a ghost, but on closer[r]
+inspection, it seemed to be a person crouching down.[pcms]
 
 *573|
 [fc]
-何してるんだろうという好奇心から、[r]
-僕は更に近づいてみる。[pcms]
+Driven by curiosity about what they were doing, I decided to get[r]
+closer.[pcms]
 
 *574|
 [fc]
-すると、確かに白っぽい服装の人がうずくまっていて、[r]
-おまけに、その人の前には、誰かが横たわっていた。[pcms]
+Sure enough, there was someone in pale clothing crouched down, and in[r]
+front of them, someone else was lying down.[pcms]
 
 *575|
 [fc]
-もしかして急病人かなんかだろうか？[r]
-迷いはあったけれど、僕は更に近づいて声を掛けてみることにした。[r]
-何か手助け出来るかもしれない。[pcms]
+Could it be someone who suddenly fell ill? Despite my hesitation, I[r]
+decided to approach and call out to them. Maybe I could help.[pcms]
 
 *576|
 [fc]
-[ns]誠[nse]
-「あの……どうしたんですか？」[pcms]
+[ns]Makoto[nse]
+"Excuse me... what happened?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_wra_a"][ChrSetParts layer=5 chface="f1_st26r"][ChrSetXY layer=5 x=300 y=0][pimage storage="st1_wra_a_bl" layer=5 page=back visible=true dx=0 dy=0 opacity=255][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *577|
 [fc]
-傍まで行くと、そのうずくまっている人が女性だと判った。[r]
-なんだか奇妙なテラッとした素材の、そう、白いレインコート[r]
-みたいなのを着ている。[pcms]
+When I got closer, I realized that the crouching person was a woman.[r]
+She was wearing something strange and shiny, like a white raincoat.[pcms]
 
 *578|
 [fc]
-夏だっていうのに暑くないのかな。[r]
-雨だって降ったわけじゃないし。[pcms]
+It's summer; isn't she hot? It hasn't even rained.[pcms]
 
 *579|
 [fc]
-そう[ruby text="いぶか"]訝しんでいると、[r]
-その女性はようやく僕に気がついたかの[r]
-ように、振り返った。[pcms]
+As I wondered about this, the woman finally seemed to notice me and[r]
+turned around.[pcms]
 
 *580|
 [fc]
-少し髪が乱れてるけど、なかなかの美人だと思う。[r]
-なんとなく南先輩に似てる気がするけど……。[pcms]
+Her hair was a bit disheveled, but she seemed quite beautiful. She[r]
+somehow reminded me of Senior Minami...[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,1000>
@@ -418,7 +407,7 @@
 [fc]
 [vo_stk s="satuki_st0142"]
 [ns]？？？[nse]
-「…………」[pcms]
+"..."[pcms]
 
 ;//彩月の分身のようなものです
 
@@ -426,93 +415,94 @@
 
 *582|
 [fc]
-[ns]誠[nse]
-「！！！」[pcms]
+[ns]Makoto[nse]
+"!!!"[pcms]
 
 *583|
 [fc]
-僕は、叫び出しそうになる口を両手で必死に押さえた。[r]
-振り返ったその女性。遠くの外灯に照らされたその女性の瞳が、[r]
-真っ赤に染まっている。[pcms]
+I desperately covered my mouth with both hands to stop myself from[r]
+screaming. The woman who turned around had eyes that glowed red in the[r]
+light of a distant streetlamp.[pcms]
 
 *584|
 [fc]
-わずかな灯りの中でも、その怪しい瞳の色は、[r]
-見間違えようがなかった。[pcms]
+In the faint light, there was no mistaking the eerie color of her[r]
+eyes.[pcms]
 
 *585|
 [fc]
-感染者だっ！！[pcms]
+She's infected!![pcms]
 
 [bgm storage="BGM14"]
 ;//♪bgm14　逃走：エロ：緊迫緊張
 
 *586|
 [fc]
-[ns]誠[nse]
-「！！！！」[pcms]
+[ns]Makoto[nse]
+"!!!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *587|
 [fc]
-横たわっている人も、急病人なんかじゃない。[r]
-というか、もうきっと生きていない。[pcms]
+The person lying down isn't just sick... In fact, they're probably no[r]
+longer alive.[pcms]
 
 *588|
 [fc]
-どす黒い、間違いなく血だと思われる液体が地面に広がって、[r]
-あちこちの服や、身体が無残に裂かれていた。[pcms]
+A dark, almost black liquid that was undoubtedly blood was spread on[r]
+the ground, and clothes and bodies were gruesomely torn apart here and[r]
+there.[pcms]
 
 *589|
 [fc]
-[ns]誠[nse]
-「っ！！！」[pcms]
+[ns]Makoto[nse]
+"!!!"[pcms]
 
 *590|
 [fc]
-紅い瞳がぐにゃっとゆがみ、その女性は口許に[r]
-にたりとした笑いを浮かべた。[pcms]
+Her crimson eyes twisted grotesquely, and the woman revealed a[r]
+sinister smile around her mouth.[pcms]
 
 *591|
 [fc]
-僕は、思わず後ずさってしまう。[pcms]
+I instinctively stepped back in horror.[pcms]
 
 *592|
 [fc]
 [vo_mob s="oso0002"]
-[ns]女性[nse]
-「きゃああぁああぁあ！　いやああっ！」[pcms]
+[ns]Female[nse]
+"Kyaaaahhh! Noooo!"[pcms]
 
 ;//襲われてる女性
 
 *593|
 [fc]
-[ns]男性[nse]
-「ぎゃああ！　やめろーーーっ！」[pcms]
+[ns]Male[nse]
+"Gyaaah! Stop---!"[pcms]
 
 *594|
 [fc]
-ビクッとその絶叫に身体が反応する。[r]
-後ろに歩を進めながら、よっく目を凝らして辺りを見回すと……。[pcms]
+I jerked in response to the screams. As I stepped back, I strained my[r]
+eyes to look around...[pcms]
 
 *595|
 [fc]
-なんで、気付かなかったんだ！[r]
-薄暗がりをおぼつかない足取りで歩き回る人影がいくつもあった。[pcms]
+How did I not notice before! There were several figures walking[r]
+unsteadily in the dim light.[pcms]
 
 *596|
 [fc]
-あの動き。忘れようもない。[r]
-うろついてる連中は、間違いなく感染者だ！[pcms]
+That movement. Unforgettable. Those wandering around were definitely[r]
+infected![pcms]
 
 ;//■_テントの布がバサバサ言う音
 [se buf=0 storage="seA059"]
 
 *597|
 [fc]
-あちこちのテントがバタバタと音を立てながら揺れている。[r]
-きっと、中に侵入され襲われているんだ。[pcms]
+The tents were rustling and shaking with noise. Surely, they've been[r]
+invaded and attacked inside.[pcms]
 
 ;//SE■_車の急発進の音
 ;//SE■_衝突音
@@ -520,40 +510,41 @@
 
 *598|
 [fc]
-[ns]誠[nse]
-「うっ………………！！！！！」[pcms]
+[ns]Makoto[nse]
+"Ugh...!!!!!"[pcms]
 
 *599|
 [fc]
-遠くで車が事故を起こす音が聞こえてきた。[r]
-パニックが起ころうとしている。[pcms]
+I could hear the sound of a car accident in the distance. Panic was[r]
+about to ensue.[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *600|
 [fc]
-叫びだしそうなるのを、必死にこらえた。[r]
-声を出したら、たちまち標的になってしまう。[pcms]
+I desperately suppressed the urge to scream. If I made a sound, I[r]
+would immediately become a target.[pcms]
 
 *601|
 [fc]
-いやな音、いやな光景……あのときと、一緒じゃないかっ！！！[pcms]
+That unpleasant sound, that horrible sight... It's just like that[r]
+time!!![pcms]
 
 *602|
 [fc]
-[ns]誠[nse]
-「っ！！」[pcms]
+[ns]Makoto[nse]
+"!!"[pcms]
 
 *603|
 [fc]
-南先輩！　やばい、知らせなくちゃ。[r]
-まだぐっすりと、あの綺麗な顔で眠っていて欲しい。[pcms]
+Senior Minami! This is bad, I have to let her know. I hope she's still[r]
+sound asleep with that beautiful face.[pcms]
 
 *604|
 [fc]
-ガクガクと震えていた膝に気合いを入れて、まだ足取りは[r]
-おぼつかない感じがあったけれど、僕は急いで引き返した。[pcms]
+I put some spirit into my trembling knees. Although my steps were[r]
+still unsteady, I hurried back.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

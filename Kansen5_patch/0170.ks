@@ -1,11 +1,11 @@
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 ;//シーン名	：『姉ちゃんと僕のいつもの』
 ;//file名	：0170
-;//登場人物	：主人公 夏都
+;//登場人物	：主人公 夏
 ;//服装		：制服
 ;//日付		：7月16日
 ;//時間		：午後19時以降
-;//場所		：誠と夏都のアパート(時間：夜)
+;//場所		：誠と夏のアパート(時間：夜)
 ;//予想容量	：全体を通して10K前後
 ;//備考		：主人公一人称視点
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
@@ -24,42 +24,42 @@
 
 *1966|
 [fc]
-富ヶ谷二丁目に住む南先輩と途中で別れた僕は、[r]
-代々木八幡駅前で買い物を済ませて、[r]
-姉ちゃんと暮らしているアパートに戻ってきた。[pcms]
+After parting ways with senior Minami who lives in Tomigaya 2-chome, I[r]
+finished shopping in front of Yoyogi-Hachiman Station and returned to[r]
+the apartment where I live with my sister.[pcms]
 
 *1967|
 [fc]
-多少物価は高いかも知れないけれど、[r]
-都心はやっぱり便利な気がする。[pcms]
+The cost of living might be a bit high, but I feel like the city[r]
+center is really convenient after all.[pcms]
 
 *1968|
 [fc]
-食べ物だけじゃなくて、ＤＶＤ借りるのも[r]
-コンビニに行くのも、銀行やら郵便局やら[r]
-必要なものがあちこちにあった。[pcms]
+It's not just food, but also renting DVDs, going to convenience[r]
+stores, and having banks and post offices nearbyeverything you need[r]
+is scattered around.[pcms]
 
 *1969|
 [fc]
-でも、一番便利なのはやっぱり交通網だろうか。[pcms]
+But, the most convenient thing might be the transportation network.[pcms]
 
 *1970|
 [fc]
-どこを歩いても駅にぶつかるし、[r]
-なんだかんだとバスが出ている。[pcms]
+No matter where you walk, you bump into a station, and there are buses[r]
+going here and there.[pcms]
 
 [se buf=1 storage="seA058"]
 ;//ビニール袋をガサガサ
 
 *1971|
 [fc]
-明田に住んでいた者としては、[r]
-この辺りを便利に感じざるを得ない。[pcms]
+As someone who lived in Akita, I can't help but find this area[r]
+convenient.[pcms]
 
 *1972|
 [fc]
-買ってきた食材を冷蔵庫に入れて、[r]
-米を磨ぐことにする。[pcms]
+I put the groceries I bought into the fridge and decide to polish the[r]
+rice.[pcms]
 
 [stopse buf=1]
 ;<SoundRun 3,Stop,ON,2000>
@@ -73,26 +73,26 @@
 
 *1973|
 [fc]
-姉ちゃんが本屋から帰ってくる前に、[r]
-米を磨いで炊飯器のスイッチを入れておきたい。[pcms]
+I want to polish the rice and turn on the rice cooker before my sister[r]
+comes back from the bookstore.[pcms]
 
 *1974|
 [fc]
-二人の食卓だと明日の朝の分も入れて、[r]
-二合も炊けば十分というか余ってしまう状態だった。[pcms]
+For the two of us at the dining table, cooking two cups of rice is[r]
+more than enough, even leaving some leftover for tomorrow's breakfast.[pcms]
 
 [se buf=1 storage="seC029"]
 ;//ガスのコンロを点ける
 
 *1975|
 [fc]
-でも、帯に短し、たすきに長し。[r]
-一合だと足らないというのが難しい。[pcms]
+But it's tricky; too short for a belt, too long for a sash. One cup is[r]
+not enough.[pcms]
 
 *1976|
 [fc]
-結局、余った分はおにぎりにして冷凍保存というのが[r]
-効率的だということになっていた。[pcms]
+In the end, it turned out that making onigiri with the leftover rice[r]
+and freezing them was the most efficient way.[pcms]
 
 [stopse buf=0]
 ;<SoundRun 2,Stop,ON,2000>
@@ -101,8 +101,8 @@
 
 *1977|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 ;//体験版は0175.txtはカット
 ;//---------------------------------------------
@@ -123,217 +123,221 @@
 
 *1978|
 [fc]
-黙って米を磨いでいると、頭の中に言葉やイメージが[r]
-浮かんでは消えていく。[pcms]
+As I silently polish the rice, words and images come and go in my[r]
+mind.[pcms]
 
 *1979|
 [fc]
-今日は色々と驚かされる日だったけれど、[r]
-越智さんのことはその中でもとびきりだった。[pcms]
+Today was a day full of surprises, but Ochi-san's matter was[r]
+particularly astonishing among them.[pcms]
 
 *1980|
 [fc]
-かわいいだけじゃなくて、他の女の子とは雰囲気が違うと[r]
-思っていたけれど、まさか、あんなお嬢様だったなんて。[pcms]
+She's not just cute; I thought her atmosphere was different from other[r]
+girls, but I never imagined she'd be such a lady.[pcms]
 
 *1981|
 [fc]
-たまたま家庭環境的に、お母さんが贅沢をしない人だった[r]
-というだけで、血統もスキルもお嬢様そのものじゃないか。[pcms]
+It's just that her family environment happened to be one where her[r]
+mother doesn't indulge in luxuries, but her lineage and skills are[r]
+truly that of a lady.[pcms]
 
 *1982|
 [fc]
-お茶とか華とかはともかく、薙刀って、[r]
-やっている人は中々いないと思う。[pcms]
+Tea ceremony and flower arrangement aside, naginata is not something[r]
+many people practice, I believe.[pcms]
 
 *1983|
 [fc]
-いかにも武家の娘って感じのするスキルだった。[pcms]
+It felt like a skill befitting the daughter of a samurai family.[pcms]
 
 *1984|
 [fc]
-お母さんも、きっと美人でステータスの高い人なんだろう。[pcms]
+Her mother must also be a beautiful woman with high status.[pcms]
 
 *1985|
 [fc]
-他人には優しく、自分や身内には厳しく。[pcms]
+Kind to others, strict with herself and her family.[pcms]
 
 *1986|
 [fc]
-男を立てて、自分はあくまで控えめに目立たず、[r]
-でもしっかりと伴侶を支えるみたいな。[pcms]
+Uplifting men, while she herself remains modest and unobtrusive, yet[r]
+firmly supporting her partner.[pcms]
 
 [se buf=0 storage="seD005"]
 ;//水を流す
 
 *1987|
 [fc]
-越智さんにも、そういうところを期待させるなにかがある。[pcms]
+There's something about Ochi-san that makes me expect such qualities[r]
+from her.[pcms]
 
 *1988|
 [fc]
-現代の男と言えども、そういう女性はやっぱり理想の[r]
-ひとつになるはずだった。[pcms]
+Even for modern men, such a woman is still one of the ideals.[pcms]
 
 *1989|
 [fc]
-今まで、ほどほどに仲がいい感じだったけど、[r]
-こんなに深く話し合ったことはない。[pcms]
+We've been on good terms to a moderate extent until now, but we've[r]
+never had such a deep conversation before.[pcms]
 
 *1990|
 [fc]
-家庭も習い事のことも何も知らなかったことを思えば、[r]
-今日一日で一気に距離が縮まった気がしていた。[pcms]
+Considering I knew nothing about her family or her extracurricular[r]
+lessons, it feels like we've closed the distance between us[r]
+significantly in just one day.[pcms]
 
 *1991|
 [fc]
-越智さんだけじゃない、南先輩だってそうだ。[pcms]
+It's not just Ochi-san; it's the same with senior Minami.[pcms]
 
 *1992|
 [fc]
-こんな風に長い時間、一緒に話をしたことは[r]
-なかったんじゃないだろうか。[pcms]
+I wonder if we've ever spent such a long time talking together like[r]
+this before.[pcms]
 
 *1993|
 [fc]
-部活絡みのオフィシャルな用事ばかりで、[r]
-たわいのない雑談とか、少なかった気がする。[pcms]
+It was always official business related to club activities; casual[r]
+chit-chat was rare, I think.[pcms]
 
 *1994|
 [fc]
-そういえば、深くは聞けなかったけれど[r]
-南先輩はどうして一人暮らしなんだろうか。[pcms]
+Come to think of it, though I didn't ask in depth, why does senior[r]
+Minami live alone?[pcms]
 
 [stopse buf=0]
 ;<SoundRun 2,Stop,ON,2000>
 
 *1995|
 [fc]
-みんな、色々あるとは思うけれど、[r]
-一人暮らしっていうのは珍しいと思う。[pcms]
+I understand everyone has their circumstances, but living alone seems[r]
+unusual.[pcms]
 
 *1996|
 [fc]
-多少家庭に問題があっても、一人暮らしにはならないだろうし、[r]
-問題がありすぎると施設とか面倒なことになるはずだ。[pcms]
+Even if there are some problems at home, one wouldn't normally live[r]
+alone; if there are too many problems, it would lead to facilities and[r]
+other complicated issues.[pcms]
 
 *1997|
 [fc]
-バイトして生活費を稼いでいる様子はないから、[r]
-金銭的には困っていないんだろうけど……。[pcms]
+She doesn't seem to be working part-time to earn living expenses, so[r]
+she must not be financially troubled...[pcms]
 
 *1998|
 [fc]
-あのミステリアスなところが魅力のひとつなのはともかく、[r]
-僕はなんとなく気になってしまった。[pcms]
+While her mysteriousness is part of her charm, I can't help but be[r]
+curious about it.[pcms]
 
 *1999|
 [fc]
-家族と上手くいっているなら一人暮らしにはならないだろうから、[r]
-変なこと聞かないようにしないといけないな。[pcms]
+If she got along well with her family, she wouldn't be living alone,[r]
+so I have to be careful not to ask anything strange.[pcms]
 
 *2000|
 [fc]
-あんまり、他人のプライバシーに踏み込むのも[r]
-お互い気まずいだけだし。[pcms]
+It's awkward for both parties if you delve too much into someone[r]
+else's privacy anyway.[pcms]
 
 [se buf=0 storage="seD013"]
 ;//コップに水を注ぐ
 
 *2001|
 [fc]
-[ns]誠[nse]
-「そういえば……」[pcms]
+[ns]Makoto[nse]
+"By the way..."[pcms]
 
 *2002|
 [fc]
-南先輩には、あんまり名誉じゃない噂が流れていた。[pcms]
+There were some not-so-honorable rumors circulating about senior[r]
+Minami.[pcms]
 
 *2003|
 [fc]
-日本中、どこの学園にもあるだろうけれど、[r]
-いわゆる円光疑惑だ。[pcms]
+In schools all over Japan, there's what you'd call suspicion of[r]
+compensated dating.[pcms]
 
 *2004|
 [fc]
-あれだけの美人で性格もいいから、そんなでっち上げをしないと[r]
-攻撃するネタがないのかも知れないけれど、[r]
-たまに話を聞く。[pcms]
+Being as beautiful as she is with a good personality, maybe they can't[r]
+find anything else to attack her with unless they fabricate such[r]
+stories; I occasionally hear them.[pcms]
 
 *2005|
 [fc]
-場合によっては、モノリスの力で木星が太陽になろうって[r]
-時代に流行らないと思うけど、やっぱり気になってしまった。[pcms]
+Sometimes I think that in an era where monoliths could turn Jupiter[r]
+into a sun, such rumors wouldn't spread, but they still bother me[r]
+nonetheless.[pcms]
 
 *2006|
 [fc]
-街でスーツ姿のサラリーマンと一緒にいるところを目撃したとか、[r]
-南先輩に似た女性がクラブで遊んでいたとか、[r]
-そのまま道玄坂のホテル街に消えたとか……。[pcms]
+There were sightings of her with a salaryman in a suit in town, or a[r]
+woman who looked like senior Minami playing in a club, and then[r]
+disappearing into the hotel district of Dogenzaka...[pcms]
 
 [stopse buf=0]
 ;<SoundRun 2,Stop,ON,2000>
 
 *2007|
 [fc]
-酷い話になると、出演している動画があるとか、[r]
-一晩五万で高かったとか、そんな噂まであるくらいだ。[pcms]
+Some of the nastier rumors even claim there are videos of her out[r]
+there, or that she charged fifty thousand yen for a night.[pcms]
 
 ;//m:ビデオ→動画　としておく
 
 *2008|
 [fc]
-妙な色気があるのは事実だから、同性のやっかみとかじゃなくて、[r]
-男の妄想が爆発しただけなのかも知れない。[pcms]
+It's true that she has an unusual sex appeal, so it might not be just[r]
+jealousy from other girls, but rather the explosion of male fantasies.[pcms]
 
 *2009|
 [fc]
-そういうセクシャルな話題に持っていくのが、[r]
-いかにもという感じだ。[pcms]
+It feels all too typical to steer the conversation towards such sexual[r]
+topics.[pcms]
 
 *2010|
 [fc]
-でも、あの通り性格のさっぱりした人で、[r]
-夜遊びに耽る雰囲気は感じられない。[pcms]
+But she's straightforward by nature, and I don't get the vibe that[r]
+she's into the nightlife.[pcms]
 
 *2011|
 [fc]
-まぁ、表面的なところだけを見ても[r]
-その人のことはわからないと思うけれど。[pcms]
+Well, I think you can't really know a person just by looking at their[r]
+surface anyway.[pcms]
 
 [se buf=0 storage="seD004"]
 ;//液体の滴る音
 
 *2012|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2013|
 [fc]
-南先輩って細身なのに、胸が張っている感じがする。[pcms]
+Senior Minami is slender, yet she seems to have a full chest.[pcms]
 
 *2014|
 [fc]
-もし噂が本当なら、僕とか誘って欲しいなぁ……。[pcms]
+If the rumors were true, I'd want her to hit on me...[pcms]
 
 *2015|
 [fc]
-磨いでいるお米を、思わずギュッと握ってしまう。[pcms]
+I accidentally grip the rice I'm polishing tightly.[pcms]
 
 *2016|
 [fc]
-あんな渋谷駅前の雑踏の中でさえ、越智さんと南先輩は[r]
-甘くていい匂いを振りまいていた。[pcms]
+Even in the hustle and bustle near Shibuya Station, Ochi-san and[r]
+senior Minami were giving off a sweet and pleasant scent.[pcms]
 
 *2017|
 [fc]
-頭の中で、思わず匂いが再現されてしまう。[pcms]
+The scent is involuntarily recreated in my mind.[pcms]
 
 *2018|
 [fc]
-あの匂いは、たまらないなぁ……、[r]
-ちんこが勃ってきちゃう……。[pcms]
+That scent is irresistible... it's making my cock hard...[pcms]
 
 [stopse buf=0]
 ;<SoundRun 2,Stop,ON,2000>
@@ -348,16 +352,16 @@
 *2019|
 [fc]
 [vo_nat s="natu0014"]
-[ns]夏都[nse]
-「おーい、帰ったぞー！」[pcms]
+[ns]Natsu[nse]
+"Hey, I'm back!"[pcms]
 
 ;//bgm10.ogg
 [bgm storage="BGM10"]
 
 *2020|
 [fc]
-[ns]誠[nse]
-「ああ、お帰り。今からご飯炊くから」[pcms]
+[ns]Makoto[nse]
+"Ah, welcome back. I'm about to cook rice."[pcms]
 
 ;//---------------------------------------------
 ;//アスペクトスイッチ表示ここまで
@@ -366,34 +370,36 @@
 
 *2021|
 [fc]
-本当は少し水に浸しておいた方がいいんだけど、[r]
-そのまま炊飯器に入れてスイッチを押す。[pcms]
+It's actually better to soak it in water for a bit first, but I just[r]
+put it in the rice cooker and press the switch.[pcms]
 
 *2022|
 [fc]
-姉ちゃんは満足な買い物ができたらしくて、[r]
-機嫌がいいみたいだった。[pcms]
+Onee-san seems to have made some satisfying purchases and appears to[r]
+be in a good mood.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2023|
 [fc]
 [vo_nat s="natu0015"]
-[ns]夏都[nse]
-「女の子とよろしくやりやがってぇ、隅に置けないなぁ」[pcms]
+[ns]Natsu[nse]
+"Getting along well with the girls, huh? Can't leave you alone for a[r]
+second."[pcms]
 
 *2024|
 [fc]
-何を考えているのか、姉ちゃんがニヤニヤと笑っている。[pcms]
+Onee-san is grinning mischievously, wondering what's on her mind.[pcms]
 
 *2025|
 [fc]
-自分には、浮いた噂ひとつないくせに。[pcms]
+And yet she doesn't have a single rumor about her floating around.[pcms]
 
 *2026|
 [fc]
-[ns]誠[nse]
-「そんなんじゃないの、先輩と後輩だって説明しただろ？」[pcms]
+[ns]Makoto[nse]
+"It's not like that, I've explained she's just a senior and I'm a[r]
+junior, right?"[pcms]
 
 
 ;//夏都大＠私服（スカ＋ジャ）　表情03　笑顔２
@@ -401,442 +407,432 @@
 *2027|
 [fc]
 [vo_nat s="natu0016"]
-[ns]夏都[nse]
-「またまた、そーいちくらいしか友達いないと思ってたのに、[r]
-　あんなカワイイ女の子とお知り合いとはねぇ」[pcms]
+[ns]Natsu[nse]
+"Sure sure, I thought Souichirou was about your only friend, but to[r]
+think you know such a cute girl."[pcms]
 
 *2028|
 [fc]
-ニヤニヤ笑いを止めずに、手を口に当てて笑っている。[r]
-姉ちゃんは僕をからかい続ける気満々だ。[pcms]
+She continues to snicker without stopping, covering her mouth with her[r]
+hand as she laughs. Onee-san seems fully intent on teasing me.[pcms]
 
 *2029|
 [fc]
-[ns]誠[nse]
-「まぁ、知り合いではあるけれど……」[pcms]
+[ns]Makoto[nse]
+"Well, I do know her but..."[pcms]
 
 *2030|
 [fc]
-姉ちゃんが思っているようなのとは違う。残念ながら。[pcms]
+It's not like what Onee-san is thinking. Unfortunately.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2031|
 [fc]
 [vo_nat s="natu0017"]
-[ns]夏都[nse]
-「やるじゃねーか誠、どっちを狙ってるんだ？　ん？」[pcms]
+[ns]Natsu[nse]
+"Not bad, Makoto. Which one are you aiming for? Huh?"[pcms]
 
 *2032|
 [fc]
-[ns]誠[nse]
-「ね、狙ってる！？」[pcms]
+[ns]Makoto[nse]
+"Aiming for!?"[pcms]
 
 *2033|
 [fc]
-狙ってるといえばそうなんだけど、そんなの無理っていうか……、[r]
-姉ちゃんに説明することじゃない。[pcms]
+If you say aiming, then yes, but that's impossible... It's not[r]
+something I need to explain to Onee-san.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2034|
 [fc]
 [vo_nat s="natu0018"]
-[ns]夏都[nse]
-「なに、もうやっちゃったの？」[pcms]
+[ns]Natsu[nse]
+"What, you've already done it?"[pcms]
 
 *2035|
 [fc]
-[ns]誠[nse]
-「そ、そんなハズないだろっ！」[pcms]
+[ns]Makoto[nse]
+"That's not possible!"[pcms]
 
 *2036|
 [fc]
-彼氏のひとりもいないくせに、[r]
-僕のことばっかりからかって……。[pcms]
+She doesn't have a boyfriend herself, yet she keeps teasing me...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2037|
 [fc]
 [vo_nat s="natu0019"]
-[ns]夏都[nse]
-「あっちの、眼鏡の方の子はオレも知ってるんだぜ？」[pcms]
+[ns]Natsu[nse]
+"I also know that girl with the glasses, you know?"[pcms]
 
 *2038|
 [fc]
-[ns]誠[nse]
-「え？　どうして？」[pcms]
+[ns]Makoto[nse]
+"Eh? How come?"[pcms]
 
 *2039|
 [fc]
-姉ちゃんと南先輩に接点があるとは思えない。[pcms]
+I can't imagine Onee-san having any connection with senior Minami.[pcms]
 
 *2040|
 [fc]
-というか、南先輩は完全に姉ちゃんを[r]
-知らないみたいだったけど……。[pcms]
+In fact, it seemed like senior Minami didn't know Onee-san at all...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na24"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2041|
 [fc]
 [vo_nat s="natu0020"]
-[ns]夏都[nse]
-「なに、援護射撃して欲しい？　十字砲火に追い込んじゃう？」[pcms]
+[ns]Natsu[nse]
+"What, you want some covering fire? Want me to corner her with[r]
+crossfire?"[pcms]
 
 *2042|
 [fc]
-[ns]誠[nse]
-「いいから、どこで知ったのか教えてよ！」[pcms]
+[ns]Makoto[nse]
+"Just tell me where you know her from!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2043|
 [fc]
 [vo_nat s="natu0021"]
-[ns]夏都[nse]
-「ぷぷぷっ、そんな必死にならなくてもいいのに」[pcms]
+[ns]Natsu[nse]
+"Pfft, you don't have to get so desperate."[pcms]
 
 *2044|
 [fc]
-姉ちゃんは、おかしくて仕方がないようだった。[pcms]
+Onee-san seems to find it hilariously funny.[pcms]
 
 *2045|
 [fc]
-僕に、女の子の知り合いがいたのが、[r]
-そんなに珍しいのかな。[pcms]
+Is it really that rare for me to have female acquaintances?[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2046|
 [fc]
 [vo_nat s="natu0022"]
-[ns]夏都[nse]
-「インストラクターのバイトしてるプールで、[r]
-　たまに泳いでるんだよ」[pcms]
+[ns]Natsu[nse]
+"I sometimes swim at the pool where I work as an instructor."[pcms]
 
 *2047|
 [fc]
-[ns]誠[nse]
-「プールで泳いでる？　南先輩が！？」[pcms]
+[ns]Makoto[nse]
+"Swimming at the pool? Senior Minami does!?"[pcms]
 
 *2048|
 [fc]
 [vo_nat s="natu0023"]
-[ns]夏都[nse]
-「プールだと眼鏡を外してるけれど、あの子に間違いないな。[r]
-　綺麗なフォームで泳いでるよ」[pcms]
+[ns]Natsu[nse]
+"She takes off her glasses at the pool, but I'm sure it's her. She[r]
+swims with such beautiful form."[pcms]
 
 *2049|
 [fc]
-南先輩が、わざわざ有料の施設を利用してまで[r]
-泳いでいるなんて知らなかった。[pcms]
+I had no idea senior Minami would go out of her way to use a paid[r]
+facility to swim.[pcms]
 
 *2050|
 [fc]
-あんまり、そういうことをしているイメージじゃない。[pcms]
+I never really pictured her doing that kind of thing.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2051|
 [fc]
 [vo_nat s="natu0024"]
-[ns]夏都[nse]
-「あー、でも写真部だったっけ？[r]
-　水泳部だって言われてもわかんないくらい上手かったぜ」[pcms]
+[ns]Natsu[nse]
+"Ah, but she was in the photography club, right? You wouldn't know it,[r]
+she's as good as if she were in the swim team."[pcms]
 
 *2052|
 [fc]
-[ns]誠[nse]
-「そうなんだ……水泳の趣味とか、全然知らなかった」[pcms]
+[ns]Makoto[nse]
+"Really... I had no idea she was into swimming."[pcms]
 
 *2053|
 [fc]
-随分距離が縮まった気がしていたけれど、[r]
-それはこっちの思い違いだったみたいだ。[pcms]
+I felt like we had gotten closer, but it seems that was just my[r]
+misunderstanding.[pcms]
 
 *2054|
 [fc]
-やっぱり、人は色々なことを抱えてるよな。[pcms]
+After all, people carry all sorts of things with them.[pcms]
 
 *2055|
 [fc]
-人と人は一生分かり合えないなんてネガティブな話も聞くけれど、[r]
-頷いてしまいそうになる。[pcms]
+You hear negative talk about how people can never truly understand[r]
+each other, and I find myself nodding along.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2056|
 [fc]
 [vo_nat s="natu0025"]
-[ns]夏都[nse]
-「水着はワインレッドの競泳水着だったぜ？[r]
-　こう、ボディラインにぴったりとしたプロっぽい奴」[pcms]
+[ns]Natsu[nse]
+"Her swimsuit was a wine-red racing swimsuit, you know? The[r]
+professional kind that fits snugly to the body."[pcms]
 
 *2057|
 [fc]
-[ns]誠[nse]
-「なんで、そんなトコ見てるんだよ！」[pcms]
+[ns]Makoto[nse]
+"Why are you looking at that kind of stuff!?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2058|
 [fc]
 [vo_nat s="natu0026"]
-[ns]夏都[nse]
-「いいじゃん、女同士なんだし。[r]
-　想像しちゃったの？　興奮しちゃった？」[pcms]
+[ns]Natsu[nse]
+"It's fine, we're both girls. Did you imagine it? Did it excite you?"[pcms]
 
 *2059|
 [fc]
-[ns]誠[nse]
-「そ、そんなはずないだろ」[pcms]
+[ns]Makoto[nse]
+"That's not possible!"[pcms]
 
 *2060|
 [fc]
 [vo_nat s="natu0027"]
-[ns]夏都[nse]
-「ぷぷぷっ……」[pcms]
+[ns]Natsu[nse]
+"Pfft..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2061|
 [fc]
-姉ちゃんはひとしきり僕をからかうと、[r]
-風呂の用意をしてバスルームに向かう。[pcms]
+Onee-san teases me for a while before going to prepare the bath and[r]
+heading to the bathroom.[pcms]
 
 *2062|
 [fc]
-じゃあ、肉じゃがくらい作っておこうかな。[pcms]
+Maybe I should at least make some meat and potatoes.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2063|
 [fc]
 [vo_nat s="natu0028"]
-[ns]夏都[nse]
-「ああ、あの眼鏡の子でオナニーする前に、[r]
-　みそ汁作っといて？　おかずはオレが作るから」[pcms]
+[ns]Natsu[nse]
+"Hey, before you masturbate to that girl with glasses, could you make[r]
+some miso soup? I'll make the side dishes."[pcms]
 
 *2064|
 [fc]
-[ns]誠[nse]
-「そんな想像だけで、できるハズないだろっ！」[pcms]
+[ns]Makoto[nse]
+"There's no way I could do that just from imagining!"[pcms]
 
 *2065|
 [fc]
-家族にオナニーの話をするのだけは反則だ、[r]
-それだけはそっとしておかなくちゃいけない。[pcms]
+Talking about masturbation with family is off-limits; that's something[r]
+that should be kept private.[pcms]
 
 *2066|
 [fc]
-ましてや、こんな多感な時期の男の子に[r]
-そんな突っ込みしちゃ駄目だ。[pcms]
+Especially not to a boy at such a sensitive age.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2067|
 [fc]
 [vo_nat s="natu0029"]
-[ns]夏都[nse]
-「ぷぷぷっ、ちょっと勃ってたから、[r]
-　これから抜くのかと思った」[pcms]
+[ns]Natsu[nse]
+"Pfft, I thought you might be about to jerk off since you were a[r]
+little hard."[pcms]
 
 *2068|
 [fc]
-[ns]誠[nse]
-「男は意味もなく勃っちゃうんだよっ！[r]
-　別に興奮してなくても、何でもなくても勃つのっ！」[pcms]
+[ns]Makoto[nse]
+"Guys get erections without any meaning! It happens even if we're not[r]
+excited or anything!"[pcms]
 
 *2069|
 [fc]
-自衛隊とか男所帯にいたから、[r]
-そういう話にまったく抵抗がない。[pcms]
+Having been in the Self-Defense Forces and all-male environments, she[r]
+has absolutely no resistance to such topics.[pcms]
 
 *2070|
 [fc]
-というか、抵抗がなさ過ぎる。[pcms]
+In fact, she has way too little resistance.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2071|
 [fc]
 [vo_nat s="natu0030"]
-[ns]夏都[nse]
-「ああ、そうだ」[pcms]
+[ns]Natsu[nse]
+"Oh, right."[pcms]
 
 *2072|
 [fc]
-急に真面目な顔になって、姉ちゃんが僕を見る。[pcms]
+Suddenly with a serious face, Onee-san looks at me.[pcms]
 
 *2073|
 [fc]
-なんだろうか、なにか頼まれごとを忘れてるとか[r]
-無いと思うんだけど……。[pcms]
+I wonder what it is, I don't think I've forgotten to do any favors...[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2074|
 [fc]
 [vo_nat s="natu0031"]
-[ns]夏都[nse]
-「ゴミ箱が妊娠するくらい、[r]
-　オナニーティッシュためるのやめとけよ？[r]
-　こまめにゴミ出ししないとモロバレだからな？」[pcms]
+[ns]Natsu[nse]
+"Try not to let the trash can get pregnant with all those masturbation[r]
+tissues, okay? You need to take out the trash regularly or it's[r]
+totally obvious."[pcms]
 
 *2075|
 [fc]
-[ns]誠[nse]
-「な、な、な……」[pcms]
+[ns]Makoto[nse]
+"Wha, wha, wha..."[pcms]
 
 *2076|
 [fc]
-なんでそんなことチェックしてるんだ。[r]
-プライバシーの一番きっついところなのに！[pcms]
+Why is she checking that? It's the most sensitive part of privacy![pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2077|
 [fc]
 [vo_nat s="natu0032"]
-[ns]夏都[nse]
-「男はわかんないかも知れないけど、あれ凄く臭いから。[r]
-　出したばっかりのときは特に臭い」[pcms]
+[ns]Natsu[nse]
+"Guys might not realize it, but it smells really bad. Especially right[r]
+after you've done it."[pcms]
 
 *2078|
 [fc]
-[ns]誠[nse]
-「どうして出したばっかりだってわかるんだよ！」[pcms]
+[ns]Makoto[nse]
+"How do you know when it's just been done!?"[pcms]
 
 *2079|
 [fc]
-そういうのは、気付いていても[r]
-知らないふりするのがマナーだろっ！[pcms]
+That's something you pretend not to notice even if you're aware of it![pcms]
 
 *2080|
 [fc]
-オナニーできなくなっちゃうじゃんか！[pcms]
+It'll make me unable to masturbate![pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2081|
 [fc]
 [vo_nat s="natu0033"]
-[ns]夏都[nse]
-「匂い嗅いでるだけで妊娠しそうだから、[r]
-　これからはこまめに処分しろよ？」[pcms]
+[ns]Natsu[nse]
+"Just smelling it makes me feel like I could get pregnant, so make[r]
+sure you dispose of it frequently from now on, okay?"[pcms]
 
 *2082|
 [fc]
-[ns]誠[nse]
-「そんなの知るかっ！　僕はオナニーなんてしてないっ！」[pcms]
+[ns]Makoto[nse]
+"I don't care about that! I don't masturbate!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2083|
 [fc]
 [vo_nat s="natu0034"]
-[ns]夏都[nse]
-「そこから否定するのかぁ、夜中とかオレが風呂入ってるときとか[r]
-　毎日してるの知ってるんだぜ？」[pcms]
+[ns]Natsu[nse]
+"Denying it from there? I know you do it every day when I'm in the[r]
+bath at night or something."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2084|
 [fc]
-[ns]誠[nse]
-「もう、いいから風呂に入れーっ！」[pcms]
+[ns]Makoto[nse]
+"Just go take your bath already!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2085|
 [fc]
-姉ちゃんは鼻歌を歌いながら風呂に入ってしまった。[pcms]
+Onee-san hums a tune and heads off to take her bath.[pcms]
 
 *2086|
 [fc]
-僕のガラスのハートをズタズタにしておきながら、[r]
-自分はこれからゆったりとするつもりなんだ……。[pcms]
+After shattering my glass heart, she plans to relax... Unbelievable.[pcms]
 
 *2087|
 [fc]
-ヤケになって泣きながら鍋に水を入れ、[r]
-インスタント出汁を投入する。[pcms]
+I desperately fill the pot with water while crying, and throw in some[r]
+instant broth.[pcms]
 
 *2088|
 [fc]
-自分だって男とかいないくせに、[r]
-オナニーだってしてるくせに！[pcms]
+Even though she doesn't have a boyfriend, she masturbates too![pcms]
 
 *2089|
 [fc]
-姉ちゃんが季節問わずに、やたら薄着で部屋の中[r]
-うろつくからだろうが、このビッチめ！[pcms]
+It's because Onee-san wanders around the house in thin clothes[r]
+regardless of the season, that bitch![pcms]
 
 *2090|
 [fc]
-オナニーの回数が増えたのは僕のせいじゃない！[r]
-姉ちゃんが変な格好してるからだ！[pcms]
+The increase in my masturbation isn't my fault! It's because Onee-san[r]
+wears weird clothes![pcms]
 
 *2091|
 [fc]
-僕だけの責任じゃない……はず。[pcms]
+It's not entirely my responsibility... I hope.[pcms]
 
 *2092|
 [fc]
-とも、言い難いか……。[pcms]
+But that's hard to say...[pcms]
 
 *2093|
 [fc]
-いや、ううむ……。[pcms]
+No, well, hmm...[pcms]
 
 *2094|
 [fc]
-長身で体育会系、肉食女子だからって、[r]
-チビで文化系、オタク男子を舐めてるに違いない。[pcms]
+Just because she's tall, athletic, and a carnivorous girl, she must be[r]
+looking down on a short, cultural, otaku boy like me.[pcms]
 
 *2095|
 [fc]
-人のオナニーをあれこれ指摘するなんて、許されざる暴挙だ。[pcms]
+It's unforgivable to point out someone's masturbation habits like[r]
+that.[pcms]
 
 *2096|
 [fc]
-[ns]誠[nse]
-「んむむむむっ……」[pcms]
+[ns]Makoto[nse]
+"Mmmmmmm..."[pcms]
 
 *2097|
 [fc]
-そんなことを考えているうちに、[r]
-ネギと豆腐のみそ汁ができてしまった。[pcms]
+While I'm lost in thought, the miso soup with green onions and tofu is[r]
+ready.[pcms]
 
 *2098|
 [fc]
-姉ちゃんは、まだ風呂から出てこないだろう。[pcms]
+Onee-san probably hasn't come out of the bath yet.[pcms]
 
 *2099|
 [fc]
-いつものパターンから考えて、まだまだ時間があるはずだ。[pcms]
+Considering her usual pattern, there should still be plenty of time.[pcms]
 
 *2100|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2101|
 [fc]
-鍋の火を止めると、僕はおもむろに自分の部屋へと[r]
-足を向けていく。[pcms]
+After turning off the stove, I slowly make my way to my room.[pcms]
 
 *2102|
 [fc]
-越智さんと南先輩の匂いを忘れないうちに……[r]
-やっておかないと損だ。[pcms]
+I have to do it before I forget the scent of Ochi-san and Senior[r]
+Minami...[pcms]
 
 *2103|
 [fc]
-想像だけでいくか、なにか材料を使うか考えながら、[r]
-僕は自分の部屋に消えていった。[pcms]
+As I ponder whether to rely on imagination or use some material, I[r]
+disappear into my room.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

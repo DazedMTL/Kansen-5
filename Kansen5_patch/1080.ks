@@ -22,190 +22,188 @@
 
 *1356|
 [fc]
-[ns]誠[nse]
-「このまま道を歩いて行くと、どの辺りに出るんだろう」[pcms]
+[ns]Makoto[nse]
+"I wonder where we'll end up if we keep walking down this road."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1357|
 [fc]
 [vo_aka s="akari0324"]
-[ns]茜梨[nse]
-「大神港とかビーチに出る方向と、[r]
-　キャンプ場の方に出る道に分かれていたはずです」[pcms]
+[ns]Akari[nse]
+"It should split off in the direction of Oogami Port and the beach,[r]
+and another way leading to the campsite."[pcms]
 
 *1358|
 [fc]
-大神港やビーチのある方向は民家が建ち並んでいる、[r]
-人口密集地域だった。[pcms]
+The direction towards Oogami Port and the beach was a densely[r]
+populated area with houses lined up.[pcms]
 
 *1359|
 [fc]
-これだけ被害が広がっているのに、そこだけ無事とは考えにくい。[r]
-訪れてみるまでもなく、感染者の数は多いだろう。[pcms]
+Considering the extent of the damage, it's unlikely that area alone[r]
+would be safe. Without even visiting, it's safe to assume there would[r]
+be a large number of infected there.[pcms]
 
 *1360|
 [fc]
-キャンプ場の方向には民家が少なかったはずだ。[r]
-もちろん、キャンプしていた人たちがいるだろうけれど……。[pcms]
+There should have been fewer houses in the direction of the campsite.[r]
+Of course, there would have been people camping there...[pcms]
 
 *1361|
 [fc]
-[ns]誠[nse]
-「距離的には、どっちが近いのかな」[pcms]
+[ns]Makoto[nse]
+"Which one is closer in terms of distance?"[pcms]
 
 *1362|
 [fc]
 [vo_aka s="akari0325"]
-[ns]茜梨[nse]
-「大神港を通る方が遠回りになります。[r]
-　キャンプ場から出た方が近いですね」[pcms]
+[ns]Akari[nse]
+"Going through Oogami Port would be a detour. It's closer if you come[r]
+from the campsite."[pcms]
 
 *1363|
 [fc]
-[ns]誠[nse]
-「なら、大神港の方から出る必要はないかな」[pcms]
+[ns]Makoto[nse]
+"Then, there's no need to go out through Oogami Port, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1364|
 [fc]
 [vo_aka s="akari0326"]
-[ns]茜梨[nse]
-「はい、私も同じ意見です」[pcms]
+[ns]Akari[nse]
+"Yes, I agree."[pcms]
 
 *1365|
 [fc]
-先日の夕食会の帰りに南先輩を送って行ったとき、[r]
-それなりの人がキャンプ場にいたけれど、[r]
-今はどうなっているんだろうか。[pcms]
+When I took senior Minami home after the dinner party the other day,[r]
+there were quite a few people at the campsite, but I wonder what it's[r]
+like now.[pcms]
 
 *1366|
 [fc]
-逃げ込む場所と言ったら、車の中くらいのはずだ。[r]
-あとは走って逃げるしかないだろうけれど……。[pcms]
+The only place to take refuge would be inside a car. Otherwise,[r]
+running away might be the only option...[pcms]
 
 *1367|
 [fc]
-[ns]誠[nse]
-「暑いね……」[pcms]
+[ns]Makoto[nse]
+"It's hot, isn't it..."[pcms]
 
 *1368|
 [fc]
-日が昇ってきたせいか、気温がだいぶ上昇してきていた。[r]
-汗でじわっとシャツが濡れてきているのがわかる。[pcms]
+Perhaps because of the rising sun, the temperature had gone up[r]
+significantly. I could feel my shirt getting damp with sweat.[pcms]
 
 *1369|
 [fc]
-僕は荷物の中からペットボトルの飲み物を取り出して、[r]
-軽く喉を潤した。[pcms]
+I took out a bottle of drink from my bag and moistened my throat[r]
+lightly.[pcms]
 
 *1370|
 [fc]
-飲み物はコンビニから頂いてきた５００ｍｌのペットボトルが、[r]
-二本あるだけだ。[pcms]
+The drinks are just two 500ml bottles we got from the convenience[r]
+store.[pcms]
 
 *1371|
 [fc]
-この二本で長時間粘る状況になった時のことを考えると、[r]
-簡単に消費してしまうのは危険かも知れない。[pcms]
+Considering we might have to last a long time on these two bottles, it[r]
+might be dangerous to consume them too quickly.[pcms]
 
 [bg storage="BG04a"][trans_c cross time=500]
 
 *1372|
 [fc]
-分かれ道でキャンプ場の方向に下りて行った僕たちは、[r]
-そこにかなりの数の感染者が蠢いているのを見つけた。[pcms]
+At the fork in the road, we went down towards the campsite and found a[r]
+considerable number of infected writhing about.[pcms]
 
 *1373|
 [fc]
-キャンプ場にいた人は全滅かも知れない。[r]
-生き残るには、少し難しい場所に思えた。[pcms]
+Everyone at the campsite might have been wiped out. It seemed like a[r]
+difficult place to survive.[pcms]
 
 *1374|
 [fc]
-[ns]誠[nse]
-「このまま歩いて行くのは無理そうだね」[pcms]
+[ns]Makoto[nse]
+"It seems impossible to keep walking like this."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1375|
 [fc]
 [vo_aka s="akari0327"]
-[ns]茜梨[nse]
-「突破しますか？」[pcms]
+[ns]Akari[nse]
+"Shall we break through?"[pcms]
 
 *1376|
 [fc]
-越智さんが薙刀をギュッと握り締めて、[r]
-緊張した顔をする。[pcms]
+Ochi-san gripped her naginata tightly and made a tense face.[pcms]
 
 *1377|
 [fc]
-最悪それしかないだろうけれど、[r]
-今のところ僕たちは奴らに気が付かれていない。[pcms]
+That might be our only option, but for now, we haven't been noticed by[r]
+them.[pcms]
 
 *1378|
 [fc]
-何かいい方法はないだろうか？[pcms]
+Is there a better way?[pcms]
 
 *1379|
 [fc]
-[ns]誠[nse]
-「このまま森沿いに移動したら、奴らに見付からないかな？」[pcms]
+[ns]Makoto[nse]
+"If we move along the forest, do you think they won't notice us?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1380|
 [fc]
 [vo_aka s="akari0328"]
-[ns]茜梨[nse]
-「上手く隠れられればいいんですが、[r]
-　動いている人影を見つけたら、興味を示しそうですよね……」[pcms]
+[ns]Akari[nse]
+"It would be good if we could hide well, but if they see moving[r]
+figures, they might become interested..."[pcms]
 
 *1381|
 [fc]
-そういえば、感染者はお互いをどう見分けているんだろうか。[r]
-感染者同士で共食いをしている姿は、あまり見ていない気がする。[pcms]
+I wonder how the infected distinguish each other. I haven't seen them[r]
+cannibalizing each other much.[pcms]
 
 *1382|
 [fc]
-つまり人間を見分ける方法があるのか？[r]
-どうやって？[pcms]
+So there must be a way they identify humans? How?[pcms]
 
 *1383|
 [fc]
-[ns]誠[nse]
-「昔見た映画で、ゾンビの真似をするっていうのが[r]
-　あったんだけど……」[pcms]
+[ns]Makoto[nse]
+"In an old movie I saw, they pretended to be zombies..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1384|
 [fc]
 [vo_aka s="akari0329"]
-[ns]茜梨[nse]
-「感染者の動きを真似するんですか……？」[pcms]
+[ns]Akari[nse]
+"You mean imitate the movements of the infected?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1385|
 [fc]
-[ns]誠[nse]
-「あのヨタヨタした動きでお互いを見分けているんなら、[r]
-　騙せるんじゃないかな」[pcms]
+[ns]Makoto[nse]
+"If they distinguish each other by that staggering movement, maybe we[r]
+can deceive them."[pcms]
 
 *1386|
 [fc]
 [vo_aka s="akari0330"]
-[ns]茜梨[nse]
-「大丈夫でしょうか……」[pcms]
+[ns]Akari[nse]
+"Are you sure that will be okay...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1387|
 [fc]
-さて、どうやってこの場を切り抜ければいいのか……。[pcms]
+Now, how should we get out of this situation...?[pcms]
 
 ;//*_選択肢
 ;//1,感染者の姿を真似る 　ラベルfake　へ
@@ -213,14 +211,14 @@
 
 ;	[link target=*fake]感染者の姿を真似る[endlink]
 ;	[link target=*hide]森沿いに隠れて進む[endlink]
-;	[s]
+;[pcms]
 
 *SEL10|感染者の姿を真似る／森沿いに隠れて進む
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '感染者の姿を真似る'"]
-[eval exp="f.seltext06 = '森沿いに隠れて進む'"]
+[eval exp="f.seltext04 = 'Imitate the appearance of the infected'"]
+[eval exp="f.seltext06 = 'Proceed hidden along the forest'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -260,41 +258,40 @@
 
 *1387a|
 [fc]
-[ns]誠[nse]
-「じゃあ、感染者の真似をしてみようか」[pcms]
+[ns]Makoto[nse]
+"Then let's try imitating the infected."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1388|
 [fc]
 [vo_aka s="akari0331"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *1389|
 [fc]
-越智さんはあまり気乗りしていないみたいだった。[r]
-これが上手く行けば、画期的だと思うんだけど……。[pcms]
+Ochi-san didn't seem too keen on the idea. I think it would be[r]
+revolutionary if it works...[pcms]
 
 *1390|
 [fc]
-僕はちょっとギクシャクとした動きで、[r]
-その辺を歩いてみる。[pcms]
+I tried walking around with a slightly jerky motion.[pcms]
 
 *1391|
 [fc]
-[ns]誠[nse]
-「あ゛あ゛あ゛あ゛……」[pcms]
+[ns]Makoto[nse]
+"Aaah... Aaah... Aaah... Aaah..."[pcms]
 
 *1392|
 [fc]
-ちょっと顔も真似する感じで、[r]
-演技に幅を持たせてみた。[pcms]
+I also tried to mimic their facial expressions a bit, adding some[r]
+range to my performance.[pcms]
 
 *1393|
 [fc]
-[ns]誠[nse]
-「どう？　感染者に見える？」[pcms]
+[ns]Makoto[nse]
+"How about it? Do I look like an infected?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -302,226 +299,223 @@
 *1394|
 [fc]
 [vo_aka s="akari0332"]
-[ns]茜梨[nse]
-「なにかが、決定的に間違っている気がします……」[pcms]
+[ns]Akari[nse]
+"I have a feeling that something is fundamentally wrong..."[pcms]
 
 *1395|
 [fc]
-[ns]誠[nse]
-「そう言わないで、越智さんもやってみようよ」[pcms]
+[ns]Makoto[nse]
+"Don't say that, Ochi-san, you should try it too."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1396|
 [fc]
 [vo_aka s="akari0333"]
-[ns]茜梨[nse]
-「え……」[pcms]
+[ns]Akari[nse]
+"Eh..."[pcms]
 
 *1397|
 [fc]
-[ns]誠[nse]
-「だって、僕だけやっても意味無いから」[pcms]
+[ns]Makoto[nse]
+"Because it's meaningless if only I do it."[pcms]
 
 *1398|
 [fc]
-越智さんは本当に気乗りしない様子で、[r]
-僕の考えが変わらないか、[r]
-うかがうように上目遣いで見てくる。[pcms]
+Ochi-san looked really reluctant, glancing up at me as if hoping I'd[r]
+change my mind.[pcms]
 
 *1399|
 [fc]
-そんな目をしたって駄目だ。[r]
-やるならちゃんとやらないと色々危ない。[pcms]
+No matter how she looked at me with those eyes, it's no use. If we're[r]
+going to do this, we have to do it properly because it's dangerous[r]
+otherwise.[pcms]
 
 *1400|
 [fc]
-僕が真剣な表情で越智さんの演技を待っていると、[r]
-諦めたように感染者の真似をし始めた。[pcms]
+When I waited with a serious expression for Ochi-san's performance,[r]
+she started imitating the infected as if she had given up.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1401|
 [fc]
 [vo_aka s="akari0334"]
-[ns]茜梨[nse]
-「あ゛あ゛あ゛……」[pcms]
+[ns]Akari[nse]
+"Aaah... Aaah... Aaah..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1402|
 [fc]
-越智さんがゆっくりヨタヨタと歩いてみせる。[r]
-顔が恥ずかしがっているけれど、[r]
-そんなこと誰も気にしないだろう。[pcms]
+Ochi-san tried walking slowly and unsteadily. Her face showed[r]
+embarrassment, but I doubt anyone would care about that.[pcms]
 
 *1403|
 [fc]
-うん、いけるんじゃないかな。[pcms]
+Yeah, this might just work.[pcms]
 
 *1404|
 [fc]
-[ns]誠[nse]
-「よし、じゃあ行ってみようか」[pcms]
+[ns]Makoto[nse]
+"Alright, let's give it a try then."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1405|
 [fc]
 [vo_aka s="akari0335"]
-[ns]茜梨[nse]
-「今のでいいんですか……？」[pcms]
+[ns]Akari[nse]
+"Is this really okay...?"[pcms]
 
 *1406|
 [fc]
-[ns]誠[nse]
-「やるだけやってみよう、気が付かれているようなら、[r]
-　また対策すればいいよ」[pcms]
+[ns]Makoto[nse]
+"Let's just try it out, and if it seems like we've been noticed, we[r]
+can come up with another plan."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1407|
 [fc]
 [vo_aka s="akari0336"]
-[ns]茜梨[nse]
-「はい……」[pcms]
+[ns]Akari[nse]
+"Yes..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1408|
 [fc]
-僕と越智さんは、森と道の境目の辺りから[r]
-ギクシャクした動きでキャンプ場の出口の方に歩き始めた。[pcms]
+From the edge of the forest and the path, Ochi-san and I started[r]
+walking towards the campsite exit with jerky movements.[pcms]
 
 *1409|
 [fc]
-[ns]誠[nse]
-「あ゛あ゛あ゛あ゛……え゛え゛え゛……」[pcms]
+[ns]Makoto[nse]
+"Aaah... Eeeh... Eeeh..."[pcms]
 
 *1410|
 [fc]
 [vo_aka s="akari0337"]
-[ns]茜梨[nse]
-「あ゛あ゛あ゛……」[pcms]
+[ns]Akari[nse]
+"Aaah... Aaah... Aaah..."[pcms]
 
 *1411|
 [fc]
-いけるかな……？[r]
-横目で見ている限りでは、感染者に変わった動きはない。[pcms]
+I wonder if this will work... From what I can see out of the corner of[r]
+my eye, there's no change in the movements of the infected.[pcms]
 
 *1412|
 [fc]
-まるで地上を泳ぐように、[r]
-僕と越智さんは道なりに進んでいった。[pcms]
+It was as if swimming through the ground, Ochi-san and I continued[r]
+along the path.[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x_bl"][ChrSetXY layer=3 x=-90 y=0][trans_c cross time=150]
 
 *1413|
 [fc]
-[ns]感染者Ａ[nse]
-「ん゛ん゛……に゛く゛……」[pcms]
+[ns]Infected Person A[nse]
+"Nnn... niku... (meat...)"[pcms]
 
 *1414|
 [fc]
-僕の近くにいた感染者が、鼻をひくひくとさせながら[r]
-辺りの様子をうかがい始めた。[pcms]
+An infected person near me started sniffing around, surveying the[r]
+surroundings.[pcms]
 
 *1415|
 [fc]
-少し早歩きで、その感染者から遠ざかるように[r]
-進んでいく。[pcms]
+I quickened my pace a bit to get away from that infected person.[pcms]
 
 [ChrSetEx layer=6 chbase="mob_kan5_x_bl"][ChrSetXY layer=6 x=400 y=0][trans_c cross time=150]
 
 *1416|
 [fc]
-[ns]感染者Ｂ[nse]
-「に゛く゛……に゛く゛た゛……」[pcms]
+[ns]Infected Person B[nse]
+"Niku... nikuta... (meat... hungry...)"[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan2_x_bl"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1417|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛あ゛……は゛ら゛へ゛た゛……」[pcms]
+[ns]Infected Person C[nse]
+"Aaah... hara hetada... (hungry...)"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=190 y=0][trans_c cross time=150]
 
 *1418|
 [fc]
-[ns]感染者Ｄ[nse]
-「に゛く゛ぅ゛……に゛く゛ぅ゛……」[pcms]
+[ns]Infected D[nse]
+"Nikuuu... nikuuu... (meat... meat...)"[pcms]
 
 *1419|
 [fc]
 [vo_aka s="akari0338"]
-[ns]茜梨[nse]
-「ど、どうしたんでしょうか……」[pcms]
+[ns]Akari[nse]
+"What's happening...?"[pcms]
 
 *1420|
 [fc]
-[ns]誠[nse]
-「わからない……」[pcms]
+[ns]Makoto[nse]
+"I don't know..."[pcms]
 
 [ChrSetEx layer=2 chbase="mob_kan4_x_bl"][ChrSetXY layer=2 x=90 y=50][trans_c cross time=150]
 
 *1421|
 [fc]
-僕たちの近くにいる感染者たちが、[r]
-口々に肉とか腹が減ったとか言い始めていた。[pcms]
+The infected people around us started saying things like they wanted[r]
+meat or they were hungry.[pcms]
 
 [ChrSetEx layer=1 chbase="mob_kan1_x_bl"][ChrSetXY layer=1 x=790 y=0][trans_c cross time=150]
 
 *1422|
 [fc]
-作戦は失敗したんだろうか。[r]
-こいつらはいつもこんな感じだと思うけれど……。[pcms]
+Did our plan fail? I think they're always like this though...[pcms]
 
 [ChrSetEx layer=7 chbase="mob_kan5_x_bl"][ChrSetXY layer=7 x=520 y=80][trans_c cross time=150]
 
 *1423|
 [fc]
 [vo_aka s="akari0339"]
-[ns]茜梨[nse]
-「に、逃げた方が……」[pcms]
+[ns]Akari[nse]
+"Maybe we should run away..."[pcms]
 
 *1424|
 [fc]
-[ns]誠[nse]
-「でも、もう少しで出口までいけそうだから……」[pcms]
+[ns]Makoto[nse]
+"But we're almost at the exit..."[pcms]
 
 *1425|
 [fc]
-僕がそんな未練タラタラに感染者の真似をしていると、[r]
-いつの間にか、周りに大勢の感染者が集まっていた。[pcms]
+As I was half-heartedly imitating the infected, a large number of them[r]
+had gathered around us before I knew it.[pcms]
 
 *1426|
 [fc]
-すぐに襲いかかってくる様子はないけれど、[r]
-明らかにおかしな状況になっている。[pcms]
+They didn't seem to be attacking right away, but the situation was[r]
+clearly getting weird.[pcms]
 
 *1427|
 [fc]
-奴らの真似をするのは、まるで効果がないわけじゃないけれど、[r]
-完全に隠すことはできないのか……？[pcms]
+Imitating them wasn't completely ineffective, but maybe it wasn't[r]
+enough to fully hide us...?[pcms]
 
 *1428|
 [fc]
-[ns]誠[nse]
-「あっ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 *1429|
 [fc]
-僕は気付かないうちに、足下への注意が散漫になっていた。[r]
-大きく出っ張った石に気付かず、そのまま足を引っかけてしまう。[pcms]
+I had become careless with where I was stepping without realizing it.[r]
+I didn't notice a large protruding rock and tripped over it.[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *1430|
 [fc]
-なんとか踏ん張るために、二、三歩よろめいた後、[r]
-僕は前のめりに倒れていた。[pcms]
+After stumbling a few steps trying to keep my balance, I found myself[r]
+falling forward.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
@@ -533,46 +527,45 @@
 *1431|
 [fc]
 [vo_aka s="akari0340"]
-[ns]茜梨[nse]
-「中澤先輩っ！」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1432|
 [fc]
-[ns]感染者Ａ[nse]
-「に゛く゛た゛ぁ゛ぁ゛ぁ゛……！」[pcms]
+[ns]Infected Person A[nse]
+"Nikutaahhh...!"[pcms]
 
 *1433|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛れ゛に゛……く゛わ゛せ゛ろ゛ぉ゛……！」[pcms]
+[ns]Infected Person B[nse]
+"Ore ni... kuwaseroooh... (Let me... eat...)"[pcms]
 
 *1434|
 [fc]
-[ns]誠[nse]
-「うわあああああっ！」[pcms]
+[ns]Makoto[nse]
+"Aaaaaah!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1435|
 [fc]
 [vo_aka s="akari0341"]
-[ns]茜梨[nse]
-「くうううっ！」[pcms]
+[ns]Akari[nse]
+"Kuuuuh!"[pcms]
 
 ;//◆ＳＥ　打撃音
 [quake_bg xy m]
 
 *1436|
 [fc]
-慌てて越智さんが薙刀を振るい始めると、[r]
-遠くにいた感染者までこちらのことに気が付き始めていた。[pcms]
+In a panic, Akari-san began swinging her naginata, and the infected[r]
+who were far away started to notice us.[pcms]
 
 *1437|
 [fc]
-僕は急いで身体を起こすと、[r]
-一緒に逃げるために越智さんに手を伸ばす。[pcms]
+I quickly got up and reached out to Akari-san to escape together.[pcms]
 
 [bgm storage="BGM11"]
 ;//♪bgm11　不測時のピンチ。いかにも姦染的
@@ -581,15 +574,15 @@
 
 *1438|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛ん゛な゛た゛ぁ゛……っ！」[pcms]
+[ns]Infected D[nse]
+"Womaaan...!"[pcms]
 
 [ChrSetEx layer=2 chbase="mob_kan4_x_bl"][ChrSetXY layer=2 x=90 y=50][trans_c cross time=150]
 
 *1439|
 [fc]
-[ns]感染者Ｅ[nse]
-「わ゛か゛い゛……お゛ん゛な゛ぁ゛……！」[pcms]
+[ns]Infected E[nse]
+"Young... womaaan...!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak21"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -597,82 +590,81 @@
 *1440|
 [fc]
 [vo_aka s="akari0342"]
-[ns]茜梨[nse]
-「逃げてくださいっ！　中澤先輩っ！」[pcms]
+[ns]Akari[nse]
+"Please run! Nakazawa-senpai!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="mob_kan1_x_bl"][ChrSetXY layer=3 x=-90 y=0][trans_c cross time=150]
 
 *1441|
 [fc]
-[ns]誠[nse]
-「一緒に逃げ……」[pcms]
+[ns]Makoto[nse]
+"Let's escape toge..."[pcms]
 
 *1442|
 [fc]
-越智さんの方に感染者が集まっていく光景に戦慄を覚えていると、[r]
-横から感染者に腕を掴まれた。[pcms]
+As I was shuddering at the sight of the infected gathering around[r]
+Akari-san, an infected person grabbed my arm from the side.[pcms]
 
 *1443|
 [fc]
-その感染者は、まるで炙り肉にかぶりつくような仕草で、[r]
-僕の腕を捧げ持っている。[pcms]
+The infected person, with a gesture like biting into grilled meat,[r]
+held my arm up to their mouth.[pcms]
 
 ;//#_赤フラ
 [赤フラ]
 
 *1444|
 [fc]
-[ns]誠[nse]
-「ぐわあああああああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Gwaaaaaaaah!"[pcms]
 
 *1445|
 [fc]
-腕に鈍い痛みが広がっていく。[r]
-強力な顎の力で、僕の腕の肉が噛みちぎられていた。[pcms]
+A dull pain spread through my arm. The powerful force of the jaw was[r]
+tearing the flesh from my arm.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1446|
 [fc]
 [vo_aka s="akari0343"]
-[ns]茜梨[nse]
-「いやぁぁぁぁぁぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Noooooo!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x_bl"][ChrSetXY layer=3 x=-90 y=0][trans_c cross time=150]
 [ChrSetEx layer=6 chbase="mob_kan5_x_bl"][ChrSetXY layer=6 x=400 y=0][trans_c cross time=150]
 
 *1447|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛れ゛に゛も゛……く゛わ゛せ゛ろ゛……」[pcms]
+[ns]Infected Person B[nse]
+"Let me... eat... too..."[pcms]
 
 [赤フラ]
 
 *1448|
 [fc]
-背中から襲いかかってきた感染者に押し倒されると、[r]
-複数の手に身体中を掴まれて、いたるところに[r]
-歯を立てられていく。[pcms]
+I was pushed down from behind by an attacking infected person, and[r]
+multiple hands grabbed me all over my body, biting into me everywhere.[pcms]
 
 [赤フラ]
 
 *1449|
 [fc]
-[ns]誠[nse]
-「に……にげて……」[pcms]
+[ns]Makoto[nse]
+"Ru... run..."[pcms]
 
 [赤フラ]
 
 *1450|
 [fc]
-身体中に走る激痛で遠くなっていく意識を、[r]
-僕は他人事のように感じていた。[pcms]
+The intense pain throughout my body made my consciousness fade away,[r]
+as if it were happening to someone else.[pcms]
 
 *1451|
 [fc]
-自分の血がぬるま湯のように温かく、[r]
-心地よささえ感じる。[pcms]
+My own blood felt warm like lukewarm water, and I even felt a sense of[r]
+comfort.[pcms]
 
 
 [fadeoutbgm time=500]
@@ -684,8 +676,7 @@
 
 *1452|
 [fc]
-そして、一際鋭い衝撃を感じた後、[r]
-僕はなにもわからなくなっていた……。[pcms]
+Then, after feeling an especially sharp shock, I knew nothing more...[pcms]
 
 ;//◆バッドエンド
 
@@ -717,7 +708,7 @@
 [eval exp="sf.g_prologueSkip = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *hide
@@ -727,16 +718,16 @@
 
 *1453|
 [fc]
-[ns]誠[nse]
-「森に沿って、木に隠れながら進もう」[pcms]
+[ns]Makoto[nse]
+"Let's move along the forest, hiding behind trees as we go."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1454|
 [fc]
 [vo_aka s="akari0344"]
-[ns]茜梨[nse]
-「はい、わかりました」[pcms]
+[ns]Akari[nse]
+"Yes, understood."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -750,23 +741,23 @@
 
 *1455|
 [fc]
-僕たちは感染者の様子を慎重に探りながら、[r]
-少しずつ森の中を進んでいく。[pcms]
+We cautiously observed the infected as we slowly made our way through[r]
+the forest.[pcms]
 
 *1456|
 [fc]
-これだけの数の感染者がいるとなると、[r]
-キャンプに来ていた人たちだけじゃないのかも知れない。[pcms]
+Considering the number of infected, it might not just be the people[r]
+who came to camp.[pcms]
 
 *1457|
 [fc]
-感染者が健常者をどうやって識別しているのかは[r]
-わからないけれど、そんなに高度な感覚ではないみたいだ。[pcms]
+How the infected distinguish between healthy people is unclear, but it[r]
+doesn't seem to be a very advanced sense.[pcms]
 
 *1458|
 [fc]
-見えているのかいないのか、森の中を横切っていく人間に、[r]
-興味を示す感染者はいなかった。[pcms]
+No infected showed interest in the humans crossing through the forest,[r]
+whether they could see them or not.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -777,31 +768,31 @@
 *1459|
 [fc]
 [vo_aka s="akari0345"]
-[ns]茜梨[nse]
-「上手く進めそうですね」[pcms]
+[ns]Akari[nse]
+"It looks like we can make good progress."[pcms]
 
 *1460|
 [fc]
-[ns]誠[nse]
-「ああ、でも油断は大敵……」[pcms]
+[ns]Makoto[nse]
+"Yeah, but let's not let our guard down..."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
 
 *1461|
 [fc]
-僕がそこまで言い掛けたときだった。[r]
-隠れようと手を伸ばした木が、ゆっくりと道の方に倒れていく。[pcms]
+I was just saying that when the tree I reached out to hide behind[r]
+slowly fell towards the path.[pcms]
 
 *1462|
 [fc]
-それは地面から生えている生の木ではなく、[r]
-何かの作業途中になっていた木材だった。[pcms]
+It wasn't a living tree growing from the ground but lumber that had[r]
+been part of some work in progress.[pcms]
 
 *1463|
 [fc]
-まるで連動するように、立て掛けられていた木材が[r]
-ドミノ倒しになって道の方に倒れていく。[pcms]
+As if in a chain reaction, the propped-up lumber fell like dominoes[r]
+towards the path.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -813,13 +804,13 @@
 
 *1464|
 [fc]
-その音に興味を示したのか、感染者が一斉に[r]
-こちらに向かって歩いてきた。[pcms]
+The noise seemed to pique the interest of the infected, who all at[r]
+once started walking towards us.[pcms]
 
 *1465|
 [fc]
-[ns]誠[nse]
-「走るぞっ！」[pcms]
+[ns]Makoto[nse]
+"Run!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -828,8 +819,8 @@
 *1466|
 [fc]
 [vo_aka s="akari0346"]
-[ns]茜梨[nse]
-「はいっ！」[pcms]
+[ns]Akari[nse]
+"Yes!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -838,20 +829,20 @@
 
 *1467|
 [fc]
-キャンプ場の出入り口まで、もうそれほどの距離はない。[pcms]
+We weren't that far from the campsite entrance anymore.[pcms]
 
 *1468|
 [fc]
-それでも、まだたくさんの感染者がいるけれど、[r]
-何とかならない数じゃなかった。[pcms]
+There were still many infected around, but it wasn't an impossible[r]
+number to deal with.[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1469|
 [fc]
 [vo_aka s="akari0347"]
-[ns]茜梨[nse]
-「先に行きますっ！」[pcms]
+[ns]Akari[nse]
+"I'll go ahead!"[pcms]
 
 [chara_int][trans_c rl time=150]
 
@@ -871,31 +862,29 @@
 
 *1470|
 [fc]
-越智さんは感染者の方に走り込むと、[r]
-ホテルでの戦いを経験にして、[r]
-その足下を狙った攻撃を仕掛けていった。[pcms]
+Akari-san ran towards the infected and, using her experience from the[r]
+fight at the hotel, began attacking their legs.[pcms]
 
 *1471|
 [fc]
-斬ることで奴らが怯むことはないし、[r]
-簡単に死にはしないだろう。[pcms]
+Simply cutting them wouldn't make them flinch or die easily.[pcms]
 
 *1472|
 [fc]
-足下をすくって地面に倒し、[r]
-その隙に逃げるのが一番の得策だった。[pcms]
+Tripping them to the ground and escaping during that moment was the[r]
+best strategy.[pcms]
 
 *1473|
 [fc]
-こうすれば返り血を浴びずに済むし、[r]
-一人倒すのに時間も掛からない。[pcms]
+This way, I can avoid getting splattered with blood, and it doesn't[r]
+take much time to take down one person.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1474|
 [fc]
-[ns]誠[nse]
-「うおおおおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Uoooooooh!"[pcms]
 
 [se buf=0 storage="seB008"]
 ;//♪SE人間を殴る音２(痛そう)
@@ -903,8 +892,8 @@
 
 *1475|
 [fc]
-僕はバットを振るってその頭を叩いたり、[r]
-胸を強打してよろけさせる。[pcms]
+I swung the bat, hitting their heads or striking their chests hard[r]
+enough to make them stagger.[pcms]
 
 [se buf=0 storage="seB008"]
 ;//♪SE人間を殴る音２(痛そう)
@@ -912,16 +901,15 @@
 
 *1476|
 [fc]
-バットを使って足下を攻撃するのは、[r]
-試そうという気も起きなかった。[pcms]
+Using the bat to attack their feet never even crossed my mind.[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak05"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1477|
 [fc]
 [vo_aka s="akari0348"]
-[ns]茜梨[nse]
-「はぁぁぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Haaaah!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -945,25 +933,25 @@
 
 *1478|
 [fc]
-越智さんが一人二人と、見事な技で感染者を倒していく。[pcms]
+Akari-san took down one or two infected with her impressive skills.[pcms]
 
 *1479|
 [fc]
-僕は功名心を抑え、邪魔にならないように、[r]
-その隙間を縫って先に進んでいった。[pcms]
+I suppressed my desire for glory and made sure not to get in the way,[r]
+slipping through the gaps and moving forward.[pcms]
 
 *1480|
 [fc]
-[ns]誠[nse]
-「越智さん、もういいよっ！」[pcms]
+[ns]Makoto[nse]
+"Akari-san, that's enough!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1481|
 [fc]
 [vo_aka s="akari0349"]
-[ns]茜梨[nse]
-「はい……あっ！」[pcms]
+[ns]Akari[nse]
+"Yes... Ah!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 ;不要？[wait_c time=1000]
@@ -971,25 +959,25 @@
 
 *1482|
 [fc]
-急に走り始めた越智さんは、足をもつれさせながら、[r]
-三、四歩進んだところで前のめりになって倒れてしまった。[pcms]
+Suddenly starting to run, Akari-san tripped over her feet and after[r]
+three or four steps, she fell forward.[pcms]
 
 *1483|
 [fc]
-僕とは比べものにならない運動神経を持っている[r]
-越智さんにしては、考えられない失態だ。[pcms]
+For Akari-san, who has far better athletic abilities than me, such a[r]
+blunder was unthinkable.[pcms]
 
 *1484|
 [fc]
-ウイルスが身体にまわって、[r]
-上手く走れなくなってきているのかも知れない。[pcms]
+Maybe the virus is circulating in her body, making it difficult for[r]
+her to run properly.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1485|
 [fc]
-僕は越智さんを助け起こすために駆け寄ると、[r]
-その腕を取って引っ張り上げた。[pcms]
+I rushed over to help Akari-san up, grabbing her arm and pulling her[r]
+up.[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan2_x_bl"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 [ChrSetEx layer=3 chbase="mob_kan4_x_bl"][ChrSetXY layer=3 x=190 y=0][trans_c cross time=150]
@@ -997,23 +985,22 @@
 
 *1486|
 [fc]
-でも、それと同時に、すぐ近くに寄ってきていた感染者が、[r]
-越智さんの服を掴んで組み伏せようとする。[pcms]
+But at the same time, an infected that had come close tried to grab[r]
+Akari-san's clothes and pin her down.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1487|
 [fc]
 [vo_aka s="akari0350"]
-[ns]茜梨[nse]
-「いやっ！」[pcms]
+[ns]Akari[nse]
+"No!"[pcms]
 
 [chara_int_ layer=5][trans_c tb time=300]
 
 *1488|
 [fc]
-僕と越智さんはもつれるようにして、[r]
-一緒に地面に倒れ込んだ。[pcms]
+Akari-san and I fell to the ground together in a tangle.[pcms]
 
 [ChrSetEx layer=1 chbase="mob_kan1_x_bl"][ChrSetXY layer=1 x=790 y=0][trans_c cross time=150]
 
@@ -1023,12 +1010,11 @@
 
 *1489|
 [fc]
-感染者がゾロゾロと僕たちの周りに集まって、[r]
-包囲しようとしている。[pcms]
+The infected began to gather around us, trying to encircle us.[pcms]
 
 *1490|
 [fc]
-まずい、このままじゃ……。[pcms]
+This is bad, if it continues like this...[pcms]
 
 [se buf=0 storage="seC046"]
 ;//ライフル単発;//◆ＳＥ　銃声
@@ -1040,8 +1026,8 @@
 
 *1491|
 [fc]
-突然、鋭い音が鳴り響くと、[r]
-感染者の頭がスイカのように破裂した。[pcms]
+Suddenly, a sharp sound rang out, and the head of an infected burst[r]
+like a watermelon.[pcms]
 
 [se buf=0 storage="seC046"]
 ;//ライフル単発;//◆ＳＥ　銃声
@@ -1061,13 +1047,12 @@
 
 *1492|
 [fc]
-まるで行進のような靴音に後ろを振り返ると、[r]
-軍隊の制服に身を包んだ男たちが、手に手に銃器を持ち、[r]
-こちらに向かって歩いてくる。[pcms]
+Turning around to the sound of marching boots, I saw men in military[r]
+uniforms, each holding a firearm, walking towards us.[pcms]
 
 *1493|
 [fc]
-自衛隊だ！　これで助けて貰える！[pcms]
+The Self-Defense Forces! We can get help from them![pcms]
 
 [bgm storage="BGM12"]
 ;//♪bgm12　悪い状況。
@@ -1080,28 +1065,28 @@
 
 *1494|
 [fc]
-キャンプ場の入口辺りに現れた自衛隊は、[r]
-訓練された統率のある動きでフォーメーションを組み、[r]
-銃器と火炎放射器で感染者に襲いかかっていった。[pcms]
+The Self-Defense Forces that appeared near the campsite entrance moved[r]
+with trained coordination, forming a formation and attacking the[r]
+infected with guns and flamethrowers.[pcms]
 
 *1495|
 [fc]
-地面に転がっている僕らの上を、[r]
-何発もの銃弾が飛び交っていく。[pcms]
+Bullets flew over us as we lay on the ground.[pcms]
 
 *1496|
 [fc]
-そして、横一列に並んだ状態で武器を構えると、[r]
-火炎放射器を感染者に浴びせていった。[pcms]
+Then, lined up side by side with weapons at the ready, they doused the[r]
+infected with flamethrowers.[pcms]
 
 *1497|
 [fc]
-まるで訓練をしているみたいに、一糸乱れぬ動きだ。[pcms]
+Their movements were as precise as if they were in training, not a[r]
+single one out of sync.[pcms]
 
 *1498|
 [fc]
-感染者は炎に怯えたのか、逃げるように[r]
-自衛隊から遠ざかっていく個体もいる。[pcms]
+Perhaps frightened by the flames, some of the infected began to flee[r]
+away from the Self-Defense Forces.[pcms]
 
 ;//◆ＳＥ　銃声
 [se buf=0 storage="seC047"]
@@ -1109,31 +1094,31 @@
 
 *1499|
 [fc]
-僕と越智さんは助けを求めるために、[r]
-中腰になって自衛隊の方に近づいていく。[pcms]
+Akari-san and I crouched down to approach the Self-Defense Forces for[r]
+help.[pcms]
 
 *1500|
 [fc]
-自衛隊に助けてもらえれば、[r]
-越智さんの実家まですぐにたどり着けるだろう。[pcms]
+If we get help from the Self-Defense Forces, we should be able to[r]
+reach Akari-san's home quickly.[pcms]
 
 *1501|
 [fc]
-でも、僕のそんな甘い考えは一瞬で打ち砕かれた。[r]
-感染者と一緒に、そのまま銃弾を浴びせられる。[pcms]
+But my naive thoughts were shattered in an instant. We were showered[r]
+with bullets just like the infected.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1502|
 [fc]
 [vo_aka s="akari0351"]
-[ns]茜梨[nse]
-「きゃっ！」[pcms]
+[ns]Akari[nse]
+"Kyaa!"[pcms]
 
 *1503|
 [fc]
-[ns]誠[nse]
-「待ってくださいっ！　僕たちはっ……」[pcms]
+[ns]Makoto[nse]
+"Please wait! We are..."[pcms]
 
 ;//◆ＳＥ　銃声
 [se buf=1 storage="seC046"]
@@ -1141,40 +1126,39 @@
 
 *1504|
 [fc]
-まるで容赦のない攻撃だった。[r]
-僕たちと感染者に区別なんて無いみたいに攻撃を受ける。[pcms]
+The attack was merciless. We were attacked indiscriminately, just like[r]
+the infected.[pcms]
 
 *1505|
 [fc]
-もしかしたら、そういう命令を受けているのかも知れない。[r]
-事前の訓練で、感染の疑わしい者は撃てとか……。[pcms]
+Perhaps they had been ordered to do so. Maybe their prior training[r]
+instructed them to shoot anyone suspected of infection...[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1506|
 [fc]
 [vo_aka s="akari0352"]
-[ns]茜梨[nse]
-「逃げましょうっ！」[pcms]
+[ns]Akari[nse]
+"Let's run!"[pcms]
 
 *1507|
 [fc]
-遮蔽物のないこの状況で、立ち止まっているのは[r]
-自殺行為だった。[pcms]
+In this situation without any cover, standing still was suicidal.[pcms]
 
 *1508|
 [fc]
-幸い、森から飛び出してきた僕たちは、[r]
-道のかなり外側に位置している。[pcms]
+Fortunately, having emerged from the forest, we were positioned quite[r]
+far from the path.[pcms]
 
 *1509|
 [fc]
-この状況で話し合いなんてどうやっても不可能だ。[pcms]
+It was impossible to negotiate in this situation no matter what.[pcms]
 
 *1510|
 [fc]
-僕は越智さんの声と同時に森に向かって走り出し、[r]
-二人一緒にその奥へと姿を消していった。[pcms]
+At Akari-san's shout, I started running towards the forest and[r]
+together we disappeared deeper into it.[pcms]
 
 ;//♪bgm13　継続
 

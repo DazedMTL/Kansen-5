@@ -31,423 +31,393 @@
 
 *2130|
 [fc]
-[ns]西野[nse]
-「はあっ……はぁっ……！　なんなんだよ、あいつら！[r]
-　頭おかしいんじゃないの！？」[pcms]
+[ns]Nishino[nse]
+"Haa... Hah...! What's with those guys?! Are they out of their[r]
+minds?!"[pcms]
 
 [evcg storage="etc_N001a"][trans_c cross time=300]
 
 *2131|
 [fc]
-[ns]畠山[nse]
-「学園中、ヘンな奴らばっかりだ！[r]
-　みんな……アイツらに殺されちゃったんだ！」[pcms]
+[ns]Hatakeyama[nse]
+"The whole school is full of weirdos! Everyone... They've all been[r]
+killed by them!"[pcms]
 
 *2132|
 [fc]
-[ns]教員[nse]
-「おい！　そっちはダメだ！　俺から離れるんじゃない！！[r]
-　西野っ！　畠山っ！！　中澤ぁぁっ！！」[pcms]
+[ns]Teacher[nse]
+"Hey! Don't go that way! Don't leave me!! Nishino! Hatakeyama!![r]
+Nakazawa!!"[pcms]
 
 *2133|
 [fc]
-どっ……どうしたらいいんだ、僕は！[r]
-ニシも、畠山もついてこいっていうけど、[r]
-先生は、ダメだっていう……！[pcms]
+What should I do? Nishi and Hatakeyama are telling me to follow them,[r]
+but the teacher is saying no...![pcms]
 
 *2134|
 [fc]
-どうして、こんな事になったんだ！？[r]
-僕は、今どうしたらいいんだ！？[pcms]
+Why did this happen?! What should I do now?![pcms]
 
 *2135|
 [fc]
-どっちに逃げていいのか、分からない。[r]
-誰の言うことを信じればいいのか、分からない。[pcms]
+I don't know which way to run. I don't know whose words to trust.[pcms]
 
 [evcg storage="etc_N001g"][trans_c cross time=300]
 
 *2136|
 [fc]
-[ns]誠[nse]
-「あっ……あぁあぁっ！！！　先生っ！　危ないぃぃっ！」[pcms]
+[ns]Makoto[nse]
+"Ah... Aaahhh!!! Teacher! It's dangerous!!"[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 ;//[evcg storage="etc_N001j"][trans_c cross time=300]
 
 *2137|
 [fc]
-先生の周りに、沢山の人が群がっていく。[pcms]
+A crowd of people swarmed around the teacher.[pcms]
 
 *2138|
 [fc]
-男の人、女の人……。[r]
-おじいちゃんや、おばあちゃん。[pcms]
+Men, women... Grandfathers and grandmothers.[pcms]
 
 *2139|
 [fc]
-いろんな人が、先生の体をわしづかみにして、[r]
-好き勝手な方向に引っ張った。[pcms]
+All sorts of people grabbed the teacher's body and pulled in whatever[r]
+direction they wanted.[pcms]
 
 *2140|
 [fc]
-[ns]教員[nse]
-「お前らぁっ！　行くなっ！　止まれぇぇっ！！！[r]
-　あぁっ！　ばっ、バカなぁっ！！[r]
-　ぎゃぁああぁあぁああああぁっっ！！！」[pcms]
+[ns]Teacher[nse]
+"You guys! Don't go! Stop!!! Ahh! You fools!! Gyaaaahhhhhhh!!!"[pcms]
 
 *2141|
 [fc]
-僕は、自分の目を疑った。[pcms]
+I couldn't believe my eyes.[pcms]
 
 *2142|
 [fc]
-僕達の先生は、沢山の人達に襲われ、[r]
-体中から真っ赤な液体を吹き出して、痙攣してる！[pcms]
+Our teacher was being attacked by a crowd of people, spurting red[r]
+liquid from all over his body and convulsing![pcms]
 
 *2143|
 [fc]
-顔を真っ赤に染めた人達は、[r]
-笑いながら、先生の体の至る所に噛みついている。[pcms]
+The faces reddened with blood laughed as they bit into the teacher's[r]
+body everywhere.[pcms]
 
 *2144|
 [fc]
-その中の一人が、先生の血を浴びて真っ赤になった顔を、[r]
-僕達の方へ向けた。[pcms]
+One of them, with a face drenched in the teacher's blood, turned[r]
+towards us.[pcms]
 
 *2145|
 [fc]
-真っ赤に染まった顔の中心で、[r]
-真っ赤になった目を光らせて。[pcms]
+In the center of the blood-soaked face, their blood-red eyes shone[r]
+brightly.[pcms]
 
 *2146|
 [fc]
-そのどす黒くて、だけど鮮烈な赤い色に、[r]
-僕の目は釘付けになってしまっていた。[pcms]
+My eyes were fixed on that dark yet vivid red color.[pcms]
 
 *2147|
 [fc]
-[ns]教員[nse]
-「ぐっ……あぁあぎぃいいっ！！！[r]
-　ダメだ……にっ……逃げろおおっ！！[r]
-　中澤ぁぁっ！　止まるなっ！　逃げろおおっ！」[pcms]
+[ns]Teacher[nse]
+"Guh... Aaagiiii!!! No good... run... Nakazawa!! Don't stop! Run!!"[pcms]
 
 *2148|
 [fc]
-先生は、沢山の人々が蠢く中心で、[r]
-さっきと真逆の事を叫んだ。[pcms]
+In the midst of the writhing crowd, the teacher shouted the complete[r]
+opposite of what he had said before.[pcms]
 
 *2149|
 [fc]
-先生の声は、次第に引きちぎられた糸の様な音に変わった。[pcms]
+The teacher's voice gradually turned into a sound like a torn thread.[pcms]
 
 *2150|
 [fc]
-直後、見開かれた僕の瞳に、[r]
-宙を舞う先生の首が映し出される。[pcms]
+Immediately after, the teacher's head, dancing in the air, was[r]
+reflected in my wide-open eyes.[pcms]
 
 [evcg storage="etc_N001i"][trans_c cross time=300]
 
 *2151|
 [fc]
-[ns]誠[nse]
-「せっ……先生！！　ニシ！　先生がアイツらにやられたっ！[r]
-　助けなきゃ……助けなきゃあっ！！」[pcms]
+[ns]Makoto[nse]
+"Tea... Teacher!! Nishi! The teacher's been taken down by them! We[r]
+have to help... we have to save him!!"[pcms]
 
 *2152|
 [fc]
-[ns]畠山[nse]
-「やめろ誠！　お前、見ただろあの人数！[r]
-　あんなのに勝てるわけないだろ！！　行くだけ無駄だっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Stop it, Makoto! You saw the number of them! There's no way we can[r]
+beat that!! It's useless to go!!"[pcms]
 
 *2153|
 [fc]
-[ns]西野[nse]
-「ボケっとしてたら、僕たちまで食べられちゃうよ！[r]
-　あんなのに殺されたくないよ！！[r]
-　早くっ！　早く逃げるんだよ！！」[pcms]
+[ns]Nishino[nse]
+"If you space out, we'll be eaten too! I don't want to be killed by[r]
+those things!! Hurry! We need to run now!!"[pcms]
 
 *2154|
 [fc]
-沢山の人の群れが、[r]
-先生の首をサッカーボールみたいに蹴飛ばした。[pcms]
+The crowd kicked the teacher's head around like a soccer ball.[pcms]
 
 *2155|
 [fc]
-沢山の人の群れが、首の無い先生の胴体を、踏みつける。[pcms]
+The crowd trampled on the headless teacher's torso.[pcms]
 
 *2156|
 [fc]
-沢山の人の群れが、先生の体を奪い合っている！[pcms]
+The crowd fought over the teacher's body![pcms]
 
 *2157|
 [fc]
-[ns]誠[nse]
-「あ…ァ……ああ……あああぁあっ！！！[r]
-　先生っ！　先生いいいっ！！！　うわぁぁあぁあぁあぁっ！！！[r]
-　あぁあああああああああああああぁぁっ！！」[pcms]
+[ns]Makoto[nse]
+"Ah... A... Aaaahhh!!! Teacher! Teacherrrr!!! Uwaaaahhhhhhh!!![r]
+Aaaaaaaahhhhhhhhhhhhhh!!!"[pcms]
 
 [evcg storage="etc_N001j"][trans_c cross time=300]
 
 *2158|
 [fc]
-僕は、見たんだ。[r]
-飛んでいく先生の首を。[pcms]
+I saw it. The teacher's head flying through the air.[pcms]
 
 *2159|
 [fc]
-僕は見たんだ。[r]
-先生の口が、逃げろって叫ぶ形をしているのを。[pcms]
+I saw it. The teacher's mouth forming the shape of a scream telling us[r]
+to run.[pcms]
 
 *2160|
 [fc]
-なのに、僕の足はただ震えるだけ。[r]
-僕は、一体どうしたらいいんだ……？[pcms]
+Yet my legs just trembled. What should I do...?[pcms]
 
 *2161|
 [fc]
-[ns]西野[nse]
-「うわっ！　うわあぁっ！！　ああぁぁっ！！　だっ、ダメだよ！[r]
-　逃げろ誠っ！！」[pcms]
+[ns]Nishino[nse]
+"Uwah! Uwaaaahh!! Aaaahh!! No good! Run, Makoto!!"[pcms]
 
 *2162|
 [fc]
-[ns]畠山[nse]
-「せっ、先生が殺されたっ！　やばいよ！[r]
-　走れっ！　誠おおおっ！！」[pcms]
+[ns]Hatakeyama[nse]
+"Makoto, the teacher's been killed! This is bad! Run! Makotooo!!"[pcms]
 
 *2163|
 [fc]
 [vo_mob s="kanA0001"]
-[ns]感染者女Ａ[nse]
-「あ゛はっ……あ゛はぁぁ゛ぁっ……、お……お゛どごぉ……。[r]
-　ひっ……あひひっ！　あ゛ばばあ゛ぁあ゛ぁっ！！[r]
-　ま゛っ、でぇ……あ゛ぞび……ま゛しょ……？　あ゛ははぁ！」[pcms]
+[ns]Infected Woman A[nse]
+"Ahaha... ahahaaa... where... should I go... Hih... ahaha! Ababaaaah!![r]
+Shall we... play... zombies...? Ahahaha!"[pcms]
 
 ;//めも：仕方ないのでこの系統のCG使います
 [evcg storage="mob_N005a"][trans_c cross time=300]
 
 *2164|
 [fc]
-腐った魚の目みたいな濁った赤い目が、[r]
-僕の顔の真ん前に現れた。[pcms]
+Murky red eyes like those of a rotten fish appeared right in front of[r]
+my face.[pcms]
 
 *2165|
 [fc]
-薄気味の悪い笑みを浮かべ、[r]
-僕をごちそうでも見るような目をして、[r]
-立っていた。[pcms]
+With a creepy smile and eyes that looked at me as if I were a feast,[r]
+she stood there.[pcms]
 
 *2166|
 [fc]
-やっ……やばい！[r]
-僕も、先生みたいになっちゃう！[pcms]
+No... This is bad! I'll end up like the teacher![pcms]
 
 *2167|
 [fc]
-首を切られて、腕をもがれて……。[r]
-僕も死んじゃう！[pcms]
+My head cut off, my arms torn off... I'm going to die![pcms]
 
 [evcg storage="etc_N001c"][trans_c cross time=300]
 
 *2168|
 [fc]
-[ns]西野[nse]
-「何してんだ、バカ！[r]
-　急げっ！　こっちだってば！　誠っ！」[pcms]
+[ns]Nishino[nse]
+"What are you doing, idiot! Hurry up! This way! Makoto!"[pcms]
 
 [evcg storage="mob_N005b"][trans_c cross time=300]
 
 *2169|
 [fc]
 [vo_mob s="kanA0002"]
-[ns]感染者女Ａ[nse]
-「あ゛はっはははははぁあぁぁっ！！！」[pcms]
+[ns]Infected Woman A[nse]
+"Ahahahahahahaahhhh!!!"[pcms]
 
 *2170|
 [fc]
-[ns]誠[nse]
-「わっ……わああああああぁあぁぁぁっ！！[r]
-　い、いやだぁっ！　こっ、こっちくんなぁっ！！[r]
-　まって、待ってえっ！　ニシ！　畠山ぁっ！」[pcms]
+[ns]Makoto[nse]
+"Wah... Waaaaaahhh!! No, nooo! Don't come this way!! Wait, wait![r]
+Nishi! Hatakeyama!"[pcms]
 
 [evcg storage="mob_N005b"][trans_c cross time=300]
 
 *2171|
 [fc]
 [vo_mob s="kanA0003"]
-[ns]感染者女Ａ[nse]
-「ぐぇ……」[pcms]
+[ns]Infected Woman A[nse]
+"*groan*..."[pcms]
 
 *2172|
 [fc]
-僕は、今まで生きてきた中で、[r]
-一番の力を込めて、ヘンな女の子の腹を蹴飛ばし、[r]
-その反動を使って、僕を待ってくれている二人の方へ駆け出した。[pcms]
+I kicked the strange girl in the stomach with all the strength I had[r]
+ever mustered in my life, using the recoil to dash towards the two[r]
+waiting for me.[pcms]
 
 [evcg storage="etc_N001g"][trans_c cross time=300]
 
 *2173|
 [fc]
-[ns]誠[nse]
-「まってよおっ！　待って……ぜえっ……ぜえっ……」[pcms]
+[ns]Makoto[nse]
+"Wait for me! Wait... *pant*... *pant*..."[pcms]
 
 *2174|
 [fc]
-サッカー部のニシに、いたずら小僧の畠山。[r]
-そんな二人には、僕の足じゃ追いつくことすら出来ない。[pcms]
+The soccer club's Nishi and the mischievous Hatakeyama. I couldn't[r]
+even catch up to them with my speed.[pcms]
 
 *2175|
 [fc]
-心臓が胸から飛び出しそうなくらい速く、大きく動いてるのに。[r]
-脇腹がギリギリ痛いのを我慢して走っているのに。[pcms]
+My heart felt like it was about to burst out of my chest, beating so[r]
+fast and hard. And yet, I ran, enduring the sharp pain in my side.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *2176|
 [fc]
-[ns]畠山[nse]
-「あそこ、扉あいてるぞ！　あそこに逃げ込めっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Over there, the door's open! We can escape in there!"[pcms]
 
 *2177|
 [fc]
-畠山が走りながら指さす先には、[r]
-特に荒らされた様子のない部屋があった。[pcms]
+The place Hatakeyama pointed to while running didn't seem to be[r]
+particularly ransacked.[pcms]
 
 *2178|
 [fc]
-そこはまるで僕達を待ってくれていたように、[r]
-扉が開いていた。[pcms]
+It was as if it was waiting for us, with the door wide open.[pcms]
 
 *2179|
 [fc]
-あそこまで逃げ込めば、助かるかもしれない。[r]
-あのヘンな奴らから逃げられるかもしれない。[pcms]
+If we could make it there, we might be saved. We might escape from[r]
+those weird ones.[pcms]
 
 *2180|
 [fc]
-僕は希望を胸に、痛む脇腹を押さえ、[r]
-それまでよりもっと強く地面を蹴った。[pcms]
+I kicked the ground even harder than before, clutching my aching side[r]
+with hope in my heart.[pcms]
 
 *2181|
 [fc]
-ニシも、畠山も、僕と同じ気持ちなんだろう。[r]
-また、僕と二人の間の距離は開いていく。[pcms]
+Nishi and Hatakeyama must feel the same way. Yet, the distance between[r]
+us kept growing.[pcms]
 
 *2182|
 [fc]
-このままじゃ、僕は見捨てられちゃうかもしれない。[r]
-いくら親友だっていっても、[r]
-先生が殺される所を見ちゃったんだ。[pcms]
+If this continues, I might be left behind. No matter how much they say[r]
+we're best friends, they saw the teacher get killed.[pcms]
 
 *2183|
 [fc]
-だけど、見殺しになんてされたくない。[r]
-僕だって、まだ生きていたいんだ！[r]
-あんな死に方、絶対にイヤだ！[pcms]
+But I don't want to be abandoned. I want to live too! I absolutely[r]
+don't want to die like that![pcms]
 
 [evcg storage="etc_N001e"][trans_c cross time=300]
 
 *2184|
 [fc]
-[ns]畠山[nse]
-「ほら、誠早くしろよっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Hey, Makoto, hurry up!"[pcms]
 
 *2185|
 [fc]
-[ns]西野[nse]
-「誠っ！　頑張れっ！　あと少しだっ！！」[pcms]
+[ns]Nishino[nse]
+"Makoto! Hang in there! Just a little more!!"[pcms]
 
 *2186|
 [fc]
-[ns]誠[nse]
-「二人とも……ううっ……うわぁあっ！！！」[pcms]
+[ns]Makoto[nse]
+"Both of you... *sob*... Uwaaaah!!!"[pcms]
 
 [evcg storage="etc_N001f"][trans_c cross time=300]
 
 *2187|
 [fc]
-自分たちだって、助かりたいだろうのに、[r]
-二人は、僕の事を待っていてくれる！[pcms]
+Even though they want to be saved themselves, they're waiting for me![pcms]
 
 *2188|
 [fc]
-やっぱり、僕の親友だ！[pcms]
+They really are my best friends![pcms]
 
 [evcg storage="etc_N001g"][trans_c cross time=300]
 
 *2189|
 [fc]
-……違う……これは違う……。[pcms]
+...No... this is wrong...[pcms]
 
 ;//◆追加されている文章を抜き出しておきますね
 ;//◆文字の色変えたりとか演出した方がいいかも
 
 *2190|
 [fc]
-[ns]誠[nse]
-「ううっ……ありがとう……畠山！　ニシッ！！」[pcms]
+[ns]Makoto[nse]
+"*sob*... Thank you... Hatakeyama! Nishi!!"[pcms]
 
 *2191|
 [fc]
-それに引き替え僕は……。[r]
-二人の事を疑ったりして……恥ずかしい……。[pcms]
+In contrast, I am... I feel ashamed for doubting them...[pcms]
 
 *2192|
 [fc]
-僕はその友情に答えるべく、[r]
-精一杯の力を振り絞って走った。[pcms]
+I ran with all the strength I could muster, answering to their[r]
+friendship.[pcms]
 
 *2193|
 [fc]
-あと数メートル。[r]
-あと少しで、親友達が待つ部屋にたどり着くんだ。[r]
-あの二人と一緒なら、このおかしな状況を凌ぐ事が出来る。[pcms]
+Just a few more meters. In just a little bit, I'll reach the room[r]
+where my best friends are waiting. If I'm with those two, we can get[r]
+through this bizarre situation.[pcms]
 
 *2194|
 [fc]
-僕は、二人の友情と、その安心感から、[r]
-自然と目に涙が溢れてくるのを感じていた。[pcms]
+I felt tears naturally overflowing from my eyes due to the friendship[r]
+of those two and the sense of security it brought.[pcms]
 
 *2195|
 [fc]
-だけど、その矢先――[pcms]
+But just then--[pcms]
 
 [evcg storage="mob_N005a"][trans_c cross time=300]
 
 *2196|
 [fc]
-[ns]畠山[nse]
-「おい！　ニシ！！　後ろっ……後ろっ！！」[pcms]
+[ns]Hatakeyama[nse]
+"Oi! Nishi!! Behind you... behind!!"[pcms]
 
 *2197|
 [fc]
-僕の目指す部屋にも、あのおかしな奴らが集まりだしていた。[pcms]
+The strange ones had started gathering in the room I was aiming for.[pcms]
 
 *2198|
 [fc]
-[ns]感染者男[nse]
-「あばぁあぁあ゛あ゛あ゛あ゛ァ……あがぁっ！[r]
-　くっ……くわ、せ、ろおおっ……！」[pcms]
+[ns]Infected Man[nse]
+"Abbaaaaahhh... Agahh! Kuh... kuwa, se, rooooh...!"[pcms]
 
 *2199|
 [fc]
-僕のせいだ……。[r]
-僕の足が遅いせいで、二人を危ない目に遭わせちゃったんだ！[pcms]
+It's my fault... Because of my slow legs, I've put them both in[r]
+danger![pcms]
 
 *2200|
 [fc]
-くそおっ！[r]
-待ってろ、畠山、ニシ！[r]
-僕だって、お前らの親友なんだ！[pcms]
+Dammit! Wait for me, Hatakeyama, Nishi! I'm your best friend too![pcms]
 
 *2201|
 [fc]
-僕が、お前達を助けるんだ！[pcms]
+I will save you guys![pcms]
 
 *2202|
 [fc]
-違う……何かが違う……。[pcms]
+No... something's wrong...[pcms]
 
 ;//◆追加されている文章を抜き出しておきますね
 
@@ -455,155 +425,148 @@
 
 *2203|
 [fc]
-[ns]誠[nse]
-「わぁああぁあああっ！！　二人に近づくなぁあっ！！！」[pcms]
+[ns]Makoto[nse]
+"Waaaaaahhh!! Don't get near them!!"[pcms]
 
 *2204|
 [fc]
-[ns]西野[nse]
-「えっ……うわっ！　くっ……くそおっ！[r]
-　こっちくんなぁっ！！」[pcms]
+[ns]Nishino[nse]
+"Eh... Uwah! Kuh... dammit! Don't come this way!!"[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *2205|
 [fc]
-[ns]感染者男[nse]
-「ぐっ……ぐば、ぁあぁ……ごっ……この、が、がキぃいいっ！」[pcms]
+[ns]Infected Man[nse]
+"Guh... gubaah... goh... you bastardssss!"[pcms]
 
 *2206|
 [fc]
-[ns]西野[nse]
-「なんだコイツ……効いてないのか……。[r]
-　くそっ、もう一発だあぁっ！！」[pcms]
+[ns]Nishino[nse]
+"What's with this guy... He's not going down... Dammit, take another[r]
+hit!!"[pcms]
 
 *2207|
 [fc]
-[ns]畠山[nse]
-「うおおおっ！　俺もやるぞっ！　いくぞ、ニシいいっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Uooooh! I'll do it too! Let's go, Nishi!"[pcms]
 
 *2208|
 [fc]
-二人は顔を見合わせ、頷き合うと、[r]
-フラフラと近づく男を睨み付けながら、[r]
-同時に蹴りと拳を放った。[pcms]
+The two exchanged glances and nodded at each other, then while glaring[r]
+at the staggering man approaching them, they simultaneously unleashed[r]
+a kick and a punch.[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *2209|
 [fc]
-[ns]感染者男[nse]
-「あばぁぁ……」[pcms]
+[ns]Infected Man[nse]
+"Abbaaah..."[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *2210|
 [fc]
-ニシはサッカー部。[r]
-畠山はちょっとケンカっぱやくて腕自慢。[pcms]
+Nishi is in the soccer club. Hatakeyama is a bit of a brawler and[r]
+proud of his strength.[pcms]
 
 *2211|
 [fc]
-そんな二人が、ほぼ同時に、[r]
-それぞれの得意な攻撃を繰り出したんだ。[pcms]
+Both of them, almost simultaneously, unleashed their best attacks.[pcms]
 
 *2212|
 [fc]
-あんなのをまともに受けて倒れないヤツなんていないだろう。[pcms]
+There's no way someone could take those hits head-on and not go down.[pcms]
 
 *2213|
 [fc]
-[ns]畠山[nse]
-「そら、誠！　こっちはもう大丈夫だから！[r]
-　急げぇぇっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Here, Makoto! We're okay now! Hurry up!!"[pcms]
 
 *2214|
 [fc]
-[ns]西野[nse]
-「僕らは三人じゃなきゃダメなんだ！[r]
-　お前がいなかったら、僕達は成り立たないだろ！[r]
-　だから、みんなでここから逃げ出すんだ！　誠っ！」[pcms]
+[ns]Nishino[nse]
+"We're no good without the three of us! Without you, we can't[r]
+function! So, we're all going to escape from here together! Makoto!"[pcms]
 
 *2215|
 [fc]
-二人の目にも、涙が溢れていた。[r]
-それは、恐怖を堪えるものだったのかもしれない。[pcms]
+Tears were overflowing in their eyes as well. Maybe it was to endure[r]
+the fear.[pcms]
 
 *2216|
 [fc]
-だけど僕は、その涙にさえ不思議な連帯感を覚えていた。[pcms]
+But even in those tears, I felt a strange sense of solidarity.[pcms]
 
 *2217|
 [fc]
-二人が、僕を親友だって言ってくれたから。[r]
-三人一緒じゃなきゃダメだって、言ってくれたから。[pcms]
+Because they said I was their best friend. Because they said it[r]
+wouldn't work unless the three of us were together.[pcms]
 
 *2218|
 [fc]
-二人の言葉は、僕を元気づけた。[r]
-そのおかげで、僕は二人が待ってくれていた部屋へ、[r]
-飛び込むことが出来た。[pcms]
+Their words encouraged me. Thanks to them, I was able to leap into the[r]
+room where they were waiting for me.[pcms]
 
 *2219|
 [fc]
-これは違う……間違っている……。[pcms]
+This is wrong... something's not right...[pcms]
 
 ;//◆追加されている文章を抜き出しておきますね
 
 *2220|
 [fc]
-[ns]誠[nse]
-「あっ……ありがとう……ニシ！　畠山ぁっ！[r]
-　うわぁああん！　ありがとう……ぐすっ……」[pcms]
+[ns]Makoto[nse]
+"Ah... thank you... Nishi! Hatakeyama! Waaaaahhh! Thank you...[r]
+*sniffle*..."[pcms]
 
 *2221|
 [fc]
-二人の友情と、安心のせいで僕は、[r]
-それまで堪えていた感情が爆発して、[r]
-堰き止められていた涙や声が、一気にあふれ出した。[pcms]
+Their friendship and the relief I felt made all the emotions I had[r]
+been holding back explode, and the tears and voice that had been[r]
+dammed up came flooding out all at once.[pcms]
 
 *2222|
 [fc]
-[ns]西野[nse]
-「あははっ、ひっどい顔！[r]
-　涙ふけよ、誠！　あははっ！」[pcms]
+[ns]Nishino[nse]
+"Ahaha, what an awful face! Wipe your tears, Makoto! Ahaha!"[pcms]
 
 *2223|
 [fc]
-[ns]畠山[nse]
-「泣くんじゃねえよ、いい年して！　ぷっ……はははっ！[r]
-　あははっ！　お前の顔見てたら、なんだか安心したよ！」[pcms]
+[ns]Hatakeyama[nse]
+"Don't cry, man, at your age! Pfft...hahaha! Ahaha! Seeing your face[r]
+somehow makes me feel relieved!"[pcms]
 
 *2224|
 [fc]
-[ns]誠[nse]
-「そんなこと言ったって……僕、うれしくて……ううっ……。[r]
-　あっ……ああぁっ！！　ニシっ！　ま、またアイツがっ！」[pcms]
+[ns]Makoto[nse]
+"Even if you say that... I'm so happy... *sob*... Ah... Aaahh!! Nishi![r]
+Look out, it's that guy again!"[pcms]
 
 *2225|
 [fc]
-[ns]西野[nse]
-「えっ……あ……」[pcms]
+[ns]Nishino[nse]
+"Eh... Ah..."[pcms]
 
 *2226|
 [fc]
-[ns]畠山[nse]
-「にっ……ニシっ！　えっ……うっ、うわぁぁっ！！[r]
-　いつの間にこんなっ！！」[pcms]
+[ns]Hatakeyama[nse]
+"Ni... Nishi! Eh... Uh, uwaahhh!! When did they get like this!!"[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
 
 *2227|
 [fc]
-僕達の安堵の笑いは、そこで途切れた。[pcms]
+Our laughter of relief was cut short right there.[pcms]
 
 *2228|
 [fc]
-気を緩めてしまったのが間違いだった。[r]
-いつの間にか、僕達はヘンな奴らに取り囲まれてしまっていた。[pcms]
+The mistake was letting our guard down. Before we knew it, we were[r]
+surrounded by those weird guys.[pcms]
 
 [evcg storage="mob_N005d"][trans_c cross time=300]
 [bgm storage="BGM04"]
@@ -611,79 +574,77 @@
 
 *2229|
 [fc]
-[ns]西野[nse]
-「はっ……離せぇぇっ！！　やめろおっ！」[pcms]
+[ns]Nishino[nse]
+"Ha... let go of me!! Stop it!"[pcms]
 
 *2230|
 [fc]
-[ns]畠山[nse]
-「うわぁあぁっ！　ニシっ！　誠おおっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Uwaaaahh! Nishi! Makotooo!"[pcms]
 
 *2231|
 [fc]
-[ns]誠[nse]
-「あっ……ああぁぁ……」[pcms]
+[ns]Makoto[nse]
+"Ah... Aaahhh..."[pcms]
 
 *2232|
 [fc]
-僕を助けてくれた親友達は、[r]
-あっという間に人の群れの中に消えた。[pcms]
+My best friends who had saved me disappeared into the crowd in an[r]
+instant.[pcms]
 
 *2233|
 [fc]
-さっき、僕を待ってくれていた親友が、[r]
-一瞬にして人の山の中に消えていった。[pcms]
+Just a moment ago, my best friends who had been waiting for me[r]
+vanished into a mountain of people.[pcms]
 
 *2234|
 [fc]
-[ns]誠[nse]
-「くっ……くそおおおっ！　ニシっ！　畠山あぁっ！！[r]
-　今度は、僕が助ける番だぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it... Damn it all! Nishi! Hatakeyama!! Now it's my turn to save[r]
+you!!"[pcms]
 
 *2235|
 [fc]
-僕の友達。[r]
-僕の親友。[r]
-僕を必要としてくれる人。[pcms]
+My friends. My best friends. People who need me.[pcms]
 
 *2236|
 [fc]
-どうしてこんなに……違和感があるんだ……。[pcms]
+Why does this feel so... wrong...[pcms]
 
 ;//◆追加されている文章を抜き出しておきますね
 
 *2237|
 [fc]
-[ns]誠[nse]
-「僕の親友を、お前らなんかに渡すもんか！」[pcms]
+[ns]Makoto[nse]
+"I won't let you bastards have my best friends!"[pcms]
 
 [evcg storage="mob_N005b"][trans_c cross time=300]
 
 *2238|
 [fc]
-僕は、危険だと知りながらも二人を助けるためにと、[r]
-教室から飛び出そうとした。[pcms]
+I knew it was dangerous, but I tried to rush out of the classroom to[r]
+save them.[pcms]
 
 *2239|
 [fc]
-だけどそれは、叶わなかった。[pcms]
+But that didn't happen.[pcms]
 
 *2240|
 [fc]
 [vo_mob s="kanA0004"]
-[ns]感染者女Ａ[nse]
-「あ゛はぁ～……つ、つか、ま、え、だぁ～……」[pcms]
+[ns]Infected Woman A[nse]
+"Aaah~... ca... catch... you... daa~..."[pcms]
 
 *2241|
 [fc]
-[ns]誠[nse]
-「えっ……うっ……うわぁあああああああああぁぁぁっ！！！」[pcms]
+[ns]Makoto[nse]
+"Eh... Uh... Uwaaaaaaaahhhhhhhhh!!!"[pcms]
 
 *2242|
 [fc]
 [vo_mob s="syouko0001"]
 [ns]？？？[nse]
-「何するのーっ！　中澤君っ！」[pcms]
+"What are you doing-! Nakazawa-kun!"[pcms]
 
 ;//昌子
 
@@ -698,12 +659,12 @@
 
 *2243|
 [fc]
-僕は、親友を助けなきゃならないんだ。[r]
-僕は、僕を必要としてくれる人を助けるんだ……。[pcms]
+I have to save my best friends. I have to help the people who need[r]
+me...[pcms]
 
 *2244|
 [fc]
-僕は……。[pcms]
+I must...[pcms]
 
 ;//◆5170へジャンプ
 [jump storage="5170.ks" target=*5170_TOP]

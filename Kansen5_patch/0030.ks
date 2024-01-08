@@ -5,7 +5,7 @@
 ;//登場人物	：オズ・船長・甲板長・船員Ａ・船員Ｂ・船員Ｃ・船員Ｄ・船医・男性客・女性客
 ;//服装		：私服
 ;//日付		：8月17日
-;//時間		：早朝～深夜
+;//時間		：早朝深夜
 ;//場所		：越智本家の港・夜
 ;//予想容量	：10kb
 ;//備考		：三回目以降プレイ時の、三人称視点プロローグパート
@@ -29,232 +29,238 @@
 
 *533|
 [fc]
-[ns]甲板長[nse]
-「ほら、二人で船室にお連れしろ。[r]
-　大人しくしてるとは思うが……気をつけろよ」[pcms]
+[ns]Boatswain[nse]
+"Hey, take the two of them to the cabin. I think they'll behave,[r]
+but... be careful."[pcms]
 
 *534|
 [fc]
-[ns]船員Ａ[nse]
-「わかってますって。[r]
-　いつものお客さんと同じでしょ」[pcms]
+[ns]Crew Member A[nse]
+"I know, I know. They're just like the usual guests, right?"[pcms]
 
 *535|
 [fc]
-[ns]船員Ｂ[nse]
-「病人が出る度にこれじゃ、向こうさんも仕事にならんですね」[pcms]
+[ns]Crew Member B[nse]
+"If we have to deal with sick people every time, it's not going to[r]
+work out for them either."[pcms]
 
 *536|
 [fc]
-日本近海に浮かぶ、外界から隔絶された太平洋のとある孤島。[pcms]
+A certain isolated island in the Pacific, cut off from the outside[r]
+world, floating in the waters near Japan.[pcms]
 
 *537|
 [fc]
-その小島から、瀬渡内の片隅に佇む大神島まで、[r]
-一般客の利用できない定期船が存在していた。[pcms]
+From that small island, there was a regular service to the secluded[r]
+Oogamijima, not accessible to general passengers.[pcms]
 
 *538|
 [fc]
-観光資源もなく、漁師でさえ滅多に近づかないその小島に[r]
-用のある客もおらず、一般客が利用できないことで[r]
-問題が起きたことはない。[pcms]
+With no tourist attractions and rarely approached even by fishermen,[r]
+there were no guests with business on that small island, and the lack[r]
+of general passenger use never caused any problems.[pcms]
 
 *539|
 [fc]
-ただ……こうして、確実に運行していることだけは確かだった。[pcms]
+However... it was certain that the service was reliably in operation.[pcms]
 
 *540|
 [fc]
-[ns]船員Ａ[nse]
-「ほら、段差があるから気をつけてくださいよ？」[pcms]
+[ns]Crew Member A[nse]
+"Watch your step, there's a step here, okay?"[pcms]
 
 *541|
 [fc]
-[ns]船員Ｂ[nse]
-「聞きました？　お客さんも、そこの床には気をつけて」[pcms]
+[ns]Crew Member B[nse]
+"Did you hear that? Please be careful with that spot on the floor,[r]
+guest."[pcms]
 
 *542|
 [fc]
-大神島から出航した定期船は、食料や生活必需品、[r]
-個人的な荷物から何かの資材まで、小島で全ての積み荷を降ろすと、[r]
-代わりに二人の客を預かって出港していた。[pcms]
+The regular ship departing from Oogamijima would unload all cargo on[r]
+the small island, from food and daily necessities to personal[r]
+belongings and various materials, and then set sail again with two[r]
+passengers on board.[pcms]
 
 *543|
 [fc]
-二人は白いレインコートのようなものに身を包み、[r]
-手袋から長靴まで素肌を晒さないような姿になっている。[pcms]
+The two were clad in something resembling white raincoats, with gloves[r]
+to boots ensuring no skin was exposed.[pcms]
 
 *544|
 [fc]
-頭には大きな帽子をかぶり、顔の半分以上を覆う[r]
-大きなマスクまで装着していた。[pcms]
+They wore large hats on their heads and even donned large masks that[r]
+covered more than half of their faces.[pcms]
 
 *545|
 [fc]
-二人の船員は、一人ずつ客の側にピタリと横に付くと、[r]
-何があってもいいように気を配っている。[pcms]
+The two crew members stuck close to the side of each guest, vigilant[r]
+as if prepared for any eventuality.[pcms]
 
 *546|
 [fc]
-[ns]甲板長[nse]
-「そこの部屋だ、丁重にな」[pcms]
+[ns]Boatswain[nse]
+"That's the room there, treat them with care."[pcms]
 
 *547|
 [fc]
-[ns]船員Ａ[nse]
-「わかってます、さあ入ってくださいよ」[pcms]
+[ns]Crew Member A[nse]
+"I know, I know. Please come in."[pcms]
 
 *548|
 [fc]
-男性客が[ruby text="おぼつか"][ch text="覚束"]ない足取りで部屋の中に入っていくと、[r]
-それを追うように女性客もドアをくぐった。[pcms]
+The male guest entered the room with unsteady steps, followed by the[r]
+female guest who also passed through the door.[pcms]
 
 *549|
 [fc]
-[ns]船員Ｂ[nse]
-「おっと……ずいぶんヨタヨタしてますな」[pcms]
+[ns]Crew Member B[nse]
+"Whoa... they're quite unsteady on their feet."[pcms]
 
 *550|
 [fc]
-[ns]船員Ａ[nse]
-「今度のお客さんは、だいぶ参ってる様子で」[pcms]
+[ns]Crew Member A[nse]
+"The guests this time seem to be quite under the weather."[pcms]
 
 *551|
 [fc]
-[ns]甲板長[nse]
-「転んで怪我でもされたら台無しなんだ、[r]
-　しっかり面倒見るんだぞ」[pcms]
+[ns]Deck Chief[nse]
+"It would be all for nothing if they fell and got injured. Take good[r]
+care of them."[pcms]
 
 *552|
 [fc]
-[ns]船員Ｂ[nse]
-「わかってますよ。[r]
-　病人に怪我でもされちゃお手上げだ」[pcms]
+[ns]Crew Member B[nse]
+"I know. We'd be at a loss if the sick got injured."[pcms]
 
 *553|
 [fc]
-二人の客は質素な作りの客室に案内されると、[r]
-お互いを見つめ合うような格好で椅子に座り込んだ。[pcms]
+The two guests were led to a spartan guest room where they sat down on[r]
+chairs, facing each other as if exchanging glances.[pcms]
 
 *554|
 [fc]
-どんな経緯のある二人なのかはわからないが、[r]
-赤の他人とは思えない。[pcms]
+It was unclear what circumstances brought the two together, but they[r]
+didn't seem like complete strangers to each other.[pcms]
 
 *555|
 [fc]
-[ns]船員Ａ[nse]
-「これだけ大人しけりゃ安心ですね」[pcms]
+[ns]Crew Member A[nse]
+"It's reassuring that they're this calm."[pcms]
 
 *556|
 [fc]
-[ns]甲板長[nse]
-「ああ……だが、油断はするなよ」[pcms]
+[ns]Boatswain[nse]
+"Yeah... but don't let your guard down."[pcms]
 
 *557|
 [fc]
-この定期船が出ている小島に、観光客は立ち寄らない。[pcms]
+No tourists stop by the small island from which this regular ship[r]
+departs.[pcms]
 
 *558|
 [fc]
-島には政府の作った研究施設があるだけで、[r]
-他には何もないからだ。[pcms]
+The only thing on the island is a research facility established by the[r]
+government; there's nothing else.[pcms]
 
 *559|
 [fc]
-あんな孤島でどんな胸くそ悪い研究をしているのか知らないが、[r]
-知りたくもないと甲板長は思っている。[pcms]
+The deck chief didn't know what kind of distasteful research was being[r]
+conducted on such a deserted island and didn't want to know either.[pcms]
 
 *560|
 [fc]
-人里離れる理由もわからなくはない。[pcms]
+It wasn't hard to understand why it was so isolated.[pcms]
 
 *561|
 [fc]
-それだけ危険な研究をしているということだろうし、[r]
-それは付近の住民に迷惑を掛けないという、言わば配慮だ。[pcms]
+It probably meant that they were conducting dangerous research that[r]
+wouldn't bother nearby residentsa sort of consideration.[pcms]
 
 *562|
 [fc]
-だが……この仕事について、一切の詮索をしないという[r]
-決まりになっている理由は何なのか。[pcms]
+But... why was there a rule not to pry into this job at all?[pcms]
 
 *563|
 [fc]
-裏を返せば、詮索をされたら困るということではないのか。[pcms]
+In other words, could it be that it would be problematic if someone[r]
+did inquire?[pcms]
 
 *564|
 [fc]
-こそこそと人様の目から逃れて行う研究……[r]
-船員はみな、薄気味悪さばかりを感じている。[pcms]
+Research conducted in secret, away from prying eyes... The crew[r]
+members all felt nothing but a sense of eeriness.[pcms]
 
 *565|
 [fc]
-だが、自分たちのやることは普通の仕事と何も変わりがなかった。[pcms]
+However, their work was no different from any ordinary job.[pcms]
 
 *566|
 [fc]
-大神島から例の小島まで、月に数回の往復をして、[r]
-様々な物資を運んでいるだけだ。[pcms]
+They simply made several round trips a month from Oogamijima to that[r]
+particular small island, transporting various supplies.[pcms]
 
 *567|
 [fc]
-三ヶ月に一度、人員の交代や増員があるらしく、[r]
-様々な人間を運ぶが、それもただの客と変わりがない。[pcms]
+Every three months there seemed to be a change or increase in[r]
+personnel; they transported various people, but they were no different[r]
+from regular guests.[pcms]
 
 *568|
 [fc]
-たまに、具合が悪くなったらしい人間を島から運ぶこともあるが、[r]
-イレギュラーというほどのことでもなかった。[pcms]
+Sometimes they transported people who seemed to have fallen ill on the[r]
+island, but it wasn't so irregular.[pcms]
 
 *569|
 [fc]
-今回、運んでいるような客と比べたら、の話だが。[pcms]
+That is, compared to the guests they were currently transporting.[pcms]
 
 *570|
 [fc]
-船員の二人は、いつもの具合が悪くなった客だと思っているが、[r]
-甲板長は詳しい話を聞いている。[pcms]
+The two crew members thought of them as just another case of guests[r]
+who had fallen ill, but the deck chief had heard the full story.[pcms]
 
 *571|
 [fc]
-ヤバイ客という意味では、群を抜いた存在かも知れない。[pcms]
+In terms of being problematic guests, they might be in a league of[r]
+their own.[pcms]
 
 *572|
 [fc]
-だが悔しいことに、とんでもない大金に化けてくれる、[r]
-ＶＩＰであるということに間違いはなかった。[pcms]
+But frustratingly, there was no doubt that they were VIPs who turned[r]
+into a tremendous amount of money.[pcms]
 
 *573|
 [fc]
-[ns]甲板長[nse]
-「前みたいに海に飛び込まれたら大事だ、[r]
-　しっかり見ておいてくれよ」[pcms]
+[ns]Boatswain[nse]
+"It'll be a big deal if someone jumps into the sea like before, keep a[r]
+close eye on them."[pcms]
 
 *574|
 [fc]
-[ns]船員Ａ[nse]
-「わかってますって」[pcms]
+[ns]Crew Member A[nse]
+"I know, I know."[pcms]
 
 *575|
 [fc]
-[ns]甲板長[nse]
-「時間になったら食事を運んで、先生に見てもらうんだぞ」[pcms]
+[ns]Boatswain[nse]
+"When it's time, take them their meal and have the doctor check on[r]
+them."[pcms]
 
 *576|
 [fc]
-[ns]船員Ｂ[nse]
-「俺、医者の先生は苦手なんだよなぁ」[pcms]
+[ns]Crew Member B[nse]
+"I'm not really good with doctors."[pcms]
 
 *577|
 [fc]
-[ns]甲板長[nse]
-「グズグズ言うな、しっかりと仕事をしろよ」[pcms]
+[ns]Boatswain[nse]
+"Stop complaining and do your job properly."[pcms]
 
 *578|
 [fc]
-甲板長は問題が無さそうだと判断すると、[r]
-二人の船員にその場を任せ、部屋を出て行った。[pcms]
+The deck chief, judging that there were no problems, left the two crew[r]
+members in charge and exited the room.[pcms]
 
 ;//seフェード停止
 [stopse buf=1]
@@ -273,21 +279,22 @@
 
 *579|
 [fc]
-政府の研究施設がある小島を出港してから６時間ほど。[r]
-まだ暗く静かな海の真ん中で、その絶叫が闇を[ruby text="つんざ"]劈いた。[pcms]
+About six hours after departing from the small island with the[r]
+government research facility. In the still dark and quiet sea, that[r]
+scream tore through the darkness.[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
 
 *580|
 [fc]
-仮眠をとっている者、仕事をしている者、[r]
-手持ちぶさたにしている者、全てに緊張が走る。[pcms]
+Tension ran through everyone, whether they were taking a nap, working,[r]
+or just idling around.[pcms]
 
 *581|
 [fc]
-声が聞こえてきたのは客室の方。[r]
-そこには船員二名と客がいるはずだが……。[pcms]
+The sound came from the direction of the guest rooms. There should be[r]
+two crew members and guests there...[pcms]
 
 ;//seA052.ogg
 [se buf=0 storage="seA052"]
@@ -298,31 +305,32 @@
 
 *582|
 [fc]
-船の操縦に必要な者以外が、異変を確かめに[r]
-客室へと集まってくる。[pcms]
+Everyone not needed for steering the ship gathered at the guest rooms[r]
+to check on the disturbance.[pcms]
 
 ;//seA023.ogg
 [se buf=0 storage="seA023"]
 
 *583|
 [fc]
-[ns]甲板長[nse]
-「どうした！　なにがあった！」[pcms]
+[ns]Boatswain[nse]
+"What happened! What's going on!"[pcms]
 
 *584|
 [fc]
-客室の前には、船医とベテランの船員二名が集まっている。[r]
-ちょうど扉を開けて、中を確かめるところのようだった。[pcms]
+In front of the guest room, the ship's doctor and two veteran crew[r]
+members had gathered, just as they were about to open the door and[r]
+check inside.[pcms]
 
 *585|
 [fc]
-ベテランの船員は甲板長の姿を確かめると、[r]
-覚悟を決めたように客室の扉を開け放つ。[pcms]
+Upon seeing the deck chief, one of the veteran crew members opened the[r]
+guest room door with resolve.[pcms]
 
 *586|
 [fc]
-寝ぼけてベッドから落ちたような声ではなかった。[r]
-明らかに、断末魔か……それに類する絶叫だ。[pcms]
+The voice wasn't like someone who had sleepily fallen out of bed. It[r]
+was clearly a death agony... or something similar to a scream.[pcms]
 
 ;//#_レッドアウト
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
@@ -332,22 +340,23 @@
 
 *587|
 [fc]
-ベテランの船員が扉を開けると、[r]
-むわっとした血の匂いが部屋から溢れ出てきた。[pcms]
+When the veteran crew member opened the door, a thick smell of blood[r]
+wafted out from the room.[pcms]
 
 *588|
 [fc]
-多少の出血で、こんな血の温かさと匂いを感じることはない。[pcms]
+With just a little bleeding, one wouldn't feel the warmth and smell of[r]
+blood like this.[pcms]
 
 *589|
 [fc]
-そして、嗅覚の次に飛び込んできたものは……[r]
-真っ赤に染め上げられ、変わり果てた客室の姿だった。[pcms]
+And what assaulted their senses next was... the sight of a guest room[r]
+dyed completely red and transformed beyond recognition.[pcms]
 
 *590|
 [fc]
-壁のあちこちに血が飛び散り、ベッドから椅子から机から、[r]
-飛び散った血が滴り落ちている。[pcms]
+Blood was splattered all over the walls, and from the bed to chairs to[r]
+desks, blood dripped down everywhere.[pcms]
 
 ;//■イベントＣＧ　mob_N002 海上を行く補給船
 ;//[evcg storage="mob_N002a"][trans_c cross time=300]
@@ -355,43 +364,43 @@
 
 *591|
 [fc]
-[ns]船員Ｂ[nse]
-「か……かはっ……」[pcms]
+[ns]Crew Member B[nse]
+"Ka...kahh..."[pcms]
 
 *592|
 [fc]
-客の世話に付けた船員のひとりが、助けを求める目で[r]
-部屋に飛び込んできた人間を見つめていた。[pcms]
+One of the crew members assigned to take care of the guests looked at[r]
+the people who had rushed into the room with eyes begging for help.[pcms]
 
 *593|
 [fc]
-客の男は船員にしがみつき、その首に歯を立てるように[r]
-噛みついている。[pcms]
+The male guest was clinging to a crew member, biting at his neck as if[r]
+trying to sink his teeth in.[pcms]
 
 *594|
 [fc]
-破れたホースから水が飛び出るように、赤い血糊が[r]
-部屋のあちこちに飛び散っていた。[pcms]
+Like water bursting from a torn hose, red fake blood was splattered[r]
+all over the room.[pcms]
 
 *595|
 [fc]
-[ns]甲板長[nse]
-「引きはがせっ！」[pcms]
+[ns]Boatswain[nse]
+"Pull him off!"[pcms]
 
 *596|
 [fc]
-誰の何をという説明は必要もなく、[r]
-ベテランの船員二名は命令を理解する。[pcms]
+No explanation was needed for who or what; the two veteran crew[r]
+members understood the order.[pcms]
 
 *597|
 [fc]
-一人は客の後ろから身体を引き起こすように羽交い締めにして、[r]
-仲間の身体から客を引きはがしていく。[pcms]
+One held the guest from behind in a full nelson to pull him up and[r]
+away from his colleague.[pcms]
 
 *598|
 [fc]
-もう一人は船員の身体を支えるようにしながら、[r]
-客の腹を蹴って助け出そうとしていた。[pcms]
+The other supported the crew member's body while kicking at the[r]
+guest's stomach to try and rescue him.[pcms]
 
 ;//#_赤フラ
 [赤フラ]
@@ -401,235 +410,241 @@
 
 *599|
 [fc]
-血しぶきがその場に居合わせた全員に降りかかる。[pcms]
+Blood splashed over everyone present at the scene.[pcms]
 
 *600|
 [fc]
-だが、そんなことに構っていられる状況ではなかった。[pcms]
+But there was no time to worry about such things.[pcms]
 
 *601|
 [fc]
-[ns]甲板長[nse]
-「船医！　客に薬だ！」[pcms]
+[ns]Boatswain[nse]
+"Ship's doctor! Give that guest some medicine!"[pcms]
 
 *602|
 [fc]
-[ns]船医[nse]
-「よ、よし……き、聞いていた奴だな」[pcms]
+[ns]Ship's Doctor[nse]
+"Y-yes... this is the one I heard about."[pcms]
 
 *603|
 [fc]
-船医はこの事態を予測していたのか、[r]
-震える手で注射器の用意を始める。[pcms]
+The ship's doctor, as if anticipating this situation, began preparing[r]
+an injection with trembling hands.[pcms]
 
 *604|
 [fc]
-[ns]船員Ｃ[nse]
-「こ、こら、暴れるな！」[pcms]
+[ns]Crew Member C[nse]
+"Hey, stop struggling!"[pcms]
 
 *605|
 [fc]
-[ns]船員Ｄ[nse]
-「おい、大丈夫か！　しっかりしろ！」[pcms]
+[ns]Crew Member D[nse]
+"Hey, are you okay? Hang in there!"[pcms]
 
 *606|
 [fc]
-あれほどヨタヨタと歩いていた、半病人同然の客が、[r]
-屈強なベテラン水夫の羽交い締めを振り解こうとしている。[pcms]
+The guest, who had been staggering around like a half-sick person, was[r]
+now trying to break free from the strong grip of a veteran sailor.[pcms]
 
 *607|
 [fc]
-[ns]男性客[nse]
-「は゛ら゛へた……に……く゛……」[pcms]
+[ns]Male Customer[nse]
+"My stomach... hurts... nggh..."[pcms]
 
 *608|
 [fc]
-酒に酔ったような男性客の言葉に、船員たちが戦慄する。[pcms]
+The crew members shuddered at the drunken-sounding words of the male[r]
+guest.[pcms]
 
 *609|
 [fc]
-実際に知っているわけではなかったが、[r]
-知識として、これがなんなのか頭の中に思い浮かんでしまう。[pcms]
+They didn't actually know, but in their minds, they could guess what[r]
+this was all about based on their knowledge.[pcms]
 
 *610|
 [fc]
-人間をこんな風に変えてしまう事件が、東北で……。[pcms]
+An incident that turned humans into something like this had occurred[r]
+in Tohoku...[pcms]
 
 *611|
 [fc]
-[ns]船員Ｄ[nse]
-「か、甲板長……こ、これ……」[pcms]
+[ns]Crew Member D[nse]
+"Deck chief... this is..."[pcms]
 
 *612|
 [fc]
-[ns]甲板長[nse]
-「うぐっ……」[pcms]
+[ns]Boatswain[nse]
+"Ugh..."[pcms]
 
 *613|
 [fc]
-ベテランの船員が見つめる先……怪我を負った船員の首筋に、[r]
-象牙のような何かがびっしりと埋まっていた。[pcms]
+The veteran sailor looked on... the neck of the injured crew member[r]
+was covered with something like ivory tusks embedded densely.[pcms]
 
 *614|
 [fc]
-甲板長が男性客の方に目をやると、[r]
-嫌な想像が現実だったと理解してしまう。[pcms]
+When the deck chief looked at the male guest, he realized that his[r]
+unpleasant imagination was indeed reality.[pcms]
 
 *615|
 [fc]
-男性客の口には……歯が残っていなかった。[pcms]
+In the mouth of the male guest... there were no teeth left.[pcms]
 
 *616|
 [fc]
-凄まじい力で噛みついたまま、屈強な男二人が無理に[r]
-身体を引きはがした結果、船員の首に[r]
-歯が残ってしまったのだろう。[pcms]
+It must have been the result of two strong men forcibly pulling away[r]
+his body after he bit down with tremendous force, leaving teeth[r]
+embedded in the crew member's neck.[pcms]
 
 *617|
 [fc]
-[ns]甲板長[nse]
-「船医！　まだかっ！」[pcms]
+[ns]Boatswain[nse]
+"Ship's doctor! Is it ready yet?!"[pcms]
 
 *618|
 [fc]
-生臭い血煙の舞う室内で、暴れる男性客に船医が注射器を[r]
-射し込んでいる。[pcms]
+In the room filled with the stench of fresh blood, the ship's doctor[r]
+was injecting the raging male guest.[pcms]
 
 *619|
 [fc]
-[ns]甲板長[nse]
-「負傷者は医務室だ、急げ！」[pcms]
+[ns]Boatswain[nse]
+"Take the injured to the infirmary, hurry!"[pcms]
 
 *620|
 [fc]
-[ns]船員Ｄ[nse]
-「し……しかし……」[pcms]
+[ns]Crew Member D[nse]
+"But... however..."[pcms]
 
 *621|
 [fc]
-部屋中を染め上げるほど出血した人間に、[r]
-何ができるというのか。[pcms]
+What could possibly be done for a human who had bled out to such an[r]
+extent?[pcms]
 
 *622|
 [fc]
-すでにショック死している可能性が高い。[pcms]
+It was highly likely that they were already dead from shock.[pcms]
 
 *623|
 [fc]
-[ns]甲板長[nse]
-「いいから連れ出すんだ！」[pcms]
+[ns]Boatswain[nse]
+"Just carry them out!"[pcms]
 
 *624|
 [fc]
-船員は後ろから脇を抱えるようにして[r]
-引きずりながら、仲間の身体を医務室に運んでいく。[pcms]
+The crew member, embracing his colleague from behind, dragged the body[r]
+to the infirmary.[pcms]
 
 *625|
 [fc]
-まるで何かの遊びのように、[r]
-その通り道には赤い線が引かれていた。[pcms]
+As if it were some kind of game, a red line was drawn along their[r]
+path.[pcms]
 
 *626|
 [fc]
-[ns]甲板長[nse]
-「そっちの様子はどうだ？」[pcms]
+[ns]Boatswain[nse]
+"How's it looking over there?"[pcms]
 
 *627|
 [fc]
-[ns]船医[nse]
-「わからん……動きが緩慢になってきたが……」[pcms]
+[ns]Ship's Doctor[nse]
+"I'm not sure... his movements have slowed down..."[pcms]
 
 *628|
 [fc]
-[ns]甲板長[nse]
-「その辺に放っておけ」[pcms]
+[ns]Boatswain[nse]
+"Just leave him there."[pcms]
 
 ;//seB014.ogg
 [se buf=0 storage="seB014"]
 
 *629|
 [fc]
-ベテランの船員にそう命令すると、男性客が[r]
-ベッドの方に投げ捨てられる。[pcms]
+After giving such an order to the veteran sailor, the male guest was[r]
+thrown onto the bed.[pcms]
 
 *630|
 [fc]
-怪力の持ち主かも知れないが、体重は至って軽い。[pcms]
+He might be incredibly strong, but his body weight was quite light.[pcms]
 
 *631|
 [fc]
-男性客が捨てられた辺りを見ると、昼食らしき残飯が散乱し、[r]
-その隣で、もうひとりの船員が死んでいた。[pcms]
+Looking at where the male guest was thrown, remnants of what seemed to[r]
+be lunch were scattered around, and next to it, another crew member[r]
+lay dead.[pcms]
 
 *632|
 [fc]
-血塗れではあるが、上半身に大きな怪我は見あたらない。[pcms]
+Although covered in blood, there were no significant injuries visible[r]
+on his upper body.[pcms]
 
 *633|
 [fc]
-甲板長が視線を移していくと、死んだ船員は[r]
-股間の辺りから出血し……男性器の辺りが[ruby text="えぐ"]抉られていた。[pcms]
+The deck chief shifted his gaze and saw that the dead crew member was[r]
+bleeding from around the crotch... and his genitals had been gouged[r]
+out.[pcms]
 
 *634|
 [fc]
-その痛々しい光景に寒気を覚えて眉をひそめる。[pcms]
+He frowned at the painful sight, feeling a chill.[pcms]
 
 *635|
 [fc]
-男ならば、誰もがおぞましさを覚える姿のはずだ。[pcms]
+It was a sight that would make any man feel revulsion.[pcms]
 
 *636|
 [fc]
-そして、甲板長は部屋の隅でうずくまっている[r]
-レインコートの女性客を見つけた。[pcms]
+Then, the deck chief found a female guest crouching in a corner of the[r]
+room wearing a raincoat.[pcms]
 
 *637|
 [fc]
-血に濡れたレインコートに、帽子の[ruby text="つば"]鍔で顔は見えないが、[r]
-保護する必要はないだろう。[pcms]
+Her face was not visible under the brim of her hat, soaked with blood[r]
+on her raincoat, but she probably didn't need protection.[pcms]
 
 *638|
 [fc]
-どうせ男性客と同じ穴の[ruby text="むじな"]狢。[r]
-仲間なのだから。[pcms]
+She must be just like the male guest, a badger from the same hole.[r]
+They were companions after all.[pcms]
 
 *639|
 [fc]
-部屋を後にしようと思った甲板長は、[r]
-その姿にどこか違和感を覚えて首を捻る。[pcms]
+The deck chief felt a sense of discomfort at her figure as he was[r]
+about to leave the room and tilted his head.[pcms]
 
 *640|
 [fc]
-女性客は口紅など差していなかったはずだが、[r]
-その唇がいやに赤い。[pcms]
+The female guest wasn't supposed to be wearing lipstick, but her lips[r]
+were unnaturally red.[pcms]
 
 *641|
 [fc]
-だが、その唇から赤い筋のような滴がこぼれるのを見て、[r]
-甲板長はそれが口紅ではないことを理解した。[pcms]
+However, seeing a red streak like a drip spilling from those lips, the[r]
+deck chief understood that it wasn't lipstick.[pcms]
 
 *642|
 [fc]
-部下だった、船員の血だ。[pcms]
+It was the blood of a crew member who had been subordinate to him.[pcms]
 
 *643|
 [fc]
-しかもあの濡れ方は、返り血を浴びて付いた濡れ方じゃない。[r]
-男性客のように、噛みついたときに付いた血だ。[pcms]
+Moreover, the way it was wet didn't look like splattered blood; it was[r]
+blood that had gotten there when she bit someone, just like the male[r]
+guest had done.[pcms]
 
 *644|
 [fc]
-しかし、死んでいる船員が怪我をしている場所は……。[pcms]
+However, the place where the dead crew member was injured...[pcms]
 
 *645|
 [fc]
-女性客が首をかしげるようにして、[r]
-帽子の鍔から甲板長を見上げてくる。[pcms]
+The female guest looked up at the deck chief from under the brim of[r]
+her hat as if tilting her head.[pcms]
 
 *646|
 [fc]
-そして、女性客は血で染まった真っ赤な唇を、[r]
-ニタリと笑わせた。[pcms]
+Then, with her lips stained red with blood, she let out a sinister[r]
+smile.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -647,119 +662,119 @@
 
 *647|
 [fc]
-[ns]甲板長[nse]
-「船長、拙いことになりました」[pcms]
+[ns]Boatswain[nse]
+"Captain, we have a serious situation."[pcms]
 
 *648|
 [fc]
-[ns]船長[nse]
-「面倒になったが……全員、ワクチンは打っているんだろうな？」[pcms]
+[ns]Captain[nse]
+"This has become troublesome... but everyone has been vaccinated,[r]
+right?"[pcms]
 
 *649|
 [fc]
-[ns]甲板長[nse]
-「はい、その点は問題ありません」[pcms]
+[ns]Boatswain[nse]
+"Yes, there are no issues on that front."[pcms]
 
 *650|
 [fc]
-混乱から立ち直ったばかりとは言え、[r]
-法治国家で人が二人死んだのだ。[pcms]
+Even though they had just recovered from chaos, two people had died in[r]
+a country governed by law.[pcms]
 
 *651|
 [fc]
-遺族から連絡が行き、警察が動くようなことになったら[r]
-隠しおおせないかも知れない。[pcms]
+If word got out to the families and the police started moving, it[r]
+might become impossible to cover up.[pcms]
 
 *652|
 [fc]
-[ns]船長[nse]
-「医務室に運ばれた方はどうなった？」[pcms]
+[ns]Captain[nse]
+"How is the one taken to the infirmary?"[pcms]
 
 *653|
 [fc]
-[ns]甲板長[nse]
-「死にました。今、医務室は血の海です……」[pcms]
+[ns]Boatswain[nse]
+"She's dead. The infirmary is a sea of blood now..."[pcms]
 
 *654|
 [fc]
-[ns]船長[nse]
-「そうか……他の連中はどうしている？」[pcms]
+[ns]Captain[nse]
+"I see... How are the others doing?"[pcms]
 
 *655|
 [fc]
-[ns]甲板長[nse]
-「かなり動揺していますが、取りあえず[r]
-　シャワーを浴びさせています……コホッ」[pcms]
+[ns]Boatswain[nse]
+"They're quite shaken, but for now, we've got them taking showers...[r]
+*cough*"[pcms]
 
 *656|
 [fc]
-甲板長は、喉の調子を整えるように咳払いをすると、[r]
-声を潜めて船長の指示を扇いだ。[pcms]
+The deck chief cleared his throat to compose himself and then lowered[r]
+his voice to await the captain's orders.[pcms]
 
 *657|
 [fc]
-二人の死体をどうするか……大人しく警察に引き渡すとは[r]
-とうてい思えない。[pcms]
+What to do with the two dead bodies... It was hard to believe they[r]
+would simply hand them over to the police.[pcms]
 
 *658|
 [fc]
-だが、どうする……海にでも捨てるのか。[pcms]
+But what to do... Throw them into the sea?[pcms]
 
 *659|
 [fc]
-[ns]船長[nse]
-「死体は転落事故ということで、海に捨てることもできるが……。[r]
-　島の連中に処分してもらうことは、できるかもな」[pcms]
+[ns]Captain[nse]
+"We could say it was an accidental fall and dispose of the bodies at[r]
+sea... Or maybe we could get the islanders to take care of them."[pcms]
 
 *660|
 [fc]
-[ns]甲板長[nse]
-「大丈夫ですかね……」[pcms]
+[ns]Boatswain[nse]
+"Are you sure that's okay...?"[pcms]
 
 *661|
 [fc]
-甲板長としては嫌な予感しかしない。[pcms]
+The deck chief couldn't shake off a bad feeling about this.[pcms]
 
 *662|
 [fc]
-危険を承知で多額の報酬に釣られたのだから、[r]
-こちらのことは、こちらで始末した方がいいと思ってしまう。[pcms]
+They were lured by a large reward despite the risks, so he thought it[r]
+would be better to handle their own affairs themselves.[pcms]
 
 *663|
 [fc]
-[ns]船長[nse]
-「冗談だ、ミスがあったと知れたら報酬も減らされるだろう。[r]
-　二人は転落事故ということで処理してくれ」[pcms]
+[ns]Captain[nse]
+"I'm joking. If they find out there was a mistake, our reward might be[r]
+reduced. Just process the two as accidental falls."[pcms]
 
 *664|
 [fc]
-[ns]甲板長[nse]
-「連中には金をつかませて口止めしておきます」[pcms]
+[ns]Boatswain[nse]
+"I'll give the others some money to keep their mouths shut."[pcms]
 
 *665|
 [fc]
-[ns]船長[nse]
-「ああ、それから客と客室……それに医務室か。[r]
-　入念に洗わなければな」[pcms]
+[ns]Captain[nse]
+"Yes, and then there's the guests and their rooms... and the[r]
+infirmary. They need to be thoroughly cleaned."[pcms]
 
 *666|
 [fc]
-今日の深夜になれば大神島に到着する。[pcms]
+We'll arrive at Oogami Island by late tonight.[pcms]
 
 *667|
 [fc]
-それまでにやらなくてはいけないことが、[r]
-二人には山積みだった。[pcms]
+There was a mountain of things that needed to be done before then for[r]
+the two of them.[pcms]
 
 *667a|
 [fc]
-[ruby text="おか"]陸のルールと海のルールは違うのだから……。[pcms]
+The rules on land and at sea are different...[pcms]
 
 *668|
 [fc]
-そんなことを思っているわけでもないだろうが、[r]
-客のことを警察に突き出すつもりは、[r]
-毛頭無いようだった。[pcms]
+Not that they were thinking about such things, but there seemed to be[r]
+no intention whatsoever of turning the guests over to the police.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -771,91 +786,89 @@
 
 *669|
 [fc]
-[ns]船員Ｃ[nse]
-「オラーイ、オラーイ、オラーイ……」[pcms]
+[ns]Crew Member C[nse]
+"All right, all right, all right..."[pcms]
 
 *670|
 [fc]
-港に着いた船は、空っぽになっているコンテナを下ろして、[r]
-次の荷物を仕込まなくてはいけない。[pcms]
+The ship that arrived at the port had to unload empty containers and[r]
+load the next cargo.[pcms]
 
 *671|
 [fc]
-これが終われば休暇がもらえるとわかっている船員たちは、[r]
-疲れた身体にムチを打って、最後の一仕事に精を出していた。[pcms]
+Knowing that they would get a break after this was done, the crew[r]
+members whipped their tired bodies into action for one last job.[pcms]
 
 *672|
 [fc]
-船内でどんな噂話になっているのか知れないが、[r]
-船員たちに特別な動揺は見られない。[pcms]
+It was unclear what kind of rumors were circulating inside the ship,[r]
+but no particular agitation could be seen among the crew members.[pcms]
 
 *673|
 [fc]
-いつも通りの仕事を淡々とこなしている姿に、[r]
-船長は深く満足していた。[pcms]
+They were going about their usual work in a matter-of-fact manner,[r]
+which deeply satisfied the captain.[pcms]
 
 *674|
 [fc]
-船員の補充も考えなければいけないだろうが、[r]
-当面はこの人数でやりくりをすることになるだろう。[pcms]
+They would have to consider replenishing the crew, but for the time[r]
+being, they would have to make do with this number of people.[pcms]
 
 *675|
 [fc]
-事情を説明できないのが心苦しいところだが、[r]
-妙な[ruby text="おそ"]畏れや混乱のない部下たちは頼もしい限りだった。[pcms]
+It was distressing not to be able to explain the situation, but[r]
+subordinates who showed no strange fear or confusion were reassuring.[pcms]
 
 *676|
 [fc]
-タラップから降りてくる船長を、[r]
-胡散臭い雰囲気の男たちが迎える。[pcms]
+The captain, descending from the gangway, was greeted by men with a[r]
+shady aura.[pcms]
 
 *677|
 [fc]
-明らかに堅気ではないが、[r]
-田舎ヤクザのチンピラとも違うだろう。[pcms]
+Clearly not upstanding citizens, but they didn't seem like petty[r]
+yakuza from the countryside either.[pcms]
 
 *677a|
 [fc]
-[ruby text="まと"]纏っている危険な雰囲気が、お遊びではないことを[r]
-如実に物語っている。[pcms]
+The dangerous aura they exuded made it clear that this was no game.[pcms]
 
 *678|
 [fc]
-この真夏に上着を着込んで、その下に何を隠しているのか[r]
-詮索するまでもない。[pcms]
+In this midsummer heat, wearing heavy coats and obviously hiding[r]
+something underneath didn't require scrutiny.[pcms]
 
 *679|
 [fc]
-船長は後ろを振り返ると、四人の船員に[r]
-連れられて来る客を見てから、男たちのボスに視線を合わせた。[pcms]
+The captain looked back and saw a guest being brought by four crew[r]
+members before meeting eyes with the boss of the men.[pcms]
 
 *680|
 [fc]
-確か、オズとか呼ばれていた男だ。[pcms]
+He was indeed the man called Oz.[pcms]
 
 *681|
 [fc]
-向こうも無駄なやりとりをするつもりはないらしく、[r]
-部下に合図を送ると、無言で客を引き取る。[pcms]
+Oz also seemed uninterested in unnecessary exchanges and silently took[r]
+custody of the guest after signaling his subordinate.[pcms]
 
 *682|
 [fc]
-部下たちは、そのまま二人の客を引き連れて、[r]
-港湾施設の奥へと消えていった。[pcms]
+The subordinates then led the two guests away into the depths of the[r]
+port facilities.[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_su"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *683|
 [fc]
-[ns]オズ[nse]
-「何か問題は？」[pcms]
+[ns]Oz[nse]
+"Any problems?"[pcms]
 
 *684|
 [fc]
-[ns]船長[nse]
-「もらっていた指示通りに動いた。[r]
-　施設にいた協力者も手際よくやってくれたよ。[r]
-　何も問題はない」[pcms]
+[ns]Captain[nse]
+"We acted according to the instructions we received. The collaborators[r]
+at the facility also did their job efficiently. No problems at all."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -866,144 +879,146 @@
 
 *685|
 [fc]
-[ns]甲板長[nse]
-「うわっ！」[pcms]
+[ns]Boatswain[nse]
+"Whoa!"[pcms]
 
 *686|
 [fc]
-すぐ近くで響いた大きな音に、話をしていた二人が振り返る。[pcms]
+The two who were talking turned around at the sound of a loud noise[r]
+nearby.[pcms]
 
 *687|
 [fc]
-そこには、気まずそうにしながら助け起こされている甲板長と、[r]
-手を取る船医の姿があった。[pcms]
+There was the deck chief, awkwardly being helped up, and the ship's[r]
+doctor offering a hand.[pcms]
 
 *688|
 [fc]
-滑りやすいのはわかるが、船の上で転んだら死ぬことだってある。[r]
-らしくない姿だと思いながらも、船長は忘れることにした。[pcms]
+It's known that slipping is easy, but falling on a ship can be deadly.[r]
+The captain decided to forget what seemed like an uncharacteristic[r]
+sight.[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_su"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *689|
 [fc]
-[ns]オズ[nse]
-「問題はない？　さて、どうかな」[pcms]
+[ns]Oz[nse]
+"No problems? Well, we'll see about that."[pcms]
 
 *690|
 [fc]
-[ns]船長[nse]
-「誰だって転ぶことくらいはある」[pcms]
+[ns]Captain[nse]
+"Anyone can slip and fall."[pcms]
 
 *691|
 [fc]
-[ns]船医[nse]
-「それでは船長、お先に失礼しますよ……コホッ、コホッ」[pcms]
+[ns]Ship's Doctor[nse]
+"Then, Captain, I'll be excusing myself first... Cough, cough."[pcms]
 
 *692|
 [fc]
-[ns]船長[nse]
-「どうした？　医者が風邪か？」[pcms]
+[ns]Captain[nse]
+"What's the matter? A doctor catching a cold?"[pcms]
 
 *693|
 [fc]
-[ns]船医[nse]
-「誰だって転ぶのと同じで、医者だって風邪くらい引きます」[pcms]
+[ns]Ship's Doctor[nse]
+"Just like anyone can slip, a doctor can catch a cold too."[pcms]
 
 *694|
 [fc]
-船長は甲板長と船医が立ち去るのを確認すると、[r]
-相手の側に寄っていった。[pcms]
+The captain confirmed that the deck chief and ship's doctor had left,[r]
+then approached the other party.[pcms]
 
 *695|
 [fc]
-荷物は渡したのだ。[r]
-後は報酬だ。[pcms]
+The cargo had been handed over. Now it was time for the payment.[pcms]
 
 *696|
 [fc]
-船長の眼差しの意味を読み取ったオズは、[r]
-わずかに目を細めて、背後の港湾施設へ顎をしゃくった。[pcms]
+Reading the meaning in the captain's gaze, Oz slightly narrowed his[r]
+eyes and jerked his chin towards the port facilities behind him.[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_su"][ChrSetParts layer=5 chface="F1_oz02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *697|
 [fc]
-[ns]オズ[nse]
-「最上階へ行け。手渡しで済ませる。」[pcms]
+[ns]Oz[nse]
+"Go to the top floor. We'll settle it with a handover."[pcms]
 
 *698|
 [fc]
-船長はオズを[ruby text="いちべつ"][ch text="一瞥"]すると、[r]
-無言でその隣を通り過ぎていく。[pcms]
+The captain glanced at Oz and passed by him without a word.[pcms]
 
 *699|
 [fc]
-お互い、用が済んでしまえば交わす言葉もない。[r]
-オズは煙草に火を点けると、紫煙と共に考えをくゆらせた。[pcms]
+Once their business was concluded, there was no need for further[r]
+words. Oz lit a cigarette and let his thoughts drift with the purple[r]
+smoke.[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_su"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *700|
 [fc]
-[ns]オズ[nse]
-「…………」[pcms]
+[ns]Oz[nse]
+"..."[pcms]
 
 *701|
 [fc]
-金を払ってしまえば、それまでの関係だと思いながらも、[r]
-オズは船長のことを考えてしまう。[pcms]
+Even as he thought that their relationship would end once the money[r]
+was paid, Oz found himself contemplating the captain.[pcms]
 
 *702|
 [fc]
-堅気の人間が手を出すには、少しばかり荷が重かったはずだ。[pcms]
+It was a job that would have been a bit too much for an honest person[r]
+to handle.[pcms]
 
 *703|
 [fc]
-金のためにできることは人によって違うだろうが、[r]
-今回のこれは特別だ。[pcms]
+What one is willing to do for money varies from person to person, but[r]
+this job was special.[pcms]
 
 *704|
 [fc]
-研究所に荷物を運んでいるのとは、危険の次元が違う。[r]
-最悪、消されることだってあったかも知れないのだ。[pcms]
+It was different from just transporting cargo to a laboratory; the[r]
+level of danger was different. At worst, they could have been erased.[pcms]
 
 *705|
 [fc]
-だが、そこまで考えて、オズは自嘲気味に唇をゆがめた。[r]
-そう言う自分はどうなのだろうかと。[pcms]
+But as he thought that far, Oz twisted his lips in self-derision. What[r]
+about himself?[pcms]
 
 *706|
 [fc]
-切り捨てられるなら、それは自分も同じだ。[r]
-だが、こうして金のために危険を犯しているではないか。[pcms]
+If someone were to be cut off, he would be no different. Yet here he[r]
+was, risking danger for money.[pcms]
 
 *707|
 [fc]
-もちろん、そうならないように立ち回る自信はあるが、[r]
-それは船長にしても同じなのかも知れない。[pcms]
+Of course, he was confident in his ability to avoid such an outcome,[r]
+but perhaps the captain felt the same way.[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *708|
 [fc]
-[ns]オズ[nse]
-「…………」[pcms]
+[ns]Oz[nse]
+"..."[pcms]
 
 *709|
 [fc]
-らしくもない、無為なことを考えたと思いながら、[r]
-珍しく弛んでいる気を引き締め直す。[pcms]
+Thinking it unlike him to ponder such idle thoughts, he unusually[r]
+tightened up his relaxed spirit.[pcms]
 
 *710|
 [fc]
-まだ仕事は終わっていないのだ。[pcms]
+The job wasn't finished yet.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *711|
 [fc]
-オズは夜の海に煙草を捨てると、その場を立ち去った。[pcms]
+Oz threw his cigarette into the night sea and left the place.[pcms]
 
 ;//seA041.ogg
 [se buf=0 storage="seA041"]

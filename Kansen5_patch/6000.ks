@@ -27,66 +27,64 @@
 *1|
 [fc]
 [vo_sat s="sato0059"]
-[ns]怜[nse]
-「わざわざ来てくれたんだもの、誠くん達との約束、優先するね」[pcms]
+[ns]Sato[nse]
+"Since you went out of your way to come here, I'll prioritize the[r]
+promise with Makoto-kun and the others."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so03a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2|
 [fc]
-[ns]宗一郎[nse]
-「おっ、さすが村上さん、話が解る！[r]
-　これで、イベントがさらに楽しいものになるでしょうな！」[pcms]
+[ns]Souichirou[nse]
+"Oh, as expected of Murakami-san, you get it! This will make the event[r]
+even more fun!"[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa02"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *3|
 [fc]
-[ns]誠[nse]
-「ありがとう。じゃあ、もう一つなんだけどイベントが終わったら、[r]
-　越智さんのプライベートビーチ、一緒に行かない？[r]
-　バーベキューとかするんだって」[pcms]
+[ns]Makoto[nse]
+"Thanks. So, after the event, do you want to go to Ochi-san's private[r]
+beach with us? They say there's going to be a barbecue."[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *4|
 [fc]
 [vo_sat s="sato0060"]
-[ns]怜[nse]
-「えっ……！？　あたしも行ってもいいの？[r]
-　いいね、いいね！　茜梨ちゃん、最高！[r]
-　ターやんも、もちろん行くよね！　楽しみー！！」[pcms]
+[ns]Sato[nse]
+"Eh...!? Can I really come too? That sounds great! Akari-chan, you're[r]
+the best! Tarja, you're coming too, right? I can't wait!!"[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_ja"][ChrSetParts layer=3 chface="F1_ta02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *5|
 [fc]
 [vo_tay s="taja0079"]
-[ns]ターヤ[nse]
-「怜が行くなら、わたしも」[pcms]
+[ns]Tarja Pohjonen[nse]
+"If Sato is going, then I will too."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6|
 [fc]
-午前中からスポーツセンターにやってきていた僕たちは、[r]
-村上さんとターヤさんに声をかけて、[r]
-１８日の事について、打ち合わせをしていた。[pcms]
+We had come to the sports center since the morning and were discussing[r]
+the plans for the 18th with Murakami-san and Tarja-san.[pcms]
 
 *7|
 [fc]
-その日、怜さんは家の手伝いをする事になってしまったらしい。[r]
-だけど僕たちとの交流を優先してくれた。[pcms]
+It seems that Sato-san had been scheduled to help out at home that[r]
+day. But she gave priority to interacting with us.[pcms]
 
 *8|
 [fc]
-元々約束していたから、という事と、[r]
-楽しみにしていたイベントに加えて、バーベキューだ。[pcms]
+Because it was a promise we had originally made, and she was looking[r]
+forward to the event, plus there was a barbecue.[pcms]
 
 *9|
 [fc]
-怜さんの家族には申し訳ないけど、[r]
-１８日だけ、僕達の為に時間をもらう事にしよう。[pcms]
+I feel sorry for Sato-san's family, but for the 18th only, we decided[r]
+to ask her to make time for us.[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_ja"][ChrSetParts layer=3 chface="F1_sa03"][ChrSetXY layer=3 x=30 y=0]
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta01"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -94,19 +92,19 @@
 *10|
 [fc]
 [vo_tay s="taja0080"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja Pohjonen[nse]
+"..."[pcms]
 
 *11|
 [fc]
-大喜びの怜さんとは対照的に、[r]
-ターヤさんは昨日と同じ様子だ。[pcms]
+In contrast to the overjoyed Sato-san, Tarja-san seemed the same as[r]
+yesterday.[pcms]
 
 *12|
 [fc]
-僕、避けられてるみたいだな……。[r]
-何か誤解されているのなら、[r]
-１８日のイベントで解消出来ればいいか。[pcms]
+I feel like I'm being avoided... If there's been some[r]
+misunderstanding, I hope it can be cleared up at the event on the[r]
+18th.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -118,35 +116,33 @@
 
 *13|
 [fc]
-[ns]宗一郎[nse]
-「おっ、南先輩先輩もＯＫだそうですぞ！[r]
-　それに、今こっちの方に向かってるみたいだ。[r]
-　お前のほうは、返事はあったか？」[pcms]
+[ns]Souichirou[nse]
+"Oh, Minami-senpai has also given her OK! And it looks like she's[r]
+heading this way now. Have you gotten a reply yet?"[pcms]
 
 *14|
 [fc]
-[ns]誠[nse]
-「結構前にメール送ったんだけどさ、まだ返事来てないんだ。[r]
-　姉ちゃん、案外ズボラだからなあ。でも、たぶんＯＫだろう。[r]
-　駄目とは言わせないし」[pcms]
+[ns]Makoto[nse]
+"I sent an email quite a while ago, but I haven't gotten a reply yet.[r]
+My sister can be surprisingly sloppy. But probably it's OK. I won't[r]
+take no for an answer."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so31b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *15|
 [fc]
-[ns]宗一郎[nse]
-「そう来なくっちゃな！　くくくっ……。[r]
-　これで、楽しみが増えたな……水着パーティーですな！[r]
-　ムフっ……ムフフっ！！」[pcms]
+[ns]Souichirou[nse]
+"That's the spirit! Kukuku... Now I'm even more excited... a swimsuit[r]
+party! Mufu... Mufufu!!"[pcms]
 
 *16|
 [fc]
-そーいちが、おかしな声で笑い出した。[pcms]
+Souichirou started laughing in a strange voice.[pcms]
 
 *17|
 [fc]
-鼻の下は伸びきってるし、目も垂れ下がってる。[r]
-スケベ心丸出しだなあ……ちょっと気持ち悪いし。[pcms]
+His nose is all stretched out, and his eyes are drooping. He's totally[r]
+lecherous... it's kind of gross.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -155,24 +151,24 @@
 *18|
 [fc]
 [vo_tay s="taja0081"]
-[ns]ターヤ[nse]
-「キモい」[pcms]
+[ns]Tarja[nse]
+"Gross."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *19|
 [fc]
-ちょっとイッちゃった感のあるそーいちに、[r]
-ターヤさんが冷たい目を向け、つぶやいた。[pcms]
+Tarja-san gave Souichirou, who seemed a bit off, a cold look and[r]
+muttered.[pcms]
 
 *20|
 [fc]
-考えている事は、同じだな。[r]
-このまま、俺に心も開いてくれればいいのだけど。[pcms]
+Seems we're thinking the same thing. I just hope she'll open up to me[r]
+as well.[pcms]
 
 *21|
 [fc]
-まあ、当日は楽しく遊ぼう。[pcms]
+Well, let's just have fun on the day.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>

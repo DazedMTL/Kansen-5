@@ -35,93 +35,98 @@
 
 *1|
 [fc]
-越智さんは、顧問の小嶋先生に付き添われ、[r]
-やって来た救急車に乗せられて病院へと運ばれていった。[pcms]
+Ochi-san was accompanied by the advisor, Mr. Kojima, and was taken to[r]
+the hospital in an ambulance that had arrived.[pcms]
 
 *2|
 [fc]
-僕が声をかけた時、怪我をしているような様子には[r]
-見えなかったけど、越智さんは血まみれだったから、[r]
-見落としてないとは言えない。[pcms]
+When I called out to her, she didn't seem to be injured, but Ochi-san[r]
+was covered in blood, so I can't say for sure that I didn't overlook[r]
+something.[pcms]
 
 *3|
 [fc]
-むしろ、車にはねられた男の血を[r]
-盛大に浴びてしまったことの方が心配だ。[pcms]
+Rather, I'm more worried about the fact that she was drenched in a lot[r]
+of blood from a man who was hit by a car.[pcms]
 
 *4|
 [fc]
-肝炎やエイズなど、血液から感染する病気は多い。[pcms]
+There are many diseases that can be transmitted through blood, such as[r]
+hepatitis and AIDS.[pcms]
 
 *5|
 [fc]
-ましてや、根絶されたと言われてはいるが[r]
-……エピデミック……のこともある。[pcms]
+Moreover, although it is said to have been eradicated... there's also[r]
+the concern of an epidemic...[pcms]
 
 *6|
 [fc]
-[ns]誠[nse]
-（越智さん…大丈夫かな…）[pcms]
+[ns]Makoto[nse]
+(I wonder if Ochi-san is okay...)[pcms]
 
 *7|
 [fc]
-駆けつけた警察官が、必死になって混乱を収拾しようとしていたが[r]
-あたり一帯には、まだ鉄臭い臭気が充満していた。[pcms]
+The police officers who rushed to the scene were desperately trying to[r]
+control the chaos, but the area was still filled with the smell of[r]
+iron.[pcms]
 
 *8|
 [fc]
-血と脳漿とを盛大にぶちまけて死んだ男の姿を目の当たりにして、[r]
-その場にいた人間たちは完全にパニックに陥っている。[pcms]
+The sight of the man who died spilling blood and brain matter[r]
+everywhere had completely panicked everyone present.[pcms]
 
 *9|
 [fc]
-泣きわめく者。叫ぶ者。その場にしゃがみこんでしまう者。[r]
-ただうろたえる者。意味もなく逃げ惑う者。[pcms]
+Some were crying out loud. Some were screaming. Some crouched down on[r]
+the spot. Some were just bewildered. Some ran around aimlessly without[r]
+reason.[pcms]
 
 *10|
 [fc]
-凄惨な光景を目にして、植え込みに吐く者もいた。[pcms]
+Having witnessed the gruesome scene, there were even those who vomited[r]
+into the bushes.[pcms]
 
 *11|
 [fc]
-でも僕の頭には、別の光景が焼き付いている。[pcms]
+But in my head, a different scene is etched.[pcms]
 
 *12|
 [fc]
-赤い、赤い……血の色よりも赤い……あの目。[pcms]
+Red, red... even redder than the color of blood... those eyes.[pcms]
 
 *13|
 [fc]
-黒板を爪で引っかいた時のような、生理的な嫌悪感が[r]
-僕の心の中を言葉にできない不安でかき乱す。[pcms]
+The physiological disgust, like nails scratching a blackboard, stirs[r]
+up indescribable anxiety in my heart.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *14|
 [fc]
-[ns]宗一郎[nse]
-「誠、大丈夫か？　なんだか顔色が良くないぞ」[pcms]
+[ns]Souichirou[nse]
+"Makoto, are you okay? You don't look so good."[pcms]
 
 *15|
 [fc]
-[ns]誠[nse]
-「そーいち……あ、ああ、大丈夫」[pcms]
+[ns]Makoto[nse]
+"So-ichi... ah, yeah, I'm fine."[pcms]
 
 *16|
 [fc]
-そーいちに声をかけられて、僕ははっと我に返った。[pcms]
+Called by So-ichi, I snapped back to reality.[pcms]
 
 *17|
 [fc]
-そう言うそーいちの顔も、ショッキングな光景を目にしたせいか[r]
-多分に引きつっている。[pcms]
+So-ichi's face also seemed strained, probably because of the shocking[r]
+scene he had witnessed.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so12b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *18|
 [fc]
-[ns]宗一郎[nse]
-「まったく、厭なものを見てしまった。食欲が無くなりそうだ」[pcms]
+[ns]Souichirou[nse]
+"Really, we saw something unpleasant. I feel like I've lost my[r]
+appetite."[pcms]
 
 ;//BGM即時停止
 [fadeoutbgm time=500]
@@ -132,69 +137,69 @@
 
 *19|
 [fc]
-そう言った端から、そーいちの腹の虫が盛大な音をたてて[r]
-異論を唱えた。[pcms]
+No sooner had he said that than So-ichi's stomach loudly voiced its[r]
+disagreement.[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
 
 *20|
 [fc]
-[ns]誠[nse]
-「発言と行動がばらばらだっての」[pcms]
+[ns]Makoto[nse]
+"Your words and actions don't match."[pcms]
 
 *21|
 [fc]
-そう言いながら、僕は思わず笑ってしまう。[r]
-そーいちのこういう所に、僕は救われているのかもしれない。[pcms]
+While saying that, I couldn't help but laugh. Maybe it's So-ichi's[r]
+nature like this that saves me.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04w"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *22|
 [fc]
-[ns]宗一郎[nse]
-「それはそれ、これはこれだ」[pcms]
+[ns]Souichirou[nse]
+"That's one thing, this is another."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *23|
 [fc]
 [vo_stk s="satuki_tj0001"]
-[ns]彩月[nse]
-「先生が呼んでるわ。行きましょう」[pcms]
+[ns]Satsuki[nse]
+"The teacher is calling us. Let's go."[pcms]
 
 *24|
 [fc]
-見ると、サッカー部の顧問が、大声をあげて[r]
-その場にいたクラスメイト達に集合をかけている。[pcms]
+Looking over, the soccer club advisor was loudly calling for the[r]
+classmates present to gather.[pcms]
 
 *25|
 [fc]
-[ns]誠[nse]
-「そうですね」[pcms]
+[ns]Makoto[nse]
+"Right."[pcms]
 
 *26|
 [fc]
-こんな場所に長居する理由はなにもない。[pcms]
+There's no reason to stay in such a place any longer.[pcms]
 
 *27|
 [fc]
-僕らは先生の指示に従って動き出した。[pcms]
+We started moving according to the teacher's instructions.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *28|
 [fc]
-…………………………………[pcms]
+...[pcms]
 
 *29|
 [fc]
-…………………………[pcms]
+...[pcms]
 
 *30|
 [fc]
-………………[pcms]
+...[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -210,147 +215,149 @@
 
 *31|
 [fc]
-僕たちがサッカー部の顧問に引率されてホテルに戻ったときには[r]
-すでに日が暮れていた。[pcms]
+By the time we were escorted back to the hotel by the soccer club[r]
+advisor, it was already dusk.[pcms]
 
 *32|
 [fc]
-酸鼻極まりない光景を目撃してしまったクラスメイトたちは、[r]
-完全に浮き足立っていたけど、それは仕方がないことだろう。[pcms]
+The classmates who had witnessed the unbearable scene were completely[r]
+agitated, but that couldn't be helped.[pcms]
 
 *33|
 [fc]
-僕やそーいちや南先輩も、客観的に見たら他のみんなと同様に、[r]
-浮き足立ったひとりに違いない。[pcms]
+Objectively speaking, So-ichi, Senior Minami, and I must have been[r]
+just as agitated as everyone else.[pcms]
 
 *34|
 [fc]
-[ns]先生[nse]
-「じゃ全員解散！　各自部屋に戻れ」[pcms]
+[ns]Teacher[nse]
+"Okay, everyone is dismissed! Go back to your rooms."[pcms]
 
 *35|
 [fc]
-先生がそう声をかけたが、その言葉に素直に従う者は少なく、[r]
-ロビーの中には、少人数の塊がいくつもできて、[r]
-誰もが顔をつきあわせて話し込んでいる。[pcms]
+The teacher called out, but few followed his words obediently; in the[r]
+lobby, small groups had formed here and there, with everyone engaged[r]
+in conversation.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *36|
 [fc]
 [vo_stk s="satuki_tj0002"]
-[ns]彩月[nse]
-「さすがに驚いたわね……」[pcms]
+[ns]Satsuki[nse]
+"That was certainly shocking..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *37|
 [fc]
-僕らもご多分に漏れず、先生の言葉は華麗にスルーして[r]
-少人数の塊のひとつになっていた。[pcms]
+We too ignored the teacher's words and became part of one of those[r]
+small groups.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so04a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *38|
 [fc]
-[ns]宗一郎[nse]
-「アニメや漫画ならいざ知らず、現実に人の死ぬところを[r]
-　目の当たりにすることなどありませんからね」[pcms]
+[ns]Souichirou[nse]
+"It's one thing in anime or manga, but witnessing someone die in real[r]
+life is something else entirely."[pcms]
 
 *39|
 [fc]
-[ns]誠[nse]
-「これ、今日の日報で扱ったほうがいいのかな？」[pcms]
+[ns]Makoto[nse]
+"Should we cover this in today's report?"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *40|
 [fc]
 [vo_stk s="satuki_tj0003"]
-[ns]彩月[nse]
-「学生が発行する新聞が取り扱っていい内容だとは思わないな。[r]
-　単に事故を目撃したってだけで、取材とかしてないし」[pcms]
+[ns]Satsuki[nse]
+"I don't think it's content that a student-run newspaper should[r]
+handle. It's just that we witnessed an accident; we haven't done any[r]
+reporting or anything."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *41|
 [fc]
-[ns]宗一郎[nse]
-「いかにも、南先輩のおっしゃる通りですな。[r]
-　あんな写真を掲載したら、タイのタブロイド紙のような[r]
-　死臭漂う紙面になってしまうでしょうし」[pcms]
+[ns]Souichirou[nse]
+"Indeed, just as Senior Minami says. If we were to publish such[r]
+photos, it would turn into a paper reeking of death, like a Thai[r]
+tabloid."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st22"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *42|
 [fc]
 [vo_stk s="satuki_tj0004"]
-[ns]彩月[nse]
-「やだ、あんな光景の写真なんて撮ってないわよ」[pcms]
+[ns]Satsuki[nse]
+"No way, I didn't take any photos of that scene."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *43|
 [fc]
-そーいちも南先輩も不安なんだろう。[r]
-いつもより言葉数を多く感じる。[pcms]
+Both Souichirou and Senior Minami must be feeling anxious. They seem[r]
+to be talking more than usual.[pcms]
 
 *44|
 [fc]
-言葉を発することで、自分の中の不安を[r]
-吐き出そうとしてるかのようだ。[pcms]
+It's as if they're trying to expel their own unease by speaking out[r]
+loud.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *45|
 [fc]
-と、その時、ロビーにたむろする人をかき分けて、[r]
-見慣れた人の姿が近づいてくるのに気がついた。[pcms]
+Just then, I noticed a familiar figure making her way through the[r]
+crowd in the lobby.[pcms]
 
 *46|
 [fc]
 [vo_nat s="natu_tj0001"]
-[ns]夏都[nse]
-「あ、いたいた。おい、誠っ！」[pcms]
+[ns]Natsu[nse]
+"Ah, there you are. Hey, Makoto!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *47|
 [fc]
-[ns]誠[nse]
-「あ、姉ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Ah, Sis..."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *48|
 [fc]
-[ns]宗一郎[nse]
-「おや、これは日向の君」[pcms]
+[ns]Souichirou[nse]
+"Oh, if it isn't Hyuuga."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *49|
 [fc]
 [vo_stk s="satuki_tj0005"]
-[ns]彩月[nse]
-「こんばんわ」[pcms]
+[ns]Satsuki[nse]
+"Good evening."[pcms]
 
 *50|
 [fc]
-姉ちゃんは、相変わらず目のやり場に困るような格好をしている。[r]
-僕やそーいちは慣れっこだけど、南先輩はどう思うんだろうか。[pcms]
+My sister was dressed in a way that made it hard to know where to[r]
+look, as usual. Souichirou and I are used to it, but I wonder what[r]
+Senior Minami thinks.[pcms]
 
 *51|
 [fc]
-あ、そう言えば姉ちゃんは南先輩のこと、バイト先のプールで[r]
-見かけることがあるって言ってたっけ。[pcms]
+Ah, that's right. My sister mentioned she sometimes sees Senior Minami[r]
+at the pool where she works part-time.[pcms]
 
 *52|
 [fc]
-でも、前に映画を見に行った帰りに姉ちゃんと会った時には[r]
-南先輩ははじめましてって挨拶をしてたから、[r]
-姉ちゃんが一方的に知ってるだけ、ってことか。[pcms]
+But when we ran into each other after watching a movie the other time,[r]
+Senior Minami greeted her as if it was their first meeting, so maybe[r]
+my sister is the only one who knows her.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -358,20 +365,20 @@
 *53|
 [fc]
 [vo_nat s="natu_tj0002"]
-[ns]夏都[nse]
-「なあ、いったい何があったんだ？　なんだか妙な空気だけど」[pcms]
+[ns]Natsu[nse]
+"Hey, what exactly happened? The atmosphere seems a bit strange."[pcms]
 
 *54|
 [fc]
-僕がそんな事を考えていると、いつもと違う不穏な空気を[r]
-感じたのか、姉ちゃんが質問してきた。[pcms]
+As I was thinking about this, my sister asked a question, perhaps[r]
+sensing the unusual and unsettling air.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *55|
 [fc]
-[ns]宗一郎[nse]
-「いや、それが実はですね……」[pcms]
+[ns]Souichirou[nse]
+"Well, actually..."[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -387,8 +394,8 @@
 
 *56|
 [fc]
-そう言ってそーいちが口火を切り、僕たちは姉ちゃんに[r]
-何があったのかを説明した。[pcms]
+With that, Souichirou started explaining to my sister what had[r]
+happened.[pcms]
 
 ;//★bg10a ホテルモールフロア＆エントランス・朝昼
 [bg storage="BG10a"][trans_c cross time=500]
@@ -397,13 +404,12 @@
 *57|
 [fc]
 [vo_nat s="natu_tj0003"]
-[ns]夏都[nse]
-「うわ、そりゃまたシロウトさんには[r]
-　キッツイ経験だったなぁ……」[pcms]
+[ns]Natsu[nse]
+"Wow, that must have been a tough experience for amateurs..."[pcms]
 
 *58|
 [fc]
-僕たちの話を聞いた姉ちゃんが、眉根にしわを寄せる。[pcms]
+My sister frowned as she listened to our story.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na06"][ChrSetXY layer=5 x=300 y=0]
@@ -412,245 +418,243 @@
 *59|
 [fc]
 [vo_nat s="natu_tj0004"]
-[ns]夏都[nse]
-「越智さんつったっけ。その[ruby text="こ"]娘のこと、心配だな、誠」[pcms]
+[ns]Natsu[nse]
+"I'm worried about that girl, Ochi... was it? You're concerned too,[r]
+right Makoto?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so19a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *60|
 [fc]
-[ns]宗一郎[nse]
-「何をおっしゃいます、お姉さん！[r]
-　不詳この私、出渕宗一郎のほうが[r]
-　誠よりもはるかに越智さんのことを心配しておりますぞ！」[pcms]
+[ns]Souichirou[nse]
+"What are you saying, Sister! I, Souichirou Izubuchi, am far more[r]
+concerned about Miss Ochi than Makoto is!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *61|
 [fc]
 [vo_nat s="natu_tj0005"]
-[ns]夏都[nse]
-「はいはい。わかったから身軽なデヴはちょっと黙ってろ」[pcms]
+[ns]Natsu[nse]
+"Yeah yeah. I got it. So why don't you quiet down for a bit,[r]
+lightweight?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so05a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *62|
 [fc]
-[ns]宗一郎[nse]
-「むうぅ」[pcms]
+[ns]Souichirou[nse]
+"Muuu."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *63|
 [fc]
 [vo_stk s="satuki_tj0006"]
-[ns]彩月[nse]
-「先生も付き添ってますから、何かあっても[r]
-　対応してもらえると思うよ、中澤君」[pcms]
+[ns]Satsuki[nse]
+"The teacher is with her, so I think they'll be able to respond if[r]
+anything happens, Nakazawa-kun."[pcms]
 
 *64|
 [fc]
-[ns]誠[nse]
-「うん。それは分かってるんだ。でも……」[pcms]
+[ns]Makoto[nse]
+"Yeah. I understand that. But..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *65|
 [fc]
-言いよどむ僕の表情を見て苦笑した姉ちゃんが、[r]
-僕の頭に手を置いて、犬をなでるように[r]
-わしゃわしゃと髪の毛をなでくった。[pcms]
+Seeing my hesitant expression, my sister chuckled wryly and placed her[r]
+hand on my head, ruffling my hair as if petting a dog.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *66|
 [fc]
 [vo_nat s="natu_tj0006"]
-[ns]夏都[nse]
-「まあ、誠の場合、心配すんなってのが難しいんだろうけどよ。[r]
-　あんまり気に病むな。なっ」[pcms]
+[ns]Natsu[nse]
+"Well, I know it's hard for you not to worry, Makoto. But don't let it[r]
+get to you too much. Right?"[pcms]
 
 *67|
 [fc]
-[ns]誠[nse]
-「うん……」[pcms]
+[ns]Makoto[nse]
+"Yeah..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *68|
 [fc]
-姉ちゃんはそう言ってくれるけど、どうにも気が重い。[pcms]
+My sister says that to comfort me, but I still feel heavy-hearted.[pcms]
 
 *69|
 [fc]
-僕が見た、あの『赤い目』のことを[r]
-誰にも話してないせいもあるのだけれど……。[pcms]
+Part of it is because I haven't told anyone about those "red eyes" I[r]
+saw...[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *70|
 [fc]
 [vo_stk s="satuki_tj0007"]
-[ns]彩月[nse]
-「ねえ、これから君たち、どうするの？」[pcms]
+[ns]Satsuki[nse]
+"Hey, what are you guys planning to do now?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *71|
 [fc]
-[ns]宗一郎[nse]
-「愛しの君が戻るまで、ただぼうっとしてるのも芸がない。[r]
-　今日取材した記事をまとめながら、ここで越智さんの帰りを[r]
-　待つというのはどうだ、誠」[pcms]
+[ns]Souichirou[nse]
+"It would be unartistic just to wait idly for our beloved to return.[r]
+How about we summarize the articles we gathered today while waiting[r]
+for Miss Ochi's return here, Makoto?"[pcms]
 
 *72|
 [fc]
-[ns]誠[nse]
-「そうだな」[pcms]
+[ns]Makoto[nse]
+"That sounds good."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *73|
 [fc]
-本当は病院に駆けつけたいところだけど、[r]
-さすがにそれはできないだろう。[pcms]
+I really want to rush to the hospital, but that's obviously not[r]
+possible.[pcms]
 
 *74|
 [fc]
-でも、部屋に戻ったところで、気もそぞろになって[r]
-何も手につかないのは目に見えている。[pcms]
+But I can already tell that if I go back to my room now, I'll be too[r]
+distracted to focus on anything.[pcms]
 
 *75|
 [fc]
-僕は、そーいちの意見に一も二もなく乗っかることにした。[pcms]
+I decided to go along with Souichirou's suggestion without any[r]
+objections.[pcms]
 
 *76|
 [fc]
-[ns]先生[nse]
-「おいお前ら、早く部屋に戻れ！」[pcms]
+[ns]Teacher[nse]
+"Hey you guys, get back to your rooms already!"[pcms]
 
 *77|
 [fc]
-自分の指示に従わない者たちの多さに苛ついたのか、[r]
-先生の口調は、さっきよりもずいぶん[r]
-刺々しいものに変わっていた。[pcms]
+The teacher's tone had become much sharper than before, perhaps[r]
+frustrated by the number of students not following his instructions.[pcms]
 
 *78|
 [fc]
-別に僕たちが名指しで怒られたわけじゃないけど、[r]
-先生のその様子を見て、南先輩が肩をすくめながら口を開く。[pcms]
+It wasn't like we were being scolded by name, but seeing the teacher's[r]
+demeanor, Senior Minami opened her mouth with a shrug.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *79|
 [fc]
 [vo_stk s="satuki_tj0008"]
-[ns]彩月[nse]
-「先生、そうとう機嫌悪いみたいだから、[r]
-　わたしだけでも部屋に戻ることにするね」[pcms]
+[ns]Satsuki[nse]
+"The teacher seems to be in a really bad mood, so I'll go back to my[r]
+room by myself."[pcms]
 
 *80|
 [fc]
-[ns]誠[nse]
-「すみません、南先輩」[pcms]
+[ns]Makoto[nse]
+"I'm sorry, Senior Minami."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so06a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *81|
 [fc]
-[ns]宗一郎[nse]
-「気を遣わせたみたいで、申し訳ありません」[pcms]
+[ns]Souichirou[nse]
+"I apologize for making you worry."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *82|
 [fc]
 [vo_stk s="satuki_tj0009"]
-[ns]彩月[nse]
-「ん、別に構わないから。それじゃ記事作り、がんばってね」[pcms]
+[ns]Satsuki[nse]
+"No, it's fine. Good luck with the article writing."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *83|
 [fc]
-そう言うと、南先輩は手を振りながらその場から立ち去った。[pcms]
+With that said, Senior Minami waved her hand and left the place.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *84|
 [fc]
 [vo_nat s="natu_tj0007"]
-[ns]夏都[nse]
-「代わりと言っちゃなんだが、オレが一緒にいてやるよ。[r]
-　保護者がいれば、先生もお前たちを[r]
-　[ruby text="むげ"][ch text="無碍"]にはできないだろ」[pcms]
+[ns]Natsu[nse]
+"I know it's no substitute, but I'll stay with you. If there's a[r]
+guardian present, the teacher can't just ignore us."[pcms]
 
 *85|
 [fc]
-そう言って姉ちゃんが胸を張ると、普通にしてても十分に[r]
-大きく自己主張してる胸が、さらに迫力を持って[r]
-前にぶるんと突き出された。[pcms]
+As my sister said this with confidence, her already prominent chest[r]
+thrust forward even more powerfully.[pcms]
 
 *86|
 [fc]
-[ns]誠[nse]
-「保護者……ねぇ……」[pcms]
+[ns]Makoto[nse]
+"A guardian, huh..."[pcms]
 
 *87|
 [fc]
-姉ちゃんの気持ちはすごく嬉しいけど、布で覆われているより[r]
-肌の面積が多い服装の人に言われても、いまいち説得力がない。[pcms]
+It's really nice of my sister to offer, but it's hard to take her[r]
+seriously when she's wearing clothes that show more skin than they[r]
+cover.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *88|
 [fc]
 [vo_nat s="natu_tj0008"]
-[ns]夏都[nse]
-「なんだよ、なんか文句でもあんのか？」[pcms]
+[ns]Natsu[nse]
+"What's the matter, you got a problem with that?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *89|
 [fc]
-[ns]宗一郎[nse]
-「いえいえいえ、お姉さんの気づかい、[r]
-　本当に恐悦至極に存じます。[r]
-　さあ、誠、仕事をはじめようじゃないか」[pcms]
+[ns]Souichirou[nse]
+"No, no, no, I truly appreciate your concern, Miss. Now, Makoto, let's[r]
+get to work."[pcms]
 
 *90|
 [fc]
-僕の反応にむっとしかけた姉ちゃんの表情を敏感に察知した[r]
-そーいちがナイスフォローしてくれた。[pcms]
+Souichirou quickly picked up on my sister's change in expression and[r]
+smoothly covered for me.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *91|
 [fc]
-考えてみれば、姉ちゃんだっていくら自衛隊出身とは言え、[r]
-長距離の移動で疲れてないわけはないんだから、[r]
-僕に気を遣ってくれた気持ちに感謝しなきゃな。[pcms]
+After all, even if my sister is a former Self-Defense Force member,[r]
+she must be tired from the long journey. I need to be grateful for her[r]
+concern.[pcms]
 
 *92|
 [fc]
-これ以上余計なことを言わないように、僕とそーいちは[r]
-今日取材した記事をまとめる作業に取りかかった。[pcms]
+To avoid saying anything unnecessary, Souichirou and I started working[r]
+on summarizing the articles we had gathered today.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *93|
 [fc]
-…………………………………[pcms]
+...[pcms]
 
 *94|
 [fc]
-…………………………[pcms]
+...[pcms]
 
 *95|
 [fc]
-………………[pcms]
+...[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -669,56 +673,56 @@
 
 *96|
 [fc]
-僕とそーいちは、取材メモを見ながらノートに手書きで記事を[r]
-まとめていく。[pcms]
+Souichirou and I began to compile the article by hand in our notebooks[r]
+while looking at our interview notes.[pcms]
 
 *97|
 [fc]
-そう言うと、いかにも効率よく仕事を進めてたみたいに[r]
-聞こえるけど、実際のところ僕の手は止まりがちだった。[pcms]
+It might sound like we were working efficiently, but in reality, my[r]
+hands often stopped moving.[pcms]
 
 *98|
 [fc]
-ふとしたはずみで、越智さんのこと、車にはねられて死んだ[r]
-男の赤い目のことを考えてしまう。[pcms]
+Suddenly, I found myself thinking about Miss Ochi and the man with red[r]
+eyes who died after being hit by a car.[pcms]
 
 *99|
 [fc]
-そんな自分にはっと気がつくと、頭をぶるぶると振って[r]
-その考えを頭の中から払いのけ、再び仕事を進めていく。[pcms]
+When I realized what I was doing, I shook my head vigorously to dispel[r]
+those thoughts and resumed my work.[pcms]
 
 *100|
 [fc]
-そしてまた、しばらくすると同じ考えに取り憑かれて……の[r]
-繰り返しだった。[pcms]
+And then, after a while, I found myself haunted by the same thoughts[r]
+again...[pcms]
 
 *101|
 [fc]
-さすがにこれだけ時間が経つと、ロビーに残って話し込んでいる[r]
-クラスメイトの姿はほとんど見えなくなっている。[pcms]
+By now, most of the classmates who had been chatting in the lobby had[r]
+gone back to their rooms.[pcms]
 
 *102|
 [fc]
-それでも、ロビーで作業している僕たちを見て、先生が渋い顔を[r]
-向けることが何度かあったけど、姉ちゃんが一緒にいてくれた[r]
-お陰で、特に何も言われずに済んだ。[pcms]
+Still, there were a few times when the teacher looked over at us[r]
+working in the lobby with a sour face, but thanks to my sister being[r]
+there, we didn't get scolded.[pcms]
 
 *103|
 [fc]
-姉ちゃんにも感謝しなきゃな。[pcms]
+I really have to thank my sister.[pcms]
 
 *104|
 [fc]
-もっとも、先生は姉ちゃんを見て、別の意味でどきっとしていた[r]
-ようにも思うけど……それは見なかったことにしよう。[pcms]
+Although, I think the teacher was startled by my sister for a[r]
+different reason... but let's pretend I didn't notice that.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *105|
 [fc]
 [vo_nat s="natu_tj0009"]
-[ns]夏都[nse]
-「おい、あれ……戻ってきたんじゃないか？」[pcms]
+[ns]Natsu[nse]
+"Hey, isn't that... hasn't she come back?"[pcms]
 
 ;//m:服装はブロック0330◎_ラベル0332と合わせよう
 
@@ -726,56 +730,56 @@
 
 *106|
 [fc]
-姉ちゃんの声に僕が顔を上げると、小嶋先生に付き添われた[r]
-越智さんの姿が目に飛び込んできた。[pcms]
+At my sister's voice, I looked up to see Miss Ochi accompanied by[r]
+Teacher Kojima.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *107|
 [fc]
-僕とそーいちは、その場をばたばたと片付けると、越智さんの[r]
-ところに駆け寄って行く。[pcms]
+Souichirou and I quickly tidied up our space and rushed over to where[r]
+Miss Ochi was.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *108|
 [fc]
-[ns]宗一郎[nse]
-「姫！　ご無事でしたか！！」[pcms]
+[ns]Souichirou[nse]
+"Princess! Are you alright?!"[pcms]
 
 ;//m:立ちは茜梨で
 
 *109|
 [fc]
-[ns]誠[nse]
-「越智さん！」[pcms]
+[ns]Makoto[nse]
+"Miss Ochi!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *110|
 [fc]
 [vo_aka s="akari_tj0001"]
-[ns]茜梨[nse]
-「あ、まー君先輩、出渕先輩」[pcms]
+[ns]Akari[nse]
+"Ah, Makoto-senpai, Izubuchi-senpai"[pcms]
 
 *111|
 [fc]
-どこかぼんやりした表情を浮かべていた越智さんが、[r]
-僕とそーいちを見て笑顔を見せた。[pcms]
+Miss Ochi, who had a somewhat vacant expression on her face, smiled[r]
+when she saw me and Souichirou.[pcms]
 
 *112|
 [fc]
-[ns]誠[nse]
-「体は大丈夫なの？　どこか怪我とかしなかった？」[pcms]
+[ns]Makoto[nse]
+"Are you okay? Did you get hurt anywhere?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *113|
 [fc]
 [vo_aka s="akari_tj0002"]
-[ns]茜梨[nse]
-「うん。いちおう精密検査をしてもらったんですけど[r]
-　特に異常はない……って言ってました」[pcms]
+[ns]Akari[nse]
+"Yeah. They did a thorough examination and said there wasn't anything[r]
+wrong..."[pcms]
 
 ;//m:茜梨なら「はい」だったな。別ver収録は無かったと思うが一応確認
 
@@ -784,10 +788,9 @@
 
 *114|
 [fc]
-[ns]宗一郎[nse]
-「姫、本当に心配しましたぞ！[r]
-　できるならこの出渕宗一郎が代わってあげられれば[r]
-　良かったのですが……」[pcms]
+[ns]Souichirou[nse]
+"Princess, we were really worried about you! If only I, Souichirou[r]
+Izubuchi, could have taken your place..."[pcms]
 
 ;//立ち無し
 
@@ -796,80 +799,77 @@
 *115|
 [fc]
 [vo_aka s="akari_tj0003"]
-[ns]茜梨[nse]
-「あ、あはは……ありがとうございます、出渕先輩。[r]
-　でも、本当に大丈夫ですから……」[pcms]
+[ns]Akari[nse]
+"Ahaha... Thank you, Izubuchi-senpai. But really, I'm fine..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *116|
 [fc]
-越智さんが心配で、僕もそーいちもつい矢継ぎばやに[r]
-質問を重ねてしまうが、そんな僕たちに対して[r]
-越智さんは笑顔で応対してくれた。[pcms]
+Worried about Miss Ochi, Souichirou and I bombarded her with[r]
+questions, but she responded with a smile to both of us.[pcms]
 
 *117|
 [fc]
-[ns]誠[nse]
-「本当になんともなくて良かったよ」[pcms]
+[ns]Makoto[nse]
+"I'm really glad you're okay."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *118|
 [fc]
-[ns]宗一郎[nse]
-「全くです。無事これ名馬とはよく言ったもので。[r]
-　ただ、体が無事でも、ショッキングな体験をしたわけですから[r]
-　今後は心のケアが必要ではないかと」[pcms]
+[ns]Souichirou[nse]
+"Indeed. It's true what they say: 'A miss is as good as a mile.' But[r]
+even if your body is fine, after such a shocking experience, you might[r]
+need some care for your heart."[pcms]
 
 *119|
 [fc]
-ＰＴＳＤをそーいちは心配してるんだろう。[r]
-無理もないことだと思う。[pcms]
+Souichirou is probably worried about PTSD. It's not an unreasonable[r]
+concern.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *120|
 [fc]
 [vo_aka s="akari_tj0004"]
-[ns]茜梨[nse]
-「東京に戻ってからも、定期的にカウンセリングを受けるように[r]
-　言われたので、お医者様もその辺のことは[r]
-　考えてるんだと思います」[pcms]
+[ns]Akari[nse]
+"I've been told to receive regular counseling when I return to Tokyo,[r]
+so I think the doctors are considering that as well."[pcms]
 
 *121|
 [fc]
-確かに、そう言われてみると、なんだか越智さんは[r]
-どこか気怠そうな様子で、いつもの元気で明るい雰囲気は[r]
-影を潜めている。[pcms]
+Indeed, now that you mention it, Miss Ochi does seem somewhat[r]
+lethargic, and her usual energetic and cheerful aura has faded into[r]
+the background.[pcms]
 
 *122|
 [fc]
-あんな体験をした後なんだから、当然と言えば当然か。[pcms]
+It's only natural after such an experience, I suppose.[pcms]
 
 *123|
 [fc]
-[ns]誠[nse]
-「今は……どうなの？　気分が重かったりとかはしない？」[pcms]
+[ns]Makoto[nse]
+"How are you feeling now? Do you feel down or anything?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *124|
 [fc]
 [vo_aka s="akari_tj0005"]
-[ns]茜梨[nse]
-「うーん……なんだか自分の身に起こったことだって[r]
-　実感がなくって、他人事みたいな感じで[r]
-　ちょっとぼーっとしてるかもです」[pcms]
+[ns]Akari[nse]
+"Hmm... It's like I can't really grasp that it happened to me, it[r]
+feels like it's someone else's problem, and I'm a bit spaced out,[r]
+maybe."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *125|
 [fc]
 [vo_nat s="natu_tj0010"]
-[ns]夏都[nse]
-「こらこら誠、そんなに露骨に心配そうな顔で質問したら[r]
-　かえって不安にさせるっての」[pcms]
+[ns]Natsu[nse]
+"Hey, hey Makoto, if you ask with such a worried look on your face,[r]
+you'll just make her feel more anxious."[pcms]
 
 
 ;//茜梨中＠制服のみ　表情01　通常　
@@ -878,14 +878,14 @@
 *126|
 [fc]
 [vo_aka s="akari_tj0006"]
-[ns]茜梨[nse]
-「あ、お姉さん。こんばんわ」[pcms]
+[ns]Akari[nse]
+"Ah, Onee-san. Good evening."[pcms]
 
 ;//茜梨立ち無し
 
 *127|
 [fc]
-姉ちゃんの顔を見た越智さんが、ぴょこんと頭を下げた。[pcms]
+Seeing Miss Ochi's face, she bowed her head with a little hop.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak01"][ChrSetXY layer=3 x=0 y=0]
@@ -894,85 +894,86 @@
 *128|
 [fc]
 [vo_nat s="natu_tj0011"]
-[ns]夏都[nse]
-「あ、いいっていいって。堅苦しいのはヌキで」[pcms]
+[ns]Natsu[nse]
+"Ah, don't worry about it. Let's skip the formalities."[pcms]
 
 *129|
 [fc]
-そう言って姉ちゃんが笑いながら軽く会釈する。[pcms]
+With that, Onee-san laughed and gave a light nod in response.[pcms]
 
 [ChrSetEx layer=4 chbase="na1_bi0_a"][ChrSetParts layer=4 chface="F1_na02"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *130|
 [fc]
 [vo_nat s="natu_tj0012"]
-[ns]夏都[nse]
-「こっちこそお招きにあずかってるんだし、礼を言わなきゃ[r]
-　いけないのはむしろこっちだよ。どうもありがとな」[pcms]
+[ns]Natsu[nse]
+"Besides, we're the ones who should be thanking you for inviting us.[r]
+Thank you very much."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak09"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *131|
 [fc]
-姉ちゃんに礼を言われて、越智さんがますます恐縮した。[pcms]
+Being thanked by Onee-san made Miss Ochi even more embarrassed.[pcms]
 
 [ChrSetEx layer=4 chbase="na1_bi0_a"][ChrSetParts layer=4 chface="F1_na12"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *132|
 [fc]
 [vo_nat s="natu_tj0013"]
-[ns]夏都[nse]
-「それよりも大変だったね。誠やそーいちから話は聞いたよ。[r]
-　いろいろあって疲れたんじゃないか？」[pcms]
+[ns]Natsu[nse]
+"You've been through a lot. I heard about it from Makoto and Sou-ichi.[r]
+You must be tired from all that's happened, right?"[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak08"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *133|
 [fc]
 [vo_aka s="akari_tj0007"]
-[ns]茜梨[nse]
-「あ、いえ、そんな……」[pcms]
+[ns]Akari[nse]
+"Ah, no, it's not like that..."[pcms]
 
 [ChrSetEx layer=4 chbase="na1_bi0_a"][ChrSetParts layer=4 chface="F1_na01"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *134|
 [fc]
 [vo_nat s="natu_tj0014"]
-[ns]夏都[nse]
-「こいつらが心配する気持ちも分かるけど、こいつらの質問に[r]
-　いちいち付き合ってたら、よけい疲れるだろうから、[r]
-　早いとこ部屋に戻って休んだ方がいいよ」[pcms]
+[ns]Natsu[nse]
+"I understand why these guys are worried, but answering all their[r]
+questions will just tire you out more. You should go back to your room[r]
+and rest."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *135|
 [fc]
-姉ちゃんのその言葉に、僕とそーいちは思わず顔を見合わせた。[r]
-確かに、越智さんにもっといろいろ聞きたい気持ちはある。[pcms]
+At Onee-san's words, Sou-ichi and I inadvertently looked at each[r]
+other. Indeed, we both wanted to ask Miss Ochi more about what[r]
+happened.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *136|
 [fc]
-でも、それは僕たち自身が、越智さんがなんともないことを[r]
-確認して安心したいだけの……言ってしまえば自己満足に近い[r]
-行為なのかも知れないということに気がつかされた。[pcms]
+But that might just be us wanting to reassure ourselves that Miss Ochi[r]
+is alright... in other words, it could be seen as a kind of self-[r]
+satisfaction.[pcms]
 
 *137|
 [fc]
-確かに姉ちゃんの言う通り、越智さんはいろいろあって[r]
-疲れてるだろうから、早めに休ませてあげるのが[r]
-本当の優しさだろう。[pcms]
+Indeed, as Onee-san said, Miss Ochi must be tired from everything[r]
+that's happened, so letting her rest early would be the truly kind[r]
+thing to do.[pcms]
 
 *138|
 [fc]
-僕とそーいちが、アイコンタクトでその事を[r]
-互いに確認し合うまでおよそ０．５秒。[pcms]
+It took about 0.5 seconds for Sou-ichi and I to confirm this with each[r]
+other through eye contact.[pcms]
 
 *139|
 [fc]
-僕たちは黙って互いにうなずいた。[pcms]
+We silently nodded to each other.[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0]
@@ -980,62 +981,60 @@
 
 *140|
 [fc]
-[ns]宗一郎[nse]
-「そうですな。日向さんの言う通り。今日はもう自重して[r]
-　お休み下さい、姫」[pcms]
+[ns]Souichirou[nse]
+"That's right. As Hyuuga-san said. Please take it easy and rest for[r]
+today, Princess."[pcms]
 
 *141|
 [fc]
-[ns]誠[nse]
-「話はまた、日を改めてゆっくり聞かせてもらうからさ」[pcms]
+[ns]Makoto[nse]
+"We can talk more about it another day when you're up for it."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na06"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *142|
 [fc]
 [vo_nat s="natu_tj0015"]
-[ns]夏都[nse]
-「なんだよ二人とも、気持ちワリぃくらいに素直じゃねぇか。[r]
-　オメェらの事だから、てっきりもっとゴネっかと思ってたのに」[pcms]
+[ns]Natsu[nse]
+"What's with you two? You're being surprisingly obedient for once. I[r]
+thought for sure you'd put up more of a fuss."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *143|
 [fc]
-[ns]宗一郎[nse]
-「いえいえお姉さん、[ruby text="レディ"][ch text="淑女"]のことを一番に考えるのは[r]
-　英国紳士として当然の嗜みですぞ。なあ誠」[pcms]
+[ns]Souichirou[nse]
+"No no, Onee-san, putting a lady's needs first is only proper for an[r]
+English gentleman. Right, Makoto?"[pcms]
 
 *144|
 [fc]
-[ns]誠[nse]
-「いや、僕は英国紳士じゃないから」[pcms]
+[ns]Makoto[nse]
+"Well, I'm not an English gentleman."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *145|
 [fc]
 [vo_nat s="natu_tj0016"]
-[ns]夏都[nse]
-「お前たちが英国紳士かどうかって話は、この際突っ込まないで[r]
-　おいてやる。このバカ二人もそう言ってるんだし[r]
-　体、休めときな、茜梨ちゃん」[pcms]
+[ns]Natsu[nse]
+"Whether you guys are English gentlemen or not isn't the point right[r]
+now. I'll let that slide. You should rest up too, Akari-chan."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *146|
 [fc]
 [vo_aka s="akari_tj0008"]
-[ns]茜梨[nse]
-「あ、はい……。じゃ、お言葉に甘えて[r]
-　休ませてもらうことにします。[r]
-　中澤先輩、出渕先輩、お姉さん、それじゃ失礼します」[pcms]
+[ns]Akari[nse]
+"Ah, yes... Then I'll take your advice and go rest. Nakazawa-senpai,[r]
+Izubuchi-senpai, Onee-san, excuse me then."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *147|
 [fc]
-そう言うと、茜梨ちゃんが折り目正しく僕ら三人に頭を下げた。[pcms]
+With that said, Akari-chan bowed neatly to the three of us.[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na01"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so02a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
@@ -1043,158 +1042,156 @@
 *148|
 [fc]
 [vo_nat s="natu_tj0017"]
-[ns]夏都[nse]
-「おう、お休み。しっかり休むんだぞ」[pcms]
+[ns]Natsu[nse]
+"Yeah, good night. Make sure to get some proper rest."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *149|
 [fc]
-[ns]宗一郎[nse]
-「再びその華の[ruby text="かんばせ"]顔にお目もじ賜る日を[r]
-　この出渕宗一郎、心よりお待ちしておりますぞ」[pcms]
+[ns]Souichirou[nse]
+"I, Souichirou Izubuchi, eagerly await the day when I can once again[r]
+behold your radiant countenance."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi0_a"][ChrSetParts layer=3 chface="F1_na12"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *150|
 [fc]
 [vo_nat s="natu_tj0018"]
-[ns]夏都[nse]
-「いちいち大げさなんだよ、オメェは」[pcms]
+[ns]Natsu[nse]
+"You're always so dramatic."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *151|
 [fc]
-そんな二人のやりとりをよそに、僕は立ち去った越智さんの[r]
-後ろ姿を見つめていた。[pcms]
+Ignoring their exchange, I watched Miss Ochi's retreating figure.[pcms]
 
 *152|
 [fc]
-その後ろ姿は、ひどく儚げに見えた。[pcms]
+Her back looked incredibly fragile.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *153|
 [fc]
-[ns]宗一郎[nse]
-「誠、俺たちも部屋に戻ろうぜ。日報の続きを仕上げないと」[pcms]
+[ns]Souichirou[nse]
+"Makoto, let's head back to our room too. We need to finish up the[r]
+daily report."[pcms]
 
 *154|
 [fc]
-僕の思いを知ってか知らずか、[r]
-ラード君がそんな言葉をかけてくる。[pcms]
+Whether he knew what was on my mind or not, Lord-kun said this to me.[pcms]
 
 *155|
 [fc]
-[ns]誠[nse]
-「あ、ああ、そうだな……」[pcms]
+[ns]Makoto[nse]
+"Ah, yeah, that's right..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *156|
 [fc]
-でも僕は、なかなか気持ちが上手いこと切り替えられない。[r]
-我ながら自分のこういう性格が嫌になる。[pcms]
+But I couldn't seem to switch my feelings off so easily. I really[r]
+dislike this part of my personality.[pcms]
 
 *157|
 [fc]
-そんな僕を見て、姉ちゃんが僕の首に腕を回すと[r]
-がっしと自分の胸元に引き寄せた。[pcms]
+Seeing me like this, Onee-san wrapped her arm around my neck and[r]
+pulled me tightly against her chest.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *158|
 [fc]
 [vo_nat s="natu_tj0019"]
-[ns]夏都[nse]
-「こら、誠。いつまでも未練たらしく見てんじゃねぇよ！[r]
-　お前がいくら心配しても、どうにもならねぇことなんだから」[pcms]
+[ns]Natsu[nse]
+"Hey Makoto, stop looking so wistfully! No matter how much you worry,[r]
+there's nothing you can do about it."[pcms]
 
 *159|
 [fc]
-[ns]誠[nse]
-「わ、わっぷ……ね、姉ちゃん、苦し……っ！」[pcms]
+[ns]Makoto[nse]
+"Wa-wah... Ne-nee-chan, it's tight...!"[pcms]
 
 *160|
 [fc]
-ボリューム満点の姉ちゃんの胸が遠慮なく[r]
-むぎゅむぎゅと押しつけられ、僕の呼吸を塞ぐ。[pcms]
+Onee-san's ample chest pressed against me without restraint,[r]
+suffocating my breaths.[pcms]
 
 *161|
 [fc]
-ほんのりと姉ちゃんの汗の甘い匂いが鼻をくすぐるが[r]
-それを楽しむだけの余裕は僕になかった。[pcms]
+The faint sweet smell of Onee-san's sweat tickled my nose, but I[r]
+didn't have the luxury to enjoy it.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so30b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *162|
 [fc]
-[ns]宗一郎[nse]
-「お、おおう……これは眼福」[pcms]
+[ns]Souichirou[nse]
+"Oh, oh... This is quite the sight for sore eyes."[pcms]
 
 *163|
 [fc]
-そーいちが生唾を飲み込んで、その光景に目を見張る。[pcms]
+Souichirou swallowed his saliva, his eyes wide as he took in the[r]
+scene.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *164|
 [fc]
-端から見てればそーいちの言う通りの光景なんだろうけど、[r]
-やられてる当人にとっては、そんな気楽なもんじゃない。[pcms]
+From an outsider's perspective, it might look exactly as Souichirou[r]
+described, but for the person experiencing it, it's not so carefree.[pcms]
 
 *165|
 [fc]
-爆乳に埋もれて窒息死なんて不名誉な死に方だけは[r]
-遠慮したいところだ。[pcms]
+Being smothered to death by huge breasts is an ignoble way to die that[r]
+I'd rather avoid.[pcms]
 
 *166|
 [fc]
-[ns]誠[nse]
-「…………ぷはっ！」[pcms]
+[ns]Makoto[nse]
+"...puhah!"[pcms]
 
 *167|
 [fc]
-どうにか姉ちゃんの拘束を振りほどくと、僕は呼吸を確保した。[r]
-不名誉な死に方だけはどうにか回避できたようだ。[pcms]
+Somehow I managed to break free from Onee-san's hold and catch my[r]
+breath. It seems I've narrowly avoided an ignoble death.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *168|
 [fc]
 [vo_nat s="natu_tj0020"]
-[ns]夏都[nse]
-「わ、悪りぃ。そんな強く[r]
-　締めつけたつもりじゃなかったんだが……」[pcms]
+[ns]Natsu[nse]
+"Sorry about that. I didn't mean to squeeze that hard..."[pcms]
 
 *169|
 [fc]
-これが姉ちゃん流の気の遣いかただと[r]
-いうことは僕も分かってる。[pcms]
+I understand that this is Onee-san's way of showing concern.[pcms]
 
 *170|
 [fc]
-でも、もうちょっと場所を選んで欲しいとは思うけど……。[pcms]
+But I do wish she'd choose a better time and place...[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so26a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *171|
 [fc]
-[ns]宗一郎[nse]
-「なんだ、もう終わりですか」[pcms]
+[ns]Souichirou[nse]
+"What, it's over already?"[pcms]
 
 *172|
 [fc]
-僕はデヴの言葉を無視して、姉ちゃんに声をかけた。[pcms]
+I ignored Dev's comment and spoke to Onee-san.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *173|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、部屋まで案内するよ。まだ荷物もそのままなんだし[r]
-　シャワーとかも浴びたいだろ」[pcms]
+[ns]Makoto[nse]
+"Onee-san, let me show you to our room. You still have your luggage,[r]
+and you probably want to take a shower."[pcms]
 
 ;//夏都が部屋を知ってるのかどうかが指定からは分からなかったので、
 ;//とりあえず誠に案内させる流れにしました。（た）
@@ -1204,69 +1201,69 @@
 *174|
 [fc]
 [vo_nat s="natu_tj0021"]
-[ns]夏都[nse]
-「ん、頼むよ。明日は一日楽しむつもりだから、[r]
-　今晩はしっかり休んでパワー充填しときたいからな。[r]
-　んっふふふ～。明日は暴れるぜ～」[pcms]
+[ns]Natsu[nse]
+"Yeah, I'd appreciate that. I plan to enjoy the whole day tomorrow, so[r]
+I want to rest up tonight and recharge my energy. Nnfufufu~ I'm gonna[r]
+go wild tomorrow~"[pcms]
 
 *175|
 [fc]
-ライブ会場がどういうことになるのか、[r]
-あんまり想像したくない……。[pcms]
+The thought of what might happen at the live venue tomorrow is[r]
+something I'd rather not imagine...[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *176|
 [fc]
-[ns]宗一郎[nse]
-「それなら、俺は先に部屋に戻ってるぞ、誠。[r]
-　お姉さま、しからば御免」[pcms]
+[ns]Souichirou[nse]
+"Then, I'll head back to the room first, Makoto. My lady, if you'll[r]
+excuse me."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *177|
 [fc]
-そう見得を切って、デヴ君が足取りも軽やかにその場を立ち去る。[pcms]
+With that flourish, Dev-kun left the scene with a spring in his step.[pcms]
 
 *178|
 [fc]
-姉ちゃんと僕とのカラミをオカズに、僕が不在の間に[r]
-オナニーでもする気なんだろうか。[pcms]
+I wonder if he's planning to use the scene he just witnessed between[r]
+Onee-san and me as material for masturbation while I'm away.[pcms]
 
 *179|
 [fc]
-まあ、仮にそうだったとしても、そこは武士の情けで[r]
-突っ込まないでおいてやろう。[pcms]
+Well, even if that's the case, I'll show some samurai mercy and not[r]
+delve into it.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *180|
 [fc]
 [vo_nat s="natu_tj0022"]
-[ns]夏都[nse]
-「じゃ、部屋まで案内してくれ、誠」[pcms]
+[ns]Natsu[nse]
+"Then, lead the way to the room, Makoto."[pcms]
 
 *181|
 [fc]
-[ns]誠[nse]
-「うん」[pcms]
+[ns]Makoto[nse]
+"Yeah."[pcms]
 
 *182|
 [fc]
-姉ちゃんにそう促され、僕と姉ちゃんもロビーを後にした。[pcms]
+Urged by Onee-san, both she and I left the lobby behind.[pcms]
 
 ;//★sky04 空・夜A
 [bg storage="sky04a"][trans_c cross time=500]
 
 *183|
 [fc]
-越智さんのことは……姉ちゃんの言う通り、僕が考えても[r]
-どうしようもないし、何もしてあげられない。[pcms]
+The matter with Miss Ochi... as Onee-san said, there's nothing I can[r]
+do about it by worrying, nor can I offer any help.[pcms]
 
 *184|
 [fc]
-明日には、いつも通り元気な越智さんに戻ってることを……[r]
-いまはただ期待しよう。[pcms]
+For now, I can only hope that by tomorrow, Miss Ochi will be back to[r]
+her usual cheerful self.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

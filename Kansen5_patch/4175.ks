@@ -8,7 +8,7 @@
 ;//時間		：夕
 ;//場所		：ホテル
 ;//予想容量	：――
-;//備考		：夏都ＺＡＰ
+;//備考		：夏ＺＡＰ
 ;//イベント  ：natu_H011  ※貼り付け-未  ※合うの無いので暗転か背景で逃げ
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *4175_TOP
@@ -40,40 +40,40 @@
 *2942|
 [fc]
 [vo_nat s="natu_nt0117"]
-[ns]夏都[nse]
-「…………ぅ」[pcms]
+[ns]Natsu[nse]
+"...uh."[pcms]
 
 *2943|
 [fc]
-携帯の着信音が聞えた気がした。[r]
-でも、どこにあるのかわからない。[pcms]
+I thought I heard my cell phone's ringtone. But I couldn't figure out[r]
+where it was.[pcms]
 
 *2944|
 [fc]
-探そうと思っても身体が動かなかった。[pcms]
+Even if I wanted to search for it, my body wouldn't move.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *2945|
 [fc]
-何も考えられなくなって、どのぐらい経ったのか……。[r]
-時間の感覚さえも、オレは奪われていた。[pcms]
+I couldn't think of anything, and I didn't know how much time had[r]
+passed... I had even lost my sense of time.[pcms]
 
 *2946|
 [fc]
-[ns]黒服Ｂ[nse]
-「……っ……っ、ううっ、ほんとたまんねえな。このマンコ」[pcms]
+[ns]Black Suit B[nse]
+"...ugh... ugh, damn, this pussy is just irresistible."[pcms]
 
 *2947|
 [fc]
-まだ、誰かがオレの中を掻き回していた。[r]
-でも、もう何も感じない……感じられなかった。[pcms]
+Someone was still stirring inside me. But I couldn't feel anything[r]
+anymore... I was numb.[pcms]
 
 *2948|
 [fc]
-[ns]黒服Ｂ[nse]
-「うおっ、出す、出すぞ、出すぞっ！！」[pcms]
+[ns]Black Suit B[nse]
+"Ugh, I'm gonna cum, I'm cumming, I'm cumming!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -88,47 +88,44 @@
 
 *2949|
 [fc]
-またオレの中に、精液が注がれた。[r]
-でも、もうどうでもよかった。[pcms]
+Once again, semen was poured inside me. But by then, I didn't care[r]
+anymore.[pcms]
 
 *2950|
 [fc]
-[ns]黒服Ｂ[nse]
-「なかなかいいオマンコだったぜ。締め付けも悪くないし、[r]
-　ヒダが絡みついてきて、上々だった」[pcms]
+[ns]Black Suit B[nse]
+"That was quite a nice pussy. The tightness wasn't bad, and the folds[r]
+clung on nicely, it was great."[pcms]
 
 *2951|
 [fc]
-男が何か言っている。[r]
-でもオレの耳はもう麻痺しているみたいだった。[pcms]
+The man was saying something. But my ears seemed to be numb.[pcms]
 
 *2952|
 [fc]
-[ns]黒服Ｃ[nse]
-「もう１回と、思ったけど、こりゃもう駄目だな。[r]
-　完璧マグロになってるじゃん。マグロじゃあなあ～」[pcms]
+[ns]Black Suit C[nse]
+"I thought about going one more round, but this is no good. She's[r]
+completely like a dead fish now. A dead fish, huh..."[pcms]
 
 *2953|
 [fc]
 [vo_nat s="natu_nt0118"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *2954|
 [fc]
-男達はオレを放置していた。[r]
-どこか少し離れた場所で、何かしている。[pcms]
+The men left me alone. They were doing something a little distance[r]
+away.[pcms]
 
 *2955|
 [fc]
-オレの身体は動こうとしなかった。[r]
-動けなかった。[r]
-動く気も萎えさせられていた。[pcms]
+My body refused to move. It couldn't move. Even the will to move had[r]
+been crushed.[pcms]
 
 *2956|
 [fc]
-時間だけが流れていく。[r]
-でもそれも、どうでもいいことだった。[pcms]
+Time just kept flowing. But that too seemed unimportant.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -148,31 +145,31 @@
 
 *2957|
 [fc]
-機械を通した男の声に、オレの意識は呼び戻された。[pcms]
+My consciousness was brought back by a man's voice through a machine.[pcms]
 
 *2958|
 [fc]
-オレを散々弄んだ男達が、ざわめいている。[pcms]
+The men who had toyed with me were making a commotion.[pcms]
 
 *2959|
 [fc]
-[ns]黒服Ｂ[nse]
-「まさか、オズがやられるなんてな……」[pcms]
+[ns]Black Suit B[nse]
+"I can't believe Oz got taken down..."[pcms]
 
 *2960|
 [fc]
-[ns]黒服Ｃ[nse]
-「ああ。だけどこれで俺達の取り分は増えそうだぜ」[pcms]
+[ns]Black Suit C[nse]
+"Yeah. But this means our share might increase."[pcms]
 
 *2961|
 [fc]
-[ns]黒服Ｄ[nse]
-「まあ内容によっては、オズが欲しがってた物、[r]
-　奪っておさらばしたっていいしな……」[pcms]
+[ns]Black Suit D[nse]
+"Well, depending on the content, we could take what Oz wanted and make[r]
+a clean getaway..."[pcms]
 
 *2962|
 [fc]
-男達が、がやがやと部屋を出て行く気配がする。[pcms]
+The men seemed to be leaving the room in a noisy group.[pcms]
 
 
 ;//夏都大＠水着＋スカ（Ａ）　表情18　レ後　
@@ -180,44 +177,43 @@
 *2963|
 [fc]
 [vo_nat s="natu_nt0119"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2964|
 [fc]
-オレのすぐそばに、人気は無かった。[r]
-動くとしたら、今しかないだろう。[pcms]
+There was no one near me. If I was going to move, now was the only[r]
+chance.[pcms]
 
 *2965|
 [fc]
-軋む身体を気遣いながら、なんとか身体を動かしていく。[pcms]
+Careful of my creaking body, I somehow managed to get it moving.[pcms]
 
 *2966|
 [fc]
-オレのあそこの中からどろりと白濁した液がこぼれ落ちた。[r]
-身体を動かすと、肌の上をゆっくりと同じ液体が伝っていく。[pcms]
+Thick white fluid dripped from inside my pussy. As I moved, the same[r]
+fluid slowly trailed over my skin.[pcms]
 
 *2967|
 [fc]
-久しぶりに動かす間接に痛みが走った。[r]
-身体の内側も外側も、痛みが走り回っている。[pcms]
+Pain shot through my joints as I moved them for the first time in a[r]
+while. Pain was racing both inside and outside my body.[pcms]
 
 *2968|
 [fc]
-オレはなんとか這いずって、脱がされたスカートにたどり着いた。[pcms]
+I somehow crawled to my skirt that had been taken off.[pcms]
 
 *2969|
 [fc]
-周りを見回す。[r]
-少し離れたところに、まだ黒服の男が立っていた。[r]
-見張りに残されたんだろう。[pcms]
+I looked around. A black-suited man was still standing a short[r]
+distance away, probably left as a lookout.[pcms]
 
 *2970|
 [fc]
-スカートを探る。携帯は無事だった。[r]
-でも、着信を示すライトが明滅している。[pcms]
+I searched through the skirt. My cell phone was safe. However, the[r]
+light indicating an incoming call was blinking.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -225,8 +221,8 @@
 
 *2971|
 [fc]
-オレはそっと自分の身体の影に隠しながら、着信履歴を調べた。[r]
-留守電が吹き込まれている。[pcms]
+I checked the call history while hiding it in the shadow of my body.[r]
+There was a voicemail.[pcms]
 
 ;//bgm08.ogg
 [bgm storage="BGM08"]
@@ -237,43 +233,43 @@
 *2972|
 [fc]
 [vo_nat s="natu_nt0120"]
-[ns]夏都[nse]
-「……誠」[pcms]
+[ns]Natsu[nse]
+"...Makoto"[pcms]
 
 *2973|
 [fc]
-それはオレの知らない電話番号からだった。[r]
-でも、この状況で俺に電話を掛けてくる人間。[pcms]
+It was from an unknown number. But in this situation, there's only one[r]
+person who would call me.[pcms]
 
 *2974|
 [fc]
-そんなの誠しかいない。[pcms]
+It had to be Makoto.[pcms]
 
 *2975|
 [fc]
-オレは留守電を再生すると、携帯を耳に当てて、[r]
-その声を聞いていった。[pcms]
+I played the voicemail and listened to the voice as I held the phone[r]
+to my ear.[pcms]
 
 *2976|
 [fc]
-[ns]誠[nse]
-「もしもし、姉ちゃん。僕だよ、誠だよ。[r]
-　今、ホテルの中で姉ちゃんを捜しているんだ。[r]
-　必ず助けに行くから待ってて、必ず行くからね」[pcms]
+[ns]Makoto[nse]
+"Hello, Onee-san? It's me, Makoto. I'm searching for you inside the[r]
+hotel right now. I'll definitely come to save you, so wait for me,[r]
+I'll definitely come."[pcms]
 
 *2977|
 [fc]
-やっぱり誠だった……。[r]
-ホテルの中でオレのことを探してるって……。[pcms]
+It was Makoto after all... He said he was looking for me inside the[r]
+hotel...[pcms]
 
 *2978|
 [fc]
-着信時間と今の時間を見比べる。[pcms]
+I compared the time of the incoming call with the current time.[pcms]
 
 *2979|
 [fc]
-着信してから、大して時間が経っていないのがわかった。[r]
-やっぱり、さっき聴こえたのは誠からの着信だったんだ。[pcms]
+I realized that not much time had passed since the call came in. So it[r]
+really was Makoto who called me earlier.[pcms]
 
 
 ;//夏都大＠水着＋スカ（Ａ）　表情07　泣き　
@@ -281,26 +277,25 @@
 *2980|
 [fc]
 [vo_nat s="natu_nt0121"]
-[ns]夏都[nse]
-「誠……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 *2981|
 [fc]
-オレは携帯を抱きしめた。[pcms]
+I hugged my cell phone close.[pcms]
 
 *2982|
 [fc]
-誠は絶対近くまで来てる。確信があった。[r]
-オレを助ける為に、来てくれたんだ。[pcms]
+Makoto must be close by. I was certain of it. He came to save me.[pcms]
 
 *2983|
 [fc]
-喜びがオレの意識をしっかりと目覚めさせた。[pcms]
+Joy firmly awakened my consciousness.[pcms]
 
 *2984|
 [fc]
-オレは改めて周囲を見渡す。[r]
-やっぱり見張りはひとり残されているだけだった。[pcms]
+I looked around once more. As I thought, there was only one lookout[r]
+left.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -310,14 +305,14 @@
 
 ;	[link target=*no_resistance]おとなしくしていよう[endlink]
 ;	[link target=*resistance]見張りを何とかする[endlink]
-;	[s]
+;[pcms]
 
 *SEL30|おとなしくしていよう／見張りを何とかする
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = 'おとなしくしていよう'"]
-[eval exp="f.seltext06 = '見張りを何とかする'"]
+[eval exp="f.seltext04 = 'Let\'s stay calm'"]
+[eval exp="f.seltext06 = 'I\'ll somehow deal with the lookout'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -358,21 +353,21 @@
 
 *2985|
 [fc]
-ひとりだけだから何とか出来る気もしていた。[pcms]
+I felt like I could somehow deal with just one person.[pcms]
 
 *2986|
 [fc]
-でも、オレの身体はぼろぼろで、いつものように動ける自信なんて[r]
-これっぽっちも無い。[pcms]
+But my body was battered, and I had no confidence I could move as[r]
+usual.[pcms]
 
 *2987|
 [fc]
-間違いなく拳銃を所持している男に、今の身体の調子で[r]
-立ち向かえるとは思えない。[pcms]
+I couldn't imagine facing a man armed with a gun in my current[r]
+physical state.[pcms]
 
 *2988|
 [fc]
-オレは、誠を信じて、おとなしく待つことにした。[pcms]
+I decided to trust Makoto and wait quietly.[pcms]
 
 ;//〆：フラグＢ成立
 [eval exp="f.l_no_resistance = 1"]
@@ -389,21 +384,22 @@
 
 *2989|
 [fc]
-誠が助けに来てくれるまでに、少しでも危険因子は[r]
-排除しておきたい。[pcms]
+Before Makoto comes to rescue me, I wanted to eliminate as many[r]
+dangers as possible.[pcms]
 
 *2990|
 [fc]
-オレは死力を振り絞って、這いずりながら見張りの男に近づいた。[pcms]
+I mustered all my strength and crawled towards the lookout man.[pcms]
 
 *2991|
 [fc]
-オレらしくない方法。虫唾が走るような方法だけど、[r]
-今の自分の身体を考えたら背に腹は代えられない。[pcms]
+It wasn't like me. It was a disgusting method, but considering my[r]
+current physical state, I couldn't be choosy.[pcms]
 
 *2992|
 [fc]
-オレは口角を緩め、半笑いを浮かべて、見張りの男に呼びかけた。[pcms]
+I relaxed the corners of my mouth, put on a half-smile, and called out[r]
+to the lookout man.[pcms]
 
 
 ;//夏都大＠水着＋スカ（Ａ）　表情16　発情　
@@ -411,73 +407,71 @@
 *2993|
 [fc]
 [vo_nat s="natu_nt0122"]
-[ns]夏都[nse]
-「お兄さ……ん。お兄さんってばあ～。ねえ、おちんちん、[r]
-　おちんちん、もっとくらひゃい～」[pcms]
+[ns]Natsu[nse]
+"Big brother... Hey, big brother~. Hey, your cock, your cock, give it[r]
+to me more~"[pcms]
 
 *2994|
 [fc]
-[ns]見張りの黒服[nse]
-「おいおい……」[pcms]
+[ns]Lookout in Black Suit[nse]
+"Hey, hey..."[pcms]
 
 *2995|
 [fc]
-男はオレを見下ろし、にんまりといやらしい笑いを浮かべた。[pcms]
+The man looked down at me, grinning with a lewd smile.[pcms]
 
 *2996|
 [fc]
-[ns]見張りの黒服[nse]
-「あんだけヤられたってのに、まだ足りないのかよ。[r]
-　ド淫乱だな。まあこういう淫乱をめちゃくちゃにするのも[r]
-　好きだけどな」[pcms]
+[ns]The Black-suited Lookout[nse]
+"Even after being done that much, you still want more? What a slut.[r]
+Well, I do like messing up sluts like you."[pcms]
 
 *2997|
 [fc]
 [vo_nat s="natu_nt0123"]
-[ns]夏都[nse]
-「ねえ～くらひゃいよぉ、おちんちん、おちんちん～」[pcms]
+[ns]Natsu[nse]
+"Hey~ give it to me, your cock, your cock~"[pcms]
 
 *2998|
 [fc]
-オレは見張りの男の股間を服の上からまさぐった。[r]
-男は相変わらずいやらしい笑いを浮かべたまま[r]
-オレを見下ろしている。[pcms]
+I fondled the lookout man's crotch over his clothes. The man continued[r]
+to look down at me with a lewd smile.[pcms]
 
 *2999|
 [fc]
-オレは股間のジッパーを下げ、中から男のペニスを取りだした。[pcms]
+I unzipped his crotch and pulled out his penis.[pcms]
 
 *3000|
 [fc]
 [vo_nat s="natu_nt0124"]
-[ns]夏都[nse]
-「うわあ～すっごく逞しいぃ。ねえお兄さん、この逞しい[r]
-　おちんちん、わたしのまんこにぶち込んでくらひゃい～」[pcms]
+[ns]Natsu[nse]
+"Wow~ it's so sturdy. Hey big brother, this sturdy cock, shove it into[r]
+my pussy~"[pcms]
 
 *3001|
 [fc]
-[ns]見張りの黒服[nse]
-「ああ、ぶち込んでやってもいいぜ。ちゃんとぶちこめるように[r]
-　おっきくしたらなっ！　たっぷり味わわせてやるよ」[pcms]
+[ns]The Lookout in Black Clothes[nse]
+"Yeah, I can shove it in. Make sure it gets big enough to shove in![r]
+I'll let you savor it plenty."[pcms]
 
 *3002|
 [fc]
 [vo_nat s="natu_nt0125"]
-[ns]夏都[nse]
-「は～い。じゅじゅうっ！　じゅるじゅるじゅばっ！[r]
-　れろっ、えろっん。ぺろぺろっ……あむっ、りゅりっ……！」[pcms]
+[ns]Natsu[nse]
+"Yes~ slurp! Slurp slurp slurp! Lick, lick. Lick lick...chomp,[r]
+suck...!"[pcms]
 
 *3003|
 [fc]
-[ns]見張りの黒服[nse]
-「お、おおっ、すっげえ舌使いだな。おお、いいぞ。[r]
-　もっと喉の奥まで飲み込んで、ご奉仕しなっ！」[pcms]
+[ns]The Black-suited Lookout[nse]
+"Oh, ohh, that's some amazing tongue work. Yeah, that's good. Swallow[r]
+it deeper and serve me!"[pcms]
 
 *3004|
 [fc]
 [vo_nat s="natu_nt0126"]
-[ns]夏都[nse]
-「は、はひっ……ぶじゅるっ……ぢゅぽっじゅぼっ、んれるぅ」[pcms]
+[ns]Natsu[nse]
+"Ha, hah... slurp... chomp slurp, slurp slurp, mmmh."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -485,8 +479,7 @@
 
 *3005|
 [fc]
-ようやく男のペニスは、少し固さを出してきた。[r]
-これなら、大丈夫。[pcms]
+Finally, the man's penis began to harden a bit. This should be okay.[pcms]
 
 ;//bgm14.ogg
 [bgm storage="BGM14"]
@@ -497,8 +490,8 @@
 *3006|
 [fc]
 [vo_nat s="natu_nt0127"]
-[ns]夏都[nse]
-「んちゅう…………あぎぃいっぃぃぃぃっ！！」[pcms]
+[ns]Natsu[nse]
+"Nchu... agiiiiii!!"[pcms]
 
 [se buf=0 storage="seD015"]
 ;//♪SE弾けて液体が噴き出す
@@ -508,35 +501,36 @@
 
 *3007|
 [fc]
-オレはそいつのペニスに歯を立て噛みしめ、噛み切った。[pcms]
+I bit down hard on his penis with my teeth and bit it off.[pcms]
 
 *3008|
 [fc]
-[ns]見張りの黒服[nse]
-「ぎゃあああああああああっ！！」[pcms]
+[ns]The Black-suited Lookout[nse]
+"Gyaaaaaaaah!!"[pcms]
 
 *3009|
 [fc]
-男が両手で自分の股間を押さえる。[r]
-おろそかになっていた足をオレは手ですくった。[pcms]
+The man clutched his crotch with both hands. I scooped up his[r]
+neglected legs with my hands.[pcms]
 
 *3010|
 [fc]
-[ns]見張りの黒服[nse]
-「うぎっ！　んぐっ…………」[pcms]
+[ns]The Lookout in Black Clothes[nse]
+"Ugh! Ngh..."[pcms]
 
 [se buf=0 storage="seB013"]
 ;//♪SE人が倒れる
 
 *3011|
 [fc]
-男は受け身が取れず、思いっきり後頭部を床に打ち付ける。[r]
-白目を剥き、ぴくぴくと痙攣すると、やがて動かなくなった。[pcms]
+The man couldn't brace himself and slammed the back of his head hard[r]
+on the floor. His eyes rolled back, he convulsed, and eventually[r]
+stopped moving.[pcms]
 
 *3012|
 [fc]
-だらんと股間を押さえていた手がはずれ、ぴゅうぴゅうと血を[r]
-噴き上げ、あっという間に血の海を作っていく。[pcms]
+The hands that had been clutching his crotch fell away, and blood[r]
+spurted out, quickly creating a sea of blood.[pcms]
 
 
 ;//夏都大＠水着＋スカ（Ａ）　表情21　思案　
@@ -544,16 +538,16 @@
 *3013|
 [fc]
 [vo_nat s="natu_nt0128"]
-[ns]夏都[nse]
-「んっっべっっっ！！」[pcms]
+[ns]Natsu[nse]
+"Nbbbb!!"[pcms]
 
 
 ;//夏都大＠水着＋スカ（Ａ）　表情24　ニカッ
 
 *3014|
 [fc]
-その血の海にオレは食いちぎったペニスを吐き出してやった。[r]
-びしゃっと音を立てて、その肉片が転がっていく。[pcms]
+I spat out the penis I had bitten off into that sea of blood. With a[r]
+splash, the piece of flesh rolled away.[pcms]
 
 ;//〆：フラグＣ成立→Ｔへ
 [eval exp="f.l_resistance = 1"]

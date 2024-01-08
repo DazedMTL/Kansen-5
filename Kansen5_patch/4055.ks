@@ -36,108 +36,110 @@
 
 *735|
 [fc]
-神社の境内に続く階段を、男達は下りようとしていた。[pcms]
+The men were about to descend the stairs leading to the shrine[r]
+precincts.[pcms]
 
 *736|
 [fc]
-[ns]男Ａ[nse]
-「さ～て、お参りも済ませたし、これからどうすっか？」[pcms]
+[ns]Man A[nse]
+"Well, now that we've finished our prayers, what should we do next?"[pcms]
 
 *737|
 [fc]
-[ns]男Ｂ[nse]
-「ビーチに行って、ナンパでもするか？」[pcms]
+[ns]Male B[nse]
+"How about we go to the beach and pick up some girls?"[pcms]
 
 *738|
 [fc]
-[ns]男Ｃ[nse]
-「おお、いいなっ。今夜はたっぷり楽しもうぜ」[pcms]
+[ns]Male C[nse]
+"Oh, that sounds good. Let's have a blast tonight."[pcms]
 
 *739|
 [fc]
-[ns]男Ｄ[nse]
-「にしてもさ、この島、なんだか昨日から騒がしくね？」[pcms]
+[ns]Male D[nse]
+"But hey, hasn't this island been kind of noisy since yesterday?"[pcms]
 
 *740|
 [fc]
-[ns]男Ｅ[nse]
-「ああ、救急車のサイレン、何回も聴いたしな」[pcms]
+[ns]Man E[nse]
+"Yeah, I've heard ambulance sirens several times."[pcms]
 
 *741|
 [fc]
-[ns]男Ｃ[nse]
-「でもさ～、なんかイベント重なってるし、くそ暑いし、[r]
-　それこそ、熱中症とか頻発してもおかしくないんじゃね？」[pcms]
+[ns]Male C[nse]
+"But you know, with all the events going on and the scorching heat,[r]
+wouldn't it be no surprise if there were frequent cases of[r]
+heatstroke?"[pcms]
 
 *742|
 [fc]
-[ns]男Ａ[nse]
-「まあ、そんなとこだろな」[pcms]
+[ns]Man A[nse]
+"Yeah, probably something like that."[pcms]
 
 *743|
 [fc]
-[ns]男Ｄ[nse]
-「パトもずいぶん出てた気がするけどなあ」[pcms]
+[ns]Male D[nse]
+"I feel like there were quite a few police cars out too."[pcms]
 
 *744|
 [fc]
-[ns]男Ｅ[nse]
-「ああ、確かにな。意外と治安悪いんかな、この島」[pcms]
+[ns]Male E[nse]
+"Yeah, definitely. Maybe this island has worse public order than we[r]
+thought."[pcms]
 
 *745|
 [fc]
-[ns]男Ｃ[nse]
-「いやあ、熱中症の集団発生だったら、パトも出るだろうよ。[r]
-　ニュースなんかだとさ、救急車とパトが出てる画なんて[r]
-　よく見るじゃん」[pcms]
+[ns]Male C[nse]
+"Nah, if there was a mass outbreak of heatstroke, the cops would be[r]
+out too. You often see ambulances and police cars in the news, right?"[pcms]
 
 *746|
 [fc]
-[ns]男Ａ[nse]
-「ああ、そうだな。ま、俺らは気にせず楽しもうぜ」[pcms]
+[ns]Man A[nse]
+"True that. Well, let's not worry about it and just enjoy ourselves."[pcms]
 
 *747|
 [fc]
-[ns]男Ｂ[nse]
-「おお、そうだな。さって、移動するかっ！」[pcms]
+[ns]Male B[nse]
+"Yeah, you're right. Let's get moving!"[pcms]
 
 *748|
 [fc]
-[ns]男Ｃ[nse]
-「お、おいっ……あれ……」[pcms]
+[ns]Male C[nse]
+"Hey, hey... look over there..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *749|
 [fc]
-男が指差す先に、全員の目が釘付けになる。[r]
-金色の髪に白い肌。およそこの島に似つかわしくない女の子が[r]
-ふらふらと自分達の方へと近づいてきていた。[pcms]
+All eyes were glued to where the man was pointing. A girl with golden[r]
+hair and pale skin, who seemed out of place on this island, was[r]
+staggering towards them.[pcms]
 
 *750|
 [fc]
-[ns]男Ａ[nse]
-「うお、すげ～カワイイ」[pcms]
+[ns]Man A[nse]
+"Whoa, she's super cute."[pcms]
 
 *751|
 [fc]
-[ns]男Ｂ[nse]
-「コスプレしてんな。なんか、妙にエロくね？」[pcms]
+[ns]Man B[nse]
+"She's cosplaying, isn't she? Kinda erotic, don't you think?"[pcms]
 
 *752|
 [fc]
-[ns]男Ｃ[nse]
-「お参りした俺らに、早速神様からの贈り物かもしれねーぜ」[pcms]
+[ns]Male C[nse]
+"Maybe it's a gift from the gods for us who have just prayed."[pcms]
 
 *753|
 [fc]
-[ns]男Ｄ[nse]
-「……だな。声掛けてみようぜ」[pcms]
+[ns]Male D[nse]
+"...Right. Let's try talking to her."[pcms]
 
 *754|
 [fc]
-男達は、ふらふらと歩いている金髪の女の子に、[r]
-足取りも軽く、近づいていった。[pcms]
+The men approached the blonde girl who was walking unsteadily, their[r]
+steps light.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -149,8 +151,8 @@
 
 *755|
 [fc]
-[ns]男Ｅ[nse]
-「か～のじょっ！　どうしたの？」[pcms]
+[ns]Male E[nse]
+"Hey girl! What's wrong?"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -158,211 +160,210 @@
 
 *756|
 [fc]
-[ns]男Ｂ[nse]
-「暇なら、俺らと…………なあ、おいこの子……」[pcms]
+[ns]Man B[nse]
+"If you're free, why don't you hang out with us... hey, you there..."[pcms]
 
 *757|
 [fc]
-男が他の男をこづく。[r]
-こづかれた男も、他の男も、既に気がついていた。[pcms]
+The man nudged another man. The nudged man and the others had already[r]
+noticed.[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
 
 *758|
 [fc]
-[ns]男Ｃ[nse]
-「なあ、あれってザーメンだよな？」[pcms]
+[ns]Male C[nse]
+"Hey, that's semen, isn't it?"[pcms]
 
 *759|
 [fc]
-その子の衣装は、遠目ではわからなかったが近づいてみると[r]
-あちこちに泥が付き、乱れていた。[pcms]
+Her costume, which wasn't clear from a distance, was muddy and[r]
+disheveled upon closer inspection.[pcms]
 
 *760|
 [fc]
-おまけに、その白く肉付きの良い内ももを、つーっと[r]
-男の精液と思える白濁した液が、歩く度にしたたり落ちていた。[pcms]
+Moreover, a white cloudy liquid that seemed to be semen was dripping[r]
+down her well-fleshed inner thighs with every step she took.[pcms]
 
 *761|
 [fc]
-[ns]男Ｄ[nse]
-「……ごくっ」[pcms]
+[ns]Male D[nse]
+"...gulp"[pcms]
 
 *762|
 [fc]
-[ns]男Ｂ[nse]
-「…………」[pcms]
+[ns]Man B[nse]
+"..."[pcms]
 
 *763|
 [fc]
-[ns]男Ｃ[nse]
-「……やっぱ、贈り物だと思うぜ、俺は」[pcms]
+[ns]Male C[nse]
+"...I still think it's a gift, man."[pcms]
 
 *764|
 [fc]
 [vo_tay s="taja_nt0044"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *765|
 [fc]
-数歩前で立ち止まったままの男達に、その女の子は相変わらずの[r]
-おぼつかない足取りで、近づいてきている。[r]
-その様を見た、ひとりの男は、やはり贈り物だと呟き一歩前に出た。[pcms]
+The girl continued to approach the men who had stopped a few steps[r]
+ahead with her unsteady gait. One of the men muttered that it must be[r]
+a gift and stepped forward.[pcms]
 
 *766|
 [fc]
-[ns]男Ｃ[nse]
-「なあなあ彼女、どうしたのかな？」[pcms]
+[ns]Male C[nse]
+"Hey girl, what happened to you?"[pcms]
 
 *767|
 [fc]
 [vo_tay s="taja_nt0045"]
-[ns]ターヤ[nse]
-「さと……」[pcms]
+[ns]Tarja[nse]
+"Sato..."[pcms]
 
 *768|
 [fc]
-[ns]男Ａ[nse]
-「え？　何？」[pcms]
+[ns]Man A[nse]
+"Huh? What?"[pcms]
 
 *769|
 [fc]
 [vo_tay s="taja_nt0046"]
-[ns]ターヤ[nse]
-「……さとに、あいたいの」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...I want to see Sato."[pcms]
 
 *770|
 [fc]
-[ns]男Ｃ[nse]
-「さとって、友達かなんか？」[pcms]
+[ns]Male C[nse]
+"Sato? Is that a friend or something?"[pcms]
 
 *771|
 [fc]
 [vo_tay s="taja_nt0047"]
-[ns]ターヤ[nse]
-「……さとに、あいたい……の」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...I want to see... Sato..."[pcms]
 
 *772|
 [fc]
-[ns]男Ｂ[nse]
-「……なんか、やばくね？」[pcms]
+[ns]Man B[nse]
+"...This seems kinda bad, doesn't it?"[pcms]
 
 *773|
 [fc]
-女の子から独特の精臭が立ち上る。[r]
-ゆらゆらと身体を揺らしながら答える女の子は、[r]
-どこか夢見るような虚ろな目をしていた。[pcms]
+A distinctive smell of semen emanated from the girl. The girl who[r]
+answered while swaying her body had a dreamy and vacant look in her[r]
+eyes.[pcms]
 
 *774|
 [fc]
-しかし見ようによっては、鴨が葱を背負ってくる状態に[r]
-見えなくもない。[pcms]
+However, to some it might not seem impossible that she was like a duck[r]
+bringing leeks to them.[pcms]
 
 *775|
 [fc]
-[ns]男Ｄ[nse]
-「なあ、彼女。大丈夫か？　俺の言ってる事わかるか？」[pcms]
+[ns]Male D[nse]
+"Hey girl, are you okay? Do you understand what I'm saying?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos0"][ChrSetParts layer=5 chface="F2_ta24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *776|
 [fc]
 [vo_tay s="taja_nt0048"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja Pohjonen[nse]
+"..."[pcms]
 
 *777|
 [fc]
-こくりと女の子は頷く。[r]
-そして、顔をあげると、男の顔を見ながら微笑んだ。[pcms]
+The girl nodded slightly. Then, raising her face, she smiled while[r]
+looking at the man's face.[pcms]
 
 *778|
 [fc]
-[ns]男Ｅ[nse]
-「うっ……やっぱ可愛いな」[pcms]
+[ns]Man E[nse]
+"Ugh... she's still pretty cute."[pcms]
 
 *779|
 [fc]
-[ns]男Ｂ[nse]
-「……そうだけどさ。う～ん」[pcms]
+[ns]Man B[nse]
+"...Yeah, but, hmm."[pcms]
 
 *780|
 [fc]
-[ns]男Ｃ[nse]
-「何悩んでんだよ。贈り物だよ、贈り物。なあなあ、[r]
-　そのさとちゃんを探してるのかな～？」[pcms]
+[ns]Male C[nse]
+"What's there to worry about? It's a gift, a gift. Hey, hey, are you[r]
+looking for this Sato-chan, huh?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos0"][ChrSetParts layer=5 chface="F2_ta14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *781|
 [fc]
 [vo_tay s="taja_nt0049"]
-[ns]ターヤ[nse]
-「……うん。さとにあいたいの……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...Yes. I want to see Sato..."[pcms]
 
 *782|
 [fc]
-[ns]男Ｃ[nse]
-「俺らが連れてってやろうか？」[pcms]
+[ns]Male C[nse]
+"Should we take you to him?"[pcms]
 
 *783|
 [fc]
 [vo_tay s="taja_nt0050"]
-[ns]ターヤ[nse]
-「ほん……と？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Really?"[pcms]
 
 *784|
 [fc]
-[ns]男Ａ[nse]
-「あ、ああ。連れてってやるよ。な、そうしようぜ」[pcms]
+[ns]Man A[nse]
+"Ah, yeah. We'll take you there. Right, let's do that."[pcms]
 
 *785|
 [fc]
-迷いを見せていた男友達を、他の男は促すように[r]
-こづきまくった。[pcms]
+The other men nudged the hesitant friend, urging him on.[pcms]
 
 *786|
 [fc]
-[ns]男Ｂ[nse]
-「わかったよ……まあ俺もその気がない訳じゃないし」[pcms]
+[ns]Man B[nse]
+"Alright... Well, it's not like I don't feel like it."[pcms]
 
 *787|
 [fc]
-[ns]男Ｃ[nse]
-「決まりっ！　彼女、俺らがそのさとちゃんのとこに[r]
-　連れてってやっから、一緒に行こうぜ」[pcms]
+[ns]Male C[nse]
+"It's settled! Girl, we'll take you to this Sato-chan, so let's go[r]
+together."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos0"][ChrSetParts layer=5 chface="F2_ta24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *788|
 [fc]
 [vo_tay s="taja_nt0051"]
-[ns]ターヤ[nse]
-「ほん、と？　うれしい……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Really? I'm so happy..."[pcms]
 
 *789|
 [fc]
-そう言ってまた微笑む女の子に、もう迷いを見せる男は居なかった。[pcms]
+No man showed hesitation anymore to the smiling girl.[pcms]
 
 *790|
 [fc]
-[ns]男Ｄ[nse]
-「うんうん。俺らもすっごく嬉しいよ～」[pcms]
+[ns]Male D[nse]
+"Yeah, yeah. We're really happy too~"[pcms]
 
 *791|
 [fc]
-[ns]男Ｅ[nse]
-「さあさあ、ご案内しましょ～」[pcms]
+[ns]Male E[nse]
+"Come on, let us show you the way~"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *792|
 [fc]
-男達は少女を取り囲みながら背中を押し、自分達の車へと[r]
-連れ込んでいった。[pcms]
+The men surrounded the girl and pushed her back, leading her into[r]
+their car.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

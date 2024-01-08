@@ -17,43 +17,42 @@
 
 *1112|
 [fc]
-シャワーでさっぱりとすると、[r]
-ネットに接続したそーいちのスマホで様々な情報を集めていった。[pcms]
+After freshening up with a shower, Souichirou connected to the[r]
+internet on his smartphone and started gathering various pieces of[r]
+information.[pcms]
 
 *1113|
 [fc]
-ほとんどのニュースサイトは更新されていないが、[r]
-様々なＳＮＳが日本中の混乱振りを映し出している。[pcms]
+Most news sites hadn't been updated, but various social networks were[r]
+reflecting the chaos throughout Japan.[pcms]
 
 *1114|
 [fc]
-特に大手動画サイトには興味深い映像がいくつも[r]
-アップされていて、外国人のコメントが[r]
-たくさん付けられていた。[pcms]
+Especially on major video sites, there were many interesting videos[r]
+uploaded, with lots of comments from foreigners.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1115|
 [fc]
-中には見慣れたニュース番組のスタジオで、[r]
-痴態が繰り広げられてる物まであった。[pcms]
+Among them were even videos of lewd acts unfolding in the studios of[r]
+familiar news programs.[pcms]
 
 *1116|
 [fc]
-[ns]宗一郎[nse]
-「見ろよ！　これ……」[pcms]
+[ns]Souichirou[nse]
+"Look at this...!"[pcms]
 
 *1117|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1118|
 [fc]
-画面に映っている女子アナは、[r]
-元気な顔でピースサインを作りながら、[r]
-騎乗位で腰を振っていた。[pcms]
+The female newscaster on the screen was energetically making a peace[r]
+sign while swinging her hips in the cowgirl position.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -70,172 +69,168 @@
 
 *1119|
 [fc]
-[ns]宗一郎[nse]
-「ここまでか」[pcms]
+[ns]Souichirou[nse]
+"Has it come to this?"[pcms]
 
 *1120|
 [fc]
-[ns]誠[nse]
-「想像以上に……酷いな」[pcms]
+[ns]Makoto[nse]
+"It's worse than I imagined..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1121|
 [fc]
-東京は壊滅に近いかも知れない。[r]
-残った新聞部の部員はどうしているだろうか。[pcms]
+Tokyo might be close to annihilation. I wonder how the remaining[r]
+members of the newspaper club are doing.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_b"][ChrSetParts layer=5 chface="F1_so06b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1122|
 [fc]
-[ns]宗一郎[nse]
-「両親のことが心配だけど……メールも届かないだろうしな」[pcms]
+[ns]Souichirou[nse]
+"I'm worried about my parents, but... emails probably won't get[r]
+through either."[pcms]
 
 *1123|
 [fc]
-僕と違って、そーいちには両親がいる。[r]
-心配にならないはずがない。[pcms]
+Unlike me, Souichirou has parents. It's natural for him to be worried.[pcms]
 
 *1124|
 [fc]
-みんなも、どうにかして[r]
-生き残っていてくれればいいんだけど……。[pcms]
+I just hope that everyone somehow manages to survive...[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_b"][ChrSetParts layer=5 chface="F1_so04w"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1125|
 [fc]
-[ns]宗一郎[nse]
-「とりあえず――」[pcms]
+[ns]Souichirou[nse]
+"For now--"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1126|
 [fc]
-[ns]宗一郎[nse]
-「腹が減ったな、こんなときでも飯は食わないと」[pcms]
+[ns]Souichirou[nse]
+"I'm hungry, even at a time like this we've got to eat."[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
 
 *1127|
 [fc]
-しんみりした空気を無理矢理晴らすように、[r]
-そーいちが笑顔を作った。[pcms]
+As if forcibly clearing the somber air, Souichirou put on a smile.[pcms]
 
 *1128|
 [fc]
-落ち込んでいいても仕方がない。[r]
-信じるだけなんだと思い直したんだろう。[pcms]
+There's no point in being down. He must have decided to just have[r]
+faith.[pcms]
 
 *1129|
 [fc]
-[ns]誠[nse]
-「まともな飯があるかな」[pcms]
+[ns]Makoto[nse]
+"I wonder if there's any decent food around."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ja_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1130|
 [fc]
-[ns]宗一郎[nse]
-「ビスケットと紅茶でいい、[r]
-　ちょっと下で探してくるよ」[pcms]
+[ns]Souichirou[nse]
+"Biscuits and tea will do, I'll go look for some downstairs."[pcms]
 
 *1131|
 [fc]
-[ns]誠[nse]
-「僕は食欲がわかないよ、ゆっくりしてるから」[pcms]
+[ns]Makoto[nse]
+"I don't feel like eating, I'll just take it easy."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1132|
 [fc]
-そーいちはエレベータを使って、[r]
-一階のショッピングフロアに行ってしまった。[pcms]
+Souichirou used the elevator to go down to the shopping floor on the[r]
+first level.[pcms]
 
 *1133|
 [fc]
-困った事態になったけれど、[r]
-こうして避難できたのは不幸中の幸いだ。[pcms]
+It's a troubling situation, but being able to take refuge like this is[r]
+a stroke of luck amidst misfortune.[pcms]
 
 *1134|
 [fc]
-親しい人はみんな逃げてこられたし、[r]
-それだけでも喜ばないといけない。[pcms]
+All my close friends managed to escape here too, and that alone is[r]
+something to be grateful for.[pcms]
 
 *1135|
 [fc]
-というか、僕はみんなに持ち上げられて、[r]
-少し喜び過ぎた恐れがある。[pcms]
+In fact, I might have been overly joyful from being lifted up by[r]
+everyone.[pcms]
 
 *1136|
 [fc]
-今頃、反動で馬鹿にされていたり……。[pcms]
+Right now, I might be getting ridiculed for it as a backlash...[pcms]
 
 *1137|
 [fc]
-[ns]誠[nse]
-「いやいや」[pcms]
+[ns]Makoto[nse]
+"No, no"[pcms]
 
 *1138|
 [fc]
-もっとプラス思考に行かないと駄目だ。[r]
-こんなときなんだし、落ち込んでるのは拙い。[pcms]
+I need to think more positively. It's not good to be down at a time[r]
+like this.[pcms]
 
 *1139|
 [fc]
-あのときのことをゆっくりと思い出していく。[r]
-僕の中で、誰に褒められたのが一番嬉しかったかな……。[pcms]
+I slowly recall that time. I wonder who made me the happiest with[r]
+their praise...[pcms]
 
 *1140|
 [fc]
-越智さんは褒めるというより、[r]
-僕のことを本当に心配しているみたいだった。[pcms]
+Akari Ochi seemed more worried about me than praising me.[pcms]
 
 *1141|
 [fc]
-ああいう態度をされると、[r]
-愛されているみたいな変な勘違いをしちゃいそうになる。[pcms]
+When someone shows that kind of concern, it almost makes me mistakenly[r]
+feel loved.[pcms]
 
 *1142|
 [fc]
-南先輩は、ありのままの事実を坦々と褒めてくれていた。[pcms]
+Senior Minami was praising me straightforwardly with just the plain[r]
+facts.[pcms]
 
 *1143|
 [fc]
-頼りになるんだっていう、ちょっと見直されたみたいな[r]
-空気だったかな。[pcms]
+It felt like she had a newfound respect for me, saying that I was[r]
+reliable.[pcms]
 
 *1144|
 [fc]
-ターヤさんは純粋に驚いているみたいだった。[pcms]
+Tarja seemed purely surprised.[pcms]
 
 *1145|
 [fc]
-ゲームの中ではそれなりに頼りにされていたから、[r]
-そのイメージと重なったのかも知れない。[pcms]
+Maybe it overlapped with the image of me being somewhat reliable in[r]
+the game.[pcms]
 
 *1146|
 [fc]
-かわいい旅仲間に、あんな好意の視線を向けられたら[r]
-ちょっとドキドキしてしまう。[pcms]
+It's a little exciting to be looked at with such fondness by a cute[r]
+travel companion.[pcms]
 
 *1147|
 [fc]
-姉ちゃんは、僕のことをからかっていたけれど、[r]
-これで一人前の男として認められた気がする。[pcms]
+Onee-san was teasing me, but it feels like I've been recognized as a[r]
+full-fledged man now.[pcms]
 
 *1148|
 [fc]
-子供や弟を見るような目から、[r]
-いつのまにか逞しくなったという、[r]
-男を見るような目になっていた。[pcms]
+Her gaze shifted from one that looked at a child or younger brother to[r]
+one that saw a man who had grown strong before she knew it.[pcms]
 
 *1149|
 [fc]
-誰の気持ちが一番嬉しかったんだろう。[r]
-もちろん、みんな嬉しかったけど……。[pcms]
+I wonder whose feelings made me the happiest. Of course, I was happy[r]
+about everyone...[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -254,16 +249,16 @@
 ;	[link storage="5110.ks" target=*5110_TOP]南先輩の言葉が一番嬉しかった[endlink]
 ;	[link storage="5120.ks" target=*5120_TOP]姉ちゃんの気持ちが一番嬉しかった[endlink]
 ;	[link storage="5130.ks" target=*5130_TOP]ターヤさんの視線が一番嬉しかった[endlink]
-;	[s]
+;[pcms]
 
 *SEL34|越智さん／南先輩／姉ちゃん／ターヤさん
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext01 = '越智さんの態度が一番嬉しかった'"]
-[eval exp="f.seltext03 = '南先輩の言葉が一番嬉しかった'"]
-[eval exp="f.seltext05 = '姉ちゃんの気持ちが一番嬉しかった'"]
-[eval exp="f.seltext07 = 'ターヤさんの視線が一番嬉しかった'"]
+[eval exp="f.seltext01 = 'Ochi-san\'s attitude was the most pleasing'"]
+[eval exp="f.seltext03 = 'The words of senior Minami were the most pleasing'"]
+[eval exp="f.seltext05 = 'My sister\'s feelings made me the happiest'"]
+[eval exp="f.seltext07 = 'Tarja\'s gaze was the most pleasing'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

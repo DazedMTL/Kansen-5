@@ -42,71 +42,71 @@
 
 *3134|
 [fc]
-[ns]稼津央[nse]
-「残念だよ。折り合いが付かなくて」[pcms]
+[ns]Kazuo[nse]
+"That's too bad. We couldn't come to an agreement."[pcms]
 
 *3135|
 [fc]
-稼津央と黒服の男達は、デスクを挟んで対峙していた。[r]
-稼津央の足元には、すでに血だまりが出来ていた。[pcms]
+Kazuo and the men in black suits were facing each other across the[r]
+desk. At Kazuo's feet, a pool of blood had already formed.[pcms]
 
 *3136|
 [fc]
-[ns]黒服Ｂ[nse]
-「今の提示の倍出すってんなら、考えなくもないぜ」[pcms]
+[ns]Black Suit B[nse]
+"If you're willing to double the offer, we might consider it."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3137|
 [fc]
-[ns]稼津央[nse]
-「それは、ずいぶんと無理な話だね」[pcms]
+[ns]Kazuo[nse]
+"That's quite an unreasonable demand."[pcms]
 
 *3138|
 [fc]
-稼津央はにっこりと笑う。[r]
-しかし次に口を開いた時にその笑顔は消え、相手をさげすむ[r]
-目つきにすり替わっていた。[pcms]
+Kazuo smiled sweetly. However, when he spoke next, the smile vanished,[r]
+replaced by a contemptuous glare.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3139|
 [fc]
-[ns]稼津央[nse]
-「オズが死んだ今、君たちは頭を失った。[r]
-　所詮君たちは、オズが居なければ雑魚の集まりでしかない。[r]
-　そんなヤツラにキミが言うような金は出せないよ」[pcms]
+[ns]Kazuo[nse]
+"Now that Oz is dead, you've lost your leader. Without Oz, you're[r]
+nothing but a bunch of small fry. I can't pay the kind of money you're[r]
+talking about to the likes of you."[pcms]
 
 *3140|
 [fc]
-[ns]黒服Ｃ[nse]
-「この野郎っ！　黙ってれば調子にのりやがって」[pcms]
+[ns]Black Suit C[nse]
+"You bastard! Getting cocky just because you're quiet."[pcms]
 
 *3141|
 [fc]
-[ns]黒服Ｂ[nse]
-「落ち付けって。どうせコイツはもうすぐ死ぬんだ。[r]
-　最期の虚勢ぐらい、笑って受け止めてやろうぜ」[pcms]
+[ns]Black Suit B[nse]
+"Calm down. This guy's gonna die soon anyway. Let's just laugh off his[r]
+last bit of bravado."[pcms]
 
 *3142|
 [fc]
-[ns]黒服Ｃ[nse]
-「それもそうか……ははは」[pcms]
+[ns]Black Suit C[nse]
+"That's true...hahaha."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3143|
 [fc]
-[ns]稼津央[nse]
-「…………」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 *3144|
 [fc]
-稼津央の手がサッと動き手元の端末のキーを叩いた。[pcms]
+Kazuo's hand moved quickly, tapping keys on the terminal at his[r]
+fingertips.[pcms]
 
 *3145|
 [fc]
-その動きに男達は反応し、一斉に銃を撃ちはなった。[pcms]
+The men reacted to his movements, firing their guns all at once.[pcms]
 
 [chara_int][trans_c tb time=500]
 
@@ -122,71 +122,71 @@
 
 *3146|
 [fc]
-稼津央の身体が銃弾を受けて踊った。[r]
-銃撃の音がやんだとき、稼津央はデスクに突っ伏し、絶命していた。[pcms]
+Kazuo's body jerked as it took the bullets. When the gunfire stopped,[r]
+he was slumped over the desk, dead.[pcms]
 
 *3147|
 [fc]
-[ns]黒服Ｂ[nse]
-「くそっ、あの野郎、何をしやがった？」[pcms]
+[ns]Black Suit B[nse]
+"Damn it, what did that bastard do?"[pcms]
 
 *3148|
 [fc]
-男がデスクの裏に回り、端末を覗き込む。[r]
-しかし、稼津央が何をしたのか、誰にもわかなかった。[pcms]
+The man went around to the back of the desk to look at the terminal.[r]
+However, no one could tell what Kazuo had done.[pcms]
 
 *3149|
 [fc]
-[ns]黒服Ｃ[nse]
-「何かしたのは間違いないんだ。何か事が起こる前に[r]
-　とっととずらかろうぜ」[pcms]
+[ns]Black Suit C[nse]
+"There's no doubt he did something. Let's get out of here before[r]
+anything happens."[pcms]
 
 *3150|
 [fc]
-[ns]黒服Ｄ[nse]
-「ああ、それが無難だ。命あっての物種だ」[pcms]
+[ns]Black Suit D[nse]
+"Yeah, that's the safest bet. You can't do anything if you're dead."[pcms]
 
 *3151|
 [fc]
-[ns]黒服Ｂ[nse]
-「おい、待てよ。その前にオズが欲しがってた物、[r]
-　手に入れないか？　このままだとへタすりゃ報酬ゼロだぜ」[pcms]
+[ns]Black Suit B[nse]
+"Hey, wait. Before that, shouldn't we get what Oz wanted? If we screw[r]
+this up, we get no reward."[pcms]
 
 *3152|
 [fc]
-[ns]黒服Ｄ[nse]
-「しかし……」[pcms]
+[ns]Black Suit D[nse]
+"But..."[pcms]
 
 *3153|
 [fc]
-ほどなく、扉の向こう、廊下が騒がしくなってきた。[pcms]
+Soon after, noise began to come from the corridor beyond the door.[pcms]
 
 *3154|
 [fc]
-[ns]黒服Ｅ[nse]
-「お、おい。廊下が騒がしいぞ」[pcms]
+[ns]Black Suit E[nse]
+"Hey, it's getting noisy in the hallway."[pcms]
 
 *3155|
 [fc]
-[ns]黒服Ｄ[nse]
-「何？　まさか……」[pcms]
+[ns]Black Suit D[nse]
+"What? Could it be..."[pcms]
 
 *3156|
 [fc]
-慌てて黒服の男が扉を開ける。[r]
-その先には、金髪の少女を先頭に、無数の感染者が[r]
-うごめき、わめきながら、男達の方へと向かってきていた。[pcms]
+In a panic, one of the men in black suits opened the door. Beyond it,[r]
+led by a blonde girl, countless infected were squirming and screaming[r]
+as they headed towards the men.[pcms]
 
 *3157|
 [fc]
-[ns]黒服Ｄ[nse]
-「屋上だ……あの野郎、屋上のＶＩＰルーム用出入り口の[r]
-　ロックを解除しやがったんだっ！」[pcms]
+[ns]Black Suit D[nse]
+"The rooftop... That bastard unlocked the VIP room entrance on the[r]
+rooftop!"[pcms]
 
 *3158|
 [fc]
-[ns]黒服Ｂ[nse]
-「なんっ？　じゃ、じゃあ……」[pcms]
+[ns]Black Suit B[nse]
+"What?! Then..."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -206,54 +206,54 @@
 *3159|
 [fc]
 [vo_tay s="taja_nt0101"]
-[ns]ターヤ[nse]
-「あたらしい……くえすと……じゅちゅう」[pcms]
+[ns]Tarja Pohjonen[nse]
+"A new... quest... received."[pcms]
 
 *3160|
 [fc]
-慌てて閉め忘れた扉に、少女が顔を出す。[r]
-その後ろには、多数の感染者が居並んでいた。[pcms]
+The girl peeked through the door that had been left ajar, with[r]
+numerous infected lined up behind her.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos3"][ChrSetParts layer=5 chface="F1_ta24"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3161|
 [fc]
 [vo_tay s="taja_nt0102"]
-[ns]ターヤ[nse]
-「くえすと…………かいし……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Quest... start..."[pcms]
 
 *3162|
 [fc]
-少女がにんまりと赤い眼で笑うと同時に感染者が[r]
-部屋になだれ込んできた。[pcms]
+The girl grinned with her red eyes as she smiled, and at the same[r]
+time, the infected flooded into the room.[pcms]
 
 [evcg storage="mob_N005d"][trans_c lr time=300]
 
 *3163|
 [fc]
-[ns]黒服Ｂ[nse]
-「うわっ、うわあっ。くそっ！　倒せっ！」[pcms]
+[ns]Black Suit B[nse]
+"Ugh, ughhh! Damn it! Take them down!"[pcms]
 
 [evcg storage="mob_N005a"][trans_c bt time=250]
 
 *3164|
 [fc]
-[ns]黒服Ｃ[nse]
-「む、無理だ。余りに数が多すぎるっ！　うわっうわああっ！！」[pcms]
+[ns]Black Suit C[nse]
+"It's impossible. There are too many of them! Ughhhhh!!"[pcms]
 
 [evcg storage="mob_N005b"][trans_c rl time=250]
 
 *3165|
 [fc]
-[ns]黒服Ｄ[nse]
-「やめろっ！　やめてくれっ！！　ぎゃああああっ！」[pcms]
+[ns]Black Suit D[nse]
+"Stop! Please stop!! Gyaaaahhh!!"[pcms]
 
 [evcg storage="mob_N005d"][trans_c lr time=300]
 
 *3166|
 [fc]
-あっという間に部屋は感染者で埋め尽くされ、黒服達の姿は[r]
-見えなくなった。[pcms]
+In an instant, the room was filled with infected, and the men in black[r]
+suits were no longer visible.[pcms]
 
 ;//★room08b VIPルーム・夕方
 [bg storage="room08a"][trans_c blind_lr time=1000]
@@ -263,13 +263,13 @@
 *3167|
 [fc]
 [vo_tay s="taja_nt0103"]
-[ns]ターヤ[nse]
-「………………」[pcms]
+[ns]Tarja Pohjonen[nse]
+"..."[pcms]
 
 *3168|
 [fc]
-金髪の少女は、デスクに笑顔のまま突っ伏し、絶命している[r]
-男の顔をただじっと見つめていた。[pcms]
+The blonde girl continued to smile as she stared intently at the face[r]
+of the man who lay dead over the desk.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

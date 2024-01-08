@@ -1,5 +1,5 @@
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-;//シーン名	：『狩りの成果～飛翔編』
+;//シーン名	：『狩りの成果飛翔編』
 ;//file名	：5000
 ;//登場人物	：主人公、宗一郎、ターヤ
 ;//服装		：制服
@@ -10,7 +10,7 @@
 ;//備考		：主人公一人称視点
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *5000_TOP
-;{SceneSet 狩りの成果～飛翔編}
+;{SceneSet 狩りの成果飛翔編}
 
 ;//◆00360でトゥルーフラグガ立っていた場合、このファイルに飛んできます
 
@@ -46,47 +46,47 @@
 
 *1|
 [fc]
-[ns]ドスギドライス[nse]
-「ギャヒィィィィィィィィッ！[pcms]
+[ns]Dosugidoryce[nse]
+"GYAHIYYYYYYYY!"[pcms]
 
 *2|
 [fc]
 [ns]Fatty.G[nse]
-「ぐはっ！」[pcms]
+"Guha!"[pcms]
 
 *3|
 [fc]
 [ns]Ma-Kun.S[nse]
-「こいつ麻痺無効？　耐性高いだけ？」[pcms]
+"Is this guy immune to paralysis? Or just highly resistant?"[pcms]
 
 *4|
 [fc]
-頭が３つもある新種のモンスターを相手に、[r]
-僕たちは苦戦を強いられていた。[pcms]
+We were struggling against a new species of monster with three heads.[pcms]
 
 *5|
 [fc]
-ドスギドライスとかいうヒドラ型のモンスターは、[r]
-頭３つと尻尾に手足という、かなり手数の多い凶暴なタイプだ。[pcms]
+The Hydra-type monster called Dosugidoryce was a ferocious type with[r]
+many limbs, including three heads and a tail.[pcms]
 
 ;//
 ;//
 
 *6|
 [fc]
-初めての相手だからモーションが全く読めない上に、[r]
-１つの頭が噛みついてくる間に、もう１つがブレスで範囲攻撃、[r]
-残った１つが咆哮とか鬼仕様過ぎるモンスターだった。[pcms]
+Since it was our first time facing it, we couldn't read its movements[r]
+at all. While one head was biting, another would attack with a breath[r]
+attack, and the remaining one would roaran incredibly tough monster[r]
+to deal with.[pcms]
 
 *7|
 [fc]
-しかも、いつものアタッカーであるSatto☆さんがいないから、[r]
-どうしても防戦にまわってしまう。[pcms]
+Moreover, since our usual attacker, Satto☆, wasn't here, we were[r]
+inevitably forced on the defensive.[pcms]
 
 *8|
 [fc]
-今回のイベントのみの攻撃パターンかも知れないけれど、[r]
-このまま実装されたらキツ過ぎる。[pcms]
+It might just be an attack pattern for this event, but if it gets[r]
+implemented like this, it'll be too tough.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="monb_taja" opacity=0][ChrSetXY layer=5 x=300 y=0][trans_c cross time=0]
@@ -96,7 +96,7 @@
 [fc]
 [vo_tay s="taja_chat0025"]
 [ns]Taryan[nse]
-「尻尾切れそう！」[pcms]
+"Looks like we can cut off its tail!"[pcms]
 
 ;mm 0370合わせ
 [ChrSetEx layer=3 chbase="monb_fatty" opacity=0][ChrSetXY layer=3 x=-130 y=130][trans_c cross time=0]
@@ -105,20 +105,20 @@
 *10|
 [fc]
 [ns]Fatty.G[nse]
-「尻尾の材料は是非欲しいですぞ！」[pcms]
+"I definitely want the materials from its tail!"[pcms]
 
 *11|
 [fc]
 [ns]Ma-Kun.S[nse]
-「また、余裕だな……」[pcms]
+"You're still so composed..."[pcms]
 
 ;mm 0370合わせ
 [chara_int][trans_c cross time=150]
 
 *12|
 [fc]
-倒せることを前提みたいにしている二人に、[r]
-炸裂弾をお見舞いしてやる。[pcms]
+I lobbed an explosive shot at the two who were acting as if defeating[r]
+it was a given.[pcms]
 
 ;mm 0370合わせ
 [ChrSetEx layer=1 chbase="monb_hydra_gr"][ChrSetXY layer=1 x=0 y=0]
@@ -127,8 +127,8 @@
 
 *13|
 [fc]
-敵にぶつかった後、燃え上がりながら四方に飛び散る弾で、[r]
-味方を吹っ飛ばす効果もあった。[pcms]
+After hitting the enemy, the bullet scattered in all directions while[r]
+burning, also having the effect of blowing away allies.[pcms]
 
 ;//◆ＳＥ　拡散弾の爆発音
 ;//seB059.ogg
@@ -141,15 +141,15 @@
 
 *14|
 [fc]
-[ns]ドスギドライス[nse]
-「ギャグワアアアアアッ！」[pcms]
+[ns]Dosugidoryce[nse]
+"GYAGWAAAAAAAA!"[pcms]
 
 [eval exp="f.chara_x = -430,f.chara_y = 130"][quake_chara layer=3 lo xy m]
 
 *15|
 [fc]
 [ns]Fatty.G[nse]
-「ぬおっ！」[pcms]
+"Nuo!"[pcms]
 
 ;mm 逆移植追加
 [eval exp="f.chara_x = 360,f.chara_y = 0"][quake_chara layer=4 xy lo m]
@@ -161,97 +161,95 @@
 [fc]
 [vo_tay s="taja_chat0026"]
 [ns]Taryan[nse]
-「＃」[pcms]
+"#"[pcms]
 
 *17|
 [fc]
-敵に大ダメージを与えて、Taryanさんを吹っ飛ばせたけど、[r]
-Fatty.Gには盾で防がれてしまった。[pcms]
+I managed to blow Taryan away with a big hit to the enemy, but Fatty.G[r]
+blocked it with his shield.[pcms]
 
 *18|
 [fc]
-二人とも吹っ飛ばしてやろうと思ったのに。[pcms]
+I had intended to blow both of them away.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *19|
 [fc]
-今回は初めから作戦を練っていて、TaryanさんとFatty.Gが、[r]
-敵の攻撃を引きつけているうちに、僕がダメージを与えるという[r]
-変速フォーメーションになっていた。[pcms]
+This time we had a strategy from the beginning. While Taryan and[r]
+Fatty.G drew the enemy's attacks, I was to deal damage in a variable[r]
+formation.[pcms]
 
 *20|
 [fc]
-そのために、いつものライトクロスボウから、[r]
-ヘビィクロスボウに持ち替えて火力アップを計っている。[pcms]
+For that purpose, I switched from my usual light crossbow to a heavy[r]
+crossbow to increase firepower.[pcms]
 
 *21|
 [fc]
-新種のモンスターといえども、十分くらい戦っていると、[r]
-相手の急所がなんとなく見えてきていた。[pcms]
+Even though it was a new species of monster, after fighting for a[r]
+while, I could vaguely see its weak points.[pcms]
 
 *22|
 [fc]
-頭が弱点は良くあるパターンなんだけど、[r]
-どうもこいつは背中や尻尾が弱点らしい。[pcms]
+The head being a weak point is a common pattern, but it seemed that[r]
+this one's back and tail were its weak spots.[pcms]
 
 *23|
 [fc]
-僕は二人をおとりにしながら、[r]
-高台に昇って背中に何発も弾をお見舞いしてやる。[pcms]
+Using the two as decoys, I climbed to a high ground and showered its[r]
+back with several shots.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_hydra_gr"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *24|
 [fc]
-[ns]ドスギドライス[nse]
-「ギュワエエエエエエッ！」[pcms]
+[ns]Dosugidoryce[nse]
+"GYUWAAAAAAAAAAAAAAH!"[pcms]
 
 *25|
 [fc]
-初体験のモンバスイベントは、ビーチからスタートして、[r]
-島内に設置された四箇所のポイントを巡る仕様になっていた。[pcms]
+The first-time Monster Hunt event started at the beach and involved[r]
+visiting four points set up around the island.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *26|
 [fc]
-神社とホテルのエントランス、大神島商店街、[r]
-キャンプ場公園が、その四箇所だ。[pcms]
+The shrine and hotel entrance, Oogamijima shopping street, and the[r]
+campground park were those four locations.[pcms]
 
 *27|
 [fc]
-各地に設置されたポートから、クエストを[r]
-ダウンロードしてまわると、最後にこの新種と戦える[r]
-仕組みになっている。[pcms]
+You download quests from ports set up in each area, and after[r]
+completing them all, you get to fight this new species.[pcms]
 
 *28|
 [fc]
-この新種の落としたらしい糞からウロコを探してくるなんて[r]
-クエストから始まって、徐々に真相に迫っていく感じが、[r]
-面白かった。[pcms]
+The quest started with collecting scales from what seemed to be the[r]
+new species' droppings, gradually leading to the truth, which was[r]
+quite interesting.[pcms]
 
 *29|
 [fc]
-クエストをクリアすると紋章が手に入り、それを４つ揃えると、[r]
-ビーチのポートでこいつに挑戦できるクエストが、[r]
-ダウンロードできる。[pcms]
+Clearing the quests earns you crests, and collecting four allows you[r]
+to download the quest to challenge this creature at the beach port.[pcms]
 
 *30|
 [fc]
-この新種と戦えること自体が、既に景品みたいなものだけど、[r]
-クリアして会場スタッフに届け出た順番に、アイテムチケットや[r]
-限定グッズがもらえる仕組みになっていた。[pcms]
+Just being able to fight this new species was already like a prize,[r]
+but by clearing it and reporting to the event staff in order, you[r]
+could get item tickets and limited-edition goods.[pcms]
 
 *31|
 [fc]
-僕とそーいちに加えて、ターヤさんも自分の自転車に[r]
-乗っていたから、バスや徒歩の参加者よりずっと有利なはずだ。[pcms]
+Souichi and I, along with Taryan riding her own bicycle, had a[r]
+significant advantage over participants who took buses or walked.[pcms]
 
 *32|
 [fc]
-当然、順位の高い景品を狙いたいところなんだけど、[r]
-肝心の新種のモンスターが、かなり手強いという現状だった。[pcms]
+Of course, we aimed for high-ranking prizes, but the essential new[r]
+species of monster proved to be quite formidable.[pcms]
 
 ;//seB027.ogg
 [se buf=0 storage="seB027"]
@@ -265,8 +263,8 @@ Fatty.Gには盾で防がれてしまった。[pcms]
 
 *33|
 [fc]
-[ns]ヒドラ型ののモンスター[nse]
-「ギュワアアアアアアアアアッ！」[pcms]
+[ns]Hydra-type monster[nse]
+"GYUWAAAAAAAAAAAAAAAAH!"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_taja"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -274,33 +272,32 @@ Fatty.Gには盾で防がれてしまった。[pcms]
 [fc]
 [vo_tay s="taja_chat0027"]
 [ns]Taryan[nse]
-「尻尾切れた！」[pcms]
+"The tail's cut off!"[pcms]
 
 *35|
 [fc]
 [ns]Fatty.G[nse]
-「さすがですな！」[pcms]
+"As expected!"[pcms]
 
 *36|
 [fc]
 [ns]Ma-Kun.S[nse]
-「グッジョブ！」[pcms]
+"Good job!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *37|
 [fc]
-既に戦いが始まってから１５分ほど。[pcms]
+About 15 minutes had passed since the battle began.[pcms]
 
 *38|
 [fc]
-３つの頭のうち、２つが沈黙して、[r]
-残り１つになっている。[pcms]
+Two of the three heads had been silenced, leaving only one remaining.[pcms]
 
 *39|
 [fc]
-僕は高台から弾を連発して背中に撃ち込み、[r]
-Fatty.Gが正面から敵の攻撃を支えていた。[pcms]
+I kept firing bullets into its back from the high ground while Fatty.G[r]
+braced against the enemy's attacks from the front.[pcms]
 
 ;mm ヒドライベント緑加算50
 [evcg storage="monb01j_gr"][trans_c cross time=300]
@@ -309,13 +306,12 @@ Fatty.Gが正面から敵の攻撃を支えていた。[pcms]
 
 *40|
 [fc]
-[ns]ドスギドライス[nse]
-「グワアアッ！」[pcms]
+[ns]Dosugidoryce[nse]
+"GWAAAAH!"[pcms]
 
 *41|
 [fc]
-モンスターが火球を吐いてくる。[r]
-チャンス到来だ。[pcms]
+The monster spews a fireball. Now's our chance.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -339,8 +335,8 @@ Fatty.Gが正面から敵の攻撃を支えていた。[pcms]
 
 *42|
 [fc]
-この首を下げてきたときが一番の攻撃ポイントで、[r]
-Fatty.Gは盾をかざしてTaryanさんを守る。[pcms]
+When it lowers its head, that's the prime time to attack, and Fatty.G[r]
+raises his shield to protect Taryan-san.[pcms]
 
 ;mm ターヤ消去
 [move layer=4 path="(-500,0,0,)" time=250][wm]
@@ -349,15 +345,15 @@ Fatty.Gは盾をかざしてTaryanさんを守る。[pcms]
 
 *43|
 [fc]
-そして、火球攻撃が終わったと見るやいなや、[r]
-Taryanさんが躍り出て、残りの頭を滅多切りにした。[pcms]
+Then, as soon as the fireball attack ends, Taryan-san leaps forward[r]
+and slashes wildly at the remaining head.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *44|
 [fc]
 [ns]Fatty.G[nse]
-「虎激砲ですぞっ！」[pcms]
+"Tiger Fierce Cannon!"[pcms]
 
 ;//seB051.ogg
 [se buf=0 storage="seB051"]
@@ -376,14 +372,13 @@ Taryanさんが躍り出て、残りの頭を滅多切りにした。[pcms]
 
 *45|
 [fc]
-Fatty.Gが最大火力の技を解き放ち、[r]
-僕は連射する手を休めない。[pcms]
+Fatty.G unleashes his maximum firepower technique, and I don't stop[r]
+firing rapidly.[pcms]
 
 *46|
 [fc]
-そして、怯んでいるモンスターに、[r]
-Taryanさんが飛び込み斬りからの、[r]
-華麗なコンボを決めたときだった。[pcms]
+And it was when Taryan-san dived in with a slash and followed up with[r]
+a splendid combo that the monster staggered.[pcms]
 
 ;//★monbBG_02a モンバス
 [evcg storage="monbBG_02a"][trans_c cross time=300]
@@ -395,13 +390,12 @@ Taryanさんが飛び込み斬りからの、[r]
 
 *47|
 [fc]
-突然画面のアングルが切り替わり、モンスターが地面に[r]
-倒れ伏していく。[pcms]
+Suddenly, the camera angle switches, and the monster collapses to the[r]
+ground.[pcms]
 
 *48|
 [fc]
-終わった！[r]
-尻尾忘れないようにしないと！[pcms]
+We did it! Don't forget to collect the tail![pcms]
 
 [ChrSetEx layer=3 chbase="monb_fatty" opacity=0][ChrSetXY layer=3 x=-130 y=130][trans_c cross time=0]
 [move layer=3 path="(-430,130,255)" time=250][wm]
@@ -409,7 +403,7 @@ Taryanさんが飛び込み斬りからの、[r]
 *49|
 [fc]
 [ns]Fatty.G[nse]
-「おっしゃあああああっ！」[pcms]
+"Osshaaaaaaa!"[pcms]
 
 [ChrSetEx layer=4 chbase="monb_taja" opacity=0][ChrSetXY layer=4 x=360 y=0][trans_c cross time=0]
 [move layer=4 path="(0,0,255)" time=250][wm]
@@ -418,17 +412,16 @@ Taryanさんが飛び込み斬りからの、[r]
 [fc]
 [vo_tay s="taja_chat0028"]
 [ns]Taryan[nse]
-「強かった……」[pcms]
+"It was strong..."[pcms]
 
 *51|
 [fc]
 [ns]Ma-Kun.S[nse]
-「倒したぞおおおおっ！」[pcms]
+"We took it dowwwwwn!"[pcms]
 
 *52|
 [fc]
-僕たちは喜びながらリザルト画面を終えて、[r]
-クエストを完了した。[pcms]
+We finish the results screen with joy and complete the quest.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -459,52 +452,52 @@ Taryanさんが飛び込み斬りからの、[r]
 
 *53|
 [fc]
-[ns]大会スタッフ[nse]
-「おめでとうございます、キリ番賞の非売品限定ＣＤです。[r]
-　お疲れ様でした」[pcms]
+[ns]Tournament Staff[nse]
+"Congratulations, here's the limited edition CD for the milestone[r]
+prize. Well done."[pcms]
 
 *54|
 [fc]
-[ns]誠[nse]
-「キリ番賞……？」[pcms]
+[ns]Makoto[nse]
+"Milestone prize...?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so04w"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *55|
 [fc]
-[ns]宗一郎[nse]
-「１００位とか２００位とか、[r]
-　キリのいいところに用意してあるんだよ」[pcms]
+[ns]Souichirou[nse]
+"It's for every hundredth place or so, like 100th or 200th, they[r]
+prepare something special."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *56|
 [fc]
 [vo_tay s="taja0125"]
-[ns]ターヤ[nse]
-「……ある意味レア？」[pcms]
+[ns]Tarja[nse]
+"...In a way, it's rare?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *57|
 [fc]
-汗だくになってビーチの会場に向かい、何番目くらいかと[r]
-ドキドキしながら申請したんだけど……。[pcms]
+Sweaty, we head towards the beach venue, nervously applying to see[r]
+what place we might have gotten...[pcms]
 
 *58|
 [fc]
-よくよく考えると、自動車でやってくる参加者に[r]
-機動性で勝てるはずもなく、上位入賞からはほど遠い内容だった。[pcms]
+But when I think about it, there's no way we could outmaneuver[r]
+participants who came by car in terms of mobility, and we were far[r]
+from the top prizes.[pcms]
 
 *59|
 [fc]
-でもキリ番を踏めるなんて、[r]
-すごいことかも知れない。[pcms]
+But stepping on a milestone might be an amazing thing.[pcms]
 
 *60|
 [fc]
-１００チーム中１チームしかもらえないんだから、[r]
-それなりにレアなアイテムだろう。[pcms]
+Out of a hundred teams, only one can receive it, so it must be a[r]
+fairly rare item.[pcms]
 
 ;//一部カット。
 ;//
@@ -537,207 +530,206 @@ Taryanさんが飛び込み斬りからの、[r]
 
 *61|
 [fc]
-参加登録したチームが全員戻ってきたところで、[r]
-[ruby text="とき"]鬨の声を上げ、拍手で締めてイベントは終了していた。[pcms]
+Once all the registered teams had returned, we raised a war cry and[r]
+ended the event with applause.[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta01"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_si_a"][ChrSetParts layer=4 chface="F1_so02a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *62|
 [fc]
-[ns]宗一郎[nse]
-「終わったな」[pcms]
+[ns]Souichirou[nse]
+"It's over."[pcms]
 
 *63|
 [fc]
 [vo_tay s="taja0128"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_cos0"][ChrSetParts layer=3 chface="F1_ta10"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *64|
 [fc]
-疲労でぼんやりとしたまま砂浜に立ち尽くす僕らは、[r]
-ＣＤを手にしたまま、遠くから響いてくる[r]
-ロックフェスの音を聞いていた。[pcms]
+Standing dazedly on the sandy beach from exhaustion, we listened to[r]
+the sound of the rock festival echoing from afar, CD in hand.[pcms]
 
 *65|
 [fc]
-何となく空しい。[pcms]
+It feels somewhat empty.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *66|
 [fc]
-心の中でちょっとだけ、一位とかあるかも？[r]
-とか考えてた自分が恥ずかしくて、死にそうになる。[pcms]
+A little part of me is embarrassed for even thinking there might be a[r]
+first place or something, and I feel like dying of shame.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *67|
 [fc]
 [vo_mob s="kojima0012"]
-[ns]小嶋[nse]
-「ちょ、ちょっと！」[pcms]
+[ns]Kojima[nse]
+"Hey, wait a minute!"[pcms]
 
 *68|
 [fc]
-[ns]宗一郎[nse]
-「ん？」[pcms]
+[ns]Souichirou[nse]
+"Hm?"[pcms]
 
 *69|
 [fc]
-聞いたことのある声に振り返ると、[r]
-そこにはチアー部の顧問である小嶋先生がいた。[pcms]
+Turning around at the familiar voice, there was Kojima-sensei, the[r]
+cheerleading advisor.[pcms]
 
 *70|
 [fc]
-サッカー部のコーチと一緒に歩いていて、[r]
-同じバンドのＴシャツを着ている。[pcms]
+She was walking with the soccer coach, both wearing T-shirts of the[r]
+same band.[pcms]
 
 *71|
 [fc]
-首からフェス参加者に配られるボトルフォルダーを[r]
-下げているみたいだった。[pcms]
+They seemed to be wearing bottle holders distributed to festival[r]
+participants around their necks.[pcms]
 
 *72|
 [fc]
-ペアルックなのも痛いけれど、合宿や休日の設定など、[r]
-なにか作為的なものを感じてしまうのは、僕だけだろうか。[pcms]
+The matching outfits are cringeworthy, but is it just me who feels[r]
+something contrived about their setup for training camps and holidays?[pcms]
 
 *73|
 [fc]
-合宿を口実に二人で……、[r]
-なんて野暮な突っ込みはやめておこう。[pcms]
+Let's not make any tactless remarks about them using the training camp[r]
+as an excuse to be together...[pcms]
 
 *74|
 [fc]
-[ns]男性客Ａ[nse]
-「こほっ、こほっ……」[pcms]
+[ns]Male Customer A[nse]
+"Cough, cough..."[pcms]
 
 *75|
 [fc]
 [vo_mob s="kyakuA0001"]
-[ns]女性客Ａ[nse]
-「す、すみません、調子が悪いみたいで……」[pcms]
+[ns]Female Customer A[nse]
+"I'm sorry, I seem to be feeling unwell..."[pcms]
 
 *76|
 [fc]
-小嶋先生が咳き込んでいる男性客とぶつかったらしい。[pcms]
+It seems Kojima-sensei bumped into a male customer who was coughing.[pcms]
 
 *77|
 [fc]
-謝っているから大事にはならないだろう、[r]
-男の人も辛そうにしながら謝っていた。[pcms]
+She apologizes, so it probably won't be a big deal; the man also looks[r]
+pained as he apologizes.[pcms]
 
 *78|
 [fc]
-咳き込んでいた男性は、女性に付き添われて[r]
-駐車場の方に向かっていく。[pcms]
+The coughing man is escorted by a woman towards the parking lot.[pcms]
 
 *79|
 [fc]
-先生とコーチは、これからフェス会場に[r]
-行くみたいだった。[pcms]
+The teacher and coach seem to be heading to the festival venue next.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *80|
 [fc]
 [vo_tay s="taja0129"]
-[ns]ターヤ[nse]
-「最後は残念だったけど……楽しかったね」[pcms]
+[ns]Tarja Pohjonen[nse]
+"It was disappointing at the end... but it was fun, wasn't it?"[pcms]
 
 *81|
 [fc]
-ターヤさんの声にハッとなった僕は、[r]
-慌てて振り返って言葉を紡ぐ。[pcms]
+Startled by Tarja-san's voice, I hastily turn around and weave my[r]
+words together.[pcms]
 
 *82|
 [fc]
-[ns]誠[nse]
-「うん、きっと、村上さんの分も頑張れたよ」[pcms]
+[ns]Makoto[nse]
+"Yeah, I'm sure we did our best for Murakami-san's sake too."[pcms]
 
 *83|
 [fc]
-[ns]宗一郎[nse]
-「コスプレ部門があれば、きっと一位でしたぞ！」[pcms]
+[ns]Souichirou[nse]
+"If there was a cosplay category, we would have definitely taken first[r]
+place!"[pcms]
 
 *84|
 [fc]
-本当に終わっちゃったんだな。[pcms]
+It's really over, isn't it?[pcms]
 
 *85|
 [fc]
-一大イベントだったのに、[r]
-終わってしまうとなんだか呆気ない。[pcms]
+Even though it was such a major event, it feels somewhat anticlimactic[r]
+now that it's ended.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *86|
 [fc]
 [vo_tay s="taja0130"]
-[ns]ターヤ[nse]
-「コスプレも一位は無理、もっとすごい人がいた」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Even in cosplay, first place would have been impossible; there were[r]
+more amazing people."[pcms]
 
 *87|
 [fc]
-[ns]誠[nse]
-「そんなことないよ、かなりいいと思う」[pcms]
+[ns]Makoto[nse]
+"That's not true, I think we did quite well."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_a"][ChrSetParts layer=4 chface="F1_so02a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *88|
 [fc]
-[ns]宗一郎[nse]
-「どうですかな、思い出にみんなで写真を一枚」[pcms]
+[ns]Souichirou[nse]
+"How about it, shall we take a photo together for the memories?"[pcms]
 
 *89|
 [fc]
-また、空々しく撮影許可をもらおうとしてるな。[r]
-本当に逞しい奴だよ。[pcms]
+There he goes again, bravely seeking permission to take photos. He[r]
+really is a tough guy.[pcms]
 
 *90|
 [fc]
-でも、ターヤさんは少し考えながらモジモジとすると、[r]
-コクリと頷いてみせる。[pcms]
+But Tarja-san, after hesitating and fidgeting for a bit, gives a small[r]
+nod in agreement.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *91|
 [fc]
 [vo_tay s="taja0131"]
-[ns]ターヤ[nse]
-「せっかくだし……写真、いいよ」[pcms]
+[ns]Tarja[nse]
+"Since we're here... sure, let's take a photo."[pcms]
 
 *92|
 [fc]
-[ns]宗一郎[nse]
-「ターヤさん、単独もＯＫ？」[pcms]
+[ns]Souichirou[nse]
+"Tarja-san, is it okay to take some solo shots too?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *93|
 [fc]
 [vo_tay s="taja0132"]
-[ns]ターヤ[nse]
-「……うん」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...Yes."[pcms]
 
 *94|
 [fc]
-[ns]誠[nse]
-「やったあああっ！」[pcms]
+[ns]Makoto[nse]
+"Yessss!"[pcms]
 
 *95|
 [fc]
-僕とそーいちは、これでもかとポーズを取ってもらいながら、[r]
-何枚も写真を撮っていく。[pcms]
+Makoto and Souichirou enthusiastically pose for several photos with[r]
+her.[pcms]
 
 *96|
 [fc]
-ターヤさんも、以外とノリノリだった。[pcms]
+Tarja-san was surprisingly into it as well.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -755,25 +747,26 @@ Taryanさんが飛び込み斬りからの、[r]
 
 *97|
 [fc]
-[ns]誠[nse]
-「じゃあ、また明日。センターで村上さんと一緒に会おう？」[pcms]
+[ns]Makoto[nse]
+"Then, see you again tomorrow. Shall we meet up with Murakami-san at[r]
+the center?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *98|
 [fc]
 [vo_tay s="taja0133"]
-[ns]ターヤ[nse]
-「……うん」[pcms]
+[ns]Tarja[nse]
+"...Yes."[pcms]
 
 *99|
 [fc]
-ターヤさんの屈託のない笑顔を初めて見たような気がした。[pcms]
+I felt like I saw Tarja-san's carefree smile for the first time. It[r]
+was incredibly cute. She truly stood out from the Japanese crowd.[pcms]
 
 *100|
 [fc]
-ものすごくかわいい。[r]
-まさに日本人離れしている。[pcms]
+She was incredibly cute. Truly distinct from the Japanese.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -792,24 +785,23 @@ Taryanさんが飛び込み斬りからの、[r]
 
 *101|
 [fc]
-[ns]宗一郎[nse]
-「それでは、お疲れ様でした」[pcms]
+[ns]Souichirou[nse]
+"Well then, thank you for your hard work."[pcms]
 
 *102|
 [fc]
 [vo_tay s="taja0134"]
-[ns]ターヤ[nse]
-「おつかれさま」[pcms]
+[ns]Tarja[nse]
+"Good work today."[pcms]
 
 *103|
 [fc]
-衣装を着替えたターヤさんが、[r]
-自転車で家に帰っていく。[pcms]
+Tarja-san, having changed out of her costume, rides her bicycle home.[pcms]
 
 *104|
 [fc]
-僕たちは、夕暮れの切ない光景に目を奪われながら、[r]
-ターヤさんの姿が見えなくなるまで、その背中を見送った。[pcms]
+We watch the poignant scene of the twilight, following Tarja-san's[r]
+figure until she disappears from sight.[pcms]
 ;//★bg05b ビーチ（＆ライブフェス会場外観）・夕方
 
 [bg storage="BG05b"][trans_c cross time=500]
@@ -818,40 +810,40 @@ Taryanさんが飛び込み斬りからの、[r]
 
 *105|
 [fc]
-[ns]宗一郎[nse]
-「村上さんとターヤさんとは、これで実質お別れなのかな」[pcms]
+[ns]Souichirou[nse]
+"Is this essentially a farewell with Murakami-san and Tarja-san?"[pcms]
 
 *106|
 [fc]
-[ns]誠[nse]
-「明日からもセンターで会えるだろうが」[pcms]
+[ns]Makoto[nse]
+"We'll still see them at the center from tomorrow on."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *107|
 [fc]
-[ns]宗一郎[nse]
-「とはいえ、夜の砂浜でイチャイチャは出来ないだろ？」[pcms]
+[ns]Souichirou[nse]
+"Even so, we won't be able to flirt on the beach at night, right?"[pcms]
 
 *108|
 [fc]
-[ns]誠[nse]
-「まぁ、そうだけど……」[pcms]
+[ns]Makoto[nse]
+"Well, that's true..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *109|
 [fc]
-僕は、すっかり温くなってしまったスッコールをあおる。[pcms]
+I sip my now lukewarm Suko-ru.[pcms]
 
 *110|
 [fc]
-マウンテンヂューなら最高だったのに。[pcms]
+If only it were Mountain Dew. That would have been perfect.[pcms]
 
 *111|
 [fc]
-そんな空しいやりとりをしながら、[r]
-僕は越智さんの家での夕食のことを考えていた。[pcms]
+While engaging in such empty banter, I think about the dinner at Ochi-[r]
+san's house.[pcms]
 
 ;//BGMフェードアウト 分岐あるから止めておく
 [fadeoutbgm time=500]

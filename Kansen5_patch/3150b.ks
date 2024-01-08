@@ -16,7 +16,7 @@
 ;//m:プロット時のブロック名N　3150*flag_B
 
 ;//・フラグＣ成立と基本的に同内容。
-;//・感染した夏都と怜が現れません。
+;//・感染した夏と怜が現れません。
 ;//・撲殺は形見のバットで
 
 ;//bgm08.ogg
@@ -30,85 +30,85 @@
 
 *4509|
 [fc]
-夕刻になって、ようやく峠道に辿り着いた。[pcms]
+It was evening when we finally reached the mountain pass.[pcms]
 
 *4510|
 [fc]
-[ns]誠[nse]
-「これで道は合ってるの？」[pcms]
+[ns]Makoto[nse]
+"Are we on the right path?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4511|
 [fc]
 [vo_tay s="taja_tj0107"]
-[ns]ターヤ[nse]
-「合ってる。道路は感染者でいっぱいだから、[r]
-　森の中を通って家に行こう」[pcms]
+[ns]Tarja[nse]
+"Yes, we are. The roads are full of infected, so let's go through the[r]
+forest to get home."[pcms]
 
 *4512|
 [fc]
-[ns]誠[nse]
-「それが賢明だね。それにしても、[r]
-　感染者がこんなにも増えているだなんて……」[pcms]
+[ns]Makoto[nse]
+"That's wise. But to think that the number of infected has increased[r]
+this much..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4513|
 [fc]
-これだけの数が居たら、中には知っている人間のひとりやふたり、[r]
-混じっているかもしれない……。[pcms]
+With so many of them, there might be one or two people I know among[r]
+the infected...[pcms]
 
 *4514|
 [fc]
-できれば発見なんてしたくないけど、背格好の似た[r]
-感染者の影を見つけると、思わず確認したくなる。[pcms]
+I don't want to find anyone I know, but when I see the shadow of an[r]
+infected person with a similar build, I can't help but want to check.[pcms]
 
 *4515|
 [fc]
-……とりあえず、あの知り合いは居なさそうだ。[pcms]
+...At least, it doesn't seem like any acquaintances are there.[pcms]
 
 *4516|
 [fc]
-[ns]誠[nse]
-「さあ、早く森の中に逃げ込もう。[r]
-　こんな所でまごまごしてたらすぐに見つかって……」[pcms]
+[ns]Makoto[nse]
+"Let's hurry and take refuge in the forest. If we dawdle here, we'll[r]
+be found in no time..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4517|
 [fc]
 [vo_tay s="taja_tj0108"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *4518|
 [fc]
-[ns]誠[nse]
-「……ターヤさん？」[pcms]
+[ns]Makoto[nse]
+"...Tarja-san?"[pcms]
 
 *4519|
 [fc]
-まるで足から根が生えたみたいに、[r]
-ターヤさんは一点を見つめたまま動かなくなってしまう。[pcms]
+As if roots had grown from her feet, Tarja-san stood frozen, staring[r]
+at one point.[pcms]
 
 *4520|
 [fc]
-[ns]誠[nse]
-「たっ、ターヤさん、ここで立ち止まるのはまずいよ、[r]
-　今はとにかく足を動かさないと……！」[pcms]
+[ns]Makoto[nse]
+"Ta-Tarja-san, it's dangerous to stop here, we need to keep moving no[r]
+matter what...!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4521|
 [fc]
 [vo_tay s="taja_tj0109"]
-[ns]ターヤ[nse]
-「あ……ああ……あ……ぁ……」[pcms]
+[ns]Tarja[nse]
+"Ah...ah...ah...ah..."[pcms]
 
 *4522|
 [fc]
-そう言えば、ここはターヤさんの地元だった。[pcms]
+That's right, this is Tarja-san's hometown.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -116,8 +116,8 @@
 
 *4523|
 [fc]
-僕なんかより知り合いの顔を見つけてしまう[r]
-確率はかなり高い。[pcms]
+The chances of her recognizing someone she knows are much higher than[r]
+mine.[pcms]
 
 ;//bgm14.ogg
 [bgm storage="BGM14"]
@@ -127,20 +127,18 @@
 *4524|
 [fc]
 [vo_tay s="taja_tj0110"]
-[ns]ターヤ[nse]
-「あ……ああ……ああぁぁっ……！　そんな……！」[pcms]
+[ns]Tarja[nse]
+"Ah...ah...ahhh...! No...!"[pcms]
 
 *4525|
 [fc]
-でも、この怯えようは尋常じゃない。[r]
-一体誰を見つけてしまったんだ……。[pcms]
+But her fear is not normal. Who did she see...?[pcms]
 
 *4526|
 [fc]
-[ns]ヤンネ[nse]
-「ううぅぅ……ターヤ……わたしのターヤは、[r]
-　どこにいってしまったんだぁ……エルマも、[r]
-　あいたがっているというのに……」[pcms]
+[ns]Yanne[nse]
+"Uuuu...Tarja...where has my Tarja gone...Elma is also, missing[r]
+you..."[pcms]
 
 ;//ヤンネ
 
@@ -148,28 +146,26 @@
 
 *4527|
 [fc]
-その人物は、一見して普通の感染者とは違う特徴を持っていた。[r]
-ターヤさんと同じく、プラチナブロンドの髪に碧い瞳……。[pcms]
+The person had features that were clearly different from a normal[r]
+infected. Platinum blonde hair and blue eyes like Tarja-san...[pcms]
 
 *4528|
 [fc]
-これって、まさか……！？[r]
-この人はターヤさんの……！？[pcms]
+Could it be...!? Is this person Tarja-san's...!?[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4529|
 [fc]
 [vo_tay s="taja_tj0111"]
-[ns]ターヤ[nse]
-「い……いや……いや……そ、そんな……パっ、パパ……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No...no...no, that can't be...Pa-Papa...!"[pcms]
 
 *4530|
 [fc]
-[ns]ヤンネ[nse]
-「はっ……このこえは……ターヤ、ターヤじゃないか……！[r]
-　そんなところに、いたんだねっ、パパ、ずっとターヤを[r]
-　さがしていたんだよ……ああ……よかったぁ……」[pcms]
+[ns]Yanne[nse]
+"Ha...is that voice...Tarja, isn't it Tarja...! There you are, Papa[r]
+has been searching for you all this time...ah...thank goodness..."[pcms]
 
 ;//m:ヤンネの名前は言ってないけど出しちゃうか
 
@@ -177,153 +173,149 @@
 
 *4531|
 [fc]
-良くなんてあるもんか。[r]
-父にとっても娘にとっても、最悪の再開としか言いようがない。[pcms]
+Thank goodness? There's nothing good about this. For both father and[r]
+daughter, it's the worst possible reunion.[pcms]
 
 *4532|
 [fc]
-[ns]ヤンネ[nse]
-「さあ、ターヤ、パパのところへきなさい、パパだって、[r]
-　わかいころはすごかったんだぞ～？　まいばんみたいに、[r]
-　ママのおまんこをついて、しゃせいしていたんだからな～」[pcms]
+[ns]Yanne[nse]
+"Come now, Tarja, come to Papa, you know, Papa was quite something in[r]
+his younger days~? Just like every night, I used to fuck your mama's[r]
+pussy and ejaculate inside her~"[pcms]
 
 *4533|
 [fc]
-[ns]ヤンネ[nse]
-「だからパパ、いいことおもいついたんだ……これから[r]
-　ターヤのおまんこにもしゃせいして、ママのおまんこの[r]
-　ぐあいとくらべようとおもうんだ……めいあんだろう……？」[pcms]
+[ns]Yanne[nse]
+"So Papa has a good idea...from now on I'm going to ejaculate inside[r]
+Tarja's pussy and compare it with Mama's pussy...sounds fun, doesn't[r]
+it...?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4534|
 [fc]
 [vo_tay s="taja_tj0114"]
-[ns]ターヤ[nse]
-「あ……あ、ぁぁ……ああ……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah...ahh...ahh...!"[pcms]
 
 *4535|
 [fc]
-そして、村上さんに続いて実の父親の口から飛び出す[r]
-卑猥な言葉の数々が、ターヤさんを打ちのめしていた。[pcms]
+And following Murakami-san, the obscene words spewing from her own[r]
+father's mouth were crushing Tarja-san.[pcms]
 
 *4536|
 [fc]
-ターヤさんの脚はがくがくと震え、[r]
-その場にへたり込んでしまう。[pcms]
+Tarja-san's legs trembled and she collapsed on the spot.[pcms]
 
 *4537|
 [fc]
-[ns]誠[nse]
-「やめて下さい！　あなた、それでもターヤの父親なんですか！[r]
-　ターヤがこんなに怯えているじゃないですか……それを……！」[pcms]
+[ns]Makoto[nse]
+"Please stop! Are you even Tarja's father? Look how frightened Tarja[r]
+is...you can't do this...!"[pcms]
 
 *4538|
 [fc]
-[ns]ヤンネ[nse]
-「なんだ、おまえは……はっ……ターヤ、おまえまさか、この[r]
-　どこのうまのほねともしれない、おとこと、ヤったのか？[r]
-　そんなことゆるさないぞ、ターヤのしょじょはパパのものだ！」[pcms]
+[ns]Yanne[nse]
+"Who are you...ha...Tarja, don't tell me you've slept with this man[r]
+whose name we don't even know? I won't allow it, Tarja's virginity[r]
+belongs to Papa!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4539|
 [fc]
 [vo_tay s="taja_tj0115"]
-[ns]ターヤ[nse]
-「ち、ちが、う……これは、夢……そう……きっと、ユメ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No, that's wrong...this is a dream...yes, it must be a dream..."[pcms]
 
 *4540|
 [fc]
-[ns]誠[nse]
-「ターヤ、そんなところで座っちゃダメだ、しっかりして！[r]
-　……あ、あんたっ、それでも人間か……！！」[pcms]
+[ns]Makoto[nse]
+"Tarja, you can't sit down there, pull yourself together! ...You, are[r]
+you even human...!!"[pcms]
 
 *4541|
 [fc]
-[ns]ヤンネ[nse]
-「おまえこそ、わたしのターヤに、てをだすとは、けしからんっ！[r]
-　おまえは、にんげんのクズだっ、どげざして、あやまれ！[r]
-　ちんちんを、じめんにこすりつけて……あやまれっ！」[pcms]
+[ns]Yanne[nse]
+"You dare lay hands on my Tarja, you're despicable! You're scum of[r]
+humanity, kneel down and apologize! Rub your dick on the ground and[r]
+apologize!"[pcms]
 
 *4542|
 [fc]
-[ns]誠[nse]
-「…………！？」[pcms]
+[ns]Makoto[nse]
+"...!?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4543|
 [fc]
-……違う！[pcms]
+...No![pcms]
 
 *4544|
 [fc]
-違う、違う、違う！[pcms]
+No, no, no![pcms]
 
 *4545|
 [fc]
-違う違う違う違う違う違う違う違う！！[pcms]
+No no no no no no no no!![pcms]
 
 *4546|
 [fc]
-こんなの全部間違ってる！！[pcms]
+All of this is wrong!![pcms]
 
 *4547|
 [fc]
-[ns]誠[nse]
-「何もかも嘘っぱちだ！[r]
-　最初から何もない、誰も居ない！[r]
-　そうに決まってる！！」[pcms]
+[ns]Makoto[nse]
+"Everything is a complete lie! There was nothing from the start,[r]
+nobody is here! That's how it must be!!"[pcms]
 
 *4548|
 [fc]
-[ns]ヤンネ[nse]
-「あぁ、ライラもはやくかえってこればいいのになぁ……[r]
-　そうしたら、パパ、ライラとターヤのおまんこをならべて、[r]
-　しまいどんにして、たべちゃうのになぁ……」[pcms]
+[ns]Yanne[nse]
+"Ah, if only Laila would come back soon too... Then Papa could line up[r]
+Laila and Tarja's pussies side by side, finish inside them and eat[r]
+them up..."[pcms]
 
 *4549|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *4550|
 [fc]
-おい。[r]
-ウルセエぞ、そこのおっさん。[pcms]
+"Hey. Shut up, old man."[pcms]
 
 *4551|
 [fc]
-言ってるだろ、何もかもなかったんだって。[pcms]
+"I'm telling you, there was nothing at all."[pcms]
 
 *4552|
 [fc]
-空気読むってことを知らないのか？[r]
-これだから白人は能天気で困るんだよ。[pcms]
+"Don't you know how to read the room? This is why I can't stand the[r]
+carefree attitude of white people."[pcms]
 
 *4553|
 [fc]
-はっきり言ってウザイんだ、消えてくれ。[pcms]
+"To be clear, you're annoying, just disappear."[pcms]
 
 *4554|
 [fc]
-[ns]ヤンネ[nse]
-「ターヤ……ターヤぁ……さあ、はやくおいで……[r]
-　わたしのかわいいターヤ……どれだけおおきくなったのか、[r]
-　パパがすみずみまで、みてあげよう……」[pcms]
+[ns]Yanne[nse]
+"Tarja... my Tarja... come here quickly... my dear Tarja... let Papa[r]
+check how much you've grown, every nook and cranny..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4555|
 [fc]
 [vo_tay s="taja_tj0116"]
-[ns]ターヤ[nse]
-「い……いや……いやぁ……こないで……こないで……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No... no... don't come... don't come...!"[pcms]
 
 *4556|
 [fc]
-……そうか、わかったよ。[pcms]
+"I see, I understand."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -334,8 +326,8 @@
 
 *4557|
 [fc]
-それでも娘の前でチンコおっ立てて[r]
-ギャーギャー喚こうってんなら……[pcms]
+"But if you still intend to stand before your daughter with your dick[r]
+hard and rant and rave..."[pcms]
 
 ;//bgm12.ogg　激しい系より悲しい系の方が合ってる？
 [bgm storage="BGM12"]
@@ -344,8 +336,8 @@
 
 *4558|
 [fc]
-[ns]誠[nse]
-「なかったことに……してやるよおおおおぉぉぉぉぉぉ！！」[pcms]
+[ns]Makoto[nse]
+"I'll make it as if it never happened aaaaaaaaaah!!"[pcms]
 
 [se buf=0 storage="seA048"]
 ;//♪SE走る
@@ -355,16 +347,16 @@
 
 *4559|
 [fc]
-その、人間の形をしたクズの元へと突進し、[r]
-右足を力の限り踏み込み、上半身を目一杯に捻る。[pcms]
+"I charge towards that scum in human form, stepping forward with all[r]
+my might, twisting my upper body to the limit."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c lr time=300][hide_chara_int]
 
 *4560|
 [fc]
-両手に握り込んだバットを怒りの限りにスイングさせ、[r]
-そのクズの横っ面に叩き込んでやる。[pcms]
+"I swing the bat gripped in both hands with all my rage, smashing it[r]
+into the side of that scum's face."[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -374,13 +366,13 @@
 
 *4561|
 [fc]
-[ns]ヤンネ[nse]
-「ぎひあああああぁぁぁっあぎぎぎぎっぎぎぃ！！」[pcms]
+[ns]Yanne[nse]
+"Gihiiiiiiiiiiiiiiiiiiiiiiii!!"[pcms]
 
 *4562|
 [fc]
-どこからか不細工な声が聞こえてきたが、それは気のせいだ。[r]
-このクズが人間の言葉を話すはずがないんだから。[pcms]
+"An ugly voice comes from somewhere, but it must be my imagination.[r]
+There's no way this scum could speak human words."[pcms]
 
 ;//m:淫祭の鉄パイプエフェクト入れるべきかなぁ。演出再考
 
@@ -397,8 +389,8 @@
 
 *4563|
 [fc]
-[ns]ヤンネ[nse]
-「ひやぎひっ、ひぎあああぁぁぁっ、んぎああぁぁぁぁっ！」[pcms]
+[ns]Yanne[nse]
+"Hyagih, higihaaaaaaaaah, ngihaaaaaaaaah!"[pcms]
 
 [se buf=0 storage="seB008"]
 ;//♪SE人間を殴る音２(痛そう)
@@ -414,8 +406,8 @@
 
 *4564|
 [fc]
-[ns]ヤンネ[nse]
-「あ……ぎ、ぎぎっ、ぎ、ひくっ、ひくっ……はがっ……」[pcms]
+[ns]Yanne[nse]
+"Ah... gi, gigi, gi, biku, biku... hag..."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -426,8 +418,8 @@
 
 *4565|
 [fc]
-ほら、これはやっぱり人じゃない。[r]
-思った通りだ、人の形をしたナニカだったんだ。[pcms]
+"See, this isn't a person after all. Just as I thought, it's something[r]
+that looks like a person."[pcms]
 
 ;//bgm04.ogg
 [bgm storage="BGM04"]
@@ -453,22 +445,21 @@
 
 *4566|
 [fc]
-[ns]ヤンネ[nse]
-「あー……あー……あぁ……こひゅっ……ひゅーーっ……[r]
-　ひゅーーーーっ…………………………」[pcms]
+[ns]Yanne[nse]
+"Ah-... ah-... ahh... kohyu... hyu--... hyu----..."[pcms]
 
 *4567|
 [fc]
-[ns]誠[nse]
-「……さあ！　行こう、ターヤっ！！」[pcms]
+[ns]Makoto[nse]
+"...Come on! Let's go, Tarja!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos1"][ChrSetParts layer=5 chface="F1_ta09"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4568|
 [fc]
 [vo_tay s="taja_tj0117"]
-[ns]ターヤ[nse]
-「ぜんぶ……ユメ……ユメに……きまって……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"It's all... a dream... it has to be a dream..."[pcms]
 
 [se buf=0 storage="seB003"]
 ;//♪SEビンタ
@@ -481,36 +472,36 @@
 *4569|
 [fc]
 [vo_tay s="taja_tj0118"]
-[ns]ターヤ[nse]
-「っ！？」[pcms]
+[ns]Tarja[nse]
+"Huh!?"[pcms]
 
 *4570|
 [fc]
-[ns]誠[nse]
-「現実逃避する暇があるなら僕について来い！[r]
-　こんな所で終わっちゃダメだ！　絶対に！」[pcms]
+[ns]Makoto[nse]
+"If you have time to escape from reality, then follow me! We can't end[r]
+things here! Absolutely not!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4571|
 [fc]
 [vo_tay s="taja_tj0119"]
-[ns]ターヤ[nse]
-「あ……ぁ……まことっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah... ah... Makoto..."[pcms]
 
 *4572|
 [fc]
-今はターヤがどう思うと、知った事じゃない。[pcms]
+"Right now, it doesn't matter what Tarja thinks."[pcms]
 
 *4573|
 [fc]
-その場からまだ動けないでいるターヤの手を強引に、[r]
-それこそ、立てないでいるなら地面を引きずるくらいの[r]
-気迫で引っ掴み、森の中へと逃避行を計る。[pcms]
+"I forcefully grab Tarja's hand, which is still unable to move from[r]
+that spot, with such fervor that if she can't stand, I'd drag her[r]
+along the ground, and plan our escape into the forest."[pcms]
 
 *4574|
 [fc]
-ターヤを父親の元から強奪するくらいの気持ちで……[pcms]
+"With the determination to snatch Tarja away from her father..."[pcms]
 
 [se buf=0 storage="seA052" loop=true]
 ;//♪SE複数人の走る足音
@@ -520,32 +511,32 @@
 
 *4575|
 [fc]
-[ns]誠[nse]
-「さあ、急いで！　急いでっ！[r]
-　日が暮れるまでにターヤの家に辿り着かないと！」[pcms]
+[ns]Makoto[nse]
+"Come on, hurry! Hurry! We need to reach Tarja's house before the sun[r]
+sets!"[pcms]
 
 *4576|
 [fc]
 [vo_tay s="taja_tj0120"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *4577|
 [fc]
-後ろを振り向いている余裕なんかない。[pcms]
+"There's no time to look back."[pcms]
 
 *4578|
 [fc]
-振り向いたって、後ろには何もないんだ。[pcms]
+"Even if I did look back, there would be nothing there."[pcms]
 
 *4579|
 [fc]
-元々何もなかったんだ……！[r]
-何も起きなかったんだ……！[pcms]
+"There was never anything there to begin with...! Nothing[r]
+happened...!"[pcms]
 
 *4580|
 [fc]
-今は何も考えずに、走るんだ……！[pcms]
+"Right now, without thinking about anything else, just run...!"[pcms]
 
 ;//seフェード停止
 [stopse buf=0]

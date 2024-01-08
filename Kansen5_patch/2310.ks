@@ -20,8 +20,8 @@
 
 *2331|
 [fc]
-温かい手が僕の手に触れ、強ばっていた僕の指先を開かせる。[r]
-ゴトっという音が足元でして、僕は我に返った。[pcms]
+A warm hand touched mine, coaxing my stiffened fingers to relax. A[r]
+thud sounded at my feet, and I snapped back to reality.[pcms]
 
 ;//★_公民館の部屋
 ;//めも：貧弱が何時間も戦ってるのはおかしいので、背景は朝はります
@@ -32,19 +32,18 @@
 *2332|
 [fc]
 [vo_stk s="satuki_st0242"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2333|
 [fc]
-目の前に南先輩が居る。[r]
-心配しているような、なんだか申し訳なさそうな、[r]
-そんな表情で僕を見つめていた。[pcms]
+In front of me stood Senior Minami. She looked at me with a concerned[r]
+expression, as if she felt sorry for something.[pcms]
 
 *2334|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [bgm storage="BGM19"]
 ;//♪bgm19　作中劇用/夜
@@ -54,59 +53,58 @@
 *2335|
 [fc]
 [vo_stk s="satuki_st0243"]
-[ns]彩月[nse]
-「ちょっと待ってて」[pcms]
+[ns]Satsuki[nse]
+"Just wait a moment."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2336|
 [fc]
-南先輩はニッコリと笑うと、足元から何かを拾い上げ、[r]
-少し離れた場所からそれを持って来た。[pcms]
+Senior Minami smiled brightly, picked something up from the ground,[r]
+and brought it over from a short distance away.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2337|
 [fc]
 [vo_stk s="satuki_st0244"]
-[ns]彩月[nse]
-「じっとしててね」[pcms]
+[ns]Satsuki[nse]
+"Stay still, okay?"[pcms]
 
 *2338|
 [fc]
-冷たい感触がさっき開かされた僕の指を１本１本丁寧になぞる。[r]
-そのあとで、頬や唇のあたりを撫で回されていた。[r]
-ふいに視界がぼやける。[pcms]
+A cold sensation carefully traced each of my fingers that had just[r]
+been pried open. Then, my cheeks and lips were caressed. Suddenly, my[r]
+vision blurred.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2339|
 [fc]
 [vo_stk s="satuki_st0245"]
-[ns]彩月[nse]
-「メガネしてて良かったよね？」[pcms]
+[ns]Satsuki[nse]
+"It's a good thing you were wearing glasses, huh?"[pcms]
 
 *2340|
 [fc]
-[ns]誠[nse]
-「え？」[pcms]
+[ns]Makoto[nse]
+"Huh?"[pcms]
 
 *2341|
 [fc]
-目の前に突き出されたのは、僕のメガネで、それには[r]
-血しぶきがついていた。[pcms]
+What was thrust in front of me were my glasses, splattered with blood.[pcms]
 
 *2342|
 [fc]
-[ns]誠[nse]
-「あ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2343|
 [fc]
-先輩は微笑みながら僕のメガネを濡れタオルで丁寧に拭き、[r]
-そして優しくまた僕にメガネを掛けさせてくれた。[pcms]
+Senior Minami wiped my glasses clean with a damp towel while smiling[r]
+gently, and then kindly put them back on me.[pcms]
 
 ;//めも：左はわざと空欄
 [ChrSetEx layer=5 chbase="ak1_cos"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0]
@@ -115,14 +113,14 @@
 *2344|
 [fc]
 [vo_aka s="akari_st0156"]
-[ns]茜梨[nse]
-「中澤先輩……」[pcms]
+[ns]Akari[nse]
+"Senior Nakazawa..."[pcms]
 
 *2345|
 [fc]
 [vo_mis s="misao_st0147"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 ;//めも：後のHCGを参照した結果、ここで現時点で適正な服装に。
 ;//　　：茜梨＠体操服
@@ -133,164 +131,164 @@
 
 *2346|
 [fc]
-南先輩の後ろから、美沙緒さんと体操服姿の越智さんが現れる。[pcms]
+Behind Senior Minami, Miss Misao and Akari-san in her gym clothes[r]
+appeared.[pcms]
 
 *2347|
 [fc]
-ここに至って、僕はようやく今の状況が理解出来た。[pcms]
+At this point, I finally understood the current situation.[pcms]
 
 *2348|
 [fc]
-僕は、リムジンの中の二人、それは越智さんと美沙緒さんで、[r]
-なんとか無事に助け出すことが出来たんだ。[pcms]
+I had managed to safely rescue the two people inside the limousine,[r]
+Akari-san and Miss Misao.[pcms]
 
 *2349|
 [fc]
-先輩が二人を閉め出すこともなく、そして外でヤツラが[r]
-暴れているような気配もしないから、僕はアイツらを[r]
-全員、ぶちのめすことが出来た。[pcms]
+Senior Minami didn't lock them out, and there was no sign of those[r]
+guys causing trouble outside, so I was able to beat all of them down.[pcms]
 
 *2350|
 [fc]
-さっき僕の足元で音を出したのは、僕が握りしめていたバットだ。[r]
-僕は何も失うことなく、無事に戻って来られたんだ。[pcms]
+The sound that came from my feet earlier was from the bat I had been[r]
+gripping. I hadn't lost anything and had safely returned.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_cos"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2351|
 [fc]
 [vo_aka s="akari_st0157"]
-[ns]茜梨[nse]
-「中澤先輩……」[pcms]
+[ns]Akari[nse]
+"Senior Nakazawa..."[pcms]
 
 *2352|
 [fc]
-越智さんがぎこちない歩き方で僕の方へ近づいてきた。[r]
-その後ろから、美沙緒さんもなんだか似たような歩き方で[r]
-僕に向かってくる。[pcms]
+Akari-san approached me with an awkward gait. Following her, Miss[r]
+Misao also came towards me with a similar walk.[pcms]
 
 *2353|
 [fc]
-そういえば、リムジンから出させたとき、二人とも足取りが[r]
-危うかった。ぎくしゃくした歩みで、遅々として距離が[r]
-稼げず、僕はイメージしていたよりも大苦戦したんだった。[pcms]
+Come to think of it, when I got them out of the limousine, both of[r]
+their steps were unsteady. With their jerky strides, they couldn't[r]
+cover much distance, and I struggled more than I had imagined.[pcms]
 
 *2354|
 [fc]
-[ns]誠[nse]
-「……うう」[pcms]
+[ns]Makoto[nse]
+"...Ugh."[pcms]
 
 *2355|
 [fc]
-身震いがする。実は大苦戦どころじゃない。[r]
-危ないところだったんだ。[pcms]
+I shivered. It was more than just a tough fight. It had been[r]
+dangerous.[pcms]
 
 *2356|
 [fc]
-まざまざと蘇る記憶に、僕の身体が微かに震えだした。[pcms]
+The memories vividly returned, and my body started to tremble[r]
+slightly.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_cos"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2357|
 [fc]
 [vo_aka s="akari_st0158"]
-[ns]茜梨[nse]
-「ありがとう……ございました」[pcms]
+[ns]Akari[nse]
+"Thank you... very much."[pcms]
 
 *2358|
 [fc]
-ふわっと越智さんの両腕が、震えだしていた僕の身体を包む。[r]
-少し涙ぐんだ目が僕を見上げた。[pcms]
+Akari-san's arms gently enveloped my trembling body. Her slightly[r]
+teary eyes looked up at me.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_cos"][ChrSetParts layer=5 chface="F1_ak09"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2359|
 [fc]
 [vo_aka s="akari_st0159"]
-[ns]茜梨[nse]
-「本当にありがとうございました、中澤先輩」[pcms]
+[ns]Akari[nse]
+"Thank you so much, Senior Nakazawa."[pcms]
 
 *2360|
 [fc]
-後ろにハートマークでもついてそうな口調で、越智さんは[r]
-僕をぎゅっと抱きしめてくれた。[pcms]
+With a tone that seemed to have hearts marking her words, Akari-san[r]
+hugged me tightly.[pcms]
 
 *2361|
 [fc]
-小ぶりだけど張りのあるおっぱいが、僕の胸に押しつけられ、[r]
-さっきまでの震えは、一気に吹き飛んでしまう。[pcms]
+Her modest but firm breasts pressed against my chest, and the[r]
+trembling I felt earlier was blown away in an instant.[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi08"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2362|
 [fc]
 [vo_mis s="misao_st0148"]
-[ns]美沙緒[nse]
-「中澤君、ありがとう。本当に助かったわ」[pcms]
+[ns]Misao[nse]
+"Nakazawa-kun, thank you. You really saved us."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2363|
 [fc]
 [vo_stk s="satuki_st0246"]
-[ns]彩月[nse]
-「悔しいぐらいかっこよかったよ、誠君」[pcms]
+[ns]Satsuki[nse]
+"It's frustrating how cool you were, Makoto-kun."[pcms]
 
 *2364|
 [fc]
-褒め言葉が降り注がれる。すっげぇリア充感覚っ！[r]
-自分の手で、生身の僕が敵を倒しきったんだ。[pcms]
+Praise showered down on me. Such an intense feeling of fulfillment![r]
+With my own hands, I had defeated the enemy in flesh and blood.[pcms]
 
 *2365|
 [fc]
-思わずにへら～と顔がほころんでしまっていた。[pcms]
+I couldn't help but break into a broad grin.[pcms]
 
 *2366|
 [fc]
-[ns]誠[nse]
-「いや、その……二人とも無事で良かったです。[r]
-　南先輩も、ありがとうございました」[pcms]
+[ns]Makoto[nse]
+"No, that... I'm just glad both of you are safe. And thank you too,[r]
+Senior Minami."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st11"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2367|
 [fc]
 [vo_stk s="satuki_st0247"]
-[ns]彩月[nse]
-「わたしは何もしていないわよ。裏口を見張ってただけだわ」[pcms]
+[ns]Satsuki[nse]
+"I didn't do anything special. I was just keeping watch at the back[r]
+door."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_cos"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2368|
 [fc]
 [vo_aka s="akari_st0160"]
-[ns]茜梨[nse]
-「そんなことないですよ、南先輩。先輩だってバット握って[r]
-　戦ってくれたじゃないですか」[pcms]
+[ns]Akari[nse]
+"That's not true, Senior Minami. You also fought with a bat in your[r]
+hands."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st27"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2369|
 [fc]
 [vo_stk s="satuki_st0248"]
-[ns]彩月[nse]
-「……ま、まあね。ちょっとだけだわ。誠君に比べたらね」[pcms]
+[ns]Satsuki[nse]
+"...Well, maybe a little. But it was nothing compared to Makoto-kun."[pcms]
 
 *2370|
 [fc]
-南先輩は、素直に感謝の意を示す越智さんの言葉に[r]
-ちょっと困ったような苦笑いを浮かべながら答えていた。[pcms]
+Senior Minami responded with a slightly troubled but amused smile to[r]
+Akari-san's sincere words of gratitude.[pcms]
 
 *2371|
 [fc]
-[ns]誠[nse]
-「はあ……」[pcms]
+[ns]Makoto[nse]
+"Haa..."[pcms]
 
 *2372|
 [fc]
-思わず僕の口から安堵のため息が出てしまう。[r]
-越智さんも南先輩も美沙緒さんも、そんな僕ににこやかに[r]
-笑いかけていた。[pcms]
+I let out a sigh of relief without realizing it. Ochi-san, Senior[r]
+Minami, and Misao-san all smiled at me warmly.[pcms]
 
 ;//★_公民館の部屋（夕方）
 [bg storage="village04a"][trans_c cross time=1000]
@@ -298,394 +296,399 @@
 
 *2373|
 [fc]
-越智さんは、体調がひどく悪い様子だったので、[r]
-美沙緒さんが促して、奥の部屋で休んでいた。[pcms]
+Ochi-san seemed to be in very poor health, so at Misao-san's urging,[r]
+she was resting in the back room.[pcms]
 
 *2374|
 [fc]
-そんな越智さんも美沙緒さんの体調を気遣っていたけれど、[r]
-確かに美沙緒さんも余り調子が良いようには見えない。[pcms]
+Even though Ochi-san was concerned about Misao-san's health, it was[r]
+true that Misao-san didn't seem to be in great condition either.[pcms]
 
 *2375|
 [fc]
-僕は美沙緒さんに何があったのか訊ねたけれど、[r]
-体調が悪いことに関しては、なんとなくはぐらかされていた。[pcms]
+I asked Misao-san what had happened to her, but she somewhat evaded[r]
+the question regarding her poor health.[pcms]
 
 *2376|
 [fc]
-ただ、一番の問題であるウイルスには感染していないらしい。[r]
-専門家である美沙緒さんが、そう断言してくれる。[pcms]
+However, it seems she hasn't been infected with the most pressing[r]
+problem, the virus. Misao-san, being an expert, assured us of that.[pcms]
 
 *2377|
 [fc]
-そうして越智さんを寝かしつけると、美沙緒さんは[r]
-僕らに情報を交換しようと切り出してきた。[pcms]
+After putting Ochi-san to bed, Misao-san suggested that we exchange[r]
+information.[pcms]
 
 *2378|
 [fc]
-僕と南先輩、美沙緒さんは、部屋の窓から離れた土間に[r]
-腰を下ろし、水を片手にお互いの情報を交換し始める。[pcms]
+Makoto, Senior Minami, and Misao-san sat down on the earthen floor[r]
+away from the room's window and began to exchange information over[r]
+water.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi08"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2379|
 [fc]
 [vo_mis s="misao_st0149"]
-[ns]美沙緒[nse]
-「本当に助かったわ……正直もう駄目かと思った事もあったから」[pcms]
+[ns]Misao[nse]
+"You really saved us... Honestly, there were times I thought we were[r]
+done for."[pcms]
 
 *2380|
 [fc]
-美沙緒さんと越智さんは、稼津央さんのリムジンを使って[r]
-感染者が入り込み始めた、あのお屋敷から脱出したらしい。[pcms]
+Misao-san and Ochi-san apparently escaped from that mansion where the[r]
+infected started pouring in using Katsuo-san's limousine.[pcms]
 
 *2381|
 [fc]
-他の島へ渡るルートを求めて、港へと進んだらしいが、[r]
-どこもかしこも、乗り捨てられた車で道がふさがれていた。[pcms]
+They seemed to have headed for the port in search of a route to[r]
+another island, but everywhere they went, the roads were blocked by[r]
+abandoned cars.[pcms]
 
 *2382|
 [fc]
-おまけにうじゃうじゃと感染者が密集していて、跳ね飛ばす事すら[r]
-出来ないような人数で、とてもではないが通れなかったそうだ。[pcms]
+Moreover, there were so many infected swarming around that they[r]
+couldn't even push through the crowd, making it impossible to pass.[pcms]
 
 *2383|
 [fc]
-そうこうするうちに、燃料が少ないことに気がついて、[r]
-それならばなるべく人気の少ない所を目指そうとして、[r]
-この場所にたどり着いたらしい。[pcms]
+While doing so, they realized they were low on fuel and decided to[r]
+head for a less populated area, which led them to this place.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2384|
 [fc]
 [vo_mis s="misao_st0150"]
-[ns]美沙緒[nse]
-「推測の域は出ないのだけれど……」[pcms]
+[ns]Misao[nse]
+"It's just speculation, but..."[pcms]
 
 *2385|
 [fc]
-東京や各地の都市部で、爆発的に感染が拡大しているらしい。[pcms]
+It seems that the infection has exploded in Tokyo and other urban[r]
+areas.[pcms]
 
 *2386|
 [fc]
-それは、一番最初に東京で確認された事から考えて、[r]
-東京に何らかのルートで入り込んだ感染者が原因だろうと。[pcms]
+Considering that the first case was confirmed in Tokyo, it's likely[r]
+that an infected person who entered Tokyo through some route is to[r]
+blame.[pcms]
 
 *2387|
 [fc]
-何かイベントのような人が密集する場を起点に広がった[r]
-のではないかと、話してくれた。[pcms]
+She told us that it probably spread from an event or some other[r]
+crowded place as a starting point.[pcms]
 
 *2388|
 [fc]
 [vo_mis s="misao_st0151"]
-[ns]美沙緒[nse]
-「東京も相当混乱を来しているみたいだわ。茜梨の携帯にね、[r]
-　彼女の母親からの着信とメールがあったの。でも、茜梨のも[r]
-　相手のも、もう回線が不通で連絡の取りようがなかった……」[pcms]
+[ns]Misao[nse]
+"It seems Tokyo is in quite a chaos. On Akari's cell phone, there were[r]
+calls and emails from her mother. But both Akari's and the other[r]
+party's lines are now unreachable..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2389|
 [fc]
 [vo_mis s="misao_st0152"]
-[ns]美沙緒[nse]
-「政府は、海上に脱出してるらしいわ。[r]
-　近々米軍の掃討作戦も始まるという話もあるのよ」[pcms]
+[ns]Misao[nse]
+"The government seems to have escaped to sea. There are also talks of[r]
+a U.S. military cleanup operation starting soon."[pcms]
 
 *2390|
 [fc]
-[ns]誠[nse]
-「美沙緒さんの話だと、この島内の感染拡大もやっぱり[r]
-　東京が原因なんですかね？」[pcms]
+[ns]Makoto[nse]
+"According to Misao-san's story, is the spread of infection on this[r]
+island also due to Tokyo?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi12"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2391|
 [fc]
 [vo_mis s="misao_st0153"]
-[ns]美沙緒[nse]
-「…………痛いところを突いてくるわね、中澤君。[r]
-　この島の感染拡大の理由は……おそらく稼津央の仕業だわ……」[pcms]
+[ns]Misao[nse]
+"...You hit a sore spot, Nakazawa-kun. The reason for the spread of[r]
+infection on this island is... probably due to Katsuo's doing..."[pcms]
 
 *2392|
 [fc]
-[ns]誠[nse]
-「え？！　稼津央……さん？！」[pcms]
+[ns]Makoto[nse]
+"Eh?! Katsuo...san?!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2393|
 [fc]
 [vo_stk s="satuki_st0249"]
-[ns]彩月[nse]
-「！！」[pcms]
+[ns]Satsuki[nse]
+"!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi08"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2394|
 [fc]
 [vo_mis s="misao_st0154"]
-[ns]美沙緒[nse]
-「…………ええ」[pcms]
+[ns]Misao[nse]
+"...Yes."[pcms]
 
 *2395|
 [fc]
-美沙緒さんの話は、驚くべき内容だった。[r]
-まさか良い人だと思えたあの人が、そんな事をするなんて。[pcms]
+The story Misao-san told was shocking. I couldn't believe that someone[r]
+I thought was a good person could do such a thing.[pcms]
 
 *2396|
 [fc]
-稼津央さんのしでかした事には驚いたが、僕は研究施設が[r]
-実は存在していたことに、怒りを覚え始めていた。[pcms]
+I was shocked by what Katsuo-san had done, but I was beginning to feel[r]
+anger at the fact that there actually was a research facility in[r]
+existence.[pcms]
 
 *2397|
 [fc]
-漠然と抱いていた、また起きるかも、と言う僕の不安。[r]
-それは現実となり、それには確固たる原因になるものが[r]
-あったって事だった。[pcms]
+The vague anxiety I had about something happening again had become a[r]
+reality, and there was a concrete cause for it.[pcms]
 
 *2398|
 [fc]
-そんなものがあるんだから、政府発表の感染者撲滅は、[r]
-まったくの嘘だったという事でもある。[pcms]
+If such a thing existed, then the government's announcement of the[r]
+eradication of infected people was a complete lie.[pcms]
 
 *2399|
 [fc]
-[ns]誠[nse]
-「……じゃあ、東京の感染拡大は東北の施設。そしてここのは、[r]
-　稼津央さんが関与した上でとしても、太平洋上の施設が[r]
-　その原因である可能性が高いって事なんですね？」[pcms]
+[ns]Makoto[nse]
+"...So, the spread of infection in Tokyo is due to the facility in[r]
+Tohoku. And here, even if Katsuo-san was involved, it's highly likely[r]
+that the facility in the Pacific Ocean is the cause?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi06"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2400|
 [fc]
 [vo_mis s="misao_st0155"]
-[ns]美沙緒[nse]
-「……ええ。あくまで推測でしかないけれど……。[r]
-　でも、私も研究に関与している人間として、申し訳無いと[r]
-　思っているの……ごめんなさい。謝って済むとは思ってないけど」[pcms]
+[ns]Misao[nse]
+"...Yes. It's just speculation... But as someone involved in the[r]
+research, I feel sorry... I'm sorry. I don't think an apology is[r]
+enough."[pcms]
 
 *2401|
 [fc]
-そう言うと美沙緒さんは、沈んだ目で、僕たちに深々と[r]
-頭を下げていた。[pcms]
+As she said this, Misao-san bowed deeply to us with a somber look in[r]
+her eyes.[pcms]
 
 ;//たちなし
 
 *2402|
 [fc]
 [vo_stk s="satuki_st0250"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2403|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2404|
 [fc]
-僕も南先輩も、何も答えることが出来ずにいた。[pcms]
+Neither Senior Minami nor I could find anything to say in response.[pcms]
 
 *2405|
 [fc]
-美沙緒さんが悪いわけではないのはわかっている。[r]
-研究者として与えられた仕事をこなしていただけだろう。[r]
-もちろん、研究者としての探求心もあったとは思うが。[pcms]
+I knew it wasn't Misao-san's fault. She was just doing her job as a[r]
+researcher. Of course, I think she also had a researcher's curiosity.[pcms]
 
 *2406|
 [fc]
-でも、そもそもの研究対象が無ければ……、[r]
-ウイルスが撲滅されてさえいれば成り立たない話だったんだから。[pcms]
+But if there had been no research subject in the first place... If the[r]
+virus had been eradicated... then none of this would have happened.[pcms]
 
 *2407|
 [fc]
-[ns]誠[nse]
-「僕の……携帯はここに着いた時、繋がったんです。[r]
-　すぐにホテルにいる姉ちゃんや友達に連絡をしました」[pcms]
+[ns]Makoto[nse]
+"My... cell phone connected when we arrived here. I immediately[r]
+contacted my sister and friends at the hotel."[pcms]
 
 *2408|
 [fc]
-[ns]誠[nse]
-「美沙緒さんの家でご馳走になった時、同席していたそーいちに[r]
-　連絡がついたんだけど……でも、そのすぐ後で……そーいちは[r]
-　襲われて……他は誰にも繋がらなくて……」[pcms]
+[ns]Makoto[nse]
+"I managed to get through to So-ichi who was present when we were[r]
+treated at Misao-san's house... but right after that... So-ichi was[r]
+attacked... and I couldn't reach anyone else..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi08"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2409|
 [fc]
 [vo_mis s="misao_st0156"]
-[ns]美沙緒[nse]
-「……聴きたくない答えだろうとは思うけれど……。[r]
-　私達が通り過ぎた時、ホテルはもう駄目だと思えた。[r]
-　残念だけど……ごめんなさい、中澤君」[pcms]
+[ns]Misao[nse]
+"...I know it's not the answer you want to hear... When we passed by,[r]
+I thought the hotel was already gone. I'm sorry... I'm sorry,[r]
+Nakazawa-kun."[pcms]
 
 *2410|
 [fc]
-[ns]誠[nse]
-「美沙緒さんが直接悪い訳じゃないのは、わかってます。[r]
-　だから、そんなに謝らないで下さいっ！」[pcms]
+[ns]Makoto[nse]
+"I know it's not directly your fault, Misao-san. So please don't[r]
+apologize so much!"[pcms]
 
 *2411|
 [fc]
-[ns]誠[nse]
-「でも、でも……酷すぎます。大事な友人のそーいちが駄目だ[r]
-　ってのは、僕はもう判っていて、なんとか踏ん切りをつけました。[r]
-　でも、姉ちゃんは……姉ちゃんは……っ！」[pcms]
+[ns]Makoto[nse]
+"But, but... it's just too cruel. I already knew that So-ichi, my dear[r]
+friend, was gone, and I've somehow come to terms with it. But my[r]
+sister... my sister...!"[pcms]
 
 *2412|
 [fc]
-[ns]誠[nse]
-「どこでもいい、どんな方法でもいい、何とか逃げ出して、[r]
-　きっとどこかで僕のことを探しているんじゃないかって[r]
-　思うんです。思いたいんですっ！　だからっ！！」[pcms]
+[ns]Makoto[nse]
+"Anywhere is fine, any method is fine, I just keep thinking that she[r]
+must have somehow escaped and is out there looking for me. I want to[r]
+believe that! That's why...!"[pcms]
 
 *2413|
 [fc]
-[ns]誠[nse]
-「お願いです……もう二度と僕から大事なものを奪わないで下さい。[r]
-　今度こそ、感染者を撲滅してください」[pcms]
+[ns]Makoto[nse]
+"Please... don't take anything more precious from me. Please eradicate[r]
+the infected once and for all this time."[pcms]
 
 *2414|
 [fc]
-[ns]誠[nse]
-「このエピデミックが収まって、また美沙緒さんに何か[r]
-　打診があったとしても、今度はこの世から消し去る方に、[r]
-　どうか力を入れて下さい。お願いします……」[pcms]
+[ns]Makoto[nse]
+"Even if this epidemic subsides and Misao-san is approached again,[r]
+please put your efforts into eradicating it from this world next time.[r]
+I beg of you..."[pcms]
 
 *2415|
 [fc]
 [vo_mis s="misao_st0157"]
-[ns]美沙緒[nse]
-「……そうね。約束するわ、中澤君。[r]
-　お姉さんもきっと、大丈夫よ。どこかに避難しているわ」[pcms]
+[ns]Misao[nse]
+"...Alright. I promise you, Nakazawa-kun. Your sister is surely fine[r]
+too. She must have taken refuge somewhere."[pcms]
 
 *2416|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2417|
 [fc]
-美沙緒さんはそう言うけれど、僕の心は深く沈み込んでいた。[r]
-もしも本当にホテルが駄目で、姉ちゃんも駄目だったら……。[pcms]
+Misao-san said so, but my heart was sinking deeply. If the hotel was[r]
+really gone, and if my sister was gone too..."[pcms]
 
 *2418|
 [fc]
-この先僕は何を支えにしたらいいのかわからなくなっていた。[r]
-それに、社会生活をやり直そうという気力が湧くかどうかも[r]
-自信が持てない。[pcms]
+"I didn't know what I would have left to hold on to in the future. I[r]
+also wasn't confident whether I would have the willpower to start over[r]
+with my social life."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2419|
 [fc]
 [vo_stk s="satuki_st0251"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2420|
 [fc]
-ことり……と、僕の肩に南先輩が頭を預けてきた。[r]
-甘い髪の匂いと汗の匂い。肩からじわじわと広がる体温の暖かさ。[pcms]
+Kotori... and then Senior Minami rested her head on my shoulder. The[r]
+sweet smell of her hair mixed with the scent of sweat. The warmth of[r]
+her body temperature spreading slowly from my shoulder.[pcms]
 
 *2421|
 [fc]
-何も言わずに身体を預ける先輩に、僕は気付かされていた。[pcms]
+Without saying anything, as Senior entrusted her body to me, I was[r]
+made aware.[pcms]
 
 *2422|
 [fc]
-まだ、ひとりぽっちになった訳じゃない。[r]
-先輩がいる。お互い全てを一度失った者同士、きっと心の底まで[r]
-わかりあえる人が、僕の手の届く所に残されていた。[pcms]
+I wasn't completely alone yet. Senior was here. As someone who had[r]
+lost everything once, surely someone who could understand me to the[r]
+bottom of my heart was still within my reach.[pcms]
 
 *2423|
 [fc]
-それに越智さんだっている。[r]
-姉ちゃんだって、まだ駄目だって確定した訳じゃない。[pcms]
+And Ochi-san was there too. And it wasn't confirmed yet that my sister[r]
+was gone.[pcms]
 
 *2424|
 [fc]
-ならば、僕は、僕達は生き残るために何かしなくちゃならない。[r]
-自分達で、出来る事はやらなくちゃいけないんだ。[pcms]
+So, we have to do something to survive. We have to do what we can by[r]
+ourselves.[pcms]
 
 *2425|
 [fc]
-[ns]誠[nse]
-「これから……どうしますか？」[pcms]
+[ns]Makoto[nse]
+"What should we do now...?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi12"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2426|
 [fc]
 [vo_mis s="misao_st0158"]
-[ns]美沙緒[nse]
-「そうね。前向きに考えなくちゃ駄目ね。取り敢えずはここで[r]
-　凌げるだけ凌ぎましょう。いつまで持つかは判らないけど」[pcms]
+[ns]Misao[nse]
+"Well, we need to think positively. For now, let's hold out here as[r]
+long as we can. I don't know how long it will last though."[pcms]
 
 *2427|
 [fc]
-[ns]誠[nse]
-「それが一番ですかね。車も故障じゃなくて燃料切れだから、[r]
-　どうにも出来ないし……」[pcms]
+[ns]Makoto[nse]
+"Is that the best option? The car isn't broken, it's just out of fuel,[r]
+so there's nothing we can do about it..."[pcms]
 
 *2428|
 [fc]
 [vo_mis s="misao_st0159"]
-[ns]美沙緒[nse]
-「ええ。ここなら水道と電気が使えるのでしょ？[r]
-　それだけでもありがたいわ。電気が使えるなら回線が復旧しさえ[r]
-　すれば、情報を得られる可能性が高いもの」[pcms]
+[ns]Misao[nse]
+"Yes. If we can use water and electricity here, that's already a[r]
+blessing. If electricity is available, then if the lines are restored,[r]
+there's a high chance we can get information."[pcms]
 
 *2429|
 [fc]
-[ns]誠[nse]
-「そうですね」[pcms]
+[ns]Makoto[nse]
+"That's true."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2430|
 [fc]
 [vo_stk s="satuki_st0252"]
-[ns]彩月[nse]
-「……そんなこと、誰でも考えつくことだわ」[pcms]
+[ns]Satsuki[nse]
+"...Anyone could have thought of that."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi06"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2431|
 [fc]
 [vo_mis s="misao_st0160"]
-[ns]美沙緒[nse]
-「え？　あ、ええそうね……」[pcms]
+[ns]Misao[nse]
+"Eh? Oh, yes, that's true..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2432|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2433|
 [fc]
-南先輩の表情に不満が表れていた。美沙緒さんが話の中心に[r]
-なったのが気に入らないのか、それともさっきの稼津央さんの[r]
-話なんかで、更にわだかまりが産まれたのか……。[pcms]
+Senior Minami's expression showed dissatisfaction. Whether she[r]
+disliked Misao-san being the center of the conversation or if the talk[r]
+about Natsu had caused more resentment...[pcms]
 
 *2434|
 [fc]
-どっちなのか、あるいは両方なのか、僕にはわからなかったけど、[r]
-取り敢えず今は、協力し合っていくしかない。[r]
-南先輩だって、その点はわかっているんだと思いたかった。[pcms]
+Whether it was one or the other, or both, I didn't know, but for now,[r]
+we had no choice but to cooperate. I wanted to believe that Senior[r]
+Minami understood that too.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -695,104 +698,105 @@
 *2435|
 [fc]
 [vo_mis s="misao_st0161"]
-[ns]美沙緒[nse]
-「食料と水を溜める容器を手に入れたほうがいいわね。[r]
-　水道が使える内に水を溜めておきましょう。冷蔵庫も[r]
-　通電して、どこかから食料品を調達しましょう」[pcms]
+[ns]Misao[nse]
+"We should get containers to store food and water. Let's collect water[r]
+while we still can use the tap. We should also power the refrigerator[r]
+and procure food from somewhere."[pcms]
 
 *2436|
 [fc]
-[ns]誠[nse]
-「う～ん。徒歩で行ける圏内でどうにかしないとならないですよね」[pcms]
+[ns]Makoto[nse]
+"Hmm. We'll have to manage somehow within walking distance."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2437|
 [fc]
 [vo_stk s="satuki_st0253"]
-[ns]彩月[nse]
-「さっきの集落に戻ればいいんじゃない？[r]
-　ここからだったら、大した距離じゃないわ」[pcms]
+[ns]Satsuki[nse]
+"Why don't we go back to the village we passed earlier? It's not that[r]
+far from here."[pcms]
 
 *2438|
 [fc]
-[ns]誠[nse]
-「でも、あそこにも……」[pcms]
+[ns]Makoto[nse]
+"But there were also..."[pcms]
 
 *2439|
 [fc]
 [vo_stk s="satuki_st0254"]
-[ns]彩月[nse]
-「さっき誠君が結構な人数を葬ったじゃない？[r]
-　アイツら、あの集落から来たんじゃないかな？[r]
-　だとしたら、空き家になってるんじゃない？」[pcms]
+[ns]Satsuki[nse]
+"Didn't you take care of quite a number of them earlier, Makoto? They[r]
+might have come from that village. If so, there might be empty houses[r]
+now."[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi02"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2440|
 [fc]
 [vo_mis s="misao_st0162"]
-[ns]美沙緒[nse]
-「そういうことなら、そうしましょう。民家の状態が[r]
-　良いようだったら、そっちに移るという手もあるわね。[r]
-　お風呂も使えるかもしれないし」[pcms]
+[ns]Misao[nse]
+"If that's the case, let's do that. If the condition of the houses is[r]
+good, we could move there. We might even be able to use a bath."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2441|
 [fc]
 [vo_stk s="satuki_st0255"]
-[ns]彩月[nse]
-「お風呂？　そんなことを心配するなんて、随分と呑気だこと」[pcms]
+[ns]Satsuki[nse]
+"A bath? Worrying about such a thing at a time like this, you're quite[r]
+laid-back."[pcms]
 
 *2442|
 [fc]
-[ns]誠[nse]
-「……先輩。トゲありすぎです。僕だって入れるもんなら[r]
-　お風呂入りたいですよ。女性ならなおさらじゃないんですか？」[pcms]
+[ns]Makoto[nse]
+"...Senior. That's a bit too prickly. I'd like to take a bath if I[r]
+could too. Isn't that even more true for women?"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2443|
 [fc]
 [vo_stk s="satuki_st0256"]
-[ns]彩月[nse]
-「…………そうかもね」[pcms]
+[ns]Satsuki[nse]
+"...Maybe so."[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi01"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2444|
 [fc]
 [vo_mis s="misao_st0163"]
-[ns]美沙緒[nse]
-「いつ、動きましょうか？」[pcms]
+[ns]Misao[nse]
+"When should we move?"[pcms]
 
 *2445|
 [fc]
-美沙緒さんは南先輩の嫌みなんかちっとも気にしないで、[r]
-サラッと次の案件へと移していた。[pcms]
+Misao-san didn't seem to care about Senior Minami's sarcasm at all and[r]
+smoothly moved on to the next issue.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2446|
 [fc]
 [vo_stk s="satuki_st0257"]
-[ns]彩月[nse]
-「そうね……まずはもう一度周囲を確かめた方がいいでしょうね」[pcms]
+[ns]Satsuki[nse]
+"Well... first we should check our surroundings again."[pcms]
 
 [chara_int_ layer=3][trans_c cross time=150]
 
 *2447|
 [fc]
-そう言うと、南先輩はコップを置き、窓際へと低い姿勢で[r]
-動き始めた。[pcms]
+With that said, Senior Minami put down her cup and started moving[r]
+towards the window with a low posture.[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi23"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2448|
 [fc]
-僕も腰をかがめて後に従う。美沙緒さんは一瞬、ちょっと辛そうな[r]
-表情をしたけれど、体制を低くして、僕の後についてきた。[pcms]
+I also bent down and followed behind her. Misao-san made a slightly[r]
+pained expression for a moment but then lowered her stance and[r]
+followed after me.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -800,46 +804,45 @@
 *2449|
 [fc]
 [vo_stk s="satuki_st0258"]
-[ns]彩月[nse]
-「……増えてるわ」[pcms]
+[ns]Satsuki[nse]
+"...There are more of them."[pcms]
 
 *2450|
 [fc]
-窓から覗き込んだ先輩の顔が、瞬時に強ばった。[r]
-僕も続いて覗いてみると、新手の感染者がのたりのたりと[r]
-歩いているのを見つける。[pcms]
+Senior Minami's face tensed up instantly as she peered out the window.[r]
+Following her gaze, I too saw new infected staggering around.[pcms]
 
 *2451|
 [fc]
-[ns]誠[nse]
-「どっから来たんだろう？　あの集落はそんなに人が多いとは[r]
-　思えなかったんだけど……」[pcms]
+[ns]Makoto[nse]
+"Where did they come from? I didn't think that village had so many[r]
+people..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2452|
 [fc]
 [vo_mis s="misao_st0164"]
-[ns]美沙緒[nse]
-「町からあがってきてるのかもしれなわ」[pcms]
+[ns]Misao[nse]
+"They might be coming up from the town."[pcms]
 
 *2453|
 [fc]
-美沙緒さんも、窓から外を覗き込みながら呟いた。[pcms]
+Misao-san also muttered while peering outside the window.[pcms]
 
 *2454|
 [fc]
 [vo_mis s="misao_st0165"]
-[ns]美沙緒[nse]
-「二人とも、空を見て。黒煙が上がってるのが見える？[r]
-　町の方で火災が起きていたわ」[pcms]
+[ns]Misao[nse]
+"Both of you, look at the sky. Can you see the black smoke rising?[r]
+There's been a fire in the town."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2455|
 [fc]
-確かに夕空に、黒っぽい煙があちらこちらから[r]
-空に向かって伸びているのが見えた。[pcms]
+Indeed, in the evening sky, blackish smoke could be seen rising here[r]
+and there into the air.[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi05"][ChrSetXY layer=4 x=720 y=0]
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -847,236 +850,235 @@
 *2456|
 [fc]
 [vo_mis s="misao_st0166"]
-[ns]美沙緒[nse]
-「人口密集地で飽和したヤツラは新しい獲物を求めて移動する。[r]
-　その時は、恐れている火から遠ざかろうとする傾向が強いの」[pcms]
+[ns]Misao[nse]
+"The infected in densely populated areas move in search of new prey[r]
+when they're saturated. They tend to move away from the fire they[r]
+fear."[pcms]
 
 *2457|
 [fc]
 [vo_stk s="satuki_st0259"]
-[ns]彩月[nse]
-「……だとしたら、いずれこの山の中にも、もっとアイツらが[r]
-　向かってきて増える可能性が高いってこと？」[pcms]
+[ns]Satsuki[nse]
+"...So you're saying that eventually more of them will head into these[r]
+mountains and their numbers might increase?"[pcms]
 
 *2458|
 [fc]
 [vo_mis s="misao_st0167"]
-[ns]美沙緒[nse]
-「その通りよ。だから、これ以上増える前に行動を起こした方が[r]
-　いいと思うわ。少なくとも水の容器の確保は急がないと。[r]
-　昼間はまだ暑いでしょ？　水が必要だと思うわ」[pcms]
+[ns]Misao[nse]
+"Exactly. That's why we should take action before their numbers[r]
+increase any further. We need to secure water containers as soon as[r]
+possible. It's still hot during the day, right? We'll need water."[pcms]
 
 *2459|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2460|
 [fc]
-美沙緒さんの言うとおりだった。だとしたら、僕が行くしかない。[r]
-さっきだって２０人近くをぶったおせたんだ。[r]
-今度も絶対大丈夫……なはず。[pcms]
+What Misao-san said was right. If that's the case, I have no choice[r]
+but to go. I was able to take down nearly 20 of them earlier. It has[r]
+to be okay this time too...[pcms]
 
 *2461|
 [fc]
-[ns]誠[nse]
-「僕が行きますよ。すぐに出られる用意をします」[pcms]
+[ns]Makoto[nse]
+"I'll go. I'll get ready to leave right away."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st22"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2462|
 [fc]
 [vo_stk s="satuki_st0260"]
-[ns]彩月[nse]
-「駄目よ、誠君。さっきの事でまだ身体が疲れてるはずよ。[r]
-　今度はわたしが行くわ」[pcms]
+[ns]Satsuki[nse]
+"No, Makoto-kun. You must still be tired from earlier. This time I'll[r]
+go."[pcms]
 
 *2463|
 [fc]
-[ns]誠[nse]
-「大丈夫ですよ、先輩。心配しないで待っててください」[pcms]
+[ns]Makoto[nse]
+"I'm fine, Senior. Please don't worry and just wait here."[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi04"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2464|
 [fc]
 [vo_mis s="misao_st0168"]
-[ns]美沙緒[nse]
-「私も一緒に行くわ。一人だと危ないから」[pcms]
+[ns]Misao[nse]
+"I'll go with you. It's dangerous to go alone."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2465|
 [fc]
 [vo_stk s="satuki_st0261"]
-[ns]彩月[nse]
-「あなたが行っても足手まといになるだけ。[r]
-　まだ足の調子や身体の調子が良くないんじゃないの？」[pcms]
+[ns]Satsuki[nse]
+"You'll just be a burden if you go. Isn't your leg and your body's[r]
+condition still not good?"[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi02"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2466|
 [fc]
 [vo_mis s="misao_st0169"]
-[ns]美沙緒[nse]
-「ご心配ありがとう。でも、足の具合は大分良くなったわ」[pcms]
+[ns]Misao[nse]
+"Thank you for your concern, but my leg is much better now."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2467|
 [fc]
 [vo_stk s="satuki_st0262"]
-[ns]彩月[nse]
-「いいえ。少しでも弱点があるのは困るわ」[pcms]
+[ns]Satsuki[nse]
+"No. We can't afford to have any weaknesses."[pcms]
 
 *2468|
 [fc]
-南先輩は、最初から喧嘩腰だった。[r]
-美沙緒さんは、何とかかわして、済まそうとしているけど、[r]
-逆に火に油を注いでいるような気がしていた。[pcms]
+Senior Minami had been confrontational from the start. Misao-san was[r]
+trying to deflect and settle things, but it felt like she was only[r]
+adding fuel to the fire.[pcms]
 
 *2469|
 [fc]
-[ns]誠[nse]
-「あの……協力し合いましょうよ。美沙緒さん、僕がひとりで[r]
-　行きますから大丈夫ですよ。ね、南先輩も……」[pcms]
+[ns]Makoto[nse]
+"Um... let's cooperate. Misao-san, it's okay, I can go by myself.[r]
+Right, Senior Minami...?"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2470|
 [fc]
 [vo_stk s="satuki_st0263"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi06"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *2471|
 [fc]
 [vo_mis s="misao_st0170"]
-[ns]美沙緒[nse]
-「でも…………」[pcms]
+[ns]Misao[nse]
+"But..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2472|
 [fc]
-僕は、さっさと仕度をしようと少し腰を浮かせた。[r]
-その時、僕の視界に、見覚えのある人影が映り込んでくる。[pcms]
+I quickly tried to get ready, lifting my hips slightly. That's when I[r]
+caught sight of a familiar figure entering my field of vision.[pcms]
 
 ;//めも：夏都の服装が明確に判明してないので、立ち絵スルーします。
 
 *2473|
 [fc]
-――姉ちゃん[pcms]
+--Onee-san[pcms]
 
 *2474|
 [fc]
-僕の身体がびくんと反応し、思わず窓際にすがりつく。[r]
-その先、新たな感染者がうろついている中に、見間違ようもない[r]
-姉ちゃん、夏都姉ちゃんの姿が紛れていた。[pcms]
+My body jerked in reaction, and I instinctively clung to the window[r]
+sill. Among the new infected wandering around, there was no mistaking[r]
+itit was Onee-san, Natsu Onee-san.[pcms]
 
 *2475|
 [fc]
 [vo_stk s="satuki_st0264"]
-[ns]彩月[nse]
-「！！」[pcms]
+[ns]Satsuki[nse]
+"!!"[pcms]
 
 *2476|
 [fc]
-姉ちゃんと視線が絡み合う……そう感じた瞬間、[r]
-僕の身体は南先輩によって、伏せさせられていた。[pcms]
+The moment our gazes seemed to intertwine, my body was forced down by[r]
+Senior Minami.[pcms]
 
 *2477|
 [fc]
-[ns]誠[nse]
-「は、離してください、先輩。姉ちゃんが……姉ちゃんが」[pcms]
+[ns]Makoto[nse]
+"Please let me go, Senior. Onee-san... Onee-san is"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2478|
 [fc]
 [vo_stk s="satuki_st0265"]
-[ns]彩月[nse]
-「静かにしなさい。美沙緒さん、手を貸して」[pcms]
+[ns]Satsuki[nse]
+"Be quiet. Misao-san, give me a hand here."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2479|
 [fc]
-僕の身体は、先輩と美沙緒さんに引きずられるようにして、[r]
-奥の土間へと連れ去られていた。[pcms]
+My body was dragged away by Senior and Misao-san towards the back of[r]
+the room.[pcms]
 
 *2480|
 [fc]
-南先輩が僕の口をふさぎ、そっと柱の陰から[r]
-遠くの窓を見張っている。[pcms]
+Senior Minami covered my mouth and quietly watched the distant window[r]
+from behind a pillar.[pcms]
 
 *2481|
 [fc]
-僕にとっては見慣れた姿の人物が、窓際近くまで来ていた。[pcms]
+A person with a familiar figure had come close to the window.[pcms]
 
 *2482|
 [fc]
 [vo_nat s="natu_st0001"]
-[ns]夏都[nse]
-「ま……ごど……？」[pcms]
+[ns]Natsu[nse]
+"Ma...koto...?"[pcms]
 
 *2483|
 [fc]
-紛れもなく、それは夏都姉ちゃんだった。[r]
-その目は紅く光り、どろんと淀んでいた。[pcms]
+It was unmistakably Natsu Onee-san. Her eyes were glowing red and[r]
+looked muddy.[pcms]
 
 *2484|
 [fc]
-[ns]誠[nse]
-「……っ！！」[pcms]
+[ns]Makoto[nse]
+"...!!"[pcms]
 
 *2485|
 [fc]
-ぽたぽたと涙が零れだし、僕の口を塞ぐ南先輩の手を濡らす。[r]
-同時に歯が鳴るほど、ガチガチと身体が震えだした。[pcms]
+Tears began to fall, wetting Senior Minami's hand that was covering my[r]
+mouth, and at the same time, my body started shaking violently.[pcms]
 
 *2486|
 [fc]
 [vo_nat s="natu_st0002"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *2487|
 [fc]
-ぼんやりとした目つきのまま、姉ちゃんは窓際から[r]
-離れていってしまった。[pcms]
+With a vacant look in her eyes, Onee-san moved away from the window.[pcms]
 
 *2488|
 [fc]
-[ns]誠[nse]
-「……うっ」[pcms]
+[ns]Makoto[nse]
+"...uh"[pcms]
 
 *2489|
 [fc]
-涙の止まらない僕を、南先輩がぎゅっと抱きしめる。[r]
-僕は先輩にすがりつきながら、必死に嗚咽を我慢した。[pcms]
+Senior Minami hugged me tightly as tears wouldn't stop flowing.[r]
+Clinging to Senior, I desperately tried to suppress my sobs.[pcms]
 
 *2490|
 [fc]
-もう姉ちゃんは駄目だ。決定的な姿を見てしまった。[r]
-あきらめなくちゃいけない。[pcms]
+Onee-san was beyond saving. Having witnessed that decisive scene, I[r]
+knew I had to give up.[pcms]
 
 *2491|
 [fc]
-でも、でも……自分の予想を上回る喪失感が[r]
-僕を[ruby text="さいな"]苛んだ。[pcms]
+But, the sense of loss that exceeded my expectations tormented me.[pcms]
 
 *2492|
 [fc]
 [vo_stk s="satuki_st0266"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2493|
 [fc]
-震え続ける僕を南先輩は無言のまま抱きしめ続けてくれた。[pcms]
+Senior Minami continued to hug me silently as I kept trembling.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1086,73 +1088,73 @@
 
 *2494|
 [fc]
-[ns]誠[nse]
-「ず、ずびまてん……みっともなぐ泣いちゃって……」[pcms]
+[ns]Makoto[nse]
+"I'm sorry... It's shameful for me to be crying like this..."[pcms]
 
 *2495|
 [fc]
-僕はまだ鼻をすすりながら、南先輩から身体を離した。[r]
-泣きたいだけ泣かせて貰って、少しだけ気持ちが落ち着いてくる。[pcms]
+I still sniffled as I pulled away from Senior Minami. After crying all[r]
+I wanted, I felt a little more composed.[pcms]
 
 *2496|
 [fc]
 [vo_stk s="satuki_st0267"]
-[ns]彩月[nse]
-「いいのよ。気にしないで。それよりも……」[pcms]
+[ns]Satsuki[nse]
+"It's okay. Don't worry about it. More importantly..."[pcms]
 
 *2497|
 [fc]
-南先輩は、美沙緒さんを鋭く見ながら言葉を続けた。[pcms]
+Senior Minami continued speaking while sharply looking at Misao-san.[pcms]
 
 *2498|
 [fc]
 [vo_stk s="satuki_st0268"]
-[ns]彩月[nse]
-「誠君は休んでいて欲しいわ。だから、わたしとこの人とで、[r]
-　水の容器やらを調達してくるから」[pcms]
+[ns]Satsuki[nse]
+"I want you to rest, Makoto-kun. So, this person and I will go get the[r]
+water containers."[pcms]
 
 *2499|
 [fc]
-[ns]誠[nse]
-「い゛え゛……大丈夫です。僕が、行ってきます」[pcms]
+[ns]Makoto[nse]
+"No... I'm fine. I'll go."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2500|
 [fc]
 [vo_stk s="satuki_st0269"]
-[ns]彩月[nse]
-「頼むから、言うことをきいて。先輩の言いつけに従いなさい。[r]
-　それでいいですよね、美沙緒さん？」[pcms]
+[ns]Satsuki[nse]
+"Please, just listen to what I say. Follow your senior's instructions.[r]
+That's fine with you, right, Misao-san?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2501|
 [fc]
 [vo_mis s="misao_st0171"]
-[ns]美沙緒[nse]
-「ええ、かまわないわ。中澤君、君、さっき頑張ったんだから、[r]
-　ちょっとは休んでて欲しいって、私も思うわ」[pcms]
+[ns]Misao[nse]
+"Yes, it's fine with me. Nakazawa-kun, you've done enough just now, so[r]
+I also think you should rest a bit."[pcms]
 
 *2502|
 [fc]
-[ns]誠[nse]
-「………………はい。わかりました。くれぐれも気をつけて」[pcms]
+[ns]Makoto[nse]
+"...Yes. Understood. Please be careful."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2503|
 [fc]
 [vo_stk s="satuki_st0270"]
-[ns]彩月[nse]
-「じゃあ、早速取りかかりましょう。仕度をするわ」[pcms]
+[ns]Satsuki[nse]
+"Then, let's get started right away. I'll prepare."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2504|
 [fc]
-そう言って南先輩は荷物を持って奥の部屋へ向かう。[r]
-美沙緒さんも、続いて奥の部屋へ入っていった。[pcms]
+With that, Senior Minami took her belongings and headed towards the[r]
+back room. Misao-san also followed into the back room.[pcms]
 
 [sysbt_meswin clear]
 

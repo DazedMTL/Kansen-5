@@ -18,225 +18,222 @@
 
 *912|
 [fc]
-[ns]誠[nse]
-「ん……」[pcms]
+[ns]Makoto[nse]
+"Hmm..."[pcms]
 
 *913|
 [fc]
 [vo_stk s="satuki0148"]
-[ns]彩月[nse]
-「目が覚めた？」[pcms]
+[ns]Satsuki[nse]
+"Did you wake up?"[pcms]
 
 *914|
 [fc]
-気が付くと、僕はベンチらしき物の上に、[r]
-寝かされているみたいだった。[pcms]
+I realized that I was lying on something like a bench.[pcms]
 
 *915|
 [fc]
-背中に固い感触と、後頭部の辺りにやわらかな[r]
-温もりを感じる。[pcms]
+I felt a hard sensation against my back and a soft warmth around the[r]
+back of my head.[pcms]
 
 *916|
 [fc]
-[ns]誠[nse]
-「え……南先輩！？」[pcms]
+[ns]Makoto[nse]
+"Eh... Minami-senpai!?"[pcms]
 
 [bgm storage="BGM19"]
 ;//♪bgm19　ふたりっきり。哀愁系。
 
 *917|
 [fc]
-見上げるようなアングルの南先輩に、柔らかな感触……、[r]
-膝枕をされているんだと思い至った僕は、[r]
-勢いよく身体を起き上がらせる。[pcms]
+Looking up at Minami-senpai from an angle, I realized I was being[r]
+given a lap pillow by her soft touch, and I quickly sat up.[pcms]
 
 *918|
 [fc]
-なんで南先輩がここに？[r]
-いや、僕は何をして……。[pcms]
+Why is Minami-senpai here? No, what was I doing...?[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *919|
 [fc]
 [vo_stk s="satuki0149"]
-[ns]彩月[nse]
-「自転車でコンビニに来たら巻き込まれちゃってね、[r]
-　中澤君も無事で良かった」[pcms]
+[ns]Satsuki[nse]
+"I got caught up in this mess when I came to the convenience store by[r]
+bike, but thank goodness you're safe, Nakazawa-kun."[pcms]
 
 *920|
 [fc]
-[ns]誠[nse]
-「僕も、南先輩のことを心配していたんですけど……」[pcms]
+[ns]Makoto[nse]
+"I was also worried about you, Minami-senpai..."[pcms]
 
 *921|
 [fc]
-頭が混乱している。[r]
-急がなくちゃいけないという思いが、僕の胸を焦らしていた。[pcms]
+My head was in turmoil. The feeling that I had to hurry was making my[r]
+chest burn with anxiety.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *922|
 [fc]
 [vo_stk s="satuki0150"]
-[ns]彩月[nse]
-「越智さんとお姉さんは、今のところ無事よ」[pcms]
+[ns]Satsuki[nse]
+"Ochi-san and your sister are safe for now."[pcms]
 
 *923|
 [fc]
-[ns]誠[nse]
-「そうだ！」[pcms]
+[ns]Makoto[nse]
+"That's right!"[pcms]
 
 *924|
 [fc]
-その言葉で、僕は気を失う前のことを思い出す。[r]
-姉ちゃんを消化器で殴りつけて、越智さんが……。[pcms]
+With those words, I remembered what happened before I lost[r]
+consciousness. I hit my sister with a fire extinguisher, and Ochi-[r]
+san...[pcms]
 
 *925|
 [fc]
-二人の姿を探すために慌てて辺りを見渡す。[r]
-今のところ無事って、どういう……。[pcms]
+I hurriedly looked around for the two of them. What does she mean by[r]
+'safe for now'...?[pcms]
 
 *926|
 [fc]
-[ns]誠[nse]
-「うっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *927|
 [fc]
-出入り口らしき扉近くの強化ガラスに、[r]
-赤黒い血が飛び散っている。[pcms]
+On the reinforced glass near what seemed to be the entrance, there was[r]
+blood splattered in a dark red color.[pcms]
 
 *928|
 [fc]
-感染者のものなのか、それとも……。[pcms]
+Was it from an infected person, or...?[pcms]
 
 *929|
 [fc]
-僕の視線の先を見て、[r]
-南先輩が淡々とそのときのことを話し始めた。[pcms]
+Minami-senpai began to talk about what happened then, following my[r]
+gaze.[pcms]
 
 *930|
 [fc]
 [vo_stk s="satuki0151"]
-[ns]彩月[nse]
-「感染者が大勢迫っていたからね、[r]
-　誰かが急いで扉を閉めなくちゃいけなかったの」[pcms]
+[ns]Satsuki[nse]
+"There were a lot of infected people pressing in, so someone had to[r]
+close the door quickly."[pcms]
 
 *931|
 [fc]
-[ns]誠[nse]
-「え……？」[pcms]
+[ns]Makoto[nse]
+"Eh...?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *932|
 [fc]
 [vo_stk s="satuki0152"]
-[ns]彩月[nse]
-「西君が扉の向こうに残って、入口を閉めてくれたのよ」[pcms]
+[ns]Satsuki[nse]
+"Nishi-kun stayed on the other side of the door and closed it for us."[pcms]
 
 *933|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *934|
 [fc]
-西君……フランク先輩が……、[r]
-自分を犠牲にして扉の向こうに……。[pcms]
+Nishi-kun... Frank-senpai sacrificed himself to stay on the other side[r]
+of the door...[pcms]
 
 *935|
 [fc]
-僕たちを迎え入れたばっかりに、[r]
-こんなことになるなんて……。[pcms]
+Just because he welcomed us in, this had to happen...[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *936|
 [fc]
 [vo_stk s="satuki0153"]
-[ns]彩月[nse]
-「お姉さんは意識を失ったままだけど、無事と言えば無事よ。[r]
-　医者に診せないと詳しいことはわからないけれど」[pcms]
+[ns]Satsuki[nse]
+"Your sister is still unconscious but safe, I suppose. We won't know[r]
+more until a doctor sees her."[pcms]
 
 *937|
 [fc]
-[ns]誠[nse]
-「お、越智さんは……？」[pcms]
+[ns]Makoto[nse]
+"Ochi-san is...?"[pcms]
 
 *938|
 [fc]
-越智さんは、僕を助けるために感染者に腕を噛まれていた。[r]
-無事って言うけど、今はどうして……？[pcms]
+Ochi-san was bitten on the arm by an infected person trying to save[r]
+me. She says she's safe, but what's happening now...?[pcms]
 
 *939|
 [fc]
-気を失っていた僕が目を覚まして、[r]
-キョロキョロしている姿が目に付いたんだろう。[pcms]
+Having regained consciousness, my bewildered looking around must have[r]
+caught their attention.[pcms]
 
 *940|
 [fc]
-生き残っている鶯谷学園の生徒やチアー部のコーチ、[r]
-一般客まで僕に冷たい視線を送ってくる。[pcms]
+The surviving students of Uguisudani Academy, the cheerleading coach,[r]
+and even the regular customers were all giving me cold stares.[pcms]
 
 *941|
 [fc]
-僕が……ミスをしたから……。[pcms]
+It's because I made a mistake...[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *942|
 [fc]
 [vo_stk s="satuki0154"]
-[ns]彩月[nse]
-「越智さんは応急手当をして休んでいるわ」[pcms]
+[ns]Satsuki[nse]
+"Ochi-san is resting after receiving first aid."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *943|
 [fc]
-ショッピングエリアに逃げ込んだ人たちは、[r]
-みんな床に座り込んでうつむいていた。[pcms]
+The people who fled into the shopping area were all sitting on the[r]
+floor, looking downcast.[pcms]
 
 *944|
 [fc]
-外壁に面していない店舗は開放されていて、[r]
-そこに落ち着いている人もいる。[pcms]
+Stores not facing the outer walls were open, and some people had[r]
+settled down there.[pcms]
 
 *945|
 [fc]
-酷く混乱して、知り合いに慰められている人もいれば、[r]
-親しい人を亡くしたのか、泣き崩れている人、[r]
-咳き込んでいる人なんかもいた。[pcms]
+Some were in great confusion, being comforted by acquaintances; others[r]
+were crying their hearts out, perhaps having lost someone close; and[r]
+some were coughing.[pcms]
 
 *946|
 [fc]
-そういった人たちから離れた場所に、[r]
-稼津央さんと黒服の部下……それに越智さんがいた。[pcms]
+Away from these people were Katsuo-san and his men in black suits...[r]
+and Ochi-san.[pcms]
 
 *947|
 [fc]
-何か話さないといけない。[r]
-僕の顔なんか見たくもないだろうけれど……。[pcms]
+I have to say something. They probably don't even want to see my face,[r]
+but...[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *948|
 [fc]
 [vo_stk s="satuki0155"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *949|
 [fc]
-僕はゆっくりと越智さんの方に向かって歩いて行く。[r]
-なじってくれれば楽だけど、越智さんはきっと……。[pcms]
+I slowly walked towards Ochi-san. It would be easier if she scolded[r]
+me, but I'm sure Ochi-san...[pcms]
 
 ;//◆ＳＥ　打撃音
 
@@ -249,31 +246,31 @@
 
 *950|
 [fc]
-ショッピングエリアの中程まで進んだところで、[r]
-僕はいきなり横合いから殴りつけられた。[pcms]
+As I made my way to the middle of the shopping area, I was suddenly[r]
+struck from the side.[pcms]
 
 *951|
 [fc]
-全く身構えていなかった僕は、地面に打ち付けられるように[r]
-殴り倒されてしまう。[pcms]
+Completely unprepared, I was knocked down to the ground as if slammed[r]
+by the blow.[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *952|
 [fc]
-[ns]荒井[nse]
-「てんめぇっ！　良くもノコノコと現れやがったな！」[pcms]
+[ns]Arai[nse]
+"You bastard! How dare you show up here!"[pcms]
 
 *953|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *954|
 [fc]
-[ns]荒井[nse]
-「茜梨ちゃんのところに行ってどうするつもりだったんだよ！[r]
-　ごめんなさいで済ませつもりか！　このクズがっ！」[pcms]
+[ns]Arai[nse]
+"What were you planning to do by going to Akari-chan? You think a[r]
+simple 'sorry' will cut it? You scum!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -281,36 +278,36 @@
 
 *955|
 [fc]
-[ns]宗一郎[nse]
-「やめろ！　荒井！」[pcms]
+[ns]Souichirou[nse]
+"Stop it, Arai!"[pcms]
 
 *956|
 [fc]
-駆け寄ってきたそーいちが荒井の身体を羽交い締めにしている。[r]
-騒ぎを聞きつけた越智さんがこちらに向かってくるのが見えた。[pcms]
+Souichirou rushed over and restrained Arai. I could see Ochi-san[r]
+heading our way after hearing the commotion.[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *957|
 [fc]
-[ns]荒井[nse]
-「なにが期待しないでくれだ！[r]
-　テメエが一番足手まといなんだよっ！」[pcms]
+[ns]Arai[nse]
+"What do you mean 'don't expect anything from me'! You're the biggest[r]
+hindrance here!"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so06a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *958|
 [fc]
-[ns]宗一郎[nse]
-「騒ぐなっ！　状況を考えろっ！」[pcms]
+[ns]Souichirou[nse]
+"Quiet down! Think about the situation!"[pcms]
 
 ;//m:ネーム荒井になってたけど宗一郎かな？
 
 *959|
 [fc]
-[ns]荒井[nse]
-「さすが経験者様はひと味違うなぁ！？[r]
-　誰にも真似できねえプレイだったよっ！」[pcms]
+[ns]Arai[nse]
+"As expected from someone with experience, huh?! That was a play no[r]
+one else could replicate!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -319,332 +316,321 @@
 *960|
 [fc]
 [vo_aka s="akari0287"]
-[ns]茜梨[nse]
-「やめてください！　荒井先輩！」[pcms]
+[ns]Akari[nse]
+"Please stop! Senior Arai!"[pcms]
 
 *961|
 [fc]
-越智さんが間に入ると、荒井はバツが悪そうに[r]
-横を向いてしまう。[pcms]
+When Ochi-san stepped in, Arai turned away, looking embarrassed.[pcms]
 
 *962|
 [fc]
-なんて声をかければいいのかわからないんだろう。[r]
-僕も、正直に言ってわからない。[pcms]
+I don't know what to say. Honestly, I don't know either.[pcms]
 
 *963|
 [fc]
-ふと、さしのべられた手を見上げると、[r]
-それは稼津央さんのものだった。[pcms]
+When I looked up at the hand extended to me, it belonged to Katsuo-[r]
+san.[pcms]
 
 *964|
 [fc]
-大事な[ruby text="めいご"][ch text="姪御"]さんをこんな目に合わせてしまって、[r]
-稼津央さんにも合わせる顔がない。[pcms]
+Having put his precious niece through this, I couldn't face Katsuo-san[r]
+either.[pcms]
 
 *965|
 [fc]
-僕はその手を借りずに、自分一人で起き上がって[r]
-切れた唇をぬぐった。[pcms]
+Without taking his hand, I got up on my own and wiped my split lip.[pcms]
 
 *966|
 [fc]
-[ns]誠[nse]
-「越智さん……なんて謝ればいいか……」[pcms]
+[ns]Makoto[nse]
+"Ochi-san... I don't know how to apologize..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *967|
 [fc]
 [vo_aka s="akari0288"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *968|
 [fc]
-[ns]荒井[nse]
-「いい加減にしろっ！[r]
-　お前がしゃべるとみんなが傷つくんだよっ！」[pcms]
+[ns]Arai[nse]
+"Cut it out already! Every time you speak, you hurt everyone!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *969|
 [fc]
-確かにそうかもしれない。[r]
-僕に苛ついている人、かばおうとする人。[r]
-みんなが必要のない労力を強いられてしまう。[pcms]
+That might be true. People are irritated with me, others try to defend[r]
+me. Everyone is being forced to expend unnecessary effort.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *970|
 [fc]
-それでも……越智さんにだけは、[r]
-謝らなければいけないと思った。[pcms]
+But still... I felt that I had to apologize to Ochi-san.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *971|
 [fc]
-[ns]稼津央[nse]
-「私はバックヤードのセキュリティルームから、[r]
-　君たちの囮作戦を防犯カメラで見ていた。[r]
-　中澤君は立派だったじゃないか、責められるべきじゃない」[pcms]
+[ns]Kazuo[nse]
+"I was watching your decoy operation from the security room in the[r]
+backyard. Nakazawa-kun did a fine job; he shouldn't be blamed."[pcms]
 
 *972|
 [fc]
-[ns]誠[nse]
-「でも……」[pcms]
+[ns]Makoto[nse]
+"But..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *973|
 [fc]
-[ns]稼津央[nse]
-「ああ、茜梨は感染してしまった可能性がある。[r]
-　予防接種を受けていた人たちが感染しているからな」[pcms]
+[ns]Kazuo[nse]
+"Yes, there's a possibility that Akari has been infected. People who[r]
+had been vaccinated are getting infected."[pcms]
 
 *974|
 [fc]
-３階の生徒達はみんな予防接種を受けていたはずだ。[r]
-でも、まったく効果が出ていない……。[pcms]
+All the students on the third floor should have been vaccinated. But[r]
+it seems to have had no effect...[pcms]
 
 *975|
 [fc]
-[ns]稼津央[nse]
-「インフルエンザも種類によって予防効果が出ないことがある。[r]
-　それと同じ事なのかも知れない」[pcms]
+[ns]Kazuo[nse]
+"There are types of influenza where vaccines don't work. It might be[r]
+the same case here."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *976|
 [fc]
-[ns]荒井[nse]
-「今更そんなことがわかったって……」[pcms]
+[ns]Arai[nse]
+"What good does it do to know that now..."[pcms]
 
 *977|
 [fc]
 [vo_aka s="akari0289"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *978|
 [fc]
-確かに、今更どうしようもないことだ。[r]
-正常さを保っていることが、逆に残酷なことになる。[pcms]
+Indeed, it's too late for anything now. Maintaining normalcy becomes[r]
+cruel in its own way.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz06"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *979|
 [fc]
-[ns]稼津央[nse]
-「まだ発症していないが、話が本当なら、そのうち[r]
-　奴らと同じように脳が破壊されるろう」[pcms]
+[ns]Kazuo[nse]
+"She hasn't shown symptoms yet, but if the story is true, her brain[r]
+will eventually be destroyed just like theirs."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *980|
 [fc]
 [vo_aka s="akari0290"]
-[ns]茜梨[nse]
-「私は……自分で死ぬ勇気はありません。[r]
-　どこかに閉じ込めて頂ければ……、[r]
-　何もわからなくなって……」[pcms]
+[ns]Akari[nse]
+"I don't have the courage to die by my own hand. If you could lock me[r]
+away somewhere... before I become unaware of everything..."[pcms]
 
 *981|
 [fc]
-越智さんはこんなことになっているのに、[r]
-僕を責める気は少しもないみたいだった。[pcms]
+Ochi-san doesn't seem to blame me at all, even though she's going[r]
+through this.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *982|
 [fc]
-稼津央さんも、そーいちも、南先輩も、[r]
-みんな僕を責めない……。[pcms]
+Katsuo-san, Souichirou, Senior Minami, none of them blame me...[pcms]
 
 *983|
 [fc]
-[ns]一般客Ａ[nse]
-「閉じ込めるだけで、大丈夫なのかよ……」[pcms]
+[ns]General Customer A[nse]
+"Is it really okay just to lock her up...?"[pcms]
 
 *984|
 [fc]
-ぼそっと、遠巻きに見ていた一般客から[r]
-そんな声が聞こえてきた。[pcms]
+A murmur from a general customer who was watching from a distance[r]
+reached my ears.[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *985|
 [fc]
-[ns]荒井[nse]
-「なにぃっ！」[pcms]
+[ns]Arai[nse]
+"What?!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *986|
 [fc]
-[ns]一般客Ａ[nse]
-「感染している人間がいるなんて、[r]
-　不安だってことを理解して欲しいんだけど……」[pcms]
+[ns]General Customer A[nse]
+"I just want you to understand that having an infected person among us[r]
+is causing anxiety..."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so19a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *987|
 [fc]
-[ns]宗一郎[nse]
-「今はなにも症状が出ていない人間を、[r]
-　外に放り出せと言うのか！？」[pcms]
+[ns]Souichirou[nse]
+"Are you saying we should throw out someone who isn't showing any[r]
+symptoms yet?!"[pcms]
 
 *988|
 [fc]
-その一般客との言い争いをきっかけに、[r]
-周囲がざわつきはじめる。[pcms]
+The argument with that general customer started to stir up the crowd[r]
+around us.[pcms]
 
 *989|
 [fc]
-その目は、不審と不安と[ruby text="さいぎ"][ch text="猜疑"]に彩られていた。[pcms]
+Their eyes were filled with suspicion, anxiety, and distrust.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *990|
 [fc]
-[ns]一般客Ｂ[nse]
-「言い難いなら俺が言ってやるよ、[r]
-　さっさとその女を殺せ！　外に追い立てろ！」[pcms]
+[ns]General Customer B[nse]
+"If it's hard for you to say, I'll say it. Kill that woman already![r]
+Drive her out!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *991|
 [fc]
 [vo_aka s="akari0291"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *992|
 [fc]
-[ns]誠[nse]
-「ま、待ってください、そんな……」[pcms]
+[ns]Makoto[nse]
+"Wait, please, don't do this..."[pcms]
 
 *993|
 [fc]
-[ns]一般客Ｃ[nse]
-「悪いが、みんな同じ意見だよ。[r]
-　あんた、俺が感染したら面倒見てくれるのかい？[r]
-　知り合いでもなんでもない俺を」[pcms]
+[ns]General Customer C[nse]
+"Sorry, but everyone feels the same way. Would you take care of me if[r]
+I got infected? Someone like me who you don't even know."[pcms]
 
 *994|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *995|
 [fc]
-[ns]一般客Ｃ[nse]
-「出来ないだろう？　その子のことを何も知らない[r]
-　俺たちにとって、今のアンタの反応が全てだと思うがね」[pcms]
+[ns]General Customer C[nse]
+"You couldn't, right? To us, who don't know anything about that girl,[r]
+your reaction right now says it all."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *996|
 [fc]
-ふと、周りを見渡すとみんながこちらに、[r]
-迷惑そうな目を向けているのがわかった。[pcms]
+When I suddenly looked around, I could tell that everyone was looking[r]
+at us with annoyance in their eyes.[pcms]
 
 *997|
 [fc]
-チアー部のコーチや部員でさえも、[r]
-目を反らして否定も肯定もしていない。[pcms]
+Even the cheerleading coach and the team members averted their eyes,[r]
+neither denying nor affirming.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *998|
 [fc]
 [vo_stk s="satuki0156"]
-[ns]彩月[nse]
-「いいかしら？」[pcms]
+[ns]Satsuki[nse]
+"May I say something?"[pcms]
 
 *999|
 [fc]
-[ns]誠[nse]
-「南先輩！」[pcms]
+[ns]Makoto[nse]
+"Senior Minami!"[pcms]
 
 *1000|
 [fc]
-集団の中から、南先輩が手を挙げて発言を求めていた。[pcms]
+From within the group, Senior Minami raised her hand to ask for[r]
+permission to speak.[pcms]
 
 *1001|
 [fc]
-こんなとき、南先輩ならなにかいいことを[r]
-言ってくれるような気がする。[pcms]
+I felt like Senior Minami would say something good in a situation like[r]
+this.[pcms]
 
 *1002|
 [fc]
-いつも冷静で、頭の回転の速い南先輩なら……。[pcms]
+Always calm and quick-witted, Senior Minami...[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1003|
 [fc]
 [vo_stk s="satuki0157"]
-[ns]彩月[nse]
-「わたしも、越智さんは殺した方がいいと思う」[pcms]
+[ns]Satsuki[nse]
+"I think it's better to kill Ms. Ochi."[pcms]
 
 *1004|
 [fc]
-え……？[r]
-今、南先輩はなんて言ったんだ？[pcms]
+What...? What did Senior Minami just say?[pcms]
 
 *1005|
 [fc]
-殺した方がいい？[r]
-越智さんを……？[pcms]
+Kill her? Ms. Ochi...?[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1006|
 [fc]
-[ns]荒井[nse]
-「なっ！　てめっ！」[pcms]
+[ns]Arai[nse]
+"What! You bastard!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1007|
 [fc]
 [vo_stk s="satuki0158"]
-[ns]彩月[nse]
-「わたしなら……あんな化け物になりたくない。[r]
-　ひっそりと、楽に死にたい」[pcms]
+[ns]Satsuki[nse]
+"If it were me... I wouldn't want to become such a monster. I'd want[r]
+to die quietly, without suffering."[pcms]
 
 *1008|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1009|
 [fc]
-南先輩の言う通りだった。[pcms]
+Senior Minami was right.[pcms]
 
 *1010|
 [fc]
-もしも感染者になってしまったら、[r]
-醜態をさらしながら長く苦しむことになる。[pcms]
+If one became infected, they would end up suffering for a long time in[r]
+an ugly state.[pcms]
 
 *1011|
 [fc]
-でも、頭では理解できるそんな冷静な意見でさえ、[r]
-僕はなにも応えることができなかった。[pcms]
+But even though I could understand such a rational opinion in my head,[r]
+I couldn't respond at all.[pcms]
 
 *1012|
 [fc]
-そして、いざ越智さんの処遇を決める段階になったら、[r]
-文句だけを並べて駄々をこねるんだろう。[pcms]
+And when it came time to decide on Ms. Ochi's fate, I would probably[r]
+just complain and throw a tantrum.[pcms]
 
 *1013|
 [fc]
-僕の責任なのに……、[r]
-どうして僕じゃなく、越智さんが……。[pcms]
+It's my responsibility... Why is it not me, but Ms. Ochi who has[r]
+to...?[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -652,162 +638,156 @@
 
 *1014|
 [fc]
-[ns]稼津央[nse]
-「中澤君は……責任を感じているのかい？」[pcms]
+[ns]Kazuo[nse]
+"Nakazawa-kun... do you feel responsible?"[pcms]
 
 *1015|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1016|
 [fc]
-僕は力なく頷く。[r]
-どう[ruby text="ひいきめ"][ch text="贔屓目"]に見ても、僕の責任だ。[pcms]
+I nodded weakly. No matter how you look at it, it's my responsibility.[pcms]
 
 *1017|
 [fc]
-このアクシデントを回避できるチャンスは、[r]
-何度も僕にゆだねられていた。[pcms]
+I had been given many chances to avoid this accident.[pcms]
 
 *1018|
 [fc]
-姉ちゃんが転んだときの判断、感染者への対応の判断、[r]
-起こってしまったことへの判断……。[pcms]
+The decision when my sister fell, the decision on how to handle the[r]
+infected, the decision on what had happened...[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1019|
 [fc]
-[ns]稼津央[nse]
-「それなら、是非キミに頼みたいことがある」[pcms]
+[ns]Kazuo[nse]
+"Then, there's something I'd like you to do."[pcms]
 
 *1020|
 [fc]
-[ns]誠[nse]
-「え……？」[pcms]
+[ns]Makoto[nse]
+"Eh...?"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz09"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1021|
 [fc]
-[ns]稼津央[nse]
-「確率は１％もないかも知れない。[r]
-　そんな不確実なことに、キミの命を使うことになるが……」[pcms]
+[ns]Kazuo[nse]
+"The chances might be less than 1%. It's uncertain, but it would mean[r]
+using your life for it..."[pcms]
 
 *1022|
 [fc]
-なんの話だ……？[pcms]
+What is he talking about...?[pcms]
 
 *1023|
 [fc]
-１％の確率？[r]
-まだ１％も状況を打開できる方法が残されているって言うのか？[pcms]
+A 1% chance? Is there still a 1% chance to turn the situation around?[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz16"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1024|
 [fc]
-[ns]稼津央[nse]
-「美沙緒のことは知っているね？」[pcms]
+[ns]Kazuo[nse]
+"You know about Misao, right?"[pcms]
 
 *1025|
 [fc]
-[ns]誠[nse]
-「あっ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 *1026|
 [fc]
-[ns]稼津央[nse]
-「そうだ、僕は門外漢なんでわからないが、[r]
-　ウイルスの専門家である姉さんなら、[r]
-　対処の方法を知っている可能性がある」[pcms]
+[ns]Kazuo[nse]
+"That's right, I'm an outsider so I don't understand, but if your[r]
+sister, an expert on viruses, might know a way to deal with this."[pcms]
 
 *1027|
 [fc]
-そうだ、美沙緒さんはウイルスのワクチンを作っていた[r]
-研究者の一人で、今でもその研究を手伝っていると言っていた。[pcms]
+That's right, Misao-san was one of the researchers who had been[r]
+working on a vaccine for the virus and she said she was still helping[r]
+with that research.[pcms]
 
 *1028|
 [fc]
-もしかしたら……、[r]
-なにか手立てを知っているのかも……。[pcms]
+Maybe... she knows some way to deal with this...[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1029|
 [fc]
-[ns]稼津央[nse]
-「わかっているとは思うが、ここから越智本家までは遠いよ？」[pcms]
+[ns]Kazuo[nse]
+"You understand that it's a long way from here to the Ochi main[r]
+house?"[pcms]
 
 *1030|
 [fc]
-[ns]誠[nse]
-「や、やります！　やらせてください！」[pcms]
+[ns]Makoto[nse]
+"I'll do it! Please let me do it!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1031|
 [fc]
 [vo_aka s="akari0292"]
-[ns]茜梨[nse]
-「な、中澤先輩……」[pcms]
+[ns]Akari[nse]
+"Na-Nakazawa-senpai..."[pcms]
 
 *1032|
 [fc]
-越智さんが少し潤んだ瞳で僕のことを見つめている。[pcms]
+Akari is looking at me with slightly moist eyes.[pcms]
 
 *1033|
 [fc]
-まだ、間に合うかも知れない。[r]
-越智さんを助けることができるかも知れないんだ。[pcms]
+There might still be a chance. I might still be able to save Akari-[r]
+san.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1034|
 [fc]
-僕の命なんてどうだっていい。[r]
-越智さんの肩に力強く手を置いて、その瞳をまっすぐに見る。[pcms]
+I don't care about my own life. I place my hand firmly on Akari-san's[r]
+shoulder and look straight into her eyes.[pcms]
 
 *1035|
 [fc]
-僕のミスだとかなんだとか、[r]
-そんなことはどうだっていいんだ。[pcms]
+Whether it's my fault or whatever, that doesn't matter now.[pcms]
 
 *1036|
 [fc]
-越智さんを守れるかも知れない。[r]
-助けられるかも知れない。[pcms]
+I might be able to protect Akari-san. I might be able to save her.[pcms]
 
 [ChrSetEx layer=3 chbase="kz1_sui"][ChrSetParts layer=3 chface="F1_kz02"][ChrSetXY layer=3 x=50 y=0][trans_c cross time=150]
 
 *1037|
 [fc]
-[ns]稼津央[nse]
-「行けるところまで車で送ろう、[r]
-　バックヤードの専用車庫から出発できる」[pcms]
+[ns]Kazuo[nse]
+"I'll drive you as far as I can. We can leave from the private garage[r]
+in the backyard."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1038|
 [fc]
-[ns]宗一郎[nse]
-「水くさいじゃないか、俺に声はかけないのかい？」[pcms]
+[ns]Souichirou[nse]
+"Don't be so sentimental, aren't you going to ask for my help?"[pcms]
 
 *1039|
 [fc]
-そーいちが気取った調子で僕に声をかけてくる。[r]
-でも、ここで甘えるわけにはいかなかった。[pcms]
+Souichirou calls out to me in a pretentious tone. But I couldn't[r]
+afford to rely on anyone here.[pcms]
 
 *1040|
 [fc]
-間違ったら死ぬんだ。[r]
-その現実からは逃れられない。[pcms]
+If I make a mistake, I could die. I can't escape that reality.[pcms]
 
 *1041|
 [fc]
-[ns]誠[nse]
-「駄目だ、洒落や冗談で済む話じゃない」[pcms]
+[ns]Makoto[nse]
+"No, this isn't a matter for jokes or levity."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="so1_se_b"][ChrSetParts layer=3 chface="F1_so28b"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -815,54 +795,53 @@
 
 *1042|
 [fc]
-[ns]荒井[nse]
-「シャレや冗談で済まねえから、[r]
-　お前には任せておけねえんだよ！」[pcms]
+[ns]Arai[nse]
+"Because it's no joking matter, I can't leave it to you alone!"[pcms]
 
 [ChrSetEx layer=3 chbase="so1_se_b"][ChrSetParts layer=3 chface="F1_so02b"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1043|
 [fc]
-[ns]宗一郎[nse]
-「なんだ、荒井も行くのか」[pcms]
+[ns]Souichirou[nse]
+"What, Arai is going too?"[pcms]
 
 [ChrSetEx layer=4 chbase="ar1_ja1"][ChrSetParts layer=4 chface="F1_ar06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1044|
 [fc]
-[ns]荒井[nse]
-「話はよくわからなかったが、[r]
-　茜梨ちゃんの実家に医者だかなんだか専門家が居るんだろ？[r]
-　それなら無事に送り届けるまでだ」[pcms]
+[ns]Arai[nse]
+"I didn't quite catch the story, but there's a doctor or some[r]
+specialist at Akane-ri-chan's family home, right? I'll make sure she[r]
+gets there safely."[pcms]
 
 *1045|
 [fc]
-荒井の考え方はすごくシンプルだ。[r]
-スポーツをやる人間のモチベーションの上げ方に感心してしまう。[pcms]
+Arai's way of thinking is very simple. I'm impressed by the way he[r]
+motivates himself like an athlete.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak10"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1046|
 [fc]
-僕ひとりじゃ、また越智さんを守れないかも知れない。[r]
-素直に、二人の力を借りよう。[pcms]
+Alone, I might not be able to protect Akari-san again. I should[r]
+honestly accept the help of these two.[pcms]
 
 ;//茜梨　左固定
 
 *1047|
 [fc]
 [vo_aka s="akari0293"]
-[ns]茜梨[nse]
-「で、でも、みなさんに迷惑を掛けるわけには……」[pcms]
+[ns]Akari[nse]
+"But, I can't trouble everyone with..."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so03b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1048|
 [fc]
-[ns]宗一郎[nse]
-「迷惑だなんて、とてもとても。[r]
-　誠にだけいい格好をさせておくわけにはいきませんからな！」[pcms]
+[ns]Souichirou[nse]
+"Trouble? Not at all. We can't let Makoto be the only one looking good[r]
+here!"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so31b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 ;不要？[wait_c time=1000]
@@ -870,88 +849,86 @@
 
 *1049|
 [fc]
-[ns]荒井[nse]
-「こいつらだけじゃ心配だ、[r]
-　茜梨ちゃんはバッチリと俺が守ってやるよ」[pcms]
+[ns]Arai[nse]
+"I'm worried about leaving it to these guys alone, I'll make sure[r]
+Akane-ri-chan is perfectly protected."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1050|
 [fc]
 [vo_aka s="akari0294"]
-[ns]茜梨[nse]
-「死んじゃうんですよ！　外にはいっぱい、変な人が……」[pcms]
+[ns]Akari[nse]
+"You'll die! There are so many strange people outside..."[pcms]
 
 *1051|
 [fc]
-越智さんが力説しようとしたところで、[r]
-稼津央さんがその肩に手を置く。[pcms]
+Just as Akari-san tries to argue her point, Kazuo-san places his hand[r]
+on her shoulder.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1052|
 [fc]
-[ns]稼津央[nse]
-「結構結構、何人でも歓迎だ。[r]
-　茜梨は良い友人を持ったね」[pcms]
+[ns]Kazuo[nse]
+"That's fine, that's fine. The more the merrier. Akane-ri has good[r]
+friends."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1053|
 [fc]
 [vo_aka s="akari0295"]
-[ns]茜梨[nse]
-「ううううっ……」[pcms]
+[ns]Akari[nse]
+"Uuuuuuh..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1054|
 [fc]
-越智さんは涙を流しそうになって、[r]
-すぐ上を向くとそれを堪えた。[pcms]
+Akari-san looks like she's about to cry, but she quickly looks up and[r]
+holds back her tears.[pcms]
 
 *1055|
 [fc]
-ウイルスは体液を媒介する……、[r]
-それを思い出したんだろう。[pcms]
+She must have remembered that the virus is transmitted through bodily[r]
+fluids...[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1056|
 [fc]
 [vo_stk s="satuki0159"]
-[ns]彩月[nse]
-「わたしは、遠慮させてもらいますけどね」[pcms]
+[ns]Satsuki[nse]
+"I'll refrain from joining, though."[pcms]
 
 *1057|
 [fc]
-僕らを取り巻いていた人たちの中から、[r]
-南先輩が歩み出て来る。[pcms]
+From among the people around us, Satsuki-senpai steps forward.[pcms]
 
 *1058|
 [fc]
-[ns]誠[nse]
-「南先輩……」[pcms]
+[ns]Makoto[nse]
+"Satsuki-senpai..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1059|
 [fc]
-南先輩は腕をまくり上げると、[r]
-内側に刻まれているバーコードを僕たちに見せてきた。[pcms]
+Satsuki-senpai rolls up her sleeve and shows us a barcode tattooed on[r]
+the inside of her arm.[pcms]
 
 *1060|
 [fc]
-そのバーコードは、僕と同じ……、[r]
-じゃあ南先輩も４年前の生き残りなのか……。[pcms]
+That barcode is the same as mine... Does that mean Satsuki-senpai is[r]
+also a survivor from four years ago...?[pcms]
 
 ;//たちえなし
 
 *1060a|
 [fc]
-[ns]荒井[nse]
-「先輩もそれですか。[r]
-　それって実のところ、なんなんです？」[pcms]
+[ns]Arai[nse]
+"Senpai has that too. What does it actually mean?"[pcms]
 
 ;//m:４年前の生き残りとバーコードの話再び
 
@@ -960,54 +937,54 @@
 *1061|
 [fc]
 [vo_stk s="satuki0160"]
-[ns]彩月[nse]
-「４年前の生き残りっていう意味ね。[r]
-　感染者と接触した可能性があるけれど、[r]
-　発症していないってこと」[pcms]
+[ns]Satsuki[nse]
+"It means a survivor from four years ago. It indicates a possibility[r]
+of having been in contact with an infected person but not having shown[r]
+symptoms."[pcms]
 
 ;//あらい　左
 [ChrSetEx layer=4 chbase="ar1_ja1"][ChrSetParts layer=4 chface="F1_ar06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1062|
 [fc]
-[ns]荒井[nse]
-「じゃあ、ここにいる奴ら全員、それを掘られるってわけだ」[pcms]
+[ns]Arai[nse]
+"So, everyone here is going to get that tattooed on them?"[pcms]
 
 *1063|
 [fc]
-荒井が自嘲気味にそんなことを説明してみせた。[pcms]
+Arai explains with a self-deprecating tone.[pcms]
 
 *1064|
 [fc]
-越智さんを殺せだのなんだの言った連中も、[r]
-後で社会から爪弾きにされるのだと、言いたいんだろう。[pcms]
+The people who were saying to kill Akari-san and such will probably be[r]
+ostracized by society later on, he seems to imply.[pcms]
 
 *1065|
 [fc]
-でも、このバーコードの意味はそれだけじゃない。[pcms]
+But the meaning of this barcode isn't just that.[pcms]
 
 *1066|
 [fc]
-[ns]誠[nse]
-「このバーコードには被検体だったという意味もある。[r]
-　ウイルス研究のモルモットだよ」[pcms]
+[ns]Makoto[nse]
+"This barcode also means that we were test subjects. Guinea pigs for[r]
+virus research."[pcms]
 
 *1067|
 [fc]
-[ns]荒井[nse]
-「モルモット……」[pcms]
+[ns]Arai[nse]
+"Guinea pigs..."[pcms]
 
 *1068|
 [fc]
-[ns]誠[nse]
-「次のワクチンを作るための[ruby text="いしずえ"][ch text="礎"]になったり、[r]
-　発症のメカニズムを調べたり、色々さ」[pcms]
+[ns]Makoto[nse]
+"For the foundation of creating the next vaccine, for researching the[r]
+mechanism of onset, and various other things."[pcms]
 
 *1069|
 [fc]
 [vo_stk s="satuki0161"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1016,104 +993,101 @@
 
 *1070|
 [fc]
-[ns]荒井[nse]
-「ああ、そうなのか……」[pcms]
+[ns]Arai[nse]
+"Ah, I see..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1071|
 [fc]
-漠然としか理解していなかった荒井は、[r]
-詳しいことを聞かされて少し落ち込んでるみたいだった。[pcms]
+Arai, who had only a vague understanding, seemed a bit down after[r]
+being told the details.[pcms]
 
 *1072|
 [fc]
-こういう事態になって、学園生活ではわからなかった、[r]
-まともな部分がよく見えるようになってきたと思う。[pcms]
+I think I've started to see the decent parts that weren't apparent[r]
+during our school life, now that we're in this situation.[pcms]
 
 *1073|
 [fc]
-僕のバーコードをからかった自分を恥じているのか、[r]
-これからの自分のことを心配しているのかは、[r]
-わからないけれど。[pcms]
+Whether he's ashamed of having made fun of my barcode, or worried[r]
+about his own future, I can't tell.[pcms]
 
 *1074|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1075|
 [fc]
-南先輩も、僕と同じような恐怖や絶望、[r]
-孤独を味わったんだろう。[pcms]
+Senior Minami must have experienced the same fear, despair, and[r]
+loneliness as I did.[pcms]
 
 *1076|
 [fc]
-また、苦難が予想されるこんな事態に、[r]
-無理に誘うことはできない。[pcms]
+In such a situation where hardships are expected, I couldn't possibly[r]
+invite her forcefully.[pcms]
 
 *1077|
 [fc]
-越智さんは荷物をまとめると、[r]
-制服に着替えてチアー部のコーチや先輩に挨拶していた。[pcms]
+Akari-san was packing her things, changed into her uniform, and was[r]
+saying goodbye to the cheerleading coach and seniors.[pcms]
 
 *1078|
 [fc]
-向こうは何も言えずに、その挨拶をただ黙って聞いている。[r]
-言えることなんて何もないだろう。[pcms]
+The others just listened silently to her farewell, unable to say[r]
+anything. There probably wasn't anything they could say.[pcms]
 
 *1079|
 [fc]
-僕は姉ちゃんが寝かされているところまで歩いて行くと、[r]
-その顔をそっと撫でて温もりを手に焼き付けた。[pcms]
+I walked over to where my sister was lying down, gently stroked her[r]
+face, and seared her warmth into my hands.[pcms]
 
 *1080|
 [fc]
-姉ちゃんが起きていたらなんて言っただろうか。[r]
-自分も着いていくと行ったかな。[pcms]
+What would my sister have said if she were awake? Maybe she would have[r]
+said she'd come with me.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1081|
 [fc]
 [vo_stk s="satuki0162"]
-[ns]彩月[nse]
-「代わりに、ってわけじゃないけれど、[r]
-　お姉さんのことはわたしに任せて」[pcms]
+[ns]Satsuki[nse]
+"It's not like I'm a replacement, but leave your sister to me."[pcms]
 
 *1082|
 [fc]
-[ns]誠[nse]
-「よろしくお願いします。[r]
-　起きたら事情を説明してください」[pcms]
+[ns]Makoto[nse]
+"Please take care of her. Explain the situation to her when she wakes[r]
+up."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1083|
 [fc]
 [vo_stk s="satuki0163"]
-[ns]彩月[nse]
-「わかったわ、気をつけて」[pcms]
+[ns]Satsuki[nse]
+"Understood, take care."[pcms]
 
 *1084|
 [fc]
-姉ちゃんのおでこに軽くキスをする。[r]
-僕のただ一人の家族を置いていくことに不安はある。[pcms]
+I gave my sister a light kiss on the forehead. There was anxiety in[r]
+leaving my only family behind.[pcms]
 
 *1085|
 [fc]
-でも、おそらくここはこの島の中で[r]
-相当安全な場所であるはずだ。[pcms]
+But this place must be one of the safest on the island.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1086|
 [fc]
 [vo_stk s="satuki0164"]
-[ns]彩月[nse]
-「ごめんなさいね、でも、また会えることを願っているわ」[pcms]
+[ns]Satsuki[nse]
+"I'm sorry, but I hope we can meet again."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak09"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -1121,25 +1095,23 @@
 *1087|
 [fc]
 [vo_aka s="akari0296"]
-[ns]茜梨[nse]
-「とんでもないです。[r]
-　私も、またみなさんに会いたいですから……」[pcms]
+[ns]Akari[nse]
+"Not at all. I also hope to see everyone again..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1088|
 [fc]
-越智さんは、南先輩にも挨拶に訪れていた。[pcms]
+Akari-san had also come to say goodbye to Senior Minami.[pcms]
 
 *1089|
 [fc]
-別れの挨拶じゃない、[r]
-また会いましょうという挨拶だ。[pcms]
+It wasn't a farewell; it was a promise to meet again.[pcms]
 
 *1090|
 [fc]
-僕も、姉ちゃんを悲しませるわけにはいかなった。[r]
-必ず生きて帰らなくちゃいけない。[pcms]
+I couldn't let my sister be saddened. I have to make sure I come back[r]
+alive.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 [fadeoutbgm time=500]
@@ -1148,8 +1120,7 @@
 
 *1091|
 [fc]
-僕は立ち上がると、越智さんと一緒に[r]
-バックヤードの車庫まで歩いて行った。[pcms]
+I stood up and walked with Akari-san to the garage in the backyard.[pcms]
 
 ;//#_ブラックアウト
 

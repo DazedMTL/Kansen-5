@@ -45,101 +45,95 @@
 *2104|
 [fc]
 [vo_aka s="akari0577"]
-[ns]茜梨[nse]
-「はあっ！　やーっ！　いやぁっ！　それっ！」[pcms]
+[ns]Akari[nse]
+"Haa! Ya-! Noo! There!"[pcms]
 
 *2105|
 [fc]
 [vo_aka s="akari0578"]
-[ns]茜梨[nse]
-「ふんっ！　やっ！　はっ！　あああぁっ！！」[pcms]
+[ns]Akari[nse]
+"Fuhn! Ya! Ha! Aaahhh!!"[pcms]
 
 ;//◆演出メモ　上は全て、薙刀の練習風景
 
 *2106|
 [fc]
-まだまだ、こんなのじゃ駄目。[r]
-わたしは、まだ未熟だ。[pcms]
+"I'm still not good enough. I'm still inexperienced."[pcms]
 
 *2107|
 [fc]
-これでは、出渕先輩にも勝てない気がする。[r]
-今日見たあの動きは、本当に凄かった。[pcms]
+"With this, I feel like I can't beat Izubuchi-senpai. The movements I[r]
+saw today were truly amazing."[pcms]
 
 *2108|
 [fc]
-仮に出渕先輩と戦ったら、私はどうなるだろう。[r]
-あの素早い身のこなしと、体格差で、[r]
-私はどこまで戦うことが出来るだろう。[pcms]
+"If I were to fight Izubuchi-senpai, what would happen to me? With his[r]
+quick reflexes and our difference in physique, how far could I fight?"[pcms]
 
 *2109|
 [fc]
-模擬戦ならともかく、[r]
-実際に出渕先輩と戦う事なんて無いだろうけど。[pcms]
+"It's one thing in a mock battle, but the chances of actually fighting[r]
+Izubuchi-senpai are slim."[pcms]
 
 *2110|
 [fc]
-だけど、あの日の様に……。[r]
-出渕先輩が、感染者になってしまう可能性だって、[r]
-ゼロではない。[pcms]
+"But, just like that day... There's a possibility that Izubuchi-senpai[r]
+could become infected, it's not zero."[pcms]
 
 *2111|
 [fc]
-出渕先輩だけじゃない。[r]
-南先輩も。[pcms]
+"It's not just Izubuchi-senpai. Minami-senpai too."[pcms]
 
 *2112|
 [fc]
-……まー君先輩もそう。[pcms]
+"...Ma-kun-senpai as well."[pcms]
 
 *2113|
 [fc]
-まー君先輩は……なんだか守ってあげたい感じがする。[r]
-もし、感染者に襲われたら、まー君先輩は私が……。[pcms]
+"Ma-kun-senpai... somehow feels like someone I want to protect. If he[r]
+were attacked by an infected, Ma-kun-senpai would be saved by me..."[pcms]
 
 *2114|
 [fc]
 [vo_aka s="akari0579"]
-[ns]茜梨[nse]
-「ううん……そんなことは、もうない筈……」[pcms]
+[ns]Akari[nse]
+"No... that shouldn't happen anymore..."[pcms]
 
 *2115|
 [fc]
-もう四年も経つと言うのに。[r]
-ただ、テレビのニュースで見た事があるだけ。[pcms]
+"It's been four years already. I've only seen it on the news."[pcms]
 
 *2116|
 [fc]
-なのに、あの衝撃的な映像は、忘れることが出来ない。[pcms]
+"Yet, I can't forget those shocking images."[pcms]
 
 *2117|
 [fc]
-人が、人を襲う。[r]
-そして、それが増えていく。[pcms]
+"People attacking people. And the numbers growing."[pcms]
 
 *2118|
 [fc]
-友人も、家族も、恋人も全て襲い、[r]
-全てが同じように、不幸を伝染させていく。[pcms]
+"Friends, family, lovers, all attacking each other, spreading the same[r]
+misfortune."[pcms]
 
 *2119|
 [fc]
-この時期になると、必ずあの夏の事を思い出してしまう。[pcms]
+"When this time of year comes, I always remember that summer."[pcms]
 
 *2120|
 [fc]
-実際に体験したことなんて、無いのに。[pcms]
+"Even though I've never actually experienced it."[pcms]
 
 *2121|
 [fc]
 [vo_aka s="akari0580"]
-[ns]茜梨[nse]
-「はっ！　やぁっ！　たぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Ha! Yah! Taaah!"[pcms]
 
 *2122|
 [fc]
-頭の奥底に広がりだした漠然とした不安を薙ぎ払おうと、[r]
-いっそう大きな声を張り上げ、薙刀を振った。[pcms]
+"Trying to sweep away the vague anxiety that had begun to spread at[r]
+the back of my mind, I raised my voice louder and swung my naginata."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -150,96 +144,94 @@
 *2123|
 [fc]
 [vo_aka s="akari0581"]
-[ns]茜梨[nse]
-「はぁ……ちょっと、頑張りすぎちゃったかな」[pcms]
+[ns]Akari[nse]
+"Haa... maybe I pushed myself a little too hard."[pcms]
 
 *2124|
 [fc]
-不安を払おうと、今日はいつもより少しだけ長く稽古を続けた。[r]
-ほんの僅かな差でしかないと思っていた。[r]
-たったそれだけなのに、私の体の火照りは治まることは無かった。[pcms]
+"In an attempt to dispel my anxiety, I practiced a little longer than[r]
+usual today. I thought it was only a slight difference. Yet, the heat[r]
+in my body did not subside."[pcms]
 
 *2125|
 [fc]
-体に染みついた習慣。[r]
-それとほんの僅か違っただけ。[pcms]
+"A habit ingrained in my body. It was just a slight deviation from[r]
+that."[pcms]
 
 *2126|
 [fc]
 [vo_aka s="akari0582"]
-[ns]茜梨[nse]
-「疲れた……」[pcms]
+[ns]Akari[nse]
+"I'm tired..."[pcms]
 
 *2127|
 [fc]
-たったそれだけなのに、[r]
-私の体の筋肉はやたらに酸素を消費し続け、今も止まらない。[pcms]
+"Just that slight difference, yet my muscles continue to consume[r]
+oxygen excessively and it doesn't stop."[pcms]
 
 
 *2127a|
 [fc]
-“それ”を鎮めようと、[r]
-私は着替える事も忘れ、ベッドに突っ伏した。[pcms]
+"In an attempt to calm it down, I forgot to change clothes and just[r]
+collapsed onto the bed."[pcms]
 
 *2128|
 [fc]
-『疲れ』なんて、言い訳。[r]
-本当は、体の火照りを鎮めるため。[pcms]
+"'Tiredness' is just an excuse. In truth, it's to calm the heat in my[r]
+body."[pcms]
 
 *2129|
 [fc]
-稽古の間、ずっと妄想していた事。[r]
-それは、出渕先輩が感染してしまい、[r]
-私に襲いかかってきたという妄想。[pcms]
+"During practice, I was constantly fantasizing about something. It was[r]
+a fantasy where Izubuchi-senpai became infected and attacked me."[pcms]
 
 *2130|
 [fc]
-そんな私を、まー君先輩が哀しげな顔で見つめている。[r]
-そんな……妄想……。[pcms]
+"In that fantasy, Ma-kun-senpai looked at me with a sad face... Such a[r]
+fantasy..."[pcms]
 
 *2131|
 [fc]
-それが、私の体を火照らせる。[pcms]
+"That's what made my body heat up."[pcms]
 
 *2132|
 [fc]
-無心に薙刀を振り、“それ”を“薙ぎ払う”とした。[r]
-だけど、無理だった。[pcms]
+"I swung my naginata mindlessly, trying to sweep 'that' away. But it[r]
+was impossible."[pcms]
 
 *2133|
 [fc]
-一度そんな事を考えると、止まらなくなってしまう。[pcms]
+"Once such thoughts start, they don't stop."[pcms]
 
 *2134|
 [fc]
-でも、そんな事を妄想して、興奮しているなんて、[r]
-認めたくない。[pcms]
+"But I don't want to admit that fantasizing about such things and[r]
+getting excited..."[pcms]
 
 *2135|
 [fc]
-私は、自分の体の疼きを否定しながらも、[r]
-“それ”が間違いでない事を確かめようと、[r]
-袴の裾から手を滑り込ませ、恐る恐る下腹部へと向かわせる。[pcms]
+"While denying the throbbing of my own body, I tried to confirm that[r]
+'it' wasn't wrong by slipping my hand under the hem of my hakama and[r]
+cautiously moving towards my lower abdomen."[pcms]
 
 *2136|
 [fc]
-胸をはだけ、体を仰向けに回転させながら、[r]
-片方の手を胸や、乳首に這わせながら口元へと伝わせる。[pcms]
+"Unbuttoning my top and rolling onto my back, one hand crawled over my[r]
+chest and nipples while moving towards my mouth."[pcms]
 
 *2137|
 [fc]
-これもまた、習慣。[r]
-習慣通りの動きをすれば、その先はいつもと同じ状態になる。[pcms]
+"This too is a habit. If I move according to habit, what follows will[r]
+always be the same state."[pcms]
 
 *2138|
 [fc]
-この動作は――[r]
-最近癖になりつつある、自慰行為への導入……。[pcms]
+"This action is-- becoming a habit lately, an introduction to[r]
+masturbation..."[pcms]
 
 *2139|
 [fc]
-自分の心を切り替え、“この行為”を正当化させるための、[r]
-自分なりのスイッチ……。[pcms]
+"Switching my mind and justifying 'this act' as a personal switch..."[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -259,63 +251,60 @@
 
 *2140|
 [fc]
-血が通い、青白い血管が浮かび上がる私の胸が、[r]
-空気に触れる。[pcms]
+"My chest where blood flowed and pale veins surfaced felt the touch of[r]
+air."[pcms]
 
 *2141|
 [fc]
-閉め切り、停滞した部屋の空気と、[r]
-全身から発せられる熱量が絡み合って、[r]
-私の体は、ますます熱を帯びていった。[pcms]
+"The stagnant air of the closed room and the heat emanating from my[r]
+entire body intertwined, making my body grow even hotter."[pcms]
 
 *2142|
 [fc]
 [vo_aka s="akari0583"]
-[ns]茜梨[nse]
-「はっ……ひぁっ……！？　……あぁ……？」[pcms]
+[ns]Akari[nse]
+"Ha...hya...!? ...ah...?"[pcms]
 
 *2143|
 [fc]
-もう、こんなになっちゃってたんだ……。[pcms]
+"I'm already this wet..."[pcms]
 
 *2144|
 [fc]
-下腹部はおろか、足の付け根や太ももまで、[r]
-油の様に滑る液体が広がっている。[pcms]
+"Not just my lower abdomen, but the liquid that's as slick as oil has[r]
+spread to the roots of my legs and my thighs."[pcms]
 
 *2145|
 [fc]
-稽古の時、[r]
-袴の下にはブラもパンツも何も付けない。[pcms]
+"During practice, I don't wear a bra or panties under my hakama."[pcms]
 
 *2146|
 [fc]
-そのせいで、私の“アソコ”から溢れた液は、[r]
-遮るものがなく、ただ体を伝い落ちていた。[pcms]
+"Because of that, the liquid overflowing from 'down there' has nothing[r]
+to obstruct it, just trickling down my body."[pcms]
 
 *2147|
 [fc]
-やっぱり、いくら稽古に打ち込んでも、[r]
-一度妄想してしまうと、必ずこうなっちゃう。[pcms]
+"As I thought, no matter how much I focus on practice, once I start[r]
+fantasizing, it always ends up like this."[pcms]
 
 *2148|
 [fc]
-でも今日はいつもよりも凄い。[r]
-原因は……まー君先輩……。[pcms]
+"But today it's worse than usual. The cause is... Ma-kun-senpai..."[pcms]
 
 *2149|
 [fc]
-まー君先輩に見つめられる妄想なんてしちゃったからだ。[pcms]
+"It's because I fantasized about being stared at by Ma-kun-senpai."[pcms]
 
 *2150|
 [fc]
-私は……年下の可愛い子が好き。[r]
-弟がほしいと思った事もある。[pcms]
+"I... like cute younger boys. I've even wished for a younger brother[r]
+before."[pcms]
 
 *2151|
 [fc]
-そんな私にとって、[r]
-まー君先輩はまさに理想の『弟像』だった。[pcms]
+"For someone like me, Ma-kun-senpai is the very image of an ideal[r]
+'younger brother'."[pcms]
 
 ;//■イベントCG　akari_H001
 [evcg storage="akari_H001b"][trans_c cross time=300]
@@ -323,23 +312,23 @@
 *2152|
 [fc]
 [vo_aka s="akari0584"]
-[ns]茜梨[nse]
-「くっ……んんっ……あはっ……、ふふっ……」[pcms]
+[ns]Akari[nse]
+"Kuh...nnn...ahah...fufu..."[pcms]
 
 *2153|
 [fc]
-私は喘ぎながらも、思わず笑ってしまう。[pcms]
+"Even while gasping, I can't help but laugh."[pcms]
 
 *2154|
 [fc]
-先輩なのに、弟だなんて……そんなの無理なのに。[r]
-だけど、そう思ってしまうほど、まー君先輩は可愛らしくて、[r]
-……なんだか、守ってあげたくなっちゃう。[pcms]
+"To think of him as a younger brother when he's actually my senior...[r]
+it's impossible. But Ma-kun-senpai is so adorable that... somehow, I[r]
+want to protect him."[pcms]
 
 *2155|
 [fc]
-そんな彼が、妄想の中……。[r]
-おかしくなってしまった出渕先輩に犯される様を見つめていた。[pcms]
+"In my fantasy... he was watching as the messed-up Izubuchi-senpai[r]
+assaulted me."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -347,54 +336,53 @@
 *2156|
 [fc]
 [vo_aka s="akari0585"]
-[ns]茜梨[nse]
-「んっ……ふあっ……あっ……」[pcms]
+[ns]Akari[nse]
+"Nn...fua...ah..."[pcms]
 
 *2157|
 [fc]
-ちょっと、声が大きかったかな……。[r]
-お母さんが帰ってきたら、聞こえちゃうかも……。[pcms]
+"Maybe my voice was a bit too loud... If mom comes back, she might[r]
+hear..."[pcms]
 
 *2158|
 [fc]
-ばれない様にと、私は口に添えた指を強く噛んだ。[r]
-これも、癖になってしまっている。[pcms]
+"To make sure I don't get caught, I bite down hard on the finger I've[r]
+put to my mouth. This too has become a habit."[pcms]
 
 *2159|
 [fc]
-これをすると、私の心は制御を失って、[r]
-最終的には意味をなさなくなるのも、分かっているのに。[pcms]
+"Even though I know doing this will ultimately make me lose control of[r]
+my mind and become meaningless."[pcms]
 
 *2160|
 [fc]
-ちょっと太めな出渕先輩が、私の体を荒々しく弄ぶ。[r]
-そんな私をめざし、沢山の男の子が集まり出す。[pcms]
+"The slightly chubby Izubuchi-senpai is roughly playing with my body.[r]
+And aiming for such a me, lots of boys start to gather."[pcms]
 
 *2161|
 [fc]
-ああ……。[r]
-ネットの書き込みみたい……。[r]
-チアガールフェチっていうのかな、ああいうの……。[pcms]
+"Ah... It's like those internet posts... Is it called a cheerleader[r]
+fetish, that kind of thing...?"[pcms]
 
 *2162|
 [fc]
-記憶の中にあった、ネットの書き込み。[r]
-私の脳は、その記憶をたどる。[pcms]
+"The internet posts that remain in my memory. My brain traces back to[r]
+those memories."[pcms]
 
 *2163|
 [fc]
-すると『頭の中で』襲われている私の姿は、[r]
-次第にチアリーダー服に変わっていった。[pcms]
+"And then, in my mind, the image of me being assaulted gradually[r]
+changes into a cheerleader outfit."[pcms]
 
 *2164|
 [fc]
-沢山の男達が取り囲み、[r]
-その中心で出渕先輩が私を犯している。[pcms]
+"Surrounded by many men, in the center, Izubuchi-senpai is violating[r]
+me."[pcms]
 
 *2165|
 [fc]
-沢山の男達が、全身の欲望をため込んで[r]
-大きくした男性器を私に向ける。[pcms]
+"Many men, with their desires built up, point their enlarged dicks[r]
+towards me."[pcms]
 
 ;//■イベントCG　akari_H001
 [evcg storage="akari_H001c"][trans_c cross time=300]
@@ -402,56 +390,52 @@
 *2166|
 [fc]
 [vo_aka s="akari0586"]
-[ns]茜梨[nse]
-「ひっ……あっっ！　そんなの……いやぁ……。[r]
-　私に……精子かけるの……？　かけたいの……？[r]
-　わ、私の体に、ブッかけたいのっ！？」[pcms]
+[ns]Akari[nse]
+"Hik...ahh! Something like that...noo... Are you going to... cum on[r]
+me...? Do you want to...? Do you want to cum all over my body!?"[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
 
 *2167|
 [fc]
-わざと、下品な言葉を口に出すと、[r]
-私の心は燃え上がる。[pcms]
+"When I deliberately use such vulgar words, my heart ignites."[pcms]
 
 *2168|
 [fc]
-もう、指を噛んで声を押し殺していた事なんて、[r]
-無意味になっている。[pcms]
+"The act of biting my finger to suppress my voice has become[r]
+meaningless."[pcms]
 
 *2169|
 [fc]
-爆発的に加速する私の妄想は脳の中を所狭しと駆け回る。[pcms]
+"My explosive fantasies race through my mind without restraint."[pcms]
 
 *2170|
 [fc]
-その刺激に負けた私は、思わず『妄想の中の』男の子達に、[r]
-哀願するような声を上げてしまう。[pcms]
+"Overwhelmed by that stimulation, I can't help but let out a pleading[r]
+voice to the 'boys in my fantasy'."[pcms]
 
 *2171|
 [fc]
-誰もいないのは、分かっている。[r]
-出渕先輩が私を犯しているなんていうのも妄想。[r]
-私の“アソコ”を突き回しているのは、自分の指。[pcms]
+"I know there's no one here. The idea of Izubuchi-senpai violating me[r]
+is just a fantasy. The one thrusting into 'down there' is my own[r]
+finger."[pcms]
 
 *2172|
 [fc]
-全部分かってる。[r]
-分かっているけど、妄想は止められない。[pcms]
+"I know all that. But I can't stop the fantasy."[pcms]
 
 *2173|
 [fc]
 [vo_aka s="akari0587"]
-[ns]茜梨[nse]
-「ひあぁぁ……クリトリス、つぶれちゃいますよ……。[r]
-　そんなに、強く押さないでください……ひぁぁ……。[r]
-　オマンコなんて、言わないでくださいっ！　ぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Hiaaah... My clit is going to be crushed... Please don't press so[r]
+hard...hiaah... Don't say 'pussy', please! Aah!"[pcms]
 
 *2174|
 [fc]
-出渕先輩は、私のアソコの入り口に押しつけ、[r]
-強く擦り立てる。[pcms]
+"Izubuchi-senpai presses against the entrance of my pussy and rubs it[r]
+hard."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -461,31 +445,29 @@
 
 *2175|
 [fc]
-ピチャピチャと、湿った音が部屋に広がっていく。[pcms]
+"The wet sounds echo throughout the room."[pcms]
 
 *2176|
 [fc]
-青と黄色の、派手な服。[r]
-私の所属するチアリーディング部の、ユニフォーム。[pcms]
+"Blue and yellow, flashy clothes. The uniform of the cheerleading team[r]
+I belong to."[pcms]
 
 *2177|
 [fc]
-それに身を包んだ私を、沢山の男の子が見つめてる。[r]
-その中の一人は、まー君先輩……。[pcms]
+"Many boys are watching me dressed in it. One of them is Ma-kun-[r]
+senpai..."[pcms]
 
 *2178|
 [fc]
-まー君先輩が、私を心配そうな目で見つめてる。[r]
-にやけた顔を浮かべる男の中で、[r]
-唯一私を心配してくれている……。[pcms]
+"Ma-kun-senpai is looking at me with worried eyes. Among the grinning[r]
+men, he's the only one who seems concerned about me..."[pcms]
 
 *2179|
 [fc]
 [vo_aka s="akari0588"]
-[ns]茜梨[nse]
-「まー君先輩……見ないでぇ……。[r]
-　こんなの、見ないでください……あぁ……ふあっ！[r]
-　孕ませられる所……見ないでくださいっ！」[pcms]
+[ns]Akari[nse]
+"Ma-kun-senpai... don't look... Please don't see this...ahh...fua![r]
+Don't watch me getting impregnated!"[pcms]
 
 ;//■イベントCG　akari_H001
 [evcg storage="akari_H001d"][trans_c cross time=300]
@@ -493,122 +475,116 @@
 *2180|
 [fc]
 [vo_aka s="akari0589"]
-[ns]茜梨[nse]
-「ひうっ！　んあっ……はあぁっ！　やっ……あぁっ！」[pcms]
+[ns]Akari[nse]
+"Hiu! Nnah...haaah! Yah...aah!"[pcms]
 
 *2181|
 [fc]
-こんな所、本当に誰かにみられちゃったら、[r]
-私……どうなるんだろう。[pcms]
+"If someone really saw me like this, what would become of me..."[pcms]
 
 *2182|
 [fc]
-もし、私のそんな姿が撮影されたりして、[r]
-ネットに流されたら……。[pcms]
+"If someone recorded me in such a state and it got leaked on the[r]
+internet..."[pcms]
 
 *2183|
 [fc]
-私、外に出られなくなっちゃう……。[pcms]
+"I wouldn't be able to go outside anymore..."[pcms]
 
 *2184|
 [fc]
-そんな妄想が、留まるところなく広がり、[r]
-私の体の中で膨張していく。[pcms]
+"Such delusions spread without limit, swelling within me."[pcms]
 
 *2185|
 [fc]
 [vo_aka s="akari0590"]
-[ns]茜梨[nse]
-「あ、あぁ……あぁっ！　やだっぁっ……、[r]
-　ひんっ！　んあぁぁっ！！　あぁあぁ―――っ！[r]
-　精子……沢山くださいっ！　私に……あぁっ！」[pcms]
+[ns]Akari[nse]
+"Ah, aah...ahh! Noo...hinn! Nnah aahh!! Aah aah---! Please give me[r]
+lots of sperm! To me...ahh!"[pcms]
 
 *2186|
 [fc]
-私を取り囲む男の子達。[r]
-私を犯す、出渕先輩。[r]
-彼らの動きが、強く荒々しくなっていく。[pcms]
+"The boys surrounding me. Izubuchi-senpai who is violating me. Their[r]
+movements become stronger and more violent."[pcms]
 
 *2187|
 [fc]
 [vo_aka s="akari0591"]
-[ns]茜梨[nse]
-「駄目っ！　私、孕ませられるっ！[r]
-　赤ちゃん、出来ちゃうっ！　オマンコに精液ブチまけられて、[r]
-　イッちゃううっ！」[pcms]
+[ns]Akari[nse]
+"No! I'm going to be impregnated! I'll get pregnant! My pussy is being[r]
+filled with semen, I'm going to cum!"[pcms]
 
 *2188|
 [fc]
-それに合わせて、現実の私の指の動きも激しくなって、[r]
-妄想を膨らませる速度に拍車をかける。[pcms]
+"In sync with that, the movements of my fingers in reality also become[r]
+more intense, accelerating the expansion of my delusions."[pcms]
 
 *2189|
 [fc]
 [vo_aka s="akari0592"]
-[ns]茜梨[nse]
-「あ―――ッ……あぁっ……んあぁあっ！」[pcms]
+[ns]Akari[nse]
+"Ah---...aah...nah aahh!"[pcms]
 
 *2190|
 [fc]
-出渕先輩は、歯を食いしばり、[r]
-私のアソコの奧に、“アレ”を何度も何度も、[r]
-叩きつけだす。[pcms]
+"Izubuchi-senpai clenches his teeth and starts pounding 'that' over[r]
+and over again deep inside my pussy."[pcms]
 
 *2191|
 [fc]
-ああ、出渕先輩が、私の中に欲望の塊を吐き出そうとしている。[r]
-膣や、子宮……その一番奥にある、卵子に向けて……。[pcms]
+"Ah, Izubuchi-senpai is about to release his load of desire inside me.[r]
+Towards my vagina, my womb... right at the very back, towards the[r]
+egg."[pcms]
 
 *2192|
 [fc]
-まるで子宮口を突き抜け、卵子が直接犯される。[r]
-私の頭の中に、そんなイメージが広がっていく。[pcms]
+"It's as if he's piercing through the cervix, directly violating the[r]
+egg. Such an image spreads through my mind."[pcms]
 
 *2193|
 [fc]
-一番大切なものが、蹂躙される。[pcms]
+"The most precious part of me is being ravaged."[pcms]
 
 *2194|
 [fc]
-その事に恐怖しつつも、私の心の最も奧では、[r]
-もう一人の私が舌を突き出し、[r]
-快楽に塗れた表情を浮かべてそれを待ち構える。[pcms]
+"While I'm terrified by that thought, deep in my heart, another[r]
+version of me sticks out her tongue, her face smeared with pleasure,[r]
+eagerly awaiting it."[pcms]
 
 *2195|
 [fc]
-私の本心はきっと、そっちの方。[r]
-欲望の渦の中で、欲望を求めて淫らな顔を晒す。[pcms]
+"My true feelings are certainly more like that other self. In the[r]
+whirlpool of desire, I expose my lewd face as I seek more pleasure."[pcms]
 
 *2196|
 [fc]
-それが、本当の私なんだ……。[pcms]
+"That's the real me..."[pcms]
 
 *2197|
 [fc]
-心の中のまー君先輩が、目を背ける。[r]
-本当は見てほしいのに……。[pcms]
+"The Ma-kun-senpai in my heart turns his eyes away. Even though I[r]
+really want him to look..."[pcms]
 
 *2198|
 [fc]
-淫らな私の本性を、良く見てほしいのに……。[pcms]
+"I want him to see the true nature of my lewd self..."[pcms]
 
 *2199|
 [fc]
-そう思った矢先、私の全身は制御を失い、[r]
-柔らかなベッドの上で、痙攣を始めた。[pcms]
+"Just as I thought that, my entire body loses control and begins to[r]
+convulse on the soft bed."[pcms]
 
 *2200|
 [fc]
-目の奧に、火花が散る。[r]
-頭の奧に、白いもやが急速に広がっていく。[pcms]
+"Sparks scatter behind my eyes. A white fog rapidly spreads through[r]
+the back of my head."[pcms]
 
 *2201|
 [fc]
 [vo_aka s="akari0593"]
-[ns]茜梨[nse]
-「ひっ……いいいっ！　中っ！　中にくださいっ！[r]
-　私のイク顔見て……一番奥に流し込んでくださいっ！[r]
-　あぁっ！　イくっううっ！　ひぁぁああぁああぁっっ！」[pcms]
+[ns]Akari[nse]
+"Hii...yii! Inside! Please inside! Watch me cum...pour it into the[r]
+very back! Aah! I'm cumminggg! Hiaaahaaahaaahhh!"[pcms]
 
 ;//seフェード停止
 [stopse buf=1]
@@ -623,43 +599,42 @@
 *2202|
 [fc]
 [vo_aka s="akari0594"]
-[ns]茜梨[nse]
-「ふあ……あ……あ、ああぁ……」[pcms]
+[ns]Akari[nse]
+"Fua...ah...ah, aah..."[pcms]
 
 *2203|
 [fc]
-お腹の奧底から、熱い体液がわきだし、[r]
-太ももやお尻を濡らしていった。[pcms]
+"From the depths of my belly, hot fluid wells up, wetting my thighs[r]
+and butt."[pcms]
 
 *2204|
 [fc]
-また、やってしまった。[r]
-最近、ずっとこうだ。[pcms]
+"I've done it again. It's been like this lately."[pcms]
 
 *2205|
 [fc]
-淫らな妄想をして、派手に絶頂してしまう。[r]
-そして……袴やシーツを汚してしまう。[pcms]
+"Indulging in lewd fantasies and climaxing extravagantly. And[r]
+then...soiling my hakama and panties."[pcms]
 
 *2206|
 [fc]
 [vo_aka s="akari0595"]
-[ns]茜梨[nse]
-「はぁ……」[pcms]
+[ns]Akari[nse]
+"Haa..."[pcms]
 
 *2207|
 [fc]
-こんなの、もう止めなきゃ……。[pcms]
+"I have to stop this..."[pcms]
 
 *2208|
 [fc]
-まだ余韻が残り、痺れた頭の中、[r]
-私は、自分の行為を恥じた。[pcms]
+"While the afterglow still lingers and my head is numb, I feel ashamed[r]
+of my actions."[pcms]
 
 *2209|
 [fc]
-だけど、心地よい倦怠感のせいで、[r]
-私の体から、様々な記憶が失われていく。[pcms]
+"But due to the pleasant feeling of fatigue, various memories start to[r]
+fade from my body."[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -682,8 +657,7 @@
 
 *2210|
 [fc]
-もうじきお母さんも帰ってくる。[r]
-こんな所、見られちゃったらどうしよう……。[pcms]
+"Mom will be home soon. What should I do if she sees me like this..."[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

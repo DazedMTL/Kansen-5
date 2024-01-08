@@ -46,149 +46,149 @@
 
 *3169|
 [fc]
-とうとう、僕たちはエレベーターの前に着いてしまった。[r]
-エレベーターは、扉をあけたまま、留まっていた。[pcms]
+At last, we arrived in front of the elevator. The doors were open, and[r]
+it remained stationary.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so02b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3170|
 [fc]
-[ns]宗一郎[nse]
-「では、ここでお別れです。[r]
-　夏の姫、誠……無事に帰り着くことを心から祈ります」[pcms]
+[ns]Souichirou[nse]
+"Then, this is where we part ways. Princess of Summer, Makoto... I[r]
+sincerely pray for your safe return."[pcms]
 
 *3171|
 [fc]
-[ns]誠[nse]
-「そーいち……」[pcms]
+[ns]Makoto[nse]
+"Souichirou..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3172|
 [fc]
-[ns]宗一郎[nse]
-「誠、紳士たるもの、別れで泣くのは禁物だ。[r]
-　笑顔で送ってくれ」[pcms]
+[ns]Souichirou[nse]
+"Makoto, a gentleman must not cry at farewells. Send me off with a[r]
+smile."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3173|
 [fc]
 [vo_nat s="natu_nt0137"]
-[ns]夏都[nse]
-「そーいち……」[pcms]
+[ns]Natsu[nse]
+"Souichirou..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3174|
 [fc]
-[ns]宗一郎[nse]
-「夏の姫も、ぜひ笑顔でお願いします。宗一郎、しっかりと[r]
-　脳裏に焼き付け、持って行きます」[pcms]
+[ns]Souichirou[nse]
+"Princess of Summer, please smile for me as well. Souichirou will etch[r]
+it firmly into his memory to take with him."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3175|
 [fc]
 [vo_aka s="akari_nt0160"]
-[ns]茜梨[nse]
-「まーくん先輩もお姉さんも……この先も気をつけて」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai and Onee-san... please be careful from here on out."[pcms]
 
 *3176|
 [fc]
-そう言って越智さんは、ぺこりと頭を下げた。[pcms]
+With that said, Akari-san bowed her head slightly.[pcms]
 
 *3177|
 [fc]
-僕は、そーいちに手を差し出した。[r]
-そーいちは、すぐに握りかえしてきた。[pcms]
+I reached out my hand to Souichirou. He immediately grasped it back.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so31b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3178|
 [fc]
-[ns]宗一郎[nse]
-「うむ。実に紳士的な別れの儀式ですな。[r]
-　ささ、先を急いだ方がいいと思われますよ」[pcms]
+[ns]Souichirou[nse]
+"Hmm. A truly gentlemanly farewell ceremony. Now, I think it's best[r]
+you hurry on ahead."[pcms]
 
 *3179|
 [fc]
-僕に泣くなって言ったのに、そーいちの目にも涙がにじんでいた。[pcms]
+Even though he told me not to cry, I could see tears welling up in[r]
+Souichirou's eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3180|
 [fc]
 [vo_nat s="natu_nt0138"]
-[ns]夏都[nse]
-「そーいちぃ……」[pcms]
+[ns]Natsu[nse]
+"Souichirou..."[pcms]
 
 *3181|
 [fc]
-姉ちゃんは、そーいちを抱きしめようと手を広げた。[r]
-でも、そーいちは、数歩下がりそれを拒んだ。[pcms]
+Onee-san spread her arms to embrace Souichirou, but he stepped back a[r]
+few paces and refused.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3182|
 [fc]
-[ns]宗一郎[nse]
-「なりませぬ、夏の姫。不肖宗一郎、ただいま目から何やら[r]
-　水が零れそうなのです。しかしながら、この水は、姫にとって[r]
-　毒にしかなりませぬ。ですから、このまま別れとさせてください」[pcms]
+[ns]Souichirou[nse]
+"I cannot allow it, Princess of Summer. The unworthy Souichirou is on[r]
+the verge of shedding some kind of water from his eyes. However, this[r]
+water would only be poison to you. Therefore, please let us part this[r]
+way."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3183|
 [fc]
 [vo_nat s="natu_nt0139"]
-[ns]夏都[nse]
-「うっ……ううっ……わかった。オレも……」[pcms]
+[ns]Natsu[nse]
+"Uh... uhh... I understand. I will too..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3184|
 [fc]
-姉ちゃんは目をごしごしと擦ったあと、にっこりと笑いながら[r]
-顔を上げた。[pcms]
+After rubbing her eyes vigorously, Onee-san lifted her face with a[r]
+bright smile.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3185|
 [fc]
-[ns]宗一郎[nse]
-「忘れません、その笑顔。[r]
-　焼き付けました。姉上のその爆乳とともに」[pcms]
+[ns]Souichirou[nse]
+"I will not forget that smile. It's been seared into my memory, along[r]
+with your explosive bust."[pcms]
 
 *3186|
 [fc]
-そーいちは、越智さんに手を差し出した。[r]
-越智さんはその手をそっと握りしめる。[pcms]
+Souichirou reached out his hand to Akari-san. She gently clasped it.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw3"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3187|
 [fc]
 [vo_aka s="akari_nt0161"]
-[ns]茜梨[nse]
-「本当に気をつけて。もう行って下さい。お願いします」[pcms]
+[ns]Akari[nse]
+"Please really be careful. Go now, I beg of you."[pcms]
 
 *3188|
 [fc]
-そう言って、またぺこりと頭を下げた。[pcms]
+With that, she bowed her head again.[pcms]
 
 *3189|
 [fc]
-[ns]誠[nse]
-「わかった。もう行く。そーいち、越智さん、さよなら……」[pcms]
+[ns]Makoto[nse]
+"Understood. We're leaving now. Souichirou, Akari-san, goodbye..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3190|
 [fc]
 [vo_nat s="natu_nt0140"]
-[ns]夏都[nse]
-「さよ……なら」[pcms]
+[ns]Natsu[nse]
+"Good... bye"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -198,7 +198,8 @@
 
 *3191|
 [fc]
-僕は姉ちゃんの手を取り、ふたりに背を向け通用口を目指した。[pcms]
+I took Onee-san's hand and turned our backs on them, heading for the[r]
+service exit.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -211,7 +212,7 @@
 
 *3192|
 [fc]
-振り返る。ふたりは気付いて手を振ってくる。[pcms]
+I looked back. The two of them noticed and started waving their hands.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -224,7 +225,7 @@
 
 *3193|
 [fc]
-また振り返る。まだふたりは手を振ってくれていた。[pcms]
+I looked back again. They were still waving their hands at us.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -234,26 +235,26 @@
 
 *3194|
 [fc]
-そうして、ようやく廊下を曲がったところでふたりの姿は[r]
-見えなくなった……。[pcms]
+And so, as we finally turned the corner in the hallway, their figures[r]
+disappeared from sight...[pcms]
 
 *3195|
 [fc]
-[ns]誠[nse]
-「うっ……くうっ……うう」[pcms]
+[ns]Makoto[nse]
+"Uh... kuh... uhh"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3196|
 [fc]
 [vo_nat s="natu_nt0141"]
-[ns]夏都[nse]
-「泣くな……オレだって我慢してるんだ」[pcms]
+[ns]Natsu[nse]
+"Don't cry... I'm holding it in too."[pcms]
 
 *3197|
 [fc]
-ごしごしと目を擦る。[r]
-ハッキリとした視界に、スタッフ専用の文字が待ち構えていた。[pcms]
+I rubbed my eyes vigorously. A clear view awaited me, with the words[r]
+'Staff Only' in sight.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -276,48 +277,48 @@
 ;//◆いきなり軽いので、個人的に下の台詞カットしたひ
 ;//m:確かに
 ;//[vo_nat s="natu_nt0142"]
-;//[ns]夏都[nse]
-;//「リムジンか～。一度運転してみたかったんだよなあ。
+[ns]Natsu[nse]
+;//「リムジンか。一度運転してみたかったんだよなあ。
 ;//　にしても、ご大層なもんだな」
 
 *3198|
 [fc]
-姉ちゃんが運転席に乗り込む。僕は電動シャッターの[r]
-ＵＰのボタンを押してから助手席に乗り込んだ。[pcms]
+Natsu got into the driver's seat. I pressed the UP button for the[r]
+electric shutter and then got into the passenger seat.[pcms]
 
 *3199|
 [fc]
-稼津央さんの言葉通り、車庫にもヤツラの姿は無かった。[pcms]
+Just as Kazutsu-san said, there was no sign of them in the garage.[pcms]
 
 *3200|
 [fc]
-シャッターが徐々に上がっていく。[r]
-その先には、無数の感染者が待ち構えていた。[pcms]
+The shutter gradually rose. Beyond it, countless infected were[r]
+waiting.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3201|
 [fc]
 [vo_nat s="natu_nt0143"]
-[ns]夏都[nse]
-「ちゃんとシートベルトしろよ、誠。突っ切るからな。[r]
-　それと、道案内よろしくっ！」[pcms]
+[ns]Natsu[nse]
+"Make sure you wear your seatbelt, Makoto. We're going to break[r]
+through. And you're in charge of navigation!"[pcms]
 
 [se buf=0 storage="seC024"]
 ;//♪SE自動車のエンジン指導＋空ぶかし
 
 *3202|
 [fc]
-姉ちゃんがアクセルを空ぶかしする。[r]
-その音に外のヤツラが反応し、向かってくる。[pcms]
+Onee-san revved the accelerator. The noise attracted the attention of[r]
+those outside, and they started coming towards us.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3203|
 [fc]
 [vo_nat s="natu_nt0144"]
-[ns]夏都[nse]
-「行くぜっ！！」[pcms]
+[ns]Natsu[nse]
+"Here we go!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -326,16 +327,16 @@
 
 *3204|
 [fc]
-リムジンのエンジンがうなりを上げて走り出した。[pcms]
+The limousine's engine roared as it started moving.[pcms]
 
 *3205|
 [fc]
-目の前に迫る感染者を、姉ちゃんは容赦なく[r]
-跳ね飛ばしていく。[pcms]
+Onee-san mercilessly ran over the approaching infected without[r]
+hesitation.[pcms]
 
 *3206|
 [fc]
-僕たちはボートを停めた岸壁を目指し、スピードを上げた。[pcms]
+We sped up towards the dock where we had parked the boat.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -362,92 +363,92 @@
 *3207|
 [fc]
 [vo_aka s="akari_nt0162"]
-[ns]茜梨[nse]
-「まー君先輩達、行っちゃいましたね……」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai and the others have left..."[pcms]
 
 *3208|
 [fc]
-[ns]宗一郎[nse]
-「無事に東京に帰ってくれればいいんですが……」[pcms]
+[ns]Souichirou[nse]
+"I hope they make it back to Tokyo safely..."[pcms]
 
 *3209|
 [fc]
-茜梨と宗一郎は、屋上庭園の柵の外側に立ち、[r]
-走り去るホワイトリムジンを見下ろしていた。[pcms]
+Akari and Souichirou stood outside the rooftop garden fence, looking[r]
+down at the white limousine as it drove away.[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_sw4"][ChrSetParts layer=3 chface="F1_ak02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3210|
 [fc]
 [vo_aka s="akari_nt0163"]
-[ns]茜梨[nse]
-「きっと、大丈夫ですよ。あのお姉さんがついてるんですから」[pcms]
+[ns]Akari[nse]
+"I'm sure it'll be fine. After all, they have Onee-san with them."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so02b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3211|
 [fc]
-[ns]宗一郎[nse]
-「そうですな……」[pcms]
+[ns]Souichirou[nse]
+"Indeed..."[pcms]
 
 *3212|
 [fc]
-ふたりの手は、しっかりと握られていた。[pcms]
+Their hands were firmly clasped together.[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_sw4"][ChrSetParts layer=3 chface="F1_ak01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3213|
 [fc]
 [vo_aka s="akari_nt0165"]
-[ns]茜梨[nse]
-「出渕先輩、私たちもそろそろ行きましょう」[pcms]
+[ns]Akari[nse]
+"Souichirou-senpai, we should get going too."[pcms]
 
 *3214|
 [fc]
-宗一郎は手を離し、その手を自分の胸に当て、恭しく礼を[r]
-茜梨に返した。[pcms]
+Souichirou let go of her hand, placed it on his chest, and bowed[r]
+respectfully to Akari.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3215|
 [fc]
-[ns]宗一郎[nse]
-「この宗一郎、喜んで我が姫のお供させていただきます」[pcms]
+[ns]Souichirou[nse]
+"It would be my honor to accompany my princess."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_sw4"][ChrSetParts layer=3 chface="F1_ak03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3216|
 [fc]
 [vo_aka s="akari_nt0166"]
-[ns]茜梨[nse]
-「んもう……大仰ですね」[pcms]
+[ns]Akari[nse]
+"Geez... you're so grandiose."[pcms]
 
 *3217|
 [fc]
-そう言って笑う茜梨の笑顔も、宗一郎は胸に刻み、[r]
-そして微笑みを返した。[pcms]
+Akari smiled at his words, and Souichirou engraved her smile in his[r]
+heart, returning it with a smile of his own.[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_sw4"][ChrSetParts layer=3 chface="F1_ak09"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3218|
 [fc]
 [vo_aka s="akari_nt0167"]
-[ns]茜梨[nse]
-「宗一郎……先輩。私のファーストキス、貰って下さい」[pcms]
+[ns]Akari[nse]
+"Souichirou... Senpai. Please accept my first kiss."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3219|
 [fc]
-[ns]宗一郎[nse]
-「…………はい。感慨無量です」[pcms]
+[ns]Souichirou[nse]
+"...Yes. I am deeply moved."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3220|
 [fc]
-宗一郎がそっと茜梨を抱き寄せる。[r]
-茜梨は素直に宗一郎の胸に飛び込み、ふたりは唇を重ねた。[pcms]
+Souichirou gently pulled Akari close. Akari willingly leaped into his[r]
+chest, and their lips met.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -458,7 +459,7 @@
 
 *3221|
 [fc]
-そしてそのまま、ふたりの身体は、空中に倒れ込んでいった。[pcms]
+And then, their bodies fell together into the air.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -473,29 +474,29 @@
 
 *3222|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、あれだよ」[pcms]
+[ns]Makoto[nse]
+"Onee-chan, that's it over there."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw3_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3223|
 [fc]
 [vo_nat s="natu_nt0145"]
-[ns]夏都[nse]
-「ああ、なるほど。それにしても、なんでこんな岸壁に？」[pcms]
+[ns]Natsu[nse]
+"Ah, I see. But why on such a cliffside?"[pcms]
 
 *3224|
 [fc]
-[ns]誠[nse]
-「あとで話すけど、やむを得なかったんだ」[pcms]
+[ns]Makoto[nse]
+"I'll explain later, but it was unavoidable."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw3_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3225|
 [fc]
 [vo_nat s="natu_nt0146"]
-[ns]夏都[nse]
-「ふう～ん。あ、誠、足元気をつけろよ」[pcms]
+[ns]Natsu[nse]
+"Hmm. Hey, Makoto, watch your step."[pcms]
 
 [chara_int][trans_c cross time=150]
 [se buf=0 storage="seB013"]
@@ -504,33 +505,33 @@
 
 *3226|
 [fc]
-そう言われたのに、僕は最期の一歩で、どさっと岩の上に[r]
-尻餅をついてしまっていた。[pcms]
+Despite being warned, I ended up plopping down onto the rocks with a[r]
+thud on my last step.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw3_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3227|
 [fc]
 [vo_nat s="natu_nt0147"]
-[ns]夏都[nse]
-「ったく、気をつけろっていった端からこれだからな」[pcms]
+[ns]Natsu[nse]
+"Seriously, this is what happens right after I tell you to be[r]
+careful."[pcms]
 
 *3228|
 [fc]
-[ns]誠[nse]
-「違うよ、言われたから気が散っちゃったんだよ」[pcms]
+[ns]Makoto[nse]
+"No, it's because you said something that I got distracted."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3229|
 [fc]
-ひょいと最期の一歩を姉ちゃんは飛び降り、[r]
-そのままぴょんぴょんと岩を飛んで、あっという間に[r]
-ボート近くにたどり着いていた。[pcms]
+Onee-chan nimbly jumped down the last step and hopped from rock to[r]
+rock, quickly reaching the boat.[pcms]
 
 *3230|
 [fc]
-僕は慌てて後を追いかけ、ボートに乗り込んだ。[pcms]
+I hurried after her and boarded the boat.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -541,153 +542,153 @@
 
 *3231|
 [fc]
-南先輩のカメラが主の帰りをじっと待っていた。[r]
-指先でその輪郭をなぞる。[pcms]
+Satsuki-senpai's camera was waiting patiently for its owner's return.[r]
+I traced its outline with my fingertips.[pcms]
 
 *3232|
 [fc]
-南先輩の顔が浮かんできて、僕はまた泣きそうになっていた。[pcms]
+The image of Satsuki-senpai came to mind, and I felt like crying[r]
+again.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3233|
 [fc]
 [vo_nat s="natu_nt0148"]
-[ns]夏都[nse]
-「誠、キーは？」[pcms]
+[ns]Natsu[nse]
+"Makoto, where's the key?"[pcms]
 
 *3234|
 [fc]
-[ns]誠[nse]
-「あ、えっと」[pcms]
+[ns]Makoto[nse]
+"Ah, um..."[pcms]
 
 *3235|
 [fc]
-姉ちゃんの言葉に僕はごしごしと目を擦る。[pcms]
+At Onee-chan's words, I rubbed my eyes vigorously.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3236|
 [fc]
 [vo_nat s="natu_nt0149"]
-[ns]夏都[nse]
-「なんだ？　また涙ぐんでたのか？」[pcms]
+[ns]Natsu[nse]
+"What? Are you tearing up again?"[pcms]
 
 *3237|
 [fc]
-[ns]誠[nse]
-「う、うん。これ……南先輩のカメラなんだ。[r]
-　大事にしてくれって言われたんだよ」[pcms]
+[ns]Makoto[nse]
+"Yeah. This... it's Satsuki-senpai's camera. She told me to take good[r]
+care of it."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3238|
 [fc]
 [vo_nat s="natu_nt0150"]
-[ns]夏都[nse]
-「そっか……大事にしてやれよ。[r]
-　ほら、出帆したいから、キーくれ」[pcms]
+[ns]Natsu[nse]
+"I see... Take good care of it. Now, give me the key; I want to set[r]
+sail."[pcms]
 
 *3239|
 [fc]
-[ns]誠[nse]
-「あ、ごめん」[pcms]
+[ns]Makoto[nse]
+"Ah, sorry."[pcms]
 
 *3240|
 [fc]
-美沙緒さんから預かったバックの中をごそごそとやって[r]
-僕はボートのキーを取り出した。[pcms]
+I rummaged through the bag Misao-san had entrusted to me and took out[r]
+the boat key.[pcms]
 
 *3241|
 [fc]
-姉ちゃんに渡そうと差し出しながら、僕の手が震えだす。[pcms]
+As I reached out to hand it to Onee-chan, my hand started shaking.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3242|
 [fc]
 [vo_nat s="natu_nt0151"]
-[ns]夏都[nse]
-「どうした、誠？」[pcms]
+[ns]Natsu[nse]
+"What's wrong, Makoto?"[pcms]
 
 *3243|
 [fc]
-[ns]誠[nse]
-「このバッグもボートも……越智さんの叔母さんのものなんだ。[r]
-　バッグを手渡されたとき、越智さんを守ってって言われたのに」[pcms]
+[ns]Makoto[nse]
+"This bag and the boat... they belong to Akari-san's aunt. When she[r]
+handed me the bag, she told me to protect Akari-san."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3244|
 [fc]
 [vo_nat s="natu_nt0152"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *3245|
 [fc]
-[ns]誠[nse]
-「それなのに……僕は越智さんを守れなかった。[r]
-　うっ……ぐずっ……そんな僕に、このボートに乗る資格が[r]
-　あるのかなって思って、そしたら……ううっうううっ」[pcms]
+[ns]Makoto[nse]
+"And yet... I couldn't protect Akari-san. Ugh... *sniff*... Do I even[r]
+deserve to be on this boat? That's what I was thinking, and then...[r]
+*sob* *sob*"[pcms]
 
 *3246|
 [fc]
 [vo_nat s="natu_nt0153"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *3247|
 [fc]
-[ns]誠[nse]
-「むぐっ……苦し……」[pcms]
+[ns]Makoto[nse]
+"*muffled* It's hard..."[pcms]
 
 *3248|
 [fc]
-姉ちゃんが僕を抱きしめる。例によって僕は姉ちゃんの[r]
-爆乳で窒息しそうになっていた。[pcms]
+Onee-chan hugged me. As usual, I was nearly suffocated by her huge[r]
+breasts.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3249|
 [fc]
 [vo_nat s="natu_nt0154"]
-[ns]夏都[nse]
-「大丈夫だって。許してくれてるよ。誠とオレに出来る事は[r]
-　二人のことも、決して忘れないってことだ」[pcms]
+[ns]Natsu[nse]
+"It's okay. She has forgiven you. What we can do for both of them is[r]
+to never forget."[pcms]
 
 *3250|
 [fc]
-[ns]誠[nse]
-「…………うん」[pcms]
+[ns]Makoto[nse]
+"...Yeah."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3251|
 [fc]
 [vo_nat s="natu_nt0155"]
-[ns]夏都[nse]
-「忘れないために、生き延びる為に、このボートで脱出するんだ。[r]
-　そうだろ？　資格が無いなんて思うな。忘れない為に[r]
-　オレと誠は、この船に乗らなくちゃなんないんだよ」[pcms]
+[ns]Natsu[nse]
+"To survive and not forget, we need to escape on this boat. Right?[r]
+Don't think you don't deserve to be here. We have to get on this ship[r]
+so we won't forget."[pcms]
 
 *3252|
 [fc]
-[ns]誠[nse]
-「…………わかった」[pcms]
+[ns]Makoto[nse]
+"...I understand."[pcms]
 
 *3253|
 [fc]
-姉ちゃんが僕を離し、笑う。[r]
-僕はボートのキーを姉ちゃんに渡した。[pcms]
+Onee-chan let go of me and smiled. I handed the boat key to Onee-chan.[pcms]
 
 [se buf=0 storage="seC019"]
 ;//♪SE小型船舶のエンジン音
 
 *3254|
 [fc]
-ボートのエンジンがうなりを上げる。[r]
-僕と姉ちゃんは、海原へと出帆した。[pcms]
+The boat engine roared to life. Onee-chan and I set sail into the open[r]
+sea.[pcms]
 
 [se buf=1 storage="seE004" loop=true]
 ;//♪SE波の音
@@ -701,41 +702,40 @@
 
 *3255|
 [fc]
-遠目でみれば、島では何事も起こってないかのようにも見えた。[pcms]
+From a distance, the island looked as if nothing had happened.[pcms]
 
 *3256|
 [fc]
-でも、風に乗って時折、獣のような咆吼が聞え、焦げ臭い臭いも[r]
-漂ってきて、やっぱり僕たちはまた生き残ったんだと[r]
-実感させられる。[pcms]
+But occasionally, the wind carried the roar of a beast and the smell[r]
+of burning, reminding us that we had survived once again.[pcms]
 
 *3257|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3258|
 [fc]
 [vo_nat s="natu_nt0156"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *3259|
 [fc]
-僕たちは手を繋ぎ、島を見つめていた。[pcms]
+We held hands and gazed at the island.[pcms]
 
 *3260|
 [fc]
-姉ちゃんが僕を見つめる。僕も姉ちゃんを見つめ返した。[pcms]
+Onee-chan looked at me. I looked back at her.[pcms]
 
 *3261|
 [fc]
-またいっぱい失ってしまったけど、今度は絶対忘れない。[r]
-忘れずに、言葉に出して、ずっと語り継いで行こうと思う。[pcms]
+We've lost so much again, but this time we will never forget. We'll[r]
+keep talking about it, never forgetting, always speaking out loud.[pcms]
 
 *3262|
 [fc]
-僕は決意を新たに、姉ちゃんの手をぎゅっと握りしめた。[pcms]
+I renewed my resolve and gripped Onee-chan's hand tightly.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -795,7 +795,7 @@
 [black_toplayer][trans_c cross time=0][hide_chara_int]
 ;;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *satuki_alive
@@ -814,181 +814,181 @@
 
 *3263|
 [fc]
-とうとう、僕たちはエレベーターの前に着いてしまった。[r]
-エレベーターは、扉をあけたまま、留まっていた。[pcms]
+Finally, we arrived in front of the elevator. The elevator doors were[r]
+open, waiting.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so02b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3264|
 [fc]
-[ns]宗一郎[nse]
-「では、ここでお別れです。[r]
-　夏の姫、誠……無事に帰り着くことを心から祈ります」[pcms]
+[ns]Souichirou[nse]
+"Then, this is where we part ways. Princess of Summer, Makoto... I[r]
+sincerely pray for your safe return."[pcms]
 
 *3265|
 [fc]
-[ns]誠[nse]
-「そーいち……」[pcms]
+[ns]Makoto[nse]
+"Souichi..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3266|
 [fc]
-[ns]宗一郎[nse]
-「誠、紳士たるもの、別れで泣くのは禁物だ。[r]
-　笑顔で送ってくれ」[pcms]
+[ns]Souichirou[nse]
+"Makoto, a gentleman must not cry at farewells. Send me off with a[r]
+smile."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3267|
 [fc]
 [vo_nat s="natu_nt0137"]
-[ns]夏都[nse]
-「そーいち……」[pcms]
+[ns]Natsu[nse]
+"Souichi..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3268|
 [fc]
 [vo_stk s="satuki_nt0186"]
-[ns]彩月[nse]
-「そーいち君……」[pcms]
+[ns]Satsuki[nse]
+"Souichi-kun..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3269|
 [fc]
-[ns]宗一郎[nse]
-「南先輩も夏の姫も、ぜひ笑顔でお願いします。[r]
-　宗一郎、しっかりと脳裏に焼き付け、持って行きます」[pcms]
+[ns]Souichirou[nse]
+"Senior Minami and Princess of Summer, please smile for me. Souichirou[r]
+will engrave this moment in his memory."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3270|
 [fc]
 [vo_aka s="akari_nt0160"]
-[ns]茜梨[nse]
-「まー君先輩も南先輩も、お姉さんも……この先も気をつけて」[pcms]
+[ns]Akari[nse]
+"Senior Ma-kun, Senior Minami, Onee-san... please be careful from now[r]
+on."[pcms]
 
 *3271|
 [fc]
-そう言って越智さんは、ぺこりと頭を下げた。[pcms]
+With that, Ochi-san bowed her head slightly.[pcms]
 
 *3272|
 [fc]
-僕が、そーいちに手を差し出しすと、[r]
-そーいちは、すぐに握りかえしてきた。[pcms]
+When I reached out my hand to Souichi, he immediately grasped it back.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so31b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3273|
 [fc]
-[ns]宗一郎[nse]
-「うむ。実に紳士的な別れの儀式ですな。[r]
-　ささ、先を急いだ方がいいと思われますよ」[pcms]
+[ns]Souichirou[nse]
+"Hmm. A truly gentlemanly farewell ceremony. Now, you should hurry on[r]
+ahead."[pcms]
 
 *3274|
 [fc]
-僕に泣くなって言ったのに、そーいちの目にも涙がにじんでいる。[pcms]
+Even though he told me not to cry, I could see tears welling up in[r]
+Souichi's eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3275|
 [fc]
 [vo_nat s="natu_nt0138"]
-[ns]夏都[nse]
-「そーいちぃ……」[pcms]
+[ns]Natsu[nse]
+"Souichi..."[pcms]
 
 *3276|
 [fc]
-姉ちゃんは、そーいちを抱きしめようと手を広げた。[r]
-でも、そーいちは、数歩下がりそれを拒んだ。[pcms]
+Onee-chan spread her arms to hug Souichi, but he stepped back and[r]
+refused.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3277|
 [fc]
-[ns]宗一郎[nse]
-「なりませぬ、夏の姫。不肖宗一郎、ただいま目から何やら[r]
-　水が零れそうなのです。しかしながら、この水は、姫にとって[r]
-　毒にしかなりませぬ。ですから、このまま別れとさせてください」[pcms]
+[ns]Souichirou[nse]
+"I cannot allow it, Princess of Summer. Unworthy Souichirou is about[r]
+to shed tears. However, these tears would only be poison to you. So[r]
+please, let us part this way."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3278|
 [fc]
 [vo_nat s="natu_nt0139"]
-[ns]夏都[nse]
-「うっ……ううっ……わかった。オレも……」[pcms]
+[ns]Natsu[nse]
+"Ugh...uhh... I understand. I will too..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3279|
 [fc]
-姉ちゃんは目をごしごしと擦ったあと、にっこりと笑いながら[r]
-顔を上げた。[pcms]
+Onee-chan rubbed her eyes and then lifted her face with a bright[r]
+smile.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3280|
 [fc]
-[ns]宗一郎[nse]
-「忘れません、その笑顔。[r]
-　焼き付けました。姉上のその爆乳とともに」[pcms]
+[ns]Souichirou[nse]
+"I will not forget that smile. It is etched in my memory, along with[r]
+your explosive bust."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3281|
 [fc]
 [vo_stk s="satuki_nt0187"]
-[ns]彩月[nse]
-「そーいち君。楽しい学園生活だった。ありがとう」[pcms]
+[ns]Satsuki[nse]
+"Souichi-kun. It was a fun school life. Thank you."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3282|
 [fc]
-[ns]宗一郎[nse]
-「いえいえ、それはこちらの台詞です。[r]
-　その笑顔も実は巨乳だった事も、決して忘れません」[pcms]
+[ns]Souichirou[nse]
+"No, no, the pleasure was all mine. I will never forget that smile or[r]
+the fact that it belonged to a busty beauty."[pcms]
 
 *3283|
 [fc]
-そーいちは、越智さんに手を差し出した。[r]
-越智さんはその手をそっと握りしめる。[pcms]
+Souichi extended his hand to Ochi-san. She gently grasped it.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3284|
 [fc]
 [vo_aka s="akari_nt0161"]
-[ns]茜梨[nse]
-「本当に気をつけて。もう行って下さい。お願いします」[pcms]
+[ns]Akari[nse]
+"Please really be careful. Go now, please."[pcms]
 
 *3285|
 [fc]
-そう言って、またぺこりと頭を下げた。[pcms]
+With that, she bowed her head again.[pcms]
 
 *3286|
 [fc]
-[ns]誠[nse]
-「わかった。もう行く。そーいち、越智さん、さよなら……」[pcms]
+[ns]Makoto[nse]
+"Understood. We're going now. Souichi, Ochi-san, goodbye..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3287|
 [fc]
 [vo_nat s="natu_nt0140"]
-[ns]夏都[nse]
-「さよ……なら」[pcms]
+[ns]Natsu[nse]
+"Good...bye"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3288|
 [fc]
 [vo_stk s="satuki_nt0188"]
-[ns]彩月[nse]
-「さよなら……」[pcms]
+[ns]Satsuki[nse]
+"Goodbye..."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -998,7 +998,8 @@
 
 *3289|
 [fc]
-僕たち三人は、ふたりに背を向け通用口を目指した。[pcms]
+The three of us turned our backs on them and headed for the service[r]
+exit.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -1011,7 +1012,7 @@
 
 *3290|
 [fc]
-振り返る。ふたりは気付いて手を振ってくる。[pcms]
+I looked back. The two of them noticed and waved their hands.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -1025,7 +1026,7 @@
 
 *3291|
 [fc]
-また振り返る。まだふたりは手を振ってくれていた。[pcms]
+Looking back again. They were still waving at us.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1035,34 +1036,34 @@
 
 *3292|
 [fc]
-そうして、ようやく廊下を曲がったところでふたりの姿は[r]
-見えなくなった……。[pcms]
+And finally, as we turned the corner in the hallway, we could no[r]
+longer see the two of them...[pcms]
 
 *3293|
 [fc]
-[ns]誠[nse]
-「うっ……くうっ……うう」[pcms]
+[ns]Makoto[nse]
+"Ugh...kuh...uh."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3294|
 [fc]
 [vo_nat s="natu_nt0141"]
-[ns]夏都[nse]
-「泣くな……オレだって我慢してるんだ」[pcms]
+[ns]Natsu[nse]
+"Don't cry... I'm holding it in too."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3295|
 [fc]
 [vo_stk s="satuki_nt0189"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *3296|
 [fc]
-ごしごしと目を擦る。[r]
-ハッキリとした視界に、スタッフ専用の文字が待ち構えていた。[pcms]
+She rubbed her eyes vigorously. In her clear field of vision, the[r]
+words 'Staff Only' awaited.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1088,44 +1089,43 @@
 *3297|
 [fc]
 [vo_stk s="satuki_nt0190"]
-[ns]彩月[nse]
-「わたしが運転します。仮免の身ですが……」[pcms]
+[ns]Satsuki[nse]
+"I'll drive. I only have a provisional license, but..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3298|
 [fc]
 [vo_nat s="natu_nt0157"]
-[ns]夏都[nse]
-「それなら、オレが運転するよ」[pcms]
+[ns]Natsu[nse]
+"Then I'll drive."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3299|
 [fc]
 [vo_stk s="satuki_nt0191"]
-[ns]彩月[nse]
-「いいえ、お姉さんは後ろの席で休んでてください。[r]
-　少しはご自分の身体をいたわって欲しいと思います」[pcms]
+[ns]Satsuki[nse]
+"No, please rest in the back seat, Onee-san. I wish you would take[r]
+care of your own body a little."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3300|
 [fc]
 [vo_nat s="natu_nt0158"]
-[ns]夏都[nse]
-「そっか……じゃあ、お言葉に甘えよう」[pcms]
+[ns]Natsu[nse]
+"I see... then I'll take you up on your kind offer."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3301|
 [fc]
-姉ちゃんの運転の方が、まだマシだろうと思ったけど、[r]
-僕は口をつぐんだ。[pcms]
+I thought Onee-san's driving would be safer, but I kept my mouth shut.[pcms]
 
 *3302|
 [fc]
-せっかくの先輩の好意を無にしたくなかったから。[pcms]
+I didn't want to nullify the kindness of my senior.[pcms]
 
 ;mm ここから車
 ;//ココにバストアップ表示入れて下さい
@@ -1137,43 +1137,45 @@
 
 *3303|
 [fc]
-姉ちゃんが後部座席に乗り込み、南先輩も運転席に乗り込んだ。[r]
-僕は電動シャッターのＵＰのボタンを押してから[r]
-助手席へと乗り込んだ。[pcms]
+Onee-san got into the back seat, and Satsuki-senpai climbed into the[r]
+driver's seat. I pressed the UP button for the electric shutter before[r]
+getting into the passenger seat.[pcms]
 
 *3304|
 [fc]
-稼津央さんの言葉通り、車庫にもヤツラの姿は無かった。[pcms]
+Just as Kazuto-san had said, they were nowhere to be found in the[r]
+garage.[pcms]
 
 *3305|
 [fc]
-シャッターが徐々に上がっていく。[r]
-その先には、無数の感染者が待ち構えていた。[pcms]
+The shutter gradually rose. Beyond it, countless infected awaited.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3306|
 [fc]
 [vo_stk s="satuki_nt0192"]
-[ns]彩月[nse]
-「ちゃんとシートベルトしてくださいね。突っ切ります」[pcms]
+[ns]Satsuki[nse]
+"Please make sure your seatbelt is fastened. We're going to break[r]
+through."[pcms]
 
 [se buf=0 storage="seC024"]
 ;//♪SE自動車のエンジン指導＋空ぶかし
 
 *3307|
 [fc]
-そう宣言すると、南先輩はアクセルを空ぶかしした。[r]
-その音に外のヤツラが反応し、向かってくる。[pcms]
+With that declaration, Satsuki-senpai revved the engine. The noise[r]
+attracted the attention of those outside, and they started coming[r]
+towards us.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3308|
 [fc]
 [vo_stk s="satuki_nt0193"]
-[ns]彩月[nse]
-「いい感じ。やっぱり普通車なら大丈夫だわ。[r]
-　じゃあ、行きます。しっかり掴まっててくださいね」[pcms]
+[ns]Satsuki[nse]
+"This is good. A regular car will be fine after all. Here we go.[r]
+Please hold on tight."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1182,16 +1184,16 @@
 
 *3309|
 [fc]
-リムジンのエンジンがうなりを上げて走り出した。[pcms]
+The limousine's engine roared to life as it started moving.[pcms]
 
 *3310|
 [fc]
-目の前に迫る感染者を、南先輩は、また容赦なく[r]
-跳ね飛ばしていく。[pcms]
+The infected looming ahead were mercilessly knocked aside by Satsuki-[r]
+senpai.[pcms]
 
 *3311|
 [fc]
-僕たちはボートを停めた岸壁を目指し、スピードを上げた。[pcms]
+We sped up towards the dock where we had parked the boat.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1218,92 +1220,92 @@
 *3312|
 [fc]
 [vo_aka s="akari_nt0162"]
-[ns]茜梨[nse]
-「まー君先輩達、行っちゃいましたね……」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai and the others, they've gone..."[pcms]
 
 *3313|
 [fc]
-[ns]宗一郎[nse]
-「無事に東京に帰ってくれればいいんですが……」[pcms]
+[ns]Souichirou[nse]
+"I hope they make it back to Tokyo safely..."[pcms]
 
 *3314|
 [fc]
-茜梨と宗一郎は、屋上庭園の柵の外側に立ち、[r]
-走り去るホワイトリムジンを見下ろしていた。[pcms]
+Akari and Souichirou stood outside the railing of the rooftop garden,[r]
+looking down at the departing white limousine.[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_sw4"][ChrSetParts layer=3 chface="F1_ak02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3315|
 [fc]
 [vo_aka s="akari_nt0163"]
-[ns]茜梨[nse]
-「きっと、大丈夫ですよ。あのお姉さんがついてるんですから」[pcms]
+[ns]Akari[nse]
+"They'll be fine. They have that Onee-san with them."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so02b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3316|
 [fc]
-[ns]宗一郎[nse]
-「そうですな……」[pcms]
+[ns]Souichirou[nse]
+"Indeed..."[pcms]
 
 *3317|
 [fc]
-ふたりの手は、しっかりと握られていた。[pcms]
+Their hands were firmly clasped together.[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_sw4"][ChrSetParts layer=3 chface="F1_ak01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3318|
 [fc]
 [vo_aka s="akari_nt0165"]
-[ns]茜梨[nse]
-「出渕先輩、私たちもそろそろ行きましょう」[pcms]
+[ns]Akari[nse]
+"Souichirou-senpai, we should get going soon too."[pcms]
 
 *3319|
 [fc]
-宗一郎は手を離し、その手を自分の胸に当て、恭しく礼を[r]
-茜梨に返した。[pcms]
+Souichirou let go of her hand, placed it on his chest, and bowed[r]
+respectfully to Akari.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3320|
 [fc]
-[ns]宗一郎[nse]
-「この宗一郎、喜んで我が姫のお供させていただきます」[pcms]
+[ns]Souichirou[nse]
+"It would be my honor to accompany my princess."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_sw4"][ChrSetParts layer=3 chface="F1_ak03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3321|
 [fc]
 [vo_aka s="akari_nt0166"]
-[ns]茜梨[nse]
-「んもう……大仰ですね」[pcms]
+[ns]Akari[nse]
+"Oh my... you're so grandiose."[pcms]
 
 *3322|
 [fc]
-そう言って笑う茜梨の笑顔も、宗一郎は胸に刻み、[r]
-そして微笑みを返した。[pcms]
+Akari smiled at this, and Souichirou engraved that smile in his heart[r]
+and returned it with a smile of his own.[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_sw4"][ChrSetParts layer=3 chface="F1_ak09"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3323|
 [fc]
 [vo_aka s="akari_nt0167"]
-[ns]茜梨[nse]
-「宗一郎……先輩。私のファーストキス、貰って下さい」[pcms]
+[ns]Akari[nse]
+"Souichirou...senpai. Please accept my first kiss."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3324|
 [fc]
-[ns]宗一郎[nse]
-「…………はい。感慨無量です」[pcms]
+[ns]Souichirou[nse]
+"...Yes. I am deeply moved."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3325|
 [fc]
-宗一郎がそっと茜梨を抱き寄せる。[r]
-茜梨は素直に宗一郎の胸に飛び込み、ふたりは唇を重ねた。[pcms]
+Souichirou gently pulled Akari close. Akari willingly leaped into his[r]
+chest, and their lips met.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1314,7 +1316,7 @@
 
 *3326|
 [fc]
-そしてそのまま、ふたりの身体は、空中に倒れ込んでいった。[pcms]
+And then, their bodies fell together into the air.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1329,32 +1331,32 @@
 
 *3327|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、あれだよ」[pcms]
+[ns]Makoto[nse]
+"Onee-chan, that's it."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw3_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3328|
 [fc]
 [vo_nat s="natu_nt0145"]
-[ns]夏都[nse]
-「ああ、なるほど。それにしても、なんでこんな岸壁に？」[pcms]
+[ns]Natsu[nse]
+"Ah, I see. But why are we on such a cliff?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3329|
 [fc]
 [vo_stk s="satuki_nt0194"]
-[ns]彩月[nse]
-「あとで話しますけど、やむを得なかったんです」[pcms]
+[ns]Satsuki[nse]
+"I'll explain later, but it was unavoidable."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw3_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3330|
 [fc]
 [vo_nat s="natu_nt0146"]
-[ns]夏都[nse]
-「ふう～ん。あ、誠、足元気をつけろよ」[pcms]
+[ns]Natsu[nse]
+"Hmm. Oh, Makoto, watch your step."[pcms]
 
 [chara_int][trans_c cross time=150]
 [se buf=0 storage="seB013"]
@@ -1363,37 +1365,37 @@
 
 *3331|
 [fc]
-そう言われたのに、僕は最期の一歩で、どさっと岩の上に[r]
-尻餅をついてしまっていた。[pcms]
+Despite being warned, I ended up plopping down on the rocks with a[r]
+thud.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw3_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3332|
 [fc]
 [vo_nat s="natu_nt0147"]
-[ns]夏都[nse]
-「ったく、気をつけろっていった端からこれだからな」[pcms]
+[ns]Natsu[nse]
+"Seriously, I tell you to be careful and this is what happens right[r]
+away."[pcms]
 
 *3333|
 [fc]
-[ns]誠[nse]
-「違うよ、言われたから気が散っちゃったんだよ」[pcms]
+[ns]Makoto[nse]
+"No, it's different. I got distracted because you said something."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3334|
 [fc]
-ひょいと最期の一歩を姉ちゃんは飛び降り、[r]
-そのままぴょんぴょんと岩を飛んで、あっという間に[r]
-ボート近くにたどり着いていた。[pcms]
+With a light step, Onee-chan jumped down and quickly hopped from rock[r]
+to rock, reaching the boat in no time.[pcms]
 
 *3335|
 [fc]
-南先輩も難なく降りきり、すたすたとボートへ向かって行く。[pcms]
+Senior Minami also descended effortlessly and strode towards the boat.[pcms]
 
 *3336|
 [fc]
-僕は慌てて後を追いかけ、ボートに乗り込んだ。[pcms]
+I hurried after them and boarded the boat.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1407,111 +1409,109 @@
 *3337|
 [fc]
 [vo_nat s="natu_nt0148"]
-[ns]夏都[nse]
-「誠、キーは？」[pcms]
+[ns]Natsu[nse]
+"Makoto, do you have the key?"[pcms]
 
 *3338|
 [fc]
-[ns]誠[nse]
-「あ、えっと」[pcms]
+[ns]Makoto[nse]
+"Ah, um..."[pcms]
 
 *3339|
 [fc]
-美沙緒さんから預かったバックの中をごそごそとやって[r]
-僕はボートのキーを取り出した。[pcms]
+I rummaged through the bag that Ms. Misao entrusted to me and took out[r]
+the boat key.[pcms]
 
 *3340|
 [fc]
-姉ちゃんに渡そうと差し出しながら、僕の手は震えだした。[pcms]
+As I offered it to Onee-chan, my hand began to tremble.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3341|
 [fc]
 [vo_nat s="natu_nt0151"]
-[ns]夏都[nse]
-「どうした、誠？」[pcms]
+[ns]Natsu[nse]
+"What's wrong, Makoto?"[pcms]
 
 *3342|
 [fc]
-[ns]誠[nse]
-「このバッグもボートも……越智さんの叔母さんのものなんだ。[r]
-　バッグを手渡されたとき、越智さんを守ってって言われたのに」[pcms]
+[ns]Makoto[nse]
+"This bag and boat... they belong to Ochi-san's aunt. When she handed[r]
+me the bag, she told me to protect Ochi-san."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3343|
 [fc]
 [vo_stk s="satuki_nt0195"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *3344|
 [fc]
-[ns]誠[nse]
-「それなのに……僕は越智さんを守れなかった。[r]
-　うっ……ぐずっ……そんな僕に、このボートに乗る資格が[r]
-　あるのかなって思って、そしたら……ううっうううっ」[pcms]
+[ns]Makoto[nse]
+"And yet... I couldn't protect Ochi-san. Ugh... *sniffle*... I wonder[r]
+if someone like me even deserves to be on this boat, and then... *sob[r]
+sob sob*"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3345|
 [fc]
 [vo_nat s="natu_nt0152"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *3346|
 [fc]
-[ns]誠[nse]
-「むぐっ……苦し……」[pcms]
+[ns]Makoto[nse]
+"*muffled* It's hard..."[pcms]
 
 *3347|
 [fc]
-姉ちゃんが僕を抱きしめる。例によって僕は姉ちゃんの[r]
-爆乳で窒息しそうになっていた。[pcms]
+Onee-chan hugged me. As usual, I was nearly suffocated by her huge[r]
+breasts.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3348|
 [fc]
 [vo_nat s="natu_nt0154"]
-[ns]夏都[nse]
-「大丈夫だって。許してくれてるよ。誠に出来る事は[r]
-　二人のことを、決して忘れないってことだ」[pcms]
+[ns]Natsu[nse]
+"It's okay. She's forgiven you. What Makoto can do is never forget[r]
+about them."[pcms]
 
 *3349|
 [fc]
-[ns]誠[nse]
-「…………うん」[pcms]
+[ns]Makoto[nse]
+"...Yeah."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw1_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3350|
 [fc]
 [vo_nat s="natu_nt0159"]
-[ns]夏都[nse]
-「忘れないために、生き延びる為に、このボートで脱出するんだ。[r]
-　そうだろ？　資格が無いなんて思うな。忘れない為に[r]
-　オレも誠も南さんも、この船に乗らなくちゃなんないんだよ」[pcms]
+[ns]Natsu[nse]
+"To not forget, to survive, we're escaping on this boat. Right? Don't[r]
+think you don't have the right. To not forget, both I and Makoto and[r]
+Senior Minami have to get on this ship."[pcms]
 
 *3351|
 [fc]
-[ns]誠[nse]
-「…………わかった」[pcms]
+[ns]Makoto[nse]
+"...Understood."[pcms]
 
 *3352|
 [fc]
-姉ちゃんが僕を離し、笑う。[r]
-僕はボートのキーを姉ちゃんに渡した。[pcms]
+Onee-chan let go of me and smiled. I handed the boat key to Onee-chan.[pcms]
 
 [se buf=0 storage="seC019"]
 ;//♪SE小型船舶のエンジン音
 
 *3353|
 [fc]
-ボートのエンジンがうなりを上げた。[r]
-僕達は、海原へと出帆した。[pcms]
+The boat engine roared to life. We set sail into the open sea.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1525,18 +1525,18 @@
 
 *3354|
 [fc]
-遠目でみれば、島では何事も起こってないかのようにも見えた。[pcms]
+From a distance, it looked as if nothing had happened on the island.[pcms]
 
 *3355|
 [fc]
-でも、風に乗って時折、獣のような咆吼が聞え、焦げ臭い臭いも[r]
-漂ってきて、やっぱり僕たちはまた生き残ったんだと[r]
-実感させられていた。[pcms]
+But occasionally, a beast-like roar carried on the wind, and the smell[r]
+of burning wafted over, reminding us that we had indeed survived[r]
+again.[pcms]
 
 *3356|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 ;//★ship02a ボート船上・夕
 [bg storage="ship02b"][trans_c cross time=500]
@@ -1545,134 +1545,135 @@
 *3357|
 [fc]
 [vo_nat s="natu_nt0156"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3358|
 [fc]
 [vo_stk s="satuki_nt0196"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3359|
 [fc]
-僕たちは波間に揺られながら、島を見つめていた。[pcms]
+We watched the island as we were rocked by the waves.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw3_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3360|
 [fc]
 [vo_nat s="natu_nt0160"]
-[ns]夏都[nse]
-「南さんも、４年前の生き残りなんだって？」[pcms]
+[ns]Natsu[nse]
+"Senior Minami is also a survivor from four years ago?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3361|
 [fc]
 [vo_stk s="satuki_nt0197"]
-[ns]彩月[nse]
-「ええ……」[pcms]
+[ns]Satsuki[nse]
+"Yes..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw3_a"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3362|
 [fc]
 [vo_nat s="natu_nt0161"]
-[ns]夏都[nse]
-「そっか。４年前の生き残り３人が、今回も生き残ったってわけか」[pcms]
+[ns]Natsu[nse]
+"I see. So three survivors from four years ago survived again this[r]
+time."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3363|
 [fc]
 [vo_stk s="satuki_nt0198"]
-[ns]彩月[nse]
-「皮肉なものですね……」[pcms]
+[ns]Satsuki[nse]
+"It's ironic..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw3_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3364|
 [fc]
 [vo_nat s="natu_nt0162"]
-[ns]夏都[nse]
-「皮肉じゃないよ。[r]
-　オレ達はそれだけの使命を背負わされてるってことだよ」[pcms]
+[ns]Natsu[nse]
+"It's not ironic. It means we're burdened with that much of a[r]
+mission."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3365|
 [fc]
 [vo_stk s="satuki_nt0199"]
-[ns]彩月[nse]
-「使命……」[pcms]
+[ns]Satsuki[nse]
+"A mission..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw3_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3366|
 [fc]
 [vo_nat s="natu_nt0163"]
-[ns]夏都[nse]
-「生き延びて語り続けろって事。こういう事件ってさ、[r]
-　あっという間に風化しちゃうんだよな。でもそれじゃ[r]
-　犠牲になった者は救われないとは思わない？」[pcms]
+[ns]Natsu[nse]
+"To survive and keep telling the story. Incidents like this fade away[r]
+so quickly. But if we let that happen, won't the victims be left[r]
+unsaved?"[pcms]
 
 *3367|
 [fc]
-[ns]誠[nse]
-「うん……そう思う。僕は絶対に忘れないよ。[r]
-　それで、ずっと命が続く限り、語って行きたいと思う」[pcms]
+[ns]Makoto[nse]
+"Yeah... I think so. I will never forget. And with that, I want to[r]
+keep telling their story for as long as I live."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw3_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3368|
 [fc]
 [vo_nat s="natu_nt0164"]
-[ns]夏都[nse]
-「偉いぞ～、誠。南さんもそう考えられたら、少しは[r]
-　気持ちが楽になったりしないかな？」[pcms]
+[ns]Natsu[nse]
+"That's admirable, Makoto. Maybe if Senior Minami thinks that way too,[r]
+it might lighten her heart a bit?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3369|
 [fc]
 [vo_stk s="satuki_nt0200"]
-[ns]彩月[nse]
-「！！　……そうですね。そうかもしれません」[pcms]
+[ns]Satsuki[nse]
+"!! ...Yes, that might be true."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sw3_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3370|
 [fc]
 [vo_nat s="natu_nt0165"]
-[ns]夏都[nse]
-「誰かが憶えてる限り、その人は決して死なないんだって、[r]
-　オレ誰だかの本で読んでさ。それから少しだけ気持ちが[r]
-　楽になって、眠れるようになったんだ」[pcms]
+[ns]Natsu[nse]
+"As long as someone remembers, that person never truly diesthat's[r]
+what I read in someone's book. After that, I felt a bit better and was[r]
+able to sleep."[pcms]
 
 *3371|
 [fc]
 [vo_nat s="natu_nt0166"]
-[ns]夏都[nse]
-「だから、今回のこともそうするつもりなんだ」[pcms]
+[ns]Natsu[nse]
+"So, I intend to do the same with what happened this time."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3372|
 [fc]
 [vo_stk s="satuki_nt0201"]
-[ns]彩月[nse]
-「わたしも、そうすることにします」[pcms]
+[ns]Satsuki[nse]
+"I will do the same."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3373|
 [fc]
-少しだけ、先輩の顔が柔和になった気がした……。[pcms]
+I felt like Senior's face softened a little...[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1736,7 +1737,7 @@
 [black_toplayer][trans_c cross time=0][hide_chara_int]
 ;;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 

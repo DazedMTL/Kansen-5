@@ -39,107 +39,104 @@
 *5723|
 [fc]
 [vo_stk s="satuki_tj0192"]
-[ns]彩月[nse]
-「んふふっ……ふっ……」[pcms]
+[ns]Satsuki[nse]
+"Nfufu... Huh..."[pcms]
 
 *5724|
 [fc]
-[ns]宗一郎[nse]
-「……ううっ……！」[pcms]
+[ns]Souichirou[nse]
+"...Ugh...!"[pcms]
 
 *5725|
 [fc]
-[ns]西[nse]
-「……おおっ……！」[pcms]
+[ns]West[nse]
+"...Oh...!"[pcms]
 
 *5726|
 [fc]
-わたしは二人のおちんちんを二本一緒に両成敗した。[pcms]
+I punished both of their dicks at the same time.[pcms]
 
 *5727|
 [fc]
-童貞だし、舐められたことなんてないだろう二人は[r]
-激しく悶えている。[pcms]
+They're virgins and have never been licked before, so they're writhing[r]
+intensely.[pcms]
 
 *5728|
 [fc]
 [vo_stk s="satuki_tj0193"]
-[ns]彩月[nse]
-「んふふっ……どぉ……？」[pcms]
+[ns]Satsuki[nse]
+"Nfufu... How is it...?"[pcms]
 
 *5729|
 [fc]
-[ns]宗一郎[nse]
-「……ああっ！　み、みなみ……せんぱぁいっ……！」[pcms]
+[ns]Souichirou[nse]
+"...Aah! Mi, Minami-senpai...!"[pcms]
 
 *5730|
 [fc]
-[ns]西[nse]
-「……おおっ……！　み、みなみぃ！！」[pcms]
+[ns]West[nse]
+"...Oh...! Mi, Minami...!"[pcms]
 
 *5731|
 [fc]
-面白い。[r]
-本当に面白い。[pcms]
+It's interesting. Really interesting.[pcms]
 
 *5732|
 [fc]
-いい気になってる男を騎乗位になって攻めてやるのも楽しいけど、[r]
-こうやって童貞君が初めての快感に悶える姿も悪くない。[pcms]
+It's fun to ride and dominate men who are getting carried away, but[r]
+watching virgin boys squirm from their first pleasure isn't bad[r]
+either.[pcms]
 
 *5733|
 [fc]
 [vo_stk s="satuki_tj0194"]
-[ns]彩月[nse]
-「もう、こんなフェラぐらいで……。[r]
-　これからは……もっと、すごいわよ……」[pcms]
+[ns]Satsuki[nse]
+"Geez, to think you'd get this excited from just a blowjob... From now[r]
+on... it's going to be even more amazing..."[pcms]
 
 *5734|
 [fc]
-[ns]宗一郎[nse]
-「……ええっ！？」[pcms]
+[ns]Souichirou[nse]
+"...Eh?!"[pcms]
 
 *5735|
 [fc]
-[ns]西[nse]
-「……あ……ああっ！！」[pcms]
+[ns]West[nse]
+"...Ah... Aah!!"[pcms]
 
 *5736|
 [fc]
 [vo_stk s="satuki_tj0195"]
-[ns]彩月[nse]
-「ふふっ……かわいい……」[pcms]
+[ns]Satsuki[nse]
+"Fufu... How cute..."[pcms]
 
 *5737|
 [fc]
-フェラぐらいで悦びすぎ。[r]
-盛り場の連中なんて、フェラをしても……あれ？[r]
-……何だっけ？[pcms]
+Getting too pleased from a blowjob. The guys in the red-light[r]
+district, even if you give them a blowjob... Huh? ...What was it?[pcms]
 
 *5738|
 [fc]
-フェラをする時には、いつもやってることがあった気が[r]
-するけど……なんだろう？[pcms]
+I feel like there's always something I do when giving a blowjob...[r]
+What is it?[pcms]
 
 *5739|
 [fc]
-思い出せない。[r]
-思い出せないけど、まあいいか。[pcms]
+I can't remember. I can't remember, but oh well.[pcms]
 
 *5740|
 [fc]
-『万事に良い感じにテキトー』がわたしのモットー[r]
-みたいなものなんだし……。[pcms]
+"When in doubt, go with the flow" seems to be my motto...[pcms]
 
 *5741|
 [fc]
-[ns]宗一郎[nse]
-「……ああっ……みなみせンぱ～いっ！！」[pcms]
+[ns]Souichirou[nse]
+"...Aah... Minami-senpai~!!"[pcms]
 
 *5742|
 [fc]
-[ns]西[nse]
-「……あ……ああっ……みなみぃ……！！」[pcms]
+[ns]West[nse]
+"...Ah... Aah... Minami...!!"[pcms]
 
 ;//■イベントCG　satuki_H012(5k)
 [evcg storage="satuki_H012h"][trans_c cross time=300]
@@ -147,16 +144,14 @@
 *5743|
 [fc]
 [vo_stk s="satuki_tj0196"]
-[ns]彩月[nse]
-「ふふっ……そんなに……待ち遠しいのぉ……？[r]
-　さあ、いくわよ……。[r]
-　ど・ち・ら・に・し・よ・う・か・な……」[pcms]
+[ns]Satsuki[nse]
+"Fufu... Are you that... eager? Now, let's go... Which one should I[r]
+choose..."[pcms]
 
 *5744|
 [fc]
-西君か出渕君か……。[r]
-わたしはどっちのおちんちんから、いただこうかと迷う。[r]
-迷った末に……。[pcms]
+West or Izubuchi-kun... I'm wondering which dick to take first. After[r]
+some thought...[pcms]
 
 ;//■イベントCG　satuki_H012(5k)
 [evcg storage="satuki_H012f"][trans_c cross time=300]
@@ -164,104 +159,96 @@
 *5745|
 [fc]
 [vo_stk s="satuki_tj0197"]
-[ns]彩月[nse]
-「ふふっ……。まずは西君から……。[r]
-　んんっ……んっ……」[pcms]
+[ns]Satsuki[nse]
+"Fufu... Let's start with West-kun... Nnn... Nn..."[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
 
 *5746|
 [fc]
-[ns]西[nse]
-「んおぉ……！　おおおっ！！」[pcms]
+[ns]West[nse]
+"Noo...! Oooh!!"[pcms]
 
 *5747|
 [fc]
-わたしは西君のおちんちんを飲み込んだ。[r]
-口の中にしっかりと入れて、舐めあげる。[pcms]
+I swallowed West-kun's dick. I took it firmly into my mouth and licked[r]
+it all over.[pcms]
 
 *5748|
 [fc]
 [vo_stk s="satuki_tj0198"]
-[ns]彩月[nse]
-「んちゅ……んぶっ……あぶううぅんっ！[r]
-　れろっ……ちゅっ……ぶちゅうっ！[r]
-　んんっ……んっ、あぶぅううんっ！　れろろっ……」[pcms]
+[ns]Satsuki[nse]
+"Nchu... Nbuu... Abuuuun! Lero... Chuu... Buchuu! Nnn... Nn, Abuuuun![r]
+Lero lero..."[pcms]
 
 *5749|
 [fc]
-[ns]西[nse]
-「おおっ！！　おおおっ！！　みなみぃ！！」[pcms]
+[ns]West[nse]
+"Oh!! Oooh!! Minami!!"[pcms]
 
 *5750|
 [fc]
 [vo_stk s="satuki_tj0199"]
-[ns]彩月[nse]
-「んちゅ……んぶっ……んちゅ……ぶちゅうっ！[r]
-　んふふっ……どう？　西君っ？」[pcms]
+[ns]Satsuki[nse]
+"Nchu... Nbuu... Nchu... Buchuu! Nfufu... How about that, West-kun?"[pcms]
 
 *5751|
 [fc]
-[ns]西[nse]
-「み、みなみぃ……おれは……おれはぁ……」[pcms]
+[ns]West[nse]
+"Mi, Minami... I am... I amm..."[pcms]
 
 *5752|
 [fc]
 [vo_stk s="satuki_tj0200"]
-[ns]彩月[nse]
-「もう……。[r]
-　いいの？　良くないの？[r]
-　んちゅ…………ちゅっ……んんっ……」[pcms]
+[ns]Satsuki[nse]
+"Already... Is it good? Or not? Nchu... Chuu... Nnn..."[pcms]
 
 *5753|
 [fc]
-[ns]西[nse]
-「おっ！！　おおっ！！[r]
-　い、いいっ！！　いいぞぉ……」[pcms]
+[ns]West[nse]
+"Oh!! Oooh!! It's good!! It's so good..."[pcms]
 
 *5754|
 [fc]
 [vo_stk s="satuki_tj0201"]
-[ns]彩月[nse]
-「んふふっ……」[pcms]
+[ns]Satsuki[nse]
+"Nfufu..."[pcms]
 
 *5755|
 [fc]
-カウパーが辛くて、苦くておいしい。[r]
-カウパーって、こんな味だったんだ。[r]
-……なぜ、わたしは知らないんだろう？[pcms]
+Cowper's fluid is bitter and delicious. So this is what Cowper's fluid[r]
+tastes like. ...Why don't I know?[pcms]
 
 *5756|
 [fc]
-あんなにセックスしてるのに……。[pcms]
+Even though I've had so much sex...[pcms]
 
 *5757|
 [fc]
-[ns]西[nse]
-「おおっ！　みなみ……みなみぃ！！」[pcms]
+[ns]West[nse]
+"Oh! Minami... Minami!!"[pcms]
 
 *5758|
 [fc]
-西君のおちんちんがビクンビクンし始めていた。[r]
-このままだと、きっと発射してしまう。[pcms]
+West-kun's dick started twitching. If we keep going like this, he'll[r]
+surely shoot.[pcms]
 
 *5759|
 [fc]
 [vo_stk s="satuki_tj0202"]
-[ns]彩月[nse]
-「んっ……ん……。[r]
-　西君はここまで……」[pcms]
+[ns]Satsuki[nse]
+"Nn... Nn... That's enough for West-kun..."[pcms]
 
 *5760|
 [fc]
-[ns]西[nse]
-「そ、そ、そんなあぁ……」[pcms]
+[ns]West[nse]
+"Tha-that's so cruel..."[pcms]
 
 *5761|
 [fc]
-西君は世界の終わりみたいな顔をしてる。[r]
-もう出しちゃいそうだったから、おあずけなだけなのに……。[pcms]
+West-kun looks like it's the end of the world for him. It's just a[r]
+little tease because he was about to cum...[pcms]
 
 ;//■イベントCG　satuki_H012(5k)
 [evcg storage="satuki_H012f"][trans_c cross time=300]
@@ -269,83 +256,78 @@
 *5762|
 [fc]
 [vo_stk s="satuki_tj0203"]
-[ns]彩月[nse]
-「さぁ……デヴくぅん……。[r]
-　んんっ……んんっ……」[pcms]
+[ns]Satsuki[nse]
+"Now... Dev-kun... Nnn... Nnnn..."[pcms]
 
 *5763|
 [fc]
-[ns]宗一郎[nse]
-「ああっ！！　せんぱ～いっ！！」[pcms]
+[ns]Souichirou[nse]
+"Aah!! Senpai!!"[pcms]
 
 *5764|
 [fc]
-とってもバカっぽい悲鳴が実に出渕君ぽかった。[pcms]
+That very foolish scream was indeed very much like Izubuchi-kun.[pcms]
 
 *5765|
 [fc]
 [vo_stk s="satuki_tj0204"]
-[ns]彩月[nse]
-「んっ……んちゅ……んぶぶっ……ううぅんっ！[r]
-　れろっ……れろっ……ちゅうっ！[r]
-　んっ……んんっ、あぶっ！　れろっ……」[pcms]
+[ns]Satsuki[nse]
+"Nn... Nchu... Nububu... Uuunn! Lero... Lero... Chu! Nn... Nnn, Abu![r]
+Lero..."[pcms]
 
 *5766|
 [fc]
-[ns]宗一郎[nse]
-「センパイッ！　センパ～イ！　セッシャはセッシャはぁ！！」[pcms]
+[ns]Souichirou[nse]
+"Senpai! Senpai! I'm cumming, I'm cumming!!"[pcms]
 
 *5767|
 [fc]
 [vo_stk s="satuki_tj0205"]
-[ns]彩月[nse]
-「ああっ……。[r]
-　すごいっ……本当に太くって……んっ……。[r]
-　くわえるのが……大変っ……んんんっ……！」[pcms]
+[ns]Satsuki[nse]
+"Aah... It's amazing... It's really thick... Nn... It's... hard to[r]
+suck... Nnnn...!"[pcms]
 
 *5768|
 [fc]
-[ns]宗一郎[nse]
-「おおっ！！　　おおおっ！！」[pcms]
+[ns]Souichirou[nse]
+"Oh!! Oooh!!"[pcms]
 
 *5769|
 [fc]
 [vo_stk s="satuki_tj0206"]
-[ns]彩月[nse]
-「んちゅ……んぶぶっ……あぶぶぅんっ！[r]
-　んぶっ……んんっ……んっ…………！[r]
-　れろっ……ちゅっ……！　……んっ、れろろっ……」[pcms]
+[ns]Satsuki[nse]
+"Nchu... Nububu... Abubuun! Nbu... Nnn... Nn...! Lero... Chu! ...Nn,[r]
+Lero ro..."[pcms]
 
 *5770|
 [fc]
-[ns]宗一郎[nse]
-「おおっ！　こんなっ！　こんなぁ……！」[pcms]
+[ns]Souichirou[nse]
+"Oh! Like this! Like this...!"[pcms]
 
 *5771|
 [fc]
 [vo_stk s="satuki_tj0207"]
-[ns]彩月[nse]
-「もうっ……！[r]
-　そーいちくんのおちんぽって……やっぱり、太すぎて……。[r]
-　くわえるのが大変～っ！！　疲れちゃった……」[pcms]
+[ns]Satsuki[nse]
+"Enough...! Souichi-kun's dick is... really too thick... It's hard to[r]
+suck~!! I'm getting tired..."[pcms]
 
 *5772|
 [fc]
-[ns]宗一郎[nse]
-「そ、そんなぁ……」[pcms]
+[ns]Souichirou[nse]
+"Th-that's..."[pcms]
 
 *5773|
 [fc]
-口を離すと、今度は出渕くんがこの世の終わりのような顔をする。[pcms]
+When she let go, Izubuchi-kun looked like it was the end of the world[r]
+for him.[pcms]
 
 *5774|
 [fc]
-面白い。[r]
-やっぱり、面白い。[pcms]
+Interesting. It's really interesting.[pcms]
 
 *5775|
 [fc]
-わたしはすかさず、もう一度、西君のおちんちんを……。[pcms]
+I immediately went back to West-kun's dick...[pcms]
 
 ;//■イベントCG　satuki_H012(5k)
 [evcg storage="satuki_H012f"][trans_c cross time=300]
@@ -353,19 +335,18 @@
 *5776|
 [fc]
 [vo_stk s="satuki_tj0208"]
-[ns]彩月[nse]
-「んちゅ……んぶっ……あぶううぅんっ！[r]
-　れろっ……ちゅっ……ちゅぶ……ぶちゅ！[r]
-　んんっ……んんっ、あぶっ！　れろっ……れろっ！」[pcms]
+[ns]Satsuki[nse]
+"Nchu... Nubu... Abu uuuun! Lero... Chu... Chubu... Buchu! Nnn... Nnn,[r]
+Abu! Lero... Lero!"[pcms]
 
 *5777|
 [fc]
-[ns]西[nse]
-「ああっ！！　おおっ！！　みなみぃ！！」[pcms]
+[ns]West[nse]
+"Aah!! Oh!! Minami!!"[pcms]
 
 *5778|
 [fc]
-そして、今度は出渕君。[pcms]
+And then, it was Izubuchi-kun's turn.[pcms]
 
 ;//■イベントCG　satuki_H012(5k)
 [evcg storage="satuki_H012g"][trans_c cross time=300]
@@ -373,19 +354,18 @@
 *5779|
 [fc]
 [vo_stk s="satuki_tj0209"]
-[ns]彩月[nse]
-「ちゅ……んちゅ……。んぶっ……あぶっ！　ぶぶっ！！[r]
-　んぶっ……んぶぶっ……んっ！　……んんっ！！[r]
-　れろっ……ちゅっ……！　れろっ！　れろろっ……」[pcms]
+[ns]Satsuki[nse]
+"Chu... Nchu... Nubu... Abu! Bubu!! Nbu... Nububu... Nn! ...Nnn!![r]
+Lero... Chu! Lero! Lero ro..."[pcms]
 
 *5780|
 [fc]
-[ns]宗一郎[nse]
-「ああっ！！　あっ！　みなみせんぱ～～いっ！！」[pcms]
+[ns]Souichirou[nse]
+"Aah!! Ah! Minami-senpai~~!!"[pcms]
 
 *5781|
 [fc]
-そして、また西君。[pcms]
+And then, back to West-kun.[pcms]
 
 ;//■イベントCG　satuki_H012(5k)
 [evcg storage="satuki_H012f"][trans_c cross time=300]
@@ -393,19 +373,18 @@
 *5782|
 [fc]
 [vo_stk s="satuki_tj0210"]
-[ns]彩月[nse]
-「んちゅ……んぶっ……あぶううぅんっ！[r]
-　れろっ……ちゅっ……ちゅぶ……ぶちゅ！[r]
-　んんっ……んんっ、あぶっ！　れろっ……れろっ！」[pcms]
+[ns]Satsuki[nse]
+"Nchu... Nubu... Abu uuuun! Lero... Chu... Chubu... Buchu! Nnn... Nnn,[r]
+Abu! Lero... Lero!"[pcms]
 
 *5783|
 [fc]
-[ns]西[nse]
-「み、みなみぃ！！」[pcms]
+[ns]West[nse]
+"Mi-Minami!!"[pcms]
 
 *5784|
 [fc]
-そして、また出渕君。[pcms]
+And then, back to Izubuchi-kun.[pcms]
 
 ;//■イベントCG　satuki_H012(5k)
 [evcg storage="satuki_H012g"][trans_c cross time=300]
@@ -413,20 +392,19 @@
 *5785|
 [fc]
 [vo_stk s="satuki_tj0211"]
-[ns]彩月[nse]
-「ちゅ……んちゅ……。んぶっ……あぶっ！　ぶぶっ！！[r]
-　んぶっ……んぶぶっ……んっ！　……んんっ！！[r]
-　れろっ……ちゅっ……！　れろっ！　れろろっ……」[pcms]
+[ns]Satsuki[nse]
+"Chu... Nchu... Nubu... Abu! Bubu!! Nbu... Nububu... Nn! ...Nnn!![r]
+Lero... Chu! Lero! Lero ro..."[pcms]
 
 *5786|
 [fc]
-[ns]宗一郎[nse]
-「せ、せんぱ～～いっ！！」[pcms]
+[ns]Souichirou[nse]
+"Se-Senpai~~!!"[pcms]
 
 *5787|
 [fc]
-なんどか、それを繰り返すと。[r]
-そして、また両成敗。[pcms]
+After repeating that several times. And then, both were equally[r]
+punished.[pcms]
 
 ;//■イベントCG　satuki_H012(5k)
 [evcg storage="satuki_H012h"][trans_c cross time=300]
@@ -434,69 +412,65 @@
 *5788|
 [fc]
 [vo_stk s="satuki_tj0212"]
-[ns]彩月[nse]
-「れろっ……ちゅっ……ちゅぶ……ぶちゅ！[r]
-　んんっ……んんっ、あぶっ！　れろっ……れろっ！[r]
-　れろっ！　れろれろっ！　ちゅ！　ちゅぶ……！」[pcms]
+[ns]Satsuki[nse]
+"Lero... Chu... Chubu... Buchu! Nnn... Nnn, Abu! Lero... Lero! Lero![r]
+Lero ro! Chu! Chubu...!"[pcms]
 
 *5789|
 [fc]
-[ns]西[nse]
-「おっ！！　おおっ！！」[pcms]
+[ns]West[nse]
+"Oh!! Oooh!!"[pcms]
 
 *5790|
 [fc]
-[ns]宗一郎[nse]
-「あっ！！　ああっ！！」[pcms]
+[ns]Souichirou[nse]
+"Ah!! Aaah!!"[pcms]
 
 *5791|
 [fc]
 [vo_stk s="satuki_tj0213"]
-[ns]彩月[nse]
-「どう？　二人一緒よ……。んふふっ……。[r]
-　れろっ……ちゅっ……ちゅぶ……ぶちゅ！[r]
-　れろっ……れろっ！　れろれろっ！　ちゅ……！」[pcms]
+[ns]Satsuki[nse]
+"How is it? Both of you together... Nfufu... Lero... Chu... Chubu...[r]
+Buchu! Lero... Lero! Lero ro! Chu!"[pcms]
 
 *5792|
 [fc]
-[ns]西[nse]
-「おっ……おおおっ！！！」[pcms]
+[ns]West[nse]
+"Ohh... Ooooh!!!"[pcms]
 
 *5793|
 [fc]
-[ns]宗一郎[nse]
-「あっ……あああっ！！！」[pcms]
+[ns]Souichirou[nse]
+"Ah... Aaaah!!!"[pcms]
 
 *5794|
 [fc]
-限界まで勃起して、耐えられないほどに射精感が[r]
-高まっているだろう二人のおちんちんを交互に舐めて、[r]
-舌をはわせ、キスをする。[pcms]
+Alternating between licking the two dicks that must be at their limit[r]
+of erection and feeling unbearable ejaculation, swirling my tongue[r]
+around and kissing them.[pcms]
 
 *5795|
 [fc]
 [vo_stk s="satuki_tj0214"]
-[ns]彩月[nse]
-「んふふっ……。　ちゅ……！！[r]
-　れろっ……れろっ！　れろれろっ！　ちゅう……[r]
-　れろっ……ちゅっ……ちゅぶ……ぶちゅ！」[pcms]
+[ns]Satsuki[nse]
+"Nfufu... Chu!! Lero... Lero! Lero ro! Chu... Lero... Chu... Chubu...[r]
+Buchu!"[pcms]
 
 *5796|
 [fc]
-[ns]西[nse]
-「おおおっ！！　俺はもうっ！！」[pcms]
+[ns]West[nse]
+"Ooooh!! I can't hold it anymore!!"[pcms]
 
 *5797|
 [fc]
-[ns]宗一郎[nse]
-「あああっ！！　セッシャの愚息もぉ！！」[pcms]
+[ns]Souichirou[nse]
+"Aaaah!! My foolish son too!!"[pcms]
 
 *5798|
 [fc]
 [vo_stk s="satuki_tj0215"]
-[ns]彩月[nse]
-「いいわよ……。[r]
-　さぁ……だして……」[pcms]
+[ns]Satsuki[nse]
+"It's okay... Now, let it out..."[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -510,162 +484,153 @@
 
 *5799|
 [fc]
-[ns]西[nse]
-「……おおおっ……！！！」[pcms]
+[ns]West[nse]
+"...Ooooh...!!!"[pcms]
 
 *5800|
 [fc]
-[ns]宗一郎[nse]
-「……あああっ……！！！」[pcms]
+[ns]Souichirou[nse]
+"...Aaaah...!!!"[pcms]
 
 *5801|
 [fc]
 [vo_stk s="satuki_tj0216"]
-[ns]彩月[nse]
-「ああっ！　あ、あついいぃいっ！！」[pcms]
+[ns]Satsuki[nse]
+"Aah! Ah, it's so hot!!"[pcms]
 
 ;//■イベントCG　satuki_H012(5k)
 [evcg storage="satuki_H012j"][trans_c cross time=300]
 
 *5802|
 [fc]
-限界までガマンしてたのか、わたしがそう言うと[r]
-二人はほぼ同時に果てて、[r]
-わたしの顔にあっつい精液を放出した。[pcms]
+Maybe because they had been holding back to the limit, when I said[r]
+that, the two of them almost simultaneously reached their end and[r]
+released their hot semen on my face.[pcms]
 
 *5803|
 [fc]
-とっても、青臭くて、頭の芯がクラクラして、熱くなる[r]
-ケモノのニオイ……。[pcms]
+It's very green, makes my head dizzy, and it's hot... the smell of a[r]
+beast...[pcms]
 
 *5804|
 [fc]
-それが開けていた口にも跳び込み、[r]
-舌の上にも降り注ぐ。[pcms]
+It jumps into my open mouth and pours down onto my tongue.[pcms]
 
 *5805|
 [fc]
 [vo_stk s="satuki_tj0217"]
-[ns]彩月[nse]
-「ああっ……せいしぃ……」[pcms]
+[ns]Satsuki[nse]
+"Aah... semen..."[pcms]
 
 ;//井：舐めとって味わってると解釈します
 
 *5806|
 [fc]
-精液。[r]
-始めて口にした。[r]
-くさくて、苦くて……とっても、おいしい。[pcms]
+Semen. It's the first time I've tasted it. It's smelly, bitter... and[r]
+very delicious.[pcms]
 
 *5807|
 [fc]
 [vo_stk s="satuki_tj0218"]
-[ns]彩月[nse]
-（はじめて？　あれ？[r]
-　コンドーム？　ああ、そっか……）[pcms]
+[ns]Satsuki[nse]
+(The first time? Huh? Condom? Oh, right...)[pcms]
 
 *5808|
 [fc]
-わたしは忘れていたことをやっと思い出した。[r]
-わたしはいつもコンドームを使っていた。[pcms]
+I finally remembered what I had forgotten. I always used a condom.[pcms]
 
 *5809|
 [fc]
-いつもはフェラをしてもコンドームの上からだったから、[r]
-みんな、生でしてくれってうるさかった。[pcms]
+Because I always gave blowjobs over a condom, everyone was noisy,[r]
+asking for it raw.[pcms]
 
 *5810|
 [fc]
 [vo_stk s="satuki_tj0219"]
-[ns]彩月[nse]
-（あれ、なんで？[r]
-　なんでわたしはコンドームなんか必ず使ってたんだろう。[r]
-　……思い出せない）[pcms]
+[ns]Satsuki[nse]
+(Why, why did I always use a condom? ...I can't remember)[pcms]
 
 *5811|
 [fc]
-思い出せない。[r]
-だけど、もうガマンできないことは良くわかっていた。[pcms]
+I can't remember. But I knew very well that I couldn't hold back[r]
+anymore.[pcms]
 
 *5812|
 [fc]
 [vo_stk s="satuki_tj0220"]
-[ns]彩月[nse]
-「ああ、もっと……。[r]
-　精子……もっとぉ……」[pcms]
+[ns]Satsuki[nse]
+"Ah, more... Semen... more..."[pcms]
 
 *5813|
 [fc]
-欲しかった。[r]
-もっと、精液が……。[r]
-熱くてケモノ臭い精液がもっと……。もっと……。[pcms]
+I wanted it. More semen... Hot and beastly smelling semen, more...[r]
+more...[pcms]
 
 *5814|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *5815|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *5816|
 [fc]
 [vo_stk s="satuki_tj0221"]
-[ns]彩月[nse]
-「ねぇ……したくない？」[pcms]
+[ns]Satsuki[nse]
+"Hey... don't you want to do it?"[pcms]
 
 *5817|
 [fc]
-[ns]西[nse]
-「し、したくないって……なにを……」[pcms]
+[ns]West[nse]
+"Don't want to do it... what are you talking about..."[pcms]
 
 *5818|
 [fc]
 [vo_stk s="satuki_tj0222"]
-[ns]彩月[nse]
-「決まってるでしょ……」[pcms]
+[ns]Satsuki[nse]
+"It's obvious, isn't it..."[pcms]
 
 *5819|
 [fc]
-わたしは隣の部屋を指差す。[pcms]
+I pointed to the next room.[pcms]
 
 *5820|
 [fc]
 [vo_tay s="taja_tj0350"]
-[ns]ターヤ[nse]
-「誠と、セックスしたいな」[pcms]
+[ns]Tarja[nse]
+"I want to have sex with Makoto."[pcms]
 
 *5821|
 [fc]
-[ns]誠[nse]
-「……うん、僕もターヤとセックスしたい」[pcms]
+[ns]Makoto[nse]
+"...Yeah, I also want to have sex with Tarja."[pcms]
 
 *5822|
 [fc]
-隣の部屋からはやっぱり、誠君とターヤの声が聞こえてくる。[pcms]
+From the next room, I could hear Makoto-kun and Tarja's voices as[r]
+expected.[pcms]
 
 *5823|
 [fc]
-うらやましい。[r]
-ターヤは誠君のおちんぽを……。[pcms]
+I'm envious. Tarja is with Makoto-kun's cock...[pcms]
 
 *5824|
 [fc]
-いまごろ、ターヤのおまんこは誠君の精子で[r]
-イッパイになってガボガボになっているだろう。[pcms]
+Right now, Tarja's pussy must be filled with Makoto-kun's semen,[r]
+becoming sloppy.[pcms]
 
 *5825|
 [fc]
-くやしい。[r]
-だから、負けないように、わたしも……[pcms]
+I'm frustrated. So to not lose, I also...[pcms]
 
 *5826|
 [fc]
 [vo_stk s="satuki_tj0223"]
-[ns]彩月[nse]
-「さあ、はやくぅ……」[pcms]
+[ns]Satsuki[nse]
+"Come on, hurry up..."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -676,7 +641,7 @@
 
 *5827|
 [fc]
-わたしは二人を誘うためにお尻を振った。[pcms]
+I shook my butt to entice the two of them.[pcms]
 
 ;//bgm16.ogg
 [bgm storage="BGM16"]
@@ -695,24 +660,22 @@
 *5828|
 [fc]
 [vo_stk s="satuki_tj0224"]
-[ns]彩月[nse]
-「ああっ！！　いいぃいっ……！！」[pcms]
+[ns]Satsuki[nse]
+"Aah!! So good...!!"[pcms]
 
 *5829|
 [fc]
-わたしは西君に思いっきり後背位でおちんぽを突っ込まれた。[pcms]
+I was penetrated deeply from behind by West-kun.[pcms]
 
 *5830|
 [fc]
-わたしがスパッツのお尻を振りながら、[r]
-『ねぇ、破いてみてぇ……』なんて誘ったら、[r]
-本当にスパッツのお尻の縫い目を破いて広げて……。[pcms]
+As I shook my spats-covered butt and said, "Hey, try tearing it...",[r]
+he really tore the seam of the spats' butt and spread it...[pcms]
 
 *5831|
 [fc]
-パンツは履いてなかったから、それでわたしのおまんこは丸見え。[r]
-そこから、西君はずんずんって、乱暴に滅茶苦茶に[r]
-一直線につっこんで来る。[pcms]
+Since I wasn't wearing panties, my pussy was completely exposed. From[r]
+there, West-kun thrust in roughly and violently in a straight line.[pcms]
 
 ;//■イベントCG　satuki_H013
 [evcg storage="satuki_H013c"][trans_c cross time=300]
@@ -720,56 +683,52 @@
 *5832|
 [fc]
 [vo_stk s="satuki_tj0225"]
-[ns]彩月[nse]
-「ああっ！　いいっ！　いいわぁ！[r]
-　西君らしいおちんぽ使いぃ！　あっ！　ああっ！！」[pcms]
+[ns]Satsuki[nse]
+"Aah! That's good! That's so good! Such a West-kun-like cock use! Ah![r]
+Aaah!!"[pcms]
 
 *5833|
 [fc]
-初めてなのに……。[r]
-ううん、きっと初めてだから要領を得なくて、[r]
-それでも懸命に突いてくる。[pcms]
+Even though it's my first time... No, surely because it's my first[r]
+time, he doesn't quite get the hang of it, but he's still thrusting[r]
+earnestly.[pcms]
 
 *5834|
 [fc]
-[ns]西[nse]
-「ああっ！　南っ！[r]
-　俺は……俺はぁ……！！」[pcms]
+[ns]West[nse]
+"Aah! Minami! I... I am...!!"[pcms]
 
 *5835|
 [fc]
 [vo_stk s="satuki_tj0226"]
-[ns]彩月[nse]
-「ああっ！！　いいわっ！！[r]
-　西君のおちんぽ、とっても固くて、たくましいぃ！！[r]
-　突いてぇ！！　もっと、おまんこ突いてぇ！！」[pcms]
+[ns]Satsuki[nse]
+"Aah!! That's good!! West-kun's cock is so hard and strong!! Thrust[r]
+it!! More, thrust my pussy!!"[pcms]
 
 *5836|
 [fc]
-本当に気持ちいい。[pcms]
+It really feels good.[pcms]
 
 *5837|
 [fc]
-きっと、そのたどたどしさや勢いばかりの腰使いが[r]
-激しくて、でも新鮮で、たまらなく気持ちよく[r]
-感じてしまうのだろう。[pcms]
+Surely, the awkwardness and the momentum of his hip movements are[r]
+intense, but they're fresh and unbearably pleasurable.[pcms]
 
 *5838|
 [fc]
-[ns]宗一郎[nse]
-「南……センパ～イ……」[pcms]
+[ns]Souichirou[nse]
+"Minami... Senpai..."[pcms]
 
 *5839|
 [fc]
 [vo_stk s="satuki_tj0227"]
-[ns]彩月[nse]
-「あ……ああんっ……。[r]
-　どうしたのぉ？　デヴくぅん……？」[pcms]
+[ns]Satsuki[nse]
+"Ah... aahn... What is it? Dev-kun...?"[pcms]
 
 *5840|
 [fc]
-[ns]宗一郎[nse]
-「あ、あ、あのぉ……」[pcms]
+[ns]Souichirou[nse]
+"Ah, ah, umm..."[pcms]
 
 ;//■イベントCG　satuki_H013　あへ
 [evcg storage="satuki_H013d"][trans_c cross time=300]
@@ -777,20 +736,20 @@
 *5841|
 [fc]
 [vo_stk s="satuki_tj0228"]
-[ns]彩月[nse]
-「あっ！　ああっ！　あはぁ！！[r]
-　……どうしたのぉ？」[pcms]
+[ns]Satsuki[nse]
+"Ah! Aaah! Ahaha!! ...What is it?"[pcms]
 
 *5842|
 [fc]
-出渕君がなにを言いたいのかはわかっていた。[r]
-さっきから、太っといおちんぽを固く固くそそり立てて、[r]
-恥ずかしそうに、寂しそうに、わたしの目の前に立っている。[pcms]
+I knew what Izubuchi-kun wanted to say. Since earlier, he's been[r]
+standing in front of me with his thick cock hard and erect, looking[r]
+embarrassed and lonely.[pcms]
 
 *5843|
 [fc]
-なにが言いたいか、これを見てわからない女はまずいない。[r]
-いや、いるかもしれないけど、わたしにわからないわけがない。[pcms]
+There's hardly a woman who wouldn't understand what he wants to say[r]
+just by looking at this. No, there might be, but there's no way I[r]
+wouldn't understand.[pcms]
 
 ;//■イベントCG　satuki_H013　笑い
 [evcg storage="satuki_H013c"][trans_c cross time=300]
@@ -798,80 +757,71 @@
 *5844|
 [fc]
 [vo_stk s="satuki_tj0229"]
-[ns]彩月[nse]
-「ああっ！！　いいっ！　もっと！！[r]
-　西君っ！　おちんぽっ！　おちんぽぉ！！」[pcms]
+[ns]Satsuki[nse]
+"Aah!! That's good!! More!! West-kun! Your cock! Your cock!!"[pcms]
 
 *5845|
 [fc]
-[ns]宗一郎[nse]
-「………………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *5846|
 [fc]
-わざと無視していると、本当に寂しくて悲しそうな表情をして[r]
-黙ってしまう出渕君。[r]
-かわいくってしかたがない。[pcms]
+If I deliberately ignore him, Izubuchi-kun makes a truly lonely and[r]
+sad face and falls silent. He's so cute it's unbearable.[pcms]
 
 *5847|
 [fc]
 [vo_stk s="satuki_tj0230"]
-[ns]彩月[nse]
-「ああんっ……。[r]
-　黙ってちゃ……わからないわよぉ……。[r]
-　デ・ヴ・クンッ……」[pcms]
+[ns]Satsuki[nse]
+"Aahn... If you stay silent... I won't understand... Dev-kun..."[pcms]
 
 *5848|
 [fc]
-[ns]宗一郎[nse]
-「は、はいぃいっ……！！」[pcms]
+[ns]Souichirou[nse]
+"Ye-yes...!!"[pcms]
 
 *5849|
 [fc]
 [vo_stk s="satuki_tj0231"]
-[ns]彩月[nse]
-「あっ！　あああっ！！　ああんっ！！[r]
-　ねぇ……わたしのおまんこ欲しい？[r]
-　おまんこにおちんぽ入れたい？」[pcms]
+[ns]Satsuki[nse]
+"Ah! Aaah!! Aahn!! Hey... do you want my pussy? Do you want to put[r]
+your cock in my pussy?"[pcms]
 
 *5850|
 [fc]
-[ns]宗一郎[nse]
-「………………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *5851|
 [fc]
 [vo_stk s="satuki_tj0232"]
-[ns]彩月[nse]
-「ああっ！！　ああんっ！！[r]
-　先に西君に童貞を卒業されて、[r]
-　寂しくてすねてるのねっ……」[pcms]
+[ns]Satsuki[nse]
+"Aah!! Aahn!! You're sulking because West-kun lost his virginity[r]
+before you, aren't you..."[pcms]
 
 *5852|
 [fc]
-[ns]西[nse]
-「お、おれは……ど、どうて……。[r]
-　うぉおおおおぉおっ……！！」[pcms]
+[ns]West[nse]
+"I-I... virgin... Uooooh...!!"[pcms]
 
 *5853|
 [fc]
-[ns]宗一郎[nse]
-「うううっ……」[pcms]
+[ns]Souichirou[nse]
+"Uuuuh..."[pcms]
 
 *5854|
 [fc]
-二人とも激しく動揺する。[pcms]
+Both of them are greatly shaken.[pcms]
 
 *5855|
 [fc]
-やっぱり、わたしはドＳみたいだ。[r]
-そんな二人が、本当にかわいくて食べちゃいたいくらい。[r]
-……もちろん、性的な意味で。[pcms]
+It seems I'm quite the sadist. Both of them are so cute I could just[r]
+eat them up... Of course, in a sexual sense.[pcms]
 
 *5856|
 [fc]
-もっとも、実際に西君はおまんこで、[r]
-ぱっくりと食べてしまっている。[pcms]
+After all, West-kun is already being eaten up by my pussy.[pcms]
 
 ;//■イベントCG　satuki_H013　あへ
 [evcg storage="satuki_H013d"][trans_c cross time=300]
@@ -879,20 +829,18 @@
 *5857|
 [fc]
 [vo_stk s="satuki_tj0233"]
-[ns]彩月[nse]
-「ああんっ！！　[r]
-　そろそろ、おあずけもかわいそうだから……。[r]
-　そーいち君にも、おまんこあげるわ……」[pcms]
+[ns]Satsuki[nse]
+"Aahn!! It's about time to stop teasing you... I'll give my pussy to[r]
+So-ichi-kun too..."[pcms]
 
 *5858|
 [fc]
-[ns]宗一郎[nse]
-「えっ、あっ……。[r]
-　で、でも……」[pcms]
+[ns]Souichirou[nse]
+"Eh, ah... But..."[pcms]
 
 *5859|
 [fc]
-出渕君の視線はわたしのお尻へと……。[pcms]
+Izubuchi-kun's gaze is on my butt...[pcms]
 
 ;//　ＳＥ　挿入音　強調
 [se buf=0 storage="se_sex01"]
@@ -900,20 +848,20 @@
 
 *5860|
 [fc]
-わたしのおまんこに激しく出入りしてる西君のおちんぽへと……。[pcms]
+And on West-kun's cock that's thrusting in and out of my pussy[r]
+vigorously...[pcms]
 
 *5861|
 [fc]
 [vo_stk s="satuki_tj0234"]
-[ns]彩月[nse]
-「もう、そんなこと気にして……。[r]
-　誠君から習ってるでしょ？[r]
-　女の子にはおまんこが一杯あるのよ？」[pcms]
+[ns]Satsuki[nse]
+"Don't worry about that... You've learned from Makoto-kun, right?[r]
+Girls have lots of pussies, you know?"[pcms]
 
 *5862|
 [fc]
-[ns]宗一郎[nse]
-「お、おまんこが……いっぱい……？」[pcms]
+[ns]Souichirou[nse]
+"Pussies... lots of them...?"[pcms]
 
 ;//■イベントCG　satuki_H013　笑い
 [evcg storage="satuki_H013c"][trans_c cross time=300]
@@ -921,94 +869,90 @@
 *5863|
 [fc]
 [vo_stk s="satuki_tj0235"]
-[ns]彩月[nse]
-「あああん！！　ああっ！！[r]
-　そ、そうよぉ！！[r]
-　おまんこに……クチマンコにケツマンコ……」[pcms]
+[ns]Satsuki[nse]
+"Aaahn!! Ahh!! Yes, that's right!! In the pussy... mouth pussy, ass[r]
+pussy..."[pcms]
 
 *5864|
 [fc]
-[ns]宗一郎[nse]
-「ああっ……」[pcms]
+[ns]Souichirou[nse]
+"Aahh..."[pcms]
 
 *5865|
 [fc]
-わたしの卑猥な言葉で、その意味に気がついて[r]
-太っといおちんぽをぴくぴくと動かす出渕君。[pcms]
+My lewd words make him realize their meaning, and Izubuchi-kun's thick[r]
+cock twitches.[pcms]
 
 *5866|
 [fc]
 [vo_stk s="satuki_tj0236"]
-[ns]彩月[nse]
-「ああ……っ！[r]
-　ほしいわぁ、そーいちくんのぶっといおちんぽ……」[pcms]
+[ns]Satsuki[nse]
+"Aah...! I want it, So-ichi-kun's thick cock..."[pcms]
 
 *5867|
 [fc]
-[ns]宗一郎[nse]
-「ああっ！　くださいっ！[r]
-　せんぱいのぉ、おまんこくださぁい！！」[pcms]
+[ns]Souichirou[nse]
+"Aah! Please! Give me your pussy, senpai!!"[pcms]
 
 *5868|
 [fc]
 [vo_stk s="satuki_tj0237"]
-[ns]彩月[nse]
-「あっ！　ああっ！！　あっ……！[r]
-　んふふふっ……。[r]
-　じゃあ、デヴ君の太っといおちんぽは胸マンコに……」[pcms]
+[ns]Satsuki[nse]
+"Ah! Aaah!! Ah...! Nfufufu... Then, Dev-kun's thick cock will go in my[r]
+boob pussy..."[pcms]
 
 *5869|
 [fc]
-[ns]宗一郎[nse]
-「むね……マンコ……？」[pcms]
+[ns]Souichirou[nse]
+"Boob... pussy...?"[pcms]
 
 *5870|
 [fc]
 [vo_stk s="satuki_tj0238"]
-[ns]彩月[nse]
-「そうよ。ここよぉ……」[pcms]
+[ns]Satsuki[nse]
+"Yes. Right here..."[pcms]
 
 *5871|
 [fc]
-[ns]宗一郎[nse]
-「うぉおぉおっ！！」[pcms]
+[ns]Souichirou[nse]
+"Uooooh!!"[pcms]
 
 *5872|
 [fc]
-わたしはぱっくりと出渕君のおちんぽをおっぱいで挟み込んだ。[r]
-出渕君は目を白黒させて驚いている。[pcms]
+I engulf Izubuchi-kun's cock between my breasts with a wide spread.[r]
+Izubuchi-kun looks surprised, his eyes darting back and forth.[pcms]
 
 *5873|
 [fc]
-きっと、パイズリなんて聞いたことがあるだけで[r]
-されたことなんてないし、されるとは思いもしなったはずだ。[pcms]
+He must have only heard of titfucking before and never imagined it[r]
+would actually happen to him.[pcms]
 
 *5874|
 [fc]
 [vo_stk s="satuki_tj0239"]
-[ns]彩月[nse]
-「どう？　わたしの胸マンコ……」[pcms]
+[ns]Satsuki[nse]
+"How is it? My boob pussy..."[pcms]
 
 *5875|
 [fc]
-[ns]宗一郎[nse]
-「い、いいですぅ！　ムネマンコッ！　いいですぅ！！」[pcms]
+[ns]Souichirou[nse]
+"It's good! Boob pussy! It's so good!!"[pcms]
 
 *5876|
 [fc]
 [vo_stk s="satuki_tj0240"]
-[ns]彩月[nse]
-「そうっ……。じゃあっ……」[pcms]
+[ns]Satsuki[nse]
+"That's right... Then..."[pcms]
 
 *5877|
 [fc]
-わたしは胸を絞るように寄せながら、ゆっくりとこする。[pcms]
+I squeeze my breasts together as if wringing them and rub slowly.[pcms]
 
 *5878|
 [fc]
-わたしの身体はすっかりと汗ばんでいて、出渕くんのおちんぽも[r]
-カウパーとさっき射精したばかりのザーメンにまみれて、[r]
-ローションいらずだった。[pcms]
+My body is completely sweaty, and Izubuchi-kun's cock is also covered[r]
+with the semen he just ejaculated, making it unnecessary to use[r]
+lotion.[pcms]
 
 ;//　ＳＥ　パイズリのイメージ音
 [se buf=0 storage="se_sex02" loop=true]
@@ -1016,40 +960,37 @@
 
 *5879|
 [fc]
-[ns]宗一郎[nse]
-「ああっ！　あああっ！！」[pcms]
+[ns]Souichirou[nse]
+"Aah! Aaahh!!"[pcms]
 
 *5880|
 [fc]
 [vo_stk s="satuki_tj0241"]
-[ns]彩月[nse]
-「すっごい……。[r]
-　そーいちくんったら、先っぽからカウパーどくどく……。[r]
-　そんなに胸マンコいいの？」[pcms]
+[ns]Satsuki[nse]
+"Amazing... So-ichi-kun, you're leaking pre-cum from the tip... Do you[r]
+like the boob pussy that much?"[pcms]
 
 *5881|
 [fc]
-[ns]宗一郎[nse]
-「いいですっ！　胸マンコ……いいっ！！[r]
-　いい……ですう！！」[pcms]
+[ns]Souichirou[nse]
+"It's good! Boob pussy is good!! It's so good!!"[pcms]
 
 *5882|
 [fc]
 [vo_stk s="satuki_tj0242"]
-[ns]彩月[nse]
-「そうっ？[r]
-　じゃあ、自分でも動いてみてねデヴ君……」[pcms]
+[ns]Satsuki[nse]
+"Is that so? Then try moving yourself too, Dev-kun..."[pcms]
 
 *5883|
 [fc]
-[ns]宗一郎[nse]
-「は、は、はいいっ！！」[pcms]
+[ns]Souichirou[nse]
+"Ye-yes, it's good!!"[pcms]
 
 *5884|
 [fc]
-出渕君は敬礼でもするように背筋を伸ばして、[r]
-ぴょこぴょこと起きあがり小法師のように身体を揺らす。[r]
-本当にどこまでも、面白い子だ。[pcms]
+Izubuchi-kun straightens his back as if saluting and bounces up and[r]
+down like a little priest, shaking his body. He really is an endlessly[r]
+amusing boy.[pcms]
 
 ;//■イベントCG　satuki_H013　あへ
 [evcg storage="satuki_H013d"][trans_c cross time=300]
@@ -1057,26 +998,25 @@
 *5885|
 [fc]
 [vo_stk s="satuki_tj0243"]
-[ns]彩月[nse]
-「ああっ……。はぁああっ……！！[r]
-　がんばって動いて……[r]
-　わたしの胸マンコで……たっぷり出してね？」[pcms]
+[ns]Satsuki[nse]
+"Aah... Haaah...!! Keep moving... Use my boob pussy... to let it all[r]
+out, okay?"[pcms]
 
 *5886|
 [fc]
-そう言いながら、わたしは自分の胸を寄せながらもんで、[r]
-乳首を指で刺激する。[pcms]
+While saying that, I press my breasts together and knead them,[r]
+stimulating my nipples with my fingers.[pcms]
 
 *5887|
 [fc]
-乳首は刺さりそうに固くなってる。[r]
-いい傾向だ。[r]
-こんな時は満足のいく快感から絶頂が迎えられる。[pcms]
+My nipples are so hard they feel like they could pierce through. This[r]
+is a good sign. At times like this, one can reach a satisfying climax[r]
+from the pleasure.[pcms]
 
 *5888|
 [fc]
-[ns]西[nse]
-「ああっ！　あっ！　おおっ……」[pcms]
+[ns]West[nse]
+"Aah! Ah! Ohh..."[pcms]
 
 ;//■イベントCG　satuki_H013　笑い
 [evcg storage="satuki_H013c"][trans_c cross time=300]
@@ -1084,128 +1024,122 @@
 *5889|
 [fc]
 [vo_stk s="satuki_tj0244"]
-[ns]彩月[nse]
-「んふふっ……」[pcms]
+[ns]Satsuki[nse]
+"Nfufu..."[pcms]
 
 *5890|
 [fc]
-出渕君にかまっている間に西君がほったらかしなっていた。[r]
-だけど、西君の勢いに任せた単調な動きは悪くないけど、[r]
-ちょっと飽きてきた。[pcms]
+While I was paying attention to Izubuchi-kun, West-kun had been left[r]
+to his own devices. His monotonous movements, left to his own[r]
+momentum, aren't bad, but I'm starting to get bored.[pcms]
 
 ;//　Ｓｅ　締める　キュ？
 
 *5891|
 [fc]
-[ns]西[nse]
-「おおっ！！　おおおっ！！　おおうっ！！」[pcms]
+[ns]West[nse]
+"Ohh!! Ooohh!! Oooh!!"[pcms]
 
 *5892|
 [fc]
-いたずら心を起こして、きゅっと、おまんこを締めてみる。[r]
-すると、西君は動揺した。[pcms]
+Feeling a bit mischievous, I tighten my pussy suddenly. West-kun[r]
+becomes flustered.[pcms]
 
 *5893|
 [fc]
 [vo_stk s="satuki_tj0245"]
-[ns]彩月[nse]
-「あんっ……どうしたの？　西くぅん？」[pcms]
+[ns]Satsuki[nse]
+"Ahn... What's wrong? West-kun?"[pcms]
 
 *5894|
 [fc]
-[ns]西[nse]
-「す、すまない……！[r]
-　南のが良すぎて……！[r]
-　そのぉ……おおっ！！」[pcms]
+[ns]West[nse]
+"I-I'm sorry...! It's just that Minami's is so good...! That... Ohh!!"[pcms]
 
 *5895|
 [fc]
 [vo_stk s="satuki_tj0246"]
-[ns]彩月[nse]
-「出したいの？[r]
-　わたしのおまんこに出したいの？」[pcms]
+[ns]Satsuki[nse]
+"Do you want to cum? Do you want to cum inside my pussy?"[pcms]
 
 *5896|
 [fc]
-[ns]西[nse]
-「あ、あ、ああぁ……」[pcms]
+[ns]West[nse]
+"Ah, ah, ahh..."[pcms]
 
 *5897|
 [fc]
 [vo_stk s="satuki_tj0247"]
-[ns]彩月[nse]
-「うふふっ……」[pcms]
+[ns]Satsuki[nse]
+"Ufufu..."[pcms]
 
 *5898|
 [fc]
-返事なのか、よがりなのかわからない変な声がかわいかった。[r]
-あんな声を出されると、何でも許したくなってくる。[pcms]
+It was hard to tell if it was a response or a moan, but the strange[r]
+sound he made was cute. When he makes such a sound, it makes me want[r]
+to allow him anything.[pcms]
 
 *5899|
 [fc]
-[ns]宗一郎[nse]
-「ああっ！！　セ、セ、セッシャもぉお……！！」[pcms]
+[ns]Souichirou[nse]
+"Aah!! Se-se-session too...!!"[pcms]
 
 *5900|
 [fc]
 [vo_stk s="satuki_tj0248"]
-[ns]彩月[nse]
-「もうっ……。[r]
-　太いのに早いのね。[r]
-　いいわ……二人とも……」[pcms]
+[ns]Satsuki[nse]
+"My goodness... You're fast even though you're so big. That's fine...[r]
+both of you..."[pcms]
 
 *5901|
 [fc]
-[ns]西[nse]
-「そ、そとに……だよな……？」[pcms]
+[ns]West[nse]
+"You mean... outside, right...?"[pcms]
 
 *5902|
 [fc]
 [vo_stk s="satuki_tj0249"]
-[ns]彩月[nse]
-「ううん……中に！！　中にちょうだぁい！！[r]
-　今日は特別よ……」[pcms]
+[ns]Satsuki[nse]
+"No, inside!! Inside me please!! Today is special..."[pcms]
 
 *5903|
 [fc]
-[ns]西[nse]
-「ううっ……いいのか？　避妊しなくてもぉ！！」[pcms]
+[ns]West[nse]
+"Ugh... Is that okay? Even without contraception?!"[pcms]
 
 *5904|
 [fc]
-……西君ったら、外出しくらいで避妊になると思ってるんだ。[r]
-それで済むならコンドームなんていらないのに。[pcms]
+...West-kun seems to think that pulling out counts as contraception.[r]
+If that were enough, there'd be no need for condoms.[pcms]
 
 *5905|
 [fc]
-[ns]宗一郎[nse]
-「と、特別ぅ……ですかぁ？」[pcms]
+[ns]Souichirou[nse]
+"Is it really... special?"[pcms]
 
 *5906|
 [fc]
 [vo_stk s="satuki_tj0250"]
-[ns]彩月[nse]
-「ああんっ！　そ、そうよぉ[r]
-　わたし、する時は絶対にコンドームを使うの……。[r]
-　だから……今日は……本当に特別よ……」[pcms]
+[ns]Satsuki[nse]
+"Aahn! Yes, that's right. I always use condoms when doing it... So[r]
+today is... truly special..."[pcms]
 
 *5907|
 [fc]
 [vo_stk s="satuki_tj0251"]
-[ns]彩月[nse]
-「二人とも遠慮なく、いっぱい出してね。[r]
-　ああんっ……！！[r]
-　特別に『生』なんだからぁ……」[pcms]
+[ns]Satsuki[nse]
+"Both of you, don't hold back and let it all out. Aaahn...!! It's[r]
+special because it's 'raw'..."[pcms]
 
 *5908|
 [fc]
-[ns]西[nse]
-「ああっ！」[pcms]
+[ns]West[nse]
+"Aah!"[pcms]
 
 *5909|
 [fc]
-[ns]宗一郎[nse]
-「はいぃいっ！！」[pcms]
+[ns]Souichirou[nse]
+"Yes!!"[pcms]
 
 ;//■イベントCG　satuki_H013　あへ
 [evcg storage="satuki_H013d"][trans_c cross time=300]
@@ -1213,10 +1147,9 @@
 *5910|
 [fc]
 [vo_stk s="satuki_tj0252"]
-[ns]彩月[nse]
-「ああっ！！　そうよぉ！！[r]
-　おまんこ精子でいっぱいにしてぇ！！[r]
-　胸マンコ精液まみれにしてぇ！！　精子……のませてぇ！！」[pcms]
+[ns]Satsuki[nse]
+"Aah!! Yes!! Fill my pussy with sperm!! Cover my boob pussy with[r]
+semen!! Make me swallow your sperm!!"[pcms]
 
 ;//se即時停止
 [stopse_all]
@@ -1233,18 +1166,18 @@
 
 *5911|
 [fc]
-[ns]西[nse]
-「おおぉおっ……！！」[pcms]
+[ns]West[nse]
+"Oooh...!!"[pcms]
 
 *5912|
 [fc]
-[ns]宗一郎[nse]
-「ああぁあっ……！！」[pcms]
+[ns]Souichirou[nse]
+"Aaahh...!!"[pcms]
 
 *5913|
 [fc]
-わたしが胸を絞り上げ、おまんこをきゅっと締めると[r]
-二人は同時に発射した。[pcms]
+As I squeeze my breasts and tighten my pussy, the two of them[r]
+ejaculate simultaneously.[pcms]
 
 ;//■イベントCG　satuki_H013
 [evcg storage="satuki_H013f"][trans_c cross time=300]
@@ -1252,98 +1185,94 @@
 *5914|
 [fc]
 [vo_stk s="satuki_tj0253"]
-[ns]彩月[nse]
-「ああっ……はぁああ……」[pcms]
+[ns]Satsuki[nse]
+"Aah... Haaah..."[pcms]
 
 *5915|
 [fc]
-青臭いケモノの臭いがあたりいっぱいに広がり、[r]
-わたしの胸を熱く濡らし、口の中にも跳び込んでくる。[pcms]
+The musky scent of beasts spreads all around, heating up my breasts[r]
+and leaping into my mouth.[pcms]
 
 *5916|
 [fc]
-合宿で、ずっとオナニーをガマンしてたのだろう。[r]
-精子は二回目なのにとっても濃かった。[pcms]
+They must have been holding back from masturbating during the training[r]
+camp. The sperm is very thick even though it's the second time.[pcms]
 
 *5917|
 [fc]
-とっても、苦くておいしい精子の味が口の中に広がり、[r]
-わたしのおまんこは熱い精液で満たされる。[pcms]
+The taste of the very bitter and delicious sperm spreads in my mouth,[r]
+and my pussy is filled with hot semen.[pcms]
 
 *5918|
 [fc]
 [vo_stk s="satuki_tj0254"]
-[ns]彩月[nse]
-「ああっ！！[r]
-　たまらないっ！！[r]
-　たまらなく、キモチいぃいぃいっ……！！」[pcms]
+[ns]Satsuki[nse]
+"Aah!! I can't stand it!! It feels sooo good...!!"[pcms]
 
 *5919|
 [fc]
-なんで、こんなにキモチのいいことを[r]
-わたしは避け続けてきたのだろう。[pcms]
+Why have I been avoiding something that feels so good?[pcms]
 
 *5920|
 [fc]
-……感染者みたいだから？[pcms]
+...Because it's like being an infected person?[pcms]
 
 *5921|
 [fc]
-肉欲のままに、性欲をむさぼる感染者みたいだから？[pcms]
+Because it's like being an infected person who indulges in carnal[r]
+desires and lust?[pcms]
 
 *5922|
 [fc]
-わたしはけっして感染者にはならないはずだ……。[r]
-それはわたし自身が一番良く知っている。[pcms]
+I'm sure I will never become an infected person... I know that better[r]
+than anyone else.[pcms]
 
 *5923|
 [fc]
-『UNKNOWN-LV4が別のウィルスへと進化でもしない限りは……』[pcms]
+"Unless UNKNOWN-LV4 evolves into a different virus..."[pcms]
 
 *5924|
 [fc]
-だから、大丈夫。[pcms]
+So, it's okay.[pcms]
 
 *5925|
 [fc]
-だから……もっと、おまんこを精子で一杯にしなくちゃ。[pcms]
+That's why... I need to fill my pussy with more sperm.[pcms]
 
 *5926|
 [fc]
-今まで何でわたしは精子を避け続けてきたんだろう。[r]
-あの人とだって、生でしたことは一度もなかった。[r]
-もったいない。本当にもったいない。[pcms]
+I wonder why I've been avoiding sperm all this time. I've never even[r]
+done it raw with him. What a waste. Such a waste.[pcms]
 
 *5927|
 [fc]
-いままで、生でしなかった分の精子をこれからは飲まなきゃ。[r]
-ザーメンでおまんこを満たさなきゃ……。[pcms]
+I have to make up for all the times I didn't do it raw by drinking[r]
+sperm from now on. I have to fill my pussy with semen...[pcms]
 
 *5928|
 [fc]
 [vo_stk s="satuki_tj0255"]
-[ns]彩月[nse]
-「ああっ！　欲しいのぉ……！[r]
-　もっとぉ！！　もっと精子が欲しいのぉ！！」[pcms]
+[ns]Satsuki[nse]
+"Aah! I want it...! More!! I want more sperm!!"[pcms]
 
 ;//　このあたりで、宗一郎　感染者モードに
 
 *5929|
 [fc]
-[ns]宗一郎[nse]
-「せ、せんぱぁい……」[pcms]
+[ns]Souichirou[nse]
+"Se-Senpai..."[pcms]
 
 *5930|
 [fc]
 [vo_stk s="satuki_tj0256"]
-[ns]彩月[nse]
-「ああっ……次はそーいちくんのデヴおちんぽを[r]
-　おまんこにブチ込んで……」[pcms]
+[ns]Satsuki[nse]
+"Aah... Next, I want Souichirou-kun's thick cock to slam into my[r]
+pussy..."[pcms]
 
 *5931|
 [fc]
-[ns]宗一郎[nse]
-「は、はぁい……」[pcms]
+[ns]Souichirou[nse]
+"Ye-Yes..."[pcms]
 
 ;//【あ[nse]
 ;//「ああっ……楽しみぃ！
@@ -1353,69 +1282,64 @@
 *5932|
 [fc]
 [vo_stk s="satuki_tj0257"]
-[ns]彩月[nse]
-「ああっ！！　ほしいっ！！　おちんぽほしぃいいっ！！」[pcms]
+[ns]Satsuki[nse]
+"Aah!! I want it!! I want the cock so bad!!"[pcms]
 
 *5933|
 [fc]
-[ns]西[nse]
-「南……お、俺は……？」[pcms]
+[ns]West[nse]
+"Minami...what about me...?"[pcms]
 
 *5934|
 [fc]
-心配そうな顔で、西君が聞いてくる。[pcms]
+With a worried look, West-kun asks.[pcms]
 
 *5935|
 [fc]
 [vo_stk s="satuki_tj0258"]
-[ns]彩月[nse]
-「大丈夫よ……西君……。[r]
-　仲間はずれになんてしないわぁ……」[pcms]
+[ns]Satsuki[nse]
+"It's okay... West-kun... You won't be left out..."[pcms]
 
 ;//井：モノローグに入るのでループは止めるよ
 
 *5936|
 [fc]
-西君のおちんぽをどこに入れさせるか……[r]
-ザーメンをどこで飲もうかと、わたしは考えた。[pcms]
+I thought about where to let West-kun's cock in... where to drink his[r]
+semen.[pcms]
 
 *5937|
 [fc]
 [vo_stk s="satuki_tj0259"]
-[ns]彩月[nse]
-（そうだ。あそこがいい。[r]
-　あそこにしましょう……）[pcms]
+[ns]Satsuki[nse]
+(That's right. There would be good. Let's do it there...)[pcms]
 
 *5938|
 [fc]
-きっと西君は驚く。[r]
-その驚く顔も楽しみだ。[pcms]
+West-kun will surely be surprised. I'm looking forward to that[r]
+surprised face too.[pcms]
 
 *5939|
 [fc]
-でも、きっと彼は、驚きながらも[r]
-わたしの言うことを聞くに違いない[r]
-だって、彼はわたしが好きなんだから……。[pcms]
+But surely, even while surprised, he will listen to what I say. After[r]
+all, he likes me...[pcms]
 
 *5940|
 [fc]
 [vo_stk s="satuki_tj0260"]
-[ns]彩月[nse]
-（西君の固ったい、おちんぽ……わたしも大好きよ……。[r]
-　……これって、両思い？）[pcms]
+[ns]Satsuki[nse]
+(West-kun's hard cock... I love it too... Is this mutual love?)[pcms]
 
 *5941|
 [fc]
-わたしは西君がしっかりと中出ししてくれたお尻を[r]
-大きく左右に開きながら突き出した。[pcms]
+I stuck out my butt, which West-kun had firmly creampied, spreading it[r]
+wide from left to right.[pcms]
 
 *5942|
 [fc]
 [vo_stk s="satuki_tj0261"]
-[ns]彩月[nse]
-「ねぇ、西君……。[r]
-　次は……わたしのお尻におちんぽ入れてみない？[r]
-　どぉ？　ケツマンコよ……？」[pcms]
+[ns]Satsuki[nse]
+"Hey, West-kun... Next, why don't you try putting your cock in my ass?[r]
+How about it? Want to try my ass pussy?"[pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

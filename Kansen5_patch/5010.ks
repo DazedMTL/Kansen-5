@@ -31,63 +31,62 @@
 
 *112|
 [fc]
-うわぁ～、おっきな木だなぁ～！[pcms]
+"Wow, that's a huge tree!"[pcms]
 
 *113|
 [fc]
-[ns]信二[nse]
-「うん、大きいな～」[pcms]
+[ns]Shinji[nse]
+"Yeah, it's big..."[pcms]
 
 *114|
 [fc]
-僕はお父さんと大きな木を見上げていた。[pcms]
+I was looking up at the big tree with my father.[pcms]
 
 *115|
 [fc]
-どんなに上を向いても、[r]
-全部を見ることができないくらい大きな木だ。[pcms]
+No matter how much I look up, it's so big that I can't see the whole[r]
+thing.[pcms]
 
 *116|
 [fc]
 [vo_mob s="taeko0001"]
-[ns]妙子[nse]
-「じゃあ、ここで写真を撮りましょう！」[pcms]
+[ns]Taeko[nse]
+"Then, let's take a picture here!"[pcms]
 
 *117|
 [fc]
-お母さんがカメラを取り出して、[r]
-近くに誰かいないか探している。[pcms]
+My mother took out her camera and started looking around to see if[r]
+anyone was nearby.[pcms]
 
 *118|
 [fc]
 [vo_mob s="taeko0002"]
-[ns]妙子[nse]
-「すみません、写真をお願いしてもいいですか？」[pcms]
+[ns]Taeko[nse]
+"Excuse me, could you please take a picture for us?"[pcms]
 
 *119|
 [fc]
-女の人が、にっこりと微笑んでカメラを手にすると、[r]
-お母さんは一人の女の子に気がついた。[pcms]
+As the woman smiled and took the camera, my mother noticed a little[r]
+girl.[pcms]
 
 *120|
 [fc]
-女の人の足下に隠れるようにして、[r]
-お母さんを見上げている女の子がいる。[pcms]
+The little girl was hiding at the woman's feet, looking up at my[r]
+mother.[pcms]
 
 *121|
 [fc]
 [vo_mob s="taeko0003"]
-[ns]妙子[nse]
-「あら、かわいい子ね？　こんにちは」[pcms]
+[ns]Taeko[nse]
+"Oh, what a cute child! Hello there."[pcms]
 
 *122|
 [fc]
-女の人が、足下の小さな子に挨拶を促している。[pcms]
+The woman encouraged the small child at her feet to greet us.[pcms]
 
 *123|
 [fc]
-でも、女の子は恥ずかしいみたいで、[r]
-もじもじとしているだけだった。[pcms]
+But the girl seemed too shy and just fidgeted without saying much.[pcms]
 
 ;//■イベントCG　akari_N006（少女の茜梨）
 [evcg storage="akari_N006d"][trans_c cross time=500]
@@ -97,33 +96,32 @@
 *124|
 [fc]
 [vo_aka s="you_akari0001"]
-[ns]女の子[nse]
-「こ、こんにち……は……」[pcms]
+[ns]Girl[nse]
+"He-hello..."[pcms]
 
 ;//茜梨
 
 *125|
 [fc]
-お母さんの優しい笑顔を見て安心したのか、[r]
-女の子が顔を上げて挨拶する。[pcms]
+Perhaps reassured by my mother's kind smile, the girl raised her face[r]
+to greet us.[pcms]
 
 *126|
 [fc]
-かわいいなぁ～。[pcms]
+She's so cute...[pcms]
 
 *127|
 [fc]
-僕はその女の子のあまりのかわいさに、[r]
-思わず見とれてしまった。[pcms]
+I was utterly captivated by the girl's cuteness.[pcms]
 
 *128|
 [fc]
-子猫でも子犬でもない、天使みたいな女の子だ。[pcms]
+She was like an angel, not a kitten or a puppy.[pcms]
 
 *129|
 [fc]
-うつむき加減でやっと挨拶をする女の子に、[r]
-僕はただ見とれているだけだった。[pcms]
+I was just spellbound by the girl who finally managed to greet us with[r]
+her head down.[pcms]
 
 ;//★bg15a 越智本家 土蔵・点灯
 [bg storage="BG15a"]
@@ -132,13 +130,11 @@
 
 *130|
 [fc]
-この景色……、[r]
-前にも見た事がある。[pcms]
+I've seen this scene before...[pcms]
 
 *131|
 [fc]
-どこで見たんだっけ……、[r]
-随分前に見たような気がするんだけど……。[pcms]
+Where did I see it... I feel like it was a long time ago...[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

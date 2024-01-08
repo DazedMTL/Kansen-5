@@ -3,7 +3,7 @@
 *2045_TOP
 ;{SceneSet 疼く心}
 
-;//m:プロット時のブロック名D_c：夏都ＺＡＰ
+;//m:プロット時のブロック名D_c：夏ＺＡＰ
 
 ;//--------------------------
 ;//回想なのか通常プレイなのかの分岐判断
@@ -30,13 +30,14 @@
 
 *605|
 [fc]
-ああ、いいライブだったなあ……。[r]
-誠には本当に感謝感謝だ……。[pcms]
+"Ah, that was a great live performance... I'm truly grateful to[r]
+Makoto..."[pcms]
 
 *606|
 [fc]
-オレがホテルに帰り着いた頃には、とっくに深夜になっていた。[r]
-フロントに人影はあるけど、もう宿泊客は寝静まった時間だ。[pcms]
+"By the time I got back to the hotel, it was already deep into the[r]
+night. There was someone at the front desk, but it seemed like all the[r]
+guests had already settled down for the night."[pcms]
 
 [se buf=0 storage="seB023"]
 ;<ImageShake2 0,5,0,4,0,4,ON>
@@ -47,72 +48,72 @@
 *607|
 [fc]
 [vo_nat s="natu_st0018"]
-[ns]夏都[nse]
-「うう……」[pcms]
+[ns]Natsu[nse]
+"Ugh..."[pcms]
 
 *608|
 [fc]
-なんだろう。身体が妙に火照る。[r]
-いつもだったら収まってるはずの余韻や興奮が収まらない。[pcms]
+"What's this feeling? My body is strangely hot. The afterglow and[r]
+excitement that should have subsided by now are still lingering."[pcms]
 
 *609|
 [fc]
-夜の熱気にさらされた身体がまだ熱いまんまで、[r]
-オレはなんだか頭までぼうっとしてきていた。[pcms]
+"My body, still heated from the night's fervor, was making my head[r]
+feel hazy too."[pcms]
 
 *610|
 [fc]
 [vo_nat s="natu_st0019"]
-[ns]夏都[nse]
-「参ったな……」[pcms]
+[ns]Natsu[nse]
+"This is tough..."[pcms]
 
 ;//#_黒フラ
 [黒フラ]
 
 *611|
 [fc]
-おまけに、なんだか疼く。[r]
-ついついもぞもぞと内股を擦り合わせて、歩き方が変になっていた。[pcms]
+"And on top of that, there's this throbbing. I can't help but rub my[r]
+thighs together, and my walk has become oddly unsteady."[pcms]
 
 *612|
 [fc]
 [vo_nat s="natu_st0020"]
-[ns]夏都[nse]
-「どうすっかなあ……」[pcms]
+[ns]Natsu[nse]
+"What should I do..."[pcms]
 
 *613|
 [fc]
-このまんまじゃ眠れそうにない。[r]
-なんかしないと……何か……身体の疼きが収まるような事……。[pcms]
+"I won't be able to sleep like this. I need to do something...[r]
+something to ease this throbbing in my body..."[pcms]
 
 *614|
 [fc]
 [vo_nat s="natu_st0021"]
-[ns]夏都[nse]
-「誠……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 ;//★bg11c ホテル廊下・夜
 [bg storage="BG11b"][trans_c cross time=500]
 
 *615|
 [fc]
-ここへの旅を誠が言い出したあの夜、誠はオレが寝てると[r]
-思ったんだろうな……。[pcms]
+"That night Makoto suggested this trip, he must have thought I was[r]
+asleep..."[pcms]
 
 *616|
 [fc]
-オレも必死に息を殺してたから……最後は我慢しきれずに[r]
-蹴っちゃったけどさ……。[pcms]
+"I was desperately holding my breath too... but in the end, I couldn't[r]
+hold back and kicked him..."[pcms]
 
 *617|
 [fc]
-今晩、もう１回……してくれないかな。[r]
-途中までじゃなくて、最後まで……。[pcms]
+"Tonight, will you do it again... Not just halfway, but all the[r]
+way..."[pcms]
 
 *618|
 [fc]
-オレはぼんやりそんな事を考えながら、誠の部屋を[r]
-目指していた。[pcms]
+"While pondering such thoughts absentmindedly, I was heading towards[r]
+Makoto's room."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -123,16 +124,16 @@
 
 *619|
 [fc]
-[ns]宗一郎[nse]
-「はいはい？　こんな時間にどなたでしょうか？」[pcms]
+[ns]Souichirou[nse]
+"Yes, yes? Who might it be at this hour?"[pcms]
 
 ;//♂：立ち絵無し
 
 *620|
 [fc]
 [vo_nat s="natu_st0022"]
-[ns]夏都[nse]
-「オレだよ。夏都。誠居るかな？」[pcms]
+[ns]Natsu[nse]
+"It's me. Natsu. Is Makoto there?"[pcms]
 
 ;//■_扉の開く音
 [se buf=0 storage="seA011"]
@@ -148,51 +149,51 @@
 
 *621|
 [fc]
-[ns]宗一郎[nse]
-「これはこれは、夏の姫。残念ですが、誠めは、南先輩と[r]
-　キャンプ場に向かいまして、未だ戻っておりませぬ」[pcms]
+[ns]Souichirou[nse]
+"Oh my, if it isn't the princess of summer. Unfortunately, Makoto has[r]
+gone to the campsite with Senior Minami and has yet to return."[pcms]
 
 *622|
 [fc]
 [vo_nat s="natu_st0023"]
-[ns]夏都[nse]
-「……そっか」[pcms]
+[ns]Natsu[nse]
+"...I see."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *623|
 [fc]
-[ns]宗一郎[nse]
-「わたくしめで、何かお役に立つことがありましたら、[r]
-　誠の代わりにお申し付けいただければと」[pcms]
+[ns]Souichirou[nse]
+"If there is anything I can assist you with in Makoto's stead, please[r]
+do not hesitate to ask."[pcms]
 
 *624|
 [fc]
 [vo_nat s="natu_st0024"]
-[ns]夏都[nse]
-「え？　……う～ん」[pcms]
+[ns]Natsu[nse]
+"Eh? ...Hmm."[pcms]
 
 *625|
 [fc]
-頭の中が誠とすることでいっぱいになってた。[r]
-シたい。でも、誠は居ない。余計に疼いてくる。[pcms]
+"My mind was filled with thoughts of doing it with Makoto. I want to.[r]
+But Makoto isn't here. It makes me throb even more."[pcms]
 
 *626|
 [fc]
-でも……そーいち……じゃなあ……。[pcms]
+"But... Sou-ichi... not really..."[pcms]
 
 *627|
 [fc]
 [vo_nat s="natu_st0025"]
-[ns]夏都[nse]
-「いや、いいや。悪かったな、そーいち。おやすみ～」[pcms]
+[ns]Natsu[nse]
+"No, it's okay. Sorry to bother you, Sou-ichi. Goodnight~"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so03a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *628|
 [fc]
-[ns]宗一郎[nse]
-「残念無念。おやすみなさいませ」[pcms]
+[ns]Souichirou[nse]
+"That is most regrettable. Goodnight to you."[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 ;//★bg11c ホテル廊下・夜
@@ -203,83 +204,83 @@
 
 *629|
 [fc]
-ちぇ……どうしよっかな……。[r]
-なんでこんなに身体が火照るんだろ。[r]
-いくらライブの興奮が大きかったからって言っても……。[pcms]
+"Tch... What should I do... Why is my body so hot? Even if the[r]
+excitement from the live performance was intense..."[pcms]
 
 *630|
 [fc]
-くっそお～。誠と出来ないってなったら、余計にシたくなってきた。[r]
-キャンプ場って言ってたっけ。そこまで行ってみる……か？[pcms]
+"Damn it... Now that I can't do it with Makoto, I want to even more.[r]
+He said they went to the campsite, right? Should I go there...?"[pcms]
 
 *631|
 [fc]
-[ns]部員１[nse]
-「お、おい。見ろよ。すっげーっ」[pcms]
+[ns]Club Member 1[nse]
+"Hey, hey. Look at that. Awesome..."[pcms]
 
 *632|
 [fc]
-[ns]部員２[nse]
-「たまんねーな」[pcms]
+[ns]Club Member 2[nse]
+"That's irresistible."[pcms]
 
 *633|
 [fc]
-オレの後ろの方が騒がしくなって、若い男たちがぞろぞろと[r]
-やってきた。[pcms]
+"The area behind me got noisy as a group of young men came strolling[r]
+in."[pcms]
 
 *634|
 [fc]
-手にはコンビニ袋を提げてる。[r]
-このフロアってことは、誠の学園の連中かな？[pcms]
+"They were carrying convenience store bags. Since they're on this[r]
+floor, maybe they're from Makoto's school?"[pcms]
 
 ;//たちなし
 
 *634a|
 [fc]
-[ns]荒井[nse]
-「…………」[pcms]
+[ns]Arai[nse]
+"..."[pcms]
 
 *635|
 [fc]
-オレの横をちゃんと会釈して通ってく。[r]
-最後に通ったヤツは、なんだか顔を赤くしていた。[pcms]
+"They passed by me with a proper nod. The last guy who passed by had a[r]
+red face."[pcms]
 
 *636|
 [fc]
-[ns]部員１[nse]
-「中澤のお姉さん、らしいぜ？」[pcms]
+[ns]Club Member 1[nse]
+"That's Nakazawa's sister, right?"[pcms]
 
 *637|
 [fc]
-[ns]部員２[nse]
-「おっほ～すっげぇ、揉み放題？」[pcms]
+[ns]Club Member 2[nse]
+"Oh-ho~ amazing, free to grope?"[pcms]
 
 *638|
 [fc]
-[ns]荒井[nse]
-「ちょ、先輩。聞えちゃいますよ。やめてくださいよ……」[pcms]
+[ns]Arai[nse]
+"Hey, senpai. She can hear you. Please stop..."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar12"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *639|
 [fc]
-ふう～ん。悪くないじゃん。[r]
-結構逞しそうだし、それに、カワイイのもいる。[pcms]
+"Hmmm. Not bad at all. They look pretty sturdy, and some of them are[r]
+cute too."[pcms]
 
 *640|
 [fc]
-うん。デヴよっか、全然いいかも。[r]
-決めた。オレの今晩の相手してもらっちゃおうっ！[pcms]
+"Yeah. Even if they're not Dev, they might be totally fine. I've[r]
+decided. I'll have them keep me company tonight!"[pcms]
 
 *641|
 [fc]
-誠が悪いんだから。居ないのが悪いんだからなっ。[pcms]
+"It's Makoto's fault for not being here. It's his fault for being[r]
+away."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *642|
 [fc]
-オレは、うきうきしながら後を追った。[pcms]
+"I followed them with a spring in my step."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -299,19 +300,19 @@
 
 *643|
 [fc]
-[ns]荒井[nse]
-「はい、誰ですかー？」[pcms]
+[ns]Arai[nse]
+"Yes, who is it?"[pcms]
 
 *644|
 [fc]
 [vo_nat s="natu_st0026"]
-[ns]夏都[nse]
-「えーと、中澤誠の姉です」[pcms]
+[ns]Natsu[nse]
+"Um, I'm Nakazawa Makoto's sister."[pcms]
 
 *645|
 [fc]
-[ns]荒井[nse]
-「ええ？　ちょ、ちょっと待って下さい」[pcms]
+[ns]Arai[nse]
+"Eh? Wait a moment, please."[pcms]
 
 ;不要？[wait_c time=1000]
 
@@ -329,96 +330,96 @@
 
 *646|
 [fc]
-[ns]荒井[nse]
-「え、えっとー何か用でしょうか？」[pcms]
+[ns]Arai[nse]
+"Um, what can I do for you?"[pcms]
 
 *647|
 [fc]
 [vo_nat s="natu_st0027"]
-[ns]夏都[nse]
-「ちょっとご挨拶にーって思って」[pcms]
+[ns]Natsu[nse]
+"I just thought I'd come by to say hello."[pcms]
 
 *648|
 [fc]
-オレはそう言いながら、笑顔を振りまいた。[pcms]
+I said that while spreading a smile.[pcms]
 
 *649|
 [fc]
 [vo_nat s="natu_st0028"]
-[ns]夏都[nse]
-「中、入ってもいいかなあ？」[pcms]
+[ns]Natsu[nse]
+"Can I come in?"[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *650|
 [fc]
-[ns]荒井[nse]
-「えっ！！　えっ？！　えっと……」[pcms]
+[ns]Arai[nse]
+"Eh!! Eh?! Um..."[pcms]
 
 *651|
 [fc]
-[ns]部員１[nse]
-「入って貰えよー、そんなとこで立ち話もなんだしさ」[pcms]
+[ns]Club Member 1[nse]
+"Let her in, it's weird to talk standing out there."[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *652|
 [fc]
-[ns]荒井[nse]
-「あ、あ……えっと、じゃあどうぞ……」[pcms]
+[ns]Arai[nse]
+"Ah, ah... um, please come in..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *653|
 [fc]
-オレは、わざと胸をつんと張って、笑顔のまま中へと入った。[pcms]
+I entered with my chest puffed out on purpose, still smiling.[pcms]
 
 *654|
 [fc]
 [vo_nat s="natu_st0029"]
-[ns]夏都[nse]
-「お邪魔しまーす。中澤誠の姉です。いつも誠がお世話に[r]
-　なってます。ご挨拶をと、思い立ちましてえ」[pcms]
+[ns]Natsu[nse]
+"Excuse me for intruding. I'm Nakazawa Makoto's sister. Makoto is[r]
+always in your care. I thought I should come and say hello."[pcms]
 
 *655|
 [fc]
-[ns]部員１[nse]
-「あ、いえ。お世話だなんて、その……」[pcms]
+[ns]Club Member 1[nse]
+"Ah, no. It's nothing like that, um..."[pcms]
 
 *656|
 [fc]
 [vo_nat s="natu_st0030"]
-[ns]夏都[nse]
-「なーんて、堅苦しい挨拶は抜きにして、ちょっと遊んで[r]
-　もらおっかなーなんて思って来たんだけどさ」[pcms]
+[ns]Natsu[nse]
+"Just kidding, let's skip the formalities. I thought maybe I'd come[r]
+and hang out with you guys for a bit."[pcms]
 
 *657|
 [fc]
-[ns]部員１[nse]
-「え？　え？　ええー？」[pcms]
+[ns]Club Member 1[nse]
+"Eh? Eh? Really?"[pcms]
 
 *658|
 [fc]
-そう言いながら、オレは、デニムのミニスカートを[r]
-自分の腰からはぎ取った。[pcms]
+While saying that, I took off the denim miniskirt from around my[r]
+waist.[pcms]
 
 *659|
 [fc]
 [vo_nat s="natu_st0031"]
-[ns]夏都[nse]
-「どお？　今夜はオレと楽しまない？」[pcms]
+[ns]Natsu[nse]
+"So? How about having fun with me tonight?"[pcms]
 
 *660|
 [fc]
-前屈みになって、胸の谷間を強調しながら、[r]
-オレは部屋にいる男達を見回した。[pcms]
+Bending forward and emphasizing my cleavage, I looked around at the[r]
+guys in the room.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,1000>
 
 *661|
 [fc]
-うん。なかなかのメンツ。これなら楽しめそうだ。[pcms]
+Yeah. Quite a group. This should be fun.[pcms]
 
 [sysbt_meswin clear]
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -435,120 +436,117 @@
 
 *662|
 [fc]
-床に寝転び、オレは思いっきり足を開いた。[pcms]
+I lay down on the floor and spread my legs wide open.[pcms]
 
 *663|
 [fc]
-[ns]部員一同[nse]
-「おおおおおおっ！」[pcms]
+[ns]All members[nse]
+"Ooooooh!"[pcms]
 
 *664|
 [fc]
-一斉に上がる歓声がなんだか、気持ちいい。[r]
-まだライブ会場で、オレがアーティストになったみたいな[r]
-錯覚を覚える。[pcms]
+The unanimous cheer that rose up felt good somehow. It was like being[r]
+at a live venue, and I felt like I had become an artist.[pcms]
 
 *665|
 [fc]
-[ns]部員１[nse]
-「すっげー、寝てるのにおっぱいの形が崩れてない！[r]
-　そんなにボリュームあるのにっ！」[pcms]
+[ns]Club Member 1[nse]
+"Wow, even lying down her breasts don't lose their shape! They have so[r]
+much volume!"[pcms]
 
 *666|
 [fc]
 [vo_nat s="natu_st0032"]
-[ns]夏都[nse]
-「ありがと～。まあ、運動やってるからさ」[pcms]
+[ns]Natsu[nse]
+"Thanks~. Well, it's because I exercise."[pcms]
 
 *667|
 [fc]
-[ns]部員２[nse]
-「中澤のやつ……毎日揉み放題か？　うらやまし～」[pcms]
+[ns]Club Member 2[nse]
+"That Nakazawa guy... he can grope them every day? So jealous~"[pcms]
 
 *668|
 [fc]
 [vo_nat s="natu_st0033"]
-[ns]夏都[nse]
-「えー？　誠は確かに触り放題だけどさ。毎日じゃないよ。[r]
-　それにさ、そこ止まり。ヤってないんだから。オレら」[pcms]
+[ns]Natsu[nse]
+"Eh? Sure, Makoto can touch them whenever he wants. But not every day.[r]
+And that's it, we haven't done anything more than that."[pcms]
 
 *669|
 [fc]
-[ns]部員３[nse]
-「な、なんてもったいない事を」[pcms]
+[ns]Club Member 3[nse]
+"What a waste."[pcms]
 
 *670|
 [fc]
-[ns]部員４[nse]
-「据え膳喰わないとか、チキンすぎっしょ」[pcms]
+[ns]Club Member 4[nse]
+"Not taking advantage of what's offered is just chicken."[pcms]
 
 *671|
 [fc]
 [vo_nat s="natu_st0034"]
-[ns]夏都[nse]
-「あ～まあね～。誠、ウブだからさー。だから、代わりに[r]
-　オレを満足させてよ。みんなでさ～。[r]
-　その代わり……誠とは、仲良くしてやってな？」[pcms]
+[ns]Natsu[nse]
+"Ah~ well yeah~. Makoto is shy, you know. So instead, satisfy me. All[r]
+of you together~. In return... be nice to Makoto, okay?"[pcms]
 
 *672|
 [fc]
-[ns]部員１[nse]
-「もちろんですっ！　な、みんなっ！！」[pcms]
+[ns]Club Member 1[nse]
+"Of course! Right, everyone!!"[pcms]
 
 *673|
 [fc]
-[ns]部員達[nse]
-「ういっすっ！」[pcms]
+[ns]Club Members[nse]
+"Yes sir!"[pcms]
 
 *674|
 [fc]
 [vo_nat s="natu_st0035"]
-[ns]夏都[nse]
-「んじゃ、好きにしていいからさ。あ、でも、最初ぐらいは[r]
-　ご指名しちゃおっかな。えーと、そこのキミ」[pcms]
+[ns]Natsu[nse]
+"Then, feel free to do as you like. Ah, but maybe I'll choose someone[r]
+first. Um, how about you over there?"[pcms]
 
 *675|
 [fc]
-[ns]荒井[nse]
-「え？　お、俺？」[pcms]
+[ns]Arai[nse]
+"Eh? Me?"[pcms]
 
 *676|
 [fc]
 [vo_nat s="natu_st0036"]
-[ns]夏都[nse]
-「そ。来て。早く気持ち良くしてよ」[pcms]
+[ns]Natsu[nse]
+"Yeah. Come here. Make me feel good quickly."[pcms]
 
 *677|
 [fc]
-耳まで真っ赤になって、カワイイったら。[r]
-それでも、ちゃんとオレの開いた足の間に、やってきた。[pcms]
+His ears turned red, which was cute. Still, he properly came between[r]
+my spread legs.[pcms]
 
 *678|
 [fc]
 [vo_nat s="natu_st0037"]
-[ns]夏都[nse]
-「じゃあ、やろっか」[pcms]
+[ns]Natsu[nse]
+"Shall we get started then?"[pcms]
 
 *679|
 [fc]
-[ns]荒井[nse]
-「……ごくっ」[pcms]
+[ns]Arai[nse]
+"...gulp"[pcms]
 
 *680|
 [fc]
 [vo_nat s="natu_st0038"]
-[ns]夏都[nse]
-「早く。ほかのみんなは、オカズにしてなっ！」[pcms]
+[ns]Natsu[nse]
+"Hurry up. The rest of you can use this as your fap material!"[pcms]
 
 *681|
 [fc]
-どよめきながらも、一斉にパンツを下ろし、全員が自分の[r]
-ちんこを握りしめた。[pcms]
+Amidst the murmurs, everyone simultaneously pulled down their pants[r]
+and gripped their cocks.[pcms]
 
 *682|
 [fc]
-なかなかの壮観！[r]
-ぜんぶ、いただいちゃおうっと。[pcms]
+Quite a sight! I'll take them all.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -556,112 +554,116 @@
 
 *683|
 [fc]
-[ns]荒井[nse]
-「はぶっ……」[pcms]
+[ns]Arai[nse]
+"Habu..."[pcms]
 
 [evcg storage="natu_H012c"][trans_c cross time=150]
 
 *684|
 [fc]
 [vo_nat s="natu_st0039"]
-[ns]夏都[nse]
-「うああっ、いいっ、いいじゃんっ！」[pcms]
+[ns]Natsu[nse]
+"Ahh, that's good, that's really good!"[pcms]
 
 [evcg storage="natu_H012d"][trans_c cross time=150]
 
 *685|
 [fc]
-[ns]荒井[nse]
-「んぢゅっっれろおっべろ……」[pcms]
+[ns]Arai[nse]
+"Nnju...slurp...lick..."[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
 
 *686|
 [fc]
-オレのまんこぜんぶ口にいれる勢いで、あちこち舐め回してる。[r]
-時々クリに当たって、オレの身体はビクンと反応した。[pcms]
+He was licking all over my pussy with such vigor as if he wanted to[r]
+take it all into his mouth. Occasionally, he hit my clit, and my body[r]
+jerked in response.[pcms]
 
 [evcg storage="natu_H012e"][trans_c cross time=150]
 
 *687|
 [fc]
 [vo_nat s="natu_st0040"]
-[ns]夏都[nse]
-「んあっ、いいっ、いいよ。でも、もっとクリを舐め転がしてよ」[pcms]
+[ns]Natsu[nse]
+"Nn, that's good, that's really good. But, lick and roll my clit[r]
+more."[pcms]
 
 *688|
 [fc]
-[ns]荒井[nse]
-「は、はいっ……んぢゅう。れうれろれるれおれるれろ」[pcms]
+[ns]Arai[nse]
+"Yes...nnjuu. Lick...licklicklick..."[pcms]
 
 *689|
 [fc]
 [vo_nat s="natu_st0041"]
-[ns]夏都[nse]
-「んあああ、そ、そう、うまいよ。そういう感じでっ！[r]
-　ああ、クリ尖ってきただろ？　あっ、ああっ、いい、いいよ」[pcms]
+[ns]Natsu[nse]
+"Nnnaaah, yes, that's it, you're doing great. Just like that! Ah, you[r]
+can feel my clit getting hard, right? Ahh, ahh, that's good, that's[r]
+really good."[pcms]
 
 *690|
 [fc]
-[ns]荒井[nse]
-「れるれろれるれる、んぢゅう」[pcms]
+[ns]Arai[nse]
+"Licklicklick...nnjuu"[pcms]
 
 *691|
 [fc]
 [vo_nat s="natu_st0042"]
-[ns]夏都[nse]
-「ああっ、あっ、いいっ。うまくなってきたよっ！[r]
-　もっと、もっと、激しくっ！　もっと、もっとぉ」[pcms]
+[ns]Natsu[nse]
+"Ahh, ahh, that's good. You're getting better at this! More, more, do[r]
+it harder! More, more!"[pcms]
 
 *692|
 [fc]
-[ns]荒井[nse]
-「んれろれろれろれろ……んぢゅぢゅぢゅぢゅぢゅっ」[pcms]
+[ns]Arai[nse]
+"Licklicklicklick...nnjujujujujuj!"[pcms]
 
 *693|
 [fc]
 [vo_nat s="natu_st0043"]
-[ns]夏都[nse]
-「ひあっ、それ、それいい。舐め転がし……あっ、ながら、[r]
-　吸って、吸って。クリいじめてっ！」[pcms]
+[ns]Natsu[nse]
+"Hiaa, that's it, that's the spot. Roll it with your tongue...ahh,[r]
+while sucking, suck on it. Tease my clit!"[pcms]
 
 *694|
 [fc]
-[ns]荒井[nse]
-「……っ、んぢゅうぢゅうっれるれるれるれる」[pcms]
+[ns]Arai[nse]
+"...nnjuujuujuu licklicklicklick"[pcms]
 
 *695|
 [fc]
 [vo_nat s="natu_st0044"]
-[ns]夏都[nse]
-「ああ、あああ、いいっ、んはあ、いいっ、あっ、あっあっ」[pcms]
+[ns]Natsu[nse]
+"Ahh, ahhh, that's good, nhaa, that's so good, ahh, ahhahh"[pcms]
 
 *696|
 [fc]
 [vo_nat s="natu_st0045"]
-[ns]夏都[nse]
-「あああっ、もっと、もっとなぶって。クリいじめてっ！[r]
-　あひっ、転がしてぇ、吸ってぇ、あっ、あああっあっ」[pcms]
+[ns]Natsu[nse]
+"Ahhh, more, tease me more. Tease my clit! Ahii, roll it around, suck[r]
+on it, ahh, ahhahhahh"[pcms]
 
 *697|
 [fc]
 [vo_nat s="natu_st0046"]
-[ns]夏都[nse]
-「いい、いいよ、上手いよ、上手くなってきて……ああひいぃっ、[r]
-　あっあっあっあっあっ、イく、あっ、クリでイきそうっ」[pcms]
+[ns]Natsu[nse]
+"That's good, you're doing great, you're getting so good at[r]
+this...ahhiiii, ahhahhahhahhahhahh, I'm going to come, ahh, I'm going[r]
+to come from my clit!"[pcms]
 
 *698|
 [fc]
-[ns]荒井[nse]
-「！！　んちゅうううううっ、れれれるううれるれるれろっ」[pcms]
+[ns]Arai[nse]
+"!! Nnchuoooooo...licklicklick ooo licklicklick"[pcms]
 
 *699|
 [fc]
 [vo_nat s="natu_st0047"]
-[ns]夏都[nse]
-「あっ、あっ、あっ、イくっ、イくっクリだけで、ああっ、あっ[r]
-　イっちゃう、イくぅ、イっっっくううっ！！！」[pcms]
+[ns]Natsu[nse]
+"Ahh, ahh, ahh, I'm coming, I'm coming just from my clit, ahh, ahh I'm[r]
+cumming, I'm cuuummming!!!"[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -669,13 +671,13 @@
 *700|
 [fc]
 [vo_nat s="natu_st0048"]
-[ns]夏都[nse]
-「んはああ……あっ、ああっ、気持ちいい……」[pcms]
+[ns]Natsu[nse]
+"Nhaaa...ahh, ahh, that feels so good..."[pcms]
 
 *701|
 [fc]
-[ns]荒井[nse]
-「はあ……はあ……すげ－、いっぱいぬるぬるが……」[pcms]
+[ns]Arai[nse]
+"Haa...haa...wow, there's so much slippery stuff..."[pcms]
 
 ;//seフェード停止
 [stopse buf=1]
@@ -684,57 +686,58 @@
 *702|
 [fc]
 [vo_nat s="natu_st0049"]
-[ns]夏都[nse]
-「あ、ああ……だって、イったんだから……んっ、あっ。[r]
-　はあ……オンナ、イかせたの……んっ……初めて？」[pcms]
+[ns]Natsu[nse]
+"Ah, ahh...well of course...I just came...nhh, ahh. Haa...Is this your[r]
+first time making a girl come?"[pcms]
 
 *703|
 [fc]
-[ns]荒井[nse]
-「…………はい。その……童貞ですから」[pcms]
+[ns]Arai[nse]
+"...Yes. That...I'm a virgin."[pcms]
 
 *704|
 [fc]
 [vo_nat s="natu_st0050"]
-[ns]夏都[nse]
-「ほんとに？　うふふ。もしかして、みんなも童貞？」[pcms]
+[ns]Natsu[nse]
+"Really? Ufufu. Maybe all of you are virgins?"[pcms]
 
 *705|
 [fc]
-オレを取り囲んでいた連中が、ちんこを握りしめながら[r]
-こくこくと頷いていた。[pcms]
+All the guys surrounding me nodded vigorously while gripping their[r]
+cocks.[pcms]
 
 *706|
 [fc]
 [vo_nat s="natu_st0051"]
-[ns]夏都[nse]
-「じゃあ、みんなオレの身体使って、卒業してなっ！」[pcms]
+[ns]Natsu[nse]
+"Then let's all use my body and graduate from virginity!"[pcms]
 
 *707|
 [fc]
-[ns]部員一同[nse]
-「おおおおっ！」[pcms]
+[ns]All members[nse]
+"Oooooh!"[pcms]
 
 *708|
 [fc]
-歓喜の声が気持ちいい。すげ～誰かに見られてるって、快感だ。[pcms]
+Their voices of joy felt good. It's such a thrill to be watched by[r]
+someone.[pcms]
 
 *709|
 [fc]
 [vo_nat s="natu_st0052"]
-[ns]夏都[nse]
-「じゃあ、続き、早くしよっ！」[pcms]
+[ns]Natsu[nse]
+"Now then, let's hurry up and continue!"[pcms]
 
 *710|
 [fc]
-[ns]荒井[nse]
-「は、はい。挿れて……いいですか？」[pcms]
+[ns]Arai[nse]
+"Yes. Can I insert it...is that okay?"[pcms]
 
 *711|
 [fc]
 [vo_nat s="natu_st0053"]
-[ns]夏都[nse]
-「早く、挿れて……」[pcms]
+[ns]Natsu[nse]
+"Hurry up and put it in..."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -742,168 +745,168 @@
 
 *712|
 [fc]
-ずぶり……と、硬くて若いちんこがオレの中に突っ込まれた。[pcms]
+With a plunge...a hard young cock was thrust into me.[pcms]
 
 *713|
 [fc]
 [vo_nat s="natu_st0054"]
-[ns]夏都[nse]
-「ああああっ！」[pcms]
+[ns]Natsu[nse]
+"Aaaaah!"[pcms]
 
 *714|
 [fc]
-[ns]荒井[nse]
-「うおおおっ、すげっ、すげっ、まとわりつくっ！」[pcms]
+[ns]Arai[nse]
+"Uooooh, amazing, amazing, it's clinging to me!"[pcms]
 
 *715|
 [fc]
 [vo_nat s="natu_st0055"]
-[ns]夏都[nse]
-「あああっ、熱いっ、あっ、すっごい硬くていいちんこじゃんっ。[r]
-　早く、早く動いて突いてよっ！」[pcms]
+[ns]Natsu[nse]
+"Aaahh, it's hot, ahh, such a nice hard cock. Move faster, thrust[r]
+harder!"[pcms]
 
 *716|
 [fc]
-[ns]荒井[nse]
-「はいっ、はいっ！　行きますっ！」[pcms]
+[ns]Arai[nse]
+"Yes! Yes! Here I go!"[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *717|
 [fc]
-顔を真っ赤にしながら、ソイツは腰を振り出した。[pcms]
+His face turned bright red as he started to thrust his hips.[pcms]
 
 *718|
 [fc]
 [vo_nat s="natu_st0056"]
-[ns]夏都[nse]
-「ああっ、ああっ、いいっ、すごいよっ。[r]
-　童貞なのに、うまいじゃん。もっと、もっと突いて。[r]
-　んっ、ああ、いいっ、いいっ、気持ちいいっ」[pcms]
+[ns]Natsu[nse]
+"Aahh, aahh, that's good, you're amazing. Even though you're a virgin[r]
+you're doing great. More, thrust more. Nnhh, ahh, that's good, that[r]
+feels so good."[pcms]
 
 *719|
 [fc]
-[ns]荒井[nse]
-「…………っ！」[pcms]
+[ns]Arai[nse]
+"...!"[pcms]
 
 *720|
 [fc]
 [vo_nat s="natu_st0057"]
-[ns]夏都[nse]
-「ああ、もっとかき混ぜてえ。好きにしていいんだからっ、[r]
-　あっ、ああっ、もっとずんずんって。奥まで……んああっ」[pcms]
+[ns]Natsu[nse]
+"Ahh, stir me up more. You can do whatever you want with me. Ahh,[r]
+ahhh, do it more vigorously. Deeper...nhaaah"[pcms]
 
 *721|
 [fc]
-[ns]荒井[nse]
-「くそ……っ」[pcms]
+[ns]Arai[nse]
+"Damn...!"[pcms]
 
 *722|
 [fc]
-シてる最中に、ふさわしくない言葉。[r]
-オレは感じながらも、ソイツの顔をじっとみた。[pcms]
+Such inappropriate words during the act. Even as I felt it, I looked[r]
+straight at his face.[pcms]
 
 *723|
 [fc]
 [vo_nat s="natu_st0058"]
-[ns]夏都[nse]
-「なに？　あっ、うあっ、何か、あった？　むしゃくしゃ[r]
-　しちゃって……るの？　かな？」[pcms]
+[ns]Natsu[nse]
+"What? Ahh, uahh, is something wrong? Are you feeling frustrated...[r]
+maybe?"[pcms]
 
 *724|
 [fc]
-[ns]荒井[nse]
-「……うっ……うう」[pcms]
+[ns]Arai[nse]
+"...uh...uhh"[pcms]
 
 *725|
 [fc]
-ソイツは、歯を食いしばりながら、頷いた。[pcms]
+He nodded while clenching his teeth.[pcms]
 
 *726|
 [fc]
-どうやら、オレの中って、結構気持ちいいみたいだ。[r]
-さっき以上に上気して耳まで赤くなってる。[r]
-腰のふりざまに、必死さが出ていた。[pcms]
+It seems that my insides feel pretty good to him. His ears turned even[r]
+redder than before, and there was a sense of desperation in the way he[r]
+swung his hips.[pcms]
 
 *727|
 [fc]
 [vo_nat s="natu_st0059"]
-[ns]夏都[nse]
-「いいよ。オレのまんこで、思いっきり、発散してよっ。[r]
-　な、オレも発散……させて、もらうか……らっ！」[pcms]
+[ns]Natsu[nse]
+"It's okay. Use my pussy to let it all out. I'll...let myself go[r]
+too...ahh!"[pcms]
 
 *728|
 [fc]
-[ns]荒井[nse]
-「……っ、くっ……！」[pcms]
+[ns]Arai[nse]
+"...uh, gah...!"[pcms]
 
 *729|
 [fc]
-突然スピードがあがる。パンパンと尻を打ち付ける音が[r]
-ぐぢゅぐぢゅいう隠微な音と共に、部屋にあふれ出した。[pcms]
+The speed suddenly increased. The sound of his hips slapping against[r]
+my ass filled the room, accompanied by the lewd squelching noise.[pcms]
 
 *730|
 [fc]
-[ns]荒井[nse]
-「んおおっ！」[pcms]
+[ns]Arai[nse]
+"Ngh, ohh!"[pcms]
 
 *731|
 [fc]
 [vo_nat s="natu_st0060"]
-[ns]夏都[nse]
-「あっ、あっ、ああっ、あひっ、いいっ、すごっ、凄いっ！[r]
-　ぶつけてっ、ぶつけてっ、ちんこ、奥にぶつけてっ！」[pcms]
+[ns]Natsu[nse]
+"Ah, ah, ahh, ahi, that's good, amazing! Keep hitting it, keep hitting[r]
+it, your cock, hit it deeper!"[pcms]
 
 *732|
 [fc]
 [vo_nat s="natu_st0061"]
-[ns]夏都[nse]
-「あ、いい、もっと、もっと、突いてっ！　奥、奥までっ！[r]
-　まんこ、擦って、もっと、もっと、あっ、ああっ、いいっ」[pcms]
+[ns]Natsu[nse]
+"Ah, good, more, more, thrust! Deeper, all the way! Rub my pussy,[r]
+more, more, ah, ahh, that's good"[pcms]
 
 *733|
 [fc]
-[ns]荒井[nse]
-「ん……くぅ！」[pcms]
+[ns]Arai[nse]
+"Nn...guh!"[pcms]
 
 *734|
 [fc]
 [vo_nat s="natu_st0062"]
-[ns]夏都[nse]
-「出していいからねっ、あっ、ああっ、好きにしてっ、いいからっ[r]
-　あっ、ああっ、いいっ、感じるっ、もっと、もっと、突いてぇ」[pcms]
+[ns]Natsu[nse]
+"It's okay to cum inside, ah, ahh, do as you like, it's okay. Ah, ahh,[r]
+that's good, I'm feeling it, more, more, thrust harder"[pcms]
 
 *735|
 [fc]
 [vo_nat s="natu_st0063"]
-[ns]夏都[nse]
-「ああ、いいっ、ちんこに擦られて、オレのまんこ、あっ、ああっ、[r]
-　すっごく、気持ちいいっ、あっ、もっと、もっと、もっとぉっ！」[pcms]
+[ns]Natsu[nse]
+"Ah, that's good, my pussy is getting rubbed by your cock, ah, ahh, it[r]
+feels so good, ah, more, more, more!"[pcms]
 
 *736|
 [fc]
-[ns]荒井[nse]
-「……っ！」[pcms]
+[ns]Arai[nse]
+"...!"[pcms]
 
 *737|
 [fc]
 [vo_nat s="natu_st0064"]
-[ns]夏都[nse]
-「いい、いいよ。まんこ、ぐぢゅぐぢゅにしてっ。もっと、[r]
-　もっと、突いて、突きまくって、好きにしてっ！」[pcms]
+[ns]Natsu[nse]
+"Good, good. Make my pussy squelch. More, more, thrust and pound me as[r]
+you like!"[pcms]
 
 *738|
 [fc]
 [vo_nat s="natu_st0065"]
-[ns]夏都[nse]
-「好きにしてっ！　オレのまんこ、ちんこで、ちんこでっ！[r]
-　あっ、ああっ、いいっ、いいっ、突いて、もっと擦ってぇ」[pcms]
+[ns]Natsu[nse]
+"Do as you like! With my pussy, with your cock! Ahh, ahh, that's good,[r]
+that's good, thrust and rub more"[pcms]
 
 *739|
 [fc]
-[ns]荒井[nse]
-「ん……くううっ！！！」[pcms]
+[ns]Arai[nse]
+"Nn...guuuh!!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -914,59 +917,57 @@
 
 *740|
 [fc]
-急にソイツの腰は動きを止め、オレのまんこに押しつけられた。[r]
-まんこの中が熱くなる。[pcms]
+Suddenly he stopped moving his hips and pressed against my pussy. I[r]
+could feel the heat inside.[pcms]
 
 *741|
 [fc]
-精液が凄い勢いで、びゅうびゅうとオレに注がれてるのが[r]
-感じられた。[pcms]
+I could feel his semen shooting inside me with incredible force.[pcms]
 
 *742|
 [fc]
-[ns]荒井[nse]
-「う……んぅ！」[pcms]
+[ns]Arai[nse]
+"Uh...nngh!"[pcms]
 
 *743|
 [fc]
 [vo_nat s="natu_st0066"]
-[ns]夏都[nse]
-「……ふふ。気持ち良かった？」[pcms]
+[ns]Natsu[nse]
+"...hehe. Did it feel good?"[pcms]
 
 *744|
 [fc]
-[ns]荒井[nse]
-「…………」[pcms]
+[ns]Arai[nse]
+"..."[pcms]
 
 *745|
 [fc]
-ソイツは、無言でぶんぶんと頭を上下にした。[r]
-なんだか素振りが誠と重なる。すっげぇカワイイ。[pcms]
+He nodded vigorously without saying a word. His gestures somehow[r]
+reminded me of Makoto. He's so damn cute.[pcms]
 
 *746|
 [fc]
 [vo_nat s="natu_st0067"]
-[ns]夏都[nse]
-「オレも気持ち良かったよ。これで、童貞卒業だな」[pcms]
+[ns]Natsu[nse]
+"I felt good too. With this, you've graduated from being a virgin."[pcms]
 
 *747|
 [fc]
-[ns]部員１[nse]
-「中出し？　中出しもいいんですか？！　お姉さんっ！」[pcms]
+[ns]Club Member 1[nse]
+"Creampie? Is it okay to creampie too?! Big sister!"[pcms]
 
 *748|
 [fc]
 [vo_nat s="natu_st0068"]
-[ns]夏都[nse]
-「当たり前だろ？　どこでも好きな場所に、好きなだけ[r]
-　出していいぜっ！」[pcms]
+[ns]Natsu[nse]
+"Of course! You can cum anywhere you like as much as you want!"[pcms]
 
 [evcg storage="natu_H012h"][trans_c cross time=150]
 
 *749|
 [fc]
-[ns]荒井[nse]
-「……はぁ」[pcms]
+[ns]Arai[nse]
+"...haah"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -974,65 +975,63 @@
 
 *750|
 [fc]
-ソイツがちんこを引き抜くと、思ってた以上の精液が[r]
-オレの中から零れだした。[pcms]
+When he pulled out his cock, more semen than I expected spilled out[r]
+from inside me.[pcms]
 
 *751|
 [fc]
-[ns]部員達[nse]
-「おおーっ、すっげー量っ！」[pcms]
+[ns]Club Members[nse]
+"Whoa-! That's a lot!"[pcms]
 
 [evcg storage="natu_H012k"][trans_c cross time=150]
 
 *752|
 [fc]
 [vo_nat s="natu_st0069"]
-[ns]夏都[nse]
-「ほんと、すげー量だな。それにすっごい濃そう。[r]
-　なんか、嬉しいぞ。オレのまんこで気持ち良くなって、[r]
-　こんなに出してくれただんだもんな」[pcms]
+[ns]Natsu[nse]
+"Really, that's a lot. And it looks super thick. I'm kinda happy about[r]
+it. You felt so good in my pussy that you came this much."[pcms]
 
 *753|
 [fc]
-[ns]部員１[nse]
-「な、なあ荒井。ど、どうだった？」[pcms]
+[ns]Club Member 1[nse]
+"Hey Arai. How was it?"[pcms]
 
 *754|
 [fc]
-[ns]荒井[nse]
-「え？　あ、すっごく気持ち良かった。オナニーなんかの[r]
-　比じゃないし、お姉さんの中、暖かくて、ぬめってて、[r]
-　それで、俺のちんぽ、ぎゅうぎゅう締め付けてきて……」[pcms]
+[ns]Arai[nse]
+"Eh? Oh, it felt amazing. It's nothing like masturbation. Big sister's[r]
+insides are warm and slippery and... they squeezed my cock so[r]
+tight..."[pcms]
 
 *755|
 [fc]
-[ns]部員２[nse]
-「うおっ、おおおっ、その話聞いただけでっ！」[pcms]
+[ns]Club Member 2[nse]
+"Whoa! Just hearing that story...!"[pcms]
 
 *756|
 [fc]
-[ns]部員３[nse]
-「お、おれも、た、たまらんっ！！」[pcms]
+[ns]Club Member 3[nse]
+"I-I can't take it anymore!!"[pcms]
 
 *757|
 [fc]
-握ったちんぽを擦る速さが、すっげー上がった。[pcms]
+The speed at which they rubbed their cocks increased dramatically.[pcms]
 
 *758|
 [fc]
 [vo_nat s="natu_st0070"]
-[ns]夏都[nse]
-「な、なあ。もったいないから、オレにかけろっ！[r]
-　ぶっかけてくれっ！　どこでもいいからさっ！」[pcms]
+[ns]Natsu[nse]
+"Hey. Don't waste it; give it to me! Bukkake me! Anywhere is fine!"[pcms]
 
 *759|
 [fc]
-[ns]部員達[nse]
-「うおおおおっっ！！　やってみたかったんだーーっ！！」[pcms]
+[ns]Club Members[nse]
+"Uooooh!! I've always wanted to try this!!"[pcms]
 
 *760|
 [fc]
-歓喜の声を上げながら、連中は一斉にぶっ放した。[pcms]
+With shouts of joy, they all let loose at once.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -1047,43 +1046,42 @@
 *761|
 [fc]
 [vo_nat s="natu_st0071"]
-[ns]夏都[nse]
-「すげー。すげえな、みんな」[pcms]
+[ns]Natsu[nse]
+"Wow. That's amazing guys."[pcms]
 
 [evcg storage="natu_H012s"][trans_c cross time=300]
 
 *762|
 [fc]
-オレのおっぱいや、太もも、尻めがけて、どろっとした[r]
-精液が、雨あられと降ってくる。[pcms]
+Semen thickly rained down on my breasts, thighs, and ass.[pcms]
 
 [evcg storage="natu_H012t"][trans_c cross time=150]
 
 *763|
 [fc]
 [vo_nat s="natu_st0072"]
-[ns]夏都[nse]
-「ふわああ。さすが運動部だな……」[pcms]
+[ns]Natsu[nse]
+"Wow. As expected of the sports club..."[pcms]
 
 *764|
 [fc]
-オレの焼けた肌は、あっつくて白い精液で、デコレーションされた。[pcms]
+My sunburnt skin was decorated with hot, white semen.[pcms]
 
 *765|
 [fc]
 [vo_nat s="natu_st0073"]
-[ns]夏都[nse]
-「ああ……たまんない。なあ、もっと遠慮無くやっていいんだぜ。[r]
-　ぶっかけも、オレのまんこに挿れるのも。ほら、次は？」[pcms]
+[ns]Natsu[nse]
+"Aah... I can't get enough. Don't hold back, okay? Bukkake me, or[r]
+stick it in my pussy. Come on, who's next?"[pcms]
 
 *766|
 [fc]
-オレは、早くシて欲しくて堪らなかった。[pcms]
+I was desperate for them to do it quickly.[pcms]
 
 *767|
 [fc]
-[ns]部員１[nse]
-「おれ、挿れたいです」[pcms]
+[ns]Club Member 1[nse]
+"I want to put it in."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -1091,162 +1089,160 @@
 
 *768|
 [fc]
-そう言いながら、ソイツは、今出したばっかなのに硬くなってる[r]
-ちんこをまんこに突っ込んできた。[pcms]
+As he said that, he thrust his cock, which had just gotten hard again,[r]
+into my pussy.[pcms]
 
 *769|
 [fc]
-[ns]部員１[nse]
-「すげえ締まるぅ、うわあ……おまんこの中って、想像以上に[r]
-　気持ちい～」[pcms]
+[ns]Club Member 1[nse]
+"It's so tight, wow... the inside of a pussy feels better than I[r]
+imagined!"[pcms]
 
 *770|
 [fc]
 [vo_nat s="natu_st0074"]
-[ns]夏都[nse]
-「鍛えてるからな、もっと締めてやる」[pcms]
+[ns]Natsu[nse]
+"I've been training it, so I'll squeeze even tighter."[pcms]
 
 *771|
 [fc]
-オレは腹筋や八の字筋を使って、膣を蠢動させた。[pcms]
+I used my abdominal and figure-eight muscles to make my vagina[r]
+undulate.[pcms]
 
 *772|
 [fc]
-[ns]部員１[nse]
-「うわあっ、だめ、だめです。千切れるぅ。出ちゃいますぅ」[pcms]
+[ns]Club Member 1[nse]
+"Whoa, no, no, it's too much. It's going to tear. I'm gonna cum!"[pcms]
 
 *773|
 [fc]
 [vo_nat s="natu_st0075"]
-[ns]夏都[nse]
-「がんばれよ！　オレを気持ち良くさせなきゃだめだろっ！[r]
-　運動部だろ？　ほら、早く動いて突いてくれっ！」[pcms]
+[ns]Natsu[nse]
+"Hang in there! You have to make me feel good! You're in the sports[r]
+club, right? Come on, move faster and thrust harder!"[pcms]
 
 *774|
 [fc]
-[ns]部員１[nse]
-「は、はい。がんば……りまっ……うううっ」[pcms]
+[ns]Club Member 1[nse]
+"Yes, I'll try my be...st... ughhh!"[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *775|
 [fc]
-ようやく腰が動き出し、オレのまんこは、嬉しそうに[r]
-またうごめいた。[pcms]
+Finally, his hips began to move, and my pussy happily writhed again.[pcms]
 
 [evcg storage="natu_H012x"][trans_c cross time=150]
 
 *776|
 [fc]
 [vo_nat s="natu_st0076"]
-[ns]夏都[nse]
-「ああっ、いいぞ、いいよ。もっとだ、もっと深く、深く[r]
-　突きまくってっ！　もっと、もっと、ああっ、いいっ」[pcms]
+[ns]Natsu[nse]
+"Aah, that's good, that's the way. More, deeper, pound me harder![r]
+More, more, aah, that's good!"[pcms]
 
 *777|
 [fc]
-[ns]部員２[nse]
-「僕は、おっぱいでお願いします」[pcms]
+[ns]Club Member 2[nse]
+"I'd like to do it between your breasts, please."[pcms]
 
 *778|
 [fc]
-そういいながら、ソイツは、オレのおっぱいに、垂直に[r]
-自分のちんぽを突き挿れてきた。[pcms]
+While saying that, he thrust his cock vertically into my breasts.[pcms]
 
 *779|
 [fc]
-[ns]部員２[nse]
-「ふああ、やらけ～。でも弾力があって、すげ～」[pcms]
+[ns]Club Member 2[nse]
+"Fuaah, it's so soft. But it's also really elastic, amazing!"[pcms]
 
 *780|
 [fc]
-ソイツが腰を動かしだすと、ちんこが乳首を擦りだした。[r]
-ピンとオレの乳首は勃起して、より感度が高まり、[r]
-ちんぽで擦られる度に、まんこからとろとろと汁が溢れた。[pcms]
+As he started moving his hips, his cock began to rub against my[r]
+nipples. My nipples were erect and became even more sensitive; every[r]
+time his cock rubbed against them, my pussy overflowed with juices.[pcms]
 
 *781|
 [fc]
 [vo_nat s="natu_st0077"]
-[ns]夏都[nse]
-「んああっ、あっ、いい、いい感じっ！　ああっ、あっ、[r]
-　まんこ擦られてっ、乳首も擦られてっ、ああっ、いいっ！」[pcms]
+[ns]Natsu[nse]
+"Nnnaahh, ah, that feels good! Aahh, my pussy and nipples are being[r]
+rubbed, aahh, that's good!"[pcms]
 
 *782|
 [fc]
-[ns]部員１[nse]
-「すごい、とろとろ溢れてるのに、ぎちぎち締め付けて[r]
-　きてます。うっ、ううっ……」[pcms]
+[ns]Club Member 1[nse]
+"It's amazing how it's overflowing yet still gripping tightly. Ugh,[r]
+uhh..."[pcms]
 
 *783|
 [fc]
-[ns]部員２[nse]
-「おっぱい気持ちいい～。お姉さんの乳首が当たって、[r]
-　こんな刺激初めてです……んはあ……」[pcms]
+[ns]Club Member 2[nse]
+"Your breasts feel so good. Your nipples hitting me like this is a[r]
+first-time sensation... nhaa..."[pcms]
 
 *784|
 [fc]
 [vo_nat s="natu_st0078"]
-[ns]夏都[nse]
-「オレも、オレも気持ちいいぞっ……もっと、もっとだ。[r]
-　もっと、擦って。もっと突いてっ！　ああっ、いいっ、[r]
-　いいっ、もっと、もっと、もっとぉ、激しくぅっ！！」[pcms]
+[ns]Natsu[nse]
+"I feel good too... more, more! Rub more. Thrust harder! Aahh, that's[r]
+good, good, more, more, more intensely!!"[pcms]
 
 *785|
 [fc]
-[ns]部員１[nse]
-「うっくうっ……っ！」[pcms]
+[ns]Club Member 1[nse]
+"Ughh...!"[pcms]
 
 *786|
 [fc]
-[ns]部員２[nse]
-「うはっ……っ！」[pcms]
+[ns]Club Member 2[nse]
+"Uhaa...!"[pcms]
 
 *787|
 [fc]
-ふたりともカワイイ。顔を真っ赤にして、必死にオレを[r]
-気持ち良くさせようと、頑張ってる。[pcms]
+Both of them are cute. Their faces are red with effort as they[r]
+desperately try to make me feel good.[pcms]
 
 *788|
 [fc]
 [vo_nat s="natu_st0079"]
-[ns]夏都[nse]
-「いい、いいよっ。もっと、もっとぉ、擦ってっ！[r]
-　擦ってぇ！　まんこの中も、乳首もぉっ、ああっいいっ！」[pcms]
+[ns]Natsu[nse]
+"Good, good! More, more, rub it! Rub it! Both my pussy and nipples,[r]
+aahh that's good!"[pcms]
 
 *789|
 [fc]
 [vo_nat s="natu_st0080"]
-[ns]夏都[nse]
-「まんこずるずるにしてぇ、乳首もびんびんにしてぇっ！[r]
-　突いてぇ、擦ってぇっ！　もっと、もっとぉぉっ、ああっ」[pcms]
+[ns]Natsu[nse]
+"Make my pussy sloppy and my nipples rock hard! Thrust and rub! More,[r]
+moreee, aahh!"[pcms]
 
 *790|
 [fc]
-[ns]部員１[nse]
-「……っ！」[pcms]
+[ns]Club Member 1[nse]
+"...!"[pcms]
 
 *791|
 [fc]
-[ns]部員２[nse]
-「……っ！」[pcms]
+[ns]Club Member 2[nse]
+"...!"[pcms]
 
 *792|
 [fc]
 [vo_nat s="natu_st0081"]
-[ns]夏都[nse]
-「ああっ、熱いぃ、まんこの中も、乳首もっ。ああっ、ちんぽで[r]
-　擦られて、いいよぉ、いい、ああっ、あっあああああっ」[pcms]
+[ns]Natsu[nse]
+"Aahh, it's hot, both inside my pussy and on my nipples. Aahh, being[r]
+rubbed by a cock feels so good, good, aahh aaaaahhh!"[pcms]
 
 *793|
 [fc]
-[ns]部員１[nse]
-「っ！！！」[pcms]
+[ns]Club Member 1[nse]
+"!!!"[pcms]
 
 *794|
 [fc]
-[ns]部員２[nse]
-「！！！」[pcms]
+[ns]Club Member 2[nse]
+"!!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1264,24 +1260,24 @@
 *795|
 [fc]
 [vo_nat s="natu_st0082"]
-[ns]夏都[nse]
-「ああああっ、熱い、熱いぃ、精液で熱いっ！[r]
-　まんこの中もっ！　おっぱいもぉぉっ！！　あああっ！」[pcms]
+[ns]Natsu[nse]
+"Aaaaahh! It's hot, so hot with semen! Inside my pussy! On my[r]
+breasts!! Aaaahh!"[pcms]
 
 *796|
 [fc]
-[ns]部員１[nse]
-「んうっぅぅ……はあっ、はっ、はあ……」[pcms]
+[ns]Club Member 1[nse]
+"Nnghh... haa, hah, haa..."[pcms]
 
 *797|
 [fc]
-[ns]部員２[nse]
-「はひゃ……はっ、はっ……」[pcms]
+[ns]Club Member 2[nse]
+"Hahya... hah, hah..."[pcms]
 
 *798|
 [fc]
-[ns]部員達[nse]
-「うおおおおっ！　すげえっ！　すげえーーっ！」[pcms]
+[ns]Club Members[nse]
+"Uoooooh! Amazing! So amazing--!"[pcms]
 
 [evcg storage="natu_H012u"][trans_c cross time=150]
 
@@ -1299,25 +1295,25 @@
 *799|
 [fc]
 [vo_nat s="natu_st0083"]
-[ns]夏都[nse]
-「あははは。あはは。また濃くて臭い精液の雨だ～」[pcms]
+[ns]Natsu[nse]
+"Ahahaha. Ahaha. It's another shower of thick and smelly semen~"[pcms]
 
 *800|
 [fc]
-オレは、精液をぶっかけられるたび、臭いを嗅ぐたび、[r]
-なんだか、楽しくてしかたがなくなってきていた。[pcms]
+Every time I was splattered with semen and smelled it, I couldn't help[r]
+but feel joy.[pcms]
 
 *801|
 [fc]
-頭が熱い。脳の温度が上がってきてる気がした。[pcms]
+My head felt hot. It felt like the temperature in my brain was rising.[pcms]
 
 ;//■イベントCG　natu_H013(6k)
 [evcg storage="natu_H013a"][trans_c cross time=300]
 
 *802|
 [fc]
-[ns]部員３[nse]
-「お、お姉さん。お、おぱい、おぱいでお願いします……」[pcms]
+[ns]Club Member 3[nse]
+"Big sister. Please let me do it between your breasts..."[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013b"][trans_c cross time=300]
@@ -1325,18 +1321,17 @@
 *803|
 [fc]
 [vo_nat s="natu_st0084"]
-[ns]夏都[nse]
-「いいぜ～」[pcms]
+[ns]Natsu[nse]
+"Sure thing~"[pcms]
 
 *804|
 [fc]
-突き出された硬くて熱いちんぽをオレはおっぱいで[r]
-挟んでやった。[pcms]
+I sandwiched the hard, hot dick that was thrust out with my breasts.[pcms]
 
 *805|
 [fc]
-[ns]部員３[nse]
-「おはあああ。やわらかい～、肌がおれのに吸い付く～」[pcms]
+[ns]Club Member 3[nse]
+"Ohhaaaa. So soft~ My skin is clinging to me~"[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013c"][trans_c cross time=300]
@@ -1344,43 +1339,43 @@
 *806|
 [fc]
 [vo_nat s="natu_st0085"]
-[ns]夏都[nse]
-「こーすると、もっと気持ちいいんだろ？」[pcms]
+[ns]Natsu[nse]
+"If I rub it like this, it feels even better, doesn't it?"[pcms]
 
 *807|
 [fc]
-オレはおっぱいを持って、ゆさゆさと揺さぶって、[r]
-ちんこを擦ってやる。[pcms]
+I held my breasts and shook them gently, rubbing the cock between[r]
+them.[pcms]
 
 *808|
 [fc]
-[ns]部員３[nse]
-「うはあ、おぱい、おぱい、最高～」[pcms]
+[ns]Club Member 3[nse]
+"Uhaa, breasts, breasts, they're the best~"[pcms]
 
 *809|
 [fc]
-[ns]部員４[nse]
-「俺は、ここで……」[pcms]
+[ns]Club Member 4[nse]
+"I'll do it right here..."[pcms]
 
 *810|
 [fc]
-[ns]部員５[nse]
-「じゃあ、おれこっち」[pcms]
+[ns]Club Member 5[nse]
+"Then, I'll take this side"[pcms]
 
 *811|
 [fc]
-おっぱいを持ってる両腕の脇の下から、新鮮なちんぽが[r]
-２本突き出された。[pcms]
+From under the arms holding my breasts, two fresh dicks were thrust[r]
+out.[pcms]
 
 *812|
 [fc]
-[ns]部員４[nse]
-「おほお、この脇乳が、たまらんっっ」[pcms]
+[ns]Club Member 4[nse]
+"Ohoo, this side boob, it's irresistible!"[pcms]
 
 *813|
 [fc]
-[ns]部員５[nse]
-「脇の下に挟まれて、至福～」[pcms]
+[ns]Club Member 5[nse]
+"Being squeezed under the armpit is bliss~"[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013d"][trans_c cross time=300]
@@ -1388,36 +1383,35 @@
 *814|
 [fc]
 [vo_nat s="natu_st0086"]
-[ns]夏都[nse]
-「オマエら、ほんっと、おっぱい好きだなー。[r]
-　いいぜ、好きに使いなっ。ほら、気持ち良くしてやる」[pcms]
+[ns]Natsu[nse]
+"You guys really love breasts, huh. Go ahead, use them as you like.[r]
+Here, I'll make it feel good for you."[pcms]
 
 *815|
 [fc]
-オレは、おっぱいを思いっきり揺さぶった。[r]
-精液まみれのオレのおっぱいと脇の下は、３本のちんぽを[r]
-景気よく擦り上げた。[pcms]
+I shook my breasts vigorously. My semen-covered breasts and armpits[r]
+vigorously rubbed against three dicks.[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013e"][trans_c cross time=300]
 
 *816|
 [fc]
-[ns]部員３[nse]
-「うは、うはあ、ぬるぬるのおっぱい、や～らかいおっぱいが」[pcms]
+[ns]Club Member 3[nse]
+"Uha, uhaa, the slippery breasts, the soft breasts"[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013f"][trans_c cross time=300]
 
 *817|
 [fc]
-[ns]部員４[nse]
-「亀頭に、当たります、お姉さん。ふやあ……」[pcms]
+[ns]Club Member 4[nse]
+"It's hitting the glans, big sister. Fuyaa..."[pcms]
 
 *818|
 [fc]
-[ns]部員５[nse]
-「うお、ぬるぬるなのに、締め付けが～」[pcms]
+[ns]Club Member 5[nse]
+"Uo, even though it's slippery, the tightness~"[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013c"][trans_c cross time=300]
@@ -1425,41 +1419,40 @@
 *819|
 [fc]
 [vo_nat s="natu_st0087"]
-[ns]夏都[nse]
-「まだまだーっ、もっとだよっ！」[pcms]
+[ns]Natsu[nse]
+"Not yet, more! More!"[pcms]
 
 *820|
 [fc]
-オレはおっぱいを微妙にひしゃげさせながら、ぐにぐにと揉む。[r]
-同時に揺さぶって、３本のちんぽを身体で堪能してた。[pcms]
+I squeezed my breasts slightly and kneaded them. At the same time, I[r]
+shook them and enjoyed the three dicks with my body.[pcms]
 
 *821|
 [fc]
 [vo_nat s="natu_st0088"]
-[ns]夏都[nse]
-「んっ、あっ、オレもおっぱい気持ちいい……あっ、ああっ、[r]
-　乳首擦れるぅ、ちんぽ熱い……ああっ、あっ、オマエらも[r]
-　もっと、もっと自分で擦りつけてこいっっ！」[pcms]
+[ns]Natsu[nse]
+"Nn, ah, my breasts feel good too...ahh, ahh, my nipples are rubbing,[r]
+your dicks are hot...ahh, ah, you guys should rub more against them!"[pcms]
 
 *822|
 [fc]
-[ns]部員３[nse]
-「うは、うはあ……うは」[pcms]
+[ns]Club Member 3[nse]
+"Uha, uhaa...uha"[pcms]
 
 *823|
 [fc]
-[ns]部員４[nse]
-「ふぬうううっ……」[pcms]
+[ns]Club Member 4[nse]
+"Funuuu..."[pcms]
 
 *824|
 [fc]
-[ns]部員５[nse]
-「むくうう……」[pcms]
+[ns]Club Member 5[nse]
+"Mukuuu..."[pcms]
 
 *825|
 [fc]
-３本のちんぽが、オレのおっぱいを責めてくる。[r]
-オレも負けじと、おっぱいを揺さぶり続けた。[pcms]
+Three dicks were attacking my breasts. I also continued to shake my[r]
+breasts without losing.[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013b"][trans_c cross time=300]
@@ -1467,21 +1460,20 @@
 *826|
 [fc]
 [vo_nat s="natu_st0089"]
-[ns]夏都[nse]
-「んああっ、すっごく硬くなってきたあっ！　あっ、ああっ、[r]
-　擦れるぅ、んああっ、負けないぃっ、もっともっとだぁ」[pcms]
+[ns]Natsu[nse]
+"Nnaahh, they're getting so hard! Ahh, ahh, rubbing...nnaahh, I won't[r]
+lose, more and more!"[pcms]
 
 *827|
 [fc]
 [vo_nat s="natu_st0090"]
-[ns]夏都[nse]
-「あっ、ああんっ、あっ、熱いぃ、硬いぃ、く、くそぉっ[r]
-　ま、負けない。んああっ、あっ、ああっ、んぐうっ！」[pcms]
+[ns]Natsu[nse]
+"Ah, aahn! Hot, hard, damn it...I won't lose. Nnaahh, ah, ahh, nnguh!"[pcms]
 
 *828|
 [fc]
-熱い、熱い、熱い。おっぱいが発熱してるみたいだ。[r]
-おっぱいがこんなに気持ちいいなんて、思わなかった。[pcms]
+Hot, hot, hot. It's like my breasts are generating heat. I never[r]
+thought breasts could feel this good.[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013c"][trans_c cross time=300]
@@ -1489,32 +1481,31 @@
 *829|
 [fc]
 [vo_nat s="natu_st0091"]
-[ns]夏都[nse]
-「んおおっ、すっごいぃ、あっ！　あっ、ああっ、擦れる。[r]
-　３本のちんこで擦られて、あひいっ、おっぱいがおっぱいが」[pcms]
+[ns]Natsu[nse]
+"Nnoohh, amazing! Ah! Ahh, rubbing. Being rubbed by three dicks, ahi![r]
+My breasts, my breasts!"[pcms]
 
 *830|
 [fc]
 [vo_nat s="natu_st0092"]
-[ns]夏都[nse]
-「あっ、ああんっ、あっ、熱いぃ、ん、はああっ！　もっと、[r]
-　もっとめちゃくちゃに、突きまくれぇっ、あっ、ああっ、[r]
-　負けないんだからぁ、んああっ、あっ、ああっ、んあっ！」[pcms]
+[ns]Natsu[nse]
+"Ah, aahn! Ah! Hot! Nn, haaah! More, mess me up more, thrust harder![r]
+Ahh, ahh, I won't lose, nnaahh, ah, ahh!"[pcms]
 
 *831|
 [fc]
-[ns]部員３[nse]
-「ま、負けそう……」[pcms]
+[ns]Club Member 3[nse]
+"I'm about to lose..."[pcms]
 
 *832|
 [fc]
-[ns]部員４[nse]
-「おれも……たまらんっ」[pcms]
+[ns]Club Member 4[nse]
+"I can't stand it..."[pcms]
 
 *833|
 [fc]
-[ns]部員５[nse]
-「ま、負けずに……っ！」[pcms]
+[ns]Club Member 5[nse]
+"I won't lose either...!"[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013e"][trans_c cross time=300]
@@ -1522,38 +1513,38 @@
 *834|
 [fc]
 [vo_nat s="natu_st0093"]
-[ns]夏都[nse]
-「ああ、いいぞっ、いいぞぉっ！　んはあっ、もっと、もっとだ。[r]
-　オレも、オレも、いっぱい、いっぱいっ、ああっ、ああっ！」[pcms]
+[ns]Natsu[nse]
+"Ah yes, that's good! Nhaahh, more, more. I also want a lot, a lot![r]
+Ahh, ahh!"[pcms]
 
 *835|
 [fc]
 [vo_nat s="natu_st0094"]
-[ns]夏都[nse]
-「すごいぃっ、オレのおっぱい、まんこになってるっ、ああっ、[r]
-　気持ちいいっ、あっ、あひっ、おっぱいまんこ、いいいっ！」[pcms]
+[ns]Natsu[nse]
+"Amazing! My breasts have become like a pussy! Ahh, it feels good![r]
+Ahh, ahi! Breast pussy feels so good!"[pcms]
 
 *836|
 [fc]
-[ns]部員３[nse]
-「おっぱい……まんこ、ぬおおおっ！」[pcms]
+[ns]Club Member 3[nse]
+"Breast...pussy, nuoooo!"[pcms]
 
 *837|
 [fc]
 [vo_nat s="natu_st0095"]
-[ns]夏都[nse]
-「はあっ、あっ、ああっ、いい、いいぞっ、もっと擦れぇっ！[r]
-　あひっ、もっと、もっと、おっぱいまんこ、突いてぇっ！」[pcms]
+[ns]Natsu[nse]
+"Haaah! Ahh! Aahh! Good, good! Rub more! Ahi! More and more! Rub[r]
+against this breast pussy!"[pcms]
 
 *838|
 [fc]
-[ns]部員４[nse]
-「うはあ……負け……そ」[pcms]
+[ns]Club Member 4[nse]
+"Uhaa...I'm losing..."[pcms]
 
 *839|
 [fc]
-[ns]部員５[nse]
-「…………っ！」[pcms]
+[ns]Club Member 5[nse]
+"...!"[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013a"][trans_c cross time=300]
@@ -1561,31 +1552,31 @@
 *840|
 [fc]
 [vo_nat s="natu_st0096"]
-[ns]夏都[nse]
-「あ、ああっ、あひっ！　気持ちいっ！　いいっ！　あっ、ああ。[r]
-　おっぱいぐにぐににしてえっ！　おっぱいまんこ、犯せぇっ！」[pcms]
+[ns]Natsu[nse]
+"Ah! Aahh! Ahi! It feels good! Good! Ahh, ahh. Make my breasts[r]
+squishy! Rape this breast pussy!"[pcms]
 
 *841|
 [fc]
 [vo_nat s="natu_st0097"]
-[ns]夏都[nse]
-「んはあっ、あぁあっ、熱いぃ、熱い熱いよぉ、おっぱい、[r]
-　おっぱい、熱いぃ、凄い、すご……いぞ、オマエらあっっ！」[pcms]
+[ns]Natsu[nse]
+"Nhaahh! Aaahh! Hot! Hot hot! My breasts are hot! Amazing...you guys[r]
+are amazing!"[pcms]
 
 *842|
 [fc]
-[ns]部員３[nse]
-「……うっ、はっ！」[pcms]
+[ns]Club Member 3[nse]
+"...uhh, hah!"[pcms]
 
 *843|
 [fc]
-[ns]部員４[nse]
-「ぬ、ううっ……！」[pcms]
+[ns]Club Member 4[nse]
+"Nu...uuuh...!"[pcms]
 
 *844|
 [fc]
-[ns]部員５[nse]
-「く、くううっ！」[pcms]
+[ns]Club Member 5[nse]
+"Ku, kuuu!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -1655,12 +1646,12 @@
 *845|
 [fc]
 [vo_nat s="natu_st0098"]
-[ns]夏都[nse]
-「んわっ……！　んぶっ！」[pcms]
+[ns]Natsu[nse]
+"Nwah...! Nbuu!"[pcms]
 
 *846|
 [fc]
-ねっとりとしたシャワーを、オレはおっぱいと顔に受けていた。[pcms]
+I was receiving a sticky shower on my breasts and face.[pcms]
 
 ;//■イベントCG　natu_H013
 [evcg storage="natu_H013j"][trans_c cross time=300]
@@ -1668,31 +1659,31 @@
 *847|
 [fc]
 [vo_nat s="natu_st0099"]
-[ns]夏都[nse]
-「んん……んはあ……」[pcms]
+[ns]Natsu[nse]
+"Nnn...nhah..."[pcms]
 
 *848|
 [fc]
-口の近くに出されたのを、オレは舌を回して舐め取る。[r]
-おっぱいに出されたのも、指で掬い上げて、くちゅくちゅと[r]
-口の中で味わってから、飲み下しだ。[pcms]
+I licked and savored the one near my mouth with my tongue. The one on[r]
+my breasts, I scooped up with my fingers, tasted it in my mouth, and[r]
+then swallowed it down.[pcms]
 
 *849|
 [fc]
-[ns]部員達[nse]
-「おおお～！」[pcms]
+[ns]Club Members[nse]
+"Oooooh!"[pcms]
 
 *850|
 [fc]
 [vo_nat s="natu_st0100"]
-[ns]夏都[nse]
-「んはああ……濃い～。ねっとりしてて、臭くて、精子いっぱい[r]
-　って、感じ。さすが、運動部だねぇ……んふう……」[pcms]
+[ns]Natsu[nse]
+"Nhahaa...it's thick. Sticky, smelly, full of cum...just what you'd[r]
+expect from the sports clubs...nhfuu..."[pcms]
 
 *851|
 [fc]
-鼻から精液の臭いが抜けていく。[r]
-また脳の温度が上がった気がしてた。[pcms]
+The smell of semen was leaving through my nose. I felt like the[r]
+temperature in my brain was rising again.[pcms]
 
 ;//■イベントCG　natu_H014(6k)
 [evcg storage="natu_H014a"][trans_c cross time=300]
@@ -1700,257 +1691,251 @@
 *852|
 [fc]
 [vo_nat s="natu_st0101"]
-[ns]夏都[nse]
-「んっ……ぢゅぶっ……れるっ……んんんっちゅっ……んぢゅ。[r]
-　んっあっ……はあぁっ、んちゅっ……んあっ、ああっ……」[pcms]
+[ns]Natsu[nse]
+"Nn...jubu...reru...nnnnnchu...nju. Nnaah...haah, nchu...naah, aah..."[pcms]
 
 *853|
 [fc]
-[ns]部員７[nse]
-「すごい、舌がからみつくぅ」[pcms]
+[ns]Club Member 7[nse]
+"Amazing, your tongue is entwining..."[pcms]
 
 *854|
 [fc]
 [vo_nat s="natu_st0102"]
-[ns]夏都[nse]
-「んぢゅっ……んあああっ、あっ、もっと、もっと、突き上げて。[r]
-　んれるっ……んああっ……ぢゅるっ、んぶう……んっんっ」[pcms]
+[ns]Natsu[nse]
+"Njuu...naaah, ah, more, more, thrust up. Nreru...naah...jurul,[r]
+nbuu...nnnn"[pcms]
 
 *855|
 [fc]
-[ns]部員６[nse]
-「はっ、はっいっ……くう、締めつけられるぅ……」[pcms]
+[ns]Club Member 6[nse]
+"Ha, haii...kuu, it's clamping down..."[pcms]
 
 *856|
 [fc]
 [vo_nat s="natu_st0103"]
-[ns]夏都[nse]
-「んああっ、んぢゅっ……んれるっ、あっ、ああっ、あたるっ。[r]
-　んぢゅっ、んぢゅううっ、そこ、そこ、もっと突きあげて……」[pcms]
+[ns]Natsu[nse]
+"Naaah, njuu...nreru, ah, aah, it's hitting. Njuu, njuuu, there,[r]
+there, thrust more..."[pcms]
 
 [evcg storage="natu_H014b"][trans_c cross time=300]
 
 *857|
 [fc]
 [vo_nat s="natu_st0104"]
-[ns]夏都[nse]
-「れるうっ、んぐるぅ……んはあ……まんこもくちも、[r]
-　きもちいいぞ……んぢゅぅ……もっと、もっと、くれっ。[r]
-　んじゅじゅうっ……んあっ、もっと、突きあげろぉ……」[pcms]
+[ns]Natsu[nse]
+"Reruuu, ngruu...nhah...both my pussy and mouth feel[r]
+good...njuu...more, more, give it to me. Njujuuu...naah, more, thrust[r]
+up..."[pcms]
 
 *858|
 [fc]
-オレの腰は、すっげー踊ってた。[r]
-ちんこを軸にして、ぐるんぐるんと腰が踊る。[pcms]
+My hips were dancing wildly. They were spinning around the axis of the[r]
+dick.[pcms]
 
 *859|
 [fc]
-そのたびに、まんこの中が、あちこち擦られて、更にオレの[r]
-腰は踊りまくった。[pcms]
+Every time they moved, the inside of my pussy was rubbed all over, and[r]
+my hips danced even more.[pcms]
 
 *860|
 [fc]
-目の前に突き出されたちんこは、しゃぶりたおす。[r]
-喉のおくが硬いので擦られて、気持ちいい。[pcms]
+The dick thrust in front of me was to be sucked dry. It felt good[r]
+being rubbed against the hard back of my throat.[pcms]
 
 *861|
 [fc]
 [vo_nat s="natu_st0105"]
-[ns]夏都[nse]
-「ぢゅぶっ、れるっ、れろっ、んぐっ……あっ、ああっ、[r]
-　まんこ、こすれて……んぢゅうううっ、れるっ、ああっ、[r]
-　突けぇ、もっと、もっとぉ、突き上げろぉっ、んぢゅううっ」[pcms]
+[ns]Natsu[nse]
+"Jubu, reru, rero, ngu...ah, aah, my pussy is being rubbed...njuuuu,[r]
+reru, aah, thrust it, more and more, thrust up...njuuu"[pcms]
 
 *862|
 [fc]
-[ns]部員１[nse]
-「すげ……俺、ＡＶでしか、見た事ねーよ、こんなの」[pcms]
+[ns]Club Member 1[nse]
+"Amazing...I've only seen this kind of thing in AVs."[pcms]
 
 *863|
 [fc]
-[ns]部員２[nse]
-「うはあ……だめだ、手が止まんねー」[pcms]
+[ns]Club Member 2[nse]
+"Uhaa...I can't stop my hands."[pcms]
 
 [evcg storage="natu_H014c"][trans_c cross time=300]
 
 *864|
 [fc]
-オレの痴態を囲んでるヤツラは、こきまくってた。[r]
-その様子を横目で見ながら、オレはちんこを喉とまんこで[r]
-握りしめた。[pcms]
+The guys surrounding my lewd display were jerking off furiously. While[r]
+glancing at them sideways, I gripped the dick with my throat and[r]
+pussy.[pcms]
 
 *865|
 [fc]
-[ns]部員７[nse]
-「うはあ……のど奥がしまって……」[pcms]
+[ns]Club Member 7[nse]
+"Uhaa...the back of your throat is tightening..."[pcms]
 
 *866|
 [fc]
-[ns]部員６[nse]
-「ううっ、ち、千切れそ……」[pcms]
+[ns]Club Member 6[nse]
+"Uuu, it feels like it's going to tear..."[pcms]
 
 *867|
 [fc]
 [vo_nat s="natu_st0106"]
-[ns]夏都[nse]
-「ぢゅぼっ、じゅぼっ、じゅぶっ、んぐうっ……ああ、ああっ、[r]
-　まんこも口も、きもち、いいっ……ぢゅぼっじゅぼっじゅぼっ」[pcms]
+[ns]Natsu[nse]
+"Jubo, jubo, jubu, nguu...ahh, ahh, both my pussy and mouth feel[r]
+good...jubo jubo jubo"[pcms]
 
 *868|
 [fc]
 [vo_nat s="natu_st0107"]
-[ns]夏都[nse]
-「んん～……ちゅぶっうっ！　ぶちゅっ……れろっ、んっ、[r]
-　んっ……ぷあっ！！　ふふっ……ちんこ、うまっ！[r]
-　もっと、もっと、喰わせろぉっ、オレのまんこと口にっ」[pcms]
+[ns]Natsu[nse]
+"Nnn~...chubuu! Buchu...rero, nn, nn...puah!! Haha...dick tastes so[r]
+good! More, more, let me eat it with my pussy and mouth"[pcms]
 
 *869|
 [fc]
 [vo_nat s="natu_st0108"]
-[ns]夏都[nse]
-「ぢゅぶううっ……っ！　れろおっ、んっ、んっ……！[r]
-　こすれ、るぅ、当たって、まんこが、ああっ、いい、んあっ[r]
-　ちゅっ……ぢゅぶうっじゅぼじゅぼじゅぼ……んんんっれるっ」[pcms]
+[ns]Natsu[nse]
+"Jubuuu...! Reroo, nn, nn...! It's rubbing, hitting, my pussy feels so[r]
+good, naah chu...jubuu jubojubo jubo...nnnnreru"[pcms]
 
 *870|
 [fc]
-オレは自分の思うままに、ちんこをしゃぶり、腰を振りまくった。[pcms]
+I sucked the dick as I pleased and shook my hips wildly.[pcms]
 
 *871|
 [fc]
-[ns]部員８[nse]
-「お、お願いです。我慢できません。こっち、いいですか？」[pcms]
+[ns]Club Member 8[nse]
+"Please, I can't hold back anymore. Is it okay if I go here?"[pcms]
 
 *872|
 [fc]
 [vo_nat s="natu_st0109"]
-[ns]夏都[nse]
-「ひあっ！」[pcms]
+[ns]Natsu[nse]
+"Hiaa!"[pcms]
 
 *873|
 [fc]
-オレのアナルをぐりぐりと指で揉みながら、ソイツは[r]
-赤いかおで、オレにきいてきた。[pcms]
+While kneading my anal with his fingers, he asked me with a red face.[pcms]
 
 *874|
 [fc]
-そうか……そこもあったっけ。[r]
-どんなだろ……もっと、きもちよくなるかな……。[pcms]
+Right...there was that place too. I wonder how it feels...maybe it[r]
+will feel even better...[pcms]
 
 [evcg storage="natu_H014d"][trans_c cross time=300]
 
 *875|
 [fc]
 [vo_nat s="natu_st0110"]
-[ns]夏都[nse]
-「いいよー。んはあ……あっ、挿れて……ずぼって、[r]
-　あっ、あああっ、お尻の穴に突っ込んで……あっ、ああっ」[pcms]
+[ns]Natsu[nse]
+"It's okay. Nhahaa...ahh, put it in...zubotte, ahh, aaaaahh, thrust[r]
+into my ass hole...ahh, aaaaahh"[pcms]
 
 *876|
 [fc]
-[ns]部員８[nse]
-「はいいっ！　遠慮無くっ！！」[pcms]
+[ns]Club Member 8[nse]
+"Yes! Without any reservations!!"[pcms]
 
 *877|
 [fc]
-動きの止まらないオレの尻肉をソイツは、ぐっと掴んで、[r]
-アナル、ちんこを擦りつける。[pcms]
+He firmly grabbed my ceaselessly moving butt cheeks and rubbed his[r]
+dick against my anal.[pcms]
 
 *878|
 [fc]
-オレの腰は、もう１本入ってくるのを期待しながらも、[r]
-止まることがなかったので、ちんこが定まらず中々入ってこない。[pcms]
+My hips were still expecting another one to enter and didn't stop[r]
+moving; because of that the dick couldn't settle and had trouble[r]
+entering.[pcms]
 
 *879|
 [fc]
 [vo_nat s="natu_st0111"]
-[ns]夏都[nse]
-「んぢゅるううっ……んもうっ、早くっ……ああっ、あっああっ[r]
-　はやく、挿れろよぉ、ああっ、んっちゅう～……ぢゅぼっ」[pcms]
+[ns]Natsu[nse]
+"Njuruuu...come on already...ahh, ahh ahh hurry up and put it in me,[r]
+ahh, nchuu~...jubo"[pcms]
 
 *880|
 [fc]
-[ns]部員８[nse]
-「は、はい……」[pcms]
+[ns]Club Member 8[nse]
+"Yes..."[pcms]
 
 *881|
 [fc]
-どんどんちんこに、オレのまん汁が絡みついて、アナルを[r]
-ぬるぬると擦ってきた。[pcms]
+My pussy juice was increasingly entangling with the dick and he[r]
+started rubbing my anal slickly.[pcms]
 
 *882|
 [fc]
 [vo_nat s="natu_st0112"]
-[ns]夏都[nse]
-「んはっ……あっ、早く、擦ってばっかいないで、あっ、ああっ、[r]
-　早く、挿れろよぉ……んちゅうっ……あっ、ああああっ！！」[pcms]
+[ns]Natsu[nse]
+"Nhaa...ahh, hurry up and stop just rubbing it around and put it in me[r]
+already...nchuu...ahh, aaaaaahhh!!"[pcms]
 
 *883|
 [fc]
-ようやく、ぬるぬるになったちんこが、滑り込むように[r]
-ずずんと、オレのアナルに入ってきた。[pcms]
+Finally, the slick dick slid in smoothly zuzun into my anal.[pcms]
 
 *884|
 [fc]
-[ns]部員８[nse]
-「は、入ったぁ。すげっ、すげっ、きつきつっ！」[pcms]
+[ns]Club Member 8[nse]
+"It's in. Wow, it's so tight!"[pcms]
 
 *885|
 [fc]
-[ns]部員６[nse]
-「うわっ……うっ、すげっ、急に、むちゃむちゃ締まる」[pcms]
+[ns]Club Member 6[nse]
+"Whoa...ugh, wow, it suddenly tightens up so much."[pcms]
 
 *886|
 [fc]
 [vo_nat s="natu_st0113"]
-[ns]夏都[nse]
-「んはあ……あっ……すごい……アナル、気持ちいい……。[r]
-　動いて、尻の穴いっぱい突きまくってぇ……んっちゅううっ」[pcms]
+[ns]Natsu[nse]
+"Nhaa...ahh...it's amazing...my ass feels so good... Move, pound my[r]
+butt hole full...nchuuuu"[pcms]
 
 *887|
 [fc]
-[ns]部員８[nse]
-「はいっ！　突きまくりますっ！」[pcms]
+[ns]Club Member 8[nse]
+"Yes! I'll pound away!"[pcms]
 
 *888|
 [fc]
-ソイツは、動きまくるオレの腰を掴みながら、早いストロークで[r]
-動き出した。[pcms]
+He firmly grabbed my ceaselessly moving butt cheeks and started moving[r]
+with quick strokes.[pcms]
 
 *889|
 [fc]
 [vo_nat s="natu_st0114"]
-[ns]夏都[nse]
-「んあ゛あああ゛あっ！　あぐぅ！　尻あな、尻あな、すごっ！[r]
-　ああっ、ああっああっ！　いいっ、いいっ、いいいっ！」[pcms]
+[ns]Natsu[nse]
+"Nhaaaaaah! Aguu! My ass, my ass, it's amazing! Ahh, ahh ahh! It's[r]
+good, it's good, so good!"[pcms]
 
 *890|
 [fc]
-[ns]部員６[nse]
-「うっうわっ……中で押され……うわっ、し、締まるっ！！」[pcms]
+[ns]Club Member 6[nse]
+"Ugh, wow...it's pressing inside...wow, it tightens!!"[pcms]
 
 *891|
 [fc]
 [vo_nat s="natu_st0115"]
-[ns]夏都[nse]
-「あ゛あ゛あ゛あっあっ！！　い゛、いいいっ、いっ、いいっ！[r]
-　んぢゅぶっ……んぐっ、んぐうっ、んぐぅっ、んん゛ん゛っ」[pcms]
+[ns]Natsu[nse]
+"Aaaaaahh!! It's, it's good, it's, it's good! Njubu...ngu, nguuu,[r]
+nguuu, nnnnnh!"[pcms]
 
 *892|
 [fc]
-そいつの動きにオレの身体は揺さぶられ、ちんこが喉のおくまで[r]
-ぐんぐんと入ってくる。[pcms]
+His movements shook my body, and his dick thrust deep into my throat.[pcms]
 
 *893|
 [fc]
-まんこは肉壁１枚距てた向こうから押されて、ぎゅうぎゅう。[r]
-オレは、あまりの気持ちよさに、ソイツの動きに合わせるように[r]
-自分の腰をふりまくった。[pcms]
+My pussy was being pressed from the other side of a thin wall of[r]
+flesh, squeezing tightly. Overwhelmed by the pleasure, I frantically[r]
+moved my hips in sync with his movements.[pcms]
 
 *894|
 [fc]
-[ns]部員６[nse]
-「うっ、うっ、うわあっ、も、もうっ！！」[pcms]
+[ns]Club Member 6[nse]
+"Ugh, ugh, wow, I'm, I'm gonna...!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -1965,141 +1950,135 @@
 *895|
 [fc]
 [vo_nat s="natu_st0116"]
-[ns]夏都[nse]
-「ああっ、熱いっ！　どくどく出てるっ！　あっ、ああっ！[r]
-　もっと、もっとだ。もっと、もっとぉっ！！」[pcms]
+[ns]Natsu[nse]
+"Ahh, it's hot! It's spurting out! Ahh, ahh! More, more. More,[r]
+moreee!!"[pcms]
 
 *896|
 [fc]
-まんこの結合部から、ごぷごぷと泡立ちながら、ソイツの[r]
-精液が流れ出す。[pcms]
+From the junction of our pussies, his semen bubbled out as it flowed.[pcms]
 
 *897|
 [fc]
-でも、オレは腰を振るのをやめなかった。[r]
-だって、まだオレは、イってないんだから。[pcms]
+But I didn't stop moving my hips. Because I hadn't come yet.[pcms]
 
 *898|
 [fc]
-腰を振りまくってるうちに、さっきオレの中に出したヤツの[r]
-ちんこは、また硬くなってきて、オレの中を擦り始めた。[pcms]
+As I kept moving my hips, the dick that had just come inside me[r]
+started to harden again and began rubbing inside me.[pcms]
 
 *899|
 [fc]
-オレは、自分がイくために、腰をうごかし、特別気持ちいい[r]
-場所を探した。[pcms]
+I moved my hips for my own climax, searching for that especially[r]
+pleasurable spot.[pcms]
 
 [evcg storage="natu_H014f"][trans_c cross time=300]
 
 *900|
 [fc]
 [vo_nat s="natu_st0117"]
-[ns]夏都[nse]
-「んあああっ！　んっちゅうっ！　うおおおっ、あっ、[r]
-　あっ、凄いっ！　ここ、ここだっ……んじゅぼっじゅぼっ」[pcms]
+[ns]Natsu[nse]
+"Nhaaaaah! Nchuuu! Uooooh, ahh, ahh, it's incredible! Here, here it[r]
+is...njubo njubo"[pcms]
 
 *901|
 [fc]
-[ns]部員６[nse]
-「うあ……ま、また、締まる……」[pcms]
+[ns]Club Member 6[nse]
+"Uah...it's tightening again..."[pcms]
 
 *902|
 [fc]
-[ns]部員７[nse]
-「こっちも、こっちも舌がからんできて、うわっ、[r]
-　のどの奥が締め付けるっ……」[pcms]
+[ns]Club Member 7[nse]
+"This side too, the tongue is entangling, wow, the back of my throat[r]
+is tightening..."[pcms]
 
 *903|
 [fc]
-[ns]部員８[nse]
-「すげ……こっちもだ。きつきつが、ぎづぎづにっ！」[pcms]
+[ns]Club Member 8[nse]
+"Wow...this side too. It's so tight it's squeezing!"[pcms]
 
 *904|
 [fc]
 [vo_nat s="natu_st0118"]
-[ns]夏都[nse]
-「んおおおおっ！　んんあああっ！　んっぢゅぶっぢゅぼっ！[r]
-　いい、いい、いい、ああっ、すごい、あたるあたるあたるっ！[r]
-　れるうううううっ、んぢゅっぢゅっ！　おあああっぁあっ！」[pcms]
+[ns]Natsu[nse]
+"Nooooo! Nnnaaaaah! Njubu njubo! It's good, it's good, it's good, ahh,[r]
+amazing, it hits it hits it hits! I'm comingggggg, njubu njubu![r]
+Oaaaaaahhh!"[pcms]
 
 *905|
 [fc]
 [vo_nat s="natu_st0119"]
-[ns]夏都[nse]
-「い、い、いいっ、んじゅぼっんっれるうううっ……っ！[r]
-　んあ゛あ゛あっ！　もっと、もっとおくまで、ついてっ！[r]
-　ついてっ、ついてっ、ついてえっ！！　んぐうぢゅううううっ」[pcms]
+[ns]Natsu[nse]
+"It's good, it's good, njubo nnnncomingggg...! Nhaaaaaah! More, deeper[r]
+inside me, thrust! Thrust, thrust, thrusttt!! Nguuujuuuuuu"[pcms]
 
 *906|
 [fc]
-[ns]部員６[nse]
-「うはっ……くう、ま、また出そ……」[pcms]
+[ns]Club Member 6[nse]
+"Uha...kuu, I'm gonna come again..."[pcms]
 
 *907|
 [fc]
-[ns]部員７[nse]
-「お、おれも……すげ、吸われて……」[pcms]
+[ns]Club Member 7[nse]
+"Me too...wow, it's sucking..."[pcms]
 
 *908|
 [fc]
-[ns]部員８[nse]
-「み、密着が……うわっ……」[pcms]
+[ns]Club Member 8[nse]
+"The closeness...wow..."[pcms]
 
 *909|
 [fc]
 [vo_nat s="natu_st0120"]
-[ns]夏都[nse]
-「あっぁあっあっぁあっ、あついっ！　あついあついっ！[r]
-　まんこの、おく、あついっ！　んぶぅんぐううっっ！[r]
-　のど、おくも、くちも、あついっ、あついぃっ！」[pcms]
+[ns]Natsu[nse]
+"Aaaaah aaaaah, it's hot! It's hot hot! My pussy inside is hot![r]
+Nbuunguuuuu! My throat deep down too, my mouth too is hot, so hot!"[pcms]
 
 [evcg storage="natu_H014g"][trans_c cross time=300]
 
 *910|
 [fc]
 [vo_nat s="natu_st0121"]
-[ns]夏都[nse]
-「しり、しりのあなもっ！　、あがっお゛お゛お゛お゛おっ！[r]
-　んぐうっぢゅうぢゅうぢゅうっ！　イく、イくぅっ！[r]
-　イくからっ！　イくからっ！　ぶっちゅうっんんぐううぅっ！」[pcms]
+[ns]Natsu[nse]
+"My ass hole too! Agaaaaooooh! Nguuujuujuuujuuu! I'm coming, I'm[r]
+comingggg! I'm coming so buchuuu nnguuuu!"[pcms]
 
 *911|
 [fc]
 [vo_nat s="natu_st0122"]
-[ns]夏都[nse]
-「イくっ、イくイくイくっ、くれっ！　せーしっ！　せーえきっ！[r]
-　ぜんぶ、ぜんぶ、オレに、オレにっぃっ！　んぐううっっ[r]
-　んぢゅううっっっっ！　イ、ぐっ、イくうううっ！！！」[pcms]
+[ns]Natsu[nse]
+"I'm coming, coming coming comingggg, give it to me! Semen! Semen! All[r]
+of it to me, to meee! Nguuuuu njuuuuuuu! I'm cominggggg!!!"[pcms]
 
 *912|
 [fc]
-[ns]部員６[nse]
-「……っ！　し、搾られっるっ」[pcms]
+[ns]Club Member 6[nse]
+"...! It's squeezing me out"[pcms]
 
 *913|
 [fc]
-[ns]部員７[nse]
-「お、おれ……もっ！」[pcms]
+[ns]Club Member 7[nse]
+"Me...too!"[pcms]
 
 *914|
 [fc]
-[ns]部員８[nse]
-「も、もってかれるっ……！」[pcms]
+[ns]Club Member 8[nse]
+"I'm being taken away..."[pcms]
 
 *915|
 [fc]
 [vo_nat s="natu_st0123"]
-[ns]夏都[nse]
-「んぢゅうっっ！　イく、イくっ！　あついっあついあついぃっ！[r]
-　いっぱい、なかに、くちに、しりあなにっ！[r]
-　ぶっかけて、ぶっぱなしてぇっ！　イっちゃっっっ！」[pcms]
+[ns]Natsu[nse]
+"Njuuuu! I'm coming, I'm comingggg! It's hot hot hot! Fill me up[r]
+inside my pussy, in my mouth, in my ass hole! Splatter it all over me,[r]
+let it outttt! I'm cumminggggg!"[pcms]
 
 *916|
 [fc]
 [vo_nat s="natu_st0124"]
-[ns]夏都[nse]
-「んんぢゅうっっっ！！！！！　んあああっ、むぐうううっ！[r]
-　イ、イくっイっくっっっ！！　んぐう、ぢゅううううううっ！」[pcms]
+[ns]Natsu[nse]
+"Nnnjuuuuuu!!!!!! Nhaaaaah, mguuuuuu! I'm comingggg cumminggggg!! Nguu[r]
+juuuuuuuuu!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -2113,8 +2092,8 @@
 
 *917|
 [fc]
-[ns]部員達[nse]
-「うおおおおっ！」[pcms]
+[ns]Club Members[nse]
+"Uoooooh!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -2129,60 +2108,60 @@
 *918|
 [fc]
 [vo_nat s="natu_st0125"]
-[ns]夏都[nse]
-「んぐんぐんんんぐううっ。んぐんっ、んぐ……んぶっっ……[r]
-　あっ、あああああっ、あっあああっ、あっ、あっ…………」[pcms]
+[ns]Natsu[nse]
+"Ngunngunnnnnguuu. Ngunnngu...nbuuu... Ahh, aaaaaaaahh, ahh ahhhhh[r]
+ahhhhhh."[pcms]
 
 *919|
 [fc]
 [vo_nat s="natu_st0126"]
-[ns]夏都[nse]
-「んあっ……んはっ……はっ……ああっ……あっ……」[pcms]
+[ns]Natsu[nse]
+"Nhaa...nhah...hah...ahhh...ahh..."[pcms]
 
 *920|
 [fc]
-スゲーきもちいー。あたまの中まで、あっつくなってる。[r]
-ちんこでイくのって、こんなに気持ち、いーんだ。[pcms]
+It feels so amazing. Even my brain is getting hot. Coming from a dick[r]
+feels this good.[pcms]
 
 *921|
 [fc]
-もっと、もっと気持ちよく、なりてー。[pcms]
+I want to feel even better.[pcms]
 
 [evcg storage="natu_H014i"][trans_c cross time=300]
 
 *922|
 [fc]
-[ns]部員６[nse]
-「うおっ、ま、また……くうう……」[pcms]
+[ns]Club Member 6[nse]
+"Uoohh, again...kuuu..."[pcms]
 
 *923|
 [fc]
-[ns]部員８[nse]
-「うはあ……ぬ、抜けない……すげ、きつきつ……うわあ……」[pcms]
+[ns]Club Member 8[nse]
+"Uhaa...can't pull out...wow, so tight...uwaa..."[pcms]
 
 *924|
 [fc]
-オレのこしは、もっときもちよくなりたくて、また動きだした。[pcms]
+My hips wanted to feel even better, so they started moving again.[pcms]
 
 *925|
 [fc]
-誠……誠のちんこも、こんな風にきもち、いいのかなあ？[r]
-あれ？　そーいや、オレしょじょじゃなかったっけ？[pcms]
+Makoto... I wonder if Makoto's dick feels this good too? Huh? Wait,[r]
+wasn't I a virgin?[pcms]
 
 *926|
 [fc]
-全ぜん、痛くなかったな……気持ちいいだけだった……。[r]
-こんなきもちいーなら、もっと前からヤっとけば、よかった。[pcms]
+It didn't hurt at all... It just felt good... If it felt this good, I[r]
+should have done it sooner.[pcms]
 
 *927|
 [fc]
-まことと、やっとけば……。[r]
-まこと……やっぱ、まこととも、シたいな……。[pcms]
+If only I had done it with Makoto... Makoto... I really want to do it[r]
+with Makoto too...[pcms]
 
 *928|
 [fc]
-いっぱいきもちよくなったら、あとでさがしにいこう……。[r]
-そんで、いっぱいいっぱいスるんだ……。[pcms]
+After I've felt really good, I'll go look for him... Then we'll do it[r]
+a lot...[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

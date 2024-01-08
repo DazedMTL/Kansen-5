@@ -19,36 +19,30 @@
 
 *22|
 [fc]
-[ns]誠[nse]
-「うわあああああああぁぁあぁあ！？[r]
-　あ？　あぁ……？　んん？」[pcms]
+[ns]Makoto[nse]
+"Uwaaaaaaaah!? Ah? Aah...? Mmm?"[pcms]
 
 *23|
 [fc]
-気がつくと、僕は熱い砂の上に寝転がっていた。[pcms]
+When I came to, I was lying on the hot sand.[pcms]
 
 *24|
 [fc]
-青い空。[r]
-一面に広がる、海。[r]
-焼けた砂浜……。[pcms]
+The blue sky. The sea stretching out as far as the eye can see. The[r]
+sunbaked beach...[pcms]
 
 *25|
 [fc]
-あるぇ……？[r]
-僕、跳ねられた人にぶつかられて……。[r]
-あっれー……？[pcms]
+Wait...? I remember colliding with someone who was thrown at me...[pcms]
 
 *26|
 [fc]
-あれって、夢だったのかな。[r]
-うん、体のどこにも違和感ないし、[r]
-ぴんぴんしてるというか、むしろ軽いというか。[pcms]
+Was that a dream? Yeah, I don't feel any discomfort anywhere on my[r]
+body, I feel rather spry, or rather, light.[pcms]
 
 *27|
 [fc]
-まあいいや。[r]
-でも、ここは……。[pcms]
+Well, it doesn't matter. But where is this...?[pcms]
 
 [bgm storage="BGM09"]
 ;//♪bgm09　夕方：ロマンティック
@@ -58,36 +52,34 @@
 *28|
 [fc]
 [vo_aka s="akari0520"]
-[ns]茜梨[nse]
-「あっ、起きました？　変な叫び声上げてましたけど、[r]
-　怖い夢でもみてましたか？　ふふっ……」[pcms]
+[ns]Akari[nse]
+"Oh, you're awake? You were screaming so loudly, were you having a[r]
+scary dream? Fufu..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi1_a"][ChrSetParts layer=5 chface="F2_na12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *29|
 [fc]
 [vo_nat s="natu0272"]
-[ns]夏都[nse]
-「浮かれ過ぎて、頭おかしくなったんじゃねえの？[r]
-　あんまり心配かけんなよ？」[pcms]
+[ns]Natsu[nse]
+"Did you get so excited that you lost your mind? Don't worry us too[r]
+much, okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw2_a"][ChrSetParts layer=5 chface="F2_st09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *30|
 [fc]
 [vo_stk s="satuki0188"]
-[ns]彩月[nse]
-「あんまり中澤君を悪く言わないで。[r]
-　わたしを助けてくれたんだから……」[pcms]
+[ns]Satsuki[nse]
+"Don't speak so badly of Nakazawa-kun. He saved me after all..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so11b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *31|
 [fc]
-[ns]宗一郎[nse]
-「あっ！　なんか南先輩、誠に恋！？[r]
-　恋なの！　うわああぁあぁ！！[r]
-　何それ！　ちょっと！」[pcms]
+[ns]Souichirou[nse]
+"Ah! What's this? Minami-senpai is in love with Makoto!? Is it love?[r]
+Uwaaaaah!! What's that about! Hey!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ta1_sw"][ChrSetParts layer=3 chface="F1_ta05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -95,44 +87,38 @@
 *32|
 [fc]
 [vo_tay s="taja0082"]
-[ns]ターヤ[nse]
-「急に大声出して。[r]
-　馬鹿じゃないの……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Suddenly shouting so loudly. Are you an idiot...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *33|
 [fc]
-あぁ、そうだよ。[r]
-僕、南先輩を突き飛ばした直後、[r]
-轢かれた人が飛んできたんだ。[pcms]
+Ah, that's right. After I pushed Minami-senpai away, someone who got[r]
+hit came flying at me.[pcms]
 
 *34|
 [fc]
-それは間違いじゃなかったみたいだ。[r]
-それで、僕にぶつかって……。[r]
-その後……あれ、どうなったんだろう？[pcms]
+It seems that wasn't a mistake. Then they collided with me... But what[r]
+happened after that?[pcms]
 
 *35|
 [fc]
-うーん。[r]
-あの後からいきなりここに来て……。[r]
-ってことは、今日は１８日か。[pcms]
+Hmm. I suddenly came here after that... So today is the 18th?[pcms]
 
 *36|
 [fc]
-あれっ……！？[pcms]
+Wait...!?[pcms]
 
 *37|
 [fc]
-[ns]誠[nse]
-「もっ……モンバスのイベント！[r]
-　ねえ、イベントどうなったの！？」[pcms]
+[ns]Makoto[nse]
+"Wait... The MonBass event! Hey, what happened to the event!?"[pcms]
 
 *38|
 [fc]
-楽しみにしてたのに、[r]
-いつの間にかココで寝てたなんて……。[pcms]
+I was looking forward to it, and before I knew it, I was asleep[r]
+here...[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_sw"][ChrSetParts layer=3 chface="F1_ta01"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="sa2_sw"][ChrSetParts layer=5 chface="F2_sa10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -140,33 +126,29 @@
 *39|
 [fc]
 [vo_sat s="sato0061"]
-[ns]怜[nse]
-「えっ？　何言ってるの……。[r]
-　誠くんもいたよね……。[r]
-　事故？　でやっぱり頭とか……」[pcms]
+[ns]Sato[nse]
+"Eh? What are you talking about...? You were there too, right...? An[r]
+accident? So maybe your head is..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so20b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *40|
 [fc]
-[ns]宗一郎[nse]
-「なあに、こいつなら心配いりませんぜ。[r]
-　だって、無敵なんですぜ！[r]
-　俺ら、無敵！　ギャハハハ！！」[pcms]
+[ns]Souichirou[nse]
+"No worries about this guy. Because he's invincible! We are[r]
+invincible! Gyahahaha!!"[pcms]
 
 *41|
 [fc]
-無敵……。[r]
-そうだな、無敵なら大丈夫だよな。[r]
-そりゃ、気がつかない訳だ！[pcms]
+Invincible... Yeah, if I'm invincible then I'm fine. No wonder I[r]
+didn't notice![pcms]
 
 *42|
 [fc]
-[ns]誠[nse]
-「そーいち、悪かった！[r]
-　向かうところ敵無し！　無敵だったよな！[r]
-　みんな弱すぎ！　ぎゃははは！！」[pcms]
+[ns]Makoto[nse]
+"Sou-ichi, my bad! We're unbeatable! Invincible, right! Everyone else[r]
+is too weak! Gyahahaha!!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ta1_sw"][ChrSetParts layer=3 chface="F1_ta12"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -174,72 +156,67 @@
 *43|
 [fc]
 [vo_tay s="taja0083"]
-[ns]ターヤ[nse]
-「やっぱり、うるさい」[pcms]
+[ns]Tarja Pohjonen[nse]
+"As I thought, noisy."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi1_a"][ChrSetParts layer=5 chface="F1_na12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *44|
 [fc]
 [vo_nat s="natu0273"]
-[ns]夏都[nse]
-「……馬鹿はほっといて、オレらだけで遊ぼうぜ。[r]
-　かまってると馬鹿がうつるわ」[pcms]
+[ns]Natsu[nse]
+"...Let's leave the idiot alone and just play among ourselves. Paying[r]
+attention to him will make us stupid too."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so19b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *45|
 [fc]
-[ns]宗一郎[nse]
-「なんですと！　無敵の俺達をほっといて、[r]
-　自分たちだけで遊ぶですと！？[r]
-　こ、この……水着美女達！　ウウ……」[pcms]
+[ns]Souichirou[nse]
+"What did you say! Leaving us invincibles alone and playing by[r]
+yourselves!? You... swimsuit beauties! Ugh..."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so11b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *46|
 [fc]
-叫んだり、悔しがったり忙しいやつだ。[r]
-でも、確かにそーいちの言うとおりだ。[r]
-僕らみたいな無敵をほっとくなんて。[pcms]
+He's busy shouting and feeling frustrated. But indeed, as Sou-ichi[r]
+says, leaving us invincibles alone...[pcms]
 
 *47|
 [fc]
-僕だって遊びたいのに……。[pcms]
+I want to play too...[pcms]
 
 *48|
 [fc]
-でも、無敵って一体なんだ……？[pcms]
+But what exactly does invincible mean...?[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *49|
 [fc]
-[ns]誠[nse]
-「なあ、そーいち……無敵って……」[pcms]
+[ns]Makoto[nse]
+"Hey, Sou-ichi... what does invincible mean...?"[pcms]
 
 *50|
 [fc]
-[ns]宗一郎[nse]
-「おい、俺達も遊びに行くであります！[r]
-　あの水着美女共に[ruby text="とっかん"][ch text="吶喊"]吶喊するのでありますよ、[r]
-　誠くん！」[pcms]
+[ns]Souichirou[nse]
+"Oi, we're going to play too! We'll shout and shout at those swimsuit[r]
+beauties, right, Makoto-kun!"[pcms]
 
 *51|
 [fc]
-[ns]誠[nse]
-「[ruby text="とっかん"][ch text="吶喊"]って……お前いつの人だよ。[r]
-　まあいいや。行くぞ！　そーいち！[r]
-　うおおおおおおお！！！！！」[pcms]
+[ns]Makoto[nse]
+"Shout and shout... what era are you from? Well, whatever. Let's go![r]
+Sou-ichi! Uoooooooh!!!!!!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so31b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *52|
 [fc]
-[ns]宗一郎[nse]
-「オウヨ！[r]
-　キィイイィエエエェェェェ！！！」[pcms]
+[ns]Souichirou[nse]
+"OuYo! Kiiiiieeeeeee!!!!!"[pcms]
 
 ;//●_SE　走る音
 [se buf=0 storage="seD003"]
@@ -248,304 +225,280 @@
 
 *53|
 [fc]
-ああ、僕、今青春してる。[r]
-火傷しそうな位熱い砂を踏みしめて、[r]
-広い海を横目に、水着美女達に向かって走ってる。[pcms]
+Ah, I'm living my youth right now. Stepping on the scorching hot sand[r]
+that could burn me, running towards the swimsuit beauties with the[r]
+vast sea in my peripheral view.[pcms]
 
 *54|
 [fc]
-燦々と輝く太陽の下、[r]
-僕とクソデブは、女の子達を目指して走る。[pcms]
+Under the shining sun, me and the fatso are running towards the girls.[pcms]
 
 *55|
 [fc]
-…………。[r]
-なんでこのデブ、僕に付いてくるんだ。[pcms]
+...Why is this fatso following me?[pcms]
 
 ;//立ち絵なし
 
 *56|
 [fc]
-[ns]誠[nse]
-「くそっ……お前デブの癖に走るの速いんだよ！[r]
-　お前みたいなやつは『もう走れないよー』っていって、[r]
-　泣いてればいいんだよクソデブ！」[pcms]
+[ns]Makoto[nse]
+"Damn it... for a fatso, you sure run fast! You should just say 'I[r]
+can't run anymore-' and cry, you damn fatso!"[pcms]
 
 *57|
 [fc]
-[ns]宗一郎[nse]
-「クソデブクソデブうるさいんだよ！[r]
-　仕方ないだろう、俺の腹には夢と希望が一杯詰まってんだよ！[r]
-　うらやましいと言え！　お前にはそういうの無いだろう！」[pcms]
+[ns]Souichirou[nse]
+"Fatso fatso shut up already! Can't help it, my belly is full of[r]
+dreams and hope! Be envious! You don't have that, do you!"[pcms]
 
 *58|
 [fc]
-[ns]誠[nse]
-「くっ……うらやましい……訳ないだろ！　クソデブ野郎！」[pcms]
+[ns]Makoto[nse]
+"Grr... envious... no way! You fatso bastard!"[pcms]
 
 *59|
 [fc]
-[ns]宗一郎[nse]
-「だ、か、ら！　デブっていうなよぉおおぉおっ！」[pcms]
+[ns]Souichirou[nse]
+"I said stop calling me fatsoooooo!"[pcms]
 
 *60|
 [fc]
-クソデブと僕は、まるでライフセーバーの競技の様に、[r]
-お互い体をぶつけ合いながら、ビーチバレーをして遊んでいる[r]
-女の子達へと向かい、突き進んだ。[pcms]
+The fatso and I are like competitors in a lifesaver game, bumping into[r]
+each other as we head towards the girls playing beach volleyball.[pcms]
 
 *61|
 [fc]
-やはり体重の差か、僕の方が押され気味だ。[pcms]
+Perhaps due to the difference in body weight, I'm being pushed back a[r]
+bit.[pcms]
 
 *62|
 [fc]
-大きな脂肪の塊が、僕の体を弾き飛ばしそうになる。[r]
-それに耐えようと身を強ばらせると、[r]
-走る速度が落ちてしまう。[pcms]
+The large mass of fat seems like it's about to bounce my body away.[r]
+When I brace myself against it, my running speed drops.[pcms]
 
 *63|
 [fc]
-そんなことを繰り返しているうちに、[r]
-僕とそーいちとの距離は、次第に離されていった。[pcms]
+As this repeats, the distance between me and Souichirou gradually[r]
+increases.[pcms]
 
 *64|
 [fc]
-このままじゃまずい。[r]
-こんなヤツに負けてしまったら、[r]
-僕の青春はそこで終わりだ。[pcms]
+This is bad. If I lose to this guy, my youth is over.[pcms]
 
 *65|
 [fc]
-チキショウ！　そんなの嫌だ！[r]
-あの水着美女達は、全部僕のモノなんだ！[pcms]
+Damn it! I don't want that! Those swimsuit beauties are all mine![pcms]
 
 *66|
 [fc]
-[ns]誠[nse]
-「はっ！」[pcms]
+[ns]Makoto[nse]
+"Hah!"[pcms]
 
 *67|
 [fc]
-僕の“モノ”のはずなのに、[r]
-なんであの子達は水着なんか着てるんだ！[pcms]
+They're supposed to be mine, so why are those girls wearing swimsuits![pcms]
 
 *68|
 [fc]
-下着にも似た、憎たらしい水着の野郎！[r]
-くそぉ！　僕の青春を邪魔しやがって！[pcms]
+Those detestable swimsuits, similar to underwear! Damn it! They're[r]
+getting in the way of my youth![pcms]
 
 *69|
 [fc]
-いや、まて……。[r]
-何を言っているんだ、僕は。[pcms]
+No, wait... What am I saying?[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *70|
 [fc]
-[ns]誠[nse]
-「駄目だ！　水着ごめん！[r]
-　君たちがいるから、女の子は魅力的な輝きを……！[r]
-　君たちがいなくなってしまったら、僕はどうしたら……」[pcms]
+[ns]Makoto[nse]
+"No good! I apologize for the swimsuits! Because of you girls, you[r]
+shine with an attractive glow... If you were gone, what would I do..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *71|
 [fc]
-[ns]宗一郎[nse]
-「お前、時々いいこと言うよな。[r]
-　見直したぞ、誠！　仲直りしよう。[r]
-　君が俺をデブデブ言いまくったのは、水に流そうぞ！」[pcms]
+[ns]Souichirou[nse]
+"You say some good things sometimes. I've changed my opinion of you,[r]
+Makoto! Let's make up. Let's forget all the times you called me[r]
+fatso!"[pcms]
 
 *72|
 [fc]
-[ns]誠[nse]
-「そーいち……」[pcms]
+[ns]Makoto[nse]
+"Souichirou..."[pcms]
 
 *73|
 [fc]
-僕はそーいちの言葉によって、[r]
-心が救われた気がした。[pcms]
+I felt like my heart was saved by Souichirou's words.[pcms]
 
 *74|
 [fc]
-そーいちはにこやかに微笑み、[r]
-僕にむかって手を差し伸べる。[pcms]
+Souichirou smiles warmly and reaches out his hand towards me.[pcms]
 
 *75|
 [fc]
-強烈な夏の日差しを背に受けて立つその巨体は、[r]
-涙があふれ出した僕の目には、[r]
-まるで後光の差す神様の様に見えた。[pcms]
+Standing with the intense summer sun behind him, his large figure[r]
+looked like a god with a halo to my tear-filled eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *76|
 [fc]
-[ns]宗一郎[nse]
-「解ってくれたか……じゃあ、行くぞ！[r]
-　俺はあの水着ギャル共に、[r]
-　インタビューをする実験をする！」[pcms]
+[ns]Souichirou[nse]
+"You understand then... Let's go! I'm going to conduct an interview[r]
+experiment with those swimsuit gals!"[pcms]
 
 *77|
 [fc]
-[ns]誠[nse]
-「実験……」[pcms]
+[ns]Makoto[nse]
+"An experiment..."[pcms]
 
 *78|
 [fc]
-だんだん、こいつが神様なんだか“アレ”な人なんだか、[r]
-解らなくなってきたぞ……。[pcms]
+I'm starting to lose track of whether this guy is a god or just 'that[r]
+kind of person'...[pcms]
 
 *79|
 [fc]
-でも、そーいちが言う『実験』ってのも、[r]
-気にはなる。[pcms]
+But I am curious about this "experiment" that Souichirou mentioned.[pcms]
 
 *80|
 [fc]
-ここはもう、そーいちに全てを任せよう。[r]
-あの、デカいハラに全てを賭けてみよう。[pcms]
+I'll leave everything to Souichirou. Let's bet it all on that big[r]
+belly of his.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so29b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *81|
 [fc]
-[ns]宗一郎[nse]
-「うーむ、誠にけしからん！　[r]
-　あ、誠ってお前の事じゃないからな。[r]
-　あの女共の事である」[pcms]
+[ns]Souichirou[nse]
+"Hmm, Makoto, that's outrageous! Ah, and I don't mean you. I'm talking[r]
+about those girls."[pcms]
 
 *82|
 [fc]
-[ns]誠[nse]
-「確かにけしからんね。[r]
-　あの水着姿は……てか、たまらんですな」[pcms]
+[ns]Makoto[nse]
+"Indeed, it's outrageous. Those swimsuit figures are... man,[r]
+irresistible."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *83|
 [fc]
-[ns]宗一郎[nse]
-「だろう？　だからインタビューをすると言ったんだ、俺は。[r]
-　いくぞ着いてこい！」[pcms]
+[ns]Souichirou[nse]
+"Right? That's why I said I'm going to interview them. Come on, follow[r]
+me!"[pcms]
 
 *84|
 [fc]
-[ns]誠[nse]
-「はっ！　解りましたサー！」[pcms]
+[ns]Makoto[nse]
+"Yes sir! Understood!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *85|
 [fc]
-僕は、インタビューの実験だと言うそーいちの後を追い、[r]
-再び女の子達に向かい、歩き出した。[pcms]
+I follow Souichirou, who says he's going to conduct an interview[r]
+experiment, and start walking towards the girls again.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_sw2"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *86|
 [fc]
 [vo_aka s="akari0521"]
-[ns]茜梨[nse]
-「いきますよー！　はーい！」[pcms]
+[ns]Akari[nse]
+"Here I go-! Ready!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi1_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *87|
 [fc]
 [vo_nat s="natu0274"]
-[ns]夏都[nse]
-「よおっし！　そらっ！　オレのボール受けてみろっ！[r]
-　あははっ！」[pcms]
+[ns]Natsu[nse]
+"Alright! Catch this! My ball, take it! Ahaha!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi1_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *88|
 [fc]
-ふむ……。[r]
-ビーチバレーか……。[pcms]
+Hmm... Beach volleyball, huh...[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw2_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *89|
 [fc]
 [vo_stk s="satuki0189"]
-[ns]彩月[nse]
-「負けないぞっ！　えいっ！」[pcms]
+[ns]Satsuki[nse]
+"I won't lose! Ei!"[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_sw"][ChrSetParts layer=5 chface="F2_sa03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *90|
 [fc]
 [vo_sat s="sato0062"]
-[ns]怜[nse]
-「あっ……おっとっとっ……落としそうになっちゃった……。[r]
-　でも、まだボールは生きてる！」[pcms]
+[ns]Sato[nse]
+"Ah... whoops... almost dropped it... But the ball is still alive!"[pcms]
 
 *91|
 [fc]
-いいね。[r]
-揺れるおっぱい。[r]
-揺れるおしり。[pcms]
+Nice. Bouncing breasts. Wiggling butts.[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_sw2_a"][ChrSetParts layer=5 chface="F2_ha11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *92|
 [fc]
 [vo_han s="hana0080"]
-[ns]花沢[nse]
-「ふふっ！　あんまり上手じゃないね、みんな！[r]
-　わたしに勝てると思わないで！　えいっ！」[pcms]
+[ns]Hanazawa[nse]
+"Hehe! You're not very good at this, everyone! Don't think you can[r]
+beat me! Ei!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *93|
 [fc]
-ほんのり焼け出した肌に、うっすらにじむ、輝く汗。[r]
-その汗が滑らかな曲線を描く胸や、太ももを伝い、[r]
-飛び跳ねた勢いで、宙を舞う。[pcms]
+The slightly sunburned skin, the glistening sweat that blurs slightly.[r]
+The sweat traces the smooth curves of their breasts and thighs, and[r]
+with a leap, it dances in the air.[pcms]
 
 *94|
 [fc]
-それにしても、いい眺め。[r]
-このまま永遠に、彼女達の姿を残して置きたい……。[pcms]
+But really, what a view. I wish I could preserve the sight of them[r]
+like this forever...[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so02a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *95|
 [fc]
-[ns]誠[nse]
-「あ、カメラ忘れた」[pcms]
+[ns]Makoto[nse]
+"Ah, forgot the camera."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *96|
 [fc]
-[ns]宗一郎[nse]
-「チッチッチッ……カメラなんて無粋なモノはいらない。[r]
-　あの姿は、俺達の心の中に焼き付けておけばいい」[pcms]
+[ns]Souichirou[nse]
+"Tsk tsk tsk... No need for such unrefined things as a camera. We[r]
+should just burn that image into our hearts."[pcms]
 
 *97|
 [fc]
-[ns]誠[nse]
-「……らしくない事言うな。[r]
-　今日のそーいち、ホントに変だぞ。[r]
-　どうかしたのか？」[pcms]
+[ns]Makoto[nse]
+"...that's not like you to say. You're really weird today, Souichirou.[r]
+What's up?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so12b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *98|
 [fc]
-[ns]宗一郎[nse]
-「やかましいわ！　もういい。[r]
-　俺一人でインタビューしてくるから！」[pcms]
+[ns]Souichirou[nse]
+"Shut up! Enough already. I'll go do the interview by myself!"[pcms]
 
 *99|
 [fc]
-[ns]誠[nse]
-「なんか、キャラも違う気がするなあ……」[pcms]
+[ns]Makoto[nse]
+"You seem like a different character altogether..."[pcms]
 
 [chara_int][trans_c cross time=150]
 [quake_bg x m]
@@ -553,27 +506,26 @@
 
 *100|
 [fc]
-そーいちは、訝しがる僕を押しのけ、[r]
-ビーチボールを追いかける女の子達の前に立つと、[r]
-大きく息を吸い込んでから、嫌らしい笑みを越智さんへと向けた。[pcms]
+Souichirou pushes past me, who is looking puzzled, and stands in front[r]
+of the girls chasing after the beach ball. He takes a deep breath and[r]
+then directs a lecherous smile towards Akari-san.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so20b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *101|
 [fc]
-[ns]宗一郎[nse]
-「はいはいはい、お楽しみの所申し訳ございません！[r]
-　わたくし、出渕　宗一郎と申します。皆様のお姿に[r]
-　感銘いたしまして、インタビューなどしとうございます！」[pcms]
+[ns]Souichirou[nse]
+"Excuse me, ladies, sorry to interrupt your fun! My name is Izubuchi[r]
+Souichirou. I'm so impressed by your figures that I'd like to conduct[r]
+an interview with you all!"[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_sw"][ChrSetParts layer=3 chface="F1_ta15"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *102|
 [fc]
 [vo_tay s="taja0084"]
-[ns]ターヤ[nse]
-「……何を言っている。[r]
-　日射病にでもなったか」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...What are you talking about? Did you get sunstroke or something?"[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi1_a"][ChrSetParts layer=3 chface="F1_na12"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so12b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
@@ -581,58 +533,57 @@
 *103|
 [fc]
 [vo_nat s="natu0275"]
-[ns]夏都[nse]
-「ああ、コイツはいつもおかしいから。[r]
-　で、インタビューってなんだ？　お前の学園の新聞にでも[r]
-　載せてくれんのか？」[pcms]
+[ns]Natsu[nse]
+"Ah, this guy is always weird. So, what's this interview about? Are[r]
+you going to feature us in your school newspaper or something?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *104|
 [fc]
-[ns]宗一郎[nse]
-「シャラップ！　だまらっしゃい！[r]
-　インタビューには順序というものがあるのです！[r]
-　まずは、越智　茜梨さんからと決まっているのです！」[pcms]
+[ns]Souichirou[nse]
+"Shut up! Be quiet! There's a proper order to interviews! It's decided[r]
+that we start with Ochi Akari-san!"[pcms]
 
 [ChrSetEx layer=3 chbase="na1_bi1_a"][ChrSetParts layer=3 chface="F1_na15"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *105|
 [fc]
 [vo_nat s="natu0276"]
-[ns]夏都[nse]
-「何だと、この野郎」[pcms]
+[ns]Natsu[nse]
+"What the hell, you bastard."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_sw2_a"][ChrSetParts layer=3 chface="f1_st28"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *106|
 [fc]
 [vo_stk s="satuki0190"]
-[ns]彩月[nse]
-「誰が決めたの……」[pcms]
+[ns]Satsuki[nse]
+"Who decided that..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so20b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *107|
 [fc]
-突然大声を上げたそーいちに、皆の視線が集中する。[pcms]
+Everyone's gaze concentrates on Souichirou, who suddenly raises his[r]
+voice.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *108|
 [fc]
-だけどそんなことは意にも介さない様子で、[r]
-越智さんの前まで近づき、マイクを持つような形をした、[r]
-何も持たない右手を、その小さな口元へと前に差し出した。[pcms]
+Without caring about such things, he approaches Akari-san, who is[r]
+chasing after the beach ball, and extends his empty right hand towards[r]
+her small mouth as if he's holding a microphone.[pcms]
 
 ;//たちなし
 *108a|
 [fc]
-[ns]宗一郎[nse]
-「いやあ、越智さんは白のスクール水着ですか！[r]
-　マニア受け狙ってます？　てか、最高！[r]
-　どこで買ったんですか？　誰に見せたいと思ったんですか！？」[pcms]
+[ns]Souichirou[nse]
+"Ah, Ochi-san, is that a white school swimsuit you're wearing? Are you[r]
+aiming for the mania crowd? Or rather, it's the best! Where did you[r]
+buy it? Who did you want to show it to?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ak1_sw2"][ChrSetParts layer=3 chface="F1_ak09"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -640,23 +591,22 @@
 *109|
 [fc]
 [vo_aka s="akari0522"]
-[ns]茜梨[nse]
-「え……あ、あの、これは……通販で……何となく[r]
-　可愛いなと思って……に、似合ってると思います？[r]
-　ちなみに、マニア受けなんて狙ってないです……」[pcms]
+[ns]Akari[nse]
+"Eh... um, this is... I bought it online... I just thought it was[r]
+cute... do you think it suits me? By the way, I wasn't aiming for the[r]
+mania crowd..."[pcms]
 
 ;//たちなし
 *109a|
 [fc]
-[ns]宗一郎[nse]
-「ナニィ……？　狙ってない！　さすが越智さん……。[r]
-　やるな……」[pcms]
+[ns]Souichirou[nse]
+"What...? Not aiming for it! As expected of Ochi-san... Impressive..."[pcms]
 
 *110|
 [fc]
-[ns]誠[nse]
-「全くだ。狙うことなく僕達の心をくすぐるなんて。[r]
-　さすがとしか言いようがない……」[pcms]
+[ns]Makoto[nse]
+"Exactly. To captivate our hearts without even trying. There's no[r]
+other way to say it but 'as expected'..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -664,33 +614,31 @@
 *111|
 [fc]
 [vo_aka s="akari0523"]
-[ns]茜梨[nse]
-「え……え？　な、何ですかそれ……」[pcms]
+[ns]Akari[nse]
+"Eh... eh? What do you mean by that..."[pcms]
 
 *112|
 [fc]
-なるほどな。[r]
-そーいちが言っていたのは、これか。[r]
-よし、今度は僕が南先輩にインタビューをしてみよう。[pcms]
+I see. So this is what Souichirou was talking about. Alright, next[r]
+I'll try interviewing Minami-senpai.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st2_sw2_a"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *113|
 [fc]
-[ns]誠[nse]
-「ね、ねえねえ、南先輩！[r]
-　競泳水着ですか！？　その、何というか、[r]
-　股の切れ上がりとか、ツルッとした素材とか最高っすね！」[pcms]
+[ns]Makoto[nse]
+"Hey, hey, Minami-senpai! Is that a competitive swimsuit!? The way it[r]
+cuts high on the crotch and the smooth material is just amazing!"[pcms]
 
 ;//大と被せ
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so29b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *114|
 [fc]
-[ns]宗一郎[nse]
-「あっ、こら！　俺の仕事取るんじゃないよ！[r]
-　南先輩のは、どんな層がターゲットですか！？」[pcms]
+[ns]Souichirou[nse]
+"Hey, stop! Don't take my job! What kind of demographic are you[r]
+targeting with that, Minami-senpai?"[pcms]
 
 ;//ここから小立ち絵
 [chara_int_ layer=5]
@@ -699,144 +647,138 @@
 *115|
 [fc]
 [vo_stk s="satuki0191"]
-[ns]彩月[nse]
-「こらこら、喧嘩しないの……それに、ターゲットなんて特に。[r]
-　まあ、普段は赤いのなのだけど、せっかく島に来るんだからって[r]
-　白いの買ってみたんだよね。どう？」[pcms]
+[ns]Satsuki[nse]
+"Hey now, don't fight... Besides, I don't have a particular target.[r]
+Well, I usually wear red, but since we came to the island I thought[r]
+I'd try white. How is it?"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_sw2_b"][ChrSetParts layer=3 chface="f1_st03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *116|
 [fc]
-[ns]誠[nse]
-「うーむ、色もさることながら、[r]
-　やはり特筆すべきはボディーラインですな。[r]
-　ぴったりと張り付いた布が、南先輩の体の肉を拘束して……」[pcms]
+[ns]Makoto[nse]
+"Hmm, the color is one thing, but what should be noted is the body[r]
+line. The fabric clings tightly and restrains the flesh of Minami-[r]
+senpai's body..."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so11b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *117|
 [fc]
-[ns]宗一郎[nse]
-「うむ、反則的であるな。何より南先輩って、[r]
-　普段は着やせするタイプだったのな」[pcms]
+[ns]Souichirou[nse]
+"Indeed, it's almost cheating. Above all, Minami-senpai usually looks[r]
+slimmer when dressed."[pcms]
 
 *118|
 [fc]
-そこまで言うと、俺とそーいちは、どちらともなく目を見合わせ、[r]
-頷きあって、親指を突き立てながら叫んだ。[pcms]
+As we say that, Souichirou and I look at each other involuntarily and[r]
+nod, then shout while thrusting our thumbs up.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so31b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *119|
 [fc]
-[ns]誠＆宗一郎[nse]
-「グレイト！」[pcms]
+[ns]Makoto & Souichirou[nse]
+"Great!"[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_sw"][ChrSetParts layer=3 chface="F1_ta12"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *120|
 [fc]
 [vo_tay s="taja0085"]
-[ns]ターヤ[nse]
-「馬鹿みたい……」[pcms]
+[ns]Tarja[nse]
+"You guys are ridiculous..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so27a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *121|
 [fc]
-[ns]宗一郎[nse]
-「馬鹿！　馬鹿ですって！？」[pcms]
+[ns]Souichirou[nse]
+"Ridiculous! Did you say ridiculous!?"[pcms]
 
 [ChrSetEx layer=3 chbase="ta1_sw"][ChrSetParts layer=3 chface="F1_ta15"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so26a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *122|
 [fc]
-[ns]誠[nse]
-「ホントの事だろ。でも、ターヤさんの水着、[r]
-　すっげー似合ってる……青の競泳水着かぁ」[pcms]
+[ns]Makoto[nse]
+"It's the truth though. But Tarja-san, your swimsuit really suits[r]
+you... a blue competitive swimsuit, huh."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ta2_sw"][ChrSetParts layer=5 chface="F2_ta12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *123|
 [fc]
-真っ白な肌と金髪。[r]
-小柄な体に、青い競泳水着。[r]
-最高の組み合わせじゃないか。[pcms]
+Pale white skin and blonde hair. A petite body in a blue competitive[r]
+swimsuit. Isn't that the best combination?[pcms]
 
 *124|
 [fc]
-でも、市販っぽくないと言うか、[r]
-なんだろ、違和感が……。[pcms]
+But there's something off about it, not like it's store-bought... What[r]
+is it?[pcms]
 
 *125|
 [fc]
-[ns]誠[nse]
-「ターヤさん、その水着ってどこで買ったの？」[pcms]
+[ns]Makoto[nse]
+"Tarja-san, where did you buy that swimsuit?"[pcms]
 
 ;//たちなし
 *125a|
 [fc]
-[ns]宗一郎[nse]
-「小柄な体に、競泳水着。[r]
-　レオタードと、また少し違う。[r]
-　これはこれで趣があってよろしい」[pcms]
+[ns]Souichirou[nse]
+"A petite body in a competitive swimsuit. It's different from a[r]
+leotard. This has its own charm."[pcms]
 
 *126|
 [fc]
 [vo_tay s="taja0086"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja Pohjonen[nse]
+"..."[pcms]
 
 *127|
 [fc]
-[ns]宗一郎[nse]
-「ん？　どうしたの？」[pcms]
+[ns]Souichirou[nse]
+"Hm? What's wrong?"[pcms]
 
 *128|
 [fc]
-ターヤさんは、僕とそーいちに見つめられて、[r]
-俯いてしまっていた。[pcms]
+Tarja-san looks down as she is stared at by both me and Souichirou.[pcms]
 
 *129|
 [fc]
-照れる事なんて、何もないと思うんだけどな。[r]
-こんなに可愛いんだから、[r]
-自分に自信もっていいと思うんだけど。[pcms]
+There's no need to be embarrassed. She's so cute; she should have[r]
+confidence in herself.[pcms]
 
 *130|
 [fc]
-[ns]誠[nse]
-「ねえ、ターヤさん、もっと胸張りなよ。[r]
-　そんなにか……」[pcms]
+[ns]Makoto[nse]
+"Hey, Tarja-san, puff out your chest more. You're not that..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_sw"][ChrSetParts layer=5 chface="F2_ta07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *131|
 [fc]
 [vo_tay s="taja0087"]
-[ns]ターヤ[nse]
-「悪かったな。どうせ胸がないからな。[r]
-　だから……あんまり見るな[r]
-　……この水着は、京都にいた頃の指定のものだ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Sorry about that. It's because I don't have much of a chest. So...[r]
+don't look too much... This swimsuit was designated when I was in[r]
+Kyoto."[pcms]
 
 *132|
 [fc]
-[ns]宗一郎[nse]
-「ほう！　さすが雅の都ですな！[r]
-　金髪少女にハイレグ水着とは……ほほほ……。[r]
-　心得ていらっしゃる……」[pcms]
+[ns]Souichirou[nse]
+"Oh! As expected of the capital of elegance! A blonde girl in a high-[r]
+leg swimsuit... hohoho... You know your stuff..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_sw"][ChrSetParts layer=5 chface="F2_ta21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *133|
 [fc]
 [vo_tay s="taja0088"]
-[ns]ターヤ[nse]
-「うう……あまり言うな」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ugh... don't talk about it too much."[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="na1_bi1_a"][ChrSetParts layer=4 chface="F1_na24"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -844,34 +786,32 @@
 *134|
 [fc]
 [vo_nat s="natu0277"]
-[ns]夏都[nse]
-「おう！　オレはどうだよ！[r]
-　見ろこの白いビキニ！　セクシー！」[pcms]
+[ns]Natsu[nse]
+"Hey! What about me! Look at this white bikini! Sexy!"[pcms]
 
 *135|
 [fc]
-[ns]誠[nse]
-「まだインタビューしてないよ。[r]
-　それに、自分で言ってたら世話ないや」[pcms]
+[ns]Makoto[nse]
+"We haven't interviewed you yet. Besides, it doesn't count if you say[r]
+it yourself."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *136|
 [fc]
-[ns]宗一郎[nse]
-「胸の曲線……あの地球の重力に引かれつつも、[r]
-　なんとか形を保とうとする努力！[r]
-　ほれぼれする！　神の存在を感じるぜ！」[pcms]
+[ns]Souichirou[nse]
+"The curve of the breasts... despite being pulled by the gravity of[r]
+Earth, they try so hard to maintain their shape! It's mesmerizing! I[r]
+can feel the presence of God!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi1_a"][ChrSetParts layer=5 chface="F2_na14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *137|
 [fc]
-[ns]誠[nse]
-「そうか？　見飽きちゃってるしなあ……。[r]
-　僕はもうなんとも思わないや。[r]
-　そもそも、あれじゃあ、ザ・ガッ……」[pcms]
+[ns]Makoto[nse]
+"Really? I'm so used to seeing them that I don't feel anything[r]
+anymore. Besides, with those, it's like 'The Gap'..."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi1_a"][ChrSetParts layer=5 chface="F2_na15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 ;不要？[wait_c time=1000]
@@ -880,18 +820,18 @@
 *138|
 [fc]
 [vo_nat s="natu0278"]
-[ns]夏都[nse]
-「言うんじゃねえよ！　それは言っちゃ駄目だ！[r]
-　もういい。やる気無くした……」[pcms]
+[ns]Natsu[nse]
+"Don't say it! You can't say that! Forget it. You've killed my[r]
+mood..."[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_sw"][ChrSetParts layer=5 chface="F2_sa03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *139|
 [fc]
 [vo_sat s="sato0063"]
-[ns]怜[nse]
-「じゃあ、じゃあ！　私のはね大神学園の指定水着！[r]
-　なんか別の買っておいた方が良かったかな！」[pcms]
+[ns]Sato[nse]
+"Then, then! Mine is the designated swimsuit from Daijin Academy![r]
+Maybe I should have bought a different one!"[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_sw"][ChrSetParts layer=5 chface="F2_sa11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 ;不要？[wait_c time=2000]
@@ -901,43 +841,43 @@
 *140|
 [fc]
 [vo_mis s="misao0131"]
-[ns]美沙緒[nse]
-「あなたたち、もう少しでバーベキュー焼けるからねー」[pcms]
+[ns]Misao[nse]
+"You guys, the barbecue will be ready soon, okay?"[pcms]
 
 *141|
 [fc]
-[ns]宗一郎[nse]
-「ふむ……」[pcms]
+[ns]Souichirou[nse]
+"Hmm..."[pcms]
 
 *142|
 [fc]
-[ns]誠[nse]
-「なるほど……」[pcms]
+[ns]Makoto[nse]
+"I see..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *143|
 [fc]
-怜さんのは、純朴島っ娘には良く似合ってる。[r]
-それより何より、美沙緒さんだ。[r]
-とても三十過ぎとは思えないあのハリ……。[pcms]
+Sato's swimsuit suits her innocent island girl look perfectly. But[r]
+more importantly, it's Misao-san. It's hard to believe she's over[r]
+thirty with that firmness...[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_sw"][ChrSetParts layer=5 chface="F2_sa10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *144|
 [fc]
-[ns]宗一郎[nse]
-「うむ！　村上さん！　あなたは、ザ！　純朴島娘という感じだ！[r]
-　そして美沙緒さん！　あなたのは挟みたい！」[pcms]
+[ns]Souichirou[nse]
+"Yes! Murakami-san! You have the essence of an innocent island girl![r]
+And Misao-san! I want to squeeze yours!"[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_sw"][ChrSetParts layer=5 chface="F2_sa11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *145|
 [fc]
-[ns]誠[nse]
-「……お前、いつから超能力者になった？[r]
-　何で僕の言いたいこと、そんなに簡単に……」[pcms]
+[ns]Makoto[nse]
+"...When did you become a psychic? How can you so easily say what I[r]
+want to..."[pcms]
 
 ;不要？[wait_c time=2000]
 [ChrSetEx layer=5 chbase="ha2_sw2_a"][ChrSetParts layer=5 chface="F2_ha08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -945,24 +885,23 @@
 *146|
 [fc]
 [vo_han s="hana0081"]
-[ns]花沢[nse]
-「あんた達、さっきから何やってんのよ！[r]
-　そこどきなさいよ……イカ臭いったらありゃしない。[r]
-　近寄るだけで妊娠しちゃいそうだわ……」[pcms]
+[ns]Hanazawa[nse]
+"What are you guys doing since earlier! Move aside... It smells so[r]
+fishy it's unbearable. Just getting close makes me feel like I could[r]
+get pregnant..."[pcms]
 
 *147|
 [fc]
-[ns]誠[nse]
-「何ィ？」[pcms]
+[ns]Makoto[nse]
+"What?"[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_sw2_a"][ChrSetParts layer=5 chface="F2_ha04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *148|
 [fc]
-[ns]宗一郎[nse]
-「なんて事言うの！　このクソビッチ！[r]
-　お前なんかただちょっとエロい体してるだけじゃん！[r]
-　おっぱいでかいし！　このヤロォ！　スケベ！」[pcms]
+[ns]Souichirou[nse]
+"How can you say such a thing! You damn bitch! All you have is a[r]
+slightly erotic body! And big tits! You bastard! Pervert!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ar1_sw"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0]
@@ -970,43 +909,40 @@
 
 *149|
 [fc]
-[ns]荒井[nse]
-「あのさあ……さっきから聞いてりゃお前ら……。[r]
-　気でも触れたのか？」[pcms]
+[ns]Arai[nse]
+"Hey... I've been listening to you guys for a while... Have you lost[r]
+your minds?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_a"][ChrSetParts layer=4 chface="F1_so27a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *150|
 [fc]
-[ns]宗一郎[nse]
-「だから君たち、なんでそういう酷い事ばかり言うの！[r]
-　大体なんで俺達にそう冷たく当たるのでしょうね！[r]
-　そもそも荒井！　お前呼んでないから」[pcms]
+[ns]Souichirou[nse]
+"That's why, why do you girls always say such terrible things! Why are[r]
+you so cold to us in the first place! And Arai! We didn't invite you"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so13b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *151|
 [fc]
-[ns]誠[nse]
-「そうだそうだ！　お前なんか呼んでないぞー！[r]
-　バーカ！　バーーカ！！」[pcms]
+[ns]Makoto[nse]
+"That's right, that's right! We didn't invite you! Idiot! Idiot!!"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_sw"][ChrSetParts layer=3 chface="F1_ar12"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *152|
 [fc]
-[ns]荒井[nse]
-「いや、俺も誘われてたんで……。[r]
-　ってか、ホント大丈夫かお前ら？[r]
-　キャラも違う気がするし……」[pcms]
+[ns]Arai[nse]
+"No, I was invited too... But really, are you guys okay? You seem out[r]
+of character..."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so03b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *153|
 [fc]
-[ns]誠＆宗一郎[nse]
-「キャラ違うとか言うなよ！[r]
-　第一テメー、足怪我してんだろ！　黙って寝てろよ！」[pcms]
+[ns]Makoto & Souichirou[nse]
+"Don't say we're out of character! First of all, you bastard, your leg[r]
+is injured! Just shut up and lie down!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
@@ -1014,9 +950,8 @@
 *154|
 [fc]
 [vo_mis s="misao0132"]
-[ns]美沙緒[nse]
-「みんなー！　お待ちどおさま！　出来たわよー！[r]
-　早く食べましょう」[pcms]
+[ns]Misao[nse]
+"Everyone! Thank you for waiting! It's ready! Let's eat quickly"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ar1_sw"][ChrSetParts layer=3 chface="F1_ar02"][ChrSetXY layer=3 x=0 y=0]
@@ -1024,15 +959,15 @@
 
 *155|
 [fc]
-[ns]誠[nse]
-「おっ！　食おう！　肉だ肉肉肉肉十八」[pcms]
+[ns]Makoto[nse]
+"Oh! Let's eat! Meat, meat, meat, meat eighteen"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so13b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *156|
 [fc]
-[ns]宗一郎[nse]
-「ハァ？　馬鹿かお前」[pcms]
+[ns]Souichirou[nse]
+"Huh? Are you stupid?"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1042,15 +977,13 @@
 
 *157|
 [fc]
-[ns]宗一郎[nse]
-「うむ、海辺で食う肉は最高であるな。[r]
-　だろう、誠」[pcms]
+[ns]Souichirou[nse]
+"Yes, meat eaten by the seaside is the best. Right, Makoto?"[pcms]
 
 *158|
 [fc]
-[ns]誠[nse]
-「うむ、しかしまだ食い足らん。[r]
-　何かないのか」[pcms]
+[ns]Makoto[nse]
+"Yes, but I'm still not satisfied. Isn't there anything else?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1060,39 +993,36 @@
 *159|
 [fc]
 [vo_mis s="misao0133"]
-[ns]美沙緒[nse]
-「デザート食べる？　スイカ割りしよっか」[pcms]
+[ns]Misao[nse]
+"Want dessert? How about watermelon splitting?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *160|
 [fc]
-[ns]宗一郎[nse]
-「おっ、いいですな！　美沙緒さんのおっぱいみたいな、[r]
-　デカいスイカ！　おっぱい！」[pcms]
+[ns]Souichirou[nse]
+"Oh, that sounds good! A big watermelon like Misao-san's tits! Tits!"[pcms]
 
 *161|
 [fc]
-[ns]誠[nse]
-「なにっ！　おっぱい？　おい、バット貸せ！[r]
-　この野郎！　おっぱい独り占めか！　この野郎！」[pcms]
+[ns]Makoto[nse]
+"What?! Tits? Hey, lend me the bat! You bastard! Hogging the tits all[r]
+to yourself!"[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_sw"][ChrSetParts layer=3 chface="F1_mi12"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *162|
 [fc]
-困惑した表情を浮かべる美沙緒さんが持っていたバットを、[r]
-乱暴に奪い取った僕は、[r]
-そーいちの頭めがけて勢いよく振り下ろした。[pcms]
+With a confused expression, Misao-san had her bat snatched away[r]
+roughly by me, and I swung it down hard towards Souichirou's head.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_sw2"][ChrSetParts layer=5 chface="F1_ak14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *163|
 [fc]
 [vo_aka s="akari0524"]
-[ns]茜梨[nse]
-「なっ……何をしているんですか！？[r]
-　怪我しちゃいます！　やめてください！」[pcms]
+[ns]Akari[nse]
+"What... What are you doing?! You'll get hurt! Please stop!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1112,62 +1042,56 @@
 
 *164|
 [fc]
-僕が振り下ろしたバットは、[r]
-そーいちの頭をしたたかに打ち付けた。[pcms]
+The bat I swung down struck Souichirou's head hard.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_sw"][ChrSetParts layer=5 chface="F2_mi23"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *165|
 [fc]
 [vo_mis s="misao0134"]
-[ns]美沙緒[nse]
-「きっ……きゃあぁああっ！」[pcms]
+[ns]Misao[nse]
+"Eek... Eeeekkkk!"[pcms]
 
 *166|
 [fc]
-完璧に入った。[r]
-そう確信した僕は、バットを投げ捨て、[r]
-美沙緒さんの方へと向き直った。[pcms]
+Convinced that it was a perfect hit, I threw away the bat and turned[r]
+back towards Misao-san.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so19a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *167|
 [fc]
-[ns]宗一郎[nse]
-「まーこーとー！　テメェ！　何しやあんだぁ？[r]
-　いれぇじゃねえがよぉお……」[pcms]
+[ns]Souichirou[nse]
+"Makoto! You bastard! What are you doing? It hurts like hell..."[pcms]
 
 ;//♂Ｄ：意図的な誤字
 
 *168|
 [fc]
-[ns]誠[nse]
-「おっ、バットを手にしたクソデブが僕を睨んでいる！[r]
-　これは、血を見そうだ！　ぎゃははは！！」[pcms]
+[ns]Makoto[nse]
+"Oh, the fatso with the bat is glaring at me! This looks like it's[r]
+going to get bloody! Gyahaha!!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi1_a"][ChrSetParts layer=5 chface="F2_na05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *169|
 [fc]
 [vo_nat s="natu0279"]
-[ns]夏都[nse]
-「ちょっとお前ら！　やめとけよ！[r]
-　第一デブお前血ィ出てんじゃねえかよ、大丈夫か？[r]
-　誠！　笑ってないで謝れよ！　何考えてんだお前！」[pcms]
+[ns]Natsu[nse]
+"Hey you guys! Stop it! First of all, fatso, you're bleeding, aren't[r]
+you okay? Makoto! Stop laughing and apologize! What are you thinking?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so31b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *170|
 [fc]
-[ns]宗一郎[nse]
-「お姉様！　ボクは平気です！　むしろ気分がいい！[r]
-　行くぞォ……誠ォ！」[pcms]
+[ns]Souichirou[nse]
+"Onee-sama! I'm fine! In fact, I feel great! Here I come... Makoto!"[pcms]
 
 *171|
 [fc]
-[ns]誠[nse]
-「さあこい！　僕の頭をぶってみろ！[r]
-　さあ！　さあああぁぁ！！」[pcms]
+[ns]Makoto[nse]
+"Come on then! Try hitting my head! Come on! Come oooonnn!!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="st1_sw2_a"][ChrSetParts layer=3 chface="f1_st14"][ChrSetXY layer=3 x=0 y=0]
@@ -1176,32 +1100,31 @@
 *172|
 [fc]
 [vo_stk s="satuki0192"]
-[ns]彩月[nse]
-「やめなさいって言ってるでしょ！　怪我しても知らないから！」[pcms]
+[ns]Satsuki[nse]
+"I said stop it! If you get hurt, don't blame me!"[pcms]
 
 [ChrSetEx layer=4 chbase="na1_bi1_a"][ChrSetParts layer=4 chface="F1_na22"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *173|
 [fc]
 [vo_nat s="natu0280"]
-[ns]夏都[nse]
-「駄目だ、つきあいきれねえや。[r]
-　止めても無駄だ。ほっとこう。[r]
-　こういうのは痛い思いしなきゃわかんねえんだ」[pcms]
+[ns]Natsu[nse]
+"No use, can't deal with this. It's pointless to stop them. Let them[r]
+be. They won't understand until they get hurt."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_sw2_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *174|
 [fc]
 [vo_stk s="satuki0193"]
-[ns]彩月[nse]
-「でも……」[pcms]
+[ns]Satsuki[nse]
+"But..."[pcms]
 
 *175|
 [fc]
-[ns]誠[nse]
-「そうだそうだ！　姉ちゃんの言うとおりだ！[r]
-　南先輩！　僕は負けない！　あんなデブには負けない！」[pcms]
+[ns]Makoto[nse]
+"That's right, that's right! Just like Onee-chan said! Senpai Minami![r]
+I won't lose! I won't lose to such a fatso!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ta1_sw"][ChrSetParts layer=3 chface="F1_ta21"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -1210,129 +1133,120 @@
 *176|
 [fc]
 [vo_tay s="taja0089"]
-[ns]ターヤ[nse]
-「……行こう、怜。バカの近くにいると、余計な怪我をする」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...Let's go, Sato. Being near idiots will only lead to unnecessary[r]
+injuries."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *177|
 [fc]
-僕達の周りから、女の子達が一人、[r]
-また一人と離れていく。[r]
-そして、僕とそーいちだけが残された。[pcms]
+One by one, the girls started to leave our surroundings. And then,[r]
+only me and Souichirou were left.[pcms]
 
 *178|
 [fc]
-ギャラリーがいなくなってしまった。[r]
-なんだか、つまらない。[pcms]
+With no audience left, it suddenly felt boring.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so12b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *179|
 [fc]
-それは、そーいちも同じ気持ちだった様で、[r]
-力一杯握りしめていたバットを、砂浜に投げ捨て、[r]
-僕に近寄ってきた。[pcms]
+Souichirou seemed to feel the same way, as he threw the bat he was[r]
+gripping with all his might onto the sandy beach and approached me.[pcms]
 
 *180|
 [fc]
-[ns]誠[nse]
-「なあ、僕達はどうする？」[pcms]
+[ns]Makoto[nse]
+"Hey, what are we going to do?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *181|
 [fc]
-[ns]宗一郎[nse]
-「うーん、ギャラリーがいないんじゃ、面白く無いしな」[pcms]
+[ns]Souichirou[nse]
+"Hmm, it's not fun without an audience."[pcms]
 
 *182|
 [fc]
-[ns]誠[nse]
-「そうなんだよな。[r]
-　よし、追いかけよう。どうもバットでチャンバラはウケが悪い。[r]
-　何をしたらいいんだろう？」[pcms]
+[ns]Makoto[nse]
+"That's true. Alright, let's chase after them. It seems like our bat[r]
+swordfight didn't go over well. What should we do?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *183|
 [fc]
-[ns]宗一郎[nse]
-「うーん、そうだなぁ……。[r]
-　よし、漫才をして見せるというのはどうかね」[pcms]
+[ns]Souichirou[nse]
+"Hmm, I know... How about we try doing a comedy routine?"[pcms]
 
 *184|
 [fc]
-[ns]誠[nse]
-「漫才……僕、やったことないよ？」[pcms]
+[ns]Makoto[nse]
+"A comedy routine... I've never done that before?"[pcms]
 
 *185|
 [fc]
-[ns]宗一郎[nse]
-「何とかなるもんだ。とりあえず練習しておくか？[r]
-　まずは俺から行くぞ。はいはいはいどうもー！[r]
-　中澤さん、最近調子はどうですかね！？」[pcms]
+[ns]Souichirou[nse]
+"We'll manage somehow. Shall we practice first? I'll start. Hello[r]
+hello hello! Nakazawa-san, how have you been feeling lately?"[pcms]
 
 *186|
 [fc]
-[ns]誠[nse]
-「うん……おいしいモノ食べて……水着姿の女の子達と遊んで……[r]
-　って、何だよこれ！　面白くいないじゃねえか！[r]
-　やっぱ漫才とか、プロに任せておくべきなんだよ……」[pcms]
+[ns]Makoto[nse]
+"Yeah... eating delicious food... playing with girls in swimsuits...[r]
+What is this! It's not funny at all! We should leave comedy to the[r]
+professionals..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *187|
 [fc]
-[ns]宗一郎[nse]
-「簡単に諦めるのは嫌いだが……お前の言うとおりだ。[r]
-　それよりですね、ボク様、[r]
-　さっきからアソコがギンギンで困っておるのです」[pcms]
+[ns]Souichirou[nse]
+"I hate to give up so easily... but you're right. More importantly, my[r]
+lord, I've been troubled because my dick has been rock hard for a[r]
+while now."[pcms]
 
 *188|
 [fc]
-[ns]誠[nse]
-「……お前もだったのか……。[r]
-　もうさ、漫才がどうのこうの言うより、[r]
-　セックスしないと駄目なんじゃないか？」[pcms]
+[ns]Makoto[nse]
+"...You too, huh... Maybe instead of talking about comedy routines, we[r]
+just need to have sex."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *189|
 [fc]
-[ns]宗一郎[nse]
-「セックスか……全くだな！　お前やっぱり親友だよ。[r]
-　持つべきモノは友って、良く言ったモンだよなあ。[r]
-　よし、行くぞ！」[pcms]
+[ns]Souichirou[nse]
+"Sex, huh... Exactly! You really are my best friend. There's a saying[r]
+that friends are the family you choose. Alright, let's go!"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_sw"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *190|
 [fc]
-[ns]荒井[nse]
-「お前らには呆れたよ。[r]
-　バカだバカだと思っていたけど、底なしのバカだな」[pcms]
+[ns]Arai[nse]
+"I'm astounded by you guys. I thought you were idiots, but you're[r]
+bottomless idiots."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *191|
 [fc]
-[ns]誠＆宗一郎[nse]
-「……黙ってりゃいい気になりやがって！[r]
-　いい加減お前、死ねよ！」[pcms]
+[ns]Makoto & Souichirou[nse]
+"...Shut up and enjoy your good mood! Seriously, just die already!"[pcms]
 
 *192|
 [fc]
-[ns]荒井[nse]
-「うっ、うわぁあっ！！　やめろよ！[r]
-　何するんだ……うわああああぁっ！　やめろ！[r]
-　砂かけるな！　こらぁああっ！！」[pcms]
+[ns]Arai[nse]
+"Ugh, uwaahh!! Stop it! What are you doing... uwaahhh! Stop! Don't[r]
+throw sand! Hey!"[pcms]
 
 *193|
 [fc]
-僕とそーいちは、華麗ともいえる連携で、[r]
-荒井の体を砂の上へと押し倒し、[r]
-押さえ込んだ体の上へ、砂をかけ続けた。[pcms]
+Makoto and Souichirou, in a display that could be called splendid[r]
+teamwork, pushed Arai down onto the sand and continued to pour sand[r]
+over his body that they held down.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -1351,88 +1265,85 @@
 
 *194|
 [fc]
-[ns]荒井[nse]
-「うう、苦しい……」[pcms]
+[ns]Arai[nse]
+"Ugh, I can't breathe..."[pcms]
 
 *195|
 [fc]
-あれから、どのくらい続けていたんだろう。[r]
-荒井は、そーいちの腰くらいの高さまで積み上げられた[r]
-砂の山によって、かろうじて顔が見える様な状態になっていた。[pcms]
+How long had it been since then? Arai was barely visible, his face[r]
+just above a mound of sand piled up to about the height of[r]
+Souichirou's waist.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so13b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *196|
 [fc]
-[ns]宗一郎[nse]
-「豆知識だ。大体３０センチほどの砂が乗せられると、[r]
-　人間は身動きが取れなくなる。下手したら呼吸困難で[r]
-　死ぬから、あまりやらない方がいい」[pcms]
+[ns]Souichirou[nse]
+"Here's a fun fact. When about 30 centimeters of sand is piled on[r]
+someone, they can't move. If you're not careful, they could suffocate[r]
+and die, so it's best not to do it too much."[pcms]
 
 *197|
 [fc]
-[ns]荒井[nse]
-「もうやってるじゃないか……俺、何もしてないだろ、[r]
-　助けてくれよ……苦しい……」[pcms]
+[ns]Arai[nse]
+"You're already doing it... I didn't do anything, help me... I can't[r]
+breathe..."[pcms]
 
 *198|
 [fc]
-[ns]誠[nse]
-「何もしてないだって？　さんざん僕にちょっかい出しておいて。[r]
-　どの口が言うんだ？　コノヤロ」[pcms]
+[ns]Makoto[nse]
+"You didn't do anything? After all the trouble you've caused me. Which[r]
+mouth is saying that? Bastard."[pcms]
 
 *199|
 [fc]
-足下であえぐ荒井の顔めがけ、砂を足で蹴って振りかける。[pcms]
+Kicking sand towards Arai's gasping face at his feet.[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_sw"][ChrSetParts layer=5 chface="F1_ar12"][ChrSetXY layer=5 x=300 y=500][trans_c cross time=150]
 
 *200|
 [fc]
-[ns]荒井[nse]
-「ぷあっ……ぺっ……ぺっ……うう、もうやめろよ、お前ら。[r]
-　クソッ、覚えてろよ……砂から出たらタダじゃ済まさないぞ！」[pcms]
+[ns]Arai[nse]
+"Puh... ptoo... ptoo... ugh, stop it already, you guys. Damn it,[r]
+remember this... once I get out of this sand, I won't let you off[r]
+easy!"[pcms]
 
 *201|
 [fc]
-まだ抵抗する気力があるのか。[r]
-威勢だけは認めるけど、コイツはずっと気に入らなかったんだ。[r]
-こんなのじゃ、まだまだ物足りない。[pcms]
+He still had the energy to resist. I had to admit his spirit was[r]
+commendable, but I never liked this guy. This wasn't satisfying[r]
+enough.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *202|
 [fc]
-だけど、何をしたらいいんだろう。[r]
-そーいちなら、何かいいアイディアがあるかもしれない。[pcms]
+But what should I do? Souichirou might have a good idea.[pcms]
 
 *203|
 [fc]
-[ns]誠[nse]
-「なあ、そーいち。そーいち、砂かけてないで僕の話きいてよ。[r]
-　荒井を懲らしめるアイディア、何かない？[r]
-　聞いてる？　そーいち！」[pcms]
+[ns]Makoto[nse]
+"Hey, Souichirou. Souichirou, stop throwing sand and listen to me. Do[r]
+you have any ideas for punishing Arai? Are you listening? Souichirou!"[pcms]
 
 *204|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *205|
 [fc]
-そーいちは荒井に砂をかける事に夢中で、[r]
-僕の話なんかちっとも聞いていないみたいだ。[pcms]
+Souichirou was so engrossed in throwing sand at Arai that he wasn't[r]
+listening to me at all.[pcms]
 
 *206|
 [fc]
-みんな、僕の言うこと聞かない。[r]
-イライラしてきた。[pcms]
+Everyone ignores what I say. It's starting to irritate me.[pcms]
 
 *207|
 [fc]
-僕は、砂浜にうち捨てられたバットを握りしめると、[r]
-打ち上げられたトドみたいな背中に向け、[r]
-勢いよく振り下ろした。[pcms]
+I gripped the bat that was discarded on the sandy beach and swung it[r]
+down with force towards the back that looked like a beached seal.[pcms]
 
 [se buf=0 storage="seB009"]
 ;//打撃
@@ -1446,15 +1357,14 @@
 
 *208|
 [fc]
-[ns]宗一郎[nse]
-「いってぇ！　何するんだよ誠！　人が砂遊びしてるってのに」[pcms]
+[ns]Souichirou[nse]
+"Ouch! What are you doing Makoto! I was just playing with sand."[pcms]
 
 *209|
 [fc]
-[ns]誠[nse]
-「お前が僕を無視するから悪いんだ！　死ね！[r]
-　もうみんな死ねよ！　うわああぁあん！[r]
-　ちきしょー！」[pcms]
+[ns]Makoto[nse]
+"It's your fault for ignoring me! Die! Everyone just die! Uwaaaahhh![r]
+Damn it!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1485,148 +1395,141 @@
 
 *210|
 [fc]
-[ns]宗一郎[nse]
-「こ、こら……やめろ、おい！」[pcms]
+[ns]Souichirou[nse]
+"Hey, hey... stop it, oi!"[pcms]
 
 *211|
 [fc]
-僕は、涙を流しながらバットを出鱈目に振り回す。[r]
-ほとんど見えない視界の中、[r]
-手に鈍い感覚が連続して伝わってくる。[pcms]
+I swung the bat wildly while tears streamed down my face. In my barely[r]
+visible vision, I felt a dull sensation in my hand repeatedly.[pcms]
 
 *212|
 [fc]
-それと同時に、顔に生ぬるい液体が降り注ぎ、[r]
-霞んで見えにくい視界が、赤く染まっていった。[pcms]
+At the same time, a lukewarm liquid poured down on my face and my[r]
+blurry vision turned red.[pcms]
 
 *213|
 [fc]
-汗と涙が、顔を伝う。[r]
-それと共に、そーいちの方から飛んできた生ぬるい液体も、[r]
-僕の口の中に流れ込んだ。[pcms]
+Sweat and tears ran down my face. Along with that, the lukewarm liquid[r]
+that flew from Souichirou also flowed into my mouth.[pcms]
 
 *214|
 [fc]
-[ns]誠[nse]
-「うわ鉄くさ！　これ、血かよ、きったねーな！[r]
-　ん……血！？　うわゴメンそーいち！」[pcms]
+[ns]Makoto[nse]
+"Ew, tastes like iron! This is blood, isn't it? Gross! Huh... blood!?[r]
+Oh no, sorry Souichirou!"[pcms]
 
 *215|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *216|
 [fc]
-しまった、ちょっとやり過ぎちゃったかな……。[r]
-そーいちは怒っているのか、黙ったままだし。[pcms]
+I might have gone a bit too far... Souichirou is silent; maybe he's[r]
+angry.[pcms]
 
 *217|
 [fc]
-ああ、こんな事で僕とそーいちの友情が壊れちゃうなんて！[r]
-僕は、なんて事をしてしまったんだろう！[pcms]
+Oh no, what if this ruins the friendship between me and Souichirou![r]
+What have I done![pcms]
 
 *218|
 [fc]
-かくなる上は死んで詫びるしか……。[pcms]
+If it has come to this, the only thing left is to die in apology...[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *219|
 [fc]
-[ns]誠＆宗一郎[nse]
-「あのさ……」[pcms]
+[ns]Makoto & Souichirou[nse]
+"You know..."[pcms]
 
 *220|
 [fc]
-僕が口を開くのと同時に、そーいちも口を開く。[pcms]
+As I opened my mouth to speak, Souichirou did the same.[pcms]
 
 *221|
 [fc]
-なんだかちょっと気まずくなった僕は、[r]
-そーいちの次の言葉を待つことにした。[pcms]
+Feeling a bit awkward, I decided to wait for Souichirou's next words.[pcms]
 
 *222|
 [fc]
-[ns]誠[nse]
-「あ、どうぞ……」[pcms]
+[ns]Makoto[nse]
+"Ah, please go ahead..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *223|
 [fc]
-[ns]宗一郎[nse]
-「……不毛だ。こんな事、不毛だ。[r]
-　誠、俺達の使命を思い出せ……。[r]
-　俺達がやるべき事は、こんな事じゃないだろう！」[pcms]
+[ns]Souichirou[nse]
+"...This is futile. Such things are futile. Makoto, remember our[r]
+mission... What we should be doing isn't this!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so19b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *224|
 [fc]
-[ns]宗一郎[nse]
-「とりあえずお前、顔の血をぬぐって良く聞け。[r]
-　俺達がやらねばならない事は、ただ一つ！[r]
-　水着美女達とのセックスだろう！」[pcms]
+[ns]Souichirou[nse]
+"First off, wipe the blood off your face and listen well. There's only[r]
+one thing we must do! And that's to have sex with the swimsuit-clad[r]
+beauties!"[pcms]
 
 *225|
 [fc]
-[ns]誠[nse]
-「あっ！」[pcms]
+[ns]Makoto[nse]
+"Ah!"[pcms]
 
 *226|
 [fc]
-そうだ……。[r]
-僕は、そーいちを殴って泣いてる場合じゃなかった。[r]
-このままじゃ、ちんこが爆発して死んでしまう！[pcms]
+That's right... I shouldn't be hitting Souichirou and crying. At this[r]
+rate, my dick is going to explode and I'll die![pcms]
 
 *227|
 [fc]
-[ns]誠[nse]
-「危ないところだった……」[pcms]
+[ns]Makoto[nse]
+"That was a close one..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so08b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *228|
 [fc]
-[ns]宗一郎[nse]
-「だろう……俺達は、[r]
-　荒井なんかにかまってる余裕はなかったんだよ！[r]
-　だから、もう行くぞ！　俺達に残された時間は少ないんだ！」[pcms]
+[ns]Souichirou[nse]
+"Right... We didn't have the luxury to bother with Arai! So, let's go![r]
+We don't have much time left!"[pcms]
 
 *229|
 [fc]
-僕は、申し訳ない気持ちで一杯になり、[r]
-思わず目を砂浜に落としてしまう。[r]
-すると、砂に埋もれた荒井が視界に飛び込んできた。[pcms]
+I felt terribly sorry and inadvertently cast my eyes down to the sandy[r]
+beach. Then, Arai, buried in the sand, came into my view.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *230|
 [fc]
-そーいちがまき散らした血が流れ込んでいるにも関わらず、[r]
-荒井は大きな口を開けて眠っていた。[pcms]
+Despite the blood scattered by Souichirou flowing into it, Arai was[r]
+sleeping with his mouth wide open.[pcms]
 
 *231|
 [fc]
-……コイツはもう、ほっとこう。[pcms]
+...Let's just leave this guy alone.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *232|
 [fc]
-[ns]誠[nse]
-「う、うん……でも、どうやって……」[pcms]
+[ns]Makoto[nse]
+"Yeah, but how do we..."[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_sw2_a"][ChrSetParts layer=5 chface="F2_ha04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *233|
 [fc]
 [vo_han s="hana0082"]
-[ns]花沢[nse]
-「ちょっと、あんた達いくら何でも騒ぎすぎじゃないの！？[r]
-　何やってるのよ、全く……って、血まみれじゃない！[r]
-　あ、荒井君まで……！　きゃあぁあぁあっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Hey, you guys are making way too much noise! What are you doing?[r]
+Seriously... Oh my god, you're covered in blood! Ah, even Arai-kun...![r]
+Kyaaaahhh!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_sw2_a"][ChrSetParts layer=5 chface="F2_ha12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 ;不要？[wait_c time=1000]
@@ -1635,24 +1538,22 @@
 
 *234|
 [fc]
-[ns]宗一郎[nse]
-「これだ！　これだよ誠ちゃん！[r]
-　俺達の野望の第一歩は、ここから始まるんだ！」[pcms]
+[ns]Souichirou[nse]
+"This is it! This is it, Makoto-chan! Our ambition starts with this[r]
+first step!"[pcms]
 
 *235|
 [fc]
-[ns]誠[nse]
-「そ、そうか！　じゃあ、行くぞ！[r]
-　初っぱなが[ruby text="コイツ"][ch text="花沢"]ってのが気に入らないけど、[r]
-　もう誰でもいいや！　うぉおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Right, let's go! I'm not thrilled that Hanazawa is the first one, but[r]
+at this point, anyone will do! Uooooh!"[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_sw2_a"][ChrSetParts layer=5 chface="F2_ha13"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *236|
 [fc]
-僕とそーいちは、仲良く水着の股間部分にテントを張ったまま、[r]
-だらしない巨乳を揺さぶるビッチに向かい、[r]
-飛びかかって行った。[pcms]
+Makoto and Souichirou, with tents pitched in the crotch of their[r]
+swimsuits, charged towards the bitch shaking her sloppy big tits.[pcms]
 
 ;//#_ブラックアウト
 ;//[black_toplayer][trans_c cross time=500][hide_chara_int]

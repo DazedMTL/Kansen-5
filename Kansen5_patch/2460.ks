@@ -17,53 +17,52 @@
 ;//m:2340の選択肢から接続
 ;//[link storage="2460.ks" target=*2460_TOP]見捨てる[endlink]
 ;//★_民家
-;//♪bgm13～継続中
+;//♪bgm13継続中
 
 *4048|
 [fc]
-やっぱり足手まといになった。[r]
-だから戦ったことのないヤツなんて、連れてきたくなかったのに。[pcms]
+I ended up being a burden after all. That's why I didn't want to bring[r]
+someone who has never fought with us.[pcms]
 
 *4049|
 [fc]
-あの女がやっていた事と言えば、屋内でわたし達を[r]
-モルモットとして扱ってただけ。[pcms]
+All that woman did was treat us like guinea pigs indoors.[pcms]
 
 *4050|
 [fc]
-むかつく。[pcms]
+I'm so pissed off.[pcms]
 
 *4051|
 [fc]
-いい機会だわ。誰が助けてなんかやるもんですか。[r]
-自分でなんとかすればいいのよ。[pcms]
+What a good opportunity. Who says I have to help anyone? They should[r]
+just take care of themselves.[pcms]
 
 ;//めも：ご想像におまかせるため美沙緒も立ち絵はりません。
 
 *4052|
 [fc]
 [vo_mis s="misao_st0255"]
-[ns]美沙緒[nse]
-「いやっ！　やめてっ！　離してぇぇっ！」[pcms]
+[ns]Misao[nse]
+"No! Stop it! Let me gooooo!"[pcms]
 
 [se buf=0 storage="seB079"]
 ;//♪SEガラスの割れる音
 
 *4053|
 [fc]
-また１本、ヤツらの腕が突き入れられてきた。[r]
-その手は、あの女のを掴もうと、蠢いている。[pcms]
+Another arm thrusts its way in. It's wriggling, trying to grab that[r]
+woman.[pcms]
 
 *4054|
 [fc]
 [vo_mis s="misao_st0256"]
-[ns]美沙緒[nse]
-「ひっ、いやあっ、やめてっ、やめてっ、来ないでっ！」[pcms]
+[ns]Misao[nse]
+"Hii, nooo, stop it, stop it, don't come any closer!"[pcms]
 
 *4055|
 [fc]
-指が彼女の髪に触れる。ぐわっと開かれた手は、[r]
-そのまま彼女の頭を鷲掴みにした。[pcms]
+The fingers touch her hair. The widely opened hand then grabs her head[r]
+in a swoop.[pcms]
 
 ;//#_赤フラ
 [赤フラ]
@@ -71,47 +70,47 @@
 *4056|
 [fc]
 [vo_mis s="misao_st0257"]
-[ns]美沙緒[nse]
-「いっぎゃあああっ！　ぐぎゃああああっ！！」[pcms]
+[ns]Misao[nse]
+"Iggyaaaaaah! Gugyaaaaaaaah!!"[pcms]
 
 *4057|
 [fc]
-節くれ立った指が、眼鏡のグラスを突き破り、[r]
-目の中にめりこんでいる。[pcms]
+The gnarled fingers break through the glasses and are buried in her[r]
+eyes.[pcms]
 
 *4058|
 [fc]
 [vo_stk s="satuki_st0590"]
-[ns]彩月[nse]
-「ひっ！」[pcms]
+[ns]Satsuki[nse]
+"Hii!"[pcms]
 
 [se buf=1 storage="seD015"]
 ;//♪SE弾けて液体が噴き出す
 
 *4059|
 [fc]
-彼女の目から血が噴き出す。パタリと抵抗していた手が落ち、[r]
-美沙緒さんは、動かなくなった。[pcms]
+Blood spurts from her eyes. Her resisting hand drops, and Misao-san[r]
+stops moving.[pcms]
 
 *4060|
 [fc]
-身体が震える。助けなかった罪悪感がわたしを責める。[r]
-でも、わたしの中のどこかで、ざまあみろという声が叫んでいた。[r]
-わたしは、そちらを掬い上げ、その声に従うことにする。[pcms]
+My body is shaking. Guilt for not helping is accusing me. But[r]
+somewhere inside me, a voice is shouting "serves you right." I decide[r]
+to pick up that voice and follow it.[pcms]
 
 *4061|
 [fc]
 [vo_stk s="satuki_st0591"]
-[ns]彩月[nse]
-「……お似合いの死に様だわ。じゃあね」[pcms]
+[ns]Satsuki[nse]
+"...A fitting end for you. Bye."[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *4062|
 [fc]
-わたしは次々伸びてくる腕をなぎ払い、そのまま脳天を[r]
-ぶちのめし続けた。ドサドサと倒れる感染者を尻目に、[r]
-最短距離で出口に向かう。[pcms]
+I slash at the arms reaching out one after another, and keep smashing[r]
+their heads. Leaving the fallen infected behind, I head for the exit[r]
+by the shortest route.[pcms]
 
 ;//★_集落（民家外）
 [bg storage="village01a"][trans_c cross time=500]
@@ -119,19 +118,19 @@
 *4063|
 [fc]
 [vo_stk s="satuki_st0592"]
-[ns]彩月[nse]
-「はっ……はっ……はっ……」[pcms]
+[ns]Satsuki[nse]
+"Hah... hah... hah..."[pcms]
 
 *4064|
 [fc]
-何人も殴り倒して、わたしの手のひらは痛みを覚えてきていた。[r]
-息を整えるため、わたしはすぐに物陰へ身を隠す。[pcms]
+After knocking down so many, my palms start to feel the pain. To catch[r]
+my breath, I immediately hide in the shadows.[pcms]
 
 *4065|
 [fc]
-この先は、気配を消してやり過ごしながら集会所に戻ろう。[r]
-ひとりきりだから、どうとでもなる。[r]
-自分の身の安全だけを考えればいいんだから……。[pcms]
+From here on, I'll return to the assembly hall while staying hidden[r]
+and waiting it out. It's easy when I'm alone. I just need to think[r]
+about my own safety...[pcms]
 
 ;//★_集会所裏口
 ;//めも：ないので表で。
@@ -139,41 +138,42 @@
 
 *4066|
 [fc]
-アイツらを引き連れることなく、無事に集会所にたどり着いた。[pcms]
+I managed to reach the assembly hall safely without dragging them[r]
+along.[pcms]
 
 *4067|
 [fc]
 [vo_stk s="satuki_st0593"]
-[ns]彩月[nse]
-「……はあ」[pcms]
+[ns]Satsuki[nse]
+"...Haa"[pcms]
 
 *4068|
 [fc]
-ひどく緊張していたみたい。わたしの口から安堵のため息が漏れた。[r]
-同時に、身体がガタガタと震えだす。[pcms]
+I must have been very tense. A sigh of relief escapes my lips. At the[r]
+same time, my body starts to tremble violently.[pcms]
 
 *4069|
 [fc]
 [vo_stk s="satuki_st0594"]
-[ns]彩月[nse]
-「…………ううっ」[pcms]
+[ns]Satsuki[nse]
+"...Ugh"[pcms]
 
 *4070|
 [fc]
-最期の美沙緒さんの姿が蘇る。[r]
-潰された目から吹き出す血。だらりと垂れた腕。[r]
-もう動かない肉の塊に成り果てた姿……。[pcms]
+The last image of Misao-san comes back to me. Blood spurting from her[r]
+crushed eyes. Her limp arm hanging down. The sight of her turned into[r]
+a lifeless lump of flesh...[pcms]
 
 *4071|
 [fc]
 [vo_stk s="satuki_st0595"]
-[ns]彩月[nse]
-「んぐっ……ぐうぅ」[pcms]
+[ns]Satsuki[nse]
+"Nguh... guuu"[pcms]
 
 *4072|
 [fc]
-気持ちが悪い。胃がぎゅうぎゅうと責めてくる。[r]
-わたしは、口を押さえる手もむなしく、その場で吐き始めた。[pcms]
+I feel sick. My stomach is churning. Despite my hand over my mouth, I[r]
+start vomiting right there.[pcms]
 
 [se buf=1 storage="seD016"]
 ;//♪SE内臓が床に落ちる音
@@ -181,62 +181,62 @@
 *4073|
 [fc]
 [vo_stk s="satuki_st0596"]
-[ns]彩月[nse]
-「んぐっ……ぐはっ……」[pcms]
+[ns]Satsuki[nse]
+"Nguh... guhah..."[pcms]
 
 *4074|
 [fc]
-わたしのせいじゃない。あれは因果応報だわ。[r]
-さんざんわたし達をモルモット扱いした報いよ。[pcms]
+It's not my fault. It's just retribution for how she treated us like[r]
+guinea pigs.[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *4075|
 [fc]
-自分の研究対象に復讐され命を落とす。[r]
-ほら、ＳＦなんかじゃよくある話じゃないの。[pcms]
+She was killed by her own research subjects. See, it's a common story[r]
+in SF, isn't it?[pcms]
 
 *4076|
 [fc]
 [vo_stk s="satuki_st0597"]
-[ns]彩月[nse]
-「ぐっ……んぐっ……」[pcms]
+[ns]Satsuki[nse]
+"Guh... nguh..."[pcms]
 
 *4077|
 [fc]
-そうよ。わたしのせいじゃない。あれは彼女の業の結果。[r]
-わたしのせいじゃないわ。絶対に。絶対にっ！[pcms]
+That's right. It's not my fault. It's the result of her own karma.[r]
+It's not my fault. Absolutely not![pcms]
 
 *4078|
 [fc]
 [vo_stk s="satuki_st0598"]
-[ns]彩月[nse]
-「……ぐ」[pcms]
+[ns]Satsuki[nse]
+"...Gu"[pcms]
 
 *4079|
 [fc]
-ぶくぶくと泡立った薄黄色い胃液がみずたまりを作った。[r]
-わたしの中の良心、そんなものがあるとしてだけれど、[r]
-それがようやく納得してくれて、吐き気が収まってくる。[pcms]
+The pale yellow vomit with bubbling foam forms a puddle. If there is[r]
+such a thing as a conscience inside me, it finally seems satisfied,[r]
+and the nausea begins to subside.[pcms]
 
 *4080|
 [fc]
-口をぬぐい、息を整えた。[r]
-吐瀉物には足で砂をかける。[pcms]
+I wipe my mouth and catch my breath. I cover the vomit with sand from[r]
+my foot.[pcms]
 
 *4081|
 [fc]
-これから誠君には言い訳しなくちゃならない。[r]
-でも、今の状況を考えれば、助けられなかったとだけ言えば[r]
-納得してくれそうな気もする……。[pcms]
+I'll have to make excuses to Makoto-kun now. But considering the[r]
+current situation, if I just say I couldn't save her, he might[r]
+understand...[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *4082|
 [fc]
-大丈夫。うまくやれるはず。誠君は失いたくない。[r]
-わたしのこの悪心を見抜かれないように、注意しなくちゃ……。[pcms]
+It'll be fine. I can handle this. I don't want to lose Makoto-kun. I[r]
+have to be careful not to let him see through my nausea...[pcms]
 
 ;//■_鍵の解錠音
 [se buf=1 storage="seA025"]
@@ -244,7 +244,7 @@
 
 *4083|
 [fc]
-わたしは、鍵を取り出し裏口の鍵穴へと差し込んだ。[pcms]
+I take out the key and insert it into the back door's keyhole.[pcms]
 
 ;不要？[wait_c time=1000]
 [bg storage="village05b"][trans_c cross time=500]
@@ -254,108 +254,105 @@
 
 *4084|
 [fc]
-[ns]誠[nse]
-「愛してるよ、茜梨っ！　もっといっぱいぶちまけてやるっ！」[pcms]
+[ns]Makoto[nse]
+"I love you, Akari! I'm gonna splatter you with even more!"[pcms]
 
 *4085|
 [fc]
 [vo_aka s="akari_st0278"]
-[ns]茜梨[nse]
-「んぐあああっぁああっ！　嬉しっ！　ひああっ、嬉しいっ！[r]
-　ぶちまけ……てぇぇっ！　私も、わた……しもぉ、あああっ[r]
-　愛、してる、のぉぉぉっ、んああっ、あっああっ！！」[pcms]
+[ns]Akari[nse]
+"Nnguaaaaah! I'm so happy! Hiaaah, so happy! Splatter... meeeee! I[r]
+also, I alsooo, aaaaah love you soooo much, nnaaah, aahaaah!!"[pcms]
 
 ;//♂：声のみ。立ち絵無し。Ｕと同じ台詞
 
 *4086|
 [fc]
-扉を開けてすぐに聞えてきた声に、わたしは立ちすくんだ。[r]
-足が凍りついたように動かない。[pcms]
+The voices that reach me as soon as I open the door make me freeze in[r]
+place. My feet won't move as if they're frozen.[pcms]
 
 *4087|
 [fc]
-[ns]誠[nse]
-「今度は、今度は、中じゃなくて、ぶっかけるからっ！[r]
-　汚された、茜梨の綺麗な肌、消毒するっっからっ！！」[pcms]
+[ns]Makoto[nse]
+"This time, this time, not inside but I'm gonna splatter it on you! To[r]
+disinfect Akari's beautiful skin that's been tainted!!"[pcms]
 
 *4088|
 [fc]
 [vo_aka s="akari_st0279"]
-[ns]茜梨[nse]
-「して、してしてしてぇ、しょーどくぅ、いっぱい、いっぱい、[r]
-　イっぐぅ、イっぐ、イぐイぐぅ、してぇ、してえええっっ！！」[pcms]
+[ns]Akari[nse]
+"Do it, do it, do it, disinfect me, a lot, a lot, I'm coming, I'm[r]
+coming, coming, coming, do it, do ittttt!!"[pcms]
 
 *4089|
 [fc]
-わたしは耳を疑った。嘘だと思いたかった。[r]
-確かめなくちゃ……本当の事なのか……誠君がわたしを……[r]
-……裏切ったのかどうか……。[pcms]
+I doubted my ears. I wanted to believe it was a lie. I had to check...[r]
+if it was true... if Makoto-kun had... betrayed me...[pcms]
 
 *4090|
 [fc]
-そう決意した時、ようやく身体の呪縛が解かれる。[r]
-わたしは忍び足で越智さんが眠っていたはずの部屋の前へと[r]
-向かった。[pcms]
+It was when I made up my mind that the spell on my body was finally[r]
+broken. I tiptoed towards the room where Akari-san was supposed to be[r]
+sleeping.[pcms]
 
 *4091|
 [fc]
-中からは荒い息づかいが聞えてきた。[r]
-そして、聴きたくない台詞が、また耳に入ってきた。[pcms]
+From inside, I could hear heavy breathing. And then, the words I[r]
+didn't want to hear reached my ears again.[pcms]
 
 *4092|
 [fc]
-[ns]誠[nse]
-「……好きだよ、愛してるよ、茜梨」[pcms]
+[ns]Makoto[nse]
+"...I love you, I love you, Akari."[pcms]
 
 *4093|
 [fc]
-身体が怒りでわななく。血が瞬時に沸騰する。[r]
-よりにもよって、相手が越智茜梨だなんてっ！[pcms]
+My body trembled with rage. My blood boiled in an instant. Of all[r]
+people, it had to be Ochi Akari![pcms]
 
 *4094|
 [fc]
-わたしの家族を奪った男の孫に、寝取られるなんてっ。[r]
-その上、愛してる？　なにを言ってるの？[pcms]
+The granddaughter of the man who took my family from me, and she's[r]
+being taken by him. And on top of that, he says he loves her? What is[r]
+he talking about?[pcms]
 
 *4095|
 [fc]
-誠君だけだと思ったのに。わたしを受け止めてくれるのは、[r]
-同じ境遇の誠君しかいないと思っていたのに。[pcms]
+I thought it was only Makoto-kun. I thought he was the only one who[r]
+could accept me, someone in the same situation as me.[pcms]
 
 *4096|
 [fc]
-きっと、あの身体で越智茜梨が誘惑にしたに違いない。[r]
-でも、誠君もやすやすと裏切ってくれた。[pcms]
+It must have been that body of Ochi Akari that tempted him. But[r]
+Makoto-kun also betrayed me so easily.[pcms]
 
 *4097|
 [fc]
-悔しい……悲しいっ！[r]
-手に入れたと思ったのに。一緒に歩んでくれる人を。[pcms]
+It's frustrating... sad! I thought I had found someone to walk with[r]
+me.[pcms]
 
 *4098|
 [fc]
-許さない……越智茜梨。[r]
-許さないわ……誠。[pcms]
+I won't forgive... Ochi Akari. I won't forgive you... Makoto.[pcms]
 
 *4099|
 [fc]
-でも……でも、またひとりになる。ひとりはもう嫌。[r]
-聴かなかったことにして、誠君を許して、一緒に居たい。[r]
-越智茜梨なんてどうとでもなる。[pcms]
+But... but then I'll be alone again. I don't want to be alone anymore.[r]
+Pretend I didn't hear anything, forgive Makoto-kun, and stay together.[r]
+Ochi Akari can be dealt with somehow.[pcms]
 
 *4100|
 [fc]
-なんなら、叔母のあとを追わせたっていいんだから……。[pcms]
+If need be, I could even make her follow in my aunt's footsteps...[pcms]
 
 *4101|
 [fc]
-……何を考えてるの、わたしは。[pcms]
+...What am I thinking?[pcms]
 
 *4102|
 [fc]
-もうひとりになるのは、絶対に嫌。[r]
-でも、でも……だからと言って越智茜梨を[r]
-始末していい訳じゃない。[pcms]
+I absolutely don't want to be alone again. But... but that doesn't[r]
+mean it's okay to dispose of Ochi Akari.[pcms]
 
 ;//BGM短めフェード
 [fadeoutbgm time=500]
@@ -372,30 +369,30 @@
 *4103|
 [fc]
 [vo_stk s="satuki_st0599"]
-[ns]彩月[nse]
-「……！」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *4104|
 [fc]
-硝子に赤い眼をした女が映り込んでいた。[r]
-目には狂気の炎がめらめらと燃えている。[pcms]
+A woman with red eyes reflected in the glass. Flames of madness were[r]
+burning fiercely in her eyes.[pcms]
 
 *4105|
 [fc]
-それは、まぎれもないわたしの顔だった。[pcms]
+That was unmistakably my face.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st13"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4106|
 [fc]
 [vo_stk s="satuki_st0600"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *4107|
 [fc]
-何を今更迷ってるの？[r]
-わたしは、とっくの昔から『人殺しの怪物』じゃない。[pcms]
+What am I hesitating for now? I've been a "murderous monster" for a[r]
+long time now.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -404,41 +401,40 @@
 
 *4108|
 [fc]
-裏切り者は許さない。[r]
-怪物が殺す数が増えるだけの事だわ……。[pcms]
+The traitor will not be forgiven. It's just one more for the monster[r]
+to kill...[pcms]
 
 *4109|
 [fc]
-どんな罰を与えてやろうかしら……ね。[pcms]
+What kind of punishment should I give... huh?[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4110|
 [fc]
 [vo_stk s="satuki_st0601"]
-[ns]彩月[nse]
-「誠君」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun"[pcms]
 
 *4111|
 [fc]
-[ns]誠[nse]
-「！！！」[pcms]
+[ns]Makoto[nse]
+"!!!"[pcms]
 
 *4112|
 [fc]
 [vo_stk s="satuki_st0602"]
-[ns]彩月[nse]
-「……ちょっと、いいかな？　あっちに来てくれる？」[pcms]
+[ns]Satsuki[nse]
+"...Can we talk for a moment? Could you come over there?"[pcms]
 
 *4113|
 [fc]
-[ns]誠[nse]
-「は、はい……すぐに行きます」[pcms]
+[ns]Makoto[nse]
+"Yes, yes... I'll be right there"[pcms]
 
 *4114|
 [fc]
-いっぱい苦しませてあげるから……ね。[r]
-裏切り者の誠君っ！[pcms]
+I'll make you suffer a lot... right, traitor Makoto-kun?[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

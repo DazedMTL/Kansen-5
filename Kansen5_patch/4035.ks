@@ -53,188 +53,179 @@
 *347|
 [fc]
 [vo_han s="hana_nt0001"]
-[ns]花沢[nse]
-「んっちゅうう……れろっ……」[pcms]
+[ns]Hanazawa[nse]
+"Nn-chuuu... rero..."[pcms]
 
 *348|
 [fc]
-花沢の舌と俺の舌が絡み合う。[r]
-俺の舌を引っこ抜きそうな勢いで、花沢は俺のベロを吸っていた。[pcms]
+Our tongues intertwined. Hanazawa was sucking on my tongue as if she[r]
+was trying to pull it out.[pcms]
 
 *349|
 [fc]
-何でこんな事になったんだ。[r]
-俺は、茜梨ちゃんとこうなりたかったのに……[pcms]
+How did it come to this? I wanted to be in this situation with Akari-[r]
+chan...[pcms]
 
 *350|
 [fc]
-くそっ……怪我さえしなきゃ……。[pcms]
+Damn it... If only I hadn't gotten injured...[pcms]
 
 *351|
 [fc]
-親父の会社がやばくなったのがいけないんだっ！[r]
-ビーチに変なヤツが居たのが悪いんだっ！[pcms]
+It's all because my old man's company was in trouble! It's because[r]
+there was a weirdo at the beach![pcms]
 
 *352|
 [fc]
 [vo_han s="hana_nt0002"]
-[ns]花沢[nse]
-「んっぢゅうっ……ぶぢゅっ……れるろっ」[pcms]
+[ns]Hanazawa[nse]
+"Nn-juuu... buju... reruro..."[pcms]
 
 *353|
 [fc]
-花沢がビキニなんかで、俺を挑発してくるからいけないんだっ！[pcms]
+It's all because Hanazawa provoked me by wearing that bikini![pcms]
 
 *354|
 [fc]
-唇を離した俺は、また花沢のマンコを貫き始めた。[pcms]
+I pulled away from her lips and began to thrust into Hanazawa's pussy[r]
+again.[pcms]
 
 *355|
 [fc]
 [vo_han s="hana_nt0003"]
-[ns]花沢[nse]
-「んはあ……あっ……ああっ、す、凄いっ！　もっと、もっと[r]
-　突いてっ！　もっとぉ、好きにしてっ、わたしの身体好きにして」[pcms]
+[ns]Hanazawa[nse]
+"Nhaa... Ah... Aah, amazing! More, thrust more! Do whatever you want[r]
+with my body, make it yours!"[pcms]
 
 *356|
 [fc]
-むしゃくしゃする気持ちを、花沢の挑発に乗って、[r]
-俺はぶつけまくってた。[pcms]
+I was taking out all my frustration, riding on Hanazawa's provocation.[pcms]
 
 *357|
 [fc]
 [vo_han s="hana_nt0004"]
-[ns]花沢[nse]
-「いいっ、いいっ、凄い、荒井君のおちんぽ、凄いぃ。[r]
-　わたし、初めてで、ああっ、あひゃあっ、こ、こんなにぃ[r]
-　感じるな、んてぇ……ああっんはあっ、思わなかったぁ」[pcms]
+[ns]Hanazawa[nse]
+"Good, good, amazing, Arai-kun's dick, it's so amazing. It's my first[r]
+time, aah, ahya, like this, I never thought I'd feel so... aahnnhaa!"[pcms]
 
 *358|
 [fc]
-[ns]荒井[nse]
-「……っ」[pcms]
+[ns]Arai[nse]
+"..."[pcms]
 
 *359|
 [fc]
 [vo_han s="hana_nt0005"]
-[ns]花沢[nse]
-「初めてが、荒井君で嬉しいっっ！　ああっああっ、凄いぃっ！[r]
-　おちんぽ、硬いよぉ、熱い……よぉ、んはあっ、ああっ、あっ、[r]
-　もっとぉ、もっといっぱい、いっぱいっっ！　あっ、シてぇ！」[pcms]
+[ns]Hanazawa[nse]
+"I'm so happy my first time is with Arai-kun! Aaah aah, amazing! Your[r]
+dick is so hard, so hot... nhaa, aah, ah, more, more of it, fill me[r]
+up! Ah, do it!"[pcms]
 
 *360|
 [fc]
-[ns]荒井[nse]
-「ああ、シてやるよ」[pcms]
+[ns]Arai[nse]
+"Yeah, I'll do it."[pcms]
 
 *361|
 [fc]
 [vo_han s="hana_nt0006"]
-[ns]花沢[nse]
-「嬉し、嬉しいぃ、シて、シて、突いて、突いてぇ、わたしの[r]
-　初物おまんこ、ぐちゅぐちゅにしてぇっ！　ああっ、ああっ！[r]
-　あひゃあ、んぐうっ、んあっ、んあっ、んああっ、あっ！」[pcms]
+[ns]Hanazawa[nse]
+"I'm so happy, do it, do it, thrust, thrust! Make my virgin pussy[r]
+squishy! Aah, aah! Ahya, nguu, nah, nah, nahaa, ah!"[pcms]
 
 *362|
 [fc]
-さっきから何発、こいつの中に出したか憶えてない。[r]
-花沢のマンコからは、俺が突くたびに、それまでに出した精液が[r]
-泡立ちながら、ごぷごぷいって俺と花沢の太ももを伝ってた。[pcms]
+I can't remember how many times I've come inside her by now. With[r]
+every thrust into Hanazawa's pussy, the semen I'd released before[r]
+foamed up and dribbled down our thighs.[pcms]
 
 *363|
 [fc]
 [vo_han s="hana_nt0007"]
-[ns]花沢[nse]
-「んひゃあ、あひゃあぁ、わたしのおまんこ、ぐじゅぐじゅって[r]
-　言ってるぅっ！　荒井君のスペルマで、ぐちょぐちょぉ、[r]
-　もっと、もっとぉ、わたしの中で爆発してぇっああっぁうあっ」[pcms]
+[ns]Hanazawa[nse]
+"Nhyaa, ahyaaa, my pussy is saying 'gujuguju'! With Arai-kun's sperm[r]
+making it all sloppy, more, more, explode inside meee ahhua!"[pcms]
 
 *364|
 [fc]
 [vo_han s="hana_nt0008"]
-[ns]花沢[nse]
-「お願いぃ、わたしだけにしてぇっ、あっ、あああっ、んぐおっ[r]
-　わたし、の方が、荒井君を、おおおっ、あおっあっ……！[r]
-　絶対、ぜぇ……たいぃ、大切に、する……あがっ、からぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"Please, just do meee, ah, aaaaah, nguo! I'll cherish you more than[r]
+anyone else, aga, because!"[pcms]
 
 *365|
 [fc]
-[ns]荒井[nse]
-「……っ」[pcms]
+[ns]Arai[nse]
+"..."[pcms]
 
 *366|
 [fc]
 [vo_han s="hana_nt0009"]
-[ns]花沢[nse]
-「ね、ね、ねっ！　んぐおおっ、ああっ、あひぃ、お願いぃ。[r]
-　いくら……でもぉ、ひああっ、わたしの、中……にぃっ！[r]
-　んっくっう、出して、生で、出して、いい、いい、からぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"Hey, hey! Nguoooh, aah, ahyi, please. No matter how much... ahyaa,[r]
+inside me...! Nkkuu, release it raw, it's okay, it's okay!"[pcms]
 
 *367|
 [fc]
 [vo_han s="hana_nt0010"]
-[ns]花沢[nse]
-「いっぱい、いっぱい、ああひああっ、あひゃあっ、出して、[r]
-　出してぇ、わたしだけに、わたし……んおおっ、してぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"Lots of it, lots of it, ahahihaa, ahyaaa, release it, just for me...[r]
+nnoooh, do it!"[pcms]
 
 *368|
 [fc]
-[ns]荒井[nse]
-「ああ、出してやるよ、また中に出してやるよっ！」[pcms]
+[ns]Arai[nse]
+"Yeah, I'll release it inside you again!"[pcms]
 
 *369|
 [fc]
 [vo_han s="hana_nt0011"]
-[ns]花沢[nse]
-「うれひ……うれひぃ……ああ゛あ゛あっ、だしてぇ、出してぇ、[r]
-　出して忘れてぇ、茜梨のこと……なんかぁ、あああっ、[r]
-　わすれでぇ……わたし、だけのものにぃっっあぐううっっ！」[pcms]
+[ns]Hanazawa[nse]
+"I'm so happy... aaaaahh, release it, forget about Akari or anyone[r]
+else... forget them... make me the only one aguuu!"[pcms]
 
 *370|
 [fc]
-うるさい。お前に俺の気持ちなんかわかって、たまるかっ。[r]
-子供の頃から、好きだったんだぞっ！[pcms]
+Shut up. Like you could understand how I feel. I've loved her since we[r]
+were kids![pcms]
 
 *371|
 [fc]
-忘れられる訳ないだろっ！[r]
-くそっ！　このクソマンコっ！！[pcms]
+I can't just forget her! Damn it! This damn pussy!![pcms]
 
 *372|
 [fc]
-俺の怒りを全部ぶつけてやるぜっ！[pcms]
+I'm going to let out all my anger on you![pcms]
 
 *373|
 [fc]
 [vo_han s="hana_nt0012"]
-[ns]花沢[nse]
-「んぶおおぉっ、あっあっあっあっ！　すごっ、すごっ！[r]
-　も、もっとぉ、突いて、突いてっ！　んおあっぁああっ、[r]
-　荒井くんのおちんぽ、おちんぽぉ、んぐうああっ、あひぃ」[pcms]
+[ns]Hanazawa[nse]
+"Nbuooohh, ah ah ah ah! Amazing, amazing! More, thrust more! Nnoahh[r]
+aaaaahh, Arai-kun's dick, your dick nguuahh ahyi"[pcms]
 
 *374|
 [fc]
 [vo_han s="hana_nt0013"]
-[ns]花沢[nse]
-「あっぁあっ、あづいぃ、あづあづっ！　おちんぽ、あづっいっ[r]
-　わたしのおまんこ、溶ける、溶けるぅっ……ふああっ、あひっ[r]
-　あああっ、あっあっ、溶けちゃう、溶けちゃう、どろどろぉ」[pcms]
+[ns]Hanazawa[nse]
+"Ahh aaahh, it's hot, hot! Your dick is too hot for my pussy; it's[r]
+melting, melting... fuahh ahi aaaaahh ah ah! It's melting away into[r]
+goo"[pcms]
 
 *375|
 [fc]
-もうどうでもよくなってきてた。[r]
-コイツに茜梨ちゃんのこと、言われるのも。[r]
-家のことも、なんもかんも全部。[pcms]
+I was starting not to care anymore. About being told about Akari-chan[r]
+by this girl. About my home and everything else.[pcms]
 
 *376|
 [fc]
-今は、とにかく出しまくりたい。[r]
-タンク、空っぽになるまで、コイツにぶっぱなしてやるっ。[pcms]
+Right now, I just want to let it all out. Until my tank is empty, I'll[r]
+keep firing into her.[pcms]
 
 *377|
 [fc]
-[ns]荒井[nse]
-「もっと、締めろっ！　俺のチンポ千切れるぐらい締めろっ」[pcms]
+[ns]Arai[nse]
+"Tighten up more! Squeeze my dick until it feels like it'll snap off!"[pcms]
 
 ;//■イベントCG　mob_H011
 [evcg storage="mob_H011b"][trans_c cross time=300]
@@ -242,74 +233,68 @@
 *378|
 [fc]
 [vo_han s="hana_nt0014"]
-[ns]花沢[nse]
-「はいぃぃっ、ふぎぃいっ！　あおおうっ、あづいぃ、[r]
-　荒いくんの、おちんぽぉ、硬すぎて、かたすぎ……てぇ、[r]
-　んあああっ、あひぃ、あぐうっ、ふああっ、あひゃああぁぁ」[pcms]
+[ns]Hanazawa[nse]
+"Yesiiii! Fugyiiii! Aooouh, it's hot. Arai-kun's dick is too hard...[r]
+too hard... nahaaaahh ahyi aguuu fuahh ahyaaaah"[pcms]
 
 *379|
 [fc]
 [vo_han s="hana_nt0015"]
-[ns]花沢[nse]
-「硬くて……んはあっ、あづいぃっっ！　あら井ぐんの、おちんぽ[r]
-　おちんぽ、わたしのおまんこ、めちゃくちゃに、めちゃくちゃに[r]
-　して、シて、シてぇ、もっとぉ、もっどぉ、ふぐあああああっ」[pcms]
+[ns]Hanazawa[nse]
+"It's so hard... nhaaahh, it's hot! Arai-kun's dick is wrecking my[r]
+pussy completely... do it moreee fuguhaaaaaaa!"[pcms]
 
 *380|
 [fc]
-[ns]荒井[nse]
-「うおっ、締まる。いいぞ、もっと締めろ、しめろ」[pcms]
+[ns]Arai[nse]
+"Uoohh, that tightness. Good job; squeeze more."[pcms]
 
 *381|
 [fc]
 [vo_han s="hana_nt0016"]
-[ns]花沢[nse]
-「んあ゛あ゛あ゛あ゛っ、こ、こすれ゛るぅ、中、なかが、[r]
-　こすら゛れ゛るぅっ、あぐうぅぅ、あひっ、ああっ、ああっ！[r]
-　イっちゃう、イぐ、イっちゃう、イく、イっちゃう、イっく」[pcms]
+[ns]Hanazawa[nse]
+"Naaaaaahh! It's rubbing inside meee... aguuuuhh ahi ah ah! I'm going[r]
+to come; I'm coming; I'm about to come!"[pcms]
 
 *382|
 [fc]
 [vo_han s="hana_nt0017"]
-[ns]花沢[nse]
-「また、またイっちゃっ、んあああっ、んぐうっ、あひゃああ、[r]
-　イくうぅ、イくぅううっ、イっちゃ、イっちゃあぁ、ああっ、[r]
-　とけるぅ、おまんことけるぅ、イっちゃう、イくう゛う゛」[pcms]
+[ns]Hanazawa[nse]
+"Again I'm coming... naaaaahh nguuu ahyaaa I'm comingggg; I'm[r]
+comingggg; I'm melting away; my pussy is melting; I'm comingggg"[pcms]
 
 *383|
 [fc]
-[ns]荒井[nse]
-「まだだっ！　まだだっ！　もっと締めろ、イかせてやるから、[r]
-　もっとしめろ、まんこしめろぉっ！」[pcms]
+[ns]Arai[nse]
+"Not yet! Not yet! Squeeze tighter; I'll make you come; squeeze your[r]
+pussy tighter!"[pcms]
 
 *384|
 [fc]
 [vo_han s="hana_nt0018"]
-[ns]花沢[nse]
-「ふぐんんぬぬっ、あぅぐっ、あひゃあぁ、こずれ゛る゛うぅ。[r]
-　おちんぽが、ごするぅ゛う、だめ、だめぇ、らめぇ、もう、[r]
-　もう、イくぅ、イ゛ぐううう゛ぅ、あひぁああぁっ、あぁっ」[pcms]
+[ns]Hanazawa[nse]
+"Fugnnnnnuuuhh auggh ahyaaaahh. It's rubbingggg. No more; no more; I'm[r]
+going to comeee aguuuuuuhhh ahyaaaah"[pcms]
 
 *385|
 [fc]
 [vo_han s="hana_nt0019"]
-[ns]花沢[nse]
-「あぐぅ、イ゛ぐぅ……イがせてぇ……あらい゛くんのおちんぽで[r]
-　イくぅ、イ゛かせでぇ……あひゃあぁ、あぁうひあっ、ひぐうっ[r]
-　イぐ、イくぅ、イくイくイ゛ぐイ゛ぐイ゛ぐイ゛ぐイ゛ぐぅっ！」[pcms]
+[ns]Hanazawa[nse]
+"Aguuuhh... make me comeee... with Arai-kun's dick let me comeee...[r]
+ahyaaaahh auhiahh higuuuhh comingggg comingggg comingggg!"[pcms]
 
 *386|
 [fc]
-[ns]荒井[nse]
-「よおし、イけっ！　出してやる、いっぱいぶっぱなしてやるっ！[r]
-　おらっ、おらっ、イけっ、イけっイけええええっ！」[pcms]
+[ns]Arai[nse]
+"Alright then come! I'll release it all; I'll shoot loads into you![r]
+Orahh orahhh come on come on COMEEEE!"[pcms]
 
 *387|
 [fc]
 [vo_han s="hana_nt0020"]
-[ns]花沢[nse]
-「イ゛イ゛イ゛イ゛イイイぐぅぅううううううううっ！[r]
-　あひゃあああっ、ああああいいいいいいイ゛イ゛っ！」[pcms]
+[ns]Hanazawa[nse]
+"I'm coming, I'm coming, I'm coming, I'm COMINGGGG! Ahhyaaaaah, ahhhh[r]
+so goooood!"[pcms]
 
 
 ;//se即時停止
@@ -326,36 +311,33 @@
 
 *388|
 [fc]
-[ns]荒井[nse]
-「んぐっ、ぐっ、うっ、ううっ！！」[pcms]
+[ns]Arai[nse]
+"Ngh, ngh, ugh, ughhh!!"[pcms]
 
 *389|
 [fc]
 [vo_han s="hana_nt0021"]
-[ns]花沢[nse]
-「あああああぐうううぅ、あがああああ、あいいいいっっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ahhhhhh guuuuuuuh, agaaaaah, ahhh so goooood!"[pcms]
 
 *390|
 [fc]
-花沢のマンコが俺のを締め上げる。[r]
-俺の精液を吸いとっていく。[pcms]
+Hanazawa's pussy is clamping down on me. It's sucking up my semen.[pcms]
 
 *391|
 [fc]
 [vo_han s="hana_nt0022"]
-[ns]花沢[nse]
-「んぐうぅぅぅっっ、あはっ……あぶっ……あああっ……[r]
-　んひぃぃっっ、あっ、ひああっ、ああごおおぉ」[pcms]
+[ns]Hanazawa[nse]
+"Nguuuuuuhhh, ahah... abu... ahhh... nhiiiiii, ah, hiaaah, ahh gooooh"[pcms]
 
 *392|
 [fc]
-ブシュッブシュッっと、花沢のマンコは、潮まで吹いた。[r]
-俺の腹がその潮で、濡れそぼった。[pcms]
+With a splashing sound, Hanazawa's pussy squirted. My stomach got[r]
+soaked with her squirt.[pcms]
 
 *393|
 [fc]
-なんだ……変だ。[r]
-今出したばっかだってのに、また出したい。[pcms]
+What's this... It's strange. I just came, but I want to do it again.[pcms]
 
 ;//■イベントCG　mob_H011
 [evcg storage="mob_H011d"][trans_c cross time=300]
@@ -363,21 +345,21 @@
 *394|
 [fc]
 [vo_han s="hana_nt0023"]
-[ns]花沢[nse]
-「もっど……イがせてぇ……あらいく……ついて、わたしの[r]
-　おまんこ、すぺるま、でもっと、もっとぉ……」[pcms]
+[ns]Hanazawa[nse]
+"More... let me come again... Arai-kun... with your dick, fill my[r]
+pussy with more and more spermmmm..."[pcms]
 
 *395|
 [fc]
-[ns]荒井[nse]
-「ああ……おれも出したい。いくぞっ！」[pcms]
+[ns]Arai[nse]
+"Yeah... I want to release it too. Here I go!"[pcms]
 
 *396|
 [fc]
 [vo_han s="hana_nt0024"]
-[ns]花沢[nse]
-「おあああひあああっ、おはああっ、あぐぅ、ああっ、おおおっ[r]
-　おちんぽ、おちんぽぉ、あ゛らいぐんのすぺるまいっぱあい」[pcms]
+[ns]Hanazawa[nse]
+"Ohhh ahhhh ahhhh, oh haaaah, aguuu, ahhh, ooooh your cock, your[r]
+cockkkk, Arai-kun's sperm is filling me up"[pcms]
 
 ;//BGMフェードアウト
 ;[fadeoutbgm time=500]
@@ -385,8 +367,7 @@
 
 *397|
 [fc]
-とまんね。とまらねえ、おれのこし。[r]
-おれのちんぽ、かたいまんまだ……。[pcms]
+It won't stop. My hips won't stop moving. My dick is still hard...[pcms]
 
 ;//BGMフェードアウト
 ;[fadeoutbgm time=500]
@@ -394,7 +375,7 @@
 
 *398|
 [fc]
-まあいいか……きもちいいから……。[pcms]
+Well, it's fine... because it feels good...[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

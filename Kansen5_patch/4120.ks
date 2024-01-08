@@ -50,12 +50,13 @@
 
 *2325|
 [fc]
-[ns]誠[nse]
-「行きましょう」[pcms]
+[ns]Makoto[nse]
+"Let's go."[pcms]
 
 *2326|
 [fc]
-僕は非常階段のドアノブに手を掛けて回した。[pcms]
+I put my hand on the doorknob of the emergency staircase and turned[r]
+it.[pcms]
 
 ;//■_鍵がかかっているガチャガチャ音
 [se buf=0 storage="seA032"]
@@ -63,185 +64,184 @@
 
 *2327|
 [fc]
-[ns]誠[nse]
-「あれ？」[pcms]
+[ns]Makoto[nse]
+"Huh?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2328|
 [fc]
-[ns]宗一郎[nse]
-「やれやれ……大概のホテルの非常階段というのは、[r]
-　外からは入れないようになっているのですよ、誠」[pcms]
+[ns]Souichirou[nse]
+"Good grief... Most hotel emergency staircases are designed so you[r]
+can't enter from the outside, Makoto."[pcms]
 
 *2329|
 [fc]
-そーいちは大袈裟に肩をすくめてみせた。[pcms]
+Souichirou exaggeratedly shrugged his shoulders.[pcms]
 
 *2330|
 [fc]
-[ns]誠[nse]
-「悪かったな……ホテルなんて、そんなに泊まったこと[r]
-　ないんだから、知らなくてもしょうがないだろ」[pcms]
+[ns]Makoto[nse]
+"Sorry about that... I haven't stayed in hotels that much, so it can't[r]
+be helped if I didn't know."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2331|
 [fc]
 [vo_stk s="satuki_nt0114"]
-[ns]彩月[nse]
-「はいはい。内輪もめしないの。中澤君、美沙緒さんの拳銃、[r]
-　貸してちょうだい。鍵を撃ち壊すから」[pcms]
+[ns]Satsuki[nse]
+"Alright, alright. Let's not fight amongst ourselves. Nakazawa-kun,[r]
+lend me Misao-san's gun. I'll shoot the lock off."[pcms]
 
 *2332|
 [fc]
-すっと当たり前のように南先輩は手を出してきた。[r]
-自然な仕草に思わず拳銃を渡しそうになり、僕は気付いた。[pcms]
+As if it were the most natural thing in the world, Satsuki-senpai[r]
+reached out her hand. I almost handed over the gun without thinking[r]
+and then realized.[pcms]
 
 *2333|
 [fc]
-[ns]誠[nse]
-「先輩……射撃の経験があるんですか？」[pcms]
+[ns]Makoto[nse]
+"Senpai... Do you have experience with shooting?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2334|
 [fc]
 [vo_stk s="satuki_nt0115"]
-[ns]彩月[nse]
-「あるわよ」[pcms]
+[ns]Satsuki[nse]
+"I do."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so02b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2335|
 [fc]
-[ns]宗一郎[nse]
-「俺もありますぞ。海外の射撃場で何度か……。[r]
-　だから俺が撃ってもかまいませんが」[pcms]
+[ns]Souichirou[nse]
+"I also have experience. I've been to shooting ranges abroad several[r]
+times... So I don't mind shooting it myself."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2336|
 [fc]
 [vo_stk s="satuki_nt0116"]
-[ns]彩月[nse]
-「わたしが撃つわよ。そーいち君のは練習みたいなもんでしょ。[r]
-　わたしは、言うなれば実戦経験者よ」[pcms]
+[ns]Satsuki[nse]
+"I'll be the one to shoot. Souichirou-kun's experience is more like[r]
+practice, right? I'm what you would call a veteran of actual combat."[pcms]
 
 *2337|
 [fc]
-[ns]誠[nse]
-「……え？」[pcms]
+[ns]Makoto[nse]
+"...Eh?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2338|
 [fc]
 [vo_stk s="satuki_nt0117"]
-[ns]彩月[nse]
-「４年前よ。わたしは身を守る為に、同行してた自衛隊員から[r]
-　撃ち方を教わったの。最初に人を撃ったのは、その教えて[r]
-　くれた相手だった」[pcms]
+[ns]Satsuki[nse]
+"Four years ago. To protect myself, I learned how to shoot from a[r]
+Self-Defense Force member accompanying me. The first person I shot was[r]
+the one who taught me."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2339|
 [fc]
 [vo_aka s="akari_nt0093"]
-[ns]茜梨[nse]
-「そんな……」[pcms]
+[ns]Akari[nse]
+"That's..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2340|
 [fc]
 [vo_stk s="satuki_nt0118"]
-[ns]彩月[nse]
-「感染しちゃったの。頼まれたわ。殺してくれって。[r]
-　人間でいられる内に、ってね。だから引き金をひいた」[pcms]
+[ns]Satsuki[nse]
+"He got infected. He asked me to do it. 'Kill me,' he said. 'While I'm[r]
+still human.' So I pulled the trigger."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2341|
 [fc]
 [vo_aka s="akari_nt0094"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2342|
 [fc]
 [vo_stk s="satuki_nt0119"]
-[ns]彩月[nse]
-「その後も、生き延びる為に、何人も撃ち殺したわ。[r]
-　ほとんどが感染者だったけど……請われて殺した人間も居た」[pcms]
+[ns]Satsuki[nse]
+"After that, to survive, I killed many people. Most were infected...[r]
+but there were also those who begged me to kill them."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2343|
 [fc]
 [vo_aka s="akari_nt0095"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *2344|
 [fc]
-結構重い話なのに、先輩はさらっと言ってのけた。[r]
-僕はその口調に、逆に悲しみを感じていた。[r]
-たぶん、この感覚は生き残った者にしか、わからないだろう。[pcms]
+Despite the heavy topic, Satsuki-senpai spoke lightly. I felt sadness[r]
+in her tone, a feeling probably only understood by those who have[r]
+survived.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2345|
 [fc]
 [vo_stk s="satuki_nt0120"]
-[ns]彩月[nse]
-「そんな顔しないのよ、茜梨ちゃん。ショックな話だったかも[r]
-　しれないけど、そうしなければ、今、わたしはここに[r]
-　居られなかったのよ」[pcms]
+[ns]Satsuki[nse]
+"Don't make such a face, Akari-chan. It might have been a shocking[r]
+story, but if I hadn't done that, I wouldn't be here now."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2346|
 [fc]
 [vo_stk s="satuki_nt0121"]
-[ns]彩月[nse]
-「エピデミックを生き残るってのは、そういう事なの。[r]
-　まあでも、２回も巻き込まれるんだから、よくよくわたしも[r]
-　運がないわよね～」[pcms]
+[ns]Satsuki[nse]
+"Surviving an epidemic is like that. But to be involved twice, I must[r]
+really be unlucky, huh~"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2347|
 [fc]
 [vo_stk s="satuki_nt0122"]
-[ns]彩月[nse]
-「でも、今度も負けない。生き残ってみせるわ。[r]
-　さ、長話はおしまい。拳銃ちょうだい、中澤君。[r]
-　わたしが撃つってんで、いいわよね？　そーいち君」[pcms]
+[ns]Satsuki[nse]
+"But I won't lose this time either. I'll show you I can survive. Now,[r]
+enough with the long story. Give me the gun, Nakazawa-kun. It's okay[r]
+for me to shoot, right? Souichirou-kun?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2348|
 [fc]
-[ns]宗一郎[nse]
-「異論は無いです。むしろ……お願いします」[pcms]
+[ns]Souichirou[nse]
+"I have no objections. Rather... please do."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2349|
 [fc]
 [vo_stk s="satuki_nt0123"]
-[ns]彩月[nse]
-「了解。ちょっと離れてて」[pcms]
+[ns]Satsuki[nse]
+"Understood. Step back a bit."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2350|
 [fc]
-そう言いながら僕から受け取った拳銃を、ドアノブに向ける。[r]
-その姿勢は、本当に撃ち慣れている雰囲気だった。[pcms]
+As she said that, Satsuki-senpai took the gun from me and aimed it at[r]
+the doorknob. Her posture showed she was truly accustomed to shooting.[pcms]
 
 ;//■_銃撃音
 [se buf=0 storage="seC048"]
@@ -252,62 +252,63 @@
 *2351|
 [fc]
 [vo_stk s="satuki_nt0124"]
-[ns]彩月[nse]
-「ん。オッケーよ。これ、返すわね中澤君。[r]
-　まだ銃身が熱いから気をつけて」[pcms]
+[ns]Satsuki[nse]
+"Hmm. Okay. Here's your gun back, Nakazawa-kun. The barrel's still[r]
+hot, so be careful."[pcms]
 
 *2352|
 [fc]
-[ns]誠[nse]
-「先輩が持っていてくれても、いいんですが」[pcms]
+[ns]Makoto[nse]
+"Senpai, you can keep it if you want."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2353|
 [fc]
 [vo_stk s="satuki_nt0125"]
-[ns]彩月[nse]
-「予備の弾がないでしょ？　この先どれだけの数居るか[r]
-　わからないわ。それだったら、こっちの方が実践的よ」[pcms]
+[ns]Satsuki[nse]
+"We don't have spare bullets, right? We don't know how many we'll[r]
+encounter ahead. In that case, this is more practical."[pcms]
 
 *2354|
 [fc]
-そう言って先輩は、腰に挟み込んでいたバールを僕に見せた。[pcms]
+With that said, Satsuki-senpai showed me the baton she had tucked at[r]
+her waist.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so30b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2355|
 [fc]
-[ns]宗一郎[nse]
-「おお、片付けた車から調達したヤツですな」[pcms]
+[ns]Souichirou[nse]
+"Oh, the one you procured from the cleaned-up car."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2356|
 [fc]
 [vo_stk s="satuki_nt0126"]
-[ns]彩月[nse]
-「そ。こいつで返り血を避けながら、殴り倒した方がいいの。[r]
-　だから拳銃は、いざと言うときのために、弾を温存して[r]
-　おいた方が、いいと思うの」[pcms]
+[ns]Satsuki[nse]
+"Right. With this, I can fend off blood splatter and beat them down[r]
+better. So it's better to conserve the bullets for when we really need[r]
+them."[pcms]
 
 *2357|
 [fc]
-[ns]誠[nse]
-「わかりました」[pcms]
+[ns]Makoto[nse]
+"Understood."[pcms]
 
 *2358|
 [fc]
-僕はハンカチを出して、その上に拳銃を受け取り、[r]
-仕舞い込んだ。[pcms]
+I took out a handkerchief, received the gun on top of it, and stowed[r]
+it away.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2359|
 [fc]
-[ns]宗一郎[nse]
-「では、俺が扉を蹴り開けます。向こうから見えない所に[r]
-　身を寄せてくだされ」[pcms]
+[ns]Souichirou[nse]
+"Then, I'll kick the door open. Please stay out of sight from the[r]
+other side."[pcms]
 
 [se buf=0 storage="seB102"]
 ;//♪SE車のボンネットを力いっぱい叩く音（1回）
@@ -317,24 +318,24 @@
 
 *2360|
 [fc]
-そう言うとそーいちは、扉に向かってドカッと蹴りを入れた。[r]
-なんなく扉は開く。[pcms]
+With that said, Souichirou delivered a strong kick to the door. The[r]
+door opened effortlessly.[pcms]
 
 ;//★bg11a ホテル廊下・朝昼
 [bg storage="BG11b"][trans_c cross time=500]
 
 *2361|
 [fc]
-その向こうには、見通しのいい廊下が広がっていた。[pcms]
+Beyond it lay a corridor with good visibility.[pcms]
 
 *2362|
 [fc]
-[ns]誠[nse]
-「行くぞっ！！」[pcms]
+[ns]Makoto[nse]
+"Let's go!!"[pcms]
 
 *2363|
 [fc]
-僕たちはホテルの内部へ突入した。[pcms]
+We stormed into the interior of the hotel.[pcms]
 
 [se buf=0 storage="seA052"]
 ;//♪SE複数人の走る足音
@@ -360,20 +361,21 @@
 
 *2363a|
 [fc]
-[ns]感染者[nse]
-「あ゛あ～、がきだあ゛ぁ～、う゛まそう゛だなあ゛ぁ～」[pcms]
+[ns]Infected person[nse]
+"Aaah~ kids aaah~ they look tasty aaah~"[pcms]
 
 [se buf=0 storage="seG013"]
 ;//♪SE感染者の呻き
 
 *2363b|
 [fc]
-[ns]感染者[nse]
-「あ゛へえ゛ぇ～、はら゛へったあ゛ぁ～」[pcms]
+[ns]Infected person[nse]
+"Ahh~ I'm so hungry~"[pcms]
 
 *2364|
 [fc]
-宿泊階の廊下にも、感染者が大勢うろうろしていた。[pcms]
+Even the corridors of the lodging floors were teeming with many[r]
+infected people wandering around.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -385,24 +387,25 @@
 *2365|
 [fc]
 [vo_stk s="satuki_nt0127"]
-[ns]彩月[nse]
-「いちいち感染者を相手にしてちゃ時間の無駄よっ！[r]
-　動きが鈍いんだし、倒すんじゃなくて交わすことを考えて！」[pcms]
+[ns]Satsuki[nse]
+"It's a waste of time to deal with every infected person! They're[r]
+slow, so instead of taking them down, we should focus on dodging[r]
+them!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so04a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2366|
 [fc]
-[ns]宗一郎[nse]
-「了解でありますっ！」[pcms]
+[ns]Souichirou[nse]
+"Understood!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2367|
 [fc]
 [vo_aka s="akari_nt0096"]
-[ns]茜梨[nse]
-「えいっ！　とうっ！！」[pcms]
+[ns]Akari[nse]
+"Ei! Toh!!"[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -411,13 +414,13 @@
 
 *2368|
 [fc]
-僕たちは、押し寄せる感染者たちを交わしながら、[r]
-姉ちゃんのいる部屋を目指して走った。[pcms]
+We ran towards the room where Onee-san was, dodging the oncoming[r]
+infected as we went.[pcms]
 
 *2369|
 [fc]
-[ns]誠[nse]
-（姉ちゃん……待ってて！）[pcms]
+[ns]Makoto[nse]
+(Onee-san... wait for me!)[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -434,30 +437,29 @@
 
 *2370|
 [fc]
-感染者たちを交わすことに専念して、僕たちは奥にある[r]
-姉ちゃんの部屋まで辿り着いた。[pcms]
+We focused on dodging the infected and finally reached Onee-san's room[r]
+at the back.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2371|
 [fc]
-[ns]宗一郎[nse]
-「誠、部屋の鍵は持ってるのか！？」[pcms]
+[ns]Souichirou[nse]
+"Makoto, do you have the key to the room!?"[pcms]
 
 *2372|
 [fc]
-そーいちがそう訊ねてきたけど、その必要はなかった。[pcms]
+There was no need for Souichirou to ask that, though.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2373|
 [fc]
-姉ちゃんの部屋のドアが開いている。[pcms]
+Onee-san's room door was open.[pcms]
 
 *2374|
 [fc]
-嫌な予感がして、僕は転がり込むようにして[r]
-姉ちゃんの部屋に駆け込んだ。[pcms]
+With a bad feeling, I rolled into Onee-san's room.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -467,71 +469,70 @@
 
 *2375|
 [fc]
-[ns]誠[nse]
-「姉ちゃん！！」[pcms]
+[ns]Makoto[nse]
+"Onee-san!!"[pcms]
 
 *2376|
 [fc]
-僕の後から、みんなが一斉に部屋に入ってきた。[pcms]
+Following me, everyone rushed into the room all at once.[pcms]
 
 *2377|
 [fc]
-[ns]誠[nse]
-「姉ちゃん！　どこにいるの！？」[pcms]
+[ns]Makoto[nse]
+"Onee-san! Where are you!?"[pcms]
 
 ;mm これボックスでもミスってるんじゃ？
 [ChrSetEx layer=5 chbase="so1_ha_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2378|
 [fc]
-[ns]宗一郎[nse]
-「夏都の姫！　迎えに来ましたぞ！！」[pcms]
+[ns]Souichirou[nse]
+"Princess Natsu! We have come for you!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_sw5"][ChrSetParts layer=5 chface="F1_ak04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2379|
 [fc]
 [vo_aka s="akari_nt0097"]
-[ns]茜梨[nse]
-「お姉さん、どこですか！？」[pcms]
+[ns]Akari[nse]
+"Onee-san, where are you!?"[pcms]
 
 *2380|
 [fc]
-でも、部屋の中に姉ちゃんの姿はない。[pcms]
+But Onee-san was nowhere to be found in the room.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2381|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……どこ行っちゃったんだよ……」[pcms]
+[ns]Makoto[nse]
+"Onee-san... where did you go..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_b"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2382|
 [fc]
 [vo_stk s="satuki_nt0128"]
-[ns]彩月[nse]
-「中澤君のお姉さんって、たしか自衛隊出身者だったのよね。[r]
-　だとしたら、いち早く安全なところに避難したのかも[r]
-　知れないわよ」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun's sister was a former Self-Defense Force member, right? If[r]
+that's the case, she might have evacuated to a safe place early on."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ha_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2383|
 [fc]
-[ns]宗一郎[nse]
-「うむ。日向の君の場合、それは十分に考えられる可能性だと[r]
-　思うぞ、誠」[pcms]
+[ns]Souichirou[nse]
+"Hmm. Considering it's Natsu's case, that's a very likely possibility,[r]
+Makoto."[pcms]
 
 *2384|
 [fc]
-南先輩とそーいちが、口々にそう言って僕を慰めてくれる。[pcms]
+Minami-senpai and Souichirou comforted me with those words.[pcms]
 
 *2385|
 [fc]
-[ns]誠[nse]
-「うん……。そうであって欲しいと思うよ」[pcms]
+[ns]Makoto[nse]
+"Yeah... I hope that's the case."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -545,13 +546,13 @@
 *2386|
 [fc]
 [vo_aka s="akari_nt0098"]
-[ns]茜梨[nse]
-「きゃあっ！　き、来たっ！！」[pcms]
+[ns]Akari[nse]
+"Kyaa! They're coming!!"[pcms]
 
 *2387|
 [fc]
-越智さんの悲鳴が入り口近くから聞こえてきて、[r]
-僕はそっちの方向に振り返った。[pcms]
+I heard Akari's scream from near the entrance and turned in that[r]
+direction.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -564,13 +565,13 @@
 
 *2388|
 [fc]
-開けっ放しだった部屋のドアから、感染者たちが[r]
-ぞろぞろと部屋に入って来ようとしている。[pcms]
+The door to the room, left wide open, allowed the infected to start[r]
+pouring in.[pcms]
 
 *2389|
 [fc]
-姉ちゃんの部屋に辿り着くことを優先したせいで、感染者を[r]
-倒さずに交わしてきたのが、裏目に出てしまった。[pcms]
+Because we prioritized reaching Onee-san's room, dodging instead of[r]
+taking down the infected backfired on us.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -583,49 +584,49 @@
 *2390|
 [fc]
 [vo_stk s="satuki_nt0129"]
-[ns]彩月[nse]
-「これはちょっと……嬉しくない状況ね」[pcms]
+[ns]Satsuki[nse]
+"This is... not a pleasant situation."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2391|
 [fc]
 [vo_aka s="akari_nt0099"]
-[ns]茜梨[nse]
-「ど、どうするんですか？　出入り口はあそこしかないのに？」[pcms]
+[ns]Akari[nse]
+"What do we do? There's only one exit, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so04a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2392|
 [fc]
-[ns]宗一郎[nse]
-「あとは……窓から逃げるくらいしかないですな」[pcms]
+[ns]Souichirou[nse]
+"The only other option... is to escape through the window."[pcms]
 
 *2393|
 [fc]
-[ns]誠[nse]
-「多分、火事の時にベランダから逃げるための[r]
-　はしごとか、なにかはあるんじゃないか……と思う」[pcms]
+[ns]Makoto[nse]
+"Maybe there's a ladder or something for escaping from the balcony in[r]
+case of a fire... I think."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2394|
 [fc]
 [vo_stk s="satuki_nt0130"]
-[ns]彩月[nse]
-「心許ない発言だけど……それしかなさそうね」[pcms]
+[ns]Satsuki[nse]
+"That's not very reassuring... but it seems like our only option."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2395|
 [fc]
 [vo_aka s="akari_nt0100"]
-[ns]茜梨[nse]
-「あっ、荒井……先輩……っ」[pcms]
+[ns]Akari[nse]
+"Ah, Arai... senpai..."[pcms]
 
 *2396|
 [fc]
-越智さんが悲しそうな声を上げる。[pcms]
+Akari let out a sad cry.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -636,40 +637,39 @@
 
 *2397|
 [fc]
-部屋に入ってきた感染者の一団の中に、真っ赤な目をした[r]
-荒井の姿があった。[pcms]
+In the group of infected that entered the room, there was Arai with[r]
+his eyes blood red.[pcms]
 
 *2398|
 [fc]
-正直言って、荒井のことは全然好きじゃなかった。[pcms]
+Honestly, I never really liked Arai.[pcms]
 
 *2399|
 [fc]
-むしろ嫌いだったけど、だからと言って荒井が感染者に[r]
-なってしまったことを『いい気味だ』とは[r]
-全然思えない。[pcms]
+In fact, I disliked him, but that doesn't mean I feel any satisfaction[r]
+seeing him become one of the infected.[pcms]
 
 *2400|
 [fc]
-[ns]荒井[nse]
-「あ゛～……あ゛がり゛……ぢゃ～ん゛……」[pcms]
+[ns]Arai[nse]
+"Ahh~... Akari... chan~..."[pcms]
 
 *2401|
 [fc]
-荒井は、感染者になってもなお、越智さんに[r]
-気持ちが残っているらしい。[pcms]
+It seems that even as an infected person, Arai still had feelings for[r]
+Akari.[pcms]
 
 *2402|
 [fc]
-他の感染者を押しのけて、荒井が近づいてくる。[pcms]
+Pushing aside other infected, Arai approached us.[pcms]
 
 *2403|
 [fc]
-荒井は……本当に越智さんのことが好きだったんだな……。[pcms]
+Arai... really did love Ochi-san...[pcms]
 
 *2404|
 [fc]
-僕は荒井の気持ちを想像して、なんだか悲しくなってしまった。[pcms]
+I imagined Arai's feelings and somehow felt sad.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -681,42 +681,41 @@
 *2405|
 [fc]
 [vo_stk s="satuki_nt0131"]
-[ns]彩月[nse]
-「ぐずぐずしてる暇はないわ。逃げるわよ」[pcms]
+[ns]Satsuki[nse]
+"We don't have time to dawdle. We need to escape."[pcms]
 
 *2406|
 [fc]
-南先輩がベランダの窓の鍵を外し、感染者たちを[r]
-刺激しないようにゆっくりと窓を開けた。[pcms]
+Senior Minami unlocked the balcony window and opened it slowly so as[r]
+not to agitate the infected.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2407|
 [fc]
-[ns]誠[nse]
-「よし、行こう」[pcms]
+[ns]Makoto[nse]
+"Alright, let's go."[pcms]
 
 *2408|
 [fc]
-僕たちは開け放たれたベランダの窓にむかって[r]
-ゆっくりと後退した。[pcms]
+We slowly backed towards the open balcony window.[pcms]
 
 *2409|
 [fc]
-その時、荒井が感染者とは思えない素早さで動くと、[r]
-越智さんの腕を掴んだ。[pcms]
+Then, with a speed uncharacteristic of an infected person, Arai moved[r]
+and grabbed Ochi-san's arm.[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ha"][ChrSetParts layer=5 chface="F2_ar24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2410|
 [fc]
-[ns]荒井[nse]
-「あ゛～、や゛っどぉ、み゛づけだよぉ、あがり゛ぢゃ～ん゛」[pcms]
+[ns]Arai[nse]
+"Ahh~, finally found you, Akari-chan~"[pcms]
 
 *2411|
 [fc]
-たどたどしい動きで服を脱ぎ散らかしながら、[r]
-感染してしまった荒井の顔が、にた～っと嬉しそうに歪む。[pcms]
+Stripping off his clothes in a clumsy manner, the infected Arai's face[r]
+twisted into a pleased grin.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw3"][ChrSetParts layer=5 chface="F2_ak15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [eval exp="f.chara_x = 0,f.chara_y = 0"][quake_chara layer=5 xy up m]
@@ -724,59 +723,58 @@
 *2412|
 [fc]
 [vo_aka s="akari_nt0101"]
-[ns]茜梨[nse]
-「いやっ！！　お願いっ！　放してっ！　荒井先輩っ！！」[pcms]
+[ns]Akari[nse]
+"No!! Please! Let go! Arai-senpai!!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so19a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2413|
 [fc]
-[ns]宗一郎[nse]
-「痴れ者があっ！　その手を放せいっ！！」[pcms]
+[ns]Souichirou[nse]
+"You lecher! Release her at once!!"[pcms]
 
 *2414|
 [fc]
-そーいちが、身軽なデブの真骨頂を見せて、金属バットを[r]
-振りかぶったまま、荒井に飛びかかった。[pcms]
+Souichirou, showing the true potential of his nimble bulk, leapt at[r]
+Arai with a metal bat raised.[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ha"][ChrSetParts layer=5 chface="F2_ar24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2415|
 [fc]
-[ns]荒井[nse]
-「う゛る゛せえぇ～。この゛チビデブがあ゛あぁ～」[pcms]
+[ns]Arai[nse]
+"Get lost~. You little fatso~"[pcms]
 
 [se buf=0 storage="seB009"]
 ;//♪SE蹴る音
 
 *2416|
 [fc]
-荒井の足がボレーキックのように動いて、そーいちの[r]
-突き出た腹を空中で直撃した。[pcms]
+Arai's leg moved like a volley kick, striking Souichirou's protruding[r]
+belly in mid-air.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [eval exp="f.chara_x = 0,f.chara_y = 0"][quake_chara layer=5 xy up m]
 
 *2417|
 [fc]
-[ns]宗一郎[nse]
-「ぐぼああぁおぉぉっ！！！」[pcms]
+[ns]Souichirou[nse]
+"Guboahhhhh!!!"[pcms]
 
 [se buf=0 storage="seB007"]
 ;//♪SE人間を殴る音
 
 *2418|
 [fc]
-感染者の脚力で蹴り飛ばされたそーいちは、[r]
-ボレーシュートされたサッカーボールみたいに、[r]
-部屋の壁に体ごと叩きつけられてしまった。[pcms]
+Kicked by the infected's leg strength, Souichirou was slammed against[r]
+the room's wall like a soccer ball being volley-shot.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so08a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2419|
 [fc]
-[ns]宗一郎[nse]
-「お……ち………さん…………」[pcms]
+[ns]Souichirou[nse]
+"O...chi...san..."[pcms]
 
 [chara_int][trans_c tb time=1000]
 [se buf=0 storage="seB014"]
@@ -784,28 +782,28 @@
 
 *2420|
 [fc]
-そーいちの体が、壁をずるずると滑って床に落ちた。[pcms]
+Souichirou's body slid down the wall and fell to the floor.[pcms]
 
 *2421|
 [fc]
-そして、そーいちはそのまま動かなくなった。[pcms]
+And then, Souichirou stopped moving altogether.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2422|
 [fc]
 [vo_aka s="akari_nt0102"]
-[ns]茜梨[nse]
-「いやあああああっ！　出渕先輩っ！！」[pcms]
+[ns]Akari[nse]
+"Noooooo! Izubuchi-senpai!!"[pcms]
 
 *2423|
 [fc]
-越智さんの絶叫が室内に響き渡る。[pcms]
+Ochi-san's scream echoed throughout the room.[pcms]
 
 *2424|
 [fc]
-その声を遮るように、ぞろぞろと感染者が押し寄せて[r]
-僕たちに手を伸ばしてくる。[pcms]
+As if to drown out her voice, the infected crowded in and reached out[r]
+for us.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -819,8 +817,8 @@
 
 *2425|
 [fc]
-[ns]感染者[nse]
-「あ゛、あ～、わがい、お゛んなあ゛ああぁ～」[pcms]
+[ns]Infected person[nse]
+"Ah, ah~, I want a woman~"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -833,12 +831,12 @@
 *2426|
 [fc]
 [vo_stk s="satuki_nt0132"]
-[ns]彩月[nse]
-「いやっ！　来ないでっ！　こっち来ないでよっ！」[pcms]
+[ns]Satsuki[nse]
+"No! Don't come! Don't come this way!"[pcms]
 
 *2427|
 [fc]
-南先輩も、押し寄せた感染者に掴まってしまう。[pcms]
+Senior Minami was also grabbed by the swarming infected.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -849,15 +847,15 @@
 
 *2428|
 [fc]
-[ns]感染者[nse]
-「ぐわぜろぉ～、に゛ぐだあ゛ぁ～」[pcms]
+[ns]Infected person[nse]
+"Gwazeroh~, I'll get you~"[pcms]
 
 [eval exp="f.chara_x = 0,f.chara_y = 0"][quake_chara layer=5 x up m]
 
 *2429|
 [fc]
-[ns]誠[nse]
-「うっ、うわああぁっ！！」[pcms]
+[ns]Makoto[nse]
+"Ugh, uwaahhh!!"[pcms]
 
 ;//#_赤フラ
 [赤フラ]
@@ -868,8 +866,7 @@
 
 *2430|
 [fc]
-ひとりの感染者が、思い切り僕のふくらはぎに噛みついて、[r]
-そのままみちみちと肉を引きちぎった。[pcms]
+An infected person bit fiercely into my calf and tore off the flesh.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -881,61 +878,58 @@
 
 *2431|
 [fc]
-[ns]誠[nse]
-「ぎゃあああああああああぁぁぁっっっ！！」[pcms]
+[ns]Makoto[nse]
+"Gyaaaaaaaahhhhh!!!"[pcms]
 
 *2432|
 [fc]
-僕はそのまま床に倒れてしまった。[pcms]
+I fell to the floor.[pcms]
 
 *2433|
 [fc]
-僕のふくらはぎは、ごっそりと肉が噛みちぎられていて[r]
-まるで鳥モモのローストにかぶりついたみたいな[r]
-状態になっている。[pcms]
+My calf had a chunk of flesh torn out, looking like someone had bitten[r]
+into a roast chicken thigh.[pcms]
 
 *2434|
 [fc]
-傷口からは血がだらだらと流れ、火がついたみたいな[r]
-強烈な激痛に僕はのたうち回った。[pcms]
+Blood flowed from the wound and I writhed in agony as if fire had been[r]
+set to it.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c rl time=300]
 
 *2435|
 [fc]
 [vo_stk s="satuki_nt0133"]
-[ns]彩月[nse]
-「中澤君っ！！」[pcms]
+[ns]Satsuki[nse]
+"Nakazawa-kun!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak15"][ChrSetXY layer=5 x=0 y=0][trans_c lr time=300]
 
 *2436|
 [fc]
 [vo_aka s="akari_nt0103"]
-[ns]茜梨[nse]
-「ああっ！　中澤先輩っ！　中澤先輩っ！！[r]
-　いっ、嫌あああああぁぁぁぁっ！！！」[pcms]
+[ns]Akari[nse]
+"Ah! Nakazawa-senpai! Nakazawa-senpai!! Nooooo!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2437|
 [fc]
-越智さんと南先輩が、口々に僕の名前を呼んでいる。[pcms]
+Ochi-san and Senior Minami were calling my name one after another.[pcms]
 
 *2438|
 [fc]
-でも僕は、目をあけて、声のする方向を見るのが精一杯で[r]
-立ち上がることはおろか、身動きすることすらできない。[pcms]
+But all I could do was open my eyes and look in the direction of the[r]
+voices; I couldn't even move, let alone stand up.[pcms]
 
 *2439|
 [fc]
-[ns]誠[nse]
-「越智……さん……、南……先輩……っ」[pcms]
+[ns]Makoto[nse]
+"Ochi...san... Minami...senpai..."[pcms]
 
 *2440|
 [fc]
-ぼやける僕の視界に、越智さんをつかまえた荒井の姿が[r]
-飛び込んできた。[pcms]
+My blurred vision caught sight of Arai holding onto Ochi-san.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -962,124 +956,115 @@
 *2441|
 [fc]
 [vo_aka s="akari_nt0104"]
-[ns]茜梨[nse]
-「いやああっ！　やめてっ！　荒井先輩っ！[r]
-　やめてくださいっっ！！」[pcms]
+[ns]Akari[nse]
+"No! Stop! Arai-senpai! Please stop!!"[pcms]
 
 *2442|
 [fc]
-越智さんが、駅弁の体勢で荒井に持ち上げられ、[r]
-壁に押しつけられている。[pcms]
+Ochi-san was lifted up by Arai in a princess carry position and[r]
+pressed against the wall.[pcms]
 
 *2443|
 [fc]
-ビキニの上がずらされて、おっぱいが[r]
-まる見えになってしまっている。[pcms]
+Her bikini top had been shifted aside, and her breasts were completely[r]
+exposed.[pcms]
 
 *2444|
 [fc]
-[ns]荒井[nse]
-「あ゛ぁ～、あ゛がりぢゃんの、お゛っばいだあ゛ぁ～。[r]
-　やっばり゛ぃ、すだい゛る、い゛いんだね゛えぇ～」[pcms]
+[ns]Arai[nse]
+"Ahh~ Akari-chan's, your boobs are amazing. They're really the best~"[pcms]
 
 *2445|
 [fc]
 [vo_aka s="akari_nt0105"]
-[ns]茜梨[nse]
-「嫌っ！　いやあっ！！　お願いっ！　荒井先輩っ！[r]
-　お願いだからぁ、もうやめてえっ！！」[pcms]
+[ns]Akari[nse]
+"No! Nooo!! Please! Arai-senpai! Please stop!!"[pcms]
 
 *2446|
 [fc]
-越智さんが、必死になって荒井に訴えかけてる。[pcms]
+Akari was desperately appealing to Arai.[pcms]
 
 *2447|
 [fc]
-でも、ウイルスに感染し、完全に発症しててしまった荒井には、[r]
-もう越智さんの言葉は届かない。[pcms]
+But Arai, who had been completely overtaken by the virus, was no[r]
+longer reachable by Akari's words.[pcms]
 
 [evcg storage="akari_H018b"][trans_c cross time=300]
 
 *2448|
 [fc]
-[ns]荒井[nse]
-「あ゛～、しま゛しま゛おまんこだあ゛ぁ～♪」[pcms]
+[ns]Arai[nse]
+"Ahh~ such a neat and tidy pussy~♪"[pcms]
 
 *2449|
 [fc]
-荒井がそう言うと、ビキニに包まれた越智さんの股間に[r]
-口をつけて、そのままちゅうちゅうと吸いはじめた。[pcms]
+As Arai said that, he put his mouth on Akari's bikini-covered crotch[r]
+and began to suck on it.[pcms]
 
 *2450|
 [fc]
 [vo_aka s="akari_nt0106"]
-[ns]茜梨[nse]
-「いやああぁあっ！　やめてっ！　やめてよおっ！[r]
-　そんなとこ吸わないでえっ！」[pcms]
+[ns]Akari[nse]
+"Nooo! Stop it! Don't suck there!!"[pcms]
 
 *2451|
 [fc]
-水着越しに股間を吸われる不快感に、越智さんが[r]
-身をよじってもがいている。[pcms]
+Akari writhed in discomfort as her crotch was sucked through her[r]
+swimsuit.[pcms]
 
 *2452|
 [fc]
-でも、駅弁の体勢で越智さんを壁に押しつけている[r]
-荒井の拘束は、越智さんが暴れたぐらいでは[r]
-びくともしない。[pcms]
+But Arai's grip was unyielding as he pressed Akari against the wall in[r]
+a standing position, and her struggles did nothing to loosen it.[pcms]
 
 *2453|
 [fc]
-[ns]荒井[nse]
-「お゛おぉ～、あ゛がりぢゃん゛の～、[r]
-　お゛まんごの゛あ゛じがする゛うぅ～」[pcms]
+[ns]Arai[nse]
+"Ohh~ I can taste Akari-chan's pussy~"[pcms]
 
 *2454|
 [fc]
-荒井は夢中になって、水着越しの越智さんの股間に[r]
-じゅるじゅると吸いついている。[pcms]
+Arai was fervently sucking on Akari's crotch through her swimsuit.[pcms]
 
 [evcg storage="akari_H018c"][trans_c cross time=300]
 
 *2455|
 [fc]
 [vo_aka s="akari_nt0107"]
-[ns]茜梨[nse]
-「やだあぁ……もうやだよおぉ……おねがい、やめてよぉ……」[pcms]
+[ns]Akari[nse]
+"I can't... I can't take this anymore... please, stop it..."[pcms]
 
 *2456|
 [fc]
-いくら言っても止めようとしない荒井に、[r]
-越智さんがべそをかき始めた。[pcms]
+No matter what she said, Arai wouldn't stop, and Akari began to sob.[pcms]
 
 *2457|
 [fc]
-[ns]荒井[nse]
-「そう゛があぁ～あ゛がり゛ちゃんはぁ、ぜんぎよ゛りも[r]
-　ほんばん゛がぁ、すぎな゛んだね゛ぇ～わ゛がっだよぉ～」[pcms]
+[ns]Arai[nse]
+"That's right~ Akari-chan, you're even more amazing than I thought~[r]
+I'm so lucky~"[pcms]
 
 *2458|
 [fc]
-荒井がそう言うと、すでにショートパンツの下で[r]
-びんびんに勃起していたチンポを取り出した。[pcms]
+As Arai said that, he took out his dick, which was already hard[r]
+beneath his shorts.[pcms]
 
 [evcg storage="akari_H018d"][trans_c cross time=300]
 
 *2459|
 [fc]
 [vo_aka s="akari_nt0108"]
-[ns]茜梨[nse]
-「い……嫌……お願い……やめて……荒井、せんぱいっ……」[pcms]
+[ns]Akari[nse]
+"No... please... stop... Arai-senpai..."[pcms]
 
 *2460|
 [fc]
-荒井の股間で脈打っているチンポを見て、[r]
-越智さんが怯えた声を上げる。[pcms]
+Seeing Arai's throbbing dick, Akari let out a frightened voice.[pcms]
 
 *2461|
 [fc]
-荒井は、越智さんのビキニの股布をずらして[r]
-そのままオマンコにペニスを挿入した。[pcms]
+Arai shifted aside the fabric of Akari's bikini at her crotch and[r]
+inserted his penis into her pussy.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1090,38 +1075,34 @@
 *2462|
 [fc]
 [vo_aka s="akari_nt0109"]
-[ns]茜梨[nse]
-「いっ、いたああああぁぁぁいいいいいっっっ！！！」[pcms]
+[ns]Akari[nse]
+"It hurts! It hurts so much!!!"[pcms]
 
 *2463|
 [fc]
-荒井のチンポが、深々と越智さんのオマンコに[r]
-突き刺さっている。[pcms]
+Arai's dick was deeply piercing into Akari's pussy.[pcms]
 
 [evcg storage="akari_H018g"][trans_c cross time=300]
 
 *2464|
 [fc]
 [vo_aka s="akari_nt0110"]
-[ns]茜梨[nse]
-「ひど……いっ！　ひどいよおっ……！[r]
-　わたしっ、は……はじめてだったのにいぃっっ！」[pcms]
+[ns]Akari[nse]
+"That's cruel! So cruel...! It was my first time...!"[pcms]
 
 *2465|
 [fc]
-越智さんのその言葉通り、荒井との結合部には、[r]
-処女の証である破瓜の血が流れていた。[pcms]
+True to Akari's words, there was blood from a broken hymen at the[r]
+place where she and Arai were joined.[pcms]
 
 *2466|
 [fc]
-それを見て、荒井が喜びに顔をほころばせる。[pcms]
+Seeing that, Arai's face broke into a smile of delight.[pcms]
 
 *2467|
 [fc]
-[ns]荒井[nse]
-「お゛……お゛れぇ……[r]
-　あ゛かり゛ちゃんの、はじめ゛てを゛も゛らえて[r]
-　とっても゛、じあ゛わぜだな゛ああ゛ぁ～」[pcms]
+[ns]Arai[nse]
+"Oh... I've taken Akari-chan's first time... It feels so good~"[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
@@ -1131,66 +1112,62 @@
 *2468|
 [fc]
 [vo_aka s="akari_nt0111"]
-[ns]茜梨[nse]
-「わっ、私は、不幸せだよおっ！[r]
-　いっ、痛ぁいぃっ、痛いってばぁっ！[r]
-　お願いっ！　お願いだから本当にやめてぇ！」[pcms]
+[ns]Akari[nse]
+"I'm so unhappy! It hurts, it really hurts! Please! Please really stop[r]
+this!"[pcms]
 
 *2469|
 [fc]
-越智さんが泣き叫んでいるのはお構いなしで、荒井は[r]
-その名の通りに荒っぽく腰を振り続けている。[pcms]
+Regardless of Akari's crying, Arai continued to thrust his hips[r]
+roughly as his name suggested.[pcms]
 
 *2470|
 [fc]
-[ns]荒井[nse]
-「あ゛ぁ～、あ゛かり゛ちゃんの゛おまん゛ごぉ、[r]
-　ど～っでぼぉ、ぎぼぢいいよおぉ～」[pcms]
+[ns]Arai[nse]
+"Ahh~ Akari-chan's pussy is so tight and feels so good~"[pcms]
 
 *2471|
 [fc]
 [vo_aka s="akari_nt0112"]
-[ns]茜梨[nse]
-「いやっ、嫌あぁっ、いっ、痛あっ、痛いっ、痛いよおぉっ！[r]
-　きらいっ！　荒井先輩なんか大っ嫌いいっっ！！」[pcms]
+[ns]Akari[nse]
+"No, I don't want this! It hurts, it hurts so much! I hate you! I hate[r]
+you, Arai-senpai!!"[pcms]
 
 *2472|
 [fc]
-[ns]荒井[nse]
-「あ～、あがりぢゃ～ん、ずぎだあぁ、だいずぎだよおぉ～！」[pcms]
+[ns]Arai[nse]
+"Ah~ Akari-chan, you're too much, you're just too much~!"[pcms]
 
 *2473|
 [fc]
 [vo_aka s="akari_nt0113"]
-[ns]茜梨[nse]
-「嫌っ、嫌あっ！　荒井先輩っ大っ嫌いっ！　いたいっ！[r]
-　いたいってばっ！！　やめてっ！　もうやめてえぇっ！！」[pcms]
+[ns]Akari[nse]
+"No, I don't want this! I hate you, Arai-senpai! It hurts! It hurts so[r]
+much!! Stop it! Just stop it!!"[pcms]
 
 *2474|
 [fc]
-[ns]荒井[nse]
-「あ～、おれぇ～、ぎぼぢよぐなっでぎぢゃっだよ～！[r]
-　あがりぢゃ～ん、あがりぢゃ～んんんっっ！！」[pcms]
+[ns]Arai[nse]
+"Ah~ I'm feeling so good~ Akari-chan, Akari-chan!!"[pcms]
 
 [evcg storage="akari_H018h"][trans_c cross time=300]
 
 *2475|
 [fc]
 [vo_aka s="akari_nt0114"]
-[ns]茜梨[nse]
-「え……うそ、ちょっと……荒井先輩っ！！[r]
-　いやっ、やめてっ、それだけはやめてくださいっっ！！」[pcms]
+[ns]Akari[nse]
+"Eh... no way... please, Arai-senpai!! No, stop it, please don't do[r]
+that!!"[pcms]
 
 *2476|
 [fc]
-中出しされる恐怖に、越智さんが顔を引きつらせて拒絶する。[pcms]
+The fear of being creampied made Akari's face contort in rejection.[pcms]
 
 *2477|
 [fc]
-[ns]荒井[nse]
-「ああぁ～～、あがりぢゃん、あがりぢゃあぁん～！[r]
-　でるっ！　あがりぢゃんのながにぃ～[r]
-　いっばい、だじであげるがらねえぇ～～～！！！」[pcms]
+[ns]Arai[nse]
+"Ahh~~ Akari-chan, Akari-chan~! It's coming out! I'm going to give it[r]
+all to you inside~~!!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1207,93 +1184,90 @@
 *2478|
 [fc]
 [vo_aka s="akari_nt0115"]
-[ns]茜梨[nse]
-「いっ……いやあああああああぁぁぁぁぁっっっ！！！！！」[pcms]
+[ns]Akari[nse]
+"No... NOOOOOOOOOO!!!!!"[pcms]
 
 *2479|
 [fc]
-越智さんのオマンコに挿入されたままの荒井のチンポの根本が[r]
-びくっ、びくっと何度も痙攣している。[pcms]
+The base of Arai's dick, still inserted in Akari's pussy, twitched and[r]
+spasmed several times.[pcms]
 
 *2480|
 [fc]
-荒井が、越智さんのオマンコの中で射精したんだ。[pcms]
+Arai had ejaculated inside Akari's pussy.[pcms]
 
 [evcg storage="akari_H018j"][trans_c cross time=300]
 
 *2481|
 [fc]
 [vo_aka s="akari_nt0116"]
-[ns]茜梨[nse]
-「いやあっ！　ああっ！　やめてっ！　もう出さないでっ！[r]
-　私の中で出すのやめてよおおぉっ！！」[pcms]
+[ns]Akari[nse]
+"No! Ahh! Stop it! Don't let it out anymore! Don't cum inside me!!"[pcms]
 
 *2482|
 [fc]
-荒井のチンポが自分のオマンコの中でひくつきながら[r]
-ザーメンを吐き出す感触を感じてるんだろう。[pcms]
+Akari must be feeling the sensation of Arai's dick twitching as it[r]
+ejaculates semen inside her.[pcms]
 
 *2483|
 [fc]
-越智さんが身をよじって、全身で嫌悪感を表している。[pcms]
+Ochi-san twisted her body, expressing her disgust with her entire[r]
+being.[pcms]
 
 *2484|
 [fc]
 [vo_aka s="akari_nt0117"]
-[ns]茜梨[nse]
-「いやっ！　お腹の中が熱いっ！　いやっいやあああっ！！」[pcms]
+[ns]Akari[nse]
+"No! My insides are hot! No, nooooo!!"[pcms]
 
 *2485|
 [fc]
-荒井のザーメンが体内に流れ込んでくる感触に、[r]
-越智さんが絶叫した。[pcms]
+The sensation of Arai's semen flowing inside her made Ochi-san scream.[pcms]
 
 *2486|
 [fc]
-[ns]荒井[nse]
-「ああぁ……いっぱい、でたよおぉ～」[pcms]
+[ns]Arai[nse]
+"Ahh... I let out so much~~"[pcms]
 
 *2487|
 [fc]
-荒井がひと仕事終えたようなスッキリとした顔つきで、[r]
-越智さんのオマンコの中からチンポを引き抜いた。[pcms]
+Arai, with a refreshed look as if he had finished a job, pulled his[r]
+cock out from inside Ochi-san's pussy.[pcms]
 
 *2488|
 [fc]
-その途端に、越智さんのオマンコから、[r]
-中出しされた荒井のザーメンが垂れ流れてきた。[pcms]
+As soon as he did, Arai's semen that he had ejaculated inside started[r]
+to drip out from Ochi-san's pussy.[pcms]
 
 [evcg storage="akari_H018k"][trans_c cross time=300]
 
 *2489|
 [fc]
 [vo_aka s="akari_nt0118"]
-[ns]茜梨[nse]
-「ああ……あ……そんな……そんなっ………」[pcms]
+[ns]Akari[nse]
+"Ah... ah... no... not like this..."[pcms]
 
 *2490|
 [fc]
-熱い液体が逆流する感触に、越智さんが[r]
-自分のオマンコを凝視する。[pcms]
+The sensation of the hot liquid flowing back made Ochi-san stare at[r]
+her own pussy.[pcms]
 
 *2491|
 [fc]
-ゼリーのように濃い塊になった荒井のザーメンが[r]
-自分のオマンコから流れ落ちるのを見て、越智さんが[r]
-絶望に塗り潰された叫び声をあげた。[pcms]
+Seeing the jelly-like clumps of Arai's semen flowing out from her[r]
+pussy, Ochi-san let out a scream filled with despair.[pcms]
 
 *2492|
 [fc]
 [vo_aka s="akari_nt0119"]
-[ns]茜梨[nse]
-「いやああっ！　いやあっ！　やだっ！[r]
-　やだよおぉぉっっ！　ああっ！　あああっ！[r]
-　こんなの……こんなのいやあぁぁっ！！」[pcms]
+[ns]Akari[nse]
+"Nooooo! No! I don't want this! I don't want this at allllll! Ahh![r]
+Ahhhh! I don't want this kind of thing!!!"[pcms]
 
 *2493|
 [fc]
-ふと、僕が顔を動かすと、部屋の別の一角では、[r]
-南先輩が感染者たちに犯されていた。[pcms]
+Suddenly, as I moved my face, I saw in another corner of the room that[r]
+Senior Minami was being violated by the infected.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1316,142 +1290,137 @@
 *2494|
 [fc]
 [vo_stk s="satuki_nt0134"]
-[ns]彩月[nse]
-「いやあっ！　やめてっ！　あっち行ってよっ！！」[pcms]
+[ns]Satsuki[nse]
+"No! Stop it! Go away!!"[pcms]
 
 *2495|
 [fc]
-南先輩が、背後から感染者に犯されている。[pcms]
+Senior Minami was being violated from behind by an infected person.[pcms]
 
 *2496|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛おぉ～、このお゛んなの、お゛まん゛こ、[r]
-　ぐあ゛い、い゛いぞお゛おぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Oooh, this woman's pussy, it feels so good~~"[pcms]
 
 *2497|
 [fc]
-感染者が南先輩の両腕を掴んだまま、後ろで[r]
-腰を狂ったように打ち付けている。[pcms]
+The infected person held onto Senior Minami's arms and thrust his hips[r]
+madly from behind.[pcms]
 
 [evcg storage="satuki_H006m"][trans_c cross time=300]
 
 *2498|
 [fc]
 [vo_stk s="satuki_nt0135"]
-[ns]彩月[nse]
-「ぐううっ！　ああっ！　嫌あっ！[r]
-　やめてってばっ！！」[pcms]
+[ns]Satsuki[nse]
+"Guuuh! Ahh! Nooo! Stop it!!"[pcms]
 
 *2499|
 [fc]
-南先輩を襲っているのは、後ろから犯している[r]
-感染者だけではなかった。[pcms]
+It wasn't just the infected person violating Senior Minami from[r]
+behind.[pcms]
 
 *2500|
 [fc]
-別の感染者が、南先輩の前に跪いて、剥き出しにした[r]
-南先輩のたわわな胸にむしゃぶりついていた。[pcms]
+Another infected person knelt in front of her and was devouring her[r]
+exposed, voluptuous breasts.[pcms]
 
 *2501|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛～、ずでぎなおっぱいだなあぁ～。ゆだがでぇ～、[r]
-　はりがあっでえぇ～、がだぢもいいしぃ～、[r]
-　ぢぐびのいろも゛いいいぃぃ～」[pcms]
+[ns]Infected Person B[nse]
+"Ahh~, such perfect breasts. They're so firm and nice to touch, and[r]
+even the nipples are a beautiful color~~"[pcms]
 
 *2502|
 [fc]
-南先輩の胸にしゃぶりついている感染者は、[r]
-おっぱいフェチなんだろうか？[pcms]
+The infected person sucking on Senior Minami's breasts must be a[r]
+breast fetishist?[pcms]
 
 *2503|
 [fc]
-呂律の回らない感染者独特の口調のままで、しきりに[r]
-南先輩の胸がどれだけすばらしいかを語っている。[pcms]
+In the unique slurred speech of the infected, he kept talking about[r]
+how wonderful Senior Minami's breasts were.[pcms]
 
 *2504|
 [fc]
-[ns]感染者Ｂ[nse]
-「に゛ゅう゛りんも、こぶり゛で、きれいだあ゛ぁ～。[r]
-　ちくびも゛すいつきや゛すいお゛おきさだし～、[r]
-　はだが゛すべすべだあ゛ぁ～」[pcms]
+[ns]Infected Person B[nse]
+"The areolas are small and pretty too. The nipples are just the right[r]
+size to suck on, and the skin is so smooth~~"[pcms]
 
 *2505|
 [fc]
 [vo_stk s="satuki_nt0136"]
-[ns]彩月[nse]
-「あんたなんかに褒められても、ぜんぜん嬉しくないわよっ！[r]
-　いいからっ、くっ、わたしの胸から離れてよっ！！」[pcms]
+[ns]Satsuki[nse]
+"I'm not happy at all being praised by someone like you! Just get off[r]
+my chest already!!"[pcms]
 
 *2506|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛ほぉ～、だま゛ん゛ねえな゛あ゛ああぁ～」[pcms]
+[ns]Infected Person B[nse]
+"Ohh~, don't be so noisy~~"[pcms]
 
 *2507|
 [fc]
-さらにもう１人、別の感染者が近づいてきた。[pcms]
+Then another infected person approached.[pcms]
 
 *2508|
 [fc]
-[ns]感染者Ｃ[nse]
-「ぐぢがあいでんなら～、おれのぢんぼ、しゃぶれ～」[pcms]
+[ns]Infected Person C[nse]
+"If you like it so much~, suck on my dick~"[pcms]
 
 [evcg storage="satuki_H006n"][trans_c cross time=300]
 
 *2509|
 [fc]
 [vo_stk s="satuki_nt0137"]
-[ns]彩月[nse]
-「むっ……むぐううぅっ！！」[pcms]
+[ns]Satsuki[nse]
+"Mmm... Mguuuuh!!"[pcms]
 
 *2510|
 [fc]
-[ns]感染者Ｃ[nse]
-「どぉだぁ～、おれのぢんぼ、うめぇがああぁ～。[r]
-　おらあぁ～もっとしっがりぃしゃぶるんだよおぉ～！」[pcms]
+[ns]Infected Person C[nse]
+"How is it~? My dick tastes good, doesn't it~~? Come on~ suck it more[r]
+firmly~~!"[pcms]
 
 *2511|
 [fc]
 [vo_stk s="satuki_nt0138"]
-[ns]彩月[nse]
-「むうっ！　んぶっ！　くる……ひいっ…[r]
-　やめっ……じゅぶっ！」[pcms]
+[ns]Satsuki[nse]
+"Muuu! Nbuu! It's... hiiii... stop... jubu!"[pcms]
 
 *2512|
 [fc]
-南先輩の口を犯している感染者の動きは、フェラチオと[r]
-言うよりは、完全にイラマチオだった。[pcms]
+The movement of the infected person violating Senior Minami's mouth[r]
+was more like deep-throating than fellatio.[pcms]
 
 *2513|
 [fc]
-[ns]感染者Ｃ[nse]
-「お～、ちんぼのざぎがぁ、[r]
-　のどのおぐにあだっでぇ、ぎぼぢいいぃ～」[pcms]
+[ns]Infected Person C[nse]
+"Oh~, my dick's head is hitting the back of your throat, feels so[r]
+good~~"[pcms]
 
 *2514|
 [fc]
 [vo_stk s="satuki_nt0139"]
-[ns]彩月[nse]
-「げぼっ！　げえぇっ！　くさ……いっ！　んぶうっ！[r]
-　げっ、げほおぉっ！　ぐげえぇっ！！」[pcms]
+[ns]Satsuki[nse]
+"Gebboh! Geeeh! It's stinky! Nbuuh! Geh, gehooh! Ggeeeh!!"[pcms]
 
 *2515|
 [fc]
-息苦しさと嫌悪感に涙を流してえずきながら、[r]
-南先輩は口とオマンコを犯され、胸を弄くられていた。[pcms]
+Tears streaming down from the suffocation and disgust, Senior Minami[r]
+was being violated in her mouth and pussy while her breasts were being[r]
+fondled.[pcms]
 
 *2516|
 [fc]
-[ns]感染者Ａ[nse]
-「お、おぉ。おまんこが、ちんぼにすいづいでぐるうぅ～！[r]
-　あ～たまんねえぇ、でるううぅ～」[pcms]
+[ns]Infected Person A[nse]
+"Oh, oh. Her pussy is sucking on my dick so tightly~ Ahh~ I can't[r]
+stand it, I'm cumming~~"[pcms]
 
 *2517|
 [fc]
-[ns]感染者Ｃ[nse]
-「おれもおおぉ～もうでるっでるぞおおぉ～！」[pcms]
+[ns]Infected C[nse]
+"Me too oooh~ I'm gonna cum, I'm cumming~~!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1468,49 +1437,48 @@
 *2518|
 [fc]
 [vo_stk s="satuki_nt0140"]
-[ns]彩月[nse]
-「んやあっ！　熱いっ！　臭いっ！！[r]
-　ひっ、嫌ああぁぁっ！！」[pcms]
+[ns]Satsuki[nse]
+"Nyahh! It's hot! It stinks!! Hii, nooooo!!"[pcms]
 
 *2519|
 [fc]
-南先輩の口と口を犯していた物との隙間から、[r]
-大量の精子が零れ出てくる。[pcms]
+A large amount of semen spilled out from the gaps around Senior[r]
+Minami's mouth where she was being violated.[pcms]
 
 *2520|
 [fc]
-驚くほど大量の精子がチンポの先から迸って、南先輩の[r]
-口内にぶちまけられているんだ。[pcms]
+An astonishing amount of semen burst forth from the tip of the dick[r]
+and was splattered inside Senior Minami's mouth.[pcms]
 
 [evcg storage="satuki_H006p"][trans_c cross time=300]
 
 *2521|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あ゛あ゛～、ま゛だおまんごの゛ながでぇ、[r]
-　ぢんぼがびぐびぐいっでるう゛ぅ～ぎぼぢいいな゛あぁ～[r]
-　あ゛へ～～あ゛へ～～～」[pcms]
+[ns]Infected Person A[nse]
+"Aaaah~ there's still more cum flowing out from her pussy, my dick is[r]
+throbbing inside~ feels so good~~ Ahh~~ Ahh~~~~"[pcms]
 
 *2522|
 [fc]
 [vo_stk s="satuki_nt0141"]
-[ns]彩月[nse]
-「あ……ああ………うあ………ああぁ………っ………」[pcms]
+[ns]Satsuki[nse]
+"Ah... ahh... uah... ahhh...t..."[pcms]
 
 *2523|
 [fc]
-感染者に、口内と膣内に射精されてしまったのがあまりにも[r]
-ショックだったのか、南先輩が呆然としている。[pcms]
+Perhaps due to the shock of being ejaculated in both her mouth and[r]
+pussy, Senior Minami was standing there dazed.[pcms]
 
 *2524|
 [fc]
-白濁まみれの南先輩にはまったく頓着せず、おっぱいフェチの[r]
-感染者は、ひたすら先輩のおっぱいを弄くり倒していた。[pcms]
+Without any concern for the semen-covered Senior Minami, the breast[r]
+fetishist among the infected continued to relentlessly fondle her[r]
+breasts.[pcms]
 
 *2525|
 [fc]
-目線をまた越智さんに戻すと、さっきよりも[r]
-さらに酷いことになっていた。[pcms]
+When I shifted my gaze back to Akari-san, the situation had become[r]
+even more terrible than before.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1529,57 +1497,56 @@
 *2526|
 [fc]
 [vo_aka s="akari_nt0120"]
-[ns]茜梨[nse]
-「があああああぁぁぁぁぁっ！　ぐああぁぁあぁあっぁっっ！」[pcms]
+[ns]Akari[nse]
+"Gaaaaaaaah! Guuaaaaahhhhh!"[pcms]
 
 *2527|
 [fc]
-越智さんがオマンコとアナルを同時に犯されて絶叫している。[pcms]
+Akari-san was screaming as she was being violated in both her pussy[r]
+and anus at the same time.[pcms]
 
 *2528|
 [fc]
 [vo_aka s="akari_nt0121"]
-[ns]茜梨[nse]
-「いだいぃっいだあああぁいいいいぃぃっっ！！！[r]
-　こわれるっ！　こわれちゃうってばぁっ！！[r]
-　ああぁっ！　いだいいだいいだいいだいいやああぁあっ！！」[pcms]
+[ns]Akari[nse]
+"It hurts! It hurts so baaad! I'm breaking! I'm going to break! Aaah![r]
+It hurts, it hurts, it hurts, it hurts, nooooo!!"[pcms]
 
 *2529|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛～、お゛まん゛こ、きつきつだあ゛ぁ～」[pcms]
+[ns]Infected D[nse]
+"Oooh, this pussy is so tight~"[pcms]
 
 *2530|
 [fc]
-[ns]感染者Ｅ[nse]
-「けつの゛あ゛なも、ぎゅう゛ぎゅうしま゛って、[r]
-　きも゛ちい゛いぞお゛ぉ～」[pcms]
+[ns]Infected E[nse]
+"The ass is also squeezing tight, feels so good~~"[pcms]
 
 *2531|
 [fc]
-[ns]感染者Ｆ[nse]
-「お゛～、お゛れにも゛～、い゛れさせろ゛～」[pcms]
+[ns]Infected F[nse]
+"Oooh, let me in too~~"[pcms]
 
 *2532|
 [fc]
-すでに前後の穴に挿入されているにも関わらず、１人の感染者が[r]
-無理矢理越智さんの前に回り込むと、オマンコにチンポを[r]
-ねじ込もうとする。[pcms]
+Despite already being penetrated in both holes, one of the infected[r]
+forced his way in front of Akari-san and tried to twist his dick into[r]
+her pussy.[pcms]
 
 [evcg storage="akari_H019b"][trans_c cross time=300]
 
 *2533|
 [fc]
 [vo_aka s="akari_nt0122"]
-[ns]茜梨[nse]
-「むりいっ！　そんなのむりだよおぉっ！　さけちゃううっ！[r]
-　いだいいっ！　いだいっていっでんのおっ！」[pcms]
+[ns]Akari[nse]
+"It's impossible! That's impossible! It's going to tear! It hurts! It[r]
+really hurts!"[pcms]
 
 *2534|
 [fc]
-[ns]感染者Ｆ[nse]
-「う゛～る゛せえな゛あ゛～。ため゛して、み゛ねぇ゛と[r]
-　わ゛かんねだろぅがあ゛ぁ～いっくぞお゛おおぉぉ～～～！」[pcms]
+[ns]Infected Person F[nse]
+"Stop being so stubborn~. You won't know unless you try, here I[r]
+gooooo~~~!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1590,105 +1557,98 @@
 *2535|
 [fc]
 [vo_aka s="akari_nt0123"]
-[ns]茜梨[nse]
-「ぎいいっ！　ぎっぎいいいいぃ！！[r]
-　あが、がぎ、ぎぎぎぎっぎぎぎぎいいぃぃっ！！！！！！」[pcms]
+[ns]Akari[nse]
+"Giiiih! Giiiiiiiih!! Aga, ga gi, gigigigigigigiiiiih!!"[pcms]
 
 *2536|
 [fc]
-越智さんが、そのまま死んでしまうんじゃないだろうかと[r]
-思うような絶叫をあげた。[pcms]
+I thought Akari-san might actually die from the way she screamed.[pcms]
 
 *2537|
 [fc]
-[ns]感染者Ｆ[nse]
-「あ゛あ～、はい゛ったあ゛ぁ～。[r]
-　な゛～、なんでも゛ため゛じでみ゛るも゛んだろ゛～」[pcms]
+[ns]Infected F[nse]
+"Aaah~, it's in~. See, trying everything is the way to go~"[pcms]
 
 *2538|
 [fc]
-越智さんの周りには、どんどん感染者が群がってくる。[pcms]
+More and more infected were gathering around Akari-san.[pcms]
 
 *2539|
 [fc]
-またひとり、感染者が割り込むと、越智さんの胸を掴んで[r]
-強制的にパイズリさせている。[pcms]
+Another infected person pushed his way through and grabbed Akari-san's[r]
+breasts, forcing her to give him a titjob.[pcms]
 
 *2540|
 [fc]
-[ns]感染者Ｇ[nse]
-「お゛っほお゛ぉ～、お゛っばい゛ぃ、[r]
-　ちょーや゛らけぇな゛あ゛ぁ～、あーさい゛こ～」[pcms]
+[ns]Infected G[nse]
+"Ohhoooh~, these tits are so soft and nice~, ahh, this feels great~"[pcms]
 
 [evcg storage="akari_H019d"][trans_c cross time=300]
 
 *2541|
 [fc]
 [vo_aka s="akari_nt0124"]
-[ns]茜梨[nse]
-「あぶ……ぐぶ……んげ………ごう……っ………み………」[pcms]
+[ns]Akari[nse]
+"Abu... gubu... nge... gou... mi..."[pcms]
 
 *2542|
 [fc]
-[ns]感染者Ｉ[nse]
-「ばがだなあぁ～、ほっぺのうぢがわにぃ、ぢんぼのさぎを[r]
-　ごすりづげればぁ、ぎぼぢいいんだぉ～」[pcms]
+[ns]Infected I[nse]
+"You're doing it wrong~, just rub the head of my dick against your[r]
+cheek and it'll feel good~"[pcms]
 
 *2543|
 [fc]
-[ns]感染者Ｈ[nse]
-「おぉ～だじがにぃ、おめぇのいうどおりだなあぁ～[r]
-　あ～、ほっぺのうぢがわぁ、ぎぼぢいいぃ～[r]
-　おめぇ～あ゛だま゛いいなあ゛あぁ～」[pcms]
+[ns]Infected H[nse]
+"Ohh~, you're right~, rubbing the head against the cheek feels so[r]
+good~ You're pretty smart~"[pcms]
 
 [evcg storage="akari_H019f"][trans_c cross time=300]
 
 *2544|
 [fc]
 [vo_aka s="akari_nt0125"]
-[ns]茜梨[nse]
-「ぐぼああぁうぅ！　がうっおおおっ！[r]
-　ごふぅごわあぁぁ！」[pcms]
+[ns]Akari[nse]
+"Guboaaahh! Gauuuh! Gofuuu goowaaah!"[pcms]
 
 *2545|
 [fc]
-もはや、越智さんの口からは[r]
-意味のある言葉が聞こえてこない。[pcms]
+No longer were any coherent words coming from Akari-san's mouth.[pcms]
 
 *2546|
 [fc]
-感染者たちに勝手に責め苛まれる苦痛に、[r]
-獣のように吼えていた。[pcms]
+In pain from being tormented at will by the infected, she howled like[r]
+a beast.[pcms]
 
 *2547|
 [fc]
-[ns]感染者Ｄ[nse]
-「ぼうだべだあぁ～、でるでるでるで～！」[pcms]
+[ns]Infected D[nse]
+"I'm gonna cum, I'm cumming, cumming~!"[pcms]
 
 *2548|
 [fc]
-[ns]感染者Ｅ[nse]
-「げづのあなのながにぃ、どぐどぐだじでやるうぅ～！」[pcms]
+[ns]Infected E[nse]
+"I'm gonna pump this tight ass full of cum~!"[pcms]
 
 *2549|
 [fc]
-[ns]感染者Ｆ[nse]
-「おばんごにぼんざじで～、ながだじだああぁ！」[pcms]
+[ns]Infected Person F[nse]
+"I'm gonna fill this pussy with loads of cum~!"[pcms]
 
 *2550|
 [fc]
-[ns]感染者Ｇ[nse]
-「む゛ねま゛んごで゛いぐううぅ～！」[pcms]
+[ns]Infected G[nse]
+"I'm cumming between these tits~!"[pcms]
 
 *2551|
 [fc]
-[ns]感染者Ｈ[nse]
-「おれのざ～めん、ばらいっばいのべぇ～～！」[pcms]
+[ns]Infected H[nse]
+"My semen is gonna splatter everywhere~!"[pcms]
 
 *2552|
 [fc]
-[ns]感染者Ｉ[nse]
-「おでわぁ、がおにぶっがげでやるぞおぉ～！」[pcms]
+[ns]Infected I[nse]
+"I'm gonna blow my load all over your face~!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1749,51 +1709,50 @@
 
 *2553|
 [fc]
-越智さんを犯していた、全てのチンポが一斉に射精した。[pcms]
+All the dicks violating Akari-san ejaculated at once.[pcms]
 
 [evcg storage="akari_H019i"][trans_c cross time=300]
 
 *2554|
 [fc]
 [vo_aka s="akari_nt0126"]
-[ns]茜梨[nse]
-「あ……えへ……あへ……あふぅ、ふぅ、ふふぅ………」[pcms]
+[ns]Akari[nse]
+"Ah... ehe... ahe... afuu, fuu, fufuu..."[pcms]
 
 *2555|
 [fc]
-全身の穴という穴に精液をぶちまけられ、精液まみれの[r]
-越智さんが、頭をくりくりと振りながら、[r]
-へらへらと笑いはじめた。[pcms]
+Covered in semen from every hole in her body, Akari-san began to laugh[r]
+foolishly while shaking her head back and forth.[pcms]
 
 *2556|
 [fc]
 [vo_aka s="akari_nt0127"]
-[ns]茜梨[nse]
-「あは、あは、あはは、あへ、へ、は、はは、あはあは」[pcms]
+[ns]Akari[nse]
+"Aha, aha, ahaha, ahe, he, ha, haha, ahahaha"[pcms]
 
 *2557|
 [fc]
-越智さんの笑い声は、だんだん大きくなってゆく。[pcms]
+The laughter of Akari-san gradually grew louder.[pcms]
 
 [evcg storage="akari_H019j"][trans_c cross time=300]
 
 *2558|
 [fc]
 [vo_aka s="akari_nt0128"]
-[ns]茜梨[nse]
-「うふぅ、ふ、ふふふ、あは、あはあはあは、あ、はははははは[r]
-　はははははははは、あははははははは、あはは、あは、あはは[r]
-　いひひひひ、ひひ、ひ、ひ、ははぁ、はあ、あへへへへ」[pcms]
+[ns]Akari[nse]
+"Ufuu, fu, fufufu, aha, ahahahaaha, ah, hahahahahaha hahahahahaha,[r]
+ahahahahahaha, ahaha, aha, ahaha ihihihihihi, hihi, hi, hi, hahaah,[r]
+haa, ahehehehe"[pcms]
 
 *2559|
 [fc]
-ウイルスまみれの精液を体内に大量に流し込まれた越智さんは、[r]
-感染すると同時に、気がふれてしまっていた。[pcms]
+Having been filled with virus-laden semen inside her body, Akari-san[r]
+had gone mad at the same time as she became infected.[pcms]
 
 *2560|
 [fc]
-白痴のように、全身の白濁を拭き取ろうともせずに、ただ[r]
-へらへらと笑い続けていた。[pcms]
+Laughing foolishly without even trying to wipe off the semen covering[r]
+her body like an idiot.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1804,21 +1763,21 @@
 
 *2561|
 [fc]
-[ns]誠[nse]
-（越智……さん……南……先輩……。[r]
-　そーいち……ねえ……ちゃん……）[pcms]
+[ns]Makoto[nse]
+(Akari...san... Senior Minami... Souichirou... Onee-san...)[pcms]
 
 *2562|
 [fc]
-足の傷から血が失われすぎて、寒気がする。[pcms]
+I'm losing too much blood from the wound on my leg; I'm starting to[r]
+feel cold.[pcms]
 
 *2563|
 [fc]
-視界がぼんやりして、もう、何も考えることができない。[pcms]
+My vision is getting blurry, and I can't think of anything anymore.[pcms]
 
 *2564|
 [fc]
-さむい……さむ……いよ……ねえ………ちゃ………。[pcms]
+It's cold... so cold... hey... sis...[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -1841,23 +1800,23 @@
 
 *2565|
 [fc]
-……………………………………[pcms]
+...[pcms]
 
 *2566|
 [fc]
-………………………………[pcms]
+...[pcms]
 
 *2567|
 [fc]
-…………………………[pcms]
+...[pcms]
 
 *2568|
 [fc]
-……………………[pcms]
+...[pcms]
 
 *2569|
 [fc]
-………………[pcms]
+...[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1897,5 +1856,5 @@
 [eval exp="sf.g_4120 = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 

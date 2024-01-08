@@ -21,35 +21,34 @@
 *3377|
 [fc]
 [vo_nat s="natu0253"]
-[ns]夏都[nse]
-「ちっ、門が閉じてやがる」[pcms]
+[ns]Natsu[nse]
+"Tch, the gate is closed."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so04a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3378|
 [fc]
-[ns]宗一郎[nse]
-「中に人が立て籠もっているのでは」[pcms]
+[ns]Souichirou[nse]
+"Perhaps someone has barricaded themselves inside."[pcms]
 
 [ChrSetEx layer=3 chbase="na1_sdf_a"][ChrSetParts layer=3 chface="F1_na04"][ChrSetXY layer=3 x=-50 y=0][trans_c cross time=150]
 
 *3379|
 [fc]
 [vo_nat s="natu0254"]
-[ns]夏都[nse]
-「んなこと、わかってるんだよ」[pcms]
+[ns]Natsu[nse]
+"I know that much."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3380|
 [fc]
-正門前で立ち往生している僕たちに、[r]
-感染者が群がってくる。[pcms]
+The infected are swarming towards us as we stand stranded in front of[r]
+the main gate.[pcms]
 
 *3381|
 [fc]
-どういうことなのか、越智本家の門の前には、[r]
-感染者が大勢いた。[pcms]
+Why are there so many infected in front of the Ochi family's gate?[pcms]
 
 ;//めも：9080でレオタじゃないと怜兄が言及してるので巫女服で
 [ChrSetEx layer=5 chbase="sa1_kan_mi"][ChrSetParts layer=5 chface="F1_sa14"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
@@ -57,45 +56,45 @@
 *3382|
 [fc]
 [vo_sat s="sato0058"]
-[ns]怜[nse]
-「おちの……おやしき……」[pcms]
+[ns]Sato[nse]
+"The Ochi... mansion..."[pcms]
 
 *3383|
 [fc]
-[ns]誠[nse]
-「む、村上さん……」[pcms]
+[ns]Makoto[nse]
+"Mu, Ms. Murakami..."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_kan_mi"][ChrSetParts layer=5 chface="F1_sa15"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3384|
 [fc]
-神社にいないから逃げたんだと思っていた村上さんは、[r]
-こんなところでさまよい歩く身になっていた。[pcms]
+I thought Ms. Murakami had escaped because she wasn't at the shrine,[r]
+but here she is, wandering around like this.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3385|
 [fc]
-知っている人のこんな姿を見るのは悲しいけれど、[r]
-どうすることもできない。[pcms]
+It's sad to see someone I know in such a state, but there's nothing I[r]
+can do.[pcms]
 
 *3386|
 [fc]
-[ns]誠[nse]
-「ありがとう、もう大丈夫だから下ろしてくれ」[pcms]
+[ns]Makoto[nse]
+"Thank you, I'm okay now, you can put me down."[pcms]
 
 ;//荒井デレ
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3387|
 [fc]
-[ns]荒井[nse]
-「本当に大丈夫かよ……」[pcms]
+[ns]Arai[nse]
+"Are you really okay...?"[pcms]
 
 *3388|
 [fc]
-いつまでも荒井の背中に隠れているわけにはいかない。[r]
-まだ違和感があるけれど、気を付ければ大丈夫だ。[pcms]
+I can't stay hidden behind Arai forever. There's still some[r]
+discomfort, but I'll be fine if I'm careful.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="na1_sdf_a"][ChrSetParts layer=3 chface="F1_na04"][ChrSetXY layer=3 x=-50 y=0]
@@ -104,28 +103,28 @@
 *3389|
 [fc]
 [vo_nat s="natu0255"]
-[ns]夏都[nse]
-「他に入り口はないのか？」[pcms]
+[ns]Natsu[nse]
+"Isn't there another entrance?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so12b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3390|
 [fc]
-[ns]宗一郎[nse]
-「使用人がいましたから、勝手口があるかも」[pcms]
+[ns]Souichirou[nse]
+"There might be a back door since there were servants."[pcms]
 
 *3391|
 [fc]
-確かに、使用人のおばさんが、[r]
-この大仰な門を出入りしているとは思えない。[pcms]
+Indeed, it's hard to imagine the servants' old lady going through this[r]
+grand gate.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3392|
 [fc]
-[ns]荒井[nse]
-「おい、集まってきたぞっ！」[pcms]
+[ns]Arai[nse]
+"Hey, they're gathering!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -133,35 +132,35 @@
 *3393|
 [fc]
 [vo_nat s="natu0256"]
-[ns]夏都[nse]
-「来た道を戻れっ！　勝手口を探すぞ！」[pcms]
+[ns]Natsu[nse]
+"Retreat the way we came! Let's look for the back door!"[pcms]
 
 [bg storage="forest01b"][trans_c cross time=500]
 
 *3394|
 [fc]
-越智本家の塀を伝って勝手口を探すと、[r]
-正門前の道から、そう遠くないところに小さな扉があった。[pcms]
+Searching along the Ochi family's fence for a back door, we found a[r]
+small gate not too far from the main road in front of the main gate.[pcms]
 
 *3395|
 [fc]
-振り返ると、感染者たちがわらわらと押し寄せてきている。[r]
-僕たちにつられて、こっちに来てしまったみたいだった。[pcms]
+Looking back, the infected were swarming towards us. It seems they[r]
+followed us here.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so08a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3396|
 [fc]
-[ns]宗一郎[nse]
-「駄目だっ！　鍵が掛かってて開かない！」[pcms]
+[ns]Souichirou[nse]
+"No good! It's locked and won't open!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3397|
 [fc]
 [vo_nat s="natu0257"]
-[ns]夏都[nse]
-「どけっ！」[pcms]
+[ns]Natsu[nse]
+"Move!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -173,26 +172,26 @@
 
 *3398|
 [fc]
-姉ちゃんは越智さんを背負いながら、[r]
-腰から銃を抜くと勝手口の鍵に向けて発砲する。[pcms]
+Onee-san, while carrying Ms. Ochi on her back, pulls out a gun from[r]
+her waist and fires at the lock of the back door.[pcms]
 
 *3399|
 [fc]
-鍵は完全に壊れているようだった。[r]
-でも、開くかどうかは別問題だ。[pcms]
+The lock seems to be completely broken. But whether it will open is[r]
+another matter.[pcms]
 
 *3400|
 [fc]
-姉ちゃんが扉を開けようとすると、[r]
-何かが引っかかっているように開かない。[pcms]
+When Onee-san tries to open the door, it doesn't budge as if something[r]
+is stuck.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3401|
 [fc]
 [vo_nat s="natu0258"]
-[ns]夏都[nse]
-「くそっ、このっ！」[pcms]
+[ns]Natsu[nse]
+"Damn it, this...!"[pcms]
 
 ;//◆ＳＥ　扉を蹴破る音
 [se buf=0 storage="seB091"]
@@ -202,13 +201,13 @@
 
 *3402|
 [fc]
-底の厚いブーツで蹴りをかますと、[r]
-気絶したみたいに扉がふらりと開いていった。[pcms]
+With a kick from her thick-soled boots, the door opens as if it had[r]
+fainted.[pcms]
 
 *3403|
 [fc]
-僕たちは後ろから追ってくる感染者を見ながら、[r]
-何とか全員塀の向こう側に避難する。[pcms]
+We managed to evacuate everyone to the other side of the fence while[r]
+watching the infected chasing us from behind.[pcms]
 
 ;//◆背景　越智家裏庭みたいの
 [bg storage="BG19e"][trans_c cross time=500]
@@ -216,13 +215,13 @@
 
 *3404|
 [fc]
-[ns]荒井[nse]
-「扉壊しちゃったら閉まらないんじゃないですか！？」[pcms]
+[ns]Arai[nse]
+"Won't the door stay open if it's broken!?"[pcms]
 
 *3405|
 [fc]
-[ns]誠[nse]
-「くそっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -230,16 +229,15 @@
 
 *3406|
 [fc]
-僕は急いで扉を閉めると、[r]
-持ってきたフランク先輩のバットを、[r]
-つっかえ棒にして扉を閉めた。[pcms]
+I quickly close the door and use Frank-senpai's bat as a bar to keep[r]
+it shut.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so12b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3407|
 [fc]
-[ns]宗一郎[nse]
-「ふぅ～、間一髪……」[pcms]
+[ns]Souichirou[nse]
+"Phew, that was close..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -249,13 +247,12 @@
 
 *3408|
 [fc]
-でも、扉そのものはあまり頑丈にできていないらしく、[r]
-感染者が叩く度に、軋んだ音を返している。[pcms]
+But the door itself doesn't seem very sturdy, creaking every time the[r]
+infected hit it.[pcms]
 
 *3409|
 [fc]
-まるで、台風の日のトタン屋根みたいに[r]
-頼りない有様だった。[pcms]
+It was as unreliable as a tin roof on a typhoon day.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -265,41 +262,41 @@
 *3410|
 [fc]
 [vo_nat s="natu0259"]
-[ns]夏都[nse]
-「よし、中に感染者はいないぞ」[pcms]
+[ns]Natsu[nse]
+"Alright, there are no infected inside."[pcms]
 
 *3411|
 [fc]
-[ns]誠[nse]
-「美沙緒さんを捜さないと」[pcms]
+[ns]Makoto[nse]
+"We need to search for Ms. Misao."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so01b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3412|
 [fc]
-[ns]宗一郎[nse]
-「なら玄関側に回ろう」[pcms]
+[ns]Souichirou[nse]
+"Then let's go around to the front entrance."[pcms]
 
 [bg storage="BG13b"][trans_c cross time=500]
 
 *3413|
 [fc]
-屋敷の邸内に続く玄関には、人の姿が見えなかった。[r]
-中に立て籠もっているんだろうか？[pcms]
+No one can be seen at the mansion's entrance that leads inside. Are[r]
+they barricaded inside?[pcms]
 
 *3414|
 [fc]
-それにしても、あれほどいたＳＰの黒服たちは[r]
-どこに行ったんだ。[pcms]
+And what happened to all those SPs in black suits that were here[r]
+before?[pcms]
 
 *3415|
 [fc]
-美沙緒さんと避難してしまったのか？[r]
-いや、待っていると連絡をくれたんだ。[pcms]
+Did they evacuate with Ms. Misao? No, she said she would contact us if[r]
+we waited.[pcms]
 
 *3416|
 [fc]
-美沙緒さんは必ずこのお屋敷の中にいる。[pcms]
+Ms. Misao must be inside this mansion.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -312,13 +309,13 @@
 
 *3417|
 [fc]
-そのとき、一気に十発ほどの銃声が鳴り響き、[r]
-僕は慌てて地面に身を屈めた。[pcms]
+At that moment, about ten gunshots rang out all at once, and I[r]
+hurriedly crouched down to the ground.[pcms]
 
 *3418|
 [fc]
-腕を掠めたのか、血が流れ落ちているけれど、[r]
-大した怪我じゃない。[pcms]
+It seems I was grazed on the arm, blood is flowing down, but it's not[r]
+a serious injury.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -327,28 +324,27 @@
 
 *3419|
 [fc]
-[ns]オズ[nse]
-「ホイホイ撃つな！」[pcms]
+[ns]Oz[nse]
+"Don't just shoot willy-nilly!"[pcms]
 
-;//◆オズの名前とか誠が知る機会なさそうですね、[ns]？？？[nse]でしょうか
+[ns]？？？[nse]
 
 *3420|
 [fc]
-男の怒号が聞こえてくる。[r]
-とりあえず逃げないといけない。[pcms]
+I can hear a man's angry shout. I need to escape for now.[pcms]
 
 *3421|
 [fc]
-僕はみんなと元にいた場所に戻るために後ろを向いて……、[r]
-それきり声を出せなかった。[pcms]
+I turned around to go back to where we all were before..., and after[r]
+that, I couldn't make a sound.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3422|
 [fc]
 [vo_nat s="natu0260"]
-[ns]夏都[nse]
-「ううっ……くうっ……誠、逃げろっ！」[pcms]
+[ns]Natsu[nse]
+"Ugh...ugh...Makoto, run!"[pcms]
 
 [chara_int][trans_c cross time=150]
 [bgm storage="BGM15"]
@@ -356,37 +352,36 @@
 
 *3423|
 [fc]
-姉ちゃんが足を打たれて倒れている。[r]
-出血が激しい。[pcms]
+Onee-san has been shot in the leg and has fallen. The bleeding is[r]
+severe.[pcms]
 
 *3424|
 [fc]
-隣を見ると、そーいちがうつ伏せになって倒れていた。[r]
-頭から血を流して、それが血溜まりになっている。[pcms]
+Next to me, Souichirou has collapsed face down. Blood is flowing from[r]
+his head, forming a pool of blood.[pcms]
 
 *3425|
 [fc]
-荒井の胸には数カ所の穴が開いていた。[r]
-目を見開いて死んでいる。[pcms]
+Arai's chest has several holes in it. He's dead with his eyes wide[r]
+open.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak07"][ChrSetXY layer=5 x=400 y=300][trans_c cross time=150]
 
 *3426|
 [fc]
-投げ出されていた越智さんは、[r]
-ゆっくりと身体を起こすと、[r]
-荒井の死に顔を見つめていた。[pcms]
+Akari-san, who had been thrown aside, slowly got up and stared at[r]
+Arai's dead face.[pcms]
 
 *3427|
 [fc]
-そして、静かに涙をこぼしている。[pcms]
+And then, she quietly shed tears.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3428|
 [fc]
-荒っぽい足音にゆっくりと振り返ると、[r]
-物陰から黒服を着た男たちが現れた。[pcms]
+As I slowly turned around to the rough footsteps, men in black suits[r]
+appeared from behind cover.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

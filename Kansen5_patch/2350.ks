@@ -16,7 +16,7 @@
 ;//[link storage="2350.ks" target=*2350_TOP]助ける[endlink]
 ;//彩月視点（フラグpassword成立時、もしくは、「助ける」選択時）(3k)
 
-;//♪bgm13～継続中
+;//♪bgm13継続中
 
 ;//BG継続中
 ;//[bg storage="village04a"][trans_c blind_lr time=1000]
@@ -24,136 +24,130 @@
 
 *2657|
 [fc]
-やっぱり足手まといになった。[r]
-戦ったことのないヤツなんて、連れてきたくなかったのに……。[pcms]
+"I ended up being a burden after all. I didn't want to bring someone[r]
+who has never fought..."[pcms]
 
 *2658|
 [fc]
-あの女がやっていた事と言えば、屋内でわたし達を[r]
-モルモットとして扱ってただけ。[pcms]
+"All that woman did was treat us like guinea pigs indoors."[pcms]
 
 *2659|
 [fc]
-むかつく。[pcms]
+"It's infuriating."[pcms]
 
 *2660|
 [fc]
-せっかくの機会だから、このまま助けられなかったって事にして、[r]
-見捨てたいわね。[r]
-そういうつもりも……少しは思ってたしね……。[pcms]
+"Since it's a good opportunity, I want to just leave her behind and[r]
+pretend we couldn't save her. I did think about it... a little..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi23"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2661|
 [fc]
 [vo_mis s="misao_st0187"]
-[ns]美沙緒[nse]
-「やめてっ！　いやあっ！　……茜梨っ、茜梨ぃっ！！」[pcms]
+[ns]Misao[nse]
+"Stop it! Nooo! ...Akari, Akari!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2662|
 [fc]
 [vo_stk s="satuki_st0286"]
-[ns]彩月[nse]
-「くっ……」[pcms]
+[ns]Satsuki[nse]
+"Tch..."[pcms]
 
 *2663|
 [fc]
-なんでそこで、彼女の名前を呼ぶのよっ！[r]
-…………ああ、もう。[r]
-どうしてわたしがもやもやしなくちゃならないのっ！！[pcms]
+"Why does she have to call out her name at a time like this?! Ahh, why[r]
+do I have to feel so frustrated!!"[pcms]
 
 *2664|
 [fc]
 [vo_stk s="satuki_st0287"]
-[ns]彩月[nse]
-「そいつから手を離しなさいっっ！！！」[pcms]
+[ns]Satsuki[nse]
+"Let go of her right now!!!"[pcms]
 
 *2665|
 [fc]
-わたしは、すぐ傍に迫っていた男の頭を横殴りにしながら、[r]
-台所へと飛んだ。[pcms]
+"While striking the man who was approaching from the side, I leaped[r]
+towards the kitchen."[pcms]
 
 *2666|
 [fc]
-あの女を捕まえている腕の肘関節目掛けて、バットを振り下ろす。[r]
-ぐきっべきっという、関節を砕いた音がして、[r]
-あの女を捕まえていた手の力が緩んだ。[pcms]
+"I swung the bat at the elbow joint of the arm holding that woman. The[r]
+sound of the joint breaking, 'gukibekki', and the grip on the woman[r]
+loosened."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2667|
 [fc]
 [vo_mis s="misao_st0188"]
-[ns]美沙緒[nse]
-「うっ……ううっ」[pcms]
+[ns]Misao[nse]
+"Ugh... uhh..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2668|
 [fc]
-倒れ込みそうになる女を引っ張り上げる。[r]
-感染者は増えてきてるんだから、早くここから脱出しないと。[pcms]
+"I pulled up the woman who was about to fall. The number of infected[r]
+is increasing, we need to escape quickly."[pcms]
 
 *2669|
 [fc]
 [vo_stk s="satuki_st0288"]
-[ns]彩月[nse]
-「早くっ！　荷物を忘れないでっ！」[pcms]
+[ns]Satsuki[nse]
+"Hurry! Don't forget your belongings!"[pcms]
 
 *2670|
 [fc]
 [vo_mis s="misao_st0189"]
-[ns]美沙緒[nse]
-「え、ええ」[pcms]
+[ns]Misao[nse]
+"Yes, okay."[pcms]
 
 *2671|
 [fc]
 [vo_stk s="satuki_st0289"]
-[ns]彩月[nse]
-「身体を動かしなさいっ！　ここから脱出するわよっ！」[pcms]
+[ns]Satsuki[nse]
+"Move your body! We're going to escape from here!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2672|
 [fc]
 [vo_mis s="misao_st0190"]
-[ns]美沙緒[nse]
-「ええ、わかったわ」[pcms]
+[ns]Misao[nse]
+"Yes, I understand."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2673|
 [fc]
-相変わらずのもったりした動きで、ヤツらがわたし目指して[r]
-迫ってきた。[pcms]
+"As usual, they moved sluggishly, aiming for me."[pcms]
 
 *2674|
 [fc]
-伸ばされた手をバットで払いのけ、そのまま脳天におみまいする。[r]
-どさりどさりと気持ちがいいくらい倒れるのを尻目に、[r]
-わたしは最短距離で、外を目指した。[pcms]
+"I knocked away the outstretched hands with the bat and then paid a[r]
+visit to their heads. As they fell with satisfying thuds, I made my[r]
+way to the outside by the shortest route."[pcms]
 
 *2675|
 [fc]
-後ろなんて振り返らない。[r]
-あの女の事なんて気にしてられない。[r]
-自分で自分の身を守るのが、生き延びるための鉄則なんだから。[pcms]
+"I won't look back. I can't afford to worry about that woman. The iron[r]
+rule for survival is to protect oneself."[pcms]
 
 *2676|
 [fc]
 [vo_stk s="satuki_st0290"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2677|
 [fc]
-越智さんの顔がふっとよぎる。[r]
-わたしは、仕方なく後ろを振り返り、あの女が荷物を抱きかかえ[r]
-ながらも、ついてきているのを確かめた。[pcms]
+"Ochi-san's face flashed through my mind. Reluctantly, I looked back[r]
+to make sure that woman was following with her belongings in tow."[pcms]
 
 ;//★_集落
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
@@ -162,92 +156,89 @@
 
 *2678|
 [fc]
-なんとか外に出ることが出来た。[r]
-と言っても、まだまだ感染者はうろついている。[r]
-わたしは美沙緒さんを引っ張って、物陰に潜んだ。[pcms]
+"Somehow we managed to get outside. But there are still infected[r]
+wandering around. I pulled Misao-san into hiding."[pcms]
 
 *2679|
 [fc]
-何人も殴り倒して、わたしの手のひらは痛みを覚えてきていた。[r]
-これ以上倒すよりは、うまくかわしきって、一人たりとも[r]
-引き連れずに、集会所に戻りたいところだ。[pcms]
+"After knocking down several people, my palms started to hurt. Rather[r]
+than taking down more, I'd prefer to dodge them skillfully and return[r]
+to the assembly hall without dragging anyone along."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi08"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2680|
 [fc]
 [vo_mis s="misao_st0191"]
-[ns]美沙緒[nse]
-「はっ……はっ……はっ……」[pcms]
+[ns]Misao[nse]
+"Hah... hah... hah..."[pcms]
 
 *2681|
 [fc]
-青ざめた顔の美沙緒さんは、肩で息をしている。[r]
-やっぱりなるべく戦闘は避けた方が良さそうだ。[r]
-こんな状態の人を守りながらなんて、キツすぎるもの。[pcms]
+"Misao-san's face was pale as she breathed heavily through her[r]
+shoulders. It seems best to avoid combat as much as possible. It's too[r]
+tough to protect someone in this state."[pcms]
 
 *2682|
 [fc]
 [vo_stk s="satuki_st0291"]
-[ns]彩月[nse]
-「なるべく気配を消して、アイツらをやり過ごしながら[r]
-　集会所に戻るわ。早く息を整えて。いい？　行くわよ。[r]
-　わたしの後に、しっかりついてきてよね」[pcms]
+[ns]Satsuki[nse]
+"We'll try to keep our presence low and slip past them as we head back[r]
+to the assembly hall. Catch your breath quickly. Ready? Let's go. Make[r]
+sure you follow closely behind me."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2683|
 [fc]
 [vo_mis s="misao_st0192"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2684|
 [fc]
-息を押し殺しながら、美沙緒さんはしっかり頷いた。[pcms]
+"Suppressing her breath, Misao-san nodded firmly."[pcms]
 
 *2685|
 [fc]
-物陰から物陰へこそこそと渡る。[r]
-なるべく足音を立てないように、声を出さずアイコンタクトだけで[r]
-わたしと美沙緒さんは、動いた。[pcms]
+"We moved stealthily from shadow to shadow. Trying not to make any[r]
+noise with our footsteps, Misao-san and I communicated with eye[r]
+contact alone."[pcms]
 
 *2686|
 [fc]
-こっちの方がまっとうなのに、なんだかこれじゃ、[r]
-こっちが悪い事をしてるような気になってくる。[r]
-でも仕方が無い。生き延びるためだから……。[pcms]
+"Even though this is the right thing to do, it feels like we're doing[r]
+something wrong. But there's no choice. It's for survival..."[pcms]
 
 *2687|
 [fc]
-ようやく集落の外れまで、無事にたどり着いた。[r]
-あと少しで集会所に着ける。[pcms]
+"We finally reached the outskirts of the settlement safely. Just a[r]
+little further to the assembly hall."[pcms]
 
 *2688|
 [fc]
 [vo_mob s="satuki_hon0001"]
 [ns]？？？[nse]
-「…………」[pcms]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_wra_a"][ChrSetParts layer=5 chface="f1_st26r"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2689|
 [fc]
-視線を感じて、わたしは振り返った。[r]
-少し離れた集落の軒下に、白っぽいコートを着た女が[r]
-こちらをじっと見ている。[pcms]
+"Feeling a gaze, I turned around. Under the eaves of a distant[r]
+settlement, a woman in a pale coat was staring intently at us."[pcms]
 
 *2690|
 [fc]
 [vo_stk s="satuki_st0292"]
-[ns]彩月[nse]
-「！！」[pcms]
+[ns]Satsuki[nse]
+"!!"[pcms]
 
 *2691|
 [fc]
-思わずわたしの足が止まり、息を呑む。[pcms]
+"My feet stopped involuntarily, and I caught my breath."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -256,48 +247,48 @@
 *2692|
 [fc]
 [vo_mis s="misao_st0193"]
-[ns]美沙緒[nse]
-「南さん？」[pcms]
+[ns]Misao[nse]
+"Minami-san?"[pcms]
 
 *2693|
 [fc]
-小声で美沙緒さんが話しかけ、わたしの視線の先を追いかけていた。[pcms]
+"Misao-san whispered softly, following my gaze."[pcms]
 
 *2694|
 [fc]
 [vo_stk s="satuki_st0293"]
-[ns]彩月[nse]
-「さ……つき」[pcms]
+[ns]Satsuki[nse]
+"Sa... tsuki"[pcms]
 
 *2695|
 [fc]
-思わず漏れてしまった言葉。[pcms]
+"The word slipped out unintentionally."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2696|
 [fc]
 [vo_mis s="misao_st0194"]
-[ns]美沙緒[nse]
-「え？」[pcms]
+[ns]Misao[nse]
+"What?"[pcms]
 
 *2697|
 [fc]
-美沙緒さんの声で、わたしは自分を取り戻した。[pcms]
+Misao-san's voice brought me back to myself.[pcms]
 
 *2698|
 [fc]
 [vo_stk s="satuki_st0294"]
-[ns]彩月[nse]
-「何でもないわ……先を急ぎましょう」[pcms]
+[ns]Satsuki[nse]
+"It's nothing... Let's hurry on ahead."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi12"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *2699|
 [fc]
 [vo_mis s="misao_st0195"]
-[ns]美沙緒[nse]
-「え……ええ」[pcms]
+[ns]Misao[nse]
+"Ah... Yes."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -308,16 +299,16 @@
 
 *2700|
 [fc]
-後ろ髪を引かれる思いを吹っ切ってわたしは集会所を目指す。[r]
-それでもまだ、彼女がわたしを見つめる視線を感じていた。[pcms]
+Shaking off the feeling of being pulled back, I headed for the[r]
+assembly hall. Still, I could feel her gaze on me.[pcms]
 
 ;//★_集会所裏口
 [bg storage="village03a"][trans_c blind_lr time=1000]
 
 *2701|
 [fc]
-誰一人、引き連れることなく、無事に集会所にたどり着いた。[r]
-念のため、もう一度周辺を見回す。[pcms]
+No one in tow, we safely reached the assembly hall. Just to be sure, I[r]
+looked around the area once more.[pcms]
 
 [bgm storage="BGM19"]
 ;//♪bgm19　作中劇用/夜
@@ -327,89 +318,89 @@
 *2702|
 [fc]
 [vo_mis s="misao_st0196"]
-[ns]美沙緒[nse]
-「南さん、さっきは本当にありがとう。助かりました」[pcms]
+[ns]Misao[nse]
+"Minami-san, thank you so much for earlier. You were a big help."[pcms]
 
 *2703|
 [fc]
 [vo_stk s="satuki_st0295"]
-[ns]彩月[nse]
-「……礼を言うなら越智さんにどうぞ」[pcms]
+[ns]Satsuki[nse]
+"...If you're going to thank someone, thank Akari-san."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2704|
 [fc]
 [vo_mis s="misao_st0197"]
-[ns]美沙緒[nse]
-「え？　茜梨？」[pcms]
+[ns]Misao[nse]
+"Eh? Akari?"[pcms]
 
 *2705|
 [fc]
 [vo_stk s="satuki_st0296"]
-[ns]彩月[nse]
-「……越智さんがいなかったら、助けてなんかいなかったわ。[r]
-　越智さんがあなたのことを『お姉様』って呼んでたから……」[pcms]
+[ns]Satsuki[nse]
+"...If it weren't for Akari-san, I wouldn't have helped. She called[r]
+you 'Onee-sama'..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2706|
 [fc]
 [vo_stk s="satuki_st0297"]
-[ns]彩月[nse]
-「お姉さんが死んだら……妹は悲しむのよ。[r]
-　寂しくて仕方がなくなるの……わたしは越智さんを悲しませたく[r]
-　なかっただけよ。あなたのためじゃないわ」[pcms]
+[ns]Satsuki[nse]
+"If an older sister dies... the younger one grieves. She becomes[r]
+inconsolably lonely... I just didn't want to make Akari-san sad. It[r]
+wasn't for your sake."[pcms]
 
 *2707|
 [fc]
 [vo_mis s="misao_st0198"]
-[ns]美沙緒[nse]
-「そう……でも、ありがとう、南さん。茜梨のことをそんなに[r]
-　思ってくれてるだけで、私はやっぱり感謝したいわ」[pcms]
+[ns]Misao[nse]
+"I see... But still, thank you, Minami-san. Just knowing that you care[r]
+so much about Akari makes me grateful."[pcms]
 
 *2708|
 [fc]
 [vo_stk s="satuki_st0298"]
-[ns]彩月[nse]
-「……勝手にすればいいわ」[pcms]
+[ns]Satsuki[nse]
+"...Do as you like."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2709|
 [fc]
 [vo_mis s="misao_st0199"]
-[ns]美沙緒[nse]
-「ありがとう、南さん」[pcms]
+[ns]Misao[nse]
+"Thank you, Minami-san."[pcms]
 
 *2710|
 [fc]
-言わなくてもいい事を言った気がしていた。[r]
-でも、自分の気持ちが抑えられなかった……。[pcms]
+I felt like I had said something unnecessary. But I couldn't suppress[r]
+my feelings...[pcms]
 
 *2711|
 [fc]
-あの白っぽいコートを着込んだ感染者……。[r]
-気になる。わたしの心を揺さぶる。[pcms]
+The infected person in the pale coat... She's on my mind. She stirs[r]
+something in my heart.[pcms]
 
 *2712|
 [fc]
 [vo_stk s="satuki_st0299"]
-[ns]彩月[nse]
-「早く中に入るわよ。どうやら追っ手もいないみたいだから」[pcms]
+[ns]Satsuki[nse]
+"Let's go inside quickly. It seems like we're not being followed."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2713|
 [fc]
 [vo_mis s="misao_st0200"]
-[ns]美沙緒[nse]
-「ええ、そうね」[pcms]
+[ns]Misao[nse]
+"Yes, that's right."[pcms]
 
 *2714|
 [fc]
-わたしは、気持ちを切り替えるつもりで、裏口のドアに[r]
-鍵を差し込んだ。[pcms]
+I inserted the key into the back door, intending to switch my[r]
+feelings.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

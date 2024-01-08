@@ -26,84 +26,81 @@
 
 *2945|
 [fc]
-[ns]誠[nse]
-「……っ！」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2946|
 [fc]
-誰かに呼ばれたような気がして目を覚ますと、[r]
-辺りはさっきよりもだいぶ暗くなり、[r]
-夕日がほとんど見えなくなっていた。[pcms]
+I woke up feeling like someone had called me, and the surroundings had[r]
+gotten much darker, with the sunset almost completely out of sight.[pcms]
 
 *2947|
 [fc]
-慌てて携帯の時計を見ると、[r]
-アラームを設定した時間はとっくに過ぎている。[pcms]
+In a panic, I checked the time on my cell phone, and the time I had[r]
+set the alarm for had long passed.[pcms]
 
 *2948|
 [fc]
-アラームに気が付かないくらい、[r]
-熟睡してしまったんだ。[pcms]
+I must have been in such a deep sleep that I didn't notice the alarm.[pcms]
 
 *2949|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2950|
 [fc]
-辺りに人の姿はない。[r]
-誰かに呼ばれたような気がしたんだけど、[r]
-気のせいだったか。[pcms]
+There was no one around. I thought I felt someone call out to me, but[r]
+maybe it was just my imagination.[pcms]
 
 *2951|
 [fc]
-[ns]誠[nse]
-「越智さん……ごめんね」[pcms]
+[ns]Makoto[nse]
+"Ochi-san... I'm sorry."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2952|
 [fc]
 [vo_aka s="akari0500"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2953|
 [fc]
-僕は越智さんを縛っていたひもを解いて、自由にする。[pcms]
+I untied the rope that was binding Ochi-san and set her free.[pcms]
 
 *2954|
 [fc]
-寝ている間にどんなことが起こるかわからないから、[r]
-こうしておくのは仕方がない。[pcms]
+You never know what could happen while you're asleep, so it couldn't[r]
+be helped.[pcms]
 
 *2955|
 [fc]
-でも、一眠りして体力を回復できた気がする。[r]
-後は一気に……。[pcms]
+But I feel like I've regained some strength after that nap. Now to[r]
+push on...[pcms]
 
 ;不要？[wait_c time=2000]
 
 *2956|
 [fc]
-僕はそこで、また誰かに呼ばれたような気がして振り返った。[r]
-近くに誰かがいるのか……？[pcms]
+Just then, I felt like someone was calling me again and turned around.[r]
+Is someone nearby...?[pcms]
 
 [se buf=0 storage="seA045"]
 ;//草をかき分けて森を進む音
 
 *2957|
 [fc]
-慌ててバットを持つと、辺りの様子を探る。[r]
-耳を澄ませると、何人かの足音が近づいてくるのがわかった。[pcms]
+In a hurry, I grabbed a bat and surveyed the surroundings. Listening[r]
+carefully, I could hear the footsteps of several people approaching.[pcms]
 
 *2958|
 [fc]
-感染者のようなヨタヨタした歩き方じゃない。[r]
-自衛隊なのか……？[pcms]
+They didn't walk with the stagger of the infected. Could it be the[r]
+Self-Defense Forces...?[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -111,12 +108,12 @@
 
 *2959|
 [fc]
-僕は越智さんを後ろにかばうと、[r]
-何が起きてもいいように心を落ち着かせる。[pcms]
+I shielded Ochi-san behind me and calmed my heart, ready for whatever[r]
+might happen.[pcms]
 
 *2960|
 [fc]
-そして……。[pcms]
+And then...[pcms]
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
 
@@ -125,36 +122,36 @@
 *2961|
 [fc]
 [vo_nat s="natu0206"]
-[ns]夏都[nse]
-「気をつけろよ、どこに……」[pcms]
+[ns]Natsu[nse]
+"Be careful, where..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2962|
 [fc]
-突然現れた姉ちゃんが、僕のことを驚いた目で[r]
-見つめていた。[pcms]
+The sister who suddenly appeared was staring at me with surprised[r]
+eyes.[pcms]
 
 *2963|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2964|
 [fc]
-僕はあまりのことに理解が追いつかず、[r]
-そのまま口をぱくぱくさせてしまう。[pcms]
+I was so shocked that I couldn't comprehend what was happening and[r]
+just stood there gaping.[pcms]
 
 *2965|
 [fc]
-どうして姉ちゃんがこんなところに！？[pcms]
+Why is my sister here of all places!?[pcms]
 
 ;//さらに後ろなので立ち絵なし
 
 *2966|
 [fc]
-[ns]宗一郎[nse]
-「どうしましたかな？」[pcms]
+[ns]Souichirou[nse]
+"What's the matter?"[pcms]
 
 ;//めも：笑顔２を貼っているが、VOを聞いて要調整かも
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -162,8 +159,8 @@
 *2967|
 [fc]
 [vo_nat s="natu0207"]
-[ns]夏都[nse]
-「こんの馬鹿野郎っ！」[pcms]
+[ns]Natsu[nse]
+"You idiot!"[pcms]
 
 [se buf=0 storage="seB004"]
 [白フラ]
@@ -171,30 +168,30 @@
 
 *2968|
 [fc]
-[ns]誠[nse]
-「いてぇっ！」[pcms]
+[ns]Makoto[nse]
+"Ouch!"[pcms]
 
 [bgm storage="BGM18"]
 ;//♪bgm18　作中劇用/安堵
 
 *2969|
 [fc]
-ちょっとだけ目が合って、数瞬、時間が止まったような間の後、[r]
-姉ちゃんは僕を殴りつけてきた。[pcms]
+Our eyes met for a brief moment, and after a pause that felt like time[r]
+had stopped, my sister struck me.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so15a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2970|
 [fc]
-[ns]宗一郎[nse]
-「誠っ！」[pcms]
+[ns]Souichirou[nse]
+"Makoto!"[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2971|
 [fc]
-[ns]荒井[nse]
-「なにっ！　茜梨ちゃんは無事かっ！？」[pcms]
+[ns]Arai[nse]
+"What! Is Akari-chan safe!?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so06a"][ChrSetXY layer=4 x=640 y=0]
@@ -202,18 +199,17 @@
 
 *2972|
 [fc]
-[ns]誠[nse]
-「そーいちと、荒井も……」[pcms]
+[ns]Makoto[nse]
+"Souichi and Airi too..."[pcms]
 
 *2973|
 [fc]
-ふたりはあんな分かれ方をしたせいか、[r]
-ちょっと気まずいみたいな顔をしていた。[pcms]
+The two of them looked a bit awkward, perhaps because of the way we[r]
+had parted.[pcms]
 
 *2974|
 [fc]
-でも、やっぱり来てくれたんだ。[r]
-僕はそれが嬉しくて仕方がなかった。[pcms]
+But they still came for me. I was so happy I couldn't help it.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -221,119 +217,115 @@
 *2975|
 [fc]
 [vo_nat s="natu0208"]
-[ns]夏都[nse]
-「まったく、心配かけやがって……」[pcms]
+[ns]Natsu[nse]
+"Really, you had us worried..."[pcms]
 
 [chara_int][trans_c cross time=150]
 [quake_bg y m]
 
 *2976|
 [fc]
-[ns]誠[nse]
-「んぷっ……」[pcms]
+[ns]Makoto[nse]
+"Mmph..."[pcms]
 
 *2977|
 [fc]
-姉ちゃんは僕を抱きしめると、[r]
-その強力なおっぱいを窒息させるように押しつけてくる。[pcms]
+My sister hugged me tightly, pressing her powerful breasts against me[r]
+as if to suffocate me.[pcms]
 
 *2978|
 [fc]
-僕はそのハグから何とか抜け出すと、[r]
-改めて今の状況を説明していった。[pcms]
+I managed to escape from her hug and began to explain the current[r]
+situation anew.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2979|
 [fc]
 [vo_nat s="natu0209"]
-[ns]夏都[nse]
-「こっちは特に話すこともねえ、[r]
-　だいたいはお前が知っている通りだよ」[pcms]
+[ns]Natsu[nse]
+"There's not much to talk about on our end, it's pretty much as you[r]
+know."[pcms]
 
 *2980|
 [fc]
-[ns]誠[nse]
-「そうなんだ……」[pcms]
+[ns]Makoto[nse]
+"I see..."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so02a"][ChrSetXY layer=4 x=640 y=0]
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2981|
 [fc]
-[ns]荒井[nse]
-「茜梨ちゃんが心配だ、[r]
-　急いで美沙緒さんのところに連れて行かないと」[pcms]
+[ns]Arai[nse]
+"I'm worried about Akari-chan, we need to hurry to Misao-san's place."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2982|
 [fc]
-[ns]宗一郎[nse]
-「まぁ、待て。[r]
-　誠も越智さんも腹が減ってるんだ。[r]
-　水もまだたくさん残っている」[pcms]
+[ns]Souichirou[nse]
+"Wait a minute. Makoto and Ochi-san must be hungry. We still have[r]
+plenty of water left."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2983|
 [fc]
-ホテルのコンビニから持ち出したんだろう。[r]
-そーいちが荷物の中からおにぎりを取りだした。[pcms]
+It must have been brought from the hotel convenience store. Souichi[r]
+took out some rice balls from his bag.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2984|
 [fc]
 [vo_aka s="akari0501"]
-[ns]茜梨[nse]
-「あっ……！」[pcms]
+[ns]Akari[nse]
+"Ah...!"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so15a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2985|
 [fc]
-それを見た瞬間、後ろにいた越智さんが、[r]
-飛びかかるようにそーいちのおにぎりを引ったくって、[r]
-食べ始めた。[pcms]
+The moment I saw that, Akari-san, who was behind us, snatched[r]
+Souichirou's rice ball and started eating it as if she was pouncing on[r]
+it.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2986|
 [fc]
 [vo_aka s="akari0502"]
-[ns]茜梨[nse]
-「はぐ、んぐ、んむうっ、んぐ、ん、んぐむうっ……」[pcms]
+[ns]Akari[nse]
+"Hagu, ngu, nmuu, ngu, n, ngumu..."[pcms]
 
 *2987|
 [fc]
-もう、包装もなにもあったものじゃなかった。[r]
-力任せに引きちぎった包装から、こぼれ出ているおにぎりを[r]
-獣のようにむさぼり食っている。[pcms]
+There was no regard for the packaging or anything. She tore through[r]
+the wrapping with brute force and devoured the rice ball like a beast.[pcms]
 
 *2988|
 [fc]
-それだけじゃ足らなかったのか、[r]
-越智さんはそーいちのバッグに手を突っ込むと、[r]
-別のおにぎりも引きちぎり始めた。[pcms]
+It seemed not to be enough for her, as Akari-san reached into[r]
+Souichirou's bag and began tearing into another rice ball.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so06a"][ChrSetXY layer=4 x=640 y=0]
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2989|
 [fc]
-[ns]宗一郎[nse]
-「お、越智さん……」[pcms]
+[ns]Souichirou[nse]
+"Oh, Akari-san..."[pcms]
 
 *2990|
 [fc]
-[ns]荒井[nse]
-「く……こんな……」[pcms]
+[ns]Arai[nse]
+"Ku... this is..."[pcms]
 
 *2991|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -341,13 +333,13 @@
 
 *2992|
 [fc]
-僕はもう、わかっていたことなんだけど、[r]
-二人にはショックが大きいんだろう。[pcms]
+I already understood, but it must have been a shock for the two of[r]
+them.[pcms]
 
 *2993|
 [fc]
-感染するということに、[r]
-改めて戦慄を覚えているみたいだった。[pcms]
+They seemed to be feeling a renewed sense of horror at the thought of[r]
+infection.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -355,22 +347,22 @@
 *2994|
 [fc]
 [vo_nat s="natu0210"]
-[ns]夏都[nse]
-「誠……この子はもう諦めろ」[pcms]
+[ns]Natsu[nse]
+"Makoto... give up on this girl."[pcms]
 
 *2995|
 [fc]
-[ns]誠[nse]
-「な、なにを言うんだよ！」[pcms]
+[ns]Makoto[nse]
+"What are you saying?!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2996|
 [fc]
 [vo_nat s="natu0211"]
-[ns]夏都[nse]
-「この子が元に戻ると思うか？[r]
-　この状態から元の姿にだって？」[pcms]
+[ns]Natsu[nse]
+"Do you think she can return to normal? From this state back to her[r]
+original form?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -378,15 +370,14 @@
 
 *2997|
 [fc]
-姉ちゃんは立ち上がると、腰から銃を抜いて[r]
-越智さんに狙いを定めた。[pcms]
+My sister stood up, pulled a gun from her waist, and aimed it at[r]
+Akari-san.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2998|
 [fc]
-そーいちと荒井もぎょっとした顔で、[r]
-姉ちゃんを見ている。[pcms]
+Souichirou and Arai looked on with shocked expressions at my sister.[pcms]
 
 [bgm storage="BGM04"]
 ;//♪bgm04　シリアスシーン：死
@@ -396,44 +387,43 @@
 *2999|
 [fc]
 [vo_nat s="natu0212"]
-[ns]夏都[nse]
-「これ以上は無理だ、他の感染者か、[r]
-　さもなければ自衛隊の防疫隊に殺される」[pcms]
+[ns]Natsu[nse]
+"It's impossible to go on like this. She'll either be killed by other[r]
+infected or by the Self-Defense Forces' quarantine team."[pcms]
 
 *3000|
 [fc]
-[ns]誠[nse]
-「違うっ！　美沙緒さんは待っていると言っていた！」[pcms]
+[ns]Makoto[nse]
+"No! Misao-san said she was waiting for us!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3001|
 [fc]
 [vo_nat s="natu0213"]
-[ns]夏都[nse]
-「悪いが、生きている人間の命の方が大切だ。[r]
-　この子を見捨てるわけじゃない、[r]
-　苦しまないようにしてやるだけだ」[pcms]
+[ns]Natsu[nse]
+"I'm sorry, but the lives of the living are more important. It's not[r]
+that we're abandoning her; we're just making sure she doesn't suffer."[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3002|
 [fc]
-[ns]荒井[nse]
-「ふざけんなっ！　なんのためにここまで来たと思ってるんだ！」[pcms]
+[ns]Arai[nse]
+"Don't mess with me! What do you think we've come all this way for?!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3003|
 [fc]
-[ns]宗一郎[nse]
-「落ち着いてください、[r]
-　越智さんの実家まですぐそこじゃないですか」[pcms]
+[ns]Souichirou[nse]
+"Please calm down. Akari-san's family home is just around the corner,[r]
+isn't it?"[pcms]
 
 *3004|
 [fc]
-姉ちゃんはゆっくりと振り返ると、[r]
-そーいちと荒井に銃口を突きつけた。[pcms]
+My sister slowly turned around and pointed her gun at Souichirou and[r]
+Arai.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na23"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -441,8 +431,8 @@
 *3005|
 [fc]
 [vo_nat s="natu0214"]
-[ns]夏都[nse]
-「もし邪魔をするなら、君らも撃つ」[pcms]
+[ns]Natsu[nse]
+"If you try to interfere, I'll shoot you too."[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so06a"][ChrSetXY layer=4 x=640 y=0]
@@ -450,26 +440,27 @@
 
 *3006|
 [fc]
-[ns]荒井[nse]
-「くっ……」[pcms]
+[ns]Arai[nse]
+"Ku..."[pcms]
 
 *3007|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *3008|
 [fc]
-姉ちゃんは本気だ、越智さんを殺そうとしている。[r]
-冷静に判断をすれば、そういう結論になる状況なんだ。[pcms]
+My sister was serious; she was intent on killing Akari-san. In a calm[r]
+assessment of the situation, that was the conclusion one would come[r]
+to.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3009|
 [fc]
-姉ちゃんは改めて越智さんに狙いを付けると、[r]
-躊躇無くその引き金を引いた。[pcms]
+My sister once again took aim at Akari-san and pulled the trigger[r]
+without hesitation.[pcms]
 
 [black_toplayer][trans_c cross time=0]
 
@@ -487,39 +478,38 @@
 *3010|
 [fc]
 [vo_nat s="natu0215"]
-[ns]夏都[nse]
-「うぐっ！」[pcms]
+[ns]Natsu[nse]
+"Uguh!"[pcms]
 
 *3011|
 [fc]
-僕は無意識のうちに飛び出すと、[r]
-姉ちゃんに体当たりをかまして、[r]
-その狙いを外させていた。[pcms]
+Unconsciously, I lunged forward, body-slamming my sister to throw off[r]
+her aim.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na23"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3012|
 [fc]
-越智さんを狙った弾が、地面に着弾する。[r]
-でも姉ちゃんは、すぐにまた越智さんに狙いを付けていた。[pcms]
+The bullet meant for Akari-san hit the ground. But my sister quickly[r]
+aimed at Akari-san again.[pcms]
 
 *3013|
 [fc]
-[ns]誠[nse]
-「姉ちゃんっ！　越智さんを助けるのに力を貸してよっ！」[pcms]
+[ns]Makoto[nse]
+"Sister! Please help me save Akari-san!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3014|
 [fc]
 [vo_nat s="natu0216"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *3015|
 [fc]
-[ns]誠[nse]
-「姉ちゃんの力が必要なんだ……」[pcms]
+[ns]Makoto[nse]
+"I need your strength..."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -529,52 +519,51 @@
 
 *3016|
 [fc]
-がっくりと膝をつく僕に、[r]
-越智さんが食べかけのおにぎりを差し出してきた。[pcms]
+Kneeling down in defeat, Akari-san offered me the half-eaten rice[r]
+ball.[pcms]
 
 *3017|
 [fc]
-思わず越智さんを見ると、[r]
-頬に御飯粒を付けながら一生懸命何かしゃべろうとしている。[pcms]
+When I inadvertently looked at Akari-san, she was trying hard to say[r]
+something with rice grains stuck to her cheeks.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3018|
 [fc]
 [vo_aka s="akari0503"]
-[ns]茜梨[nse]
-「まーくん……せんぱいも……おなかすいてます……」[pcms]
+[ns]Akari[nse]
+"Mak-kun... Senpai is also... hungry..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3019|
 [fc]
 [vo_aka s="akari0504"]
-[ns]茜梨[nse]
-「ごはん……たべてください……」[pcms]
+[ns]Akari[nse]
+"Please eat... some rice..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3020|
 [fc]
 [vo_aka s="akari0505"]
-[ns]茜梨[nse]
-「も、もう……いっぱいです……じゅうぶん……」[pcms]
+[ns]Akari[nse]
+"I'm... full now... it's enough..."[pcms]
 
 *3021|
 [fc]
-越智さんは静かに泣いていた。[pcms]
+Akari-san was quietly crying.[pcms]
 
 *3022|
 [fc]
-それは、僕もお腹が空いているのに、[r]
-自分だけ食べてしまったことへの自罰なのか、[r]
-気持ちを伝えられないもどかしさなのか……。[pcms]
+Was it self-punishment for eating alone when I was also hungry, or[r]
+frustration at not being able to express her feelings?[pcms]
 
 *3023|
 [fc]
-僕はその食べかけのおにぎりを慎重に受け取ると、[r]
-越智さんのことをしっかりと見据えた。[pcms]
+I carefully accepted the half-eaten rice ball and firmly met Akari-[r]
+san's gaze.[pcms]
 
 [bgm storage="BGM19"]
 ;//♪bgm19　作中劇用/夜
@@ -583,154 +572,151 @@
 
 *3024|
 [fc]
-[ns]誠[nse]
-「まだ……まだだよ。[r]
-　僕は必ず君を助けると約束した。[r]
-　まだ、終わっていない」[pcms]
+[ns]Makoto[nse]
+"It's not over yet... I promised I would definitely save you. It's not[r]
+over yet."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3025|
 [fc]
-僕は姉ちゃんを振り返ると、[r]
-その真正面に立って銃口から越智さんを守った。[pcms]
+I turned to Onee-san and stood directly in front of her, shielding[r]
+Ochi-san from the gunpoint.[pcms]
 
 *3026|
 [fc]
-諦めない。[r]
-越智さんは必ず元に戻る。[pcms]
+I won't give up. Ochi-san will definitely return to normal.[pcms]
 
 *3027|
 [fc]
-[ns]誠[nse]
-「稼津央さんから美沙緒さんに連絡が行ったらしいんだ。[r]
-　感染した越智さんが、そっちに向かっているって」[pcms]
+[ns]Makoto[nse]
+"It seems that a message has been sent from Katsu-san to Misao-san.[r]
+The infected Ochi-san is heading that way."[pcms]
 
 *3028|
 [fc]
 [vo_nat s="natu0217"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *3029|
 [fc]
-[ns]誠[nse]
-「そして、その美沙緒さんから連絡が来た。[r]
-　待っているって、越智さんが来るのを待ってるって……」[pcms]
+[ns]Makoto[nse]
+"And then, we got a message from Misao-san. She's waiting, waiting for[r]
+Ochi-san to come..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3030|
 [fc]
 [vo_nat s="natu0218"]
-[ns]夏都[nse]
-「望みがあると言いたいのか」[pcms]
+[ns]Natsu[nse]
+"Are you saying there's hope?"[pcms]
 
 *3031|
 [fc]
-[ns]誠[nse]
-「ある、わざわざ衛星電話で連絡を入れてきたんだ。[r]
-　助かる望みはあるんだよ」[pcms]
+[ns]Makoto[nse]
+"There is, she went out of her way to contact us via satellite phone.[r]
+There's hope for salvation."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3032|
 [fc]
 [vo_nat s="natu0219"]
-[ns]夏都[nse]
-「はぁっ……」[pcms]
+[ns]Natsu[nse]
+"Hah..."[pcms]
 
 *3033|
 [fc]
-姉ちゃんはようやく銃を下ろすと、[r]
-僕の頭を撫でようとして、肩に手を置いた。[pcms]
+Onee-san finally lowered her gun and tried to pat my head, but instead[r]
+placed her hand on my shoulder.[pcms]
 
 *3034|
 [fc]
-子供じゃなくて、男として……、[r]
-そんな風に思うのは気が早いだろうか。[pcms]
+Not as a child, but as a man... I wonder if it's too soon to think[r]
+that way.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sdf_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3035|
 [fc]
 [vo_nat s="natu0220"]
-[ns]夏都[nse]
-「いいよ、気の済むところまでやってみな」[pcms]
+[ns]Natsu[nse]
+"Fine, do what you need to do until you're satisfied."[pcms]
 
 *3036|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Onee-san..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3037|
 [fc]
 [vo_nat s="natu0221"]
-[ns]夏都[nse]
-「まったく、いつの間にそんな顔するようになったんだか……」[pcms]
+[ns]Natsu[nse]
+"Really, when did you start making such a face..."[pcms]
 
 *3038|
 [fc]
-[ns]誠[nse]
-「え……？」[pcms]
+[ns]Makoto[nse]
+"Eh...?"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar12"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so06a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3039|
 [fc]
-そーいちがホッと胸をなで下ろして、[r]
-越智さんのところにしゃがみ込む。[pcms]
+Souichirou let out a sigh of relief and crouched down beside Ochi-san.[pcms]
 
 *3040|
 [fc]
-荒井も、力が抜けたように天を仰いでいた。[pcms]
+Arai also looked up at the sky as if his strength had left him.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so01a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3041|
 [fc]
-[ns]宗一郎[nse]
-「越智さんを背負ってきたのか？」[pcms]
+[ns]Souichirou[nse]
+"Did you carry Ochi-san here?"[pcms]
 
 *3042|
 [fc]
-[ns]誠[nse]
-「ああ、首にタオルを巻いて、[r]
-　バットに乗せるように背負ってきた」[pcms]
+[ns]Makoto[nse]
+"Yeah, I wrapped a towel around her neck and carried her on my back[r]
+like she was on a bat."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar01"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3043|
 [fc]
-[ns]宗一郎[nse]
-「なるほどな、越智さん、今度は俺が背負いますよ」[pcms]
+[ns]Souichirou[nse]
+"I see, this time I'll carry Ochi-san."[pcms]
 
 *3044|
 [fc]
-そーいちも疲れているようだけど、[r]
-僕よりはよっぽど元気だ。[pcms]
+Souichirou seems tired too, but he's definitely more energetic than[r]
+me.[pcms]
 
 *3045|
 [fc]
-ここは代わってもらった方がいいだろう。[pcms]
+It would be better to let him take over.[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3046|
 [fc]
-[ns]荒井[nse]
-「なにてめぇ、抜け駆けしてんだよ！」[pcms]
+[ns]Arai[nse]
+"What the hell, sneaking off like that!"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so28b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3047|
 [fc]
-[ns]宗一郎[nse]
-「ピエロは俺じゃなくて、荒井に決定だな」[pcms]
+[ns]Souichirou[nse]
+"The clown isn't me, it's decided it's Arai."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na1_sdf_a"][ChrSetParts layer=5 chface="F1_na12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -738,30 +724,29 @@
 *3048|
 [fc]
 [vo_nat s="natu0222"]
-[ns]夏都[nse]
-「くだらんことで揉めるな、[r]
-　荒井も違うことで実力を見せろ」[pcms]
+[ns]Natsu[nse]
+"Don't fight over such nonsense, Arai should show his strength in a[r]
+different way."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3049|
 [fc]
-越智さんが僕に手を伸ばしてくる。[r]
-どういう意味なのかはわからないけれど、[r]
-そっと肩に手を置いた。[pcms]
+Ochi-san reached out to me. I didn't know what it meant, but I gently[r]
+placed my hand on her shoulder.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3050|
 [fc]
 [vo_aka s="akari0506"]
-[ns]茜梨[nse]
-「あり……がとです……」[pcms]
+[ns]Akari[nse]
+"Thank... you..."[pcms]
 
 *3051|
 [fc]
-[ns]誠[nse]
-「ううん、もうちょっとだよ。頑張ろう？」[pcms]
+[ns]Makoto[nse]
+"No, we're almost there. Shall we keep going?"[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -772,29 +757,28 @@
 *3052|
 [fc]
 [vo_nat s="natu0223"]
-[ns]夏都[nse]
-「日が暮れる前に行動するぞ、[r]
-　荷物を持ったら移動開始だ」[pcms]
+[ns]Natsu[nse]
+"We'll move before dusk, start moving once you've got your luggage."[pcms]
 
 [bg storage="sky02B"][trans_c cross time=500]
 
 *3053|
 [fc]
-空を見上げると、東の空を覆う黒煙が、[r]
-さっきよりもだいぶ広がっているように見えた。[pcms]
+Looking up at the sky, the black smoke covering the eastern sky seemed[r]
+to have spread much more than before.[pcms]
 
 *3054|
 [fc]
-あまりいい兆候じゃないだろう。[pcms]
+It's probably not a good sign.[pcms]
 
 *3055|
 [fc]
-越智さんが噛みつかないように、[r]
-タオルをしっかりと噛みつかせて、後頭部で縛る。[pcms]
+To prevent Ochi-san from biting, I made sure she bit down on the towel[r]
+and tied it at the back of her head.[pcms]
 
 *3056|
 [fc]
-もう少し、あともう少しだ。[pcms]
+Just a little more, just a bit longer.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

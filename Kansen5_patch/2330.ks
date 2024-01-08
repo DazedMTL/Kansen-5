@@ -27,198 +27,197 @@
 
 *2563|
 [fc]
-駄目だ……。[r]
-そりゃ、とっても魅力的なお誘いではあるけれど……。[r]
-今の越智さんは、どう考えてもおかしい。[pcms]
+"No, I can't... It's a very tempting offer, but... Ochi-san is clearly[r]
+not herself right now."[pcms]
 
 *2564|
 [fc]
-据え膳は食いたいけれど、食べたらきっと後悔しそうな気がする。[pcms]
+"I want to take advantage of the situation, but I feel like I'd[r]
+definitely regret it if I did."[pcms]
 
 *2565|
 [fc]
-僕は、そっと越智さんの手を外し、彼女の股間から[r]
-手を引き出した。[pcms]
+"I gently removed Ochi-san's hand and withdrew my own from her[r]
+crotch."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2566|
 [fc]
 [vo_aka s="akari_st0183"]
-[ns]茜梨[nse]
-「どうして？　駄目なの？　まー君先輩……[r]
-　やっぱり私が汚いから？　汚れちゃったから？」[pcms]
+[ns]Akari[nse]
+"Why? Why not? Is it because I'm dirty? Because I've been soiled?"[pcms]
 
 *2567|
 [fc]
-[ns]誠[nse]
-「違うよ。越智さんは汚れてなんてないよ」[pcms]
+[ns]Makoto[nse]
+"No, that's not it. Ochi-san isn't dirty at all."[pcms]
 
 *2568|
 [fc]
 [vo_aka s="akari_st0184"]
-[ns]茜梨[nse]
-「嘘よ……私は汚れてるわ」[pcms]
+[ns]Akari[nse]
+"You're lying... I am dirty."[pcms]
 
 *2569|
 [fc]
-[ns]誠[nse]
-「そうじゃなくて……」[pcms]
+[ns]Makoto[nse]
+"It's not like that..."[pcms]
 
 *2570|
 [fc]
-膝の上に抱っこするように僕は越智さんを抱き寄せた。[r]
-まるで子供をあやすような体勢だ。[pcms]
+"I pulled Ochi-san into my lap as if I were cradling her on my knees.[r]
+It was like the posture used to soothe a child."[pcms]
 
 *2571|
 [fc]
-でも、実際、今の越智さんは、だだをこねてる子供みたいに[r]
-僕には思えた。[pcms]
+"But in reality, Ochi-san seemed to me like a child throwing a[r]
+tantrum. That's why I naturally put her on my lap, with the feeling of[r]
+trying to reason with a real child rather than any lewd thoughts."[pcms]
 
 *2572|
 [fc]
-だから、やらしい気持ちよりも、本当に子供に言い聞かせる[r]
-ような気持ちで、自然に膝に乗せていた。[pcms]
+"So, rather than feeling aroused, I felt like I was trying to persuade[r]
+a child, and naturally had her sit on my lap."[pcms]
 
 *2573|
 [fc]
-[ns]誠[nse]
-「今はやめておこうって事。越智さん、まだ身体本調子に[r]
-　なってないだろ？　さっきまで寝てたんだし」[pcms]
+[ns]Makoto[nse]
+"Let's stop for now. Ochi-san, you're still not in top condition,[r]
+right? You were sleeping until just a moment ago."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2574|
 [fc]
 [vo_aka s="akari_st0185"]
-[ns]茜梨[nse]
-「大丈夫です。だから、綺麗にして、まー君先輩っ！」[pcms]
+[ns]Akari[nse]
+"I'm fine. So please, clean me up, Makoto-senpai!"[pcms]
 
 *2575|
 [fc]
-[ns]誠[nse]
-「駄目だよ。僕の本意じゃないもん。[r]
-　寝込んでてあちこち痛い女の子を抱くなんて……」[pcms]
+[ns]Makoto[nse]
+"No, that's not what I want. I can't embrace a girl who's been[r]
+bedridden and in pain all over..."[pcms]
 
 *2576|
 [fc]
-[ns]誠[nse]
-「ましてや、越智さんは大切な後輩なんだから、そんな事出来ない」[pcms]
+[ns]Makoto[nse]
+"Besides, Ochi-san is an important junior to me, so I can't do such a[r]
+thing."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2577|
 [fc]
 [vo_aka s="akari_st0186"]
-[ns]茜梨[nse]
-「大切……？　本当に？　私のこと、大切って思ってくれてる？」[pcms]
+[ns]Akari[nse]
+"Important...? Really? Do you really think of me as important?"[pcms]
 
 *2578|
 [fc]
-越智さんの目から妙な色気が消えて、代わりにいつもの[r]
-素直でまっすぐな目に戻っていた。[pcms]
+"The strange allure disappeared from Ochi-san's eyes, replaced by her[r]
+usual honest and straightforward gaze."[pcms]
 
 *2579|
 [fc]
-[ns]誠[nse]
-「うん。大切だよ。だから今日はもっとたっぷり眠って、[r]
-　身体をちゃんと休めよう。ね、そうしようよ、越智さん」[pcms]
+[ns]Makoto[nse]
+"Yeah. You're important to me. So let's get plenty of sleep today and[r]
+rest your body properly. Okay, let's do that, Ochi-san."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2580|
 [fc]
 [vo_aka s="akari_st0187"]
-[ns]茜梨[nse]
-「…………はい。言うことききます。まー君先輩」[pcms]
+[ns]Akari[nse]
+"...Yes. I'll listen to what you say, Makoto-senpai."[pcms]
 
 *2581|
 [fc]
-[ns]誠[nse]
-「じゃあ、また奥の部屋で寝よう。寝入るまで僕がちゃんと[r]
-　傍についていてあげるからさ」[pcms]
+[ns]Makoto[nse]
+"Then let's go back to the inner room and sleep. I'll stay with you[r]
+until you fall asleep."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2582|
 [fc]
 [vo_aka s="akari_st0188"]
-[ns]茜梨[nse]
-「本当？　嬉しいなあ……」[pcms]
+[ns]Akari[nse]
+"Really? I'm so happy..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2583|
 [fc]
-本当の子供のように、邪気のない笑顔をみせる越智さん。[r]
-口調もなんだか、少女みたいだ。[pcms]
+"Ochi-san showed an innocent smile like that of a real child, and her[r]
+tone of voice was somehow girlish."[pcms]
 
 *2584|
 [fc]
-[ns]誠[nse]
-「さ、じゃああっちに行って休もうか？」[pcms]
+[ns]Makoto[nse]
+"So, shall we go over there and rest?"[pcms]
 
 *2585|
 [fc]
 [vo_aka s="akari_st0189"]
-[ns]茜梨[nse]
-「はあい、まー君先輩」[pcms]
+[ns]Akari[nse]
+"Yes, Makoto-senpai."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2586|
 [fc]
-僕の膝から降りた越智さんの手を引いて、奥の部屋へと向かう。[r]
-布団が敷いてある部屋でまた誘惑されたらやばい……と、[r]
-一瞬思ったけれど、それは杞憂だった。[pcms]
+"I took Ochi-san's hand as she got off my lap and headed for the inner[r]
+room. I thought it would be dangerous if she tempted me again in the[r]
+room with the futon laid out... but that was an unfounded worry."[pcms]
 
 *2587|
 [fc]
-越智さんは素直に布団に入りそっと手を差し出す。[r]
-僕がその手を握ると、また無邪気な笑顔を見せた。[pcms]
+"Ochi-san obediently got into the futon and reached out her hand[r]
+gently. When I took her hand, she showed me an innocent smile again."[pcms]
 
 *2588|
 [fc]
-[ns]誠[nse]
-「ゆっくり休んでね、おやすみ」[pcms]
+[ns]Makoto[nse]
+"Rest well, good night."[pcms]
 
 *2589|
 [fc]
 [vo_aka s="akari_st0190"]
-[ns]茜梨[nse]
-「はあい。おやすみなさぁい」[pcms]
+[ns]Akari[nse]
+"Yes. Good night."[pcms]
 
 *2590|
 [fc]
-あっという間に越智さんは、眠りの底へ落ちていった。[pcms]
+"In no time at all, Ochi-san fell deep into sleep."[pcms]
 
 *2591|
 [fc]
-やっぱり身体がまだ疲れていたんだと思う。[r]
-それに、越智さんの告白が事実だとしたら、精神的にも[r]
-相当なダメージを受けてるはず。[pcms]
+"I think her body must still be tired. And if what Ochi-san confessed[r]
+is true, she must have taken quite a mental hit as well."[pcms]
 
 *2592|
 [fc]
-誘惑した越智さんと、僕に促されて素直に眠る越智さんには[r]
-あまりにもギャップがありすぎる。[pcms]
+"The gap between the tempting Ochi-san and the obedient Ochi-san who[r]
+went to sleep at my urging is too great."[pcms]
 
 *2593|
 [fc]
-精神的な[ruby text="かいり"][ch text="乖離"]とか、色々な言葉が僕の脳裏を[r]
-流れていた。[pcms]
+"Words like 'mental dissonance' flowed through my mind."[pcms]
 
 [se buf=0 storage="seA025"]
 ;//■_部屋の鍵を開ける音
 
 *2594|
 [fc]
-裏口の鍵が開けられる音がした。[r]
-どうやら先輩達が帰ってきたみたいだ。[pcms]
+"I heard the sound of the back door being unlocked. It seems like the[r]
+seniors are back."[pcms]
 
 *2595|
 [fc]
-僕は出迎えるために、裏口へと向かった。[pcms]
+"I went to the back door to greet them."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>

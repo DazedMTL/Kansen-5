@@ -40,43 +40,43 @@
 
 *542|
 [fc]
-炎天の元、僕達は次のオマンコを発見した。[r]
-南先輩だ。[pcms]
+"Under the scorching sun, we discovered our next pussy. It's Senior[r]
+Minami."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *543|
 [fc]
-南先輩は海にカメラを向け、シャッターを切り続けている。[r]
-あんな事するよりもっと気持ち良いことがあると言うのに。[pcms]
+"Senior Minami is pointing her camera at the sea, continuously[r]
+snapping photos. Despite there being much more pleasurable things to[r]
+do."[pcms]
 
 *544|
 [fc]
-よし、南先輩に、この世の中にはもっと[r]
-気持ち良いことがあるって教えてやろう。[pcms]
+"Alright, let's teach Senior Minami that there are far more[r]
+pleasurable things in this world."[pcms]
 
 *545|
 [fc]
-それを教えるのは、もちろん……。[pcms]
+"And of course, the one to teach her..."[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_sw"][ChrSetParts layer=5 chface="F2_ar04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *546|
 [fc]
-[ns]荒井[nse]
-「今までお預け食らってたからな！[r]
-　お前らは引っ込んでろっ！　俺が一番だぁっ！」[pcms]
+[ns]Arai[nse]
+"I've been holding back until now! You guys step back! I'm the best!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *547|
 [fc]
-[ns]誠＆宗一郎[nse]
-「あ」[pcms]
+[ns]Makoto & Souichirou[nse]
+"Ah"[pcms]
 
 *548|
 [fc]
-荒井は、叫びながら南先輩へ飛びかかっていた。[pcms]
+"Arai was screaming as he leaped towards Senior Minami."[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -95,8 +95,8 @@
 *549|
 [fc]
 [vo_stk s="satuki0194"]
-[ns]彩月[nse]
-「赤い目……も、もしかして君達……あっ！」[pcms]
+[ns]Satsuki[nse]
+"Red eyes... Could it be you guys... Ah!"[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,1000>
@@ -107,48 +107,46 @@
 
 *550|
 [fc]
-[ns]荒井[nse]
-「君の素肌があまりにも魅力的だからだ！[r]
-　だから、俺達の目は赤い！　赤く燃えているんだぁっ！」[pcms]
+[ns]Arai[nse]
+"It's because your bare skin is so captivating! That's why our eyes[r]
+are red! They're burning red!"[pcms]
 
 *551|
 [fc]
-[ns]宗一郎[nse]
-「俺はこの三つ編みが気になって仕方なかったんだ！[r]
-　これをハンドルの様に扱うのだ！　俺のハンドルさばきを見ろ！[r]
-　そして、口にはビッグ・マグナム！」[pcms]
+[ns]Souichirou[nse]
+"I've been curious about these braids for so long! I'll handle them[r]
+like a steering wheel! Watch my steering technique! And in my mouth, a[r]
+Big Magnum!"[pcms]
 
 [evcg storage="satuki_H017b"][trans_c cross time=300]
 
 *552|
 [fc]
 [vo_stk s="satuki0195"]
-[ns]彩月[nse]
-「んぶうっ！？　ぶっ……くっ……臭いぃっ！[r]
-　やぁっ！　こんなの……んぶううっ！　ぐぇっっ！[r]
-　げっ……ゲボォッ！」[pcms]
+[ns]Satsuki[nse]
+"Mmmph!? Buh... Gah... It stinks! Noo! Like this... Mmmph! Gahhh![r]
+Gag... Blargh!"[pcms]
 
 *553|
 [fc]
-うわ、エゲツなー……。[r]
-そーいち、洗ってないよな、アレ。[r]
-そりゃクサいわ。[pcms]
+"Wow, that's nasty... Souichirou, you didn't wash it, did you? No[r]
+wonder it stinks."[pcms]
 
 *554|
 [fc]
-って、僕どうしたら良いんだろ。[pcms]
+"But what should I do now?"[pcms]
 
 *555|
 [fc]
-荒井の馬鹿はオマンコ独り占めでアナルも駄目。[r]
-バカ荒井め、立ちバックなんて体位選びやがって。[r]
-口はそーいちに取られちゃったし。[pcms]
+"Stupid Arai is hogging the pussy all to himself, and the ass is out[r]
+of the question. Damn Arai, choosing a standing doggy style position.[r]
+And Souichirou has taken her mouth."[pcms]
 
 *556|
 [fc]
 [vo_stk s="satuki0196"]
-[ns]彩月[nse]
-「ぶっ……ぎいいっ！　んぶっ……んげぇっ！」[pcms]
+[ns]Satsuki[nse]
+"Buh... Giih! Mmph... Ngeh!"[pcms]
 
 ;//BGV
 [se buf=0 storage="se_sex03" loop=true]
@@ -156,52 +154,50 @@
 
 *557|
 [fc]
-ううーん。[r]
-口も駄目、アナルも駄目、オマンコも駄目。[pcms]
+"Hmm. Mouth's no good, ass is no good, pussy's no good."[pcms]
 
 *558|
 [fc]
-じゃあ、残ってるのはあのおっぱい。[r]
-おっぱい！　オッパイがあるじゃないか！　パイズリだ！[pcms]
+"Then what's left are those tits. Tits! There are tits! It's time for[r]
+a titjob!"[pcms]
 
 *559|
 [fc]
-僕は、何度もズリネタに考えていた南先輩のたわわな胸に、[r]
-皮が少しめくれてきたモノを強く押し当てた。[pcms]
+"I pressed my slightly peeled back dick strongly against Senior[r]
+Minami's bountiful breasts, which I had often fantasized about as[r]
+masturbation material."[pcms]
 
 *560|
 [fc]
 [vo_stk s="satuki0197"]
-[ns]彩月[nse]
-「んっ……げぼおっ……んっ……んぎいぃいっ！[r]
-　あがぁっ……いっ……いたぃいっ！　こんなのっ！[r]
-　ぶあっ！　臭いいぃいっ！　はなっ……んぶううっ！」[pcms]
+[ns]Satsuki[nse]
+"Nngh... Gag... Nngh... Ngiieeh! Agaah... It hurts! Like this! Buaah![r]
+It stinks! Hanah... Mmph!"[pcms]
 
 *561|
 [fc]
-[ns]誠[nse]
-「おおっ……こ、これいい！　おっぱいも悪くない！[r]
-　心臓の動きも良い刺激！　あったかい！　おおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Ohh... This is good! Tits aren't bad at all! The heartbeat is a nice[r]
+stimulus! It's warm! Ohhhh!"[pcms]
 
 *562|
 [fc]
 [vo_stk s="satuki0198"]
-[ns]彩月[nse]
-「君達、まさか……げっ……んゲェっ！　うぉぇぇっ！！」[pcms]
+[ns]Satsuki[nse]
+"You guys, could it be... Gah... Ngeh! Uoeehh!!"[pcms]
 
 *563|
 [fc]
-[ns]宗一郎[nse]
-「おっ……喉がキューキュー言って気持ち良い！[r]
-　マンコより締まるんじゃないかこれはっ！[r]
-　もっと、奥まで入れてやるぞおっ！　全部締めて先輩イイィ！」[pcms]
+[ns]Souichirou[nse]
+"Ohh... Her throat's making a squeaky sound and it feels good! It[r]
+might be tighter than a pussy! I'll push it deeper in! Tighten[r]
+everything up, Senior!"[pcms]
 
 *564|
 [fc]
 [vo_stk s="satuki0199"]
-[ns]彩月[nse]
-「あがっ……うっ……ウェェッ！　おえぇぇっ！！[r]
-　うぶぁぁあっぁぁ！！　うぇぇぇっ！！」[pcms]
+[ns]Satsuki[nse]
+"Agah... Ugh... Uweehh! Oeehh!! Ubahhhahh!! Uweehh!!"[pcms]
 
 ;//◆演出メモ　吐瀉。
 
@@ -209,120 +205,109 @@
 
 *565|
 [fc]
-[ns]荒井[nse]
-「うわコイツも吐いた！　なんでみんな吐くの！[r]
-　まったく、気持ちいいからって……！[r]
-　そうか、俺のモノがいいんだな？　そうなんだな！？」[pcms]
+[ns]Arai[nse]
+"Wow, she threw up too! Why does everyone throw up! Seriously, just[r]
+because it feels good...! So, it's because my dick is good, right?[r]
+That's it, isn't it?!"[pcms]
 
 *566|
 [fc]
 [vo_stk s="satuki0200"]
-[ns]彩月[nse]
-「んっ……ああぁ……おうぇぇ……うぶっ……。[r]
-　うぇぇ……あぁ……」[pcms]
+[ns]Satsuki[nse]
+"Nngh... Aaah... Oweehh... Ubuuh... Weeh... Ah..."[pcms]
 
 [evcg storage="satuki_H017d"][trans_c cross time=150]
 
 *567|
 [fc]
-[ns]宗一郎[nse]
-「おおおっ……俺の体にゲロがぁぁっ！[r]
-　でも、それも気持ちいいいいっ！[r]
-　喉の奥最高ぅううぅっ！！　これぞ、イラマチオ！」[pcms]
+[ns]Souichirou[nse]
+"Ohhh... My body is covered in vomit! But even that feels good! The[r]
+back of the throat is the best!! This is deep-throating!"[pcms]
 
 *568|
 [fc]
 [vo_stk s="satuki0201"]
-[ns]彩月[nse]
-「んげっ……ぶあっ！　ばっ……バカァ！　なんでこんなっ……！[r]
-　ぎっ……んぎぃいいっ！　あがっ！　もう、やだぁぁっ！[r]
-　みんなやめっ！　あぁぁっ！！　うぶっ……げぼっ……」[pcms]
+[ns]Satsuki[nse]
+"Ngeh... Buaah! You idiot! Why are you doing this...! Giieehh! Agah! I[r]
+can't take it anymore! Everyone stop! Aaahhh!! Ubuuh... Gobuh..."[pcms]
 
 *569|
 [fc]
-[ns]荒井[nse]
-「イヤよイヤよも好きのウチだろ！[r]
-　あはははっ！　マンコの中最高だもの！　[r]
-　俺も最高ならお前も最高！　マン汁もダラダラだぁっ！」[pcms]
+[ns]Arai[nse]
+"Hate means love, right?! Ahahaha! Pussy feels the best! If I'm at my[r]
+best, then you're at your best too! Your pussy juice is dripping!"[pcms]
 
 *570|
 [fc]
 [vo_stk s="satuki0202"]
-[ns]彩月[nse]
-「ちっ……それ……ちがっ！　あぁっ！　だめぇっ！[r]
-　んぶううっ！　うぇぇっ……くっ、苦しいっ……。[r]
-　息が……頭……ぼーっとする……」[pcms]
+[ns]Satsuki[nse]
+"Tch... That's not it... Ahh! Noo! Mmphh! Uweehh... It's[r]
+suffocating... I can't breathe... My head's getting dizzy..."[pcms]
 
 *571|
 [fc]
-うーん、やっぱり僕も口かオマンコが良かったなぁ。[pcms]
+"Hmm, I would have preferred a mouth or pussy after all."[pcms]
 
 *572|
 [fc]
-でも、仕方ない。[r]
-僕は、越智さんに中だしできればいいんだ。[r]
-それまでは、こいつらに譲っておいてやろう。[pcms]
+"But it can't be helped. As long as I can cum inside Ochi-san, that's[r]
+fine. Until then, I'll leave these guys to it."[pcms]
 
 *573|
 [fc]
-だけど、越智さんは絶対に渡さない！[pcms]
+"But I absolutely won't hand over Ochi-san!"[pcms]
 
 *574|
 [fc]
-オッパイだって、考え様によっちゃ気持ちいい。[r]
-すべすべだし、柔らかいし温かいし……。[r]
-なにより、水着の生地がアクセントになってて良い感じ。[pcms]
+"If you think about it, tits can feel good too. They're smooth, soft,[r]
+warm... And above all, the swimsuit fabric adds a nice accent."[pcms]
 
 *575|
 [fc]
-僕は、南先輩の水着に差し込んだままのモノを、[r]
-激しく抜き差しさせて、オマンコの代わりにした。[pcms]
+"I violently thrust my dick in and out of Senior Minami's swimsuit-[r]
+clad breasts, using them as a substitute for a pussy."[pcms]
 
 [evcg storage="satuki_H017e"][trans_c cross time=150]
 
 *576|
 [fc]
 [vo_stk s="satuki0203"]
-[ns]彩月[nse]
-「おっ……おぶっうっ！　んぶっ……やぁっ！[r]
-　くっ……くるしっ……いいぃっ……んぶぁっっ……。[r]
-　げっ……げぇぇっ！」[pcms]
+[ns]Satsuki[nse]
+"Ohh... Obuhh! Mmph... Yahh! It's suffocating... Eeihh... Mmphahhh...[r]
+Gahh... Geehh!"[pcms]
 
 *577|
 [fc]
-[ns]宗一郎[nse]
-「おおお、良い感じですぞ！　俺の亀頭が全部、[r]
-　南先輩の喉の奥に飲み込まれましたぞ！[r]
-　これは喉ファックですな！」[pcms]
+[ns]Souichirou[nse]
+"Ohhh, this feels great! My glans has been completely swallowed by[r]
+Senior Minami's throat! This is throat fucking!"[pcms]
 
 [evcg storage="satuki_H017f"][trans_c cross time=150]
 
 *578|
 [fc]
-そーいちは南先輩の三つ編みを荒々しく振り回し、[r]
-自分は腰を前後させていた。[pcms]
+"Souichirou was wildly swinging Senior Minami's braids around while[r]
+thrusting his hips back and forth."[pcms]
 
 *579|
 [fc]
-仰け反った喉の先に、[r]
-そーいちの亀頭の形が浮かび上がって、[r]
-奥まで入っているのがよく分かる。[pcms]
+"The shape of Souichirou's glans was visible at the back of her arched[r]
+throat, clearly showing how deep it was going."[pcms]
 
 *580|
 [fc]
-南先輩はというと、[r]
-眼鏡の奥の目がだんだん上向きになってきていた。[pcms]
+"As for Senior Minami, her eyes behind her glasses were gradually[r]
+rolling upwards."[pcms]
 
 *581|
 [fc]
-やっぱり気持ちいいんだ。[r]
-僕も負けてられないぞ。[r]
-っていっても、オッパイだけでイカせられるかな……。[pcms]
+"It must feel good after all. I can't lose either. But can I make her[r]
+cum with just tits..."[pcms]
 
 *582|
 [fc]
-[ns]荒井[nse]
-「あっ……ああぁっ！」[pcms]
+[ns]Arai[nse]
+"Ah... Aaahh!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -337,41 +322,39 @@
 *583|
 [fc]
 [vo_stk s="satuki0204"]
-[ns]彩月[nse]
-「ひっ……あぁっ！　やあぁっ！　やだぁっっ！[r]
-　だっ、だ、出されたぁっ！　いやぁああぁっ！！」[pcms]
+[ns]Satsuki[nse]
+"Hih... Aahh! Yaaahh! Nooo! Th-they're, they're cumming inside me![r]
+Nooo!!"[pcms]
 
 *584|
 [fc]
-[ns]荒井[nse]
-「……また出たよ！　俺、中だし駄目みたいだなあ。[r]
-　中だしってやっぱ良いモンだ！[r]
-　まだまだチンコガチガチだし！」[pcms]
+[ns]Arai[nse]
+"...I came again! I guess I'm really not good with holding back.[r]
+Cumming inside is just the best! My dick is still rock hard!"[pcms]
 
 *585|
 [fc]
-[ns]誠[nse]
-「お前、やっぱ早漏だろ……」[pcms]
+[ns]Makoto[nse]
+"You really are a quick shooter..."[pcms]
 
 *586|
 [fc]
 [vo_stk s="satuki0205"]
-[ns]彩月[nse]
-「何言ってるの！　やだあぁあっ！　こんなのレイプじゃないの！[r]
-　あぁああっ……どうしよう！　やあぁっ！[r]
-　んぶうっ！　げぼっ！　ぐぇっっ！」[pcms]
+[ns]Satsuki[nse]
+"What are you saying! Nooo! Isn't this rape! Aaahhh... What should I[r]
+do! Yaaahh! Nbuuhh! Gobuhh! Guehh!"[pcms]
 
 *587|
 [fc]
-[ns]宗一郎[nse]
-「駄目だよ先輩！　もう少しで俺もイキそうだったのに、[r]
-　口から出しちゃ駄目だろ！　コノヤロ！　もう一回、[r]
-　喉の奥でギューッて絞ってくれよっ！」[pcms]
+[ns]Souichirou[nse]
+"No way, Senior! I was just about to cum too, you can't just let it[r]
+out through your mouth! You bastard! Squeeze it tight with the back of[r]
+your throat again!"[pcms]
 
 *588|
 [fc]
-[ns]彩月[nse]
-「んっ……んげぇっ！　おぶっ……んぶぁぁっ！」[pcms]
+[ns]Satsuki[nse]
+"Nnh... Ngehh! Obuhh... Nbuahhh!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
@@ -380,135 +363,132 @@
 
 *589|
 [fc]
-[ns]荒井[nse]
-「お、また出そうになってきたぞ！[r]
-　おいデブ、お前もっと突け！　そうするとマンコが締まるんだ。[r]
-　俺をイカせるために、お前も突け！　突きまくれ！」[pcms]
+[ns]Arai[nse]
+"Oh, I'm about to cum again! Hey fatty, thrust harder! That makes her[r]
+pussy tighten up. Thrust for me, make me cum! Keep thrusting!"[pcms]
 
 *590|
 [fc]
-[ns]宗一郎[nse]
-「言われなくったって、突きまくってやるよ！[r]
-　俺ももう少しでイキそうなんだから！」[pcms]
+[ns]Souichirou[nse]
+"I don't need you to tell me, I'll thrust like crazy! I'm about to cum[r]
+too!"[pcms]
 
 *591|
 [fc]
 [vo_stk s="satuki0207"]
-[ns]彩月[nse]
-「やっ……ひどいっ……酷いいいっ！　私はモノじゃない！[r]
-　んぶうっ！　やあぁっ！　みんなやめてってば！[r]
-　んぶううっ！　ぶぅああっっ！　んんっ！」[pcms]
+[ns]Satsuki[nse]
+"Yahh... that's awful... so cruel! I'm not an object! Nbuuhh! Yaaahh![r]
+Stop it, everyone! Nbuuuhh! Buuaaahhh! Nnnhh!"[pcms]
 
 [evcg storage="satuki_H017g"][trans_c cross time=150]
 
 *592|
 [fc]
-[ns]宗一郎[nse]
-「あ、ベロいい感じ！　今のいいね！　いいよ南先輩！[r]
-　カメラマンより、俺のモノを舐める方が合ってるんじゃない？[r]
-　専属おフェラマン！　あはははっ！」[pcms]
+[ns]Souichirou[nse]
+"Ah, that tongue feels great! Just like that, yeah! Right, Senior[r]
+Minami? You're better off licking my thing than being a cameraman.[r]
+Exclusive blowjob artist! Ahahaha!"[pcms]
 
 *593|
 [fc]
 [vo_stk s="satuki0208"]
-[ns]彩月[nse]
-「げぇっ……ばっ……バカ言わないっ……んあぁっ！！[r]
-　突かないでぇ……ウェッ……うぇぇっ……。[r]
-　誠くんも、オッパイやめってってば！　あぁあっ！」[pcms]
+[ns]Satsuki[nse]
+"Gehh... bahh... Don't say stupid things... Nnahhh!! Don't thrust...[r]
+Uwehh... Uweehh... Makoto-kun, stop with the breasts already! Aaahhh!"[pcms]
 
 *594|
 [fc]
-オッパイやめて……？[r]
-何でやめないと駄目なんだ？[pcms]
+Why should I stop with the breasts...? Why do I have to stop?[pcms]
 
 *595|
 [fc]
-僕は気持ちいいし、南先輩だって気持ち良いはずなのに。[r]
-照れてるのかな。[pcms]
+I feel good, and Senior Minami must feel good too. Maybe she's just[r]
+shy.[pcms]
 
 *596|
 [fc]
-普段クールな南先輩が照れているなんて、[r]
-すごく興奮してきたぞ。[pcms]
+It's really exciting to see the usually cool Senior Minami getting[r]
+embarrassed.[pcms]
 
 [bgm storage="BGM22"]
 ;//♪bgm22　一般シーン：昼・元気
 
 *597|
 [fc]
-僕も、もうそろそろイッちゃいそうだ。[r]
-水着と、オッパイの間に挟まれて射精しちゃいそう。[r]
-すべすべオッパイと、ザラザラ水着に中だし！[pcms]
+I'm also about to cum soon. I'm going to ejaculate between the[r]
+swimsuit and the breasts. Cumming between the smooth breasts and the[r]
+rough swimsuit![pcms]
 
 *598|
 [fc]
-中だしと言えば、越智さん……。[r]
-待ってろよ！　越智さんのオマンコ！[pcms]
+If we're talking about cumming inside, then Ochi-san... Wait for me![r]
+Ochi-san's pussy![pcms]
 
 *599|
 [fc]
-[ns]誠[nse]
-「やる気出てきた！　うぉおおっ！」[pcms]
+[ns]Makoto[nse]
+"I'm getting fired up! Uooooh!"[pcms]
 
 *600|
 [fc]
 [vo_stk s="satuki0209"]
-[ns]彩月[nse]
-「あっ……があっ……げぼっ……わっ、わたし……、[r]
-　みんなに愛されて……苦しい……頭……ヘン……！[r]
-　あぁあっ……いっ……イキそうっ……ぐぇっ！」[pcms]
+[ns]Satsuki[nse]
+"Ah... gahh... gobuhh... wha, what I... am loved by everyone... it's[r]
+painful... my head... weird...! Aaahhh... I'm going to cum... guehh!"[pcms]
 
 *601|
 [fc]
-[ns]荒井[nse]
-「誠なんかに負けてられっか！　俺ももうイッてやるぅうっ！[r]
-　早漏だからなんだってんだよ！　チキショー……ううぅ！[r]
-　決めた出しまくってやる！　おりゃああぁあ！」[pcms]
+[ns]Arai[nse]
+"I won't lose to Makoto! I'm gonna cum tooooh! So what if I'm a quick[r]
+shooter! Damn it... Uuuh! I've decided to cum a lot! Oryaaahhh!"[pcms]
 
 *602|
 [fc]
 [vo_stk s="satuki0210"]
-[ns]彩月[nse]
-「なっ……中は駄目だってばぁぁっ！　んぶうぅっ！[r]
-　喉！　喉の奥で膨らんでぇっ……ぐるッ……じいいっ！！[r]
-　ぶぁぁっ！」[pcms]
+[ns]Satsuki[nse]
+"Nahh... not inside, I told you nooo! Nbuuuhh! My throat! It's[r]
+swelling in the back of my throat... guruhh... jiiih!! Buuaahh!"[pcms]
 
 *603|
 [fc]
-[ns]誠[nse]
-「なんて可愛い声！　僕もう限界っ！[r]
-　オッパイに出すぞおっ！」[pcms]
+[ns]Makoto[nse]
+"What a cute voice! I'm at my limit too! I'm gonna cum on the[r]
+breasts!"[pcms]
 
 *604|
 [fc]
-[ns]宗一郎[nse]
-「おおおっ！　喉の奥がぁあぁっ！！　駄目だ絞られるうっ！[r]
-　でるぞおおっ！　先輩！　俺の精液全部飲んでっ！　[r]
-　飲んでぇっ！　喉マンコで妊娠してええっ！」[pcms]
+[ns]Souichirou[nse]
+"Oooohh! The back of the throat aaahhh!! No good, it's squeezing me[r]
+out! It's coming out! Senior! Swallow all my semen! Swallow it! Get[r]
+pregnant with my throat pussy!"[pcms]
 
 *605|
 [fc]
-[ns]彩月[nse]
-「うぇぇっ……げほっ……うううっ……げぇっ！[r]
-　あぁ……あぁあぁぁ……げぼおっ！」[pcms]
+[ns]Satsuki[nse]
+"Uweehh... gehohh... uuuuhh... geehh! Aaah... aaahhhh..."[pcms]
 
 *606|
 [fc]
-[ns]宗一郎[nse]
-「顔射！　顔射してみたい！　[r]
-　先輩の綺麗な顔汚してみたいいいいっ！[r]
-　ああっ！　喉の締め付けがカリを刺激してっ！　ああっ！」[pcms]
+[ns]Souichirou[nse]
+"Facial cumshots! I want to try facial cumshots! I want to dirty[r]
+Senior's beautiful faceeeeee! Aaahh! The squeezing of the throat is[r]
+stimulating the glans! Aaahh!"[pcms]
 
 *607|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「全身孕めぇぇっ！　いくぞおおおっ！！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Impregnate the whole bodyyy! Here we goooo!!"[pcms]
 
 *608|
 [fc]
 [vo_stk s="satuki0212"]
-[ns]彩月[nse]
-「んげぇあぁあっ！　んひぃいいいっ！　んげぇぇっ！！」[pcms]
+[ns]Satsuki[nse]
+"Ngeeahhh! Nhihhhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii[r]
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii[r]
+iiiiiiieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -522,26 +502,26 @@
 
 *609|
 [fc]
-僕達は、またしても申し合わせたかのように、[r]
-南先輩の白い体に向けて、射精した。[pcms]
+We all came together as if we had planned it, aiming at Senior[r]
+Minami's white body.[pcms]
 
 *610|
 [fc]
-ほんのりと日焼けし始めた南先輩の胸には僕の精液が。[r]
-赤く染まった顔と、知的な眼鏡にはそーいちのはき出した精液が。[r]
-柔らかな肉に包まれたオマンコの周りには、荒井の精液が。[pcms]
+My semen was on Senior Minami's slightly sunburned chest. Souichirou's[r]
+ejaculated semen was on her red face and intelligent glasses. Arai's[r]
+semen was around her pussy, wrapped in soft flesh.[pcms]
 
 *611|
 [fc]
-それぞれが、思い思いの場所に大量の精液を浴びせた。[pcms]
+Each of us showered a massive amount of semen wherever we desired.[pcms]
 
 *612|
 [fc]
 [vo_stk s="satuki0213"]
-[ns]彩月[nse]
-「あっ……げぇっ……うぇぇ……おぇっ……。[r]
-　せ、せーし……青臭いのいっぱい……あぇぇ……。[r]
-　せーし……いい匂いぃ……イッ……イクっ！　イクゥ！！」[pcms]
+[ns]Satsuki[nse]
+"Ah... gehh... uweeh... oehh... Se-semen... so much of that young[r]
+smell... aeeeh... Semen... smells good... I'm cumming... I'm[r]
+cumming!!"[pcms]
 
 ;//■イベントCG　satuki_H017
 [evcg storage="satuki_H017i"][trans_c cross time=300]
@@ -549,13 +529,13 @@
 *613|
 [fc]
 [vo_stk s="satuki0214"]
-[ns]彩月[nse]
-「あぁぁっ――――――――ッ！！　イックウウゥウッ！！」[pcms]
+[ns]Satsuki[nse]
+"Aaahhh--------ttt!! I'M CUMMINGGGG!!"[pcms]
 
 *614|
 [fc]
-体中精液塗れにした南先輩は、[r]
-僕達に囲まれたまま体を大きく仰け反らせ、痙攣し出した。[pcms]
+Senior Minami, covered in semen all over her body, arched her back[r]
+greatly and started convulsing while surrounded by us.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -583,45 +563,45 @@
 
 *615|
 [fc]
-僕は、南先輩が心配になって、[r]
-精液塗れの眼鏡の奥をのぞき込む。[pcms]
+I became worried about Senior Minami and peered into her eyes behind[r]
+her semen-covered glasses.[pcms]
 
 *616|
 [fc]
-すると、その目は次第に赤く染まりだしていた。[pcms]
+Then, those eyes gradually started turning red.[pcms]
 
 *617|
 [fc]
-ということはつまり……。[pcms]
+Which means...[pcms]
 
 [bg storage="BG18a"][trans_c blind_lr time=1000]
 
 *618|
 [fc]
-[ns]誠[nse]
-「これで、三人目連続絶頂させが成功したってことか！」[pcms]
+[ns]Makoto[nse]
+"This means I've successfully made three people cum in a row!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so30b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *619|
 [fc]
-[ns]宗一郎[nse]
-「おおっ！　俺の喉マンコファックが効いたんだな、きっと！」[pcms]
+[ns]Souichirou[nse]
+"Ohhh! My throat pussy fuck must have done the trick for sure!"[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_sw"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *620|
 [fc]
-[ns]荒井[nse]
-「何いってんだお前ら、[r]
-　俺の中だしが一番効いたに決まってるだろ」[pcms]
+[ns]Arai[nse]
+"What are you guys talking about, it's obviously my creampie that had[r]
+the biggest effect."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *621|
 [fc]
-[ns]誠＆宗一郎[nse]
-「早漏は黙ってろ！」[pcms]
+[ns]Makoto & Souichirou[nse]
+"Quick shooters should shut up!"[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
@@ -630,8 +610,8 @@
 
 *622|
 [fc]
-[ns]荒井[nse]
-「うう……つ、次で挽回してやる……」[pcms]
+[ns]Arai[nse]
+"Ugh... I-I'll make up for it next time..."[pcms]
 
 ;//♂Ｄ：ブロック分けはしてあるが、以降一連のエロシーンとする。
 ;//♂Ｄ：また、以降はエロシーンの加速を表すため、

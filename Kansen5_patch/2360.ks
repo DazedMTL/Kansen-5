@@ -27,77 +27,75 @@
 
 *2715|
 [fc]
-裏口のドアノブがかちゃりと解錠の音を上げた。[r]
-僕はノブに手を掛け、ぐるりと回す。[pcms]
+The back door's knob clicked, signaling it was unlocked. I put my hand[r]
+on the knob and turned it around.[pcms]
 
 *2716|
 [fc]
-扉を開けると、そこにはお小言が待っていた。[pcms]
+As I opened the door, a scolding was waiting for me.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2717|
 [fc]
 [vo_stk s="satuki_st0300"]
-[ns]彩月[nse]
-「こら、確認もせずにいきなり開けるなんて、[r]
-　無防備すぎるでしょ」[pcms]
+[ns]Satsuki[nse]
+"Hey, opening the door suddenly without checking is way too careless."[pcms]
 
 *2718|
 [fc]
-[ns]誠[nse]
-「あ、……ごめんな……さ……」[pcms]
+[ns]Makoto[nse]
+"Ah, ...sorry...sa..."[pcms]
 
 *2719|
 [fc]
-僕の言葉は次が出ず、僕の目は南先輩の顔に釘付けになった。[r]
-そう、特に先輩の目の……色に。[pcms]
+My words trailed off, and my eyes were fixed on Minami-senpai's face.[r]
+Specifically... the color of her eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2720|
 [fc]
 [vo_stk s="satuki_st0301"]
-[ns]彩月[nse]
-「何？　人の顔じっと見て」[pcms]
+[ns]Satsuki[nse]
+"What? Staring at someone's face like that."[pcms]
 
 *2721|
 [fc]
-[ns]誠[nse]
-「目……目が……わっ……うわあっ！」[pcms]
+[ns]Makoto[nse]
+"Your eyes... your eyes are... wha... wow!"[pcms]
 
 *2722|
 [fc]
 [vo_stk s="satuki_st0302"]
-[ns]彩月[nse]
-「えっ？！　あっ……」[pcms]
+[ns]Satsuki[nse]
+"Eh?! Ah..."[pcms]
 
 *2723|
 [fc]
-南先輩の目は、ヤツラと同じ赤に染まってしまっていた。[r]
-身体がガタガタ震え出す。[r]
-下がりたいのに、足が言うことをきかない。[pcms]
+Minami-senpai's eyes had turned the same red as theirs. My body[r]
+started to tremble. I wanted to step back, but my legs wouldn't move.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2724|
 [fc]
 [vo_stk s="satuki_st0303"]
-[ns]彩月[nse]
-「違うの……違うのよ、誠君！」[pcms]
+[ns]Satsuki[nse]
+"It's not like that... it's not, Makoto-kun!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2725|
 [fc]
-先輩の手が半開きのドアから僕に向かって伸ばされる。[r]
-届きそうになる指先に、僕の足は、ようやく後ろに向かって下がり、[r]
-でも、もつれて尻をついてしまっていた。[pcms]
+Senpai's hand reached out from the half-open door towards me. As her[r]
+fingertips almost touched me, my legs finally moved back, but I[r]
+stumbled and fell on my butt.[pcms]
 
 *2726|
 [fc]
-[ns]誠[nse]
-「ち、近寄らないでくださいっっ！　先輩っ！　先輩ぃぃっ！」[pcms]
+[ns]Makoto[nse]
+"Don't come any closer, please! Senpai! Senpaiii!"[pcms]
 
 ;//めも：かわりに美沙緒はっておく
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi04"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
@@ -105,278 +103,276 @@
 *2727|
 [fc]
 [vo_stk s="satuki_st0304"]
-[ns]彩月[nse]
-「違うの……違うのよ……これは、これはっ！」[pcms]
+[ns]Satsuki[nse]
+"It's not like that... it's not like that... this is, this is!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2728|
 [fc]
 [vo_mis s="misao_st0201"]
-[ns]美沙緒[nse]
-「中澤君、違うのよ。大丈夫だから、私の話をきいて」[pcms]
+[ns]Misao[nse]
+"Nakazawa-kun, it's not like that. It's okay, so please listen to me."[pcms]
 
 *2729|
 [fc]
-黒い瞳の美沙緒さんが、僕と先輩のあいだに、割って入ってきた。[pcms]
+Maeda Misao-san with her black eyes stepped in between me and senpai.[pcms]
 
 *2730|
 [fc]
-[ns]誠[nse]
-「だ、大丈夫って……美沙緒さんこそ、だ、大丈夫なんですか？」[pcms]
+[ns]Makoto[nse]
+"It's okay? Misao-san, are you really okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2731|
 [fc]
 [vo_mis s="misao_st0202"]
-[ns]美沙緒[nse]
-「落ち着いて聞いて、中澤君」[pcms]
+[ns]Misao[nse]
+"Calm down and listen, Nakazawa-kun."[pcms]
 
 *2732|
 [fc]
-美沙緒さんは、伸ばされたままの先輩の手を取り、その手を[r]
-しっかりと握りながら、確かめるようにこくりと頷いた。[pcms]
+Misao-san took senpai's outstretched hand and firmly grasped it,[r]
+nodding as if to confirm something.[pcms]
 
 *2733|
 [fc]
-先輩が頷き返す。肩が震えているのがわかった。[pcms]
+Senpai nodded back. I could see her shoulders shaking.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2734|
 [fc]
 [vo_mis s="misao_st0203"]
-[ns]美沙緒[nse]
-「あのね、中澤君。南さんは、４年前のウイルスに耐性を[r]
-　持っていた人なの。生存者の中でも１０名いないくらい、[r]
-　希少な体質を南さんは持っていたの」[pcms]
+[ns]Misao[nse]
+"You see, Nakazawa-kun. Minami-san had a resistance to the virus from[r]
+four years ago. She was one of the less than ten survivors who had[r]
+this rare constitution."[pcms]
 
 *2735|
 [fc]
-[ns]誠[nse]
-「耐性……？」[pcms]
+[ns]Makoto[nse]
+"Resistance...?"[pcms]
 
 *2736|
 [fc]
 [vo_mis s="misao_st0204"]
-[ns]美沙緒[nse]
-「そう。感染しても発症しなかった。どうしてかっていうのは、[r]
-　詳細は省くけど、そういう体質の人だったの」[pcms]
+[ns]Misao[nse]
+"Yes. She didn't develop the disease even though she was infected.[r]
+I'll spare you the details, but she had that kind of constitution."[pcms]
 
 *2737|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2738|
 [fc]
 [vo_mis s="misao_st0205"]
-[ns]美沙緒[nse]
-「南さんの目が赤いのは、ウイルスに接触した時の名残。[r]
-　たぶん目に直接ウイルスが入った事があったと思うの。[r]
-　表面の色相だけが変化して赤になってしまった」[pcms]
+[ns]Misao[nse]
+"Minami-san's red eyes are a remnant of when she came into contact[r]
+with the virus. Probably the virus entered her eyes directly at some[r]
+point. Only the surface color changed to red."[pcms]
 
 *2739|
 [fc]
 [vo_mis s="misao_st0206"]
-[ns]美沙緒[nse]
-「元に戻ることなくそのまま色が定着してしまったの。[r]
-　だけど、それだけ。感染者特有の症状が現れることもなく、[r]
-　感染した形跡は残されたけど、彼女は生き残った」[pcms]
+[ns]Misao[nse]
+"The color settled permanently without reverting back. But that's all.[r]
+She didn't show any of the typical symptoms of an infected person, and[r]
+though there were signs of infection, she survived."[pcms]
 
 *2740|
 [fc]
-[ns]誠[nse]
-「じゃあ先輩は……」[pcms]
+[ns]Makoto[nse]
+"So senpai is..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2741|
 [fc]
 [vo_mis s="misao_st0207"]
-[ns]美沙緒[nse]
-「ええ、大丈夫よ。普通の人間なの。それにね、彼女は[r]
-　多くの人の命を救っているのよ。今出回ってるワクチンも[r]
-　南さん達の細胞や抗体データを材料にしたものだわ」[pcms]
+[ns]Misao[nse]
+"Yes, she's fine. She's a normal human being. And you know, she has[r]
+saved many lives. The vaccine that's currently being distributed was[r]
+also made using cells and antibody data from people like Minami-san."[pcms]
 
 [ChrSetEx layer=4 chbase="st1_t1_a"][ChrSetParts layer=4 chface="f1_st07"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *2742|
 [fc]
 [vo_stk s="satuki_st0305"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2743|
 [fc]
-先輩は顔を隠すようにして俯き、美沙緒さんの後ろで[r]
-黙り込んでいた。もう美沙緒さんから手を離していたけど、[r]
-その手はまるでまだ繋いでいるかのように握られている。[pcms]
+Senpai hung her head as if to hide her face and fell silent behind[r]
+Misao-san. She had let go of Misao-san's hand, but her own hand was[r]
+still clenched as if they were still connected.[pcms]
 
 *2744|
 [fc]
-[ns]誠[nse]
-「……ごめんなさい、先輩。僕は……」[pcms]
+[ns]Makoto[nse]
+"...I'm sorry, senpai. I..."[pcms]
 
 *2745|
 [fc]
 [vo_stk s="satuki_st0306"]
-[ns]彩月[nse]
-「いいの……普段はカラーコンタクトをしてるの……。[r]
-　でも、今出た先で……どうやら落としちゃったみたい。[r]
-　ごめんね……驚かせて……」[pcms]
+[ns]Satsuki[nse]
+"It's okay... I usually wear colored contacts... But just now, it[r]
+seems I dropped them when I went out. Sorry for startling you..."[pcms]
 
 *2746|
 [fc]
-[ns]誠[nse]
-「いえ、本当にごめんなさい。知らなかったとはいえ……」[pcms]
+[ns]Makoto[nse]
+"No, I'm really sorry. Even though I didn't know..."[pcms]
 
 *2747|
 [fc]
 [vo_stk s="satuki_st0307"]
-[ns]彩月[nse]
-「いいから……あと、お願いします。美沙緒さん」[pcms]
+[ns]Satsuki[nse]
+"It's fine... And please, take care of this, Misao-san."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *2748|
 [fc]
-そう言うと先輩は、顔を背けたまま、あっという間に僕の横を[r]
-通り過ぎ、奥の部屋へと駆けていってしまった。[pcms]
+With those words, senpai quickly passed by me without turning her face[r]
+and ran into the back room.[pcms]
 
 *2749|
 [fc]
-[ns]誠[nse]
-「僕は先輩にどう謝ったら……」[pcms]
+[ns]Makoto[nse]
+"How should I apologize to senpai..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2750|
 [fc]
 [vo_mis s="misao_st0208"]
-[ns]美沙緒[nse]
-「知らなかったことなんだから、仕方が無かった……。[r]
-　私もついさっき知ったばかりだし……だから、素直に謝る。[r]
-　それだけでいいと思うわよ、中澤君」[pcms]
+[ns]Misao[nse]
+"It was something you didn't know about, so it couldn't be helped... I[r]
+only found out just now myself... So just apologize sincerely. That[r]
+should be enough, Nakazawa-kun."[pcms]
 
 *2751|
 [fc]
-[ns]誠[nse]
-「でも……」[pcms]
+[ns]Makoto[nse]
+"But..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2752|
 [fc]
 [vo_mis s="misao_st0209"]
-[ns]美沙緒[nse]
-「こう言ってはなんだけど、誰でも取った態度だと思うわ。[r]
-　親しい間柄であった分、お互いのダメージは大きいだろうけど。[r]
-　でも謝る以外に方法はないでしょ？　違う？」[pcms]
+[ns]Misao[nse]
+"I know it might sound strange to say this, but anyone would have[r]
+reacted the same way. The damage is greater because you two are close.[r]
+But there's no other way than to apologize, right? Isn't that true?"[pcms]
 
 *2753|
 [fc]
-[ns]誠[nse]
-「……そうですね。確かにそうです。あ、荷物持ちます。[r]
-　あの……今更ですが、お疲れ様でした」[pcms]
+[ns]Makoto[nse]
+"...Yes, you're right. Certainly so. Ah, I'll carry the bags. Uh...[r]
+it's late but, thank you for your hard work."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2754|
 [fc]
-僕は立ち上がって美沙緒さんから布製の袋に入った荷物を[r]
-受け取った。さっき通電しておいた冷蔵庫に、その中身を[r]
-黙々と移し替えていく。[pcms]
+I stood up and took the fabric bag filled with goods from Misao-san.[r]
+Silently, I began transferring its contents into the refrigerator that[r]
+I had turned on earlier.[pcms]
 
 *2755|
 [fc]
-カラコンを落としたって先輩は言ってた……。[r]
-きっと外でアイツら相手に奮闘したんだ……。[r]
-それなのに、僕は……。[pcms]
+"Senpai said she dropped her colored contacts... She must have[r]
+struggled with those guys outside... And yet, I..."[pcms]
 
 *2756|
 [fc]
 [vo_aka s="akari_st0191"]
-[ns]茜梨[nse]
-「お姉様……？　まーくん先輩……？」[pcms]
+[ns]Akari[nse]
+"Onee-sama...? Ma-kun senpai...?"[pcms]
 
 *2757|
 [fc]
-目を覚ましたんだろうか？　越智さんの声が聞えてきた。[pcms]
+Was she waking up? I could hear Ochi-san's voice.[pcms]
 
 *2758|
 [fc]
 [vo_aka s="akari_st0192"]
-[ns]茜梨[nse]
-「おねーさまぁ？　まーくん先輩ぃ？　どこですか？　どこぉ？」[pcms]
+[ns]Akari[nse]
+"Onee-sama? Ma-kun senpai? Where are you? Where?"[pcms]
 
 *2759|
 [fc]
-寝惚けているんだろうか？　それとも……。[pcms]
+Is she still half asleep? Or maybe...[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2760|
 [fc]
 [vo_mis s="misao_st0210"]
-[ns]美沙緒[nse]
-「茜梨が目を覚ましたのかしら？」[pcms]
+[ns]Misao[nse]
+"Has Akari woken up?"[pcms]
 
 *2761|
 [fc]
-[ns]誠[nse]
-「そうだと思います。でも……ちょっと様子がおかしいですね」[pcms]
+[ns]Makoto[nse]
+"I think so. But... her behavior seems a bit strange."[pcms]
 
 *2762|
 [fc]
-僕は誘惑されたって事と、越智さんの告白には触れずに、[r]
-美沙緒さんと先輩が不在の間、越智さんの様子が[r]
-変だったことを話した。[pcms]
+Without touching on the fact that I was tempted, or Ochi-san's[r]
+confession, I told Misao-san about how Ochi-san had been acting odd[r]
+while she and senpai were away.[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2763|
 [fc]
 [vo_mis s="misao_st0211"]
-[ns]美沙緒[nse]
-「そう……やっぱり精神的ダメージが大きいのね……」[pcms]
+[ns]Misao[nse]
+"I see... It must be that she's taken quite a mental hit..."[pcms]
 
 *2764|
 [fc]
 [vo_aka s="akari_st0193"]
-[ns]茜梨[nse]
-「やぁだぁ。ひとりやなのぉ……おねーさまぁ！[r]
-　誰か来てよぉ……まーくん先輩ぃ！」[pcms]
+[ns]Akari[nse]
+"I don't want this. I'm all alone... Onee-sama! Someone come... Ma-kun[r]
+senpai!"[pcms]
 
 *2765|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2766|
 [fc]
 [vo_mis s="misao_st0212"]
-[ns]美沙緒[nse]
-「とにかく、今は休むことを考えた方が良さそうね。[r]
-　中澤君、君も休んだ方がいいわ。どうする？[r]
-　部屋の数は限られてるから、どこで休む？」[pcms]
+[ns]Misao[nse]
+"Anyway, it seems best to think about resting for now. Nakazawa-kun,[r]
+you should rest too. What will you do? There's a limited number of[r]
+rooms, so where will you sleep?"[pcms]
 
 *2767|
 [fc]
-[ns]誠[nse]
-「そうですね……」[pcms]
+[ns]Makoto[nse]
+"That's true..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2768|
 [fc]
-越智さんも気になる。僕の事を呼んでるし……。[r]
-でも南先輩も気になる。さっきの事も謝りたいし……。[pcms]
+Ochi-san is on my mind. She's calling for me... But I'm also concerned[r]
+about Senpai Minami. I want to apologize for what happened earlier...[pcms]
 
 ;//●選択肢
 ;//・茜梨のそばにいく→Ｏ 2370
@@ -384,15 +380,15 @@
 
 ;	[link storage="2370.ks" target=*2370_TOP]越智さんのそばにいく[endlink]
 ;	[link storage="2380.ks" target=*2380_TOP]南先輩のそばにいく[endlink]
-;	[s]
+;[pcms]
 
 
 *SEL19|越智さんのそばにいく／南先輩のそばにいく
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '越智さんのそばにいく'"]
-[eval exp="f.seltext06 = '南先輩のそばにいく'"]
+[eval exp="f.seltext04 = 'Go to Ochi-san\'s side'"]
+[eval exp="f.seltext06 = 'Go to Senior Minami\'s side'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

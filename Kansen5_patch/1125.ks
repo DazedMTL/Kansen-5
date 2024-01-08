@@ -25,44 +25,44 @@
 
 *2407|
 [fc]
-[ns]荒井[nse]
-「あーあ、高そうな車なのに」[pcms]
+[ns]Arai[nse]
+"Ah-ah, even though it's such an expensive car..."[pcms]
 
 *2408|
 [fc]
 [vo_nat s="natu0182"]
-[ns]夏都[nse]
-「どうせ、オレたちの車じゃねえだろうが」[pcms]
+[ns]Natsu[nse]
+"Anyway, it's not like it's our car."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2409|
 [fc]
-オレは乗り捨ててあった車を体当たりで蹴散らしながら、[r]
-メガネのリムジンで神社まで乗り付けていた。[pcms]
+I kicked aside the abandoned car with a body blow, having ridden up to[r]
+the shrine in a limousine with glasses.[pcms]
 
 *2410|
 [fc]
-少々乗り方が荒っぽかったせいか、ホワイトリムジンは[r]
-穴だらけのスクラップになっている。[pcms]
+Perhaps because of the rough ride, the white limousine had turned into[r]
+a hole-riddled scrap.[pcms]
 
 *2411|
 [fc]
-あんな金持ちの車なんて気に止める必要もないけれど、[r]
-さすがに頑丈な作りをしていた。[pcms]
+There's no need to worry about such a rich person's car, but it was[r]
+certainly built sturdy.[pcms]
 
 *2412|
 [fc]
-乗り捨てさせてもらって悪いけれど、[r]
-向こうも回収できるとは思ってないだろう。[pcms]
+I feel bad for abandoning it, but I doubt they expected to recover it[r]
+anyway.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so02b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2413|
 [fc]
-[ns]宗一郎[nse]
-「黒服からもらった拳銃って、フローニンクですよね。[r]
-　ああいう人って９ミリ持ってるイメージでした」[pcms]
+[ns]Souichirou[nse]
+"The gun we got from the men in black suits is a Flo-ning, right? I[r]
+always imagined those guys carrying 9mm."[pcms]
 
 ;//◆権利侵害を微妙に回避しています フローニンク
 ;//m:回避しすぎか？フローニングくらいにしておく？
@@ -70,61 +70,56 @@
 *2414|
 [fc]
 [vo_nat s="natu0183"]
-[ns]夏都[nse]
-「んなことはねえだろ、[r]
-　日本でバンバン撃ち合いなんて起きねえし」[pcms]
+[ns]Natsu[nse]
+"That's not the case, there aren't any shootouts happening in Japan."[pcms]
 
 *2415|
 [fc]
-装弾性能の高い９ミリの方が良かったんだけど、[r]
-別にこれでもいい。[pcms]
+A 9mm with high loading performance would have been better, but this[r]
+will do.[pcms]
 
 *2416|
 [fc]
-基本的に戦うのは最後の手段にしておかないと、[r]
-こっちの身が持たないはずだ。[pcms]
+Basically, fighting is the last resort; otherwise, we won't last long.[pcms]
 
 *2417|
 [fc]
-デブと荒井はスポーツ用品店から持って来た、[r]
-バットとゴルフクラブを持っている。[pcms]
+The fat guy and Arai brought bats and golf clubs from the sports[r]
+equipment store.[pcms]
 
 *2418|
 [fc]
-感染者と戦うには、血が吹き出ない鈍器の方が[r]
-有用だろう。[pcms]
+For fighting the infected, blunt weapons that don't cause blood to[r]
+spurt are more useful.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so01a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2419|
 [fc]
-[ns]宗一郎[nse]
-「でも、なんであいつ等が拳銃を持ってるって、[r]
-　わかったんですか？」[pcms]
+[ns]Souichirou[nse]
+"But how did you know that those guys were carrying guns?"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2420|
 [fc]
-[ns]荒井[nse]
-「ていうか、どうしてそんなもん持ってんだか……」[pcms]
+[ns]Arai[nse]
+"I mean, why the hell do they even have those..."[pcms]
 
 *2421|
 [fc]
 [vo_nat s="natu0184"]
-[ns]夏都[nse]
-「立ち姿のシルエットでわかるんだよ。[r]
-　このクソ暑い中、あの格好なのもおかしいしな」[pcms]
+[ns]Natsu[nse]
+"You can tell by the silhouette of their stance. It's strange for them[r]
+to be dressed like that in this damn heat."[pcms]
 
 *2422|
 [fc]
-おしゃべりしている暇はない。[r]
-準備が整ったなら行動開始だ。[pcms]
+We don't have time to chat. If we're ready, let's start moving.[pcms]
 
 *2423|
 [fc]
-用意してきた荷物を背負うと、[r]
-オレたちは神社の中に入っていった。[pcms]
+Once we had our gear ready, we entered the shrine.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -133,18 +128,18 @@
 
 *2424|
 [fc]
-神社の中は、昨日誠たちと来たときと変わりなく、[r]
-荒らされている様子はなかった。[pcms]
+The inside of the shrine was unchanged from when Makoto and I visited[r]
+yesterday; there were no signs of it being disturbed.[pcms]
 
 *2425|
 [fc]
-小さなお社が少し壊れているけれど、[r]
-前からああだったのか、もう覚えていない。[pcms]
+Some small shrines were slightly damaged, but I can't remember if they[r]
+were already like that before.[pcms]
 
 *2426|
 [fc]
-感染者が壊したのなら、神社に紛れている可能性があるから、[r]
-気をつけて進む必要がある。[pcms]
+If the infected had destroyed them, there's a chance they could be[r]
+hiding in the shrine, so we need to proceed with caution.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -155,76 +150,75 @@
 *2427|
 [fc]
 [vo_tay s="taja0076"]
-[ns]ターヤ[nse]
-「さぁとぉ……いっしょに……せっくすしよぉ……」[pcms]
+[ns]Tarja[nse]
+"Come on... let's have sex together..."[pcms]
 
 *2428|
 [fc]
 [vo_nat s="natu0185"]
-[ns]夏都[nse]
-「……っ！」[pcms]
+[ns]Natsu[nse]
+"...!"[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_le"][ChrSetParts layer=4 chface="F1_ta14"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *2429|
 [fc]
-誠と同じくらいの歳の金髪女が、[r]
-レオタードを着て神社をさまよい歩いていた。[pcms]
+A blonde woman about Makoto's age was wandering around the shrine in a[r]
+leotard.[pcms]
 
 *2430|
 [fc]
-すでに散々犯された後のようで、[r]
-身体中に精液がこびり付き、服がはだけている。[pcms]
+She looked like she had been thoroughly violated already, with semen[r]
+caked all over her body and her clothes disheveled.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so16a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2431|
 [fc]
-[ns]宗一郎[nse]
-「た、ターヤさん……」[pcms]
+[ns]Souichirou[nse]
+"Ta-Tarja-san..."[pcms]
 
 [bgm storage="BGM15"]
 ;//♪bgm24　終末。諦め漂う感。不完全燃焼。
 
 *2432|
 [fc]
-そーいちがショックを受けたような声で、[r]
-女の名前らしきものを口にしていた。[pcms]
+Souichirou spoke her name in a voice that seemed shocked.[pcms]
 
 *2433|
 [fc]
-有名人なのか、知り合いなのか……。[pcms]
+Whether she was a celebrity or an acquaintance...[pcms]
 
 *2434|
 [fc]
 [vo_tay s="taja0077"]
-[ns]ターヤ[nse]
-「さぁとぉ……どこなのぉ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Come on... where are you..."[pcms]
 
 *2435|
 [fc]
 [vo_nat s="natu0186"]
-[ns]夏都[nse]
-「知り合いなのか？」[pcms]
+[ns]Natsu[nse]
+"Is she someone you know?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so06a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2436|
 [fc]
-[ns]宗一郎[nse]
-「はい……」[pcms]
+[ns]Souichirou[nse]
+"Yes..."[pcms]
 
 *2437|
 [fc]
-いきなり見知っている感染者に会うなんて、幸先が悪い。[r]
-でも、殺してやれるのは救いになるかも知れなかった。[pcms]
+It's bad luck to suddenly encounter an infected person you know. But[r]
+maybe killing her would be a mercy.[pcms]
 
 *2438|
 [fc]
 [vo_nat s="natu0187"]
-[ns]夏都[nse]
-「目を閉じてろ」[pcms]
+[ns]Natsu[nse]
+"Close your eyes."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so08a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 ;不要？[wait_c time=1000]
@@ -232,26 +226,26 @@
 
 *2439|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_le"][ChrSetParts layer=5 chface="F1_ta24"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2440|
 [fc]
 [vo_tay s="taja0078"]
-[ns]ターヤ[nse]
-「あなたはぁ……だぁれぇ……？」[pcms]
+[ns]Tarja[nse]
+"Who are you...?"[pcms]
 
 *2441|
 [fc]
-女がこちらに気が付いて、寄ってこようとしていた。[r]
-あまり近づかれると、返り血を浴びる。[pcms]
+The woman noticed us and started to approach. Getting too close would[r]
+mean getting splattered with blood.[pcms]
 
 *2442|
 [fc]
-外さない距離まで引き付けると、[r]
-オレは[ruby text="ちゅうちょ"][ch text="躊躇"]無く引き金を引いた。[pcms]
+Once I lured her into a distance where I couldn't miss, I pulled the[r]
+trigger without hesitation.[pcms]
 
 [se buf=1 storage="seC048"]
 ;//銃声
@@ -263,8 +257,8 @@
 
 *2443|
 [fc]
-静かな神社に銃声が鳴り響く。[r]
-銃口を飛び出したＡＣＰ弾が女の眉間に吸い込まれていった。[pcms]
+The gunshot echoed through the quiet shrine. The ACP bullet flew out[r]
+of the barrel and was sucked into the woman's forehead.[pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
@@ -275,35 +269,33 @@
 *2444|
 [fc]
 [vo_nat s="natu0188"]
-[ns]夏都[nse]
-「これで良かっただろ？　成仏してくれ」[pcms]
+[ns]Natsu[nse]
+"This was for the best, right? Rest in peace."[pcms]
 
 *2445|
 [fc]
-女は仰向けに倒れると、[r]
-そのままピクリとも動かなかった。[pcms]
+The woman fell on her back and didn't move an inch afterward.[pcms]
 
 *2446|
 [fc]
-速やかに脳を破壊する。[r]
-身体が傷ついても、こいつらは[ruby text="ひる"]怯まない。[pcms]
+Quickly destroy the brain. Even if their bodies are damaged, these[r]
+guys won't flinch.[pcms]
 
 *2447|
 [fc]
-[ns]宗一郎[nse]
-「ターヤさん……安らかに眠ってください……」[pcms]
+[ns]Souichirou[nse]
+"Tarja-san... may you rest in peace..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2448|
 [fc]
-デブは、女のところまで歩くと顔にハンカチをかけていた。[r]
-感傷は禁物だ。[pcms]
+The fat man walked over to the woman and covered her face with a[r]
+handkerchief. Sentimentality is forbidden.[pcms]
 
 *2449|
 [fc]
-オレは見なかったことにして、[r]
-物陰から神社を見回してみる。[pcms]
+I decided to ignore it and surveyed the shrine from the shadows.[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so06a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
@@ -311,136 +303,136 @@
 *2450|
 [fc]
 [vo_nat s="natu0189"]
-[ns]夏都[nse]
-「ホントにこっちでいいんだな？」[pcms]
+[ns]Natsu[nse]
+"Are you sure this is the right way?"[pcms]
 
 *2451|
 [fc]
-誠もこの女の知り合いなんだろう。[r]
-感染した姿を見てしまったんだろうか。[pcms]
+It seems Makoto knew this woman too. I wonder if he saw her after she[r]
+was infected.[pcms]
 
 *2452|
 [fc]
-あの繊細な男には、ショックだったろうに……。[pcms]
+For that delicate man, it must have been a shock...[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2453|
 [fc]
-[ns]宗一郎[nse]
-「あの場所で車を下りて、人口密集地帯を避けるとなれば、[r]
-　神社に向かうしか道はありません」[pcms]
+[ns]Souichirou[nse]
+"If we get off the car at that place and avoid the densely populated[r]
+areas, the only path left is towards the shrine."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2454|
 [fc]
-[ns]荒井[nse]
-「でも、茜梨ちゃんを連れてこの山を突っ切ったのかよ」[pcms]
+[ns]Arai[nse]
+"But did you really cross these mountains with Akari-chan?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so13b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2455|
 [fc]
-[ns]宗一郎[nse]
-「町や集落を通り過ぎる方が大変だ。[r]
-　自衛隊に見付かるのも都合が悪いだろう」[pcms]
+[ns]Souichirou[nse]
+"It's more difficult to pass through towns and villages. It would also[r]
+be inconvenient to be spotted by the Self-Defense Forces."[pcms]
 
 *2456|
 [fc]
 [vo_nat s="natu0190"]
-[ns]夏都[nse]
-「まぁ、あの馬鹿もお前と似たようなことを考えそうだよな」[pcms]
+[ns]Natsu[nse]
+"Well, that idiot probably thought of something similar to you."[pcms]
 
 *2457|
 [fc]
-銃声に引き寄せられたのか、神社の本殿から[r]
-感染者がヨタヨタと歩み出て来る。[pcms]
+Attracted by the sound of gunfire, an infected person staggered out[r]
+from the main shrine building.[pcms]
 
 *2458|
 [fc]
-銃の弾には限りがあるんだから、[r]
-こんなところで使っていられない。[pcms]
+There's a limit to the bullets I have; I can't afford to use them in a[r]
+place like this.[pcms]
 
 *2459|
 [fc]
 [vo_nat s="natu0191"]
-[ns]夏都[nse]
-「この先はどうなっているんだ？」[pcms]
+[ns]Natsu[nse]
+"What's ahead of us?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so04a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2460|
 [fc]
-[ns]宗一郎[nse]
-「港に行く道とキャンプ場に行く道に分かれています」[pcms]
+[ns]Souichirou[nse]
+"The road splits towards the port and the campground."[pcms]
 
 *2461|
 [fc]
-港の方向は人口密集地帯になっていた。[r]
-感染者がわんさといるだろう。[pcms]
+The direction towards the port was a densely populated area. There[r]
+must be swarms of infected there.[pcms]
 
 *2462|
 [fc]
-キャンプ場はどうだろうか。[r]
-このシーズン、それなりに人がいただろうが……。[pcms]
+I wonder about the campground. This season, there would have been a[r]
+fair number of people...[pcms]
 
 *2463|
 [fc]
-[ns]荒井[nse]
-「人口密集地帯を避けて通るには、山を突っ切るしかない。[r]
-　そうなんだろ？」[pcms]
+[ns]Arai[nse]
+"To avoid the densely populated areas, we have no choice but to cut[r]
+through the mountains, right?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so13b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2464|
 [fc]
-[ns]宗一郎[nse]
-「誠がどういう道を選んだのかはわからんが……」[pcms]
+[ns]Souichirou[nse]
+"I don't know which path Makoto chose..."[pcms]
 
 *2465|
 [fc]
 [vo_nat s="natu0192"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *2466|
 [fc]
-いつ発症するかわからない感染者を連れて、[r]
-人気の多い場所は通らないだろう。[pcms]
+With an infected person who could turn at any moment, we wouldn't pass[r]
+through a crowded place.[pcms]
 
 *2467|
 [fc]
-山の中というのは、誠にとって好都合な気がする。[pcms]
+Going through the mountains seems convenient for Makoto.[pcms]
 
 *2468|
 [fc]
-しかも、目指している屋敷は山を越えたところに[r]
-あるってんだから、選ぶ理由としては十分だ。[pcms]
+Moreover, since the mansion we're aiming for is beyond the mountains,[r]
+it's a good enough reason to choose this route.[pcms]
 
 *2469|
 [fc]
 [vo_nat s="natu0193"]
-[ns]夏都[nse]
-「よし、山を突っ切ろう」[pcms]
+[ns]Natsu[nse]
+"Alright, let's cut through the mountains."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar12"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2470|
 [fc]
-[ns]荒井[nse]
-「茜梨ちゃんを連れて、山の中を歩けますかね」[pcms]
+[ns]Arai[nse]
+"Can you really walk through the mountains with Akari-chan?"[pcms]
 
 *2471|
 [fc]
-[ns]宗一郎[nse]
-「越智さんを連れて、町の中を歩くより楽と思うがなぁ……」[pcms]
+[ns]Souichirou[nse]
+"I think it's easier than walking through town with Ochi-san..."[pcms]
 
 *2472|
 [fc]
 [vo_nat s="natu0194"]
-[ns]夏都[nse]
-「山を突っ切ると言ってんだろうが！」[pcms]
+[ns]Natsu[nse]
+"I said we're cutting through the mountains!"[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -449,8 +441,8 @@
 
 *2473|
 [fc]
-オレはそれ以上議論をすることなく、[r]
-感染者を引き付けながら先を進んでいった。[pcms]
+Without further argument, I moved on, attracting the infected as I[r]
+went.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

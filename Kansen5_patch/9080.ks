@@ -38,197 +38,187 @@
 
 *731|
 [fc]
-ターヤが狂気の釜の縁に足を掛け、[r]
-混沌の渦を眺め始めた頃――[pcms]
+Tarja had begun to gaze into the vortex of chaos, her foot on the edge[r]
+of the cauldron of madness.[pcms]
 
 *732|
 [fc]
-その親友『怜』もまた。[r]
-時を同じくして、別の釜の縁に立たされ、[r]
-狂気の渦へと突き落とされそうとしていた。[pcms]
+Her best friend "Sato" too, at the same time, was being forced to[r]
+stand on the edge of a different cauldron, on the verge of being[r]
+thrust into the whirlpool of madness.[pcms]
 
 *733|
 [fc]
-遙か遠くに顔を覗かせた太陽が、薄桃色の光を放ちながら、[r]
-ここ『大神山神社』の境内を鮮やかな色に染めていく。[pcms]
+The distant sun peeked out, casting a pale pink light that vividly[r]
+colored the precincts of "Oogamiyama Shrine".[pcms]
 
 *734|
 [fc]
-その光を遮る御神木の陰が、境内の中に一部の闇を作りだし、[r]
-その闇の中、狂気に墜ちた人々が、[r]
-うら若き少女の肌を求め、群がっていた。[pcms]
+The shadows of the sacred trees that blocked the light created pockets[r]
+of darkness within the precincts, where people who had fallen into[r]
+madness were swarming, seeking the skin of a young girl.[pcms]
 
 *735|
 [fc]
 [vo_sat s="sato0102"]
-[ns]怜[nse]
-「どっ、どうして……どうして“あたし”なのっ！？[r]
-　みんな、ヘンだよっ！　こんなのイヤあぁっ！」[pcms]
+[ns]Sato[nse]
+"Why... why me!? Everyone's acting weird! I don't want this, nooo!"[pcms]
 
 *736|
 [fc]
-[ns]怜の父親[nse]
-「あ゛ぁ～？　へ、へん゛っだぁ～？」[pcms]
+[ns]Sato's father[nse]
+"Huh~? Weird~?"[pcms]
 
 *737|
 [fc]
-[ns]怜の親戚Ａ[nse]
-「こ゛れ゛は……ぎしき゛なんだ、ぞぉ゛……？[r]
-　なに、が、へん゛な、もの゛かっ！」[pcms]
+[ns]Sato's Relative A[nse]
+"This is... a ritual, isn't it...? What's so weird about it!"[pcms]
 
 *738|
 [fc]
-[ns]怜の親戚Ｂ[nse]
-「ばち゛あたり゛がぁ……おっ、おと、な゛しく、[r]
-　いけに゛え゛になっ、とれぇ……」[pcms]
+[ns]Sato's Relative B[nse]
+"If you're cursed... behave yourself, and become a good woman..."[pcms]
 
 *739|
 [fc]
-玉砂利が擦れ合う音の中、[r]
-少女の悲鳴と、神に“仕えていた”者達のざわめきが、[r]
-闇の中を所狭しと駆け回り、神聖な土地に広がっていく。[pcms]
+Amidst the sound of gravel rubbing together, the girl's screams and[r]
+the murmurs of those who "served" the gods ran rampant in the[r]
+darkness, spreading throughout the sacred land.[pcms]
 
 *740|
 [fc]
 [vo_sat s="sato0103"]
-[ns]怜[nse]
-「叔父さん！　お父さんっ！　やめてぇっ！　みんなも、[r]
-　そんなの見せないでよっ！　苦しいっ……助けてぇっ！」[pcms]
+[ns]Sato[nse]
+"Uncle! Dad! Stop it! Everyone else, don't show me such things! It[r]
+hurts... help me!"[pcms]
 
 *741|
 [fc]
 [vo_sat s="sato0104"]
-[ns]怜[nse]
-「やっ……あぁっ！　んあっ……くううっ……」[pcms]
+[ns]Sato[nse]
+"No... ah! Nnah... kuuuh..."[pcms]
 
 *742|
 [fc]
-沢山の聖職者達に囲まれた少女は、薄桃色の光を反射し、[r]
-真っ赤に光る目に怯えた表情を向けていた。[pcms]
+The girl surrounded by many clergymen reflected the pale pink light,[r]
+her eyes shining bright red with a frightened expression.[pcms]
 
 *743|
 [fc]
-聖職者……。[pcms]
+Clergymen...[pcms]
 
 *744|
 [fc]
-かつて、そう呼ばれた男達は、みな一様に少女を見つめ、[r]
-欲望の血が滾り、湯気を上げそうなほどに熱い男性器を、[r]
-外気に晒していた。[pcms]
+Men once called clergymen all gazed at the girl uniformly, their blood[r]
+of desire boiling over, exposing their steaming hot male members to[r]
+the open air.[pcms]
 
 *745|
 [fc]
-少女が怯えているのは、まさに『それ』に対してだ。[pcms]
+The girl was frightened precisely because of "that".[pcms]
 
 *746|
 [fc]
-ここに集う者達は、全て少女……怜の親類縁者。[r]
-彼らが、怜に対して情欲の念を向けている。[pcms]
+Those gathered here were all relatives of the girl... Sato. They were[r]
+all directing their lustful thoughts towards Sato.[pcms]
 
 *747|
 [fc]
-それは、あってはならない事。禁忌すべき事。[pcms]
+It was something that should not happen. A taboo that should be[r]
+forbidden.[pcms]
 
 *748|
 [fc]
-そんな中、怜は、服は無残に破かれ、[r]
-しなやかな肢体を限界まで折り曲げられ、[r]
-玉砂利の上で、虚しく身を悶えさせていた。[pcms]
+In the midst of this, Sato's clothes were cruelly torn, her supple[r]
+body bent to its limits on the gravel, writhing in vain.[pcms]
 
 *749|
 [fc]
-[ns]怜の父親[nse]
-「な゛ぜ、に、にげる゛っ！　おれ゛だぢに、[r]
-　さか゛らう、なぁ～……」[pcms]
+[ns]Sato's father[nse]
+"Why do you run away! You're defying me..."[pcms]
 
 *750|
 [fc]
-[ns]怜の親戚Ａ[nse]
-「おっ、おま、おま゛ぇは……いけに゛えとして、[r]
-　てき゛にん、なんだぞぉ……」[pcms]
+[ns]Sato's Relative A[nse]
+"You... you are a sacrifice, a necessary person..."[pcms]
 
 *751|
 [fc]
-[ns]怜の親戚Ｂ[nse]
-「や、やわらか゛で……すべ、す゛べで……。[r]
-　くっ……くって、しまいたい゛、ぐら、い……だ……」[pcms]
+[ns]Sato's Relative B[nse]
+"So soft and slippery... I almost want to eat you up..."[pcms]
 
 *752|
 [fc]
 [vo_sat s="sato0105"]
-[ns]怜[nse]
-「ぎっ……あぎいぃっ！　そっ、そんな強引なのっ……！[r]
-　ひいぃいっ！」[pcms]
+[ns]Sato[nse]
+"Gah... agyii! So forceful...! Eeeek!"[pcms]
 
 *753|
 [fc]
-怜の身体はへし折られる寸前まで曲げられ、[r]
-男の手によって押さえつけられている。[pcms]
+Sato's body was bent almost to breaking point and held down by a man's[r]
+hand.[pcms]
 
 *754|
 [fc]
-なのに……。[r]
-普段からの訓練のたまものか、[r]
-怜は、まだ意識を保つ事が出来ていた。[pcms]
+Yet... Perhaps due to her usual training, Sato was still able to[r]
+maintain consciousness.[pcms]
 
 *755|
 [fc]
-彼女にとってそれは、望ましいことでは無かった。[pcms]
+For her, this was not a desirable thing.[pcms]
 
 *756|
 [fc]
-怜の身体に、沢山の親類縁者の手が伸びる。[r]
-周りを取り囲む他の者も、怜の身体へ情念を向ける。[pcms]
+Many hands of relatives reached for Sato's body. Others surrounding[r]
+her also directed their passions towards her body.[pcms]
 
 *757|
 [fc]
-そんな中、怜は一人『正気』を保ち、[r]
-『狂気』から逃れようとしていたのだ。[pcms]
+In the midst of this, Sato alone maintained her "sanity", trying to[r]
+escape from the "madness".[pcms]
 
 *758|
 [fc]
-寧ろ、彼ら同様に墜ちてしまえば怜も楽だっただろう。[r]
-しかし、神の見守るこの場で、神は怜を見捨ててしまっていた。[pcms]
+Rather, it would have been easier for Sato to fall like them. However,[r]
+in this place watched over by the gods, the gods had abandoned Sato.[pcms]
 
 *759|
 [fc]
-[ns]怜の兄[nse]
-「さっ……さどぉ……！　お、おれ゛……」[pcms]
+[ns]Sato's brother[nse]
+"Sato...! I..."[pcms]
 
 *760|
 [fc]
-喉に穴の開いた様な声を上げ、[r]
-一人の男が無数の男達をかき分け、怜に近づいていく。[pcms]
+A man with a voice as if there was a hole in his throat pushed through[r]
+the multitude of men and approached Sato.[pcms]
 
 *761|
 [fc]
 [vo_sat s="sato0106"]
-[ns]怜[nse]
-「に、兄さん……？　助けてっ！　兄さんっ！」[pcms]
+[ns]Sato[nse]
+"Brother...? Help me! Brother!"[pcms]
 
 ;//◆演出メモ：他と整合性あうかな　兄さん
 
 *762|
 [fc]
-怜の叫びは『兄』にはもう、届かない。[r]
-この場にいる男達は、全て……。[pcms]
+Sato's cry no longer reached her "brother". All the men here...[pcms]
 
 *763|
 [fc]
-怜以外は、全て、狂気のウィルスによって支配され、[r]
-神の加護を離れてしまっていたからだ。[pcms]
+Except for Sato, all were dominated by the virus of madness, having[r]
+strayed from divine protection.[pcms]
 
 *764|
 [fc]
-[ns]怜の兄[nse]
-「はあっ……あぁ……い、いつも、レオタード……で、[r]
-　おれのこと、ちょうはつしやがって……。[r]
-　あんなの、みせられたら、おれ……がまんできなくて……」[pcms]
+[ns]Sato's brother[nse]
+"Haah... ah... you always teased me with that leotard... I can't stand[r]
+it after seeing that..."[pcms]
 
 *765|
 [fc]
-神の加護を失った彼の目は悪鬼のごとく赤く光り、[r]
-無残に開かれた少女の割れ目へと吸い込まれていった。[pcms]
+The eyes of him who had lost divine protection shone red like a[r]
+demon's and were drawn into the girl's cruelly exposed slit.[pcms]
 
 ;//◆演出メモ：クンニ差分
 [evcg storage="sato_H001b"][trans_c cross time=300]
@@ -236,150 +226,136 @@
 *766|
 [fc]
 [vo_sat s="sato0107"]
-[ns]怜[nse]
-「いっ……イヤっ！　何するの兄さんっ！　駄目っ！[r]
-　汚いっ！　やめてぇっ！　みんな見てるっ！　やめてぇっ！」[pcms]
+[ns]Sato[nse]
+"No... No! What are you doing brother! Stop it! It's dirty! Stop it![r]
+Everyone is watching! Stop it!"[pcms]
 
 *767|
 [fc]
-[ns]怜の兄[nse]
-「おっ、おまえが、わるいんだ、さとっ！[r]
-　いつも、ぴったりしたマンコみせつけてっ！　おれのこと、[r]
-　さそってただろっ！」[pcms]
+[ns]Sato's brother[nse]
+"It's your fault, Sato! Always showing off your tight pussy! You were[r]
+tempting me!"[pcms]
 
 *768|
 [fc]
-[ns]怜の兄[nse]
-「すわれたかったんだろ！　おれにっ！[r]
-　おれのくちで、イカされたかったんだろっ！[r]
-　じゅっ……じゅぶっ！　じゅるるるっっ！」[pcms]
+[ns]Sato's brother[nse]
+"You wanted to be eaten by me! You wanted me to make you cum with my[r]
+mouth! Jup... jubu! Juruuruu!"[pcms]
 
 [evcg storage="sato_H001c"][trans_c cross time=300]
 
 *769|
 [fc]
 [vo_sat s="sato0108"]
-[ns]怜[nse]
-「ひっ……ひいいいっ！　駄目ぇっ！　やめっ……ふあっ！」[pcms]
+[ns]Sato[nse]
+"Eeeek! No! Stop... fuah!"[pcms]
 
 *770|
 [fc]
-[ns]怜の兄[nse]
-「だめじゃないだろっ！　こうされたかったクセに！[r]
-　きもちいいって、いえよっ！　おれのこと、すきだって……。[r]
-　さとっ！　おまえのからだは、おれのものなんだぞっ！」[pcms]
+[ns]Sato's brother[nse]
+"It's not wrong! You wanted this to happen! Say it feels good! Say you[r]
+love me... Sato! Your body belongs to me!"[pcms]
 
 *771|
 [fc]
-怜の兄は、たどたどしくも荒い口調で、[r]
-柔らかな毛を鼻でかき分けながら、薄桃色をした割れ目に[r]
-唇や舌を乱暴に擦りつけた。[pcms]
+Sato's brother, while speaking in a rough and faltering tone, roughly[r]
+rubbed his lips and tongue against the soft, peach-colored slit,[r]
+parting the soft hair with his nose.[pcms]
 
 *772|
 [fc]
-自分勝手な欲望をぶつける男の口と、[r]
-恐怖に眉を歪めながらも、ただそれを受け続けるしかない少女。[r]
-相容れない二人を、薄桃色の光が無情に照らす。[pcms]
+The man's selfish desires clashed with the girl who, despite her fear-[r]
+distorted eyebrows, had no choice but to endure.[pcms]
 
 *773|
 [fc]
-[ns]怜の兄[nse]
-「んぶっ……じゅっ……れろぉっ！[r]
-　しょ、ションベンのあじっ……さとの、[r]
-　しょんべんのあじだっ！　んんんっ！」[pcms]
+[ns]Sato's brother[nse]
+"Nn... slurp... lick! The taste of pee... Sato's pee taste... mmm!"[pcms]
 
 *774|
 [fc]
-男は真顔のまま、下卑た言葉を呟き、[r]
-一心不乱に股間に舌を押し当て、這いずり回す。[pcms]
+The man, with a serious face, muttered depraved words and pressed his[r]
+tongue frantically against her crotch, crawling around.[pcms]
 
 *775|
 [fc]
 [vo_sat s="sato0109"]
-[ns]怜[nse]
-「ひぁぁあっ！　んっ……はああっ！　やぁっ！」[pcms]
+[ns]Sato[nse]
+"Eeeek! Ah... haaah! Nooo!"[pcms]
 
 *776|
 [fc]
 [vo_sat s="sato0110"]
-[ns]怜[nse]
-「バカぁっ！　どうしてこんな事するの！？[r]
-　止めてよっ！　兄さんっ……ううっ……ぐすっ……！[r]
-　ひっ……やぁっ！　舌いれないでぇっ！　気持ち悪いぃっ！」[pcms]
+[ns]Sato[nse]
+"Idiot! Why are you doing this!? Stop it! Brother... ugh... sob...![r]
+Hic... nooo! Don't put your tongue there! It's disgusting!"[pcms]
 
 *777|
 [fc]
-悲鳴を上げる少女の股間から、[r]
-ゆっくりと赤い舌が引き抜かれる。[r]
-すると、細く粘る唾液の糸が、二人の間に伝っていく。[pcms]
+As Sato screamed, a red tongue slowly withdrew from her crotch. Then,[r]
+a thin thread of saliva stretched between them.[pcms]
 
 *778|
 [fc]
-夏の朝、目覚めだした虫が少しずつ声を上げ出す頃、[r]
-怜の股間は、男の唾液とはまた別の液体によって、[r]
-ヌラヌラとした淫靡な光を放ちだした。[pcms]
+In the early summer morning, as the waking insects began to chirp,[r]
+Sato's crotch began to emit a lewd, glistening light from a liquid[r]
+different from the man's saliva.[pcms]
 
 *779|
 [fc]
-[ns]怜の兄[nse]
-「あぁ……も、もう……ぬれてるじゃないか……。[r]
-　やっぱり、おまえは、おれのことすきなんだ……。[r]
-　だから、こんなにぬれるんだろっ……？」[pcms]
+[ns]Sato's brother[nse]
+"Ah... you're already wet... You must like me after all... That's why[r]
+you're so wet, right...?"[pcms]
 
 *780|
 [fc]
 [vo_sat s="sato0111"]
-[ns]怜[nse]
-「やっ！　何言ってるの！？　そんなの違うっ！[r]
-　兄さん、変だよっ！？　みんなも、おかしいよっ！[r]
-　こんなのやめっ……ひっ……ひううぅっ！？」[pcms]
+[ns]Sato[nse]
+"No! What are you saying!? That's not true! Brother, you're acting[r]
+strange! Everyone is acting strange! Stop this... hic... hiiii!?"[pcms]
 
 *781|
 [fc]
-男は、怜の悲鳴を聞くと、満足げな笑みを浮かべ、[r]
-再び股間に吸い付きだした。[pcms]
+Upon hearing Sato's screams, the man smiled contentedly and once again[r]
+began to suck on her crotch.[pcms]
 
 *782|
 [fc]
-[ns]怜の兄[nse]
-「やわらかい……こんなに、やわらかいんだ、マンコ……。[r]
-　ヌルヌルしてて、うねうねうごいて、いやらしい……。[r]
-　あぁ、こんなのにいれたら、おれ……」[pcms]
+[ns]Sato's brother[nse]
+"So soft... your pussy is so soft... It's slippery and writhing, so[r]
+lewd... Ah, if I put it in here, I..."[pcms]
 
 *783|
 [fc]
-[ns]怜の兄[nse]
-「お、おまえのこと、かんがえて……。[r]
-　しょっちゅうセンズリしてた……。[r]
-　レオタードきた、おまえによくじょうして……」[pcms]
+[ns]Sato's brother[nse]
+"Thinking of you... I've been jerking off constantly... I've been[r]
+fantasizing about you in that leotard..."[pcms]
 
 *784|
 [fc]
-[ns]怜の兄[nse]
-「むりだっておもってた……だけど、いま……、[r]
-　それがかなうんだっ！　レオタードじゃないが、[r]
-　さとは、さとだっ！　いっ、いれるっ……いれるぞぉっ！」[pcms]
+[ns]Sato's brother[nse]
+"I thought it was impossible... but now... it can come true! It's not[r]
+the leotard, but it's still you, Sato! I'm going to put it in... I'm[r]
+going to put it in!"[pcms]
 
 ;//◆演出メモ：ここでクンニ差分ＯＦＦにすべきか
 [evcg storage="sato_H001a"][trans_c cross time=300]
 
 *785|
 [fc]
-怜の兄は股間から口を離し、立ち上がると、[r]
-張り裂けそうになっている男性器を手に持ち、[r]
-見せつけるように振った。[pcms]
+Sato's brother stood up from her crotch and, holding his engorged dick[r]
+in his hand, waved it as if to show it off.[pcms]
 
 *786|
 [fc]
-堅くそそり立つ男性器に、怜は恐怖した。[r]
-あまりの大きさと、その兄の背後に立つ人物の行動に対してだ。[pcms]
+Sato was terrified of the erect dick and the actions of the person[r]
+standing behind her brother.[pcms]
 
 *787|
 [fc]
-[ns]怜の父親[nse]
-「ばか゛も゛のぉっ！　お゛やを、さしおいて、[r]
-　そのような゛こ、ことっ……かっ、かみ゛が、[r]
-　ゆるす゛と、おも゛ってかっ！　の゛けぃいいっ！」[pcms]
+[ns]Sato's father[nse]
+"You fool! How dare you ignore your father and do such a thing... Do[r]
+you think God will forgive this!? Get out of my sight!"[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -390,50 +366,43 @@
 
 *788|
 [fc]
-[ns]怜の兄[nse]
-「ぐっ……あっ！　くそっ……くそ、おやじいいっ！」[pcms]
+[ns]Sato's brother[nse]
+"Ugh... ah! Damn it... damn you, old man!"[pcms]
 
 *789|
 [fc]
 [vo_sat s="sato0112"]
-[ns]怜[nse]
-「あ……あぁ……お父さん……何……？　何……」[pcms]
+[ns]Sato[nse]
+"Ah... ah... Father... what...? What..."[pcms]
 
 *790|
 [fc]
-怜の目の前で、[r]
-肉親が自分を求め、醜く争っている。[pcms]
+In front of Sato, her relatives were grotesquely competing for her.[pcms]
 
 *791|
 [fc]
-周りを取り囲む恐怖と、[r]
-肉親が異常な行動を取ること。[pcms]
+The surrounding terror and the abnormal behavior of her relatives.[pcms]
 
 *792|
 [fc]
-それを目の当たりにした怜は、[r]
-ただ怯え、身体を震わせることしか出来ない。[pcms]
+All Sato could do was tremble in fear as she witnessed this.[pcms]
 
 *793|
 [fc]
-おそらく、怜は心の中で神に祈り続けているのだろう。[r]
-しかしその神が見つめる前、彼女はさらなる地獄へと、[r]
-突き落とされていく。[pcms]
+Perhaps Sato was praying to God in her heart. But before the eyes of[r]
+that God, she was being pushed further into hell.[pcms]
 
 *794|
 [fc]
-[ns]怜の父親[nse]
-「わ、わし゛が、そだてた゛のだぁっ！[r]
-　まな゛むすめ゛の、じゅん゛け、つ、は……わし゛の、ものっ！[r]
-　そ、そうだ、ろう゛……さと゛ぉぉ……」[pcms]
+[ns]Sato's father[nse]
+"I raised you! Your pureness is mine! That's right... Sato..."[pcms]
 
 *795|
 [fc]
 [vo_sat s="sato0113"]
-[ns]怜[nse]
-「ひっ……お父さんっ！　だっ……んぎいいいっ！[r]
-　痛いっ……痛いぃいっ！　は、入るわけないっ！[r]
-　止めてぇっ！　お父さんっ！　いやぁぁぁっ！！」[pcms]
+[ns]Sato[nse]
+"Hic... Father! It hurts! It hurts so much! There's no way it can fit![r]
+Stop it! Father! Noooo!!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -443,25 +412,24 @@
 
 *796|
 [fc]
-[ns]怜の父親[nse]
-「は、はいらない、わ゛け、が、ないだろう！[r]
-　わ、わし゛が、そだて゛だのだっ！[r]
-　こっ……このっ！　ぐごおおおっ！！！」[pcms]
+[ns]Sato's father[nse]
+"There's no way it won't fit! I raised you! This... this![r]
+Grrraaahhh!!!"[pcms]
 
 *797|
 [fc]
-御神木の元、玉砂利が擦れる音に混ざり、[r]
-怜が悲鳴を上げる。[pcms]
+Amidst the sound of gravel under the sacred tree, Sato screamed.[pcms]
 
 *798|
 [fc]
-それとほぼ同時に、その股間から血と僅かな液体が飛び散り、[r]
-ゴムが千切られるような鈍い音があたりに響き渡る。[pcms]
+Almost simultaneously, blood and a small amount of fluid splattered[r]
+from her crotch, and a dull sound like that of rubber being torn[r]
+echoed around.[pcms]
 
 *799|
 [fc]
-怜の女性器はほんの僅かな抵抗をしただけで、[r]
-すぐに父親の侵入を許してしまったのだ。[pcms]
+With only a slight resistance, Sato's pussy quickly allowed her[r]
+father's intrusion.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -473,132 +441,123 @@
 *800|
 [fc]
 [vo_sat s="sato0114"]
-[ns]怜[nse]
-「ぎううっ！？　がっ……はっ……あ、あがぁっ……。[r]
-　んぎぃいいいっ！　いだいいいいいぃいぃぃっ！！[r]
-　んぎぃああぁぁぁっっ！！」[pcms]
+[ns]Sato[nse]
+"Gyaaa!? Ahh... hah... agaaah... Ngyiiiiii!! It hurts so much!![r]
+Ngyaaaahhhh!!"[pcms]
 
 *801|
 [fc]
-怜の目から、絶望と屈辱、そして恐怖に塗れた涙が溢れ、[r]
-赤に染まった頬を伝う。[pcms]
+Tears of despair, humiliation, and fear overflowed from Sato's eyes,[r]
+streaming down her blood-stained cheeks.[pcms]
 
 *802|
 [fc]
-[ns]怜の父親[nse]
-「お゛あぁ゛……ま、まるで、おま、えの、かあさ゛んの、[r]
-　よう、だぁ……だき゛ご、こち……そっ、く゛り……。[r]
-　しかし……し、しまり゛は、おまえの、ほうが、うえだっ！」[pcms]
+[ns]Sato's father[nse]
+"Ohh... just like your mother... your tightness... but your tightness[r]
+is even better than hers!"[pcms]
 
 *803|
 [fc]
 [vo_sat s="sato0115"]
-[ns]怜[nse]
-「がっ……んぎいっ……あ、があっ……あぎいっ……」[pcms]
+[ns]Sato[nse]
+"Gah... ngyii... ah, gaaah... agyii..."[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
 
 *804|
 [fc]
-[ns]怜の父親[nse]
-「わ、わし゛は……ずっ、と……ひとり゛……。[r]
-　おんな゛のはだ、など……わすれる、と、ころ、だったっ！[r]
-　だ、だが、さとっ！　おまえが、あい、てで、よかったぁっ！」[pcms]
+[ns]Sato's father[nse]
+"I've been alone for so long... I had almost forgotten the touch of a[r]
+woman. But Sato! You were the right one for me!"[pcms]
 
 *805|
 [fc]
-[ns]怜の父親[nse]
-「お゛ぉおっ……、おま、えの、オマンコ゛は、し、しまりが……[r]
-　よす゛ぎるぞっ……わし゛は……こら゛え、きれんっ！[r]
-　うごおおぉおっ！　おお゛お゛お゛お゛っ！」[pcms]
+[ns]Sato's father[nse]
+"Ohhh... your pussy is too tight... I can't hold back any longer![r]
+Moveee! Oooohhh!!"[pcms]
 
 *806|
 [fc]
-怜の顔面の前で、[r]
-父親の男性器が血や体液をかき出しながら、[r]
-荒々しく出入りする。[pcms]
+In front of Sato's face, her father's dick violently thrust in and[r]
+out, covered in blood and bodily fluids.[pcms]
 
 *807|
 [fc]
-生まれて初めて異性の侵入を受けた怜は、[r]
-恐怖と屈辱に、ただ身体を震わせるだけだった。[pcms]
+Experiencing the invasion of the opposite sex for the first time, Sato[r]
+could only tremble in fear and humiliation.[pcms]
 
 [evcg storage="sato_H001f"][trans_c cross time=300]
 
 *808|
 [fc]
 [vo_sat s="sato0116"]
-[ns]怜[nse]
-「あ……あ……んぎいいっ……あぁ……」[pcms]
+[ns]Sato[nse]
+"Ah... ah... ngyiiii... ahh..."[pcms]
 
 *809|
 [fc]
-涙に濡れた頬に、粘り着く半透明の赤い体液が降り注ぐ中、[r]
-怜はただ、小さく呻くだけ。[r]
-この場から逃げ出すことも出来ず。[pcms]
+As translucent red bodily fluids dripped down her tear-soaked cheeks,[r]
+Sato could only moan softly, unable to escape from the situation.[pcms]
 
 *810|
 [fc]
-[ns]怜の父親[nse]
-「ぐうぅ……こ、この、ま、ま、なん゛ねんも、たまった、[r]
-　せいえきを、おま、おまえの、な゛かに、だし、てやるっう！[r]
-　こっ、こぼす、なよっ……さと゛っ！」[pcms]
+[ns]Sato's father[nse]
+"Grrr... I'm going to release all the semen that I've saved up for[r]
+years inside you! Don't spill any of it... Sato!"[pcms]
 
 [evcg storage="sato_H001g"][trans_c cross time=300]
 
 *811|
 [fc]
 [vo_sat s="sato0117"]
-[ns]怜[nse]
-「ひっ……ひいぃっ！　あっ、あがっ！　ぎっ……ああぁっ！[r]
-　お父さん！　いたいっ！　いだいよおおっ！[r]
-　んぎぁあぁっ！　あがっ……ああぁっ！！」[pcms]
+[ns]Sato[nse]
+"Hii... hiiii! Ah, agah! Gii... ahhh! Dad! It hurts! It's so painful![r]
+Ngyahhh! Agah... ahhh!!"[pcms]
 
 *812|
 [fc]
-怜の父親の腰は激しさを増し、肌と肌のぶつかり合う乾いた音と、[r]
-粘液が絡みつく湿った音が交互に飛び出し、[r]
-虫や玉砂利の音をかき消すほど、大きくなっていく。[pcms]
+The intensity of Sato's father's hips increased, the dry sound of skin[r]
+slapping against skin and the wet sound of mucus intertwining[r]
+alternated, drowning out the noise of insects and gravel, growing[r]
+louder.[pcms]
 
 *813|
 [fc]
 [vo_sat s="sato0118"]
-[ns]怜[nse]
-「あがっ……あっ！　あぐっ……ああぁっ！　あがぁあっ！」[pcms]
+[ns]Sato[nse]
+"Agah... ah! Aguh... ahhh! Agaahhh!"[pcms]
 
 *814|
 [fc]
-柔らかな怜の肉体が、衝撃に揺れ、[r]
-その反動で父の腰の動きが加速していく。[pcms]
+The soft flesh of Sato trembled with the impact, and the recoil[r]
+accelerated her father's hip movements.[pcms]
 
 *815|
 [fc]
-まるで暴走した機関車の様な父の動きによって、[r]
-激しく掻き出される体液は湯気を放ちながら、[r]
-怜の顔に雨の様に降り注いでいく。[pcms]
+Like a runaway locomotive, her father's movements violently expelled[r]
+bodily fluids, which steamed as they rained down on Sato's face like a[r]
+downpour.[pcms]
 
 *816|
 [fc]
-それを避ける事も出来ないまま、[r]
-怜はただ、呻き声を上げていた。[pcms]
+Unable to avoid it, Sato could only moan.[pcms]
 
 *817|
 [fc]
-[ns]怜の父親[nse]
-「はっ……あぁ゛ぁ゛ぁ！　だ、だす、ぞっ！[r]
-　おっ……おおおお゛お゛お゛おッ！」[pcms]
+[ns]Sato's father[nse]
+"Hah... ahhhh! I'm going to release it! Oh... oooohhhhh!"[pcms]
 
 *818|
 [fc]
 [vo_sat s="sato0119"]
-[ns]怜[nse]
-「やっ！　駄目っ！　止めてぇぇっ！」[pcms]
+[ns]Sato[nse]
+"No! Stop it! Please stop!"[pcms]
 
 *819|
 [fc]
-漸く、怜の悲鳴は意味をなすものになった。[r]
-しかし……それと同時に、彼女の身体に絶望が注ぎ込まれる。[pcms]
+Finally, Sato's screams became coherent. However... at the same time,[r]
+despair was poured into her body.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -613,110 +572,106 @@
 
 *820|
 [fc]
-[ns]怜の父親[nse]
-「お゛おぉ……あ……あぁ゛～……なんねん゛ぶり……か……。[r]
-　やは゛り……おんな、のなか゛に、だすのは、さ、さいこう゛、[r]
-　さい゛こうだな……」[pcms]
+[ns]Sato's father[nse]
+"Ohh... ah... ahhh~... how many years has it been... Indeed...[r]
+releasing inside a woman is the best, the very best..."[pcms]
 
 *821|
 [fc]
 [vo_sat s="sato0120"]
-[ns]怜[nse]
-「あ……あぁ……とっ、止め……止めてっ……やっ……あぁ、[r]
-　止めてぇぇっ！！　お腹の中……溢れちゃうううっ！[r]
-　あああぁぁあぁあぁあぁっ！！！！」[pcms]
+[ns]Sato[nse]
+"Ah... ahh... stop, please stop... no... ahh, please stop!! It's[r]
+overflowing inside my belly... ahhhhh!!!"[pcms]
 
 *822|
 [fc]
-父親は、怜の中で果てた。[r]
-しかし、その脈動は治まる事なく、[r]
-怜の腹の奥でうごめき続けている。[pcms]
+Sato's father finished inside her. However, the pulsing did not[r]
+subside and continued to wriggle deep within Sato's belly.[pcms]
 
 *823|
 [fc]
-よほど大きく動き、大量の精液を拭きだし続けているのだろう。[r]
-男性器を銜え込んだ膣の入り口からは泡だった精液が溢れだし、[r]
-怜の腹は、納められた父親の形をありありと浮き上がらせていた。[pcms]
+He must have moved greatly and continued to expel a large amount of[r]
+semen. From the entrance of the vagina that engulfed the male organ,[r]
+frothy semen overflowed, and Sato's belly clearly revealed the shape[r]
+of her father's deposit.[pcms]
 
 [evcg storage="sato_H001i"][trans_c cross time=300]
 
 *824|
 [fc]
 [vo_sat s="sato0121"]
-[ns]怜[nse]
-「あ……あぁ……あ……あ……」[pcms]
+[ns]Sato[nse]
+"Ah... ahh... ah... ah..."[pcms]
 
 *825|
 [fc]
-怜は、再び言葉を失い、呻く。[r]
-涙の溢れる目は見開かれたまま、[r]
-登りゆく太陽をただ見つめている。[pcms]
+Sato lost her words again and moaned. Her tear-filled eyes remained[r]
+wide open, simply staring at the rising sun.[pcms]
 
 *826|
 [fc]
-無理も無い。[pcms]
+It's no wonder.[pcms]
 
 *827|
 [fc]
-異常な集団に突如として襲われ、[r]
-その大切な初めて“もの”を、[r]
-肉親によって強引に奪われてしまったのだから。[pcms]
+Having been suddenly attacked by an abnormal group, her precious first[r]
+time was forcibly taken by a blood relative.[pcms]
 
 *828|
 [fc]
-樹齢何百年にもなろう御神木の元。[r]
-怜は、あまりの衝撃を受け、伝い落ちる精液を避ける事もなく、[r]
-ただ小刻みに身体を震わせ、見つめていた。[pcms]
+Under the ancient sacred tree that could be hundreds of years old,[r]
+Sato was so shocked that she didn't even try to avoid the dripping[r]
+semen, just trembling slightly as she stared.[pcms]
 
 *829|
 [fc]
-怜の悲鳴は全て木々が吸収し、静まりかえる境内の中、[r]
-御神木は何も言わぬまま、震える怜を見下ろす。[pcms]
+All of Sato's screams were absorbed by the trees, and in the quiet[r]
+shrine grounds, the sacred tree looked down on the trembling Sato[r]
+without saying anything.[pcms]
 
 *830|
 [fc]
-その御神木の元、怜の父親は胎内に納められた男性器を、[r]
-ゆっくりと抜き、満足げに微笑んだ。[pcms]
+At the foot of that sacred tree, Sato's father slowly pulled out his[r]
+male organ that had been deposited inside her and smiled contentedly.[pcms]
 
 ;//◆演出メモ：男性ＯＦＦ
 
 *831|
 [fc]
-[ns]怜の父親[nse]
-「あ゛ぁ……お、おさま゛ったぁ……。[r]
-　ま、ま゛た……た、たの゛む……さとぉ……」[pcms]
+[ns]Sato's father[nse]
+"Ahh... it has subsided... I'll want you again... Sato..."[pcms]
 
 *832|
 [fc]
-時間を掛け、胎内“その中”を味わうようにして引き抜いた男性器は、[r]
-怜の身体の中に残された精液を、引き連れ、外へと顔を出した。[pcms]
+Taking his time to savor the inside of her womb as he pulled out, the[r]
+male organ that had been inside Sato brought with it the semen left in[r]
+her body as it emerged.[pcms]
 
 *833|
 [fc]
-血や、愛液の混ざる精液が、[r]
-怜の丸く柔らかい身体の上を伝い落ちていく。[pcms]
+The semen mixed with blood and love juices trailed down over Sato's[r]
+round and soft body.[pcms]
 
 *834|
 [fc]
-白い肌を、白濁と自らの血が汚していく様を見て、[r]
-怜は更に言葉を失ってしまっていた。[pcms]
+Seeing her white skin stained with cloudy semen and her own blood,[r]
+Sato lost even more words.[pcms]
 
 *835|
 [fc]
-御神木が見つめる元、[r]
-怜の呆然とした顔に太陽の光が当たり出した。[pcms]
+Under the gaze of the sacred tree, sunlight began to fall on Sato's[r]
+stunned face.[pcms]
 
 *836|
 [fc]
-白い肌を桃色に染めた肌に、[r]
-またしても、男の欲望が向けられる。[pcms]
+The skin that had been dyed peach by the sun was once again subjected[r]
+to male desire.[pcms]
 
 *837|
 [fc]
-[ns]怜の兄[nse]
-「おっ、おれだっ！　つぎこそ、おれだっ！[r]
-　くそおやじにさきをこされたけど、[r]
-　おれだって、なかにだしたかったんだっ！　さとっ！」[pcms]
+[ns]Sato's brother[nse]
+"It's my turn now! Next is definitely me! I was beaten by that damn[r]
+old man, but I wanted to release inside too! Sato!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -726,223 +681,209 @@
 
 *838|
 [fc]
-それはまた、突然の事だった。[r]
-喘ぎ続ける怜に、二人目の男……。[pcms]
+It happened suddenly again. A second man... Sato's brother loomed over[r]
+her still gasping form.[pcms]
 
 *839|
 [fc]
-彼女の、兄が覆い被さり、[r]
-精液に塗れた女性器に勢いよく欲棒を突き入れたのだ。[pcms]
+He thrust his eager dick forcefully into her semen-coated pussy.[pcms]
 
 *840|
 [fc]
 [vo_sat s="sato0122"]
-[ns]怜[nse]
-「あ！　ああぁっ！　ま、またああっ！！　んあぁあっ！[r]
-　も、もうイヤだあっっ！　こんなの、イヤぁあっ！[r]
-　兄さんっ！　イヤあぁあっっ！」[pcms]
+[ns]Sato[nse]
+"Ah! Ahhh! Not again! Ngyahhh! I can't take it anymore! I hate this![r]
+Brother! I hate it!!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
 
 *841|
 [fc]
-[ns]怜の兄[nse]
-「おおあぁあぁっ……す、すっげぇぇ……こ、これが、さとの……[r]
-　お、オマンコ……お、おれ、これで、どうてい、なくなったぁ。[r]
-　おおおっ……あぁぁっすげぇぇっ……」[pcms]
+[ns]Sato's brother[nse]
+"Ohhh... wow... this is... Sato's pussy... with this, I've lost my[r]
+virginity. Ohhh... ahhh amazing..."[pcms]
 
 *842|
 [fc]
 [vo_sat s="sato0123"]
-[ns]怜[nse]
-「もう、いやぁ……あぁ……こんなの、酷すぎるよ……」[pcms]
+[ns]Sato[nse]
+"I can't take it anymore... ah... this is too cruel..."[pcms]
 
 *843|
 [fc]
-つい今し方処女を失った怜は、[r]
-既に裂けて血が滲む怜の女性器は、[r]
-休む間もなく兄による二度目の進入を受けてしまった。[pcms]
+Having just lost her virginity moments ago, Sato's pussy was already[r]
+torn and bleeding. Without any respite, it was subjected to a second[r]
+penetration by her brother.[pcms]
 
 *844|
 [fc]
-血に染まった柔らかな恥丘や、[r]
-まだ固い怜の女性器は既に限界を超えてしまっている。[pcms]
+The soft mound stained with blood and her still firm pussy had already[r]
+surpassed their limits.[pcms]
 
 *845|
 [fc]
-なのに、怜の兄は全く気にすることもなく、[r]
-滾り、あふれかえる情念をただひたすらに打ち込んでいた。[pcms]
+Yet, Sato's brother didn't care at all and just kept pounding his[r]
+surging passion into her relentlessly.[pcms]
 
 *846|
 [fc]
-[ns]怜の兄[nse]
-「すげっ！　すげえぇ！　やっ、やっぱり、おもってたとおりっ！[r]
-　オナるより、ぜんぜんいいっ！　さとのオマンコは、[r]
-　さいこうだった！　こっ、こしがとめられないっ！」[pcms]
+[ns]Sato's brother[nse]
+"Amazing! So amazing! As I thought, it's way better than masturbating![r]
+Sato's pussy is the best! I can't stop my hips!"[pcms]
 
 *847|
 [fc]
-始めて異性に触れる、若い男性器が荒々しくかき回すと、[r]
-飽和した狭い通路が悲鳴を上げ、同じく狭い入り口の門からは、[r]
-体液が噴き出していく。[pcms]
+The young dick touching a woman for the first time stirred violently[r]
+inside her, causing the saturated narrow passage to scream out. From[r]
+the tight entrance gate, bodily fluids spurted out.[pcms]
 
 *848|
 [fc]
 [vo_sat s="sato0124"]
-[ns]怜[nse]
-「ぎぃいっ……ひっ……あっ……あがぁっ……」[pcms]
+[ns]Sato[nse]
+"Gyiiii... hii... ah... agahhh..."[pcms]
 
 [evcg storage="sato_H001k"][trans_c cross time=300]
 
 *849|
 [fc]
-[ns]怜の兄[nse]
-「だっ、だめだぁ！　オマンコが、こんなにいいなんてぇっ！[r]
-　て、てでするのと、ぜんぜんちがうじゃねえかっ！[r]
-　こしのちからが……ぬけそうだぁっ！」[pcms]
+[ns]Sato's brother[nse]
+"No way! Pussy feels this good?! It's totally different from jerking[r]
+off! My hips are going numb!"[pcms]
 
 *850|
 [fc]
-[ns]怜の兄[nse]
-「おまえのレオタード……それに、みこふく……。[r]
-　ぴったりはりついたぬのをひきさくもうそう……。[r]
-　けがれをしらない、しろいすがた……」[pcms]
+[ns]Sato's brother[nse]
+"Your leotard... and your shrine maiden outfit... The thought of[r]
+tearing off those tightly clinging clothes... Your pure white figure[r]
+that knows no filth..."[pcms]
 
 *851|
 [fc]
-[ns]怜の兄[nse]
-「ずっと、それをかんがえていた……。[r]
-　ずっと、おまえをおかしたいとおもっていたっ！[r]
-　それが、きょうついにかなえられたんだぁっ！」[pcms]
+[ns]Sato's brother[nse]
+"I've always been thinking about this... Always wanted to violate you![r]
+And today, it finally came true!"[pcms]
 
 *852|
 [fc]
-地面に押さえ込まれたままの怜の顔が、[r]
-御神木の元、みるみる歪んでいく。[pcms]
+While being pinned to the ground, Sato's face twisted in agony under[r]
+the sacred tree.[pcms]
 
 *853|
 [fc]
-父の凶行と、それに続く兄の告白。[r]
-周りを取り囲む親族達の好奇の目。[pcms]
+The heinous act of her father, followed by her brother's confession.[r]
+The curious eyes of the surrounding relatives.[pcms]
 
 *854|
 [fc]
-何年もの長い間、共に過ごしていた肉親が。[r]
-信じていた、肉親が。[pcms]
+Her own flesh and blood, with whom she had spent many years. The[r]
+relatives she had trusted.[pcms]
 
 *855|
 [fc]
-あっけなく禁忌を破り、[r]
-そして、少女の始めての印を突き破った。[pcms]
+They easily broke the taboo and pierced through the girl's first mark.[pcms]
 
 *856|
 [fc]
-それら全てが怜の心を揺さぶり、ひび割れを起こさせていく。[pcms]
+All of it shook Sato's heart, causing it to crack and fracture.[pcms]
 
 [evcg storage="sato_H001l"][trans_c cross time=300]
 
 *857|
 [fc]
 [vo_sat s="sato0125"]
-[ns]怜[nse]
-「あぎっ……あがっ……はっ……あぁ……ぎいいっ！[r]
-　にっ、兄さん……そんな……事っ……あがぁっ！[r]
-　さっ、最低っ！　最低ぃいっ！」[pcms]
+[ns]Sato[nse]
+"Agii... aga... ha... ah... gyiii! Bro... brother... such... thing...[r]
+agaa! You're... the worst! The worst!"[pcms]
 
 *858|
 [fc]
-この凶事以前の二人の関係は、[r]
-あっけなく崩れてしまった。[pcms]
+The relationship between the two before this atrocious event had[r]
+crumbled away effortlessly.[pcms]
 
 *859|
 [fc]
-怜の望んでいた理想の家族は、音を立てて崩壊していく。[r]
-目に見えぬ、空気に紛れたウィルスによって……。[pcms]
+Sato's ideal family that she longed for was collapsing with a noise,[r]
+like a virus invisible to the eye and lost in the air.[pcms]
 
 *860|
 [fc]
-[ns]怜の兄[nse]
-「くっ……こ、こんなに、きもちいい、にくのあな……。[r]
-　こんなのもってる、いもうと……もっと……ううぅっ！[r]
-　もっとはやく、こうしていればよかったっ！」[pcms]
+[ns]Sato's brother[nse]
+"Damn... such a good feeling, this meat hole... My sister who has[r]
+this... more... uuuu! I should have done this much sooner!"[pcms]
 
 *861|
 [fc]
-[ns]怜の兄[nse]
-「ずっと、がまんしてたんだぞっ！　おまえ……をっ！[r]
-　まいにち、なっ……なかだし、してればよかったぁっ！[r]
-　きょう、それをしてやるぞっ！　おやじ、みたいになっ！」[pcms]
+[ns]Sato's brother[nse]
+"I've been holding back for so long! You...! Every day, I should[r]
+have... should have come inside you! Today, I'll do just that! Just[r]
+like dad!"[pcms]
 
 *862|
 [fc]
 [vo_sat s="sato0126"]
-[ns]怜[nse]
-「ひっ……ダメえっ！　どうして……これは……、[r]
-　夢なら覚めてっ！　兄さんも、みんなも……、[r]
-　目を覚ましてぇえっ！」[pcms]
+[ns]Sato[nse]
+"Hii... No! Why... this is... if it's a dream, wake up! Brother,[r]
+everyone... wake up!"[pcms]
 
 *863|
 [fc]
-怜は獣たちの中、声を張り上げ、叫んだ。[pcms]
+Sato screamed out loud among the beasts.[pcms]
 
 *864|
 [fc]
-聞く耳を持たぬ、欲望の塊と、[r]
-物言わぬ御神木の前で。[pcms]
+In front of the silent sacred tree and the mass of desire that had no[r]
+ears to listen.[pcms]
 
 *865|
 [fc]
-怜の目からは涙があふれ続け、止まらない。[r]
-血に塗れた股間もまた、体液を噴き出させ、止まらない。[pcms]
+Tears continued to overflow from Sato's eyes, unstoppable. Her crotch,[r]
+smeared with blood, also kept spurting out bodily fluids, unstoppable.[pcms]
 
 *866|
 [fc]
-御神木の見下ろす中、[r]
-少女の絶望と兄の欲望の速度は、加速していくだけだった。[pcms]
+Under the watchful gaze of the sacred tree, the speed of the girl's[r]
+despair and her brother's lust only accelerated.[pcms]
 
 *867|
 [fc]
-[ns]怜の兄[nse]
-「ああぁああっ！　もうダメだっ！　がまんなんか、[r]
-　できるかっ！　こんな……ヌルヌルで、ギュウギュウしめて……[r]
-　お、おまえがわるいんだぞ、さとっ！」[pcms]
+[ns]Sato's brother[nse]
+"Aaaaah! I can't take it anymore! How could I possibly hold back?![r]
+With such a slippery and tight grip... It's your fault, Sato!"[pcms]
 
 *868|
 [fc]
-[ns]怜の兄[nse]
-「おまえの、オマンコがきもちよすぎるんだっ！[r]
-　このまま、おやじみたいに、おくのおくでだしてやるっ！[r]
-　……おやじじゃなくて、おれのこどもをうんでくれ、さとっ！」[pcms]
+[ns]Sato's brother[nse]
+"Your pussy feels too good! I'm going to come deep inside you just[r]
+like dad did... Not dad's child, but bear mine, Sato!"[pcms]
 
 *869|
 [fc]
-兄の皮を被った野獣の叫びが御神木にぶつかり、[r]
-怜の耳に突き刺さる。[pcms]
+The scream of the beast wearing a brother's skin struck the sacred[r]
+tree and pierced Sato's ears.[pcms]
 
 [evcg storage="sato_H001m"][trans_c cross time=300]
 
 *870|
 [fc]
 [vo_sat s="sato0127"]
-[ns]怜[nse]
-「おな、お腹の中でふくらんでっ……！？[r]
-　だっ……だめぇっ！　ダメぇぇっ！[r]
-　中だし、ダメっ！　いやぁああぁっっ！！！」[pcms]
+[ns]Sato[nse]
+"My stomach is swelling up inside...!? No... nooo! No coming inside![r]
+Noooo!!!"[pcms]
 
 *871|
 [fc]
-[ns]怜の兄[nse]
-「うっ……うぉおおおっ！　おっ、おれのきもち！[r]
-　うけとめてくれぇっ！　さとぉぉおおおぉっ！！！」[pcms]
+[ns]Sato's brother[nse]
+"Ugh... uooooo! My feelings... accept them! Sato!!!"[pcms]
 
 [evcg storage="sato_H001n"][trans_c cross time=300]
 
 *872|
 [fc]
 [vo_sat s="sato0128"]
-[ns]怜[nse]
-「いっ……いやぁあああぁぁあぁあぁ―――――ッ！！！」[pcms]
+[ns]Sato[nse]
+"No... noooooo-----!!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -958,50 +899,46 @@
 
 *873|
 [fc]
-絶望の色が強く混ざる悲鳴が、辺りに響き渡る。[pcms]
+A scream tinged with deep despair echoed around.[pcms]
 
 *874|
 [fc]
-だが、この狂気の場に存在する獣達にとって、[r]
-それは寧ろ心地よい旋律。[pcms]
+But for the beasts present in this mad scene, it was a rather pleasant[r]
+melody.[pcms]
 
 [evcg storage="sato_H001p"][trans_c cross time=300]
 
 *875|
 [fc]
-[ns]怜の兄[nse]
-「おっ……おやじ、の、きもち……わっ、わかった……。[r]
-　ぬく、こと……できないっ……オマンコのなか……、[r]
-　からみついて……せいし、すわれるっ……あぁ……」[pcms]
+[ns]Sato's brother[nse]
+"Oh... I understand how dad felt... I can't pull out... Inside the[r]
+pussy... entangled with... semen being accepted... ah..."[pcms]
 
 *876|
 [fc]
-[ns]怜の親戚Ａ[nse]
-「おおおっ！　な、なか゛な、か゛、すばら、しい、[r]
-　みもの゛だったぞ、さ、さとおっ！」[pcms]
+[ns]Sato's Relative A[nse]
+"Oooo! What a magnificent sight, Sato!"[pcms]
 
 *877|
 [fc]
-[ns]怜の親戚Ｂ[nse]
-「よ゛い……いげに、え゛だぁっ……！[r]
-　お゛れ゛たちの、も、うっ゛け゛とれぇっ！」[pcms]
+[ns]Sato's Relative B[nse]
+"Good job... we're proud of you!"[pcms]
 
 *878|
 [fc]
 [vo_sat s="sato0129"]
-[ns]怜[nse]
-「あ……あぁ……やだ、やだ……あぁあ……」[pcms]
+[ns]Sato[nse]
+"Ah... ah no, no more... ahhh..."[pcms]
 
 *879|
 [fc]
-この場に立つ全ての獣たちの興奮は、[r]
-最高潮に達していた。[pcms]
+The excitement of all the beasts present had reached its peak.[pcms]
 
 *880|
 [fc]
-怜を中心にして立っていた男達は、兄妹の演技に[r]
-惜しみない喝采を送りながら男性器を慰める手の動きを速め、[r]
-溜め込んだ欲望を吐き出した。[pcms]
+The men standing around Sato quickened their hand movements as they[r]
+comforted their manhood while giving rousing applause to the sibling's[r]
+act, releasing their pent-up desires.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -1014,50 +951,47 @@
 
 *881|
 [fc]
-獣の中心で身もだえる少女に、[r]
-野獣達の白い欲望が、一斉に降り注ぎ、[r]
-薄桃色に染まった肌を白に戻していく。[pcms]
+In the center of the beasts, the girl writhing in agony was showered[r]
+with their white desires all at once, turning her pink-stained skin[r]
+back to white.[pcms]
 
 *882|
 [fc]
 [vo_sat s="sato0130"]
-[ns]怜[nse]
-「いやぁあああぁああぁぁっっ！！[r]
-　やだあぁぁっっ！　やっ……やああぁぁぁっ！！」[pcms]
+[ns]Sato[nse]
+"No no nooooo!! I don't want thisss! Nooo... noooo!!"[pcms]
 
 *883|
 [fc]
-怜の柔らかく、熱を帯びた肌を、[r]
-大量の白濁が付着し、[r]
-噎せ返るような臭いを辺りに漂わせた。[pcms]
+The large amount of white fluid that clung to Sato's soft, warm skin[r]
+emitted a choking smell that drifted around.[pcms]
 
 *884|
 [fc]
-――だがそれは、獣たちの好物。[pcms]
+--But that was a delicacy for the beasts.[pcms]
 
 *885|
 [fc]
-異様な熱気と、臭気の化粧を施した、[r]
-うら若き少女は、欲望の渦巻く中、[r]
-絶望の表情を浮かべ、すがるような目を御神木に向けた。[pcms]
+In an abnormal heat and stench, the young girl adorned with makeup of[r]
+desire looked up at the silent sacred tree with a face full of despair[r]
+and pleading eyes.[pcms]
 
 *886|
 [fc]
-物言わぬ御神木に向けて。[pcms]
+Towards the silent sacred tree.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *887|
 [fc]
-獣の群れの中心で、[r]
-未だ『人間』を保とうとしていた怜の身体。[pcms]
+In the center of the pack of beasts, Sato's body still tried to retain[r]
+its humanity.[pcms]
 
 *888|
 [fc]
-うら若きその肢体は、無数の手により幾度となく方向を変えられ、[r]
-忌み嫌う獣達に、見られてはならない部分をありありと見せつける[r]
-状態にされてしまっていた。[pcms]
+Her young body was repeatedly redirected by countless hands, exposing[r]
+parts that should not be seen by the detestable beasts in clear view.[pcms]
 
 ;//■イベントCG　mob_H002
 ;//（上半身を地べたに横たえ、尻を上げた状態の後背位。
@@ -1066,54 +1000,50 @@
 
 *889|
 [fc]
-[ns]怜の兄[nse]
-「い、いいかっこうだ……しり……かわいい、しり……。[r]
-　オマンコも、まるみえ……あぁ……、[r]
-　ま、また、いれて……やるぞっ……」[pcms]
+[ns]Sato's brother[nse]
+"You look good like that... cute ass... Your pussy is fully visible...[r]
+ah... I'm going to put it in again..."[pcms]
 
 *890|
 [fc]
-[ns]怜の父親[nse]
-「まっ、ま゛でぇ……わし゛が、そ、そそ゛ぎ、こむんだぞ！[r]
-　お、おま゛えのような、が、が、がきは……、[r]
-　ひっこん゛で、おれっ！」[pcms]
+[ns]Sato's father[nse]
+"Wait... I'm not done yet! A brat like you... step back, it's my[r]
+turn!"[pcms]
 
 *891|
 [fc]
-[ns]怜の兄[nse]
-「なっ、なんだ、とっ！　おやじのほうこそ、[r]
-　ひっ、こんでろっ！　さ、さとは……おれの、ものだっ！」[pcms]
+[ns]Sato's brother[nse]
+"Wha-what, Dad! You should back off! Sato is... mine!"[pcms]
 
 *892|
 [fc]
 [vo_sat s="sato0131"]
-[ns]怜[nse]
-「なっ……ぐっ……ううっ……何言ってるの、二人とも……。[r]
-　喧嘩なんて……ああぁ……」[pcms]
+[ns]Sato[nse]
+"No...ugh...uuuh... What are you two saying... Fighting like[r]
+this...ahhh..."[pcms]
 
 *893|
 [fc]
-自らの妹を。[r]
-自らの娘を。[pcms]
+Over their own sister. Over their own daughter.[pcms]
 
 *894|
 [fc]
-二人の『獣』は醜く奪い合い始めた。[pcms]
+The two "beasts" began to fight over her in an ugly struggle.[pcms]
 
 *895|
 [fc]
-守るために奪い合うのではない。[r]
-自らの欲求のはけ口として、怜を奪い合い始めたのだ。[pcms]
+They were not fighting to protect her, but to satisfy their own[r]
+lustful cravings, they began to fight over Sato.[pcms]
 
 *896|
 [fc]
-二人の獣には、もはや理性は残されていない。[r]
-ただ欲望を吐き出そうと、怜の肢体を求めて争う。[pcms]
+Neither of the two beasts had any reason left in them. They simply[r]
+fought over Sato's body, driven by their desire to release their lust.[pcms]
 
 *897|
 [fc]
-[ns]怜の兄[nse]
-「どけっていってんだよ！　クソヤロウ！」[pcms]
+[ns]Sato's brother[nse]
+"Move it, damn you!"[pcms]
 
 ;//#_赤フラ
 [赤フラ]
@@ -1124,9 +1054,9 @@
 
 *898|
 [fc]
-[ns]怜の父親[nse]
-「だ、だれ゛に、むかって゛そんな゛く、く゛ち、きくんだ！[r]
-　こ、この゛ばかむすこ゛があっ！」[pcms]
+[ns]Sato's father[nse]
+"Who the hell are you talking to like that, you little shit! You[r]
+stupid son of a...!"[pcms]
 
 ;//#_赤フラ
 [赤フラ]
@@ -1137,9 +1067,9 @@
 
 *899|
 [fc]
-地面に突っ伏し、尻を上げた状態の怜は、[r]
-お互いの顔を引っかきながら、迫り寄る『かつて』肉親だった獣を[r]
-見つめたまま、口を戦慄かせていた。[pcms]
+Prostrate on the ground with her butt raised, Sato trembled as she[r]
+looked up at the "once" family members turned beasts, scratching each[r]
+other's faces as they approached.[pcms]
 
 ;//この辺に「あ、ああ……　」みたいなＢＧＶを
 
@@ -1150,55 +1080,51 @@
 
 *900|
 [fc]
-[ns]怜の兄[nse]
-「くそっ！　お、おれのほうがいいよな、さとっ！」[pcms]
+[ns]Sato's brother[nse]
+"Damn it! You prefer me, right, Sato?!"[pcms]
 
 *901|
 [fc]
-[ns]怜の父親[nse]
-「わし゛のほ゛うだろおっ！　うがあぁっ！[r]
-　さとっ！　マンコが……ぬ゛れすぎだっ！[r]
-　ぬる゛ぬ゛るで、はい゛ら、ない、だろうっ！」[pcms]
+[ns]Sato's father[nse]
+"It's my dick she wants! Ugh ahh! Sato! Your pussy... it's too wet![r]
+It's so slippery, it won't stay in!"[pcms]
 
 *902|
 [fc]
-[ns]怜の兄[nse]
-「てっ……てめぇ……の、せいしの、せいだろが！[r]
-　ば、ばかオヤジがっ！」[pcms]
+[ns]Sato's brother[nse]
+"That's...that's because of your semen, you idiot Dad!"[pcms]
 
 [evcg storage="sato_H002c"][trans_c cross time=300]
 
 *903|
 [fc]
 [vo_sat s="sato0132"]
-[ns]怜[nse]
-「ぎっ……あ、があぁっ！！　やめっ……あ、があぁぁ……、[r]
-　二本なんて……むっ……無理……あ……ああぁ……、[r]
-　んぎぃいああぁあぁあっ！！　いだいよおぉ！」[pcms]
+[ns]Sato[nse]
+"Gii...ah, aghhh!! Stop...ah, aghhhh... Two at once...muk...it's too[r]
+much...ah...ahhhh... Nghiiiiiaaahhh!! It hurts so much!"[pcms]
 
 [evcg storage="sato_H002c"][trans_c cross time=300]
 
 *904|
 [fc]
-[ns]怜の兄[nse]
-「ぐおおっ！　さとっ！　いれるぞおっ！！[r]
-　があぁぁっ！　お、おれのだけっ！　のみこめええっ！」[pcms]
+[ns]Sato's brother[nse]
+"Guooh! Sato! I'm going to put it in!! Gaaahhh! It's mine alone![r]
+Swallow it all!"[pcms]
 
 *905|
 [fc]
-[ns]怜の父親[nse]
-「わ゛し゛の゛だぁぁっ！[r]
-　おぐおおおおお゛お゛お゛お゛ッ！！」[pcms]
+[ns]Sato's father[nse]
+"It's mineee! Oguooooooohhh!!"[pcms]
 
 *906|
 [fc]
-『二人』の獣が、自らを奮い立たせるように雄叫びを上げながら、[r]
-絡み合う二本の男性器を、怜の小さな入り口に同時に突き立てた。[pcms]
+The two beasts let out a roar as if to spur themselves on, and[r]
+simultaneously thrust their erect penises into Sato's small entrance.[pcms]
 
 *907|
 [fc]
-獣はほぼ同時に腰を引き、強く押し込んだ。[r]
-その直後――[pcms]
+The beasts almost simultaneously pulled their hips back and then[r]
+thrust forward strongly. And then--[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1213,22 +1139,22 @@
 
 *908|
 [fc]
-ゴリッ……。[pcms]
+Gorii...[pcms]
 
 *909|
 [fc]
-重い丸太をコンクリートの上で引き摺るような音が周囲に響き、[r]
-一瞬の静寂が訪れる。[pcms]
+A sound like dragging a heavy log across concrete echoed around,[r]
+followed by a moment of silence.[pcms]
 
 *910|
 [fc]
-次第に鮮やかな青の色が広がる空の元――[pcms]
+Under the gradually brightening blue sky--[pcms]
 
 *911|
 [fc]
-怜の小さな入り口が大きく押し広げられ、[r]
-醜悪な二本の剛直は、ズルリと音を立てて、[r]
-同時に胎内へと埋まっていった。[pcms]
+Sato's small entrance was forcibly widened, and the two hideous[r]
+erections made a slurping sound as they simultaneously buried[r]
+themselves inside her womb.[pcms]
 
 [evcg storage="sato_H002f"][trans_c cross time=300]
 [se buf=0 storage="se_sex03" loop=true]
@@ -1237,44 +1163,42 @@
 *912|
 [fc]
 [vo_sat s="sato0133"]
-[ns]怜[nse]
-「あ゛……おっ……お、おがぁぁああぁっ！！？」[pcms]
+[ns]Sato[nse]
+"Agh...ohh...oh, oh god ahhhh!!?"[pcms]
 
 *913|
 [fc]
-野獣に犯され続けた怜も、[r]
-いつしか獣の様な叫びを上げ出す。[pcms]
+Before long, Sato too began to scream like a beast being violated by[r]
+wild animals.[pcms]
 
 *914|
 [fc]
-狂気の野獣の牙は、その狂気を更に伝播させる。[r]
-怜を取り囲む無数の野獣も、そうして生まれた。[pcms]
+The fangs of the mad beasts only spread their madness further. The[r]
+countless wild beasts surrounding Sato were also born this way.[pcms]
 
 *915|
 [fc]
-そして今、怜もまた――[r]
-その野獣の仲間入りを果たす寸前まで追い込まれていた。[pcms]
+And now, Sato too was on the verge of becoming one of those wild[r]
+beasts.[pcms]
 
 *916|
 [fc]
 [vo_sat s="sato0134"]
-[ns]怜[nse]
-「ぎいッ……ぎっ……あ、がぁっ……かはっ……がっ……、[r]
-　や、やだ……こんな……こんな事……あがぁあ……」[pcms]
+[ns]Sato[nse]
+"Giih...gih...ah, aghh...cough...gah... No, I don't want this...this[r]
+kind of thing...aghaaah..."[pcms]
 
 *917|
 [fc]
-[ns]怜の父親[nse]
-「さ、さわ゛が、しぃいぞっ！　さ゛どっ……。[r]
-　そ、それに゛して゛も……おま゛、え……のと、[r]
-　さと゛のが、こ゛す、れで……」[pcms]
+[ns]Sato's father[nse]
+"Sa-Satsuki, you're so tight! Damn it... Even so...your pussy and[r]
+Sato's are getting so wet..."[pcms]
 
 *918|
 [fc]
-[ns]怜の兄[nse]
-「お、おや、じの、デカいのが……ううっ！[r]
-　ちっ、チンコが、さとのなかで、こ、こすれてっ……、[r]
-　きっ……きつすぎ、るっ……」[pcms]
+[ns]Sato's brother[nse]
+"D-Dad's big one is... ugh! My cock is rubbing inside Sato and it's[r]
+too tight..."[pcms]
 
 ;//mine:変だな。2人消えてるから拡大で
 ;mm これはテキストからじゃなくて、ゲロ吐き差分に二人いる差分がないからか
@@ -1282,23 +1206,22 @@
 
 *919|
 [fc]
-二人は交互に腰を突き動かすと、[r]
-怜の女性器は派手な音をたてながら、[r]
-空気を吸い込み、吐き出す。[pcms]
+The two alternated thrusting their hips, and Sato's vagina made loud[r]
+noises as it sucked in and expelled air.[pcms]
 
 *920|
 [fc]
-大量の空気を吸い込み、怜の膣内はその制御を離れ、[r]
-激しく収縮している。[pcms]
+Inhaling a large amount of air, Sato's vaginal control was lost,[r]
+contracting violently.[pcms]
 
 *921|
 [fc]
-全く意図しない刺激と恐怖と、強烈な精神的圧迫。[pcms]
+Unintended stimulation, fear, and intense psychological pressure.[pcms]
 
 *922|
 [fc]
-その圧迫感は、怜の苦痛を刺激し、[r]
-更には胃を強く押し上げた。[pcms]
+This pressure stimulated Sato's pain and also pushed hard against her[r]
+stomach.[pcms]
 
 ;//mine:変だな。2人消えてるから拡大で
 [evcg storage="sato_H002h_L" x=-800 y=-120 z=180][trans_c cross time=300]
@@ -1306,26 +1229,26 @@
 *923|
 [fc]
 [vo_sat s="sato0135"]
-[ns]怜[nse]
-「うっ……おぶううぅっ！？　うげっ！！　ぶあぁっ！」[pcms]
+[ns]Sato[nse]
+"Ugh...obuuuuh!? Ugehh!! Buahhh!"[pcms]
 
 ;//mine:変だな。2人消えてるから拡大で
 [evcg storage="sato_H002i_L" x=-800 y=-120 z=180][trans_c cross time=300]
 
 *924|
 [fc]
-怜の口から吐瀉物が押し出され、[r]
-弧を描き二人の肉親に降り注ぐ。[pcms]
+Vomit was forced out of Sato's mouth, arcing down onto the two family[r]
+members.[pcms]
 
 *925|
 [fc]
-[ns]怜の兄[nse]
-「おっ……おおおっ……」[pcms]
+[ns]Sato's brother[nse]
+"Ohh...ohhhh..."[pcms]
 
 *926|
 [fc]
-[ns]怜の父親[nse]
-「がは゛ぁ……あっ゛は゛ぁ……は゛ぁぁ……」[pcms]
+[ns]Sato's father[nse]
+"Gahaa...ahhaa...haaa..."[pcms]
 
 ;//se即時停止
 [stopse buf=0]
@@ -1335,33 +1258,31 @@
 
 *927|
 [fc]
-汚物に塗れた二人は、一瞬動きを止めた。[pcms]
+The two covered in filth momentarily stopped their movements.[pcms]
 
 ;//[evcg storage="sato_H002f"][trans_c cross time=300]
 
 *928|
 [fc]
-[ns]怜の兄[nse]
-「あぁ……さ、さとの、なら、きたなくないぞおっ！[r]
-　あったかくて、きもちいいくらいだぁっ！[r]
-　ち、チンコいいだろっ！？　いいから、ゲロったんだろっ！」[pcms]
+[ns]Sato's brother[nse]
+"Ahh...if it's from Sato, it doesn't feel dirty at all! It feels warm[r]
+and good! The cock feels good, right!? Because you threw up!"[pcms]
 
 *929|
 [fc]
-[ns]怜の父親[nse]
-「な゛ま゛ぬるぐで……、いっ……い゛ぃ……、[r]
-　こ、こ、これ゛もぉ～……な、なか゛な、か、[r]
-　こうふ゛ん、する、なぁ～……」[pcms]
+[ns]Sato's father[nse]
+"It's so warm and slimy...it feels good... This too is a way to enjoy[r]
+ourselves..."[pcms]
 
 *930|
 [fc]
-だが、既に正気を失った二人は、[r]
-汚物すら快楽へと昇華させ身震いする。[pcms]
+But the two who had already lost their sanity shivered with pleasure[r]
+even from the filth.[pcms]
 
 *931|
 [fc]
-『人』であることを止めた者が、[r]
-『人』であろうとし続ける少女を仲間に引き入れる為――[pcms]
+Those who ceased to be "human" sought to bring the girl who continued[r]
+to strive to be "human" into their fold--[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1374,101 +1295,95 @@
 
 *932|
 [fc]
-僅かに残った理性を破壊しようと、腰を荒く動かし出した。[pcms]
+To destroy the last vestiges of her reason, they began to move their[r]
+hips roughly.[pcms]
 
 *933|
 [fc]
 [vo_sat s="sato0136"]
-[ns]怜[nse]
-「んおっ！　おっ……あがあぁっ！　んおおおぉぉぉっっ！」[pcms]
+[ns]Sato[nse]
+"Nnh! Ohh...agaaah! Nnoooohhhhh!"[pcms]
 
 *934|
 [fc]
-獣達の興奮は、覚めることなく渦を巻き天を目指す。[r]
-その上昇気流に飲み込まれつつある怜もまた、[r]
-野獣と化してしまいそうになっていた。[pcms]
+The excitement of the beasts did not wane, swirling upwards in a[r]
+vortex, aiming for the heavens. Sato, being consumed by this rising[r]
+current, was also on the verge of turning into a wild beast.[pcms]
 
 *935|
 [fc]
-周りを取り囲む男達と同様に、[r]
-人としての尊厳が薄れていく怜の声は、[r]
-やはり、獣の様だった。[pcms]
+Just like the men surrounding her, Sato's voice, as her human dignity[r]
+faded, was indeed like that of a beast.[pcms]
 
 *936|
 [fc]
-[ns]怜の父親[nse]
-「い゛ぃ゛あぁぁっ！　き゛つぃいぃっ！[r]
-　おま゛んこ゛ぉおおっ！　ごっ、ご、ごり、っと゛ぉ、[r]
-　し゛て゛やるぅうっ！」[pcms]
+[ns]Sato's father[nse]
+"Iiiiaaah! So tight! Your pussy...gah, go, gorit, I'm gonna do it[r]
+hard!"[pcms]
 
 *937|
 [fc]
-[ns]怜の兄[nse]
-「あっはははっ！　さとっ！　なんだ、おまえ！[r]
-　しろめ、むいてっ！　そっ、そんなに、きもちいいのかっ！？[r]
-　ああっ！？　どうなんだよ、さとっ！」[pcms]
+[ns]Sato's brother[nse]
+"Ahahaha! Sato! What's this? Your eyes are rolling back! Is it that[r]
+good!? Ah!? How is it, Sato!?"[pcms]
 
 *938|
 [fc]
 [vo_sat s="sato0137"]
-[ns]怜[nse]
-「おっ……おごおっ！？　つっ、突かない、でっ！[r]
-　あぎいっ！　んおっ！　おおおおっ！[r]
-　あがあぁっ！　いっ……イグぅうっ！！？　おおおぉっ！？」[pcms]
+[ns]Sato[nse]
+"Ohh...ogoooh!? Don't...don't thrust! Agiih! Nnoh! Ooohhh! Agaaah![r]
+I'm...I'm cumming!!? Ooohhh!?"[pcms]
 
 *939|
 [fc]
-おかしな声を上げ始めた怜の女性器を、[r]
-二人の肉親は笑いながらかき回し、突き立てる。[pcms]
+As Sato began to make strange noises, her two family members laughed[r]
+while stirring and thrusting into her genitals.[pcms]
 
 *940|
 [fc]
-既に伸びきった怜の“女性器”と、[r]
-大きく開かれた口からは、泡が吹き出していた。[pcms]
+Sato's genitals, already stretched to their limit, and her widely[r]
+opened mouth were frothing.[pcms]
 
 *941|
 [fc]
-[ns]怜の兄[nse]
-「おっ……おおおっ！　おっ、おやじ、のっ！[r]
-　おやじの、ふくらんでっ！　きっ、きついいいっ！[r]
-　これじゃ、また、でちまうううっ！　おおおっ！」[pcms]
+[ns]Sato's brother[nse]
+"Ohh...ohhhh! Dad's...Dad's swelling! It's so tight! I'm gonna cum[r]
+again! Ooohhh!"[pcms]
 
 *942|
 [fc]
-[ns]怜の父親[nse]
-「お゛ま、えの、も、むっ……む゛だに、でか゛く゛で～……、[r]
-　お゛ぉおっ゛おほ゛おおおっ！[r]
-　いっ……いぐぅううぅうぅう！　だす゛ぞぉお゛お゛おッ！」[pcms]
+[ns]Sato's father[nse]
+"Your pussy...it's so wet and swollen...oohhh! I'm...I'm gonna cum![r]
+I'm gonna release it!"[pcms]
 
 *943|
 [fc]
-腰の動きを加速させる二人と、[r]
-口から泡を吹き、白目をむきだした怜の声と動きが、[r]
-同調し始めた。[pcms]
+The movements of their hips accelerated, and Sato's voice and[r]
+movements, as she foamed at the mouth and rolled her eyes back, began[r]
+to synchronize.[pcms]
 
 *944|
 [fc]
-そして、怜の姿を、まばゆい太陽が照らし出す頃、[r]
-全ての獣の興奮は頂点を極めた。[pcms]
+And as the dazzling sun illuminated Sato's form, the excitement of all[r]
+the beasts reached its climax.[pcms]
 
 *945|
 [fc]
 [vo_sat s="sato0138"]
-[ns]怜[nse]
-「あっ……あははははっ！　いだきもぢいいっ！[r]
-　だっ……だしてぇえっ！　あぁ……あがっ……おっ……、[r]
-　おおおっ……あ、あ゛がぁ……」[pcms]
+[ns]Sato[nse]
+"Ah...ahahaha! It feels so good! Let it out...I want it out![r]
+Ah...agah...ohh...oooh...ah, agaaah..."[pcms]
 
 *946|
 [fc]
-[ns]怜の父親[nse]
-「ぜん゛ぶ、の゛めぇぇっ！」[pcms]
+[ns]Sato's father[nse]
+"Swallow it all!"[pcms]
 
 *947|
 [fc]
-[ns]怜の兄[nse]
-「さとの、オマンコに、なかだしっ！　にっ、にはつめえぇっ！[r]
-　はらめぇっ！　おれのこ、うんでくれぇぇっ！　おおおおっ！」[pcms]
+[ns]Sato's brother[nse]
+"I'm gonna cum inside Sato's pussy! My first time...make me a father![r]
+Carry my child!"[pcms]
 
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -1483,51 +1398,50 @@
 *948|
 [fc]
 [vo_sat s="sato0139"]
-[ns]怜[nse]
-「あ……あがぁ……おおおっ……お……おぁ……」[pcms]
+[ns]Sato[nse]
+"Ah...agaaah...ooohhh...oh...ohh..."[pcms]
 
 [evcg storage="sato_H002g"][trans_c cross time=300]
 
 *949|
 [fc]
-怜は御神木が見守る中、大きな絶叫を上げると、[r]
-完全に白目を剥き身体の制御を全て失い、[r]
-その場に崩れ落ちた。[pcms]
+Under the watchful eye of the sacred tree, Sato let out a great[r]
+scream, completely rolled her eyes back, lost all control of her body,[r]
+and collapsed on the spot.[pcms]
 
 *950|
 [fc]
-[ns]怜の父親[nse]
-「い゛げ、に、え゛を……つ゛ぎ……は、[r]
-　だれ゛が……く、くら、う゛のか……？」[pcms]
+[ns]Sato's father[nse]
+"Next time, who will...who will take it?"[pcms]
 
 *951|
 [fc]
-[ns]怜の兄[nse]
-「おっ、おれ、またなかだしするっ！　おれがやるっ！」[pcms]
+[ns]Sato's brother[nse]
+"I'll do it again, I'll cum inside again! I'll do it!"[pcms]
 
 *952|
 [fc]
-[ns]怜の親戚Ａ[nse]
-「お、おれ゛も、い、い゛い、だろ゛……」[pcms]
+[ns]Sato's Relative A[nse]
+"I want to do it too..."[pcms]
 
 *953|
 [fc]
-[ns]怜の親戚Ｂ[nse]
-「ば、ばか゛を、いう゛な゛ぁっ！　わ、わ゛だし゛だぁっ！」[pcms]
+[ns]Sato's Relative B[nse]
+"Don't talk nonsense! It's my turn now!"[pcms]
 
 
 *954|
 [fc]
-御神木が見つめる中。[pcms]
+Under the gaze of the sacred tree.[pcms]
 
 *955|
 [fc]
-かつての聖職者達は――[pcms]
+The former clergy--[pcms]
 
 *956|
 [fc]
-既に人を諦めつつあった怜の身体へと群がり、[r]
-その姿を覆い尽くした。[pcms]
+Flocked to Sato's body, which was already giving up on being human,[r]
+and covered her form completely.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

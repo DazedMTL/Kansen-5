@@ -1,7 +1,7 @@
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 ;//シーン名	：『境界線の夜』
 ;//file名	：0340
-;//登場人物	：主人公、宗一郎、茜梨、彩月、夏都
+;//登場人物	：主人公、宗一郎、茜梨、彩月、夏
 ;//服装		：制服
 ;//日付		：8/17
 ;//時間		：21時
@@ -21,42 +21,45 @@
 
 *4643|
 [fc]
-[ns]誠[nse]
-「はぁっ……」[pcms]
+[ns]Makoto[nse]
+"Haa..."[pcms]
 
 *4644|
 [fc]
-事故の目撃者として、先生や一部の生徒と同じく、[r]
-僕も警察の聴取を受けることになった。[pcms]
+As a witness to the accident, I had to undergo police questioning,[r]
+just like some of the teachers and students.[pcms]
 
 *4645|
 [fc]
-運動部の生徒は早めに帰して休ませたいのか、[r]
-新聞部と写真部が主になって連行されている。[pcms]
+It seems they wanted to let the students from the sports clubs go home[r]
+early to rest, so mainly members of the newspaper and photography[r]
+clubs were taken in for questioning.[pcms]
 
 *4646|
 [fc]
-被害者の男性は、島に寄港している船の船員で、[r]
-事故の直前に定食屋で無銭飲食していたらしい。[pcms]
+The male victim was a crew member of a ship docked at the island, and[r]
+apparently, he had dined and dashed at a diner just before the[r]
+accident.[pcms]
 
 *4647|
 [fc]
-混み合っている店内の忙しさをいいことに、[r]
-酒まで飲んでいたんだろう。[pcms]
+He must have taken advantage of the diner's busyness to even drink[r]
+alcohol.[pcms]
 
 *4648|
 [fc]
-酔っぱらって無銭飲食して車に轢かれて、[r]
-トラウマになりそうな光景を見せるなんて迷惑きわまりない。[pcms]
+Getting drunk, dining and dashing, and then getting hit by a car,[r]
+creating a scene that's likely to become a traumatic memory is just[r]
+inexcusable.[pcms]
 
 *4649|
 [fc]
-特にあの、赤い瞳。[pcms]
+Especially those red eyes.[pcms]
 
 *4650|
 [fc]
-血の海に溺れそうになっている赤い目が、[r]
-脳裏にこびり付いて離れなかった。[pcms]
+The image of red eyes seemingly drowning in a sea of blood was stuck[r]
+in my mind and wouldn't leave.[pcms]
 
 ;//★bg02c 大神港・夜
 [bg storage="BG02c"][trans_c cross time=500]
@@ -65,126 +68,123 @@
 *4651|
 [fc]
 [vo_nat s="natu0067"]
-[ns]夏都[nse]
-「誠っ！」[pcms]
+[ns]Natsu[nse]
+"Makoto!"[pcms]
 
 *4652|
 [fc]
-[ns]誠[nse]
-「姉ちゃんっ！」[pcms]
+[ns]Makoto[nse]
+"Onee-san!"[pcms]
 
 ;//bgm09.ogg
 [bgm storage="BGM09"]
 
 *4653|
 [fc]
-事故の聴取を終えて先生と一緒に警察署を出ると、[r]
-そこにはホテルにいるはずの姉ちゃんが、[r]
-心配そうな顔をして待っている姿があった。[pcms]
+After finishing the police questioning with my teacher, I left the[r]
+station to find my sister, who was supposed to be at the hotel,[r]
+waiting with a worried look on her face.[pcms]
 
 *4654|
 [fc]
-僕の顔を見つけると、跳んでくるようなスピードで走ってきて、[r]
-ガバッと抱き上げられてしまう。[pcms]
+As soon as she saw me, she ran over at a sprinting speed and lifted me[r]
+up in a hug.[pcms]
 
 *4655|
 [fc]
-[ns]誠[nse]
-「ね、姉ちゃん、苦しいよ」[pcms]
+[ns]Makoto[nse]
+"Ne, Onee-san, it's tight."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4656|
 [fc]
 [vo_nat s="natu0068"]
-[ns]夏都[nse]
-「誠！　心配させやがって！」[pcms]
+[ns]Natsu[nse]
+"Makoto! You had me worried!"[pcms]
 
 *4657|
 [fc]
-[ns]警察官Ａ[nse]
-「おぉ……」[pcms]
+[ns]Police Officer A[nse]
+"Oh..."[pcms]
 
 *4658|
 [fc]
-姉ちゃんの巨大なボリュームを誇るおっぱいが、[r]
-僕の顔に押し当てられて苦しい。[pcms]
+My sister's massive breasts were pressed against my face, making it[r]
+hard to breathe.[pcms]
 
 *4659|
 [fc]
-隣に立っていた警察官が、変な声を出しているのが[r]
-なんだか恥ずかしかった。[pcms]
+The police officer standing next to us let out a strange noise, which[r]
+was somewhat embarrassing.[pcms]
 
 *4660|
 [fc]
-[ns]誠[nse]
-「お、下ろして、ちょ、姉ちゃん！」[pcms]
+[ns]Makoto[nse]
+"Ow, put me down, please, Onee-san!"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4661|
 [fc]
 [vo_nat s="natu0069"]
-[ns]夏都[nse]
-「もう、心配かけやがって！」[pcms]
+[ns]Natsu[nse]
+"You really had me worried!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4662|
 [fc]
-やっと下ろしてもらった僕は、[r]
-心配そうな姉ちゃんに事情を説明していった。[pcms]
+Finally put down, I explained the situation to my worried sister.[pcms]
 
 *4663|
 [fc]
-おおよそのことは聞いていたみたいで、[r]
-うんうんと、頷くばっかりだ。[pcms]
+She seemed to have heard most of it already and just nodded along.[pcms]
 
 *4664|
 [fc]
-[ns]誠[nse]
-「でも、よくここがわかったね」[pcms]
+[ns]Makoto[nse]
+"But how did you know to come here?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4665|
 [fc]
 [vo_nat s="natu0070"]
-[ns]夏都[nse]
-「デブから詳しい話を聞いてたからな、[r]
-　誠が警察の厄介になるなんて思いもしなかったよ」[pcms]
+[ns]Natsu[nse]
+"I heard the details from Debu, I never imagined Makoto would be[r]
+involved with the police."[pcms]
 
 *4666|
 [fc]
-あいつめ、どんな説明をしたんだか……。[pcms]
+What kind of explanation did that guy give...?[pcms]
 
 *4667|
 [fc]
-[ns]誠[nse]
-「この時間だと、バスもなかったでしょ？[r]
-　どうやって来たの？」[pcms]
+[ns]Makoto[nse]
+"There were no buses at this time, right? How did you get here?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4668|
 [fc]
 [vo_nat s="natu0071"]
-[ns]夏都[nse]
-「もちろん、走って来たに決まってるだろ？」[pcms]
+[ns]Natsu[nse]
+"Of course, I ran here, what else?"[pcms]
 
 *4669|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *4670|
 [fc]
-さすが、元自衛官だ。[pcms]
+As expected of a former Self-Defense Force member.[pcms]
 
 *4671|
 [fc]
-装備を付けて２０キロ走破とかしてるんだから、[r]
-平地をマラソンくらいなんでもないんだな。[pcms]
+She's used to running 20 kilometers with full gear, so a marathon on[r]
+flat ground is nothing for her.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -208,19 +208,18 @@
 
 *4672|
 [fc]
-さすがに帰りはマラソンというわけにもいかないので、[r]
-警察の人がパトカーで送ってくれた。[pcms]
+We couldn't exactly run back, so one of the police officers gave us a[r]
+ride back in their patrol car.[pcms]
 
 *4673|
 [fc]
-かなり忙しいらしくて、僕らを送ってくれたのは、[r]
-夕方にフェリーで到着したばかりの、[r]
-恵媛から来たパトカーだった。[pcms]
+They seemed quite busy, and the patrol car that took us was from[r]
+Ehime, having just arrived on the evening ferry.[pcms]
 
 *4674|
 [fc]
-やはり、今日は島中で事故が多発したようで、[r]
-応援を要請していて正解だったと思う。[pcms]
+It seems there were multiple accidents on the island today, and it was[r]
+right to call for backup.[pcms]
 
 ;//★bg10a ホテルモールフロア＆エントランス・朝昼
 [bg storage="BG10a"][trans_c cross time=500]
@@ -231,152 +230,148 @@
 
 *4675|
 [fc]
-ホテルのロビーには新聞部の面々と、南先輩、[r]
-越智さんが待ってくれていた。[pcms]
+In the hotel lobby were members of the newspaper club, senior Minami,[r]
+and Ochi-san waiting for us.[pcms]
 
 *4676|
 [fc]
-みんな心配そうにしていたけれど、[r]
-僕らの顔を見て安心したように笑顔になる。[pcms]
+They all looked worried but smiled in relief when they saw our faces.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so02a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *4677|
 [fc]
-[ns]宗一郎[nse]
-「お、ご一行様がお帰りだ」[pcms]
+[ns]Souichirou[nse]
+"Oh, our party has returned."[pcms]
 
 *4678|
 [fc]
-[ns]誠[nse]
-「お前、姉ちゃんになんて説明したんだよ」[pcms]
+[ns]Makoto[nse]
+"What did you tell Onee-san?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4679|
 [fc]
 [vo_aka s="akari0166"]
-[ns]茜梨[nse]
-「ご、ごめんなさい、[r]
-　私が少し大げさに話してしまったのかも……」[pcms]
+[ns]Akari[nse]
+"I'm sorry, maybe I exaggerated the story a bit..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak09"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4680|
 [fc]
-越智さんが恐縮したように身体を小さくして、[r]
-頬を赤く染めていた。[pcms]
+Ochi-san shrank a little in embarrassment and her cheeks turned red.[pcms]
 
 *4681|
 [fc]
-そうか、越智さんが原因だったのか。[r]
-それでも、デブが煽ったに違いないと思うけど。[pcms]
+So it was Ochi-san's doing. Still, I bet Debu stirred things up too.[pcms]
 
 *4682|
 [fc]
-[ns]西[nse]
-「酷いことされなかったか？」[pcms]
+[ns]West[nse]
+"Were you treated badly?"[pcms]
 
 *4683|
 [fc]
-[ns]誠[nse]
-「ヤクザじゃなくて警察ですから……、[r]
-　帰りは送ってもらっちゃいましたよ」[pcms]
+[ns]Makoto[nse]
+"They weren't yakuza, they were police... They even gave us a ride[r]
+back."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *4684|
 [fc]
 [vo_stk s="satuki0121"]
-[ns]彩月[nse]
-「それくらいは当然よね。[r]
-　忙しいんだか知らないけど、横柄な態度だったわ」[pcms]
+[ns]Satsuki[nse]
+"That's the least they could do. I don't care if they were busy, they[r]
+were quite arrogant."[pcms]
 
 *4685|
 [fc]
-今日は島中で事故があって警察も大変だったんだろう。[pcms]
+Today there were accidents all over the island, and the police must[r]
+have had a tough time.[pcms]
 
 *4686|
 [fc]
-夜になれば交通量は減るだろうけど、[r]
-今度は飲酒運転とかが増えそうな気もする。[pcms]
+Traffic should decrease at night, but then we might see an increase in[r]
+drunk driving.[pcms]
 
 *4687|
 [fc]
-まだまだ、警察には気の抜けない時間がつづきそうだった。[pcms]
+It seemed like the police would continue to have no time to relax for[r]
+a while.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4688|
 [fc]
 [vo_mob s="kojima0011"]
-[ns]小嶋[nse]
-「みんな、待ってくれていて疲れたでしょう、[r]
-　部屋に戻って休みなさい」[pcms]
+[ns]Kojima[nse]
+"Everyone must be tired from waiting, go back to your rooms and rest."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4689|
 [fc]
 [vo_nat s="natu0072"]
-[ns]夏都[nse]
-「オレも疲れたよ、シャワー浴びてくるかな」[pcms]
+[ns]Natsu[nse]
+"I'm tired too, maybe I'll take a shower."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4690|
 [fc]
 [vo_aka s="akari0167"]
-[ns]茜梨[nse]
-「す、すみません……」[pcms]
+[ns]Akari[nse]
+"I'm sorry..."[pcms]
 
 *4691|
 [fc]
-[ns]誠[nse]
-「ち、違うよ、越智さんのせいじゃないから」[pcms]
+[ns]Makoto[nse]
+"No, it's not your fault, Ochi-san."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4692|
 [fc]
 [vo_stk s="satuki0122"]
-[ns]彩月[nse]
-「はい、解散、解散」[pcms]
+[ns]Satsuki[nse]
+"Alright, disperse, disperse."[pcms]
 
 ;//★bg11b ホテル廊下・夜
 [bg storage="BG11b"][trans_c cross time=500]
 
 *4693|
 [fc]
-ロビーから鶯谷学園専用になっているフロアに移動すると、[r]
-そこから思い思いに散らばっていった。[pcms]
+Once we moved to the floor reserved for Uguisudani Academy in the[r]
+hotel, everyone scattered to their own devices.[pcms]
 
 *4694|
 [fc]
-みんなが、おやすみ、また明日と、声を掛け合って[r]
-部屋に戻っていく。[pcms]
+Everyone said "good night" and "see you tomorrow" as they headed back[r]
+to their rooms.[pcms]
 
 *4695|
 [fc]
-[ns]誠[nse]
-「あ、これから姉ちゃんの部屋に行くから、[r]
-　鍵もらってもいいか？」[pcms]
+[ns]Makoto[nse]
+"Ah, I'm going to my sister's room now, can I get the key?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so01a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4696|
 [fc]
-[ns]宗一郎[nse]
-「ん、じゃあ、渡しておくぞ」[pcms]
+[ns]Souichirou[nse]
+"Hmm, alright, I'll hand it over."[pcms]
 
 *4697|
 [fc]
-僕たちの部屋を開けた後、そーいちは鍵を僕に渡すと、[r]
-そのまま入っていった。[pcms]
+After opening our room, Souichirou handed me the key and then went[r]
+inside.[pcms]
 
 *4698|
 [fc]
-僕は姉ちゃんと積もる話がある。[pcms]
+I have a lot of catching up to do with my sister.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -409,182 +404,179 @@
 
 *4699|
 [fc]
-[ns]誠[nse]
-「着いてそうそう、忙しかったね」[pcms]
+[ns]Makoto[nse]
+"We've been busy ever since we arrived, haven't we?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4700|
 [fc]
 [vo_nat s="natu0087"]
-[ns]夏都[nse]
-「まぁ、退屈しないで済んだけどさ。[r]
-　旅行だからゆっくりしたいかな」[pcms]
+[ns]Natsu[nse]
+"Well, at least it wasn't boring. But since it's a trip, I'd like to[r]
+relax a bit."[pcms]
 
 *4701|
 [fc]
-もしかしたら、晩ご飯もまだ食べていないのかな。[r]
-メールを送ったけれど、返事を確認していない。[pcms]
+I wonder if she hasn't had dinner yet. I sent an email but haven't[r]
+checked for a reply.[pcms]
 
 *4702|
 [fc]
-[ns]誠[nse]
-「なんか、交通事故が多いみたいだから気をつけなよ？」[pcms]
+[ns]Makoto[nse]
+"It seems there have been a lot of traffic accidents, so be careful,[r]
+okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4703|
 [fc]
 [vo_nat s="natu0088"]
-[ns]夏都[nse]
-「オレを心配するより、自分のこと心配しとけ。[r]
-　明日はライブフェスなんだから、車に轢かれる心配はないよ」[pcms]
+[ns]Natsu[nse]
+"You should worry about yourself rather than me. There's no live fest[r]
+tomorrow, so no worries about getting hit by a car."[pcms]
 
 *4704|
 [fc]
-[ns]誠[nse]
-「最近、救急車のサイレンが多いんだ、[r]
-　熱中症とかも大丈夫かなぁ……」[pcms]
+[ns]Makoto[nse]
+"Lately, I've been hearing a lot of ambulance sirens. I wonder if[r]
+heatstroke is also a concern..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na24"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4705|
 [fc]
 [vo_nat s="natu0089"]
-[ns]夏都[nse]
-「オレの心配するなんて十年早いって！[r]
-　この、もやしメガネが！」[pcms]
+[ns]Natsu[nse]
+"You're ten years too early to worry about me! You bean sprout[r]
+glasses!"[pcms]
 
 *4706|
 [fc]
-姉ちゃんが僕の頭をくしゃくしゃと撫で回した。[pcms]
+My sister ruffled my hair playfully.[pcms]
 
 *4707|
 [fc]
-確かに、自分のことも心配しなくちゃいけないけれど、[r]
-僕は大勢の人と一緒に行動してるから、[r]
-大概何とかなってしまうと思う。[pcms]
+Indeed, I need to be concerned about myself too, but since I'm with a[r]
+lot of people most of the time, I think things generally work out.[pcms]
 
 *4708|
 [fc]
-[ns]誠[nse]
-「渋谷で会った越智さんってわかる？」[pcms]
+[ns]Makoto[nse]
+"Do you remember Ochi-san we met in Shibuya?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4709|
 [fc]
 [vo_nat s="natu0090"]
-[ns]夏都[nse]
-「このホテルを予約してくれた、かわいい子だろ？[r]
-　どうしたんだ？　オナニーしてるの見付かったか？」[pcms]
+[ns]Natsu[nse]
+"The cute girl who booked this hotel for us? What about her? Did she[r]
+catch you masturbating?"[pcms]
 
 *4710|
 [fc]
-[ns]誠[nse]
-「オナニーの話はやめてってば！」[pcms]
+[ns]Makoto[nse]
+"Stop talking about masturbation!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4711|
 [fc]
 [vo_nat s="natu0091"]
-[ns]夏都[nse]
-「あはは、別にいいじゃねえか。[r]
-　玉のちっけえ奴だな」[pcms]
+[ns]Natsu[nse]
+"Ahaha, come on, it's no big deal. You really are a small-timer."[pcms]
 
 *4712|
 [fc]
-姉ちゃんこそ、僕がいないアパートで、[r]
-オナニー三昧だったんじゃないだろうな。[pcms]
+I bet my sister has been indulging in masturbation marathons in her[r]
+apartment without me.[pcms]
 
 *4713|
 [fc]
-さすがに聞けないけれども……。[pcms]
+I can't really ask her that though...[pcms]
 
 *4714|
 [fc]
-[ns]誠[nse]
-「その越智さんなんだけど、[r]
-　明日の夕ご飯を一緒に食べないかって誘われたんだ」[pcms]
+[ns]Makoto[nse]
+"About Ochi-san, she invited me to have dinner together tomorrow[r]
+evening."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4715|
 [fc]
 [vo_nat s="natu0092"]
-[ns]夏都[nse]
-「あれだろ、この地元の子なんだろ？[r]
-　オレたちが押しかけちゃっていいのかな」[pcms]
+[ns]Natsu[nse]
+"She's a local girl, right? Is it really okay for us to barge in like[r]
+this?"[pcms]
 
 *4716|
 [fc]
-[ns]誠[nse]
-「全然構わないみたい。[r]
-　すごいお金持ちらしいから、美味しいもの食べられるよ」[pcms]
+[ns]Makoto[nse]
+"It doesn't seem to bother her at all. She seems to be very wealthy,[r]
+so we can expect some delicious food."[pcms]
 
 *4717|
 [fc]
-姉ちゃんがファンクラブの会報らしきものを取り出して、[r]
-お目当てのバンドの時間を調べ始めた。[pcms]
+My sister took out what looked like a fan club newsletter and started[r]
+checking the times for her favorite bands.[pcms]
 
 *4718|
 [fc]
-全部は見られないから、ある程度の優先順位を[r]
-付けていると思うけれど……。[pcms]
+We can't see them all, so I guess she's prioritizing...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4719|
 [fc]
 [vo_nat s="natu0093"]
-[ns]夏都[nse]
-「あー、夕方のは絶対に外せないわ。[r]
-　誠が俺の分も食べてきてくれ」[pcms]
+[ns]Natsu[nse]
+"Ah, I absolutely can't miss the evening one. Makoto, you'll have to[r]
+eat my share too."[pcms]
 
 *4720|
 [fc]
-姉ちゃんは、ちょっと残念そうにそうつぶやくと、[r]
-仕方ないとばかりに肩をすくめる。[pcms]
+My sister muttered with a hint of disappointment and shrugged her[r]
+shoulders as if there was no helping it.[pcms]
 
 *4721|
 [fc]
-[ns]誠[nse]
-「折角のお誘いだったのに残念」[pcms]
+[ns]Makoto[nse]
+"It's too bad about the invitation."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4722|
 [fc]
 [vo_nat s="natu0094"]
-[ns]夏都[nse]
-「あの子は、さっきも待っててくれたみたいだし、[r]
-　すごく良い子だよな」[pcms]
+[ns]Natsu[nse]
+"That girl was waiting for us earlier too; she's really a nice kid."[pcms]
 
 *4723|
 [fc]
-[ns]誠[nse]
-「そうなんだよ、断るのが心苦しいな」[pcms]
+[ns]Makoto[nse]
+"Yeah, it's hard to say no."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4724|
 [fc]
 [vo_nat s="natu0095"]
-[ns]夏都[nse]
-「オレも後で礼をいいに行くから、[r]
-　そんときにやんわりと言っておくさ」[pcms]
+[ns]Natsu[nse]
+"I'll go thank her later, and I'll gently let her know then."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4725|
 [fc]
-この旅行は姉ちゃんに羽を伸ばしてもらうのが目的だ。[r]
-目当てのバンドと時間が重なるなら仕方がない。[pcms]
+The purpose of this trip is to let my sister spread her wings. If it[r]
+conflicts with her favorite band's schedule, there's nothing we can[r]
+do.[pcms]
 
 *4726|
 [fc]
-美味しいもの食べて欲しかったんだけどな。[pcms]
+I wanted her to enjoy some delicious food though.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -600,17 +592,17 @@
 
 *4727|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *4728|
 [fc]
-事故に遭った男の目が忘れられない。[pcms]
+I can't forget the eyes of the man who was in the accident.[pcms]
 
 *4729|
 [fc]
-あの赤い眼球が何を意味しているのか……、[r]
-警察には話さなかったけれど、嫌な予感がする。[pcms]
+What those red eyeballs meant... I didn't tell the police, but I have[r]
+a bad feeling about it.[pcms]
 
 ;//★bg12c ホテル客室・夜
 [bg storage="BG12c"][trans_c cross time=500]
@@ -619,170 +611,168 @@
 *4730|
 [fc]
 [vo_nat s="natu0096"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *4731|
 [fc]
-ふと、姉ちゃんの顔色が優れないことに気が付いた。[r]
-疲れてしまったんだろうか？[pcms]
+I suddenly noticed that my sister's complexion wasn't looking too[r]
+good. Maybe she's tired?[pcms]
 
 *4732|
 [fc]
-[ns]誠[nse]
-「どうしたの？　何かあった？」[pcms]
+[ns]Makoto[nse]
+"What's wrong? Did something happen?"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4733|
 [fc]
 [vo_nat s="natu0097"]
-[ns]夏都[nse]
-「なんでもないよ」[pcms]
+[ns]Natsu[nse]
+"It's nothing."[pcms]
 
 *4734|
 [fc]
-[ns]誠[nse]
-「んあ、むうっ……」[pcms]
+[ns]Makoto[nse]
+"Nngh, mmm..."[pcms]
 
 *4735|
 [fc]
-姉ちゃんが力任せに僕を抱きしめてくる。[pcms]
+My sister hugged me forcefully.[pcms]
 
 *4736|
 [fc]
-なにか、不安を振り払おうとするみたいに、[r]
-腕に力が込められていた。[pcms]
+It was as if she was trying to shake off her anxiety, putting strength[r]
+into her arms.[pcms]
 
 *4737|
 [fc]
-僕も姉ちゃんも、お互い自分たち以外の家族がいない。[pcms]
+Neither my sister nor I have any other family besides each other.[pcms]
 
 *4738|
 [fc]
-血は繋がっていなくても、[r]
-この世に、たった二人きりの家族だった。[pcms]
+Even though we're not related by blood, we're the only family we have[r]
+in this world.[pcms]
 
 *4739|
 [fc]
-姉ちゃんを大切にしたいという気持ちが、[r]
-僕の中で揺らぐことはない。[pcms]
+The feeling of wanting to cherish my sister has never wavered within[r]
+me.[pcms]
 
 *4740|
 [fc]
-[ns]誠[nse]
-「ぷはっ……窒息するじゃないか」[pcms]
+[ns]Makoto[nse]
+"Phew... I'm going to suffocate."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4741|
 [fc]
 [vo_nat s="natu0098"]
-[ns]夏都[nse]
-「わりぃ、わりぃ、なんか心配だったから」[pcms]
+[ns]Natsu[nse]
+"Sorry, sorry, I was just worried."[pcms]
 
 *4742|
 [fc]
-明日は朝食の後、モンバスのイベントの前に時間がある。[r]
-少しだけでも、一緒にどこか行きたいな。[pcms]
+There's some time after breakfast tomorrow before the Monbus event. I[r]
+want to go somewhere together, even if it's just for a little while.[pcms]
 
 *4743|
 [fc]
-[ns]誠[nse]
-「厄払いに、この島の大きな神社に行ってみようか。[r]
-　朝早くなら大丈夫でしょ？」[pcms]
+[ns]Makoto[nse]
+"How about we go to the big shrine on this island for a purification?[r]
+It should be fine if we go early in the morning, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4744|
 [fc]
 [vo_nat s="natu0099"]
-[ns]夏都[nse]
-「そうだな、そうするか」[pcms]
+[ns]Natsu[nse]
+"Yeah, let's do that."[pcms]
 
 *4745|
 [fc]
-姉ちゃんも、僕と同じ気持ちだったみたいだ。[r]
-家族で旅行をしているのに、ずっとバラバラなんて[r]
-もったいない。[pcms]
+It seems my sister feels the same way. It would be a waste to be on a[r]
+family trip and always be apart.[pcms]
 
 *4746|
 [fc]
-[ns]誠[nse]
-「じゃあ、姉ちゃんも疲れただろうから、[r]
-　部屋に戻るね。おやすみなさい」[pcms]
+[ns]Makoto[nse]
+"Then, since you must be tired, sister, let's head back to our room.[r]
+Good night."[pcms]
 
 *4747|
 [fc]
 [vo_nat s="natu0100"]
-[ns]夏都[nse]
-「あ、ああ、お休み」[pcms]
+[ns]Natsu[nse]
+"Ah, yeah, good night."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4748|
 [fc]
-今日は色々あって、僕も疲れた。[pcms]
+It's been a long day, and I'm tired too.[pcms]
 
 *4749|
 [fc]
-部屋で、ゆっくりと休むことにしよう。[pcms]
+I'll go back to my room and rest for a while.[pcms]
 
 *4750|
 [fc]
 [vo_nat s="natu0101"]
-[ns]夏都[nse]
-「あっ、誠！」[pcms]
+[ns]Natsu[nse]
+"Ah, Makoto!"[pcms]
 
 *4751|
 [fc]
-[ns]誠[nse]
-「え？」[pcms]
+[ns]Makoto[nse]
+"Huh?"[pcms]
 
 *4752|
 [fc]
-部屋を出ようとしたところで、[r]
-急に姉ちゃんに声をかけられた。[pcms]
+Just as I was about to leave the room, my sister suddenly called out[r]
+to me.[pcms]
 
 *4753|
 [fc]
-振り返ると、なんとも言えない顔をして、[r]
-姉ちゃんが困っている。[pcms]
+When I turned around, she had an indescribable look on her face and[r]
+seemed troubled.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4754|
 [fc]
 [vo_nat s="natu0102"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *4755|
 [fc]
-[ns]誠[nse]
-「…………？」[pcms]
+[ns]Makoto[nse]
+"…?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4756|
 [fc]
 [vo_nat s="natu0103"]
-[ns]夏都[nse]
-「なんでもない、お休み」[pcms]
+[ns]Natsu[nse]
+"It's nothing, good night."[pcms]
 
 *4757|
 [fc]
-[ns]誠[nse]
-「うん、お休み」[pcms]
+[ns]Makoto[nse]
+"Yeah, good night."[pcms]
 
 *4758|
 [fc]
-疲れているんだろう。[pcms]
+She must be tired.[pcms]
 
 *4759|
 [fc]
-僕は姉ちゃんの部屋から早々に退出すると、[r]
-自分の部屋に戻っていった。[pcms]
+I quickly left my sister's room and went back to my own.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -805,175 +795,171 @@
 
 *4760|
 [fc]
-[ns]誠[nse]
-「着いてそうそう、忙しかったね」[pcms]
+[ns]Makoto[nse]
+"We've been busy ever since we arrived."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4761|
 [fc]
 [vo_nat s="natu0073"]
-[ns]夏都[nse]
-「まぁ、退屈しないで済んだけどさ。[r]
-　旅行だからゆっくりしたいかな」[pcms]
+[ns]Natsu[nse]
+"Well, at least it wasn't boring. But since it's a trip, I'd like to[r]
+relax a bit."[pcms]
 
 *4762|
 [fc]
-もしかしたら、晩ご飯もまだ食べていないのかな。[r]
-メールを送ったけれど、返事を確認していない。[pcms]
+I wonder if she hasn't had dinner yet. I sent an email but haven't[r]
+checked for a reply.[pcms]
 
 *4763|
 [fc]
-[ns]誠[nse]
-「なんか、交通事故が多いみたいだから気をつけなよ？」[pcms]
+[ns]Makoto[nse]
+"Be careful, okay? It seems like there have been a lot of traffic[r]
+accidents lately."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4764|
 [fc]
 [vo_nat s="natu0074"]
-[ns]夏都[nse]
-「オレを心配するより、自分のこと心配しとけ。[r]
-　明日はライブフェスなんだから、車に轢かれる心配はないよ」[pcms]
+[ns]Natsu[nse]
+"Worry about yourself instead of me. There's no chance of getting hit[r]
+by a car at the live fest tomorrow."[pcms]
 
 *4765|
 [fc]
-[ns]誠[nse]
-「最近、救急車のサイレンが多いんだ、[r]
-　熱中症とかも大丈夫かなぁ……」[pcms]
+[ns]Makoto[nse]
+"I've been hearing a lot of ambulance sirens lately, I wonder if[r]
+heatstroke is okay..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na24"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4766|
 [fc]
 [vo_nat s="natu0075"]
-[ns]夏都[nse]
-「オレの心配するなんて十年早いって！[r]
-　この、もやしメガネが！」[pcms]
+[ns]Natsu[nse]
+"You're ten years too early to worry about me! You bean sprout[r]
+glasses!"[pcms]
 
 *4767|
 [fc]
-姉ちゃんが僕の頭をくしゃくしゃと撫で回した。[pcms]
+Onee-san ruffled my hair roughly.[pcms]
 
 *4768|
 [fc]
-確かに、自分のことも心配しなくちゃいけないけれど、[r]
-僕は大勢の人と一緒に行動してるから、[r]
-大概何とかなってしまうと思う。[pcms]
+Indeed, I need to be concerned about myself too, but since I'm with a[r]
+lot of people, I think things will generally work out.[pcms]
 
 *4769|
 [fc]
-[ns]誠[nse]
-「渋谷で会った越智さんってわかる？」[pcms]
+[ns]Makoto[nse]
+"Do you remember Ochi-san we met in Shibuya?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4770|
 [fc]
 [vo_nat s="natu0076"]
-[ns]夏都[nse]
-「このホテルを予約してくれた、かわいい子だろ？[r]
-　どうしたんだ？　オナニーしてるの見付かったか？」[pcms]
+[ns]Natsu[nse]
+"The cute girl who booked this hotel for us, right? What happened? Did[r]
+she catch you masturbating?"[pcms]
 
 *4771|
 [fc]
-[ns]誠[nse]
-「オナニーの話はやめてってば！」[pcms]
+[ns]Makoto[nse]
+"Stop talking about masturbation!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4772|
 [fc]
 [vo_nat s="natu0077"]
-[ns]夏都[nse]
-「あはは、別にいいじゃねえか。[r]
-　玉のちっけえ奴だな」[pcms]
+[ns]Natsu[nse]
+"Ahaha, it's fine, isn't it? You're such a small-timer."[pcms]
 
 *4773|
 [fc]
-姉ちゃんこそ、僕がいないアパートで、[r]
-オナニー三昧だったんじゃないだろうな。[pcms]
+Onee-san herself must have been indulging in masturbation marathons in[r]
+the apartment without me around.[pcms]
 
 *4774|
 [fc]
-さすがに聞けないけれども……。[pcms]
+I can't really ask her though...[pcms]
 
 *4775|
 [fc]
-[ns]誠[nse]
-「その越智さんから、明日プライベートビーチで[r]
-　バーベキューをやらないかって、誘われてるんだけど……」[pcms]
+[ns]Makoto[nse]
+"Ochi-san invited us to a barbecue at a private beach tomorrow..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4776|
 [fc]
 [vo_nat s="natu0078"]
-[ns]夏都[nse]
-「うーん、ちょっと待てよ……」[pcms]
+[ns]Natsu[nse]
+"Hmm, wait a sec..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4777|
 [fc]
-姉ちゃんがファンクラブの会報らしきものを取り出して、[r]
-お目当てのバンドの時間を調べ始めた。[pcms]
+Onee-san took out something that looked like a fan club newsletter and[r]
+started checking the schedule for her favorite bands.[pcms]
 
 *4778|
 [fc]
-全部は見られないから、ある程度の優先順位を[r]
-付けていると思うけれど……。[pcms]
+She can't see them all, so I think she's setting some priorities...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4779|
 [fc]
 [vo_nat s="natu0079"]
-[ns]夏都[nse]
-「あー、夕方のは絶対に外せないわ。[r]
-　誠が俺の分も食べてきてくれ」[pcms]
+[ns]Natsu[nse]
+"Ah, I absolutely can't miss the evening one. Makoto, you'll have to[r]
+eat my share too."[pcms]
 
 *4780|
 [fc]
-姉ちゃんは、ちょっと残念そうにそうつぶやくと、[r]
-仕方ないとばかりに肩をすくめる。[pcms]
+Onee-san muttered with a hint of disappointment and shrugged her[r]
+shoulders as if there was no helping it.[pcms]
 
 *4781|
 [fc]
-[ns]誠[nse]
-「折角のお誘いだったのに残念」[pcms]
+[ns]Makoto[nse]
+"It's a shame to miss such an invitation."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4782|
 [fc]
 [vo_nat s="natu0080"]
-[ns]夏都[nse]
-「あの子は、さっきも待っててくれたみたいだし、[r]
-　すごく良い子だよな」[pcms]
+[ns]Natsu[nse]
+"That girl seemed to be waiting for us earlier too, she's really a[r]
+nice person."[pcms]
 
 *4783|
 [fc]
-[ns]誠[nse]
-「そうなんだよ、断るのが心苦しいな」[pcms]
+[ns]Makoto[nse]
+"Yeah, it's hard to say no."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4784|
 [fc]
 [vo_nat s="natu0081"]
-[ns]夏都[nse]
-「オレも後で礼をいいに行くから、[r]
-　そんときにやんわりと言っておくさ」[pcms]
+[ns]Natsu[nse]
+"I'll go thank her later, and I'll let her know gently then."[pcms]
 
 *4785|
 [fc]
-この旅行は姉ちゃんに羽を伸ばしてもらうのが目的だ。[r]
-目当てのバンドと時間が重なるなら仕方がない。[pcms]
+The purpose of this trip is to let Onee-san spread her wings. If it[r]
+clashes with her favorite band's time, it can't be helped.[pcms]
 
 *4786|
 [fc]
-美味しいもの食べて欲しかったんだけどな。[pcms]
+I wanted her to enjoy some delicious food though.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -990,17 +976,17 @@
 
 *4787|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *4788|
 [fc]
-事故に遭った男の目が忘れられない。[pcms]
+I can't forget the eyes of the man who was in the accident.[pcms]
 
 *4789|
 [fc]
-あの赤い眼球が何を意味しているのか……、[r]
-警察には話さなかったけれど、嫌な予感がする。[pcms]
+What those red eyeballs meant... I didn't tell the police, but I have[r]
+a bad feeling.[pcms]
 
 ;//★bg12c ホテル客室・夜
 [bg storage="BG12c"][trans_c cross time=500]
@@ -1009,134 +995,132 @@
 *4790|
 [fc]
 [vo_nat s="natu0082"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *4791|
 [fc]
-ふと、姉ちゃんの顔色が優れないことに気が付いた。[r]
-疲れてしまったんだろうか？[pcms]
+Suddenly, I noticed that Onee-san's complexion wasn't good. Maybe[r]
+she's tired?[pcms]
 
 *4792|
 [fc]
-[ns]誠[nse]
-「どうしたの？　何かあった？」[pcms]
+[ns]Makoto[nse]
+"What's wrong? Did something happen?"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4793|
 [fc]
 [vo_nat s="natu0083"]
-[ns]夏都[nse]
-「なんでもないよ」[pcms]
+[ns]Natsu[nse]
+"It's nothing."[pcms]
 
 *4794|
 [fc]
-[ns]誠[nse]
-「んあ、むうっ……」[pcms]
+[ns]Makoto[nse]
+"Nn-ah, mmm..."[pcms]
 
 *4795|
 [fc]
-姉ちゃんが力任せに僕を抱きしめてくる。[pcms]
+Onee-san hugged me forcefully.[pcms]
 
 *4796|
 [fc]
-なにか、不安を振り払おうとするみたいに、[r]
-腕に力が込められていた。[pcms]
+It was as if she was trying to shake off some anxiety, putting[r]
+strength into her arms.[pcms]
 
 *4797|
 [fc]
-僕も姉ちゃんも、お互い自分たち以外の家族がいない。[pcms]
+Neither Onee-san nor I have any other family besides each other.[pcms]
 
 *4798|
 [fc]
-血は繋がっていなくても、[r]
-この世に、たった二人きりの家族だった。[pcms]
+We're not blood-related, but we're the only family we have in this[r]
+world.[pcms]
 
 *4799|
 [fc]
-姉ちゃんを大切にしたいという気持ちが、[r]
-僕の中で揺らぐことはない。[pcms]
+The feeling of wanting to cherish Onee-san has never wavered inside[r]
+me.[pcms]
 
 *4800|
 [fc]
-[ns]誠[nse]
-「もうっ……苦しいよ」[pcms]
+[ns]Makoto[nse]
+"Enough... It's suffocating."[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4801|
 [fc]
 [vo_nat s="natu0084"]
-[ns]夏都[nse]
-「わりぃ、わりぃ、なんか心配だったから」[pcms]
+[ns]Natsu[nse]
+"Sorry, sorry, I was just worried."[pcms]
 
 *4802|
 [fc]
-[ns]誠[nse]
-「本当に、大丈夫？」[pcms]
+[ns]Makoto[nse]
+"Are you really okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na24"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4803|
 [fc]
 [vo_nat s="natu0085"]
-[ns]夏都[nse]
-「なんでもねえってば」[pcms]
+[ns]Natsu[nse]
+"It's nothing."[pcms]
 
 *4804|
 [fc]
-姉ちゃんに抱きしめられながら、[r]
-寝てるときにイタズラしたことを思い出す。[pcms]
+While being hugged by Onee-san, I remembered the prank I played on her[r]
+while she was sleeping.[pcms]
 
 *4805|
 [fc]
-あのときは、蹴っ飛ばされて終わってしまったけれど……、[r]
-最高の感触だった。[pcms]
+That time, it ended with me getting kicked away... but it was the best[r]
+feeling.[pcms]
 
 *4806|
 [fc]
-姉ちゃんは、家族だ。[r]
-とても大切な家族……･。[pcms]
+Onee-san is family. A very important family...[pcms]
 
 *4807|
 [fc]
-僕はそう思いながらも、姉ちゃんのことを[r]
-抱きしめ返していた。[pcms]
+Even while thinking that, I hugged Onee-san back.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4808|
 [fc]
 [vo_nat s="natu0086"]
-[ns]夏都[nse]
-「今日は一緒に寝るか？」[pcms]
+[ns]Natsu[nse]
+"Shall we sleep together tonight?"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_bi0_a"][ChrSetParts layer=5 chface="F2_na01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4809|
 [fc]
-姉ちゃんと、一緒に寝る……、[r]
-もちろん家族としての言葉なのはわかるけれど……。[pcms]
+Sleeping together with Onee-san... Of course, I understand it's as[r]
+family... but the idea is appealing.[pcms]
 
 *4810|
 [fc]
-この、今抱きしめているやわらかい身体と、[r]
-今晩一緒になって寝るのは魅力的だった。[pcms]
+The soft body that I'm hugging right now, to sleep together with it[r]
+tonight is tempting.[pcms]
 
 *4811|
 [fc]
-あっ、勃ってきちゃう……。[pcms]
+Ah, I'm getting hard...[pcms]
 
 *4812|
 [fc]
-[ns]誠[nse]
-「う、うん。そーいちにメールしておくよ」[pcms]
+[ns]Makoto[nse]
+"Yeah, I'll send an email to Souichirou."[pcms]
 
 *4813|
 [fc]
-なんとなくそーいちと直接会うのがためらわれた僕は、[r]
-メールで今晩のことを伝えようと思っていた。[pcms]
+Somehow hesitant to meet Souichirou directly, I decided to inform him[r]
+about tonight via email.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

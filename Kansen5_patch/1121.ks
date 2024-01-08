@@ -76,7 +76,7 @@
 ;		[link target=*two_aspect_sel_SEL04 layer=3 left="&f.aspect1_x" top="&f.aspect4_y" single=true width=1024 height=72 border=0][endlink]
 ;		[link target=*two_aspect_sel_SEL05 layer=4 left="&f.aspect1_x" top="&f.aspect5_y" single=true width=1024 height=72 border=0][endlink]
 ;		;[link target=*aspect_sel_SEL06 layer=5 left="&f.aspect2_x" top="&f.aspect6_y" single=true width=256 height=48 border=0][endlink]
-;		[s]
+;[pcms]
 ;
 ;
 ;		;//jump先忘れずに　ムービー再生位置とボタン消去は調整必要かも
@@ -131,7 +131,7 @@
 ;		[link target=*natu_aspect_sel_SEL04 layer=3 left="&f.aspect1_x" top="&f.aspect4_y" single=true width=1024 height=72 border=0][endlink]
 ;		;[link target=*aspect_sel_SEL05 layer=4 left="&f.aspect1_x" top="&f.aspect5_y" single=true width=1024 height=72 border=0][endlink]
 ;		;[link target=*aspect_sel_SEL06 layer=5 left="&f.aspect2_x" top="&f.aspect6_y" single=true width=256 height=48 border=0][endlink]
-;		[s]
+;[pcms]
 ;
 ;
 ;		;//jump先忘れずに　ムービー再生位置とボタン消去は調整必要かも
@@ -180,7 +180,7 @@
 ;		;[link target=*aspect_sel_SEL04 layer=3 left="&f.aspect1_x" top="&f.aspect4_y" single=true width=1024 height=72 border=0][endlink]
 ;		[link target=*other_aspect_sel_SEL05 layer=4 left="&f.aspect1_x" top="&f.aspect5_y" single=true width=1024 height=72 border=0][endlink]
 ;		;[link target=*aspect_sel_SEL06 layer=5 left="&f.aspect2_x" top="&f.aspect6_y" single=true width=256 height=48 border=0][endlink]
-;		[s]
+;[pcms]
 ;
 ;		;//jump先忘れずに　ムービー再生位置とボタン消去は調整必要かも
 ;		*other_aspect_sel_SEL05

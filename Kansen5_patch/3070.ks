@@ -47,127 +47,124 @@
 
 *2749|
 [fc]
-[ns]誠[nse]
-「ひぃ……ふぅ……はぁ……はぁ……」[pcms]
+[ns]Makoto[nse]
+"Hii... Fuu... Haa... Haa..."[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
 
 *2750|
 [fc]
-蝉しぐれが降り注ぐ中、やっぱり僕は青息吐息の体で、[r]
-待ち合わせ場所として指定した、神社の前の[r]
-峠道まで戻ってきた。[pcms]
+Amidst the chorus of cicadas, I, gasping for breath, made my way back[r]
+to the mountain path in front of the shrine, the designated meeting[r]
+place.[pcms]
 
 *2751|
 [fc]
-額を汗がだらだらと流れ落ち、シャツの背中がへばりつく。[pcms]
+Sweat streamed down my forehead, and my shirt clung to my back.[pcms]
 
 *2752|
 [fc]
-すでに本日２回目のキツい自転車での山登りに、[r]
-膝が笑い出しそうになっていた。[pcms]
+My knees were about to give out from laughter after the second[r]
+strenuous bike ride up the mountain today.[pcms]
 
 *2753|
 [fc]
-我ながら、自分の体力のなさが本当に恨めしい。[pcms]
+I truly resented my own lack of physical strength.[pcms]
 
 *2754|
 [fc]
-日陰でしばらく息を整えるうちに、ようやく汗がひいてきた。[pcms]
+After catching my breath in the shade for a while, my sweat finally[r]
+began to subside.[pcms]
 
 *2755|
 [fc]
-木陰を通り抜けてゆくのは、生ぬるい南風だったが、[r]
-汗をかいた肌には、それすら心地良く感じられる。[pcms]
+The breeze passing through the trees was a warm southern wind, but it[r]
+felt pleasant against my sweaty skin.[pcms]
 
 *2756|
 [fc]
-ようやく、まともに息がつけるようになって、[r]
-僕はあたりを見回した。[pcms]
+Finally able to breathe properly, I looked around.[pcms]
 
 *2757|
 [fc]
-[ns]誠[nse]
-「やっぱり、まだ来てないか……」[pcms]
+[ns]Makoto[nse]
+"As expected, they're still not here..."[pcms]
 
 *2758|
 [fc]
-予想通り、そーいちもターヤさんもまだ待ち合わせ場所には[r]
-戻ってきていなかった。[pcms]
+As I thought, neither Souichi nor Tarja-san had returned to the[r]
+meeting place yet.[pcms]
 
 *2759|
 [fc]
-体力のない僕が、一番近くにあるポートをあてがわれたんだから[r]
-一番最初に戻ってきたのは、当然と言えば当然だ。[pcms]
+Given my lack of stamina, it was only natural that I, assigned the[r]
+closest port, would be the first to return.[pcms]
 
 *2760|
 [fc]
-その時、ふと気がついた。[pcms]
+That's when I suddenly realized something.[pcms]
 
 *2761|
 [fc]
-[ns]誠[nse]
-（あれ……？　別に、神社の前まで戻ってくることは[r]
-　なかったんじゃないだろうか……？）[pcms]
+[ns]Makoto[nse]
+(Wait...? Wasn't there no need to come back in front of the[r]
+shrine...?)[pcms]
 
 *2762|
 [fc]
-この神社は、来るのにけっこう大変な場所にある。[pcms]
+This shrine is located in a rather difficult place to reach.[pcms]
 
 *2763|
 [fc]
-実際、最初にここへ来て、それからホテルまで行って[r]
-戻ってくるだけで、体力のない僕はかなり[r]
-ヘトヘトになってしまっている。[pcms]
+In fact, just coming here initially and then going to the hotel and[r]
+back had left me quite exhausted due to my lack of stamina.[pcms]
 
 *2764|
 [fc]
-残り３つのクエストを手に入れたら、あとはそれをクリアして[r]
-紋章を揃えてゴールするだけなんだから、むしろビーチに[r]
-集合した方が都合が良かったことに今気がついた。[pcms]
+Once we've collected the remaining three quests, all we need to do is[r]
+clear them and gather the crests to reach the goal; I just realized it[r]
+would have been more convenient to meet at the beach instead.[pcms]
 
 *2765|
 [fc]
-普段なら、そーいちあたりが気がつきそうなもんだけど[r]
-僕もそーいちも、そしてターヤさんからも、そういった意見は[r]
-一切出てこなかった。[pcms]
+Normally, Souichi would have noticed something like this, but neither[r]
+he nor I, nor Tarja-san, had mentioned any such suggestion.[pcms]
 
 *2766|
 [fc]
-そういう自覚はなかったけど、やっぱりこのイベントに[r]
-参加していることで、僕たちは多少なりとも[r]
-浮かれてるんだろう。[pcms]
+Though I wasn't aware of it, perhaps we were all a bit carried away by[r]
+participating in this event.[pcms]
 
 *2767|
 [fc]
-携帯で連絡を取りあって、待ち合わせ場所を変更しようか……とも[r]
-思ったけど、キャンプ場に行ったそーいちはもう[r]
-こっちに戻ってきてる途中かも知れない。[pcms]
+I thought about contacting everyone by phone to change the meeting[r]
+place, but Souichi, who went to the campsite, might already be on his[r]
+way back here.[pcms]
 
 *2768|
 [fc]
-ターヤさんはともかく、デヴ君にはぜひ神社まで戻ってきて[r]
-僕と同じ苦労を味わってもらいたい。[pcms]
+Regardless of Tarja-san, I definitely want Dev-kun to come back to the[r]
+shrine and experience the same hardship as me.[pcms]
 
 *2769|
 [fc]
-よし。そーいちが合流した時点で、ターヤさんに連絡して[r]
-待ち合わせ場所を変更することにしよう。[pcms]
+Alright. Once Souichi joins up, I'll contact Tarja-san and decide to[r]
+change the meeting place.[pcms]
 
 *2770|
 [fc]
-[ns]誠[nse]
-（じゃ、その間にひと狩りといきますか……）[pcms]
+[ns]Makoto[nse]
+(Well then, shall we go for a little hunt in the meantime...)[pcms]
 
 *2771|
 [fc]
-そーいちが来るまで、まだちょっと時間がかかるだろう。[pcms]
+It will probably take a while for Souichi to arrive.[pcms]
 
 *2772|
 [fc]
-その間に、ソロプレイで素材を回収しておこうと思い、[r]
-僕は携帯ゲーム機の電源を入れた。[pcms]
+In the meantime, I decided to collect materials solo and turned on my[r]
+handheld game console.[pcms]
 
 ;//モン○ン詳しくないので、描写しないで暗転で逃げます（た）
 
@@ -176,72 +173,73 @@
 
 *2773|
 [fc]
-………………………………………[pcms]
+...[pcms]
 
 *2774|
 [fc]
-………………………………[pcms]
+...[pcms]
 
 *2775|
 [fc]
-………………………[pcms]
+...[pcms]
 
 ;//★bg06a 島の周回道路（海沿いの道路）・朝昼
 [bg storage="BG06a"][trans_c cross time=500]
 
 *2776|
 [fc]
-[ns]誠[nse]
-「それにしても、遅いな、そーいち……」[pcms]
+[ns]Makoto[nse]
+"Even so, Souichi is late..."[pcms]
 
 *2777|
 [fc]
-強化アイテムの素材となる、閃光虫の羽を入手したところで[r]
-僕はゲームをポーズしてあたりを見回した。[pcms]
+I paused the game after obtaining the wings of a flash bug, which are[r]
+materials for enhancement items, and looked around again.[pcms]
 
 *2778|
 [fc]
-こうやって、ソロプレイで強力な弾の素材を回収していれば[r]
-時間はいくらでも潰すことができるけど……。[pcms]
+By collecting powerful bullet materials through solo play like this, I[r]
+can kill as much time as needed...[pcms]
 
 *2779|
 [fc]
-ターヤさんはともかく、いくらなんでもそーいちは[r]
-もうそろそろ戻ってきてもいい頃だ。[pcms]
+Regardless of Tarja-san, Souichi should be returning soon enough by[r]
+now.[pcms]
 
 *2780|
 [fc]
-[ns]誠[nse]
-（あ……ひょっとして……）[pcms]
+[ns]Makoto[nse]
+(Ah... could it be...)[pcms]
 
 *2781|
 [fc]
-そう言えば、キャンプ場には南先輩が撮影のために[r]
-泊まり込んでいたっけ。[pcms]
+Come to think of it, Satsuki-senpai was staying overnight at the[r]
+campsite for a photo shoot.[pcms]
 
 *2782|
 [fc]
-南先輩に出くわして、今頃は鼻の下を伸ばしてるんだろうか。[pcms]
+I wonder if Souichi has run into her and is now stretching his nose[r]
+out in delight.[pcms]
 
 *2783|
 [fc]
-僕を差し置いて、ひとりで南先輩の水着姿を堪能してたりしたら[r]
-なんともけしからん事この上ない。[pcms]
+If he's enjoying Satsuki-senpai's swimsuit appearance alone without[r]
+me, that would be utterly shameless.[pcms]
 
 *2784|
 [fc]
-[ns]誠[nse]
-（ちょっと、電話してみるか）[pcms]
+[ns]Makoto[nse]
+(Maybe I should give him a call)[pcms]
 
 *2785|
 [fc]
-僕は携帯を取り出すと、そーいちの番号にかけてみた。[pcms]
+I took out my phone and tried calling Souichi's number.[pcms]
 
 ;//SE：携帯の呼び出し音（ループ）
 
 *2786|
 [fc]
-なかなかそーいちは出ない。[pcms]
+Souichi isn't picking up right away.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -250,72 +248,73 @@
 *2787|
 [fc]
 [vo_mob s="banshee0001"]
-[ns]女[nse]
-「きゃーーーーっ！」[pcms]
+[ns]Female[nse]
+"Kyaa----!"[pcms]
 
 *2788|
 [fc]
-その時、僕の背後で、いきなり誰かの叫び声が聞こえた。[pcms]
+Just then, I heard someone's scream suddenly from behind me.[pcms]
 
 [se buf=0 storage="seA052"]
 ;//♪SE複数人の走る足音
 
 *2789|
 [fc]
-あわてて声のした方向を振り返ると、数人の男女が[r]
-神社の山門から転がるように走り出てくる。[pcms]
+Turning around in a hurry towards the direction of the voice, I see[r]
+several men and women running out from the shrine's gate as if[r]
+tumbling out.[pcms]
 
 *2790|
 [fc]
-何を言ってるのか、ここからはよく聞こえないけど[r]
-口々になにか叫びながら、あわてて走り去ってしまった。[pcms]
+I can't quite hear what they're saying from here, but they're all[r]
+shouting something as they run away in a panic.[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
 
 *2791|
 [fc]
-[ns]誠[nse]
-（なんだろう、いったい……？）[pcms]
+[ns]Makoto[nse]
+(What could it be, exactly...?)[pcms]
 
 *2792|
 [fc]
-コールし続けているけど、まだそーいちは電話に出ない。[pcms]
+I keep calling, but Souichi still isn't answering the phone.[pcms]
 
 ;//m:ボイス見当たらないので代用
 ;//[vo_sat s="sato_tj0011"]
-;//[ns]？？？[nse]
+[ns]？？？[nse]
 ;//「きゃーーっ！　いやああぁーーーーーっ！！」
 
 *2793|
 [fc]
 [vo_sat s="sato_tj0022"]
 [ns]？？？[nse]
-「い、いやああぁぁぁああぁぁぁっっ！！！」[pcms]
+"Nooo----!!!"[pcms]
 
 ;//怜
 
 *2794|
 [fc]
-え……！？　今の叫び声って………村上さん……？[pcms]
+Eh...!? Was that scream just now... Murakami-san...?[pcms]
 
 [se buf=0 storage="seG010" v=50]
 ;//♪SE男たちの怒号
 
 *2795|
 [fc]
-いま聞こえた悲鳴は、村上さんの声によく似てた気がする。[r]
-それとも、僕の聞き間違いだろうか？[pcms]
+The scream I just heard sounded a lot like Murakami-san's voice. Or[r]
+could it be that I misheard?[pcms]
 
 *2796|
 [fc]
-そう言えば、なんだか神社の中が騒がしい。[pcms]
+By the way, it seems quite noisy inside the shrine.[pcms]
 
 ;//SE　呼び出し音のループ、ここで中断
 
 *2797|
 [fc]
-僕はそーいちへの電話をあきらめ、神社へと足を運んだ。[pcms]
+I gave up on calling Souichi and headed towards the shrine.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -326,15 +325,15 @@
 
 *2798|
 [fc]
-………………………………………[pcms]
+...[pcms]
 
 *2799|
 [fc]
-………………………………[pcms]
+...[pcms]
 
 *2800|
 [fc]
-………………………[pcms]
+...[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
@@ -344,82 +343,81 @@
 
 *2801|
 [fc]
-神社の境内は、大混乱に陥っていた。[pcms]
+The shrine precincts were in complete chaos.[pcms]
 
 *2802|
 [fc]
-想像もしていなかった状況に、思わず頭が真っ白になってしまう。[pcms]
+Faced with a situation I had never imagined, my mind went blank.[pcms]
 
 *2803|
 [fc]
-[ns]誠[nse]
-「な……なんだよ、これ………？」[pcms]
+[ns]Makoto[nse]
+"Wha... what is this...?"[pcms]
 
 *2804|
 [fc]
-なんだか薄汚れた服装の男や女が、ぎくしゃくとした足取りで[r]
-動きながら、他の参拝客に襲いかかっている。[pcms]
+There were men and women in dirty clothes, with jerky movements,[r]
+attacking other visitors.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=0][trans_c cross time=150]
 
 *2805|
 [fc]
-[ns]男[nse]
-「あばばばぁ～、お、お゛んなあ゛ぁ～」[pcms]
+[ns]Male[nse]
+"Abababaa~, oh, wo~men~"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2806|
 [fc]
 [vo_mob s="customer0001"]
-[ns]女性客[nse]
-「いやーっ！　やめてえぇーーっ！！」[pcms]
+[ns]Female Customer[nse]
+"No-! Stop it--!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_b3"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2807|
 [fc]
 [vo_mob s="reverse0001"]
-[ns]女[nse]
-「あ、あ゛はあぁ、お゛とこ、お゛とこよお゛ぉ～。[r]
-　ね、ね゛えぇ、わたしと、お゛まんこしま゛しょおぉよおぉ～」[pcms]
+[ns]Female[nse]
+"Ah, ahaa, men, men~. Hey, hey~, let's do it with my pussy~"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2808|
 [fc]
-[ns]男性客[nse]
-「やっ、やめろっ！　放せっ！！」[pcms]
+[ns]Male Guest[nse]
+"Stop, stop it! Let go!!"[pcms]
 
 *2809|
 [fc]
-[ns]男[nse]
-「あ゛～、はらへっだあ゛あ゛ぁ～、にぐうう゛ぅ～」[pcms]
+[ns]Male[nse]
+"Aah~, I'm so hungry~"[pcms]
 
 *2810|
 [fc]
-真っ昼間なのに、女性をレイプしようとしてる男や、[r]
-逆に男性をレイプしようとしている女。[pcms]
+In broad daylight, there are men trying to rape women and women trying[r]
+to rape men.[pcms]
 
 *2811|
 [fc]
-それどころか、口のまわりを真っ赤に染めて、倒れた人に[r]
-噛みついているヤツさえいる。[pcms]
+Not to mention, there are people with their mouths stained red, biting[r]
+into those who have fallen.[pcms]
 
 *2812|
 [fc]
-[ns]誠[nse]
-「な、なんだよ、これ……。なんなんだよ、いったい……！！」[pcms]
+[ns]Makoto[nse]
+"What is this... What on earth is going on...!!"[pcms]
 
 *2813|
 [fc]
-自分が目にしてる光景が現実のものとはどうしても信じられず、[r]
-僕はその場に凍りついてしまった。[pcms]
+I couldn't believe that what I was seeing was real, and I was frozen[r]
+on the spot.[pcms]
 
 *2814|
 [fc]
-その瞬間、僕の脳内で４年前の封印されていた記憶が[r]
-脈絡なくフラッシュバックする。[pcms]
+In that moment, memories sealed away four years ago flashed through my[r]
+mind without context.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -448,16 +446,16 @@
 
 *2815|
 [fc]
-絶叫する男、悲鳴を上げて泣き叫ぶ女、[r]
-飛び散る血と肉片と内臓と脳漿。[pcms]
+Screaming men, women crying out in terror, blood and flesh and viscera[r]
+and brains splattering.[pcms]
 
 [se buf=0 storage="seB023" loop=true]
 ;//♪SE心臓の鼓動
 
 *2816|
 [fc]
-生温かい血溜まりの、むわっとしたむせ返るような臭い。[r]
-周囲の空気に充満する鉄臭さ。[pcms]
+The warm, nauseating smell of pools of blood. The iron scent filling[r]
+the air around me.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -471,24 +469,24 @@
 
 *2817|
 [fc]
-薄ら笑いを浮かべる、赤い目をした男たち、そして女たち。[pcms]
+Men and women with faint smiles and red eyes.[pcms]
 
 *2818|
 [fc]
-エピデミック。東北アウトブレイク。[pcms]
+Epidemic. The Tohoku Outbreak.[pcms]
 
 *2819|
 [fc]
-絶望に染め上げられた、地獄の底のようなあの光景。[pcms]
+The scene of hell at its depths, dyed in despair.[pcms]
 
 *2820|
 [fc]
-そうだ……これは……あの時と同じ……！[pcms]
+That's right... this is... just like that time...![pcms]
 
 *2821|
 [fc]
-周囲から聞こえてくる悲鳴や怒号に、全身を恐怖が[r]
-走り抜けると同時に、大量のアドレナリンが放出される。[pcms]
+The screams and shouts from around me send terror coursing through my[r]
+entire body as a rush of adrenaline is released.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -499,53 +497,53 @@
 
 *2822|
 [fc]
-[ns]男性客[nse]
-「ぎゃーーーーーーーーっ！！」[pcms]
+[ns]Male Guest[nse]
+"Gyaa--------!!"[pcms]
 
 *2823|
 [fc]
 [vo_mob s="customer0002"]
-[ns]女性客[nse]
-「やめてーーーーっ！！　放してっ！　放してよおぉっ！！」[pcms]
+[ns]Female Customer[nse]
+"Stop it----!! Let go! Let go of me!!"[pcms]
 
 *2824|
 [fc]
-[ns]男性客[nse]
-「だっ、誰かっ、誰か助けてくれええぇっ！！」[pcms]
+[ns]Male Customer[nse]
+"Somebody, somebody help meee!!"[pcms]
 
 *2825|
 [fc]
-[ns]男[nse]
-「んばあ゛ぁ～、にぐぅ、う゛めぇなあ゛あ゛ぁ～」[pcms]
+[ns]Male[nse]
+"Nbaaa~, I'm hungry~, don't eat meee~"[pcms]
 
 *2826|
 [fc]
-麻痺したようになっていた僕の足に力が戻ってくる。[pcms]
+Strength returns to my legs which had been paralyzed.[pcms]
 
 *2827|
 [fc]
-僕はその場から，目立たないようにゆっくりと動き始めた。[pcms]
+I start to move slowly so as not to stand out from where I am.[pcms]
 
 *2828|
 [fc]
-[ns]誠[nse]
-（に、逃げなきゃ……はやくどっかに隠れないと……）[pcms]
+[ns]Makoto[nse]
+(I have to escape... I need to hide somewhere quickly...)[pcms]
 
 *2829|
 [fc]
-ゆっくりとその場から後ずさると、僕は一目散に逃げ出していく。[pcms]
+I slowly back away from the spot, then start to run away as fast as I[r]
+can.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *2830|
 [fc]
-走りながら、どこか隠れることができる場所がないか[r]
-必死に周囲を見回した。[pcms]
+While running, I desperately look around for a place to hide.[pcms]
 
 *2831|
 [fc]
-すると、小さなお堂の扉が開いているのが見える。[pcms]
+Then, I see the doors of a small temple open.[pcms]
 
 ;//m:次ブロックの展開も含んでるので閂問題はスルーする。修正するなら次ブロックも一部修正
 
@@ -558,8 +556,8 @@
 
 *2832|
 [fc]
-僕は反射的にその中に転がり込むと、扉を閉めて[r]
-中にあった古い閂をかけた。[pcms]
+I reflexively roll inside, close the door, and secure it with an old[r]
+bolt that was inside.[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
@@ -569,42 +567,42 @@
 
 *2833|
 [fc]
-[ns]誠[nse]
-（よ、よかった……これで、とりあえずは……）[pcms]
+[ns]Makoto[nse]
+(Thank goodness... at least for now...)[pcms]
 
 *2834|
 [fc]
-お堂の外からは、相変わらず悲鳴や絶叫が聞こえてくる。[pcms]
+Screams and shrieks continue to be heard from outside the temple.[pcms]
 
 *2835|
 [fc]
-ほっとした僕は、扉に背を向けてへたり込んでしまった。[pcms]
+Relieved, I slump down with my back against the door.[pcms]
 
 ;//m:ボイス見当たらないので代用
 ;//[vo_sat s="sato_tj0012"]
-;//[ns]怜[nse]
+[ns]Sato[nse]
 ;//「いやっ！　いやああぁっ！　止めてっ！
 ;//　やめてよおおぉっ！！」
 
 *2836|
 [fc]
 [vo_sat s="sato_tj0014"]
-[ns]怜[nse]
-「嫌っ！　いやあぁっ！　止めてっ、やめてってばあぁっ！！」[pcms]
+[ns]Sato[nse]
+"No! Noooo! Stop it, please stop!!"[pcms]
 
 *2837|
 [fc]
-その時、扉の外から村上さんの声が聞こえてきた。[pcms]
+At that moment, I hear Ms. Murakami's voice from outside the door.[pcms]
 
 *2838|
 [fc]
-さっき、神社の外で聞いた時は自信がなかったけど、[r]
-今の悲鳴は間違いなく村上さんの声だ。[pcms]
+Although I wasn't sure when I heard it outside the shrine, the scream[r]
+I just heard is unmistakably Ms. Murakami's voice.[pcms]
 
 *2839|
 [fc]
-僕は、外から見つからないように注意しながら、[r]
-格子戸になっているお堂の扉から外の様子を覗ってみた。[pcms]
+Being careful not to be seen from outside, I peek through the lattice[r]
+door of the temple to see what's happening outside.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -635,19 +633,18 @@
 *2840|
 [fc]
 [vo_sat s="sato_tj0013"]
-[ns]怜[nse]
-「やだっ！　やだってばっ！　放せっ！　放してよおっ！」[pcms]
+[ns]Sato[nse]
+"No! I said no! Let go! Let me go!!"[pcms]
 
 *2841|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛～、い゛い゛なあ゛～、だまんね゛ぇなあ゛ぁ～、[r]
-　み゛ござん、も゛え゛えぇ～」[pcms]
+[ns]Infected Person A[nse]
+"Oooh, you're so quiet, don't be silent, it's so hot."[pcms]
 
 *2842|
 [fc]
-扉の外では、村上さんが薄汚れた男に抱え上げられながら、[r]
-必死に抵抗していた。[pcms]
+Outside the door, Ms. Murakami is being lifted by a filthy man while[r]
+desperately resisting.[pcms]
 
 ;//■イベントCG　sato_H003
 [evcg storage="sato_H003b"][trans_c cross time=300]
@@ -655,46 +652,45 @@
 *2843|
 [fc]
 [vo_sat s="sato_tj0014"]
-[ns]怜[nse]
-「嫌っ！　いやあぁっ！　止めてっ、やめてってばあぁっ！！」[pcms]
+[ns]Sato[nse]
+"No! Noooo! Stop it, please stop!!"[pcms]
 
 *2844|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛～、ごの゛う゛い゛ういしい、はん゛のう゛が～、[r]
-　み゛ござん、ら゛じぐで、いい゛ぃなあ゛あぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Oooh, your unwillingness is so arousing, it's irresistible."[pcms]
 
 *2845|
 [fc]
-男の手に翻弄されて、村上さんの御子装束は[r]
-すっかり乱れてしまっていた。[pcms]
+Ms. Murakami's shrine maiden outfit is completely disheveled due to[r]
+the man's handling.[pcms]
 
 *2846|
 [fc]
-胸元は乱れて、胸が見えてしまっているし、[r]
-赤い袴もめくり上げられて、下着が見えてしまっている。[pcms]
+Her chest is exposed due to the disarray, and her red hakama is lifted[r]
+up, revealing her underwear.[pcms]
 
 *2847|
 [fc]
-[ns]感染者Ａ[nse]
-「あ～、な゛んだあ～、ひも゛の゛ぱん゛づなんが、[r]
-　はい゛でやがる゛～、え、えっぢな゛みござんだなあぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Ah, what's this? You're wearing string panties, eh? Such a naughty[r]
+sight."[pcms]
 
 *2848|
 [fc]
 [vo_sat s="sato_tj0015"]
-[ns]怜[nse]
-「うるさいっ！　放せっ！　放してよっ！」[pcms]
+[ns]Sato[nse]
+"Shut up! Let go! Let me go!"[pcms]
 
 *2849|
 [fc]
-[ns]感染者Ａ[nse]
-「ぐへへへぇ゛～、おまん゛ごぉ、い゛だだぎまあ゛ぁす～」[pcms]
+[ns]Infected Person A[nse]
+"Gheheheh, your pussy, I'm gonna enjoy this."[pcms]
 
 *2850|
 [fc]
-男が勃起したペニスを村上さんの股間に押しつけると、[r]
-そのまま下着ごと突き入れた。[pcms]
+The man presses his erect penis against Ms. Murakami's crotch and[r]
+thrusts it in, panties and all.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -705,17 +701,18 @@
 *2851|
 [fc]
 [vo_sat s="sato_tj0016"]
-[ns]怜[nse]
-「ぎ、ぎゃああああぁぁ……あああぁぁぁああぁっ！！」[pcms]
+[ns]Sato[nse]
+"It hurts... it hurts so much... please stop! Put me down, put me[r]
+down!!"[pcms]
 
 *2852|
 [fc]
-引き裂くような村上さんの絶叫があたりに木霊する。[pcms]
+Ms. Murakami's agonized screams echo through the area.[pcms]
 
 *2853|
 [fc]
-感染者のペニスは、穿いていたヒモパンごと[r]
-村上さんのあそこにめり込んでいた。[pcms]
+The infected person's penis has penetrated Ms. Murakami's pussy along[r]
+with the string panties she was wearing.[pcms]
 
 ;//■イベントCG　sato_H003 
 [evcg storage="sato_H003d"][trans_c cross time=300]
@@ -723,40 +720,38 @@
 *2854|
 [fc]
 [vo_sat s="sato_tj0017"]
-[ns]怜[nse]
-「痛いぃっ！　痛いよおぉっ！！[r]
-　お願いぃっ、やめてっ！　降ろしてっ、降ろしてよおっ！！」[pcms]
+[ns]Sato[nse]
+"It hurts! It hurts so much!! Please, stop it! Put me down, put me[r]
+down!!"[pcms]
 
 *2855|
 [fc]
-あそこにめり込んだ村上さんのパンツに、[r]
-べっとりと血がついてるのが見える。[pcms]
+Blood is visibly staining Ms. Murakami's panties that have been pushed[r]
+inside her.[pcms]
 
 *2856|
 [fc]
-村上さん……処女だったんだ……。[pcms]
+Ms. Murakami... she was a virgin...[pcms]
 
 *2857|
 [fc]
-僕がもっと強ければ、ここから飛び出していって、村上さんを[r]
-助けてあげることもできるんだろうけど、僕には[r]
-そんなことができるような力も勇気もない。[pcms]
+If only I were stronger, I could rush out from here and save Ms.[r]
+Murakami, but I lack the strength and courage to do such a thing.[pcms]
 
 *2858|
 [fc]
-ただ、ここに隠れて、村上さんが感染者に凌辱されるのを[r]
-為す術もなく見守ることしかできない自分が[r]
-ただ情けなく、腹立たしかった。[pcms]
+All I can do is hide here and watch helplessly as Ms. Murakami is[r]
+violated by the infected person, feeling nothing but shame and anger[r]
+at myself.[pcms]
 
 *2859|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛ほぉ～、お゛まん゛こぉ、きつきつだあ゛ぁ～。[r]
-　あ゛～、たま゛んねぇな゛あ゛あぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Ohhh, your pussy is so tight. Ahh, it's unbearable."[pcms]
 
 *2860|
 [fc]
-男が、村上さんの体を持ち上げて乱暴に揺さぶりはじめた。[pcms]
+The man lifts Ms. Murakami's body and begins to shake her violently.[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
@@ -767,77 +762,73 @@
 *2861|
 [fc]
 [vo_sat s="sato_tj0018"]
-[ns]怜[nse]
-「ぎっ、ぎいいぃぃっ！　やめ……てっ！　痛いいっ！[r]
-　壊れ……るっ！　壊れちゃうっ！　ああっくうううぅっ！！」[pcms]
+[ns]Sato[nse]
+"Stop... it hurts! It's breaking... I'm breaking! Ahhhhh!!"[pcms]
 
 *2862|
 [fc]
-下着を巻き込んだまま、感染者が好き勝手に村上さんの体を[r]
-動かしてピストン運動する。[pcms]
+The infected person moves Ms. Murakami's body as he pleases while[r]
+performing piston movements with her panties still wrapped around.[pcms]
 
 *2863|
 [fc]
-村上さんがその度に、目を白黒させて絶叫する。[pcms]
+Each time, Ms. Murakami's eyes roll back as she screams in agony.[pcms]
 
 *2864|
 [fc]
-[ns]感染者Ａ[nse]
-「くう゛ぅ～しま゛る゛う゛ぅ～、や、や゛っぱ、[r]
-　しょじょの゛おま゛ん゛こは、さい゛こうだなあ゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"It tightens up... yeah, a virgin pussy is the best."[pcms]
 
 *2865|
 [fc]
 [vo_sat s="sato_tj0019"]
-[ns]怜[nse]
-「ぐああぁっ！　ぎいっ！　がぁあぁぁっ！[r]
-　いやっ！　やめてっ！　いだいっ！　いだぃよおぉっ！！」[pcms]
+[ns]Sato[nse]
+"Ahhh! It hurts! It hurts so much! Stop it! It's painful!!"[pcms]
 
 *2866|
 [fc]
-男のペニスが村上さんのあそこに出入りする度に、[r]
-結合部から、愛液じゃなくて血がしぶいて飛び散っている。[pcms]
+Each time the man's penis enters and exits Ms. Murakami's pussy, blood[r]
+rather than love juices splatters from their joining.[pcms]
 
 *2867|
 [fc]
-村上さんは、涙とよだれで顔をぐしゃぐしゃにしながら[r]
-苦痛に叫び続けていた。[pcms]
+Ms. Murakami continues to scream in pain with her face drenched in[r]
+tears and drool.[pcms]
 
 *2868|
 [fc]
 [vo_sat s="sato_tj0020"]
-[ns]怜[nse]
-「きいぃぃいっ！　あがあぁあぁっ！　いだいっいだあいっ！[r]
-　やめ゛てぇ……もうやめ゛てえぇ……ぎっ、ぎいいぃっ！！」[pcms]
+[ns]Sato[nse]
+"It hurts! It hurts so much! Please stop... please stop... Ahhhhh!!"[pcms]
 
 *2869|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～、なんでぐあ゛い゛のいい、お゛まん゛こな゛んだ～。[r]
-　だっ゛ぷり、な゛がだじじで、やるぞお゛ぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahh~ why is your pussy so tight? I'm gonna fuck you deep and hard, oh[r]
+yeah~"[pcms]
 
 *2870|
 [fc]
-男のその言葉に、村上さんが全身で嫌悪を見せた。[pcms]
+Upon hearing the man's words, Ms. Murakami showed her disgust with her[r]
+entire body.[pcms]
 
 *2871|
 [fc]
 [vo_sat s="sato_tj0021"]
-[ns]怜[nse]
-「やだっやだああぁっ！　やめてっ！　出さないでぇっ！[r]
-　それだけは、それだけは絶対にいやああぁあっ！」[pcms]
+[ns]Sato[nse]
+"No, nooo! Stop it! Don't cum inside! Anything but that, please nooo!"[pcms]
 
 *2872|
 [fc]
-[ns]感染者Ａ[nse]
-「だ、だめ゛だあ゛～、もう゛とまんね゛え゛ぇ～[r]
-　え゛っぢな、みこさん、お゛れのごども、はら゛めえぇ～」[pcms]
+[ns]Infected Person A[nse]
+"No can do~ I can't stop now~ Get ready, Ms. Murakami, I'm gonna cum[r]
+inside you~"[pcms]
 
 *2873|
 [fc]
 [vo_sat s="sato_tj0022"]
-[ns]怜[nse]
-「い、いやああぁぁぁああぁぁぁっっ！！！」[pcms]
+[ns]Sato[nse]
+"No, nooooo!!!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -853,13 +844,13 @@
 
 *2874|
 [fc]
-男が村上さんの体を大きく持ち上げてから落とすと、[r]
-そのまま中で射精した。[pcms]
+The man lifted Ms. Murakami's body high and then dropped her,[r]
+ejaculating inside her in the process.[pcms]
 
 *2875|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛お゛お～、すげぇ、どくどく、でてる゛ぞお゛ぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Ohhh~ it's gushing out, I'm cumming so much~"[pcms]
 
 ;//■イベントCG　sato_H003
 [evcg storage="sato_H003g"][trans_c cross time=300]
@@ -867,70 +858,66 @@
 *2876|
 [fc]
 [vo_sat s="sato_tj0023"]
-[ns]怜[nse]
-「あ……ああぁ……いやぁ……いやああぁ………」[pcms]
+[ns]Sato[nse]
+"Ah... ahh... no... please no..."[pcms]
 
 *2877|
 [fc]
-男と村上さんの反応は、これ以上ないほど好対照だった。[pcms]
+The reactions of the man and Ms. Murakami were in stark contrast.[pcms]
 
 *2878|
 [fc]
-射精の快感に眼を細めて愉悦の表情を浮かべている男と、[r]
-見知らぬ誰かに犯され、膣内に射精されてしまった[r]
-絶望感に泣く村上さん。[pcms]
+The man squinted his eyes in pleasure, a look of bliss on his face,[r]
+while Ms. Murakami cried in despair after being violated by a stranger[r]
+and ejaculated inside.[pcms]
 
 *2879|
 [fc]
-しかし、男の欲望は底なしだった。[pcms]
+However, the man's desires were bottomless.[pcms]
 
 *2880|
 [fc]
-[ns]感染者Ａ[nse]
-「い゛っぱつ、だじだぐら゛いじゃ～、や゛りたり゛ね゛ぇ～、[r]
-　も゛っども゛っどぉ、だじでやるう゛ぅ゛～」[pcms]
+[ns]Infected Person A[nse]
+"One round isn't enough~ I want more, gonna fuck you deep again~"[pcms]
 
 *2881|
 [fc]
 [vo_sat s="sato_tj0024"]
-[ns]怜[nse]
-「いやあぁ……もういやあぁっ！[r]
-　お願いだから……やめてよおぉ……っ！」[pcms]
+[ns]Sato[nse]
+"No more... please no more! Please... stop it...!"[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *2882|
 [fc]
-村上さんの懇願にまったく聞く耳を持たず、男はまた自分勝手に[r]
-がつがつと腰を振り始める。[pcms]
+Ignoring Ms. Murakami's pleas completely, the man selfishly began to[r]
+thrust his hips again.[pcms]
 
 *2883|
 [fc]
-そこへ、別の男がふらふらと近づいてきた。[pcms]
+Then, another man staggered over.[pcms]
 
 *2884|
 [fc]
-[ns]感染者Ｂ[nse]
-「お、おぉ～、み゛こさん゛の、お゛ま゛んこお゛ぉ～[r]
-　お゛れに゛も～、やら゛せろ゛～」[pcms]
+[ns]Infected Person B[nse]
+"Oh~ Ms. Murakami's pussy~ Let me have a turn too~"[pcms]
 
 *2885|
 [fc]
-新たに現れた男が、いきり立ったペニスに手を添えて[r]
-村上さんのあそこに、さらに侵入しようとした。[pcms]
+The newly arrived man, with his erect penis in hand, attempted to[r]
+further invade Ms. Murakami's private parts.[pcms]
 
 *2886|
 [fc]
 [vo_sat s="sato_tj0025"]
-[ns]怜[nse]
-「ひ、ひいっ！　だめっ！　やめてよっ！　あっち行ってえっ！[r]
-　も、もう、これ以上は無理いぃっ！　いやあぁっ！」[pcms]
+[ns]Sato[nse]
+"Eek! No! Stop it! Go away! I can't take any more! Noooo!"[pcms]
 
 *2887|
 [fc]
-[ns]感染者Ｂ[nse]
-「う、う゛る゛ぜ～、い゛ぐぞお゛お゛ぉ～」[pcms]
+[ns]Infected Person B[nse]
+"Gonna be rough~ here I goooo~"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -942,27 +929,27 @@
 *2888|
 [fc]
 [vo_sat s="sato_tj0026"]
-[ns]怜[nse]
-「ぎいぃぃやああぁぁああああぁぁぁっっっ！！！！」[pcms]
+[ns]Sato[nse]
+"Eeeek! Nooooo!!!"[pcms]
 
 *2889|
 [fc]
-僕が隠れている小さなお堂全体がびりびりと震えるほどの[r]
-村上さんの絶叫が響き渡った。[pcms]
+The entire small temple where I was hiding vibrated with the intensity[r]
+of Ms. Murakami's screams.[pcms]
 
 *2890|
 [fc]
-[ns]感染者Ｂ[nse]
-「お、おほぉ゛～、はい゛っ゛だあ゛～」[pcms]
+[ns]Infected Person B[nse]
+"Ohh~ it's so deep~"[pcms]
 
 *2891|
 [fc]
-[ns]感染者Ａ[nse]
-「を～、せっ、せめぇなあぁ～、ぎぼぢいいぞおぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Wow, so tight~ this pussy feels amazing~"[pcms]
 
 *2892|
 [fc]
-男たちが、さらに快楽を得ようと思い思いに腰を振り始めた。[pcms]
+The men began to thrust their hips in pursuit of even more pleasure.[pcms]
 
 ;//■イベントCG　sato_H003
 [evcg storage="sato_H003i"][trans_c cross time=300]
@@ -970,65 +957,61 @@
 *2893|
 [fc]
 [vo_sat s="sato_tj0027"]
-[ns]怜[nse]
-「がああぁあぁっ！！　いぎゃああぁうううぅっ！！！！」[pcms]
+[ns]Sato[nse]
+"Aaahhh!! Nooo!!"[pcms]
 
 *2894|
 [fc]
 [vo_sat s="sato_tj0028"]
-[ns]怜[nse]
-「裂けるっ裂けるうぅ！　おまんこおっ！[r]
-　お゛まんごっざげぢゃう゛う゛ぅぅぅ………！」[pcms]
+[ns]Sato[nse]
+"It's tearing! It's tearing! My pussy! It's going to be torn[r]
+apart...!"[pcms]
 
 *2895|
 [fc]
-[ns]感染者Ａ[nse]
-「お、お゛お～、しま゛る゛、しまる゛ぞお゛ぉ～。[r]
-　お゛ら～、もっとお゛まん゛こ、しめ゛ろお゛ぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Ohh~ it's tightening up~ Tighten your pussy more for me~"[pcms]
 
 *2896|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ、あ゛はは～、お゛まん゛こぉ、ぎぼぢいいなあ゛あぁ～[r]
-　たま゛んね゛ぇ、たまん゛ねぇなあ゛あ゛ぁ～」[pcms]
+[ns]Infected Person B[nse]
+"Ahaha~ This pussy feels so good~ Can't get enough of this~"[pcms]
 
 *2897|
 [fc]
 [vo_sat s="sato_tj0029"]
-[ns]怜[nse]
-「ひっ……ぐ……ふぅ………ぉ………っ……………」[pcms]
+[ns]Sato[nse]
+"Hic... uh... fuu... oh..."[pcms]
 
 *2898|
 [fc]
-あまりの苦痛に耐えかねたのか、白目を剥いて村上さんが[r]
-ぐったりとしてしまう。[pcms]
+Overwhelmed by the intense pain, Ms. Murakami rolled her eyes back and[r]
+went limp.[pcms]
 
 *2899|
 [fc]
-それでも男たちは、そんな村上さんの反応は意にも介さずに、[r]
-ただペニスをこすりつけて快感を得ようと、好き勝手に[r]
-腰を動かしていた。[pcms]
+Yet the men didn't care about Ms. Murakami's response and kept moving[r]
+their hips selfishly to rub their penises for pleasure.[pcms]
 
 *2900|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～、ま゛だぁ、だじだぐな゛っで、ぎだなあ゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahh~ still not satisfied, need more~"[pcms]
 
 *2901|
 [fc]
-[ns]感染者Ｂ[nse]
-「ごのおまんご～、ぐあい゛いいなあ゛あ゛ぁ～[r]
-　お゛、お゛れ゛も、だじだい゛ぃなあ゛ぁ～」[pcms]
+[ns]Infected Person B[nse]
+"This pussy feels so good~ Oh, I'm gonna cum too~"[pcms]
 
 *2902|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～ま゛たでるう゛う゛ぅ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahh~ I'm cumming again~"[pcms]
 
 *2903|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛へ～でる゛っでるうう゛ぅ～」[pcms]
+[ns]Infected Person B[nse]
+"Ahe~ I'm cumming too~"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1043,31 +1026,29 @@
 
 *2904|
 [fc]
-村上さんのあそこにペニスをねじ込んでいた男二人が[r]
-ほぼ同時に射精した。[pcms]
+The two men thrusting their penises into Ms. Murakami's private parts[r]
+ejaculated almost simultaneously.[pcms]
 
 *2905|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛～、お゛まん゛このな゛かにだずの゛～、[r]
-　ぎぼぢい゛い゛ぃぃ～」[pcms]
+[ns]Infected Person B[nse]
+"Ahh~ cumming inside this pussy~ feels so good~"[pcms]
 
 *2906|
 [fc]
-二本のペニスをねじ込まれていた村上さんのあそこからは[r]
-男たちに中出しされた精液が、受け止めきれずに[r]
-どぼどぼと垂れ流れされている。[pcms]
+The semen from the men who had ejaculated inside Ms. Murakami[r]
+overflowed from her private parts, unable to be contained.[pcms]
 
 *2907|
 [fc]
 [vo_sat s="sato_tj0030"]
-[ns]怜[nse]
-「……………………ふっ………」[pcms]
+[ns]Sato[nse]
+"...huff..."[pcms]
 
 *2908|
 [fc]
-その時、男たちの体に挟まれて、ぐったりとしていた[r]
-村上さんの体が反応した。[pcms]
+At that moment, Ms. Murakami, sandwiched between the bodies of the men[r]
+and having gone limp, showed a reaction.[pcms]
 
 ;//■イベントCG　sato_H003
 [evcg storage="sato_H003k"][trans_c cross time=300]
@@ -1075,22 +1056,22 @@
 *2909|
 [fc]
 [vo_sat s="sato_tj0031"]
-[ns]怜[nse]
-「ふふっ………くくくっ………あははははっ………」[pcms]
+[ns]Sato[nse]
+"Fufu... kukuku... ahahahaha..."[pcms]
 
 *2910|
 [fc]
-村上さんが……笑ってる……？[pcms]
+Is Ms. Murakami... laughing...?[pcms]
 
 *2911|
 [fc]
 [vo_sat s="sato_tj0032"]
-[ns]怜[nse]
-「あ、あははぁ……くっくっくっ……ふふふふふっ……」[pcms]
+[ns]Sato[nse]
+"Ah, ahaha... kukukuku... fufufufu..."[pcms]
 
 *2912|
 [fc]
-村上さんが、笑いながら閉じてた目をゆっくりと開けた。[pcms]
+Ms. Murakami slowly opened her eyes while laughing.[pcms]
 
 ;//その目は……兎の目のように、赤く染まっていた。
 
@@ -1098,31 +1079,29 @@
 *2913|
 [fc]
 [vo_sat s="sato_tj0033"]
-[ns]怜[nse]
-「あははっ……ねえぇ、あたしのおまんこ、[r]
-　そんなに～、きにいったんだあぁ～」[pcms]
+[ns]Sato[nse]
+"Ahaha... hey, did you really like my pussy that much~?"[pcms]
 
 *2914|
 [fc]
 [vo_sat s="sato_tj0034"]
-[ns]怜[nse]
-「あんたたち、ばっかりぃ、きもちよくなってんの～、[r]
-　おもしろくないから～、こんどは、あたしが～[r]
-　きもちよく、なる、ばんかなあぁ～」[pcms]
+[ns]Sato[nse]
+"You guys are having all the fun~ It's not fair~ Next time, maybe it's[r]
+my turn to feel good~"[pcms]
 
 *2915|
 [fc]
 [vo_sat s="sato_tj0035"]
-[ns]怜[nse]
-「うふふっ……さあぁ、おいでよおぉ……ふふふふふっ……」[pcms]
+[ns]Sato[nse]
+"Ufufu... come on, come here... fufufufu..."[pcms]
 
 *2916|
 [fc]
-村上さんが、壊れた……。[pcms]
+Ms. Murakami has broken...[pcms]
 
 *2917|
 [fc]
-やつらの、仲間になっちゃったんだ……。[pcms]
+She's become one of them...[pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -1154,17 +1133,17 @@
 
 *2918|
 [fc]
-村上さんが、感染者に犯されて仲間になるのを目の当たりにして[r]
-僕は今さらながらに戦慄を覚えた。[pcms]
+Witnessing Ms. Murakami being violated by the infected and joining[r]
+them, I felt a shiver of horror belatedly.[pcms]
 
 *2919|
 [fc]
-やばい……やばいよ、どうしよう……。[pcms]
+This is bad... really bad, what should I do...?[pcms]
 
 *2920|
 [fc]
-心臓がもの凄い勢いでドキドキしてるのに、頭がぼーっとして[r]
-なにも考えがまとまらない。[pcms]
+My heart is pounding furiously, but my head feels foggy and I can't[r]
+seem to gather my thoughts.[pcms]
 
 ;//SE：誠の携帯電話の呼び出し音
 [se buf=0 storage="seC005"]
@@ -1172,112 +1151,112 @@
 
 *2921|
 [fc]
-その時、持ってた携帯電話がいきなり鳴り出す。[pcms]
+At that moment, the cellphone I was holding suddenly rang.[pcms]
 
 *2922|
 [fc]
-[ns]誠[nse]
-「うわっ！」[pcms]
+[ns]Makoto[nse]
+"Whoa!"[pcms]
 
 *2923|
 [fc]
-びっくりして思わず携帯を取り落としそうになったが、見ると[r]
-そーいちからの着信だった。[pcms]
+I was startled and almost dropped the phone, but when I looked, it was[r]
+a call from Souichirou.[pcms]
 
 *2924|
 [fc]
-僕はあわてて電話に出る。[pcms]
+I hurriedly answered the phone.[pcms]
 
 ;//se即時停止
 [stopse buf=0]
 
 *2925|
 [fc]
-[ns]誠[nse]
-「もしもし、そーいち！？」[pcms]
+[ns]Makoto[nse]
+"Hello, Souichirou!?"[pcms]
 
 *2926|
 [fc]
-[ns]宗一郎[nse]
-「誠、無事か！？」[pcms]
+[ns]Souichirou[nse]
+"Makoto, are you alright!?"[pcms]
 
 *2927|
 [fc]
-何の前置きもなく、いきなりそーいちがそう切り出した。[pcms]
+Without any preamble, Souichirou cut straight to the chase.[pcms]
 
 *2928|
 [fc]
-その切羽詰まった声の調子が、そーいちの身の上に[r]
-何が起こっているのかを如実に物語っている。[pcms]
+The tone of his urgent voice clearly conveyed that something was[r]
+happening to him as well.[pcms]
 
 *2929|
 [fc]
-そーいちも、僕と同じような状況だと言うことだ。[pcms]
+It meant that Souichirou was in a similar situation to mine.[pcms]
 
 *2930|
 [fc]
-[ns]誠[nse]
-「なんとか、そっちは！？」[pcms]
+[ns]Makoto[nse]
+"Somehow, what about you!?"[pcms]
 
 *2931|
 [fc]
-[ns]宗一郎[nse]
-「こっちもなんとか無事だが、キャンプ場もヤバイぞっ！[r]
-　いったい、何が起こってるんだか……うわっ！！」[pcms]
+[ns]Souichirou[nse]
+"I'm also safe for now, but the campsite is in danger too! What on[r]
+earth is happening... whoa!!"[pcms]
 
 *2932|
 [fc]
-そーいちのあわてた声とほぼ同時に、電話の向こうからは、[r]
-明らかに僕の知ってる人とは異なる[r]
-別の声が聞こえてきた。[pcms]
+Almost simultaneously with Souichirou's panicked voice, I could hear a[r]
+clearly different voice from someone I didn't recognize over the[r]
+phone.[pcms]
 
 *2933|
 [fc]
-[ns]宗一郎[nse]
-「超ヤバイ！　山の方に逃げるから！」[pcms]
+[ns]Souichirou[nse]
+"It's super bad! I'm heading towards the mountains!"[pcms]
 
 *2934|
 [fc]
-[ns]誠[nse]
-「え、山の方って？　もしもし、そーいち！？」[pcms]
+[ns]Makoto[nse]
+"Eh, towards the mountains? Hello, Souichirou!?"[pcms]
 
 *2935|
 [fc]
-[ns]宗一郎[nse]
-「見つかった！　これで切るぞっ！！」[pcms]
+[ns]Souichirou[nse]
+"I've been found! I'm hanging up now!!"[pcms]
 
 *2936|
 [fc]
-[ns]誠[nse]
-「あ、そーいち！？　もしもしっ！！」[pcms]
+[ns]Makoto[nse]
+"Ah, Souichirou!? Hello!!"[pcms]
 
 ;//SE　通話終了音　ツーツー
 
 *2937|
 [fc]
-そう言って、そーいちの通話がいきなり切れた。[pcms]
+With that, Souichirou's call was abruptly cut off.[pcms]
 
 *2938|
 [fc]
-仔細は分からないけど、そーいちも僕と同様[r]
-かなりヤバイ状態だということだけは理解できた。[pcms]
+Although I didn't know the details, I understood that Souichirou was[r]
+also in a very dangerous situation like me.[pcms]
 
 *2939|
 [fc]
-その時。[pcms]
+At that moment.[pcms]
 
 *2940|
 [fc]
 [vo_aka s="akari_tj0251"]
-[ns]茜梨[nse]
-「あ゛～、こんな゛ところ゛にい゛たん゛ですかぁ～」[pcms]
+[ns]Akari[nse]
+"Ahh~ I found you hiding here~"[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
 
 *2941|
 [fc]
-耳馴染みのある声が、扉の向こうから聞こえてきた。[pcms]
+A familiar voice came from beyond the door.[pcms]
 
 ;//★bg08a 大神神社・朝昼
 [bg storage="BG08a"]
@@ -1288,86 +1267,84 @@
 
 *2942|
 [fc]
-はっとして顔を上げると、越智さんがお堂の格子戸の隙間から[r]
-こっちを覗いている。[pcms]
+I looked up in surprise and saw Ms. Ochi peeking through the lattice[r]
+doors of the temple at me.[pcms]
 
 *2943|
 [fc]
-僕と目があった越智さんの瞳は……赤く赤く染まっていた。[pcms]
+The eyes of Ms. Ochi, who met mine, were dyed deep red...[pcms]
 
 *2944|
 [fc]
 [vo_aka s="akari_tj0252"]
-[ns]茜梨[nse]
-「さがしちゃい゛ま゛したよぉ～、まーくん、せんぱいぃ～。[r]
-　お゛っきなこえで、でんわ゛してたから゛[r]
-　みつけられ゛たけど～」[pcms]
+[ns]Akari[nse]
+"I've been looking for you~, Mak-kun, senpai~. You were talking so[r]
+loudly on the phone~ that I found you~"[pcms]
 
 *2945|
 [fc]
-自分じゃ全く自覚がなかったけど、そーいちの電話に[r]
-大声で応えてたらしい。[r]
-それを聞きつけられちゃったんだ。[pcms]
+I wasn't aware of it myself, but it seems I had responded loudly to[r]
+Souichirou's call. She had overheard me.[pcms]
 
 *2946|
 [fc]
-僕は自分の迂闊さを呪ったけど、今さら取り返しがつかない。[pcms]
+I cursed my own carelessness, but it was too late to do anything about[r]
+it now.[pcms]
 
 *2947|
 [fc]
 [vo_aka s="akari_tj0253"]
-[ns]茜梨[nse]
-「うふふふ～、そんな゛とこに゛かくれてな゛いで～[r]
-　わ゛たしとい゛いこと、しま゛しょうよ゛お゛ぉ～」[pcms]
+[ns]Akari[nse]
+"Ufufufu~, don't hide in such a place~ Let's do something nice[r]
+together~"[pcms]
 
 *2948|
 [fc]
-薄汚れたチアコスを身につけた越智さんが、そう言って[r]
-僕の顔を見ながら舌なめずりをした。[pcms]
+Ms. Ochi, wearing a dirty cheerleader costume, said this while looking[r]
+at me and licking her lips.[pcms]
 
 *2949|
 [fc]
-普通の状態で越智さんにこんなことを言われたんなら、[r]
-喜んで飛び出すとこだけど、明らかに今の越智さんは[r]
-普通じゃない。[pcms]
+If Ms. Ochi were in her normal state and said something like this to[r]
+me, I'd be happy to jump out, but it's clear that she's not her usual[r]
+self right now.[pcms]
 
 *2950|
 [fc]
-薄汚れた服装。明らかに普通じゃない台詞、そして赤い目。[pcms]
+Her dirty attire, clearly abnormal dialogue, and those red eyes.[pcms]
 
 *2951|
 [fc]
-さっき見た村上さんと同じで、越智さんも感染してると見て[r]
-間違いない。[pcms]
+Just like Ms. Murakami I saw earlier, there's no doubt that Ms. Ochi[r]
+is also infected.[pcms]
 
 *2952|
 [fc]
 [vo_aka s="akari_tj0254"]
-[ns]茜梨[nse]
-「ど～したん゛ですかぁ゛まーくん゛せん゛ぱい゛ぃ～。[r]
-　でてこな゛いん゛なら゛こっち゛からい゛っちゃいますよ～」[pcms]
+[ns]Akari[nse]
+"What's the matter, Mak-kun senpai~? If you won't come out, I'll just[r]
+have to go in~"[pcms]
 
 *2953|
 [fc]
-越智さんの体から立ちのぼる異様な臭気は、たぶん[r]
-男たちの精液の臭いだろう。[pcms]
+The strange stench rising from Ms. Ochi's body is probably the smell[r]
+of men's semen.[pcms]
 
 *2954|
 [fc]
-僕は悔しさにぎりぎりと歯噛みした。[pcms]
+I gritted my teeth in frustration.[pcms]
 
 *2955|
 [fc]
-村上さんも、越智さんも……。[r]
-僕は誰ひとり、大切な人を助けられない……。[pcms]
+Ms. Murakami and Ms. Ochi... I can't save anyone important to me...[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_che_kan2"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2956|
 [fc]
 [vo_aka s="akari_tj0255"]
-[ns]茜梨[nse]
-「もお゛ぉ～、せん゛ぱい゛ぃ、はや゛くう゛ぅ～」[pcms]
+[ns]Akari[nse]
+"Moo~ Senpai~, hurry up~"[pcms]
 
 [se buf=0 storage="seB100"]
 ;//♪SEガタガタという扉の音
@@ -1376,22 +1353,22 @@
 
 *2957|
 [fc]
-返事をしない僕に焦れたのか、越智さんがお堂の格子戸に[r]
-手をかけて、がたがたと揺さぶりはじめた。[pcms]
+Perhaps impatient with my lack of response, Ms. Ochi started shaking[r]
+the lattice doors of the temple.[pcms]
 
 *2958|
 [fc]
-僕ははっとして、現実に立ち戻った。[r]
-今は自己憐憫に浸ってる場合じゃない。[pcms]
+I snapped back to reality, realizing now wasn't the time to wallow in[r]
+self-pity.[pcms]
 
 *2959|
 [fc]
-いくら憧れの越智さんでも、相手は感染者だ。[r]
-つかまったら僕も感染者の仲間入りになってしまう。[pcms]
+Even if it's the Ms. Ochi I admire, she's an infected person. If I get[r]
+caught, I'll join the ranks of the infected.[pcms]
 
 *2960|
 [fc]
-どうする？　どうすればいい？？？[pcms]
+What should I do? What's the best course of action???[pcms]
 
 ;//　●選択肢
 ;//・意を決して逃げるΔ　　→ラベル*runawayへ
@@ -1399,14 +1376,14 @@
 
 ;	[link target=*runaway]意を決して逃げる[endlink]
 ;	[link storage="3080.ks" target=*3080_TOP]お堂で粘る[endlink]
-;	[s]
+;[pcms]
 
 *SEL23|意を決して逃げる／お堂で粘る
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '意を決して逃げる'"]
-[eval exp="f.seltext06 = 'お堂で粘る'"]
+[eval exp="f.seltext04 = 'Resolve to run away'"]
+[eval exp="f.seltext06 = 'Stick around in the hall'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -1445,15 +1422,15 @@
 
 *2961|
 [fc]
-僕は意を決して、このお堂から逃げることにした。[pcms]
+I made up my mind to escape from this temple.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_che_kan1"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2962|
 [fc]
 [vo_aka s="akari_tj0256"]
-[ns]茜梨[nse]
-「ま゛～くんせん゛ぱい゛ぃ、あ゛けてください゛ぃ～」[pcms]
+[ns]Akari[nse]
+"Mak-kun senpai~, please open the door~"[pcms]
 
 [se buf=0 storage="seB100"]
 ;//♪SEガタガタという扉の音
@@ -1462,48 +1439,48 @@
 
 *2963|
 [fc]
-相変わらず、越智さんは格子戸を揺さぶり続けている。[r]
-遅かれ早かれ、この扉は破られてしまうだろう。[pcms]
+As usual, Ms. Ochi continued to shake the lattice door. Sooner or[r]
+later, this door would be broken through.[pcms]
 
 *2964|
 [fc]
-それならまだ、逃げられる可能性に賭けてみたい。[pcms]
+If that's the case, I'd rather take my chances on the possibility of[r]
+escape.[pcms]
 
 ;//★ship01a 神社の社内
 [bg storage="jinja01a"][trans_c cross time=500]
 
 *2965|
 [fc]
-僕はお堂の内側にかけた閂を引き抜いた。[pcms]
+I pulled out the bar that was securing the inside of the temple.[pcms]
 
 *2966|
 [fc]
-僕が閂を外したのを見て、どこか嬉しそうな表情を浮かべて[r]
-越智さんがお堂の中に入ってくる。[pcms]
+Seeing me remove the bar, Ms. Ochi entered the temple with a somewhat[r]
+happy expression on her face.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che_kan1"][ChrSetXY layer=5 x=240 y=0][trans_c cross time=150]
 
 *2967|
 [fc]
 [vo_aka s="akari_tj0257"]
-[ns]茜梨[nse]
-「う゛ふ、ふふふ……すっ゛ごく、さがしたん゛ですよ゛ぉ～[r]
-　ま゛ーくん゛せんぱい゛の゛ことぉ…」[pcms]
+[ns]Akari[nse]
+"Ufu, fufufu... I've been looking so hard for you~ Mak-kun senpai~"[pcms]
 
 *2968|
 [fc]
-まるで、愛しい恋人を抱きしめようとするみたいに[r]
-越智さんが手を伸ばして、ゆっくりと近づいてくる。[pcms]
+Ms. Ochi reached out her hands as if to embrace a beloved lover and[r]
+slowly approached me.[pcms]
 
 *2969|
 [fc]
-その言葉、その態度……。[r]
-本当に、本当に……普通の時に聞きたかった……。[pcms]
+Those words, that attitude... I really, really... wanted to hear them[r]
+when things were normal...[pcms]
 
 *2970|
 [fc]
-[ns]誠[nse]
-「越智さん、ごめんっ！！」[pcms]
+[ns]Makoto[nse]
+"Ms. Ochi, I'm sorry!!"[pcms]
 
 [se buf=0 storage="seB010"]
 ;//♪SE打撃音
@@ -1512,8 +1489,8 @@
 
 *2971|
 [fc]
-僕は素早く横をすり抜けると、思い切り越智さんの体を[r]
-横から突き飛ばした。[pcms]
+I quickly slipped by her side and pushed Ms. Ochi's body hard from the[r]
+side.[pcms]
 
 [se buf=0 storage="seB018"]
 ;//♪SE人が倒れる音
@@ -1521,44 +1498,43 @@
 *2972|
 [fc]
 [vo_aka s="akari_tj0258"]
-[ns]茜梨[nse]
-「きゃ゛あ゛あっ゛～」[pcms]
+[ns]Akari[nse]
+"Kyaaah~"[pcms]
 
 *2973|
 [fc]
-不意を突かれて、越智さんがばたっと床に倒れる。[pcms]
+Taken by surprise, Ms. Ochi fell to the floor with a thud.[pcms]
 
 *2974|
 [fc]
-[ns]誠[nse]
-「本当にごめんなさいっ！！」[pcms]
+[ns]Makoto[nse]
+"I'm really sorry!!"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c lr time=300][hide_chara_int]
 
 *2975|
 [fc]
-僕はそう言いながら、全力でお堂の外に走り出た。[pcms]
+I said this as I ran out of the temple with all my might.[pcms]
 
 ;//★bg08a 大神神社・朝昼
 [bg storage="BG08a"][trans_c lr time=300]
 
 *2976|
 [fc]
-神社の境内は、さっきよりもさらに酷いことになっている。[pcms]
+The shrine grounds had become even worse than before.[pcms]
 
 *2977|
 [fc]
-悲鳴と怒声と絶叫が飛び交い、血と肉、汗と脂の臭いが[r]
-あたりに充満していた。[pcms]
+Screams, angry shouts, and cries filled the air, and the smells of[r]
+blood, flesh, sweat, and grease were pervasive.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=0][trans_c cross time=150]
 
 *2978|
 [fc]
-[ns]男[nse]
-「あ゛～、う゛ま゛そう゛ながきだぁ゛～、[r]
-　くっ゛てや゛る゛う゛ぅ～」[pcms]
+[ns]Male[nse]
+"Ahh~, this feels so good~, I'm gonna eat you up~"[pcms]
 
 [chara_int][trans_c cross time=150]
 [se buf=0 storage="seB039"]
@@ -1566,21 +1542,20 @@
 
 *2979|
 [fc]
-よだれを垂らしながら向かってきた感染者の脇を、[r]
-すれすれで通り抜ける。[pcms]
+I narrowly passed by an infected man drooling as he came towards me.[pcms]
 
 *2980|
 [fc]
-僕をつかみ損なった男の手が空を切る音が聞こえた。[pcms]
+The sound of the man's hand cutting through the air as he missed[r]
+grabbing me was audible.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_a1"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2981|
 [fc]
 [vo_mob s="reverse0002"]
-[ns]女[nse]
-「あ゛ら゛～かわ゛い゛い゛こね゛ぇ～[r]
-　お゛ね゛え゛さんと～、お゛ま゛ん゛こしよ゛う゛よぉ～」[pcms]
+[ns]Female[nse]
+"Ara~ what a cute boy~ Come on~, let's play pussy with Onee-san~"[pcms]
 
 ;//逆レイパー女
 
@@ -1591,45 +1566,45 @@
 
 *2982|
 [fc]
-あられもない格好で近寄ってきた女の胸を、[r]
-思い切り両手で押してつっ転ばす。[pcms]
+I pushed hard with both hands against the chest of a woman who[r]
+approached me in a disgraceful state and knocked her over.[pcms]
 
 *2983|
 [fc]
-女は倒れたまま、じたばたと両手を動かしていた。[r]
-なんだか、ひっくり返された虫みたいだ。[pcms]
+The woman flailed her arms on the ground as she lay there, like an[r]
+overturned bug.[pcms]
 
 *2984|
 [fc]
-その後も、次々に襲いかかってくる感染者たちを[r]
-間一髪でかわしたり、突き飛ばしたりしながら[r]
-なんとか僕は境内の外に出た。[pcms]
+After that, I narrowly avoided or pushed away one infected person[r]
+after another as they attacked me, and somehow made it outside the[r]
+shrine grounds.[pcms]
 
 ;//★bg06d 島の周回道路（海沿いの道路）・感染者付き
 [bg storage="BG06d"][trans_c lr time=300]
 
 *2985|
 [fc]
-[ns]誠[nse]
-「はあっ……はあっ……ふうっ……はあっ………」[pcms]
+[ns]Makoto[nse]
+"Haah...haah...phew...haah..."[pcms]
 
 *2986|
 [fc]
-死にものぐるいでここまで出てきたけど、道路にも[r]
-あちこちに感染者の姿が見える。[pcms]
+I had run here desperately for my life, but I could see infected[r]
+people scattered all over the road as well.[pcms]
 
 *2987|
 [fc]
-この先、どこへ逃げようか……。[pcms]
+Where should I run to next...?[pcms]
 
 *2988|
 [fc]
-そーいちは、電話でキャンプ場はヤバいと言ってたから[r]
-キャンプ場に向かうというのはナシだろう。[pcms]
+Souichirou said over the phone that the campsite was dangerous, so[r]
+heading there is out of the question.[pcms]
 
 *2989|
 [fc]
-どうしよう……どこへ逃げればいいんだろう……。[pcms]
+What should I do... Where should I run to...[pcms]
 
 ;//●選択肢
 ;//町の方へ向かう▲          →ラベル*goto_townへ
@@ -1639,15 +1614,15 @@
 ;	[link target=*goto_town]町の方へ向かう[endlink]
 ;	[link target=*goto_hotel]ホテルの方へ向かう[endlink]
 ;	[link target=*goto_forest]森の中に飛び込んで[endlink]
-;	[s]
+;[pcms]
 
 *SEL24|町の方へ向かう／ホテルの方へ向かう／森の中に飛び込んで
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '町の方へ向かう'"]
-[eval exp="f.seltext04 = 'ホテルの方へ向かう'"]
-[eval exp="f.seltext06 = '森の中に飛び込んで'"]
+[eval exp="f.seltext02 = 'Head towards the town'"]
+[eval exp="f.seltext04 = 'Head towards the hotel'"]
+[eval exp="f.seltext06 = 'Dive into the forest'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -1694,11 +1669,11 @@
 
 *2990|
 [fc]
-僕はとりあえず、町の方に向かうことにした。[pcms]
+I decided to head towards the town for now.[pcms]
 
 *2991|
 [fc]
-町の中なら、とりあえず隠れるところもいっぱいあるだろう。[pcms]
+There should be plenty of places to hide in town, at least.[pcms]
 
 [se buf=0 storage="seA047" loop=true]
 ;//♪SE走る足音
@@ -1708,38 +1683,39 @@
 
 *2992|
 [fc]
-僕はヘタれそうになる足に喝を入れながら、[r]
-アップダウンの激しい峠道を走り始めた。[pcms]
+While scolding my weakening legs, I started running on the steep[r]
+mountain road with its ups and downs.[pcms]
 
 *2993|
 [fc]
-[ns]誠[nse]
-「はあっ……はあっ……はあっ……はあっ………」[pcms]
+[ns]Makoto[nse]
+"Haah...haah...haah...haah..."[pcms]
 
 *2994|
 [fc]
-走り始めてすぐ、僕の息が上がってしまう。[pcms]
+Soon after I started running, I was already out of breath.[pcms]
 
 *2995|
 [fc]
-こんなに必死になってるのに、足が全然上がらない。[pcms]
+No matter how desperately I run, my legs just won't lift properly.[pcms]
 
 *2996|
 [fc]
-神社までの２往復で、僕は情けないほどに消耗していた。[pcms]
+I was pathetically drained from the two round trips to the shrine.[pcms]
 
 *2997|
 [fc]
-インドア活動ばっかりで、ろくに運動とかを[r]
-してこなかったツケが、こんな形で訪れるなんて。[pcms]
+The price of my indoor lifestyle and lack of exercise is coming back[r]
+to haunt me in this form.[pcms]
 
 *2998|
 [fc]
-足がもつれてうまく走れない。横っ腹も痛くなってきた。[pcms]
+My legs are tangled and I can't run properly. My side is starting to[r]
+hurt too.[pcms]
 
 *2999|
 [fc]
-それでも僕は、必死になって走り続けていく。[pcms]
+Still, I continue to run desperately.[pcms]
 
 ;//　→ラベル*3000H_interflowへジャンプ
 [jump target=*3000H_interflow]
@@ -1751,8 +1727,8 @@
 
 *3000|
 [fc]
-僕はとりあえず、ホテルに戻ることにした。[r]
-とにかく部屋に戻って立て籠もろう。[pcms]
+I decided to head back to the hotel for now. Let's just get back to my[r]
+room and barricade myself in.[pcms]
 
 [se buf=0 storage="seA047" loop=true]
 ;//♪SE走る足音
@@ -1762,54 +1738,53 @@
 
 *3001|
 [fc]
-そう考えて、僕はその場から走り出した。[pcms]
+With that thought, I started running from where I was.[pcms]
 
 *3002|
 [fc]
-[ns]誠[nse]
-「ひいっ……ひいっ……はあっ……ふうっ………」[pcms]
+[ns]Makoto[nse]
+"Hee...hee...haah...phew..."[pcms]
 
 *3003|
 [fc]
-必死になって走ったが、アップダウンの激しい峠道の前に[r]
-あっという間に息があがってしまう。[pcms]
+Despite running desperately, I quickly ran out of breath on the steep[r]
+mountain road with its ups and downs.[pcms]
 
 *3004|
 [fc]
-走るのは苦手じゃないけど、それは短距離限定の話だ。[pcms]
+I'm not bad at running, but that's only for short distances.[pcms]
 
 *3005|
 [fc]
-学校のマラソン大会なんかだと、僕はいつでもビリから[r]
-数えた方が早い。[pcms]
+In school marathons, I'm always one of the last ones you'd count.[pcms]
 
 *3006|
 [fc]
-すでに今日は神社まで２往復もしているせいで[r]
-相当消耗している。[pcms]
+I'm already quite drained from the two round trips to the shrine[r]
+today.[pcms]
 
 *3007|
 [fc]
-本当に、自分の基礎体力の低さがひたすら恨めしい。[r]
-それもこれも、普段全く運動しない自分のせいだけど。[pcms]
+I really resent my lack of basic physical fitness. But it's all my[r]
+fault for not exercising regularly.[pcms]
 
 *3008|
 [fc]
-一般常識として、定期的な運動は重要だと言われてはいるけど、[r]
-こんな状況でそれを実感したくはなかった。[pcms]
+It's common knowledge that regular exercise is important, but I didn't[r]
+want to realize it in this situation.[pcms]
 
 *3009|
 [fc]
-横っ腹がずきずきと痛むのを我慢しながら走ってるせいで[r]
-胃も気持ち悪くなってくる。[pcms]
+Running while enduring the throbbing pain in my side is making my[r]
+stomach feel sick too.[pcms]
 
 *3010|
 [fc]
-気持ちだけは焦ってるのに、ちっとも足が上がらない。[pcms]
+My mind is racing, but my legs just won't lift properly.[pcms]
 
 *3011|
 [fc]
-それでも僕は、必死にホテルに向かって走り続けていた。[pcms]
+Still, I kept running desperately towards the hotel.[pcms]
 
 ;//　→ラベル*3000H_interflowへジャンプ
 [jump target=*3000H_interflow]
@@ -1826,8 +1801,8 @@
 
 *3012|
 [fc]
-その時、薄汚れたモンバスのコスプレに身を包んだ女の子の一団が[r]
-僕の行く手を遮るように現れた。[pcms]
+Then, a group of girls dressed in dirty Monbus cosplay appeared,[r]
+blocking my way.[pcms]
 
 ;//この文章につながるイベントのCG_mob_H011ですが、何名登場するのか
 ;//よく分かりませんが、指定内容から類推して、ギャラリーが複数名
@@ -1836,43 +1811,42 @@
 *3013|
 [fc]
 [vo_mob s="A0001"]
-[ns]女感染者Ａ[nse]
-「あ゛～、かわ゛い゛い゛こ、み゛っけぇ゛～」[pcms]
+[ns]Female Infected A[nse]
+"Ahh~, found a cute boy~"[pcms]
 
 *3014|
 [fc]
 [vo_mob s="B0001"]
-[ns]女感染者Ｂ[nse]
-「う゛ふふ～、や゛っちゃお゛っか～」[pcms]
+[ns]Female Infected B[nse]
+"Ufufu~, shall we do it~"[pcms]
 
 *3015|
 [fc]
 [vo_mob s="C0001"]
-[ns]女感染者Ｃ[nse]
-「お゛そっちゃえ゛～、それ゛～っ」[pcms]
+[ns]Female Infected C[nse]
+"Let's catch him~, there~"[pcms]
 
 ;//m:立ち無しでいいか
 
 *3016|
 [fc]
-思い思いのコスプレに身を包んだ女の子たちが、僕を取り囲んで[r]
-一斉に襲いかかって来た。[pcms]
+The girls, each dressed in their own cosplay, surrounded me and[r]
+attacked all at once.[pcms]
 
 [quake_bg xy m]
 
 *3017|
 [fc]
-[ns]誠[nse]
-「う、うわああぁっ！」[pcms]
+[ns]Makoto[nse]
+"Uwaaahhh!"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *3018|
 [fc]
-すでに体力の限界に達していた僕は、為す術もなく[r]
-襲いかかって来た女の子たちに[r]
-あっさりとつかまえられてしまった。[pcms]
+Having reached my limit of physical strength, I was easily caught by[r]
+the girls who attacked me without any means to resist.[pcms]
 
 ;//　→ファイル*ターヤルート_3000H_makoto_H2へ
 [jump storage="3090.ks" target=*3090_TOP]
@@ -1890,7 +1864,8 @@
 
 *3019|
 [fc]
-僕は、道を進むのをあきらめて、森の中へと逃げ込んだ。[pcms]
+I gave up on proceeding down the road and fled into the forest[r]
+instead.[pcms]
 
 [se buf=0 storage="seA045" loop=true]
 ;//♪SE草をかき分けて森を進む音
@@ -1901,32 +1876,32 @@
 
 *3020|
 [fc]
-どうせ、どこへ行っても感染者だらけだろう。[pcms]
+After all, wherever I go, it's likely to be full of infected people.[pcms]
 
 *3021|
 [fc]
-人が多いとこに逃げれば、それだけ感染者に[r]
-出くわすリスクが高くなる。[pcms]
+If I flee to a place with many people, the risk of encountering[r]
+infected people increases.[pcms]
 
 *3022|
 [fc]
-僕の体力を考えれば、なるべく人が少なそうなところに[r]
-逃げ込むに限る。[pcms]
+Considering my physical strength, it's best to escape to a place where[r]
+there seem to be fewer people.[pcms]
 
 *3023|
 [fc]
-それに、そーいちも山に逃げると言っていた。[r]
-もしかしたら、どこかで落ち合えるかも知れない。[pcms]
+Besides, Souichirou said he would escape to the mountains. Maybe we[r]
+can meet up somewhere.[pcms]
 
 *3024|
 [fc]
-頭はすごく冷静なのに、心はめちゃくちゃ混乱してる。[r]
-恐怖のままに、思い切り叫びたい気分だ。[pcms]
+My head is very calm, but my heart is in complete chaos. I feel like[r]
+screaming out of fear.[pcms]
 
 *3025|
 [fc]
-僕は叫び出しそうになる衝動を必死にこらえると、[r]
-藪をかき分けながら、森の奥へ向かって走りだした。[pcms]
+I suppressed the urge to scream and started running deeper into the[r]
+forest, pushing through the underbrush.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

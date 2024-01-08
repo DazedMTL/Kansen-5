@@ -1,7 +1,7 @@
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 ;//シーン名	：『大神山神社』
 ;//file名	：0350
-;//登場人物	：主人公、宗一郎、茜梨、夏都
+;//登場人物	：主人公、宗一郎、茜梨、夏
 ;//服装		：制服
 ;//日付		：8/18
 ;//時間		：(午前9:00)
@@ -28,102 +28,101 @@
 
 *4814|
 [fc]
-[ns]誠[nse]
-「はぁっ、はぁっ、はぁっ、やっと、到着ぅ」[pcms]
+[ns]Makoto[nse]
+"Haa, haa, haa, finally, we've arrived..."[pcms]
 
 
 ;//宗一郎中＠制服　表情27Ａギャグ泣　　　;//
 
 *4815|
 [fc]
-[ns]宗一郎[nse]
-「ぐはぁっ、ぶへぇっ、はぶぅっ……」[pcms]
+[ns]Souichirou[nse]
+"Guhaa, buhee, habuu..."[pcms]
 
 *4816|
 [fc]
-息も絶え絶えの僕とそーいちは、汗だくになりながら、[r]
-手押ししている自転車を神社の前に留めた。[pcms]
+Both of us, out of breath and drenched in sweat, parked the bicycle we[r]
+were pushing in front of the shrine.[pcms]
 
 ;//★bg06a 島の周回道路（海沿いの道路）・朝昼
 [bg storage="BG06a"][trans_c cross time=500]
 
 *4817|
 [fc]
-足がパンパンに張って、今にもケイレンしそうになっている。[r]
-呼吸は千々に乱れて、しゃべるのもやっとの状態だった。[pcms]
+My legs were swollen and felt like they were about to cramp at any[r]
+moment. My breathing was erratic, and speaking was a struggle.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk2_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4818|
 [fc]
 [vo_nat s="natu0104"]
-[ns]夏都[nse]
-「だらしねぇなぁ、たったこれだけの距離なのに」[pcms]
+[ns]Natsu[nse]
+"You guys are such a mess, it's not even that far of a distance."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4819|
 [fc]
 [vo_aka s="akari0168"]
-[ns]茜梨[nse]
-「あはは……」[pcms]
+[ns]Akari[nse]
+"Ahaha..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4820|
 [fc]
-二人のコメントを聞くまでもなく、改めて、[r]
-自分の体力のなさを思い知ってしまった。[pcms]
+Without needing their comments, I was painfully aware of my own lack[r]
+of physical fitness.[pcms]
 
 *4821|
 [fc]
-１８日の朝に、大神島で有名な神社に行くという話をしたところ、[r]
-そーいちと越智さんが一緒に行くという話になったんだけど、[r]
-まさかこんな坂の上に立地していたとは。[pcms]
+On the morning of the 18th, we talked about going to a famous shrine[r]
+on Oogamijima, and Souichirou and Ochi-san decided to join, but I[r]
+never imagined it would be located on top of such a hill.[pcms]
 
 *4822|
 [fc]
-バイキング形式でガッチリと食べた朝食を、[r]
-全部リバースしてもおかしくないくらい、[r]
-気持ちが悪くなっている。[pcms]
+I felt so sick that it wouldn't have been surprising if I threw up the[r]
+hearty buffet breakfast I had eaten.[pcms]
 
 *4823|
 [fc]
-あんまり食欲はなかったんだけど、変に気を使われないように、[r]
-普段より多く食べたのは余計だった。[pcms]
+I wasn't very hungry, but I ate more than usual so as not to seem out[r]
+of place.[pcms]
 
 *4824|
 [fc]
-合宿の合間の休日で、ひとり暗い顔をして飯も食わないとか、[r]
-みんなのテンションを下げたくなかったんだけど、[r]
-軽めにしておけば良かったか。[pcms]
+It was a day off during the training camp, and I didn't want to bring[r]
+everyone's spirits down by sitting alone with a gloomy face and not[r]
+eating, but maybe I should have gone easy.[pcms]
 
 *4825|
 [fc]
-ちなみに、さすがは高級ホテルのバイキングだけあって、[r]
-味もサービスもすこぶる良好だった。[pcms]
+As expected from a luxury hotel buffet, both the taste and service[r]
+were exceptionally good.[pcms]
 
 *4826|
 [fc]
-そこいらの食べ放題では、とても太刀打ちできない[r]
-もてなしだったと思う。[pcms]
+I think their hospitality was something that couldn't be matched by[r]
+any ordinary all-you-can-eat place.[pcms]
 
 *4827|
 [fc]
-まぁ、吐いていたら意味無いんだけど。[pcms]
+Well, it would be meaningless if I ended up throwing it all up.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so26a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4828|
 [fc]
-[ns]宗一郎[nse]
-「ぶはぁっ、か、完璧に計算が狂った」[pcms]
+[ns]Souichirou[nse]
+"Buhaa, ka, my calculations were completely off."[pcms]
 
 *4829|
 [fc]
-[ns]誠[nse]
-「お前が、越智さんと二人乗りしたいとか言い出すからだ、[r]
-　色と食の欲求を少し堪えろ」[pcms]
+[ns]Makoto[nse]
+"It's because you wanted to ride with Ochi-san. Control your desires[r]
+for both color and food a bit."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak01"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="na1_sk2_a"][ChrSetParts layer=4 chface="F1_na10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -131,9 +130,9 @@
 *4830|
 [fc]
 [vo_nat s="natu0105"]
-[ns]夏都[nse]
-「デブはもっと体力あると思ったんだけどな、[r]
-　誠は予想通りだけど」[pcms]
+[ns]Natsu[nse]
+"I thought fat guys would have more stamina, Makoto is as expected[r]
+though."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak03"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="na1_sk1_a"][ChrSetParts layer=4 chface="F1_na01"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -141,92 +140,88 @@
 *4831|
 [fc]
 [vo_aka s="akari0169"]
-[ns]茜梨[nse]
-「ここは自転車、向いてないですよね」[pcms]
+[ns]Akari[nse]
+"Bicycles really aren't suited for this place, huh?"[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *4832|
 [fc]
-ニヤニヤ笑う姉ちゃんに、[r]
-フォローしようとする越智さん。[pcms]
+The smirking Onee-san and Ochi-san trying to follow up.[pcms]
 
 *4833|
 [fc]
-どっちの顔も、まともに見られない……。[pcms]
+I can't bear to look at either of their faces directly...[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so13b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4834|
 [fc]
-[ns]宗一郎[nse]
-「どうしてこう、神様っていうのは[r]
-　高いところが好きなんだろうな」[pcms]
+[ns]Souichirou[nse]
+"Why do gods always seem to like high places...?"[pcms]
 
 *4835|
 [fc]
-[ns]誠[nse]
-「また、そういう問題発言を……」[pcms]
+[ns]Makoto[nse]
+"There you go with your problematic statements again..."[pcms]
 
 *4836|
 [fc]
-朝食を終えた僕たちは、昨日の厄払いと[r]
-観光を兼ねて大神神社にやってきていた。[pcms]
+After breakfast, we came to Oogami Shrine for both exorcism and[r]
+sightseeing.[pcms]
 
 *4837|
 [fc]
-舗装された道路とはいえ、自転車で行く山道を舐めるべからず。[r]
-ましてや、二人乗りで行こうなんて無謀にも程がある。[pcms]
+Never underestimate a mountain road for cycling, even if it's paved.[r]
+Especially when you're foolish enough to try riding tandem.[pcms]
 
 *4838|
 [fc]
-体力のない僕はもちろん、[r]
-言い出しっぺのそーいちまでへばっている始末だった。[pcms]
+Not only me with my lack of stamina but also Souichirou who suggested[r]
+the idea were both exhausted.[pcms]
 
 *4839|
 [fc]
-基本的に、瞬発力が売りのファットマンなので、[r]
-持久戦は苦手らしい。[pcms]
+Basically, as a 'Fat Man' whose specialty is explosive power,[r]
+endurance battles are his weakness.[pcms]
 
 *4840|
 [fc]
-ホテルから距離も近かったし、スポーツセンターに行くくらいの[r]
-ノリで考えていた僕は完璧に油断していた。[pcms]
+The hotel was close by, and I thought it would be as easy as going to[r]
+the sports center; I was completely off guard.[pcms]
 
 *4841|
 [fc]
-ここまで自転車でこようなんて考えるのは、[r]
-愚か者かスポーツマンのどちらかだ。[pcms]
+Only fools or sportsmen would think of cycling up here.[pcms]
 
 *4842|
 [fc]
-僕は、どちらでもないと思っていたんだけど、[r]
-どうやら前者らしい。[pcms]
+I thought I was neither, but it seems I might be the former.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk1_a"][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4843|
 [fc]
 [vo_nat s="natu0106"]
-[ns]夏都[nse]
-「ほら、いつまでへばってるんだ、[r]
-　神社にお参りするぞ」[pcms]
+[ns]Natsu[nse]
+"Hey, how long are you going to lie there? Let's go pay our respects[r]
+at the shrine."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4844|
 [fc]
 [vo_aka s="akari0170"]
-[ns]茜梨[nse]
-「お二人とも、頑張ってください」[pcms]
+[ns]Akari[nse]
+"Both of you, please do your best."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4845|
 [fc]
-僕とそーいちは、込みあげてくる朝食を堪えながら、[r]
-神社の前に自転車を止めて、中に入っていった。[pcms]
+Souichirou and I managed to suppress our rising breakfast as we parked[r]
+our bicycle in front of the shrine and went inside.[pcms]
 
 ;//現在地MAP表示 ビーチ（＆ライブフェス会場外観）
 [sysbt_meswin clear]
@@ -258,161 +253,164 @@
 
 *4846|
 [fc]
-蝉の鳴き声が木霊する境内は、[r]
-どこか神秘的な雰囲気に包まれていた。[pcms]
+The shrine grounds echoed with the cries of cicadas, enveloped in a[r]
+somewhat mystical atmosphere.[pcms]
 
 *4847|
 [fc]
-四方八方から響き渡る空気の振動で、[r]
-なんとなく気が遠くなりそうになる。[pcms]
+The vibrations in the air resonating from all directions almost made[r]
+me feel dizzy.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk2_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4848|
 [fc]
 [vo_nat s="natu0107"]
-[ns]夏都[nse]
-「これが、[ruby text="おおくす"][ch text="大楠"]なのかな。[r]
-　樹齢２６００年の天然記念物だとさ」[pcms]
+[ns]Natsu[nse]
+"Is this the great camphor tree? It's a natural monument that's 2,600[r]
+years old."[pcms]
 
 ;//♂D　怜のレイプシーンでの地の文を合わせないとダメ。
 
 *4849|
 [fc]
-姉ちゃんが観光ガイドを片手に、巨大な樹木を仰ぎ見た。[pcms]
+Onee-san looked up at the huge tree with a tourist guide in hand.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4849a|
 [fc]
-[ruby text="おごそ"]厳かという表現がしっくりとくる、[r]
-非常に神秘的な光景だ。[pcms]
+The word 'majestic' fits perfectly; it was a very mystical sight.[pcms]
 
 *4850|
 [fc]
-夜の闇と迷信のなかに暮らしていた昔の人が、[r]
-この木を見て何を思ったのか、伝わってくる気がする。[pcms]
+I could almost understand what ancient people living in darkness and[r]
+superstition might have thought when they saw this tree.[pcms]
 
 *4851|
 [fc]
-しばらく見入っていると、[r]
-本殿のほうから、呪文のような声が聞こえてきた。[pcms]
+As we gazed at it for a while, we could hear a chant-like voice coming[r]
+from the main hall.[pcms]
 
 *4852|
 [fc]
-これが祝詞というものなんだろう。[pcms]
+This must be what they call a Shinto prayer.[pcms]
 
 *4853|
 [fc]
-戦いの神として奉られたこの神社には、[r]
-昔から武家の関わりが深く、国宝、重要文化財に指定される[r]
-武具がたくさん奉納されているらしい。[pcms]
+This shrine, which has been worshipped as a shrine of the god of war,[r]
+has a deep connection with the warrior class since ancient times, and[r]
+it seems that many national treasures and important cultural[r]
+properties designated as weapons have been dedicated here.[pcms]
 
 *4854|
 [fc]
-その精神は現代にまで受け継がれていて、[r]
-自衛隊の幹部が参拝に来るのも通例になっているとか。[pcms]
+The spirit of this tradition has been passed down to modern times, and[r]
+it has become customary for Self-Defense Force officers to visit the[r]
+shrine.[pcms]
 
 *4855|
 [fc]
-相当に古い神社で、[ruby text="おちのみこと"][ch text="乎千命"]が築いたとされる[r]
-説があるんだけど、こんなところでも、『おち』の文字が[r]
-出てくるのはさすがと言うほか無い。[pcms]
+It's a very old shrine, and there's a theory that it was built by[r]
+Ochimikoto, but it's truly remarkable that even here, the characters[r]
+for "Ochi" appear.[pcms]
 
 *4856|
 [fc]
-[ns]誠[nse]
-「ふぅっ……」[pcms]
+[ns]Makoto[nse]
+"Phew..."[pcms]
 
 *4857|
 [fc]
-この大楠を見ていると、なんだか変な気持ちになってくる。[pcms]
+Looking at this great camphor tree, I start to feel a strange[r]
+sensation.[pcms]
 
 *4858|
 [fc]
-どこかで見たことがあるような、不思議な気持ちだ。[pcms]
+It's a mysterious feeling, as if I've seen it somewhere before.[pcms]
 
 *4859|
 [fc]
-有名な木だから、ネットで合宿のことを調べたときに、[r]
-この木の写真が乗っていたんだろう。[pcms]
+It's a famous tree, so maybe I saw a picture of it on the internet[r]
+when I was researching about the camp.[pcms]
 
 *4860|
 [fc]
-２６００年なんて、まさに、神代の時代から存在し続ける、[r]
-聖域みたいなものだった。[pcms]
+2600 years is truly like a sanctuary that has existed since the age of[r]
+the gods.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_si_b"][ChrSetParts layer=5 chface="F2_so30b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4861|
 [fc]
-[ns]宗一郎[nse]
-「おや？　なんでこんなところに、[r]
-　ネットワークスポット端末があるんだ？」[pcms]
+[ns]Souichirou[nse]
+"Huh? Why is there a network spot terminal in a place like this?"[pcms]
 
 [ChrSetEx layer=5 chbase="na2_sk2_a"][ChrSetParts layer=5 chface="F2_na12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4862|
 [fc]
 [vo_nat s="natu0108"]
-[ns]夏都[nse]
-「はぁ？　なんだそれ」[pcms]
+[ns]Natsu[nse]
+"Huh? What's that?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4863|
 [fc]
-そーいちの見ている方を振り返ると、[ruby text="ちょうずば"][ch text="手水場"]の横に[r]
-ポストを小さくしたような形の白いボックスが立っている。[pcms]
+Turning to where Souichirou is looking, next to the water basin,[r]
+there's a white box shaped like a small post.[pcms]
 
 *4864|
 [fc]
-そーいちの言うとおり、これは、[r]
-携帯ゲーム機のネットワーク端末だった。[pcms]
+Just as Souichirou said, this is a network terminal for portable[r]
+gaming devices.[pcms]
 
 *4865|
 [fc]
-百葉箱とか神事で使いそうな何かではない。[pcms]
+It's not something like a hygrometer box or anything that seems to be[r]
+used for Shinto rituals.[pcms]
 
 *4866|
 [fc]
-[ns]誠[nse]
-「なんで？　コンセントは？」[pcms]
+[ns]Makoto[nse]
+"Why? Where's the outlet?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so30b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4867|
 [fc]
-[ns]宗一郎[nse]
-「延長コードが、茂みの向こうから境内の外に伸びているぞ」[pcms]
+[ns]Souichirou[nse]
+"The extension cord stretches from behind the bushes to outside the[r]
+shrine grounds."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4868|
 [fc]
 [vo_aka s="akari0171"]
-[ns]茜梨[nse]
-「これはなんですか？」[pcms]
+[ns]Akari[nse]
+"What is this?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk2_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4869|
 [fc]
 [vo_nat s="natu0109"]
-[ns]夏都[nse]
-「なんか、お前等の好きそーなものなんだろ？」[pcms]
+[ns]Natsu[nse]
+"It seems like something you guys would like, right?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4870|
 [fc]
-この神社にはまるで似つかわしくないものを発見した僕たちは、[r]
-不思議そうにそれを眺めていた。[pcms]
+We discovered something utterly out of place at this shrine and looked[r]
+at it with curiosity.[pcms]
 
 *4871|
 [fc]
-越智さんと姉ちゃんは、そもそも、[r]
-これがなんであるのか理解していないみたいだけど……。[pcms]
+It seems that Ochi-san and Onee-san don't even understand what this[r]
+is...[pcms]
 
 ;//SE　錫杖がシャァンと鳴るような神々しい感じのがあるといいなぁ
 
@@ -420,8 +418,8 @@
 [fc]
 [vo_sat s="sato0041"]
 [ns]？？？[nse]
-「日本総鎮守の聖域にして、太古の樹霊が宿るこの地に、[r]
-　いかなご用がおありですかな、旅の人」[pcms]
+"In this sacred place of Japan's chief guardian shrine, where ancient[r]
+tree spirits dwell, what business do you travelers have here?"[pcms]
 
 ;//怜
 
@@ -429,23 +427,24 @@
 
 *4873|
 [fc]
-[ns]誠[nse]
-「あ、村上さん！」[pcms]
+[ns]Makoto[nse]
+"Ah, Murakami-san!"[pcms]
 
 *4874|
 [fc]
-[ns]宗一郎[nse]
-「コスプレ……？」[pcms]
+[ns]Souichirou[nse]
+"Cosplay...?"[pcms]
 
 *4875|
 [fc]
-そーいちがそう言うのも無理のないことで、[r]
-村上さんはなんと巫女の姿で僕たちの前に現れていた。[pcms]
+It's no wonder Souichirou said that; Murakami-san appeared before us[r]
+dressed as a shrine maiden.[pcms]
 
 *4876|
 [fc]
-[ns]誠[nse]
-「実家の仕事の手伝いって、神社の巫女さんだったの！？」[pcms]
+[ns]Makoto[nse]
+"So helping out with your family business meant being a shrine[r]
+maiden!?"[pcms]
 
 ;//m:小麦じゃないので修正
 ;//小麦色の島っ子が巫女姿になるのは、
@@ -454,27 +453,26 @@
 
 *4877|
 [fc]
-元気いっぱいの島っ子が巫女姿になるのは、[r]
-なかなかマニア度が高い気がするけれど、[r]
-よく似合っている。[pcms]
+The energetic island girl looks quite unique in her shrine maiden[r]
+attire, but it suits her well.[pcms]
 
 *4878|
 [fc]
-正直驚いたけれど、これだけ似合っていれば[r]
-なんでも許せる気がした。[pcms]
+Honestly, I was surprised, but if it suits her this well, I feel like[r]
+I can forgive anything.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4879|
 [fc]
 [vo_nat s="natu0110"]
-[ns]夏都[nse]
-「なんだ、知り合いなのか？」[pcms]
+[ns]Natsu[nse]
+"What, you know her?"[pcms]
 
 *4880|
 [fc]
-[ns]宗一郎[nse]
-「まぁ、友人です」[pcms]
+[ns]Souichirou[nse]
+"Well, she's a friend."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak08"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="sa1_mi1"][ChrSetParts layer=5 chface="F1_sa03"][ChrSetXY layer=5 x=350 y=0]
@@ -483,51 +481,51 @@
 *4881|
 [fc]
 [vo_sat s="sato0042"]
-[ns]怜[nse]
-「どう？　びっくりした？」[pcms]
+[ns]Sato[nse]
+"So? Were you surprised?"[pcms]
 
 *4882|
 [fc]
-村上さんがにこにこ笑って、[r]
-巫女姿を僕らに堪能させてくれる。[pcms]
+Murakami-san smiles brightly, letting us enjoy her shrine maiden[r]
+appearance.[pcms]
 
 *4883|
 [fc]
-[ns]誠[nse]
-「うん、かなり驚いた」[pcms]
+[ns]Makoto[nse]
+"Yeah, quite surprised."[pcms]
 
 *4884|
 [fc]
-おどけているけれど、この神社が実家って[r]
-中々凄いんじゃないだろうか。[pcms]
+She's joking around, but having a shrine as your family home is pretty[r]
+amazing, isn't it?[pcms]
 
 *4885|
 [fc]
-越智さんも、大概凄い血筋だと思ったけれど、[r]
-村上さんだって負けていない。[pcms]
+I thought Ochi-san had an impressive lineage, but Murakami-san is not[r]
+to be outdone.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so31b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *4886|
 [fc]
-[ns]宗一郎[nse]
-「似合っていますなぁ、写真を撮りたいくらいですぞ」[pcms]
+[ns]Souichirou[nse]
+"It suits you very well; I'd like to take a picture."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_mi1"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4887|
 [fc]
 [vo_sat s="sato0043"]
-[ns]怜[nse]
-「残念ながら、そういうサービスはしておりません」[pcms]
+[ns]Sato[nse]
+"Unfortunately, we don't offer that kind of service."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *4888|
 [fc]
 [vo_aka s="akari0172"]
-[ns]茜梨[nse]
-「でも、とっても綺麗です」[pcms]
+[ns]Akari[nse]
+"But you look very beautiful."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak01"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="sa1_mi1"][ChrSetParts layer=5 chface="F1_sa11"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
@@ -535,8 +533,8 @@
 *4889|
 [fc]
 [vo_sat s="sato0044"]
-[ns]怜[nse]
-「いやぁ、越智家の娘さんに言われてもなぁ」[pcms]
+[ns]Sato[nse]
+"Well, coming from the daughter of the Ochi family..."[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak08"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
@@ -545,22 +543,20 @@
 
 *4890|
 [fc]
-越智さんは、村上さんが自分のことを知っていて[r]
-少し驚いているみたいだった。[pcms]
+Ochi-san seems a bit surprised that Murakami-san knows about her.[pcms]
 
 *4891|
 [fc]
-まぁ、スポーツセンターのロビーでちょっと、[r]
-会ったくらいだからな。[pcms]
+Well, they only met briefly in the lobby of the sports center.[pcms]
 
 *4892|
 [fc]
-村上さん的に、越智さんはインパクトがあったけど、[r]
-逆はそうでもなかったと。[pcms]
+To Murakami-san, Ochi-san made an impact, but the reverse wasn't quite[r]
+the case.[pcms]
 
 *4893|
 [fc]
-特に今はこんな姿だし、わかるはずないか。[pcms]
+Especially now, in this form, it's no wonder you don't recognize me.[pcms]
 
 ;//m:気になったのここまで
 
@@ -568,9 +564,8 @@
 
 *4894|
 [fc]
-[ns]宗一郎[nse]
-「ところで、このネットワークスポットは、[r]
-　今日のモンバスイベントに関係が？」[pcms]
+[ns]Souichirou[nse]
+"By the way, is this network spot related to today's Monbus event?"[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak18"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so30b"][ChrSetXY layer=4 x=640 y=0]
@@ -580,17 +575,17 @@
 *4895|
 [fc]
 [vo_sat s="sato0045"]
-[ns]怜[nse]
-「ああっ、それは『聖域の白き守護者の誓い』に戒められて、[r]
-　お話しできないのです、あああっ……」[pcms]
+[ns]Sato[nse]
+"Ah, I am bound by the 'Oath of the White Guardian of the Sanctuary'[r]
+and cannot speak of it, ahhh..."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_mi1"][ChrSetParts layer=5 chface="F1_sa08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 [eval exp="f.chara_x = 350,f.chara_y = 0"][quake_chara layer=5 lo x s]
 
 *4896|
 [fc]
-村上さんが急に苦しみ出す小芝居をやり始めた。[r]
-なんだ、このノリは。[pcms]
+Murakami-san suddenly started to pretend to be in agony. What's with[r]
+this act?[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="na2_sk2_a"][ChrSetParts layer=5 chface="F2_na08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -598,8 +593,8 @@
 *4897|
 [fc]
 [vo_nat s="natu0111"]
-[ns]夏都[nse]
-「なにこれ？」[pcms]
+[ns]Natsu[nse]
+"What's this?"[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_se2"][ChrSetParts layer=3 chface="F1_ak18"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_si_b"][ChrSetParts layer=4 chface="F1_so30b"][ChrSetXY layer=4 x=640 y=0]
@@ -609,43 +604,43 @@
 *4898|
 [fc]
 [vo_sat s="sato0046"]
-[ns]怜[nse]
-「ああっ、それ以上は聞かないでくださいまし、[r]
-　ああああああっ……」[pcms]
+[ns]Sato[nse]
+"Ah, please don't ask any more, ahhhhhh..."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4899|
 [fc]
-村上さんは頭を抱えて苦しみながら、[r]
-本殿の方に走って行ってしまった。[pcms]
+Murakami-san, while pretending to be in distress, ran off towards the[r]
+main shrine.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4900|
 [fc]
-なんだかわからないけれど、[r]
-これはモンバスのイベントに関係あるんだな。[pcms]
+Though I don't understand it, this must be related to the Monbus[r]
+event.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4901|
 [fc]
 [vo_aka s="akari0173"]
-[ns]茜梨[nse]
-「あはは、面白い方ですね」[pcms]
+[ns]Akari[nse]
+"Ahaha, she's an interesting person."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na12"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4902|
 [fc]
 [vo_nat s="natu0112"]
-[ns]夏都[nse]
-「よくわからんけど……この神社でお参りして大丈夫なのか？」[pcms]
+[ns]Natsu[nse]
+"I don't really get it... Is it okay to pray at this shrine?"[pcms]
 
 *4903|
 [fc]
-そんな姉ちゃんの声を、祝詞と蝉の声が覆い隠していった。[pcms]
+The sound of my sister's voice was drowned out by the Shinto prayers[r]
+and the cicadas.[pcms]
 
 ;//★sky01 空・朝昼B
 [bg storage="sky01b"][trans_c cross time=500]
@@ -654,13 +649,13 @@
 
 *4904|
 [fc]
-みんなでお参りをして、売店の怜さんからお守りを買って、[r]
-おみくじを引く。[pcms]
+We all prayed, bought charms from Sato-san at the shop, and drew[r]
+fortunes.[pcms]
 
 *4905|
 [fc]
-僕と姉ちゃんが末吉で、そーいちと越智さんが凶だった。[r]
-見事なツーペアだ。[pcms]
+My sister and I got 'sue-kichi', while Souichirou and Ochi-san got[r]
+'kyou'. What a perfect pair.[pcms]
 
 ;//★bg08a 大神神社・朝昼
 [bg storage="BG08a"][trans_c cross time=500]
@@ -668,258 +663,255 @@
 
 *4906|
 [fc]
-[ns]宗一郎[nse]
-「凶はこれ以上悪いことがないから、[r]
-　逆に縁起がいいとされているところもあるわけで……」[pcms]
+[ns]Souichirou[nse]
+"Ky means that nothing worse can happen, so in a way, it's considered[r]
+to have good luck..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4907|
 [fc]
 [vo_aka s="akari0174"]
-[ns]茜梨[nse]
-「そ、そんなに気にしてないですよ？」[pcms]
+[ns]Akari[nse]
+"I-I'm not really worried about it."[pcms]
 
 *4908|
 [fc]
-とはいえ、おみくじを引いて凶だった瞬間の越智さんの表情は、[r]
-かなりくるものがあった。[pcms]
+But the expression on Ochi-san's face when she drew 'kyou' was quite[r]
+something to see.[pcms]
 
 *4909|
 [fc]
-そーいちじゃなくても、フォローをしたくなって[r]
-当然だと思う。[pcms]
+Even if it wasn't Souichirou, anyone would naturally want to offer[r]
+some comfort.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4910|
 [fc]
 [vo_nat s="natu0113"]
-[ns]夏都[nse]
-「末吉が一番いいって良く聞くけどな、[r]
-　ほどほどに幸せで、末広がりの末なんだろ？」[pcms]
+[ns]Natsu[nse]
+"I often hear that 'sue-kichi' is the best one, moderately happy and[r]
+spreading towards the end, right?"[pcms]
 
 *4911|
 [fc]
-[ns]誠[nse]
-「そんなこと言ってたら、全部いい卦になっちゃうじゃないか」[pcms]
+[ns]Makoto[nse]
+"If you say that, then all the fortunes would end up being good."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4912|
 [fc]
 [vo_aka s="akari0175"]
-[ns]茜梨[nse]
-「ふふっ、でも、一人くらい大吉が出そうですけど、[r]
-　やっぱり確率を絞っているんですか？」[pcms]
+[ns]Akari[nse]
+"Fufu, but I thought at least one person would get 'daikichi'. Are you[r]
+sure you're not rigging the odds?"[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_mi1"][ChrSetParts layer=5 chface="F1_sa03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4913|
 [fc]
 [vo_sat s="sato0047"]
-[ns]怜[nse]
-「企業秘密です。[r]
-　何回引いても大吉じゃあ、有り難みがないとは思うけどね」[pcms]
+[ns]Sato[nse]
+"That's a trade secret. If you always get 'daikichi', it loses its[r]
+significance, doesn't it?"[pcms]
 
 *4914|
 [fc]
-どうも、越智さんの言う通り、確率を絞っているっぽい。[pcms]
+It seems like they are indeed rigging the odds, just as Ochi-san[r]
+suggested.[pcms]
 
 *4915|
 [fc]
-凶を抜くという話は聞いたことがあるけれど、[r]
-大吉もそれなりにレアにしているんだな。[pcms]
+I've heard about removing 'kyou', but it seems they also make[r]
+'daikichi' fairly rare.[pcms]
 
 *4916|
 [fc]
-誰が困るわけでもないんだから、[r]
-縁起くらい良くしてくれたっていいものを、[r]
-神様は自分を安売りしないみたいだ。[pcms]
+It wouldn't hurt anyone if they made the fortunes a bit better, but it[r]
+seems the gods don't want to sell themselves short.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4917|
 [fc]
-[ns]宗一郎[nse]
-「それじゃあ、ここでお別れですかな」[pcms]
+[ns]Souichirou[nse]
+"So, is this where we part ways?"[pcms]
 
 *4918|
 [fc]
-[ns]誠[nse]
-「うん、夕食の時間にまた集合で」[pcms]
+[ns]Makoto[nse]
+"Yeah, let's meet up again for dinner."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4919|
 [fc]
 [vo_aka s="akari0176"]
-[ns]茜梨[nse]
-「１８時くらいに集まって頂ければ大丈夫です。[r]
-　場所はすぐわかると思いますので」[pcms]
+[ns]Akari[nse]
+"If you could gather around 18:00, that would be fine. The place[r]
+should be easy to find."[pcms]
 
 *4920|
 [fc]
-豪邸なのかな？[r]
-近所の人に聞けばすぐわかると思うけど。[pcms]
+I wonder if it's a mansion? I think if I ask around the neighborhood,[r]
+I'll find out quickly.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk2_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4921|
 [fc]
 [vo_nat s="natu0114"]
-[ns]夏都[nse]
-「オレはどうしようかな、[r]
-　この辺に旧日本軍の遺構があるんだっけ？」[pcms]
+[ns]Natsu[nse]
+"What should I do? There are remains of the old Japanese military[r]
+around here, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_mi1"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4922|
 [fc]
 [vo_sat s="sato0048"]
-[ns]怜[nse]
-「ありますよ、砲台跡ですけれど」[pcms]
+[ns]Sato[nse]
+"Yes, there are battery ruins."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4923|
 [fc]
 [vo_nat s="natu0115"]
-[ns]夏都[nse]
-「そこを見てから、昼飯食ってフェスに行こうかな」[pcms]
+[ns]Natsu[nse]
+"I'll check those out before grabbing lunch and heading to the fest."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4924|
 [fc]
-僕とそーいちは自転車でビーチ、越智さんは実家、[r]
-姉ちゃんは観光をしてからフェスに行くらしい。[pcms]
+Souichirou and I will go to the beach by bike, Ochi-san will go home,[r]
+and my sister plans to do some sightseeing before going to the fest.[pcms]
 
 *4925|
 [fc]
-短い時間だったけど、姉ちゃんと神社に来れてよかった。[r]
-旅行をしたっていう気がする。[pcms]
+It was a short time, but I'm glad I came to the shrine with my sister.[r]
+It feels like we went on a trip.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4926|
 [fc]
 [vo_aka s="akari0177"]
-[ns]茜梨[nse]
-「旧日本軍の高射砲基地の跡ですよね、私も見ました」[pcms]
+[ns]Akari[nse]
+"It's the remains of the old Japanese military anti-aircraft gun site,[r]
+right? I've seen it too."[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_mi1"][ChrSetParts layer=5 chface="F1_sa02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4927|
 [fc]
 [vo_sat s="sato0049"]
-[ns]怜[nse]
-「島に設置されているのは、東側と中央と西側のみっつ。[r]
-　神社の近くにあるのが西側で、越智本家の近くにあるのが、[r]
-　東側砲台ですよ」[pcms]
+[ns]Sato[nse]
+"There are three installations on the island: east, central, and west.[r]
+The one near the shrine is on the west side, and near the Ochi family[r]
+home is the east side battery."[pcms]
 
 *4928|
 [fc]
-[ns]誠[nse]
-「そんなにいっぱいあるんだ」[pcms]
+[ns]Makoto[nse]
+"There are that many?"[pcms]
 
 *4929|
 [fc]
-高射砲基地とか、見てみたい気もする。[r]
-もう、当時の面影はないんだろうけれど。[pcms]
+I'm kind of interested in seeing these anti-aircraft gun sites. Though[r]
+there's probably no trace left from that time.[pcms]
 
 [ChrSetEx layer=5 chbase="sa1_mi1"][ChrSetParts layer=5 chface="F1_sa03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *4930|
 [fc]
 [vo_sat s="sato0050"]
-[ns]怜[nse]
-「でも、こっちでも有名ですから、[r]
-　気を付けてくださいね？」[pcms]
+[ns]Sato[nse]
+"But it's quite famous around here, so please be careful."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4931|
 [fc]
-なんて言いながら、村上さんがお化けの真似をして見せた。[pcms]
+As she said this, Murakami-san pretended to be a ghost for effect.[pcms]
 
 *4932|
 [fc]
-姉ちゃんが少しだけ身体を強ばらせる。[pcms]
+My sister tensed up just a little bit.[pcms]
 
 *4933|
 [fc]
-時間があったら僕も見に行きたいけれど、[r]
-とりあえずビーチに行こう。[pcms]
+If I have time, I'd like to go see it too, but for now, let's head to[r]
+the beach.[pcms]
 
 *4934|
 [fc]
-ターヤさんが待っているはずだから、[r]
-あんまり遅れるわけにも行かない。[pcms]
+Tarja-san must be waiting, so we can't afford to be too late.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4935|
 [fc]
 [vo_nat s="natu0116"]
-[ns]夏都[nse]
-「そ、それじゃあ、行ってきますか」[pcms]
+[ns]Natsu[nse]
+"So, shall we get going?"[pcms]
 
 *4936|
 [fc]
-[ns]誠[nse]
-「姉ちゃんも、元気で」[pcms]
+[ns]Makoto[nse]
+"Take care, Onee-san."[pcms]
 
 *4937|
 [fc]
-なんか名残惜しい。[r]
-一人で大丈夫かな……。[pcms]
+I feel a bit reluctant to leave. I wonder if she'll be okay alone...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4938|
 [fc]
 [vo_nat s="natu0117"]
-[ns]夏都[nse]
-「茜梨ちゃんも、色々ありがとな」[pcms]
+[ns]Natsu[nse]
+"Thanks for everything, Akari-chan."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4939|
 [fc]
 [vo_aka s="akari0178"]
-[ns]茜梨[nse]
-「とんでもありません、[r]
-　こちらこそ有り難うございました」[pcms]
+[ns]Akari[nse]
+"Not at all, thank you very much as well."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4940|
 [fc]
 [vo_nat s="natu0118"]
-[ns]夏都[nse]
-「オレは夜遅くか朝にはホテルに戻ると思うけど、[r]
-　そのときにメールするから」[pcms]
+[ns]Natsu[nse]
+"I think I'll be back at the hotel late at night or in the morning, so[r]
+I'll send you an email then."[pcms]
 
 *4941|
 [fc]
-[ns]誠[nse]
-「わかった」[pcms]
+[ns]Makoto[nse]
+"Got it."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na24"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4942|
 [fc]
 [vo_nat s="natu0119"]
-[ns]夏都[nse]
-「茜梨ちゃんの実家で、変なことすんなよ、じゃーな！」[pcms]
+[ns]Natsu[nse]
+"Don't do anything weird at Akari-chan's house, see ya!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4943|
 [fc]
-変なことってなんだろうと思いながらも、[r]
-深く考えるのはやめておく僕だった。[pcms]
+While wondering what he meant by 'weird things', I decided not to[r]
+think too deeply about it.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

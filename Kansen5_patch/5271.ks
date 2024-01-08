@@ -24,87 +24,85 @@
 
 *3228|
 [fc]
-[ns]誠[nse]
-「くそおおおおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it!"[pcms]
 
 ;//bgm04.ogg
 [bgm storage="BGM04"]
 
 *3229|
 [fc]
-カッと頭に血がのぼっていく。[pcms]
+I can feel the blood rushing to my head.[pcms]
 
 *3230|
 [fc]
-この後に及んで言うことがそれか？[r]
-どうすればそんな勘違いが許されると言うんだ？[pcms]
+And you say that now, after all this? How can such a misunderstanding[r]
+be allowed?[pcms]
 
 *3231|
 [fc]
-そんなにお前は特別か。[r]
-選ばれた者なのか。[pcms]
+Do you think you're so special? Chosen?[pcms]
 
 *3232|
 [fc]
-問うてみたかっただと？[pcms]
+You wanted to ask that?[pcms]
 
 *3233|
 [fc]
-どんな結論が出たのか、聞く気にもならない。[pcms]
+I don't even feel like hearing what conclusion you've reached.[pcms]
 
 *3234|
 [fc]
-[ns]誠[nse]
-「選ぶ権利があるだと！？」[pcms]
+[ns]Makoto[nse]
+"You think you have the right to choose!?"[pcms]
 
 *3235|
 [fc]
-[ns]誠[nse]
-「泣いて命乞いをしろよ」[pcms]
+[ns]Makoto[nse]
+"Beg for your life in tears."[pcms]
 
 *3236|
 [fc]
-[ns]誠[nse]
-「今、日本中で泣き叫んでいる人たちと同じように」[pcms]
+[ns]Makoto[nse]
+"Just like all the people crying out across Japan right now."[pcms]
 
 *3237|
 [fc]
-[ns]誠[nse]
-「家族と引き裂かれ、その家族に殺されている人と同じように！」[pcms]
+[ns]Makoto[nse]
+"Just like those being torn from their families and killed by them!"[pcms]
 
 *3238|
 [fc]
-[ns]誠[nse]
-「惨めに、哀れに、残り少ない命を守るために、[r]
-　尊厳をかなぐり捨てて命乞いをしろよっ！」[pcms]
+[ns]Makoto[nse]
+"Miserably, pitifully, throw away your dignity and beg for your life[r]
+to protect what little of it remains!"[pcms]
 
 *3239|
 [fc]
-[ns]玄治郎[nse]
-「…………」[pcms]
+[ns]Genjirou[nse]
+"..."[pcms]
 
 *3240|
 [fc]
-でも、前田玄治郎は厳しい目を僕に向けたまま、[r]
-微動だにしなかった。[pcms]
+But Genjirou Maeda kept his stern gaze fixed on me, without so much as[r]
+flinching.[pcms]
 
 *3241|
 [fc]
-ここで死ぬことがあっても、こいつは満足なんだろう。[pcms]
+Even if he dies here, he'd probably be satisfied.[pcms]
 
 *3242|
 [fc]
-自分の書いた脚本に酔ったまま、[r]
-安らかな死を向かえるんだろう。[pcms]
+Drunk on his own script, he'd meet a peaceful death.[pcms]
 
 *3243|
 [fc]
-でも、それでも僕は！[pcms]
+But even so, I![pcms]
 
 *3244|
 [fc]
-[ns]誠[nse]
-「ちくしょぉぉぉぉぉぉぉぉっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it all!"[pcms]
 
 
 ;//茜梨中＠ジャージ（上着あり）　表情21　悲鳴　
@@ -112,8 +110,8 @@
 *3245|
 [fc]
 [vo_aka s="akari0843"]
-[ns]茜梨[nse]
-「駄目ですっ！　まー君先輩！」[pcms]
+[ns]Akari[nse]
+"Stop it! Makoto-senpai!"[pcms]
 
 ;//m:立ち無し
 
@@ -132,15 +130,15 @@
 
 *3246|
 [fc]
-僕の引き絞ったトリガーは、越智さんの体当たりに狙いが反れて、[r]
-地面に穴を穿っただけだった。[pcms]
+The trigger I had tensely pulled was thrown off target by Ochi-san's[r]
+body check, and only managed to make a hole in the ground.[pcms]
 
 ;//■イベントCG akari_N005（茜梨と抱擁）ハチマキ無し差分
 [evcg storage="akari_N005zg"][trans_c cross time=300]
 
 *3247|
 [fc]
-そして、僕のことをしっかりと抱きしめてくる。[pcms]
+And then, she held me firmly in her embrace.[pcms]
 
 ;//■イベントCG akari_N005（茜梨と抱擁）ハチマキ無し差分
 [evcg storage="akari_N005zh"][trans_c cross time=300]
@@ -148,17 +146,16 @@
 *3248|
 [fc]
 [vo_aka s="akari0844"]
-[ns]茜梨[nse]
-「こんなやり方いけません。[r]
-　こんなことをする必要もありません」[pcms]
+[ns]Akari[nse]
+"This isn't the right way. There's no need to do this."[pcms]
 
 ;//■イベントCG akari_N005（茜梨と抱擁）ハチマキ無し差分
 [evcg storage="akari_N005zi"][trans_c cross time=300]
 
 *3249|
 [fc]
-[ns]誠[nse]
-「あっ！」[pcms]
+[ns]Makoto[nse]
+"Ah!"[pcms]
 
 ;//★bg15a 越智本家 土蔵
 [bg storage="BG15a"][trans_c cross time=500]
@@ -167,29 +164,28 @@
 *3250|
 [fc]
 [vo_nat s="natu0506"]
-[ns]夏都[nse]
-「これでいい、こいつには殺す価値もない」[pcms]
+[ns]Natsu[nse]
+"This is fine, he's not even worth killing."[pcms]
 
 *3251|
 [fc]
-姉ちゃんが、僕の手から銃を奪っていった。[r]
-もう、こいつを殺す手だてがない。[pcms]
+Onee-san snatched the gun from my hands. Now, there's no way to kill[r]
+him.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3252|
 [fc]
-みんなの恨みを晴らしてあげられる人がいない。[pcms]
+No one is left to avenge everyone's grudges.[pcms]
 
 *3253|
 [fc]
-日本中で苦しんでいる人を慰めてあげられる人が、[r]
-正当な復讐の権利を果たせる人間が……。[pcms]
+No one to comfort those suffering all over Japan, no one to fulfill[r]
+the right of just revenge...[pcms]
 
 *3254|
 [fc]
-そして、僕の過去を清算する機会は、[r]
-永遠に失われていた。[pcms]
+And the chance to settle my past was lost forever.[pcms]
 
 ;//BGM即時停止
 [fadeoutbgm time=500]
@@ -207,29 +203,28 @@
 
 *3255|
 [fc]
-かなり近くで銃声と爆発の音が響く。[r]
-防疫隊が迫っているんだ。[pcms]
+The sound of gunfire and explosions is close. The quarantine squad is[r]
+approaching.[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
 
 *3256|
 [fc]
-ここだって安全とは言い切れない。[r]
-脱出しないと……。[pcms]
+This place isn't safe either. We need to escape...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na01t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3257|
 [fc]
 [vo_nat s="natu0507"]
-[ns]夏都[nse]
-「行くぞ、立てるか？」[pcms]
+[ns]Natsu[nse]
+"Let's go, can you stand?"[pcms]
 
 *3258|
 [fc]
-[ns]誠[nse]
-「大丈夫、行けるよ」[pcms]
+[ns]Makoto[nse]
+"I'm fine, I can go."[pcms]
 
 [ChrSetEx layer=5 chbase="ge1_ki"][ChrSetParts layer=5 chface="F1_ge15"][ChrSetXY layer=5 x=320 y=0]
 [ChrSetEx layer=4 chbase="ak1_ja2"][ChrSetParts layer=4 chface="F1_aj10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -237,37 +232,37 @@
 *3259|
 [fc]
 [vo_aka s="akari0845"]
-[ns]茜梨[nse]
-「お爺さまも一緒に行きましょう」[pcms]
+[ns]Akari[nse]
+"Let's take Grandfather with us."[pcms]
 
 *3260|
 [fc]
-みんながハッと息を呑む音が聞こえた。[r]
-この男と一緒に……。[pcms]
+The sound of everyone catching their breath could be heard. To leave[r]
+with this man...[pcms]
 
 [ChrSetEx layer=5 chbase="ge1_ki"][ChrSetParts layer=5 chface="F1_ge01"][ChrSetXY layer=5 x=320 y=0][trans_c cross time=150]
 
 *3261|
 [fc]
-[ns]玄治郎[nse]
-「優しい子に育った。[r]
-　だが、僕のことは気にせず行きなさい」[pcms]
+[ns]Genjirou[nse]
+"You've grown into a kind person. But don't worry about me, go on[r]
+ahead."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_sh"][ChrSetParts layer=3 chface="F1_mi04"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *3262|
 [fc]
 [vo_mis s="misao0167"]
-[ns]美沙緒[nse]
-「私も残ります」[pcms]
+[ns]Misao[nse]
+"I will stay as well."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_sh"][ChrSetParts layer=3 chface="F1_mi12"][ChrSetXY layer=3 x=60 y=0]
 [ChrSetEx layer=5 chbase="ge1_ki"][ChrSetParts layer=5 chface="F1_ge14"][ChrSetXY layer=5 x=320 y=0][trans_c cross time=150]
 
 *3263|
 [fc]
-[ns]玄治郎[nse]
-「お前も行きなさい、これからの世の中で役に立つことだろう」[pcms]
+[ns]Genjirou[nse]
+"You should go too, you'll be useful in the world to come."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

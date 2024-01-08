@@ -25,152 +25,148 @@
 
 *712|
 [fc]
-[ns]宏武[nse]
-「ここは、いつでも賑やかだな」[pcms]
+[ns]Hiromu[nse]
+"This place is always bustling, isn't it?"[pcms]
 
 *713|
 [fc]
-若者が集う街、渋谷。[pcms]
+Shibuya, a town where young people gather.[pcms]
 
 *714|
 [fc]
-……もちろん、若者だけじゃない。[pcms]
+...Of course, it's not just young people.[pcms]
 
 *715|
 [fc]
-『オヤジ』なんて呼ばれる俺みたいなのだって、[r]
-この街で食うための仕事をしているわけだ。[pcms]
+"Even someone called an 'old man' like me is working in this town to[r]
+make a living."[pcms]
 
 *716|
 [fc]
-そして、そのど真ん中。[r]
-駅を出てすぐ。[pcms]
+And right in the heart of it all. Just outside the station.[pcms]
 
 *717|
 [fc]
-Ｑ－ＦＲＯＮＴの前で、俺はふと足を止め、[r]
-大きなスクリーンに映し出される男の口元に、[r]
-疲れて霞む目を向けた。[pcms]
+In front of Q-FRONT, I suddenly stopped, my tired eyes drawn to the[r]
+mouth of a man displayed on the large screen.[pcms]
 
 *718|
 [fc]
-[ns]ニュースキャスター[nse]
-「今日で１０回目となる東京高裁での[r]
-　『[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]』訴訟で――」[pcms]
+[ns]News Caster[nse]
+"Today marks the 10th court session at the Tokyo High Court for the[r]
+'Tohoku Infection Disaster' lawsuit--"[pcms]
 
 *719|
 [fc]
-[ns]ニュースキャスター[nse]
-「感染被害遺族の弁護団は事件からもう４年が[r]
-　過ぎているというのに、遺体さえも――」[pcms]
+[ns]News Caster[nse]
+"The legal team for the families of the infection victims argues that[r]
+even after four years, they haven't even--"[pcms]
 
 *720|
 [fc]
-[ns]ニュースキャスター[nse]
-「すでに十回目を迎える、この訴訟ですが、[r]
-　和解に至るには、長い時間が必要の様です」[pcms]
+[ns]News Caster[nse]
+"This lawsuit, now in its tenth session, seems to require a long time[r]
+to reach a settlement."[pcms]
 
 *721|
 [fc]
-[ns]宏武[nse]
-「長い時間……か……」[pcms]
+[ns]Hiromu[nse]
+"A long time... huh..."[pcms]
 
 *722|
 [fc]
-ニュースのキャスターが交代し、[r]
-話題は明日の天気へと変わる。[pcms]
+The news caster changes, and the topic shifts to tomorrow's weather.[pcms]
 
 *723|
 [fc]
-それを合図に、俺は地面へと目を向け、ため息をついた。[pcms]
+Taking that as my cue, I look down at the ground and let out a sigh.[pcms]
 
 *724|
 [fc]
-[ns]宏武[nse]
-「……ふん」[pcms]
+[ns]Hirotake[nse]
+"...Hmph."[pcms]
 
 *725|
 [fc]
-いくら時間をかけても、真相まではたどり着けないだろう。[r]
-“全て”を知っている人間は、とうの昔に雲隠れだからな。[pcms]
+No matter how much time is spent, we probably won't reach the truth.[r]
+"The person who knows everything has long since vanished into thin[r]
+air."[pcms]
 
 *726|
 [fc]
-[ns]宏武[nse]
-「俺だって、そうか……」[pcms]
+[ns]Hiromu[nse]
+"Even me, huh..."[pcms]
 
 *727|
 [fc]
-これ以上考えても無駄だと、[r]
-自分に何度言い聞かせた事か。[pcms]
+No matter how many times I tell myself it's pointless to think about[r]
+it anymore.[pcms]
 
 *728|
 [fc]
-だけど、そうそう諦められるものじゃない。[pcms]
+But it's not something you can just give up on so easily.[pcms]
 
 *729|
 [fc]
-とはいえ――[r]
-それだけを追い続けられるほど、俺は若くもない。[pcms]
+Still-- I'm not young enough to keep chasing just that.[pcms]
 
 *730|
 [fc]
-この時期になると、いつもこうだ。[r]
-詰め切ることが出来なかった、あの時のことを思い出し、[r]
-心の奥に、虚しさが広がっていく。[pcms]
+It's always like this around this time. I remember that unresolved[r]
+incident and feel a sense of emptiness spreading deep within my heart.[pcms]
 
 *731|
 [fc]
-ふと、腕を締め付ける時計に目をやると、[r]
-時間は九時を指し示していた。[pcms]
+Suddenly, I glance at my watch tightening around my wrist, and it[r]
+points to nine o'clock.[pcms]
 
 *732|
 [fc]
-俺はもう、若者じゃない。[r]
-この街で遊ぶには、体力が追いつかない。[pcms]
+I'm no longer young. I don't have the stamina to play around in this[r]
+town anymore.[pcms]
 
 *733|
 [fc]
-もっとも、気持ちは別だ。[r]
-なにより、立場上仕方ない事もある――[pcms]
+Still, my spirit is another story. After all, there are things I have[r]
+to do because of my position--[pcms]
 
 *734|
 [fc]
-[ns]斉藤[nse]
-「[ruby text="いずぶち"][ch text="出渕"]さん、そろそろ行きましょうよ」[pcms]
+[ns]Saito[nse]
+"Izubuchi-san, we should be going soon."[pcms]
 
 *735|
 [fc]
-[ns]宏武[nse]
-「……ああ」[pcms]
+[ns]Hiromu[nse]
+"...Yeah."[pcms]
 
 [se buf=0 storage="seC011"]
 ;//車停車しだす音
 
 *736|
 [fc]
-人混みの中、疲れて惚けた頭の中に、[r]
-聞き覚えのある声が鈍く響き渡り、[r]
-現実から逃れようとする俺の心を引き戻した。[pcms]
+In the midst of the crowd, a familiar voice echoes dully in my weary[r]
+head, pulling me back from my attempt to escape reality.[pcms]
 
 *737|
 [fc]
-今日は、[ruby text="コイツ"][ch text="斉藤"]に四年前の事を話す約束をしていたんだ。[pcms]
+Today, I had promised to talk to Saito about what happened four years[r]
+ago.[pcms]
 
 *738|
 [fc]
-斉藤は、駅前のロータリーに止まるタクシーの窓を叩き、[r]
-俺に『早く乗って下さい』と即す。[pcms]
+Saito knocks on the window of a taxi stopped in front of the station[r]
+rotary, urging me to "Please get in quickly."[pcms]
 
 *739|
 [fc]
-乗り気はしなかったが、仕方ない。[pcms]
+I wasn't keen on it, but it couldn't be helped.[pcms]
 
 *740|
 [fc]
-部下と飲むのも、上司の役目。[r]
-部下に、昔話をしてやるのも、上司の役目。[r]
-煙たがられるも、そうだ。[pcms]
+Drinking with a subordinate is also part of a boss's duties. Telling[r]
+old stories to a subordinate is also part of a boss's duties. Even if[r]
+it's bothersome, that's just how it is.[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
@@ -180,7 +176,7 @@
 
 *741|
 [fc]
-苦笑いしながら、後部座席のドアが開いた車に乗り込んだ。[pcms]
+I got into the car with a wry smile as the rear seat door opened.[pcms]
 
 [se buf=0 storage="seA029"]
 [wait_c time=2000]
@@ -194,21 +190,20 @@
 
 *742|
 [fc]
-夜の闇を打ち消し輝く街灯が、[r]
-ガラスの向こう側を、流星の様に流れていく。[pcms]
+The streetlights that dispel the darkness of night shine through the[r]
+glass like shooting stars.[pcms]
 
 *743|
 [fc]
-ぼんやりと“それ”を見つめながら、[r]
-今日、“斉藤”に話す内容を考えていた。[pcms]
+Gazing absently at them, I pondered what to tell Saito today.[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *744|
 [fc]
-思い出したくもないが、忘れられないあの夏の事。[r]
-忘れてはいけない、あの夏の事を――[pcms]
+The summer I don't want to remember but can't forget. The summer that[r]
+must not be forgotten--[pcms]
 
 ;不要？[wait_c time=1000]
 [stopse buf=0]
@@ -224,628 +219,599 @@
 
 *745|
 [fc]
-[ns]斉藤[nse]
-「あれから、もう四年になりますね……」[pcms]
+[ns]Saito[nse]
+"It's been four years since then..."[pcms]
 
 *746|
 [fc]
-俺と斉藤は、[ruby text="しょうしゃ"][ch text="瀟洒"]なバーのカウンターに腰掛け、[r]
-グラスを軽く合わせた。[pcms]
+Saito and I sat at the counter of an elegant bar and lightly clinked[r]
+our glasses together.[pcms]
 
 *747|
 [fc]
-透き通ったガラスの音が、[r]
-奥行きを感じるワールドミュージックの中に消えていく。[pcms]
+The sound of clear glass disappeared into the depth of the world music[r]
+playing in the background.[pcms]
 
 *748|
 [fc]
-あれから四年……。[r]
-コイツも、気にしているんだな。[r]
-気にならない筈もないが。[pcms]
+Four years since then... He's concerned about it too. It's impossible[r]
+not to be.[pcms]
 
 *749|
 [fc]
-コイツが聞きたい本当の理由は、また別だろう。[r]
-俺が話そうとしているのも、その事だ。[pcms]
+The real reason he wants to hear is probably something else. And[r]
+that's what I'm about to talk about.[pcms]
 
 *750|
 [fc]
-コイツが求めるのは、俺が出世した理由。[r]
-俺がコイツに話すのは、懺悔にも似た気持ちから。[pcms]
+What he seeks is the reason for my promotion. What I'm going to tell[r]
+him comes from a feeling akin to confession.[pcms]
 
 *751|
 [fc]
-お互いの利益が合致した。[r]
-だから俺は、疲れた体に鞭打って、コイツに付き合い、[r]
-コイツはコイツで、俺みたいなオッサンに付き合うわけだ。[pcms]
+We both have our interests aligned. That's why I push my tired body to[r]
+keep him company, and he puts up with an old man like me in return.[pcms]
 
 *752|
 [fc]
-[ns]宏武[nse]
-「かしこまるな、斉藤。さて……本題に入るか。[r]
-　お前が聞きたいのは……。[r]
-　『四年前に俺が何をして、出世したか』だろ？」[pcms]
+[ns]Hiromu[nse]
+"Don't be so formal, Saito. Now... let's get to the main topic. What[r]
+you want to know is... 'What I did four years ago to get promoted,'[r]
+right?"[pcms]
 
 *753|
 [fc]
-俺は、回りくどい会話は嫌いだ。[r]
-斉藤だって、同じかもしれないが、[r]
-そんなこと言い出せる立場でもないし、言える男でもない。[pcms]
+I don't like beating around the bush. Saito might feel the same, but[r]
+he's not in a position to say so, nor is he the type of man to say it.[pcms]
 
 *754|
 [fc]
-だけど、職業柄そんな事も言ってられないしな。[r]
-コイツには、これからも頑張ってもらわなければ。[pcms]
+But, given my profession, I can't afford to be indirect. I need him to[r]
+keep up the good work from here on out.[pcms]
 
 *755|
 [fc]
-[ns]斉藤[nse]
-「そんな……確かにそれもあるんですが、[r]
-　出渕さんのご家族だとか、海外赴任の事なんかも聞ければと」[pcms]
+[ns]Saito[nse]
+"Well... indeed, that's part of it, but I was also hoping to hear[r]
+about your family, your overseas assignments, and such."[pcms]
 
 *756|
 [fc]
-[ns]宏武[nse]
-「はは……そうきたか。悪くない聴き方だ。[r]
-　だが、その手の内容を聞くなら、事前に調べておいた方がいい。[r]
-　触れてはならん事もあるからな」[pcms]
+[ns]Hiromu[nse]
+"Haha... so that's your angle. Not a bad way to listen. But if you're[r]
+going to ask about that kind of stuff, you should do your research[r]
+beforehand. There are things you shouldn't touch upon."[pcms]
 
 *757|
 [fc]
-人なつっこさは認める。[r]
-それは、俺達にとって武器になり得る。[pcms]
+His affability is commendable. It can be a weapon for us.[pcms]
 
 *758|
 [fc]
-しかし……話を聞き出すテクニックはまだまだだ。[r]
-褒めて伸ばした方が良いかもしれないな。[pcms]
+However... his technique for extracting stories still has room for[r]
+improvement. Maybe it's better to praise him and help him grow.[pcms]
 
 *759|
 [fc]
-[ns]斉藤[nse]
-「言われると思ってました。なので、[r]
-　自分なりに調べさせていただきました。[r]
-　ベルリン、ロンドン、ワシントンＤ．Ｃ――」[pcms]
+[ns]Saito[nse]
+"I thought you'd say that, so I did some research on my own. Berlin,[r]
+London, Washington D.C.--"[pcms]
 
 *760|
 [fc]
-[ns]斉藤[nse]
-「各支局での勤務の後、本社にお戻りになられて、[r]
-　今は、我らの週刊誌の編集長になられたと……」[pcms]
+[ns]Saito[nse]
+"After working at various branches, you returned to the head office[r]
+and now you're the editor-in-chief of our weekly magazine..."[pcms]
 
 *761|
 [fc]
-[ns]斉藤[nse]
-「政府、業界に対して歯に衣着せぬ物言いで、敵も多いが、[r]
-　人気も高い……ただし、付き合いのある政治家などに対しては、[r]
-　やや甘くなる点が批判の対象となる事もある……」[pcms]
+[ns]Saito[nse]
+"You're known for your blunt criticism towards the government and[r]
+industry, which has made you many enemies but also earned you a lot of[r]
+popularity... However, there are criticisms about you being somewhat[r]
+lenient towards politicians and others you have connections with..."[pcms]
 
 *762|
 [fc]
-ふん……そんな情報、[r]
-今の時代はネットで検索すればいくらでも出てくる。[pcms]
+Hmph... such information can be found all over the internet these[r]
+days.[pcms]
 
 *763|
 [fc]
-そもそも、会社の資料に記載されいているしな。[pcms]
+It's even listed in the company's documents.[pcms]
 
 *764|
 [fc]
-とはいえ……。[r]
-今時珍しいな。言われる前に動ける若者は。[pcms]
+Still... It's rare these days to find a young person who takes[r]
+initiative before being asked.[pcms]
 
 *765|
 [fc]
-だが、この程度では俺の部下としてはどうか？[r]
-自分と比較するのは良くないというのは重々理解している。[pcms]
+But is this enough for him to be my subordinate? I fully understand[r]
+that it's not good to compare him with myself.[pcms]
 
 *766|
 [fc]
-あと一歩踏み出して、もっと深いところまで調べて、[r]
-初めて俺達の仕事が成立するんだ。[pcms]
+He needs to take one more step and dig deeper before our work can[r]
+truly begin.[pcms]
 
 *767|
 [fc]
-[ns]斉藤[nse]
-「次に、出渕さんの家族構成ですが、[r]
-　申し訳ありません、プライバシーに関わる事で、[r]
-　調べていいかどうか、迷ったんですが……」[pcms]
+[ns]Saito[nse]
+"Next, regarding your family composition, I'm sorry if this intrudes[r]
+on your privacy, I was hesitant whether it was okay to research[r]
+this..."[pcms]
 
 *768|
 [fc]
-[ns]宏武[nse]
-「ほう……」[pcms]
+[ns]Hiromu[nse]
+"Oh...?"[pcms]
 
 *769|
 [fc]
-思わず驚きの声を上げた。[pcms]
+I couldn't help but let out a voice of surprise.[pcms]
 
 *770|
 [fc]
-プライバシーの侵害だなんて言う気はさらさらなかった。[r]
-俺が驚いたのは、その行動力に対してだ。[pcms]
+I had no intention of accusing him of invading privacy. What surprised[r]
+me was his initiative.[pcms]
 
 *771|
 [fc]
-まさか、家族の事まで調べていたとはな。[r]
-俺は有名人じゃないから、ネットに情報なんて無いはずだ。[r]
-だとしたら自分の足で調べたと言うことか？[pcms]
+To think he even researched my family. I'm not a celebrity, so there[r]
+shouldn't be any information on the net. Does that mean he[r]
+investigated on his own?[pcms]
 
 *772|
 [fc]
-[ns]斉藤[nse]
-「気を悪くされたら、謝ります」[pcms]
+[ns]Saito[nse]
+"If I've offended you, I apologize."[pcms]
 
 *773|
 [fc]
-[ns]宏武[nse]
-「いい、続けてみろ」[pcms]
+[ns]Hirotake[nse]
+"It's fine, continue."[pcms]
 
 *774|
 [fc]
-[ns]斉藤[nse]
-「分かりました。では……ご家族は奥さんと息子さんの三人家族。[r]
-　ご自宅は[ruby text="しょうとう"][ch text="松濤"]……お帰りが楽かと思って[r]
-　この店を選んだんです」[pcms]
+[ns]Saito[nse]
+"Understood. So... your family consists of your wife and son, three[r]
+people in total. Your home is in Shoto... I chose this place thinking[r]
+it would be convenient for you to return home."[pcms]
 
 *775|
 [fc]
-[ns]斉藤[nse]
-「俺もなかなか気が利くでしょう？」[pcms]
+[ns]Saito[nse]
+"I'm pretty considerate, aren't I?"[pcms]
 
 *776|
 [fc]
-[ns]斉藤[nse]
-「まあ、ご自宅の場所は社員なら誰でも分かりますけどね。[r]
-　さて……ここからが俺が独自に調べた情報です。[r]
-　……とはいえ、出渕さんはよくご存じでしょうけど」[pcms]
+[ns]Saito[nse]
+"Well, anyone in the company would know where you live. Now... here's[r]
+the information I've gathered on my own. ...though you probably[r]
+already know it."[pcms]
 
 *777|
 [fc]
-[ns]斉藤[nse]
-「もしかしたらですが……息子さんの同級生に、[r]
-　大物関係者がいらっしゃいませんか？」[pcms]
+[ns]Saito[nse]
+"Perhaps... does your son have a classmate who is related to some big[r]
+shot?"[pcms]
 
 *778|
 [fc]
-斉藤のその言葉に、俺は素直に感心すると共に、[r]
-“その事”を、どう誤魔化すかを考え出していた。[pcms]
+I was genuinely impressed by Saito's words and started thinking about[r]
+how to sidestep this issue.[pcms]
 
 *779|
 [fc]
-コイツが言っている事は、ほぼ合っている。[r]
-しかし……それを打ち明ければ、[ruby text="ア　イ　ツ"][ch text="宗一郎"]にも、[r]
-面倒が降りかかる。[pcms]
+What he's saying is almost correct. However... revealing it would[r]
+bring trouble to Souichirou as well.[pcms]
 
 *780|
 [fc]
-アイツには、普通の青春を送ってほしい。[r]
-俺みたいに、人々の雑音の中を耳も塞がず歩くような人生とは、[r]
-無関係のままでいてほしい。[pcms]
+I want him to have a normal youth. To live a life unrelated to walking[r]
+through people's noise without covering his ears, unlike me.[pcms]
 
 *781|
 [fc]
-[ns]宏武[nse]
-「お前、なかなか見所があるな。しかし、残念だがそれは違う。[r]
-　俺のガキの周りには、やっぱり普通のガキしかいないよ」[pcms]
+[ns]Hiromu[nse]
+"You've got potential, kid. But unfortunately, you're wrong. My kid's[r]
+just surrounded by normal kids."[pcms]
 
 *782|
 [fc]
-[ns]宏武[nse]
-「強いて言えば……四年前の事件に巻き込まれた子が[r]
-　いるようだがな。それだって……やっぱり普通の子だ」[pcms]
+[ns]Hiromu[nse]
+"If anything... there's a kid who got involved in an incident four[r]
+years ago. But even that kid is just... normal."[pcms]
 
 *783|
 [fc]
-[ns]斉藤[nse]
-「そうなんですね……分かりました」[pcms]
+[ns]Saito[nse]
+"I see... understood."[pcms]
 
 *784|
 [fc]
-それまで嬉々として話していた斉藤は、[r]
-俺の一言で顔に雲がかかったようにして、[r]
-俯いてしまった。[pcms]
+The cheerful Saito's face clouded over with my words, and he hung his[r]
+head.[pcms]
 
 *785|
 [fc]
-[ns]宏武[nse]
-「じゃあ、お前が聞きたいこと、話そうか。[r]
-　俺が出世できた理由……前田玄治郎の事を。[r]
-　……ああ、その前に。お前の質問の仕方、なかなか良かったぞ」[pcms]
+[ns]Hirotake[nse]
+"Then let's talk about what you want to know. The reason for my[r]
+promotion... about Genjiro Maeda. ...Ah, but before that. Your[r]
+questioning was quite good."[pcms]
 
 *786|
 [fc]
-[ns]斉藤[nse]
-「ありがとうございます！　では出渕さん。[r]
-　よろしくお願いします！」[pcms]
+[ns]Saito[nse]
+"Thank you very much! Then Mr. Hiromu, please proceed!"[pcms]
 
 *787|
 [fc]
-[ns]宏武[nse]
-「ああ……まあ、さっきの話しぶりだと、もう知ってるだろ。[r]
-　俺は、前田玄治郎が、四年前の事件に絡んでいると考え、[r]
-　後を追った。それが出世に繋がったんだが――」[pcms]
+[ns]Hiromu[nse]
+"Ah... well, given how our conversation went, you probably already[r]
+know. I pursued Genjiro Maeda because I believed he was involved in[r]
+the incident four years ago. That led to my promotion--"[pcms]
 
 *788|
 [fc]
-……とはいえ、追い切れなかった。[r]
-それが、悔やまれる事だが……。[pcms]
+...but I couldn't catch him in the end. That's something I regret...[pcms]
 
 *789|
 [fc]
-暫くの沈黙。[pcms]
+A moment of silence.[pcms]
 
 *790|
 [fc]
-程よく酔った俺と斉藤は、お互い顔を見合わせる事なく、[r]
-カウンターの奥にあるボトルの壁を見つめていた。[pcms]
+The slightly drunk Hiromu and Saito didn't look at each other but[r]
+stared at the wall of bottles behind the counter.[pcms]
 
 *791|
 [fc]
-やはり俺は、追い切れなかったことを後悔している。[r]
-あそこで追い詰められていれば、集団訴訟だって、[r]
-もっと早く解決に向かっていた筈だった。[pcms]
+I still regret not being able to catch him. If I had cornered him back[r]
+then, the class-action lawsuit would have moved towards resolution[r]
+much sooner.[pcms]
 
 *792|
 [fc]
-俺も、斉藤も口を開かないまま、[r]
-時間だけが緩やかに過ぎていく。[pcms]
+Nakazawa Makoto and Saito remained silent, as time slowly passed by.[pcms]
 
 *793|
 [fc]
-その空気を察したのか、[r]
-カウンターの中に立つバーテンは、[r]
-俺達の視界からそっと姿を隠した。[pcms]
+Perhaps sensing the mood, the bartender inside the counter discreetly[r]
+disappeared from our view.[pcms]
 
 *794|
 [fc]
-それが合図となって、[r]
-俺の口は、堰を切ったように動き出す。[pcms]
+As if that was a signal, my mouth began to move as if a dam had[r]
+broken.[pcms]
 
 *795|
 [fc]
-[ns]宏武[nse]
-「明田生まれの内閣経験者……官房長官まで上り詰めた男。[r]
-　それは知ってて当然だな、俺らなら、な。[r]
-　あとは……そうだな、無類の蕎麦好きだったって事か」[pcms]
+[ns]Hiromu[nse]
+"A native of Akita with cabinet experience... a man who climbed his[r]
+way up to Chief Cabinet Secretary. It's only natural we'd know that,[r]
+being in our line of work. And then... ah yes, he had an unusual[r]
+fondness for soba."[pcms]
 
 *796|
 [fc]
-[ns]宏武[nse]
-「余談はさておき。[ruby text="おおかみしま"][ch text="大神島"]の良家の娘と結婚した。[r]
-　越智　美奈代……と言うんだ、本妻は」[pcms]
+[ns]Hiromu[nse]
+"But I digress. He married a daughter from a distinguished family on[r]
+Oogamijima. Her name was Ochi Minayo... his lawful wife."[pcms]
 
 *797|
 [fc]
-[ns]宏武[nse]
-「……長男を産んですぐに故人となってしまったがな。[r]
-　何度か流産をして、やっと子供を授かったと思った直後。[r]
-　さぞ、無念だったろう」[pcms]
+[ns]Hiromu[nse]
+"...She passed away soon after giving birth to their first son. After[r]
+several miscarriages, they finally had a child, only for her to die[r]
+shortly after. It must have been a bitter regret."[pcms]
 
 *798|
 [fc]
-[ns]宏武[nse]
-「長男は、伊知郞……昔はこの[ruby text="辺り"][ch text="松濤"]に住んでいたらしい。[r]
-　玄治郎の秘書として働いていた。ある種、青臭いとも言えるかも[r]
-　しれんが、この国を良くしようと努力していたようだ」[pcms]
+[ns]Hiromu[nse]
+"The first son's name is Ichihiro... he used to live in this Shoto[r]
+area. He worked as Genjiro Maeda's secretary. One might say he was[r]
+somewhat naive, but it seems he was trying to make this country a[r]
+better place."[pcms]
 
 *799|
 [fc]
-[ns]宏武[nse]
-「だが……それも志半ばで人生を終えた。[r]
-　自動車事故だよ。人の運命なんて、あっけないものだ」[pcms]
+[ns]Hiromu[nse]
+"But... his life was cut short in the midst of his endeavors. A car[r]
+accident. Human fate can be so fleeting."[pcms]
 
 *800|
 [fc]
-あまり一気に話しすぎたと、[r]
-一呼吸置くため、俺は手に持ったグラスを揺すりながら、[r]
-乾いた唇を湿らせた。[pcms]
+Having spoken too much at once, I swirled the glass in my hand and[r]
+moistened my dry lips to take a breath.[pcms]
 
 *801|
 [fc]
-斉藤は、続きを聞きたそうな目を俺に向けている。[r]
-どうやら、このまま[ruby text="オヤジ"]俺の独り言に[r]
-付き合ってくれるようだ。[pcms]
+Saito is looking at me with eyes that seem eager to hear more. It[r]
+seems he's willing to indulge my monologue for now.[pcms]
 
 *802|
 [fc]
-……いずれは宗一郎ともこうして話してみたいものだ。[r]
-そのとき、アイツはどういう顔をするのだろう。[pcms]
+...Someday, I'd like to have a talk like this with Souichirou. I[r]
+wonder what kind of face he'll make then.[pcms]
 
 *803|
 [fc]
-子供、か……。[pcms]
+Children, huh...[pcms]
 
 *804|
 [fc]
-[ns]宏武[nse]
-「そのほかにも、子供はいる。[r]
-　男と女、一人ずつだ。長女と次男にあたるのか」[pcms]
+[ns]Hiromu[nse]
+"There are other children as well. A boy and a girl, one of each. They[r]
+would be the eldest daughter and the second son, I suppose."[pcms]
 
 *805|
 [fc]
-[ns]宏武[nse]
-「名前は、[ruby text="み　さ　お"][ch text="美沙緒"]と[ruby text="か　づ　お"][ch text="稼津央"]。[r]
-　どちらも優秀で、今も存命だ。[r]
-　……まあ、それ以上の事は調べていないがな」[pcms]
+[ns]Hirotake[nse]
+"Their names are Kazuo and Chuo. Both are excellent and still alive...[r]
+Well, I haven't looked into it more than that."[pcms]
 
 *806|
 [fc]
-胸ポケットから取り出した煙草に火を付け、[r]
-紫色の煙を、肺の奥底へと吸い込んだ。[pcms]
+I took out a cigarette from my breast pocket, lit it, and inhaled the[r]
+purple smoke deep into my lungs.[pcms]
 
 *807|
 [fc]
-[ns]宏武[nse]
-「……そういえば、前田玄治郎は相当な嫌煙家だったな。[r]
-　こうして胸ポケットに入れた状態でも、[r]
-　匂いが分かるくらいだったからな」[pcms]
+[ns]Hiromu[nse]
+"...Speaking of which, Genjiro Maeda was quite an anti-smoker. Even[r]
+with the cigarettes in my breast pocket, he could tell by the smell."[pcms]
 
 *808|
 [fc]
-[ns]宏武[nse]
-「煙草と言えば、関係のある人物の一人に、[r]
-　ピーター・ネルソン大佐がいるな。いつも葉巻を咥えて……。[r]
-　映画の登場人物みたいな男だった」[pcms]
+[ns]Hiromu[nse]
+"Speaking of cigarettes, one of the related figures is Colonel Peter[r]
+Nelson. Always with a cigar in his mouth... He was like a character[r]
+out of a movie."[pcms]
 
 *809|
 [fc]
-灰皿に置いたままで、半分が灰と化した煙草を持ち上げ、[r]
-ゆっくりと煙りを吸い込む。[pcms]
+I lifted the cigarette that had turned to ash in the ashtray and[r]
+slowly inhaled the smoke.[pcms]
 
 *810|
 [fc]
-酔いと疲れのせいか、何年も繰り返してきた行為だと言うのに、[r]
-頭がクラクラと揺さぶられる。[pcms]
+Perhaps due to the alcohol and fatigue, even though it's an action[r]
+I've repeated for years, my head spins.[pcms]
 
 *811|
 [fc]
-それを落ち着かせようと、ゆっくりと目を閉じる。[pcms]
+To calm myself down, I slowly close my eyes.[pcms]
 
 *812|
 [fc]
-玄治郎、大佐……。[r]
-そして、マクリントック少将……。[pcms]
+Genjiro, the Colonel... And then, Major General MacLintock...[pcms]
 
 *813|
 [fc]
-追いかけ回していた人々の顔が、[r]
-紫色のフィルタの掛かった映像として、脳裏に蘇る。[pcms]
+The faces of those I had chased after resurface in my mind like images[r]
+filtered through a purple haze.[pcms]
 
 *814|
 [fc]
-[ns]宏武[nse]
-「大佐も、すでにこの世にいない。[r]
-　彼を裏で操っていたであろう、[r]
-　マクリントック少将もそうだ……」[pcms]
+[ns]Hiromu[nse]
+"The Colonel is no longer in this world. Nor is Major General[r]
+MacLintock, who was likely pulling his strings..."[pcms]
 
 *815|
 [fc]
-[ns]斉藤[nse]
-「マクリントック少将……？[r]
-　ずいぶん前に、ウィルスの小規模な漏洩事件で逮捕された？」[pcms]
+[ns]Saito[nse]
+"Major General MacLintock...? Wasn't he arrested a while back for a[r]
+minor virus leak incident?"[pcms]
 
 *816|
 [fc]
-それまで静かに、俺の独り言を聞いていた斉藤は、[r]
-少将の名前を出したとたん、興奮気味に身を乗り出した。[pcms]
+Until now, Saito had been quietly listening to my soliloquy, but as[r]
+soon as I mentioned the Major General's name, he leaned forward[r]
+excitedly.[pcms]
 
 *817|
 [fc]
-[ns]宏武[nse]
-「そうだ。獄中で病死したとされているが……」[pcms]
+[ns]Hiromu[nse]
+"That's right. He's said to have died of illness in prison..."[pcms]
 
 *818|
 [fc]
-彼らは、おそらく『消された』のだ。[r]
-だが、それは俺の憶測でしかない。[r]
-確かな証拠も無く、滅多な事を言うものではない。[pcms]
+They were probably "erased." But that's just my speculation. Without[r]
+solid evidence, it's not something one can assert lightly.[pcms]
 
 *819|
 [fc]
-[ns]宏武[nse]
-「ネルソン大佐は、陸軍の中でもかなりの権力を持っていた。[r]
-　それはマクリントック少将の後ろ盾があったからだ」[pcms]
+[ns]Hiromu[nse]
+"Colonel Nelson held considerable power within the army. That was[r]
+because he had the backing of Major General MacLintock."[pcms]
 
 *820|
 [fc]
-[ns]宏武[nse]
-「そのマクリントック少将の所属していたのが、[r]
-　アメリカ陸軍伝染病医学研究所……。[r]
-　少し話しは飛ぶが、彼の父親は貿易会社を営んでいた」[pcms]
+[ns]Hiromu[nse]
+"Major General MacLintock belonged to the U.S. Army Medical Research[r]
+Institute of Infectious Diseases... It's a bit of a leap, but his[r]
+father ran a trading company."[pcms]
 
 *821|
 [fc]
-[ns]宏武[nse]
-「そして、それが前田玄治郎と繋がる。[r]
-　彼ら三人は、お互い何らかの関係があった。[r]
-　俺が調べられたのは、ここまでだ」[pcms]
+[ns]Hiromu[nse]
+"And that connects to Genjiro Maeda. The three of them had some sort[r]
+of relationship with each other. That's as far as I could[r]
+investigate."[pcms]
 
 *822|
 [fc]
-ほぼ、状況証拠と言っていいだろう。[r]
-彼らは、何らか、などというレベルではなく、[r]
-『繋がっていた』んだ。[pcms]
+It's mostly circumstantial evidence. They were not just "somehow"[r]
+connected; they were "connected."[pcms]
 
 *823|
 [fc]
-ウィルスを作り出した、マクリントック少将。[r]
-彼の主目的は、表向きは防疫能力の強化。[r]
-実態は、あのウィルスの軍事転用。[pcms]
+The virus was created by Major General MacLintock. His main purpose[r]
+was ostensibly to enhance epidemic prevention capabilities. In[r]
+reality, it was the military application of that virus.[pcms]
 
 *824|
 [fc]
-その部下だった、ピーター・ネルソン大佐。[r]
-彼が少将の作り出したウィルスを、この国に持ち込んだ。[pcms]
+His subordinate, Colonel Peter Nelson. He brought the virus created by[r]
+the Major General into this country.[pcms]
 
 *825|
 [fc]
-そして、前田玄治郎。[r]
-我が国の現状を憂い、変えようとしていた。[r]
-彼らが繋がっているのは明らかだった。[pcms]
+And then there's Genjiro Maeda. Concerned about the current state of[r]
+our country and trying to change it. It was clear they were connected.[pcms]
 
 *826|
 [fc]
-彼らが、四年前の災害を引き起こした元凶。[r]
-それは、間違いない。[pcms]
+They were the culprits behind the disaster four years ago. There's no[r]
+doubt about it.[pcms]
 
 *827|
 [fc]
-許される事ではないが、[r]
-それを問う事は、もう出来ない。[pcms]
+It's unforgivable, but it's no longer possible to question them about[r]
+it.[pcms]
 
 *828|
 [fc]
-[ns]宏武[nse]
-「軍人さん達は口を開く事はなく、[r]
-　前田玄治郎は、[r]
-　仕込まれたスキャンダルによって政界を引退」[pcms]
+[ns]Hiromu[nse]
+"The military men never opened their mouths, and Genjiro Maeda retired[r]
+from politics due to a scandal that was set up against him."[pcms]
 
 *829|
 [fc]
-[ns]宏武[nse]
-「大神島で隠居しているらしいが、[r]
-　よほど親しい人物で無ければ、会うことは許されない。[r]
-　噂では満足に口を利くことすら出来ないらしいしな」[pcms]
+[ns]Hiromu[nse]
+"He seems to be living in retirement on Oogamijima, but unless you're[r]
+a very close acquaintance, you're not allowed to meet him. Rumor has[r]
+it he can barely speak properly now."[pcms]
 
 *830|
 [fc]
-最も……。[r]
-宗一郎と同じ学園のあの子……。[pcms]
+The most... That girl from the same academy as Souichirou...[pcms]
 
 *831|
 [fc]
-越智茜梨と言ったか。[r]
-彼女に聞けば、何らかの情報は掴めるだろうけどな。[pcms]
+Ochi Akari was her name. If I ask her, I might be able to get some[r]
+information.[pcms]
 
 *832|
 [fc]
-[ns]宏武[nse]
-「……皮肉なものだな、運命ってやつは」[pcms]
+[ns]Hiromu[nse]
+"It's ironic, isn't it, this thing called fate..."[pcms]
 
 *833|
 [fc]
-真実まであと少しだと言うのに、[r]
-運命が、いたずらをした。[pcms]
+Just when we're close to the truth, fate plays its tricks.[pcms]
 
 *834|
 [fc]
-[ns]斉藤[nse]
-「え？　どうしたんですか？」[pcms]
+[ns]Saito[nse]
+"Eh? What's wrong?"[pcms]
 
 *835|
 [fc]
-[ns]宏武[nse]
-「ああ、何でもない……独り言だ」[pcms]
+[ns]Hirotake[nse]
+"Ah, it's nothing... just talking to myself."[pcms]
 
 *836|
 [fc]
-それをしたとき、茜梨という少女はどうなる？[pcms]
+What will become of the girl named Akari when that happens?[pcms]
 
 *837|
 [fc]
-自分の身内に、国一つひっくり返すような事件の、[r]
-張本人がいると知ったら。[pcms]
+If she finds out that one of her own family members was the mastermind[r]
+behind an incident that could overturn a country.[pcms]
 
 *838|
 [fc]
-その子と親しくしている、宗一郎はどう思う？[pcms]
+What would Souichirou, who is close to that girl, think?[pcms]
 
 *839|
 [fc]
-俺の手によって、なんの罪も無い若者達が、[r]
-騒ぎの渦中に投げ込まれてしまうかもしれないんだ。[pcms]
+By my hand, innocent young people may be thrown into the midst of[r]
+turmoil.[pcms]
 
 *840|
 [fc]
-些細な事を聞き出すために、[r]
-未来ある若者達の心を傷つける事なんて、[r]
-今の俺には、出来ない。[pcms]
+To hurt the hearts of young people with a future, just to find out a[r]
+trivial matter, is something I can't do now.[pcms]
 
 *841|
 [fc]
-宗一郎が、その少女と仲良くしている。[r]
-それが、俺の行く手を阻んだ。[pcms]
+Souichirou is getting along with that girl. That's what's stopping me.[pcms]
 
 *842|
 [fc]
-[ns]宏武[nse]
-「……すまんな、今日はこのくらいで許してくれ。[r]
-　妙に酔いが回ってしまってな。[r]
-　憶測で余計な事を言ってしまうかもしれない」[pcms]
+[ns]Hiromu[nse]
+"...Sorry, let's leave it at that for today. I'm oddly drunk. I might[r]
+say something unnecessary based on speculation."[pcms]
 
 *843|
 [fc]
-[ns]斉藤[nse]
-「……俺はかまいませんよ。[r]
-　そこに何か、ヒントがあるかもしれませんし」[pcms]
+[ns]Saito[nse]
+"...I don't mind. There might be a hint in there."[pcms]
 
 *844|
 [fc]
-[ns]宏武[nse]
-「ははは……頼もしいな。[r]
-　だが、勘弁してくれ……ちょっと疲れて来た」[pcms]
+[ns]Hiromu[nse]
+"Hahaha... you're reliable. But give me a break... I'm getting tired."[pcms]
 
 *845|
 [fc]
-[ns]宏武[nse]
-「そろそろ帰らせてもらうよ。[r]
-　家族思いの……良き父親を『演じる』時間だ。[r]
-　はは……」[pcms]
+[ns]Hiromu[nse]
+"I'll be going home soon. It's time to 'play' the role of a family-[r]
+loving... good father. Haha..."[pcms]
 
 *846|
 [fc]
-物足りなそうな顔をしている斉藤の肩を叩き、[r]
-バーテンに支払いだと伝えた。[pcms]
+I patted Saito, who looked unsatisfied, on the shoulder and told the[r]
+bartender it was time to pay.[pcms]
 
 *847|
 [fc]
-[ns]宏武[nse]
-「先に帰る、せめてものお詫びだ。[r]
-　俺にツケておいてくれ。いくら飲んでもかまわん。[r]
-　じゃあ、すまんな……お先に」[pcms]
+[ns]Hiromu[nse]
+"I'll go ahead as an apology. Put it on my tab. Drink as much as you[r]
+want. Sorry... I'll be leaving first."[pcms]
 
 *848|
 [fc]
-斉藤は、俺が店を出るまで、[r]
-ずっとその場で礼をしていた。[pcms]
+Saito kept bowing in place until I left the store.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *849|
 [fc]
-[ns]宏武[nse]
-「ふう……」[pcms]
+[ns]Hiromu[nse]
+"Phew..."[pcms]
 
 *850|
 [fc]
-本当は斉藤に話しをしたことで、少し疲れが取れたんだ。[r]
-さらに、懺悔の気持ちは和らいだ。[r]
-もちろんそれは、今だけかもしれないが。[pcms]
+Talking to Saito actually helped relieve some of my fatigue.[r]
+Furthermore, my feelings of repentance have eased. Of course, that[r]
+might just be for now.[pcms]
 
 *851|
 [fc]
-真相は、誰もつかむことは出来ない。[r]
-そう思うしか無い。[pcms]
+The truth is something no one can grasp. That's the only thing I can[r]
+think of.[pcms]
 
 *852|
 [fc]
-いくら追い求めても、追いつけない。[pcms]
+No matter how much we pursue it, we can't catch up.[pcms]
 
 *853|
 [fc]
-真実は……。[r]
-犠牲者と共に墓場に葬られ、[r]
-二度と日の目を見ることは無い。[pcms]
+The truth... will be buried with the victims in their graves, never to[r]
+see the light of day again.[pcms]
 
 *854|
 [fc]
-あの夏は……。[pcms]
+That summer...[pcms]
 
 *855|
 [fc]
-四回の夏を経て、全て終わったんだ。[pcms]
+After four summers, it all ended.[pcms]
 
 ;//フラグ0040通過成立
 [eval exp="sf.g_0040 = 1"]

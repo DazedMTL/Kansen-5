@@ -40,142 +40,128 @@
 *818|
 [fc]
 [vo_aka s="akari0525"]
-[ns]茜梨[nse]
-「ん～……なんですか？[r]
-　呼びましたか？　まー君先輩……」[pcms]
+[ns]Akari[nse]
+"Hmm... What is it? Did you call for me, Makoto-senpai...?"[pcms]
 
 *819|
 [fc]
-[ns]誠[nse]
-「え……ええぇえっ！！　お、越智さんっ！[r]
-　越智さんんんんっ！！」[pcms]
+[ns]Makoto[nse]
+"Eh... Eeeehhh!! O-Ochi-san! Ochi-sannnn!!"[pcms]
 
 *820|
 [fc]
-ぼくのさけびを、おちさんがきいてくれたんだ……。[r]
-ふたりは、きっとこころのどこかでつながっていたんだ！[pcms]
+My cry was heard by Ochi-san... We must have been connected somewhere[r]
+in our hearts![pcms]
 
 *821|
 [fc]
-これぞ、相思相愛！[pcms]
+This is mutual love![pcms]
 
 *822|
 [fc]
-ぼくたちふたりは、[r]
-ここでむすばれるためにうまれてきたんだね！[r]
-きっと、そうだったんだ！[pcms]
+We were born to be united right here, right now! It must have been so![pcms]
 
 *823|
 [fc]
-[ns]誠[nse]
-「お、越智さん……」[pcms]
+[ns]Makoto[nse]
+"O-Ochi-san..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *824|
 [fc]
 [vo_aka s="akari0526"]
-[ns]茜梨[nse]
-「まー君先輩……私……私も……。[r]
-　私も、お、お姉様にしてたみたいな事……されたいです……」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai... I... I also... I want to be done like you did to[r]
+Onee-san..."[pcms]
 
 *825|
 [fc]
-[ns]誠[nse]
-「は？」[pcms]
+[ns]Makoto[nse]
+"Huh?"[pcms]
 
 *826|
 [fc]
-おいおい、いくらなんでもてんかいがはやすぎるだろう。[r]
-それに、越智さんはこんなこという子じゃないハズ……。[r]
-いったいどうして……？[pcms]
+Hey, hey, isn't this development a bit too fast? Besides, Ochi-san[r]
+isn't the type to say such things... What's going on...?[pcms]
 
 *827|
 [fc]
-もしかして越智さんはあたまがヘンになったんじゃないか？[r]
-とはいえ……それはそれではなしは、はやいんだよな。[pcms]
+Could it be that Ochi-san's head has gone funny? But still... that's a[r]
+conversation for another time.[pcms]
 
 *828|
 [fc]
-うーん、でも……。[r]
-なんだか、あたまがこんらんしてきた。[r]
-これでいいのかなあ……。[pcms]
+But... umm... My head is getting confused. Is this really okay...?[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *829|
 [fc]
 [vo_aka s="akari0527"]
-[ns]茜梨[nse]
-「……だ、ダメですか……？[r]
-　私、さっきからずっと見てて……自分も、あんな風に……。[r]
-　体も、なんだか疼いて……んんっ……」[pcms]
+[ns]Akari[nse]
+"...Is it not okay...? I've been watching since earlier and I also[r]
+want to be done like that... My body is throbbing too... nnhh..."[pcms]
 
 *830|
 [fc]
-うん、いいんだよ。[r]
-だって、越智さんもこういってるんだし。[r]
-ぼくと越智さんは、こうなるうんめいにあったわけだし！[pcms]
+Yeah, it's okay. Because Ochi-san said so herself. It was our destiny[r]
+to come together like this![pcms]
 
 *831|
 [fc]
-越智さんがそうのぞむなら、ぼくはなにもおそれず、[r]
-きみとセックスするだけだ！[pcms]
+If Ochi-san wishes for it, I will fear nothing and just have sex with[r]
+you![pcms]
 
 *832|
 [fc]
-そして、中だしするんだ！[pcms]
+And then, I'll cum inside![pcms]
 
 *833|
 [fc]
-[ns]誠[nse]
-「わわわ、わ、わかっ、わかった！[r]
-　じゃあ、いますぐそうしてあげるよ！[r]
-　越智さんんっ！！　中だししてあげるよおぉっ！！」[pcms]
+[ns]Makoto[nse]
+"W-Wait, I understand! Then, I'll do it right now! Ochi-san!! I'll cum[r]
+inside you!!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *834|
 [fc]
 [vo_aka s="akari0528"]
-[ns]茜梨[nse]
-「は……はい……私に……。[r]
-　みんなの愛をください！　[r]
-　みんなで、私を気持ち良くしてくださいっ！」[pcms]
+[ns]Akari[nse]
+"Yes... please give me... everyone's love! Make me feel good with[r]
+everyone's love!"[pcms]
 
 *835|
 [fc]
-[ns]誠[nse]
-「えぇっ！！　み、みんな……うう……」[pcms]
+[ns]Makoto[nse]
+"Eh!! E-Everyone... uh..."[pcms]
 
 *836|
 [fc]
-なんだか、しゃくぜんとしない……。[r]
-越智さんは、ぼくだけのものなのに……。[pcms]
+Somehow, this doesn't feel right... Ochi-san is supposed to be mine[r]
+alone...[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *837|
 [fc]
-でも……。[r]
-それが、越智さんののぞみなら……。[r]
-ぼくは、それをかなえてあげるんだ！[pcms]
+But... If that's what Ochi-san wishes for...[pcms]
 
 *838|
 [fc]
-[ns]誠[nse]
-「……そーいち、あらい……。[r]
-　やるぞ！　越智さんをしぬっていうまで、[r]
-　きもちよくさせるぞ！」[pcms]
+[ns]Makoto[nse]
+"...Souichirou, Arai... Let's do this! We'll make Ochi-san feel good[r]
+until she begs for mercy!"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_sw"][ChrSetParts layer=3 chface="F1_ar06"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so31b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *839|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「当然だ！　お前ひとりにまかせてられるかよっ！[r]
-　越智さんは、おれのものだぁぁっ！」[pcms]
+[ns]Souichirou & Arai[nse]
+"Of course! You think we'd leave it all to you?! Ochi-san is ours[r]
+too!!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -183,82 +169,77 @@
 *840|
 [fc]
 [vo_aka s="akari0529"]
-[ns]茜梨[nse]
-「あはっ……んっ……ふふふっ！[r]
-　みんな……いっぺんに愛してくれる……ありがとう……。[r]
-　私の処女、貴方たちにあげる……だからみんなで私を愛して！」[pcms]
+[ns]Akari[nse]
+"Ahaha... nnh... fufufu! Everyone... loving me all at once... thank[r]
+you... I'll give my virginity to you all... so please love me[r]
+together!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *841|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「わっ……わかりましたあぁっ！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Understood!!"[pcms]
 
 *842|
 [fc]
-くそっ！[r]
-ぼくだけの越智さんなのに……どうしてこいつらまで……。[r]
-くそおおおっ！！[pcms]
+Damn it! Ochi-san is supposed to be mine alone... why do these guys[r]
+have to be involved too... Damn it!![pcms]
 
 *843|
 [fc]
-だけど、越智さんがさっきいった『私を愛して』ってことば。[r]
-あれは、ぼくをみていったことばだ。[r]
-ぜったいそうだ。[pcms]
+But the words Ochi-san said earlier, "love me"... Those words were[r]
+meant for me. They definitely were.[pcms]
 
 *844|
 [fc]
-だって、越智さんがぼくをみるときの目は、[r]
-そーいちやあらいとはまたちがうのだもの。[r]
-まっかにじゅうけつしていて、うるんでる。[pcms]
+Because when Ochi-san looks at me, her eyes are different than when[r]
+she looks at Souichirou or Arai. They're deeply flushed and moist.[pcms]
 
 *845|
 [fc]
-そんな越智さんをみていると、ぼくの目から、[r]
-また、なみだがあふれてとまらなくなる。[pcms]
+Seeing Ochi-san like that makes tears start flowing from my eyes[r]
+again.[pcms]
 
 *846|
 [fc]
-しかいがかすんでいく……。[pcms]
+My vision is getting blurry...[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_sw"][ChrSetParts layer=3 chface="F1_ar11"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_ha_a"][ChrSetParts layer=4 chface="F1_so27a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *847|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「越智さんの言葉で、感動して涙がとまらねえよおおっ！[r]
-　だから……いただきますっ！[r]
-　越智さんの処女、余すところなくいただきまーっす！！」[pcms]
+[ns]Souichirou & Arai[nse]
+"Ochi-san's words moved us to tears! So now... we'll take her! We'll[r]
+take Ochi-san's virginity without leaving anything behind!!"[pcms]
 
 *848|
 [fc]
-[ns]誠[nse]
-「なっ……！」[pcms]
+[ns]Makoto[nse]
+"What...!"[pcms]
 
 *849|
 [fc]
-みんな、おなじきもち……。[pcms]
+We all feel the same...[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *850|
 [fc]
-……ぼくは、なんてあさましいことをかんがえていたんだろう。[r]
-ひとりじめしようなんて。[pcms]
+What a shameful thing I was thinking of doing. Trying to keep her all[r]
+to myself.[pcms]
 
 *851|
 [fc]
-越智さんもいっていたじゃないか。[r]
-みんなで私を愛してって。[r]
-それなら、そのとおりにするんだ！[pcms]
+Ochi-san said it herself, didn't she? Love me together. So that's what[r]
+we'll do![pcms]
 
 *852|
 [fc]
-ぼくも、ふたりとともに越智さんを愛するんだ！[r]
-越智さんに、みんなで中だしするんだあっっ！！[pcms]
+I will love Ochi-san together with them! We'll all cum inside Ochi-[r]
+san!![pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -276,17 +257,16 @@
 *853|
 [fc]
 [vo_aka s="akari0530"]
-[ns]茜梨[nse]
-「き、来て……みなさん……。[r]
-　私、も、もう……我慢できないからっ！[r]
-　いっせいに、私に下さい……お願いしますっ！」[pcms]
+[ns]Akari[nse]
+"Come... everyone... I can't hold back any longer! Please give it to[r]
+me all at once... please!"[pcms]
 
 [evcg storage="akari_H024b"][trans_c cross time=300]
 
 *854|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「わかった！　せーのっ！　それええっ！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Got it! Ready, set, go!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -296,39 +276,37 @@
 *855|
 [fc]
 [vo_aka s="akari0531"]
-[ns]茜梨[nse]
-「あっ……ぎいいいいっ！！　み、みんなの愛があっ！[r]
-　お、大き過ぎっ……あぁぁっ！！[r]
-　んぎぃああぁぁあぁっ！！！　あ……あがぁっ……」[pcms]
+[ns]Akari[nse]
+"Ah... giiiihh!! Everyone's love is in! It's too big... ahhh!![r]
+Nghiiiaaahhhhh!!! Ah... aghhh..."[pcms]
 
 *856|
 [fc]
-[ns]誠[nse]
-「あぁ……越智さんのなか……さいこうだよおっ！」[pcms]
+[ns]Makoto[nse]
+"Ah... inside Ochi-san feels amazing!"[pcms]
 
 *857|
 [fc]
-[ns]宗一郎[nse]
-「お、おれもうしんでもいい……このまま、[r]
-　ここでしんでもかまわない！」[pcms]
+[ns]Souichirou[nse]
+"I could die happy like this... I wouldn't mind dying right here!"[pcms]
 
 *858|
 [fc]
-[ns]荒井[nse]
+[ns]Arai[nse]
 「おれも、おれも！　いれたしゅんかんに、[r]
 　イッちまいそうだ……でも、がんばるぞっ！[r]
 　しっかりイカせてから、おれもイクんだ！」[pcms]
 
 *859|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
+[ns]Makoto & Souichirou & Arai[nse]
 「もうすこしっ！　もうすこしで、越智さんの中だっ！[r]
 　つらぬけ！　越智さんの処女マンコぉおっ！！」[pcms]
 
 *860|
 [fc]
 [vo_aka s="akari0532"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「んぎぃっ……かっ……はあぁっ！！」[pcms]
 
 ;//#_白フラ
@@ -337,7 +315,7 @@
 *861|
 [fc]
 [vo_aka s="akari0533"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「あぎぃあいぁあああぁっっ！！！　んぎぃあああぁっ！！[r]
 　があぁぁあぁぁっ！！！」[pcms]
 
@@ -352,7 +330,7 @@
 *863|
 [fc]
 [vo_aka s="akari0534"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「あ……あぁ……あがぁ……んぁぁっ……」[pcms]
 
 *864|
@@ -387,33 +365,33 @@
 
 *870|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「うっ……ううっ……越智さん……あぁあっ！[r]
 　ぐすっ……ひくっ……ひっく……ぐすっ……」[pcms]
 
 *871|
 [fc]
-[ns]宗一郎[nse]
+[ns]Souichirou[nse]
 「なっ……なくなって！　なくのはまだはやいぞ、まこと！[r]
 　おれたちみんなで、越智さんをしっかりイカせたら、[r]
 　ないてもいい！」[pcms]
 
 *872|
 [fc]
-[ns]荒井[nse]
+[ns]Arai[nse]
 「そうだ！　おれたちはあかりちゃんをイカせてから、[r]
 　泣くべきだ！　男なんだろう！　泣くんじゃない！」[pcms]
 
 *873|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「みんな……うん、ぼくがまちがっていた！[r]
 　ないてなんかいられないんだ！[r]
 　やるぞおっ！　ぼくは……いや、ぼくたちはやるぞおっ！！」[pcms]
 
 *874|
 [fc]
-[ns]宗一郎＆荒井[nse]
+[ns]Souichirou & Arai[nse]
 「そうだっ！　そのちょうしだあぁっ！！[r]
 　まずは、あかりちゃんをおこすんだっ！[r]
 　きぜつしたままイカされたって、なっとくしないだろう！」[pcms]
@@ -445,7 +423,7 @@
 
 *879|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
+[ns]Makoto & Souichirou & Arai[nse]
 「おおりゃあぁあっ！　めざめろ！　越智さんんっ！！」[pcms]
 
 *880|
@@ -463,7 +441,7 @@
 *882|
 [fc]
 [vo_aka s="akari0535"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「んっ……あぁっ……ふあっ……あっ……んぁぁっ！[r]
 　おっ……おおおぉっ！　んあぁあっ！！」[pcms]
 
@@ -478,12 +456,12 @@
 
 *885|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「もうすこしだ！　がんばるぞ、みんなあっ！」[pcms]
 
 *886|
 [fc]
-[ns]宗一郎＆荒井[nse]
+[ns]Souichirou & Arai[nse]
 「よおおっしゃあ！　そーれぇっ！！」[pcms]
 
 [evcg storage="akari_H024f"][trans_c cross time=150]
@@ -491,14 +469,14 @@
 *887|
 [fc]
 [vo_aka s="akari0536"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「あっ……ああぁっ！　み、みなさんのぉおっ！[r]
 　私のオマンコ拡げてるっ！　オマンコの中イッパイに、[r]
 　みなさんのお……おちんぽっ！　あぁっ！」[pcms]
 
 *888|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「越智さん……目がさめたんだね！[r]
 　よかった……よかったぁあっ！　これで、[r]
 　ぼくたちの愛を、こころおきなくかんじてもらえる！」[pcms]
@@ -506,7 +484,7 @@
 *889|
 [fc]
 [vo_aka s="akari0537"]
-[ns]茜梨[nse]
+[ns]Akari[nse]
 「あっ……あぁ……んあぁっ……い、いっぺんにいいっ！[r]
 　ああぁっ！　かき回してっ！　私のお腹の中、かき回してぇっ！[r]
 　もっと、ぐちゃぐちゃにしてえぇっ！」[pcms]
@@ -518,30 +496,30 @@
 
 *891|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「あっ！　そうか！　わかったぞ、みんな！[r]
 　いまは息をあわせてるけど、バラバラにつきあげるんだ！[r]
 　ら、ら……ランダム！　ランダムにつきあげろおっ！」[pcms]
 
 *892|
 [fc]
-[ns]宗一郎＆荒井[nse]
+[ns]Souichirou & Arai[nse]
 「そ、そうか！　そのてがある！」[pcms]
 
 *893|
 [fc]
-[ns]誠[nse]
+[ns]Makoto[nse]
 「じゃあ、ぼくがイチだ！」[pcms]
 
 *894|
 [fc]
-[ns]宗一郎[nse]
+[ns]Souichirou[nse]
 「おれが、にばん！　あらいはソウロウだから、[r]
 　さんばんめな！　いくぞっ！」[pcms]
 
 *895|
 [fc]
-[ns]荒井[nse]
+[ns]Arai[nse]
 「…………」[pcms]
 
 *896|
@@ -553,86 +531,80 @@
 *897|
 [fc]
 [vo_aka s="akari0538"]
-[ns]茜梨[nse]
-「あはぁっ……はっ、はやく……ねぇ～……。[r]
+[ns]Akari[nse]
+「あはぁっ……はっ、はやく……ねぇ……。[r]
 　お、おねがいします……私のオマンコ……いっぱい……。[r]
 　あっ……んあぁっ！　お願いしま……すっ！」[pcms]
 
 *898|
 [fc]
-[ns]誠[nse]
-「そーれっ！　イチっ！！」[pcms]
+[ns]Makoto[nse]
+"There! One!!"[pcms]
 
 *899|
 [fc]
 [vo_aka s="akari0539"]
-[ns]茜梨[nse]
-「ひあぁっ！」[pcms]
+[ns]Akari[nse]
+"Hiaaah!"[pcms]
 
 *900|
 [fc]
-[ns]宗一郎[nse]
-「おらあぁっ！！　２だあぁっ！！」[pcms]
+[ns]Souichirou[nse]
+"Oraaah!! Twooo!!"[pcms]
 
 *901|
 [fc]
 [vo_aka s="akari0540"]
-[ns]茜梨[nse]
-「ぎっ……ぎぃああっ！　おっ……おおきいっ！！[r]
-　苦しいいいいっ！　さっ、裂けちゃうううぅっ！[r]
-　さけるううぅううぅっ！！」[pcms]
+[ns]Akari[nse]
+"Gii...gyaaah! It's...it's so big!! It hurts! It feels like I'm going[r]
+to split open! I'm going to tear apart!!"[pcms]
 
 *902|
 [fc]
-[ns]荒井[nse]
-「さけないから！　だいじょうぶだからっ！[r]
-　おれのをかんじてくれっ！　さんっ！」[pcms]
+[ns]Arai[nse]
+"You won't tear! It's okay! Feel mine! Three!"[pcms]
 
 *903|
 [fc]
 [vo_aka s="akari0541"]
-[ns]茜梨[nse]
-「ひっ……ぐうっ……あがぁあっ！！！[r]
-　おおおおっ！　おぉおあっ！！　こっ……これっ！[r]
-　痛きもちいいいっ！！　あがあぁっ！！」[pcms]
+[ns]Akari[nse]
+"Hii...guuh...agaaah!!! Oooh! Oooh! This...this! It hurts so good!![r]
+Agaaah!!"[pcms]
 
 *904|
 [fc]
 [vo_aka s="akari0542"]
-[ns]茜梨[nse]
-「がっ……ぎいいっ……んっ！　んぁっ！　ぎいいっ！」[pcms]
+[ns]Akari[nse]
+"Gah...gyiih...nh! Nhaah! Gyiih!"[pcms]
 
 *905|
 [fc]
-ぼくのアイディアは、ばっちりハマったらしい。[r]
-越智さんは、そうとうきもちがいいみたいだ！[pcms]
+My idea seemed to be a perfect fit. Akari-san must be feeling really[r]
+good![pcms]
 
 *906|
 [fc]
-やっぱり、ほかのふたりより、[r]
-ぼくがいちばん越智さんを好きなんだ。[pcms]
+After all, I love Akari-san the most out of everyone.[pcms]
 
 *907|
 [fc]
-越智さんの気持ちがよくわかるのは、ぼくなんだ！[pcms]
+I'm the one who understands Akari-san's feelings the best![pcms]
 
 *908|
 [fc]
-くっ……あはははっ！[r]
-きぶんがいい！　さいこうだ！[pcms]
+Haha...I feel great! This is the best![pcms]
 
 *909|
 [fc]
-ふたりもがんばってるけど、ぼくがつきあげたとき、[r]
-いちばんいい顔をするんだもの、越智さんは。[pcms]
+The other two are trying hard, but when I thrust, Akari-san makes the[r]
+best face.[pcms]
 
 *910|
 [fc]
 [vo_aka s="akari0543"]
-[ns]茜梨[nse]
-「ぎいいっ……き、キツすぎ……ま、すっ……。[r]
-　あ……あぁ……イ……いくっ……おおおっ！[r]
-　あぁ……あぎいいっ……あ……」[pcms]
+[ns]Akari[nse]
+"Gyiih...it's too tight...I'm going to...[r]
+Ah...ahh...I'm...coming...oooh! Ahh...agyiih...ah..."[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -640,236 +612,213 @@
 *911|
 [fc]
 [vo_aka s="akari0544"]
-[ns]茜梨[nse]
-「イクうっ……あっ……はぁっ……オマンコ、[r]
-　ビクビクして……あぁ……で、でも……。[r]
-　まだ、イキたりないよおおっ……あぁっ！」[pcms]
+[ns]Akari[nse]
+"I'm coming...ahh...haah... My pussy is twitching...ahh...but... I'm[r]
+still not satisfied...ahh!"[pcms]
 
 *912|
 [fc]
-[ns]荒井[nse]
-「なっ……ま、まだおれたちの愛がたりないのかっ！[r]
-　おまえらがきあいいれないからだ！[r]
-　おれは、たくさんあかりちゃんに愛をそそいでいるのに！」[pcms]
+[ns]Arai[nse]
+"What...? Are you saying our love isn't enough for you?! It's because[r]
+you guys aren't putting in enough spirit! I've been pouring so much[r]
+love into Akari-chan!"[pcms]
 
 *913|
 [fc]
-なんだと……。[r]
-ぼくの愛がたりない……？[r]
-そんなこと、あるもんか！[pcms]
+What did he say...? My love isn't enough...? That can't be true![pcms]
 
 *914|
 [fc]
-[ns]宗一郎[nse]
-「バカいってるんじゃないよ！　だれの愛がたりないって！？」[pcms]
+[ns]Souichirou[nse]
+"Don't talk nonsense! Who's love isn't enough?!"[pcms]
 
 *915|
 [fc]
-[ns]誠[nse]
-「おまえら！　けんかしてるばあいかよ！[r]
-　ぼくの愛がいちばんなんだから、だまってぼくについてこい！[r]
-　またいくぞおおっ！　そらあっ！　イチいいいっ！！」[pcms]
+[ns]Makoto[nse]
+"You guys! Is this really the time to fight?! My love is the greatest,[r]
+so just follow me quietly! Here we go again! There! Oneee!!"[pcms]
 
 *916|
 [fc]
 [vo_aka s="akari0545"]
-[ns]茜梨[nse]
-「あっ……はあぁっ！！　まー君……まー君っ！！[r]
-　好きっ……大好きいいっ！！」[pcms]
+[ns]Akari[nse]
+"Ah...haaah!! M-Makoto-kun...Makoto-kun!! I love you...I love you so[r]
+much!!"[pcms]
 
 *917|
 [fc]
-[ns]誠[nse]
-「えっ……ええぇぇっ！！　お、越智さんっ！　越智さん！[r]
-　ぼくも、きみがだいすきだっ！　ぼくは……。[r]
-　きみがいなきゃだめなんだ！　きみじゃないとダメなんだ！」[pcms]
+[ns]Makoto[nse]
+"Eh...eeeh!! O, Akari-san! Akari-san! I love you too! I can't do[r]
+without you! It has to be you!"[pcms]
 
 *918|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「なんだとコノヤロ！　おれだってそうだ！」[pcms]
+[ns]Souichirou & Arai[nse]
+"What did you say, you bastard! I feel the same way!"[pcms]
 
 *919|
 [fc]
-みんな、おなじきもちなのはよくわかる。[r]
-だけど、越智さんはぼくにだけいったんだ。[pcms]
+It's clear that we all feel the same. But Akari-san said it to me[r]
+alone.[pcms]
 
 *920|
 [fc]
-やっぱり、ぼくたちは……おたがいがすきあっていたんだ！[pcms]
+After all, we...we love each other![pcms]
 
 *921|
 [fc]
-越智さんが、ぼくのことをすきだといった。[r]
-たった、そのひとことだけで、[r]
-ぼくのモノはバクハツすんぜんまでふくらんでいった。[pcms]
+Akari-san said she loves me. Just that one phrase made me swell up to[r]
+the brink of explosion.[pcms]
 
 *922|
 [fc]
-もう、シャセイすんぜんだ。[r]
-ぼくは、ねんがんの越智さんのオマンコに中だしするんだ。[pcms]
+I'm on the verge of ejaculating. I'm going to cum inside Akari-san's[r]
+pussy, which I've longed for.[pcms]
 
 *923|
 [fc]
-[ns]誠[nse]
-「まってて……もうすこしだから……。[r]
-　ぼくのせいしを、きみのいちばんおくに、[r]
-　そそぎこんであげるから！　おおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Wait for me...just a little longer... I'll pour my semen deep inside[r]
+you! Oooooh!"[pcms]
 
 *924|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「なっ……なんだって！　ばか！　バカまこと！！[r]
-　おれらよりさきに、中だしするなんてゆるせん！[r]
-　まけるかよおおおぉおぉぉおおっ！！！」[pcms]
+[ns]Souichirou & Arai[nse]
+"What...?! You idiot! Idiot Makoto!! How dare you cum inside before[r]
+us! We won't lose! No waaaay!!"[pcms]
 
 *925|
 [fc]
 [vo_aka s="akari0546"]
-[ns]茜梨[nse]
-「あがあぁっ！！　すっ……凄い！　凄いぃいっっ！！[r]
-　みんな……みんな大好き！　みんなのおちんぽ、[r]
-　大好きいぃいいぃぃっ！！！」[pcms]
+[ns]Akari[nse]
+"Agaaah!! It's amazing! So amazing!! I love everyone... I love all of[r]
+your cocks so much!!"[pcms]
 
 *926|
 [fc]
-え……。[r]
-いま、なんて……？[pcms]
+Eh...? What did she just say...?[pcms]
 
 *927|
 [fc]
 [vo_aka s="akari0547"]
-[ns]茜梨[nse]
-「みんなのおちんぽ、私のオマンコを虐めてくれて……、[r]
-　あっ……ありがとううっ！　んぎいいいっ！！[r]
-　いやぁあぁっ！！　頭弾けそうになってますっ！」[pcms]
+[ns]Akari[nse]
+"Everyone's cocks are tormenting my pussy... Ahh...thank you![r]
+Ngyiiih!! Nooo!! My head feels like it's going to burst!"[pcms]
 
 *928|
 [fc]
-みんな……。[r]
-みんなだって！？　ぼ、ぼくだけじゃなかったのか！[pcms]
+Everyone...? Not just me?![pcms]
 
 *929|
 [fc]
-くそおおっ！！[r]
-ううううぅっ……。[pcms]
+Damn it!!! Uuuuuh...[pcms]
 
 *930|
 [fc]
-でも、いいんだ。[r]
-ぼくのせいえきをオマンコのおくにいれたら、[r]
-ぜったい、ぼくだけを好きっていってくれるんだ。[pcms]
+But it's okay. Once I put my semen deep inside her pussy, she'll[r]
+definitely say she loves only me.[pcms]
 
 *931|
 [fc]
-もう、ラストスパートだ。[r]
-このまま越智さんのなかにシャセイして、[r]
-イカせるのは、ぼくなんだ！[pcms]
+This is the final sprint. I'm going to ejaculate inside Akari-san and[r]
+make her cum. It's going to be me![pcms]
 
 *932|
 [fc]
-[ns]誠[nse]
-「まけるかっ！　おまえらなんかに、[r]
-　ぼくの越智さんをわたせるかあぁっ！！！」[pcms]
+[ns]Makoto[nse]
+"I won't lose! You guys can't have my Akari-san!!"[pcms]
 
 *933|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「おれだって、まけるかあぁっ！！」[pcms]
+[ns]Souichirou & Arai[nse]
+"I won't lose either!!"[pcms]
 
 *934|
 [fc]
-ぼくたちさんにんは、さっきよりももっとつよく、[r]
-まっかにそまった越智さんのオマンコをかきまわし、[r]
-つきあげた。[pcms]
+The three of us thrust even harder than before, stirring up Akari-[r]
+san's pussy, which was dyed bright red.[pcms]
 
 *935|
 [fc]
-さんぼんのモノを、[r]
-越智さんのはき出したエッチなツユがつたっていく。[pcms]
+The three cocks were covered with the naughty dew that Akari-san had[r]
+exuded.[pcms]
 
 *936|
 [fc]
-こうふんしきったぼくには、[r]
-それすら、もうれつなしげきになって、[r]
-シャセイのスイッチをはげしくたたく。[pcms]
+The excitement made even that an intense stimulus for me, furiously[r]
+triggering my ejaculation switch.[pcms]
 
 *937|
 [fc]
 [vo_aka s="akari0548"]
-[ns]茜梨[nse]
-「あっ……ああっ！　オマンコ止まらないいいっ！[r]
-　くっ……クリトリスもビンビンになっちゃってますっ！[r]
-　みんなのおちんぽが、私のを……あぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Ah...ahh! My pussy can't stop!! My clit is throbbing too! Everyone's[r]
+cocks are doing this to me...ahhh!"[pcms]
 
 *938|
 [fc]
-越智さんも、もうそろそろか。[r]
-ぼくも、もうがまんのげんかいだ。[pcms]
+Akari-san must be close too. I'm at my limit of endurance as well.[pcms]
 
 *939|
 [fc]
-ぼくはついに、あこがれのひとに中だしするんだ。[r]
-ずっと、ゆめみていたあいてに、中だしだ。[pcms]
+I'm finally going to cum inside the person I've longed for. I've[r]
+always dreamed of cumming inside her.[pcms]
 
 *940|
 [fc]
-それは、ぼくがいちばんさいしょなんだ！[r]
-ほかのやつらよりさきに、ぼくがなかだしするんだあっっ！！[pcms]
+And I'll be the first one! I'll cum inside her before any of the other[r]
+guys![pcms]
 
 *941|
 [fc]
-[ns]誠[nse]
-「おおおおっ！　越智さんのオマンコのなか、[r]
-　ザラザラするところがでてきたっ！　こ、こすれるうっ！[r]
-　みずぎのザラザラより、なんばいもきもちいいっ！」[pcms]
+[ns]Makoto[nse]
+"Ohhh! The rough spot inside Akari-san's pussy has come out! It's[r]
+rubbing me! It feels so many times better than the rough texture of a[r]
+swimsuit!"[pcms]
 
 *942|
 [fc]
 [vo_aka s="akari0549"]
-[ns]茜梨[nse]
-「わ、わた、私のオマンコのなか……ヘンなんです！[r]
-　勝手にキューってなっちゃう！[r]
-　やっ……やだっ！　と、止まらないっ！」[pcms]
+[ns]Akari[nse]
+"My...my pussy feels strange! It's clenching on its own! No...no! It[r]
+won't stop!"[pcms]
 
 *943|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「いりぐちも、あつくてサイコー！！　なかもやらわかく[r]
-　つつんで……サイコー！！　ぜんぶサイコー！　[r]
-　しめつけもつよくて、チンポもげそうだぁっ！」[pcms]
+[ns]Souichirou & Arai[nse]
+"The entrance is so hot, it's amazing!! The inside is so soft and[r]
+enveloping...amazing!! Everything is amazing! The tightness is so[r]
+strong, it feels like my dick is going to come off!"[pcms]
 
 *944|
 [fc]
 [vo_aka s="akari0550"]
-[ns]茜梨[nse]
-「やっ、やだあぁあっ！！　イクっ！！　すっごいイクううっ！[r]
-　みなさん……愛を……愛をいっぱい……私にくださいっ！[r]
-　愛を頂戴っ！　いっ……イクっ……あぁあっ！！！」[pcms]
+[ns]Akari[nse]
+"No, nooo!! I'm cumming!! I'm cumming so hard! Everyone...give me your[r]
+love...lots of love...please give it to me! Give me your love![r]
+I'm...cumming...ahhh!!"[pcms]
 
 *945|
 [fc]
-[ns]誠[nse]
-「うぉおおっ！　うけとめてっ！　愛をおおおっ！！[r]
-　イクぞおおっ！！」[pcms]
+[ns]Makoto[nse]
+"Uooooh! Take it! My love, ohhh!! I'm cumming!!"[pcms]
 
 *946|
 [fc]
-[ns]宗一郎＆荒井[nse]
-「おうっ！　おれらのこども、はらんでくださいっ！」[pcms]
+[ns]Souichirou & Arai[nse]
+"Yeah! Please conceive our children!"[pcms]
 
 *947|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「キツいのイッパツ！　イけぇぇぇっ！！！！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"A tight shot! Cummingggg!!!!"[pcms]
 
 *948|
 [fc]
 [vo_aka s="akari0551"]
-[ns]茜梨[nse]
-「あっ……ひぁあぁっ！！　おっ……オマンコぎちぎちっ！[r]
-　イッちゃうっ！　怖いっ！　こんなの怖いいぃいっ！[r]
-　いっ……イク……イくぅううぅっ！！」[pcms]
+[ns]Akari[nse]
+"Ah...hiaaah!! My pussy is so tight! I'm cumming! I'm scared! This is[r]
+scaryyyy! I'm...cumming...I'm cumminggg!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -886,17 +835,16 @@
 
 *949|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「うっ……ううぅうああぁああっ！！！　おおおおっ！[r]
-　しっ……しぼりとられるっ！　のまれちまうううぅ！！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Ugh...uuuuh aaaaah!!! Ohhh! It's...squeezing out! I'm being swallowed[r]
+up!!"[pcms]
 
 *950|
 [fc]
 [vo_aka s="akari0552"]
-[ns]茜梨[nse]
-「ああぁあっ！　みんなの精子いいいっ！！！[r]
-　うっ……うぇぇぅぇえっ！！　いっ、イキすぎてっ……、[r]
-　気持ちよくて……は、吐いちゃううっう！　うぇぇっ！！」[pcms]
+[ns]Akari[nse]
+"Aaahh! Everyone's semen is so good!!! Ugh...ueeeeh!! I'm cumming too[r]
+much...it feels so good...I'm going to throw up! Ueeeh!!"[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -907,53 +855,49 @@
 
 *951|
 [fc]
-[ns]誠[nse]
-「ああっ！」[pcms]
+[ns]Makoto[nse]
+"Aah!"[pcms]
 
 *952|
 [fc]
-おちさんが、はいた！[r]
-あれは、ぼくがぜんぶうけとめるんだ！[r]
-ぼくのアイのふかさを、ほかのやつらにおもいしらせるんだあっ！[pcms]
+It's my turn to catch it all! I'll show the other guys the depth of my[r]
+love![pcms]
 
 *953|
 [fc]
-[ns]誠[nse]
-「おちさんっ！　いただきますううっ！！！」[pcms]
+[ns]Makoto[nse]
+"Akari-san! I gratefully receive it!!!"[pcms]
 
 [evcg storage="akari_H024h"][trans_c cross time=150]
 
 *954|
 [fc]
 [vo_aka s="akari0553"]
-[ns]茜梨[nse]
-「あっ……あぁぁ……ぎ、ギモチ……いいいっ……。[r]
-　こんなに、愛されて……私……幸せぇ……」[pcms]
+[ns]Akari[nse]
+"Ah...ahh...it feels...so good... To be loved this much...I'm...so[r]
+happy..."[pcms]
 
 *955|
 [fc]
-あぁ、ぼくのアイが、やっとつたわった……。[r]
-なかだししたのも、きっとぼくがいちばんだし……。[r]
-これで、おちさんはぼくのもの。[pcms]
+Ah, my love has finally been conveyed... The first one to cum inside[r]
+her was surely me... Now, Akari-san is mine.[pcms]
 
 *956|
 [fc]
-また、きぜつしちゃったけど、[r]
-めがさめたら、きっとぼくにほほえみかけてくれるんだ。[pcms]
+I passed out again, but when I wake up, she'll surely smile at me.[pcms]
 
 *957|
 [fc]
-ぼくだけのために。[pcms]
+Just for me.[pcms]
 
 *958|
 [fc]
-そのことをかんがえると、しぜんにホッペがゆるんでしまう。[r]
-そして、ぼくは……。[pcms]
+Thinking about that naturally relaxes my cheeks. And then, I...[pcms]
 
 *959|
 [fc]
-おちさんのよこで、せいいっぱいのほほえみをうかべながら、[r]
-めをとじた。[pcms]
+Lying next to Akari-san, with the biggest smile on my face, I closed[r]
+my eyes.[pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

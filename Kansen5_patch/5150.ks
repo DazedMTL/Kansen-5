@@ -19,19 +19,19 @@
 
 *2088|
 [fc]
-僕はシャワーを浴びると、ベットに寝ている人を[r]
-起こさないようにしながら、飲み物を取りに部屋を出た。[pcms]
+After taking a shower, I left the room to get a drink, being careful[r]
+not to wake the person sleeping in the bed.[pcms]
 
 *2089|
 [fc]
-そういえば、そーいちが帰ってこないな。[r]
-まさかとは思うけど、外に声が漏れていて[r]
-気を使ってくれたとか？[pcms]
+I wonder why Souichirou hasn't come back yet. Could it be that he[r]
+heard us from outside and was considerate enough not to disturb us? I[r]
+hope that's not the case, it would be embarrassing.[pcms]
 
 *2090|
 [fc]
-なんかそれは気恥ずかしいな。[r]
-違う理由であって欲しい。[pcms]
+Somehow, that thought makes me feel shy. I hope there's a different[r]
+reason.[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
@@ -41,49 +41,46 @@
 
 *2091|
 [fc]
-[ns]オズ[nse]
-「んぐうぐぐっ……んうううっ……」[pcms]
+[ns]Oz[nse]
+"Nguuguu... nuuuh..."[pcms]
 
 *2092|
 [fc]
-廊下の途中に設置されているソファーで、[r]
-稼津央さんの部下の黒服が眠りこけていた。[pcms]
+In the middle of the hallway, on a sofa, one of Katsuo-san's[r]
+subordinates in black was fast asleep.[pcms]
 
 *2093|
 [fc]
-悪夢を見ているようで、酷いうなり声を上げている。[r]
-起こそうかとも思ったけど、寝ているのに悪いし、[r]
-どんな人かもわからない。[pcms]
+He seemed to be having a nightmare, letting out terrible groans. I[r]
+thought about waking him up, but it felt wrong to disturb his sleep,[r]
+and I didn't even know who he was.[pcms]
 
 *2094|
 [fc]
-僕はその人をそのままにして、[r]
-奥のＶＩＰルームへと進んでいった。[pcms]
+I left him be and continued on towards the VIP room at the end of the[r]
+hallway.[pcms]
 
 ;//★viproom_bar VIPルームのバー
 [bg storage="viproom_bar"][trans_c cross time=500]
 
 *2095|
 [fc]
-[ns]誠[nse]
-「やっぱりすごいな」[pcms]
+[ns]Makoto[nse]
+"It's really amazing."[pcms]
 
 *2096|
 [fc]
-そこには期待していた通り、[r]
-稼津央さんのプライベートのバーが広がっていた。[pcms]
+As expected, Katsuo-san's private bar was spread out before me.[pcms]
 
 *2097|
 [fc]
-お酒が飲みたいわけじゃなくて、[r]
-ソフトドリンクを探しに来たんだけど、[r]
-ちょっと誘惑にかられてしまう。[pcms]
+I didn't come for alcohol; I was looking for a soft drink, but I[r]
+couldn't help but feel tempted.[pcms]
 
 *2098|
 [fc]
-当然、稼津央さんのプライベートバーに、[r]
-マウンテンヂューがあるはずもなく、[r]
-普通の炭酸飲料を確保した。[pcms]
+Of course, there wouldn't be any Mountain Dew in Katsuo-san's private[r]
+bar, so I settled for a regular soda.[pcms]
 
 ;//★viproom_lobby VIPルームの近くにあるロビー
 [bg storage="viproom_lobby"][trans_c cross time=500]
@@ -91,23 +88,22 @@
 
 *2099|
 [fc]
-[ns]誠[nse]
-「あっ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 *2100|
 [fc]
-[ns]オズ[nse]
-「…………」[pcms]
+[ns]Oz[nse]
+"..."[pcms]
 
 *2101|
 [fc]
-さっきまで寝ていた黒服が、[r]
-起き上がってぼうっとしているみたいだった。[pcms]
+The black-suited man who had been sleeping earlier seemed to be waking[r]
+up and was looking around dazedly.[pcms]
 
 *2102|
 [fc]
-寝覚めが悪かったのかな？[r]
-悪い夢を見ているみたいだったし。[pcms]
+Maybe he had a bad wake-up? He seemed to be having a bad dream.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -123,13 +119,13 @@
 
 *2103|
 [fc]
-僕が軽く会釈をして横を通り過ぎようとすると、[r]
-いきなり胸ぐらの辺りを掴まれる。[pcms]
+As I tried to pass by with a slight nod, suddenly my chest was[r]
+grabbed.[pcms]
 
 *2104|
 [fc]
-[ns]誠[nse]
-「な、なんですかっ！」[pcms]
+[ns]Makoto[nse]
+"Wh-what is it?!"[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
@@ -138,18 +134,17 @@
 
 *2105|
 [fc]
-[ns]オズ[nse]
-「に゛く゛……く゛わ゛せ゛ろ゛……」[pcms]
+[ns]Oz[nse]
+"Niku... kuwaseru..."[pcms]
 
 *2106|
 [fc]
-[ns]誠[nse]
-「…………っ！」[pcms]
+[ns]Makoto[nse]
+"...!"[pcms]
 
 *2107|
 [fc]
-感染している！[r]
-一体どこでっ！？[pcms]
+He's infected! Where on earth...?![pcms]
 
 ;//◆ＳＥ　打撃音
 [se buf=0 storage="seB010"]
@@ -164,81 +159,74 @@
 
 *2108|
 [fc]
-全てを考える暇もなく、僕はすごい力で床に叩きつけられると、[r]
-呼吸することすら許されず、床から男を見上げた。[pcms]
+Before I had time to think, I was thrown to the floor with incredible[r]
+force, unable to even breathe, looking up at the man from the ground.[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_su"][ChrSetParts layer=5 chface="F1_oz04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2109|
 [fc]
-どうしてこんなところで感染者と……、[r]
-逃げることもできない。[pcms]
+Why is there an infected person here...? I can't even run away.[pcms]
 
 *2110|
 [fc]
-[ns]オズ[nse]
-「く゛……く゛っ゛て゛……や゛る゛……」[pcms]
+[ns]Oz[nse]
+"Ku... kute... yaru..."[pcms]
 
 *2111|
 [fc]
-[ns]誠[nse]
-「ぐううううっ！」[pcms]
+[ns]Makoto[nse]
+"Guuuuuuh!"[pcms]
 
 [ChrSetEx layer=5 chbase="oz2_su"][ChrSetParts layer=5 chface="F2_oz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2112|
 [fc]
-僕に覆い被さって首筋に歯を立てようとする男を、[r]
-なんとか瀬戸際で食い止める。[pcms]
+I managed to stop the man who was trying to bite my neck as he loomed[r]
+over me at the last moment.[pcms]
 
 *2113|
 [fc]
-ものすごい力だ……、[r]
-僕では防ぎきれない……。[pcms]
+Such incredible strength... I can't hold him off...[pcms]
 
 *2114|
 [fc]
-[ns]オズ[nse]
-「く゛ふ゛あ゛あ゛あ゛っ！」[pcms]
+[ns]Oz[nse]
+"Kufuaaaaah!"[pcms]
 
 *2115|
 [fc]
-男は首筋に噛みつくのを諦めると、[r]
-今度は僕の腕を掴んでくる。[pcms]
+When the man gave up on biting my neck, he grabbed my arm instead.[pcms]
 
 *2116|
 [fc]
-[ns]誠[nse]
-「くそおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it!"[pcms]
 
 [eval exp="f.chara_x = 0,f.chara_y = 0"][quake_chara layer=5 xy up m]
 
 *2117|
 [fc]
-目茶苦茶に暴れて腕を振り解こうとするが、[r]
-男の力は僕の必死さなんて眼中にないほど、強力だった。[pcms]
+I thrashed wildly trying to shake off his arm, but his strength was so[r]
+immense that my desperation meant nothing to him.[pcms]
 
 *2118|
 [fc]
-腕の付け根と手首を掴まれた僕は、[r]
-必死になって男の顎を押さえつけて、[r]
-その食欲に対抗する。[pcms]
+With my arm's base and wrist caught, I desperately pushed against the[r]
+man's jaw, fighting against his hunger.[pcms]
 
 *2119|
 [fc]
-でも……そんな抵抗が通用するほど、[r]
-甘い奴じゃなかった。[pcms]
+But... such resistance wasn't enough against someone so unforgiving.[pcms]
 
 *2120|
 [fc]
-身体的な強さは、感染する前から[r]
-比較にならないスペックだったのに、[r]
-それが更に増している。[pcms]
+The physical strength he had before infection was incomparable, and[r]
+now it was even greater.[pcms]
 
 *2121|
 [fc]
-僕は目を見開いて……、[r]
-自分の腕が噛みつかれる瞬間を目の当たりにした。[pcms]
+I opened my eyes wide... witnessing the moment my arm was bitten.[pcms]
 
 ;//#_赤フラ
 [赤フラ]
@@ -250,25 +238,24 @@
 
 *2122|
 [fc]
-[ns]誠[nse]
-「ぐわああああああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Gwaaaaaaaaaaaaah!"[pcms]
 
 *2123|
 [fc]
-噛まれた、噛みつかれた、感染者に触れてしまった！[r]
-このままじゃ、僕は……。[pcms]
+Bitten, chewed on, touched by an infected! At this rate, I'll be...[pcms]
 
 *2124|
 [fc]
-[ns]宗一郎[nse]
-「誠を離せえええええええええっ！」[pcms]
+[ns]Souichirou[nse]
+"Let go of Makotooooooo!"[pcms]
 
 ;//m:立ち無し
 
 *2125|
 [fc]
-どこか聞き覚えのある声が廊下に響いていた。[r]
-そして、男の背後からその声の主が襲いかかる。[pcms]
+A familiar voice echoed through the hallway. Then, the owner of that[r]
+voice attacked from behind the man.[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -280,23 +267,21 @@
 
 *2126|
 [fc]
-[ns]オズ[nse]
-「ん゛く゛お゛……ひ゛ゃ゛ひ゛い゛……」[pcms]
+[ns]Oz[nse]
+"Nkgo... hyahyii..."[pcms]
 
 *2127|
 [fc]
-男の顔の横、耳の辺りにドライバーが突き刺さっていた。[r]
-男の顔がぐにゃりと歪んでいく。[pcms]
+A screwdriver was stuck in the man's face, right next to his ear. His[r]
+face twisted grotesquely.[pcms]
 
 *2128|
 [fc]
-それがドライバーのせいなのか、[r]
-自分の意識のせいなのか……。[pcms]
+Whether it was because of the screwdriver or his own consciousness...[pcms]
 
 *2129|
 [fc]
-暗くなっていく景色の中、[r]
-僕には判断することができなかった。[pcms]
+In the darkening scenery, I couldn't make the judgment.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

@@ -43,8 +43,8 @@
 
 *1415|
 [fc]
-[ns]愼さん[nse]
-「うっ……うう……」[pcms]
+[ns]Mr. Shin[nse]
+"Ugh... ugh..."[pcms]
 
 ;//めも：途中まで立ち絵を貼ったが、美沙緒視点なので削除はせずにコメントアウト
 
@@ -54,20 +54,22 @@
 
 *1416|
 [fc]
-運び込まれた愼さんは、苦痛に顔を歪めうめいていた。[r]
-家の電話で救急車の手配をしようとしたが、やはり繋がらない。[pcms]
+Mr. Shin, who was carried in, was grimacing in pain and groaning. I[r]
+tried to arrange for an ambulance using the house phone, but as[r]
+expected, I couldn't get through.[pcms]
 
 *1417|
 [fc]
 [vo_mis s="misao_st0013"]
-[ns]美沙緒[nse]
-（おかしいわ……何かが町で起こっている。しかも嫌なことが）[pcms]
+[ns]Misao[nse]
+(Something strange is happening in town... and it's something[r]
+unpleasant.)[pcms]
 
 *1418|
 [fc]
 [vo_aka s="akari_st0003"]
-[ns]茜梨[nse]
-「お姉様……救急車は来ないんですか？」[pcms]
+[ns]Akari[nse]
+"Onee-sama... isn't the ambulance coming?"[pcms]
 
 
 ;//美沙緒左＠私服＋白衣　表情08　泣き１　;//
@@ -75,8 +77,9 @@
 *1419|
 [fc]
 [vo_mis s="misao_st0014"]
-[ns]美沙緒[nse]
-「無理そうだわ。来るどころか、電話が繋がらないのよ」[pcms]
+[ns]Misao[nse]
+"It seems impossible. It's not just that they aren't coming; I can't[r]
+even get through on the phone."[pcms]
 
 *1420|
 [fc]
@@ -85,13 +88,13 @@
 
 *1421|
 [fc]
-[ns]茜梨[nse]
-「そんな……」[pcms]
+[ns]Akari[nse]
+"That can't be..."[pcms]
 
 *1422|
 [fc]
-茜梨は思い出したように携帯を開く。[r]
-しかし、発信音すら鳴らず、呆然としていた。[pcms]
+Akari remembered and opened her cell phone. However, not even a dial[r]
+tone sounded, and she stood there dumbfounded.[pcms]
 
 
 ;//美沙緒左＠私服＋白衣　表情06　悲し１　;//
@@ -99,9 +102,9 @@
 *1423|
 [fc]
 [vo_mis s="misao_st0015"]
-[ns]美沙緒[nse]
-「何か大事が起こっているのかもしれないわ。[r]
-　さっき町中から黒煙が上がってるのが見えたし」[pcms]
+[ns]Misao[nse]
+"Something serious might be happening. I saw black smoke rising from[r]
+the town earlier."[pcms]
 
 *1424|
 [fc]
@@ -110,9 +113,9 @@
 
 *1425|
 [fc]
-[ns]茜梨[nse]
-「火事……でしょうか？　それで消防車が出ていて、[r]
-　火事なら電話線とかも焼けてしまったとか……？」[pcms]
+[ns]Akari[nse]
+"A fire... maybe? And the fire trucks are out, and if it's a fire,[r]
+maybe the phone lines have burned too...?"[pcms]
 
 
 
@@ -121,37 +124,37 @@
 *1426|
 [fc]
 [vo_mis s="misao_st0016"]
-[ns]美沙緒[nse]
-「わからないわ」[pcms]
+[ns]Misao[nse]
+"I don't know."[pcms]
 
 *1427|
 [fc]
 [vo_aka s="akari_st0006"]
-[ns]茜梨[nse]
-「……ここは、大丈夫ですよね、お姉様。[r]
-　火の手がこちらまでやってくる可能性とかは……」[pcms]
+[ns]Akari[nse]
+"...We're safe here, right, Onee-sama? Is there a chance that the[r]
+flames could reach us...?"[pcms]
 
 *1428|
 [fc]
 [vo_mis s="misao_st0017"]
-[ns]美沙緒[nse]
-「……残念だけど茜梨、それもわからないわ」[pcms]
+[ns]Misao[nse]
+"...Unfortunately, Akari, I don't know that either."[pcms]
 
 *1429|
 [fc]
 [vo_aka s="akari_st0007"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *1430|
 [fc]
-[ns]愼さん[nse]
-「ぐふっ……げふっ……」[pcms]
+[ns]Mr. Shin[nse]
+"Gufu... gehu..."[pcms]
 
 *1431|
 [fc]
-布団に寝かされた愼さんが、何度も咳き込んでいた。[r]
-眼も次第にうつろになってきている。[pcms]
+Mr. Shin, laid on the futon, was coughing repeatedly. His eyes were[r]
+gradually becoming vacant.[pcms]
 
 
 ;//美沙緒左＠私服＋白衣　表情04　真剣　　;//
@@ -159,64 +162,63 @@
 *1432|
 [fc]
 [vo_mis s="misao_st0018"]
-[ns]美沙緒[nse]
-（…………）[pcms]
+[ns]Misao[nse]
+(…)[pcms]
 
 *1433|
 [fc]
-[ns]愼さん[nse]
-「お、嬢さま、なんだか、きもちよくなってきましたあ……[r]
-　げふっ、げふっ」[pcms]
+[ns]Mr. Shin[nse]
+"Oh, young lady, I'm starting to feel better... gehu, gehu"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1434|
 [fc]
 [vo_aka s="akari_st0008"]
-[ns]茜梨[nse]
-「え？　愼さん、愼さん、大丈夫？　良くなってきたの？[r]
-　痛み引いてきたの？」[pcms]
+[ns]Akari[nse]
+"Eh? Mr. Shin, Mr. Shin, are you okay? Are you feeling better? Is the[r]
+pain subsiding?"[pcms]
 
 *1435|
 [fc]
 [vo_mis s="misao_st0019"]
-[ns]美沙緒[nse]
-（…………）[pcms]
+[ns]Misao[nse]
+(…)[pcms]
 
 *1436|
 [fc]
-茜梨は見当違いな受け答えをしていると、美沙緒は感じていた。[r]
-咳き込み、うつろな眼、そして怪しい発言。[pcms]
+Misao felt that Akari was making a misguided response. The coughing,[r]
+vacant eyes, and suspicious remarks all matched the initial symptoms[r]
+of an infected person.[pcms]
 
 *1437|
 [fc]
-そのどれもが感染者の初期症状と一致している。[pcms]
+All of these matched the initial symptoms of an infected person.[pcms]
 
 *1438|
 [fc]
-[ns]愼さん[nse]
-「あかりぃ、おじょー様は、可愛らしーですねえ」[pcms]
+[ns]Mr. Shin[nse]
+"Akari, the young lady is so cute..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1439|
 [fc]
 [vo_aka s="akari_st0009"]
-[ns]茜梨[nse]
-「いやだ、何を言ってるのよ愼さん。ねえ大丈夫ですか？」[pcms]
+[ns]Akari[nse]
+"No, what are you saying, Mr. Shin? Hey, are you okay?"[pcms]
 
 *1440|
 [fc]
 [vo_mis s="misao_st0020"]
-[ns]美沙緒[nse]
-（ワクチンが効いていないのかも……つまり、これは４年前とは[r]
-　違うタイプのウイルスなのかもしれない）[pcms]
+[ns]Misao[nse]
+(The vaccine might not be working... which means this could be a[r]
+different type of virus from four years ago.)[pcms]
 
 *1441|
 [fc]
-愼さんが布団の中でもぞもぞと動き出す。[r]
-茜梨は、心配しながらもどうしたらいいのかわからず、[r]
-傍らに座ったままだった。[pcms]
+Mr. Shin began to stir restlessly within the futon. Akari sat beside[r]
+him, worried but unsure of what to do.[pcms]
 
 
 ;//美沙緒左＠私服＋白衣　表情05　怒り１　;//
@@ -224,16 +226,16 @@
 *1442|
 [fc]
 [vo_mis s="misao_st0021"]
-[ns]美沙緒[nse]
-「茜梨、愼さんから離れなさい」[pcms]
+[ns]Misao[nse]
+"Akari, get away from Mr. Shin."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1443|
 [fc]
 [vo_aka s="akari_st0010"]
-[ns]茜梨[nse]
-「え？　どうして……？」[pcms]
+[ns]Akari[nse]
+"Eh? Why...?"[pcms]
 
 
 ;//美沙緒左＠私服＋白衣　表情06　悲し１　;//
@@ -241,29 +243,30 @@
 *1444|
 [fc]
 [vo_mis s="misao_st0022"]
-[ns]美沙緒[nse]
-「考えたくないことが起こってるのかもしれないわ」[pcms]
+[ns]Misao[nse]
+"Something we don't want to think about might be happening."[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz04"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *1445|
 [fc]
-ずっと黙って成り行きを見守っていた稼津央が口を開く。[pcms]
+Kazuo, who had been silently watching the situation unfold, spoke up.[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz16"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *1446|
 [fc]
-[ns]稼津央[nse]
-「似てるんだろ、姉さん。愼さんの様子、感染者に……」[pcms]
+[ns]Kazuo[nse]
+"It's similar, isn't it, sister? Mr. Shin's condition is like that of[r]
+an infected person..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1447|
 [fc]
 [vo_aka s="akari_st0011"]
-[ns]茜梨[nse]
-「えっ！」[pcms]
+[ns]Akari[nse]
+"Eh!"[pcms]
 
 
 ;//美沙緒左＠私服＋白衣　表情04　真剣　　;//
@@ -271,16 +274,16 @@
 *1448|
 [fc]
 [vo_mis s="misao_st0023"]
-[ns]美沙緒[nse]
-「…………ええ、その通りよ。愼さんもワクチンを打っている。[r]
-　でも明らかに感染した者の症状が出てきている」[pcms]
+[ns]Misao[nse]
+"...Yes, that's right. Mr. Shin has also been vaccinated. But clearly,[r]
+he's showing symptoms of infection."[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz02"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *1449|
 [fc]
-[ns]稼津央[nse]
-「つまり？」[pcms]
+[ns]Kazuo[nse]
+"Which means?"[pcms]
 
 
 ;//美沙緒左＠私服＋白衣　表情05　怒り１　;//
@@ -288,30 +291,30 @@
 *1450|
 [fc]
 [vo_mis s="misao_st0024"]
-[ns]美沙緒[nse]
-「ワクチンが効いてない。４年前のウイルスとは違うタイプ、[r]
-　新種なのかもしれないわ」[pcms]
+[ns]Misao[nse]
+"The vaccine isn't working. It might be a new type of virus different[r]
+from the one four years ago."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1451|
 [fc]
 [vo_aka s="akari_st0012"]
-[ns]茜梨[nse]
-「！！」[pcms]
+[ns]Akari[nse]
+"!!"[pcms]
 
 *1452|
 [fc]
-その言葉を聴いた茜梨は、慌てて愼さんの傍から離れ、[r]
-稼津央、美沙緒のもとへとやってきた。[pcms]
+Hearing those words, Akari hurriedly moved away from Mr. Shin and went[r]
+over to where Kazuo and Misao were.[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz16"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *1453|
 [fc]
-[ns]稼津央[nse]
-「姉さん、何とかならないの？　長年仕えてきた愼さんが[r]
-　苦しんでるんだよ」[pcms]
+[ns]Kazuo[nse]
+"Sister, can't you do something? Mr. Shin has served us for many years[r]
+and he's suffering."[pcms]
 
 
 ;//美沙緒左＠私服＋白衣　表情04　真剣　　;//
@@ -319,25 +322,24 @@
 *1454|
 [fc]
 [vo_mis s="misao_st0025"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1455|
 [fc]
 [vo_aka s="akari_st0013"]
-[ns]茜梨[nse]
-「お姉様、お願いします。お姉様ならお兄様のおっしゃるとおり[r]
-　何か出来るんじゃないんですか？」[pcms]
+[ns]Akari[nse]
+"Onee-sama, please. Can't you do something like Onii-sama says?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0]
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz16"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *1456|
 [fc]
-稼津央はどこか醒めた眼で美沙緒を見つめる。[r]
-一方、茜梨は必死に頬を紅潮させながら、美沙緒に懇願していた。[pcms]
+Kazuo looked at Misao with somewhat cold eyes. Meanwhile, Akari was[r]
+desperately pleading with Misao, her cheeks flushed with urgency.[pcms]
 
 
 ;//美沙緒左＠私服＋白衣　表情05　怒り１　;//
@@ -345,27 +347,27 @@
 *1457|
 [fc]
 [vo_mis s="misao_st0026"]
-[ns]美沙緒[nse]
-「……わかったわ」[pcms]
+[ns]Misao[nse]
+"...Understood."[pcms]
 
 *1458|
 [fc]
-意を決したような顔つきになった美沙緒は、そう言い放つと[r]
-部屋を出て行った。[pcms]
+With a determined look on her face, Misao said this and then left the[r]
+room.[pcms]
 
 [ChrSetEx layer=4 chbase="kz1_sui"][ChrSetParts layer=4 chface="F1_kz01"][ChrSetXY layer=4 x=650 y=0][trans_c cross time=150]
 
 *1459|
 [fc]
-[ns]稼津央[nse]
-「…………」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1460|
 [fc]
-稼津央はすぐに携帯を取り出し、キーを押す。[r]
-その行動を傍らで訝しみながらも、茜梨はただ眺めていた。[pcms]
+Kazuo immediately took out his mobile phone and started pressing keys.[r]
+Akari watched his actions with a puzzled look beside him.[pcms]
 
 ;//★_土蔵前
 ;//★bg13a 越智本家 外観＆前庭・朝昼
@@ -375,199 +377,210 @@
 
 *1461|
 [fc]
-何棟かある土蔵の中で、一番新しい土蔵。[r]
-その前に美沙緒は立っていた。[pcms]
+In one of the several storehouses, the newest one, Misao stood in[r]
+front of it.[pcms]
 
 *1462|
 [fc]
-この状況で美沙緒はその中へと入って行く。[pcms]
+In this situation, Misao entered inside it.[pcms]
 
 ;//★bg15a 越智本家 土蔵・点灯
 [bg storage="BG15a"][trans_c cross time=500]
 
 *1463|
 [fc]
-その内部は、外見とは裏腹に機械や金属製のユニットが[r]
-組み込まれた近代的なものだった。[pcms]
+The interior, contrary to its outward appearance, was modern, fitted[r]
+with machines and metallic units.[pcms]
 
 *1464|
 [fc]
-さらに、その奥には――――足早に美沙緒は、奥へと向かっていく。[pcms]
+Furthermore, towards the backMisao quickly headed deeper inside.[pcms]
 
 ;//★bg16a 越智本家　ユニットラボ内部・点灯
 [bg storage="BG16a"][trans_c cross time=500]
 
 *1465|
 [fc]
-気密除染エリアを抜けて、誰がどう見てもどこかの研究室、[r]
-しかも密閉を要求される造りの中へと美沙緒は踏み込む。[pcms]
+Passing through an airtight decontamination area, Misao stepped into[r]
+what was clearly a research lab, designed to be sealed off.[pcms]
 
 *1466|
 [fc]
-すぐに付けっぱなしになっているパソコンの前に座り、美沙緒は[r]
-現状の詳細を打ち込み、追加情報と件名を付けて送信した。[pcms]
+Sitting in front of a computer that had been left on, Misao typed in[r]
+the details of the current situation and sent it off with additional[r]
+information and a subject line.[pcms]
 
 *1467|
 [fc]
 [vo_mis s="misao_st0027"]
-[ns]美沙緒[nse]
-「…………今日だけで、もう３回目だわ。[r]
-　……でも衛星回線は生きてるようね……」[pcms]
+[ns]Misao[nse]
+"...This is already the third time today. ...But it seems the[r]
+satellite link is still alive..."[pcms]
 
 *1468|
 [fc]
-徹夜明け、まだ朝の早い時間だというのに、容量が何キロにも[r]
-なる添付付きメールを美沙緒はこれで３回も送信している。[pcms]
+Despite it being early in the morning after an all-nighter, Misao had[r]
+sent out three emails with attachments that were several kilobytes in[r]
+size.[pcms]
 
 *1469|
 [fc]
-ついつい愚痴めいた言葉が口から出ても仕方が無いことだろう。[pcms]
+It was understandable that she would let out a complaint.[pcms]
 
 *1470|
 [fc]
-ｒｅ：のついた未開封のメールに眼が停まる。[r]
-開いてみると、そこには相手方が把握している現状が[r]
-詳細に記されてあった。[pcms]
+Her eyes stopped on an unopened email with 're:' in the subject. Upon[r]
+opening it, she found a detailed account of the current situation as[r]
+understood by the sender.[pcms]
 
 *1471|
 [fc]
-曰く――[pcms]
+It said--[pcms]
 
 *1472|
 [fc]
-東京や他の都市部でも、混乱が広がっている。[r]
-感染者と断定できる症状の者が時間を追う毎に増えている。[pcms]
+In Tokyo and other urban areas, chaos was spreading. The number of[r]
+people showing symptoms that could be definitively diagnosed as[r]
+infection was increasing over time.[pcms]
 
 *1473|
 [fc]
-政府機能は海上へ脱出している。[r]
-また米軍の加勢が了承され先々を見越した掃討作戦と準備に[r]
-着手している。[pcms]
+The government functions were evacuating to the sea. The U.S.[r]
+military's assistance had been approved, and they were starting[r]
+preparations for a sweeping operation with foresight.[pcms]
 
 *1474|
 [fc]
 [vo_mis s="misao_st0028"]
-[ns]美沙緒[nse]
-（東京なんて、ワクチンの摂取率が一番高い場所……[r]
-　そこで次々に感染者が発生しているのだとしたら……）[pcms]
+[ns]Misao[nse]
+(Tokyo, of all places, has the highest vaccination rate... If[r]
+infections are occurring there one after another...)[pcms]
 
 *1475|
 [fc]
-様々な状況、及び確保することが出来た感染者の症状から[r]
-鑑みるに、今回のウイルスは新種である可能性が高い。[pcms]
+Considering various circumstances and symptoms of the infected[r]
+individuals that could be secured, there is a high possibility that[r]
+this virus is a new species.[pcms]
 
 *1476|
 [fc]
-また要観察ではあるが、感染者の生存日数が上がってきている[r]
-可能性がある。[pcms]
+Also, although it requires observation, there is a possibility that[r]
+the survival days of infected individuals are increasing.[pcms]
 
 *1477|
 [fc]
 [vo_mis s="misao_st0029"]
-[ns]美沙緒[nse]
-（簡単には死ななくなってきてる……ということか。[r]
-　だとしたら、愼さんはより危険な存在になりかねない……）[pcms]
+[ns]Misao[nse]
+(They're not dying easily anymore... Does that mean Mr. Shin could[r]
+become an even more dangerous entity...)[pcms]
 
 *1478|
 [fc]
-文章だけをざっと読み、添付された書類は後回しにして、[r]
-美沙緒は席を立ち保存庫へと向かった。[pcms]
+After quickly reading through the text and deciding to look at the[r]
+attached documents later, Misao stood up from her seat and headed[r]
+towards the storage room.[pcms]
 
 *1479|
 [fc]
-しかし、すぐに保存庫の扉を開けずに何事か考えにふけっている。[pcms]
+However, she didn't immediately open the door to the storage room but[r]
+seemed lost in thought about something.[pcms]
 
 *1480|
 [fc]
 [vo_mis s="misao_st0030"]
-[ns]美沙緒[nse]
-（春先の一件、確かに生存者の可能性は考えた。[r]
-　実際、ＴＶのニュースで流れていた東京での事故多発……）[pcms]
+[ns]Misao[nse]
+(The incident in early spring, I certainly considered the possibility[r]
+of survivors. Indeed, the frequent accidents in Tokyo reported on TV[r]
+news...)[pcms]
 
 *1481|
 [fc]
 [vo_mis s="misao_st0031"]
-[ns]美沙緒[nse]
-（感染者の関与を私は疑っていたわ。たぶん、東京や近郊都市圏の[r]
-　感染の源は、あの施設から逃げ延びたヤツだろう……）[pcms]
+[ns]Misao[nse]
+(I suspected the involvement of infected individuals. Probably, the[r]
+source of infection in Tokyo and its surrounding cities came from[r]
+those who escaped from that facility...)[pcms]
 
 *1482|
 [fc]
 [vo_mis s="misao_st0032"]
-[ns]美沙緒[nse]
-（でも……だとしたら、ここら辺、西日本の感染ルートは？[r]
-　東京が原因だろうか？　感染した者がその日のうちに新幹線[r]
-　などで移動したとしたら可能性はある）[pcms]
+[ns]Misao[nse]
+(But... if that's the case, what about the infection route here in[r]
+Western Japan? Could Tokyo be the cause? If infected individuals moved[r]
+on the same day using bullet trains or such, it's possible.)[pcms]
 
 *1483|
 [fc]
 [vo_mis s="misao_st0033"]
-[ns]美沙緒[nse]
-（しかし……わずかな人数だとしたら、ここまで急激に[r]
-　西日本とこの辺りに感染者が増えるのは解せない……）[pcms]
+[ns]Misao[nse]
+(However... if it's only a small number of people, I can't understand[r]
+why infections would spread so rapidly to Western Japan and this[r]
+area...)[pcms]
 
 *1484|
 [fc]
 [vo_mis s="misao_st0034"]
-[ns]美沙緒[nse]
-（何か……いっせいに人が集まり、いっせいに感染する何か……[r]
-　……イベント……か。可能性は高い。[r]
-　でもタイムラグがもっとあっても良さそうな気がする）[pcms]
+[ns]Misao[nse]
+(Something... something that causes people to gather all at once and[r]
+get infected all at once... ...An event...? It's likely. But I feel[r]
+like there should be more of a time lag.)[pcms]
 
 *1485|
 [fc]
-眉根を寄せ、難しい顔つきになって美沙緒は考えを巡らせていた。[pcms]
+Furrowing her brows and with a troubled expression, Misao continued to[r]
+ponder.[pcms]
 
 *1486|
 [fc]
 [vo_mis s="misao_st0035"]
-[ns]美沙緒[nse]
-（別ルートの可能性は？　……徹夜の原因になった件。[r]
-　太平洋の施設からこの島を経由して広がったとしたら……）[pcms]
+[ns]Misao[nse]
+(Another route of possibility? ...The matter that caused my all-[r]
+nighter. If it spread from the facility in the Pacific to this[r]
+island...)[pcms]
 
 *1487|
 [fc]
 [vo_mis s="misao_st0036"]
-[ns]美沙緒[nse]
-（東京とこちらとほぼ同時に発生しているのだとしたら、[r]
-　目的意識を持って不正コードを使い輸送船でウイルスを[r]
-　運び出した……？）[pcms]
+[ns]Misao[nse]
+(If it started occurring almost simultaneously in Tokyo and here, then[r]
+someone with intent used an illegal code to transport the virus via[r]
+cargo ships...?)[pcms]
 
 *1488|
 [fc]
 [vo_mis s="misao_st0037"]
-[ns]美沙緒[nse]
-（こちらの方が、可能性の確率があがるわね……。[r]
-　だとしたら、誰か首謀者が居ることに……。[r]
-　そんな事が出来る人は限られてる………………）[pcms]
+[ns]Misao[nse]
+(This raises the probability of that possibility... If so, there must[r]
+be a mastermind behind it. There are only a few people who could do[r]
+such a thing...)[pcms]
 
 *1489|
 [fc]
-美沙緒は、ハッと我に返った。[pcms]
+Misao suddenly snapped back to reality.[pcms]
 
 *1490|
 [fc]
 [vo_mis s="misao_st0038"]
-[ns]美沙緒[nse]
-「いけない……急がなくちゃ」[pcms]
+[ns]Misao[nse]
+"This is bad... I need to hurry."[pcms]
 
 *1491|
 [fc]
-美沙緒は保存庫の扉を開け、１本を選び出す。[r]
-それは、一般に出回っているワクチンとは別のタイプのもの。[r]
-いわゆる試薬と呼ばれる類のものだった。[pcms]
+Misao opened the door to the storage room and selected one vial. It[r]
+was a different type from the vaccines that were generally available;[r]
+it was what's called a reagent.[pcms]
 
 *1492|
 [fc]
 [vo_mis s="misao_st0039"]
-[ns]美沙緒[nse]
-（まさか、こんなに早く使うことになるとは思わなかったけど……[r]
-　これが効いてくれれば……いいのだけど……）[pcms]
+[ns]Misao[nse]
+(I never thought I'd have to use it so soon... but if this works...[r]
+that would be good...)[pcms]
 
 *1493|
 [fc]
-迷いの表情を見せつつも、美沙緒はワクチンを握りしめ、[r]
-ラボを出て入り口を目指した。[pcms]
+With an expression of hesitation, Misao gripped the vaccine tightly[r]
+and left the lab heading towards the entrance.[pcms]
 
 ;//★bg15a 越智本家 土蔵・点灯
 [bg storage="BG15a"][trans_c cross time=500]
@@ -577,56 +590,56 @@
 *1494|
 [fc]
 [vo_mis s="misao_st0040"]
-[ns]美沙緒[nse]
-「！！」[pcms]
+[ns]Misao[nse]
+"!!"[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz16"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1495|
 [fc]
-しかし、土蔵の入り口に稼津央と黒服達が居並んでいた。[r]
-困惑した顔の茜梨も一緒だ。[pcms]
+However, at the entrance of the storehouse stood Kazuo and men in[r]
+black suits. Akari was there too, with a confused look on her face.[pcms]
 
 *1496|
 [fc]
-[ns]稼津央[nse]
-「やあ、姉さん。ずいぶん掛かったね」[pcms]
+[ns]Kazuo[nse]
+"Hey, sister. That took quite some time."[pcms]
 
 *1497|
 [fc]
 [vo_mis s="misao_st0041"]
-[ns]美沙緒[nse]
-「どうやって……」[pcms]
+[ns]Misao[nse]
+"How did you..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1498|
 [fc]
-[ns]稼津央[nse]
-「簡単な事だよ。扉が閉まってロックされる前に、[r]
-　中に入らせてもらっただけのことだよ、姉さん」[pcms]
+[ns]Kazuo[nse]
+"It was simple. I just slipped in before the door closed and locked,[r]
+sister."[pcms]
 
 *1499|
 [fc]
 [vo_mis s="misao_st0042"]
-[ns]美沙緒[nse]
-「どうして……」[pcms]
+[ns]Misao[nse]
+"Why..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz18"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *1500|
 [fc]
-[ns]稼津央[nse]
-「手に持ってるそれ、それがワクチン？[r]
-　でもね、もう愼さんにワクチンは必要ないと思うんだ」[pcms]
+[ns]Kazuo[nse]
+"That thing you're holding, is that the vaccine? But you see, I don't[r]
+think Shin needs a vaccine anymore."[pcms]
 
 *1501|
 [fc]
-にやりとした笑いを顔に貼り付けて、稼津央が美沙緒をみている。[pcms]
+With a sly grin plastered on his face, Kazuo was looking at Misao.[pcms]
 
 *1502|
 [fc]
-美沙緒は、ワクチンを握りしめ、稼津央を睨み付けた。[pcms]
+Misao, clutching the vaccine tightly, glared at Kazuo.[pcms]
 
 ;//めも：場面切り替えがないので、BGMも暗転処理もなし。
 ;//#_ブラックアウト

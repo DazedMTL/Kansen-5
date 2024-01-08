@@ -23,14 +23,14 @@
 
 *4772|
 [fc]
-感染者の巣窟と成り果てた街道とはおさらばし、[r]
-森の木陰を縫ってターヤの自宅裏へと辿り着く。[pcms]
+We bid farewell to the highway that had become a den of infected and[r]
+made our way to Tarja's home through the shade of the forest.[pcms]
 
 *4773|
 [fc]
-周囲に感染者の気配がないことを確認し、[r]
-塀を乗り越え、裏庭を突っ切り、[r]
-僕たちは無事にターヤ宅へと避難を果たした。[pcms]
+After confirming there were no signs of infected around, we climbed[r]
+over the fence, cut through the backyard, and successfully took refuge[r]
+at Tarja's house.[pcms]
 
 ;//------------------------------------------------------
 *flag_B-C
@@ -43,56 +43,55 @@
 
 *4774|
 [fc]
-それにしても、僕はよくやったと思う。[pcms]
+I think I did pretty well, all things considered.[pcms]
 
 *4775|
 [fc]
-ほぼ自失呆然状態のターヤを連れて、[r]
-無事にここまで辿り着く事が出来たのだから。[pcms]
+After all, I managed to get here safely with Tarja, who was almost in[r]
+a state of shock.[pcms]
 
 *4776|
 [fc]
-そんなターヤを連れた状態だったから、[r]
-感染者に見つかったらアウトだと割り切って[r]
-最短距離を突っ走ったのが良かったのかもしれない。[pcms]
+Maybe it was because I was with Tarja that I decided to take the[r]
+shortest route at full speed, figuring it was game over if we were[r]
+found by the infected.[pcms]
 
 *4777|
 [fc]
-張りつめていた緊張の糸がようやく弛んでくると、[r]
-次に思い出されるのはついさっきの事……ターヤのお父さんを[r]
-この手で破壊してしまったことだ。[pcms]
+As the tension that had been stretched tight finally began to ease,[r]
+what came to mind next was the incident just before... when I[r]
+destroyed Tarja's father with my own hands.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4778|
 [fc]
 [vo_tay s="taja_tj0121"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja Pohjonen[nse]
+"..."[pcms]
 
 *4779|
 [fc]
-ターヤは表情を沈め込んだまま、[r]
-リビングに力なくへたり込んで動かない。[pcms]
+Tarja remained silent with a sunken expression, slumping powerlessly[r]
+in the living room without moving.[pcms]
 
 *4780|
 [fc]
-かける言葉も見つからなくて、僕に出来そうなことは、[r]
-脱衣場から拝借してきたタオルで[r]
-ターヤの顔の汚れを拭うことくらいだった。[pcms]
+Unable to find the right words to say, all I could do was wipe the[r]
+dirt off Tarja's face with a towel I borrowed from the changing room.[pcms]
 
 *4781|
 [fc]
-[ns]誠[nse]
-「ターヤ……」[pcms]
+[ns]Makoto[nse]
+"Tarja..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta19"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4782|
 [fc]
 [vo_tay s="taja_tj0122"]
-[ns]ターヤ[nse]
-「さわらないでっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Don't touch me!"[pcms]
 
 [se buf=0 storage="seB003"]
 ;//♪SEビンタ
@@ -104,45 +103,44 @@
 
 *4783|
 [fc]
-空を切り裂いて頬に叩きつけられる、ターヤのビンタ。[pcms]
+A slap from Tarja cut through the air and struck my cheek.[pcms]
 
 *4784|
 [fc]
-丁度、僕がターヤの頬をひっぱたいた時と同じ格好だった。[pcms]
+It was exactly the same position as when I had slapped Tarja's cheek.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta19"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4785|
 [fc]
 [vo_tay s="taja_tj0123"]
-[ns]ターヤ[nse]
-「どうして……どうして、あんなこと！[r]
-　あれはわたしのパパだった！　たとえ元のパパじゃなくたって、[r]
-　それでもわたしの家族だった！」[pcms]
+[ns]Tarja[nse]
+"Why... why did you do that! That was my Papa! Even if he wasn't Papa[r]
+anymore, he was still my family!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4786|
 [fc]
-家族という言葉が、姉ちゃんの最後の姿を思い起こさせる。[pcms]
+The word 'family' brings back memories of my sister's last moments.[pcms]
 
 *4787|
 [fc]
-あの時、僕に残された唯一の絆さえも断ち切られたんだ。[pcms]
+At that time, even the only bond I had left was severed.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4788|
 [fc]
 [vo_tay s="taja_tj0124"]
-[ns]ターヤ[nse]
-「それを、あなたはわたしの目の前で！[r]
-　自分がなにをしたのかわかってるの！？　ねえっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"You did that right in front of me! Do you even realize what you've[r]
+done!? Huh!?"[pcms]
 
 *4789|
 [fc]
-[ns]誠[nse]
-「……ターヤに、殺させたくなかった」[pcms]
+[ns]Makoto[nse]
+"...I didn't want Tarja to have to kill."[pcms]
 
 [se buf=0 storage="seB003"]
 ;//♪SEビンタ
@@ -154,92 +152,91 @@
 
 *4790|
 [fc]
-腫れをひとつ増やして、顔が反対側に吹っ飛ぶ。[r]
-ついでにメガネも吹っ飛びかけた。[pcms]
+Another slap added swelling to my face, sending it flying to the[r]
+opposite side. My glasses nearly flew off as well.[pcms]
 
 *4791|
 [fc]
-視界がぼやけても、ターヤの顔はよく見える。[r]
-碧く澄んだ瞳の端には大粒の涙の玉が浮かんで、[r]
-今にもこぼれ落ちそうだった。[pcms]
+Even with blurred vision, I could see Tarja's face clearly. Large[r]
+tears welled up at the edges of her clear blue eyes, ready to spill[r]
+over at any moment.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4792|
 [fc]
 [vo_tay s="taja_tj0125"]
-[ns]ターヤ[nse]
-「ふざけないでよ！　これは映画じゃないの！[r]
-　そんなこと言って、自分が格好いいとでも思ってるの！？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Don't joke around! This isn't a movie! Do you think you look cool[r]
+saying that!?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4793|
 [fc]
-ターヤの言う通りだ。[pcms]
+What Tarja said was true.[pcms]
 
 *4794|
 [fc]
-僕はたったひとりの家族だった姉ちゃんを守れなかった。[r]
-人はそれをしょうがないと言うかもしれないけど、[r]
-僕はそのどうしようもない気持ちをどうにもできなかったんだ。[pcms]
+I couldn't protect my sister, who was my only family. People might say[r]
+it couldn't be helped, but I couldn't deal with that feeling of[r]
+helplessness.[pcms]
 
 *4795|
 [fc]
-ターヤを守りたかったからだとか、そういう気持ちは二の次だった。[r]
-あの時、僕は確かに悪意と殺意とでバットを揮ったんだ。[pcms]
+Wanting to protect Tarja was secondary. At that moment, I definitely[r]
+swung the bat with malice and intent to kill.[pcms]
 
 *4796|
 [fc]
-誰でもよかったから、やり場のない怒りをぶつけたかったんだ！[pcms]
+I wanted to lash out at someone, anyone, with my unfocused anger![pcms]
 
 *4797|
 [fc]
-殺してやりたかったんだ！[pcms]
+I wanted to kill![pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta19"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4798|
 [fc]
 [vo_tay s="taja_tj0126"]
-[ns]ターヤ[nse]
-「なんとか言いなさいよ、人殺し！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Say something, you murderer!"[pcms]
 
 *4799|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *4800|
 [fc]
-……何も言い返せない。[pcms]
+...I have nothing to say in return.[pcms]
 
 *4801|
 [fc]
-僕は人を殺して怒りを治めたけど、今度は[r]
-ターヤがやり場のない怒りを抱えることになってしまった。[pcms]
+I quelled my anger by killing someone, but now Tarja is the one left[r]
+with unfocused rage.[pcms]
 
 *4802|
 [fc]
-あの時は、とても他人のことまで[r]
-考えられるような状況じゃなかった。[pcms]
+At that time, I wasn't in a state to consider anyone else.[pcms]
 
 *4803|
 [fc]
-でも、今は少なくともターヤの気持ちを考えることができる。[pcms]
+But now, at least I can think about Tarja's feelings.[pcms]
 
 *4804|
 [fc]
-ターヤの怒りは僕が受け止めないといけない。[pcms]
+I have to take on Tarja's anger.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4805|
 [fc]
 [vo_tay s="taja_tj0127"]
-[ns]ターヤ[nse]
-「答えなさいよ！　……応えてよ！[r]
-　そうやって黙っていれば許されるとでも思ってるの！？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Answer me! ...Respond! Do you think you'll be forgiven by staying[r]
+silent like this!?"[pcms]
 
 [se buf=0 storage="seB003"]
 ;//♪SEビンタ
@@ -251,43 +248,42 @@
 
 *4806|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *4807|
 [fc]
-格好つけるなって言われたばかりだけど、[r]
-格好つけるのって、案外しんどいことなんだな。[pcms]
+She just told me not to act cool, but trying to act cool is actually[r]
+quite difficult.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta19"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4808|
 [fc]
 [vo_tay s="taja_tj0128"]
-[ns]ターヤ[nse]
-「応えてよ……お願いだから、何か言ってよ……！[r]
-　あなたは人間でしょ、感染してないんでしょ……！？[r]
-　だったら、人間らしいところを見せてよ……！」[pcms]
+[ns]Tarja[nse]
+"Respond... please, say something...! You're human, aren't you, you're[r]
+not infected...!? Then show me something human...!"[pcms]
 
 *4809|
 [fc]
-[ns]誠[nse]
-「……ごめん」[pcms]
+[ns]Makoto[nse]
+"...I'm sorry."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4810|
 [fc]
 [vo_tay s="taja_tj0129"]
-[ns]ターヤ[nse]
-「――――！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"----!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4811|
 [fc]
-ターヤは僕をキッと睨みつけると、手のひらを再び振り上げて……[r]
-そのままの姿勢で固まり、僕を睨み続ける。[pcms]
+Tarja glared at me sharply and raised her hand again... then froze in[r]
+that position, continuing to glare at me.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -295,16 +291,16 @@
 
 *4812|
 [fc]
-けれど、怒りの眼光はとても脆くて。[r]
-揺らぐ瞼に追い出されるように、涙が頬をこぼれ落ちる。[pcms]
+But her angry gaze was very fragile. As if being pushed out by her[r]
+trembling eyelids, tears spilled down her cheeks.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4813|
 [fc]
 [vo_tay s="taja_tj0130"]
-[ns]ターヤ[nse]
-「……ごめん……なさい……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...I'm sorry...!"[pcms]
 
 ;//bgm07.ogg
 [bgm storage="BGM07"]
@@ -315,21 +311,20 @@
 
 *4814|
 [fc]
-[ns]誠[nse]
-「た……ターヤ……？」[pcms]
+[ns]Makoto[nse]
+"Ta...Tarja...?"[pcms]
 
 *4815|
 [fc]
-溜め込み過ぎた感情を涙に溢れさせながら、[r]
-僕に身体を預けてくるターヤ。[pcms]
+While letting her pent-up emotions overflow with tears, Tarja leaned[r]
+on me.[pcms]
 
 ;//■イベントCG　taja_N003(抱きしめ合うターヤと誠) 
 [evcg storage="taja_N003b"][trans_c cross time=300]
 
 *4816|
 [fc]
-突然ターヤに必要とされた僕は[r]
-少し戸惑いながら、ターヤの身体を抱きとめる。[pcms]
+Suddenly needed by Tarja, I embraced her body with a bit of confusion.[pcms]
 
 ;//■イベントCG　taja_N003(抱きしめ合うターヤと誠) 
 [evcg storage="taja_N003c"][trans_c cross time=300]
@@ -337,90 +332,89 @@
 *4817|
 [fc]
 [vo_tay s="taja_tj0135"]
-[ns]ターヤ[nse]
-「パパ……ママ……みんな、どうして居なくなっちゃうの？[r]
-　置いていかないでよぉ……！　帰って来てよぉ……！[r]
-　う……う……ぁう……わあああぁぁぁぁぁぁぁぁんっ……！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Papa... Mama... why did everyone have to go away? Don't leave me[r]
+behind...! Please come back...! Uu...uh...ahh...waaaahhh...!!"[pcms]
 
 *4818|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *4819|
 [fc]
-ほとんど同じ境遇の僕は、[r]
-思わずもらい泣きしそうになったけど……。[pcms]
+Being in almost the same situation, I almost cried along with her...[pcms]
 
 *4820|
 [fc]
-でも、ぐっと堪えて格好をつけた。[pcms]
+But I held it back and tried to act cool.[pcms]
 
 *4821|
 [fc]
-ターヤを安心させてあげるのが、今の僕の役目だと思うから。[pcms]
+Because I think it's my role now to reassure Tarja.[pcms]
 
 *4822|
 [fc]
 [vo_tay s="taja_tj0136"]
-[ns]ターヤ[nse]
-「あああぁぁぁぁっ……ひっく、うっ、うわぁぁぁぁんっ……！！[r]
-　あっ、あああぁっ、うっ、ぁっ、ああああああっ……！」[pcms]
+[ns]Tarja[nse]
+"Aaaaahhh...biku, uh, uwaahhhn...!! Ah, aaaaahh, uh, ah,[r]
+aaaaaaaah...!"[pcms]
 
 *4823|
 [fc]
-無理に歯を食いしばっているから、[r]
-すごく不細工な顔をしていると思う。[pcms]
+I'm probably making an ugly face because I'm clenching my teeth so[r]
+hard.[pcms]
 
 *4824|
 [fc]
-肩口にターヤの顔が押し付けられていて、少し湿っていた。[pcms]
+Tarja's face was pressed against my shoulder, and it felt a bit damp.[pcms]
 
 *4825|
 [fc]
-もう少し背が高くて、もう少し身体を鍛えておけば、[r]
-ターヤに胸を貸してあげられたのかもしれない。[pcms]
+If I were a bit taller and had trained my body more, maybe I could[r]
+have offered Tarja a chest to lean on.[pcms]
 
 *4826|
 [fc]
-ごめん、ターヤ。[pcms]
+I'm sorry, Tarja.[pcms]
 
 *4827|
 [fc]
-けど、こんな頼りない身体でよければ、いくらでも使ってよ――[pcms]
+But if you're okay with this unreliable body, feel free to use it as[r]
+much as you want--[pcms]
 
 *4828|
 [fc]
 [vo_tay s="taja_tj0137"]
-[ns]ターヤ[nse]
-「うっ、うぅっ……ううぅぅ……うあああぁぁぁぁぁっ……！[r]
-　はっ、はぁっ、ああぁぁっ、ああああぁぁぁぁぁぁっ……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Uh, uuh...uuuuh...uaaaahhhhh...! Hah, haaah, aaaaahhh,[r]
+aaaaaaahhhhh...!"[pcms]
 
 *4829|
 [fc]
-ふたりでいるには広すぎる家の中で、[r]
-ターヤは寂しさを紛らわすように泣き続けた。[pcms]
+In the house that was too large for just the two of us, Tarja[r]
+continued to cry as if to distract herself from the loneliness.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4830|
 [fc]
-それから、どれくらい経ったんだろう。[pcms]
+I wonder how much time has passed since then.[pcms]
 
 *4831|
 [fc]
-僕の服を半分くらい濡らしたあたりで、[r]
-ターヤはようやく泣きやんだ。[pcms]
+By the time she had soaked about half of my clothes, Tarja finally[r]
+stopped crying.[pcms]
 
 *4832|
 [fc]
-ターヤの泣き声が、まだ耳にちょっとこびりついてる。[pcms]
+Tarja's crying voice still clings a little to my ears.[pcms]
 
 *4833|
 [fc]
-[ns]誠[nse]
-「……落ち着いた？」[pcms]
+[ns]Makoto[nse]
+"...Have you calmed down?"[pcms]
 ;//★tajahouse01a ターヤの家　リビング 夕方
 [bg storage="tajahouse01b"][trans_c cross time=500]
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -428,177 +422,175 @@
 *4834|
 [fc]
 [vo_tay s="taja_tj0138"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah..."[pcms]
 
 *4835|
 [fc]
-碧い瞳を赤く腫らしながら、ターヤはこくんと頷く。[pcms]
+With her blue eyes swollen red, Tarja nodded firmly.[pcms]
 
 *4836|
 [fc]
-今は落ち着き過ぎというか、[r]
-まるで借りてきた猫みたいに大人しくなっている。[pcms]
+Now she's too calm, almost like a borrowed cat that's become very[r]
+docile.[pcms]
 
 *4837|
 [fc]
-間借りしてるのは僕のほうなんだけど。[pcms]
+Though it's me who's actually borrowing the place.[pcms]
 
 *4838|
 [fc]
-[ns]誠[nse]
-「えっと、喉乾いたでしょ？」[pcms]
+[ns]Makoto[nse]
+"Um, you must be thirsty, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4839|
 [fc]
 [vo_tay s="taja_tj0139"]
-[ns]ターヤ[nse]
-「うん……でも、わたしはシャワーを浴びたい。[r]
-　ちょっと恥ずかしいし……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah...but I want to take a shower. It's a bit embarrassing..."[pcms]
 
 *4840|
 [fc]
-[ns]誠[nse]
-「あ……うん。そうだね、そうしたほうがいいよ」[pcms]
+[ns]Makoto[nse]
+"Ah...yeah. That's a good idea."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4841|
 [fc]
 [vo_tay s="taja_tj0140"]
-[ns]ターヤ[nse]
-「冷蔵庫の飲み物、勝手に飲んでいいよ？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Is it okay if I drink something from the fridge on my own?"[pcms]
 
 *4842|
 [fc]
-[ns]誠[nse]
-「ありがとう、いただくよ」[pcms]
+[ns]Makoto[nse]
+"Thank you, I'll help myself."[pcms]
 
 *4843|
 [fc]
-冷蔵庫を開くと、棚に冷えた飲み物が並んでいた。[pcms]
+When I opened the fridge, there were chilled drinks lined up on the[r]
+shelf.[pcms]
 
 *4844|
 [fc]
-[ns]誠[nse]
-「あ、マウンテンヂューがある！」[pcms]
+[ns]Makoto[nse]
+"Ah, there's Mountain Dew!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos1"][ChrSetParts layer=5 chface="F2_ta03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4845|
 [fc]
 [vo_tay s="taja_tj0141"]
-[ns]ターヤ[nse]
-「それ、ライラが好きだったの。[r]
-　一緒に飲んでいたら、わたしも好きになってた。[r]
-　通販で箱買いしてあるから、いっぱいあるよ？」[pcms]
+[ns]Tarja[nse]
+"Laila liked that. I started liking it too when we drank it together.[r]
+There's a lot because I bought it in bulk online, okay?"[pcms]
 
 *4846|
 [fc]
-[ns]誠[nse]
-「それはまた、なかなかの愛飲ぶりだね」[pcms]
+[ns]Makoto[nse]
+"That's quite the devotion to your favorite drink."[pcms]
 
 *4847|
 [fc]
 [vo_tay s="taja_tj0142"]
-[ns]ターヤ[nse]
-「なんでも勝手に使っていいよ。くつろいでて？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Feel free to use anything. Make yourself comfortable?"[pcms]
 
 *4848|
 [fc]
-[ns]誠[nse]
-「うん、そうさせてもらうよ」[pcms]
+[ns]Makoto[nse]
+"Yeah, I'll do that."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4849|
 [fc]
-泣き腫れた顔を隠すようにして、[r]
-ターヤは小走りにバスルームへ向かった。[pcms]
+With her tear-stained face hidden, Tarja hurried off to the bathroom[r]
+at a trot.[pcms]
 
 *4850|
 [fc]
-ターヤがシャワーを浴びてる間、[r]
-ソファに座って冷えたマウンテンヂューを楽しむ。[pcms]
+While Tarja was taking her shower, I sat on the sofa and enjoyed the[r]
+chilled Mountain Dew.[pcms]
 
 ;//◆時系列、違っていたら修正して下さい
 
 *4851|
 [fc]
-夏の夕暮れ時に飲む冷えた弱炭酸の喉越しは、[r]
-もはや風物詩と言ってもいいと思う。[pcms]
+The sensation of the cold, lightly carbonated drink going down my[r]
+throat on a summer evening is something I'd call an essential part of[r]
+the season.[pcms]
 
 *4852|
 [fc]
-この味わい……出来ることなら、そーいちや[r]
-姉ちゃんと一緒に楽しみたかった……。[pcms]
+This flavor... if possible, I would have wanted to enjoy it with[r]
+Souichirou and Onee-san...[pcms]
 
 *4853|
 [fc]
-でも、そーいちが居ないのは僕が一番わかってることだし、[r]
-姉ちゃんだって……。[pcms]
+But I'm the one who knows best that Souichirou isn't here, and Onee-[r]
+san too...[pcms]
 
 *4854|
 [fc]
-あんなの、僕の知ってる姉ちゃんじゃない。[pcms]
+That's not the Onee-san I know.[pcms]
 
 *4855|
 [fc]
-やっぱり、楽にしてあげれば……よかった……。[pcms]
+I should have... made it easier for her... thank goodness...[pcms]
 
 *4856|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *4857|
 [fc]
-……畜生、ジョークのひとつも出てこない。[pcms]
+...Damn it, I can't even come up with a single joke.[pcms]
 
 *4858|
 [fc]
-これじゃそーいちに笑われるな……。[pcms]
+I'd be laughed at by Souichirou for this...[pcms]
 
 *4859|
 [fc]
-みんないっぺんに居なくなったりするから、ちょっと疲れたよ。[pcms]
+Everyone disappeared all at once, it's a bit tiring.[pcms]
 
 *4860|
 [fc]
-予防接種なんて、なんの意味もなかった。[r]
-俺だっているいつ感染するのか分からない。[pcms]
+Vaccinations were meaningless. I don't even know when I might get[r]
+infected.[pcms]
 
 *4861|
 [fc]
-実はもう、発症を待つだけの身体だったりしてな……。[pcms]
+Actually, maybe I'm already just waiting to show symptoms...[pcms]
 
 *4862|
 [fc]
-…………。[pcms]
+...[pcms]
 
 *4863|
 [fc]
-ちっとも笑えない。[r]
-ジョークセンスゼロだ。[pcms]
+It's not funny at all. Zero joke sense.[pcms]
 
 *4864|
 [fc]
-……おいおい、間が持たないだろ。[r]
-空気読めよな。[pcms]
+...Hey, hey, this silence is unbearable. Read the room, will you?[pcms]
 
 *4865|
 [fc]
-…………。[pcms]
+...[pcms]
 
 *4866|
 [fc]
-誰でもいい。[pcms]
+Anyone is fine.[pcms]
 
 *4867|
 [fc]
-誰でもいいから、いつもの軽口を叩いてくれよ……！[pcms]
+Someone, anyone, just crack the usual jokes...![pcms]
 
 ;//m:何着てればいいんだ
 [ChrSetEx layer=5 chbase="ta1_cos3"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -606,102 +598,102 @@
 *4868|
 [fc]
 [vo_tay s="taja_tj0143"]
-[ns]ターヤ[nse]
-「誠？」[pcms]
+[ns]Tarja[nse]
+"Makoto?"[pcms]
 
 *4869|
 [fc]
-[ns]誠[nse]
-「うわっ！？」[pcms]
+[ns]Makoto[nse]
+"Whoa!?"[pcms]
 
 *4870|
 [fc]
 [vo_tay s="taja_tj0144"]
-[ns]ターヤ[nse]
-「どうしたの？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"What's wrong?"[pcms]
 
 *4871|
 [fc]
-[ns]誠[nse]
-「……な、なんでもない！」[pcms]
+[ns]Makoto[nse]
+"...N-nothing!"[pcms]
 
 *4872|
 [fc]
-潤みかけていた目を慌ててこする。[pcms]
+Hastily rubbing the eyes that were starting to tear up.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos3"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4873|
 [fc]
 [vo_tay s="taja_tj0145"]
-[ns]ターヤ[nse]
-「君もシャワーを浴びるといいよ？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"You should take a shower too?"[pcms]
 
 *4874|
 [fc]
-[ns]誠[nse]
-「う、うん……それじゃあ、もらおうかな？」[pcms]
+[ns]Makoto[nse]
+"Y-yeah... I think I will."[pcms]
 
 *4875|
 [fc]
 [vo_tay s="taja_tj0146"]
-[ns]ターヤ[nse]
-「タオルも置いてあるから、ちゃんと汚れを落としてきてね？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"There are towels too, so make sure to wash off properly, okay?"[pcms]
 
 *4876|
 [fc]
-湯上りのターヤが、ブロンドの髪を乾かしながら僕を見る。[pcms]
+Tarja, fresh from her shower, dries her blonde hair while looking at[r]
+me.[pcms]
 
 *4877|
 [fc]
-乾きかけの髪が、照明に照らされてきらきらと光る。[pcms]
+The semi-dry hair sparkles under the light.[pcms]
 
 *4878|
 [fc]
-あれ……このやりとり、恋人っぽくないか……？[r]
-しかもシャワーとくれば、この後に待ってるのは……[pcms]
+Wait... isn't this exchange kind of like what lovers would have? And[r]
+with a shower involved, what's expected to follow is...[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos3"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4879|
 [fc]
 [vo_tay s="taja_tj0147"]
-[ns]ターヤ[nse]
-「それとも、先になにか食べる？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Or would you prefer to eat something first?"[pcms]
 
 *4880|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *4881|
 [fc]
 [vo_tay s="taja_tj0148"]
-[ns]ターヤ[nse]
-「なんだか暗い顔をしてたけど、大丈夫？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"You looked a bit down, is everything okay?"[pcms]
 
 *4882|
 [fc]
-[ns]誠[nse]
-「え、えっと！　と、とにかく、先にシャワーを浴びるよ！」[pcms]
+[ns]Makoto[nse]
+"Uh, well! Anyway, I'm going to take a shower first!"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos3"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4883|
 [fc]
 [vo_tay s="taja_tj0149"]
-[ns]ターヤ[nse]
-「うん。行ってらっしゃい」[pcms]
+[ns]Tarja[nse]
+"Okay. Take care."[pcms]
 
 *4884|
 [fc]
-暗く沈んでいた気分が、[r]
-こんな何気ないやり取りだけで和らいでいく。[pcms]
+The gloomy mood lifts just from this casual exchange.[pcms]
 
 *4885|
 [fc]
-こんな、一寸先も塗り潰されてしまった世界の中で……[r]
-ターヤの存在だけが、唯一の救いだ。[pcms]
+In this world where even a short distance ahead seems painted over...[r]
+Tarja's presence alone is my only salvation.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

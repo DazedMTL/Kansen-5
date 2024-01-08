@@ -27,37 +27,37 @@
 
 *3216|
 [fc]
-僕は森の中を走り抜け、山の中ほどにある小さな集落の[r]
-ような場所に辿り着いた。[pcms]
+I ran through the forest and arrived at a small settlement in the[r]
+middle of the mountain.[pcms]
 
 *3217|
 [fc]
-何軒かの家が、軒を並べるようにこぢんまりと[r]
-肩を寄せ合っている。[pcms]
+A few houses huddled close together, as if lining up their eaves.[pcms]
 
 *3218|
 [fc]
-[ns]誠[nse]
-「誰も……いないんだろうか……？」[pcms]
+[ns]Makoto[nse]
+"Is there... nobody around...?"[pcms]
 
 *3219|
 [fc]
-こんな辺鄙な場所に住んでる人の生活パターンってのは、[r]
-僕にはちょっと想像がつかない。[pcms]
+I can't quite imagine the lifestyle of someone living in such a remote[r]
+place.[pcms]
 
 *3220|
 [fc]
-この時間帯には人がいないのが普通なんだろうか？[r]
-それもよく分からない。[pcms]
+Is it normal for there to be no one around at this time? I'm not sure[r]
+about that either.[pcms]
 
 *3221|
 [fc]
-とりあえず、いくらここで想像してても[r]
-答えが出る訳じゃない。[pcms]
+Anyway, no matter how much I imagine here, it's not like I'll find an[r]
+answer.[pcms]
 
 *3222|
 [fc]
-僕は周囲に気を配りながら、ゆっくりと集落に近づいていった。[pcms]
+While paying attention to my surroundings, I slowly approached the[r]
+settlement.[pcms]
 
 ;//<条件分岐>
 ;//フラグＡ==1の場合、ラベル*flag_Aへ

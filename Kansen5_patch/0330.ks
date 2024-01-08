@@ -39,20 +39,20 @@
 
 *4513|
 [fc]
-遠くから救急車のサイレンの音が聞こえてきた。[pcms]
+The sound of an ambulance siren could be heard from afar.[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
 
 *4514|
 [fc]
-すっかりと日も落ち、辺りは真っ暗になっているが、[r]
-車のヘッドライトの光が絶えず行き来している。[pcms]
+The sun had completely set, and the area was shrouded in darkness, but[r]
+the lights of car headlights were constantly coming and going.[pcms]
 
 *4515|
 [fc]
-疲れた顔でバス停に並ぶ運動部員たちは、[r]
-恒例になっているその音に誰も反応していなかった。[pcms]
+The sports club members lined up at the bus stop with tired faces, no[r]
+longer reacting to the now routine sound of the sirens.[pcms]
 
 ;//条件分岐：
 ;//フラグ：infection02が成立しているかどうか
@@ -67,9 +67,8 @@
 
 *4516|
 [fc]
-ターヤさん、怜さんと別れてすぐ、[r]
-俺達は南先輩と合流し、ひっきりなしに走ってくる[r]
-救急車を心配そうに見送っていた。[pcms]
+Right after parting with Tarja-san and Sato-san, we met up with Senior[r]
+Minami and anxiously watched the ambulance that kept rushing by.[pcms]
 
 ;//◎_ラベル　NO_Infection　へ
 [jump target=*NO_Infection]
@@ -83,16 +82,16 @@
 *4517|
 [fc]
 [vo_stk s="satuki0112"]
-[ns]彩月[nse]
-「また救急車だね」[pcms]
+[ns]Satsuki[nse]
+"There goes another ambulance."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4518|
 [fc]
-[ns]宗一郎[nse]
-「地元の子が言ってましたけど、この時期多いそうです。[r]
-　病院のベッドの空きが心配になるくらい酷いそうで……」[pcms]
+[ns]Souichirou[nse]
+"A local kid told me it's common around this time. It's so bad that I[r]
+worry if there are enough beds available at the hospital..."[pcms]
 
 ;//◆ＳＥ　誠のメールの着信音
 ;//seC003.ogg
@@ -102,199 +101,195 @@
 
 *4519|
 [fc]
-南先輩とそんなことを話していると、[r]
-携帯にメールが着信した。[pcms]
+As I was talking about such things with Senior Minami, I received a[r]
+message on my phone.[pcms]
 
 *4520|
 [fc]
-開いて確認してみると、姉ちゃんからの素っ気ない一言が[r]
-メールで送られてきている。[pcms]
+When I checked it, there was a curt message from my sister.[pcms]
 
 ;//[vo_nat s="natu0066"]
 
 *4520a|
 [fc]
-[ns]夏都[nse]
-『尾道でバスに乗った』[pcms]
+[ns]Natsu[nse]
+"I got on the bus at Onomichi."[pcms]
 
 *4521|
 [fc]
-ということは、道が混んでいなければ、[r]
-あと一時間も掛からずにホテルに到着するはずだ。[pcms]
+That means, if the roads aren't congested, she should arrive at the[r]
+hotel in less than an hour.[pcms]
 
 *4522|
 [fc]
-御飯は食べたんだろうか。[r]
-その辺りを返信しておく。[pcms]
+I wonder if she's had dinner. I should reply about that.[pcms]
 
 *4523|
 [fc]
-僕はもうスポーツセンターで食べてしまったので、[r]
-食べることはできないけれど、一緒にいるくらいはできる。[pcms]
+I've already eaten at the sports center, so I can't eat again, but I[r]
+can at least keep her company.[pcms]
 
 *4524|
 [fc]
-旅行先とはいえ、一人での食事は、[r]
-味気ないものになってしまうはずだ。[pcms]
+Eating alone at a travel destination is bound to feel a bit lonely.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4525|
 [fc]
 [vo_stk s="satuki0113"]
-[ns]彩月[nse]
-「もうすぐ、バスが来る時間ね」[pcms]
+[ns]Satsuki[nse]
+"The bus should be arriving soon."[pcms]
 
 *4526|
 [fc]
-[ns]誠[nse]
-「一日が終わるって気がします」[pcms]
+[ns]Makoto[nse]
+"It feels like the day is coming to an end."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4527|
 [fc]
-島内循環バスに乗るため、[r]
-みんなが眠そうにしながらバス停に並んでいた。[pcms]
+To catch the island loop bus, everyone lined up at the bus stop[r]
+looking sleepy.[pcms]
 
 *4528|
 [fc]
-合宿四日目になり、さすがにみんな[r]
-疲労の色が隠せなくなっている。[pcms]
+By the fourth day of the training camp, everyone was visibly unable to[r]
+hide their fatigue.[pcms]
 
 *4529|
 [fc]
-それでも、朝になればまた身体が動くようになるんだから、[r]
-人間というのは不思議なものだった。[pcms]
+Yet, come morning, our bodies will move again; humans are indeed[r]
+strange creatures.[pcms]
 
 *4530|
 [fc]
-一般のお客さんの迷惑にならないように、と言われていたけれど、[r]
-この時間にスポーツセンター前のバス停を利用する人間は、[r]
-限られているみたいだった。[pcms]
+We were told not to bother the regular customers, but it seemed that[r]
+at this time, very few people use the bus stop in front of the sports[r]
+center.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4531|
 [fc]
 [vo_stk s="satuki0114"]
-[ns]彩月[nse]
-「出渕君は、なにしてるのかしら。[r]
-　ちょっと遅くない？」[pcms]
+[ns]Satsuki[nse]
+"What's Izubuchi-kun doing? Isn't he a bit late?"[pcms]
 
 *4532|
 [fc]
-[ns]誠[nse]
-「トイレでも行ってるんですかね。[r]
-　これから一時間は行けないですから」[pcms]
+[ns]Makoto[nse]
+"Maybe he went to the bathroom. We won't have a chance to go for an[r]
+hour."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4533|
 [fc]
 [vo_stk s="satuki0115"]
-[ns]彩月[nse]
-「そうね、交通量が多いから危ないし、[r]
-　準備はしておいた方がいいか」[pcms]
+[ns]Satsuki[nse]
+"That's true, it's dangerous with all the traffic. It's better to be[r]
+prepared."[pcms]
 
 *4534|
 [fc]
-[ns]誠[nse]
-「合宿をやるなら、時期を考えないと駄目だと悟りましたよ」[pcms]
+[ns]Makoto[nse]
+"I've realized that we need to consider the timing if we're going to[r]
+have a training camp."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4535|
 [fc]
 [vo_stk s="satuki0116"]
-[ns]彩月[nse]
-「どっちかというと、私たちの方が邪魔者でしょうからね」[pcms]
+[ns]Satsuki[nse]
+"If anything, we're probably more of a nuisance."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4536|
 [fc]
-新聞部と写真部の一行は、一時間に１～２本のバスを待つよりも、[r]
-時間を気にせず移動できるアイテムとして、[r]
-レンタルサイクリングを利用していた。[pcms]
+The newspaper and photography clubs opted for rental cycling as an[r]
+item that allowed them to move without worrying about time, rather[r]
+than waiting for a bus that comes once or twice an hour.[pcms]
 
 *4537|
 [fc]
-合宿二日目には、もうこの不便さが我慢できなくなって、[r]
-みんな自転車を借りている。[pcms]
+By the second day of the camp, everyone had grown impatient with the[r]
+inconvenience and rented bicycles.[pcms]
 
 *4538|
 [fc]
-そんな中、フランク先輩だけはスケボーがあるからと、[r]
-持参しているそれを理由に自転車を借りることがなかった。[pcms]
+However, Senior Frank was the only one who didn't rent a bike because[r]
+he brought his skateboard.[pcms]
 
 *4539|
 [fc]
-だからといって、スポーツセンターからホテルまで[r]
-スケボーで帰るわけではない。[pcms]
+That doesn't mean he skates back to the hotel from the sports center.[pcms]
 
 *4540|
 [fc]
-他の部員と一緒にバスで帰るだけだ。[pcms]
+He just takes the bus back with the other members.[pcms]
 
 *4541|
 [fc]
-スケボーを理由にしている意味がわからないけれど、[r]
-もしかしたら自転車に乗れない理由でもあるのかも知れなかった。[pcms]
+I don't understand what he means by using his skateboard as an excuse;[r]
+maybe there's a reason he can't ride a bike.[pcms]
 
 *4542|
 [fc]
-しおかぜ街道は、車や高速バスの他にも自転車での横断が可能で、[r]
-その気になれば徒歩だって移動が可能になっている。[pcms]
+The Shiokaze Highway allows for crossing by car, express bus, and even[r]
+bicycle, and if one is so inclined, it's possible to traverse on foot[r]
+as well.[pcms]
 
 *4543|
 [fc]
-ロードレーサーたちにも人気で、大神島では、[r]
-旅行者向けにママチャリをレンタルしてくれていた。[pcms]
+It's popular among road racers, and on Ojima Island, they rent out[r]
+mamachari bikes for travelers.[pcms]
 
 *4544|
 [fc]
-僕たちが借りたのがそういう自転車で、[r]
-各地のステーションで借りた自転車は、[r]
-どのステーションで返してもいい。[pcms]
+The bikes we rented were of this type, and you could return them at[r]
+any station regardless of where you borrowed them from.[pcms]
 
 *4545|
 [fc]
-この三日間、この自転車でホテルとスポーツセンターを[r]
-行き来している状態だった。[pcms]
+For these three days, we've been commuting between the hotel and[r]
+sports center on these bikes.[pcms]
 
 *4546|
 [fc]
-距離にして、おおよそ８～１０Ｋｍほど。[pcms]
+The distance is roughly 8 to 10 kilometers.[pcms]
 
 *4547|
 [fc]
-平地ならどうってこともない距離だけど、[r]
-勾配のきつい山道を３つほど超える必要があるので、[r]
-それなりにキツイ道程だった。[pcms]
+It's not much on flat ground, but since there are three steep hills to[r]
+overcome, it was quite a tough journey.[pcms]
 
 *4548|
 [fc]
-特に、朝はいいけれど、夜は視界が利かないので危ない。[pcms]
+Especially at night, visibility is poor and it's dangerous.[pcms]
 
 *4549|
 [fc]
-逆なら良かったのに、疲れているところに[r]
-危ない道を走るから気をつけなくちゃいけなかった。[pcms]
+It would have been better if it were the other way around; being tired[r]
+and having to navigate dangerous roads requires extra caution.[pcms]
 
 *4550|
 [fc]
-まぁ、それにしても、ずっと動き回っていた[r]
-越智さんたちを思えば、大したことじゃないんだけど。[pcms]
+Well, even so, when I think about Ochi-san and others who were[r]
+constantly on the move, it doesn't seem like much.[pcms]
 
 *4551|
 [fc]
-尾道から大神島までは、バスを乗り継いで５０分ほどだと思う。[pcms]
+I think it takes about 50 minutes to get from Onomichi to Ojima Island[r]
+by connecting buses.[pcms]
 
 *4552|
 [fc]
-今から自転車を漕いで帰っても、姉ちゃんより先に[r]
-ホテルに着けるかはわからなかった。[pcms]
+Even if I started pedaling back now, I wasn't sure if I could get to[r]
+the hotel before Onee-san.[pcms]
 
 ;//m:羽生は、立ち絵なし
 
@@ -302,54 +297,54 @@
 
 *4553|
 [fc]
-そーいちは何をしているのかと焦れながら、[r]
-スポーツセンターの入口の方を見ていると、[r]
-荒井や羽生と一緒に、やっとその姿を表した。[pcms]
+While fretting about what Souichirou was up to, I looked towards the[r]
+entrance of the sports center and finally saw him appear with Arai and[r]
+Habu.[pcms]
 
 *4554|
 [fc]
-サッカー部のコーチも一緒だから、[r]
-何か取材でもしていたのか。[pcms]
+Since the soccer team's coach was with them, maybe they were doing[r]
+some sort of interview.[pcms]
 
 *4555|
 [fc]
-心なしか、荒井が片足を気にするような歩き方をしている。[r]
-そういえば、夕食の時に顔を見なかったけど、[r]
-何をしていたんだろうか。[pcms]
+It seemed like Arai was walking with a bit of concern for one leg.[r]
+Come to think of it, I didn't see his face at dinner; what was he[r]
+doing?[pcms]
 
 *4556|
 [fc]
-なんだか悔しそうな曇った表情をしていた。[pcms]
+He had a frustrated and clouded expression on his face.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4557|
 [fc]
-[ns]誠[nse]
-「おつかれさん」[pcms]
+[ns]Makoto[nse]
+"Good work out there."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4558|
 [fc]
-[ns]宗一郎[nse]
-「待たせたな、ちょっとアクシデントだ」[pcms]
+[ns]Souichirou[nse]
+"Sorry to keep you waiting, we had a little accident."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4559|
 [fc]
 [vo_stk s="satuki0117"]
-[ns]彩月[nse]
-「荒井君、調子が悪いの？」[pcms]
+[ns]Satsuki[nse]
+"Arai-kun, are you feeling unwell?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4560|
 [fc]
-[ns]宗一郎[nse]
-「午後の練習試合で足を痛めてしまって、[r]
-　医務室で様子を見ていました」[pcms]
+[ns]Souichirou[nse]
+"He hurt his leg during the afternoon practice match and was in the[r]
+infirmary being looked after."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -366,13 +361,12 @@
 
 *4561|
 [fc]
-荒井が怪我……？[r]
-いつも僕に余計な事言ってくるバチが当たったんだ。[r]
-ざまあみろ。[pcms]
+Arai injured...? Serves him right for always saying unnecessary things[r]
+to me. Serves him right.[pcms]
 
 *4562|
 [fc]
-……絶対、口に出していえないけど。[pcms]
+...Of course, I could never say that out loud.[pcms]
 
 ;//◎_ラベル Confluence01 へ
 [jump target=*Confluence01]
@@ -383,8 +377,8 @@
 
 *4563|
 [fc]
-せっかくの合宿で足を痛めてしまったのは残念だろう。[r]
-大事を取って見学というところだろうか。[pcms]
+It's a shame to injure oneself during a training camp. Perhaps he'll[r]
+have to be content with observing for safety's sake.[pcms]
 
 ;//◎_ラベル Confluence01 へ
 [jump target=*Confluence01]
@@ -397,83 +391,85 @@
 
 *4564|
 [fc]
-[ns]宗一郎[nse]
-「相手が静岡から来ている強豪校で、[r]
-　プロのスカウトが見に来ていましたから、[r]
-　気合いが入りすぎたみたいですね」[pcms]
+[ns]Souichirou[nse]
+"The opposing team was a strong school from Shizuoka, and there were[r]
+professional scouts watching, so it seems he got a bit too fired up."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4565|
 [fc]
 [vo_stk s="satuki0118"]
-[ns]彩月[nse]
-「練習試合なのに、もったいないわね」[pcms]
+[ns]Satsuki[nse]
+"It's a shame for just a practice match."[pcms]
 
 *4566|
 [fc]
-スカウトの目を意識しすぎたのかどうか、[r]
-今となってはどうしようもない。[pcms]
+Whether he was too conscious of the scouts' eyes or not, there's[r]
+nothing that can be done about it now.[pcms]
 
 *4567|
 [fc]
-一日でも早く治すことを考えた方が建設的だ。[pcms]
+It would be more constructive to think about getting better as soon as[r]
+possible.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so13b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4568|
 [fc]
-[ns]宗一郎[nse]
-「相手が強豪ですから、大会でかなり勝ち進まないと[r]
-　戦えないですからね」[pcms]
+[ns]Souichirou[nse]
+"Since the opponent is a strong team, we won't get to face them unless[r]
+we advance quite far in the tournament."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4569|
 [fc]
 [vo_stk s="satuki0119"]
-[ns]彩月[nse]
-「アピールのチャンスだったのね」[pcms]
+[ns]Satsuki[nse]
+"It was a chance for him to appeal."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4570|
 [fc]
-弱い学園にあるサッカー部のエースだけれど、[r]
-それなりに期するものがあったんだろう。[pcms]
+He may be the ace of a soccer team at a weaker academy, but he must[r]
+have had his own expectations.[pcms]
 
 *4571|
 [fc]
-個人的なスカウトの話だけじゃなくて、[r]
-このチームで勝ちたかったのかも知れない。[pcms]
+It's not just about personal scouting; maybe he wanted to win for the[r]
+team as well.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4572|
 [fc]
-[ns]宗一郎[nse]
-「それでは先生、フランク先輩、[r]
-　一足お先に失礼しますぞ」[pcms]
+[ns]Souichirou[nse]
+"Well then, teacher, Frank-senpai, I'll be excusing myself ahead of[r]
+you."[pcms]
 
 *4573|
 [fc]
-[ns]西[nse]
-「気をつけて帰れよ、見ての通りの交通量だ」[pcms]
+[ns]West[nse]
+"Be careful on your way back, as you can see there's a lot of[r]
+traffic."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4574|
 [fc]
-フランク先輩の言葉通り、車道を行き来する車の量が多い。[pcms]
+Just as Frank-senpai said, there was a lot of traffic on the roadway.[pcms]
 
 *4575|
 [fc]
-東京の幹線通りなら１車線、裏道ならギリギリ２車線という[r]
-幅の道なのに、みんなかなり飛ばしている。[pcms]
+In Tokyo's main streets, it would be one lane, and barely two lanes in[r]
+backstreets, yet everyone seems to be speeding quite a bit.[pcms]
 
 *4576|
 [fc]
-バカンスで浮かれて、アクセルが軽くなっているみたいだ。[pcms]
+Seems like they're light on the accelerator, getting carried away with[r]
+the vacation mood.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -482,32 +478,32 @@
 *4577|
 [fc]
 [vo_mob s="seitoA0001"]
-[ns]女子生徒Ａ[nse]
-「きゃっ！　あの人危なくない！？」[pcms]
+[ns]Female Student A[nse]
+"Kyaa! Isn't that person in danger!?"[pcms]
 
 *4578|
 [fc]
-[ns]男子生徒Ａ[nse]
-「危ないっ、あの人危ないぞ！」[pcms]
+[ns]Male Student A[nse]
+"Dangerous, that person is in danger!"[pcms]
 
 *4579|
 [fc]
 [vo_mob s="kojima0010"]
-[ns]小嶋[nse]
-「あっ、あっ、誰か、ああっ！」[pcms]
+[ns]Kojima[nse]
+"Ah, ah, someone, ahh!"[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
 
 *4580|
 [fc]
-突然騒ぎ始めたみんなの視線を追うと、[r]
-交通量の多い車道の脇を、フラフラと歩く人影が見えた。[pcms]
+Following everyone's sudden commotion, I saw a figure walking[r]
+unsteadily by the side of the busy roadway.[pcms]
 
 *4581|
 [fc]
-酔っぱらいなのか、覚束ない足取りで[r]
-今にも車にひかれそうになっている。[pcms]
+Whether drunk or not, their unsteady gait looked like they could be[r]
+hit by a car at any moment.[pcms]
 
 ;//m:このあとのシーン、事故のパニックっぽいスピーディな感じに演出追加
 
@@ -543,13 +539,13 @@
 
 *4584|
 [fc]
-[ns]誠[nse]
-「あっ！」[pcms]
+[ns]Makoto[nse]
+"Ah!"[pcms]
 
 *4585|
 [fc]
-人影がよろめいた瞬間、走ってきたＳＵＶに引っかかるように[r]
-跳ねられた身体が、鈍い音を立てて宙を舞った。[pcms]
+The moment the figure stumbled, their body was struck by an oncoming[r]
+SUV and sent flying with a dull sound into the air.[pcms]
 
 ;//条件分岐：
 ;//フラグ：infection02が成立しているかどうか
@@ -564,22 +560,21 @@
 
 *4586|
 [fc]
-その人影は、真っ赤な血を空一面に振りまきながら、[r]
-まるでスローモーションの映像のように、[r]
-僕達に向かい、迫ってきていた。[pcms]
+The figure, spraying bright red blood across the sky, seemed to[r]
+approach us in slow motion like something out of a movie.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4587|
 [fc]
 [vo_stk s="satuki0120"]
-[ns]彩月[nse]
-「きっ……きゃああっ！」[pcms]
+[ns]Satsuki[nse]
+"Ki...kyaaaah!"[pcms]
 
 *4588|
 [fc]
-[ns]誠[nse]
-「南先輩！」[pcms]
+[ns]Makoto[nse]
+"Minami-senpai!"[pcms]
 
 ;//●_SE　突き飛ばす音　ある？
 ;//seB009.ogg
@@ -591,18 +586,17 @@
 
 *4589|
 [fc]
-僕は南先輩を、飛んでくる人物から守るため突き飛ばし、[r]
-自分も、その場から飛び退こうとした。[pcms]
+I pushed Minami-senpai out of the way to protect her from the flying[r]
+person and tried to jump back myself.[pcms]
 
 *4590|
 [fc]
-だけど、少し判断が遅かった。[pcms]
+But my judgment was a little too late.[pcms]
 
 *4591|
 [fc]
-宙を舞う、真っ赤な血が、[r]
-僕と、身動きの取れなくなってしまったそーいちに、[r]
-勢い良く降り注ぐ。[pcms]
+The bright red blood twirling in the air rained down forcefully on me[r]
+and Souichirou, who had become unable to move.[pcms]
 
 ;//seD015.ogg
 [se buf=0 storage="seD015"]
@@ -611,12 +605,12 @@
 
 *4592|
 [fc]
-[ns]宗一郎[nse]
-「ぎぃやあぁぁぁあぁああ！！！」[pcms]
+[ns]Souichirou[nse]
+"Giiyaaaahhhhhhh!!!"[pcms]
 
 *4593|
 [fc]
-そして――[pcms]
+And then--[pcms]
 
 ;//seD015.ogg
 [se buf=0 storage="seD015"]
@@ -626,9 +620,9 @@
 
 *4594|
 [fc]
-そーいちの断末魔にも似た悲鳴の直後、[r]
-降り注ぐ真っ赤な血と、顔面に受けた強い衝撃で、[r]
-僕の目の前は、真っ暗になっていった。[pcms]
+Right after Souichirou's scream, which was akin to a death throes, my[r]
+vision went dark due to the pouring red blood and the strong impact on[r]
+my face.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -654,97 +648,94 @@
 
 *4595|
 [fc]
-スローモーションのように人影が地面をバウンドしながら、[r]
-バス停の近くにまで転がってくる。[pcms]
+The figure seemed to bounce off the ground in slow motion, rolling[r]
+towards the bus stop nearby.[pcms]
 
 ;//seD015.ogg
 [se buf=0 storage="seD015"]
 
 *4596|
 [fc]
-その人影……中年の男は、僕のすぐ目の前に落ちてくると、[r]
-大量の血でアスファルトを濡らしていく。[pcms]
+The figure... a middle-aged man, fell right in front of me, drenching[r]
+the asphalt with a copious amount of blood.[pcms]
 
 *4597|
 [fc]
 [vo_mob s="seitoA0002"]
-[ns]女子生徒Ａ[nse]
-「キャーーーーッ！」[pcms]
+[ns]Female Student A[nse]
+"Kyaaaah!"[pcms]
 
 *4598|
 [fc]
-[ns]男子生徒Ａ[nse]
-「うわあああああっ！」[pcms]
+[ns]Male Student A[nse]
+"Uwaaaaah!"[pcms]
 
 *4599|
 [fc]
-気を失う女の子がいた。[pcms]
+There was a girl who fainted.[pcms]
 
 *4600|
 [fc]
-男から逃げるように遠ざかる奴がいた。[pcms]
+There was someone who ran away as if fleeing from the man.[pcms]
 
 *4601|
 [fc]
-先生が道路際からみんなを追い立てていく。[pcms]
+The teacher was herding everyone away from the roadside.[pcms]
 
 *4602|
 [fc]
-電話をしているのは警察にだろうか、[r]
-それとも救急車を呼んでいるのか。[pcms]
+Someone was on the phone, perhaps calling the police or an ambulance.[pcms]
 
 *4603|
 [fc]
-携帯で撮影する不届き者もいる。[pcms]
+There were also miscreants filming with their cell phones.[pcms]
 
 *4604|
 [fc]
-跳ねた車が逃げないように、[r]
-ナンバーをメモに書いている人もいた。[pcms]
+There was someone writing down the license plate number of the car[r]
+that hit the person, to make sure it didn't escape.[pcms]
 
 *4605|
 [fc]
-でも、僕は……呆然とその姿を見つめるだけで、[r]
-何も出来なかった。[pcms]
+But I... could only stare blankly at the scene, unable to do anything.[pcms]
 
 *4606|
 [fc]
-アスファルトに叩きつけられた頭部から、[r]
-真っ赤な液体がこぼれ出ている。[pcms]
+Blood, bright red liquid, was spilling from the head that had been[r]
+smashed against the asphalt.[pcms]
 
 *4607|
 [fc]
-変形してしまった頭部から押し出されるように、[r]
-眼球が飛び出ていた。[pcms]
+The head, deformed, seemed to push out an eyeball that had popped out.[pcms]
 
 *4608|
 [fc]
-その眼球が僕を見つめてくる。[pcms]
+That eyeball seemed to be staring at me.[pcms]
 
 *4609|
 [fc]
-僕と視線を合わせるように、しっかりと目に映している。[pcms]
+As if making eye contact with me, it was clearly reflected in my eyes.[pcms]
 
 ;//#_レッドアウト
 [red_toplayer][trans_c wipe time=300][hide_chara_int_r]
 
 *4610|
 [fc]
-その瞳は……真っ赤だった。[pcms]
+That pupil... was red.[pcms]
 
 *4611|
 [fc]
-噴き出した血の色で染まったんじゃない、[r]
-元々、赤い目だったんだ。[pcms]
+It wasn't stained by the blood that had spurted out; it was originally[r]
+red.[pcms]
 
 *4612|
 [fc]
-人が死んだことよりも、その赤い目のことが[r]
-頭の中にこびり付いて離れない。[pcms]
+More than the fact that a person had died, those red eyes stuck in my[r]
+mind and wouldn't leave.[pcms]
 
 *4613|
 [fc]
-この目……この目は……。[pcms]
+These eyes... these eyes are...[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -769,18 +760,18 @@
 
 *4614|
 [fc]
-[ns]誠[nse]
-「あっ！」[pcms]
+[ns]Makoto[nse]
+"Ah!"[pcms]
 
 *4615|
 [fc]
-人影がよろめいた瞬間、走ってきたＳＵＶに引っかかるように[r]
-跳ねられた身体が、鈍い音を立てて宙を舞った。[pcms]
+The moment the figure stumbled, their body was struck by an oncoming[r]
+SUV and sent flying with a dull sound into the air.[pcms]
 
 *4616|
 [fc]
-跳ねられた瞬間は、肉眼で捕らえられないほどの速さだったのに、[r]
-宙を舞う時間が異状に長く感じられる。[pcms]
+The moment they were hit, it was too fast for the naked eye to catch,[r]
+but the time they spent flying through the air felt abnormally long.[pcms]
 
 ;//◆ＳＥ　人との衝突音
 [se buf=0 storage="seB015"]
@@ -790,145 +781,146 @@
 
 *4617|
 [fc]
-そして、バス停に整列している僕らの前に飛んできた人影は、[r]
-対向車線をすれ違う、運搬用の大型トラックの[r]
-フロントガラスにぶつかって、盛大な血しぶきを上げた。[pcms]
+And then, the figure that flew towards us in front of the bus stop[r]
+collided with the windshield of a large transport truck passing in the[r]
+opposite lane, creating a grand spray of blood.[pcms]
 
 *4618|
 [fc]
-整列している生徒の真上に跳ね上がる人影。[pcms]
+The figure soared right above the lined-up students.[pcms]
 
 *4619|
 [fc]
-撒き散らされる真っ赤な液体。[pcms]
+The bright red liquid scattered everywhere.[pcms]
 
 *4620|
 [fc]
-誰も何も反応できないまま、その人影は背の低い小さな身体に[r]
-寄りかかるようにして落下した。[pcms]
+Before anyone could react, the figure fell onto a small, short-[r]
+statured body as if leaning on it.[pcms]
 
 *4621|
 [fc]
-反射的にそうしてしまったのか、生来の気の優しさからなのか、[r]
-小さな身体の少女は、跳ねられた人影を支えるように抱き留める。[pcms]
+Whether it was a reflex or out of innate kindness, the small-bodied[r]
+girl embraced the figure as if to support it.[pcms]
 
 *4622|
 [fc]
-頭から血をかぶり、服を血糊で染め上げながら、[r]
-その小さな身体だけがゆっくりと、人影を地面に寝かせていった。[pcms]
+Covered in blood from head to toe and staining her clothes with[r]
+bloodstains, only her small body slowly laid the figure down on the[r]
+ground.[pcms]
 
 *4623|
 [fc]
 [vo_mob s="seitoA0003"]
-[ns]女子生徒Ａ[nse]
-「キャーーーーッ！」[pcms]
+[ns]Female Student A[nse]
+"Kyaaaah!"[pcms]
 
 *4624|
 [fc]
-[ns]男子生徒Ａ[nse]
-「うわあああああっ！」[pcms]
+[ns]Male Student A[nse]
+"Uwaaaaah!"[pcms]
 
 *4625|
 [fc]
-パニックを起こした生徒たちが、逃げ惑うようにその場から離れ、[r]
-降りかかった血をぬぐっていた。[pcms]
+Panicked students scattered away from the scene, wiping off the blood[r]
+that had fallen on them.[pcms]
 
 ;//m:ジャージ上着無しにしておく。あとで着替えて登場
 [ChrSetEx layer=5 chbase="ak2_ja1"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4626|
 [fc]
-僕はその場から動くことが出来ずに、[r]
-小さな身体の少女……越智さんを見つめる。[pcms]
+I couldn't move from my spot and just stared at the small-bodied[r]
+girl... Ochi-san.[pcms]
 
 *4627|
 [fc]
-ふと、越智さんが僕の方を振り返った。[pcms]
+Suddenly, Ochi-san turned to look at me.[pcms]
 
 *4628|
 [fc]
-その瞳は、僕に助けを求めているような、[r]
-全くの無表情だった。[pcms]
+Her eyes seemed to be pleading for help, yet they were completely[r]
+expressionless.[pcms]
 
 ;//m:無表情は無いので必要あればテキスト修正
 
 *4629|
 [fc]
-[ns]誠[nse]
-「越智さんっ！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san!"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so19a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *4630|
 [fc]
-そーいちが何か叫んでいるが、僕には聞こえない。[pcms]
+Souichirou was shouting something, but I couldn't hear him.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4631|
 [fc]
-自転車を放り出し、逃げ惑う生徒をかき分けながら、[r]
-越智さんのところまで走っていった。[pcms]
+I threw aside my bicycle and ran through the scattering students[r]
+towards Ochi-san.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja1"][ChrSetParts layer=5 chface="F2_ak15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *4632|
 [fc]
-[ns]誠[nse]
-「越智さん、もう大丈夫だから」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, it's okay now."[pcms]
 
 *4633|
 [fc]
 [vo_aka s="akari0165"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *4634|
 [fc]
-僕の言葉に軽く頷き返した越智さんを、[r]
-死体から遠ざけていく。[pcms]
+Ochi-san gave a slight nod to my words, and I led her away from the[r]
+corpse.[pcms]
 
 ;//seD004.ogg
 [se buf=0 storage="seD004"]
 
 *4635|
 [fc]
-アスファルトに叩きつけられた人影の頭部から、[r]
-真っ赤な液体がこぼれ出ていた。[pcms]
+From the head of the figure that had been smashed against the asphalt,[r]
+a bright red liquid was spilling out.[pcms]
 
 *4636|
 [fc]
-変形してしまった頭部から押し出されるように、[r]
-眼球が飛び出している。[pcms]
+The head was so deformed that an eyeball seemed to be pushed out,[r]
+popping out.[pcms]
 
 *4637|
 [fc]
-その眼球が、ジッと僕を見つめていた。[pcms]
+That eyeball was staring intently at me.[pcms]
 
 *4638|
 [fc]
-僕と視線を合わせるように、しっかりと見据えてくる。[pcms]
+It seemed to fixate on me, as if it was making eye contact.[pcms]
 
 ;//#_レッドアウト
 [red_toplayer][trans_c wipe time=300][hide_chara_int_r]
 
 *4639|
 [fc]
-その瞳は……真っ赤だった。[pcms]
+Those eyes were... bright red.[pcms]
 
 *4640|
 [fc]
-噴き出した血の色で染まったんじゃない、[r]
-元々が赤い目をしていた人なんだ。[pcms]
+They weren't stained with the blood that had spurted out; the person[r]
+originally had red eyes.[pcms]
 
 *4641|
 [fc]
-僕は人が死んだことよりも、その赤い目のことが[r]
-気になって仕方がなかった。[pcms]
+More than the fact that someone had died, I couldn't help but be[r]
+concerned about those red eyes.[pcms]
 
 *4642|
 [fc]
-この目……この目は……。[pcms]
+These eyes... these eyes are...[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

@@ -22,28 +22,28 @@
 
 *2410|
 [fc]
-ターヤさんの案内で地下に入った僕たちは、[r]
-南先輩が用意していたＬＥＤライトで先を照らしながら[r]
-暗い道を進んでいた。[pcms]
+Guided by Tarja-san, we entered the underground and were advancing[r]
+through the dark path, illuminated by the LED lights prepared by[r]
+senior Minami.[pcms]
 
 *2411|
 [fc]
-思ったほど道は悪くない。[r]
-自然に出来た穴じゃなくて、人口の道なだけはある。[pcms]
+The path isn't as bad as I thought. It's not a natural cave, but a[r]
+man-made path.[pcms]
 
 *2412|
 [fc]
-瀬戸内には造船所が多く、[r]
-毒ガスを製造していた施設もあったはずだ。[pcms]
+There are many shipyards in the Seto Inland Sea, and there must have[r]
+been facilities that produced poison gas.[pcms]
 
 *2413|
 [fc]
-そうした施設を守るため、本土防衛用に[r]
-こうした要塞が築かれたんだろう。[pcms]
+To protect such facilities, fortresses like this were probably built[r]
+for mainland defense.[pcms]
 
 *2414|
 [fc]
-確か、八丈島にも似たような遺構があったはずだ。[pcms]
+Indeed, there should be similar remains on Hachijojima.[pcms]
 
 ;//★cave01d 地下壕
 [bg storage="cave01d"][trans_c cross time=1000]
@@ -63,54 +63,53 @@
 *2415|
 [fc]
 [vo_aka s="akari0799"]
-[ns]茜梨[nse]
-「上は大丈夫でしょうか……」[pcms]
+[ns]Akari[nse]
+"Is everything okay above...?"[pcms]
 
 *2416|
 [fc]
-[ns]宗一郎[nse]
-「お姉さんが付いています。[r]
-　土地勘のあるターヤさんが一緒ですから心配はありません」[pcms]
+[ns]Souichirou[nse]
+"Onee-san is with us. There's no need to worry since Tarja-san, who[r]
+knows the area, is with us."[pcms]
 
 *2417|
 [fc]
-中央砲台跡まで来た僕たちは、一旦外の様子を見るために、[r]
-二人が上まで足を運んでいた。[pcms]
+We reached the central gun battery ruins and went outside to check the[r]
+situation, with the two of them having gone up.[pcms]
 
 *2418|
 [fc]
-[ns]誠[nse]
-「コホッ……」[pcms]
+[ns]Makoto[nse]
+"Cough..."[pcms]
 
 *2419|
 [fc]
-ウイルスの影響なのか、頭がクラクラしてしている。[r]
-咳も出始めていて油断できない。[pcms]
+Is it the virus affecting me? My head is spinning, and I've started to[r]
+cough. I can't let my guard down.[pcms]
 
 *2420|
 [fc]
-僕に残された時間は、あまり多く無さそうだ。[pcms]
+It seems like I don't have much time left.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se5_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2421|
 [fc]
 [vo_stk s="satuki0330"]
-[ns]彩月[nse]
-「水を飲む？」[pcms]
+[ns]Satsuki[nse]
+"Do you want some water?"[pcms]
 
 *2422|
 [fc]
-[ns]誠[nse]
-「すみません……」[pcms]
+[ns]Makoto[nse]
+"I'm sorry..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2423|
 [fc]
-そこに、上から足取りの重い物音が聞こえてきた。[r]
-姉ちゃんとターヤさんだろうけれど、[r]
-出て行ったときよりも元気がない気がする。[pcms]
+Then, I heard heavy footsteps coming from above. It must be Onee-san[r]
+and Tarja-san, but they seem less energetic than when they left.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na04t"][ChrSetXY layer=5 x=300 y=0]
 [ChrSetEx layer=4 chbase="ta1_ja"][ChrSetParts layer=4 chface="F1_ta06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -118,32 +117,31 @@
 *2424|
 [fc]
 [vo_nat s="natu0465"]
-[ns]夏都[nse]
-「戻ったぞ」[pcms]
+[ns]Natsu[nse]
+"We're back."[pcms]
 
 *2425|
 [fc]
 [vo_tay s="taja0227"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *2426|
 [fc]
-姉ちゃんが、がっくりとうなだれたターヤさんを[r]
-支えながら戻ってきた。[pcms]
+Onee-san came back supporting a disheartened Tarja-san.[pcms]
 
 *2427|
 [fc]
-何が起きたんだろうか。[pcms]
+I wonder what happened.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na06t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2428|
 [fc]
 [vo_nat s="natu0466"]
-[ns]夏都[nse]
-「外の様子に変わりはない、[r]
-　防疫隊はまだ動いていないみたいだ」[pcms]
+[ns]Natsu[nse]
+"Nothing has changed outside; the quarantine team doesn't seem to be[r]
+moving yet."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -151,44 +149,44 @@
 *2429|
 [fc]
 [vo_aka s="akari0800"]
-[ns]茜梨[nse]
-「その、ターヤさんは……」[pcms]
+[ns]Akari[nse]
+"That, Tarja-san is..."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na23t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2430|
 [fc]
 [vo_nat s="natu0467"]
-[ns]夏都[nse]
-「外で……感染した父親と出くわした。[r]
-　ターヤさんが危険だったから……」[pcms]
+[ns]Natsu[nse]
+"Outside... she encountered her father who was infected. Tarja-san was[r]
+in danger, so..."[pcms]
 
 *2431|
 [fc]
-ターヤさんは取り乱しただろう。[r]
-そして、話をしようとしたはずだ。[pcms]
+Tarja-san must have been distraught. And she must have tried to talk[r]
+to him.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2432|
 [fc]
-それで、危険な状態になって……、[r]
-対処したんだろう。[pcms]
+And then, she found herself in a dangerous situation... and dealt with[r]
+it.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta09"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2433|
 [fc]
 [vo_tay s="taja0228"]
-[ns]ターヤ[nse]
-「ううっ、パパ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ugh, Papa..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2434|
 [fc]
-ターヤさんは耐えきれず、その場に泣き崩れた。[r]
-その姿を見て、僕に電流が走る。[pcms]
+Tarja-san couldn't hold back anymore and collapsed in tears. Seeing[r]
+her like that sent a jolt through me.[pcms]
 
 ;//◆5200へジャンプ
 [jump storage="5200.ks" target=*5200_TOP]

@@ -32,200 +32,196 @@
 *6059|
 [fc]
 [vo_tay s="taja_tj0370"]
-[ns]ターヤ[nse]
-「いやぁ！！　いやぁあああっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No!! Nooooo!!"[pcms]
 
 [quake_bg y m]
 
 *6060|
 [fc]
-[ns]西[nse]
-「ほうらぁ！！　高い高い～～」[pcms]
+[ns]West[nse]
+"Here we go!! Up in the air~~"[pcms]
 
 *6061|
 [fc]
 [vo_tay s="taja_tj0371"]
-[ns]ターヤ[nse]
-「いやぁ！！　やめてっ！！　やめてぇ……！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No!! Stop it!! Stop it...!!"[pcms]
 
 [quake_bg y m]
 
 *6062|
 [fc]
-[ns]西[nse]
-「お～、軽い軽い～。軽いなぁ……。はははっ！！」[pcms]
+[ns]West[nse]
+"Oh~, so light~. You're so light... Hahaha!!"[pcms]
 
 *6063|
 [fc]
-フランク先輩はパンツを引きちぎり、[r]
-僕のターヤを後ろから抱え上げると何が面白いのか、[r]
-笑いながら子供を乱暴にあやすように宙に放っては受け止める。[pcms]
+Senior Frank tore off the panties, lifted Tarja from behind, and for[r]
+some reason, he laughed as he roughly tossed her into the air like a[r]
+child and caught her.[pcms]
 
 *6064|
 [fc]
 [vo_tay s="taja_tj0372"]
-[ns]ターヤ[nse]
-「ああっ！　いやぁ！　やめてぇ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ahh! No! Stop it!"[pcms]
 
 *6065|
 [fc]
-体が浮き上がる度にターヤは短い悲鳴を上げる。[pcms]
+Every time her body was lifted, Tarja let out a short scream.[pcms]
 
 *6066|
 [fc]
-いくら体操選手で運動神経がいいターヤでも、[r]
-ああやって無理やり空中に放り投げられたんじゃ、[r]
-どうにもならない。[pcms]
+No matter how good a gymnast Tarja was, being forcibly thrown into the[r]
+air like that, there was nothing she could do.[pcms]
 
 *6067|
 [fc]
-空気を蹴るような空中制動ができるなんて、[r]
-マンガかラノベにしかないような話だ。[pcms]
+Being able to brake in mid-air like kicking the air is something you'd[r]
+only find in manga or light novels.[pcms]
 
 *6068|
 [fc]
-……現実じゃない。[pcms]
+...It's not reality.[pcms]
 
 *6069|
 [fc]
 [vo_stk s="satuki_tj0268"]
-[ns]彩月[nse]
-「んふふっ……、おもしろ～い。[r]
-　ねっ……ま～くん……」[pcms]
+[ns]Satsuki[nse]
+"Nfufu... this is so interesting. Right... Mak-kun...?"[pcms]
 
 *6070|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *6071|
 [fc]
-何が面白いのかわからない。[r]
-僕はただ、ターヤを救いたかった。[r]
-だけど、面白そうに笑う先輩はすごい力で僕を押さえつけてて……。[pcms]
+I don't see what's so funny. I just wanted to save Tarja. But the[r]
+senior, laughing as if it were amusing, was holding me down with[r]
+incredible strength...[pcms]
 
 *6072|
 [fc]
-僕は今、自分の小さな体と非力さが悔しくて仕方がなかった。[pcms]
+I was frustrated with my small body and lack of strength.[pcms]
 
 *6073|
 [fc]
-やっと好きになった子を。[r]
-僕と家族を作りたいと言ってくれた子を。[pcms]
+I finally found a girl I liked. A girl who said she wanted to start a[r]
+family with me.[pcms]
 
 *6074|
 [fc]
-僕に『王子さまになって欲しい』と頼んだ子を助け出すどころか、[r]
-こんな地獄へと突き落としてしまっていた。[pcms]
+A girl who asked me to become her "prince," and instead of rescuing[r]
+her, I had plunged her into this hell.[pcms]
 
 *6075|
 [fc]
-[ns]宗一郎[nse]
-「フランクせんぱ～い……そろそろ……」[pcms]
+[ns]Souichirou[nse]
+"Senior Frank... maybe it's about time..."[pcms]
 
 *6076|
 [fc]
-[ns]西[nse]
-「おおっ……そうかぁ……」[pcms]
+[ns]West[nse]
+"Oh... right..."[pcms]
 
 *6077|
 [fc]
 [vo_tay s="taja_tj0373"]
-[ns]ターヤ[nse]
-「ああっ！！　やぁああっ！！　ああっ……！！」[pcms]
+[ns]Tarja[nse]
+"Ahh!! Nooo!! Ahh...!!"[pcms]
 
 *6078|
 [fc]
-悲鳴を上げるターヤをフランク先輩はがっちりと抱えあげた。[r]
-これで挿入されていれば、いわゆる駅弁だが、[r]
-なぜかフランク先輩はそそり立つ肉棒をターヤに挿入しない。[pcms]
+Senior Frank firmly lifted the screaming Tarja. If he had inserted his[r]
+erect penis, it would have been the so-called 'standing carry'[r]
+position, but for some reason, Senior Frank did not insert his[r]
+throbbing cock into Tarja.[pcms]
 
 *6079|
 [fc]
 [vo_tay s="taja_tj0374"]
-[ns]ターヤ[nse]
-「たすけてぇ！　誠っ！！　誠っ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Help me! Makoto!! Makoto!!"[pcms]
 
 *6080|
 [fc]
-[ns]誠[nse]
-「ターヤ！　ターヤッ！！」[pcms]
+[ns]Makoto[nse]
+"Tarja! Tarja!!"[pcms]
 
 *6081|
 [fc]
-[ns]誠[nse]
-（まだ、助けられる。[r]
-　どうすれば……どうすれば……）[pcms]
+[ns]Makoto[nse]
+(There's still a chance to save her. What should I do... What can I[r]
+do...)[pcms]
 
 *6082|
 [fc]
-僕は必死にターヤが助かる方法を考える。[pcms]
+I desperately thought of a way to save Tarja.[pcms]
 
 *6083|
 [fc]
-そんな僕の気も知らずに、へらへらと笑いながら、[r]
-そーいちがぱっくりと開脚されたターヤのあそこを[r]
-舐めるように見ていた。[pcms]
+Unaware of my feelings, Souichirou gazed at Tarja's spread-open crotch[r]
+with a silly grin as if licking it with his eyes.[pcms]
 
 *6084|
 [fc]
-そこを見てもいいのは僕だけだと言うのに。[r]
-ターヤがそれを許しているのは僕だけだ！！[pcms]
+Even though I'm the only one who should see that place. The only one[r]
+Tarja has allowed to do that is me!![pcms]
 
 *6085|
 [fc]
-[ns]宗一郎[nse]
-「ああっ……ターヤさんのおまんこ……。[r]
-　キレイだなぁ……」[pcms]
+[ns]Souichirou[nse]
+"Ahh... Tarja-san's pussy... It's so beautiful..."[pcms]
 
 *6086|
 [fc]
 [vo_tay s="taja_tj0375"]
-[ns]ターヤ[nse]
-「いやっ！　いやぁああっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No! Nooooo!!"[pcms]
 
 *6087|
 [fc]
-ターヤは真っ赤になって恥じらい、足を閉じようとする。[r]
-だけど、それはターヤの発達した足の筋肉にだって不可能だった。[pcms]
+Tarja blushed with embarrassment and tried to close her legs, but even[r]
+her well-developed leg muscles made it impossible.[pcms]
 
 *6088|
 [fc]
-元格闘技の猛者で、怪力のフランク先輩が感染者になって[r]
-より怪力になっているのだから、太刀打ちできる人間は[r]
-いるのだろか。[pcms]
+Senior Frank, once a formidable martial artist and now an infected[r]
+with even greater strength, was there anyone who could stand against[r]
+him?[pcms]
 
 *6089|
 [fc]
-フランク先輩は、あの折り目正しさと優しさがあったからこそ、[r]
-あんなにいい先輩だったんだ。[pcms]
+It was because of his properness and kindness that Senior Frank was[r]
+such a good senior.[pcms]
 
 *6090|
 [fc]
-理性がなくなった今ではフランク先輩は[r]
-本当に最強の怪物になってしまった。[pcms]
+Now without reason, Senior Frank had truly become the strongest[r]
+monster.[pcms]
 
 *6091|
 [fc]
-[ns]宗一郎[nse]
-「さぁ……ごかいちょお～」[pcms]
+[ns]Souichirou[nse]
+"Now... let's enjoy this~"[pcms]
 
 *6092|
 [fc]
-[ns]西[nse]
-「おぉ……おおっ！」[pcms]
+[ns]West[nse]
+"Oh... Ooh!"[pcms]
 
 *6093|
 [fc]
 [vo_tay s="taja_tj0376"]
-[ns]ターヤ[nse]
-「いやぁ！！　やだぁ！　やめてぇ！[r]
-　ヘンタイッ！！　ヘンタイッ！！」[pcms]
+[ns]Tarja[nse]
+"No!! I don't want this! Stop it! Pervert!! Pervert!!"[pcms]
 
 *6094|
 [fc]
-[ns]誠[nse]
-「やめろっ！　そーいちっ！！」[pcms]
+[ns]Makoto[nse]
+"Stop it! Souichirou!!"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -233,40 +229,39 @@
 
 *6095|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *6096|
 [fc]
-ターヤの女性器を指でさわり、[r]
-それを指で押し広げようとしていたそーいちの手が止まる。[pcms]
+Souichirou's hand, which had been touching and trying to spread open[r]
+Tarja's genitals, stopped.[pcms]
 
 *6097|
 [fc]
-もしかして、そーいちは感染しても、僕との友情を……。[r]
-昔のゾンビ映画の人間の言うことを聞く軍人ゾンビのように[r]
-まだ人間の心や理性が残っているのかもしれない。[pcms]
+Perhaps even infected, Souichirou still held onto our friendship...[r]
+Like those soldier zombies in old zombie movies that listened to[r]
+humans, maybe he still retained some human heart and reason.[pcms]
 
 *6098|
 [fc]
-[ns]誠[nse]
-「そーいち……。[r]
-　やめてくれ、そーいち……」[pcms]
+[ns]Makoto[nse]
+"Souichirou... Please stop, Souichirou..."[pcms]
 
 *6099|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *6100|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *6101|
 [fc]
-[ns]宗一郎[nse]
-「いやだね……」[pcms]
+[ns]Souichirou[nse]
+"I don't want to..."[pcms]
 
 ;//bgm11.ogg
 [bgm storage="BGM11"]
@@ -274,163 +269,156 @@
 *6102|
 [fc]
 [vo_tay s="taja_tj0377"]
-[ns]ターヤ[nse]
-「いやぁああぁああ……！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nooo...!!"[pcms]
 
 *6103|
 [fc]
-そーいちはケタケタと笑いながら、[r]
-ターヤのあそこを大きく左右に押し開いた。[pcms]
+Souichirou laughed hysterically as he spread Tarja's pussy wide open.[pcms]
 
 *6104|
 [fc]
-[ns]西[nse]
-「さすがは、うひっ、俺の見込んだデブだなぁ」[pcms]
+[ns]West[nse]
+"As expected of the fatty I had my eye on, uh huh."[pcms]
 
 *6105|
 [fc]
 [vo_stk s="satuki_tj0269"]
-[ns]彩月[nse]
-「ああっ……。ぜっけいね……」[pcms]
+[ns]Satsuki[nse]
+"Ahh... That's so vulgar..."[pcms]
 
 *6106|
 [fc]
 [vo_tay s="taja_tj0378"]
-[ns]ターヤ[nse]
-「いやぁ！！　　助けてっ！　たすけてぇ！！　まことぉ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No!! Help me! Help me!! Makoto!!"[pcms]
 
 *6107|
 [fc]
-[ns]誠[nse]
-「ターヤッ！！[r]
-　くそぉ！！　や、やめろっ！　やめろよっ！！」[pcms]
+[ns]Makoto[nse]
+"Tarja!! Damn it!! Stop, stop it!!"[pcms]
 
 *6108|
 [fc]
-[ns]宗一郎[nse]
-「ああっ……。[r]
-　ターヤさんおまんこ中はもっとキレイだぁ……。[r]
-　白人のピンクのおまんこっ！！」[pcms]
+[ns]Souichirou[nse]
+"Ahh... Tarja-san's pussy is even prettier on the inside... A white[r]
+person's pink pussy!!"[pcms]
 
 *6109|
 [fc]
-[ns]宗一郎[nse]
-「ちくしょお……。[r]
-　このキレイなおまんこを誠のひとりじめにはさせないぞ！！」[pcms]
+[ns]Souichirou[nse]
+"Damn it... I won't let this beautiful pussy be monopolized by[r]
+Makoto!!"[pcms]
 
 *6110|
 [fc]
-[ns]西[nse]
-「そうだ、次は俺たちの番だろぉ」[pcms]
+[ns]West[nse]
+"That's right, it's our turn next."[pcms]
 
 *6111|
 [fc]
 [vo_tay s="taja_tj0379"]
-[ns]ターヤ[nse]
-「いやぁ！！　広げちゃ！　広げちゃいやぁ！！」[pcms]
+[ns]Tarja[nse]
+"No!! Don't spread it! Don't spread it, no!!"[pcms]
 
 *6112|
 [fc]
-[ns]誠[nse]
-「やめろっ！　このヘンタイ！　徳用ラードッ！！」[pcms]
+[ns]Makoto[nse]
+"Stop it! You pervert! Bulk Lard!!"[pcms]
 
 *6113|
 [fc]
 [vo_stk s="satuki_tj0270"]
-[ns]彩月[nse]
-「もうっ……。まーくんったら……。[r]
-　あのこはデヴくんにあげればいいじゃない……。[r]
-　キミにはわたしが、イイコトしてあげるからぁ……」[pcms]
+[ns]Satsuki[nse]
+"Geez... Mak-kun... You should just give that girl to Dev-kun... I'll[r]
+do something nice for you instead..."[pcms]
 
 *6114|
 [fc]
-[ns]誠[nse]
-「ううっ！　あっ！　ああっ！！」[pcms]
+[ns]Makoto[nse]
+"Ugh! Ah! Aahh!!"[pcms]
 
 *6115|
 [fc]
-がっちり僕を拘束したまま、南先輩が僕のペニスを撫で上げる。[r]
-僕のペニスは不覚にも、この異常な事態の中でも[r]
-ターヤの痴態に興奮してしまっていた。[pcms]
+While restraining me tightly, Senior Minami stroked my penis. Despite[r]
+the abnormal situation, my penis was involuntarily excited by Tarja's[r]
+lewd state.[pcms]
 
 *6116|
 [fc]
 [vo_stk s="satuki_tj0271"]
-[ns]彩月[nse]
-「もうっ……まーくんったらとっても固いわ。[r]
-　あとで、相手をしてあげるから……。[r]
-　あの子はデヴくんに……ねっ……」[pcms]
+[ns]Satsuki[nse]
+"Geez... Mak-kun is so hard. I'll take care of you later... That girl[r]
+is for Dev-kun... right..."[pcms]
 
 *6117|
 [fc]
-[ns]西[nse]
-「み、南ぃ……」[pcms]
+[ns]West[nse]
+"Mi, Minami..."[pcms]
 
 *6118|
 [fc]
-フランク先輩が情けない顔で南先輩を見ているけど、[r]
-助けてくれる気配はない。[pcms]
+Senior Frank looked at Senior Minami with a pitiful face, but there[r]
+was no sign he would help.[pcms]
 
 *6119|
 [fc]
-[ns]誠[nse]
-「ああっ！　い、いやだぁ！　うううっ……」[pcms]
+[ns]Makoto[nse]
+"Aah! No, I don't want this! Ughhh..."[pcms]
 
 *6120|
 [fc]
-僕はもう泣き言を漏らすことしかできないでいた。[r]
-このまま、ターヤから目をそらした方がいいのか、[r]
-それとも目をそらさず見届けた方がいいのかすらわからない。[pcms]
+I could do nothing but let out cries. I didn't know whether it was[r]
+better to look away from Tarja or to keep watching.[pcms]
 
 *6121|
 [fc]
-ターヤのひどい姿は見たくなかった。[r]
-だけど、それはターヤへの裏切りだという気もして……。[pcms]
+I didn't want to see Tarja in such a terrible state. But I also felt[r]
+like looking away would be a betrayal to her...[pcms]
 
 *6122|
 [fc]
-[ns]宗一郎[nse]
-「うがぁ！！　あああっ！！」[pcms]
+[ns]Souichirou[nse]
+"Ugha!! Aaahh!!"[pcms]
 
 *6123|
 [fc]
-[ns]誠[nse]
-「えっ……！？」[pcms]
+[ns]Makoto[nse]
+"Eh...!?"[pcms]
 
 *6124|
 [fc]
-突然のそーいちの怒声に僕は驚いた。[pcms]
+I was surprised by Souichirou's sudden outburst.[pcms]
 
 *6125|
 [fc]
-[ns]宗一郎[nse]
-「ちきしょう！　こんなところまで！[r]
-　こんなところまでマコトがぁ！！」[pcms]
+[ns]Souichirou[nse]
+"Damn it! To such an extent! To such an extent, Makoto has...!"[pcms]
 
 *6126|
 [fc]
-[ns]誠[nse]
-「えっ……！？」[pcms]
+[ns]Makoto[nse]
+"Eh...!?"[pcms]
 
 *6127|
 [fc]
-そーいちが怒っている意味がまるで僕にはわからない。[pcms]
+I had no idea why Souichirou was angry.[pcms]
 
 *6128|
 [fc]
-[ns]宗一郎[nse]
-「ちきしょう！　ターヤさんのキレイなおまんこから……[r]
-　マコトがながれでてくる……」[pcms]
+[ns]Souichirou[nse]
+"Damn it! From Tarja-san's beautiful pussy... Makoto is flowing[r]
+out..."[pcms]
 
 *6129|
 [fc]
-[ns]西[nse]
-「おおおっ、いいながめだぁ……」[pcms]
+[ns]West[nse]
+"Oooh, what a view..."[pcms]
 
 *6130|
 [fc]
-[ns]誠[nse]
-「あっ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -440,29 +428,27 @@
 
 *6131|
 [fc]
-ターヤのあそこからは、僕がターヤの中へと放った精液が[r]
-逆流して零れ落ちていた。[pcms]
+From Tarja's pussy, the semen I had released inside her was flowing[r]
+back out and spilling down.[pcms]
 
 *6132|
 [fc]
 [vo_stk s="satuki_tj0272"]
-[ns]彩月[nse]
-「すっご～い……。[r]
-　あんなにあのこのおまんこに出したのね……。くやしい……。[r]
-　わたしには、いちどもしてくれてないのに……」[pcms]
+[ns]Satsuki[nse]
+"Wow... You came so much inside her pussy... I'm jealous... You've[r]
+never done it even once with me..."[pcms]
 
 *6133|
 [fc]
-[ns]宗一郎[nse]
-「ちきしょうっ！！[r]
-　いつも誠ばかりが、オイシイとこをもってくっ！！[r]
-　むかつく！　くそぉっ！！」[pcms]
+[ns]Souichirou[nse]
+"Damn it!! Always Makoto gets the good part! It pisses me off! Damn[r]
+it!!"[pcms]
 
 *6134|
 [fc]
-酔っ払ったようになりながら、狂ったように地団駄を踏むそーいち。[r]
-あのひょうきんでいいやつだった、僕の親友の面影はもうなかった。[r]
-……あそこにいるのはただのそっくりな肉の塊だった。[pcms]
+Stomping on the ground like a madman, Souichirou seemed drunk with[r]
+rage. The friendly and cheerful image of my best friend was gone. What[r]
+stood there was just a lump of flesh that looked like him.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -472,10 +458,9 @@
 
 *6135|
 [fc]
-[ns]宗一郎[nse]
-「マコトのザーメンでよごれたおまんこになんて[r]
-　入れられるかっ！！[r]
-　そーじだ！　そーじしてやるっ！！」[pcms]
+[ns]Souichirou[nse]
+"How can I put it in a pussy that's been dirtied by Makoto's semen?![r]
+That's right! I'll clean it up!!"[pcms]
 
 ;//　ＳＥ　めりめり
 
@@ -492,33 +477,33 @@
 *6136|
 [fc]
 [vo_tay s="taja_tj0380"]
-[ns]ターヤ[nse]
-「ひぎっ！！　いぎいぃいいっ！！」[pcms]
+[ns]Tarja[nse]
+"Higii!! Igiiiiii!!"[pcms]
 
 *6137|
 [fc]
-[ns]誠[nse]
-「そ、そんな……」[pcms]
+[ns]Makoto[nse]
+"That's... terrible..."[pcms]
 
 *6138|
 [fc]
-あまりにひどい光景に僕は気を失うかと思った。[pcms]
+I thought I was going to pass out from the horrific scene.[pcms]
 
 *6139|
 [fc]
-そーいちは、ターヤのあそこへとぶっとい自分の手を[r]
-無理やり突っ込みはじめていた。[pcms]
+Souichirou had begun to forcibly shove his thick hand into Tarja's[r]
+pussy.[pcms]
 
 *6140|
 [fc]
-[ns]宗一郎[nse]
-「かきだせっ！　マコトのザーメンなんかぁ……[r]
-　ぜんぶかきだすんだぁ……」[pcms]
+[ns]Souichirou[nse]
+"Scrape it out! All of Makoto's semen... I'm going to scrape it all[r]
+out..."[pcms]
 
 *6141|
 [fc]
-[ns]西[nse]
-「すげぇぞ、お、俺もやりたい！」[pcms]
+[ns]West[nse]
+"Damn, that's intense, I wanna do it too!"[pcms]
 
 ;//■イベントCG　taja_N011
 [evcg storage="taja_H011e"][trans_c cross time=300]
@@ -526,18 +511,17 @@
 *6142|
 [fc]
 [vo_tay s="taja_tj0381"]
-[ns]ターヤ[nse]
-「いぎゃああっ！！　ひぎっ！　ひぎゃああぁあっ！！」[pcms]
+[ns]Tarja[nse]
+"Igyaaaa!! Higii! Higyaaaaaaa!!"[pcms]
 
 *6143|
 [fc]
-耳をつんざくターヤの絶叫がゲストルームに響き渡っていた。[pcms]
+Tarja's piercing screams echoed throughout the guest room.[pcms]
 
 *6144|
 [fc]
-[ns]宗一郎[nse]
-「もっとだっ！！　もっとぉ！[r]
-　もっと、おまんこのおくまでぇ……！！」[pcms]
+[ns]Souichirou[nse]
+"More!! More! Deeper into the pussy...!!"[pcms]
 
 ;//　ＳＥ　めりめり
 
@@ -547,54 +531,52 @@
 *6145|
 [fc]
 [vo_tay s="taja_tj0382"]
-[ns]ターヤ[nse]
-「ひゃぎゃ！　ひぎっ！！　ひぎゃあぅあうぁあ……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hyagya! Higii!! Higyauauaa...!"[pcms]
 
 *6146|
 [fc]
-……フィストファック。[r]
-鬼畜系のエロマンガやエロゲーでは見たことがあった。[r]
-それで抜いたこともある。[pcms]
+...Fistfucking. I had seen it in hardcore eromanga and eroge. I had[r]
+even gotten off to it before.[pcms]
 
 *6147|
 [fc]
-だけど、それを目の前で、無理やり恋人にされる現実は最悪だった。[r]
-しかも、それをしているのは理性を失った親友だ。[pcms]
+But witnessing it in reality, being forcibly done to a lover, was the[r]
+worst. Moreover, it was being done by my best friend who had lost his[r]
+reason.[pcms]
 
 *6148|
 [fc]
-まさに悪夢だった。[pcms]
+It was truly a nightmare.[pcms]
 
 *6149|
 [fc]
-僕はもう死にたかった。[r]
-きっと僕はもう、南先輩にこびりついていた体液から感染してる。[r]
-だから、このまま死んでもいい。[pcms]
+I wanted to die already. Surely, I must have been infected by the[r]
+bodily fluids clinging to Senpai Minami. So, it would be fine if I[r]
+died like this.[pcms]
 
 *6150|
 [fc]
-だけど……。[r]
-だけど、ターヤはっ……。[pcms]
+But... But Tarja...[pcms]
 
 *6151|
 [fc]
 [vo_tay s="taja_tj0383"]
-[ns]ターヤ[nse]
-「ひゃぎゃ！　ひぎいいっ！！　ぎゃああぁあ……！！」[pcms]
+[ns]Tarja[nse]
+"Hyagya! Higiii!! Gyaaaaaa...!!"[pcms]
 
 *6152|
 [fc]
-[ns]宗一郎[nse]
-「ああっ……まだでてくる！[r]
-　いっぱい、いったいなんぱつナカ出し……したんだよぉ！！」[pcms]
+[ns]Souichirou[nse]
+"Aah... it's still coming out! How many times did you cum inside...!!"[pcms]
 
 ;//　ＳＥ　ごきゅ
 
 *6153|
 [fc]
 [vo_tay s="taja_tj0384"]
-[ns]ターヤ[nse]
-「ひぎいあぁあぁああっ……！！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Higiiiaaaaaaa...!!!"[pcms]
 
 ;//　ＳＥ　放尿
 [se buf=0 storage="seD011"]
@@ -605,43 +587,40 @@
 
 *6154|
 [fc]
-[ns]誠[nse]
-「……ターヤ……」[pcms]
+[ns]Makoto[nse]
+"...Tarja..."[pcms]
 
 *6155|
 [fc]
-ターヤのあの狭い、処女を失ったばかりあそこを、[r]
-そーいちのぶっとい腕が奥まで入り込んだ。[pcms]
+Souichirou's thick arm had penetrated deep into Tarja's narrow pussy,[r]
+which had only just lost its virginity.[pcms]
 
 *6156|
 [fc]
-ターヤが白目をむいて気絶しながら、放尿した。[r]
-金色の虹のような弧を描いてターヤのおしっこは飛んだ。[pcms]
+As Tarja rolled her eyes back and fainted, she urinated. Her pee flew[r]
+in a golden arc like a rainbow.[pcms]
 
 *6157|
 [fc]
-[ns]宗一郎[nse]
-「ああっ！　ぜっけいかな……ぜっけいかな……。[r]
-　ふひゃひやひゃ……」[pcms]
+[ns]Souichirou[nse]
+"Aah! It's so obscene... so obscene... Fhyahyahya..."[pcms]
 
 *6158|
 [fc]
-[ns]西[nse]
-「しょんべん……ういひひっ……」[pcms]
+[ns]West[nse]
+"Pee... Uihihi..."[pcms]
 
 *6159|
 [fc]
 [vo_stk s="satuki_tj0273"]
-[ns]彩月[nse]
-「いいザマね……。[r]
-　わたしのまー君をとったバチがあたったのよ。[r]
-　うふふふっ……」[pcms]
+[ns]Satsuki[nse]
+"Serves you right... That's what you get for taking my Mak-kun away.[r]
+Ufufufu..."[pcms]
 
 *6160|
 [fc]
-三人の感染者の狂ったような笑い。[r]
-いや、彼らは狂っている。[r]
-元は僕の大切な仲間だったのに……。[pcms]
+The insane laughter of the three infected. No, they were mad. Even[r]
+though they were once my precious comrades...[pcms]
 
 ;//■イベントCG　taja_N011 泡を吹き
 [evcg storage="taja_H011h"][trans_c cross time=300]
@@ -649,14 +628,14 @@
 *6161|
 [fc]
 [vo_tay s="taja_tj0385"]
-[ns]ターヤ[nse]
-「うぎっ……うひひっ……。ひひっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ugii... Uhihi... Hihi..."[pcms]
 
 *6162|
 [fc]
-ターヤは白目をむいて、泡を吹いていた。[r]
-あまりに無残な姿だった。[r]
-あれが生涯最後に見た光景だなんて。[pcms]
+Tarja was rolling her eyes back, foaming at the mouth. It was a[r]
+pitiful sight. To think that this would be the last thing I saw in my[r]
+life.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -676,93 +655,91 @@
 
 *6163|
 [fc]
-でも、これで良かったのかもしれない。[r]
-きっと、ターヤももう感染してる。[r]
-そーいちの体液にまみれた腕をあそこに突っ込まれたら。[pcms]
+But maybe this was for the best. Surely, Tarja must have been infected[r]
+too. After having Souichirou's arm covered in bodily fluids shoved[r]
+into her.[pcms]
 
 *6164|
 [fc]
-僕はさっきから、一気に建物の中が焦げ臭くなっていることに[r]
-気がついていた。[pcms]
+I had noticed for some time now that the building was starting to[r]
+smell of burning.[pcms]
 
 *6165|
 [fc]
-正確には自分が火事から逃げるために、[r]
-ここに来たことを忘れていた。[r]
-……あまりに異常な出来事のために。[pcms]
+To be precise, I had forgotten that I came here to escape a fire...[r]
+because of the extremely abnormal events happening.[pcms]
 
 *6166|
 [fc]
-一日中逃げ回ったのに、僕もターヤもここでゲームオーバーって[r]
-いうのは決まってたんだ。[r]
-……悔しいけど、ここで終わりっていう運命だったみたいだ。[pcms]
+After running away all day, it seemed that Tarja and I were destined[r]
+for a game over here. It's frustrating, but it seems like it was fate[r]
+for it to end here.[pcms]
 
 *6167|
 [fc]
-最初から僕の人生はムリゲーだったんだ。[r]
-僕の人生はずっと、クソゲーだった。[r]
-４年前のあの日からずっと。[pcms]
+From the beginning, my life was an impossible game. My life has always[r]
+been a shitty game, ever since that day four years ago.[pcms]
 
 *6168|
 [fc]
-今、欲しいものをくれると神様が言うなら、[r]
-僕は人生がやり直せるリセットボタンと言うだろう。[pcms]
+If God were to offer me anything I wanted now, I would ask for a reset[r]
+button to redo my life.[pcms]
 
 *6169|
 [fc]
-だけど、いったいどこからやり直せば？[pcms]
+But where would I even start over from?[pcms]
 
 *6170|
 [fc]
-そう考えて僕は、大切な仲間たちが感染する前にと思い直した。[r]
-僕の人生がクソゲーのムリゲーだって、[r]
-キャラは最高だった気がした。[pcms]
+Thinking about it, I wished I could go back to before my precious[r]
+friends got infected. Even if my life was a shitty, impossible game, I[r]
+felt like the characters were the best.[pcms]
 
 *6171|
 [fc]
-本当に、最高の[ruby text="パーティ"][ch text="仲間たち"]だったんだって……。[pcms]
+They really were the best comrades...[pcms]
 
 *6172|
 [fc]
-だから、みんな感染する前に戻れればって……。[pcms]
+So I wished I could go back to before everyone got infected...[pcms]
 
 *6173|
 [fc]
 [vo_stk s="satuki_tj0274"]
-[ns]彩月[nse]
-「さあ、まーくん。[r]
-　わたしたちも楽しみましょ……」[pcms]
+[ns]Satsuki[nse]
+"Now, Mak-kun. Let's enjoy ourselves too..."[pcms]
 
 *6174|
 [fc]
-耳元でささやく南先輩。[r]
-僕はそれに『そうですね』と返す。[pcms]
+Senpai Minami whispered in my ear. I replied with a "Yes, indeed."[pcms]
 
 *6175|
 [fc]
-ターヤは気絶したまま、きっと苦しまずに窒息死できるだろう。[r]
-感染して気が狂うことなく、正気のままで死ねるんだ。[pcms]
+Tarja remained unconscious, surely she could die of asphyxiation[r]
+without suffering. Without going mad from infection, she could die[r]
+sane.[pcms]
 
 *6176|
 [fc]
-僕は少し狂い始めてから、死にたいと思っていた。[pcms]
+I had been wanting to die since I started going a little mad.[pcms]
 
 ;//・迫る火の手。フェードアウト
 
 *6177|
 [fc]
-部屋が熱くなってきていた。[r]
-もうすぐ、熱気とガスが僕たちの５人の命を奪う。[r]
-その時、少しだけ狂っていれば、きっと苦しく思わず死ねるだろう。[pcms]
+The room was getting hotter. Soon, the heat and gas would claim the[r]
+lives of all five of us. If I'm a little mad by then, surely I can die[r]
+without feeling pain.[pcms]
 
 *6178|
 [fc]
-完全に狂うのは怖い。[r]
-だけど、全然、狂ってなくて焼け死ぬのも怖い。[pcms]
+I'm scared of going completely mad. But I'm also scared of dying from[r]
+burning without going mad at all.[pcms]
 
 *6179|
 [fc]
-せめて、それくらいの望みは叶えて欲しいと、僕は神様に祈った。[pcms]
+At the very least, I prayed to God that this one wish would be[r]
+granted.[pcms]
 
 ;//・ゲームオーバー
 ;//色々止める
@@ -799,5 +776,5 @@
 [eval exp="sf.g_BADend_taja = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 

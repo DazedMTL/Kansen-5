@@ -24,136 +24,136 @@
 
 *106|
 [fc]
-残念なことに、このコンビニでもマウンテンヂューは、[r]
-売ってなかった。[r]
-仕方が無いので、またもやスッコールで代用する。[pcms]
+Unfortunately, this convenience store didn't have Mountain Dew either.[r]
+I had no choice but to substitute it with another Score.[pcms]
 
 *107|
 [fc]
-南先輩が、まとめて払うからおごりだなんて言ってくれたので、[r]
-僕はおまかせして、コンビニの入り口で待っていた。[pcms]
+Since Senior Minami said she'd pay for everything, I left it to her[r]
+and waited at the entrance of the convenience store.[pcms]
 
 *108|
 [fc]
-それにしても……、キャンプ場が繁盛しているのか、[r]
-店の商品の棚は、半分以上が空っぽだった。[r]
-つまり、目当ての物が無いにしても、選べるものが限られている。[pcms]
+Even so... I wonder if the campground is thriving, because the shelves[r]
+in the store were more than half empty. In other words, even if what I[r]
+was looking for wasn't there, the choices were limited.[pcms]
 
 *109|
 [fc]
-ついでに気がついたけれど、[r]
-このコンビニ、僕らが泊まっているホテルと同じ系列だ。[pcms]
+I also noticed that this convenience store is part of the same chain[r]
+as the hotel we're staying at.[pcms]
 
 *110|
 [fc]
-同じ系列なら、面倒臭くならないように、[r]
-同じ商品を系列の店舗に並べている可能性は高い。[pcms]
+If it's the same chain, there's a high chance they stock the same[r]
+products in all their stores to avoid any hassle.[pcms]
 
 *111|
 [fc]
-もしもそうならば、ホテルのコンビニに無いのだから、[r]
-ここにもマウンテンヂューが無いのは、当然なのかも知れなかった。[pcms]
+If that's the case, since the hotel's convenience store didn't have[r]
+it, it's only natural that this one wouldn't have Mountain Dew either.[pcms]
 
 *112|
 [fc]
-……にしてもなあ。[r]
-キャンプ場にコンビニの組み合わせはミスマッチな気がする。[pcms]
+...But still. A convenience store at a campground feels like a[r]
+mismatch to me.[pcms]
 
 *113|
 [fc]
-しかも、商品があらかた無くなるぐらい、[r]
-キャンプ場の客に利用されているみたいだ。[pcms]
+Moreover, it seems like it's being used by the campground guests to[r]
+the point where most of the products are gone.[pcms]
 
 *114|
 [fc]
-現に、キャンプ場の敷地の方からやってきた客が、[r]
-入れ替わり立ち替わりコンビニを利用していた。[pcms]
+Indeed, customers coming from the campground were using the[r]
+convenience store in a steady stream.[pcms]
 
 *115|
 [fc]
-ふつうキャンプって、自然とか普段と違う不便さとか、[r]
-そういうものを楽しむものなんじゃないのか？[pcms]
+Isn't camping usually about enjoying nature and the unusual[r]
+inconveniences different from everyday life?[pcms]
 
 *116|
 [fc]
-自分たちで火を熾して、飯ごう炊飯なんてやってさ。[r]
-用意してきた食材や飲み物で仲間とワキアイアイ楽しむ。[pcms]
+You start a fire yourself, cook rice in a pot, and have fun with[r]
+friends using the food and drinks you brought.[pcms]
 
 *117|
 [fc]
-完璧インドアな僕に言われたくないだろうけど、[r]
-キャンプ場に来る必要ないじゃないか。[pcms]
+I might be a perfect indoor person to say this, but if that's the[r]
+case, there's no need to come to a campground, right?[pcms]
 
 *118|
 [fc]
-確かにコンビニは便利だし、コンビニのオーナーも売れるとわかって[r]
-経営しているんだろうけどなんか違う気がする。[pcms]
+Sure, convenience stores are handy, and the owner must know they'll[r]
+sell well to keep running them, but it feels off to me.[pcms]
 
 *119|
 [fc]
-それともこんな事考える方がおかしいのかな。[r]
-あればあったで利用するぐらいの軽いノリでいいのかも。[pcms]
+Or maybe I'm the strange one for thinking about this. Maybe it's fine[r]
+to just use them if they're there without thinking too much about it.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *120|
 [fc]
 [vo_stk s="satuki_st0007"]
-[ns]彩月[nse]
-「ねえ、なあに難しい顔してるの？」[pcms]
+[ns]Satsuki[nse]
+"Hey, why such a serious face?"[pcms]
 
 *121|
 [fc]
-[ns]誠[nse]
-「うわわ！」[pcms]
+[ns]Makoto[nse]
+"Whoa!"[pcms]
 
 *122|
 [fc]
-考え込んでいた僕は、南先輩がコンビニから出てきたのに[r]
-気付かず、あたふたとしてしまった。[pcms]
+I was so deep in thought that I didn't notice Senior Minami coming out[r]
+of the convenience store and got flustered.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *123|
 [fc]
 [vo_stk s="satuki_st0008"]
-[ns]彩月[nse]
-「う～ん？」[pcms]
+[ns]Satsuki[nse]
+"Hmm?"[pcms]
 
 *124|
 [fc]
-[ns]誠[nse]
-「いや、その。キャンプ場の近くにコンビニがあるってのは、[r]
-　いかがなものなのかなあ……なんて。その……」[pcms]
+[ns]Makoto[nse]
+"No, it's just... I was wondering if having a convenience store near a[r]
+campground is really a good thing... That sort of thing."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *125|
 [fc]
 [vo_stk s="satuki_st0009"]
-[ns]彩月[nse]
-「便利でいいじゃない？　手荷物減るし。車ならともかく[r]
-　自転車や徒歩だったりしたら荷物は少なくしたいじゃない？[r]
-　コンビニじゃなくても現地調達なんてよくある話よ」[pcms]
+[ns]Satsuki[nse]
+"It's convenient, isn't it? It reduces what you need to carry.[r]
+Especially if you're on a bike or walking instead of driving, you'd[r]
+want to carry less. Even if it's not a convenience store, getting[r]
+supplies locally is pretty common."[pcms]
 
 *126|
 [fc]
-[ns]誠[nse]
-「あ……なるほど」[pcms]
+[ns]Makoto[nse]
+"Ah... I see."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *127|
 [fc]
 [vo_stk s="satuki_st0010"]
-[ns]彩月[nse]
-「って、そんなこと、あ～んな顔して考えてたの？[r]
-　やあね、もう。中澤君って、意外なとこに気が向くのね」[pcms]
+[ns]Satsuki[nse]
+"To think you were making such a face over that? Geez. Makoto, you[r]
+focus on unexpected things."[pcms]
 
 *128|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -163,21 +163,20 @@
 *129|
 [fc]
 [vo_stk s="satuki_st0011"]
-[ns]彩月[nse]
-「ほらほら、行きましょうよ。飲み物もお菓子も買い込んだから」[pcms]
+[ns]Satsuki[nse]
+"Come on, let's go. I've bought plenty of drinks and snacks."[pcms]
 
 *130|
 [fc]
-[ns]誠[nse]
-「あ、はい……」[pcms]
+[ns]Makoto[nse]
+"Ah, yes..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *131|
 [fc]
-コンビ二の袋をシャカシャカ言わせながら、[r]
-南先輩はキャンプ場の敷地に向かって歩き始めていた。[r]
-僕はわたわたとその後ろ姿を追いかけて行く。[pcms]
+Rustling the convenience store bag, Senior Minami started walking[r]
+towards the campground. I hurriedly followed after her.[pcms]
 
 ;//★bg04b オートキャンプ場・夜
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
@@ -185,60 +184,59 @@
 
 *132|
 [fc]
-キャンプ場は、結構大規模な敷地で、しかも大盛況だった。[pcms]
+The campground was quite large and very popular.[pcms]
 
 *133|
 [fc]
-大きさも色も形も様々なテントが、所狭しと張られている。[r]
-結構遠いナンバーの車が車種も様々に停まっていた。[pcms]
+Tents of various sizes, colors, and shapes were crowded together. Cars[r]
+with distant license plates of various models were parked all around.[pcms]
 
 *134|
 [fc]
-こんなに賑わっているとは、正直思わなかったけれど、[r]
-色々イベントがあったせいかなとも思う。[pcms]
+I honestly didn't expect it to be this bustling, but maybe it's[r]
+because of various events happening.[pcms]
 
 *135|
 [fc]
-普段だったら、もう少し閑散としていて、[r]
-自然を感じられる場所なのかもしれない。[pcms]
+Normally, it might be a quieter place where you can feel more in touch[r]
+with nature.[pcms]
 
 *136|
 [fc]
-そうだったらいいな。[pcms]
+I hope that's the case.[pcms]
 
 ;mm 逆移植　2100.ksにあったＢＢＱのルビをなくしてこっちにつける。左端がはみだしちゃうから
 
 *137|
 [fc]
-なにせ、テントの合間を縫うようにして、[ruby text="バーベキュー"][ch text="ＢＢＱ"]してたり[r]
-花火をしてたり、たぶん酒が入っているんだろうけど、[r]
-たいそう賑やかなグルーブもいる。[pcms]
+After all, there are groups having BBQs or setting off fireworks[r]
+between tents, probably drunk, and they're quite noisy.[pcms]
 
 *138|
 [fc]
-こんなに人で溢れていたら、自然もへちまもあったもんじゃない。[r]
-コンビニが賑わうのも道理だと思えてしまう。[pcms]
+If it's this crowded with people, nature doesn't stand a chance. It[r]
+makes sense why the convenience store is busy too.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *139|
 [fc]
-[ns]誠[nse]
-「へえ……展望台なんかもあるんですね。あそこからだと[r]
-　ライトアップされた『しまなみ大橋』が良く見えそうだ」[pcms]
+[ns]Makoto[nse]
+"Wow... there's even an observation deck. From there, you could[r]
+probably get a good view of the lit-up 'Shimanami Bridge'."[pcms]
 
 *140|
 [fc]
 [vo_stk s="satuki_st0012"]
-[ns]彩月[nse]
-「そうかもね」[pcms]
+[ns]Satsuki[nse]
+"That might be true."[pcms]
 
 *141|
 [fc]
-[ns]誠[nse]
-「ずいぶんと整備されてるんですね。あ……ホテルと同じ[r]
-　コンビニが併設されてたってことは、ここも稼津央さんが[r]
-　整備させたんでしょうか？」[pcms]
+[ns]Makoto[nse]
+"It's well-maintained, isn't it? Ah... If there's a convenience store[r]
+affiliated with our hotel here too, does that mean Ms. Kazuo had this[r]
+place set up as well?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 ;不要？[wait_c time=1000]
@@ -247,322 +245,320 @@
 *142|
 [fc]
 [vo_stk s="satuki_st0013"]
-[ns]彩月[nse]
-「……かもね」[pcms]
+[ns]Satsuki[nse]
+"...Maybe."[pcms]
 
 *143|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *144|
 [fc]
-並んで歩く南先輩の顔は、急に不機嫌になっていた。[r]
-越智さんのお屋敷を出たときと同じ顔だ……。[r]
-あんまり、オーナーや前田家の事は話さない方がいいのかも。[pcms]
+Walking side by side, Senior Minami's face suddenly turned sour. It[r]
+was the same expression she had when we left Ochi-san's mansion...[r]
+Maybe I shouldn't talk about the owner or the Maeda family too much.[pcms]
 
 *145|
 [fc]
-[ns]誠[nse]
-「……あ、そうだ。うちの姉ちゃんが渋谷のジムのプールで、[r]
-　南先輩によっく似た人を見たなんて言ってたんですけど……」[pcms]
+[ns]Makoto[nse]
+"...Oh right. My sister said she saw someone who looked a lot like[r]
+Senior Minami at a pool in Shibuya gym..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st29"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *146|
 [fc]
 [vo_stk s="satuki_st0014"]
-[ns]彩月[nse]
-「え！？　あ、あはは。ばれてたか～」[pcms]
+[ns]Satsuki[nse]
+"Eh!? Ah, ahaha. So I was found out~"[pcms]
 
 *147|
 [fc]
-わざとらしくポリポリと頭を掻く仕草をするその顔は、[r]
-いつもの南先輩に戻っていた。[pcms]
+She made an exaggerated scratching gesture on her head, her face[r]
+returning to the usual Senior Minami.[pcms]
 
 *148|
 [fc]
-うん。話題を変えて正解だったみたいだ。[pcms]
+Yeah. It seems like changing the topic was the right move.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *149|
 [fc]
-[ns]誠[nse]
-「じゃあやっぱり南先輩だったんですね」[pcms]
+[ns]Makoto[nse]
+"So it really was Senior Minami at the pool."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *150|
 [fc]
 [vo_stk s="satuki_st0015"]
-[ns]彩月[nse]
-「うん……この前さ、交差点で会ったとき、ジムで見かける人[r]
-　だって気付いてたんだ。ほら、中澤君のお姉さん、なかなか[r]
-　目立つ人だからさ」[pcms]
+[ns]Satsuki[nse]
+"Yeah... When we met at the intersection before, I realized you were[r]
+the person I saw at the gym. You know, your sister stands out quite a[r]
+bit."[pcms]
 
 *151|
 [fc]
 [vo_stk s="satuki_st0016"]
-[ns]彩月[nse]
-「でも、わたしに気付いているとは思ってなかったんだけど」[pcms]
+[ns]Satsuki[nse]
+"But I didn't think she had noticed me."[pcms]
 
 *152|
 [fc]
-確かに姉ちゃんは目立つけど、[r]
-南先輩だって結構人の目を引く姿をしていると思う。[pcms]
+It's true my sister stands out, but I think Senior Minami also has[r]
+quite an eye-catching presence.[pcms]
 
 *153|
 [fc]
-[ns]誠[nse]
-「そんなことないですよ。姉ちゃんが言ってました。[r]
-　『フォームが綺麗な子でさ』って」[pcms]
+[ns]Makoto[nse]
+"Not at all. My sister said, 'She's a girl with a beautiful form.'"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *154|
 [fc]
 [vo_stk s="satuki_st0017"]
-[ns]彩月[nse]
-「え～、ほんとに？　なんか照れるね。でも、嬉しいな」[pcms]
+[ns]Satsuki[nse]
+"Eh~, really? That's kind of embarrassing. But I'm happy to hear it."[pcms]
 
 *155|
 [fc]
-[ns]誠[nse]
-「ええ、本当に褒めてましたよ。前に水泳を習ってたんですか？」[pcms]
+[ns]Makoto[nse]
+"Yes, she really was praising you. Did you used to take swimming[r]
+lessons before?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *156|
 [fc]
 [vo_stk s="satuki_st0018"]
-[ns]彩月[nse]
-「あ、うん。昔……ね」[pcms]
+[ns]Satsuki[nse]
+"Ah, yeah. A long time ago..."[pcms]
 
 *157|
 [fc]
-今度は困ったような顔になってしまった。[r]
-この話題も行き詰まりか。[pcms]
+Her face turned troubled again. Maybe this topic has reached a dead[r]
+end too.[pcms]
 
 *158|
 [fc]
-でも、せっかく南先輩と二人きりなのに、[r]
-だんまりというのも勿体ない。[pcms]
+But it would be a waste to remain silent when I'm alone with Senior[r]
+Minami.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *159|
 [fc]
-[ns]誠[nse]
-「昔……って言えば、そーいちから南先輩が写真で賞を[r]
-　取った事があるって聞いたんですけど」[pcms]
+[ns]Makoto[nse]
+"A long time ago... Speaking of which, Souichirou mentioned that[r]
+Senior Minami has won an award for a photograph before."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *160|
 [fc]
 [vo_stk s="satuki_st0019"]
-[ns]彩月[nse]
-「え？　ああ、うん。でも大したことないのよ。[r]
-　賞だなんて大袈裟に聞こえるかもしれないけどね」[pcms]
+[ns]Satsuki[nse]
+"Eh? Oh, yeah. But it's not a big deal. It might sound exaggerated to[r]
+call it an award."[pcms]
 
 *161|
 [fc]
-南先輩は照れる様子もなく、淡々とそんなことを話していた。[r]
-もう昔のことなんだろうか。[pcms]
+Senior Minami talked about it nonchalantly, without any sign of[r]
+embarrassment. Maybe it's just something from the past for her.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *162|
 [fc]
-[ns]誠[nse]
-「いやあ、凄いですよ。その時の写真って、[r]
-　どんな感じだったんですか。普段取材がてらの写真は[r]
-　見せてもらってますけど、やっぱり人物ですか？」[pcms]
+[ns]Makoto[nse]
+"No, that's amazing. What was the photo that won the award like? I've[r]
+seen your work photos, but was it a person this time?"[pcms]
 
 *163|
 [fc]
 [vo_stk s="satuki_st0020"]
-[ns]彩月[nse]
-「その時のは風景写真よ」[pcms]
+[ns]Satsuki[nse]
+"That time it was a landscape photo."[pcms]
 
 *164|
 [fc]
-[ns]誠[nse]
-「へえ。そういえば今回のこのキャンプ場にテント張るって話も[r]
-　夜景とか撮りたいからって言ってましたもんね」[pcms]
+[ns]Makoto[nse]
+"Wow. Now that you mention it, you said you wanted to set up a tent at[r]
+this campsite to take pictures of the night view, right?"[pcms]
 
 *165|
 [fc]
 [vo_stk s="satuki_st0021"]
-[ns]彩月[nse]
-「うん、そう。人物だけっていうのじゃなくて、人物だったら[r]
-　風景と組み合わせて切り取りたいの。でも風景だと人物なくても[r]
-　それこそ、絵になるものもあるでしょ？」[pcms]
+[ns]Satsuki[nse]
+"Yes, that's right. It's not just about people; if it's people, I want[r]
+to capture them combined with the landscape. But even without people,[r]
+landscapes can still make for beautiful pictures, right?"[pcms]
 
 *166|
 [fc]
-正直良くわからないけど、[r]
-南先輩が風景に惹かれているんだってことはわかった。[pcms]
+I don't quite understand, but I can tell that Senior Minami is drawn[r]
+to landscapes.[pcms]
 
 *167|
 [fc]
-[ns]誠[nse]
-「なるほど……じゃあ、休みの日も撮影の為に[r]
-　遠出したりするんですか？」[pcms]
+[ns]Makoto[nse]
+"I see... So do you go on trips to shoot on your days off?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *168|
 [fc]
 [vo_stk s="satuki_st0022"]
-[ns]彩月[nse]
-「するときもあるかなあ。でも風景って自然ばっかじゃなくてさ、[r]
-　工場群や古びた団地や廃墟だって風景だしね。[r]
-　近場も結構多いわよ」[pcms]
+[ns]Satsuki[nse]
+"Sometimes I do. But landscapes aren't just about nature; factory[r]
+complexes, old apartment blocks, and ruins are all landscapes too.[r]
+There are quite a few places nearby."[pcms]
 
 *169|
 [fc]
-[ns]誠[nse]
-「そっか……なるほどぉ」[pcms]
+[ns]Makoto[nse]
+"I see... That makes sense."[pcms]
 
 *170|
 [fc]
-そういえば、工場を写した写真集とか[r]
-廃墟の写真集の話は聞いたことがある。[pcms]
+Come to think of it, I've heard about photo collections of factories[r]
+and ruins before.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *171|
 [fc]
 [vo_stk s="satuki_st0023"]
-[ns]彩月[nse]
-「やあね、なにうんうん頷いてるのよ」[pcms]
+[ns]Satsuki[nse]
+"Hey now, what are you nodding about?"[pcms]
 
 *172|
 [fc]
-[ns]誠[nse]
-「いや、目から鱗ですよ。わかる人が見ると、ふだんの街中の[r]
-　景色でさえも対象になるんだなあって」[pcms]
+[ns]Makoto[nse]
+"No, it's like a revelation. To someone who understands, even the[r]
+usual cityscapes can become subjects."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *173|
 [fc]
 [vo_stk s="satuki_st0024"]
-[ns]彩月[nse]
-「そうよ～。風景ってもいろいろあって、それぞれ味わいが[r]
-　違うんだから」[pcms]
+[ns]Satsuki[nse]
+"That's right~. There are various kinds of landscapes, each with its[r]
+own flavor."[pcms]
 
 *174|
 [fc]
-[ns]誠[nse]
-「いや、勉強になりました」[pcms]
+[ns]Makoto[nse]
+"I've learned a lot."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *175|
 [fc]
 [vo_stk s="satuki_st0025"]
-[ns]彩月[nse]
-「それは、何よりです。あはは」[pcms]
+[ns]Satsuki[nse]
+"That's good to hear. Ahaha."[pcms]
 
 *176|
 [fc]
-良かった。いつもの南先輩の笑顔だ。[pcms]
+Thank goodness. It's Senior Minami's usual smile.[pcms]
 
 *177|
 [fc]
-それからしばらくのあいだも、僕たちは写真の話で[r]
-盛り上がった。心なしか足取りも軽くなる。[pcms]
+After that, we continued to get excited talking about photography for[r]
+a while. Our steps felt lighter somehow.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *178|
 [fc]
 [vo_stk s="satuki_st0026"]
-[ns]彩月[nse]
-「ほら、あのテントだよ」[pcms]
+[ns]Satsuki[nse]
+"Look, that's our tent over there."[pcms]
 
 *179|
 [fc]
-随分と入り口から歩いてきた気がする。[r]
-キャンプ場の真ん中あたりまで来ただろうか。[pcms]
+We seemed to have walked quite a distance from the entrance. Maybe we[r]
+had come to about the middle of the campsite.[pcms]
 
 *180|
 [fc]
-ここら辺は、バイクや自転車や徒歩のお客のためなんだろう。[r]
-それぞれの区画が小さめに切ってあった。[pcms]
+This area seemed to be for customers on bikes, bicycles, or on foot.[r]
+The plots were cut into smaller sections.[pcms]
 
 *181|
 [fc]
-その一角にある小ぶりなテントを南先輩が指差してみせる。[r]
-傍らには、レンタサイクルも停めてあった。[pcms]
+Senior Minami pointed out a small tent in one corner. There were[r]
+rental bicycles parked beside it.[pcms]
 
 *182|
 [fc]
-小ぶりといっても、船の上で見た時の印象より、[r]
-広げた姿を見たら結構大きい。[r]
-大人二人ぐらいだったら、寝られるんじゃないかな。[pcms]
+The tent seemed small when viewed from the ship, but now that it was[r]
+set up, it looked quite large. Maybe two adults could sleep in it.[pcms]
 
 *183|
 [fc]
-それに、何か造りや色使いがおしゃれな感じだ。[pcms]
+And something about its construction and color scheme felt stylish.[pcms]
 
 *184|
 [fc]
-テントなんていうと、カラーとか形が限られていて、[r]
-昔ながらの三角テントみたいな“やぼ”ったいイメージばっかりだった。[pcms]
+When you think of tents, you imagine limited colors and shapes, like[r]
+the old-fashioned triangular tents with a 'shabby' image.[pcms]
 
 *185|
 [fc]
-でも、今、道々見てきたテントは、随分と多彩になっている。[pcms]
+But now, looking at the tents along the way, they've become quite[r]
+varied.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *186|
 [fc]
 [vo_stk s="satuki_st0027"]
-[ns]彩月[nse]
-「さ、遠慮せずに入って入って」[pcms]
+[ns]Satsuki[nse]
+"Come on, don't be shy, come on in."[pcms]
 
 *187|
 [fc]
-[ns]誠[nse]
-「あ、はい……」[pcms]
+[ns]Makoto[nse]
+"Ah, yes..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *188|
 [fc]
-ちょっとドキドキしてきた。[pcms]
+I started to feel a little nervous.[pcms]
 
 *189|
 [fc]
-テントとはいえ、女の子の部屋に招かれてるわけだし。[r]
-それなりに狭い空間でもあるわけだし。[r]
-話があるみたいな感じも、期待感を盛り上げてくれる。[pcms]
+After all, I was being invited into a girl's space, even if it was[r]
+just a tent. It's a rather confined space too. The hint that she had[r]
+something to talk about also heightened my sense of anticipation.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *190|
 [fc]
 [vo_stk s="satuki_st0028"]
-[ns]彩月[nse]
-「どうしたの？　ほら、早く入っておいでよ」[pcms]
+[ns]Satsuki[nse]
+"What's wrong? Come on, hurry up and come in."[pcms]
 
 *191|
 [fc]
-[ns]誠[nse]
-「はい。お邪魔しま～す」[pcms]
+[ns]Makoto[nse]
+"Yes. Excuse me for intruding~"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *192|
 [fc]
-ジッパーが開けられた入り口から、南先輩同様に[r]
-僕も少し腰をかがめて中へと入った。[pcms]
+Like Senior Minami, I also bent down a little at the waist as I[r]
+entered through the zipper-opened entrance.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>

@@ -142,7 +142,7 @@
 ;//2回目0030
 ;//3回目0040
 ;//4回目0050
-;//5回目以降0010～0050選べるラベルprologue_selへ
+;//5回目以降00100050選べるラベルprologue_selへ
 
 ;//mine:BADでもクリアタイム増やさないとプロローグスキップしてもスキップしてるように見えないなあ
 ;//スキップtxtの方だけ、クリアタイム毎にボタンが増える仕様にしておくが、Dが許すならこっちもボタン増える形にかえる
@@ -191,7 +191,7 @@
 ;	[link target=*aspect_sel_SEL04 layer=3 left="&f.aspect1_x" top="&f.aspect4_y" single=true width=1024 height=72 border=0][endlink]
 ;	[link target=*aspect_sel_SEL05 layer=4 left="&f.aspect1_x" top="&f.aspect5_y" single=true width=1024 height=72 border=0][endlink]
 ;	[link target=*aspect_sel_SEL06 layer=5 left="&f.aspect2_x" top="&f.aspect6_y" single=true width=256  height=48 border=0][endlink]
-;	[s]
+;[pcms]
 
 ;==================
 ;[zap_set1]
@@ -298,7 +298,7 @@
 	[cancelskip]
 	[cancelautomode]
 
-	[s]
+[pcms]
 
 ;==================
 

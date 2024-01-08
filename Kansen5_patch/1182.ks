@@ -18,18 +18,17 @@
 
 *3473|
 [fc]
-[ns]宗一郎[nse]
-「ん…………」[pcms]
+[ns]Souichirou[nse]
+"Hmm..."[pcms]
 
 *3474|
 [fc]
-気がつくと、俺は血だまりの中に倒れていた。[pcms]
+When I came to, I was lying in a pool of blood.[pcms]
 
 *3475|
 [fc]
-夏都さんが撃たれたのに驚いて、[r]
-とっさに身体を伏せたのが良かったのか、[r]
-弾丸は俺の頭を貫くのに失敗したみたいだ。[pcms]
+Surprised by Natsu-san getting shot, it seems my reflex to duck down[r]
+was a good one, as the bullet failed to go through my head.[pcms]
 
 [se buf=0 storage="seB023"]
 
@@ -41,49 +40,45 @@
 
 *3476|
 [fc]
-[ns]宗一郎[nse]
-「ぐっ、いつっ……」[pcms]
+[ns]Souichirou[nse]
+"Guh, when..."[pcms]
 
 *3477|
 [fc]
-酷い頭痛だった。[r]
-無傷というわけにもいかなかったらしい。[pcms]
+The headache was terrible. It seems I didn't escape unscathed.[pcms]
 
 *3478|
 [fc]
-いや、この出血量で良くもこんなに[r]
-意識がはっきりしているものだ。[pcms]
+No, with this much blood loss, it's surprising how clear my[r]
+consciousness is.[pcms]
 
 *3479|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *3480|
 [fc]
-俺は、もう長くないだろう。[r]
-今から救急医療を受けられれば助かるかも知れないが、[r]
-それは不可能だ。[pcms]
+I probably don't have much longer. I might be saved if I could get[r]
+emergency medical treatment now, but that's impossible.[pcms]
 
 *3481|
 [fc]
-隣に荒井の死体が転がっていた。[r]
-他の三人の姿はない。[pcms]
+Next to me lay Arai's corpse. There was no sign of the other three.[pcms]
 
 *3482|
 [fc]
-良く見ると、地面に引きずられたような後があって、[r]
-それが裏庭の方に向かって延びていた。[pcms]
+Looking closer, there were drag marks on the ground, extending towards[r]
+the back yard.[pcms]
 
 *3483|
 [fc]
-荒井は死んで、三人は捕まったんだ。[r]
-どういうわけか、殺していない。[pcms]
+Arai is dead, and the three have been captured. For some reason, they[r]
+haven't been killed.[pcms]
 
 *3484|
 [fc]
-銃撃した奴らには、三人が生きていることで、[r]
-なにか価値が生まれるんだろう。[pcms]
+The shooters must see some value in keeping the three alive.[pcms]
 
 [se buf=0 storage="seB023"]
 
@@ -95,34 +90,33 @@
 
 *3485|
 [fc]
-[ns]宗一郎[nse]
-「ううっ……」[pcms]
+[ns]Souichirou[nse]
+"Ugh..."[pcms]
 
 ;//#_黒フラ
 [黒フラ]
 
 *3486|
 [fc]
-今にも意識を失いそうだった。[r]
-まずい……。[pcms]
+I felt like I was about to lose consciousness at any moment. This is[r]
+bad...[pcms]
 
 *3487|
 [fc]
-このままだと、逆転のチャンスは無さそうだった。[r]
-フリーになっている俺がどうにかしないと……。[pcms]
+If things stay like this, it doesn't seem like there will be a chance[r]
+for a turnaround. I, who am free, have to do something...[pcms]
 
 *3488|
 [fc]
-でも、どうすればいい……、[r]
-逃げ出すチャンスを作るには……。[pcms]
+But what should I do... How can I create a chance to escape...[pcms]
 
 [se buf=0 storage="seG015"]
 ;//♪SE感染者の集団っぽいガヤ
 
 *3489|
 [fc]
-辺りに人の気配はなく、[r]
-門の外から感染者のうめき声が聞こえてくるだけだった。[pcms]
+There was no sign of people around, only the moans of the infected[r]
+could be heard from outside the gate.[pcms]
 
 [bg storage="BG19e"][trans_c cross time=1000]
 ;不要？[wait_c time=1000]
@@ -133,14 +127,14 @@
 
 *3490|
 [fc]
-感染者のうめき声……。[pcms]
+The moans of the infected...[pcms]
 
 [bg storage="BG13b"][trans_c cross time=1000]
 
 *3491|
 [fc]
-俺にはもう、それしか思い浮かばなかった。[r]
-あまりやりたくないけど、仕方がない。[pcms]
+The only thing that came to mind was something I really didn't want to[r]
+do, but I had no choice.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -148,8 +142,8 @@
 
 *3492|
 [fc]
-門までなんとか這っていくと、[r]
-最後の力を振り絞って立ち上がる。[pcms]
+Somehow I managed to crawl to the gate, then with the last of my[r]
+strength, I stood up.[pcms]
 
 [se buf=0 storage="seB023" loop=true]
 
@@ -162,13 +156,12 @@
 
 *3493|
 [fc]
-[ns]宗一郎[nse]
-「誠……越智さんを、頼んだからな」[pcms]
+[ns]Souichirou[nse]
+"Makoto... I'm counting on you to look after Ochi-san."[pcms]
 
 *3494|
 [fc]
-俺はコンソールパネルをいじると、[r]
-門をオープンさせた。[pcms]
+I fiddled with the console panel and opened the gate.[pcms]
 
 ;//[chara_int_ layer=1]<UpDate Cross.3000]
 [se buf=1 storage="seA019"]
@@ -177,24 +170,23 @@
 
 *3495|
 [fc]
-ゆっくりと門が開いていく。[pcms]
+The gate slowly began to open.[pcms]
 
 *3496|
 [fc]
-[ns]宗一郎[nse]
-「おおおおおおお……」[pcms]
+[ns]Souichirou[nse]
+"Oooooooh..."[pcms]
 
 
 ;<SoundVolume 2,-1000,2000>;mm SE音量変更か　無視
 
 *3497|
 [fc]
-膝がガクガクとふるえている。[r]
-傷のせいじゃない……。[pcms]
+My knees were shaking. It wasn't because of the wound...[pcms]
 
 *3498|
 [fc]
-俺の、俺の命が震え上がっているんだ。[pcms]
+It was my life that was trembling.[pcms]
 
 
 [quake_bg y m]
@@ -202,21 +194,22 @@
 
 *3498a|
 [fc]
-[ruby text="ひざまづ"]跪いて指を胸の前にかざすと、[r]
-上下左右に素早く十字を切って指を天に向ける。[pcms]
+Kneeling down and holding my fingers in front of my chest, I quickly[r]
+made the sign of the cross up, down, left, and right, then pointed my[r]
+fingers to the sky.[pcms]
 
 *3499|
 [fc]
-越智さん、最後の最後は笑っていられるように、[r]
-勇気をください……。[pcms]
+Ochi-san, please give me courage so that at the very end, I can go out[r]
+with a smile...[pcms]
 
 [bgm storage="BGM12"]
 ;//♪bgm12　悪い状況。
 
 *3500|
 [fc]
-[ns]宗一郎[nse]
-「おおおおおおおおおおおおっ！」[pcms]
+[ns]Souichirou[nse]
+"Ooooooooooooooh!"[pcms]
 
 [se buf=0 storage="seG013"]
 ;//♪SE感染者の呻き
@@ -231,8 +224,7 @@
 
 *3501|
 [fc]
-門が開いたその先から、[r]
-大量の感染者が雪崩込んできた。[pcms]
+From beyond the opened gate, a horde of infected came pouring in.[pcms]
 
 ;<SoundVolume 2,0,1000>;mm SE音量変更か　無視
 [stopse buf=0]
@@ -241,13 +233,13 @@
 
 *3502|
 [fc]
-[ns]宗一郎[nse]
-「頼んだぞぉぉぉぉぉっ！」[pcms]
+[ns]Souichirou[nse]
+"I'm counting on youuuuuu!"[pcms]
 
 *3503|
 [fc]
-俺は最初に入ってきた村上さんの顔を見ながら、[r]
-なんとなく救われた気持ちになっていた。[pcms]
+As I saw Murakami-san's face among those who first entered, I felt[r]
+somewhat saved.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]

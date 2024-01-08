@@ -38,20 +38,19 @@
 *738|
 [fc]
 [vo_mis s="misao0135"]
-[ns]美沙緒[nse]
-「まさか、わたしも……。[r]
-　どうしてこんな……体がうずいて……。[r]
-　まさか、さっきのバットに付いていた血に触った……？」[pcms]
+[ns]Misao[nse]
+"I can't believe it's happening to me too... Why is my body throbbing[r]
+like this...? Could it be because I touched the blood on the bat[r]
+earlier?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi08"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *739|
 [fc]
 [vo_mis s="misao0136"]
-[ns]美沙緒[nse]
-「だとしたら……茜梨も……。[r]
-　あぁ、なんてこと！　どうしたら……。[r]
-　これじゃ、わたしたちも……」[pcms]
+[ns]Misao[nse]
+"If that's the case... Akari might be affected too... Oh no, what[r]
+should we do? This means we might also..."[pcms]
 
 [chara_int][trans_c cross time=150]
 [bgm storage="BGM07"]
@@ -59,125 +58,116 @@
 
 *740|
 [fc]
-あれは、みさおさんだ。[r]
-なんだ、もう目が赤いや。[pcms]
+??? "That's Misao-san. Oh, her eyes are already red."[pcms]
 
 *741|
 [fc]
-ってことは、もうヌレヌレオマンコ。[r]
-それに、ちょっとねんれいが上だから、[r]
-キツキツオマンコじゃない。[pcms]
+??? "Which means her pussy must be soaking wet. And since she's a bit[r]
+older, it's not going to be a tight pussy."[pcms]
 
 *742|
 [fc]
-だけど、いれたらいれたできもちいいにきまってるんだ。[r]
-越智さんのまえに、もういちどだしておこう。[pcms]
+??? "But once you're in, it's bound to feel good. I should let it out[r]
+one more time before Ochi-san."[pcms]
 
 *743|
 [fc]
-……そうしないと、またソーローやろうっていわれちゃう。[r]
-おちさんにもきらわれちゃうかもしれないし。[pcms]
+??? "...Otherwise, I might be asked to do it solo again. Ochi-san[r]
+might even start to dislike me."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *744|
 [fc]
-[ns]宗一郎[nse]
-「おおお、とととと、としうえ！[r]
-　じゅくじょ！？　うーん、[r]
-　じゅくじょにカテゴライズしていいのか？」[pcms]
+[ns]Souichirou[nse]
+"Ohhh, older women! A mature woman!? Hmm, can I categorize her as a[r]
+mature woman?"[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_sw"][ChrSetParts layer=5 chface="F2_ar02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *745|
 [fc]
-[ns]荒井[nse]
-「熟女もなにも、みんな女！[r]
-　いれたら気持ち良い！」[pcms]
+[ns]Arai[nse]
+"Mature woman or not, they're all women! It feels good once you're[r]
+inside!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so02b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *746|
 [fc]
-[ns]宗一郎[nse]
-「うむ、たしかに。それにいままでの女とまたちがうかもしれん。[r]
-　ここは、とつげきするしかないな！　なあ、まこと！」[pcms]
+[ns]Souichirou[nse]
+"Indeed, and she might be different from the women I've been with[r]
+before. There's no choice but to charge in! Right, Makoto?"[pcms]
 
 *747|
 [fc]
-[ns]誠[nse]
-「そうだけど、おまえ、しゃべりかたへんだよ？[r]
-　だいじょうぶ？」[pcms]
+[ns]Makoto[nse]
+"That's true, but your way of speaking is weird, you know? Are you[r]
+okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_sw"][ChrSetParts layer=5 chface="F2_ar11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *748|
 [fc]
-[ns]荒井[nse]
-「二人ともヘンだから気にすんな！[r]
-　……俺、口でしてみたいな……」[pcms]
+[ns]Arai[nse]
+"Both of you are weird, don't worry about it! ...I want to try doing[r]
+it with my mouth..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *749|
 [fc]
-[ns]宗一郎[nse]
-「じゃあおれは、オマンコ！　もうゆずらないぞ！[r]
-　まことはアナルでもヤッとけ。[r]
-　あれはアレでいいものだ……」[pcms]
+[ns]Souichirou[nse]
+"Then I'll take the pussy! I won't give it up! Makoto can have the[r]
+ass. That's good in its own way..."[pcms]
 
 *750|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *751|
 [fc]
-うーん、どうしよう。[r]
-ほんとはなかだししたいのだけど、[r]
-越智さんのほうがいいな。[pcms]
+??? "Hmm, what should I do? I really want to cum inside, but I prefer[r]
+Ochi-san."[pcms]
 
 *752|
 [fc]
-ぼくは、あのおっきなオッパイにしておこうかな……。[r]
-でも、それはさっき、だれかに……。[pcms]
+??? "I guess I'll go for those big breasts... But someone did that[r]
+just a while ago..."[pcms]
 
 *753|
 [fc]
-あれ。[r]
-だれだっけ。[pcms]
+??? "Wait. Who was it again?"[pcms]
 
 *754|
 [fc]
-というか、おっぱいにだしたっけ？[pcms]
+??? "Or did I cum on the breasts?"[pcms]
 
 *755|
 [fc]
-うーん……。[r]
-まあ、おっぱいにしておこう。[r]
-あのきょにゅうは、とてもよさそうだものね。[pcms]
+??? "Hmm... Well, I'll go for the breasts. Those huge tits look really[r]
+nice."[pcms]
 
 *756|
 [fc]
-あれ、あたまがクラクラしてきた。[r]
-うーん……うーん……。[pcms]
+??? "Oh, my head is starting to spin. Hmm... Hmm..."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *757|
 [fc]
-[ns]宗一郎[nse]
-「おおおっ！　やっぱりじゅくじょマンコいい！[r]
-　いいかんじにこなれてて、[r]
-　やわらかくネットリとからみつくようで……」[pcms]
+[ns]Souichirou[nse]
+"Ohhh! Mature pussy is great! It's nicely seasoned, soft and clings to[r]
+you in a sticky way..."[pcms]
 
 *758|
 [fc]
-[ns]荒井[nse]
-「口も、強すぎず弱すぎず……。[r]
-　ベロも、全体を包み込んで、おおおっ！[r]
-　やっぱ、経験人数の差ってやつですか！」[pcms]
+[ns]Arai[nse]
+"The mouth is just right, not too strong or too weak... The tongue[r]
+wraps around everything, ohhh! Is this what they call the difference[r]
+in experience numbers!"[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -195,310 +185,290 @@
 
 *759|
 [fc]
-ぐちゅぐちゅとしたねばりけのあるおと。[r]
-それと、ぬれたはだがぶつかるおと。[r]
-いろんなエッチなおとが、ぼくのまわりからきこえていた。[pcms]
+??? "The sound of sticky wetness and wet skin colliding. Various[r]
+erotic sounds were coming from around me."[pcms]
 
 *760|
 [fc]
-ぼくはというと、たわわなオッパイと、[r]
-みずぎのあいだにモノをさしこんで、[r]
-ひっしにこしをふっていた。[pcms]
+??? "As for me, I was thrusting desperately with my thing between[r]
+those ripe breasts and the swimsuit."[pcms]
 
 *761|
 [fc]
 [vo_mis s="misao0137"]
-[ns]美沙緒[nse]
-「んぉおっ……んぶっ……ぢゅぶっ……んぷうっ……」[pcms]
+[ns]Misao[nse]
+"Nnnoooh... Nnpuhh... Jyubuhh... Npuuhh..."[pcms]
 
 [evcg storage="misao_H003b"][trans_c cross time=300]
 
 *762|
 [fc]
 [vo_mis s="misao0138"]
-[ns]美沙緒[nse]
-「んぷっ……こんなの、わたし本当はイヤなのに……。[r]
-　でも、体が熱く火照って……仕方ないの……。[r]
-　オマンコの疼きを止めてほしい……んぅうっ……れろっ」[pcms]
+[ns]Misao[nse]
+"Npuhh... Even though I really don't want this... But my body is[r]
+burning hot... I can't help it... Please stop the throbbing in my[r]
+pussy... Nnuuuhh... Lick"[pcms]
 
 *763|
 [fc]
-あらいがいっていたみたいに、[r]
-いままでのおんなのことはまたべつのはんのうだ。[pcms]
+??? "Just like Arai said, the reaction is different from the girls[r]
+before."[pcms]
 
 *764|
 [fc]
-これがじゅくじょってやつ？[r]
-けいけんほうふな、おんなのひとのはんのう。[pcms]
+??? "Is this what they call a mature woman? The reaction of an[r]
+experienced woman."[pcms]
 
 *765|
 [fc]
-たださけぶだけじゃなくて、[r]
-セックスをたのしんでいる。[r]
-これはこれで、しんせんだ。[pcms]
+??? "She's not just screaming, she's enjoying the sex. This is[r]
+refreshing in its own way."[pcms]
 
 *766|
 [fc]
-[ns]宗一郎[nse]
-「どうだぁ？　おれのモノは！[r]
-　おねえさま！　おねえさまのからだのおくにあたってますか！？[r]
-　あははっ！　コツコツいうっ！　きもちいいっ！」[pcms]
+[ns]Souichirou[nse]
+"How is it? My thing! Madam! Is it hitting deep inside your body!?[r]
+Ahahaha! It's knocking and feels good!"[pcms]
 
 *767|
 [fc]
 [vo_mis s="misao0139"]
-[ns]美沙緒[nse]
-「わっ、わた、わたしもっ！　わたしも、お腹の奥……子宮がぁつ！[r]
-　んぶっ……れろおっ！　子宮叩かれて気持ちいいっ！」[pcms]
+[ns]Misao[nse]
+"Waah, me too! Deep inside my belly... My womb is aching! Npuhh...[r]
+Lick! It feels good having my womb hit!"[pcms]
 
 *768|
 [fc]
-[ns]荒井[nse]
-「おっ、おおっ！　喉の奥締まるな！[r]
-　オマンコよりいいぞこれ！　全体が刺激されてぇっ！[r]
-　うぉおっ！　腰が勝手に動いちまう！」[pcms]
+[ns]Arai[nse]
+"Ohh, ohhh! The back of the throat tightens up! This is better than[r]
+pussy! The whole thing is stimulated! Uoooh! My hips are moving on[r]
+their own!"[pcms]
 
 *769|
 [fc]
 [vo_mis s="misao0140"]
-[ns]美沙緒[nse]
-「んぶっ……ぢゅぶっ！　れろっ！　だっ、出していいのよ！[r]
-　口の中に、精液いっぱい出してっ！[r]
-　あっ……んぶううっ！　んぐっ……んんっ！」[pcms]
+[ns]Misao[nse]
+"Npuhh... Jyubuhh! Lick! Go ahead, cum inside! Fill my mouth with lots[r]
+of semen! Ahh... Npuuuhh! Nguhh... Nnnhh!"[pcms]
 
 *770|
 [fc]
-[ns]荒井[nse]
-「くっ……あぁっ！　め、眼鏡っ！　俺も眼鏡にブッかけ！[r]
-　ぶっかけしたい！」[pcms]
+[ns]Arai[nse]
+"Kuhh... Aahh! Glasses! I want to cum on glasses too! I want to[r]
+bukkake!"[pcms]
 
 *771|
 [fc]
-[ns]宗一郎[nse]
-「ムッフフ！　おれもヤッたが、あれはいいぞ！[r]
-　エロさがますんだよ！　なあ、まこと！」[pcms]
+[ns]Souichirou[nse]
+"Muhuhu! I've done it too, but that was good! It adds to the[r]
+eroticism! Right, Makoto?"[pcms]
 
 *772|
 [fc]
-[ns]誠[nse]
-「え……ぼくは、おっぱいがすきなんだ。[r]
-　おっぱいのやわらかさとスベスベがたまらないんだよ！[r]
-　だまっててくれよ！」[pcms]
+[ns]Makoto[nse]
+"Eh... I like breasts. The softness and smoothness of breasts are[r]
+irresistible! Just leave me alone!"[pcms]
 
 *773|
 [fc]
-そうだ。[r]
-ぼくは、このかんじがすきなんだ。[r]
-オマンコもいいんだけど。[pcms]
+??? "That's right. This is what I like. Pussy is good too."[pcms]
 
 *774|
 [fc]
-たまらない。[r]
-おんなのからだって、ぜんぶたまらない。[pcms]
+??? "I can't stand it. Every part of a woman's body is irresistible."[pcms]
 
 *775|
 [fc]
-そうか、ぼくはこのためにうまれてきたんだ。[r]
-おんなのひとのからだのいろんなところに、[r]
-モノをこすりつけて、いっぱいセーシをだすんだ。[pcms]
+??? "So that's it, I was born for this. To rub my thing against[r]
+various parts of a woman's body and cum a lot."[pcms]
 
 *776|
 [fc]
 [vo_mis s="misao0141"]
-[ns]美沙緒[nse]
-「んっ……んぎいぃいいっ！！　お、奥がぁっ！[r]
-　子宮、コツコツしないでぇっ！　頭がヘンになるうぅっ！[r]
-　君の、太くておっきくて、すごぃいいっ！！　んぶうううっ！」[pcms]
+[ns]Misao[nse]
+"Nnn... Ngyiiii!! My insides! My womb, don't knock on it! It's making[r]
+my head go crazy! Your thick and big one is amazing!! Npuuuuu!"[pcms]
 
 *777|
 [fc]
 [vo_mis s="misao0142"]
-[ns]美沙緒[nse]
-「んおっ！　んおおおおっ！　奥いいっ！」[pcms]
+[ns]Misao[nse]
+"Nnohh! Nnooooooohh! It feels so good deep inside!"[pcms]
 
 [evcg storage="misao_H003c"][trans_c cross time=300]
 
 *778|
 [fc]
-[ns]宗一郎[nse]
-「そうでしょう、そうでしょうとも！[r]
-　おれのモノはせかいいちですからな！[r]
-　これだけのおおきさは、ほかにいないでしょう！」[pcms]
+[ns]Souichirou[nse]
+"That's right, that's right indeed! My dick is the best in the world![r]
+No one else has this size!"[pcms]
 
 *779|
 [fc]
 [vo_mis s="misao0143"]
-[ns]美沙緒[nse]
-「あまり好みじゃ無いけどっ！　君のモノだけはいいっ！[r]
-　お腹いっぱいになってぇっ！　ぁぁぁああっっ！[r]
-　気持ちいいいいっ！　奥も、口の中もいいわぁっ！」[pcms]
+[ns]Misao[nse]
+"It's not really my type, but! Your dick is the only one I like! I[r]
+want it to fill me up! Ahhhhh! It feels so good! Both deep inside and[r]
+in my mouth!"[pcms]
 
 *780|
 [fc]
-[ns]荒井[nse]
-「ベロの動きが良すぎるっ！　裏筋もっと舐めてくれよっ！[r]
-　すってくれよおっ！　全体をもっと、刺激してくれぇっ！」[pcms]
+[ns]Arai[nse]
+"Your tongue movement is too good! Lick the underside more! Stroke it![r]
+Stimulate the whole thing more!"[pcms]
 
 *781|
 [fc]
-[ns]誠[nse]
-「オッパイもいいよっ！　みずぎのすきまと、おっぱいのにく！[r]
-　モノがすりきれそうだよ！　きもちいいぃいっ！[r]
-　このやわらかいおっぱいに、いっぱいだす！　ぼくだす！！」[pcms]
+[ns]Makoto[nse]
+"Breasts are good too! The gap in the swimsuit, and the flesh of the[r]
+breasts! My thing feels like it's going to rub off! It feels so good![r]
+I'm going to cum a lot on these soft breasts! I'm cumming!!"[pcms]
 
 *782|
 [fc]
 [vo_mis s="misao0144"]
-[ns]美沙緒[nse]
-「い、一度にこんなにされるの初めてぇっ！　あっ……ああっ！　[r]
-　イッちゃううっ！　ひぁぁっ！！　んぶっ……んんっ！　[r]
-　ちゅっ……ちゅばっっ！　んひぃいいぃいぃいっっ！！」[pcms]
+[ns]Misao[nse]
+"This is my first time being done like this all at once! Ah... Aahh![r]
+I'm going to cum! Hiaahh!! Nbuu... Nnnh! Chu... Chubaaahh![r]
+Nhiyiiiiii!!"[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *783|
 [fc]
-みさおさん、からだがふるえてる。[r]
-ぼくのモノが、プルプルしげきされる！[pcms]
+Misao's body is trembling. My dick is being stimulated and twitching![pcms]
 
 [se buf=1 storage="se_sex01"]
 ;//SE　射精っぽい
 
 *784|
 [fc]
-こしもかってにうごいて、[r]
-ピュッとおしっこみたいなえきたいがふきだした。[pcms]
+My hips move on their own, and a liquid like pee spurts out.[pcms]
 
 *785|
 [fc]
 [vo_mis s="misao0145"]
-[ns]美沙緒[nse]
-「はぁっ……あぁっ……んぁァッ……んぶっ……れろっ……」[pcms]
+[ns]Misao[nse]
+"Haa... Aah... Nhaa... Nbuu... Leroo..."[pcms]
 
 ;//♂Ｄ：あえぎながらペニスを舐める感じ
 
 *786|
 [fc]
 [vo_mis s="misao0146"]
-[ns]美沙緒[nse]
-「わ、わたし……イッちゃった……こんなの……あぁ……。[r]
-　も、もっとイカせて！　わたしをもっとイカせてぇっ！[r]
-　何でもするからぁ……わたしの体、どこを使ってもいいっ！」[pcms]
+[ns]Misao[nse]
+"I... I came... something like this... aah... Make me cum more! Make[r]
+me cum more! I'll do anything... You can use my body anywhere you[r]
+want!"[pcms]
 
 *787|
 [fc]
 [vo_mis s="misao0147"]
-[ns]美沙緒[nse]
-「わたしに、ザーメンちょうだいぃいっ！[r]
-　膣も、喉も、全部犯してっ！　わ、わたしが、[r]
-　君達の受け皿になるから！　全部受け止めてあげるからぁっ！」[pcms]
+[ns]Misao[nse]
+"Give me your semen! Violate my pussy, my throat, everything! I'll be[r]
+your receptacle! I'll catch it all!"[pcms]
 
 *788|
 [fc]
-[ns]宗一郎[nse]
-「おお……なんと、みだらな……。わかりもうした！[r]
-　わたくしめが、もういちどハデにイカせてさしあげます！[r]
-　そして、わたくしめのせいえきをあなたにそそぎます！」[pcms]
+[ns]Souichirou[nse]
+"Oh... what a lewd sight... Understood! I shall make you cum grandly[r]
+once more! And then, I will pour my semen into you!"[pcms]
 
 *789|
 [fc]
-[ns]荒井[nse]
-「おっ、俺も、その綺麗な顔に……眼鏡にブッかけるっ！」[pcms]
+[ns]Arai[nse]
+"Oh, I also want to bukkake on that beautiful face... on the glasses!"[pcms]
 
 *790|
 [fc]
-みさおさんは、そーいちにオマンコをつつかれ、[r]
-あらいにくちのなかをふさがれながらも、[r]
-こしをクネクネふって、よろこんでいる。[pcms]
+Misao is being poked in the pussy by Souichirou and her mouth is[r]
+blocked by Arai, yet she's writhing her hips and seems to be enjoying[r]
+it.[pcms]
 
 *791|
 [fc]
-ぼくのモノも、みさおさんをよろこばせられているかな。[r]
-ぼくだけ、なんだかカヤのそとみたい。[pcms]
+I wonder if my dick is also making Misao-san happy. I feel somewhat[r]
+left out.[pcms]
 
 *792|
 [fc]
-でもいいんだ。[r]
-ぼくは、越智さんをまんぞくさせられればそれでいいんだ。[r]
-そのまえに、いちどイッておかないと。[pcms]
+But that's okay. As long as I can satisfy Ochi-san, that's all that[r]
+matters. But before that, I need to cum once.[pcms]
 
 *793|
 [fc]
-わらわれたくないものね。[r]
-だいすきなひととのセックスのさいちゅうには。[pcms]
+You don't want to be laughed at, especially during sex with someone[r]
+you love.[pcms]
 
 *794|
 [fc]
 [vo_mis s="misao0148"]
-[ns]美沙緒[nse]
-「んおおおっ！　おおおっ！　子宮いいっ！　もっと、[r]
-　わたしの奥をえぐって！　あはぁっ！　コブシが中に入ってる[r]
-　みたいぃいっ！　そのまま出していいからぁっ！」[pcms]
+[ns]Misao[nse]
+"Nnoooohh! Ohhhhh! My womb feels so good! More, carve into my depths![r]
+Ahhaaahh! It's like a fist is inside meeeehh! It's okay to cum like[r]
+this!"[pcms]
 
 *795|
 [fc]
 [vo_mis s="misao0149"]
-[ns]美沙緒[nse]
-「んぶううっ！　れろっ！　君も、いつでも出していいから……。[r]
-　わたしが全部飲んで……そのあと綺麗にしてあげる……。[r]
-　れろっ……ちゅっ……ちゅるうっ！」[pcms]
+[ns]Misao[nse]
+"Nbuuuhh! Leroo! You too, you can cum anytime... I'll swallow it[r]
+all... and then clean you up... Leroo... Chu... Churruuhh!"[pcms]
 
 *796|
 [fc]
-ぼくたちがげんかいなのをさっしたのかな。[r]
-みさおさんのこうふんどあいも、ドンドンあがってるみたい。[pcms]
+I wonder if we've reached our limit. Misao-san's excitement seems to[r]
+be rising more and more.[pcms]
 
 *797|
 [fc]
-ちてきなかおしているのに、[r]
-こんなこというなんて。[pcms]
+Despite being intellectual, saying such things...[pcms]
 
 *798|
 [fc]
-なんだかぼくのこうふんも、どんどんあがってきた。[r]
-みさおさんのいうとおり、このままだしちゃおう。[pcms]
+Somehow my excitement is also rising. Just as Misao-san said, let's[r]
+cum like this.[pcms]
 
 *799|
 [fc]
 [vo_mis s="misao0150"]
-[ns]美沙緒[nse]
-「みんなのおちんちん……ぴくぴくしてるのが分かるわ！[r]
-　イッていいのよ……いつでも、好きな所に！[r]
-　頂戴、みんなの精子頂戴いいっ！　わたしも、イクううっ！」[pcms]
+[ns]Misao[nse]
+"I can feel everyone's dicks twitching! You can cum... anytime,[r]
+anywhere you like! Give it to me, give me all your semen! I'm also[r]
+going to cum!"[pcms]
 
 *800|
 [fc]
-[ns]宗一郎[nse]
-「おっ、おれもイクっ！　おことばにあまえさせていただきます！[r]
-　ぜんぶ、オマンコのなかにださせていただきますっ！」[pcms]
+[ns]Souichirou[nse]
+"Oh, I'm going to cum too! I will take you up on your offer! I will[r]
+release it all inside your pussy!"[pcms]
 
 *801|
 [fc]
-[ns]荒井[nse]
-「俺もっ！　飲んでっ！　[r]
-　飲み足りない分は全部顔に出すからっ！[r]
-　あとで舐めてくれっ！　飲んでくれぇっ！」[pcms]
+[ns]Arai[nse]
+"Me too! Drink it! And whatever you can't drink, I'll cum all over[r]
+your face! Lick it up later! Drink it for me!"[pcms]
 
 *802|
 [fc]
-[ns]誠[nse]
-「ぼっ……ぼくもオッパイにだすよっ！[r]
-　これも、あとでのんでみせてっ！」[pcms]
+[ns]Makoto[nse]
+"I'm... I'm going to cum on the breasts too! Show me you drinking it[r]
+later!"[pcms]
 
 *803|
 [fc]
 [vo_mis s="misao0151"]
-[ns]美沙緒[nse]
-「いいわっ！　いいわよおっ！　みんなの、全部飲んであげるっ！[r]
-　ああぁっ！　若い精子っ！　そ、想像しただけでイッちゃう！[r]
-　凄いの来るっ！　イッ、イクっ！　イクウウゥうぅっ！！」[pcms]
+[ns]Misao[nse]
+"Yes, that's great! I'll drink it all for everyone! Aaahhh! Young[r]
+semen! Just thinking about it makes me cum! Something big is coming![r]
+I'm cumming, I'm cumming!!"[pcms]
 
 *804|
 [fc]
-[ns]誠＆宗一郎＆荒井[nse]
-「うっ……でっ、でるううっ！　あぁっ！[r]
-　熟女に射精するううっ！！　飲み干されるううっ！！」[pcms]
+[ns]Makoto & Souichirou & Arai[nse]
+"Uhh... it's coming outttt! Ahhh! Ejaculating into a mature woman!![r]
+Being drunk dry!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -513,10 +483,10 @@
 *805|
 [fc]
 [vo_mis s="misao0152"]
-[ns]美沙緒[nse]
-「あっ……あぁあっ！　おっ、オマンコ痙攣しちゃうっ！[r]
-　あぁあっ！　またイクううぅっ！　全身に精子もらって、[r]
-　わたし、またイクぅうっ！！」[pcms]
+[ns]Misao[nse]
+"Ah... Aaahhh! Oh, my pussy is convulsing! Aaahhh! I'm going to cum[r]
+againnnn! Receiving semen all over my body, I'm going to cum[r]
+againnn!!"[pcms]
 
 ;//#_白フラ
 [evcg白フラ storage="misao_H003e"]
@@ -526,47 +496,45 @@
 
 *806|
 [fc]
-みさおさんは、そーいちのモノをのみこんだまま、[r]
-こしをおおきくふりあげると、そのままおしっこをするみたいに、[r]
-すごいりょうのたいえきをふきださせた。[pcms]
+While swallowing Souichirou's dick, Misao raises her hips high and[r]
+then releases a large amount of bodily fluid like peeing.[pcms]
 
 *807|
 [fc]
-[ns]宗一郎[nse]
-「うっ、うわあっ！　しおふき！　はじめてみた！[r]
-　なましおふきだぁっ！」[pcms]
+[ns]Souichirou[nse]
+"Ugh, wowww! Squirting! This is my first time seeing it live[r]
+squirting!"[pcms]
 
 *808|
 [fc]
-なんども、なんども、たかくふきあげられるしおが、[r]
-そーいちのでっぱらをぬらしていく。[pcms]
+The squirting that keeps shooting high up is wetting Souichirou's[r]
+belly.[pcms]
 
 *809|
 [fc]
 [vo_mis s="misao0153"]
-[ns]美沙緒[nse]
-「あはぁっ……いやぁっ……こんなの……すごい……。[r]
-　みんな、凄い……見ないでぇ……こんな所、[r]
-　見ないでぇっ……でも、気持ちいい……あぁぁ……」[pcms]
+[ns]Misao[nse]
+"Ahhaa... Nooo... something like this... amazing... Everyone,[r]
+amazing... don't look at me... don't look at such a place, but it[r]
+feels good... ahhh..."[pcms]
 
 *810|
 [fc]
 [vo_mis s="misao0154"]
-[ns]美沙緒[nse]
-「あぁ……んぅうぅ……れろおっ……はぁっ……あはぁ……」[pcms]
+[ns]Misao[nse]
+"Ahh... Nuuuuhh... Lerooo... Haa... Ahhaa..."[pcms]
 
 *811|
 [fc]
-す、すごいイヤらしい……。[r]
-これが、じゅくじょのぜっちょうなのかな……。[pcms]
+It's so lewd... Is this what a mature woman's climax is like?[pcms]
 
 *812|
 [fc]
-こんなのみたら、ぼく……。[pcms]
+If I see something like this...[pcms]
 
 *813|
 [fc]
-ますます越智さんに中だししなきゃならないってきもちになる！[pcms]
+I feel even more compelled to cum inside Ochi-san![pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -596,22 +564,21 @@
 
 *814|
 [fc]
-どこだ……。[r]
-どこにいるんだ、越智さん！[pcms]
+Where is she... Where is Ochi-san![pcms]
 
 *815|
 [fc]
-ぼくは、ぜったいに越智さんに中だししてやるんだ！[pcms]
+I will definitely cum inside Ochi-san![pcms]
 
 *816|
 [fc]
-[ns]誠[nse]
-「うっ……おおおおっ！　越智さあぁぁあああん！！！」[pcms]
+[ns]Makoto[nse]
+"Ughh... Ochi-saaaaaaan!!!"[pcms]
 
 *817|
 [fc]
-しびれはじめたからだをおさえ、[r]
-ぼくはありったけのちからをハラにこめ、さけんだ。[pcms]
+With my body starting to go numb, I gather all my strength in my[r]
+stomach and scream.[pcms]
 
 ;//ブロック6080へjump
 [jump storage="6080.ks" target=*6080_TOP]

@@ -32,102 +32,102 @@
 
 *2920|
 [fc]
-[ns]宗一郎[nse]
-「ぐうっ、下り坂は足にこたえますな」[pcms]
+[ns]Souichirou[nse]
+"Ugh, the descent really takes a toll on your legs."[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_ja1"][ChrSetParts layer=5 chface="F1_ar06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2921|
 [fc]
-[ns]荒井[nse]
-「少し痩せろ」[pcms]
+[ns]Arai[nse]
+"Lose some weight."[pcms]
 
 *2922|
 [fc]
-デブは予想通り持久力に問題がありそうだったが、[r]
-荒井の方は余裕でオレについてきていた。[pcms]
+As expected, the chubby one seemed to have stamina issues, but Arai[r]
+was keeping up with me with ease.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2923|
 [fc]
-かなりの急斜面だけど、本当に誠がこんな道を通ったんだろうか。[r]
-いや、こんなの道とは呼べないか。[pcms]
+It's quite a steep slope, but did Makoto really pass through here? No,[r]
+this can hardly be called a path.[pcms]
 
 *2924|
 [fc]
-改めて、山を突っ切るというのが、[r]
-相当に困難があると思い知らされていた。[pcms]
+Once again, I was made acutely aware of the considerable difficulties[r]
+involved in cutting across the mountain.[pcms]
 
 *2925|
 [fc]
-女の子を連れて誠がここを通ったとは思えない。[r]
-よほど追い込まれていなければ、別の手段を考えそうだ。[pcms]
+I can't imagine Makoto passing through here with a girl. Unless he was[r]
+really cornered, he would likely think of another way.[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2926|
 [fc]
-[ns]荒井[nse]
-「自衛隊が来てるんですから、車で送っていってもらったとか、[r]
-　考えられないですかね」[pcms]
+[ns]Arai[nse]
+"The Self-Defense Forces are here, so isn't it possible he got a ride[r]
+from them?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so04a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2927|
 [fc]
-[ns]宗一郎[nse]
-「越智さんは感染してるんだぞ、見付かったらただじゃ済まない」[pcms]
+[ns]Souichirou[nse]
+"Ochi-san is infected, it wouldn't end well if she were found."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar12"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2928|
 [fc]
-[ns]荒井[nse]
-「そこは事情を説明するとか、誤魔化すとかあるだろ」[pcms]
+[ns]Arai[nse]
+"There's always explaining the situation or deceiving them, right?"[pcms]
 
 *2929|
 [fc]
 [vo_nat s="natu0202"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2930|
 [fc]
-やっとのことで下り斜面が終わると、[r]
-今度は登り斜面が待ち構えていた。[pcms]
+Finally, when the downhill slope ended, an uphill slope was waiting[r]
+for us.[pcms]
 
 *2931|
 [fc]
-全部無駄な苦労かも知れない。[r]
-オレたちが駆けつける必要だってない可能性がある。[pcms]
+All of this might be a pointless struggle. There's a chance that[r]
+there's no need for us to rush over.[pcms]
 
 *2932|
 [fc]
-でも、今、誠がこの近くで[ruby text="あえ"]喘いでいると思ったら、[r]
-楽観的に構えていることはできなかった。[pcms]
+But the thought of Makoto gasping for air nearby wouldn't allow me to[r]
+remain optimistic.[pcms]
 
 *2933|
 [fc]
 [vo_nat s="natu0203"]
-[ns]夏都[nse]
-「……ん？」[pcms]
+[ns]Natsu[nse]
+"...Hm?"[pcms]
 
 *2934|
 [fc]
-視界の端に、なにか気になるものが映った気がした。[r]
-既視感と言えばいいのか、見知ったものだ。[pcms]
+I felt like something caught my eye at the edge of my vision. Deja vu,[r]
+perhaps? It was something familiar.[pcms]
 
 *2935|
 [fc]
-オレが草むらをかき分けて駆け寄ると、[r]
-そこには誠が持っているはずのバッグが捨てられていた。[pcms]
+As I rushed through the underbrush, I found a bag that should belong[r]
+to Makoto discarded there.[pcms]
 
 *2936|
 [fc]
-間違いない、これは誠のバッグだ。[pcms]
+There's no mistake, this is Makoto's bag.[pcms]
 
 [se buf=0 storage="seA061"]
 
@@ -137,20 +137,20 @@
 *2937|
 [fc]
 [vo_nat s="natu0204"]
-[ns]夏都[nse]
-「これに見覚えがあるだろ？」[pcms]
+[ns]Natsu[nse]
+"You recognize this, don't you?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so15a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2938|
 [fc]
-[ns]宗一郎[nse]
-「そ、それは、誠のバッグじゃないですか！」[pcms]
+[ns]Souichirou[nse]
+"Th-that's Makoto's bag!"[pcms]
 
 *2939|
 [fc]
-[ns]荒井[nse]
-「ってことは、ここを進んだのは間違いないってことか」[pcms]
+[ns]Arai[nse]
+"So that means there's no doubt he went this way."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -160,28 +160,26 @@
 *2940|
 [fc]
 [vo_nat s="natu0205"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *2941|
 [fc]
-どうしてここでバッグを捨てていくことになったのか、[r]
-事情は想像することしかできない。[pcms]
+I could only guess why he would abandon his bag here.[pcms]
 
 *2942|
 [fc]
-必要最低限の荷物を、更に捨てる意味。[r]
-あまりいい状態ではなかったはずだ。[pcms]
+The meaning behind discarding even the bare minimum of belongings. He[r]
+must have been in a bad state.[pcms]
 
 *2943|
 [fc]
-やっぱり、誠はオレの助けを待っている。[r]
-待ってろよ！　すぐに行くからな！[pcms]
+Makoto is definitely waiting for my help. Hang in there! I'm coming[r]
+soon![pcms]
 
 *2944|
 [fc]
-オレはそのバッグを投げ捨てると、[r]
-今度は登り斜面に足をかけていった。[pcms]
+I threw the bag aside and set my foot on the uphill slope.[pcms]
 
 ;//ザップ戻り効果
 [zapfade]

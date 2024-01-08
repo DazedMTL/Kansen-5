@@ -35,104 +35,107 @@
 
 *2169|
 [fc]
-気が付くと、辺りが茜色に染まって日が傾き始めていた。[r]
-疲労と暑さで気が遠くなりかけている。[pcms]
+Before I knew it, the surroundings were dyed in a madder red as the[r]
+sun began to set. I was on the verge of fainting from fatigue and[r]
+heat.[pcms]
 
 [bg storage="forest02b"][trans_c cross time=1000]
 
 *2170|
 [fc]
-自分一人でも体力が保つかどうか怪しい道のりを、[r]
-二人分の重量で進んでいるんだから当然だ。[pcms]
+It's only natural, considering I'm trekking a path that's questionable[r]
+even for one person, let alone carrying the weight of two.[pcms]
 
 *2171|
 [fc]
-舗装されたアスファルトもなく、下映えの生い茂る山道を[r]
-かき分ける強行軍は、それだけで体力を消耗してしまう。[pcms]
+Without paved asphalt, the forced march through the overgrown mountain[r]
+path, pushing aside the underbrush, was enough to deplete one's[r]
+strength.[pcms]
 
 *2172|
 [fc]
-でも、永遠に終わらないと思われた山歩きは、[r]
-ある瞬間を境にして、唐突に終わりを告げた。[pcms]
+But the seemingly endless hike through the mountains came to an abrupt[r]
+end at a certain moment.[pcms]
 
 *2173|
 [fc]
-木と草しか見えなかった辺りの景色が、[r]
-人里のそれに一変している。[pcms]
+The scenery, which had been nothing but trees and grass, had[r]
+completely changed to that of a human settlement.[pcms]
 
 *2174|
 [fc]
-舗装された道路や民家、人工物の数々……、[r]
-山を東に突っ切ることに成功したんだ。[pcms]
+Paved roads, houses, various man-made structures... I had successfully[r]
+cut through the mountain to the east.[pcms]
 
 *2175|
 [fc]
-空を見上げると、携帯の基地局らしきアンテナが見える。[r]
-方向を間違えることはなかったようだ。[pcms]
+Looking up at the sky, I could see an antenna that seemed to belong to[r]
+a cell phone base station. It seems I hadn't taken a wrong direction.[pcms]
 
 *2176|
 [fc]
-[ns]誠[nse]
-「越智さん……道に出たよ……」[pcms]
+[ns]Makoto[nse]
+"Ochi-san... we've made it to the road..."[pcms]
 
 *2177|
 [fc]
 [vo_aka s="akari0426"]
-[ns]茜梨[nse]
-「んむ……」[pcms]
+[ns]Akari[nse]
+"Mmm..."[pcms]
 
 *2178|
 [fc]
-しかし、夕暮れの空はいつもの見慣れたものとは、[r]
-少し様子が違うみたいだった。[pcms]
+However, the evening sky looked a little different from the usual[r]
+familiar sight.[pcms]
 
 *2179|
 [fc]
-進行方向の空に、[ruby text="もうもう"][ch text="濛々"]と黒煙が上がっている。[r]
-スポーツセンターや港のある方向だ。[pcms]
+In the sky in the direction we were heading, thick black smoke was[r]
+rising. It was coming from the direction of the sports center and the[r]
+port.[pcms]
 
 *2180|
 [fc]
-慌てて周囲を見回してみると、キャンプ場の方向や、[r]
-ホテルの方向からも黒煙が上がっていた。[pcms]
+In a panic, I looked around and saw black smoke rising from the[r]
+direction of the campsite and the hotel as well.[pcms]
 
 *2181|
 [fc]
-何が起きているんだ……、[r]
-みんなは大丈夫なのか……？[pcms]
+What's happening... Is everyone okay...?[pcms]
 
 *2182|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2183|
 [fc]
-そういえば、遭遇した自衛隊は火炎放射器を持っていた。[r]
-ウイルスごと焼き払うために、[r]
-あちこちで使用しているのかも……。[pcms]
+Come to think of it, the Self-Defense Forces we encountered were[r]
+carrying flamethrowers. Maybe they're using them here and there to[r]
+burn everything along with the virus...[pcms]
 
 *2184|
 [fc]
-でも、今それを考えていても仕方がない。[r]
-僕は越智さんを背負ったまま、小さな集落に下りていく。[pcms]
+But there's no point in thinking about that now. I continue down into[r]
+the small village with Ochi-san on my back.[pcms]
 
 [bg storage="village01b"][trans_c cross time=1000]
 
 *2185|
 [fc]
-その集落は、世間の騒々しさから隔離されたみたいに、[r]
-いつもの見知っている日常のままだった。[pcms]
+The village seemed isolated from the hustle and bustle of the world,[r]
+remaining as the usual everyday life I knew.[pcms]
 
 *2186|
 [fc]
-町から離れているためか感染者の姿が見えない。[r]
-火災が起きている様子もないし、自衛隊の姿もなかった。[pcms]
+Perhaps due to its distance from town, there were no signs of infected[r]
+people. There were no signs of fire or presence of Self-Defense Forces[r]
+either.[pcms]
 
 *2187|
 [fc]
-これなら水と食べ物が手に入るかも知れない。[r]
-でも、越智さんをどうしようか……。[pcms]
+This might be a place where we can get water and food. But what should[r]
+I do about Ochi-san...?[pcms]
 
 ;//*_選択肢
 ;//1,一人で集落へ行く   ラベルhitoriへ
@@ -140,14 +143,14 @@
 
 ;	[link target=*hitori]一人で集落へ行く[endlink]
 ;	[link target=*and_akari]二人で集落へ行く[endlink]
-;	[s]
+;[pcms]
 
 *SEL13|一人で集落へ行く／二人で集落へ行く
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '一人で集落へ行く'"]
-[eval exp="f.seltext06 = '二人で集落へ行く'"]
+[eval exp="f.seltext04 = 'Go to the village alone'"]
+[eval exp="f.seltext06 = 'Go to the village together'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -187,46 +190,45 @@
 
 *2188|
 [fc]
-[ns]誠[nse]
-「越智さん、ここで待っていて？[r]
-　水と食料を分けてもらってくるから」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, can you wait here? I'll go and ask for some water and[r]
+food."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2189|
 [fc]
 [vo_aka s="akari0427"]
-[ns]茜梨[nse]
-「んん……気をつけてください……」[pcms]
+[ns]Akari[nse]
+"Mmm... please be careful..."[pcms]
 
 *2190|
 [fc]
-越智さんはタオルを外すと、[r]
-心配そうな目で僕を見上げてきた。[pcms]
+Ochi-san removed her towel and looked up at me with worried eyes.[pcms]
 
 *2191|
 [fc]
-[ns]誠[nse]
-「わかった、越智さんも何かあったら大声を上げるか、[r]
-　逃げてね？」[pcms]
+[ns]Makoto[nse]
+"Understood. If anything happens, Ochi-san, either shout out loud or[r]
+run away, okay?"[pcms]
 
 *2192|
 [fc]
 [vo_aka s="akari0428"]
-[ns]茜梨[nse]
-「はい……」[pcms]
+[ns]Akari[nse]
+"Yes..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2193|
 [fc]
-[ns]誠[nse]
-「じゃあ、行ってくるよ」[pcms]
+[ns]Makoto[nse]
+"Then, I'm off."[pcms]
 
 *2194|
 [fc]
-僕は越智さんを一人残していくことに不安を覚えながらも、[r]
-一人で集落に入っていった。[pcms]
+Feeling anxious about leaving Ochi-san alone, I entered the village by[r]
+myself.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
@@ -236,42 +238,43 @@
 
 *2195|
 [fc]
-とにかく水と食料、できれば情報も欲しいけれど、[r]
-あまり贅沢をいうこともできない。[pcms]
+Anyway, I want water and food, and if possible information too, but I[r]
+can't be too choosy.[pcms]
 
 *2196|
 [fc]
-集落の中に入ると、やはりというか、[r]
-感染者が何人かウロウロとしている姿を見つけた。[pcms]
+As I entered the village, sure enough, I found a few infected people[r]
+wandering around.[pcms]
 
 *2197|
 [fc]
-平和そうに見えても、被害は出ているみたいだ。[pcms]
+Even though it seemed peaceful, it looks like there has been some[r]
+damage.[pcms]
 
 *2198|
 [fc]
-でも、ほとんどの感染者は上の空で、[r]
-僕に興味を示してこない。[pcms]
+But most of the infected people were distracted and didn't show any[r]
+interest in me.[pcms]
 
 *2199|
 [fc]
-バラバラに点在しているので、[r]
-すぐに危険が訪れることも無さそうだった。[pcms]
+They were scattered about, so it didn't seem like danger would come[r]
+immediately.[pcms]
 
 *2200|
 [fc]
-日のあるうちに水と食料が欲しいけれど、[r]
-どうやって手に入れればいいんだろうか。[pcms]
+I want water and food while it's still daylight, but how can I get[r]
+them?[pcms]
 
 *2201|
 [fc]
-こんな場所にコンビニなんてないし、[r]
-店らしきものも見つからない。[pcms]
+There's no convenience store in such a place, and I can't find[r]
+anything that looks like a shop.[pcms]
 
 *2202|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [bg storage="village03b"][trans_c blind_lr time=1000]
 
@@ -279,107 +282,98 @@
 
 *2203|
 [fc]
-あまり気は進まないけれど、[r]
-僕は手近の家のチャイムを押した。[pcms]
+Reluctantly, I pressed the doorbell of a nearby house.[pcms]
 
 *2204|
 [fc]
-窓から明かりが漏れていない。[r]
-不在なんだろうか？[pcms]
+No light leaked from the windows. Maybe they're not home?[pcms]
 
 ;//◆ＳＥ　インターホンの音
 
 *2205|
 [fc]
-僕は隣の家に移動すると、[r]
-同じようにチャイムを鳴らしてみる。[pcms]
+I moved to the next house and tried ringing the doorbell in the same[r]
+way.[pcms]
 
 *2206|
 [fc]
-でも、やはり反応がない。[r]
-どこかに避難しているんだろうか？[pcms]
+But again, there was no response. Have they evacuated somewhere?[pcms]
 
 *2207|
 [fc]
-ドアのノブを捻ってみると鍵が掛かっていた。[r]
-勝手に侵入して水と食料を分けてもらったら[r]
-まずいだろうか。[pcms]
+I tried turning the doorknob and found it locked. Would it be wrong to[r]
+break in and help myself to water and food?[pcms]
 
 *2208|
 [fc]
-更に隣の家を見てみると、[r]
-その家は今までの家とは様子が違っていた。[pcms]
+Looking at the house next door, it seemed different from the others.[pcms]
 
 *2209|
 [fc]
-車が、家の柵を壊して駐車されている。[r]
-いや、突っ込んだという方が正しいか？[pcms]
+A car had crashed into the fence of the house. Or should I say, it had[r]
+rammed into it?[pcms]
 
 *2210|
 [fc]
-[ns]誠[nse]
-「ん……？」[pcms]
+[ns]Makoto[nse]
+"Hmm...?"[pcms]
 
 *2211|
 [fc]
-なにか焦げ臭い匂いを感じて辺りを見合わすと、[r]
-道の真ん中に何かが燃やされた跡を見つけた。[pcms]
+Noticing a burnt smell, I looked around and found traces of something[r]
+burnt in the middle of the road.[pcms]
 
 *2212|
 [fc]
-なんだろうか、こんなところで焚き火なんかしないだろう。[r]
-近くに寄って調べてみる。[pcms]
+I wondered what it was, as it's unlikely for someone to have a bonfire[r]
+here. I approached to take a closer look.[pcms]
 
 *2213|
 [fc]
-[ns]誠[nse]
-「うっ、ぐっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh, gah..."[pcms]
 
 *2214|
 [fc]
-それは……燃やされた人間の死体だった。[r]
-感染者なのかどうかもわからない。[pcms]
+It was... a burnt human corpse. I couldn't tell if they were an[r]
+infected person or not.[pcms]
 
 *2215|
 [fc]
-あまりいいサインとは思えなかった。[r]
-ここは、見た目通りの穏やかな集落ではないのかもしれない。[pcms]
+It didn't seem like a good sign. Maybe this place isn't as peaceful as[r]
+it appears.[pcms]
 
 *2216|
 [fc]
-そのとき、近くの家からテレビのニュースのような、[r]
-ジングルが聞こえてきた。[pcms]
+At that moment, I heard a jingle like that of a TV news broadcast[r]
+coming from a nearby house.[pcms]
 
 *2217|
 [fc]
-カーテンが閉められているけれど、[r]
-誰か人がいるんだろうか……？[pcms]
+The curtains were closed, but could there be someone inside...?[pcms]
 
 *2218|
 [fc]
-僕はその家に近づくと、少し緊張しながら[r]
-声をかけてみる。[pcms]
+I approached the house and called out with a bit of tension in my[r]
+voice.[pcms]
 
 *2219|
 [fc]
-[ns]誠[nse]
-「あの、すみません……、[r]
-　どなたかいらっしゃいますか？」[pcms]
+[ns]Makoto[nse]
+"Excuse me... Is anyone there?"[pcms]
 
 *2220|
 [fc]
-でも、返事は聞こえない。[r]
-誰もいないんだろうか。[pcms]
+But there was no response. Maybe no one's home.[pcms]
 
 *2221|
 [fc]
-ここでこうしていても仕方がない。[r]
-僕はバットを構えるとガラスを割るために振りかぶった。[pcms]
+It's pointless to just stand here. I gripped my bat and swung it to[r]
+break the glass.[pcms]
 
 *2222|
 [fc]
-非常事態だ。[r]
-このくらい仕方がない。[pcms]
+It's an emergency situation. This can't be helped.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,1000>
@@ -389,50 +383,50 @@
 
 *2223|
 [fc]
-[ns]誠[nse]
-「うわっ！」[pcms]
+[ns]Makoto[nse]
+"Whoa!"[pcms]
 
 [bg storage="village01b"][trans_c blind_lr time=1000]
 
 *2224|
 [fc]
-そのとき、どこか上の方から銃声が聞こえてきた。[r]
-まるで、僕を狙ったみたいにその音が響いている。[pcms]
+Just then, I heard a gunshot from somewhere above. It sounded as if it[r]
+was aimed at me.[pcms]
 
 *2225|
 [fc]
-[ns]男Ａ[nse]
-「家に近づくなっ！　帰れっ！」[pcms]
+[ns]Man A[nse]
+"Stay away from the house! Get out of here!"[pcms]
 
 *2226|
 [fc]
-家の二階から銃口が出ているのが見えた。[r]
-多分、猟銃かなにかだろう。[pcms]
+I could see a gun barrel sticking out from the second floor of the[r]
+house. Probably a hunting rifle or something.[pcms]
 
 *2227|
 [fc]
-歳のいった男の人の声だけど、僕を感染者と勘違いしているのか？[r]
-ちゃんと話をすれば……。[pcms]
+The voice was that of an older man, but does he mistake me for an[r]
+infected person? If we could just talk...[pcms]
 
 *2228|
 [fc]
-[ns]誠[nse]
-「待ってください！　僕は感染していません！」[pcms]
+[ns]Makoto[nse]
+"Wait, please! I'm not infected!"[pcms]
 
 *2229|
 [fc]
-[ns]男Ａ[nse]
-「さっさと帰らんと、ドテっ腹をぶち抜くぞ！」[pcms]
+[ns]Man A[nse]
+"Leave now, or I'll blow your guts out!"[pcms]
 
 *2230|
 [fc]
-[ns]誠[nse]
-「水と食料を分けてもらいたいだけなんです！」[pcms]
+[ns]Makoto[nse]
+"I just want some water and food!"[pcms]
 
 *2231|
 [fc]
-[ns]男Ａ[nse]
-「さっさと帰れっ！」[pcms]
+[ns]Man A[nse]
+"Get out of here!"[pcms]
 
 [se buf=1 storage="seC048"]
 ;//銃声
@@ -442,99 +436,95 @@
 
 *2232|
 [fc]
-[ns]誠[nse]
-「うっ！」[pcms]
+[ns]Makoto[nse]
+"Ugh!"[pcms]
 
 *2233|
 [fc]
-駄目だ、まるで取り合ってくれる様子がない。[r]
-何人かいる感染者が酷い被害を出したのかも……。[pcms]
+No use, he's not willing to listen at all. Maybe some infected people[r]
+caused serious trouble here...[pcms]
 
 *2234|
 [fc]
 [vo_mob s="womanAA0001"]
-[ns]女Ａ[nse]
-「お父さん、その子は大丈夫そうだよ。[r]
-　助けてあげないと……」[pcms]
+[ns]Woman A[nse]
+"Dad, that boy seems okay. We should help him..."[pcms]
 
 *2235|
 [fc]
-そこに中年女性らしきおばちゃんの声が聞こえてきた。[r]
-みんな、疑心暗鬼になっているのか。[pcms]
+The voice of a middle-aged woman, perhaps an auntie, could be heard.[r]
+Everyone must be filled with suspicion and distrust.[pcms]
 
 *2236|
 [fc]
-[ns]男Ａ[nse]
-「他の奴らも最初は何ともなかった！[r]
-　大丈夫なんてどうしてわかる！」[pcms]
+[ns]Man A[nse]
+"The others were fine at first too! How can you know it's safe!"[pcms]
 
 *2237|
 [fc]
 [vo_mob s="womanAA0002"]
-[ns]女Ａ[nse]
-「でも……」[pcms]
+[ns]Woman A[nse]
+"But..."[pcms]
 
 *2238|
 [fc]
-[ns]男Ａ[nse]
-「おかしな病気を持ち込んだ余所者を、助ける義理はない！」[pcms]
+[ns]Man A[nse]
+"We have no obligation to help outsiders who bring strange diseases!"[pcms]
 
 *2239|
 [fc]
-情に訴えかけるなんてしたくないけれど、[r]
-そんな贅沢言っているときじゃない。[pcms]
+I didn't want to appeal to their emotions, but this wasn't the time[r]
+for such luxuries.[pcms]
 
 *2240|
 [fc]
-僕も越智さんも絶対的な弱者だ。[r]
-すがってでも生き延びなくちゃいけなかった。[pcms]
+We, including Miss Ochi, are absolutely vulnerable. We have to cling[r]
+to life however we can.[pcms]
 
 *2241|
 [fc]
-[ns]誠[nse]
-「僕と女の子が一人、怪我をして困っています、[r]
-　何か食べるものと水だけでも……」[pcms]
+[ns]Makoto[nse]
+"There's a girl with me who's injured and in trouble, we just need[r]
+some food and water..."[pcms]
 
 *2242|
 [fc]
-[ns]男Ａ[nse]
-「早く消えろっ！　奴らが集まってくるだろうが！」[pcms]
+[ns]Man A[nse]
+"Disappear quickly! They will gather around!"[pcms]
 
 *2243|
 [fc]
-後ろを振り返ると、感染者がフラフラと寄ってくるのが見えた。[r]
-これじゃ、この人達にも迷惑が……。[pcms]
+Looking back, I could see infected people staggering towards us. This[r]
+would cause trouble for these people too...[pcms]
 
 *2244|
 [fc]
-ふと、隣の家のカーテンが動いた気がした。[r]
-逆側の家を見ると窓から覗いていた顔が、さっと引っ込む。[pcms]
+Suddenly, I thought I saw the curtains of the neighboring house move.[r]
+Looking at the opposite house, I saw a face peeking out of the window[r]
+quickly withdraw.[pcms]
 
 *2245|
 [fc]
-生きている人はたくさんいるんだ……、[r]
-でも、今は不信感と猜疑心でいっぱいになっている……。[pcms]
+There are many people alive... but now they are filled with distrust[r]
+and suspicion...[pcms]
 
 *2246|
 [fc]
-当たり前だ。[r]
-むしろ、これだけ警戒しているからこそ[r]
-今まで生き残ってこられたんだろう。[pcms]
+It's understandable. Perhaps it's precisely because they've been so[r]
+cautious that they've survived until now.[pcms]
 
 *2247|
 [fc]
-立場が逆なら、僕はこの人達を助けただろうか。[r]
-優しい、善良な人から餌食になっていく[r]
-ものなんじゃないだろうか……。[pcms]
+If our positions were reversed, would I have helped these people?[r]
+Maybe it's the kind, good-hearted people who become prey first...[pcms]
 
 *2248|
 [fc]
-僕は空腹と喉の渇きを覚えながら、[r]
-疲労を抱えて立ち尽くした。[pcms]
+I stood there, feeling the hunger and thirst, weighed down by fatigue.[pcms]
 
 *2249|
 [fc]
-仕方ない……仕方がないんだ……。[pcms]
+It can't be helped... It just can't be helped...[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -543,23 +533,23 @@
 *2250|
 [fc]
 [vo_aka s="akari0429"]
-[ns]茜梨[nse]
-「きゃあああああああああああっ！」[pcms]
+[ns]Akari[nse]
+"Kyaaaaaaaah!"[pcms]
 
 *2251|
 [fc]
-そのとき、集落の外に置いてきた[r]
-越智さんの悲鳴が聞こえてきた。[pcms]
+At that moment, I heard Miss Ochi's scream from outside the[r]
+settlement.[pcms]
 
 *2252|
 [fc]
-[ns]誠[nse]
-「越智さんっ！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san!"[pcms]
 
 *2253|
 [fc]
-僕は疲労で棒になっている足を前後させながら、[r]
-ヨロヨロと越智さんのところに走っていった。[pcms]
+While my legs felt like sticks from exhaustion, I staggered towards[r]
+where Miss Ochi was.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -583,194 +573,186 @@
 *2254|
 [fc]
 [vo_aka s="akari0430"]
-[ns]茜梨[nse]
-「あひやぁぁぁぁっ！　おちんぽぉぉぉぉぉぉっ！」[pcms]
+[ns]Akari[nse]
+"Ahiiyaaaah! Your cockkkkkk!"[pcms]
 
 *2255|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2256|
 [fc]
-僕が駆けつけたときにはもう、[r]
-越智さんは感染者に犯されている真っ最中だった。[pcms]
+By the time I arrived, Miss Ochi was already in the midst of being[r]
+violated by an infected person.[pcms]
 
 *2257|
 [fc]
-大柄な男に犬のような格好にされて、[r]
-後ろから突っ込まれている。[pcms]
+She was being penetrated from behind like a dog by a large man.[pcms]
 
 *2258|
 [fc]
-男は小柄な越智さんの心配など少しも頭によぎらないように、[r]
-壊してしまいそうな勢いで犯していた。[pcms]
+The man seemed to have no concern for the petite Miss Ochi, as he[r]
+violated her with enough force to break her.[pcms]
 
 *2259|
 [fc]
 [vo_aka s="akari0431"]
-[ns]茜梨[nse]
-「んむおああああっ！　すごひぃぃぃいぃぃっ！[r]
-　おちんぽがでっかぁあぁぁぃ！」[pcms]
+[ns]Akari[nse]
+"Nmuoaaaah! Amazingggg! Your cock is so biiig!"[pcms]
 
 *2260|
 [fc]
-でも、越智さんには嫌がっている様子が見られなかった。[pcms]
+But there was no sign that Miss Ochi was resisting.[pcms]
 
 *2261|
 [fc]
-口からよだれを垂らしながら、[r]
-喜びにむせるように高い声をあげている。[pcms]
+Drooling from her mouth, she raised her voice in pleasure as if[r]
+choking on joy.[pcms]
 
 *2262|
 [fc]
-僕の勘違いじゃなければ、[r]
-これが越智さんの……初めてだ。[pcms]
+If I'm not mistaken, this is Miss Ochi's... first time.[pcms]
 
 *2263|
 [fc]
 [vo_aka s="akari0432"]
-[ns]茜梨[nse]
-「おまんこさけちゃうぅぅぅぅっ！[r]
-　あながひろがっちゃよぉぉぉぉぉっ！」[pcms]
+[ns]Akari[nse]
+"My pussy's gonna tearrrrr! It's stretching so muchhhhh!"[pcms]
 
 *2264|
 [fc]
-セックスと言うより、動物の交尾のようだった。[r]
-僕は心が空っぽになったように、何も感じられない。[pcms]
+It was more like the mating of animals than sex. I felt empty inside,[r]
+unable to feel anything.[pcms]
 
 *2265|
 [fc]
-でも、越智さんは初めてのセックスがいたく気に入ったように、[r]
-自分から腰を振って大きなペニスをくわえ込んでいた。[pcms]
+However, it seemed Miss Ochi was quite fond of her first sex, actively[r]
+moving her hips to take in the large penis.[pcms]
 
 *2266|
 [fc]
-グチャグチャという[ruby text="ぬかるみ"][ch text="泥濘"]を踏んだような音が、[r]
-辺りに木霊している。[pcms]
+The squelching sound echoed around like stepping in mud.[pcms]
 
 [evcg storage="akari_H003b"][trans_c cross time=300]
 
 *2267|
 [fc]
 [vo_aka s="akari0433"]
-[ns]茜梨[nse]
-「まーくんせんぱいっ！　見て、わたしをみてくださいぃぃっ！」[pcms]
+[ns]Akari[nse]
+"Mak-kun senpai! Look, please look at meee!"[pcms]
 
 *2268|
 [fc]
-越智さんがとろけそうな笑顔で僕のことを見上げている。[r]
-犯されながら、喜んだ笑顔で、僕のことを……。[pcms]
+Miss Ochi looked up at me with a melting smile. While being violated,[r]
+she smiled joyfully at me...[pcms]
 
 *2269|
 [fc]
-そういえば、これが越智さんの性癖だったな。[r]
-男に犯されながら、僕に見られるのが好みらしい。[pcms]
+Come to think of it, this was Miss Ochi's fetish. She liked being[r]
+violated by a man while I watched.[pcms]
 
 *2270|
 [fc]
-絶好のシチュエーションというわけだ。[r]
-面白すぎて笑うこともできない。[pcms]
+It was the perfect situation for her. It was too absurd to even laugh[r]
+at.[pcms]
 
 *2271|
 [fc]
 [vo_aka s="akari0434"]
-[ns]茜梨[nse]
-「まーくんせんぱいにみられながら、[r]
-　しらない、ばけものちんぽにおかされてるのぉぉぉぉぉっ！」[pcms]
+[ns]Akari[nse]
+"Being watched by Mak-kun senpai while being violated by an unknown,[r]
+monstrous cockkkkk!"[pcms]
 
 *2272|
 [fc]
-どうやら、越智さんは絶頂に達したみたいだった。[r]
-身体がガクガクと震えて、舌をだらしなく伸ばしている。[pcms]
+It seemed Miss Ochi had reached her climax. Her body shook violently,[r]
+and her tongue hung out sloppily.[pcms]
 
 *2273|
 [fc]
-でも、男はまだまだ物足りないらしく、[r]
-イッている最中の越智さんを後ろから貫き続けた。[pcms]
+But the man wasn't satisfied yet and continued to penetrate Miss Ochi[r]
+from behind even as she climaxed.[pcms]
 
 [evcg storage="akari_H003c"][trans_c cross time=300]
 
 *2274|
 [fc]
 [vo_aka s="akari0435"]
-[ns]茜梨[nse]
-「あんぶあああああっ！　こわれちゃうぅぅぅぅっ！[r]
-　おちんぽに、こわされちゃうぅぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"Anbuuaaaaah! I'm gonna breakkkkk! I'm being broken by your cockkkkk!"[pcms]
 
 *2275|
 [fc]
-越智さんの声が、まるで獣のようだった。[r]
-いつもの慈愛に満ちた、かわいらしい声は面影すら残っていない。[pcms]
+Miss Ochi's voice was like that of a beast. Her usual kind and cute[r]
+voice was nowhere to be found.[pcms]
 
 *2276|
 [fc]
-今、イッたばかりだというのに、[r]
-もう、発情期の猫みたいに嬌声を上げていた。[pcms]
+Even though she had just climaxed, she was already moaning like a cat[r]
+in heat.[pcms]
 
 *2277|
 [fc]
 [vo_aka s="akari0436"]
-[ns]茜梨[nse]
-「んぐあああああああっ！　ふぐううううっ！」[pcms]
+[ns]Akari[nse]
+"Nguuaaaaaah! Fuguuuuuuh!"[pcms]
 
 *2278|
 [fc]
-何度も軽い絶頂に襲われて肩と唇を震わせている。[r]
-ほんの十秒くらいの間隔で、軽く絶頂しているみたいだった。[pcms]
+She was hit by light climaxes repeatedly, shaking her shoulders and[r]
+lips. It seemed like she was lightly climaxing every ten seconds or[r]
+so.[pcms]
 
 *2279|
 [fc]
-本当に気持ちよさそうで、吐き気が込み上げてくる。[r]
-胃の中になんて、なにも残ってはいないのに……。[pcms]
+She looked truly pleasured, and it made me feel nauseous. Even though[r]
+there was nothing left in my stomach...[pcms]
 
 *2280|
 [fc]
 [vo_aka s="akari0437"]
-[ns]茜梨[nse]
-「おちんぽ、ぴゅっぴゅしてぇぇぇぇっ！[r]
-　おまんこに、せーえきだしてぇっ！」[pcms]
+[ns]Akari[nse]
+"Your cock, let it shoot outtttt! Cum inside my pussyyyyy!"[pcms]
 
 *2281|
 [fc]
-越智さんは本物の絶頂が近いみたいだった。[r]
-男の精液をねだっている。[pcms]
+Miss Ochi seemed close to a real climax. She was begging for the man's[r]
+semen.[pcms]
 
 *2282|
 [fc]
 [vo_aka s="akari0438"]
-[ns]茜梨[nse]
-「あかちゃんみるくで、じゅせいしたいのぉっ！[r]
-　おなかのなかから、ぜんぶおかしてぇぇっ！」[pcms]
+[ns]Akari[nse]
+"I want to be inseminated with baby milk! Fill me up from inside my[r]
+bellyyyyy!"[pcms]
 
 *2283|
 [fc]
-男もそろそろ限界らしく、[r]
-ぶるぶると腰を振るわせている。[pcms]
+The man also seemed close to his limit, shaking his hips violently.[pcms]
 
 *2284|
 [fc]
 [vo_aka s="akari0439"]
-[ns]茜梨[nse]
-「はじめてで、なまなかだしされるのみてぇぇぇっ！[r]
-　おかされて、にんしんせっくすするの、みてぇぇぇぇっ！」[pcms]
+[ns]Akari[nse]
+"For my first time, I want to be creampied while you watchhhhh! To be[r]
+violated and have pregnancy sex while you watchhhhh!"[pcms]
 
 *2285|
 [fc]
-男がガクガクと震えている。[r]
-もう、そろそろだ。[pcms]
+The man shook violently. It was almost time.[pcms]
 
 *2286|
 [fc]
 [vo_aka s="akari0440"]
-[ns]茜梨[nse]
-「イッちゃうのぉっ！　まーくんせんぱいにみられながら！[r]
-　なかだしされちゃうのぉぉぉっ！」[pcms]
+[ns]Akari[nse]
+"I'm cummingggg! While being watched by Mak-kun senpai! I'm being[r]
+creampieddddd!"[pcms]
 
 *2287|
 [fc]
-そのとき、男がひときわ強く越智さんの腰に、[r]
-自分の腰を強く打ち付けた。[pcms]
+At that moment, the man thrust his hips strongly against Miss Ochi's[r]
+waist one last time.[pcms]
 
 
 ;//#_射精フラッシュ
@@ -783,53 +765,52 @@
 *2288|
 [fc]
 [vo_aka s="akari0441"]
-[ns]茜梨[nse]
-「んはぁぁぁぁぁぁぁっ、でてるっ！　でてるうぅぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"Nhaaaaaa, it's coming out! It's pouring outtttt!"[pcms]
 
 *2289|
 [fc]
-まるで咆哮のようだった。[pcms]
+It was almost like a roar.[pcms]
 
 *2290|
 [fc]
-絶頂に達した越智さんは、[r]
-膣の奥に精液を受け止めている。[pcms]
+Akari, having reached her climax, was receiving the semen deep inside[r]
+her vagina.[pcms]
 
 *2291|
 [fc]
 [vo_aka s="akari0442"]
-[ns]茜梨[nse]
-「らんしが……おかされるぅ……、[r]
-　じゅせいしちゃうよぉ……」[pcms]
+[ns]Akari[nse]
+"I'm being... violated... I'm going to be inseminated..."[pcms]
 
 [evcg storage="akari_H003h"][trans_c cross time=300]
 
 *2292|
 [fc]
-男がペニスを抜き出すと、[r]
-大量の精液が地面にこぼれ落ちた。[pcms]
+When the man pulled out his penis, a large amount of semen spilled[r]
+onto the ground.[pcms]
 
 *2293|
 [fc]
-いったいどれ程の量が吐き出されたのか……。[pcms]
+It was uncertain how much had been ejaculated...[pcms]
 
 *2294|
 [fc]
-越智さんは目をむいて身体を震わせながら、[r]
-快楽に頬を弛ませている。[pcms]
+Akari's eyes were wide open as she trembled, her cheeks slack with[r]
+pleasure.[pcms]
 
 [evcg storage="akari_H003i"][trans_c cross time=300]
 
 *2295|
 [fc]
-でも、獣のまぐわいは、それで終わりではなかった。[r]
-男がもう一度、越智さんに挑み掛かっていく。[pcms]
+But the beastly coupling was not over yet. The man lunged at Miss Ochi[r]
+once more.[pcms]
 
 *2296|
 [fc]
 [vo_aka s="akari0443"]
-[ns]茜梨[nse]
-「あふいえぃああぁぁぁぁぁぁっ！」[pcms]
+[ns]Akari[nse]
+"Ahfieiaaaaaaaaah!"[pcms]
 
 
 
@@ -841,18 +822,17 @@
 
 *2297|
 [fc]
-僕のバットを握る手に力がこもっていた。[r]
-怒りが、悲しみが、絶望が空っぽの胸を満たしていく。[pcms]
+My hand gripping the bat tightened. Anger, sadness, and despair filled[r]
+my empty chest.[pcms]
 
 *2298|
 [fc]
-血がたぎって顔から頭まで駆け上り、[r]
-体温で血液が沸騰していた。[pcms]
+Blood rushed from my face to my head, as if boiling with my body heat.[pcms]
 
 *2299|
 [fc]
-[ns]誠[nse]
-「うおおおおおおおおおおおおおおおおおおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Uoooooooooooooooooooooooooooooh!"[pcms]
 
 [se buf=0 storage="seB012"]
 ;//◆ＳＥ　打撃音
@@ -861,13 +841,13 @@
 
 *2300|
 [fc]
-バットから、骨が砕ける感触が手のひらに伝わってくる。[r]
-やわらかいような固いような、不思議な感触が。[pcms]
+The sensation of bones breaking transmitted through my palm from the[r]
+bat. It was a strange sensation, both soft and hard.[pcms]
 
 *2301|
 [fc]
-男の頭がへこんで奇妙な形になっていた。[r]
-僕はまだ無事に形を保っている部分にバットを振り下ろす。[pcms]
+The man's head was caved in and had taken on a strange shape. I swung[r]
+the bat down on the parts that were still intact.[pcms]
 
 [se buf=0 storage="seB012"]
 ;//◆ＳＥ　打撃音
@@ -876,18 +856,18 @@
 
 *2302|
 [fc]
-二度、三度、何回も何回もバットを振り下ろした。[r]
-男は姿勢を崩して地面に倒れ伏す。[pcms]
+Twice, thrice, over and over again I swung the bat down. The man lost[r]
+his posture and collapsed to the ground.[pcms]
 
 *2303|
 [fc]
-[ns]誠[nse]
-「このやろぉぉぉぉぉぉっ！　クソがぁぁぁぁぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"You bastarddddd! Damn itttttt!"[pcms]
 
 *2304|
 [fc]
-倒れた男の頭を振りかぶってバットを打ち続ける。[r]
-水風船のようにやわらくなっている頭を、何度も何度でも。[pcms]
+I kept swinging the bat down on the head of the man who had fallen,[r]
+like hitting a water balloon that had become soft.[pcms]
 
 [se buf=0 storage="seB012"]
 ;//◆ＳＥ　打撃音
@@ -896,13 +876,12 @@
 
 *2305|
 [fc]
-[ns]誠[nse]
-「ふざけんなぉぉぉぉぉぉっ！　ふざけんなぁぁぁぁぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Don't mess with meeeee! Don't mess with meeeeeee!"[pcms]
 
 *2306|
 [fc]
-男はピクリとも動かない。[r]
-でも、僕の手は止まらなかった。[pcms]
+The man didn't move an inch. But my hands wouldn't stop.[pcms]
 
 [se buf=0 storage="seB012"]
 ;//◆ＳＥ　打撃音
@@ -911,19 +890,18 @@
 
 *2307|
 [fc]
-潰れている頭が地面にめり込んでも、[r]
-バットを振り下ろす度に、また振り上げていく。[pcms]
+Even as the crushed head was embedded in the ground, I kept raising[r]
+and swinging down the bat.[pcms]
 
 *2308|
 [fc]
-そして、ついに疲労が限界に達したのか、[r]
-バットを振り上げたのと同時に、[r]
-僕は足をもつれさせて地面に倒れた。[pcms]
+Finally, perhaps due to exhaustion reaching its limit, I fell to the[r]
+ground as I raised the bat.[pcms]
 
 *2309|
 [fc]
-[ns]誠[nse]
-「くそおぉっ！　ちくちょうっ！　くおおおおおっ……」[pcms]
+[ns]Makoto[nse]
+"Damn itttt! You son of a bitchhhhh... uoooooooh..."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -932,97 +910,94 @@
 *2310|
 [fc]
 [vo_aka s="akari0444"]
-[ns]茜梨[nse]
-「先輩、先輩……もう、やめてください……」[pcms]
+[ns]Akari[nse]
+"Senpai, senpai... please, stop it already..."[pcms]
 
 *2311|
 [fc]
-僕はそこでやっと、越智さんが泣いていることに気が付いた。[r]
-必死に僕を止めようとしている。[pcms]
+It was then that I finally noticed Miss Ochi crying. She was[r]
+desperately trying to stop me.[pcms]
 
 *2312|
 [fc]
-その悲しそうな絶望の顔が、[r]
-快感に歪んでいたあの顔に重なっていった。[pcms]
+Her sad face of despair overlapped with the one distorted by pleasure.[pcms]
 
 *2313|
 [fc]
-[ns]誠[nse]
-「おっ、まえがああああああああああっ！！」[pcms]
+[ns]Makoto[nse]
+"Youuuuuuuuuuuuuuuu!"[pcms]
 
 *2314|
 [fc]
-僕は飛び起きると、そのままバットを振り上げて、[r]
-越智さんの顔に狙いを定めた。[pcms]
+I jumped up and raised the bat, aiming for Miss Ochi's face.[pcms]
 
 *2315|
 [fc]
 [vo_aka s="akari0445"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *2316|
 [fc]
-でも、越智さんは避けようとも防ごうともしない。[r]
-ただ悲しそうに涙を流しているだけだった。[pcms]
+But Miss Ochi didn't try to dodge or defend herself. She just sadly[r]
+let tears flow.[pcms]
 
 *2317|
 [fc]
-[ns]誠[nse]
-「くそぉ……なんでだよぉぉぉ……」[pcms]
+[ns]Makoto[nse]
+"Damn it... why is this happening..."[pcms]
 
 [bgm storage="BGM19"]
 ;//♪bgm19　ふたりっきり。哀愁系。
 
 *2318|
 [fc]
-僕はこぼれ落ちる涙をそのままにして、[r]
-地面に膝を突く。[pcms]
+I knelt on the ground, letting my tears fall freely.[pcms]
 
 *2319|
 [fc]
-悔しくて悲しくて、胸が張り裂けそうになっても、[r]
-助けてくれる人なんて誰もいない。[pcms]
+Frustrated and sad, my chest felt like it was going to burst, but[r]
+there was no one to help me.[pcms]
 
 *2320|
 [fc]
-奇跡も偶然も、なにも起きはしなかった。[pcms]
+No miracles or coincidences occurred.[pcms]
 
 *2321|
 [fc]
-なんで僕たちがこんな目に合わなくちゃいけないんだ……。[pcms]
+Why do we have to go through something like this...[pcms]
 
 *2322|
 [fc]
 [vo_aka s="akari0446"]
-[ns]茜梨[nse]
-「ふうっ……うううっ……」[pcms]
+[ns]Akari[nse]
+"Fuuu... uuuu..."[pcms]
 
 *2323|
 [fc]
-越智さんはぼんやりした顔のまま、涙を流していた。[r]
-もう、まともな意識すら残っていないんだ……。[pcms]
+Miss Ochi continued to cry with a vacant expression. She wasn't even[r]
+conscious anymore...[pcms]
 
 *2324|
 [fc]
-僕はバットを放り出すと、越智さんの身体をギュッと抱きしめた。[r]
-わかっていても、わからなくてもいい。[pcms]
+I threw away the bat and hugged Miss Ochi's body tightly. Whether I[r]
+understood or not didn't matter.[pcms]
 
 *2325|
 [fc]
-絶対に越智さんを元に戻してもらう。[pcms]
+I will definitely get Miss Ochi back to normal.[pcms]
 
 *2326|
 [fc]
-越智さんを美沙緒さんに送り届けて、[r]
-元の越智さんにしてもらうんだ……。[pcms]
+I will take Miss Ochi to Miss Maeda and have her return to her former[r]
+self...[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
 
 *2327|
 [fc]
-もう、僕の頭の中には、それしか残されていなかった。[pcms]
+That was all that remained in my mind.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -1059,39 +1034,37 @@
 
 *2328|
 [fc]
-[ns]誠[nse]
-「一緒に行こう、越智さんを置いていくのは心配だよ」[pcms]
+[ns]Makoto[nse]
+"Let's go together, leaving Ochi-san behind worries me."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2329|
 [fc]
 [vo_aka s="akari0447"]
-[ns]茜梨[nse]
-「大丈夫です、それよりも私が……」[pcms]
+[ns]Akari[nse]
+"It's okay, more importantly, I..."[pcms]
 
 *2330|
 [fc]
-[ns]誠[nse]
-「もう、随分日が傾いているから、問題ないって」[pcms]
+[ns]Makoto[nse]
+"It's getting late, so it shouldn't be a problem."[pcms]
 
 *2331|
 [fc]
 [vo_aka s="akari0448"]
-[ns]茜梨[nse]
-「はい……」[pcms]
+[ns]Akari[nse]
+"Yes..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2332|
 [fc]
-一人で残して行くのは、[r]
-やっぱりいろいろと不安だ。[pcms]
+Leaving her alone would be too worrying in various ways.[pcms]
 
 *2333|
 [fc]
-僕は越智さんを背負ったまま、[r]
-集落に入っていった。[pcms]
+I carried Ochi-san on my back and entered the village.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -1100,51 +1073,50 @@
 
 *2334|
 [fc]
-集落の中に入ると、[r]
-感染者が何人かウロウロとしている姿を見つけた。[pcms]
+Once inside the village, I saw several infected people wandering[r]
+around.[pcms]
 
 *2335|
 [fc]
-やはり、ここにも被害は出ているみたいだ。[pcms]
+It seems that this place has also been affected.[pcms]
 
 *2336|
 [fc]
-でも、ほとんどの感染者は上の空で、[r]
-僕たちに興味を示してこない。[pcms]
+But most of the infected seemed out of it and didn't show any interest[r]
+in us.[pcms]
 
 *2337|
 [fc]
-バラバラに点在しているので、[r]
-すぐに危険が訪れることも無さそうだ。[pcms]
+They were scattered about, so it didn't seem like danger would come[r]
+upon us immediately.[pcms]
 
 *2338|
 [fc]
 [vo_aka s="akari0449"]
-[ns]茜梨[nse]
-「お店は無さそうですね……」[pcms]
+[ns]Akari[nse]
+"It doesn't look like there's a store..."[pcms]
 
 *2339|
 [fc]
-[ns]誠[nse]
-「うん……小さな雑貨屋でもいいんだけど……」[pcms]
+[ns]Makoto[nse]
+"Yeah... even a small general store would be fine..."[pcms]
 
 *2340|
 [fc]
-あまり大きくない集落を見渡すのは簡単で、[r]
-食べ物や飲み物を買えそうな店がないことに、[r]
-すぐ気が付いた。[pcms]
+It was easy to survey the small village and quickly realize that there[r]
+were no shops where we could buy food or drinks.[pcms]
 
 *2341|
 [fc]
-[ns]誠[nse]
-「しょうがない、近くの人に事情を説明して、[r]
-　品物を分けてもらおう」[pcms]
+[ns]Makoto[nse]
+"Can't be helped, let's explain our situation to someone nearby and[r]
+ask them to share their goods."[pcms]
 
 *2342|
 [fc]
 [vo_aka s="akari0450"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [bg storage="village03b"][trans_c blind_lr time=1000]
 
@@ -1152,87 +1124,84 @@
 
 *2343|
 [fc]
-あまり気は進まないけれど、[r]
-僕は手近の家のチャイムを押す。[pcms]
+I wasn't keen on it, but I went ahead and pressed the doorbell of a[r]
+nearby house.[pcms]
 
 *2344|
 [fc]
-誰も出てこないし、窓から明かりが漏れていない。[r]
-不在なんだろうか？[pcms]
+No one came out, and there was no light coming from the windows. Maybe[r]
+they're not home?[pcms]
 
 *2345|
 [fc]
 [vo_aka s="akari0451"]
-[ns]茜梨[nse]
-「なんだか……人の気配を感じますけど……」[pcms]
+[ns]Akari[nse]
+"Somehow... I feel the presence of people..."[pcms]
 
 *2346|
 [fc]
-[ns]誠[nse]
-「うーん……」[pcms]
+[ns]Makoto[nse]
+"Hmm..."[pcms]
 
 ;//◆ＳＥ　インターホンの音
 
 *2347|
 [fc]
-僕は隣の家に移動すると、[r]
-同じようにチャイムを鳴らしてみた。[pcms]
+I moved to the next house and tried ringing the bell just like before.[pcms]
 
 *2348|
 [fc]
-でも、やはり反応がない。[r]
-どこかに避難しているんだろうか？[pcms]
+But again, there was no response. Maybe they've evacuated somewhere?[pcms]
 
 *2349|
 [fc]
-越智さんは人のいる気配がすると言っているけれど、[r]
-僕にはさっぱり分からない。[pcms]
+Ochi-san says she feels the presence of people, but I can't tell at[r]
+all.[pcms]
 
 *2350|
 [fc]
-ドアのノブを捻ってみると鍵が掛かっていた。[r]
-勝手に侵入して水と食料を分けてもらったら[r]
-まずいだろうか。[pcms]
+When I tried the doorknob, it was locked. Would it be wrong to break[r]
+in and ask for water and food?[pcms]
 
 *2351|
 [fc]
 [vo_aka s="akari0452"]
-[ns]茜梨[nse]
-「中澤先輩……となりの家……」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai... the house next door..."[pcms]
 
 *2352|
 [fc]
-越智さんの言葉で隣を見てみると、[r]
-その家は今までの家とは様子が違っていた。[pcms]
+Following Ochi-san's words, I looked at the neighboring house, which[r]
+seemed different from the others we'd seen.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
 
 *2353|
 [fc]
-車が、家の柵を壊して駐車されている。[r]
-いや、突っ込んだという方が正しいか？[pcms]
+A car had crashed through the fence and was parked. No, 'crashed'[r]
+might be more accurate?[pcms]
 
 *2354|
 [fc]
-[ns]誠[nse]
-「あれ……？　なんか焦げ臭くない？」[pcms]
+[ns]Makoto[nse]
+"That...? Does it smell like something's burning?"[pcms]
 
 *2355|
 [fc]
 [vo_aka s="akari0453"]
-[ns]茜梨[nse]
-「はい、少し……」[pcms]
+[ns]Akari[nse]
+"Yes, a little..."[pcms]
 
 *2356|
 [fc]
-なにかが焦げる匂いを感じて辺りを見合わすと、[r]
-道の真ん中に黒くなっているものを見つけた。[pcms]
+We smelled something burning and looked around to find something[r]
+blackened in the middle of the road.[pcms]
 
 *2357|
 [fc]
-なんだろうか、こんな道の真ん中で焚き火なんかしないだろう。[r]
-近くに寄って調べてみる。[pcms]
+What could it be? You wouldn't make a bonfire in the middle of the[r]
+road. I went closer to investigate.[pcms]
 
 [bgm storage="BGM15"]
 ;//♪bgm15　シリアス：嫌疑：思考
@@ -1240,82 +1209,78 @@
 *2358|
 [fc]
 [vo_aka s="akari0454"]
-[ns]茜梨[nse]
-「あっ……ああっ……」[pcms]
+[ns]Akari[nse]
+"Ah... Aaah..."[pcms]
 
 *2359|
 [fc]
-[ns]誠[nse]
-「うっ、ぐっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh, gah..."[pcms]
 
 *2360|
 [fc]
-それは……燃やされた人間の死体だった。[r]
-感染者なのかどうかもわからない。[pcms]
+It was... a burned human corpse. It was unclear whether it was an[r]
+infected person or not.[pcms]
 
 *2361|
 [fc]
-もしかしたら、この集落は見た目通りの[r]
-穏やかな場所ではないのかも知れなかった。[pcms]
+Perhaps this village wasn't as peaceful as it appeared to be.[pcms]
 
 *2362|
 [fc]
-すでに一波乱起きた後で、[r]
-凄惨な事件がなりを潜めているだけなんじゃ……。[pcms]
+Maybe a disturbance had already occurred, and a gruesome incident was[r]
+just lying dormant...[pcms]
 
 *2363|
 [fc]
-そのとき、近くの家からテレビのニュースのような、[r]
-ジングルが聞こえてきた。[pcms]
+At that moment, I heard something like a TV news jingle coming from a[r]
+nearby house.[pcms]
 
 *2364|
 [fc]
-カーテンが閉められているけれど、[r]
-誰か人がいるんだろうか……？[pcms]
+The curtains were closed, but could there be someone inside...?[pcms]
 
 *2365|
 [fc]
-僕はその家に近づくと、少し緊張しながら[r]
-声をかけてみた。[pcms]
+I approached the house and called out with a bit of tension in my[r]
+voice.[pcms]
 
 *2366|
 [fc]
-[ns]誠[nse]
-「あの、すみません……、[r]
-　どなたかいらっしゃいますか？」[pcms]
+[ns]Makoto[nse]
+"Excuse me... is anyone there?"[pcms]
 
 *2367|
 [fc]
-でも、返事は聞こえない。[r]
-誰もいないんだろうか。[pcms]
+But there was no reply. Maybe no one was there after all.[pcms]
 
 *2368|
 [fc]
-ここでこうしていても仕方がない。[r]
-僕は越智さんを地面に下ろすと、バットを握った。[pcms]
+There's no point in just standing here. I gently laid Ochi-san on the[r]
+ground and gripped the bat.[pcms]
 
 *2369|
 [fc]
 [vo_aka s="akari0455"]
-[ns]茜梨[nse]
-「何をするんですか……？」[pcms]
+[ns]Akari[nse]
+"What are you going to do...?"[pcms]
 
 *2370|
 [fc]
-[ns]誠[nse]
-「食料と飲み物を取ってくる。[r]
-　ガラスが割れると危ないから下がって」[pcms]
+[ns]Makoto[nse]
+"I'm going to get some food and water. Step back, it's dangerous if[r]
+the glass breaks."[pcms]
 
 *2371|
 [fc]
 [vo_aka s="akari0456"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *2372|
 [fc]
-越智さんがよろよろと家から離れていく。[r]
-僕はその姿を確認してから、バットを振り上げた。[pcms]
+Ochi-san staggered away from the house. I confirmed she was at a safe[r]
+distance before swinging the bat.[pcms]
 
 [se buf=0 storage="seB081"]
 ;//◆ＳＥ　ガラスの割れる音
@@ -1330,108 +1295,107 @@
 *2373|
 [fc]
 [vo_aka s="akari0457"]
-[ns]茜梨[nse]
-「あ……ぎゃあああああああああああっ！」[pcms]
+[ns]Akari[nse]
+"Ah... gyaaaaaaaah!"[pcms]
 
 [se buf=0 storage="seB079"]
 ;//◆ＳＥ　ガラスの割れる音２
 
 *2374|
 [fc]
-[ns]誠[nse]
-「越智さんっ！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san!"[pcms]
 
 [bgm storage="BGM12"]
 ;//♪bgm12　悪い状況。
 
 *2375|
 [fc]
-ガラスの割れる音と一緒に、[r]
-越智さんの身体が炎に包まれていた。[pcms]
+As the sound of breaking glass rang out, Ochi-san's body was engulfed[r]
+in flames.[pcms]
 
 *2376|
 [fc]
-何が起きたのかわからない。[r]
-僕は慌てて越智さんの身体を叩いて、火を消そうとする。[pcms]
+I didn't understand what was happening. I frantically started patting[r]
+Ochi-san's body, trying to put out the fire.[pcms]
 
 *2377|
 [fc]
 [vo_aka s="akari0458"]
-[ns]茜梨[nse]
-「熱いっ！　燃えちゃうよぉぉぉぉぉぉぉっ！」[pcms]
+[ns]Akari[nse]
+"It's hot! I'm going to burn up!"[pcms]
 
 *2378|
 [fc]
-[ns]誠[nse]
-「越智さんっ！　越智さんっ！　誰か、誰かぁぁぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san! Ochi-san! Somebody, anybody!"[pcms]
 
 *2379|
 [fc]
-水も毛布も、火を消せるようなものが何もない。[r]
-火だるまになっている越智さんを、助ける方法がなかった。[pcms]
+There was no water or blanket, nothing that could extinguish the fire.[r]
+There was no way to help Ochi-san, who was now a human torch.[pcms]
 
 *2380|
 [fc]
 [vo_aka s="akari0459"]
-[ns]茜梨[nse]
-「せ、せんぱい……まー……くん……」[pcms]
+[ns]Akari[nse]
+"Se... Senpai... Ma-kun..."[pcms]
 
 *2381|
 [fc]
-[ns]誠[nse]
-「越智さんっ！　しっかりしろっ！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san! Hang in there!"[pcms]
 
 *2382|
 [fc]
 [vo_aka s="akari0460"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *2383|
 [fc]
-[ns]誠[nse]
-「越智さぁぁぁぁぁぁぁぁぁぁんっ！」[pcms]
+[ns]Makoto[nse]
+"Ochi-saaaaaaaaan!"[pcms]
 
 *2384|
 [fc]
-越智さんが炎に包まれたまま動かない！[r]
-早く火を消さないとっ！[pcms]
+Ochi-san was motionless, still enveloped in flames! I had to put out[r]
+the fire quickly![pcms]
 
 [se buf=0 storage="seB079"]
 ;//◆ＳＥ　ガラスの割れる音２
 
 *2385|
 [fc]
-そこに、なにかガラスが割れるような音と一緒に、[r]
-物が投げ込まれていた。[pcms]
+Then, along with the sound of breaking glass, something was thrown in.[pcms]
 
 *2386|
 [fc]
-それは瞬時に炎を発すると、[r]
-辺りに熱を広げて僕を燃やそうとする。[pcms]
+It instantly ignited, spreading heat around and trying to set me on[r]
+fire.[pcms]
 
 *2387|
 [fc]
-火炎瓶だ。[pcms]
+It was a Molotov cocktail.[pcms]
 
 *2388|
 [fc]
-[ns]誠[nse]
-「誰だぁぁぁぁぁぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Who's there?!"[pcms]
 
 *2389|
 [fc]
-僕の腕に炎が燃え移っている。[pcms]
+The flames had spread to my arm.[pcms]
 
 *2390|
 [fc]
-でも、そんなこと構わずに、[r]
-僕はバットを握って窓ガラスに突っ込んだ。[pcms]
+But without caring about that, I gripped the bat and plunged it[r]
+through the window glass.[pcms]
 
 *2391|
 [fc]
-[ns]誠[nse]
-「うおおおおおおおおおおおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Uooooooooooooooooooh!"[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
@@ -1442,70 +1406,68 @@
 
 *2392|
 [fc]
-窓ガラスにバットを振り下ろすと、[r]
-それをぶち破って部屋の中に侵入する。[pcms]
+As I swung the bat down on the window glass, breaking through it and[r]
+entering the room.[pcms]
 
 *2393|
 [fc]
-身体中がガラスで切れて、鋭い痛みが襲いかかってきた。[r]
-でも、僕は怒りでそれを頭の中から振り払う。[pcms]
+My body was cut all over by the glass, sharp pain assaulting me. But I[r]
+shook it off with anger in my mind.[pcms]
 
 *2394|
 [fc]
-殺す、越智さんを殺した奴をこの手で殺す！[pcms]
+I'll kill them, whoever killed Ochi-san with my own hands![pcms]
 
 *2395|
 [fc]
-[ns]男Ａ[nse]
-「…………」[pcms]
+[ns]Man A[nse]
+"..."[pcms]
 
 *2396|
 [fc]
-僕の目の前に、猟銃を手にしたお爺さんが立っていた。[r]
-照準を僕に定めて、微動だにしない。[pcms]
+In front of me stood an old man holding a hunting rifle, aiming[r]
+steadily at me without moving an inch.[pcms]
 
 *2397|
 [fc]
-目と目が合った。[r]
-その瞳は揺るがぬ意思に彩られている。[pcms]
+Our eyes met. His were filled with unwavering resolve.[pcms]
 
 [se buf=1 storage="seC048"]
 ;//銃声
 
 *2398|
 [fc]
-お爺さんが、引き金を絞った。[r]
-僕はモンバスの１シーンを思い出す。[pcms]
+The old man squeezed the trigger. I was reminded of a scene from[r]
+Monbas.[pcms]
 
 *2399|
 [fc]
-老ハンターが、モンスターを仕留めるムービーを。[pcms]
+The movie where an old hunter takes down a monster.[pcms]
 
 [se buf=0 storage="seB012"]
 
 *2400|
 [fc]
-[ns]誠[nse]
-「ぐ……ぐぶっ……」[pcms]
+[ns]Makoto[nse]
+"Gu... gubu..."[pcms]
 
 *2401|
 [fc]
-腹に大穴が空いて、血が大量にこぼれ落ちていた。[r]
-なんだか、トイレに行ったみたいにすっきりとした気がする。[pcms]
+A large hole opened in my stomach, and blood poured out in torrents.[r]
+Strangely, I felt as relieved as if I had just gone to the bathroom.[pcms]
 
 *2402|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2403|
 [fc]
-僕はバットを捨てると、まだ燃え盛っている[r]
-越智さんの方に歩いて行った。[pcms]
+I dropped the bat and walked towards Ochi-san, who was still ablaze.[pcms]
 
 *2404|
 [fc]
-せめて、最後は一緒に……。[pcms]
+At least, to be together at the end...[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
@@ -1515,7 +1477,7 @@
 
 *2405|
 [fc]
-背後から銃声が聞こえる。[pcms]
+I heard a gunshot from behind.[pcms]
 
 [se buf=1 storage="seB068"]
 
@@ -1525,7 +1487,7 @@
 
 *2406|
 [fc]
-世界は、僕たちにそれすら許してはくれなかった。[pcms]
+The world wouldn't even allow us that much.[pcms]
 
 ;//ゲームオーバー
 ;//〆このブロックここまで。タイトルへ
@@ -1563,7 +1525,7 @@
 [eval exp="sf.g_1120 = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 

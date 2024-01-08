@@ -35,193 +35,187 @@
 
 *2660|
 [fc]
-山の集落を出て少し歩くと、[r]
-なにかの廃墟のような場所に突き当たった。[pcms]
+After leaving the mountain village and walking for a bit, I stumbled[r]
+upon what seemed to be some kind of ruins.[pcms]
 
 *2661|
 [fc]
-前に越智さんが言っていた、[r]
-旧日本軍の砲台跡とかいうやつなんだろうか。[pcms]
+Could this be the remains of the old Japanese army artillery battery[r]
+that Ochi-san mentioned before?[pcms]
 
 *2662|
 [fc]
-よく見てみると、観光客向けの立て札が設置されている。[pcms]
+Looking closer, I noticed a signboard set up for tourists.[pcms]
 
 *2663|
 [fc]
-全く人気のない場所だからなのか、[r]
-感染者の姿はどこにも見えなかった。[pcms]
+Perhaps because it's such an unpopular spot, there was no sign of any[r]
+infected people anywhere.[pcms]
 
 *2664|
 [fc]
-疲労と暑さで全身の力が抜けてしまっている。[r]
-急がなくちゃいけないのはわかっているけれど、[r]
-少しだけこの安全地帯で休憩がしたかった。[pcms]
+I'm completely drained of energy due to fatigue and the heat. I know I[r]
+need to hurry, but I just wanted to take a little break in this safe[r]
+zone.[pcms]
 
 *2665|
 [fc]
-ちょっと気を抜くと意識が遠くなって、[r]
-鼻の辺りに変な匂いと熱さを感じる。[pcms]
+If I let my guard down even for a moment, my consciousness starts to[r]
+fade, and I can smell something strange and feel a heat around my[r]
+nose.[pcms]
 
 *2666|
 [fc]
-気が張っていてわからないけれど、[r]
-僕の身体は相当参っているはずだ。[pcms]
+Although I'm too tense to notice, my body must be in pretty bad shape.[pcms]
 
 *2667|
 [fc]
 [vo_aka s="akari0461"]
-[ns]茜梨[nse]
-「あはははは……」[pcms]
+[ns]Akari[nse]
+"Ahahaha..."[pcms]
 
 *2668|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [bgm storage="BGM04"]
 ;//♪bgm04　忍び寄る的。叙述や心象。
 
 *2669|
 [fc]
-越智さんは、ずっとぼんやりしていて、[r]
-たまにクスクスと笑い声を上げるだけだった。[pcms]
+Ochi-san has been spacing out the whole time, occasionally letting out[r]
+a chuckle.[pcms]
 
 *2670|
 [fc]
-僕が話しかけてもほとんど反応はなく、[r]
-わかっているのかいないのか、軽く頷く程度だ。[pcms]
+She hardly responds when I talk to her, just nodding slightly as if[r]
+she understands or not.[pcms]
 
 [se buf=0 storage="seA057"]
 ;//水を飲む音
 
 *2671|
 [fc]
-自分が持っていたペットボトルの残りわずかな水を[r]
-軽く口に含む。[pcms]
+I take a small sip from the nearly empty water bottle I'm carrying.[pcms]
 
 *2672|
 [fc]
-これで水はおしまいだ。[r]
-でも、どこかで水を調達できるかも知れないから、[r]
-ペットボトルは取っておかないと……。[pcms]
+This is the end of our water supply. But we might be able to find more[r]
+somewhere, so I have to keep the bottle...[pcms]
 
 *2673|
 [fc]
-越智さんの荷物にペットボトルをしまおうとすると、[r]
-中に入っている携帯に着信があることに気が付いた。[pcms]
+When I try to put the water bottle in Ochi-san's bag, I notice that[r]
+there's an incoming call on the cell phone inside.[pcms]
 
 *2674|
 [fc]
-こんなときに誰なんだろう。[r]
-僕は越智さんの携帯を開いてみる。[pcms]
+I wonder who it could be at a time like this. I open Ochi-san's cell[r]
+phone to check.[pcms]
 
 *2675|
 [fc]
-それは登録されていない番号で、[r]
-誰からのものなのかわからなかった。[pcms]
+The call is from an unregistered number, and I have no idea who it[r]
+might be from.[pcms]
 
 *2676|
 [fc]
-でも、留守電機能になにかが録音されている。[pcms]
+But something has been recorded on the voicemail function.[pcms]
 
 *2677|
 [fc]
-[ns]誠[nse]
-「越智さん、留守電が入っているから聞いてみるね」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, there's a voicemail. Let's listen to it."[pcms]
 
 *2678|
 [fc]
 [vo_aka s="akari0462"]
-[ns]茜梨[nse]
-「ふふっ……」[pcms]
+[ns]Akari[nse]
+"Hehe..."[pcms]
 
 *2679|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2680|
 [fc]
-僕は携帯を操作して、その留守電になにが入っているのか[r]
-聞いてみた。[pcms]
+I operate the cell phone to see what's been left on the voicemail.[pcms]
 
 [vo_mis s="misao0079"]
 ;//◆電話越しの声です
 
 *2682|
 [fc]
-[ns]美沙緒[nse]
-「もしもし、茜梨？　わたし、美沙緒よ」[pcms]
+[ns]Misao[nse]
+"Hello, Akari? It's Misao."[pcms]
 
 *2683|
 [fc]
-美沙緒さんから電話が入っている。[r]
-心配して電話を掛けてきたんだろうか……。[pcms]
+It's a call from Misao-san. Maybe she's worried and decided to call...[pcms]
 
 [vo_mis s="misao0080"]
 ;//◆電話越しの声です
 
 *2685|
 [fc]
-[ns]美沙緒[nse]
-「携帯が使えないから衛星電話から掛けてるの、[r]
-　詳しい話は稼津央から聞いたわ、待っているから気をつけて」[pcms]
+[ns]Misao[nse]
+"I can't use my cell phone, so I'm calling from a satellite phone.[r]
+I've heard the details from Natsu, so be careful and wait for us."[pcms]
 
 *2686|
 [fc]
-[ns]誠[nse]
-「あっ……ああっ……」[pcms]
+[ns]Makoto[nse]
+"Ah... Ahh..."[pcms]
 
 *2687|
 [fc]
-僕は越智さんの身体をがっしりと掴む。[r]
-待っているって……美沙緒さんが……。[pcms]
+I firmly grasp Ochi-san's body. Waiting... Misao-san is waiting...[pcms]
 
 *2688|
 [fc]
-越智さんを無事に美沙緒さんのところまで届けても、[r]
-どうなるかわからなかったんだけど……。[pcms]
+Even if I manage to get Ochi-san safely to Misao-san, I don't know[r]
+what will happen...[pcms]
 
 *2689|
 [fc]
-待ってるって……、[r]
-大丈夫なんだ……きっと……。[pcms]
+But waiting... that means everything will be okay... surely...[pcms]
 
 *2690|
 [fc]
-越智さんは携帯を持ち歩く習慣がなかったから、[r]
-バッグに入れてあっても仕方がない。[pcms]
+Ochi-san isn't in the habit of carrying her cell phone around, so it's[r]
+no use having it in her bag.[pcms]
 
 *2691|
 [fc]
-できれば、越智さんの元気な声を[r]
-美沙緒さんに聞かせたかったけれど……。[pcms]
+I would have liked to let Misao-san hear Ochi-san's lively voice if[r]
+possible...[pcms]
 
 *2692|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2693|
 [fc]
-前に調べた限りだと、ウイルスが脳を破壊するまでに[r]
-二十四時間くらいの猶予があるはずだ。[pcms]
+From what I've researched before, there should be about twenty-four[r]
+hours before the virus destroys the brain.[pcms]
 
 *2694|
 [fc]
-そのタイプじゃないかも知れないけれど、[r]
-そう思って行動した方がいいんだろう。[pcms]
+It might not be that type of virus, but it's better to act as if it[r]
+is.[pcms]
 
 *2695|
 [fc]
-時間自体は、まだ余裕があるけれど、[r]
-日が落ちると動けなくなる可能性がある。[pcms]
+There's still some time left, but once the sun sets, there's a chance[r]
+we won't be able to move.[pcms]
 
 *2696|
 [fc]
-でも、疲れていて、いざというときに[r]
-動けないもの困るし……。[pcms]
+But we're tired, and it would be troublesome if we couldn't move when[r]
+it really counts...[pcms]
 
 ;//条件分岐
 ;//フラグrescue_makotoが成立しているかどうか
@@ -238,68 +232,66 @@
 
 *2697|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2698|
 [fc]
-僕は疲れマラで自分が勃起していることに気が付いた。[r]
-思わず苦笑してしまう。[pcms]
+I realize with a wry smile that I have an erection despite being[r]
+exhausted.[pcms]
 
 *2699|
 [fc]
-全然、そんな気分じゃないのに……。[pcms]
+I'm not in the mood at all...[pcms]
 
 *2700|
 [fc]
 [vo_aka s="akari0463"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *2701|
 [fc]
-越智さんは、相変わらずぼけっとしたままだった。[r]
-でも、僕の方を興味深げに眺めている。[pcms]
+Ochi-san is still out of it as ever, but she seems to be looking at me[r]
+with interest.[pcms]
 
 *2702|
 [fc]
-まるで赤ちゃんかなにかのようだ。[pcms]
+It's like she's a baby or something.[pcms]
 
 *2703|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2704|
 [fc]
-こんな風になってしまった越智さんは、[r]
-本当に元の姿に、戻ることができるんだろうか。[pcms]
+I wonder if Ochi-san, having become like this, can truly return to her[r]
+original form.[pcms]
 
 *2705|
 [fc]
-僕のやっていることは、全部無駄なこと……、[r]
-それどころか脱出できるはずの美沙緒さんを、[r]
-引き留めて迷惑をかけているんじゃ……。[pcms]
+All the things I'm doing, are they all in vain... or even worse, am I[r]
+just causing trouble by holding back Misao-san, who could have[r]
+escaped?[pcms]
 
 *2706|
 [fc]
-いや、違う。[r]
-越智さんは必ず元に戻るはずだ。[pcms]
+No, that's not it. Ochi-san will surely return to normal.[pcms]
 
 *2707|
 [fc]
-だから美沙緒さんは待っていると留守電に入れたんだし、[r]
-ホテルから美沙緒さんのところまで、[r]
-時間がかかるのも計算しているはず。[pcms]
+That's why Misao-san is waiting, as she left in the answering machine[r]
+message, and she must have calculated the time it would take to get[r]
+from the hotel to her place.[pcms]
 
 *2708|
 [fc]
-今頃は準備万端整えて越智さんが到着するのを[r]
-待っているはず。[pcms]
+By now, she must be fully prepared and waiting for Ochi-san's arrival.[pcms]
 
 *2709|
 [fc]
-僕の心がここで折れてどうするんだ。[pcms]
+What am I doing letting my heart break here?[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -308,13 +300,13 @@
 *2710|
 [fc]
 [vo_aka s="akari0464"]
-[ns]茜梨[nse]
-「はあああああああっ……」[pcms]
+[ns]Akari[nse]
+"Haaaaaaaah..."[pcms]
 
 *2711|
 [fc]
-越智さんは突然大きな声を上げると、[r]
-僕の股間を見つめながら、スカートをまくり上げた。[pcms]
+Ochi-san suddenly raised her voice and, while staring at my crotch,[r]
+lifted up her skirt.[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -327,63 +319,60 @@
 *2712|
 [fc]
 [vo_aka s="akari0465"]
-[ns]茜梨[nse]
-「あうんっ、んんうっ、んはああああっ！」[pcms]
+[ns]Akari[nse]
+"Auhn, nnnuh, nhhaaaaaah!"[pcms]
 
 *2713|
 [fc]
-僕の勃起した股間を見ながら、[r]
-越智さんはオナニーを始めていた。[pcms]
+While looking at my erect crotch, Ochi-san started masturbating.[pcms]
 
 *2714|
 [fc]
-あまりのことに、僕はなにも反応することができない。[pcms]
+I'm so shocked that I can't react to anything.[pcms]
 
 *2715|
 [fc]
-いや、今は病気にかかっているだけなんだ。[r]
-僕が越智さんを守らないと。[pcms]
+No, this is just because she's sick right now. I have to protect Ochi-[r]
+san.[pcms]
 
 *2716|
 [fc]
 [vo_aka s="akari0466"]
-[ns]茜梨[nse]
-「わたしのおまんこつかって、いっぱいしゃせいして、[r]
-　おちんぽしずめて、くらはい……」[pcms]
+[ns]Akari[nse]
+"Use my pussy, ejaculate a lot, calm your cock down, please..."[pcms]
 
 *2717|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [evcg storage="akari_H002l"][trans_c cross time=300]
 
 *2718|
 [fc]
 [vo_aka s="akari0467"]
-[ns]茜梨[nse]
-「まーくんせんぱい、いっぱいがんばっているから、[r]
-　いくらでもすきに、わたしのからだつかっても、[r]
-　いいれすよ……？」[pcms]
+[ns]Akari[nse]
+"Mak-kun senpai, you're working so hard, so you can use my body as[r]
+much as you want, is that okay...?"[pcms]
 
 *2719|
 [fc]
-[ns]誠[nse]
-「うっ……ぐっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh... Grhh..."[pcms]
 
 *2720|
 [fc]
-神社で越智さんのお尻に精液をかけたことを思い出す。[pcms]
+I remember ejaculating on Ochi-san's butt at the shrine.[pcms]
 
 *2721|
 [fc]
-さっきの感染者との激しいセックス。[r]
-溢れでる精液……。[pcms]
+The intense sex with the infected person earlier. The overflowing[r]
+semen...[pcms]
 
 *2722|
 [fc]
-僕の半立ちだったペニスは、[r]
-越智さんの痴態を見て最大まで起き上がっていた。[pcms]
+My penis, which was half-erect, had become fully erect upon seeing[r]
+Ochi-san's lewd behavior.[pcms]
 
 ;//*_選択肢
 ;//1,ここは我慢だ  　ラベルgamanへ
@@ -391,14 +380,14 @@
 
 ;	[link target=*gaman]ここは我慢だ[endlink]
 ;	[link target=*genkai]もう限界だ[endlink]
-;	[s]
+;[pcms]
 
 *SEL14|ここは我慢だ／もう限界だ
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = 'ここは我慢だ'"]
-[eval exp="f.seltext06 = 'もう限界だ'"]
+[eval exp="f.seltext04 = 'I\'ll just have to endure it'"]
+[eval exp="f.seltext06 = 'I\'m at my limit'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -440,42 +429,40 @@
 
 *2723|
 [fc]
-僕は越智さんから目をそらすと、[r]
-その姿が見えないところに身体を隠した。[pcms]
+I avert my eyes from Ochi-san and hide my body where she can't see me.[pcms]
 
 *2724|
 [fc]
-涙がこぼれそうになるのを必死にこらえる。[pcms]
+I desperately hold back tears that are threatening to spill.[pcms]
 
 *2725|
 [fc]
 [vo_aka s="akari0468"]
-[ns]茜梨[nse]
-「まーくんせんぱぁぃ……」[pcms]
+[ns]Akari[nse]
+"Mak-kun senpai..."[pcms]
 
 *2726|
 [fc]
-[ns]誠[nse]
-「今の越智さんは、本当の越智さんじゃないから、[r]
-　元気になるまで待つことにするよ」[pcms]
+[ns]Makoto[nse]
+"The current Ochi-san isn't the real Ochi-san, so I'll wait until she[r]
+gets better."[pcms]
 
 *2727|
 [fc]
 [vo_aka s="akari0469"]
-[ns]茜梨[nse]
-「いやぁぁあぁぁぁっ……どうしてぇぇ……？」[pcms]
+[ns]Akari[nse]
+"Nooooo... Why...?"[pcms]
 
 *2728|
 [fc]
-[ns]誠[nse]
-「ちゃんと告白して、越智さんがＯＫしてくれて、[r]
-　そうなったらＨする」[pcms]
+[ns]Makoto[nse]
+"I'll properly confess and if Ochi-san says OK, then we'll have sex."[pcms]
 
 *2729|
 [fc]
 [vo_aka s="akari0470"]
-[ns]茜梨[nse]
-「いましたいよぉぉっ！　いじわるしないでぇぇっ！」[pcms]
+[ns]Akari[nse]
+"I want it so bad! Don't be mean!"[pcms]
 
 ;//ループ
 [se buf=0 storage="se_sex02" loop=true]
@@ -483,67 +470,66 @@
 
 *2730|
 [fc]
-越智さんの方から、激しいオナニーの音が聞こえてくる。[r]
-水飴を練っているような、粘度の高い音が……。[pcms]
+The sound of Ochi-san's intense masturbation can be heard. It's like[r]
+the sound of kneading sticky syrup...[pcms]
 
 *2731|
 [fc]
 [vo_aka s="akari0471"]
-[ns]茜梨[nse]
-「んくはああああああああああっ！」[pcms]
+[ns]Akari[nse]
+"Nkuhaaaaaaaaaaaaaa!"[pcms]
 
 *2732|
 [fc]
-一度火がついてしまうと止まらないのか、[r]
-越智さんは何度も絶頂に達していた。[pcms]
+Once ignited, it seems unstoppable; Ochi-san was reaching climax over[r]
+and over again.[pcms]
 
 *2733|
 [fc]
-その声が耳にこびりついて、[r]
-僕のペニスに刺激を与えてくる。[pcms]
+Her voice clings to my ears, stimulating my penis.[pcms]
 
 *2734|
 [fc]
-[ns]誠[nse]
-「くうっ……うううっ……」[pcms]
+[ns]Makoto[nse]
+"Kuuuh... Uuuuh..."[pcms]
 
 *2735|
 [fc]
-僕は涙をこぼしながら、自分のペニスをしごき始めた。[r]
-我慢しきれない。[pcms]
+While shedding tears, I began to stroke my own penis. I can't hold[r]
+back anymore.[pcms]
 
 *2736|
 [fc]
-越智さんの様子を見ないように、[r]
-あくまで想像しながらオナニーをした。[pcms]
+I masturbated without looking at Ochi-san's condition, purely[r]
+imagining it in my mind.[pcms]
 
 *2737|
 [fc]
-僕がペニスをしごいている様子を見せたら、[r]
-越智さんが反応してしまうだろう。[pcms]
+If I showed Ochi-san how I was stroking my penis, she would react to[r]
+it.[pcms]
 
 *2738|
 [fc]
-だから……声だけで……。[pcms]
+So... just with the voice...[pcms]
 
 *2739|
 [fc]
 [vo_aka s="akari0472"]
-[ns]茜梨[nse]
-「ああっ、イク、イクのおぉっ！」[pcms]
+[ns]Akari[nse]
+"Aahh, I'm coming, I'm coming!"[pcms]
 
 *2740|
 [fc]
-[ns]誠[nse]
-「んっ……ぐうっ……」[pcms]
+[ns]Makoto[nse]
+"Nngh... Guhh..."[pcms]
 
 [se buf=1 storage="se_sex01"]
 
 *2741|
 [fc]
 [vo_aka s="akari0473"]
-[ns]茜梨[nse]
-「イク、イク、イクぅぅぅぅぅぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"I'm coming, I'm coming, I'm comingggggggggg!"[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -553,57 +539,52 @@
 
 *2742|
 [fc]
-僕は越智さんの絶頂とともに、[r]
-精液を草むらに解き放っていた。[pcms]
+As Ochi-san climaxed, I released my semen into the grass.[pcms]
 
 *2743|
 [fc]
-こんなときだっていうのに、[r]
-僕は感染した越智さんと同じことを……。[pcms]
+Even at a time like this, I was doing the same thing as the infected[r]
+Ochi-san...[pcms]
 
 [se buf=1 storage="se_sex01"]
 
 *2744|
 [fc]
-手でペニスをしごいて、[r]
-残り汁を最後まで絞り出す。[pcms]
+I stroked my penis with my hand, squeezing out the last drops.[pcms]
 
 *2745|
 [fc]
-身だしなみを整えると、[r]
-静かになった越智さんの方をそっと覗いてみた。[pcms]
+After fixing my appearance, I quietly peeked at Ochi-san, who had[r]
+become silent.[pcms]
 
 *2746|
 [fc]
 [vo_aka s="akari0474"]
-[ns]茜梨[nse]
-「すぅ……すぅ……」[pcms]
+[ns]Akari[nse]
+"Suu... suu..."[pcms]
 
 *2747|
 [fc]
-オナニーで疲れてしまったのか、[r]
-寝てしまっている。[pcms]
+Perhaps exhausted from masturbating, she had fallen asleep.[pcms]
 
 *2748|
 [fc]
-まだ時間はあるはずだ。[r]
-今はとにかく休憩をとらないと。[pcms]
+There should still be time. For now, I must take a break.[pcms]
 
 *2749|
 [fc]
-まくれている越智さんのスカートを直すと、[r]
-ショルダーバッグの紐を使って、[r]
-その両足を縛った。[pcms]
+I straightened Ochi-san's skirt that had rolled up and used the strap[r]
+of the shoulder bag to tie her legs together.[pcms]
 
 *2750|
 [fc]
-これで勝手に動くことはできないはずだ。[r]
-寝冷えしないように、タオルを身体にそっとかける。[pcms]
+This should prevent her from moving on her own. To keep her from[r]
+getting cold, I gently placed a towel over her body.[pcms]
 
 *2751|
 [fc]
-僕は自分の携帯を取り出すと、[r]
-１時間後にアラームをセットして横になった。[pcms]
+I took out my cell phone, set an alarm for one hour later, and lay[r]
+down.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -611,21 +592,20 @@
 
 *2752|
 [fc]
-何があってもいいように、[r]
-越智さんから離れず近すぎず……。[pcms]
+I stayed close enough to Ochi-san to respond to anything, but not too[r]
+close...[pcms]
 
 *2753|
 [fc]
-今は体力の回復に努めて、[r]
-目が覚めたら美沙緒さんのところまで一気に行こう。[pcms]
+Now I must focus on recovering my strength, and once I wake up, I'll[r]
+head straight to Misao-san's place.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *2754|
 [fc]
-僕は余計な考えを全て振り払って、[r]
-静かに目を閉じた。[pcms]
+I shook off all unnecessary thoughts and quietly closed my eyes.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -646,29 +626,28 @@
 
 *2755|
 [fc]
-もういい、もうどうなってもいい。[r]
-僕は頑張った。[pcms]
+It's okay now, whatever happens. I've done my best.[pcms]
 
 *2756|
 [fc]
-限界まで体力を使い果たして、[r]
-越智さんの初めてまで横取りされて……。[pcms]
+I've exhausted all my strength to the limit, and even took Ochi-san's[r]
+first time...[pcms]
 
 *2757|
 [fc]
 [vo_aka s="akari0475"]
-[ns]茜梨[nse]
-「まーくんせんぱーい……」[pcms]
+[ns]Akari[nse]
+"Mak-kun senpai..."[pcms]
 
 *2758|
 [fc]
-どうせ助けられないんだ。[r]
-いや、助けたからってこの先どうやって生きていく？[pcms]
+It's no use trying to save her. No, what will we do after being saved?[r]
+How will we live?[pcms]
 
 *2759|
 [fc]
-東京に帰る方法すら無いし、[r]
-他の土地だって今頃どうなっているか……。[pcms]
+We don't even have a way to return to Tokyo, and who knows what's[r]
+happening in other places by now...[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -676,27 +655,27 @@
 
 *2760|
 [fc]
-もう全部終わりなんだ。[pcms]
+It's all over anyway.[pcms]
 
 *2761|
 [fc]
-僕は、それを認めるのが怖くて、[r]
-夢を見ていた頃の面影を追いかけただけなんだ。[pcms]
+I was afraid to admit it, chasing after the vestiges of the dreams I[r]
+once had.[pcms]
 
 *2762|
 [fc]
-もう、全部わからなくなって、[r]
-越智さんと二人で幸せに暮らそう。[pcms]
+I don't understand anything anymore, let's just live happily together[r]
+with Ochi-san.[pcms]
 
 *2763|
 [fc]
-この辺りには他の感染者も自衛隊もいない。[r]
-自然に活動を停止するまで、越智さんと二人でいられる。[pcms]
+There are no other infected or Self-Defense Forces around here. We can[r]
+be together until nature takes its course.[pcms]
 
 *2764|
 [fc]
-それまで……越智さんと愛し合おう。[r]
-助けられなくって、ごめんね……。[pcms]
+Until then... let's love each other with Ochi-san. I'm sorry we[r]
+couldn't be saved...[pcms]
 
 *MEMORIES_START
 
@@ -713,36 +692,33 @@
 
 *2765|
 [fc]
-[ns]誠[nse]
-「い、いくよ……」[pcms]
+[ns]Makoto[nse]
+"I-I'm going in..."[pcms]
 
 *2766|
 [fc]
-僕は自分のペニスを出すと、[r]
-誘うようにお尻を振っている越智さんの[r]
-後ろから挿入していった。[pcms]
+I took out my penis and entered Ochi-san from behind as she enticingly[r]
+wiggled her butt.[pcms]
 
 *2767|
 [fc]
 [vo_aka s="akari0476"]
-[ns]茜梨[nse]
-「あああああっ！　まーくんせんぱいのが、[r]
-　はいってくるぅぅぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"Aaaaaah! Mak-kun senpai's is going inside meeeeeee!"[pcms]
 
 *2768|
 [fc]
-[ns]誠[nse]
-「ぐううああああっ！」[pcms]
+[ns]Makoto[nse]
+"Guuuaaaaaah!"[pcms]
 
 *2769|
 [fc]
-初めて味わう女の子のあそこは、[r]
-とんでもない気持ちよさだった。[pcms]
+The inside of a girl for the first time felt unbelievably good.[pcms]
 
 *2770|
 [fc]
-これで……僕の人生は終わりなんだ。[r]
-後は二人で楽しむだけだ。[pcms]
+This is it... my life is over. Now we just have to enjoy ourselves[r]
+together.[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：追加SE;//◆演出メモ　サンプリング
@@ -752,137 +728,131 @@
 *2771|
 [fc]
 [vo_aka s="akari0477"]
-[ns]茜梨[nse]
-「やっと、まーくんせんぱいに、[r]
-　だいてもらえたよぉぉぉぉぉぉっ！」[pcms]
+[ns]Akari[nse]
+"Finally, I got held by Mak-kun senpaiiiiiii!"[pcms]
 
 *2772|
 [fc]
-[ns]誠[nse]
-「今まで、ううっ、ごめんね……、[r]
-　たっぷりとかわいがってあげるから……」[pcms]
+[ns]Makoto[nse]
+"I'm sorry for everything up until now... I'll cherish you a lot from[r]
+now on..."[pcms]
 
 *2773|
 [fc]
 [vo_aka s="akari0478"]
-[ns]茜梨[nse]
-「きてぇぇえぇぇぇえっ！」[pcms]
+[ns]Akari[nse]
+"Comeeeeeee!"[pcms]
 
 *2774|
 [fc]
-とうとう越智さんと結ばれたんだ、[r]
-夢にまで見た越智さんと……。[pcms]
+Finally united with Ochi-san, the Ochi-san of my dreams...[pcms]
 
 *2775|
 [fc]
-僕は初めての喜びをかみしめながら、[r]
-後ろから腰を突き出していく。[pcms]
+I savored the joy of my first time while thrusting from behind.[pcms]
 
 *2776|
 [fc]
-愛液でべとべとになっている越智さんのあそこが、[r]
-僕のペニスを挟み込んで離さない。[pcms]
+Ochi-san's pussy, sticky with love juice, clamped down on my penis and[r]
+wouldn't let go.[pcms]
 
 *2777|
 [fc]
-[ns]誠[nse]
-「す、すごい、これじゃ、ああああっ！」[pcms]
+[ns]Makoto[nse]
+"It's amazing, if it's like this, ahhhhhh!"[pcms]
 
 *2778|
 [fc]
 [vo_aka s="akari0479"]
-[ns]茜梨[nse]
-「もっとおかして！　れいぷしてぇぇぇっ！」[pcms]
+[ns]Akari[nse]
+"Rape me more! Rape meeeeeee!"[pcms]
 
 *2779|
 [fc]
-[ns]誠[nse]
-「ああっ、はあっ、越智さんは、犯されるのが、[r]
-　好きだったんだよねっ！」[pcms]
+[ns]Makoto[nse]
+"Ahh, hahh, Ochi-san likes being raped, right?!"[pcms]
 
 *2780|
 [fc]
-それなら遠慮はいらない。[r]
-どうせ、処女でも初めてでもないんだから！[pcms]
+If that's the case, there's no need for restraint. After all, she's[r]
+neither a virgin nor experiencing her first time![pcms]
 
 *2781|
 [fc]
-僕はさっきの感染者に対して、[r]
-酷く暗い感情が沸き上がるのを抑えられなかった。[pcms]
+I couldn't suppress the dark emotions that welled up inside me towards[r]
+the infected person from earlier.[pcms]
 
 *2782|
 [fc]
-越智さんは僕のことが好きだったのに！[r]
-僕が越智さんを独り占めできるはずだったのに！[pcms]
+Ochi-san liked me! I was supposed to have her all to myself![pcms]
 
 *2783|
 [fc]
-あんなわけの分からない奴に犯されるなんて、[r]
-くそっ、くそっ、畜生っ！[pcms]
+To be raped by such an incomprehensible guy, damn it, damn it, damn[r]
+it![pcms]
 
 [evcg storage="akari_H006c"][trans_c cross time=300]
 
 *2784|
 [fc]
 [vo_aka s="akari0480"]
-[ns]茜梨[nse]
-「あひいいいいっ！　しきゅうが、おかされるぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"Ahhhh! My womb is being violated!"[pcms]
 
 *2785|
 [fc]
-[ns]誠[nse]
-「届いてるのか！　これが子宮かっ！」[pcms]
+[ns]Makoto[nse]
+"Can you feel it? Is this the womb?!"[pcms]
 
 *2786|
 [fc]
 [vo_aka s="akari0481"]
-[ns]茜梨[nse]
-「ぶちぬいてぇぇぇぇっ！　おなかをつきやぶってぇぇぇっ！」[pcms]
+[ns]Akari[nse]
+"Burst through it! Break through my stomach!"[pcms]
 
 *2787|
 [fc]
-卵管の中の卵子まで孕ませて、[r]
-全部僕のものにしてやるっ！[pcms]
+I'll impregnate even the ovum in the fallopian tubes, making[r]
+everything mine![pcms]
 
 *2788|
 [fc]
-これは元々、僕のものだったんだ！[pcms]
+This was originally mine to begin with![pcms]
 
 *2789|
 [fc]
-[ns]誠[nse]
-「いくぞおおおっ！　濃いのを出してやるからな！」[pcms]
+[ns]Makoto[nse]
+"Here I goooo! I'm going to release a thick load!"[pcms]
 
 [evcg storage="akari_H006d"][trans_c cross time=300]
 
 *2790|
 [fc]
 [vo_aka s="akari0482"]
-[ns]茜梨[nse]
-「みるく！　まーくんせんぱいのみるくほしいよぉ！」[pcms]
+[ns]Akari[nse]
+"Milk! I want Mak-kun senpai's milk!"[pcms]
 
 *2791|
 [fc]
-[ns]誠[nse]
-「上の口にも下の口にも、たっぷりと飲ませてやる！」[pcms]
+[ns]Makoto[nse]
+"I'll make sure both your upper and lower lips get plenty to drink!"[pcms]
 
 *2792|
 [fc]
 [vo_aka s="akari0483"]
-[ns]茜梨[nse]
-「うれしいぃぃっ！　まーくんせんぱいの、[r]
-　あかちゃんほしいのぉぉぉぉっ！」[pcms]
+[ns]Akari[nse]
+"I'm so happy! I want Mak-kun senpai's baby!"[pcms]
 
 *2793|
 [fc]
-[ns]誠[nse]
-「ああああああっ！　だすぞぉぉぉぉっ！」[pcms]
+[ns]Makoto[nse]
+"Ahhhhhh! I'm going to release it!"[pcms]
 
 *2794|
 [fc]
 [vo_aka s="akari0484"]
-[ns]茜梨[nse]
-「きてえぇぇぇぇぇぇぇっ！」[pcms]
+[ns]Akari[nse]
+"Comeeeee!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：追加分
@@ -899,15 +869,15 @@
 
 *2795|
 [fc]
-オナニーとは比べものにならないほどの達成感だった。[pcms]
+The sense of accomplishment was incomparable to masturbation.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：追加分
 
 *2796|
 [fc]
-腰の奥から迫り出してきた熱いものが、[r]
-越智さんの中に注がれている。[pcms]
+The hot substance surging from deep within my hips was being poured[r]
+into Ochi-san.[pcms]
 
 [se buf=0 storage="se_sex02"]
 ;//SE：追加分
@@ -916,51 +886,50 @@
 
 *2797|
 [fc]
-ペニスが引きつる度に精液が飛び出し、[r]
-越智さんを中から染め上げていった。[pcms]
+With every twitch of my penis, semen burst forth, staining Ochi-san[r]
+from the inside.[pcms]
 
 *2798|
 [fc]
-本当に越智さんを自分のものにできた喜びが、[r]
-身体中を駆け巡って汗になる。[pcms]
+The joy of truly making Ochi-san mine coursed through my body and[r]
+turned into sweat.[pcms]
 
 *2799|
 [fc]
-越智さんの身体を後ろから抱きしめ、[r]
-セックスをする喜びの汗を染み込ませていった。[pcms]
+I embraced Ochi-san from behind, soaking in the sweat of our sexual[r]
+delight.[pcms]
 
 *2800|
 [fc]
-身体の内側から熱くたぎる精液で、[r]
-外側から擦れ合う肌と汗の水分を馴染ませる。[pcms]
+From the inside, my hot semen surged, blending with the moisture of[r]
+our rubbing skin and sweat on the outside.[pcms]
 
 *2801|
 [fc]
 [vo_aka s="akari0485"]
-[ns]茜梨[nse]
-「せーえき……あっついぃ……おかされてるぅ……」[pcms]
+[ns]Akari[nse]
+"Se-men... it's so hot... I'm being violated..."[pcms]
 
 *2802|
 [fc]
-僕のものだ、もう誰にも渡さない。[r]
-夜になって朝を迎えるまで何度でも注ぎ込んでやる。[pcms]
+She's mine, I won't give her to anyone else. I'll pour into her again[r]
+and again until morning comes.[pcms]
 
 *2803|
 [fc]
-身体の奥から無尽蔵の力が沸いてくるのがわかった。[r]
-疲れなんて、もうどこかに吹っ飛んでいる。[pcms]
+I could feel an inexhaustible power bubbling up from deep within.[r]
+Fatigue had blown away somewhere.[pcms]
 
 *2804|
 [fc]
-[ns]誠[nse]
-「もっと、犯してやるからな！」[pcms]
+[ns]Makoto[nse]
+"I'll rape you even more!"[pcms]
 
 *2805|
 [fc]
 [vo_aka s="akari0486"]
-[ns]茜梨[nse]
-「はぃぃ……わたしは、まーくんせんんぱいのぉ、[r]
-　いいなり……です……」[pcms]
+[ns]Akari[nse]
+"Yes... I am, Mak-kun senpai's, obedient girl..."[pcms]
 
 [evcg storage="akari_H006g"][trans_c cross time=300]
 
@@ -968,105 +937,99 @@
 
 *2806|
 [fc]
-越智さんの下着をはぎ取ると、[r]
-それを口に詰めていく。[pcms]
+As I tore off Ochi-san's panties, I stuffed them into her mouth.[pcms]
 
 *2807|
 [fc]
 [vo_aka s="akari0487"]
-[ns]茜梨[nse]
-「んぐううううううっ……」[pcms]
+[ns]Akari[nse]
+"Nnguuuuuuu..."[pcms]
 
 *2808|
 [fc]
-[ns]誠[nse]
-「そうだ、そうやって声を立てられない方が、[r]
-　犯されてるみたいで興奮するだろ？」[pcms]
+[ns]Makoto[nse]
+"That's right, it's more exciting when you can't make a sound, like[r]
+you're being raped, right?"[pcms]
 
 *2809|
 [fc]
-僕は全く萎えることのないペニスを頼もしく思いながら、[r]
-小さなまんこを蹂躙し始めた。[pcms]
+I began to ravage her small pussy while feeling proud of my penis that[r]
+never wilted.[pcms]
 
 *2810|
 [fc]
 [vo_aka s="akari0488"]
-[ns]茜梨[nse]
-「くんむっ！　ふんむぅぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"Kunmm! Hunmmmmmm!"[pcms]
 
 *2811|
 [fc]
-[ns]誠[nse]
-「ははははっ！　あの越智さんをレイプしてやってるぞ！」[pcms]
+[ns]Makoto[nse]
+"Hahahaha! I'm raping Ochi-san!"[pcms]
 
 *2812|
 [fc]
-そうだ、僕は前からこうやって越智さんを犯したかった。[pcms]
+That's right, I've always wanted to rape Ochi-san like this.[pcms]
 
 *2813|
 [fc]
-礼儀正しく品行方正な越智さんを、[r]
-レイプでよがらせてやりたかったんだ！[pcms]
+To make the polite and proper Ochi-san moan through rape![pcms]
 
 *2814|
 [fc]
 [vo_aka s="akari0489"]
-[ns]茜梨[nse]
-「んぐううううっ！　むぐいいいいいいっ！」[pcms]
+[ns]Akari[nse]
+"Nnguuuuuuu! Muguuuuuuuu!"[pcms]
 
 *2815|
 [fc]
-[ns]誠[nse]
-「僕に犯されるのがそんなに嬉しいか！[r]
-　この雌豚がぁぁぁぁぁぁぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Are you that happy to be raped by me?! You sowwwwwwwww!"[pcms]
 
 *2816|
 [fc]
-暴力的な衝動が身体を突き動かしている。[r]
-まるで野性に返ったような感覚だった。[pcms]
+A violent impulse propelled my body. It felt like returning to a wild[r]
+state.[pcms]
 
 *2817|
 [fc]
-まんこの入り口まで引き抜いたペニスを、[r]
-思い切り強く奥まで叩きつける。[pcms]
+I pulled my penis back to the entrance of her pussy and then slammed[r]
+it forcefully deep inside.[pcms]
 
 *2818|
 [fc]
-まるで子猫をいたぶるライオンの気分だった。[r]
-何でもっと早くこうしなかったんだろうか。[pcms]
+It felt like a lion tormenting a kitten. Why didn't I do this sooner?[pcms]
 
 *2819|
 [fc]
-セックスは気持ちがいい、[r]
-越智さんも犯されて喜んでいる。[pcms]
+Sex feels good, and Ochi-san is happy being raped.[pcms]
 
 *2820|
 [fc]
-もっと、もっともっと犯してやる。[r]
-精液で溺れるほど吐き出してやる！[pcms]
+I'll rape her more and more. I'll ejaculate so much she'll drown in[r]
+semen![pcms]
 
 *2821|
 [fc]
-[ns]誠[nse]
-「二発目を出してやるからなっ！[r]
-　しっかり受精しろよっ！」[pcms]
+[ns]Makoto[nse]
+"I'm going to cum a second time! Make sure you get fertilized!"[pcms]
 
 *2822|
 [fc]
 [vo_aka s="akari0490"]
-[ns]茜梨[nse]
-「んぐううっ！　ふんむううううっ！」[pcms]
+[ns]Akari[nse]
+"Nnguuuuuuu! Mmmmuuuuuuuu!"[pcms]
 
 *2823|
 [fc]
-[ns]誠[nse]
-「お前は俺のものだぁぁぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"You are mineeeeeee!"[pcms]
 
 *2824|
 [fc]
 [vo_aka s="akari0491"]
-[ns]茜梨[nse]
-「んぐいいいいいいいいいいいいっ！」[pcms]
+[ns]Akari[nse]
+"Nnguiiiiiiiiiiiiiiiiiiiiiii!"[pcms]
 
 [evcg storage="akari_H006j"][trans_c cross time=300]
 
@@ -1083,19 +1046,19 @@
 
 *2825|
 [fc]
-オナニーではあり得ないほど、[r]
-大量の精子が吐き出されていく。[pcms]
+An amount of semen that could never be achieved through masturbation[r]
+is being ejaculated.[pcms]
 
 [evcg storage="akari_H006k"][trans_c cross time=300]
 
 *2826|
 [fc]
-何度ひくついても、精液が途切れる様子がない。[pcms]
+No matter how many times it twitches, the semen doesn't seem to stop.[pcms]
 
 *2827|
 [fc]
-こいつの子宮を精液で溢れさせてやる、[r]
-ぱんぱんにして、ちんぽを突っ込んでやる！[pcms]
+I'll fill her womb with semen until it overflows, swell it up, and[r]
+thrust my dick in![pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -1103,8 +1066,8 @@
 
 *2828|
 [fc]
-[ns]誠[nse]
-「まだまだっ！　次行くぞぉぉぉぉぉっ！」[pcms]
+[ns]Makoto[nse]
+"Not done yet! Going for the next oneeeeeee!"[pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -1150,87 +1113,85 @@
 
 *2829|
 [fc]
-[ns]宗一郎[nse]
-「こんなに暗くなってしまっては、[r]
-　誠たちを見つけるのは難しそうですよ」[pcms]
+[ns]Souichirou[nse]
+"It's become so dark, finding Makoto and the others seems difficult."[pcms]
 
 *2830|
 [fc]
 [vo_nat s="natu0195"]
-[ns]夏都[nse]
-「口を動かしてる暇があるなら、[r]
-　その太い足をさっさと動かせ！」[pcms]
+[ns]Natsu[nse]
+"If you have time to flap your lips, move those thick legs of yours[r]
+faster!"[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2831|
 [fc]
-[ns]荒井[nse]
-「もう、越智さんの家に着いてるんじゃないですか？」[pcms]
+[ns]Arai[nse]
+"Aren't we already at Ochi-san's house by now?"[pcms]
 
 *2832|
 [fc]
-それならそれでいい。[r]
-そこで合流して島からおさらばすればいいだけだ。[pcms]
+If that's the case, it's fine. We'll just meet up there and say[r]
+goodbye to the island.[pcms]
 
 *2833|
 [fc]
-神社から東に突っ切るルートの途中に、[r]
-誠のカバンを見つけた以上、[r]
-この方向にいるのは間違いない。[pcms]
+Since we found Makoto's bag on the route cutting east through the[r]
+shrine, there's no doubt they went this way.[pcms]
 
 *2834|
 [fc]
-感染した子を連れて歩いているのに、[r]
-まだ追いつけないのは少しおかしかった。[pcms]
+It's a bit strange that we haven't caught up yet, considering they're[r]
+walking with an infected child.[pcms]
 
 *2835|
 [fc]
-もうとっくに、誠たちは奴らの餌食に……。[pcms]
+By now, Makoto and the others might have already become prey to[r]
+them...[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so08a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2836|
 [fc]
-[ns]宗一郎[nse]
-「もう体力が限界に近いですよ……」[pcms]
+[ns]Souichirou[nse]
+"My physical strength is nearly at its limit..."[pcms]
 
 *2837|
 [fc]
 [vo_nat s="natu0196"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *2838|
 [fc]
-誠とデブの体力はそう違わないはずだ。[r]
-ましてや感染した子を連れて歩いている労力は、[r]
-計り知れない。[pcms]
+Makoto and the fatso shouldn't differ much in stamina. Moreover, the[r]
+effort of walking with an infected child is immeasurable.[pcms]
 
 *2839|
 [fc]
-もしも山を東に突っ切ったのなら、[r]
-追いついても良さそうな頃合いなんだが……。[pcms]
+If they did cut through the mountain to the east, it seems like we[r]
+should have caught up by now...[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar04"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2840|
 [fc]
-[ns]荒井[nse]
-「今、声が聞こえなかったか？」[pcms]
+[ns]Arai[nse]
+"Did anyone else hear a voice just now?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so15a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2841|
 [fc]
-[ns]宗一郎[nse]
-「なに、感染者か……？」[pcms]
+[ns]Souichirou[nse]
+"What, an infected person...?"[pcms]
 
 *2842|
 [fc]
 [vo_nat s="natu0197"]
-[ns]夏都[nse]
-「…………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1239,38 +1200,36 @@
 
 *2843|
 [fc]
-オレは銃を構えると、辺りの様子をうかがった。[r]
-確かに小さな声が聞こえてくる。[pcms]
+I readied my gun and surveyed the surroundings. I could definitely[r]
+hear a faint voice.[pcms]
 
 *2844|
 [fc]
-オレは二人に目配せをすると、[r]
-そこから慎重に足を進めていった。[pcms]
+I signaled to the two of them with my eyes, and we cautiously moved[r]
+forward from there.[pcms]
 
 *2845|
 [fc]
-旧日本軍の砲台跡は、闇に包まれて[r]
-物陰がたくさんできている。[pcms]
+The remains of the old Japanese army's gun battery were shrouded in[r]
+darkness, creating many shadows.[pcms]
 
 *2846|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *2847|
 [fc]
-デブがその先だとジェスチャーで、[r]
-オレに知らせてきた。[pcms]
+The fatso gestured that they were ahead and informed me.[pcms]
 
 *2848|
 [fc]
-わかったからオレに任せろと合図を返すと、[r]
-大人しく後ろに下がっていく。[pcms]
+I signaled back to leave it to me, and he obediently stepped back.[pcms]
 
 *2849|
 [fc]
-すぐに発砲できるように用意をすると、[r]
-オレは物陰にいる誰かの前に勢いよく飛び出した。[pcms]
+Preparing to fire at any moment, I burst out in front of someone[r]
+hiding in the shadows.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 ;//[evcg storage="akari_H006a"][trans_c cross time=300]
@@ -1280,88 +1239,84 @@
 *2850|
 [fc]
 [vo_aka s="akari0492"]
-[ns]茜梨[nse]
-「しぬぅぅぅ、しんじゃぅぅぅぅぅっ！」[pcms]
+[ns]Akari[nse]
+"I'm dyinggggg, I'm going to dieeeeeee!"[pcms]
 
 *2851|
 [fc]
-[ns]誠[nse]
-「ぼくのもの、ぼくのものだぁぁぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Mine, mineeeeeee!"[pcms]
 
 *2852|
 [fc]
 [vo_nat s="natu0198"]
-[ns]夏都[nse]
-「あ……か……」[pcms]
+[ns]Natsu[nse]
+"Ah... ka..."[pcms]
 
 *2853|
 [fc]
-目の前で繰り広げられていた光景は、[r]
-考えないようにしようと、ずっと目を背けていた[r]
-可能性の一つだった。[pcms]
+The scene unfolding before me was one of the possibilities I had been[r]
+trying not to think about, always averting my eyes from.[pcms]
 
 *2854|
 [fc]
-茜梨ちゃんからウイルスを移されてしまう、[r]
-最悪のケース。[pcms]
+The worst-case scenario where Akari-chan gets infected with the virus.[pcms]
 
 *2855|
 [fc]
-常に爆弾を抱えたまま走っている誠が、[r]
-一番気をつけなくちゃいけないパターンだった。[pcms]
+Makoto, who is always running with a bomb, had to be most careful of[r]
+this pattern.[pcms]
 
 *2856|
 [fc]
 [vo_nat s="natu0199"]
-[ns]夏都[nse]
-「ば……バカ野郎……ドジ踏みやがって……」[pcms]
+[ns]Natsu[nse]
+"You idiot... You've really screwed up..."[pcms]
 
 *2857|
 [fc]
-誠と暮らした思い出の日々が、[r]
-走馬燈のように頭を駆け巡る。[pcms]
+The days I spent living with Makoto flashed through my mind like a[r]
+revolving lantern.[pcms]
 
 *2858|
 [fc]
-目の前の光景は、その思い出の日々を汚してしまう、[r]
-あり得ないものだった。[pcms]
+The scene before me was sullying those memories, an unthinkable[r]
+occurrence.[pcms]
 
 *2859|
 [fc]
-感染してしまったら誰でもこうなる。[r]
-元の人格なんて関係ない。[pcms]
+If you get infected, this happens to anyone. The original personality[r]
+doesn't matter.[pcms]
 
 *2860|
 [fc]
-そんなのわかっているつもりだったのに、[r]
-オレは溢れる涙を止めることができなかった。[pcms]
+Even though I thought I understood that, I couldn't stop the tears[r]
+from overflowing.[pcms]
 
 *2861|
 [fc]
 [vo_nat s="natu0200"]
-[ns]夏都[nse]
-「今……楽にしてやるからな……」[pcms]
+[ns]Natsu[nse]
+"I'll ease your pain now..."[pcms]
 
 *2862|
 [fc]
-せめて、最期はオレが看取ってやる。[pcms]
+At least, I will be the one to see you off in the end.[pcms]
 
 *2863|
 [fc]
-無様な姿をさらしたまま、[r]
-生き恥をさらさないように……。[pcms]
+So that you won't be left exposed in disgrace, living in shame...[pcms]
 
 *2864|
 [fc]
 [vo_nat s="natu0201"]
-[ns]夏都[nse]
-「バカ野郎……女のために……、[r]
-　かっこつけやがって……」[pcms]
+[ns]Natsu[nse]
+"You idiot... trying to look cool for a girl..."[pcms]
 
 *2865|
 [fc]
-オレは涙で霞む視界に誠をとらえたまま……、[r]
-その引き金を絞っていった。[pcms]
+With my vision blurred by tears, I kept my focus on Makoto... and[r]
+squeezed the trigger.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1418,7 +1373,7 @@
 [eval exp="sf.g_1130 = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *no_rescue_makoto
@@ -1429,12 +1384,12 @@
 
 *2866|
 [fc]
-いや、のんびりしてはいられない。[pcms]
+No, I can't afford to take it easy.[pcms]
 
 *2867|
 [fc]
-僕は身体にむち打って立ち上がると、[r]
-再び越智さんを背負って遺構を跡にした。[pcms]
+I forced my body to stand up and once again carried Ochi-san on my[r]
+back, leaving the ruins behind.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]

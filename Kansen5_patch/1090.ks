@@ -25,139 +25,137 @@
 
 *1511|
 [fc]
-自衛隊に追い立てられた僕たちは、[r]
-結局元の大神山神社まで戻ってきていた。[pcms]
+We, who were chased by the Self-Defense Forces, had eventually[r]
+returned to the original Oogamiyama Shrine.[pcms]
 
 *1512|
 [fc]
-あれだけの軍隊が移動しているとなると、[r]
-そう簡単には動けない。[pcms]
+If such a large army is moving, it won't be easy to make a move.[pcms]
 
 *1513|
 [fc]
-だからと言って港の方から移動しても、[r]
-同じことになるだろう。[pcms]
+Even if we try to move from the port, it would probably end up the[r]
+same.[pcms]
 
 *1514|
 [fc]
-あまり時間をかけたくないけれど、[r]
-ここは様子を見る他なかった。[pcms]
+We don't want to waste too much time, but we had no choice but to wait[r]
+and see how things would unfold.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1515|
 [fc]
-[ns]誠[nse]
-「思わず逃げてしまったけれど、[r]
-　ちゃんと話をすればわかってもらえたのかな？」[pcms]
+[ns]Makoto[nse]
+"I ran away without thinking, but I wonder if they would have[r]
+understood if we had talked properly?"[pcms]
 
 *1516|
 [fc]
 [vo_aka s="akari0353"]
-[ns]茜梨[nse]
-「そ、そうですね……」[pcms]
+[ns]Akari[nse]
+"That's... true..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1517|
 [fc]
-[ns]誠[nse]
-「うまく行けば、越智さんの実家まで届けてくれるかも」[pcms]
+[ns]Makoto[nse]
+"If things went well, they might have even taken us to Ochi-san's[r]
+family home."[pcms]
 
 *1518|
 [fc]
 [vo_aka s="akari0354"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *1519|
 [fc]
-[ns]誠[nse]
-「越智さん……？」[pcms]
+[ns]Makoto[nse]
+"Ochi-san...?"[pcms]
 
 *1520|
 [fc]
-越智さんは顔を赤くして、乱れた呼吸を繰り返していた。[r]
-あまり具合は良くないらしい。[pcms]
+Ochi-san's face was flushed, and she was breathing raggedly. She[r]
+didn't seem to be in good condition.[pcms]
 
 *1521|
 [fc]
-考えてみれば、自衛隊に見つかったときに[r]
-越智さんのことを説明するのは大変そうだった。[pcms]
+Thinking about it, it would have been difficult to explain about Ochi-[r]
+san when we were found by the Self-Defense Forces.[pcms]
 
 *1522|
 [fc]
-下手をすると、隔離なんてことにもなりかねない。[r]
-いや、もっと悪い展開だってあり得るか……。[pcms]
+We could end up being quarantined, or worse, something even more dire[r]
+could happen...[pcms]
 
 *1523|
 [fc]
-[ns]誠[nse]
-「越智さん！　包帯が真っ赤じゃないか！」[pcms]
+[ns]Makoto[nse]
+"Ochi-san! Your bandage is completely red!"[pcms]
 
 *1524|
 [fc]
-気が付くと、さっき交換したばかりの包帯が、[r]
-もう血で真っ赤になっていた。[pcms]
+Before I knew it, the bandage that had just been changed was already[r]
+soaked red with blood.[pcms]
 
 *1525|
 [fc]
-少し無理をさせてしまったのか？[r]
-とにかく手当をしないと……。[pcms]
+Did I make her do too much? Anyway, I need to tend to her wounds...[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1526|
 [fc]
 [vo_aka s="akari0355"]
-[ns]茜梨[nse]
-「でも……痛みが、全くないんです」[pcms]
+[ns]Akari[nse]
+"But... I don't feel any pain at all."[pcms]
 
 *1527|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1528|
 [fc]
-さっきはくすぐったいと言っていたけれど、[r]
-感覚が無くなってきているんだろうか。[pcms]
+She said it tickled before, but is she losing sensation now?[pcms]
 
 *1529|
 [fc]
-あまりいい兆候とは思えない、[r]
-包帯を交換したらすぐに出発しないと。[pcms]
+It doesn't seem like a good sign; we need to change the bandage and[r]
+leave as soon as possible.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1530|
 [fc]
-僕は越智さんを連れて、神社の手水場で水を補給すると、[r]
-さっきのお社を目指して歩いていく。[pcms]
+I took Ochi-san with me to replenish water at the shrine's water[r]
+basin, and then we headed towards the small shrine we had visited[r]
+earlier.[pcms]
 
 *1531|
 [fc]
-ターヤさんがまだ近くにいるかもしれないから、[r]
-隠れるところは必要だ。[pcms]
+Since Tarja-san might still be nearby, we needed a place to hide.[pcms]
 
 *1532|
 [fc]
-すると、どこか境内の方から猫が盛っているような[r]
-声が聞こえてくることに気がついた。[pcms]
+Then, I noticed a sound like cats fighting coming from somewhere[r]
+within the shrine grounds.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
 
 *1533|
 [fc]
-複数の声がしている。[pcms]
+There were multiple voices.[pcms]
 
 *1534|
 [fc]
-僕は越智さんに目で合図すると、先にお社に行ってもらい、[r]
-周囲に気をつけながらそちらの方を覗いてみた。[pcms]
+I signaled Ochi-san with my eyes to go ahead to the small shrine while[r]
+I cautiously peeked in the direction of the sounds.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -179,352 +177,328 @@
 *1535|
 [fc]
 [vo_tay s="taja0051"]
-[ns]ターヤ[nse]
-「んぶぶっ、ぐあひいっ、ぐぶうぐああっ、げぼあぶぶうっ、[r]
-　がばばばぶはぁっ、んぼああああっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nnbbuuhh, guahiih, gbuuguaah, gebobubuuh, gabababuhhaah, nboahaaaah!"[pcms]
 
 *1536|
 [fc]
-そこには、明らかに感染していると思われる男数人と、[r]
-ターヤさんが激しく交わっている姿があった。[pcms]
+There were several men who seemed to be infected, engaging intensely[r]
+with Tarja-san.[pcms]
 
 *1537|
 [fc]
-先ほど見たレオタード姿のまま、[r]
-身体中が精液まみれになっている。[pcms]
+Still in her leopard costume from earlier, her body was covered in[r]
+semen.[pcms]
 
 *1538|
 [fc]
-[ns]感染者Ａ[nse]
-「え゛、え゛そ゛……も゛っ゛と゛……[r]
-　こ゛し゛ふ゛れぇ……」[pcms]
+[ns]Infected Person A[nse]
+"Eh, ehso...motto... koshifuree..."[pcms]
 
 *1539|
 [fc]
-男の上にうつ伏せでまたがっているターヤさんは、[r]
-喉の奥にペニスを突っ込まれながらも、[r]
-嬉しそうな喘ぎ声をあげていた。[pcms]
+Tarja-san, straddling a man face down, was taking a penis deep into[r]
+her throat while letting out pleased moans.[pcms]
 
 [evcg storage="taja_H001bA"][trans_c cross time=300]
 
 *1540|
 [fc]
 [vo_tay s="taja0052"]
-[ns]ターヤ[nse]
-「げぼぁ、ぶうばあっ、んぶうぐうっ、ぶほっ、んぶっ、[r]
-　ぐぼぶべばあっ、んぐうぐげうえっ」[pcms]
+[ns]Tarja[nse]
+"Gebah, buubaaah, nbuuguhh, buhohh, nbuhh, gububebaaah, nguugugeuehh"[pcms]
 
 *1541|
 [fc]
-あんなに[ruby text="えず"][ch text="嘔吐"]いているのに、[r]
-苦しくないんだろうか。[pcms]
+Despite vomiting so much, doesn't she feel distressed?[pcms]
 
 *1542|
 [fc]
-右手で他の男のペニスをしごきながら、[r]
-布団を叩くような音をさせて腰を動かしていた。[pcms]
+While jerking off another man's penis with her right hand, she moved[r]
+her hips making sounds like slapping a futon.[pcms]
 
 [evcg storage="taja_H001cA"][trans_c cross time=300]
 
 *1543|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛ま゛え゛の……の゛と゛……[r]
-　き゛も゛ち゛ええ゛な゛ぁ……」[pcms]
+[ns]Infected Person B[nse]
+"Omae no...noto... kimochieenaah..."[pcms]
 
 *1544|
 [fc]
-誉められたターヤさんは嬉しかったのか、[r]
-男のペニスを更に奥まで飲み込んでいく。[pcms]
+Pleased by the praise, Tarja-san took the man's penis even deeper.[pcms]
 
 *1545|
 [fc]
 [vo_tay s="taja0053"]
-[ns]ターヤ[nse]
-「んぶううっ、ぶふうぐんぐっ、ぶおぐえぶうっ、[r]
-　がぎがぐがあああっ、はぐごぶぶっ、ぐぶえええっ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nbuuuhh, bufuungunguhh, buoguebuuhh, gagigagaaahh, hagobubuhh,[r]
+gubueeehh"[pcms]
 
 *1546|
 [fc]
-[ns]感染者Ｃ[nse]
-「お゛ら゛っ゛……も゛っ゛と゛……[r]
-　し゛こ゛け゛ぇ゛っ゛……」[pcms]
+[ns]Infected Person C[nse]
+"Orahh...motto... shikokeehh..."[pcms]
 
 *1547|
 [fc]
-ペニスをしごかれていた男が、不満そうに[r]
-ターヤさんの顔をペニスで突いていく。[pcms]
+The man whose penis was being stroked seemed dissatisfied as he thrust[r]
+his penis against Tarja-san's face.[pcms]
 
 *1548|
 [fc]
-同時に三人を満足させるなんて、[r]
-ターヤさんには不可能だと思うけれど、[r]
-男たちは乱暴にそれを要求していた。[pcms]
+To satisfy three people at once seemed impossible for Tarja-san, but[r]
+the men were violently demanding it.[pcms]
 
 [evcg storage="taja_H001dA"][trans_c cross time=300]
 
 *1549|
 [fc]
 [vo_tay s="taja0054"]
-[ns]ターヤ[nse]
-「んぶううっ、ごめんなさぁい、ごぶぐあぼぶううっ、[r]
-　がふっ、ぐがぼあっ、げぶううぐがっ」[pcms]
+[ns]Tarja[nse]
+"Nbuuuhh, I'm sorry, gobugabobuuuhh, gafuhh, gugaboahh, gebuuugugahh"[pcms]
 
 *1550|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あ゛っ゛……え゛え゛し゛ま゛り゛た゛……[r]
-　ち゛ん゛ほ゛っ゛こ゛……ち゛き゛れ゛る゛ま゛て゛……[r]
-　は゛さ゛み゛こ゛め゛ぇ゛っ゛……」[pcms]
+[ns]Infected Person A[nse]
+"Aaahh...eeshimarita... chinhokko... chikirerumade...[r]
+hasamikomeehh..."[pcms]
 
 *1551|
 [fc]
-感染者同士の激しいセックスがあまりにも刺激的で、[r]
-僕のペニスが堅く持ち上がってくるのがわかった。[pcms]
+The intense sex between the infected was so stimulating that I could[r]
+feel my penis getting hard.[pcms]
 
 *1552|
 [fc]
-初めて見るターヤさんの小さなおっぱいが、[r]
-痣になるほど強く握り込まれている。[pcms]
+I saw Tarja-san's small breasts for the first time, being gripped so[r]
+hard they were bruising.[pcms]
 
 *1553|
 [fc]
-どこの人とのハーフなのかわからないけれど、[r]
-均整のとれた身体ときめの細かな白い肌は、[r]
-反則的に男の欲情を誘うものだった。[pcms]
+I don't know with whom she's half, but her well-proportioned body and[r]
+fine white skin were unfairly arousing to men.[pcms]
 
 *1554|
 [fc]
-あまり大柄ではないターヤさんが、[r]
-複数の男に組み伏されている姿は、[r]
-哀れでもあるけれど、男の心を強く刺激してくる。[pcms]
+The sight of the not-so-tall Tarja-san being pinned down by multiple[r]
+men was pitiable, yet it strongly stimulated a man's heart.[pcms]
 
 *1555|
 [fc]
 [vo_tay s="taja0055"]
-[ns]ターヤ[nse]
-「おねがぁい……おしりのあなが……、[r]
-　うずいて……とまらないのぉ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Please... my butt hole is... throbbing... I can't stop it..."[pcms]
 
 *1556|
 [fc]
-[ns]感染者Ｄ[nse]
-「ん゛ん゛あ゛あ゛あ゛……？」[pcms]
+[ns]Infected D[nse]
+"Nnnn...aaaa...?"[pcms]
 
 *1557|
 [fc]
 [vo_tay s="taja0056"]
-[ns]ターヤ[nse]
-「あなたの……ぶっといちんちんで……、[r]
-　おしりのあなを……えぐってぇっ……」[pcms]
+[ns]Tarja[nse]
+"With your... thick cock... please gouge out... my ass hole..."[pcms]
 
 *1558|
 [fc]
-ただでさえ三人を相手にして折れてしまいそうな身体を、[r]
-更に貪欲に使おうとしている。[pcms]
+Even though her body seemed about to break from handling three people,[r]
+she was still greedily used even more.[pcms]
 
 *1559|
 [fc]
-ターヤさんには、お尻をいじる趣味があったんだろうか。[r]
-それとも、こうなってから開発されたのか……。[pcms]
+I wonder if Tarja-san had a hobby of playing with her butt. Or was it[r]
+developed after becoming like this...?[pcms]
 
 *1560|
 [fc]
 [vo_tay s="taja0057"]
-[ns]ターヤ[nse]
-「あああっ……おねがい……、[r]
-　もうがまんできないの……、[r]
-　おかしく……なっちゃうううっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aaaaah... please... I can't stand it anymore... I'm going crazy..."[pcms]
 
 *1561|
 [fc]
-[ns]感染者Ｄ[nse]
-「し゛ょ゛う゛か゛……ね゛え゛な゛ぁ……」[pcms]
+[ns]Infected D[nse]
+"You're doing great... aren't you..."[pcms]
 
 *1562|
 [fc]
-あんな冴えない中年のオヤジにおねだりして、[r]
-渋々セックスしてもらうなんて、[r]
-こんな状況じゃなくちゃ考えられない。[pcms]
+To think she would beg such a dull middle-aged man for sex, it's[r]
+unimaginable unless in this situation.[pcms]
 
 *1563|
 [fc]
-ターヤさんみたいなとびきりの美少女を、[r]
-しかたなくセックスしてあげるなんて……。[pcms]
+For a stunningly beautiful girl like Tarja-san to have sex out of[r]
+obligation...[pcms]
 
 *1564|
 [fc]
-[ns]感染者Ｄ[nse]
-「ほ゛う゛れ゛ぇ゛……」[pcms]
+[ns]Infected D[nse]
+"You're loving it..."[pcms]
 
 *1565|
 [fc]
 [vo_tay s="taja0058"]
-[ns]ターヤ[nse]
-「んあああああっ、おしり、さけちゃうっ、[r]
-　もっと、なうぞう、ごりごりしてぇっ！」[pcms]
+[ns]Tarja[nse]
+"Aaaaaah, my ass is going to tear, grind it more, harder!"[pcms]
 
 *1566|
 [fc]
-二穴を責められながら、口と手でペニスをしごいている[r]
-ターヤさんは、恍惚とした顔でのぼせたように[r]
-顔を赤くしていた。[pcms]
+While being double penetrated, Tarja-san stroked penises with her[r]
+mouth and hand, her face flushed with ecstasy.[pcms]
 
 *1567|
 [fc]
-セックスの気持ちよさが、見ているだけの僕にも[r]
-伝わってきそうなほど激しい交わりだ。[pcms]
+The pleasure of the sex was so intense that even I, just watching,[r]
+could almost feel it.[pcms]
 
 *1568|
 [fc]
 [vo_tay s="taja0059"]
-[ns]ターヤ[nse]
-「あぶううっ、んぶぐあぐぶっ、ぐぶうぇっ、ぐぼぶっ、[r]
-　んぐあぶいいっ、ぐぶぼっ、がばぶんぶいえっ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Abuuuh, nbugagubuhh, gubuwehh, gubobuhh, nguabuiihh, gubobohh,[r]
+gababunbuihh"[pcms]
 
 *1569|
 [fc]
-ターヤさんの口にペニスを突っ込んでいた男が、[r]
-再び喉の奥を犯し始めていた。[pcms]
+The man who had been thrusting his penis into Tarja-san's mouth began[r]
+to violate her throat again.[pcms]
 
 *1570|
 [fc]
-半狂乱になってターヤさんが喜びの声を上げ、[r]
-男たちが物のようにその小さな身体を蹂躙していく。[pcms]
+Tarja-san cried out in joy as she went half-mad, while the men ravaged[r]
+her small body like an object.[pcms]
 
 *1571|
 [fc]
-神聖な神社の境内で交わるその姿は、[r]
-相当に異様で興奮するものだった。[pcms]
+Their act of intercourse within the sacred shrine grounds was[r]
+exceedingly bizarre and exciting.[pcms]
 
 *1572|
 [fc]
-ひとかたまりになった肌色の集団が、[r]
-もぞもぞと動きながらいやらしい音を立てている。[pcms]
+A mass of flesh-colored bodies writhed together, making lewd noises as[r]
+they moved.[pcms]
 
 *1573|
 [fc]
 [vo_tay s="taja0060"]
-[ns]ターヤ[nse]
-「せーえき……せーえきください……、[r]
-　あそこと、おしりと、おくちと、からだに……、[r]
-　いっぱいだして……いっぱいかけてぇ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Please... give me your semen... on my pussy, my butt, my mouth, and[r]
+all over my body... cover me with it..."[pcms]
 
 *1574|
 [fc]
-[ns]感染者Ａ[nse]
-「う゛る゛せ゛え゛……な゛ま゛い゛き゛た゛そ゛……」[pcms]
+[ns]Infected Person A[nse]
+"You're so lewd... you really want it..."[pcms]
 
 *1575|
 [fc]
 [vo_tay s="taja0061"]
-[ns]ターヤ[nse]
-「ごめぇんなさぁい……でも……、[r]
-　くっさいせーえき……ほしいのぉっ……」[pcms]
+[ns]Tarja[nse]
+"I'm sorry... but I want your stinky semen..."[pcms]
 
 [evcg storage="taja_H001dA"][trans_c cross time=300]
 
 *1576|
 [fc]
-ターヤさんが腰を引くとお尻のペニスが奥深く刺さり、[r]
-突き出すとあそこに沈んでいく。[pcms]
+When Tarja-san pulled her hips back, the penis in her ass plunged deep[r]
+inside, and when she pushed forward, it sank into her pussy.[pcms]
 
 *1577|
 [fc]
-どこをどう動かしても快楽に繋がってしまうターヤさんは、[r]
-夢中になって精液を欲しがっていた。[pcms]
+No matter how she moved, everything led to pleasure for Tarja-san, who[r]
+was desperately craving semen.[pcms]
 
 *1578|
 [fc]
-もしかしたら、絶頂が近いのかもしれない。[r]
-あんな汚い男たちに犯されて、喜びながら、[r]
-感極まるのかもしれない……。[pcms]
+Perhaps she was close to climax. Being violated by such filthy men and[r]
+rejoicing might just be overwhelming...[pcms]
 
 *1579|
 [fc]
 [vo_tay s="taja0062"]
-[ns]ターヤ[nse]
-「どろどろの……あかちゃんのもと……、[r]
-　おなかのおくに……ちょうだぁいっ……」[pcms]
+[ns]Tarja[nse]
+"I want your thick baby-making seed deep inside my belly..."[pcms]
 
 *1580|
 [fc]
-感染者が嘘をつくような生き物には思えない。[r]
-女の子は、中だしされると気持ちいいんだ……。[pcms]
+It doesn't seem like infected creatures would lie. Girls feel good[r]
+when they are creampied...[pcms]
 
 *1581|
 [fc]
-精液が好きで、口でも身体でも、お尻の穴でも、[r]
-感じてしまうんだ……。[pcms]
+She loves semen and feels it in her mouth, body, and even in her ass[r]
+hole...[pcms]
 
 *1582|
 [fc]
-[ns]感染者Ｄ[nse]
-「し゛ょ゛う゛が゛……ね゛ぇ゛な゛ぁ゛……」[pcms]
+[ns]Infected D[nse]
+"You're doing great... aren't you..."[pcms]
 
 *1583|
 [fc]
-[ns]感染者Ｂ[nse]
-「た゛っ゛ふ゛り゛……た゛し゛て゛や゛る゛……」[pcms]
+[ns]Infected Person B[nse]
+"I'll give you... a double portion..."[pcms]
 
 [evcg storage="taja_H001eA"][trans_c cross time=300]
 
 *1584|
 [fc]
 [vo_tay s="taja0063"]
-[ns]ターヤ[nse]
-「ぐんぶぶぶぐぼっ、ばぐがばわぎんんぐうっ、[r]
-　んぐぶっ、はがばがっ、んぶっ、ぶううぅっ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gunbububugobuhh, bagabawaginnnguhh, nabuhh, hagabagahh, nbuhh,[r]
+buuuuh"[pcms]
 
 *1585|
 [fc]
-ターヤさんに群がっている男たちの動きが、[r]
-ひときわ激しくなり始めた。[pcms]
+The movements of the men swarming around Tarja-san began to grow even[r]
+more intense.[pcms]
 
 *1586|
 [fc]
-ターヤさんも髪の毛を振り乱しながら、[r]
-行き場所のない腰を滅茶苦茶に振っている。[pcms]
+Tarja-san also shook her hair wildly as she frantically swung her hips[r]
+with nowhere to go.[pcms]
 
 *1587|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あ゛あ゛あ゛……」[pcms]
+[ns]Infected Person A[nse]
+"Aaaaah..."[pcms]
 
 *1588|
 [fc]
-[ns]感染者Ｄ[nse]
-「う゛う゛っ゛……て゛ち゛ま゛う゛……」[pcms]
+[ns]Infected D[nse]
+"Uuuhhh... I'm going to cum..."[pcms]
 
 [evcg storage="taja_H001fA"][trans_c cross time=300]
 
 *1589|
 [fc]
 [vo_tay s="taja0064"]
-[ns]ターヤ[nse]
-「ぐぶぶっ、んぎぶううっ、ぐがんぶうっ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gububuhh, ngibuuuhh, guganbuuhh"[pcms]
 
 *1590|
 [fc]
-[ns]感染者Ｃ[nse]
-「は゛あ゛ぁ゛……て゛る゛そ゛……」[pcms]
+[ns]Infected Person C[nse]
+"Haaah... I'm cumming..."[pcms]
 
 *1591|
 [fc]
 [vo_tay s="taja0065"]
-[ns]ターヤ[nse]
-「はあぶうっ、んぼぐぶうっ、んはあぐるぶっ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Haabuu, nbo gubuu, nhaa gurubu"[pcms]
 
 *1592|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛お゛……く゛れ゛て゛や゛る゛ぅ゛……」[pcms]
+[ns]Infected Person B[nse]
+"Ooh... I'm doing it... I'm really doing it..."[pcms]
 
 *1593|
 [fc]
 [vo_tay s="taja0066"]
-[ns]ターヤ[nse]
-「んぐあああああああああああああああっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nguuaaaaaaaaaaaaaaaaa!"[pcms]
 
 ;//#_射精フラッシュ
 ;[射精フラA]
@@ -536,179 +510,166 @@
 
 *1594|
 [fc]
-ひとかたまりの肌色が、ビクビクと震えて、[r]
-断末魔の絶叫を上げていた。[pcms]
+A mass of flesh-colored skin trembled with a death throes-like scream.[pcms]
 
 *1595|
 [fc]
-男が腰をひく付かせる度に白い液体が噴きあがり、[r]
-ターヤさんの魅力的な肌に降りかかる。[pcms]
+With every thrust of the man's hips, a white liquid sprayed up,[r]
+showering Tarja-san's alluring skin.[pcms]
 
 *1596|
 [fc]
-あそことお尻に突っ込んでいる男たちは、[r]
-何度も腰を突き上げて、奥の方まで精液を[r]
-流し込んでいるみたいだった。[pcms]
+The men thrusting into her pussy and ass seemed to be pumping their[r]
+semen deep inside her over and over again.[pcms]
 
 *1597|
 [fc]
-口の中の精液をすべて吸い取ったのか、[r]
-ターヤさんがペニスを吐き出すと、[r]
-口に銀色の糸が繋がっていく。[pcms]
+Having sucked all the semen in her mouth, Tarja-san spit out the[r]
+penis, and a silver thread connected to her mouth.[pcms]
 
 *1598|
 [fc]
 [vo_tay s="taja0067"]
-[ns]ターヤ[nse]
-「せーえき……すごいよぉ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Semen... it's amazing..."[pcms]
 
 *1599|
 [fc]
-[ns]感染者Ａ[nse]
-「ふ゛は゛ぁ゛っ゛……」[pcms]
+[ns]Infected Person A[nse]
+"Fuhhaa..."[pcms]
 
 *1600|
 [fc]
-あそことお尻のペニスが引き抜かれると、[r]
-まるで固形物のように、精液がターヤさんから[r]
-ぶら下がって流れ落ちていた。[pcms]
+When the penises in her pussy and ass were pulled out, semen hung and[r]
+flowed down from Tarja-san like a solid mass.[pcms]
 
 *1601|
 [fc]
-どれだけ射精したのか、[r]
-ここまで匂いが漂ってきそうな気がする。[pcms]
+So much ejaculation had occurred that it seemed like the smell could[r]
+drift over here.[pcms]
 
 *1602|
 [fc]
-[ns]感染者Ｅ[nse]
-「こ゛ん゛と゛は゛…･･お゛れ゛の゛……、[r]
-　は゛ん゛た゛ぁ゛っ゛！」[pcms]
+[ns]Infected E[nse]
+"This... is mine... take it!"[pcms]
 
 *1603|
 [fc]
-お尻に入れていた感染者を蹴飛ばすと、[r]
-横で空を見上げていた感染者が乱入してくる。[pcms]
+After kicking away the infected person in her ass, another infected[r]
+person looking up at the sky barged in.[pcms]
 
 [evcg storage="taja_H001hA"][trans_c cross time=300]
 
 *1604|
 [fc]
 [vo_tay s="taja0068"]
-[ns]ターヤ[nse]
-「いいよぉ……もっと……、[r]
-　せーえきちょうだぁーい……」[pcms]
+[ns]Tarja[nse]
+"Yes... more... give me lots of semen..."[pcms]
 
 *1605|
 [fc]
-[ns]感染者Ｅ[nse]
-「く゛ふ゛う゛ぅ゛……」[pcms]
+[ns]Infected E[nse]
+"Gufuuu..."[pcms]
 
 *1606|
 [fc]
-[ns]感染者Ａ[nse]
-「こ゛の゛……い゛ん゛ら゛ん゛……[r]
-　こ゛む゛す゛め゛か゛ぁ゛っ！」[pcms]
+[ns]Infected Person A[nse]
+"This... filthy... condom... take it off!"[pcms]
 
 *1607|
 [fc]
-まだ年若いターヤさんが、いいように男たちに[r]
-犯されている姿は圧巻だった。[pcms]
+The sight of the still young Tarja-san being used by the men was[r]
+overwhelming.[pcms]
 
 *1608|
 [fc]
-それもあそことお尻と口と手と……、[r]
-すべてを使って奉仕している。[pcms]
+She was serving them with everythingher pussy, ass, mouth, and hands.[pcms]
 
 *1609|
 [fc]
 [vo_tay s="taja0069"]
-[ns]ターヤ[nse]
-「まんこもおしりも、おちんちんいっぱぁい……、[r]
-　もっと、れいぷしてぇ……」[pcms]
+[ns]Tarja[nse]
+"My pussy and ass are full of dicks... rape me more..."[pcms]
 
 *1610|
 [fc]
-感染しているはずなのに、ターヤさんの発情した顔は、[r]
-ものすごくいやらしくて綺麗だった。[pcms]
+Despite being infected, Tarja-san's face was incredibly lewd and[r]
+beautiful as she was in heat.[pcms]
 
 *1611|
 [fc]
-こんな状況で覗き見ているんじゃなかったら……、[r]
-僕がターヤさんをあんな顔にさせていたのなら……。[pcms]
+If I weren't just peeping in this situation... if I were the one[r]
+making Tarja-san make that face...[pcms]
 
 *1612|
 [fc]
 [vo_tay s="taja0070"]
-[ns]ターヤ[nse]
-「あぐぶうっ、がぎぶおぐぶっ、んぶうぇっ、んぼぶっ、[r]
-　んがばびいっ、ぐぶぼっ、あびえあばらっ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Agubuu, gagibuogubu, nbuwe, nbobu, ngababii, gubobo, abieabara"[pcms]
 
 *1613|
 [fc]
-前と後ろからガンガン責められて、[r]
-ターヤさんが喜びの余りによだれを垂らしている。[pcms]
+Tarja-san drooled with joy as she was pounded from the front and back.[pcms]
 
 *1614|
 [fc]
-発情して火照った身体が赤く染まり、[r]
-付着した精液がターヤさんに合わせて揺れていた。[pcms]
+Her body flushed with heat from arousal turned red, and the semen[r]
+clinging to her swayed in unison with Tarja-san.[pcms]
 
 *1615|
 [fc]
 [vo_tay s="taja0071"]
-[ns]ターヤ[nse]
-「だめぇっ……もう、しんじゃう……、[r]
-　きもちよくて、しんじゃううっ……」[pcms]
+[ns]Tarja[nse]
+"No... I'm going to die... it feels so good, I'm going to die..."[pcms]
 
 *1616|
 [fc]
-また、ターヤさんの絶頂が近づいているみたいだった。[r]
-身体がガクガクと震えて、よだれを垂らしている。[pcms]
+It seemed that Tarja-san's climax was approaching again. Her body[r]
+trembled violently as she drooled.[pcms]
 
 *1617|
 [fc]
 [vo_tay s="taja0072"]
-[ns]ターヤ[nse]
-「せーえきくださいぃ……、[r]
-　どろどろの、ぷるぷるしたせーえきぃっ！」[pcms]
+[ns]Tarja[nse]
+"Please give me semen... thick, wobbly semen..."[pcms]
 
 *1618|
 [fc]
-[ns]感染者Ａ[nse]
-「ん゛く゛う゛あ゛……」[pcms]
+[ns]Infected Person A[nse]
+"Nkuaa..."[pcms]
 
 *1619|
 [fc]
-[ns]感染者Ｅ[nse]
-「く゛れ゛て゛……や゛る゛う゛っ゛……」[pcms]
+[ns]Infected E[nse]
+"I'm doing it... I'm really doing it..."[pcms]
 
 *1620|
 [fc]
 [vo_tay s="taja0073"]
-[ns]ターヤ[nse]
-「ぐんぶっ、んがぶぐうっ、ぼごんぶうっ」[pcms]
+[ns]Tarja[nse]
+"Gunbu, ngabuguu, bogonbuu"[pcms]
 
 *1621|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛ら゛っ゛……た゛す゛そ゛っ……」[pcms]
+[ns]Infected Person B[nse]
+"Take this... you'll get it..."[pcms]
 
 *1622|
 [fc]
 [vo_tay s="taja0074"]
-[ns]ターヤ[nse]
-「ぐんぶうっ、がぼぐぶうっ、んはうぎぐぶっ」[pcms]
+[ns]Tarja[nse]
+"Gunbuu, gabogubuu, nhau gibu"[pcms]
 
 *1623|
 [fc]
-[ns]感染者Ｃ[nse]
-「ん゛お゛ぉ゛……ほ゛ら゛あ゛っ゛……」[pcms]
+[ns]Infected Person C[nse]
+"Noooh... take this..."[pcms]
 
 *1624|
 [fc]
 [vo_tay s="taja0075"]
-[ns]ターヤ[nse]
-「ひぐいいいいいいいいいいっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Higuuiiiiiiiiiii!"[pcms]
 
 
 ;//#_射精フラッシュ
@@ -720,13 +681,13 @@
 
 *1625|
 [fc]
-ターヤさんは、あんなに男の視線を嫌っていたのに、[r]
-もう完全に壊れてしまったみたいだった。[pcms]
+Tarja-san, who used to hate men's gazes so much, seemed to have[r]
+completely broken down.[pcms]
 
 *1626|
 [fc]
-今では、ペニスがないと生きていけない身体に[r]
-改造されてしまったみたいに見える。[pcms]
+Now she looked as if she had been remodeled into a body that couldn't[r]
+live without a penis.[pcms]
 
 ;//#_ブラックアウト 回想時は避ける
 [if exp="tf.scene_mode == 0"]
@@ -735,8 +696,7 @@
 
 *1627|
 [fc]
-僕はその場からそっと離れて、[r]
-心を落ち着けていった。[pcms]
+I quietly moved away from the scene and calmed my heart.[pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -757,28 +717,27 @@
 
 *1628|
 [fc]
-気持ちの悪いものを見たはずなのに、[r]
-僕のペニスは反り返って収まりが付かなくなっている。[pcms]
+Despite having seen something so vile, my penis was hard and wouldn't[r]
+settle down.[pcms]
 
 *1629|
 [fc]
-さっき死にかけたせいか、[r]
-興奮で身体が熱くなっていた。[pcms]
+Maybe because I nearly died earlier, my body was hot with excitement.[pcms]
 
 *1630|
 [fc]
-僕は水を補給した手水場に戻ると、[r]
-頭から水をかぶって興奮を治めていく。[pcms]
+I returned to the water supply to replenish water and doused my head[r]
+with water to calm my excitement.[pcms]
 
 *1631|
 [fc]
-ちょっと長居しすぎたかもしれない。[r]
-越智さんはちゃんと包帯を代えられただろうか。[pcms]
+I might have stayed a bit too long. I wonder if Ochi-san was able to[r]
+change her bandages properly.[pcms]
 
 *1632|
 [fc]
-僕は、さっきも潜んでいたお社に戻って、[r]
-越智さんの様子を確認した。[pcms]
+I went back to the shrine where I had been hiding earlier to check on[r]
+Ochi-san's condition.[pcms]
 
 ;//分割したあかりエロブロックへ
 [jump storage="1090_akari.ks" target=*1090_akari_TOP]

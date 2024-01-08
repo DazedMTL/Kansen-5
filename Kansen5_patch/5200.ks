@@ -36,152 +36,144 @@
 
 *2435|
 [fc]
-[ns]畠山[nse]
-「おい！　ニシ！！　後ろっ……後ろっ！！」[pcms]
+[ns]Hatakeyama[nse]
+"Oi! Nishi!! Behind you... behind!!"[pcms]
 
 ;//bgm15.ogg 他の回想時と違うBGMにしておく
 [bgm storage="BGM15"]
 
 *2436|
 [fc]
-僕の目指す部屋にも、あのおかしな奴らが集まりだしていた。[pcms]
+The strange guys had started to gather in the room I was aiming for[r]
+too.[pcms]
 
 *2437|
 [fc]
-[ns]感染者男[nse]
-「あばぁあぁあ゛あ゛あ゛あ゛ァ……あがぁっ！[r]
-　くっ……くわ、せ、ろおおっ……！」[pcms]
+[ns]Infected Man[nse]
+"Abaaaaah... agah! Kuh... kwa, se, rooooh...!"[pcms]
 
 *2438|
 [fc]
-僕のせいだ……。[r]
-僕の足が遅いせいで、二人を危ない目に遭わせちゃったんだ！[pcms]
+It's my fault... Because of my slow feet, I've put the two of them in[r]
+danger![pcms]
 
 *2439|
 [fc]
-くそおっ！[r]
-待ってろ、畠山、ニシ！[r]
-僕だって、お前らの親友なんだ！[pcms]
+Dammit! Wait for me, Hatakeyama, Nishi! I'm your best friend too![pcms]
 
 *2440|
 [fc]
-僕が、お前達を助けるんだ！[pcms]
+I will save you guys![pcms]
 
 *2441|
 [fc]
-違う……何かが違う……。[pcms]
+No... something's wrong...[pcms]
 
 [evcg storage="mob_N005c"][trans_c cross time=300]
 
 *2442|
 [fc]
-[ns]誠[nse]
-「わぁああぁあああっ！！　二人に近づくなぁあっ！！！」[pcms]
+[ns]Makoto[nse]
+"Waaaahhh!! Don't get near them!!"[pcms]
 
 *2443|
 [fc]
-[ns]西野[nse]
-「えっ……うわっ！　くっ……くそおっ！[r]
-　こっちくんなぁっ！！」[pcms]
+[ns]Nishino[nse]
+"Eh... uwaah! Kuh... dammit! Don't come this way!!"[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *2444|
 [fc]
-[ns]感染者男[nse]
-「ぐっ……ぐば、ぁあぁ……ごっ……この、が、がキぃいいっ！」[pcms]
+[ns]Infected Man[nse]
+"Guh... guba, aah... goh... this, ga, ga kiieeii!"[pcms]
 
 *2445|
 [fc]
-[ns]西野[nse]
-「なんだコイツ……効いてないのか……。[r]
-　くそっ、もう一発だあぁっ！！」[pcms]
+[ns]Nishino[nse]
+"What's with this guy... it's not working... Dammit, one more hit!!"[pcms]
 
 *2446|
 [fc]
-[ns]畠山[nse]
-「うおおおっ！　俺もやるぞっ！　いくぞ、ニシいいっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Uooooh! I'll do it too! Let's go, Nishi!!"[pcms]
 
 *2447|
 [fc]
-二人は顔を見合わせ、頷き合うと、[r]
-フラフラと近づく男を睨み付けながら、[r]
-同時に蹴りと拳を放った。[pcms]
+The two exchanged glances and nodded at each other, then[r]
+simultaneously unleashed a kick and a punch at the staggering man[r]
+approaching them.[pcms]
 
 ;//#_白フラ
 [白フラ]
 
 *2448|
 [fc]
-[ns]感染者男[nse]
-「あばぁぁ……」[pcms]
+[ns]Infected Man[nse]
+"Abaaah..."[pcms]
 
 *2449|
 [fc]
-ニシはサッカー部。[r]
-畠山はちょっとケンカっぱやくて腕自慢。[pcms]
+Nishi is in the soccer club. Hatakeyama is a bit of a brawler and[r]
+proud of his strength.[pcms]
 
 *2450|
 [fc]
-そんな二人が、ほぼ同時に、[r]
-それぞれの得意な攻撃を繰り出したんだ。[pcms]
+Both of them almost at the same time, unleashed their respective best[r]
+attacks.[pcms]
 
 *2451|
 [fc]
-あんなのをまともに受けて倒れないヤツなんていないだろう。[pcms]
+There's no way someone could take those hits head-on and not fall.[pcms]
 
 *2452|
 [fc]
-[ns]畠山[nse]
-「そら、誠！　こっちはもう大丈夫だから！[r]
-　急げぇぇっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Here, Makoto! We're okay now! Hurry up!!"[pcms]
 
 *2453|
 [fc]
-[ns]西野[nse]
-「僕らは三人じゃなきゃダメなんだ！[r]
-　お前がいなかったら、僕達は成り立たないだろ！[r]
-　だから、みんなでここから逃げ出すんだ！　誠っ！」[pcms]
+[ns]Nishino[nse]
+"We're no good without the three of us! Without you, we can't[r]
+function! So, we're all going to escape from here together, Makoto!"[pcms]
 
 *2454|
 [fc]
-二人の目にも、涙が溢れていた。[r]
-それは、恐怖を堪えるものだったのかもしれない。[pcms]
+The eyes of both were brimming with tears. Maybe it was to endure the[r]
+fear.[pcms]
 
 *2455|
 [fc]
-だけど僕は、その涙にさえ不思議な連帯感を覚えていた。[pcms]
+But even in those tears, I felt a strange sense of solidarity.[pcms]
 
 *2456|
 [fc]
-二人が、僕を親友だって言ってくれたから。[r]
-三人一緒じゃなきゃダメだって、言ってくれたから。[pcms]
+Because the two of them called me their best friend. Because they said[r]
+we're no good unless we're together.[pcms]
 
 *2457|
 [fc]
-二人の言葉は、僕を元気づけた。[r]
-そのおかげで、僕は二人が待ってくれていた部屋へ、[r]
-飛び込むことが出来た。[pcms]
+Their words cheered me up. Thanks to that, I was able to jump into the[r]
+room where they were waiting for me.[pcms]
 
 *2458|
 [fc]
-これは違う……間違っている……。[pcms]
+This is wrong... it's a mistake...[pcms]
 
 *2459|
 [fc]
-[ns]誠[nse]
-「あっ……ありがとう……ニシ！　畠山ぁっ！[r]
-　うわぁああん！　ありがとう……ぐすっ……」[pcms]
+[ns]Makoto[nse]
+"Ah... thank you... Nishi! Hatakeyama! Uwaaah! Thank you... *sob*..."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
 
 *2460|
 [fc]
-二人の友情と、安心のせいで僕は、[r]
-それまで堪えていた感情が爆発して、[r]
-堰き止められていた涙や声が、一気にあふれ出した。[pcms]
+Because of my friends' friendship and relief, all the emotions I had[r]
+been holding back exploded, and the tears and voice that had been[r]
+dammed up poured out all at once.[pcms]
 
 [evcg storage="mob_N005d"][trans_c cross time=300]
 [bgm storage="BGM04"]
@@ -189,115 +181,109 @@
 
 *2461|
 [fc]
-[ns]西野[nse]
-「あははっ、ひっどい顔！[r]
-　涙ふけよ、誠！　あははっ！」[pcms]
+[ns]Nishino[nse]
+"Ahaha, what an awful face! Wipe your tears, Makoto! Ahaha!"[pcms]
 
 *2462|
 [fc]
-[ns]畠山[nse]
-「泣くんじゃねえよ、いい年して！　ぷっ……はははっ！[r]
-　あははっ！　お前の顔見てたら、なんだか安心したよ！」[pcms]
+[ns]Hatakeyama[nse]
+"Don't cry, man, at your age! Pfft... hahaha! Ahaha! Seeing your face[r]
+somehow makes me feel relieved!"[pcms]
 
 *2463|
 [fc]
-[ns]誠[nse]
-「そんなこと言ったって……僕、うれしくて……ううっ……。[r]
-　あっ……ああぁっ！！　ニシっ！　ま、またアイツがっ！」[pcms]
+[ns]Makoto[nse]
+"Even if you say that... I'm so happy... *sniff*... Ah... aahh!![r]
+Nishi! There, that guy again!"[pcms]
 
 *2464|
 [fc]
-[ns]西野[nse]
-「えっ……あ……」[pcms]
+[ns]Nishino[nse]
+"Eh... ah..."[pcms]
 
 *2465|
 [fc]
-[ns]畠山[nse]
-「にっ……ニシっ！　えっ……うっ、うわぁぁっ！！[r]
-　いつの間にこんなっ！！」[pcms]
+[ns]Hatakeyama[nse]
+"Ni... Nishi! Eh... uh, uwaahh!! When did they get like this!!"[pcms]
 
 *2466|
 [fc]
-僕達の安堵の笑いは、そこで途切れた。[pcms]
+Our laughter of relief was cut short there.[pcms]
 
 *2467|
 [fc]
-気を緩めてしまったのが間違いだった。[r]
-いつの間にか、僕達はヘンな奴らに取り囲まれてしまっていた。[pcms]
+It was a mistake to let our guard down. Before we knew it, we were[r]
+surrounded by those weird guys.[pcms]
 
 *2468|
 [fc]
-[ns]西野[nse]
-「はっ……離せぇぇっ！！　やめろおっ！」[pcms]
+[ns]Nishino[nse]
+"Ha... let go of me!! Stop it!"[pcms]
 
 *2469|
 [fc]
-[ns]畠山[nse]
-「うわぁあぁっ！　ニシっ！　誠おおっ！」[pcms]
+[ns]Hatakeyama[nse]
+"Uwaaahh! Nishi! Makoto!"[pcms]
 
 *2470|
 [fc]
-[ns]誠[nse]
-「あっ……ああぁぁ……」[pcms]
+[ns]Makoto[nse]
+"Ah... aahh..."[pcms]
 
 *2471|
 [fc]
-僕を助けてくれた親友達は、[r]
-あっという間に人の群れの中に消えた。[pcms]
+My friends who had saved me disappeared into the crowd in an instant.[pcms]
 
 *2472|
 [fc]
-さっき、僕を待ってくれていた親友が、[r]
-一瞬にして人の山の中に消えていった。[pcms]
+The best friends who had been waiting for me just moments ago vanished[r]
+into a mountain of people in the blink of an eye.[pcms]
 
 *2473|
 [fc]
-[ns]誠[nse]
-「くっ……くそおおおっ！　ニシっ！　畠山あぁっ！！[r]
-　今度は、僕が助ける番だぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Kuh... dammit! Nishi! Hatakeyama!! Now it's my turn to save you!!"[pcms]
 
 *2474|
 [fc]
-僕の友達。[r]
-僕の親友。[r]
-僕を必要としてくれる人。[pcms]
+My friends. My best friends. People who need me.[pcms]
 
 *2475|
 [fc]
-どうしてこんなに……違和感があるんだ……。[pcms]
+Why does it feel so... out of place...[pcms]
 
 *2476|
 [fc]
-[ns]誠[nse]
-「僕の親友を、お前らなんかに渡すもんか！」[pcms]
+[ns]Makoto[nse]
+"I won't hand over my best friends to the likes of you!"[pcms]
 
 [evcg storage="mob_N005b"][trans_c cross time=300]
 
 *2477|
 [fc]
-僕は、危険だと知りながらも二人を助けるために、[r]
-教室から飛び出そうとした。[pcms]
+I knew it was dangerous, but I tried to rush out of the classroom to[r]
+save the two of them.[pcms]
 
 *2478|
 [fc]
-だけどそれは、叶わなかった。[pcms]
+But that was not to be.[pcms]
 
 *2479|
 [fc]
 [vo_mob s="kanA0004"]
-[ns]感染者女Ａ[nse]
-「あ゛はぁ～……つ、つか、ま、え、だぁ～……」[pcms]
+[ns]Infected Woman A[nse]
+"Aaah~... ca... catch... you... daa~..."[pcms]
 
 *2480|
 [fc]
-[ns]誠[nse]
-「えっ……うっ……うわぁあああああああああぁぁぁっ！！！」[pcms]
+[ns]Makoto[nse]
+"Eh... uh... uwaahhhhhhhhhhhhh!!!"[pcms]
 
 *2481|
 [fc]
 [vo_mob s="syouko0002"]
 [ns]？？？[nse]
-「何するのーっ！　中澤君っ！」[pcms]
+"What are you doing-! Nakazawa-kun!"[pcms]
 
 ;//昌子
 
@@ -306,25 +292,24 @@
 
 *2482|
 [fc]
-僕は、親友を助けなきゃならないんだ。[r]
-僕は、僕を必要としてくれる人を助けるんだ……。[pcms]
+I have to save my best friends. I have to help those who need me...[pcms]
 
 *2483|
 [fc]
-僕は……。[pcms]
+I...[pcms]
 
 [se buf=0 storage="seA008"]
 ;//引き戸を勢いよく開ける音
 
 *2484|
 [fc]
-そのまま……準備室の扉を閉めた。[pcms]
+Just like that... closed the door to the preparation room.[pcms]
 
 *2485|
 [fc]
 [vo_mob s="syouko0003"]
 [ns]？？？[nse]
-「中澤君っ！　中澤君っ！　いやああああああああああああぁ！」[pcms]
+"Nakazawa-kun! Nakazawa-kun! Nooooooooo!"[pcms]
 
 ;//昌子
 

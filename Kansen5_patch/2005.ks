@@ -13,7 +13,7 @@
 *2005_TOP
 ;{SceneSet 夏の熱狂}
 
-;//m:プロット時のブロック名A_b：夏都ＺＡＰ
+;//m:プロット時のブロック名A_b：夏ＺＡＰ
 
 
 
@@ -29,46 +29,46 @@
 
 *46|
 [fc]
-ただでさえ暑い夏の夜に、人の熱気が更に渦巻いて、[r]
-会場の温度が上がりきっているみたいだった。[pcms]
+On this hot summer night, the heat from the crowd seemed to make the[r]
+venue's temperature rise even more.[pcms]
 
 *47|
 [fc]
-屋外だってのに、なんて暑さだ。[r]
-会場の中には、首からタオルなんてさげてるやつが結構いる。[pcms]
+Despite being outdoors, it's incredibly hot. Inside the venue, quite a[r]
+few people are hanging towels around their necks.[pcms]
 
 *48|
 [fc]
-オレは、念願だったフェスに参加できて最高潮に盛り上がっていた。[r]
-暑いのなんて、まったく気にならない。[r]
-ほんと、誠には感謝しなくちゃ。[pcms]
+I was at the peak of excitement, finally participating in the festival[r]
+I'd been longing for. The heat didn't bother me at all. I really have[r]
+to thank Makoto.[pcms]
 
 *49|
 [fc]
 [vo_nat s="natu_st0006"]
-[ns]夏都[nse]
-「ひゅーひゅーーっ！！」[pcms]
+[ns]Natsu[nse]
+"Hyu-hyu--!"[pcms]
 
 *50|
 [fc]
-前方はモッシュになってる。[r]
-当然、オレはその中に加わるために、前へ前へと進んだ。[pcms]
+The front was turning into a mosh pit. Naturally, I moved forward to[r]
+join in.[pcms]
 
 *51|
 [fc]
 [vo_nat s="natu_st0007"]
-[ns]夏都[nse]
-「ごめんよー、通して～」[pcms]
+[ns]Natsu[nse]
+"Sorry, excuse me-- let me through~"[pcms]
 
 *52|
 [fc]
-見知らぬ人と肌が触れあったりするけど、こういう場所で[r]
-そんな事は気にしてられない。[pcms]
+My skin brushes against strangers, but in a place like this, you can't[r]
+be concerned about such things.[pcms]
 
 *53|
 [fc]
-それよりも押し合いへし合いした方が、アーティストとの[r]
-一体感が得られるんじゃないかって思ってる。[pcms]
+Rather than that, I think pushing and shoving each other might[r]
+actually help achieve a sense of unity with the artist.[pcms]
 
 ;//[quake_bg y m]
 ;//縦揺れ
@@ -76,168 +76,167 @@
 
 *54|
 [fc]
-[ns]男[nse]
-「やーーっ！」[pcms]
+[ns]Male[nse]
+"Ya--h!"[pcms]
 
 *55|
 [fc]
-ジャンプしながら体当たりしてくるヤツ。[r]
-肩と肩を触れさせながら、リズムに合わせて身体を揺するヤツ。[pcms]
+Someone jumps into me while body slamming. Others sway their bodies to[r]
+the rhythm while brushing shoulders.[pcms]
 
 *56|
 [fc]
-いろんなヤツラがいる。[r]
-でも、みんな楽しんでるって事は間違いない。[pcms]
+There are all sorts of people here. But there's no doubt that everyone[r]
+is having fun.[pcms]
 
 *57|
 [fc]
-オレもその中に、ようやく入り込めた。[pcms]
+I finally managed to get into the midst of it all.[pcms]
 
 ;<ImageShake2 0,15,0,10,0,10,OFF>
 
 *58|
 [fc]
 [vo_nat s="natu_st0008"]
-[ns]夏都[nse]
-「いえーーいっ！」[pcms]
+[ns]Natsu[nse]
+"Yea--h!"[pcms]
 
 *59|
 [fc]
-ジャンプして隣のヤツにぶつかる。[r]
-隣のやつもお返しでジャンプしてオレにぶつかってくる。[pcms]
+I jump and bump into the person next to me. The person next to me[r]
+jumps back into me in return.[pcms]
 
 *60|
 [fc]
-でも――[pcms]
+But--[pcms]
 
 *61|
 [fc]
-[ns]男[nse]
-「うはあ、すっげ、おっぱい」[pcms]
+[ns]Male[nse]
+"Uhaa, wow, those tits"[pcms]
 
 *62|
 [fc]
-[ns]男２[nse]
-「おお、はさんでしてほしいよな～」[pcms]
+[ns]Male 2[nse]
+"Oh man, I'd love to be sandwiched by those~"[pcms]
 
 *63|
 [fc]
-どこかから、そんな声が聞えてきた。[pcms]
+Somewhere, I could hear such voices.[pcms]
 
 *64|
 [fc]
-そりゃ、しょうがないって思ってるけど、[r]
-もっと演奏に集中しろよって思う。[pcms]
+I think it's inevitable, but I also think they should focus more on[r]
+the performance.[pcms]
 
 ;<ImageShake2 0,15,0,10,0,10,OFF>
 
 *65|
 [fc]
-でも、相手にするのも馬鹿らしいから、オレは気にせず、[r]
-身体を揺すり続けた。[pcms]
+But it's silly to engage with them, so I just keep swaying my body[r]
+without caring.[pcms]
 
 *66|
 [fc]
-オレのおっぱいが、見事なまでにゆさゆさと揺れ続ける。[r]
-まあ、人目を惹いてるのはわかるけど、[r]
-それはそれで、気にしてもはじまんない。[pcms]
+My tits keep swaying impressively. I know they're drawing attention,[r]
+but there's no point in worrying about that.[pcms]
 
 ;<ImageShake2 0,15,0,10,0,10,OFF>
 
 *67|
 [fc]
 [vo_nat s="natu_st0009"]
-[ns]夏都[nse]
-「やーーっ！」[pcms]
+[ns]Natsu[nse]
+"Ya--h!"[pcms]
 
 *68|
 [fc]
-拳を振り上げ、身体を揺さぶり、ジャンプして隣のやつと[r]
-肩をぶつけ合う。[pcms]
+I raise my fist, shake my body, jump and bump shoulders with the[r]
+person next to me.[pcms]
 
 *69|
 [fc]
-誰かが、激しい押し競饅頭のようだなんて言ってたっけ。[pcms]
+Someone said it's like a fierce competition for steamed buns.[pcms]
 
 *70|
 [fc]
-この会場は、まだおとなしい方だ。[r]
+This venue is still on the tame side.[pcms]
 
 *71|
 [fc]
-海外や、アーティストによっては、[r]
-モッシュ禁止が[ruby text="うた"]謳われてるところもあるらしいから。[pcms]
+Overseas, or depending on the artist, there are places where moshing[r]
+is prohibited.[pcms]
 
 *72|
 [fc]
-[ns]男[nse]
-「うわあっ、なんだこいつっ！」[pcms]
+[ns]Male[nse]
+"Whoa, what's with this guy!"[pcms]
 
 *73|
 [fc]
-ちょっと離れた所で騒ぎが起きているみたいだった。[r]
-演奏に集中したいのに、気がそっちにいってしまう。[pcms]
+It seemed like there was a commotion happening a little distance away.[r]
+I want to focus on the performance, but my attention is drawn there.[pcms]
 
 *74|
 [fc]
-[ns]男２[nse]
-「おかしーんじゃね？　おら、外に運んじまおうぜっ」[pcms]
+[ns]Male 2[nse]
+"Is he crazy? Hey, let's carry him outside."[pcms]
 
 *75|
 [fc]
-ふいに、騒ぎの中にいた男が身体を持ち上げられる。[r]
-クラウド・サーフする気か？[pcms]
+Suddenly, a man in the middle of the commotion is lifted up. Is he[r]
+planning to crowd surf?[pcms]
 
 *76|
 [fc]
-[ns]持ち上げられた男[nse]
-「うはあ……」[pcms]
+[ns]The Lifted Man[nse]
+"Uhaa..."[pcms]
 
 *77|
 [fc]
-空中に持ち上げられた男が次々に人の手を渡って、[r]
-後ろに運ばれてきた。[pcms]
+The man lifted into the air is passed from hand to hand and carried[r]
+towards the back.[pcms]
 
 *78|
 [fc]
-どうやらオレの上も通るらしい。[r]
-それなら、きっちり参加してやらないとな。[pcms]
+It seems he'll be passing over me too. If that's the case, I've got to[r]
+participate properly.[pcms]
 
 *79|
 [fc]
 [vo_nat s="natu_st0010"]
-[ns]夏都[nse]
-「え？！」[pcms]
+[ns]Natsu[nse]
+"Eh?!"[pcms]
 
 *80|
 [fc]
-でも、手を伸ばそうとしたオレは、[r]
-男の姿を見て一瞬固まってしまった。[pcms]
+But as I reached out my hand, I froze for a moment at the sight of the[r]
+man.[pcms]
 
 *81|
 [fc]
-どこを怪我してるのかわかんないけど、[r]
-顔も服も血でべったりだ。[pcms]
+I couldn't tell where he was injured, but his face and clothes were[r]
+covered in blood.[pcms]
 
 *82|
 [fc]
-それなのに、にへら～っと笑ったままの男を見て、[r]
-オレは背筋をぞっとさせていた。[pcms]
+Seeing the man still smiling eerily despite that, I felt a chill run[r]
+down my spine.[pcms]
 
 *83|
 [fc]
-[ns]持ち上げられた男[nse]
-「やめろぉ～おろせ～」[pcms]
+[ns]The Lifted Man[nse]
+"Stop it-- put me down~"[pcms]
 
 *84|
 [fc]
-男が空中で暴れすと、じたばたと手足を動かした勢いで[r]
-支えている人たちのバランスが崩れる。[pcms]
+As the man thrashed about in the air, his flailing limbs threw off the[r]
+balance of those supporting him.[pcms]
 
 *85|
 [fc]
-たくさんの手が支えられなくなって、[r]
-その男はオレの方へと降ってきた。[pcms]
+The many hands couldn't support him anymore, and the man came falling[r]
+towards me.[pcms]
 
 [quake_bg y m]
 ;//縦揺れ
@@ -245,116 +244,114 @@
 *86|
 [fc]
 [vo_nat s="natu_st0011"]
-[ns]夏都[nse]
-「うわっ！」[pcms]
+[ns]Natsu[nse]
+"Whoa!"[pcms]
 
 *87|
 [fc]
-受け止めきれなかったオレは、そのまま男に抱きつかれる格好で[r]
-地面に倒れ込む。[pcms]
+Unable to catch him, I ended up being embraced by the man as we both[r]
+fell to the ground.[pcms]
 
 *88|
 [fc]
 [vo_nat s="natu_st0012"]
-[ns]夏都[nse]
-「いったたたた……」[pcms]
+[ns]Natsu[nse]
+"Ow ow ow ow..."[pcms]
 
 *89|
 [fc]
-[ns]男３[nse]
-「お前、なにやってんだよっ！　迷惑考えろっ！」[pcms]
+[ns]Male 3[nse]
+"What the hell are you doing?! Think about the trouble you're[r]
+causing!"[pcms]
 
 *90|
 [fc]
-近くに居たヤツが男の襟首を掴んで、そいつを立たせる。[r]
-他にも数人の男がそいつを取り囲むと、ひっつかまえて[r]
-後ろの方へと、連れ去っていった。[pcms]
+A guy nearby grabbed the man by the scruff of his neck and made him[r]
+stand up. Several other men surrounded him and took him away towards[r]
+the back.[pcms]
 
 *91|
 [fc]
-[ns]男４[nse]
-「あんた、大丈夫？」[pcms]
+[ns]Male 4[nse]
+"Are you okay?"[pcms]
 
 *92|
 [fc]
-差し出された手を掴んで、オレは一気に起き上がる。[pcms]
+Grasping the hand offered to me, I quickly got up.[pcms]
 
 *93|
 [fc]
 [vo_nat s="natu_st0013"]
-[ns]夏都[nse]
-「うん、ありがと」[pcms]
+[ns]Natsu[nse]
+"Yeah, thanks."[pcms]
 
 *94|
 [fc]
-[ns]男４[nse]
-「うわっ、ちょ、あんた、血が出てる。[r]
-　どっか怪我したんじゃないの？」[pcms]
+[ns]Male 4[nse]
+"Whoa, wait, you're bleeding. Did you get hurt somewhere?"[pcms]
 
 *95|
 [fc]
 [vo_nat s="natu_st0014"]
-[ns]夏都[nse]
-「え？」[pcms]
+[ns]Natsu[nse]
+"Eh?"[pcms]
 
 *96|
 [fc]
-[ns]男４[nse]
-「顔だよ、顔。痛くないのか？　ほら、唇の横も。[r]
-　切っちゃったんじゃないの？」[pcms]
+[ns]Male 4[nse]
+"Your face, your face. Doesn't it hurt? Look, next to your lip. Did[r]
+you cut it?"[pcms]
 
 *97|
 [fc]
-オレは無意識のうちに、唇の辺りを手でごしごしと擦った。[r]
-確かに口の中に微かな鉄の味がする。[pcms]
+I unconsciously rubbed the area around my lip with my hand. Indeed,[r]
+there was a faint taste of iron in my mouth.[pcms]
 
 *98|
 [fc]
-でも、どこも痛みを感じるような場所はなかった。[pcms]
+But I didn't feel any pain anywhere.[pcms]
 
 *99|
 [fc]
 [vo_nat s="natu_st0015"]
-[ns]夏都[nse]
-「大丈夫みたい。ごめんね、ありがとう」[pcms]
+[ns]Natsu[nse]
+"I seem to be fine. Sorry, and thank you."[pcms]
 
 *100|
 [fc]
-[ns]男４[nse]
-「いいけどさ。にしても、めーわくなヤツだぜ。[r]
-　サーフするんなら、素直に運ばれろっての」[pcms]
+[ns]Male 4[nse]
+"It's okay, but man, what an annoying guy. If you're going to surf, at[r]
+least let yourself be carried properly."[pcms]
 
 *101|
 [fc]
 [vo_nat s="natu_st0016"]
-[ns]夏都[nse]
-「ああ、そうだねー」[pcms]
+[ns]Natsu[nse]
+"Ah, right."[pcms]
 
 *102|
 [fc]
-[ns]男４[nse]
-「ま、気を取り直して、お互い楽しもうぜっ」[pcms]
+[ns]Male 4[nse]
+"Well, let's shake it off and both have fun!"[pcms]
 
 *103|
 [fc]
 [vo_nat s="natu_st0017"]
-[ns]夏都[nse]
-「うんっ！　うりゃっ！」[pcms]
+[ns]Natsu[nse]
+"Yeah! Urya!"[pcms]
 
 ;<ImageShake2 0,15,0,10,0,10,OFF>
 
 *104|
 [fc]
-オレは軽くジャンプして、気遣ったそのひとに身体をぶつけた。[r]
-『くははっ』なんて笑い声をあげながら、その人も[r]
-オレに身体をぶつけ返してくれる。[pcms]
+I did a light jump and bumped into the guy who had shown concern for[r]
+me. He laughed with a "kuhaha" and bumped back into me.[pcms]
 
 ;<ImageShake2 0,15,0,10,0,10,OFF>
 
 *105|
 [fc]
-まだまだ、フェスは終わらない。[r]
-過ぎたことは忘れて、楽しまなくちゃっ！[pcms]
+The festival is far from over. Forget what's passed and have fun![pcms]
 
 ;//ザップ戻り効果
 [zapfade]

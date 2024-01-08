@@ -8,7 +8,7 @@
 ;//服装		：全員、ゲーム『モンスターバスター』のゲーム内アバター
 ;//日付		：7月16日
 ;//時間		：午後22時以降
-;//場所		：誠と夏都のアパート(時間：夜)、誠の部屋（モンバス内、パーティーコテージ）
+;//場所		：誠と夏のアパート(時間：夜)、誠の部屋（モンバス内、パーティーコテージ）
 ;//予想容量	：全体を通して15~20kb前後
 ;//備考		：主人公一人称視点
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
@@ -40,21 +40,21 @@
 
 *2577|
 [fc]
-僕は痛む胸をさすりながら、携帯ゲーム機と[r]
-テレビのセッティングを始めた。[pcms]
+I rubbed my aching chest and began setting up the handheld game[r]
+console and the TV.[pcms]
 
 ;//★room10c 誠と夏都のアパートリビング・夜
 [bg storage="room10c"][trans_c cross time=500]
 
 *2578|
 [fc]
-いつも接続しているＤ端子のテレビから伸びているケーブルを、[r]
-黒く光る携帯ゲーム機の出力端子に繋いでいく。[pcms]
+I connected the cable that usually extends from the D-terminal of the[r]
+TV to the output terminal of the shiny black handheld game console.[pcms]
 
 *2579|
 [fc]
-こうすることで、携帯の小さな画面ではなく、[r]
-テレビサイズの画面でゲームを楽しむことが出来る。[pcms]
+By doing this, I could enjoy games on a TV-sized screen instead of the[r]
+small screen of the handheld.[pcms]
 
 ;//◎_ラベル　0200main1へ合流
 [jump target=*0200main1]
@@ -65,52 +65,52 @@
 
 *2580|
 [fc]
-[ns]誠[nse]
-「はぁ……」[pcms]
+[ns]Makoto[nse]
+"Haa..."[pcms]
 
 ;//★room10c 誠と夏都のアパートリビング・夜
 [bg storage="room10c"][trans_c cross time=500]
 
 *2581|
 [fc]
-一仕事終わった僕は、うっとりとしながら[r]
-天上を見上げてため息を吐く。[pcms]
+Having finished a task, I looked up at the ceiling with a dazed[r]
+expression and let out a sigh.[pcms]
 
 *2582|
 [fc]
-なんとも言えない気怠い時間だった。[pcms]
+It was an indescribably languid time.[pcms]
 
 *2583|
 [fc]
-やましいことなんて何も考えられない。[r]
-まさに悟りの境地だった。[pcms]
+I couldn't think of anything shameful. It was truly a state of[r]
+enlightenment.[pcms]
 
 *2584|
 [fc]
-そして、ふと壁掛け時計の針が目に入る。[pcms]
+Then, suddenly, the hands of the wall clock caught my eye.[pcms]
 
 *2585|
 [fc]
-２１時５５分、もうすぐ２２時か……。[pcms]
+It's 21:55, almost 22:00...[pcms]
 
 *2586|
 [fc]
-[ns]誠[nse]
-「なにいっ！」[pcms]
+[ns]Makoto[nse]
+"What?!"[pcms]
 
 *2587|
 [fc]
-まずい、２２時にそーいちと待ち合わせだった。[pcms]
+Not good, I had arranged to meet with Souichi at 22:00.[pcms]
 
 *2588|
 [fc]
-僕は、Ｄ端子のテレビに繋ぎっぱになっているケーブルを、[r]
-黒く光る携帯ゲーム機の出力端子に繋いだ。[pcms]
+I connected the cable that was still attached to the D-terminal TV to[r]
+the output terminal of the shiny black handheld game console.[pcms]
 
 *2589|
 [fc]
-こうすることで、携帯の小さな画面ではなく、[r]
-テレビサイズの画面でゲームを楽しむことが出来る。[pcms]
+By doing this, I could enjoy games on a TV-sized screen instead of the[r]
+small screen of the handheld.[pcms]
 
 ;//◎_ラベル0200main1へ合流
 [jump target=*0200main1]
@@ -121,59 +121,60 @@
 
 *2590|
 [fc]
-半分残しておいたポテチの袋を、背中から広げるように切って[r]
-取り出しやすくした。[pcms]
+I cut open the bag of potato chips I had left half-finished from the[r]
+back so it would be easier to take them out.[pcms]
 
 *2591|
 [fc]
-これでもう後戻りは出来ない。[r]
-全て食べきるか、湿気らせてしまうかの二択だ。[pcms]
+There was no turning back now. It was either eat them all or let them[r]
+get soggy.[pcms]
 
 *2592|
 [fc]
-今回の銘柄は、夏のピザ味。[pcms]
+This time's flavor was summer pizza.[pcms]
 
 *2593|
 [fc]
-ぴりっと辛いタバスコの味に、チーズの濃厚なうま味と[r]
-トマトの酸味が抜群に香る一品だった。[pcms]
+The spicy taste of Tabasco mixed with the rich flavor of cheese and[r]
+the tanginess of tomato made for an exceptional snack.[pcms]
 
 *2594|
 [fc]
-僕はその開いた袋のところに箸を置く。[pcms]
+I placed my chopsticks at the opening of the bag.[pcms]
 
 *2595|
 [fc]
-手でつかむと汚れてしまうので、[r]
-こういう時はやっぱり箸だった。[pcms]
+Since grabbing them with my hands would make them dirty, chopsticks[r]
+were definitely the way to go in times like these.[pcms]
 
 *2596|
 [fc]
-ゲームの電源を入れる前に、何か忘れ物は無いか確かめる。[pcms]
+Before turning on the game, I checked to make sure I hadn't forgotten[r]
+anything.[pcms]
 
 *2597|
 [fc]
-大好きなマウンテンヂューは汗を掻きながら、[r]
-僕に飲まれるその瞬間を待っていた。[pcms]
+My beloved Mountain Dew was sweating, waiting for the moment to be[r]
+consumed by me.[pcms]
 
 *2598|
 [fc]
-ポテチと箸は用意済みで、食べきることを前提の[r]
-姿を晒している。[pcms]
+The potato chips and chopsticks were ready, exposed in anticipation of[r]
+being finished off.[pcms]
 
 *2599|
 [fc]
-[ns]誠[nse]
-「よし……」[pcms]
+[ns]Makoto[nse]
+"Alright..."[pcms]
 
 *2600|
 [fc]
-もうなにも恐れるものはない。[pcms]
+There was nothing left to fear anymore.[pcms]
 
 *2601|
 [fc]
-僕は気合いを入れると、テレビの電源を入れて[r]
-入力切り替えをし、携帯ゲーム機の電源を入れる。[pcms]
+I psyched myself up, turned on the TV, switched the input, and powered[r]
+on the handheld game console.[pcms]
 
 ;//☆ムービーでモンバスのスタート画面お願いできますか？
 ;//　無理なら、他の演出考えます
@@ -194,21 +195,21 @@
 
 *2602|
 [fc]
-スタート画面が表示されると、オンラインに接続を選び、[r]
-ＩＤやパスワードを確認してログインした。[pcms]
+When the start screen appeared, I chose to connect online, checked my[r]
+ID and password, and logged in.[pcms]
 
 *2603|
 [fc]
-少しの時間、ローディング画面になる。[pcms]
+There was a brief loading screen.[pcms]
 
 *2604|
 [fc]
-僕はこの間が、まるで現実世界との境目のように感じられて[r]
-大好きだった。[pcms]
+I loved this moment, feeling as if it were a boundary between the real[r]
+world and another realm.[pcms]
 
 *2605|
 [fc]
-気分が高まってくる。[pcms]
+The excitement was building up.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -222,8 +223,8 @@
 
 *2606|
 [fc]
-そして短いロード時間が終わると、明るくなったテレビの画面に、[r]
-ゲーム世界の森が広がっていた。[pcms]
+And when the short loading time ended, the brightened TV screen[r]
+revealed a forest in the game world.[pcms]
 
 ;//m:誠のアバターはないのでカットしておく。D的に必要ならコメアウト解除
 ;//銃を担いだ長身の男キャラが、ログインしたキャラの定位置、
@@ -231,86 +232,84 @@
 
 *2607|
 [fc]
-『モンバス５』、またの名を『５[ruby text="イエ"][ch text="ＩＥ"]』というこの[r]
-ゲームは、シリーズ５作にわたる大ヒットゲームだった。[pcms]
+"Monster Buster 5," also known as "5IE," was a hit game spanning five[r]
+series entries.[pcms]
 
 *2608|
 [fc]
-某、国民的ＲＰＧのような例外を除けば、[r]
-シリーズ５作目というのは長い方かも知れない。[pcms]
+Excluding certain national RPGs, reaching a fifth series entry might[r]
+be considered quite a long run.[pcms]
 
 ;//めも：ちょっと遊びます。
 
 *2609|
 [fc]
-スタッフも、シリーズ５まで作らせてもらえるのは、[r]
-ありがたいと思っていることだろう。[pcms]
+The staff must be grateful to have been allowed to create up to a[r]
+fifth series.[pcms]
 
 *2610|
 [fc]
-モンバスはコンシューマのバージョンやＰＣのバージョンでも[r]
-細かく作りが違っており、マニアのみならず、[r]
-一般的に普及した人気作だ。[pcms]
+Monster Buster has different builds for both consumer versions and PC[r]
+versions, making it not only popular among enthusiasts but also widely[r]
+adopted by the general public.[pcms]
 
 *2611|
 [fc]
-大人しい無害な草食動物を食べるために殺したり、[r]
-攻撃するとその箇所が血しぶきを上げて傷ついたりと、[r]
-グロい場面もあるので業界レーティングが設定されている。[pcms]
+Gory scenes where you kill harmless herbivores for food or where blood[r]
+spurts from wounded parts when attacked mean that industry ratings[r]
+have been set for this game.[pcms]
 
 *2612|
 [fc]
-子供を完全に廃したゲームなのに、これほどの人気作になるとは、[r]
-日本ではちょっと珍しいパターンのゲームだった。[pcms]
+It's unusual for a game that completely excludes children to become[r]
+such a popular hit in Japan.[pcms]
 
 *2613|
 [fc]
-『モンスターバスター５ Island Edition』[pcms]
+"Monster Buster 5 Island Edition"[pcms]
 
 *2614|
 [fc]
-ＭＯ作品にありがちな、雑魚を延々と倒してボス戦という[r]
-パターンに当てはまらないアクションゲームだ。[pcms]
+This MO title is an action game that doesn't fit into the common[r]
+pattern of endlessly defeating minions before a boss battle.[pcms]
 
 *2615|
 [fc]
-基本的にボス戦に次ぐボス戦。[pcms]
+It's basically one boss battle after another.[pcms]
 
 *2616|
 [fc]
-雑魚はボス戦で邪魔になる位の位置付けでしかないのも、[r]
-特徴の一つになっている。[pcms]
+The minions are positioned as nothing more than a nuisance during boss[r]
+battles, which is one of its unique features.[pcms]
 
 *2617|
 [fc]
-そして、キャラクターは一切成長せずに、[r]
-あくまで装備を揃えることに特化されたゲームだった。[pcms]
+And the characters do not grow at all; the game was specialized in[r]
+equipping gear.[pcms]
 
 *2618|
 [fc]
-所謂レベル上げがない代わりに、[r]
-自分の腕を上げていかないといけないわけだ。[pcms]
+Instead of the so-called leveling up, you have to improve your own[r]
+skills.[pcms]
 
 *2619|
 [fc]
-武器や防具も大切だけれど、敵のモーションを覚えたり[r]
-行動パターンを熟知しないと面倒なことになる。[pcms]
+Weapons and armor are important, but it's troublesome if you don't[r]
+learn the enemy's motions and behavior patterns.[pcms]
 
 *2620|
 [fc]
-そして、オンラインで出て来るモンスターは全て[r]
-オフラインより強化されており、パーティープレイを[r]
-前提とした難易度が設定されていた。[pcms]
+And the monsters that appear online are all enhanced compared to[r]
+offline, with difficulty settings designed for party play.[pcms]
 
 *2621|
 [fc]
-ソロでもプレイは出来るんだけど、[r]
-パーティーの方が簡単だし楽しい。[pcms]
+It's possible to play solo, but it's easier and more fun with a party.[pcms]
 
 *2622|
 [fc]
-僕はもっぱらそーいちとパーティーを組んで、[r]
-ゲーム世界を旅することにしていた。[pcms]
+I mostly formed parties with Souichi and traveled through the game[r]
+world.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
@@ -330,7 +329,7 @@
 *2623|
 [fc]
 [ns]Ma-Kun.S[nse]
-「次で麻痺るから頑張ってっ！」[pcms]
+"It's going to be paralyzed next, so hang in there!"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty" opacity=0][ChrSetXY layer=5 x=500 y=130][trans_c cross time=0]
 [move layer=5 path="(-110,130,255)" time=200][wm]
@@ -338,7 +337,7 @@
 *2624|
 [fc]
 [ns]Fatty.G[nse]
-「おっしゃ！　俺の虎撃砲が火を噴くぜ！」[pcms]
+"Alright! My Tiger Strike Cannon is going to blaze!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -362,19 +361,17 @@
 
 *2625|
 [fc]
-[ns]ドラゴン型モンスター[nse]
-「グオオオオオガアアアアアアアッ！」[pcms]
+[ns]Dragon-type Monster[nse]
+"GROOOOAAAAARRRR!"[pcms]
 
 *2626|
 [fc]
-四足歩行の姿をしたモンスターが、[r]
-回転して尻尾を振ってくる。[pcms]
+The quadrupedal monster spins and swings its tail at us.[pcms]
 
 *2627|
 [fc]
-自分の身体ぐらいある盾を持ったそーいちのキャラ、[r]
-Fatty.Gは尻尾の回転してくる方向に向かって[r]
-盾をかざしていた。[pcms]
+Souichi's character, Fatty.G, holding a shield as big as himself, was[r]
+facing the direction of the swinging tail to block it.[pcms]
 
 
 ;mm ヒドラを拡大 あぁめんどくせどうすっかな[move layer=5 path="(0,-500,,200)" time=150][wm]
@@ -433,7 +430,7 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 [fc]
 [vo_tay s="taja_chat0001"]
 [ns]Taryan[nse]
-「あぐううっ！」[pcms]
+"Agghhh!"[pcms]
 
 [se buf=0 storage="seB013"]
 ;//SE：人間が地面に叩きつけられる音
@@ -441,17 +438,16 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 
 *2629|
 [fc]
-ごっつい堅そうな鎧に身を包み、[r]
-大きな盾を持つその姿はまるで人間要塞、[r]
-ＭＭＯでいうところのタンクそのものだ。[pcms]
+Clad in sturdy-looking armor and holding a large shield, his figure[r]
+was like a human fortress, the very image of a tank in MMO terms.[pcms]
 
 [stopse buf=0]
 ;<SoundRun 2,Stop,ON,2000>
 
 *2630|
 [fc]
-家ぐらいの大きさがあるモンスターの攻撃を受けても、[r]
-微動だにしなかった。[pcms]
+Even when taking hits from a monster as big as a house, he didn't[r]
+budge an inch.[pcms]
 
 [se buf=0 storage="seB013"]
 ;//SE：人間が地面に叩きつけられる音
@@ -464,7 +460,7 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 *2631|
 [fc]
 [ns]Fatty.G[nse]
-「シールド＋３の威力、思い知ったか！」[pcms]
+"Feel the power of Shield +3!"[pcms]
 
 [stopse buf=1]
 ;<SoundRun 3,Stop,ON,2000>
@@ -477,22 +473,20 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 
 *2632|
 [fc]
-そーいちの隣にいた女の子のキャラは、[r]
-コンパクトな盾では攻撃を防ぎきれずに、[r]
-吹っ飛ばされてしまう。[pcms]
+The girl character next to Souichi couldn't fully block the attack[r]
+with her compact shield and was blown away.[pcms]
 
 [stopse buf=1]
 ;<SoundRun 3,Stop,ON,2000>
 
 *2633|
 [fc]
-威力の高い攻撃を喰らうと、あの小さな盾では[r]
-防ぎきれないはずだ。[pcms]
+If hit by a powerful attack, that small shield wouldn't be able to[r]
+fully protect her.[pcms]
 
 *2634|
 [fc]
-そーいちのように防御を考えたスキルにしていないと、[r]
-尚のこと厳しい。[pcms]
+If you don't have defensive skills like Souichi, it's even tougher.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -500,21 +494,21 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 [fc]
 [vo_sat s="sato_chat0001"]
 [ns]Satto☆[nse]
-「武器研いでるから、ちょっと待っててね！」[pcms]
+"I'm sharpening my weapon, so wait a moment, okay?"[pcms]
 
 *2636|
 [fc]
-モンスターから離れて、武器を研いでいるのは[r]
-火力に特化したアタッカーの女の子だ。[pcms]
+The girl who specialized in firepower was away from the monster,[r]
+sharpening her weapon.[pcms]
 
 *2637|
 [fc]
-高速で武器を研ぐスキルを持っているから、[r]
-すぐに戦闘に復帰するだろう。[pcms]
+With her skill to sharpen weapons quickly, she'll be back in the fight[r]
+in no time.[pcms]
 
 *2638|
 [fc]
-麻痺させて、一気にたたみかけられる。[pcms]
+Paralyze it and then go for a full-on attack.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_hydra"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [se buf=1 storage="seE007"]
@@ -524,44 +518,40 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 
 *2639|
 [fc]
-[ns]ヒドラ型のモンスター[nse]
-「ギョエアアアアアッ！」[pcms]
+[ns]Hydra-type monster[nse]
+"GYOEEEAAAARRRR!"[pcms]
 
 [stopse buf=1]
 ;<SoundRun 3,Stop,ON,4000>
 
 *2640|
 [fc]
-モンバスは伝統的に１～４人のパーティで[r]
-モンスターと戦うことから、連携や協力が[r]
-重要なシステムになっていた。[pcms]
+In MonBuster, traditionally you fight monsters in parties of 1-4[r]
+people, so coordination and cooperation are important systems.[pcms]
 
 *2641|
 [fc]
-アクション要素の多いゲームだと、[r]
-一人が勝手なことをし始めるだけで、[r]
-壊滅的な被害を負うこともある。[pcms]
+In a game with many action elements, just one person doing something[r]
+reckless can lead to devastating damage.[pcms]
 
 *2642|
 [fc]
-防御型がモンスターの攻撃を受け止め、[r]
-補助タイプが敵を状態異常にし、回復して、[r]
-アタッカーがダメージをたたき出す。[pcms]
+The defense type takes on the monster's attacks, the support type[r]
+inflicts status ailments and heals, and the attacker deals damage.[pcms]
 
 *2643|
 [fc]
-ハメなんていうのもあるけれど、[r]
-僕らはあれをやる気はさらさらなかった。[pcms]
+There's also a tactic called 'locking down,' but we weren't at all[r]
+interested in doing that.[pcms]
 
 *2644|
 [fc]
-そういう連携が必要な状態になってくると、[r]
-どうしてもパーティーを組む面子が固定になってくる。[pcms]
+As the need for such coordination arises, the members of the party[r]
+tend to become fixed.[pcms]
 
 *2645|
 [fc]
-こちらが僕とそーいちの二人だから、[r]
-相手も二人組になることがままあった。[pcms]
+Since it's just me and Souichi, we often end up facing another pair.[pcms]
 
 ;//seB044.ogg
 [se buf=0 storage="seB044"]
@@ -569,7 +559,7 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 *2646|
 [fc]
 [ns]Ma-Kun.S[nse]
-「喰らえっ！」[pcms]
+"Take this!"[pcms]
 
 ;//seB041.ogg
 [se buf=0 storage="seB041"]
@@ -584,12 +574,13 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 
 *2647|
 [fc]
-ボウガンを装備した僕のキャラが、中位置からしびれ弾を放つ。[pcms]
+My character, equipped with a crossbow, fires a paralysis shot from[r]
+mid-range.[pcms]
 
 *2648|
 [fc]
-何発当てたか計算していたので、[r]
-これが当たればモンスターは麻痺状態になるはずだ。[pcms]
+I've been counting the shots, so if this hits, the monster should[r]
+become paralyzed.[pcms]
 
 ;ヒドラに白加算255
 ;<ImageRGBA 5,255,255,255,255>[trans_c tb time=150]
@@ -611,8 +602,8 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 
 *2649|
 [fc]
-[ns]ヒドラ型のモンスター[nse]
-「ギョワアアアアアアアッ！」[pcms]
+[ns]Hydra-type monster[nse]
+"GYOWAAAARRRRRRR!"[pcms]
 
 ;//◆ＳＥ　麻痺してるビリビリ音
 
@@ -623,7 +614,7 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 [fc]
 [vo_sat s="sato_chat0002"]
 [ns]Satto☆[nse]
-「グッジョブ！」[pcms]
+"Good job!"[pcms]
 
 [ChrSetEx layer=4 chbase="monb_fatty" opacity=0][ChrSetXY layer=4 x=600 y=130][trans_c cross time=0]
 [move layer=4 path="(300,130,255)" time=250][wm]
@@ -631,7 +622,7 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 *2651|
 [fc]
 [ns]Fatty.G[nse]
-「さすがですな！」[pcms]
+"As expected!"[pcms]
 
 [ChrSetEx layer=3 chbase="monb_taja" opacity=0][ChrSetXY layer=3 x=0 y=0][trans_c cross time=0]
 [move layer=3 path="(-290,0,255)" time=250][wm]
@@ -640,20 +631,20 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 [fc]
 [vo_tay s="taja_chat0002"]
 [ns]Taryan[nse]
-「[ruby text="グッジョブ"][ch text="ＧＪ"]」[pcms]
+"GJ"[pcms]
 
 *2653|
 [fc]
-登録してあるメッセージを、みんなが素早くコマンドする。[pcms]
+Everyone quickly commands their registered messages.[pcms]
 
 *2654|
 [fc]
-僕も負けじと、次の弾を装填しながら挨拶を返した。[pcms]
+I also quickly reload my next shot while returning the greeting.[pcms]
 
 *2655|
 [fc]
 [ns]Ma-Kun.S[nse]
-「♪」[pcms]
+"♪"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -668,7 +659,7 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 [fc]
 [vo_sat s="sato_chat0003"]
 [ns]Satto☆[nse]
-「おっりゃあああああっ！」[pcms]
+"Take thaaat!"[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -685,30 +676,30 @@ Fatty.Gは尻尾の回転してくる方向に向かって[r]
 
 *2657|
 [fc]
-Satto☆さんが、モンスターの頭側にまわると、[r]
-大きなモーションで斧を叩きつける。[pcms]
+Satto☆ swings her axe with a large motion as she moves to the head[r]
+side of the monster.[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
 *2658|
 [fc]
-南国トライバルなイメージの褐色少女キャラで、[r]
-高い攻撃力に低い防御性能という、わかりやすい役割の人だ。[pcms]
+Her character, a tanned tribal girl from the south, has a[r]
+straightforward role with high attack power and low defense.[pcms]
 
 *2659|
 [fc]
-小柄な体格に大型武器という組み合わせは、[r]
-やっぱり見ていて和むものがある。[pcms]
+The combination of a small stature and a large weapon is somehow[r]
+comforting to watch.[pcms]
 
 *2660|
 [fc]
-斧を使う前は大型剣を使っていたので、[r]
-アタッカーをやるのが好きなんだろう。[pcms]
+Before using the axe, she used a large sword, so she must like playing[r]
+the attacker role.[pcms]
 
 *2661|
 [fc]
-ぶんぶんと大きな武器を振り回して血しぶきを上げるその姿は、[r]
-なんだか頼もしさすら感じさせた。[pcms]
+The sight of her swinging her large weapon around and splattering[r]
+blood was somehow reassuring.[pcms]
 
 ;//m:ヒドラ1番
 ;ヒドラにオレンジ加算64
@@ -723,7 +714,7 @@ Satto☆さんが、モンスターの頭側にまわると、[r]
 [fc]
 [vo_tay s="taja_chat0003"]
 [ns]Taryan[nse]
-「ふっ、はっ、たあああっ！」[pcms]
+"Huff, ha, taaaah!"[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -743,34 +734,33 @@ Satto☆さんが、モンスターの頭側にまわると、[r]
 
 *2663|
 [fc]
-Satto☆さんとコンビを組んでいるTaryanさんは、[r]
-小型剣と盾という、バランスの取れた格好いい装備を[r]
-意識しているように見える。[pcms]
+Taryan, who teams up with Satto☆, seems to have chosen a balanced and[r]
+cool equipment of a small sword and shield on purpose.[pcms]
 
 *2664|
 [fc]
-小型剣は手数が多いので、オプション効果を与えるのに[r]
-とても有利な武器だ。[pcms]
+The small sword allows for many hits, making it very advantageous for[r]
+applying optional effects.[pcms]
 
 *2665|
 [fc]
-火力も防御も補助も支援も、全てがソコソコという[r]
-好きな人にはたまらない職だと言える。[pcms]
+It's a job that those who like it find irresistible because everything[r]
+is decently balancedoffense, defense, support, and assistance.[pcms]
 
 *2666|
 [fc]
-機動性も高く、スキルと組み合わせてアイテムを使い、[r]
-臨機応変な戦い方が出来るのも特徴だ。[pcms]
+It also features high mobility and the ability to use items flexibly[r]
+in combination with skills for an adaptable fighting style.[pcms]
 
 *2667|
 [fc]
-外見は、背が高くてがっしりとした感じの女性戦士で、[r]
-兜から長い金髪がのぞいている。[pcms]
+The appearance is that of a tall, sturdy female warrior with long[r]
+blonde hair peeking out from her helmet.[pcms]
 
 *2668|
 [fc]
-麻痺しているモンスターの足下に、[r]
-これでもかと攻撃を集中させていた。[pcms]
+She was concentrating her attacks on the feet of the paralyzed monster[r]
+as if to say 'take this.'[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -780,29 +770,29 @@ Satto☆さんとコンビを組んでいるTaryanさんは、[r]
 *2669|
 [fc]
 [ns]Fatty.G[nse]
-「そりゃああっ！　行きますぞーっ！」[pcms]
+"Here I gooooo!"[pcms]
 
 *2670|
 [fc]
-そんなモンスターに向かって、ここぞとばかりに[r]
-大技を放とうとしているのはそーいちだ。[pcms]
+Facing such a monster, Souichirou is about to unleash a big move at[r]
+just the right moment.[pcms]
 
 *2671|
 [fc]
-敵に与えるダメージはそこそこなんだけど、[r]
-味方を巻き込んで吹っ飛ばすほどの大技だから、[r]
-使いどころが難しい。[pcms]
+The damage dealt to the enemy is decent, but it's a big move that can[r]
+blow away allies, so it's difficult to find the right moment to use[r]
+it.[pcms]
 
 *2672|
 [fc]
 [vo_sat s="sato_chat0004"]
 [ns]Satto☆[nse]
-「ちょ、ちょっと待って！」[pcms]
+"Wait, just a minute!"[pcms]
 
 *2673|
 [fc]
 [ns]Fatty.G[nse]
-「ファイアーっ！」[pcms]
+"Fire!"[pcms]
 
 [se buf=0 storage="seB051"]
 ;//発射音
@@ -833,24 +823,23 @@ Satto☆さんとコンビを組んでいるTaryanさんは、[r]
 
 *2674|
 [fc]
-頭側にいたSatto☆さんは、慌てて逃げることが出来たけど、[r]
-Taryanさんがまともに食らって吹っ飛んでいく。[pcms]
+Satto☆, who was at the head side, managed to escape in a hurry, but[r]
+Taryan got hit squarely and was blown away.[pcms]
 
 *2675|
 [fc]
-このゲームをやり始めて、そーいちが５年、[r]
-TaryanさんとSatto☆さんが４年、[r]
-僕が２年になろうとしていた。[pcms]
+We've been playing this game for about 5 years for Souichirou, 4 years[r]
+for Taryan and Satto☆, and I'm about to hit 2 years.[pcms]
 
 *2676|
 [fc]
-今のは、そーいちの腕とマナーが悪いんじゃなくて、[r]
-良くあるお遊び。[pcms]
+What just happened wasn't due to Souichirou's lack of skill or[r]
+manners; it was a common playful act.[pcms]
 
 *2677|
 [fc]
-お互いが良く見知っているから出来る、[r]
-ゲームを盛り上げる要素だった。[pcms]
+It's an element that can spice up the game because we all know each[r]
+other well.[pcms]
 
 [stopse buf=1]
 ;<SoundRun 3,Stop,ON,2000>
@@ -864,12 +853,12 @@ TaryanさんとSatto☆さんが４年、[r]
 [fc]
 [vo_tay s="taja_chat0004"]
 [ns]Taryan[nse]
-「＃ｗ」[pcms]
+"#w"[pcms]
 
 *2679|
 [fc]
-怒ってるんだか笑ってるんだか、わからない反応が[r]
-Taryanさんから帰ってくる。[pcms]
+It's hard to tell if Taryan is angry or laughing with that kind of[r]
+response coming back.[pcms]
 
 
 ;mm ヒドラにオレンジ加算64
@@ -878,12 +867,11 @@ Taryanさんから帰ってくる。[pcms]
 *2680|
 [fc]
 [ns]Ma-Kun.S[nse]
-「もうすぐ麻痺が切れるよ！」[pcms]
+"The paralysis is about to wear off!"[pcms]
 
 *2681|
 [fc]
-そーいちから誘われてはじめたゲームだから、[r]
-やっぱり二人組で行動することが最も多かった。[pcms]
+Since Souichirou invited me to play this game, we often act as a duo.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="monb_taja"][ChrSetXY layer=3 x=-290 y=0]
@@ -891,27 +879,26 @@ Taryanさんから帰ってくる。[pcms]
 
 *2682|
 [fc]
-そして、僕たちと同じ二人組であるTaryanさんと、[r]
-Satto☆さんとは良く組むだけあって、[r]
-息もぴったりと合っている。[pcms]
+And just like us, Taryan and Satto☆, who often team up together, are[r]
+perfectly in sync.[pcms]
 
 *2683|
 [fc]
-この二つの組が似ているというのも、[r]
-やりやすい原因なんだろう。[pcms]
+The fact that these two pairs are similar makes it easier to work[r]
+together.[pcms]
 
 *2684|
 [fc]
-攻撃メインと補助メインの二人組。[pcms]
+A duo with one focusing on attack and the other on support.[pcms]
 
 *2685|
 [fc]
-役割分担が明白で、機能しやすいのはいいことだった。[pcms]
+Having clear role division makes it easier to function well together.[pcms]
 
 *2686|
 [fc]
-一番のベテランであるそーいちが、戦闘全体の流れを[r]
-上手く作ってくれるのもありがたい。[pcms]
+It's also great that Souichirou, the most veteran among us, skillfully[r]
+manages the overall flow of battle.[pcms]
 
 [se buf=1 storage="seE003"]
 ;//SE 地鳴り弱
@@ -928,20 +915,20 @@ Satto☆さんとは良く組むだけあって、[r]
 
 *2687|
 [fc]
-[ns]ヒドラ型のモンスター[nse]
-「ギャワアオオオオオオオオオッ！」[pcms]
+[ns]Hydra-type monster[nse]
+"GYAWAOOOOOOOOOOOOO!"[pcms]
 
 *2688|
 [fc]
-そうこうしているうちに、麻痺している時間が終わって、[r]
-モンスターが暴れはじめていた。[pcms]
+While we were doing this, the paralysis time ended and the monster[r]
+began to rampage.[pcms]
 
 [stopse buf=1]
 ;<SoundRun 3,Stop,ON,2000>
 
 *2689|
 [fc]
-僕は再び麻痺弾を込めて、状態異常を狙っていく。[pcms]
+I reload another paralysis shot and aim for a status ailment again.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="monb_satt" opacity=0][ChrSetXY layer=5 x=300 y=65][trans_c cross time=0]
@@ -952,7 +939,7 @@ Satto☆さんとは良く組むだけあって、[r]
 [fc]
 [vo_sat s="sato_chat0005"]
 [ns]Satto☆[nse]
-「頭側は任せてね！」[pcms]
+"Leave the head side to me!"[pcms]
 
 [ChrSetEx layer=4 chbase="monb_fatty" opacity=0][ChrSetXY layer=4 x=500 y=130][trans_c cross time=0]
 [move layer=4 path="(220,130,255)" time=250][wm]
@@ -960,32 +947,31 @@ Satto☆さんとは良く組むだけあって、[r]
 *2691|
 [fc]
 [ns]Fatty.G[nse]
-「ガブッとされないように、お気をつけを」[pcms]
+"Be careful not to get bitten."[pcms]
 
 *2692|
 [fc]
 [vo_sat s="sato_chat0006"]
 [ns]Satto☆[nse]
-「頭はきっちりと全破壊させちゃうから！」[pcms]
+"I'll make sure to completely break its head!"[pcms]
 
 *2693|
 [fc]
-二人組のリーダーっぽいSatto☆さんは、[r]
-とても明るくて話しやすい人物だった。[pcms]
+Satto☆, who seems like the leader of the duo, is a very cheerful and[r]
+approachable person.[pcms]
 
 *2694|
 [fc]
-コミュニケーションが取りやすく、[r]
-プレイ自体も凄く巧い。[pcms]
+She's easy to communicate with and plays the game very well.[pcms]
 
 *2695|
 [fc]
-しかも、キャラじゃなくて中身まで女の子というのが、[r]
-ポイント高い人だった。[pcms]
+Moreover, it's a big plus that not just her character but she herself[r]
+is a girl.[pcms]
 
 *2696|
 [fc]
-しかも、話の内容からして同い年らしい。[pcms]
+And from our conversations, it seems she's about the same age as me.[pcms]
 
 [ChrSetEx layer=3 chbase="monb_taja" opacity=0][ChrSetXY layer=3 x=0 y=0][trans_c cross time=0]
 [move layer=3 path="(-290,0,255)" time=250][wm]
@@ -994,7 +980,7 @@ Satto☆さんとは良く組むだけあって、[r]
 [fc]
 [vo_tay s="taja_chat0005"]
 [ns]Taryan[nse]
-「*･゜ﾟ･*:.｡..｡.:*･゜☆ﾟ･*:.｡. .｡.:*･゜ﾟ･*」[pcms]
+"*･゜ﾟ･*:.｡..｡.:*･゜☆ﾟ･*:.｡. .｡.:*･゜ﾟ･*"[pcms]
 
 
 
@@ -1022,82 +1008,82 @@ Satto☆さんとは良く組むだけあって、[r]
 *2698|
 [fc]
 [ns]Fatty.G[nse]
-「うお、これは反動耐性効果ですな！」[pcms]
+"Whoa, this is the recoil resistance effect!"[pcms]
 
 *2699|
 [fc]
-Taryanさんが、そーいちの砲撃を喰らっても[r]
-吹っ飛ばないように全域アイテム効果を使用していた。[pcms]
+Taryan-san used a field item effect so that she wouldn't be blown away[r]
+even if she took a hit from Souichirou's cannon fire.[pcms]
 
 *2700|
 [fc]
-そして、またモンスターの足下を狙って[r]
-飛び込み斬りを敢行していく。[pcms]
+Then, she dives in again, aiming for the monster's feet with a leaping[r]
+slash.[pcms]
 
 *2701|
 [fc]
-このTaryanさんは、Satto☆さんと違って、[r]
-無口なタイプの人だった。[pcms]
+This Taryan-san, unlike Satto☆-san, was the quiet type.[pcms]
 
 *2702|
 [fc]
-戦闘ではSatto☆さんやみんなの指示にも、[r]
-的確に対応するし、ミスがない感じがする。[pcms]
+In battle, she responds accurately to Satto☆-san and everyone else's[r]
+commands, and she seems to make no mistakes.[pcms]
 
 *2703|
 [fc]
-クールで、自分からしゃべることはあんまり無いんだけど、[r]
-話しかければちゃんと応えてくれる人だった。[pcms]
+She's cool and doesn't talk much on her own, but if you talk to her,[r]
+she responds properly.[pcms]
 
 *2704|
 [fc]
-画面映えする衣装集めに凝っていて、強さよりも[r]
-ルックスを重視した装備になっている。[pcms]
+She's into collecting eye-catching outfits, preferring looks over[r]
+strength in her equipment.[pcms]
 
 *2705|
 [fc]
-モンスターの攻略や、アニメの雑談なんかは[r]
-濃い内容の発言をするけれど、口調自体はきわめて事務的だった。[pcms]
+She makes profound remarks about monster strategies and anime chatter,[r]
+but her tone is very businesslike.[pcms]
 
 *2706|
 [fc]
-ネットスラングも交えて話すSatto☆さんとは大違いで、[r]
-そういうロールプレイなのかも知れない。[pcms]
+Unlike Satto☆-san, who mixes internet slang into her speech, Taryan-[r]
+san might be role-playing that way.[pcms]
 
 *2707|
 [fc]
-しばらくは男性なのかと思っていたけれど、[r]
-Satto☆さん曰く、同級生の女の子だとか。[pcms]
+For a while, I thought she was a guy, but according to Satto☆-san,[r]
+she's a girl of the same age as us.[pcms]
 
 *2708|
 [fc]
-現実でもこの雰囲気だったら、仲良くできるか自信がないな。[pcms]
+I'm not sure if I could get along with her in real life with that kind[r]
+of vibe.[pcms]
 
 *2709|
 [fc]
-かわいかったら、そうでもないのかも知れないけど。[pcms]
+If she's cute, maybe it wouldn't be so bad.[pcms]
 
 *2710|
 [fc]
 [ns]Ma-Kun.S[nse]
-「次の麻痺行くよっ！」[pcms]
+"Going for the next paralysis shot!"[pcms]
 
 *2711|
 [fc]
 [vo_sat s="sato_chat0007"]
 [ns]Satto☆[nse]
-「ＯＫ、ＯＫ！　これで終わりじゃ～っ！」[pcms]
+"OK, OK! This will finish it off!"[pcms]
 
 *2712|
 [fc]
 [ns]Fatty.G[nse]
-「今度こそ、全員まとめて吹っ飛ばしまずぞ！」[pcms]
+"This time, let's blow them all away without fail!"[pcms]
 
 *2713|
 [fc]
 [vo_tay s="taja_chat0006"]
 [ns]Taryan[nse]
-「＃ｗ」[pcms]
+"#w"[pcms]
 
 ;//seA052.ogg
 [se buf=0 storage="seA052"]
@@ -1111,22 +1097,21 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 
 *2714|
 [fc]
-誰の一撃がトドメだったのか、麻痺したままのモンスターは、[r]
-敢えなく地面に倒れ伏していた。[pcms]
+It was unclear whose final blow did it, but the paralyzed monster[r]
+inevitably fell to the ground.[pcms]
 
 [stopse buf=1]
 ;<SoundRun 3,Stop,ON,2000>
 
 *2715|
 [fc]
-一人で戦ったら一時間弱はかかる強敵も、[r]
-４人パーティーならこの通り。[pcms]
+A formidable enemy that would take nearly an hour to defeat alone was[r]
+easily handled by a four-person party like this.[pcms]
 
 *2716|
 [fc]
-報酬タイムでSatto☆さんとそーいちが、[r]
-欲しいアイテムを手に入れてご満悦のところ、[r]
-街への帰還となった。[pcms]
+During the reward time, Satto☆-san and Souichirou got the items they[r]
+wanted and were very pleased as we returned to town.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1158,19 +1143,19 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 [fc]
 [vo_sat s="sato_chat0008"]
 [ns]Satto☆[nse]
-「今日もお疲れ～！」[pcms]
+"Good work today!"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2718|
 [fc]
 [ns]Fatty.G[nse]
-「お疲れ様でござった」[pcms]
+"Good work indeed."[pcms]
 
 *2719|
 [fc]
 [ns]Ma-Kun.S[nse]
-「おつですー」[pcms]
+"Otsu-desu~"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_taja_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1178,7 +1163,7 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 [fc]
 [vo_tay s="taja_chat0007"]
 [ns]Taryan[nse]
-「[ruby text="おつ"][ch text="０２"]」[pcms]
+"02"[pcms]
 
 [chara_int][trans_c cross time=150]
 [stopse buf=0]
@@ -1186,12 +1171,12 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 
 *2721|
 [fc]
-強敵を倒した後は、どっと疲れが出る。[pcms]
+After defeating a strong enemy, exhaustion hits you all at once.[pcms]
 
 *2722|
 [fc]
-人間が集中していられる時間はわずかだと言うけれど、[r]
-それを無理矢理伸ばしている感じだ。[pcms]
+They say humans can only concentrate for a short period of time, but[r]
+it feels like we're forcibly stretching that limit.[pcms]
 
 [ChrSetEx layer=3 chbase="monb_taja"][ChrSetXY layer=3 x=-290 y=0]
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65]
@@ -1200,89 +1185,87 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 *2723|
 [fc]
 [ns]Fatty.G[nse]
-「もう一狩り、いかがですかな？」[pcms]
+"How about one more hunt?"[pcms]
 
 *2724|
 [fc]
 [vo_sat s="sato_chat0009"]
 [ns]Satto☆[nse]
-「あー、ゴメン。あたしたち来週から期末試験なの」[pcms]
+"Ah, sorry. We have final exams starting next week."[pcms]
 
 *2725|
 [fc]
-そういえば、そんなイベントもあったな。[pcms]
+I remembered there was such an event.[pcms]
 
 *2726|
 [fc]
-他人事じゃないんだけど、赤点もらって[r]
-補習を受けることもないだろう。[pcms]
+It's not someone else's problem, but I doubt I'll get a failing grade[r]
+and have to take supplementary lessons.[pcms]
 
 *2727|
 [fc]
 [vo_sat s="sato_chat0010"]
 [ns]Satto☆[nse]
-「土日とか顔出せそう？　＞Taryan」[pcms]
+"Can you show up on the weekend? >Taryan"[pcms]
 
 *2728|
 [fc]
 [vo_tay s="taja_chat0008"]
 [ns]Taryan[nse]
-「無理」[pcms]
+"Impossible"[pcms]
 
 *2729|
 [fc]
-まぁ、それなら今夜だって[r]
-顔を出すのは難しかったのか知れない。[pcms]
+Well, if that's the case, maybe it was difficult for her to show up[r]
+tonight as well.[pcms]
 
 *2730|
 [fc]
-でも、試験前でも週末くらいは楽しみたいという[r]
-気持ちは共有できる感覚だった。[pcms]
+But I could relate to the feeling of wanting to enjoy the weekend even[r]
+before exams.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2731|
 [fc]
-この辺りが、社会人プレイヤーとは[r]
-ちょっと違うところになる。[pcms]
+This is where we differ a bit from the working adult players.[pcms]
 
 *2732|
 [fc]
-この二人と組むことが多いのも、同じ感覚を共有できる[r]
-同年代だからというのがあるだろう。[pcms]
+Probably one of the reasons I often team up with these two is because[r]
+we're of the same age and share similar sentiments.[pcms]
 
 *2733|
 [fc]
 [ns]Ma-Kun.S[nse]
-「試験があるの忘れてたよ」[pcms]
+"I forgot there were exams."[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty"][ChrSetXY layer=5 x=-110 y=130][trans_c cross time=150]
 
 *2734|
 [fc]
 [ns]Fatty.G[nse]
-「俺も頭から抜け落ちてた」[pcms]
+"It completely slipped my mind too."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2735|
 [fc]
-毎日普通に勉強していれば慌てる必要はない。[pcms]
+If you study normally every day, there's no need to panic.[pcms]
 
 *2736|
 [fc]
-よほど上を狙っているのなら別だけど、[r]
-今更、慌てるのもイヤだった。[pcms]
+Unless you're aiming for the top, panicking now would be unpleasant.[pcms]
 
 *2737|
 [fc]
-そーいちも同じだと思うけど、[r]
-いつもと同じ平常運転で大丈夫。[pcms]
+"I think Souichi feels the same, but it's okay to operate as usual[r]
+every day."[pcms]
 
 *2738|
 [fc]
-土日を使って軽くおさらいしておけば、[r]
-そこそこの点は取れるだろう。[pcms]
+"Just lightly review using the weekend, and you should be able to[r]
+score decently."[pcms]
 
 [ChrSetEx layer=3 chbase="monb_satt"][ChrSetXY layer=3 x=-360 y=65]
 [ChrSetEx layer=4 chbase="monb_taja"][ChrSetXY layer=4 x=360 y=0][trans_c cross time=150]
@@ -1291,26 +1274,25 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 [fc]
 [vo_sat s="sato_chat0011"]
 [ns]Satto☆[nse]
-「さて、頭防具作ってこようかな」[pcms]
+"Well then, I guess I'll go make some headgear."[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty"][ChrSetXY layer=5 x=-110 y=130][trans_c cross time=150]
 
 *2740|
 [fc]
 [ns]Fatty.G[nse]
-「拙者も、新しい武器が作れますぞ、ムフフッフ」[pcms]
+"I, too, shall be able to craft a new weapon, mufufufu."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2741|
 [fc]
-そういえば、そーいちとSatto☆さんは、[r]
-欲しいアイテムをゲットできたんだった。[pcms]
+Speaking of which, Souichi and Satto-san managed to get the items they[r]
+wanted.[pcms]
 
 *2742|
 [fc]
-出る確率の低いアイテムだから、[r]
-うらやましい限りだ。[pcms]
+Since it's an item with a low drop rate, I'm quite envious.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -1318,49 +1300,48 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 [fc]
 [vo_sat s="sato_chat0012"]
 [ns]Satto☆[nse]
-「[ruby text="エムツー"][ch text="ＭＭＯ通"]で８月にやるモンバスの[r]
-　イベント告知が出てたよね」[pcms]
+"There was an announcement for the MonBus event in MMO Tsushin for[r]
+August, right?"[pcms]
 
 ;//m:セリフとボイス合ってるか要確認
 
 *2744|
 [fc]
-ゴカメのニュースでそんなのを見た気がする。[pcms]
+I feel like I saw something about that in the Gokame news.[pcms]
 
 ;//♂D:ヨンカメも危ないしエムツーの説明入れないとならない。
 
 *2745|
 [fc]
-このイベントでのみダウンロードされるモンスターが[r]
-現れるとかで、注目度の高いイベントになっていた。[pcms]
+The event has garnered a lot of attention because it features monsters[r]
+that can only be downloaded during this event.[pcms]
 
 *2746|
 [fc]
 [vo_sat s="sato_chat0013"]
 [ns]Satto☆[nse]
-「８月の１６日にお台場で始まるみたいだけど、[r]
-　２２日までに全国１０ヶ所でやるんだって」[pcms]
+"It seems to start on the 16th of August at Odaiba, but it's going to[r]
+be held in 10 locations nationwide until the 22nd."[pcms]
 
 *2747|
 [fc]
 [ns]Ma-Kun.S[nse]
-「行きたいなぁ」[pcms]
+"I want to go."[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2748|
 [fc]
 [ns]Fatty.G[nse]
-「む、関東はどこでやるのですかな？」[pcms]
+"Hmm, where in the Kanto region will it be held?"[pcms]
 
 *2749|
 [fc]
-そーいちも行きたそうにしているから、[r]
-一緒に出かけるのも楽しそうだ。[pcms]
+Souichi also seems eager to go, so it would be fun to go out together.[pcms]
 
 *2750|
 [fc]
-灼熱の日光地獄でゲームをするのも悪くない。[pcms]
+Playing games in the scorching sun doesn't sound too bad.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -1368,46 +1349,44 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 [fc]
 [vo_sat s="sato_chat0014"]
 [ns]Satto☆[nse]
-「えーとね、１４日にお台場、２２日に八景島だって」[pcms]
+"Let's see, Odaiba on the 14th, and Hakkeijima on the 22nd."[pcms]
 
 ;//◆地名をまんま書いてます
 
 *2752|
 [fc]
-何というクリティカルな……、[r]
-１４日から２２日まで合宿だ。[pcms]
+What a critical... I have a training camp from the 14th to the 22nd.[pcms]
 
 *2753|
 [fc]
-そーいちも同じ事を考えているのか、[r]
-なにも言わずに黙り込んでいた。[pcms]
+Souichi seems to be thinking the same thing, as he fell silent without[r]
+saying anything.[pcms]
 
 *2754|
 [fc]
-割と悔しいものだなぁ。[pcms]
+It's quite frustrating.[pcms]
 
 *2755|
 [fc]
-凄いアイテムを作れる材料とかだったら、[r]
-萎えるんですが……。[pcms]
+If it were materials for making amazing items, that would be[r]
+disheartening...[pcms]
 
 *2756|
 [fc]
 [ns]Fatty.G[nse]
-「我々は、丁度その日に合宿でござるよ」[pcms]
+"We have a training camp exactly on those days."[pcms]
 
 *2757|
 [fc]
 [vo_sat s="sato_chat0015"]
 [ns]Satto☆[nse]
-「そりゃ、残念だったね。[r]
-　あたしたちは、地元でイベントやるから参加するよ。[r]
-　あげられる物だったらお裾分けするからさ！」[pcms]
+"That's too bad. We're going to participate in the event locally. If[r]
+it's something we can share, we'll give you a part of it!"[pcms]
 
 *2758|
 [fc]
 [ns]Ma-Kun.S[nse]
-「Satto☆さん達の地元ってどこなの？」[pcms]
+"Where is your hometown, Satto-san and the others?"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1415,28 +1394,28 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 [fc]
 [vo_sat s="sato_chat0016"]
 [ns]Satto☆[nse]
-「１８日の大神島だよ」[pcms]
+"It's on Oogamijima on the 18th."[pcms]
 
 *2760|
 [fc]
 [ns]Ma-Kun.S[nse]
-「そうかー、地元開催とはうらやま……」[pcms]
+"I see, a local event... I'm envious..."[pcms]
 
 *2761|
 [fc]
-そこで僕はマウンテンヂューを吹きそうになった。[pcms]
+At that moment, I almost spit out my Mountain Dew.[pcms]
 
 *2762|
 [fc]
-そーいちは、アイスのアールグレイを吹きそうになっているか、[r]
-実際吹いたはず。[pcms]
+Souichi is either about to spit out his Earl Grey ice cream or he[r]
+actually did.[pcms]
 
 *2763|
 [fc]
 [vo_sat s="sato_chat0017"]
 [ns]Satto☆[nse]
-「１７日が名古屋ポートランドと大阪六甲ランドで、[r]
-　１９日が高知、２０日が札幌、２１日が博多、鹿児島だって」[pcms]
+"On the 17th, there's Nagoya Portland and Osaka Rokko Land, and on the[r]
+19th Kochi, the 20th Sapporo, and on the 21st Fukuoka, Kagoshima."[pcms]
 
 ;//◆地名回避していません
 ;//◆名称回避しています
@@ -1450,33 +1429,32 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 *2764|
 [fc]
 [ns]Fatty.G[nse]
-「ちょ、今、大神島と言いましたか！？」[pcms]
+"Wait, did you just say Oogamijima!?"[pcms]
 
 *2765|
 [fc]
 [vo_sat s="sato_chat0018"]
 [ns]Satto☆[nse]
-「あたしたちが住んでいるとこ、話してなかったっけ？」[pcms]
+"Isn't that where we live? Didn't we talk about this before?"[pcms]
 
 *2766|
 [fc]
 [ns]Ma-Kun.S[nse]
-「いや、初耳の初音ちゃんですってば！」[pcms]
+"Nope, this is the first I've heard of it, Hatsune-chan!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2767|
 [fc]
-僕たちが驚いている様子が伝わっているだろうか。[pcms]
+I wonder if our surprise is coming across.[pcms]
 
 *2768|
 [fc]
-キャラクターにポーズを取らせることが出来るムーブで、[r]
-僕はガッツポーズをしていた。[pcms]
+I took a Guts Pose with my character.[pcms]
 
 *2769|
 [fc]
-そーいちは、突っ立ったままでなんの反応もしていない。[pcms]
+Souichi is just standing there without any reaction.[pcms]
 
 [ChrSetEx layer=3 chbase="monb_taja"][ChrSetXY layer=3 x=-290 y=0]
 [ChrSetEx layer=4 chbase="monb_satt"][ChrSetXY layer=4 x=290 y=65][trans_c cross time=150]
@@ -1485,83 +1463,81 @@ Satto☆さん曰く、同級生の女の子だとか。[pcms]
 [fc]
 [vo_sat s="sato_chat0019"]
 [ns]Satto☆[nse]
-「どうしたの？」[pcms]
+"What's wrong?"[pcms]
 
 *2771|
 [fc]
 [ns]Ma-Kun.S[nse]
-「さっき言ってた合宿を行うのが、[r]
-　瀬渡内にある大神島なんですよ！」[pcms]
+"The training camp we were talking about earlier is going to be on[r]
+Oogamijima in Sewarduchi!"[pcms]
 
 *2772|
 [fc]
 [vo_sat s="sato_chat0020"]
 [ns]Satto☆[nse]
-「えええええええっ！」[pcms]
+"Eeeeeeeh!"[pcms]
 
 *2773|
 [fc]
 [vo_tay s="taja_chat0009"]
 [ns]Taryan[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *2774|
 [fc]
-二人もビックリしているみたいだ。[pcms]
+The two of them seem surprised as well.[pcms]
 
 *2775|
 [fc]
-僕もこんな幸運に恵まれて、[r]
-驚く以外に表現のしようがない。[pcms]
+I'm so fortunate that I'm at a loss for words other than surprise.[pcms]
 
 *2776|
 [fc]
 [vo_sat s="sato_chat0021"]
 [ns]Satto☆[nse]
-「ゾクッとするくらいビックリだわ」[pcms]
+"I'm so surprised it sends shivers down my spine."[pcms]
 
 *2777|
 [fc]
 [vo_tay s="taja_chat0010"]
 [ns]Taryan[nse]
-「ビックリ」[pcms]
+"I'm surprised."[pcms]
 
 *2778|
 [fc]
-Satto☆さんはともかく、[r]
-Taryanさんは良くわからない。[pcms]
+Regardless of Satto☆, it's hard to tell with Taryan.[pcms]
 
 *2779|
 [fc]
-本当に驚いているんだろうか……。[pcms]
+I wonder if she's truly surprised...[pcms]
 
 *2780|
 [fc]
 [vo_sat s="sato_chat0022"]
 [ns]Satto☆[nse]
-「運命を感じて、少しトキメイた」[pcms]
+"I feel a sense of destiny, and it's a little thrilling."[pcms]
 
 *2781|
 [fc]
 [vo_tay s="taja_chat0011"]
 [ns]Taryan[nse]
-「ときめき……」[pcms]
+"Thrilling..."[pcms]
 
 *2782|
 [fc]
-Taryanさんはそう言ったきり、[r]
-また黙り込んでしまう。[pcms]
+After saying that, Taryan falls silent again.[pcms]
 
 *2783|
 [fc]
-ちょっと不思議ちゃんなのかな。[pcms]
+She might be a bit of an oddball.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2784|
 [fc]
 [ns]Ma-Kun.S[nse]
-「大神島の姉妹校と合同合宿するって聞いたけど……」[pcms]
+"I heard we're going to have a joint training camp with a sister[r]
+school on Oogamijima..."[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -1569,64 +1545,62 @@ Taryanさんはそう言ったきり、[r]
 [fc]
 [vo_sat s="sato_chat0023"]
 [ns]Satto☆[nse]
-「あ、それあたしたちの通ってる大神学園だと思うよ」[pcms]
+"Ah, that must be our school, Oogami Academy, I think."[pcms]
 
 *2786|
 [fc]
-これは……もう、神がかっているとしか思えない出来事だ。[pcms]
+This is... an event that seems almost divine.[pcms]
 
 *2787|
 [fc]
-もしかしたら、悪魔の采配なのかも知れないけど。[pcms]
+It might even be the work of a devil, for all I know.[pcms]
 
 *2788|
 [fc]
 [vo_sat s="sato_chat0024"]
 [ns]Satto☆[nse]
-「この時期、島の施設には県外からたくさんの学園が[r]
-　合宿に来るんだけど、島にある学園は[r]
-　大神学園だけだから」[pcms]
+"During this season, many schools from outside the prefecture come to[r]
+the island for training camps, but the only academy on the island is[r]
+Oogami Academy."[pcms]
 
 *2789|
 [fc]
 [ns]Ma-Kun.S[nse]
-「じゃあ、去年はそっちの方から東京に来たんだ」[pcms]
+"So, last year it was from your side that came to Tokyo."[pcms]
 
 *2790|
 [fc]
 [vo_sat s="sato_chat0025"]
 [ns]Satto☆[nse]
-「言われてみれば、サッカー部が去年、東京に行って[r]
-　みんなにうらやましがられてた気がする」[pcms]
+"Now that you mention it, I think the soccer club went to Tokyo last[r]
+year and everyone was envious."[pcms]
 
 *2791|
 [fc]
 [vo_tay s="taja_chat0012"]
 [ns]Taryan[nse]
-「うん」[pcms]
+"Yeah."[pcms]
 
 *2792|
 [fc]
 [vo_sat s="sato_chat0026"]
 [ns]Satto☆[nse]
-「でも、そこってMa-Kun.Sとかの学園だったんだね」[pcms]
+"But that was your school, Ma-Kun.S, right?"[pcms]
 
 *2793|
 [fc]
-Satto☆さんとTaryanさんは女の子だから、[r]
-マネージャーでもなければ来ていないだろう。[pcms]
+Since Satto☆ and Taryan are girls, they wouldn't have come unless they[r]
+were managers.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2794|
 [fc]
-だから、去年のことを知らなかったのは、[r]
-そんなに悔しくない。[pcms]
+So not knowing about last year isn't too disappointing.[pcms]
 
 *2795|
 [fc]
-もしも来ていたんだとしたら、[r]
-今頃悶えてた可能性があるけど。[pcms]
+If they had been there, I might be writhing in agony right now.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -1634,8 +1608,8 @@ Satto☆さんとTaryanさんは女の子だから、[r]
 [fc]
 [vo_sat s="sato_chat0027"]
 [ns]Satto☆[nse]
-「ウチのサッカー部は激弱なのに贅沢だって言われてた。[r]
-　１８人しか部員いないし」[pcms]
+"Our soccer club is so weak, yet we live in luxury. We only have 18[r]
+members."[pcms]
 
 [ChrSetEx layer=5 chbase="monb_taja"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1643,7 +1617,7 @@ Satto☆さんとTaryanさんは女の子だから、[r]
 [fc]
 [vo_tay s="taja_chat0013"]
 [ns]Taryan[nse]
-「１７人。一人辞めてボート部員になった」[pcms]
+"17 members. One quit and joined the boat club."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="monb_taja"][ChrSetXY layer=3 x=-290 y=0]
@@ -1653,27 +1627,25 @@ Satto☆さんとTaryanさんは女の子だから、[r]
 [fc]
 [vo_sat s="sato_chat0028"]
 [ns]Satto☆[nse]
-「そういえばそうだった……、[r]
-　河野・弟、根性無いなー」[pcms]
+"Oh right, that's true... Kono's younger brother has no guts."[pcms]
 
 *2799|
 [fc]
-そうか、相手のサッカー部も弱かったのか。[pcms]
+So, their soccer club is weak too.[pcms]
 
 *2800|
 [fc]
-うちも体育会系はおしなべて弱いからなぁ。[pcms]
+Our athletic clubs are generally weak as well.[pcms]
 
 *2801|
 [fc]
-荒井が一人で頑張って、[r]
-サッカー部を盛り上げてるんだろうけれど。[pcms]
+Arai is working hard all by himself to keep the soccer club going.[pcms]
 
 *2802|
 [fc]
 [ns]Ma-Kun.S[nse]
-「それにしても、姉妹校の名前なんて[r]
-　覚えていないもんだね」[pcms]
+"Even so, it's surprising we don't remember the name of our sister[r]
+school."[pcms]
 
 [move layer=3 path="(-290,0,255)" time=150][wm]
 [move layer=3 path="(-290,30,255)" time=150][wm]
@@ -1686,18 +1658,18 @@ Satto☆さんとTaryanさんは女の子だから、[r]
 [fc]
 [vo_sat s="sato_chat0029"]
 [ns]Satto☆[nse]
-「うんうん」[pcms]
+"Yeah, yeah."[pcms]
 
 *2804|
 [fc]
-Taryanさんは頷きムーブしている。[pcms]
+Taryan is nodding in agreement.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2805|
 [fc]
-担当じゃない部活の、相手校の学園名なんて[r]
-完全に聞き流していたよ。[pcms]
+I completely tuned out the names of other schools' clubs that weren't[r]
+my responsibility.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1705,57 +1677,55 @@ Taryanさんは頷きムーブしている。[pcms]
 [fc]
 [vo_sat s="sato_chat0030"]
 [ns]Satto☆[nse]
-「ところでさ、そういうことなら島で会わない？」[pcms]
+"By the way, since that's the case, won't we meet on the island?"[pcms]
 
 *2807|
 [fc]
-うっ……胸が急に苦しくなった。[pcms]
+Uh... My chest suddenly feels tight.[pcms]
 
 *2808|
 [fc]
-これがトキメクってやつなのか？[pcms]
+Is this what being thrilled feels like?[pcms]
 
 *2809|
 [fc]
-妙にテンションが上がっていく。[pcms]
+I'm getting oddly excited.[pcms]
 
 *2810|
 [fc]
 [ns]Ma-Kun.S[nse]
-「ああ、いいね。そうしようか」[pcms]
+"Yeah, that sounds good. Let's do that."[pcms]
 
 *2811|
 [fc]
-なんて、クールに書きながら、[r]
-僕の心臓は躍り出しそうなくらい暴れていた。[pcms]
+As I write this coolly, my heart is racing as if it's about to burst[r]
+out of my chest.[pcms]
 
 *2812|
 [fc]
-がっついているところは見せられない……、[r]
-向こうは、僕たちが男だって知っているんだから。[pcms]
+I can't show how eager I am... after all, they know we're guys.[pcms]
 
 *2813|
 [fc]
-それにしても、死んだのかと思うくらい[r]
-そーいちの反応が何もなかった。[pcms]
+But still, Souichi's lack of reaction was as if he were dead.[pcms]
 
 *2814|
 [fc]
 [vo_sat s="sato_chat0031"]
 [ns]Satto☆[nse]
-「じゃあ、一緒にイベント参加しよう？[r]
-　あたしたちなら、初見のモンスターだって狩れるでしょ」[pcms]
+"Then let's participate in the event together? With us, we can hunt[r]
+even monsters we've never seen before."[pcms]
 
 *2815|
 [fc]
 [ns]Ma-Kun.S[nse]
-「そ、そうかな。そうだと楽しいよね」[pcms]
+"Is that so? That would be fun."[pcms]
 
 *2816|
 [fc]
 [vo_sat s="sato_chat0032"]
 [ns]Satto☆[nse]
-「いいでしょ、Taryan？」[pcms]
+"Right, Taryan?"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_taja_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1763,7 +1733,7 @@ Taryanさんは頷きムーブしている。[pcms]
 [fc]
 [vo_tay s="taja_chat0014"]
 [ns]Taryan[nse]
-「うん、かまわない」[pcms]
+"Yeah, I don't mind."[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1771,41 +1741,41 @@ Taryanさんは頷きムーブしている。[pcms]
 [fc]
 [vo_sat s="sato_chat0033"]
 [ns]Satto☆[nse]
-「じゃあ、決まりだね！」[pcms]
+"Then it's decided!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2819|
 [fc]
-これは合宿でのお楽しみイベントが、一つ増えてしまった。[pcms]
+This means one more fun event has been added to the camp.[pcms]
 
 *2820|
 [fc]
-ただでさえ、凄い合宿だったのに、[r]
-もうとんでもないことになっている。[pcms]
+As if the camp wasn't amazing enough, it's now turned into something[r]
+unbelievable.[pcms]
 
 *2821|
 [fc]
-僕は一応、喜びムーブを出して気持ちを表現していた。[pcms]
+I'm outwardly expressing my joy, though my heart is pounding wildly.[pcms]
 
 *2822|
 [fc]
-月明かりの浜辺で、姉ちゃんを細くしたみたいな[r]
-島っ子のSatto☆さんを後ろから突きまくる。[pcms]
+On a moonlit beach, I'll be thrusting into Satto☆, who looks like a[r]
+slender version of an older sister, from behind.[pcms]
 
 *2823|
 [fc]
-ちょっと焼けていて、健康そうなその肌から[r]
-汗が滴り落ちるほど激しく交わるんだ。[pcms]
+Her slightly tanned, healthy-looking skin will glisten with sweat from[r]
+our intense coupling.[pcms]
 
 *2824|
 [fc]
-向こうもこの奇跡的なシチュエーションに酔っているはず。[pcms]
+She must be intoxicated by this miraculous situation as well.[pcms]
 
 *2825|
 [fc]
-やり終わった後、浜辺でイチャイチャしながら[r]
-お互いの身体を愛撫するなんて……夢のよう。[pcms]
+After we're done, cuddling on the beach and caressing each other's[r]
+bodies... it's like a dream.[pcms]
 
 [ChrSetEx layer=5 chbase="monb_satt"][ChrSetXY layer=5 x=0 y=65][trans_c cross time=150]
 
@@ -1813,27 +1783,26 @@ Taryanさんは頷きムーブしている。[pcms]
 [fc]
 [vo_sat s="sato_chat0034"]
 [ns]Satto☆[nse]
-「そういえば、イベント会場はコスプレＯＫみたい。[r]
-　Taryanのコスプレって、生で見たことないから、[r]
-　それを見るのも楽しみかな？」[pcms]
+"By the way, it seems cosplay is okay at the event venue. I've never[r]
+seen Taryan's cosplay in person, so I'm looking forward to that too?"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_taja"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2827|
 [fc]
-Taryanさんはコスプレをする人なんだ。[pcms]
+Taryan-san is someone who does cosplay.[pcms]
 
 *2828|
 [fc]
-ゲーム内で衣装集めに凝っていると思ってはいたけど、[r]
-そっち系の人だったとは。[pcms]
+I knew she was into collecting outfits in the game, but I didn't[r]
+realize she was into that sort of thing.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2829|
 [fc]
-やっぱり麒麟系のコスプレをするのかな。[r]
-それともひらひらの癒し系？[pcms]
+I wonder if she'll do a kirin-themed cosplay or maybe something frilly[r]
+and healing?[pcms]
 
 [ChrSetEx layer=3 chbase="monb_taja"][ChrSetXY layer=3 x=-290 y=0]
 [ChrSetEx layer=4 chbase="monb_satt"][ChrSetXY layer=4 x=290 y=65][trans_c cross time=150]
@@ -1842,27 +1811,28 @@ Taryanさんはコスプレをする人なんだ。[pcms]
 [fc]
 [vo_tay s="taja_chat0015"]
 [ns]Taryan[nse]
-「最近、コスプレ自体してないから、久々にやるのもいいかも」[pcms]
+"I haven't done cosplay in a while, so it might be nice to do it[r]
+again."[pcms]
 
 *2831|
 [fc]
 [vo_sat s="sato_chat0035"]
 [ns]Satto☆[nse]
-「やってやって♪　Ma-Kun.Sも見たいよね？？」[pcms]
+"Do it, do it♪ Ma-Kun.S wants to see it too, right??"[pcms]
 
 ;//*_選択肢
 ;//1,楽しみ！  ラベル　tanosimiへ
 ;//2,Satto☆さんもやって！  ラベルsattoへ
 ;	[link target=*tanosimi]楽しみ！[endlink]
 ;	[link target=*satto]Satto☆さんもやって！[endlink]
-;	[s]
+;[pcms]
 
 *SEL02|楽しみ！／Satto☆さんもやって！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = '楽しみ！'"]
-[eval exp="f.seltext06 = 'Satto☆さんもやって！'"]
+[eval exp="f.seltext04 = 'Looking forward to it!'"]
+[eval exp="f.seltext06 = 'Satto☆, you do it too!'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -1905,7 +1875,7 @@ Taryanさんはコスプレをする人なんだ。[pcms]
 *2832|
 [fc]
 [ns]Ma-Kun.S[nse]
-「すんごい楽しみ！」[pcms]
+"I'm really looking forward to it!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="monb_satt_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -1914,7 +1884,7 @@ Taryanさんはコスプレをする人なんだ。[pcms]
 [fc]
 [vo_sat s="sato_chat0036"]
 [ns]Satto☆[nse]
-「ほらほら、楽しみだって！」[pcms]
+"See, he's looking forward to it!"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_taja_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1922,19 +1892,18 @@ Taryanさんはコスプレをする人なんだ。[pcms]
 [fc]
 [vo_tay s="taja_chat0016"]
 [ns]Taryan[nse]
-「あんまり、期待されても困る」[pcms]
+"Don't expect too much from me."[pcms]
 
 *2835|
 [fc]
-なんてTaryanさんは言うけれど、[r]
-僕のイマジネーションの世界では、[r]
-コスプレした彼女が精液まみれになっていた。[pcms]
+That's what Taryan-san says, but in my imagination, she's covered in[r]
+semen in her cosplay.[pcms]
 
 *2836|
 [fc]
-人気のない夜の海岸で岩場に誘われた僕は、[r]
-そこで岩に腰掛けたまま対面座位で[r]
-生膣内出しフィニッシュを決めている真っ最中だ。[pcms]
+On a deserted beach at night, I'm led to the rocks where I'm in the[r]
+midst of finishing inside her with a raw creampie while sitting face-[r]
+to-face on a rock.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1948,7 +1917,7 @@ Taryanさんはコスプレをする人なんだ。[pcms]
 *2837|
 [fc]
 [ns]Ma-Kun.S[nse]
-「Satto☆さんも一緒にやって欲しいな！」[pcms]
+"I'd like Satto☆-san to join in too!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="monb_satt_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -1957,7 +1926,7 @@ Taryanさんはコスプレをする人なんだ。[pcms]
 [fc]
 [vo_sat s="sato_chat0037"]
 [ns]Satto☆[nse]
-「あ、あたしは無理だって！」[pcms]
+"No, no way I can do that!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="monb_taja"][ChrSetXY layer=3 x=-290 y=0]
@@ -1967,17 +1936,17 @@ Taryanさんはコスプレをする人なんだ。[pcms]
 [fc]
 [vo_tay s="taja_chat0017"]
 [ns]Taryan[nse]
-「一緒……？」[pcms]
+"Together...?"[pcms]
 
 *2840|
 [fc]
-ダブルコスプレ少女に夜の岩陰に誘われて、[r]
-初めてを喪失したい！[pcms]
+I want to be lured into the shadows of the rocks at night by two[r]
+cosplaying girls and lose my virginity![pcms]
 
 *2841|
 [fc]
-二人が満足するまで何度でも元気にさせられて、[r]
-搾り取られたい！[pcms]
+I want to be made hard over and over again until both are satisfied[r]
+and be milked dry![pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1994,38 +1963,37 @@ Taryanさんはコスプレをする人なんだ。[pcms]
 [fc]
 [vo_sat s="sato_chat0038"]
 [ns]Satto☆[nse]
-「おっと、そろそろ０時なんで落ちるね」[pcms]
+"Oops, it's almost midnight so I'm going to log off."[pcms]
 
 *2843|
 [fc]
-なんだ、もうそんな時間になっていたのか。[pcms]
+What, it's already that time?[pcms]
 
 *2844|
 [fc]
-おしゃべりが楽しすぎて、すっかり忘れていた。[pcms]
+I was having so much fun chatting that I completely forgot about the[r]
+time.[pcms]
 
 *2845|
 [fc]
-ネトゲは、こういうコミュニケーションツールとしての[r]
-活躍があるわけだよなぁ。[pcms]
+Online games really do shine as tools for communication.[pcms]
 
 *2846|
 [fc]
 [vo_sat s="sato_chat0039"]
 [ns]Satto☆[nse]
-「イベントで会うの楽しみにしてるから！[r]
-　その前に、試験なんとかしなきゃだけどね！」[pcms]
+"I'm looking forward to meeting at the event! But before that, I've[r]
+got to somehow get through the exams!"[pcms]
 
 *2847|
 [fc]
-やっぱり、Satto☆さんも楽しみにしてくれている。[pcms]
+As expected, Satto☆-san is also looking forward to it.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2848|
 [fc]
-不可能なことじゃないぞ……、[r]
-一夏のアバンチュール。[pcms]
+It's not impossible... a summer adventure.[pcms]
 
 [ChrSetEx layer=3 chbase="monb_taja"][ChrSetXY layer=3 x=-290 y=0]
 [ChrSetEx layer=4 chbase="monb_satt"][ChrSetXY layer=4 x=290 y=65][trans_c cross time=150]
@@ -2034,35 +2002,35 @@ Taryanさんはコスプレをする人なんだ。[pcms]
 [fc]
 [vo_tay s="taja_chat0018"]
 [ns]Taryan[nse]
-「お休み」[pcms]
+"Good night"[pcms]
 
 *2850|
 [fc]
 [ns]Ma-Kun.S[nse]
-「お休み、また今度」[pcms]
+"Good night, see you next time"[pcms]
 
 *2851|
 [fc]
 [vo_sat s="sato_chat0040"]
 [ns]Satto☆[nse]
-「おやすみなさーい！」[pcms]
+"Good night!"[pcms]
 
 [chara_int_ layer=4][trans_c bt time=1000]
 
 *2852|
 [fc]
-Satto☆さんが落ちてしまうと、[r]
-無口なTaryanさんと三人になってしまう。[pcms]
+Once Satto☆-san logs off, it's just the three of us left with the[r]
+silent Taryan-san.[pcms]
 
 *2853|
 [fc]
-そーいちは風呂にでも入っているのか、[r]
-全くの無反応だった。[pcms]
+Souichi must be in the bath or something; he's completely[r]
+unresponsive.[pcms]
 
 *2854|
 [fc]
 [ns]Ma-Kun.S[nse]
-「楽しみだね」[pcms]
+"It's going to be fun."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="monb_taja_up"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -2071,116 +2039,111 @@ Satto☆さんが落ちてしまうと、[r]
 [fc]
 [vo_tay s="taja_chat0019"]
 [ns]Taryan[nse]
-「うん」[pcms]
+"Yeah."[pcms]
 
 *2856|
 [fc]
-Taryanさんはどんな人なんだろうか。[pcms]
+I wonder what kind of person Taryan-san is.[pcms]
 
 *2857|
 [fc]
-Satto☆さんとは、タイプが違うと思うけど、[r]
-やっぱり小麦色の島っ子なのかな。[pcms]
+I think she's different from Satto☆-san, but maybe she's also a tanned[r]
+island girl?[pcms]
 
 *2858|
 [fc]
 [vo_tay s="taja_chat0020"]
 [ns]Taryan[nse]
-「新しいモンスターも楽しみだけど、[r]
-　新装備がもっと楽しみ」[pcms]
+"I'm looking forward to the new monsters, but I'm even more excited[r]
+about the new gear."[pcms]
 
 ;//m:なんか動かすか
 
 *2859|
 [fc]
-いきなり、Taryanさんがかわいい[r]
-ワクワクムーブをはじめた。[pcms]
+Suddenly, Taryan-san started to get excited in a cute way.[pcms]
 
 *2860|
 [fc]
-こんなことするのは珍しいような気もする。[pcms]
+It feels rare for her to act like this.[pcms]
 
 *2861|
 [fc]
 [vo_tay s="taja_chat0021"]
 [ns]Taryan[nse]
-「小型剣とおそろいの盾が欲しい」[pcms]
+"I want a matching shield for my small sword."[pcms]
 
 *2862|
 [fc]
-楽しみって、そっちですか……、[r]
-僕たちに興味はない感じだな。[pcms]
+So that's what you're looking forward to... It seems like you're not[r]
+interested in us.[pcms]
 
 *2863|
 [fc]
-あくまでゲーム内での付き合いって感じに、[r]
-割り切ってそうな気がする。[pcms]
+It feels like she's strictly about in-game relationships.[pcms]
 
 *2864|
 [fc]
-でも、こっちはTaryanさんのコスプレが楽しみで、[r]
-燃えまくってるんだけどね！[pcms]
+But I'm really looking forward to Taryan-san's cosplay, it's firing me[r]
+up![pcms]
 
 *2865|
 [fc]
 [ns]Ma-Kun.S[nse]
-「それにしても、Taryanさんが[r]
-　コスプレするなんて知らなかった」[pcms]
+"I had no idea Taryan-san was into cosplay."[pcms]
 
 *2866|
 [fc]
 [vo_tay s="taja_chat0022"]
 [ns]Taryan[nse]
-「京都に住んでいた頃は、よくイベントに参加していたんだけど、[r]
-　最近はご無沙汰してた」[pcms]
+"When I lived in Kyoto, I used to participate in events often, but I[r]
+haven't been active recently."[pcms]
 
 *2867|
 [fc]
 [ns]Ma-Kun.S[nse]
-「じゃあ、もう慣れてるんだ」[pcms]
+"So you're already used to it then."[pcms]
 
 *2868|
 [fc]
 [vo_tay s="taja_chat0023"]
 [ns]Taryan[nse]
-「せっかくの５ＩＥイベントだし、[r]
-　ちょっと気合いを入れてみる」[pcms]
+"Since it's a special 5IE event, I thought I'd put in a little extra[r]
+effort."[pcms]
 
 *2869|
 [fc]
-そうか、京都に住んでいたのに引っ越してきたのか。[pcms]
+So she moved here from Kyoto, huh?[pcms]
 
 *2870|
 [fc]
-Satto☆さんなら、無口な転校生とか、[r]
-放っておけない気がする。[pcms]
+If it were Satto☆-san, she wouldn't be able to leave a quiet transfer[r]
+student alone.[pcms]
 
 *2871|
 [fc]
-でも、なんだかワクワクムーブが似合ってなくて、[r]
-少し恐い。[pcms]
+But somehow her excitement doesn't seem to suit her, it's a bit scary.[pcms]
 
 *2872|
 [fc]
 [vo_tay s="taja_chat0024"]
 [ns]Taryan[nse]
-「そろそろ落ちるね」[pcms]
+"I'm going to log off soon."[pcms]
 
 *2873|
 [fc]
-どんなコスプレしてるのか聞きたかったけど、[r]
-時間になってしまったみたいだ。[pcms]
+I wanted to ask what kind of cosplay she's doing, but it seems like[r]
+it's time.[pcms]
 
 *2874|
 [fc]
-下着じゃないから恥ずかしくないもん！[r]
-クラスのエロコスとか期待しちゃうんだけど、[r]
-さすがに聞けない。[pcms]
+It's not underwear, so it's not embarrassing! I'm expecting some[r]
+erotic cosplay from the class, but I can't really ask that.[pcms]
 
 *2875|
 [fc]
 [ns]Ma-Kun.S[nse]
-「うん、お休みなさい」[pcms]
+"Yeah, good night."[pcms]
 
 ;//m:またムーブか……
 
@@ -2188,211 +2151,207 @@ Satto☆さんなら、無口な転校生とか、[r]
 
 *2876|
 [fc]
-Taryanさんは、剣を捧げ持つ礼のムーブをすると、[r]
-そのまま消えてしまった。[pcms]
+Taryan-san performed a bowing gesture as if offering a sword and then[r]
+disappeared.[pcms]
 
 *2877|
 [fc]
-いつもなら、髪をかき上げるムーブをするのに、[r]
-やっぱり楽しみなのかな。[pcms]
+Usually, she would do a hair-flipping gesture, maybe she's really[r]
+looking forward to it?[pcms]
 
 *2878|
 [fc]
-[ns]誠[nse]
-「それにしても……」[pcms]
+[ns]Makoto[nse]
+"Even so..."[pcms]
 
 *2879|
 [fc]
-こんな熱い展開が残されていたなんて、[r]
-思いもしなかった。[pcms]
+I never imagined such an exciting development was in store.[pcms]
 
 *2880|
 [fc]
-これは、人生に三度あると言われているモテ期が、[r]
-僕にも来ているんじゃないのか！？[pcms]
+This must be one of those thrice-in-a-lifetime lucky streaks coming my[r]
+way![pcms]
 
 *2881|
 [fc]
-これは宇宙の意思が、夏のリゾートアイランドで、[r]
-かわいいあの子とヌルヌル初体験、生膣内射精セックスを[r]
-決めろと促しているに違いない。[pcms]
+This is the universe telling me to have a slippery first experience[r]
+with a cute girl on the summer resort island and go for creampie sex.[pcms]
 
 *2882|
 [fc]
-しかも、かわいいあの子のラインナップが最高すぎて、[r]
-胸の動悸と勃起の血流が治まらなくなっている。[pcms]
+And the lineup of cute girls is just too amazing, my heart is racing[r]
+and the blood flow to my erection won't calm down.[pcms]
 
 *2883|
 [fc]
-このままじゃ、貧血で死ぬかも知れない。[pcms]
+If this keeps up, I might die of anemia.[pcms]
 
 *2884|
 [fc]
-いや、むしろもうすぐ死ぬからこんないいことが[r]
-重なっているのかも……？[pcms]
+No, maybe I'm about to die and that's why all these good things are[r]
+happening...?[pcms]
 
 *2885|
 [fc]
-麻雀でも、上がったら死ぬと言われている役があるし、[r]
-運命定量論からしても、この後に死ぬのは[r]
-十分予測される。[pcms]
+In mahjong, there's a hand that says you die if you win it, and[r]
+according to the theory of fate quantity, dying afterwards is quite[r]
+predictable.[pcms]
 
 *2886|
 [fc]
-でも、この運命を決めた死神に一つ言いたい。[pcms]
+But I have one thing to say to the grim reaper who decided this fate.[pcms]
 
 *2887|
 [fc]
-命の取り立ては家に帰ってから……、[r]
-島で誰かと結ばれるまで待っていてください！[pcms]
+Please wait with the collection of my life until after I get back[r]
+home... wait until I've made a connection with someone on the island![pcms]
 
 *2888|
 [fc]
-[ns]誠[nse]
-「いや、でも……」[pcms]
+[ns]Makoto[nse]
+"No, but..."[pcms]
 
 *2889|
 [fc]
-Satto☆さんとTaryanさんが、[r]
-越智さんや南先輩くらいかわいいとは限らない。[pcms]
+Satto☆-san and Taryan-san might not be as cute as Ochi-san or Senior[r]
+Minami.[pcms]
 
 *2890|
 [fc]
-コスプレはポイント高いんだけど、[r]
-それだけで決めてしまってもいいのか！？[pcms]
+Cosplay scores high points, but is it okay to decide just on that!?[pcms]
 
 *2891|
 [fc]
-もし仮にだけど、そうでもないレベルの子に、[r]
-夜の浜辺で誘われたらどうしよう。[pcms]
+If hypothetically they're not that level and I get invited on the[r]
+beach at night, what should I do?[pcms]
 
 *2892|
 [fc]
-抱けない高嶺の花か、抱ける野に咲く花か。[pcms]
+A high-maintenance beauty out of reach or a wildflower within grasp?[pcms]
 
 *2893|
 [fc]
-これは、実に深淵かつクリティカルな問題だ。[pcms]
+This is indeed a profound and critical issue.[pcms]
 
 *2894|
 [fc]
 [ns]Ma-Kun.S[nse]
-「Fatty.Gは、二人のことどう思う？」[pcms]
+"Fatty.G, what do you think about the two of them?"[pcms]
 
 [ChrSetEx layer=5 chbase="monb_fatty"][ChrSetXY layer=5 x=-110 y=130][trans_c cross time=150]
 
 *2895|
 [fc]
-そーいちは無反応のまま、棒立ちだった。[pcms]
+Souichi remained unresponsive, just standing there like a statue.[pcms]
 
 *2896|
 [fc]
-まさか、嬉しさのあまりにショック死したか？[pcms]
+Could it be that he's shocked to death from too much happiness?[pcms]
 
 [eval exp="f.chara_x = -110,f.chara_y = 130"][quake_chara layer=5 lo xy m]
 
 *2897|
 [fc]
 [ns]Fatty.G[nse]
-「あれ、二人は？」[pcms]
+"Hey, where are the two of them?"[pcms]
 
 *2898|
 [fc]
 [ns]Ma-Kun.S[nse]
-「記憶が飛んだか？　さっき落ちただろうが」[pcms]
+"Did you lose your memory? They fell just a while ago."[pcms]
 
 *2899|
 [fc]
-すると、そーいちはうなだれるムーブで[r]
-その場に崩れ落ちる。[pcms]
+Then, Souichi collapses on the spot with a dejected mien.[pcms]
 
 *2900|
 [fc]
 [ns]Fatty.G[nse]
-「挨拶もしないで、失礼なことをしてしまった」[pcms]
+"I was rude not to greet them before leaving."[pcms]
 
 *2901|
 [fc]
 [ns]Ma-Kun.S[nse]
-「なにかあった？」[pcms]
+"Did something happen?"[pcms]
 
 *2902|
 [fc]
-電話でも掛かってきたか、機械の調子が悪かったか、[r]
-なにかアクシデントがあったっぽい。[pcms]
+Either he got a phone call, or there was a problem with some[r]
+machinery, it seemed like there was some kind of accident.[pcms]
 
 *2903|
 [fc]
-このジェントルマンを目指す男が、[r]
-挨拶も無しとは珍しいと思った。[pcms]
+I thought it was unusual for this gentleman who aims to be polite to[r]
+leave without a greeting.[pcms]
 
 *2904|
 [fc]
 [ns]Fatty.G[nse]
-「飲んでたアールグレイを吹いてしまって、[r]
-　テレビも端末も大変なことになってた」[pcms]
+"I ended up spitting out the Earl Grey I was drinking, and both the TV[r]
+and my device are a mess now."[pcms]
 
 *2905|
 [fc]
-やっぱり紅茶吹いてたのかよ！[pcms]
+So he really did spit out his tea![pcms]
 
 *2906|
 [fc]
-お約束な友人に、すっかり流されてしまった二人の会話を、[r]
-適当に思い出しながら教えてやる。[pcms]
+I relay the conversation of the two, who were completely carried away[r]
+by our predictable friend, as I vaguely remember it.[pcms]
 
 *2907|
 [fc]
-特に、Taryanさんのコスプレの辺りは、[r]
-熱く語っておいた。[pcms]
+Especially about Taryan-san's cosplay, I made sure to speak[r]
+passionately.[pcms]
 
 *2908|
 [fc]
 [ns]Fatty.G[nse]
-「それは素敵な話だけど、世の中不況なのなの」[pcms]
+"That's a lovely story, but the world is in a recession."[pcms]
 
 *2909|
 [fc]
 [ns]Ma-Kun.S[nse]
-「おい……」[pcms]
+"Hey..."[pcms]
 
 *2910|
 [fc]
-冷静な振りしてるけど、相当に錯乱してるな。[pcms]
+He's pretending to be calm, but he's quite disoriented.[pcms]
 
 *2911|
 [fc]
-言ってる意味が全くわからん。[pcms]
+I have no idea what he's talking about.[pcms]
 
 *2912|
 [fc]
 [ns]Fatty.G[nse]
-「いいことが重なり過ぎて恐いよ！[r]
-　もうすぐ死ぬのかも……」[pcms]
+"It's scary when too many good things happen at once! I might die[r]
+soon..."[pcms]
 
 *2913|
 [fc]
 [ns]Ma-Kun.S[nse]
-「なんで僕と同じ事考えてるんだよ！」[pcms]
+"Why are you thinking the same thing as me!"[pcms]
 
 *2914|
 [fc]
-変なところで似ているから困る。[pcms]
+It's troublesome how we're similar in strange ways.[pcms]
 
 *2915|
 [fc]
-僕とそーいちじゃ、パーソナリティが全然違うのに。[pcms]
+Even though Souichi and I have completely different personalities.[pcms]
 
 *2916|
 [fc]
 [ns]Fatty.G[nse]
-「でも、合宿でコスプレを見るチャンスは中々ない」[pcms]
+"But it's rare to get a chance to see cosplay at a training camp."[pcms]
 
 *2917|
 [fc]
 [ns]Ma-Kun.S[nse]
-「モンバスのコスプレなら、[r]
-　空気を読んでエロ装備系でくる可能性あるよな？」[pcms]
+"If it's Monbas cosplay, there's a chance she'll come in ero gear,[r]
+reading the mood, right?"[pcms]
 
 ;//◆ＳＥ　誠の携帯のメール着信音
 ;//se***.ogg
@@ -2403,74 +2362,73 @@ Satto☆さんとTaryanさんが、[r]
 
 *2918|
 [fc]
-うん？[pcms]
+Huh?[pcms]
 
 *2919|
 [fc]
-携帯にメールが着信した。[r]
-誰からだろうか。[pcms]
+I received an email on my phone. I wonder who it's from.[pcms]
 
 *2920|
 [fc]
-名前を確認すると、送信主はそーいちだった。[pcms]
+When I check the name, the sender was Souichi.[pcms]
 
 [chara_int_top][trans_c cross time=500]
 
 *2921|
 [fc]
-話してる側から、なんのメールだよ。[r]
-メッセージ無しで画像添付のみって……。[pcms]
+What kind of email is this from someone I'm talking to? Just an image[r]
+attached without any message...[pcms]
 
 *2922|
 [fc]
 [ns]Fatty.G[nse]
-「そういうの見たいな」[pcms]
+"I'd like to see that."[pcms]
 
 ;//■イベントCG　mob_N021　金髪巨乳のコスプレイヤー（女戦士コスのライラ。ターヤが見切れてる。）
 [evcg storage="mob_N021a"][trans_c cross time=300]
 
 *2923|
 [fc]
-画像を開くと、金髪巨乳コスプレイヤーの画像だった。[pcms]
+When I opened the image, it was a picture of a blonde, big-breasted[r]
+cosplayer.[pcms]
 
 *2924|
 [fc]
-これは僕の『オナペット・ランキング２０１１』[r]
-７／１６現在第４位の金髪レイヤーじゃないか！[r]
-しかも、僕が持っていない画像だ！[pcms]
+This is the blonde cosplayer who is currently ranked 4th in my "Onapet[r]
+Ranking 2011" as of July 16! And it's an image I don't have![pcms]
 
 *2925|
 [fc]
 [ns]Fatty.G[nse]
-「その子、誠のランキング３位だったかな？」[pcms]
+"That girl, was she ranked 3rd in Makoto's list?"[pcms]
 
 *2926|
 [fc]
 [ns]Ma-Kun.S[nse]
-「……うん、そうだね」[pcms]
+"...Yeah, that's right."[pcms]
 
 *2927|
 [fc]
-ちなみに、僕のランキングはこうなっている。[pcms]
+By the way, my ranking is as follows.[pcms]
 
 *2928|
 [fc]
-５位：グラビアアイドルの大池里奈[p][r]
-４位：この画像コスプレイヤー[p][r]
-３位：渋谷のライバル校・神南学園水泳部の神凪悠帆。[pcms]
+Gravure idol Rina Oike(p) 4th place: This cosplayer(p) 3rd place:[r]
+Kanagi Yuho from Shibuya's rival school, Kannami Academy's swimming[r]
+club.[pcms]
 
 *2929|
 [fc]
-２位：越智さん。[pcms]
+Ochi-san.[pcms]
 
 *2930|
 [fc]
-１位：姉ちゃん！[pcms]
+Big sister![pcms]
 
 *2931|
 [fc]
-でも、他人に言うときは１位の姉ちゃんを外してる。[r]
-もちろん、そーいちにも。[pcms]
+But when I tell others, I leave out the 1st place big sister. Of[r]
+course, that includes Souichi too.[pcms]
 
 ;//★monbBG_01a モンバス キャンプ有り
 [evcg storage="monbBG_01b"]
@@ -2479,31 +2437,30 @@ Satto☆さんとTaryanさんが、[r]
 *2932|
 [fc]
 [ns]Fatty.G[nse]
-「ここまでじゃなくても、Taryanさんが[r]
-　これに近いエロさだったら最高に嬉しいな」[pcms]
+"Even if it's not to this extent, I'd be really happy if Taryan-san[r]
+had a similar level of sexiness."[pcms]
 
 *2933|
 [fc]
-それにしても、そろそろ限界だ……。[pcms]
+But still, I'm reaching my limit...[pcms]
 
 *2934|
 [fc]
-今日は本当に忙しい一日だったけど、[r]
-最後の最後まで忙しいとは。[pcms]
+Today has been a really busy day, but to be busy until the very end...[pcms]
 
 *2935|
 [fc]
-僕は、マウンテンヂューを一口呑んで落ち着くと、[r]
-肝心なことをそーいちに確かめた。[pcms]
+I take a sip of Mountain Dew to calm down and then confirm the[r]
+important matter with Souichi.[pcms]
 
 *2936|
 [fc]
 [ns]Ma-Kun.S[nse]
-「ところで宗一郎くん？　この画像、どこで拾って来たの？」[pcms]
+"By the way, Souichirou-kun? Where did you pick up this image?"[pcms]
 
 *2937|
 [fc]
-僕の夜は、まだまだ終わりそうにもなかった。[pcms]
+My night was far from over.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

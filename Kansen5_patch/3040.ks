@@ -27,94 +27,94 @@
 
 *1221|
 [fc]
-[ns]誠[nse]
-「うわぁ……」[pcms]
+[ns]Makoto[nse]
+"Uwaa..."[pcms]
 
 *1222|
 [fc]
-[ns]宗一郎[nse]
-「うむ、壮観な眺めだな」[pcms]
+[ns]Souichirou[nse]
+"Hmm, what a magnificent view."[pcms]
 
 ;//bgm22.ogg
 [bgm storage="BGM22"]
 
 *1223|
 [fc]
-自転車でビーチにやってくると、[r]
-そこはもう、まさに芋洗いというべき状態だった。[pcms]
+When we arrived at the beach by bicycle, it was already in a state[r]
+that could only be described as a potato washing.[pcms]
 
 *1224|
 [fc]
-ライブフェスの会場も近くにあるので、[r]
-来客が多いのかも知れない。[pcms]
+There's a live festival venue nearby, so maybe that's why there are so[r]
+many visitors.[pcms]
 
 *1225|
 [fc]
-よく見ると、あちこちにコスプレをした人たちがたむろして、[r]
-写真を撮ったりしている。[pcms]
+Looking closer, there are people in cosplay gathered here and there,[r]
+taking pictures.[pcms]
 
 *1226|
 [fc]
-そのコスプレはモンバス関係のものがほとんどで、[r]
-ここが会場になっていることを窺わせていた。[pcms]
+Most of the cosplay is related to Monbas, suggesting that this place[r]
+is one of the event venues.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so13b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1227|
 [fc]
-[ns]宗一郎[nse]
-「あれを見ろ、物騒だぞ」[pcms]
+[ns]Souichirou[nse]
+"Look over there, it's quite dangerous."[pcms]
 
 *1228|
 [fc]
-[ns]誠[nse]
-「ん……？」[pcms]
+[ns]Makoto[nse]
+"Hm...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1229|
 [fc]
-そーいちに言われた先を見ると、[r]
-パトカーと救急車が止まっているのが見えた。[pcms]
+Looking in the direction Souichirou pointed, I could see police cars[r]
+and ambulances stopped.[pcms]
 
 *1230|
 [fc]
-また事故かなんかだろうか。[pcms]
+It might be another accident or something.[pcms]
 
 *1231|
 [fc]
-ちょっとした人だかりができていて、[r]
-担架で血だらけの人が運ばれている。[pcms]
+A small crowd had formed, and someone covered in blood was being[r]
+carried away on a stretcher.[pcms]
 
 *1232|
 [fc]
-その隣のパトカーを見ると、暴れている若い男を[r]
-警察官が取り押さえて、後部座席に押し込むところだった。[pcms]
+Next to the police car, I saw officers restraining a young man who was[r]
+acting violently and pushing him into the back seat.[pcms]
 
 *1233|
 [fc]
-事故と言うよりも、喧嘩とか傷害とか、[r]
-そっち関係の案件らしい。[pcms]
+It seems more like a case related to a fight or assault rather than an[r]
+accident.[pcms]
 
 *1234|
 [fc]
-この芋洗い状態じゃ声が聞こえてこないけれど、[r]
-男がなにか叫んでいる。[pcms]
+In this potato-washing chaos, we can't hear any voices, but the man[r]
+seems to be shouting something.[pcms]
 
 *1235|
 [fc]
-正確さには欠けるけれど、周りのひそひそ話を聞くに、[r]
-どうやら男が他の客に噛みついたらしい。[pcms]
+Although it's not clear, from the whispers around us, it seems that[r]
+the man bit another customer.[pcms]
 
 *1236|
 [fc]
-殴る蹴るならともかく、噛みつくというのは珍しい気がする。[r]
-酔っぱらいか、危ないクスリでもやっていたか。[pcms]
+Biting is unusual compared to hitting or kicking. Maybe he was drunk[r]
+or on some dangerous drugs.[pcms]
 
 *1237|
 [fc]
-そういえば、昨日跳ねられた中年の船員も、[r]
-酔っぱらっていたんだっけ？[pcms]
+Come to think of it, the middle-aged sailor who was hit yesterday was[r]
+also drunk, wasn't he?[pcms]
 
 ;//ここより指示に合わせて改変（た）
 
@@ -122,44 +122,43 @@
 
 *1238|
 [fc]
-[ns]宗一郎[nse]
-「待ち合わせの時間にはまだ余裕があるみたいだな」[pcms]
+[ns]Souichirou[nse]
+"It looks like we still have some time before our meeting."[pcms]
 
 *1239|
 [fc]
-[ns]誠[nse]
-「ん」[pcms]
+[ns]Makoto[nse]
+"Mhm."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so03b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1240|
 [fc]
-[ns]宗一郎[nse]
-「それまで、炎天下にいるのも芸がない。[r]
-　さすがにちょっと暑いので、かき氷でも食べて[r]
-　涼をとらないか？」[pcms]
+[ns]Souichirou[nse]
+"Then, staying out in this blazing sun lacks refinement. It's quite[r]
+hot indeed, so shall we cool off with some shaved ice?"[pcms]
 
 *1241|
 [fc]
-[ns]誠[nse]
-「まだ、来たばっかりなのに……でも賛成。[r]
-　ちょっとこの熱気と人混みはデヴにはきついよな」[pcms]
+[ns]Makoto[nse]
+"We just got here... but I agree. This heat and crowd are a bit too[r]
+much for a dev like me."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so13b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1242|
 [fc]
-[ns]宗一郎[nse]
-「俺が太っていることと、この暑さとの因果関係はさておき[r]
-　とっとと避難しよう。溶けそうだ」[pcms]
+[ns]Souichirou[nse]
+"Let's set aside the causal relationship between my weight and this[r]
+heat and seek refuge quickly. I feel like I'm melting."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1243|
 [fc]
-僕たちは、強烈な太陽光線を避けるように、[r]
-手近で目についた海の家へとそそくさと逃げ込んだ。[pcms]
+We hurried into a beach hut that caught our eye as if to escape the[r]
+intense sunlight.[pcms]
 
 ;//★bg05a ビーチ（＆ライブフェス会場外観）・朝昼
 [bg storage="BG05a"][trans_c cross time=500]
@@ -167,253 +166,259 @@
 *1244|
 [fc]
 [vo_mob s="shop0001"]
-[ns]店員[nse]
-「いらっしゃいませー。お好きな席へどうぞ～♪」[pcms]
+[ns]Clerk[nse]
+"Welcome! Please take any seat you like~♪"[pcms]
 
 *1245|
 [fc]
-元気のいい店員さんの声に迎えられて、僕とそーいちは[r]
-ちょうど空いていたテーブルに陣取った。[pcms]
+Greeted by the energetic voice of the clerk, Souichirou and I took[r]
+over a table that had just become available.[pcms]
 
 *1246|
 [fc]
-[ns]誠[nse]
-「そーいち、何にする？」[pcms]
+[ns]Makoto[nse]
+"Souichirou, what will you have?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1247|
 [fc]
-[ns]宗一郎[nse]
-「やはり英国紳士たるもの、トラディショナルに[r]
-　ここは氷イチゴで」[pcms]
+[ns]Souichirou[nse]
+"As a British gentleman should, I shall traditionally go with the[r]
+strawberry ice."[pcms]
 
 *1248|
 [fc]
-[ns]誠[nse]
-「どこが英国紳士なんだよ……僕はアズキミルク、お願いします」[pcms]
+[ns]Makoto[nse]
+"Since when are you a British gentleman... I'll have the azuki milk,[r]
+please."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so30b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1249|
 [fc]
 [vo_mob s="shop0002"]
-[ns]店員[nse]
-「は～い、少々お待ちくださ～い」[pcms]
+[ns]Clerk[nse]
+"Okay, please wait a moment~"[pcms]
 
 *1250|
 [fc]
-オレンジのバンダナを三角巾のように頭に被っている、[r]
-女の子の店員が、元気よくオーダーを受けてくれた。[pcms]
+A girl clerk with an orange bandana tied like a headscarf cheerfully[r]
+took our order.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so11b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1251|
 [fc]
-[ns]宗一郎[nse]
-「むふふ……褐色の肌のロリっ娘というのも、[r]
-　これはこれで、なかなか趣深いもので……」[pcms]
+[ns]Souichirou[nse]
+"Mufufu... A tanned loli girl has its own profound charm..."[pcms]
 
 *1252|
 [fc]
-[ns]誠[nse]
-「あ、いまの笑顔のかわいい店員さんのことか？」[pcms]
+[ns]Makoto[nse]
+"Ah, you mean the cute smiling clerk just now?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so04w"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1253|
 [fc]
-[ns]宗一郎[nse]
-「いかにも。あの凹凸の少ない体型と口元に光る八重歯、[r]
-　髪型などは典型的なロリータのそれであるにも関わらず、[r]
-　褐色の肌というのはミスマッチかと思ったが……」[pcms]
+[ns]Souichirou[nse]
+"Indeed. Despite her typical lolita hairstyle and the charming double[r]
+teeth shining at her mouth corner, her tanned skin seemed mismatched[r]
+at first..."[pcms]
 
 *1254|
 [fc]
-[ns]誠[nse]
-「『だが、それがいい』だろ？　どうする、写メ残しとくか？」[pcms]
+[ns]Makoto[nse]
+"'But that's what's good about it', right? What do you say, should we[r]
+take a photo to remember?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1255|
 [fc]
-[ns]宗一郎[nse]
-「悩ましいところだが、ここはスルーして[r]
-　その代わり、しっかり目に焼き付けることとしようぞ」[pcms]
+[ns]Souichirou[nse]
+"Tempting, but let's pass on that and instead burn the image into our[r]
+memories."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1256|
 [fc]
-店がそこそこ混んでいるのをいいことに、僕とそーいちは[r]
-水着姿で忙しく立ち回る、その褐色ロリっ娘な店員さんの[r]
-体を、穴が空くほどガン見していた。[pcms]
+Taking advantage of the crowded shop, Souichirou and I were blatantly[r]
+staring at the tanned loli girl clerk as she busily moved around in[r]
+her swimsuit.[pcms]
 
 *1257|
 [fc]
 [vo_mob s="shop0003"]
-[ns]店員[nse]
-「はい、氷イチゴとアズキミルク、お待たせしましたっ！」[pcms]
+[ns]Clerk[nse]
+"Here you go, strawberry ice and azuki milk. Sorry for the wait!"[pcms]
 
 *1258|
 [fc]
-ガン見されていたとは露ほども知らない店員さんが[r]
-八重歯の見える魅力的な笑顔で、氷イチゴとアズキミルクを[r]
-運んできた。[pcms]
+The clerk, unaware she had been stared at so intensely, brought us our[r]
+strawberry ice and azuki milk with an attractive smile showing her[r]
+double teeth.[pcms]
 
 *1259|
 [fc]
-[ns]誠[nse]
-「あ、そう言えば、僕、今年初かき氷かも」[pcms]
+[ns]Makoto[nse]
+"Ah, come to think of it, this might be my first shaved ice of the[r]
+year."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1260|
 [fc]
-[ns]宗一郎[nse]
-「言われてみれば俺もそうだな。では、いただきますか！」[pcms]
+[ns]Souichirou[nse]
+"Now that you mention it, it might be my first as well. Shall we dig[r]
+in?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1261|
 [fc]
-スプーンを手に、涼しげなガラスの器に山と盛られたかき氷に[r]
-僕たちはかぶりついた。[pcms]
+With spoons in hand, we bit into the shaved ice piled high in the cool[r]
+glass bowls.[pcms]
 
 *1262|
 [fc]
-口の中に放り込むとほろりと溶けて、涼しさだけが残る。[pcms]
+As soon as it entered our mouths, it melted instantly, leaving only a[r]
+refreshing coolness behind.[pcms]
 
 *1263|
 [fc]
-[ns]誠[nse]
-「んー、んまいっ。やっぱり夏はかき氷だよなあ」[pcms]
+[ns]Makoto[nse]
+"Mmm, delicious. Shaved ice really is the essence of summer, isn't[r]
+it?"[pcms]
 
 *1264|
 [fc]
-僕もそーいちも、夢中になってかき氷を口に運ぶ。[r]
-しゃくしゃくとした感触が心地良い。[pcms]
+Souichirou and I, engrossed, continued to bring spoonfuls of shaved[r]
+ice to our mouths. The crunchy texture was pleasantly satisfying.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1265|
 [fc]
-[ns]宗一郎[nse]
-「夏の季語にもなってるくらいの食物は、やはり一年に一回は[r]
-　口にしたいところで……つっ！」[pcms]
+[ns]Souichirou[nse]
+"A food that's even become a seasonal word for summer... indeed, it's[r]
+something you want to taste at least once a year... Ah!"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so27a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1266|
 [fc]
-そーいちが言葉に詰まったのとほぼ同時に、僕のこめかみにも[r]
-キーンと痛みが走っていた。[pcms]
+Almost simultaneously with Souichirou's words getting stuck, a sharp[r]
+pain ran through my temples.[pcms]
 
 *1267|
 [fc]
-[ns]誠[nse]
-「あ、あいててて……かき氷って、これがあるんだよな……」[pcms]
+[ns]Makoto[nse]
+"Ow, ow, ow... That's the thing with shaved ice..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so26a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1268|
 [fc]
-[ns]宗一郎[nse]
-「これもまた、夏の風物詩……とはいえ、痛いものは痛いな……[r]
-　あ、いたたたた……」[pcms]
+[ns]Souichirou[nse]
+"This too is a part of summer's charm... but painful is still[r]
+painful... Ah, ouch..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1269|
 [fc]
-僕とそーいちは、時折キーンとこめかみに走る痛みを[r]
-こらえつつ、かき氷のスプーンを走らせた。[pcms]
+Souichirou and I continued to spoon up the shaved ice, occasionally[r]
+enduring the sharp pains shooting through our temples.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1270|
 [fc]
-[ns]宗一郎[nse]
-「ん……なんだ、あれ？」[pcms]
+[ns]Souichirou[nse]
+"Hmm... What's that over there?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1271|
 [fc]
-ふと、そーいちがそう言って指さした方向には、なんだか[r]
-具合の悪そうな男が、店員さんに介抱されているのが見えた。[pcms]
+Just as Souichirou pointed, we could see a man who seemed to be[r]
+feeling unwell being attended to by a clerk.[pcms]
 
 *1272|
 [fc]
-[ns]男[nse]
-「う、うう……ゴホッゴホホッ！　ゲホゲホッ！！」[pcms]
+[ns]Male[nse]
+"Ugh, ugh... Cough! Cough cough!!"[pcms]
 
 *1273|
 [fc]
 [vo_mob s="shop0004"]
-[ns]店員[nse]
-「だ、大丈夫ですか？　お客さまぁ……？」[pcms]
+[ns]Clerk[nse]
+"Are you okay? Sir...?"[pcms]
 
 *1274|
 [fc]
-男の顔は土気色になっていて、しきりと咳き込んでいる。[r]
-まるで喘息みたいに呼吸が苦しそうだ。[pcms]
+The man's face had turned pale, and he was coughing incessantly. His[r]
+breathing seemed as troubled as if he had asthma.[pcms]
 
 *1275|
 [fc]
-苦しそうに咳き込む男の背中を、さっき僕たちがガン見していた[r]
-健康的な褐色の肌をしたロリっぽい店員さんがさすっている。[pcms]
+The tanned loli-like clerk, whose healthy skin we had been ogling[r]
+earlier, was now patting the back of the man who was coughing[r]
+painfully.[pcms]
 
 *1276|
 [fc]
-[ns]宗一郎[nse]
-「海の家の店員さんって言うのも、結構大変なんだな……」[pcms]
+[ns]Souichirou[nse]
+"Being a clerk at a beach house seems to be quite tough..."[pcms]
 
 *1277|
 [fc]
-苦しそうな男の顔色と、介抱している店員さんの[r]
-健康的な肌の色とがあまりにも対照的で……。[pcms]
+The contrast between the man's pained complexion and the healthy skin[r]
+color of the attending clerk was striking...[pcms]
 
 *1278|
 [fc]
-なんだかその光景が、僕は妙に心に残った。[pcms]
+Somehow, that scene remained vividly in my mind.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1279|
 [fc]
-…………………………………………。[pcms]
+...[pcms]
 
 *1280|
 [fc]
-………………………………。[pcms]
+...[pcms]
 
 *1281|
 [fc]
-……………………。[pcms]
+...[pcms]
 
 ;//bg05a ビーチ（＆ライブフェス会場外観）・朝昼
 [bg storage="BG05a"][trans_c cross time=500]
 
 *1282|
 [fc]
-かき氷を食べ終えた僕たちは、再びじりじりと照りつける日差しと[r]
-ごったがえす人ごみの中に戻った。[pcms]
+Having finished our shaved ice, we returned to the scorching sunlight[r]
+and the crowded throng of people.[pcms]
 
 *1283|
 [fc]
-そろそろ、ターヤさんとの待ち合わせの時間が近い。[pcms]
+It was almost time to meet up with Tarja-san.[pcms]
 
 *1284|
 [fc]
-[ns]誠[nse]
-「ふぃー、やっぱりあっついなあ……」[pcms]
+[ns]Makoto[nse]
+"Phew, it's really hot indeed..."[pcms]
 
 *1285|
 [fc]
-心なしか、海の家に逃げ込む前よりも[r]
-人の数が増えてるように思える。[pcms]
+It seemed as if there were even more people than before we had sought[r]
+refuge in the beach house.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -424,20 +429,21 @@
 
 *1286|
 [fc]
-遠くから救急車のサイレンの音が聞こえてきた。[pcms]
+The sound of an ambulance siren could be heard in the distance.[pcms]
 
 *1287|
 [fc]
-なんだか、昨日からあちこちでサイレンが聞こえてくる。[r]
-人が多いせいで、出動回数が増えてるんだろうな……。[pcms]
+It felt like I had been hearing sirens from various places since[r]
+yesterday. With so many people around, the number of emergency calls[r]
+must have increased...[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so13b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1288|
 [fc]
-[ns]宗一郎[nse]
-「なんだ……また揉め事みたいだな。人が多いから[r]
-　ある程度の諍いが発生するのは必然なんだろうが……」[pcms]
+[ns]Souichirou[nse]
+"What's this... another commotion, it seems. With so many people[r]
+around, some conflict is inevitable..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -446,36 +452,35 @@
 
 *1289|
 [fc]
-そーいちが顎をしゃくって、僕にその方向を指し示す。[pcms]
+Souichirou jerked his chin and pointed in that direction for me to[r]
+look.[pcms]
 
 *1290|
 [fc]
-その方向には、こんな昼間から酔っぱらっているんだろうか[r]
-言動の怪しい男が、カップルに絡んで喧嘩になっていた。[pcms]
+In that direction, there was a suspicious man who seemed drunk in[r]
+broad daylight, getting into a fight as he hassled a couple.[pcms]
 
 *1291|
 [fc]
-[ns]怪しい男[nse]
-「へ……へへ、おんな……おんなぁ……う、うへ、へへへ……」[pcms]
+[ns]Suspicious Man[nse]
+"Heh... hehe, women... women... uh, uhehehe..."[pcms]
 
 *1292|
 [fc]
-ふらふらと体を揺らして、言動の怪しい男が[r]
-女性の体に触ろうとして手を伸ばす。[pcms]
+The wobbly man reached out his hand trying to touch the woman's body.[pcms]
 
 *1293|
 [fc]
 [vo_mob s="oko0001"]
-[ns]若い女[nse]
-「ちょっとっ！　さっきからしつっこいなぁ！[r]
-　やめてって言ってるでしょ！」[pcms]
+[ns]Young Woman[nse]
+"Hey! You've been persistent for a while now! Stop it, I said!"[pcms]
 
 ;//怒る女
 
 *1294|
 [fc]
-[ns]男[nse]
-「てめえっ、いいかげんにしやがれっ！！」[pcms]
+[ns]Male[nse]
+"You bastard, cut it out already!!"[pcms]
 
 [se buf=0 storage="seB007"]
 ;//♪SE人間を殴る音
@@ -483,73 +488,71 @@
 
 *1295|
 [fc]
-腹に据えかねたのか、カップルの男の方が、[r]
-絡んできた男の顔面を殴りつけた。[pcms]
+Fed up, the male half of the couple punched the face of the man who[r]
+was bothering them.[pcms]
 
 ;//#_赤フラ
 [赤フラ]
 
 *1296|
 [fc]
-ぱっと鮮血が飛び散り、怪しい男が[r]
-そのまま後ろにひっくり返って倒れた。[pcms]
+Blood splattered instantly, and the suspicious man fell backward onto[r]
+the ground.[pcms]
 
 *1297|
 [fc]
-殴った男の側も痛かったのか、手を振っている。[pcms]
+The man who threw the punch was also shaking his hand as if it hurt.[pcms]
 
 *1298|
 [fc]
 [vo_mob s="oko0002"]
-[ns]若い女[nse]
-「あー、歯にぶつかっちゃったんだ……。[r]
-　手、切れてるよ。大丈夫？」[pcms]
+[ns]Young Woman[nse]
+"Ah, you hit your tooth... Your hand is cut. Are you okay?"[pcms]
 
 ;//怒る女
 
 *1299|
 [fc]
-[ns]男[nse]
-「こんなのほんのかすり傷だよ。しっかしムカツクな、[r]
-　さっきから何だよ、こいつ……」[pcms]
+[ns]Male[nse]
+"This is just a scratch. But damn it's irritating, what's with this[r]
+guy... been at it since earlier..."[pcms]
 
 *1300|
 [fc]
-それ以上見てても、特にこれ以上は何か変わった展開には[r]
-なりそうにない。[pcms]
+Watching any further didn't seem like it would lead to any new[r]
+developments.[pcms]
 
 *1301|
 [fc]
-僕たちはその光景から視線を戻し、再び歩き出した。[pcms]
+We shifted our gaze away from the scene and started walking again.[pcms]
 
 *1302|
 [fc]
-[ns]誠[nse]
-「なんだか喧嘩が多いよな。僕たちも巻き込まれないように[r]
-　気をつけないと……」[pcms]
+[ns]Makoto[nse]
+"There seem to be a lot of fights around here. We need to be careful[r]
+not to get involved..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so12b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1303|
 [fc]
-[ns]宗一郎[nse]
-「むしろ俺たちの場合は、不良に因縁をつけられて[r]
-　カツアゲの対象とかにされないように気をつけた方が[r]
-　良いかも知れないな」[pcms]
+[ns]Souichirou[nse]
+"Rather, in our case, we should be careful not to get targeted by[r]
+delinquents looking to extort money from us."[pcms]
 
 *1304|
 [fc]
-[ns]誠[nse]
-「それもまた、情けない話だとは思うけど……[r]
-　でも、その通りかも……」[pcms]
+[ns]Makoto[nse]
+"That's a pathetic thing to worry about, but... you're probably[r]
+right."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so13b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1305|
 [fc]
-[ns]宗一郎[nse]
-「君子危うきに近寄らず。揉め事は避けるに限る。[r]
-　くわばらくわばら」[pcms]
+[ns]Souichirou[nse]
+"A wise man keeps away from danger. It's best to avoid trouble.[r]
+Kuwabara, kuwabara."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -559,143 +562,145 @@
 
 *1306|
 [fc]
-僕とそーいちがそんな話をしていると。[pcms]
+As Souichirou and I were having such a conversation.[pcms]
 
 ;//ここから00360のまま（た）
 
 *1307|
 [fc]
 [vo_tay s="taja0017"]
-[ns]ターヤ[nse]
-「おはよう」[pcms]
+[ns]Tarja[nse]
+"Good morning."[pcms]
 
 ;//bgm05.ogg
 [bgm storage="BGM05"]
 
 *1308|
 [fc]
-突然、後ろから女の子に声を掛けられた。[r]
-声だけなら、いつものボイスチャットで聞き慣れている。[r]
-この声はターヤさんだ。[pcms]
+Suddenly, a girl's voice called out from behind us. If it were just[r]
+the voice, I'd be used to hearing it in our usual voice chats. This[r]
+voice belongs to Tarja-san.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1309|
 [fc]
-僕とそーいちが一斉に振り返ると、[r]
-そこには多数のレイヤーたちの中でも特に目立つ、[r]
-鎧姿のターヤさんが立っていた。[pcms]
+When Souichirou and I turned around in unison, there stood Tarja-san,[r]
+clad in armor, standing out even among the many cosplayers.[pcms]
 
 *1310|
 [fc]
-思わず声を上げそうになってしまうけれど、[r]
-ターヤさんにエロ関係はヤバイ。[pcms]
+I almost let out a shout, but anything erotic related to Tarja-san is[r]
+dangerous.[pcms]
 
 *1311|
 [fc]
-また嫌われてしまったら、フォローしてくれる[r]
-村上さんがいない分、かなりキツイことになる。[pcms]
+If she were to dislike me again, without Murakami-san to follow up, it[r]
+would be quite tough.[pcms]
 
 *1312|
 [fc]
-そーいちも心得ているようで、[r]
-下品な声を上げるようなことは無かった。[pcms]
+Souichirou seemed to know better too, as he didn't let out any vulgar[r]
+cheers.[pcms]
 
 *1313|
 [fc]
-[ns]宗一郎[nse]
-「これはこれは、おはようございます。[r]
-　かなり作り込んだ衣装ですな、完璧ですぞ」[pcms]
+[ns]Souichirou[nse]
+"Well, well, good morning. That's quite an elaborate costume you have[r]
+there, it's perfect."[pcms]
 
 *1314|
 [fc]
-[ns]誠[nse]
-「おはよう、そのコスプレよく似合ってるよ」[pcms]
+[ns]Makoto[nse]
+"Good morning, that cosplay suits you really well."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1315|
 [fc]
 [vo_tay s="taja0018"]
-[ns]ターヤ[nse]
-「……ありがとう」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...Thank you."[pcms]
 
 *1316|
 [fc]
-褒められ慣れてないのか、ちょっとふてくされたみたいに、[r]
-ターヤさんが横を向いて恥ずかしがった。[pcms]
+Not used to being praised, Tarja-san turned her head away as if[r]
+sulking and blushed.[pcms]
 
 ;//ちょっと追加（た）
 
 *1316a|
 [fc]
-フェスに参加する人たちや、海で遊ぶ人たちを前にして[r]
-僕は内心、劣等感を覚えていた。[pcms]
+In front of the festival-goers and people playing at the beach, I felt[r]
+a sense of inferiority.[pcms]
 
 *1317|
 [fc]
-誰もが活発にこの暑さまで楽しんでる様子は、まるで[r]
-青春を謳歌しているように見え、なんだかまぶしく思える。[pcms]
+Everyone seemed to be actively enjoying even the heat, which looked[r]
+like they were fully enjoying their youth, and it seemed dazzling to[r]
+me.[pcms]
 
 *1318|
 [fc]
-それに引き替え、僕とそーいちはこんな炎天下で、[r]
-ポータブルのゲーム端末を手にして、ゲームの世界に[r]
-興じようとしてるんだから……。[pcms]
+In contrast, Souichirou and I were under the blazing sun, holding[r]
+portable game consoles in our hands, about to indulge in the world of[r]
+games...[pcms]
 
 *1319|
 [fc]
-でも、そんな気分はターヤさんの登場で一気に払拭された。[pcms]
+But that feeling was swept away with Tarja-san's arrival.[pcms]
 
 *1320|
 [fc]
-見たかっ！　こっちだって負けないくらい青春を謳歌してるぞ！[r]
-これがオタクの青春なんだ！[pcms]
+See that! We're enjoying our youth just as much! This is an otaku's[r]
+youth![pcms]
 
 *1321|
 [fc]
-[ns]誠[nse]
-「今まで見てきたレイヤーの中でも、[r]
-　１、２を争うくらい凄いよ」[pcms]
+[ns]Makoto[nse]
+"Among all the cosplayers I've seen so far, you're definitely in the[r]
+top one or two."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so02b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1322|
 [fc]
-[ns]宗一郎[nse]
-「うんうん、まるで、関西の金髪レイヤーの再臨ですな」[pcms]
+[ns]Souichirou[nse]
+"Yes, yes, it's like the second coming of that famous blonde cosplayer[r]
+from Kansai."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos0"][ChrSetParts layer=5 chface="F2_ta10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1323|
 [fc]
 [vo_tay s="taja0019"]
-[ns]ターヤ[nse]
-「……関西の金髪レイヤー？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...The blonde cosplayer from Kansai?"[pcms]
 
 *1324|
 [fc]
-ターヤさんが不思議そうな顔をする。[pcms]
+Tarja-san looked puzzled.[pcms]
 
 *1325|
 [fc]
-この話題はヤバかったんじゃないのか？[r]
-そーいちもしまったという顔をしている。[pcms]
+Was this topic a bad choice? Souichirou also had a look of regret on[r]
+his face.[pcms]
 
 *1326|
 [fc]
-[ns]誠[nse]
-「あー、昔、関西で有名な金髪のレイヤーさんがいたなって話」[pcms]
+[ns]Makoto[nse]
+"Ah, just talking about a famous blonde cosplayer from Kansai back in[r]
+the day."[pcms]
 
 *1327|
 [fc]
-とはいえ、こっちの勝手な想像でしかないんだから、[r]
-辺に隠し立てするのも雰囲気が悪くなる。[pcms]
+But since it's just our wild guess, being secretive about it would[r]
+only worsen the atmosphere.[pcms]
 
 *1328|
 [fc]
-僕は携帯を取りだして、例の画像を開くと[r]
-ターヤさんにそれを見せた。[pcms]
+I took out my phone and opened the image in question to show Tarja-[r]
+san.[pcms]
 
 ;//■イベントCG　mob_N021　金髪巨乳のコスプレイヤー（女戦士コスのライラ。ターヤが見切れてる。）
 [evcg storage="mob_N021a"][trans_c cross time=300]
@@ -706,8 +711,8 @@
 *1329|
 [fc]
 [vo_tay s="taja0020"]
-[ns]ターヤ[nse]
-「あっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah..."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -715,12 +720,11 @@
 
 *1330|
 [fc]
-ターヤさんは、明らかにその画像を知っているという反応で、[r]
-驚いた顔をする。[pcms]
+Tarja-san clearly recognized the image and looked surprised.[pcms]
 
 *1331|
 [fc]
-これは……ビンゴなのかも知れない。[pcms]
+This might be... bingo.[pcms]
 
 ;//bgm07.ogg
 [bgm storage="BGM07"]
@@ -731,47 +735,45 @@
 *1332|
 [fc]
 [vo_tay s="taja0021"]
-[ns]ターヤ[nse]
-「これは、わたしの姉さん。[r]
-　後ろにいるのが小さい頃のわたし」[pcms]
+[ns]Tarja Pohjonen[nse]
+"This is my sister. The one behind her is me when I was little."[pcms]
 
 
 ;//宗一郎大＠制服　表情19Ａ怒り２　　　　;//
 
 *1333|
 [fc]
-[ns]宗一郎[nse]
-「なんですとっ！」[pcms]
+[ns]Souichirou[nse]
+"What?!"[pcms]
 
 *1334|
 [fc]
-[ns]誠[nse]
-「これ、ターヤさんなの？」[pcms]
+[ns]Makoto[nse]
+"This is you, Tarja-san?"[pcms]
 
 *1335|
 [fc]
-やっぱり、思った通りだ。[r]
-どおりで似てるはず。[pcms]
+Just as I thought. No wonder they looked alike.[pcms]
 
 *1336|
 [fc]
-でも、後ろの男の子がターヤさんだとは思わなかった。[r]
-弟かなにかだと思っていたのになぁ……。[pcms]
+But I never thought that the boy in the back was Tarja-san. I assumed[r]
+it was a younger brother or something...[pcms]
 
 *1337|
 [fc]
-そーいちに目配せをする。[pcms]
+I exchanged glances with Souichirou.[pcms]
 
 *1338|
 [fc]
-村上さんから聞いた、ターヤさんの亡くなったお姉さんは、[r]
-この人で間違いない。[pcms]
+According to what Murakami-san told us, there's no doubt that this[r]
+person is Tarja-san's deceased sister.[pcms]
 
 *1339|
 [fc]
-そのことに触れるのもマズイし、[r]
-亡くなった家族で抜いているとか、不謹慎を通り越して、[r]
-人間としてヤバイ気分になる。[pcms]
+It's not good to touch on that subject, and thinking about[r]
+masturbating to someone's deceased family member goes beyond being[r]
+disrespectful; it makes me feel like a terrible human being.[pcms]
 
 ;//★bg05b ビーチ（＆ライブフェス会場外観）
 [bg storage="BG05a"][trans_c cross time=500]
@@ -781,92 +783,86 @@
 *1340|
 [fc]
 [vo_tay s="taja0022"]
-[ns]ターヤ[nse]
-「わたしがコスプレを始めたのは、ライラの影響なの」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I started cosplaying because of Laila's influence."[pcms]
 
 *1341|
 [fc]
-[ns]誠[nse]
-「そうなんですか……」[pcms]
+[ns]Makoto[nse]
+"Is that so..."[pcms]
 
 *1342|
 [fc]
-[ns]宗一郎[nse]
-「うむ……」[pcms]
+[ns]Souichirou[nse]
+"Hmm..."[pcms]
 
 *1343|
 [fc]
 [vo_tay s="taja0023"]
-[ns]ターヤ[nse]
-「最初は、半ば無理矢理に連れ出されていたのに……」[pcms]
+[ns]Tarja[nse]
+"At first, I was practically dragged into it..."[pcms]
 
 *1344|
 [fc]
-懐かしそうにしているターヤさんに、[r]
-掛ける言葉が見つからない。[pcms]
+I couldn't find the words to say to Tarja-san, who looked nostalgic.[pcms]
 
 *1345|
 [fc]
-すると、ターヤさんは僕たちの様子がおかしいことに[r]
-気が付いたのか、少し哀しい顔をした。[pcms]
+Then, Tarja-san noticed something was off with us and made a slightly[r]
+sad face.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1346|
 [fc]
 [vo_tay s="taja0024"]
-[ns]ターヤ[nse]
-「怜に話を聞いた？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Did you hear about it from Sato?"[pcms]
 
 *1347|
 [fc]
-僕とそーいちが黙って頷く。[r]
-嘘を吐く意味がない。[pcms]
+Souichirou and I silently nodded. There was no point in lying.[pcms]
 
 *1348|
 [fc]
-ターヤさんは、哀しそうにしながらも、[r]
-ハッキリとした意思を込めて断言した。[pcms]
+Tarja-san, while looking sad, asserted with a clear determination.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1349|
 [fc]
 [vo_tay s="taja0025"]
-[ns]ターヤ[nse]
-「ライラは死んでない。[r]
-　絶対に帰ってくるって約束したから」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Laila isn't dead. She promised she would definitely come back."[pcms]
 
 *1350|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1351|
 [fc]
-４年前のエピデミックに巻き込まれて、[r]
-行方不明になったのなら……。[pcms]
+If she went missing during the epidemic four years ago...[pcms]
 
 *1352|
 [fc]
-でも、僕はそんなことを口にするつもりはなかった。[r]
-受け入れるまでに時間の掛かることもあるはずだ。[pcms]
+But I had no intention of saying such things. Some things take time to[r]
+accept.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1353|
 [fc]
-そこで、ターヤさんがハッとした顔をして[r]
-携帯の画像を眺め出す。[pcms]
+Then, Tarja-san suddenly looked startled and began looking at the[r]
+image on the mobile phone.[pcms]
 
 *1354|
 [fc]
 [vo_tay s="taja0026"]
-[ns]ターヤ[nse]
-「ところで、どうしてこの画像を[r]
-　ケータイで持ち歩いているの？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"By the way, why are you carrying this image on your mobile phone?"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -874,79 +870,77 @@
 
 *1355|
 [fc]
-[ns]誠[nse]
-「うっ……」[pcms]
+[ns]Makoto[nse]
+"Uh..."[pcms]
 
 ;//bgm05.ogg
 [bgm storage="BGM05"]
 
 *1356|
 [fc]
-僕はターヤさんからひったくるように、[r]
-自分の携帯を取り返す。[pcms]
+I snatched my mobile phone back from Tarja-san as if ripping it out of[r]
+her hands.[pcms]
 
 *1357|
 [fc]
-[ns]誠[nse]
-「ほ、ほら、なんだ、その……、[r]
-　せ、戦場に行くときお守りを持って行くって言うだろ？」[pcms]
+[ns]Makoto[nse]
+"L-look, you know, it's like... when you go to a battlefield, you[r]
+carry a charm, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_cos0"][ChrSetParts layer=5 chface="F1_ta13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1358|
 [fc]
 [vo_tay s="taja0027"]
-[ns]ターヤ[nse]
-「家族の写真とかでいいと思うんだけど……」[pcms]
+[ns]Tarja[nse]
+"I think a family photo or something would be fine..."[pcms]
 
 *1359|
 [fc]
-[ns]誠[nse]
-「う、ウチの姉ちゃんはちょっとな……、[r]
-　御利益薄いから……」[pcms]
+[ns]Makoto[nse]
+"Uh, my sister is a bit... the blessings are thin, you know..."[pcms]
 
 *1360|
 [fc]
-[ns]宗一郎[nse]
-「後で言いつけることにしよう」[pcms]
+[ns]Souichirou[nse]
+"I'll make sure to tell her later."[pcms]
 
 *1361|
 [fc]
-そーいちの足を思い切り踏んでやると、[r]
-ターヤさんに笑顔で笑いかけた。[pcms]
+I stomped hard on Souichirou's foot and then smiled at Tarja-san.[pcms]
 
 *1362|
 [fc]
-こんなところで、またターヤさんに嫌われたら馬鹿みたいだ。[r]
-まったく、そーいちの失敗のおかげで……。[pcms]
+It would be stupid to be disliked by Tarja-san here of all places. All[r]
+because of Souichirou's blunder...[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_cos0"][ChrSetParts layer=5 chface="F2_ta13"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1363|
 [fc]
 [vo_tay s="taja0028"]
-[ns]ターヤ[nse]
-「わたしは撮影禁止だよ？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"You know I'm off-limits for photos, right?"[pcms]
 
 *1364|
 [fc]
-[ns]誠[nse]
-「心に誓います」[pcms]
+[ns]Makoto[nse]
+"I swear it in my heart."[pcms]
 
 *1365|
 [fc]
-家に帰ったら、ターヤさんを撮った写真を、[r]
-ネットでさがすハメになりそうだ。[pcms]
+When I get home, I'll probably have to search the net for photos of[r]
+Tarja-san.[pcms]
 
 *1366|
 [fc]
-一緒に行動しているのに、[r]
-誰かの撮った写真に頼らなくちゃいけないなんて……。[pcms]
+It's ridiculous that even though we're together, I have to rely on[r]
+someone else's photos...[pcms]
 
 *1367|
 [fc]
-とにかく、欲望に負けてターヤさんを写さないよう、[r]
-伏して誓う僕だった。[pcms]
+Anyway, I vowed to myself not to give in to desire and not to take[r]
+pictures of Tarja-san.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

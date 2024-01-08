@@ -32,48 +32,47 @@
 
 *1008|
 [fc]
-翌朝、僕とそーいちは目覚めると、まず越智さんのところに[r]
-様子を見に行くことにした。[pcms]
+The next morning, Souichirou and I decided to first check on Ms. Ochi[r]
+after waking up.[pcms]
 
 *1009|
 [fc]
-[ns]誠[nse]
-「体はなんともないって言ってたけど、むしろ[r]
-　心の方が心配だよな」[pcms]
+[ns]Makoto[nse]
+"She said she was physically fine, but I'm more worried about her[r]
+mental state."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1010|
 [fc]
-[ns]宗一郎[nse]
-「いかにも。心的外傷というのは、怪我と違って[r]
-　外から見たのでは分からないからな」[pcms]
+[ns]Souichirou[nse]
+"Indeed. Psychological trauma isn't visible like a physical injury."[pcms]
 
 *1011|
 [fc]
-[ns]誠[nse]
-「ひと晩ぐっすり寝て、気分が良くなっててくれれば[r]
-　いいんだけど……」[pcms]
+[ns]Makoto[nse]
+"I hope she's feeling better after a good night's sleep..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1012|
 [fc]
-[ns]宗一郎[nse]
-「もし愛しの姫がご傷心のご様子ならば、この出渕宗一郎が[r]
-　全身全霊、体を呈してお慰めする所存だ。心配するな」[pcms]
+[ns]Souichirou[nse]
+"Should my beloved princess be in distress, I, Izubuchi Souichirou, am[r]
+fully prepared to comfort her with all my body and soul. Do not[r]
+worry."[pcms]
 
 *1013|
 [fc]
-[ns]誠[nse]
-「デヴに体を呈されたら、越智さんが潰れちゃうじゃないか」[pcms]
+[ns]Makoto[nse]
+"If you offer your body, you might just crush Ms. Ochi instead."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_si_a"][ChrSetParts layer=5 chface="F2_so19a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1014|
 [fc]
-[ns]宗一郎[nse]
-「なにおぅ！　誠、そこへなおれ。成敗してくれる！」[pcms]
+[ns]Souichirou[nse]
+"What! Makoto, stand down. I shall punish you!"[pcms]
 
 [chara_int][trans_c cross time=150]
 [se buf=0 storage="seA049"]
@@ -86,40 +85,39 @@
 
 *1015|
 [fc]
-言うが早いが、そーいちがホテルの廊下の壁を蹴って[r]
-三角飛びを繰り出してきた。[pcms]
+No sooner had he said it than Souichirou kicked the wall of the hotel[r]
+corridor and launched into a triangle jump.[pcms]
 
 *1016|
 [fc]
-僕はすかさずバックステップでその攻撃をかわす。[pcms]
+I immediately took a backstep to dodge his attack.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_si_b" opacity=0][ChrSetParts layer=5 chface="F2_so30b"][ChrSetXY layer=5 x=500 y=0]
 [move layer=5 path="(0,0,255)" time=300][wm]
 
 *1017|
 [fc]
-[ns]宗一郎[nse]
-「むぅ。最近の誠は回避率が上がってるな。[r]
-　何かレアアイテムでも手に入れたのか？」[pcms]
+[ns]Souichirou[nse]
+"Hmm. Makoto's evasion rate has increased lately. Did you acquire some[r]
+rare item?"[pcms]
 
 *1018|
 [fc]
-[ns]誠[nse]
-「いいから行こうよ。そーいちの攻撃に対する[r]
-　回避率が上がったことに対しては、[r]
-　あとでゆっくり聞くからさ」[pcms]
+[ns]Makoto[nse]
+"Let's just go. I'll ask you later about the increased evasion rate[r]
+against your attacks."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1019|
 [fc]
-[ns]宗一郎[nse]
-「そうだな」[pcms]
+[ns]Souichirou[nse]
+"Right."[pcms]
 
 *1020|
 [fc]
-僕たちはそんなたわいのない会話を交わしながら、[r]
-越智さんの部屋に向かった。[pcms]
+While exchanging such light-hearted banter, we headed to Ms. Ochi's[r]
+room.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -130,40 +128,39 @@
 
 *1021|
 [fc]
-[ns]宗一郎[nse]
-「ええと……ここでいいんだよな？」[pcms]
+[ns]Souichirou[nse]
+"Um... this is the right place, isn't it?"[pcms]
 
 *1022|
 [fc]
-部屋番号を確認してから、そーいちがおもむろに[r]
-ドアをノックした。[pcms]
+After confirming the room number, Souichirou casually knocked on the[r]
+door.[pcms]
 
 [se buf=0 storage="seA034"]
 ;//♪SEノック音
 
 *1023|
 [fc]
-コン、コン。[pcms]
+Knock, knock.[pcms]
 
 *1024|
 [fc]
-…………………………………。[pcms]
+...[pcms]
 
 *1025|
 [fc]
-しばらく待っても、なんの反応もない。[pcms]
+But even after waiting for a while, there was no response.[pcms]
 
 *1026|
 [fc]
-[ns]誠[nse]
-「もう食堂に出かけたのかな……？」[pcms]
+[ns]Makoto[nse]
+"Maybe she's already gone to the dining hall...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1027|
 [fc]
-今度は僕が、そーいちの叩きかたよりも少し強めに[r]
-ドアをノックしてみた。[pcms]
+This time, I knocked on the door a bit harder than Souichirou had.[pcms]
 
 ;//m:強いノックないので代用
 [se buf=0 storage="seB022"]
@@ -174,77 +171,75 @@
 
 *1028|
 [fc]
-ドン、ドン。[pcms]
+Thump, thump.[pcms]
 
 *1029|
 [fc]
-…………………………………。[pcms]
+...[pcms]
 
 *1030|
 [fc]
-同じようにしばらく待ってみたけど、[r]
-やっぱり何の反応もない。[pcms]
+Just like before, we waited for a while, but still no response.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1031|
 [fc]
-[ns]宗一郎[nse]
-「どうやら不在みたいだな。誰かいれば、少なくともそれが[r]
-　越智さんじゃなくて同室の人間でも、[r]
-　なにか反応はあるだろうから」[pcms]
+[ns]Souichirou[nse]
+"It seems she's not in. If someone were here, even if it wasn't Ms.[r]
+Ochi but a roommate, there would be some kind of response."[pcms]
 
 *1032|
 [fc]
-[ns]誠[nse]
-「やっぱり食堂に行ったのかな……」[pcms]
+[ns]Makoto[nse]
+"Maybe she really did go to the dining hall..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so04w"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1033|
 [fc]
-[ns]宗一郎[nse]
-「それはこの時点では、まだ何とも言い難いな」[pcms]
+[ns]Souichirou[nse]
+"At this point, it's hard to say for sure."[pcms]
 
 *1034|
 [fc]
-[ns]誠[nse]
-「今日のモンバスイベントの後、越智さんに[r]
-　食事に誘われてたけど……昨日のことを考えたら[r]
-　中止だよな、多分……」[pcms]
+[ns]Makoto[nse]
+"Ms. Ochi invited me to eat with her after today's Monster Bus[r]
+event... but considering what happened yesterday, it's probably[r]
+canceled..."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1035|
 [fc]
-[ns]宗一郎[nse]
-「それも姫の体調次第だろうけどな。それもこれも[r]
-　姫と直接話して確認しないことには、なんとも言えん」[pcms]
+[ns]Souichirou[nse]
+"That would depend on the princess's condition. But without speaking[r]
+to her directly, we can't be certain."[pcms]
 
 *1036|
 [fc]
 [vo_nat s="natu_tj0023"]
-[ns]夏都[nse]
-「おーう、おはようお前ら」[pcms]
+[ns]Natsu[nse]
+"Hey, good morning you guys."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1037|
 [fc]
-[ns]誠[nse]
-「あ、姉ちゃん」[pcms]
+[ns]Makoto[nse]
+"Ah, Onee-san."[pcms]
 
 *1038|
 [fc]
-[ns]宗一郎[nse]
-「おはようございます。お姉さん」[pcms]
+[ns]Souichirou[nse]
+"Good morning, Onee-san."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1039|
 [fc]
-僕とそーいちが越智さんの部屋の前で話し込んでいると、[r]
-姉ちゃんが通りかかった。[pcms]
+While Souichirou and I were talking in front of Ms. Ochi's room, Onee-[r]
+san happened to pass by.[pcms]
 
 [ChrSetEx layer=3 chbase="so1_si_a"][ChrSetParts layer=3 chface="F1_so02a"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="na1_bi0_a"][ChrSetParts layer=4 chface="F1_na08"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -252,63 +247,63 @@
 *1040|
 [fc]
 [vo_nat s="natu_tj0024"]
-[ns]夏都[nse]
-「お前ら、こんなトコでなにやってんだ？」[pcms]
+[ns]Natsu[nse]
+"What are you guys doing here?"[pcms]
 
 *1041|
 [fc]
-[ns]宗一郎[nse]
-「あ、いえ。昨日のこともあるので、越智さんの様子が[r]
-　気になったものですから、ちょっと訪ねてみたのですが……」[pcms]
+[ns]Souichirou[nse]
+"Ah, well... We were concerned about Ms. Ochi after yesterday's[r]
+events, so we thought we'd pay her a visit..."[pcms]
 
 *1042|
 [fc]
 [vo_nat s="natu_tj0025"]
-[ns]夏都[nse]
-「あ、ここ、越智さんの部屋なのか。なるほどな。[r]
-　で、本人には会えたのか？」[pcms]
+[ns]Natsu[nse]
+"Ah, this is Ms. Ochi's room? I see. So, did you get to meet her?"[pcms]
 
 *1043|
 [fc]
-[ns]宗一郎[nse]
-「いえそれが、不在のご様子でして」[pcms]
+[ns]Souichirou[nse]
+"No, it seems she's out at the moment."[pcms]
 
 *1044|
 [fc]
 [vo_nat s="natu_tj0026"]
-[ns]夏都[nse]
-「そっか。もう飯喰いに行ったんじゃないのか？」[pcms]
+[ns]Natsu[nse]
+"I see. Maybe she's already gone to eat?"[pcms]
 
 *1045|
 [fc]
-[ns]誠[nse]
-「うん。僕たちもそうだったらいいな……って話してたとこ」[pcms]
+[ns]Makoto[nse]
+"Yeah. We were just saying it would be nice if that were the case..."[pcms]
 
 *1046|
 [fc]
-僕の顔を見て、姉ちゃんが苦笑すると僕の頭の上に手を置いた。[pcms]
+Looking at my face, Onee-san chuckled and placed her hand on top of my[r]
+head.[pcms]
 
 *1047|
 [fc]
 [vo_nat s="natu_tj0027"]
-[ns]夏都[nse]
-「まあ、いないんだったらここで心配しててもしゃあないだろ。[r]
-　オレたちも食堂に行ってみようぜ。腹も減ったし」[pcms]
+[ns]Natsu[nse]
+"Well, if she's not here, there's no point in worrying about it here.[r]
+Let's go to the dining hall too. I'm hungry."[pcms]
 
 *1048|
 [fc]
-[ns]宗一郎[nse]
-「ですな。食堂に姿が見えない時は、あとでメールで[r]
-　確認入れておこうぜ、誠」[pcms]
+[ns]Souichirou[nse]
+"That's right. If we don't see her in the dining hall, let's check in[r]
+with her via email later, Makoto."[pcms]
 
 *1049|
 [fc]
-[ns]誠[nse]
-「そう……だな。そうしようか」[pcms]
+[ns]Makoto[nse]
+"Yeah... that's a good idea. Let's do that."[pcms]
 
 *1050|
 [fc]
-僕たち３人は、食堂へと向かうことにして、その場を後にした。[pcms]
+The three of us decided to head to the dining hall and left the place.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -318,92 +313,92 @@
 
 *1051|
 [fc]
-エレベーターの下ボタンを、姉ちゃんが押した。[pcms]
+Onee-san pressed the down button for the elevator.[pcms]
 
 *1052|
 [fc]
-朝の慌ただしい時間のせいか、エレベーターのランプは[r]
-忙しく階を移動している。[pcms]
+Perhaps due to the busy morning hours, the elevator's light was busily[r]
+moving between floors.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1053|
 [fc]
 [vo_nat s="natu_tj0028"]
-[ns]夏都[nse]
-「そう言や、お前らは今日の予定はどうなってんだ？」[pcms]
+[ns]Natsu[nse]
+"By the way, what are your plans for today?"[pcms]
 
 *1054|
 [fc]
-[ns]誠[nse]
-「お昼の少し前から、美浜ビーチで行われる[r]
-　モンバスのイベントに参加する予定。姉ちゃんは？」[pcms]
+[ns]Makoto[nse]
+"We're planning to participate in the Monbas event at Mihama Beach[r]
+just before noon. What about you, Onee-san?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1055|
 [fc]
 [vo_nat s="natu_tj0029"]
-[ns]夏都[nse]
-「オレは今日はずっとフェス会場だな」[pcms]
+[ns]Natsu[nse]
+"I'll be at the festival venue all day."[pcms]
 
 *1056|
 [fc]
-[ns]誠[nse]
-「あれ、姉ちゃんの目当てのバンドって、[r]
-　ステージがあるのは夕方からじゃなかった？」[pcms]
+[ns]Makoto[nse]
+"Huh, Onee-san, wasn't the band you're looking forward to seeing not[r]
+starting until the evening?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1057|
 [fc]
 [vo_nat s="natu_tj0030"]
-[ns]夏都[nse]
-「あれ、良く憶えてたな。確かにそうなんだけど、[r]
-　あのライブ会場独特の雰囲気ってヤツを楽しもうと思ってな、[r]
-　早くから入ってるつもりなんだ」[pcms]
+[ns]Natsu[nse]
+"Wow, you remembered well. That's true, but I'm planning to go early[r]
+to enjoy that unique live concert atmosphere, you know?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1058|
 [fc]
 [vo_nat s="natu_tj0031"]
-[ns]夏都[nse]
-「それに、いろんなステージをぶらぶら流して見てると[r]
-　新しく気にいるバンドと出会えるかもしれないしな」[pcms]
+[ns]Natsu[nse]
+"Besides, if I wander around the various stages, I might discover a[r]
+new band that I like."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_si_b"][ChrSetParts layer=5 chface="F1_so02b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1059|
 [fc]
-[ns]宗一郎[nse]
-「複数のバンドが複数のステージで同時に演奏している[r]
-　フェスならでは、ということですな」[pcms]
+[ns]Souichirou[nse]
+"That's the unique aspect of a festival where multiple bands play on[r]
+multiple stages simultaneously, isn't it?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na24"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1060|
 [fc]
 [vo_nat s="natu_tj0032"]
-[ns]夏都[nse]
-「おっ、脂身くんはなかなか分かってんじゃん」[pcms]
+[ns]Natsu[nse]
+"Oh, Souichirou-kun, you get it, don't you?"[pcms]
 
 [se buf=0 storage="seC055"]
 ;//♪SEエレベーターの到着音
 
 *1061|
 [fc]
-そんな話をしていたら、エレベーターが到着した。[pcms]
+While we were talking like this, the elevator arrived.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1062|
 [fc]
-ドアが開き、僕たち３人が乗り込んで行く。[pcms]
+The door opened, and the three of us got in.[pcms]
 
 *1063|
 [fc]
-宗一郎が１階のボタンを押し、ドアを閉めるボタンを押した。[pcms]
+Souichirou pressed the button for the first floor and then the button[r]
+to close the door.[pcms]
 
 ;//★bg11a ホテル廊下・朝昼
 [bg storage="BG11a"]
@@ -412,47 +407,48 @@
 
 *1064|
 [fc]
-すると、閉まる扉の向こう、廊下の奥に花沢の姿が見える。[pcms]
+Then, just as the doors were closing, I saw Hanazawa in the corridor[r]
+beyond.[pcms]
 
 *1065|
 [fc]
-[ns]誠[nse]
-「あ、あれ……」[pcms]
+[ns]Makoto[nse]
+"Ah, that's..."[pcms]
 
 *1066|
 [fc]
-花沢の姿に、そーいちも気づいたようだ。[pcms]
+It seemed Souichirou also noticed Hanazawa.[pcms]
 
 *1067|
 [fc]
-花沢は、誰かの部屋のドアをノックしていた。[pcms]
+Hanazawa was knocking on someone's room door.[pcms]
 
 *1068|
 [fc]
-[ns]宗一郎[nse]
-「花沢だな。なにやってんだ、あんなとこで？」[pcms]
+[ns]Souichirou[nse]
+"That's Hanazawa. What is she doing over there?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1069|
 [fc]
-エレベーターのドアが閉まる寸前、誰かの部屋のドアが開いて[r]
-中から伸びた手が、花沢の腕をつかんで[r]
-引き入れた……ように見えた。[pcms]
+Just before the elevator doors closed, someone's room door opened and[r]
+a hand reached out, grabbing Hanazawa's arm and pulling her in... or[r]
+so it seemed.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c lr time=500][hide_chara_int]
 
 *1070|
 [fc]
-[ns]誠[nse]
-（ま、いいか……。花沢がプライベートでなにをしようと、[r]
-　僕の知ったこっちゃないし……）[pcms]
+[ns]Makoto[nse]
+(Well, it doesn't matter... Whatever Hanazawa is doing privately is[r]
+none of my business...)[pcms]
 
 *1071|
 [fc]
-エレベーターが１階に到着する前に、僕もそーいちも[r]
-花沢のことは頭からきれいさっぱり消えていた。[pcms]
+Before the elevator reached the first floor, both Souichirou and I had[r]
+completely forgotten about Hanazawa.[pcms]
 
 ;//ブロック3030へjump
 [jump storage="3030.ks" target=*3030_TOP]

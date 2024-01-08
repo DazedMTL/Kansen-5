@@ -30,94 +30,96 @@
 
 *1821|
 [fc]
-[ns]宗一郎[nse]
-「ほほう、これは絶景ですなあ」[pcms]
+[ns]Souichirou[nse]
+"Ho ho, this is quite the spectacular view."[pcms]
 
 *1822|
 [fc]
-瀬渡内が一望できる高台で、俺は思わずひとりごちた。[pcms]
+Standing on a hilltop with a panoramic view of Sedowanai, I found[r]
+myself muttering alone.[pcms]
 
 *1823|
 [fc]
-大小の小島が点在するその光景は、夏空の太陽の下、[r]
-海の青に島の緑が目にもまぶしい。[pcms]
+The sight of large and small islands scattered about was dazzling[r]
+under the summer sun, with the blue of the sea and the green of the[r]
+islands strikingly vivid.[pcms]
 
 *1824|
 [fc]
-鮮やかなマリンブルーの広がる中に、緑のおはぎを点々と[r]
-置いたような光景は、どことなくユーモラスだ。[pcms]
+In the midst of the vibrant marine blue, the scenery, dotted with[r]
+green mochi-like islands, had a somewhat humorous charm.[pcms]
 
 *1825|
 [fc]
-その緑の色合い、海の輝き、陽光の具合は、[r]
-色濃く『日本』を感じさせる。[pcms]
+The shades of green, the sparkle of the sea, and the condition of the[r]
+sunlight all strongly evoke "Japan."[pcms]
 
 *1826|
 [fc]
-熱帯ほど強烈ではなく、かといってヨーロッパの国々ほど[r]
-弱々しくもない、柔らかさと優しさを感じさせる日差しは[r]
-まさに日本独特のものだ。[pcms]
+The sunlight, neither as intense as the tropics nor as feeble as the[r]
+countries of Europe, had a softness and gentleness that was uniquely[r]
+Japanese.[pcms]
 
 *1827|
 [fc]
-スコットランドの沖合にも大小の島からなる場所があるが、[r]
-残念ながら俺は行ったことがない。[pcms]
+There are places off the coast of Scotland made up of islands both[r]
+large and small, but unfortunately, I have never been there.[pcms]
 
 *1828|
 [fc]
-もっとも、ロンドン近郊ですら、夏場でも日の光は弱く、[r]
-どこかくすんだ、寒々しい色合いが感じられる。[pcms]
+Even in the suburbs of London, the sunlight is weak during summer,[r]
+giving off a somewhat dull and chilly hue.[pcms]
 
 *1829|
 [fc]
-ロンドンより緯度の高いスコットランドの島々じゃ[r]
-こんな豊かな色彩は望むべくもないだろう。[pcms]
+The islands of Scotland, situated at a higher latitude than London,[r]
+could never hope for such rich colors.[pcms]
 
 *1830|
 [fc]
-イギリス北部の、荒涼としたヒースの広がる丘陵地帯は、[r]
-まぎれもなくゴシックな暗さを感じさせる光景だ。[pcms]
+The desolate heath-covered hills of northern England undoubtedly evoke[r]
+a gothic darkness.[pcms]
 
 ;//◆実在の作家名ですがどうしましょうか
 ;//◆著作権は消滅していますが営業妨害で訴えられるパターンがあるからやめておけというのが通説かも
 
 *1831|
 [fc]
-エミリー・ブロンテやメアリー・シェリーを輩出したのも[r]
-ああいう寒々しい風景があってのことだと思わせられる。[pcms]
+It makes one think that the chilly landscapes were what produced[r]
+authors like Emily Bront and Mary Shelley.[pcms]
 
 *1832|
 [fc]
-陽光に満ちた心温まる光景を見ながら、なぜか[r]
-寒々しいイギリスの丘陵地帯に思いを馳せている自分が[r]
-なんとなくおかしかった。[pcms]
+While gazing at the heartwarming scene filled with sunlight, I found[r]
+it somewhat amusing that my thoughts drifted to the chilly hills of[r]
+England.[pcms]
 
 *1833|
 [fc]
-[ns]宗一郎[nse]
-「ともあれ、この絶景はお茶の友にはもってこいかと」[pcms]
+[ns]Souichirou[nse]
+"Anyway, this magnificent view makes for a perfect tea companion."[pcms]
 
 [se buf=0 storage="seD013"]
 ;//♪SE水を注ぐ
 
 *1834|
 [fc]
-持参した水筒から、よく冷えたアイスティーを注ぐ。[pcms]
+I poured well-chilled iced tea from the flask I brought along.[pcms]
 
 *1835|
 [fc]
-[ns]宗一郎[nse]
-「芳しい香りです。ムフフッ」[pcms]
+[ns]Souichirou[nse]
+"What a fragrant aroma. Mufufu."[pcms]
 
 *1836|
 [fc]
-冷えてもなお、アールグレイの芳香は薫り高く[r]
-思わず笑みがこぼれてしまう。[pcms]
+Even chilled, the fragrance of Earl Grey was still richly aromatic,[r]
+bringing a smile to my face involuntarily.[pcms]
 
 *1837|
 [fc]
-そして、お茶の時には絶対に欠かすことが[r]
-できないのがお茶菓子だ。[pcms]
+And when it comes to tea time, one thing that absolutely cannot be[r]
+missed is tea snacks.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -125,50 +127,50 @@
 
 *1838|
 [fc]
-俺は鞄の中から、最近お気に入りのお茶菓子を取りだした。[pcms]
+I took out my recently favored tea snack from my bag.[pcms]
 
 *1839|
 [fc]
-誠には面倒なんで『ビスケット』と説明したが、[r]
-本当は『ショートブレッド』だ。[pcms]
+I explained it to Makoto as "biscuits" to avoid hassle, but in truth,[r]
+they were "shortbread."[pcms]
 
 *1840|
 [fc]
-自宅近くの安売りの酒屋で売られていたものだが、[r]
-れっきとした英国からの輸入品である。[pcms]
+They were sold at a discount liquor store near my home, but they were[r]
+genuine imports from Britain.[pcms]
 
 *1841|
 [fc]
-手作りなら、さくさく、ほろほろとした食感になるのだが、[r]
-俺はこのメーカー独特の、まるで雷おこしのような[r]
-歯ごたえのあるガリガリとした食感が気に入っていた。[pcms]
+If homemade, they would have a crumbly texture, but I particularly[r]
+liked this manufacturer's unique crunchy texture, reminiscent of rice[r]
+crackers.[pcms]
 
 *1842|
 [fc]
-[ns]宗一郎[nse]
-「なんともリッチなお茶の時間に感謝、感謝」[pcms]
+[ns]Souichirou[nse]
+"I am truly grateful for such a rich tea time."[pcms]
 
 *1843|
 [fc]
-絶景を見ながら、ショートブレッドをひと口かじり、[r]
-砂糖を加えていないアールグレイを流し込む。[pcms]
+While enjoying the view, I took a bite of shortbread and washed it[r]
+down with unsweetened Earl Grey.[pcms]
 
 *1844|
 [fc]
-[ns]宗一郎[nse]
-「……………………くーっ！」[pcms]
+[ns]Souichirou[nse]
+"...Kuh!"[pcms]
 
 *1845|
 [fc]
-そのあまりの旨さに、思わず唸ってしまう。[pcms]
+Overwhelmed by its deliciousness, I couldn't help but groan.[pcms]
 
 *1846|
 [fc]
 [vo_stk s="satuki_tj0017"]
-[ns]彩月[nse]
-「仕事帰りのサラリーマンが、生ビールを飲んでるんじゃ[r]
-　ないんだから、お茶を飲んで唸るのはやめなよ。[r]
-　明らかに変な人だよ、出渕くん」[pcms]
+[ns]Satsuki[nse]
+"You're not a salaryman on his way home from work drinking draft beer,[r]
+so stop groaning over tea. You definitely look like a weirdo,[r]
+Izubuchi-kun."[pcms]
 
 ;//★bg04a オートキャンプ場・朝昼
 [bg storage="BG04a"][trans_c cross time=500]
@@ -178,198 +180,199 @@
 
 *1847|
 [fc]
-[ns]宗一郎[nse]
-「おや、これは南先輩」[pcms]
+[ns]Souichirou[nse]
+"Oh, if it isn't Senior Minami."[pcms]
 
 *1848|
 [fc]
-いつの間に近づいていたのか、南先輩が俺の背後から[r]
-いきなり声をかけてきた。[pcms]
+Before I knew it, Senior Minami had approached from behind and[r]
+suddenly spoke to me.[pcms]
 
 *1849|
 [fc]
-[ns]宗一郎[nse]
-「先輩も一杯いかがですか？　良く冷えておりますぞ」[pcms]
+[ns]Souichirou[nse]
+"Would you care for a cup as well? It's nicely chilled."[pcms]
 
 *1850|
 [fc]
-そう言って、俺は飲みかけのアールグレイが入った[r]
-水筒のキャップを差し出した。[pcms]
+Saying so, I offered her the cap of my flask filled with Earl Grey.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1851|
 [fc]
 [vo_stk s="satuki_tj0018"]
-[ns]彩月[nse]
-「デブ君と間接キッスは嫌だからいらないわ」[pcms]
+[ns]Satsuki[nse]
+"I'd rather not have an indirect kiss with Fatty-kun, so no thank[r]
+you."[pcms]
 
 *1852|
 [fc]
-[ns]宗一郎[nse]
-「それは残念です。おいしいのに」[pcms]
+[ns]Souichirou[nse]
+"That's unfortunate. It's quite delicious."[pcms]
 
 *1853|
 [fc]
-俺は差し出したキャップを引き戻すと、[r]
-残りのアイスティーを飲み干した。[pcms]
+I pulled back the offered cap and finished off the remaining iced tea.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1854|
 [fc]
 [vo_stk s="satuki_tj0019"]
-[ns]彩月[nse]
-「それに、人に飲みかけのお茶を差し出すというのは[r]
-　マナーとしてどうかしらね」[pcms]
+[ns]Satsuki[nse]
+"Besides, offering someone your half-drunk tea isn't exactly good[r]
+manners, is it?"[pcms]
 
 *1855|
 [fc]
-[ns]宗一郎[nse]
-「おっと、これは失礼いたしました……と」[pcms]
+[ns]Souichirou[nse]
+"Oops, my apologies... indeed."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1856|
 [fc]
-軽口を叩きながら、俺は改めて南先輩の出で立ちを見た。[pcms]
+While bantering lightly, I took another look at Senior Minami's[r]
+attire.[pcms]
 
 *1857|
 [fc]
-赤い競泳水着の上に、長袖シャツを着ただけの軽装は[r]
-いつも目にする制服姿と異なり、新鮮だった。[pcms]
+Her casual outfit consisting of just a long-sleeved shirt over a red[r]
+swimsuit was refreshingly different from her usual uniform look.[pcms]
 
 *1858|
 [fc]
-ぶっちゃけて言うと……すごくエロい。[pcms]
+To put it bluntly... it was incredibly erotic.[pcms]
 
 *1859|
 [fc]
-なんと言うか、競泳水着も着慣れた感があり、[r]
-すごく似合っている。[pcms]
+Somehow, she seemed accustomed to wearing competitive swimsuits and it[r]
+suited her very well.[pcms]
 
 *1860|
 [fc]
-おまけに、制服姿の時には全く気がつかなかったが、[r]
-南先輩は隠れ巨乳だったらしく、Ｔシャツの胸元は[r]
-大きく膨らんで、前に突き出していた。[pcms]
+Moreover, I hadn't noticed while she was in uniform, but it seemed[r]
+Senior Minami was a hidden busty beauty; her T-shirt's chest area was[r]
+significantly swollen and protruding forward.[pcms]
 
 *1861|
 [fc]
-思わずまじまじと見つめてしまうと、[r]
-俺の視線に気がついたのだろう。南先輩が口を開く。[pcms]
+I couldn't help but stare intently, and it seemed Senior Minami[r]
+noticed my gaze as she opened her mouth to speak.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1862|
 [fc]
 [vo_stk s="satuki_tj0020"]
-[ns]彩月[nse]
-「そーいち君、目がやらしい。なんだか目で犯される感じ。[r]
-　そんなんじゃ視線で妊娠しちゃうわよ」[pcms]
+[ns]Satsuki[nse]
+"Souichi-kun, your eyes are lecherous. It feels like I'm being[r]
+violated by your gaze. At this rate, I might get pregnant just from[r]
+your stare."[pcms]
 
 *1863|
 [fc]
-[ns]宗一郎[nse]
-「いかな私と言えども、さすがにそんな特殊能力は[r]
-　持ち合わせてないのですが、もしもそんな事ができたら、[r]
-　既成事実作りまくりで便利かも知れませんな」[pcms]
+[ns]Souichirou[nse]
+"Even for someone like me, I unfortunately don't possess such a[r]
+special ability. However, if I could do such a thing, it might be[r]
+quite convenient to create established facts on the fly."[pcms]
 
 *1864|
 [fc]
-[ns]宗一郎[nse]
-「好き勝手に女性を妊娠させられるのですから、勝手に[r]
-　妊娠させてから、俺の女だぞと勝手に宣言してしまうとか」[pcms]
+[ns]Souichirou[nse]
+"Being able to impregnate women at will, I could then declare them as[r]
+my women after the fact."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1865|
 [fc]
 [vo_stk s="satuki_tj0021"]
-[ns]彩月[nse]
-「女にとっては悪夢以外のなにものでもないわね、それ。[r]
-　お願いだから、そんな特殊能力は習得しないでちょうだいね」[pcms]
+[ns]Satsuki[nse]
+"That would be nothing short of a nightmare for women. Please, don't[r]
+ever acquire such a special ability."[pcms]
 
 *1866|
 [fc]
-[ns]宗一郎[nse]
-「善処いたしますが、保証の限りではありません」[pcms]
+[ns]Souichirou[nse]
+"I shall endeavor to do so, but I can't guarantee anything."[pcms]
 
 *1867|
 [fc]
-俺の返事に、南先輩が苦笑しながら肩をすくめた。[pcms]
+At my response, Senior Minami shrugged her shoulders with a wry smile.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1868|
 [fc]
 [vo_stk s="satuki_tj0022"]
-[ns]彩月[nse]
-「それはそうと、馬鹿話はいいけど、何か用事があって[r]
-　ここへ来たんじゃないの？　別に私の水着姿を[r]
-　わざわざ見に来た訳でもないんでしょ」[pcms]
+[ns]Satsuki[nse]
+"That aside, we've had enough silly talk, haven't we? You came here[r]
+for a reason, right? It's not like you came all this way just to see[r]
+me in my swimsuit."[pcms]
 
 *1869|
 [fc]
-[ns]宗一郎[nse]
-「おっと、確かにそうでした。つい南先輩の水着姿に見惚れて[r]
-　己が使命をうっかり失念するところでした」[pcms]
+[ns]Souichirou[nse]
+"Oh, that's right indeed. I was so mesmerized by Senior Minami's[r]
+swimsuit that I nearly forgot my own mission."[pcms]
 
 *1870|
 [fc]
-そうだった。俺は絶景を楽しみながら[r]
-お茶の時間をリッチに過ごすためにここに来た訳ではない。[pcms]
+That's right. I didn't come here to enjoy the spectacular view while[r]
+sipping tea leisurely.[pcms]
 
 *1871|
 [fc]
-モンバスのイベント、残る３つのクエストがダウンロードできる[r]
-ポートのうちのひとつが、この大神島オートキャンプ場に[r]
-設置されているから、ここを訪れたのだった。[pcms]
+The reason I visited this place was that one of the ports where the[r]
+remaining three quests for the Monbas event could be downloaded was[r]
+set up here at the Oogamijima Auto Campground.[pcms]
 
 *1872|
 [fc]
-いちばん近い場所の担当になった誠は、もうダウンロードを終えて[r]
-神社に向かっている頃だろうか。[pcms]
+Makoto, who was assigned to the nearest location, must have finished[r]
+downloading and be on his way to the shrine by now.[pcms]
 
 *1873|
 [fc]
-ターヤさんは、いちばん遠くの担当になったが、俺や誠と違って[r]
-土地勘もあり、体力もあるから、今頃は帰路についている[r]
-頃かも知れない。[pcms]
+Tarja-san was assigned to the farthest location, but unlike me or[r]
+Makoto, she has a good sense of direction and plenty of stamina, so[r]
+she might be on her way back by now.[pcms]
 
 *1874|
 [fc]
-[ns]宗一郎[nse]
-「先輩、このキャンプ場にコンビニがあるかと思うのですが、[r]
-　場所をご存じですか？」[pcms]
+[ns]Souichirou[nse]
+"Senior, I believe there's a convenience store at this campground. Do[r]
+you know where it is?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1875|
 [fc]
 [vo_stk s="satuki_tj0023"]
-[ns]彩月[nse]
-「ええ、知ってるわよ。私もちょうど島の景色を撮りながら[r]
-　ビーチに出ようと思ってたとこだから、案内してあげるわ」[pcms]
+[ns]Satsuki[nse]
+"Yes, I know. I was just about to head to the beach while taking[r]
+pictures of the island's scenery, so I can guide you there."[pcms]
 
 *1876|
 [fc]
-[ns]宗一郎[nse]
-「なるほど、それで水着姿だったのですな。[r]
-　お手数をおかけいたしますが、では、道行きご同行ください」[pcms]
+[ns]Souichirou[nse]
+"I see, that's why you're in a swimsuit. I apologize for the trouble,[r]
+but then, please accompany me on the way."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1877|
 [fc]
 [vo_stk s="satuki_tj0024"]
-[ns]彩月[nse]
-「いらっしゃい、こっちよ」[pcms]
+[ns]Satsuki[nse]
+"Come on, this way."[pcms]
 
 *1878|
 [fc]
-俺は南先輩の案内で、クエストがダウンロードできるポートが[r]
-設置されているコンビニへと向かった。[pcms]
+I followed Senior Minami's lead to the convenience store where the[r]
+port for downloading quests was installed.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -386,367 +389,362 @@
 
 *1879|
 [fc]
-コンビニへと向かう道すがら、だんだんと人が[r]
-多くなってくるにつれて、あちこちで小競り合いを[r]
-目にするようになった。[pcms]
+As we headed towards the convenience store, the number of people[r]
+gradually increased and we began to witness skirmishes here and there.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1880|
 [fc]
 [vo_stk s="satuki_tj0025"]
-[ns]彩月[nse]
-「なんだか、喧嘩してる人が多いわね」[pcms]
+[ns]Satsuki[nse]
+"It seems there are quite a few people fighting around here."[pcms]
 
 *1881|
 [fc]
-南先輩が顔をしかめた方向を見ると、女性数名のグループに[r]
-ひとりの男がからんで、激しくやり合っていた。[pcms]
+Looking in the direction Senior Minami frowned upon, there was a group[r]
+of several women and a man entangled in a fierce argument.[pcms]
 
 *1882|
 [fc]
-なんだか男の足元が覚束ないのは、酒にでも[r]
-酔っているのだろうか。[pcms]
+The man's unsteady footing suggested he might be drunk.[pcms]
 
 *1883|
 [fc]
-[ns]宗一郎[nse]
-「昼日中から飲み過ぎですかね。酒は飲んでも飲まれるな、と[r]
-　言いますが、イベントの雰囲気に呑まれて[r]
-　ついハメをはずしすぎたのでしょうか」[pcms]
+[ns]Souichirou[nse]
+"Drinking too much in broad daylight? They say 'drink but don't let[r]
+drink', but perhaps they got carried away by the event's atmosphere[r]
+and lost their restraint."[pcms]
 
 *1884|
 [fc]
-別の場所では、カップルの男女にひとりの女性が、[r]
-やはり同じようにからんでいて、女同士の激しいバトルが[r]
-展開されていた。[pcms]
+Elsewhere, a woman was similarly entangled with a couple, and an[r]
+intense battle between the women was unfolding.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1885|
 [fc]
 [vo_stk s="satuki_tj0026"]
-[ns]彩月[nse]
-「ロックフェスって言うから、何か怪しい薬物とかが[r]
-　出回ってるんじゃなければいいんだけど」[pcms]
+[ns]Satsuki[nse]
+"Since it's a rock festival, I hope there aren't any suspicious drugs[r]
+circulating around."[pcms]
 
 *1886|
 [fc]
-そう言って南先輩が柳眉を寄せる。[pcms]
+Senior Minami said this with a furrowed brow.[pcms]
 
 *1887|
 [fc]
-[ns]宗一郎[nse]
-「欧米はいざ知らず、この法治国家の日本で、野外での[r]
-　ロックフェスだからと言って、違法な薬物がおおっぴらに[r]
-　出回ることなどないんじゃないでしょうか？」[pcms]
+[ns]Souichirou[nse]
+"While it might be common in Western countries, in this law-abiding[r]
+nation of Japan, it's unlikely that illegal drugs would be openly[r]
+circulating at an outdoor rock festival, don't you think?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1888|
 [fc]
 [vo_stk s="satuki_tj0027"]
-[ns]彩月[nse]
-「あら、そうかしらね。渋谷のセンター街なんて[r]
-　かなり怖い場所もあるわよ」[pcms]
+[ns]Satsuki[nse]
+"Oh really? Places like Shibuya's Center Street can be quite scary."[pcms]
 
 *1889|
 [fc]
-[ns]宗一郎[nse]
-「……………………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *1890|
 [fc]
-南先輩の口から、そんな言葉がさらっと出てきてしまうと[r]
-例の噂のことが頭をよぎって、俺は言葉が[r]
-返せなくなってしまった。[pcms]
+When such words casually slipped from Senior Minami's mouth, rumors[r]
+that I had heard crossed my mind and left me speechless.[pcms]
 
 *1891|
 [fc]
-南先輩にまつわる、事実無根と思われる黒い噂。[pcms]
+Unfounded dark rumors surrounding Senior Minami.[pcms]
 
 *1892|
 [fc]
-軽口は聞いてくれるが、肝心なことは話してくれないので[r]
-南先輩の私生活については、俺も誠も[r]
-大したことは知らないに等しい。[pcms]
+She would listen to jokes but wouldn't talk about important matters,[r]
+so neither Makoto nor I knew much about Senior Minami's private[r]
+lifeit was almost as if we knew nothing at all.[pcms]
 
 *1893|
 [fc]
-そう言った点がミステリアスなせいで、[r]
-美人の南先輩をやっかんで、そういう噂が[r]
-流れたのだと思っていたが……。[pcms]
+The mysterious aspect of it made me think that perhaps those rumors[r]
+had spread out of envy towards the beautiful Senior Minami...[pcms]
 
 *1894|
 [fc]
-なんとか会話の流れを変えようと、俺は別の話題を探した。[pcms]
+Trying to change the subject, I searched for another topic of[r]
+conversation.[pcms]
 
 *1895|
 [fc]
-[ns]宗一郎[nse]
-「それはそうと、なんだか咳き込んでいる人が多いですね。[r]
-　悪い風邪でも流行っていなければいいんですが」[pcms]
+[ns]Souichirou[nse]
+"Speaking of which, there seem to be many people coughing. I hope it's[r]
+not some nasty cold going around."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1896|
 [fc]
 [vo_stk s="satuki_tj0028"]
-[ns]彩月[nse]
-「どうなのかしら……テレビや新聞、ネットなんかでも[r]
-　特にそういう話題にはなってないと思うけど……」[pcms]
+[ns]Satsuki[nse]
+"I wonder... There hasn't been any mention of such a topic on TV,[r]
+newspapers, or online that I'm aware of..."[pcms]
 
 *1897|
 [fc]
-それは俺も知っている。ただ、実際にここ数日で[r]
-咳き込む人の姿を目にすることが多い。[pcms]
+I knew that too. However, in recent days I had indeed seen an increase[r]
+in people coughing.[pcms]
 
 *1898|
 [fc]
-そう言っている間にも、激しく咳き込んで、女性に背中を[r]
-さすってもらっている男性の横を通り抜けた。[pcms]
+As we were talking, we passed by a man who was coughing violently and[r]
+being patted on the back by a woman.[pcms]
 
 *1899|
 [fc]
 [vo_stk s="satuki_tj0029"]
-[ns]彩月[nse]
-「確かにそーいち君の言う通り、咳き込む人が多いよね。[r]
-　ロックフェスにゲームイベントと、小さな島に[r]
-　人を詰め込みすぎなんじゃないかしら」[pcms]
+[ns]Satsuki[nse]
+"You're right, Souichi-kun; there are a lot of people coughing. Maybe[r]
+they've packed too many people onto this small island with both the[r]
+rock festival and game event."[pcms]
 
 *1900|
 [fc]
-[ns]宗一郎[nse]
-「夏場は稼ぎ時なんでしょうな。だから、多少キャパシティに[r]
-　無理があっても、人を詰め込んでしまうとか」[pcms]
+[ns]Souichirou[nse]
+"Summer is prime time for earnings. So even if it pushes capacity a[r]
+bit too far, they pack in as many people as possible."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1901|
 [fc]
 [vo_stk s="satuki_tj0030"]
-[ns]彩月[nse]
-「まあ、そうかもしれないわね。デヴ君たちの遊んでるゲーム、[r]
-　ええと、モンバン……だっけ？」[pcms]
+[ns]Satsuki[nse]
+"Well, that might be true. The game you guys are playing, um,[r]
+Monban... was it?"[pcms]
 
 *1902|
 [fc]
-[ns]宗一郎[nse]
-「どこのゲートキーパーですか、それは。[r]
-　モンバスですよ。モンスターバスター５」[pcms]
+[ns]Souichirou[nse]
+"Which gatekeeper are you talking about? It's Monbas. Monster Buster[r]
+5."[pcms]
 
 *1903|
 [fc]
 [vo_stk s="satuki_tj0031"]
-[ns]彩月[nse]
-「ああ、それそれ。それにしたって、ゲームのために[r]
-　日本中からこんなに人が集まるんでしょ。[r]
-　なんだか信じられない感じ」[pcms]
+[ns]Satsuki[nse]
+"Ah, that's the one. Even so, it's unbelievable how people from all[r]
+over Japan gather just for a game."[pcms]
 
 *1904|
 [fc]
-[ns]宗一郎[nse]
-「南先輩はゲームとかはなさらないのですか？」[pcms]
+[ns]Souichirou[nse]
+"Senior Minami, don't you play games?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1905|
 [fc]
 [vo_stk s="satuki_tj0032"]
-[ns]彩月[nse]
-「あんまり熱心にプレイはしないわね。[r]
-　あ、でも、出たら必ず買ってるゲームはあるよ。[r]
-　ハーフエルフの少年が冒険するやつ」[pcms]
+[ns]Satsuki[nse]
+"I don't play them that enthusiastically. Oh, but there is a game I[r]
+always buy when it comes out. It's the one where a half-elf boy goes[r]
+on an adventure."[pcms]
 
 *1906|
 [fc]
-[ns]宗一郎[nse]
-「それはいかにも南先輩らしいチョイスですな。[r]
-　ネットワークゲームとか、ソーシャルゲーム、あるいは[r]
-　昨今流行のケータイゲームなんかはいかがです？」[pcms]
+[ns]Souichirou[nse]
+"That's a very Senior Minami-like choice. What about network games,[r]
+social games, or the mobile games that are popular these days?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1907|
 [fc]
 [vo_stk s="satuki_tj0033"]
-[ns]彩月[nse]
-「どれもやらないわね。そう言えばケータイゲームなんかは[r]
-　社会問題とかになってるんでしょ？」[pcms]
+[ns]Satsuki[nse]
+"I don't play any of those. Speaking of which, mobile games have[r]
+become a social issue, haven't they?"[pcms]
 
 *1908|
 [fc]
-[ns]宗一郎[nse]
-「ええ、子供たちが有料アイテムに馬鹿みたいに課金して、[r]
-　請求書の額面を見て親御さんが仰天するというのが[r]
-　頻発しているらしいですね」[pcms]
+[ns]Souichirou[nse]
+"Yes, there are frequent cases where children foolishly spend money on[r]
+in-game items and their parents are shocked when they see the bill."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1909|
 [fc]
 [vo_stk s="satuki_tj0034"]
-[ns]彩月[nse]
-「え、あれってタダじゃないの？　テレビのＣＭでは[r]
-　そんな風に宣伝してるじゃない」[pcms]
+[ns]Satsuki[nse]
+"Eh, aren't those supposed to be free? That's how they advertise them[r]
+on TV commercials."[pcms]
 
 *1910|
 [fc]
-[ns]宗一郎[nse]
-「それがケータイゲームビジネスのカラクリなんです。[r]
-　携帯電話ほどユーザーの課金に対するしきい値が低く、[r]
-　かつ取りっぱぐれのないハードはありませんからね」[pcms]
+[ns]Souichirou[nse]
+"That's the trick of the mobile game business. There's no hardware[r]
+with a lower threshold for user spending than mobile phones, and no[r]
+risk of not getting paid."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1911|
 [fc]
 [vo_stk s="satuki_tj0035"]
-[ns]彩月[nse]
-「なんだか悪辣なのねえ」[pcms]
+[ns]Satsuki[nse]
+"That sounds rather unscrupulous."[pcms]
 
 *1912|
 [fc]
-[ns]宗一郎[nse]
-「不健全な話です、まったく」[pcms]
+[ns]Souichirou[nse]
+"It's an unhealthy conversation, indeed."[pcms]
 
 *1913|
 [fc]
-ゲームの話をするつもりが、なぜか昨今のゲーム業界の[r]
-ビジネスモデルの話に横滑りしてしまったが、薬物汚染の話を[r]
-掘り下げるよりはずっとマシだろう。[pcms]
+Instead of talking about games, somehow the conversation had shifted[r]
+to the business models of the current game industry, which was[r]
+probably much better than delving into drug contamination.[pcms]
 
 *1914|
 [fc]
-俺と南先輩が、そんな話をしながら人混みの中を[r]
-ビーチに向かって移動していると、どこかで見たような人が[r]
-なぜか水平移動しながら近づいてきた。[pcms]
+As Senior Minami and I were talking through the crowd on our way to[r]
+the beach, someone who looked familiar approached us by moving[r]
+sideways.[pcms]
 
 *1915|
 [fc]
-[ns]西[nse]
-「おーい、南ー！　と、そのオマケの脂身ー！」[pcms]
+[ns]West[nse]
+"Hey, Minami! And that extra piece of fat!"[pcms]
 
 *1916|
 [fc]
-その声の主は、フランク先輩だった。[pcms]
+The owner of the voice was Senior Frank.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1917|
 [fc]
-[ns]宗一郎[nse]
-「誰が脂身ですか、誰が」[pcms]
+[ns]Souichirou[nse]
+"Who are you calling a piece of fat?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st30"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1918|
 [fc]
 [vo_stk s="satuki_tj0036"]
-[ns]彩月[nse]
-「少なくともわたしじゃないことは確かよね」[pcms]
+[ns]Satsuki[nse]
+"At least it's certain it's not me."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1919|
 [fc]
-人のことを脂身呼ばわりするくせに、フランク先輩は[r]
-いつにも増して暑苦しい格好だった。[pcms]
+Despite calling others a piece of fat, Senior Frank was dressed more[r]
+hotly than ever.[pcms]
 
 *1920|
 [fc]
-上は長袖のジャケットをしっかり着込んでいるのに、[r]
-下は半ズボン。首からはごつい一眼レフカメラを下げている。[pcms]
+He was wearing a long-sleeved jacket on top but shorts below. Around[r]
+his neck hung a bulky SLR camera.[pcms]
 
 *1921|
 [fc]
-誰がどう見ても、中年のアメリカ人観光客にしか見えない。[pcms]
+To anyone looking, he could only appear as a middle-aged American[r]
+tourist.[pcms]
 
 *1922|
 [fc]
-その上、その格好でスケートボードに乗って移動しているんだから[r]
-そりゃ水平移動もするわけだ。[pcms]
+Moreover, he was moving on a skateboard in that outfit, so of course[r]
+he was moving sideways.[pcms]
 
 *1923|
 [fc]
-[ns]宗一郎[nse]
-「どこの中年アメリカ人観光客が、地球人にはあるまじき歩行法で[r]
-　水平移動で近づいてきたのかと思いましたよ」[pcms]
+[ns]Souichirou[nse]
+"I was wondering which middle-aged American tourist was approaching us[r]
+with an otherworldly method of walking."[pcms]
 
 *1924|
 [fc]
-[ns]西[nse]
-「俺の服装や移動手段はどうでもいい。[r]
-　それより、なんで南と出渕が一緒にいるんだよ？」[pcms]
+[ns]West[nse]
+"I don't care about my clothes or how I move. More importantly, why[r]
+are Minami and Izubuchi together?"[pcms]
 
 *1925|
 [fc]
-なるほど。フランク先輩としては、それが気になったわけだ。[r]
-相変わらず、熱い恋心をもった一本気な人だ。[pcms]
+Indeed. That was what Senior Frank was curious about. As always, he[r]
+was a person with a passionate one-track mind.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1926|
 [fc]
 [vo_stk s="satuki_tj0037"]
-[ns]彩月[nse]
-「たまたまデヴ君がいたのを見かけたから声をかけたのよ。[r]
-　そしたら、コンビニまで道案内してくれって言うから」[pcms]
+[ns]Satsuki[nse]
+"I just happened to see Dev-kun and called out to him. Then he asked[r]
+me to show him the way to the convenience store."[pcms]
 
 *1927|
 [fc]
-[ns]西[nse]
-「甘やかしちゃだめだ。こんなの坂から蹴落とせば[r]
-　自動的にコンビニの入り口まで転がり落ちていくんだから」[pcms]
+[ns]West[nse]
+"You shouldn't spoil him. If you kick him down the slope, he'll[r]
+automatically roll down to the entrance of the convenience store."[pcms]
 
 *1928|
 [fc]
-[ns]宗一郎[nse]
-「俺は自動追尾ミサイルですか、西先輩」[pcms]
+[ns]Souichirou[nse]
+"Am I an auto-targeting missile, Senior West?"[pcms]
 
 *1929|
 [fc]
-そんな悪態をつきながらも、フランク先輩は南先輩の返事を聞いて[r]
-ちょっとほっとした表情を浮かべた。[pcms]
+Despite his grumbling, Senior Frank seemed a bit relieved by Senior[r]
+Minami's response.[pcms]
 
 *1930|
 [fc]
-[ns]西[nse]
-「それはそうと、なんだかキャンプ場の様子が変じゃないか？」[pcms]
+[ns]West[nse]
+"By the way, doesn't the campsite look strange?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1931|
 [fc]
 [vo_stk s="satuki_tj0038"]
-[ns]彩月[nse]
-「あ、西君もそう思ってたんだ……。今もラード君とそんな話を[r]
-　してたとこなの」[pcms]
+[ns]Satsuki[nse]
+"Ah, West-kun also noticed... I was just talking about that with Rad-[r]
+kun."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1932|
 [fc]
 [vo_stk s="satuki_tj0039"]
-[ns]彩月[nse]
-「キャンプ場だけじゃなくて、ビーチの人たちもなんだか[r]
-　変じゃないかって……」[pcms]
+[ns]Satsuki[nse]
+"Not just the campsite, but don't the people at the beach seem odd[r]
+too...?"[pcms]
 
 *1933|
 [fc]
-南先輩の言葉に、フランク先輩がいかつい顔をさらにしかめた。[pcms]
+Senior Frank furrowed his already intimidating face even more at[r]
+Senior Minami's words.[pcms]
 
 *1934|
 [fc]
-[ns]西[nse]
-「お前たちもそう感じてたのか。俺だけじゃなかったんだな。[r]
-　なんだか、あちこちで妙な小競り合いが起きてるし、[r]
-　やたら咳き込む人を見かけている気がするんだ」[pcms]
+[ns]West[nse]
+"You guys felt it too? So it wasn't just me. There seem to be strange[r]
+scuffles happening here and there, and I feel like I've seen a lot of[r]
+people coughing."[pcms]
 
 *1935|
 [fc]
-[ns]宗一郎[nse]
-「昨日目撃した事故も、考えてみればなんだか変ですよね」[pcms]
+[ns]Souichirou[nse]
+"The accident I witnessed yesterday also seems strange now that I[r]
+think about it."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -757,7 +755,7 @@
 
 *1936|
 [fc]
-俺がそんな話題を持ち出した時だった。[pcms]
+It was when I brought up such a topic.[pcms]
 
 ;//SE　車の急ブレーキの音
 [se buf=1 storage="seC025"]
@@ -767,29 +765,29 @@
 
 *1937|
 [fc]
-俺たちの背後で、突然けたたましい急ブレーキの音が[r]
-あたりの空気を切り裂いた。[pcms]
+Behind us, suddenly a loud screech of emergency braking tore through[r]
+the air.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1938|
 [fc]
-はっとして振り返った次の瞬間。[pcms]
+I turned around in surprise at the next moment.[pcms]
 
 [se buf=1 storage="seB086"]
 ;//♪SE事故音　ガシャーンだけ
 
 *1939|
 [fc]
-激しいクラッシュ音が周囲に響き渡った。[pcms]
+A loud crash echoed around us.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1940|
 [fc]
 [vo_stk s="satuki_tj0040"]
-[ns]彩月[nse]
-「きゃっ！」[pcms]
+[ns]Satsuki[nse]
+"Kyaa!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -813,12 +811,12 @@
 
 *1941|
 [fc]
-そして一瞬の後に、衝突した車が爆発炎上する。[pcms]
+And then, a moment later, the collided cars exploded into flames.[pcms]
 
 *1942|
 [fc]
-あっという間に、あたりが悲鳴や喧噪で満たされ、[r]
-たちまち周囲はパニック状態に陥った。[pcms]
+In no time at all, the area was filled with screams and commotion, and[r]
+quickly descended into a state of panic.[pcms]
 
 [se buf=1 storage="seB052"]
 ;//♪SE霞の炎発動
@@ -826,8 +824,8 @@
 *1943|
 [fc]
 [vo_mob s="banshee0001"]
-[ns]女[nse]
-「きゃーーーーーーーーっ！！」[pcms]
+[ns]Female[nse]
+"Kyaa--------!!"[pcms]
 
 [bgm storage="BGM15"]
 ;//♪bgm15　シリアス：嫌疑：思考
@@ -836,28 +834,28 @@
 
 *1944|
 [fc]
-[ns]男[nse]
-「警察！　いや消防だ！　早く連絡しろ！」[pcms]
+[ns]Male[nse]
+"Police! No, fire department! Call them quickly!"[pcms]
 
 ;//★bg04a オートキャンプ場・朝昼
 [bg storage="BG04a"][trans_c lr time=300]
 
 *1945|
 [fc]
-まるで、車の爆発炎上がなにかの引き金になったかのように[r]
-同時発生的にキャンプ場のあちらこちらから、悲鳴や叫び声、[r]
-怒鳴り声などが聞こえてくる。[pcms]
+It was as if the car's explosion and fire had triggered something, as[r]
+screams, shouts, and angry voices could be heard simultaneously from[r]
+all around the campsite.[pcms]
 
 *1946|
 [fc]
 [vo_mob s="banshee0002"]
-[ns]女[nse]
-「いやっ！　いやああっ！　放してえっ！！」[pcms]
+[ns]Female[nse]
+"No! Nooo! Let me go!!"[pcms]
 
 *1947|
 [fc]
-[ns]男[nse]
-「うわっ！　こいつっ！　何やってんだよっ！？」[pcms]
+[ns]Male[nse]
+"Whoa! What the hell are you doing!?"[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -866,62 +864,61 @@
 
 *1948|
 [fc]
-いちばん近くで、男女の叫び声がした方に目をやると[r]
-ひとりの男が、女性に襲いかかろうとしている最中だった。[pcms]
+Looking in the direction of the nearest male and female screams, a man[r]
+was in the midst of attacking a woman.[pcms]
 
 *1949|
 [fc]
-[ns]薄汚れた男[nse]
-「ぐへ、へへ……お゛んな゛あ゛ぁ゛……」[pcms]
+[ns]Dirty Man[nse]
+"Guh, hehe...woooman..."[pcms]
 
 *1950|
 [fc]
-何と形容していいのか判らない、[r]
-奇妙な服装をした薄汚れた格好の男が[r]
-両手を伸ばして女性につかみかかっていた。[pcms]
+A man in strange clothes and dirty appearance was reaching out with[r]
+both hands to grab a woman.[pcms]
 
 *1951|
 [fc]
 [vo_mob s="banshee0003"]
-[ns]女[nse]
-「やめてっ！　いやあぁっ！」[pcms]
+[ns]Female[nse]
+"Stop it! Noooo!"[pcms]
 
 *1952|
 [fc]
-薄汚れた男が女性の服に手をかけると、まるで紙のように[r]
-いともたやすく引きちぎった。[pcms]
+As the dirty man reached for the woman's clothes, he tore them off as[r]
+easily as if they were made of paper.[pcms]
 
 *1953|
 [fc]
 [vo_mob s="banshee0001"]
-[ns]女[nse]
-「きゃーーーーーーーーーーっ！！」[pcms]
+[ns]Female[nse]
+"Kyaa----------!!"[pcms]
 
 ;//m:直前のきゃーを流用
 
 *1954|
 [fc]
-[ns]薄汚れた男[nse]
-「あ゛～、お゛っ゛ぱいだあ゛あ゛～」[pcms]
+[ns]Dirty Man[nse]
+"Aah, booobs..."[pcms]
 
 *1955|
 [fc]
-[ns]男[nse]
-「この野郎っ！」[pcms]
+[ns]Male[nse]
+"You bastard!"[pcms]
 
 [se buf=0 storage="seB010"]
 ;//打撃
 
 *1956|
 [fc]
-女性の連れと思しき男性が、思い切り薄汚れた男の顔面を[r]
-殴りつけたが、男はびくともしない。[pcms]
+A man who seemed to be with the woman punched the dirty man's face[r]
+with all his might, but the man didn't even flinch.[pcms]
 
 *1957|
 [fc]
-[ns]薄汚れた男[nse]
-「な゛ん゛だぁ゛、ごのや゛ろ゛う゛[r]
-　じゃまだ、お゛ま゛え゛。ぞご、どげろ゛……」[pcms]
+[ns]Dirty Man[nse]
+"What's that, you bastard... you're in the way, get lost. Zogo,[r]
+dogero..."[pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
@@ -930,44 +927,43 @@
 
 *1958|
 [fc]
-薄汚れた男が腕をひと振りすると、殴りかかった男性が[r]
-軽々と吹き飛ばされた。[pcms]
+With a single swing of his arm, the dirty man sent the man who had[r]
+punched him flying effortlessly.[pcms]
 
 *1959|
 [fc]
-[ns]薄汚れた男[nse]
-「あ゛～、お゛ま゛ん゛ご、じよ゛う゛ぜえ゛ぇ～、[r]
-　へへへへっ……」[pcms]
+[ns]Dirty Man[nse]
+"Aah, pussy, so gooood~, heheheh..."[pcms]
 
 *1960|
 [fc]
 [vo_mob s="banshee0004"]
-[ns]女[nse]
-「いやっ！　いやあーーっ！　誰か助けてえっ！！」[pcms]
+[ns]Female[nse]
+"No! Nooo--! Someone help me!!"[pcms]
 
 *1961|
 [fc]
-薄汚れた男は、呆れたことに衆人環視の中で女性を犯そうと[r]
-執拗に女性に襲いかかろうとしている。[pcms]
+The dirty man, to everyone's astonishment, continued to persistently[r]
+attack the woman, attempting to rape her in full view of everyone.[pcms]
 
 *1962|
 [fc]
-[ns]男[nse]
-「こんのクソ野郎……ふざけやがって……」[pcms]
+[ns]Male[nse]
+"This damn asshole... messing around..."[pcms]
 
 *1963|
 [fc]
-さっき吹き飛ばされた男性が、口元から血をだらだらと流しながら[r]
-怒りに燃えた目つきで近づいてきた。[pcms]
+The man who had been blown away approached again, blood dripping from[r]
+his mouth, his eyes burning with anger.[pcms]
 
 *1964|
 [fc]
-その手には、バーベキューに使う金属製の串が握られている。[pcms]
+In his hand was a metal skewer used for barbecues.[pcms]
 
 *1965|
 [fc]
-[ns]男[nse]
-「これでも喰らえっ！！」[pcms]
+[ns]Male[nse]
+"Eat this!!"[pcms]
 
 ;//#_赤フラ
 [赤フラ]
@@ -977,233 +973,232 @@
 
 *1966|
 [fc]
-男性がそう叫ぶと、薄汚れた男の顔面に、[r]
-手にしたバーベキュー用の串を突き刺した。[pcms]
+As the man shouted, he stabbed the barbecue skewer into the dirty[r]
+man's face.[pcms]
 
 *1967|
 [fc]
-[ns]西[nse]
-「うわっ！　や、やっちまった！」[pcms]
+[ns]West[nse]
+"Whoa! He... he did it!"[pcms]
 
 *1968|
 [fc]
 [vo_stk s="satuki_tj0041"]
-[ns]彩月[nse]
-「きゃーーーーっ！！」[pcms]
+[ns]Satsuki[nse]
+"Kyaa----!!"[pcms]
 
 *1969|
 [fc]
-[ns]宗一郎[nse]
-「ブルシット！　何てことを……！」[pcms]
+[ns]Souichirou[nse]
+"Bullshit! What have you done...!"[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
 
 *1970|
 [fc]
-しかし、本当に恐ろしいのは……それからだった。[pcms]
+But what was truly terrifying... was what happened next.[pcms]
 
 *1971|
 [fc]
-男性が突き刺したバーベキュー用の串は、薄汚れた男の顔面を[r]
-深々と貫き、後頭部にまで貫通していた。[pcms]
+The barbecue skewer that the man had thrust pierced deeply into the[r]
+dirty man's face and went through to the back of his head.[pcms]
 
 *1972|
 [fc]
-しかし、眼頭から眼窩を通って、後頭部にまで[r]
-バーベキュー用の串が突き抜けているにも関わらず、[r]
-薄汚れた男は、いっこうに倒れる様子がない。[pcms]
+However, despite the skewer passing through from the frontal bone to[r]
+the eye socket and out the back of his head, the dirty man showed no[r]
+signs of falling.[pcms]
 
 *1973|
 [fc]
-[ns]薄汚れた男[nse]
-「い、い゛でえ゛な゛、ごの゛や゛ろ゛う゛……」[pcms]
+[ns]Dirty Man[nse]
+"It doesn't hurt, you bastard..."[pcms]
 
 *1974|
 [fc]
-突き刺された傷から血をだらだらと流しながらも、[r]
-薄汚れた男が、怒りに燃えた表情で男性をにらんだ。[pcms]
+Even as blood dripped from the wound where he was stabbed, the dirty[r]
+man glared at the man with a furious expression.[pcms]
 
 [bgm storage="BGM13"]
 ;//♪bgm13　逃走：緊迫
 
 *1975|
 [fc]
-[ns]男[nse]
-「ひ、ひいぃっ！！」[pcms]
+[ns]Male[nse]
+"Eeek!!"[pcms]
 
 *1976|
 [fc]
-[ns]薄汚れた男[nse]
-「お……お゛ま゛え゛な゛ん゛が、[r]
-　ごう゛じでや゛る゛っ゛！」[pcms]
+[ns]Dirty Man[nse]
+"You... what do you think you're doing?!"[pcms]
 
 *1977|
 [fc]
-薄汚れた男が口を大きく開けて、いきなり[r]
-男性の首筋に噛みついた。[pcms]
+The dirty man opened his mouth wide and suddenly bit into the man's[r]
+neck.[pcms]
 
 [se buf=1 storage="seB037"]
 ;//♪SE噛みつく音
 
 *1978|
 [fc]
-[ns]男[nse]
-「ぎゃああああぁぁぁあああぁっ！！」[pcms]
+[ns]Male[nse]
+"Gyaaaahhhhhhh!!"[pcms]
 
 *1979|
 [fc]
-噛みつかれた男性の首筋から、まるで噴水のように[r]
-血がぴゅーぴゅーと吹き出して、周囲を鮮血に染めてゆく。[pcms]
+Blood spurted out like a fountain from the bitten man's neck, staining[r]
+the surroundings with fresh blood.[pcms]
 
 [se buf=0 storage="seD015"]
 ;//♪SE弾けて液体が噴き出す
 
 *1980|
 [fc]
-噛みついた男が、頭の動きだけで男性の首筋の肉をむしり取った。[pcms]
+The biting man tore flesh from the man's neck with just movements of[r]
+his head.[pcms]
 
 *1981|
 [fc]
-肉が引きちぎれる、ぶちぶちという音が聞こえてきた。[pcms]
+The sound of flesh being torn apart, a ripping noise, could be heard.[pcms]
 
 *1982|
 [fc]
-[ns]薄汚れた男[nse]
-「あ゛～、にぐだぁ゛～、う、うめ゛え゛ぇなあ゛ぁ～」[pcms]
+[ns]Dirty Man[nse]
+"Ah~... this pussy~... oh, it tastes so good~"[pcms]
 
 *1983|
 [fc]
-薄汚れた男が、口の周りを血まみれにしながら、噛みちぎった[r]
-男性の肉をもしゃもしゃと咀嚼している。[pcms]
+The dirty man, with his mouth smeared with blood, was chewing on the[r]
+flesh he had bitten off the man.[pcms]
 
 [se buf=1 storage="seD014"]
 ;//♪SE液体が噴き出す
 
 *1984|
 [fc]
-[ns]男[nse]
-「が……はっ………」[pcms]
+[ns]Male[nse]
+"Gah...hah..."[pcms]
 
 *1985|
 [fc]
-首筋の肉を噛みちぎられた男性が、流れ出した自分の血で[r]
-できた血だまりに突っ伏して倒れ込んだ。[pcms]
+The man whose neck flesh had been bitten off collapsed face down into[r]
+a pool of his own blood.[pcms]
 
 *1986|
 [fc]
 [vo_mob s="banshee0005"]
-[ns]女[nse]
-「いやあぁっ！　いやあああぁぁああぁぁぁっ！！」[pcms]
+[ns]Female[nse]
+"Nooooo! Nooooooooooo!!"[pcms]
 
 *1987|
 [fc]
-男の返り血を全身に浴びた半裸の女が、自分の目の前で起きた[r]
-惨劇に絶叫している。[pcms]
+The half-naked woman, drenched in the man's blood, screamed at the[r]
+tragedy unfolding before her eyes.[pcms]
 
 *1988|
 [fc]
-[ns]宗一郎[nse]
-「なんだよ、これ……！　なんなんだよ、いったい！！」[pcms]
+[ns]Souichirou[nse]
+"What the hell is this...! What on earth is happening?!"[pcms]
 
 *1989|
 [fc]
-目撃した光景は、完全に俺の理解の範疇を超えていた。[pcms]
+The scene I witnessed was completely beyond my comprehension.[pcms]
 
 *1990|
 [fc]
-ついさっきまでは、ただの平和な光景だったのに。[pcms]
+Until just moments ago, it was a peaceful scene.[pcms]
 
 *1991|
 [fc]
-今は阿鼻叫喚の地獄絵図がそこかしこで繰り広げられている。[pcms]
+Now, a hellish tableau of screams and chaos was unfolding everywhere.[pcms]
 
 *1992|
 [fc]
-[ns]宗一郎[nse]
-「何が起きてるんですか、西先輩！？」[pcms]
+[ns]Souichirou[nse]
+"What's happening, West-senpai?!"[pcms]
 
 *1993|
 [fc]
-[ns]西[nse]
-「俺が知るかよっ！！　俺の方が聞きたいくらいだ！」[pcms]
+[ns]West[nse]
+"How would I know?! I'm the one who wants to ask that!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st20"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1994|
 [fc]
 [vo_stk s="satuki_tj0042"]
-[ns]彩月[nse]
-「……………………………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *1995|
 [fc]
-青い顔をして何事か考え込んでいた南先輩が、[r]
-いきなり口を開いた。[pcms]
+Senior Minami, with a pale face deep in thought, suddenly spoke up.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st32"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1996|
 [fc]
 [vo_stk s="satuki_tj0043"]
-[ns]彩月[nse]
-「これ、おそらく……エピデミックと同じ状況だと思う」[pcms]
+[ns]Satsuki[nse]
+"This is probably... a situation similar to an epidemic."[pcms]
 
 *1997|
 [fc]
-南先輩の言葉は決然としていて、揺らぎがなかった。[pcms]
+Senior Minami's words were resolute and unwavering.[pcms]
 
 *1998|
 [fc]
-[ns]西[nse]
-「ま、マジかよっ、南！？」[pcms]
+[ns]West[nse]
+"Seriously, Minami?!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st23"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1999|
 [fc]
 [vo_stk s="satuki_tj0044"]
-[ns]彩月[nse]
-「問答はあとよ。今はまずここから逃げることを[r]
-　考えた方がいいわ」[pcms]
+[ns]Satsuki[nse]
+"Questions later. Right now, we should think about getting out of[r]
+here."[pcms]
 
 *2000|
 [fc]
 [vo_stk s="satuki_tj0045"]
-[ns]彩月[nse]
-「いつ、わたしたちも感染者に襲われるか判らないし、[r]
-　安全な場所に逃げるのが先決よ」[pcms]
+[ns]Satsuki[nse]
+"We don't know when we might be attacked by an infected person, so[r]
+finding a safe place is the priority."[pcms]
 
 *2001|
 [fc]
-[ns]宗一郎[nse]
-「あ、安全な場所って言っても……ここからだと[r]
-　いくつか選択肢がありますよ」[pcms]
+[ns]Souichirou[nse]
+"A safe place... but there are several options from here."[pcms]
 
 *2002|
 [fc]
-ぱっと思いつくのは２つだ。[pcms]
+I could think of two off the top of my head.[pcms]
 
 *2003|
 [fc]
-少し遠いが、ホテル側の出入り口まで逃げるか。[r]
-それとも、ここから近いコンビニのある方向へ逃げるか。[pcms]
+Run to the hotel entrance, which is a bit far, or escape towards the[r]
+convenience store nearby.[pcms]
 
 *2004|
 [fc]
-俺がそれを口にすると、南先輩が第３の選択肢を提案した。[pcms]
+As I mentioned that, Senior Minami suggested a third option.[pcms]
 
 *2005|
 [fc]
 [vo_stk s="satuki_tj0046"]
-[ns]彩月[nse]
-「あとは……道があるわけじゃないけど、森に逃げ込むか……ね」[pcms]
+[ns]Satsuki[nse]
+"Another option is... not that there's a path, but escaping into the[r]
+forest... right?"[pcms]
 
 *2006|
 [fc]
-[ns]西[nse]
-「どれを選ぶか、ゆっくり考えてる時間はなさそうだな……。[r]
-　どうする、どれを選ぶ？」[pcms]
+[ns]West[nse]
+"We don't have time to think slowly about which to choose... What do[r]
+we do, which one?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1222,16 +1217,16 @@
 ;	[link target=*goto_hotel]少し遠いが、ホテル側出入り口へ逃げる[endlink]
 ;	[link target=*goto_combini]近いコンビニ側の方向へ逃げる[endlink]
 ;	[link target=*goto_forest]道はないが、森へ逃げ込む[endlink]
-;	[s]
+;[pcms]
 
 
 *SEL21|ホテル側出入り口へ／近いコンビニ側の方向へ／森へ
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '少し遠いが、ホテル側出入り口へ逃げる'"]
-[eval exp="f.seltext04 = '近いコンビニ側の方向へ逃げる'"]
-[eval exp="f.seltext06 = '道はないが、森へ逃げ込む'"]
+[eval exp="f.seltext02 = 'Escape to the hotel side entrance, though it\'s a bit far'"]
+[eval exp="f.seltext04 = 'Escape towards the nearby convenience store'"]
+[eval exp="f.seltext06 = 'There\'s no path, but escape into the forest'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -1278,206 +1273,204 @@
 
 *2007|
 [fc]
-俺たちは、少々遠いがホテル側の出入り口を目指して走った。[pcms]
+We decided to run towards the hotel entrance, even though it was a bit[r]
+far.[pcms]
 
 *2008|
 [fc]
-[ns]宗一郎[nse]
-「はあ……ふう……ひい……」[pcms]
+[ns]Souichirou[nse]
+"Haa...whew...hee..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2009|
 [fc]
 [vo_stk s="satuki_tj0047"]
-[ns]彩月[nse]
-「遅いよ、そーいち君！　もっと急いで！！」[pcms]
+[ns]Satsuki[nse]
+"You're slow, Souichi-kun! Hurry up!!"[pcms]
 
 [chara_int_ layer=3][trans_c cross time=150]
 
 *2010|
 [fc]
-そうしたいのはやまやまだけど、[r]
-これでも精一杯走っている。[pcms]
+I would love to do just that, but I'm already running as fast as I[r]
+can.[pcms]
 
 *2011|
 [fc]
-まさに命がけの全力疾走なのに、[r]
-南先輩とフランク先輩から距離を離される一方だった。[pcms]
+It was a life-or-death sprint, yet I was only getting further away[r]
+from Senior Minami and Frank-senpai.[pcms]
 
 *2012|
 [fc]
-[ns]西[nse]
-「そこらじゅうにいるぞ！　気をつけろ！」[pcms]
+[ns]West[nse]
+"They're everywhere! Be careful!"[pcms]
 
 *2013|
 [fc]
-フランク先輩はスケボーから降りると、[r]
-自分の足で走り始める。[pcms]
+Frank-senpai got off his skateboard and started running on his own[r]
+feet.[pcms]
 
 *2014|
 [fc]
-感染者をよけて進むには、基本直線移動のスケボーは[r]
-うまくないと判断したんだろう。[pcms]
+To dodge the infected while moving forward, he must have judged that[r]
+skateboarding in a straight line wasn't the best option.[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan2_x_bl"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *2015|
 [fc]
-[ns]感染者・男Ａ[nse]
-「おぼっ゛～……あ゛～……おまんごぉ……ぎぼぢいぃ～」[pcms]
+[ns]Infected Man A[nse]
+"Obohh~...ah~...pussy...gibberish~"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2016|
 [fc]
 [vo_mob s="banshee0006"]
-[ns]女[nse]
-「ぎゃああぁぁっ！　いやあぁっ！　痛い！　痛いいぃっ！」[pcms]
+[ns]Female[nse]
+"Gyaaaahhh! Noooo! It hurts! It hurts!!"[pcms]
 
 [ChrSetEx layer=1 chbase="mob_kan1_x_bl"][ChrSetXY layer=1 x=790 y=0][trans_c cross time=150]
 
 *2017|
 [fc]
-[ns]感染者・男Ｂ[nse]
-「お゛れにも゛ぉ……や゛らぜろ゛ぉ～！」[pcms]
+[ns]Infected Man B[nse]
+"Let me... too... I want to do it~!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2018|
 [fc]
-俺たちの周囲には、阿鼻叫喚の地獄絵図が展開されていた。[pcms]
+Around us was a hellish tableau of screams and chaos.[pcms]
 
 *2019|
 [fc]
-一人の女に複数の感染者が群がる陰惨な光景が、[r]
-そこかしこで展開されている。[pcms]
+A gruesome scene where multiple infected were swarming over a single[r]
+woman was unfolding everywhere.[pcms]
 
 *2020|
 [fc]
 [vo_mob s="banshee0007"]
-[ns]女[nse]
-「ぎっ！　ぎいいいぃっ！　いだいっ！　いだああぁぃっ゛！！[r]
-　しっ、死ぬうっ！　死んじゃううぅぅっ！！」[pcms]
+[ns]Female[nse]
+"Gih! Giiiiih! It hurts! It hurts!! Ahh, I'm going to die! I'm going[r]
+to die!!"[pcms]
 
 *2021|
 [fc]
-何をされているのかわからないが、女の姿が感染者の群れの中に[r]
-消えて見えなくなる。[pcms]
+I couldn't tell what was being done to her, but the woman's figure[r]
+disappeared into the swarm of infected and was no longer visible.[pcms]
 
 *2022|
 [fc]
-俺はそれを目で追うだけで、[r]
-何をしてやることも出来なかった。[pcms]
+I could only watch with my eyes; I was powerless to do anything.[pcms]
 
 *2023|
 [fc]
-[ns]宗一郎[nse]
-「ふぅ……ふうっ……はあぁっ……はあっ……」[pcms]
+[ns]Souichirou[nse]
+"Huff... huff... ahh... ahh..."[pcms]
 
 *2024|
 [fc]
-俺は無力だ……。[r]
-誰かを助けるどころか、自分が逃げることもままならない。[pcms]
+I am powerless... I can't even manage to escape, let alone help[r]
+someone else.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2025|
 [fc]
 [vo_stk s="satuki_tj0048"]
-[ns]彩月[nse]
-「あともう少しで出口だから、頑張って！」[pcms]
+[ns]Satsuki[nse]
+"We're almost at the exit, hang in there!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2026|
 [fc]
-先頭を切って走る南先輩が俺たちを振り返って、[r]
-励ましの言葉をかけてくれた。[pcms]
+Senior Minami, who was leading the way, looked back at us and offered[r]
+words of encouragement.[pcms]
 
 *2027|
 [fc]
-今腐っていても仕方がない。[r]
-目の前の目的に集中するんだ。[pcms]
+Now is not the time to despair. I need to focus on the goal right in[r]
+front of me.[pcms]
 
 *2028|
 [fc]
-フランク先輩も息を切らしながら、[r]
-必死に南先輩の後を追っていた。[pcms]
+Frank-senpai was also out of breath, desperately following behind[r]
+Senior Minami.[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan5_x_bl"][ChrSetXY layer=4 x=400 y=0][trans_c cross time=150]
 
 *2029|
 [fc]
-そのとき、南先輩の斜め前にあるテントの陰から、[r]
-人影がのっそりと現れる。[pcms]
+Then, from the shadow of a tent diagonally in front of Senior Minami,[r]
+a figure slowly emerged.[pcms]
 
 *2030|
 [fc]
-[ns]宗一郎[nse]
-「南先輩っ、前！！」[pcms]
+[ns]Souichirou[nse]
+"Senior Minami, in front!!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st20"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2031|
 [fc]
 [vo_stk s="satuki_tj0049"]
-[ns]彩月[nse]
-「きゃあっ！」[pcms]
+[ns]Satsuki[nse]
+"Kyaa!"[pcms]
 
 *2032|
 [fc]
-後ろを振り返っていた南先輩は、俺の警告と半瞬の差で[r]
-感染者の腕に服を引っかけられた。[pcms]
+Senior Minami, who had been looking back, got her clothes snagged by[r]
+the arm of an infected person just a split second after my warning.[pcms]
 
 *2033|
 [fc]
-[ns]感染者Ａ[nse]
-「え゛へへ～……お゛ん゛な……つ゛がまえた゛ぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Ehehe~... woman... I want you~"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2034|
 [fc]
-[ns]宗一郎[nse]
-「南先輩っ！」[pcms]
+[ns]Souichirou[nse]
+"Senior Minami!"[pcms]
 
 *2035|
 [fc]
-図らずも動きが止まった俺たちに、[r]
-感染者の視線が集まってくる。[pcms]
+The movement of us, who had inadvertently stopped, attracted the gaze[r]
+of the infected.[pcms]
 
 *2036|
 [fc]
-今までどこにいたのか、[r]
-別のテントの陰からも次々に感染者が現れた。[pcms]
+Where they had been until now, one after another, infected people[r]
+appeared from behind other tents.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=190 y=0][trans_c cross time=150]
 
 *2037|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛～……く゛いものた゛ぁ……ふどっでで……、[r]
-　うまそ゛うだなあ～……はらへっだぁ……[r]
-　にぐぐいだいぞぉ～」[pcms]
+[ns]Infected Person B[nse]
+"Ahh... looks so tasty... so appetizing... I'm starving... it's gonna[r]
+be a good meal~"[pcms]
 
 *2038|
 [fc]
-[ns]宗一郎[nse]
-「ひっ！」[pcms]
+[ns]Souichirou[nse]
+"Hik!"[pcms]
 
 *2039|
 [fc]
-[ns]西[nse]
-「出渕、こっちだ！！」[pcms]
+[ns]West[nse]
+"Izubuchi, this way!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2040|
 [fc]
-フランク先輩が指さす方向に車が放置されている。[r]
-うまい具合に扉が開いている車に向かって、[r]
-俺とフランク先輩は転がり込んでいった。[pcms]
+A car was abandoned in the direction Frank-senpai was pointing. The[r]
+door was conveniently open, and Frank-senpai and I rolled into it.[pcms]
 
 [se buf=1 storage="seA029"]
 ;//♪SE自動車のスライドドア閉める
@@ -1489,59 +1482,57 @@
 
 *2041|
 [fc]
-[ns]宗一郎[nse]
-「はあっ……はあっ……はあっ……はあっ……」[pcms]
+[ns]Souichirou[nse]
+"Haah... haah... haah... haah..."[pcms]
 
 *2042|
 [fc]
-しっかりと扉を閉めると、荒い息づかいを必死に抑えながら[r]
-車のシートに潜り込むようにして身を隠す。[pcms]
+After closing the door firmly, we hid in the car seats as if diving[r]
+into them, desperately trying to suppress our ragged breathing.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=590 y=0][trans_c cross time=150]
 
 *2043|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ、あ゛れぇ……さっぎのやづ……どごいっだのがな゛ぁ～。[r]
-　いぎなり、いなぐなっだぞぉ゛……まあ゛い゛い゛かぁ……」[pcms]
+[ns]Infected Person B[nse]
+"Ah, where did that sassy one go... suddenly gone... well, it's[r]
+okay..."[pcms]
 
 *2044|
 [fc]
-動きの鈍い感染者が振り返るより早く、[r]
-車の中に滑り込めたらしい。[pcms]
+We managed to slide into the car faster than the slow-moving infected[r]
+could turn around.[pcms]
 
 *2045|
 [fc]
-周囲にいた感染者たちが、[r]
-この車に興味を示すことはなかった。[pcms]
+The infected around us showed no interest in this car.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2046|
 [fc]
 [vo_stk s="satuki_tj0050"]
-[ns]彩月[nse]
-「いやあっ！　放せ、放せえっ！！」[pcms]
+[ns]Satsuki[nse]
+"No! Let go, let go!!"[pcms]
 
 *2047|
 [fc]
-感染者に捕まった南先輩が、少し離れたところにある[r]
-車のボンネットに押し倒されている。[pcms]
+Senior Minami, who had been caught by an infected person, was being[r]
+pushed down onto the hood of a car a short distance away.[pcms]
 
 *2048|
 [fc]
-見ていることしかできない。[r]
-助ける……どうやって……。[pcms]
+All I could do was watch. How could I help her...[pcms]
 
 *2049|
 [fc]
-[ns]西[nse]
-「くっ、くそおっ、南っ！！」[pcms]
+[ns]West[nse]
+"Damn it, Minami!!"[pcms]
 
 *2050|
 [fc]
-放置車両の中からその光景を見ることしかできない[r]
-フランク先輩が、下唇を血が出るほど噛みしめていた。[pcms]
+Frank-senpai could only watch the scene from inside the abandoned[r]
+vehicle, biting his lower lip until it bled.[pcms]
 
 ;//ファイル、ターヤルート3000G_b_satuki_Hにジャンプ
 [jump storage="3063.ks" target=*3063_TOP]
@@ -1555,7 +1546,7 @@
 
 *2051|
 [fc]
-俺たちは、一番近いコンビニ側の方向へ逃げることにした。[pcms]
+We decided to flee towards the nearest convenience store.[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x_bl"][ChrSetXY layer=3 x=-90 y=0][trans_c cross time=150]
 [ChrSetEx layer=6 chbase="mob_kan5_x_bl"][ChrSetXY layer=6 x=400 y=0][trans_c cross time=150]
@@ -1563,13 +1554,13 @@
 
 *2052|
 [fc]
-[ns]宗一郎[nse]
-「うわっ！　うじゃうじゃいやがるっ！」[pcms]
+[ns]Souichirou[nse]
+"Uwah! They're swarming!"[pcms]
 
 *2053|
 [fc]
-どこから湧いて出たのか、[r]
-感染者の数が信じられないほど増えている。[pcms]
+The number of infected had increased unbelievably; where had they all[r]
+come from?[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1578,44 +1569,45 @@
 *2054|
 [fc]
 [vo_stk s="satuki_tj0051"]
-[ns]彩月[nse]
-「こっちが比較的少ないわ、早く！」[pcms]
+[ns]Satsuki[nse]
+"This way is relatively clear, hurry!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2055|
 [fc]
-先を進む南先輩は、どちらに進めばいいか的確な判断をしながら[r]
-俺とフランク先輩を導いてくれていた。[pcms]
+Senior Minami, leading the way, made accurate judgments about which[r]
+way to go while guiding me and Frank-senpai.[pcms]
 
 *2056|
 [fc]
-[ns]西[nse]
-「ま、待ってくれ、南……はあ、ふう……」[pcms]
+[ns]West[nse]
+"Wait for me, Minami... haa, phew..."[pcms]
 
 *2057|
 [fc]
-スケボー移動をあきらめたフランク先輩は、[r]
-それでも俺より先に進みながら南先輩の名を呼ぶ。[pcms]
+Frank-senpai had given up on skateboarding and was still calling out[r]
+to Senior Minami while moving ahead of me.[pcms]
 
 *2058|
 [fc]
-[ns]宗一郎[nse]
-「はあっ……ひいっ……はぁっ……ひいっ……」[pcms]
+[ns]Souichirou[nse]
+"Haah... hiik... haah... hiik..."[pcms]
 
 *2059|
 [fc]
-でも俺は、待ってくれということすら出来ないほど[r]
-息が上がって上を向いている有様だった。[pcms]
+But I was so out of breath that I couldn't even ask them to wait for[r]
+me; I was looking upwards, gasping for air.[pcms]
 
 *2060|
 [fc]
-もしも、この危機を無事に乗り切れたら[r]
-１０キロ痩せることを誓うぞ。[pcms]
+If we manage to get through this crisis safely, I swear I'll lose 10[r]
+kilos.[pcms]
 
 *2061|
 [fc]
-そのくらいだったら絶望的なフラグだって見逃してくれるはずだ。[pcms]
+With that much at stake, even the most desperate flags should overlook[r]
+me.[pcms]
 
 ;//[bg storage="BG06a"][trans_c cross time=500]
 
@@ -1624,97 +1616,94 @@
 *2062|
 [fc]
 [vo_stk s="satuki_tj0052"]
-[ns]彩月[nse]
-「二人とも急いで！　もうすぐ出口よ！」[pcms]
+[ns]Satsuki[nse]
+"Both of you, hurry! We're almost at the exit!"[pcms]
 
 *2063|
 [fc]
-南先輩の前方にキャンプ場の出口が見える。[pcms]
+The exit of the campground was visible ahead of Senior Minami.[pcms]
 
 *2064|
 [fc]
-後ろを振り返っていた南先輩が前を向こうとしたとき、[r]
-何かに足をすくわれるように空中に身を踊らせていた。[pcms]
+Just as Senior Minami, who had been looking back, turned forward, she[r]
+seemed to be tripped by something and was sent flying into the air.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw3_a"][ChrSetParts layer=5 chface="f1_st14"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2065|
 [fc]
 [vo_stk s="satuki_tj0053"]
-[ns]彩月[nse]
-「きゃっ！？」[pcms]
+[ns]Satsuki[nse]
+"Kyah!?"[pcms]
 
 *2066|
 [fc]
-よく見てみると、南先輩の足に手が絡み付いている。[r]
-それは横にある車の下から伸びているようだった。[pcms]
+Upon closer inspection, there were hands entwined around Senior[r]
+Minami's legs. They seemed to be reaching out from under a nearby car.[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan2_x_bl"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *2067|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛……お゛おお……お゛んな゛……つ゛かま゛えたぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Guh... guhoo... guhnna... caught ya~"[pcms]
 
 *2068|
 [fc]
 [vo_stk s="satuki_tj0054"]
-[ns]彩月[nse]
-「や、やだっ！　放せっ！　放してよっ！！」[pcms]
+[ns]Satsuki[nse]
+"No, no! Let go! Let me go!!"[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x_bl"][ChrSetXY layer=3 x=-90 y=0][trans_c cross time=150]
 
 *2069|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛～……な゛んた゛ぁ……お゛まえ゛ぇ……お゛ん゛な……、[r]
-　つ゛か゛ま゛えた゛の゛か゛よ～[r]
-　お゛……お゛れ゛に゛も……や゛ら゛せろ゛よぉ～」[pcms]
+[ns]Infected Person B[nse]
+"Ah~... what's... this... a woman... caught by you... guh... let me[r]
+have a turn too~"[pcms]
 
 *2070|
 [fc]
-新たな感染者が、車の中から現れた。[pcms]
+A new infected person emerged from inside the car.[pcms]
 
 *2071|
 [fc]
-キャンプ場の人が襲われて、その襲われた人が[r]
-新たな感染者になって……。[pcms]
+The people at the campground were attacked, and those who were[r]
+attacked became new infected...[pcms]
 
 *2072|
 [fc]
-爆発的にその数が増えている。[pcms]
+The number was increasing explosively.[pcms]
 
 *2073|
 [fc]
-[ns]西[nse]
-「南っ！！」[pcms]
+[ns]West[nse]
+"Minami!!"[pcms]
 
 *2074|
 [fc]
-感染者につかまった南先輩を見て、フランク先輩が叫んだ。[pcms]
+Seeing Senior Minami caught by the infected, Frank-senpai shouted.[pcms]
 
 *2075|
 [fc]
-[ns]感染者Ａ[nse]
-「ん゛～……な゛ん゛た゛ぁ……[r]
-　た゛れ゛か゛いんの゛か゛ぁ～？」[pcms]
+[ns]Infected Person A[nse]
+"Nn~... what's... someone else there~?"[pcms]
 
 *2076|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛ま゛んこ゛も……い゛いけ゛と゛……[r]
-　は゛ら゛もへったなぁ～……、[r]
-　に゛く゛が、く゛い゛た゛いそ゛ぉ～」[pcms]
+[ns]Infected Person B[nse]
+"The pussy too... feels good... I'm hungry now~... I want to eat[r]
+meat~"[pcms]
 
 *2077|
 [fc]
-西先輩の声に反応して、南先輩を捕まえた感染者たちが[r]
-こちらを向く。[pcms]
+The infected who had caught Senior Minami turned towards us in[r]
+response to West-senpai's voice.[pcms]
 
 *2078|
 [fc]
-[ns]宗一郎[nse]
-「西先輩！　こっちへ！」[pcms]
+[ns]Souichirou[nse]
+"West-senpai! This way!"[pcms]
 
 ;//[trans_c cross time=0]
 [chara_int]
@@ -1722,48 +1711,47 @@
 
 *2079|
 [fc]
-俺はそのまま南先輩のところに突っ込んで行きそうな[r]
-フランク先輩の腕をとると、放置車両の影に回り込み、[r]
-感染者たちの反対側のドアから中に潜り込んだ。[pcms]
+I grabbed Frank-senpai's arm as he was about to rush towards Senior[r]
+Minami and pulled him around the shadow of the abandoned vehicle,[r]
+slipping through the door on the opposite side from the infected.[pcms]
 
 *2080|
 [fc]
-[ns]西[nse]
-「い、出渕、南が、南が……っ」[pcms]
+[ns]West[nse]
+"I, Izubuchi, Minami is, Minami is...!"[pcms]
 
 *2081|
 [fc]
-フランク先輩がぎりぎりと唇を噛みしめる。[r]
-その気持ちは痛いほどわかるけど、今飛び出して行っても[r]
-犠牲者がひとり増えるだけだ。[pcms]
+Frank-senpai bit his lip tightly. I understood his feelings all too[r]
+well, but rushing out now would only increase the number of victims.[pcms]
 
 *2082|
 [fc]
-[ns]宗一郎[nse]
-「…………西……先輩……」[pcms]
+[ns]Souichirou[nse]
+"...West... senpai..."[pcms]
 
 *2083|
 [fc]
-俺は、西先輩が飛び出して行かないように腕をとりながら、[r]
-南先輩が感染者につかまって、放置車両のボンネットの上に[r]
-押し倒されるのを、見ていることしかできなかった。[pcms]
+I could only watch as Senior Minami was caught by the infected and[r]
+pushed onto the hood of the abandoned vehicle while I held onto West-[r]
+senpai to prevent him from running out.[pcms]
 
 *2084|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛は゛は゛は……わ゛か゛い゛おん゛な゛の……、[r]
-　お゛ま゛ん゛こ゛……た゛ま゛ん゛ねぇな゛ぁ……」[pcms]
+[ns]Infected Person A[nse]
+"Ahahaha... such a young woman... your pussy... can't resist, can[r]
+it..."[pcms]
 
 *2085|
 [fc]
 [vo_stk s="satuki_tj0055"]
-[ns]彩月[nse]
-「嫌っ！　嫌あっ！　いやあああぁぁああぁぁっ！！！」[pcms]
+[ns]Satsuki[nse]
+"No! Nooo! Nooooooo!!!"[pcms]
 
 *2086|
 [fc]
-彩月の悲痛な叫び声が、車の中に隠れた[r]
-俺たちの耳にまで届いていた。[pcms]
+Satsuki's anguished screams reached our ears even as we hid inside the[r]
+car.[pcms]
 
 ;//ファイル、ターヤルート3000G_b_satuki_Hにジャンプ
 ;//ここでファイル合流です（た）
@@ -1777,201 +1765,196 @@
 *2087|
 [fc]
 [vo_stk s="satuki_tj0056"]
-[ns]彩月[nse]
-「連中に気づかれないように、そっと動くわよ……」[pcms]
+[ns]Satsuki[nse]
+"We need to move quietly so they don't notice us..."[pcms]
 
 *2088|
 [fc]
-[ns]宗一郎[nse]
-「りょ、了解であります」[pcms]
+[ns]Souichirou[nse]
+"R-roger that."[pcms]
 
 *2089|
 [fc]
-[ns]西[nse]
-「よし、行こう」[pcms]
+[ns]West[nse]
+"Alright, let's go."[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 [bg storage="forest01a"][trans_c cross time=500]
 
 *2090|
 [fc]
-俺たちは周囲の感染者たちに気づかれないよう、身を低くしながら[r]
-背後に広がる藪をかき分けて、森の中へと入った。[pcms]
+We moved through the bushes behind us, keeping low so as not to be[r]
+noticed by the surrounding infected, and entered the forest.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw3_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2091|
 [fc]
 [vo_stk s="satuki_tj0057"]
-[ns]彩月[nse]
-「予想はしてたけど、かなり音がするわね……」[pcms]
+[ns]Satsuki[nse]
+"As expected, it's making quite a noise..."[pcms]
 
 *2092|
 [fc]
-がさがさと藪をかき分けながら、まったく道のない所を[r]
-前方へと進んでいく。[pcms]
+Rustling through the bushes with no path in sight, we continued[r]
+forward.[pcms]
 
 *2093|
 [fc]
-確かにこれだけ音を立てて、[r]
-気が付かれないということもないと思うが……。[pcms]
+Indeed, with all this noise, it's unlikely that we wouldn't be[r]
+noticed...[pcms]
 
 *2094|
 [fc]
-[ns]宗一郎[nse]
-「どうやら、俺たちの後をついてきたりはしてないみたいですね」[pcms]
+[ns]Souichirou[nse]
+"It seems like they're not following us for now."[pcms]
 
 *2095|
 [fc]
-[ns]西[nse]
-「感染者も元は人間だから、人間だった頃の習慣なんかに[r]
-　行動が支配されてるのかもな」[pcms]
+[ns]West[nse]
+"The infected were once human, so maybe their actions are governed by[r]
+habits from when they were human."[pcms]
 
 *2096|
 [fc]
-フランク先輩の言葉には何の根拠もないが、何となく[r]
-そうかも知れないと思わせられた。[pcms]
+There was no basis for Frank-senpai's words, but somehow they made me[r]
+think that might be true.[pcms]
 
 *2097|
 [fc]
-とにかく、キャンプ場からは遠ざからないといけない。[r]
-俺たちは森の中をどんどん進んでいく。[pcms]
+Anyway, we have to get away from the campground. We kept moving deeper[r]
+into the forest.[pcms]
 
 *2098|
 [fc]
-後ろを振り返っても誰かが付いてくる様子はないが、[r]
-見えない何かに追い立てられるように、[r]
-奥へ奥へと進んでいった。[pcms]
+Looking back, there was no sign of anyone following us, but we felt[r]
+driven by something unseen, pushing us further and further in.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw3_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2099|
 [fc]
 [vo_stk s="satuki_tj0058"]
-[ns]彩月[nse]
-「この辺まで来れば、とりあえず安心かしらね」[pcms]
+[ns]Satsuki[nse]
+"Now that we've come this far, maybe we're safe for now."[pcms]
 
 *2100|
 [fc]
-南先輩がそう言うと、根拠はないのに何となく安心する。[r]
-フランク先輩も俺と同じ気持ちのようで、[r]
-ホッとした顔をしていた。[pcms]
+When Satsuki-senpai said that, I felt reassured without any real[r]
+reason. Frank-senpai seemed to feel the same way, showing a relieved[r]
+expression.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2101|
 [fc]
-そうだ、誠はどうしている？[r]
-俺たちと同じようなことになってるんじゃないだろうか。[pcms]
+I wonder how Makoto is doing. Could he be in a similar situation to[r]
+us?[pcms]
 
 *2102|
 [fc]
-俺は、ハッと携帯に思いがいった。[r]
-何か連絡がきているんじゃないのか？[pcms]
+I suddenly thought of my cell phone. Could there be a message?[pcms]
 
 *2103|
 [fc]
-ポケットから携帯を取り出すと、[r]
-案の定、誠から着信が入っている。[pcms]
+When I took out my cell phone from my pocket, sure enough, there was a[r]
+missed call from Makoto.[pcms]
 
 *2104|
 [fc]
-俺は震える手を押さえながら誠に折り返しの連絡を入れると、[r]
-まるでそれを待っていたみたいに、ワンコールで繋がった。[pcms]
+I called Makoto back with trembling hands, and it connected on the[r]
+first ring as if he had been waiting for it.[pcms]
 
 *2105|
 [fc]
-[ns]宗一郎[nse]
-「誠、無事か！？」[pcms]
+[ns]Souichirou[nse]
+"Makoto, are you safe!?"[pcms]
 
 *2106|
 [fc]
-[ns]誠[nse]
-「なんとか。そっちは！？」[pcms]
+[ns]Makoto[nse]
+"Somehow. What about you guys!?"[pcms]
 
 *2107|
 [fc]
-[ns]宗一郎[nse]
-「こっちも何とか無事だ。いま、南先輩とフランク先輩と一緒に[r]
-　キャンプ場の裏の森の中に逃げ込んだとこだ」[pcms]
+[ns]Souichirou[nse]
+"We're also somehow safe. Right now, I'm with Satsuki-senpai and[r]
+Frank-senpai, we've fled into the forest behind the campground."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw3_a"][ChrSetParts layer=5 chface="F2_st20"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2108|
 [fc]
 [vo_stk s="satuki_tj0059"]
-[ns]彩月[nse]
-「きっ、来たっ！！」[pcms]
+[ns]Satsuki[nse]
+"They're here!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2109|
 [fc]
-南先輩のび声に顔を上げると、そこには無数の感染者たちが[r]
-ゆらゆらとこちらに近づいてくる姿があった。[pcms]
+When I looked up at Satsuki-senpai's voice, I saw countless infected[r]
+swaying and approaching us.[pcms]
 
 *2110|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～……は゛ら゛へ゛った゛ぁ……、[r]
-　に゛く゛ぅ、に゛く゛……く゛わ゛せ゛ろぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahh... I'm so hungry... meat, meat... I'll eat you~"[pcms]
 
 *2111|
 [fc]
-[ns]感染者Ｂ[nse]
-「お゛ま゛え゛ら……は゛っか゛り、お゛まん゛こを……、[r]
-　ひ゛とり゛し゛めし゛よう゛った゛って゛……、[r]
-　そ゛う゛は、さ゛せ゛る゛かよ……」[pcms]
+[ns]Infected Person B[nse]
+"You guys... always hiding your pussies... thinking you can escape...[r]
+not gonna let you..."[pcms]
 
 ;//【感染者Ｃ[nse]
-;//「あはぁ～……おちんぽよぉ～……おちんぽがふたつもあるわぁ～。
-;//　あたしと……いいことしましょうよぉ～」
+;//「あはぁ……おちんぽよぉ……おちんぽがふたつもあるわぁ。
+;//　あたしと……いいことしましょうよぉ」
 ;//m:上記、女だったので米アウト
 
 *2112|
 [fc]
-[ns]感染者Ｃ[nse]
-「こ゛……こ゛えが、き゛こえ゛たの゛は……[r]
-　こ゛っち゛か゛ぁ～」[pcms]
+[ns]Infected Person C[nse]
+"The... the voice, I heard it... it's coming from over here~"[pcms]
 
 *2113|
 [fc]
-どうやら俺の電話の声が大きすぎて、感染者の耳に[r]
-聞こえてしまったみたいだった。[pcms]
+It seemed that my voice on the phone was too loud, and it had reached[r]
+the ears of the infected.[pcms]
 
 *2114|
 [fc]
-せっかく逃げたのに、[r]
-南先輩とフランク先輩に迷惑をかけてしまった。[pcms]
+Despite our escape, I had caused trouble for Satsuki-senpai and Frank-[r]
+senpai.[pcms]
 
 *2115|
 [fc]
-後悔の念が舌をしびれさせる。[pcms]
+A feeling of regret numbed my tongue.[pcms]
 
 *2116|
 [fc]
-[ns]宗一郎[nse]
-「お、俺のせいで……申し訳ありません……」[pcms]
+[ns]Souichirou[nse]
+"It's my fault... I'm so sorry..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw3_a"][ChrSetParts layer=5 chface="F2_st22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2117|
 [fc]
 [vo_stk s="satuki_tj0060"]
-[ns]彩月[nse]
-「謝るのはあと。それよりも、今は逃げるわよ！」[pcms]
+[ns]Satsuki[nse]
+"Apologies can wait. For now, we need to run!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2118|
 [fc]
-南先輩もフランク先輩も愚痴一つこぼさずに、[r]
-次善の策を実行しようとしている。[pcms]
+Neither Satsuki-senpai nor Frank-senpai complained, instead trying to[r]
+implement the next best plan of action.[pcms]
 
 *2119|
 [fc]
-俺は軽口をたたく精神的な余裕もないまま、[r]
-更に森の奥に向かって走り出した。[pcms]
+Without any mental leeway to crack jokes, I started running deeper[r]
+into the forest.[pcms]
 
 ;//フラグgoto_forest成立
 [eval exp="f.l_alive_satuki = 1"]

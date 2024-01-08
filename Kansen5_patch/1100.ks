@@ -22,196 +22,197 @@
 
 *1772|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1773|
 [fc]
 [vo_aka s="akari0397"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *1774|
 [fc]
-性欲が発散されたためか、正気に戻った越智さんの身体を、[r]
-水で濡らしたタオルで拭いていく。[pcms]
+Perhaps because her sexual desire had been released, I wiped Ochi-[r]
+san's body with a towel dampened with water as she returned to her[r]
+senses.[pcms]
 
 *1775|
 [fc]
-辺りには、まださっきの熱と匂いが残っていて、[r]
-なんとなく気まずい雰囲気だった。[pcms]
+The heat and smell of what had just happened still lingered around us,[r]
+creating an awkward atmosphere.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1776|
 [fc]
 [vo_aka s="akari0398"]
-[ns]茜梨[nse]
-「私のこと……軽蔑していますよね」[pcms]
+[ns]Akari[nse]
+"You must despise me now..."[pcms]
 
 *1777|
 [fc]
-[ns]誠[nse]
-「軽蔑なんてしていないよ、越智さんは今、[r]
-　悪い病気にかかっているだけだ」[pcms]
+[ns]Makoto[nse]
+"I don't despise you at all, Ochi-san. You're just suffering from a[r]
+bad illness right now."[pcms]
 
 *1778|
 [fc]
 [vo_aka s="akari0399"]
-[ns]茜梨[nse]
-「そうです……心の内側まで、全部さらけ出してしまう病気です」[pcms]
+[ns]Akari[nse]
+"Yes... It's an illness that lays bare everything inside my heart."[pcms]
 
 *1779|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1780|
 [fc]
-越智さんは、どちらかというと繊細な部類に入る人だと思う。[r]
-さっきのことが、どれだけ心に傷を残しているか、[r]
-僕には想像もできないことだろう。[pcms]
+I think Ochi-san is rather delicate by nature. I can't even imagine[r]
+how much the recent events have scarred her heart.[pcms]
 
 ;//SE：背後からの抱擁。衣服が擦れる音でもOK？
 
 *1781|
 [fc]
-越智さんの身体を後ろからそっと抱きしめる。[r]
-やましい気持ちを感じさせないように。[pcms]
+I gently embraced Ochi-san from behind, careful not to let her feel[r]
+any shameful emotions.[pcms]
 
 ;//めの：背後から抱擁されているので立ち絵なし。
 
 *1782|
 [fc]
 [vo_aka s="akari0400"]
-[ns]茜梨[nse]
-「駄目です……中澤先輩にも、ウイルスが……」[pcms]
+[ns]Akari[nse]
+"No, it's not good... The virus might spread to you too, Nakazawa-[r]
+senpai..."[pcms]
 
 *1783|
 [fc]
-[ns]誠[nse]
-「必ず越智さんを助けるからね、心配しないで」[pcms]
+[ns]Makoto[nse]
+"I will definitely save you, Ochi-san. Don't worry."[pcms]
 
 *1784|
 [fc]
-越智さんは微かに肩を震わせて、[r]
-涙を堪えるようにしていた。[pcms]
+Ochi-san trembled slightly in my arms, as if she was holding back[r]
+tears.[pcms]
 
 *1785|
 [fc]
 [vo_aka s="akari0401"]
-[ns]茜梨[nse]
-「はい……」[pcms]
+[ns]Akari[nse]
+"Yes..."[pcms]
 
 *1786|
 [fc]
-[ns]誠[nse]
-「今は悪い夢を見ているんだ、[r]
-　何が起きても越智さんを軽蔑したりしないから」[pcms]
+[ns]Makoto[nse]
+"You're just having a bad dream right now. No matter what happens, I[r]
+won't despise you, Ochi-san."[pcms]
 
 *1787|
 [fc]
 [vo_aka s="akari0402"]
-[ns]茜梨[nse]
-「はい……」[pcms]
+[ns]Akari[nse]
+"Yes..."[pcms]
 
 ;//めも：文章の合間に携帯の操作音SEでも
 
 *1788|
 [fc]
-僕は抱擁をやめると、携帯を取りだして[r]
-この辺りの地図を呼び出した。[pcms]
+I stopped the embrace and took out my cellphone to pull up a map of[r]
+the area.[pcms]
 
 *1789|
 [fc]
-神社から続く道はどちらも活用が難しそうだから、[r]
-何か他の手を考えないとけいない。[pcms]
+The roads leading from the shrine seemed difficult to navigate, so I[r]
+had to think of another plan.[pcms]
 
 *1790|
 [fc]
-自衛隊はどれくらいであそこを去るのか、[r]
-港の方面に感染者はどれくらいいるのか。[pcms]
+How long would it take for the Self-Defense Forces to leave that[r]
+place? How many infected people were there in the direction of the[r]
+port?[pcms]
 
 *1791|
 [fc]
-不確定な要素が多くて、[r]
-また時間を食ってしまう可能性が高い。[pcms]
+There were too many uncertainties, and it was likely that this would[r]
+consume more time.[pcms]
 
 *1792|
 [fc]
-急がば回れじゃないけれど、[r]
-確実な道を進んだ方が良さそうだった。[pcms]
+It's not about hurrying, but it seemed better to proceed on a reliable[r]
+path.[pcms]
 
 *1793|
 [fc]
-[ns]誠[nse]
-「回線が重いな……」[pcms]
+[ns]Makoto[nse]
+"The connection is slow..."[pcms]
 
 *1794|
 [fc]
-更新されているならニュースを見たいところだけど、[r]
-余計なことをしている暇はない。[pcms]
+I'd like to check the news if it's been updated, but there's no time[r]
+for unnecessary things.[pcms]
 
 *1795|
 [fc]
-今はとにかくこの辺りの地図が必要だった。[r]
-神社から越智本家に続く道が……。[pcms]
+Right now, I just needed a map of this area. The road leading from the[r]
+shrine to the Ochi family home...[pcms]
 
 *1796|
 [fc]
-この回線の重さからして、[r]
-他の地域も似たようなことになっているんだろうと予測できる。[pcms]
+Given the slowness of the connection, I could guess that other regions[r]
+were probably experiencing something similar.[pcms]
 
 *1797|
 [fc]
-この島一帯だけで起きている事件なら、[r]
-ネットがこんなことにはならないだろう。[pcms]
+If this incident was only happening on this island, the net wouldn't[r]
+be like this.[pcms]
 
 *1798|
 [fc]
-今、回線を使っている人間なんて極わずかなはずだから、[r]
-規制が行われること自体がおかしい。[pcms]
+There should be very few people using the network right now, so it's[r]
+strange that there would be any restrictions at all.[pcms]
 
 *1799|
 [fc]
-でも、少なくとも自衛隊はしっかりと機能していた。[r]
-本当なら頼りたいところだけど……。[pcms]
+But at least the Self-Defense Forces seemed to be functioning[r]
+properly. I would rely on them if I could...[pcms]
 
 *1800|
 [fc]
-なんとか自力で美沙緒さんのいる屋敷まで[r]
-たどり着かないと……。[pcms]
+I have to somehow reach the mansion where Misao-san is by myself...[pcms]
 
 *1801|
 [fc]
-[ns]誠[nse]
-「地図が来た」[pcms]
+[ns]Makoto[nse]
+"The map's here."[pcms]
 
 *1802|
 [fc]
-携帯にこの辺り一帯の地図が表示される。[r]
-やっぱり、道は大きく分けて二つになっているみたいだった。[pcms]
+The map of the surrounding area appeared on my cellphone. As expected,[r]
+it looked like there were mainly two roads to choose from.[pcms]
 
 *1803|
 [fc]
-でも、この道を使うとさっきと同じ事になってしまう。[r]
-もしくは、一か八か港に出るしかない。[pcms]
+But using this road would lead to the same situation as before. Or[r]
+else, it's a gamble to head towards the port.[pcms]
 
 *1804|
 [fc]
-神社を東に行くと旧日本軍砲台跡や、[r]
-変電所があるみたいだった。[pcms]
+To the east of the shrine, there seemed to be remnants of old Japanese[r]
+military artillery and a substation.[pcms]
 
 *1805|
 [fc]
-スポーツセンターに行くときに見えたけれど、[r]
-あの辺りには携帯基地局のアンテナも立っていたはずだ。[pcms]
+I saw it when I went to the sports center; there should also be a cell[r]
+tower antenna around that area.[pcms]
 
 *1806|
 [fc]
-観光地や様々な施設に道が続いている。[pcms]
+Roads continued to various tourist spots and facilities.[pcms]
 
 ;//めも：距離をおいてます。あとわざと右立ちです。
 
@@ -219,106 +220,103 @@
 
 *1807|
 [fc]
-[ns]誠[nse]
-「越智さんは、ここから実家まで行ける裏道みたいなのを[r]
-　知っていたりする？」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, do you know any back roads from here to your family home[r]
+that we could take?"[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1808|
 [fc]
 [vo_aka s="akari0403"]
-[ns]茜梨[nse]
-「すみません、わからないです……」[pcms]
+[ns]Akari[nse]
+"I'm sorry, I don't know..."[pcms]
 
 *1809|
 [fc]
-[ns]誠[nse]
-「ううん、念のために聞いてみただけだから。[r]
-　できることはなんでもしないとね」[pcms]
+[ns]Makoto[nse]
+"No, it's fine. I just asked in case. We have to do whatever we can."[pcms]
 
 *1810|
 [fc]
 [vo_aka s="akari0404"]
-[ns]茜梨[nse]
-「はい……」[pcms]
+[ns]Akari[nse]
+"Yes..."[pcms]
 
 *1811|
 [fc]
-人口密集地からは、細い道がつづいていて、[r]
-隣町までそれが伸びているみたいだった。[pcms]
+Narrow roads continued from densely populated areas, and it seemed[r]
+they stretched all the way to the neighboring town.[pcms]
 
 *1812|
 [fc]
-越智本家のある町からも、[r]
-その細い道がちゃんとつづいている。[pcms]
+The narrow road also properly continues from the town where the Ochi[r]
+family home is located.[pcms]
 
 *1813|
 [fc]
-海岸線に沿って伸びている大通りには、[r]
-自衛隊が張っているみたいだけど、[r]
-この道ならどうだろうか。[pcms]
+It seems like the Self-Defense Forces are stationed along the main[r]
+street that stretches along the coastline, but what about this road?[pcms]
 
 *1814|
 [fc]
-感染者はどこにでもいるだろうけれど、数が少なそうだし、[r]
-自衛隊もいないような気がする。[pcms]
+There are likely to be infected people everywhere, but their numbers[r]
+seem fewer, and it feels like there are no Self-Defense Forces around.[pcms]
 
 *1815|
 [fc]
-神社からこの細い道に行くには、海岸線を移動しながら、[r]
-隣町まで行って利用する必要があるけれど、[r]
-それはしたくない。[pcms]
+To get to this narrow road from the shrine, we would need to move[r]
+along the coastline and go to the neighboring town to use it, but I[r]
+don't want to do that.[pcms]
 
 *1816|
 [fc]
-多少厳しい道のりになるだろうけれど、[r]
-山道を東に突っ切って、直接その道路に向かうのが一番に思えた。[pcms]
+It will be a somewhat tough journey, but it seemed best to cut[r]
+directly east through the mountain roads and head straight for that[r]
+road.[pcms]
 
 *1817|
 [fc]
-僕は越智さんに作戦を説明していく。[r]
-体力の消耗が激しいだろうけれど、[r]
-選択肢が極端に狭められていた。[pcms]
+I explain the strategy to Ms. Ochi. It will be physically demanding,[r]
+but our options were extremely limited.[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak25"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1818|
 [fc]
 [vo_aka s="akari0405"]
-[ns]茜梨[nse]
-「わかりました、神社を東に行けば、[r]
-　越智本家まで行けるはずです」[pcms]
+[ns]Akari[nse]
+"Understood, if we head east from the shrine, we should be able to[r]
+reach the Ochi family home."[pcms]
 
 *1819|
 [fc]
-[ns]誠[nse]
-「うん、自然の山を歩くのは堪えると思うけれど……」[pcms]
+[ns]Makoto[nse]
+"Yeah, I think walking through natural mountains will be tough..."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak04"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1820|
 [fc]
 [vo_aka s="akari0406"]
-[ns]茜梨[nse]
-「いえ、今まで鍛えてきた自分の身体を信じます」[pcms]
+[ns]Akari[nse]
+"No, I believe in the body I've trained up until now."[pcms]
 
 *1821|
 [fc]
-[ns]誠[nse]
-「そうか、なら急ぐとしよう」[pcms]
+[ns]Makoto[nse]
+"Right, then let's hurry."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1822|
 [fc]
-越智さんは、睨み付けるような目を山道に向けた。[pcms]
+Ms. Ochi glared at the mountain path with determined eyes.[pcms]
 
 *1823|
 [fc]
-ちょっと険しそうな顔だったけど、[r]
-それがむしろ頼もしくも、凛々しくも見えて、[r]
-僕の不安は吹き飛んでいく。[pcms]
+Her face looked a bit stern, but that sternness seemed all the more[r]
+reliable and gallant, blowing away my anxiety.[pcms]
 
 [black_toplayer][trans_c blind_lr time=1000][hide_chara_int]
 [bg storage="forest02a"][trans_c blind_lr time=1000]
@@ -328,8 +326,8 @@
 
 *1824|
 [fc]
-ターヤさんたちに見付からないように神社を出ると、[r]
-分かれ道まで進んで、そこをまっすぐ進んでいった。[pcms]
+We left the shrine without being spotted by Tarja and her group,[r]
+proceeded to the fork in the road, and then went straight ahead.[pcms]
 
 [white_toplayer][trans_c wipe time=500][hide_chara_int_w]
 [bg storage="sky01B"][trans_c cross time=2000]
@@ -339,8 +337,8 @@
 
 *1825|
 [fc]
-頭上を巨大なエンジン音が通り過ぎていく。[r]
-見上げてみると、それは自衛隊の大型輸送ヘリだった。[pcms]
+A huge engine noise passed overhead. Looking up, it was a large Self-[r]
+Defense Force transport helicopter.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -348,8 +346,8 @@
 
 *1826|
 [fc]
-軽車両を釣り下げて飛んでいるところを見ると、[r]
-既に降下している自衛隊の増援なんだろう。[pcms]
+Seeing it fly by with a light vehicle dangling below, it must be[r]
+reinforcements for the Self-Defense Forces that have already landed.[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
@@ -360,16 +358,16 @@
 
 *1827|
 [fc]
-急がないと、辺り一帯が自衛隊に制圧されてしまう。[r]
-そうなったら、もう身動きが取れない。[pcms]
+We need to hurry, or the entire area will be controlled by the Self-[r]
+Defense Forces. Once that happens, we won't be able to move at all.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
 
 *1828|
 [fc]
-僕は越智さんの様子を気遣いながら、[r]
-山道へと踏み込んでいった。[pcms]
+I stepped into the mountain path while being considerate of Ms. Ochi's[r]
+condition.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

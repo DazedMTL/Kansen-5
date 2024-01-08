@@ -29,34 +29,32 @@
 
 *2531|
 [fc]
-オレは、港の方へ逃げようと、海に向かって走り出した。[pcms]
+I started running towards the sea, trying to escape to the harbor.[pcms]
 
 *2532|
 [fc]
-しかし、あっという間に行く手を複数の感染者に[r]
-遮られてしまう。[pcms]
+However, in no time at all, my path was blocked by several infected.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=190 y=0][trans_c cross time=150]
 
 *2533|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛お゛ぉ～……お゛ん゛なだあ゛あぁ～。[r]
-　え、えろ゛い……か゛っこ゛して゛んな゛あぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Oooh... a woman, aah... eh, so lewd... doing it like that, aahh~"[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan2_x_bl"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *2534|
 [fc]
-[ns]感染者Ｂ[nse]
-「こ゛の゛ぉ……や゛りま゛ん、お゛んなか゛あぁ～。[r]
-　おま゛んこ゛……や゛らせ゛ろお゛ぉ～」[pcms]
+[ns]Infected Person B[nse]
+"This... bitch, she's a slut, aahh~. Let me... fuck that pussy...[r]
+ooh~"[pcms]
 
 *2535|
 [fc]
 [vo_nat s="natu_tj0064"]
-[ns]夏都[nse]
-「ふざけんなっ！　誰がヤリマンだっっ！！」[pcms]
+[ns]Natsu[nse]
+"Don't mess with me! Who are you calling a slut!!"[pcms]
 
 [se buf=0 storage="seB010"]
 ;//打撃
@@ -66,68 +64,68 @@
 
 *2536|
 [fc]
-思わずカッとして、オレは感染者の顔面を思い切り殴りつけた。[pcms]
+Overcome with anger, I punched one of the infected right in the face[r]
+with all my might.[pcms]
 
 *2537|
 [fc]
-[ns]感染者Ａ[nse]
-「い、いっ゛て゛ぇな゛あ゛ぁ～……なに、すんた゛[r]
-　こ゛のや゛りま゛ん……おん゛な゛あ～」[pcms]
+[ns]Infected Person A[nse]
+"Ow, that hurts... what are you doing, you slutty... woman~"[pcms]
 
 *2538|
 [fc]
-殴りつけた感染者は、オレの渾身のパンチにもびくともしない。[pcms]
+The infected I punched didn't even flinch from my all-out punch.[pcms]
 
 *2539|
 [fc]
-むしろ、足を止めて殴りつけたせいで、他の感染者に[r]
-囲まれる時間を与えてしまっただけだった。[pcms]
+Rather, by stopping to punch them, I had only given the other infected[r]
+time to surround me.[pcms]
 
 [ChrSetEx layer=3 chbase="mob_kan1_x_bl"][ChrSetXY layer=3 x=-90 y=0][trans_c cross time=150]
 
 *2540|
 [fc]
-[ns]感染者Ｃ[nse]
-「な、なま゛いき゛な……や゛りま゛んお゛んなに……、[r]
-　お゛しお゛きた゛あぁ～」[pcms]
+[ns]Infected Person C[nse]
+"You're so fresh... you slutty woman..., it's time for your[r]
+punishment~"[pcms]
 
 [ChrSetEx layer=1 chbase="mob_kan1_x_bl"][ChrSetXY layer=1 x=690 y=0][trans_c cross time=150]
 
 *2541|
 [fc]
-[ns]感染者Ｄ[nse]
-「う゛お゛ぉ～、や、やっち゛まえぇ～」[pcms]
+[ns]Infected D[nse]
+"Oooh~, go on, do it~"[pcms]
 
 *2542|
 [fc]
-何人もの感染者が、一度にオレに向かって押し寄せてきた。[pcms]
+Several infected people surged towards me all at once.[pcms]
 
 *2543|
 [fc]
 [vo_nat s="natu_tj0065"]
-[ns]夏都[nse]
-「やめ……やめろおおぉっ！！」[pcms]
+[ns]Natsu[nse]
+"Stop... stop it!!"[pcms]
 
 *2544|
 [fc]
-恐怖に駆られて、オレは押し寄せる感染者たちに[r]
-拳を、掌底を、肘を、頭突きを死にものぐるいで繰り出した。[pcms]
+Driven by fear, I desperately threw punches, palm strikes, elbows, and[r]
+headbutts at the approaching infected.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2545|
 [fc]
-オレの必死の攻撃は、少しは感染者たちの出足を[r]
-くじくことができたらしい。[pcms]
+My desperate attacks seemed to have slowed down the infected's advance[r]
+a little.[pcms]
 
 *2546|
 [fc]
-しかし、そこで一瞬油断したのがまずかった。[pcms]
+But it was bad to let my guard down even for a moment.[pcms]
 
 *2547|
 [fc]
-膝をひとりの感染者の顔面に叩き込んだ時、別の感染者に[r]
-軸足をつかまれて、オレは砂浜に倒されてしまう。[pcms]
+When I kneed one of the infected in the face, another one grabbed my[r]
+supporting leg, and I was thrown down onto the sandy beach.[pcms]
 
 [quake_bg y m]
 ;//縦揺れ
@@ -135,8 +133,8 @@
 *2548|
 [fc]
 [vo_nat s="natu_tj0066"]
-[ns]夏都[nse]
-「うわっ！」[pcms]
+[ns]Natsu[nse]
+"Uwah!"[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -145,13 +143,13 @@
 
 *2549|
 [fc]
-砂浜に倒れ込んだオレ目がけて、感染者たちが群がってきた。[pcms]
+The infected swarmed over me as I fell onto the sandy beach.[pcms]
 
 *2550|
 [fc]
 [vo_nat s="natu_tj0067"]
-[ns]夏都[nse]
-「や、やめろっ！　やめてくれええぇぇっ！！」[pcms]
+[ns]Natsu[nse]
+"Stop it! Please stop!!"[pcms]
 
 [sysbt_meswin clear]
 
@@ -177,81 +175,78 @@
 
 *2551|
 [fc]
-[ns]感染者Ａ[nse]
-「つ、つ゛かま゛えたぞぉ～、この゛ぉ、く゛そな゛まいき゛な、[r]
-　や゛りま゛ん、おん゛なめぇ～、お、おしお゛きだあぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Gotcha~, you damn cocky slutty woman~, it's time for your[r]
+punishment~"[pcms]
 
 *2552|
 [fc]
 [vo_nat s="natu_tj0068"]
-[ns]夏都[nse]
-「ひっ、ひいいいぃっっ！！」[pcms]
+[ns]Natsu[nse]
+"Hiiiiii!!"[pcms]
 
 *2553|
 [fc]
-オレの後ろからのしかかってきた感染者に、[r]
-力任せにチチをつかまれてしまった。[pcms]
+An infected person looming over me from behind grabbed my breasts with[r]
+brute force.[pcms]
 
 *2554|
 [fc]
 [vo_nat s="natu_tj0069"]
-[ns]夏都[nse]
-「いっ、痛えぇぇっ！　放せっ！　このクソがっ！！[r]
-　痛ぇっ！！　痛ぇつってんだろっ！！」[pcms]
+[ns]Natsu[nse]
+"It hurts! Let go! You bastard!! It hurts!! Can't you hear me saying[r]
+it hurts!!"[pcms]
 
 *2555|
 [fc]
-感染者の握力は凄まじく、握りつぶされそうな勢いで[r]
-チチが揉まれて、あまりの痛さにオレは絶叫した。[pcms]
+The infected's grip was so strong that my breasts were being crushed[r]
+and kneaded, and I screamed in extreme pain.[pcms]
 
 *2556|
 [fc]
-でも、そんなオレの反応に感染者は喜んだらしい。[pcms]
+But it seemed that the infected was pleased with my reaction.[pcms]
 
 *2557|
 [fc]
-[ns]感染者Ａ[nse]
-「ふ、ふ゛ふ゛ふ～、もっと゛もっと゛ぉ～、おし゛おきだあぁ～。[r]
-　こ゛れ゛でも、くら゛えぇ～っ」[pcms]
+[ns]Infected Person A[nse]
+"Huhuhu~, more and more~, this is your punishment~. Take this~"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
 
 *2558|
 [fc]
-そう言うと、感染者が力任せにオレのショートパンツに手をかけて[r]
-股ぐりの部分を横にずらすと、いきなりチンポを突っ込んできた。[pcms]
+Saying that, the infected forcefully reached for my shorts and slid[r]
+them aside at the crotch, then suddenly thrust his dick inside.[pcms]
 
 [evcg storage="natu_H003b"][trans_c cross time=300]
 
 *2559|
 [fc]
 [vo_nat s="natu_tj0070"]
-[ns]夏都[nse]
-「ぎ、ぎぇあああああぁぁああぁぁっ！！」[pcms]
+[ns]Natsu[nse]
+"Gyahhhhhhhhh!!"[pcms]
 
 *2560|
 [fc]
-オマンコに、感染者のチンポをいきなり突き立てられ、[r]
-オレは激痛に絶叫する。[pcms]
+My pussy was suddenly penetrated by the infected's dick, and I[r]
+screamed in agony.[pcms]
 
 *2561|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛、あ～、ちが、でてる゛そ゛おぉ～。[r]
-　なんだ、おま゛え～、やり゛ま゛んかと、おも゛ったら[r]
-　しょじょ、た゛った゛のか゛よぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Ah, ah~, it's coming out~. What's this, I thought you were a slut but[r]
+you were actually a virgin~"[pcms]
 
 *2562|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛れの、ち゛んぽで、し゛ょじょ、そう゛しつ、[r]
-　でき゛るな゛んて～……あ゛りがたく、おも゛えよっ～」[pcms]
+[ns]Infected Person A[nse]
+"To think my dick could deflower a virgin... be grateful~"[pcms]
 
 *2563|
 [fc]
-そんな事を言うと、オレのオマンコにチンポを突き立てた感染者が[r]
-腰を動かしはじめた。[pcms]
+The infected who had thrust his dick into my pussy began to move his[r]
+hips.[pcms]
 
 ;//se_sex03.ogg(LOOP)
 [se buf=1 storage="se_sex03" loop=true]
@@ -261,137 +256,127 @@
 *2564|
 [fc]
 [vo_nat s="natu_tj0071"]
-[ns]夏都[nse]
-「ぎっ、ぎゃああっ！　いた、痛いっ痛いいぃぃっ！！[r]
-　裂けるっ！　裂けるううぅぅぅっっ！！」[pcms]
+[ns]Natsu[nse]
+"Gyah! It hurts, it hurts so much!! It's tearing! It's tearing[r]
+apart!!"[pcms]
 
 *2565|
 [fc]
-前戯もなにもなしで、これっぽっちも濡れてないオマンコに[r]
-チンポを突っ込まれただけでも強烈に痛いのに、その上[r]
-腰を振られる激痛は想像を絶するものだった。[pcms]
+Without any foreplay or wetness in my pussy, just having a dick thrust[r]
+inside was intensely painful, and the agony of him thrusting his hips[r]
+was unimaginable.[pcms]
 
 *2566|
 [fc]
-[ns]感染者Ａ[nse]
-「うっ、う゛るせ゛ぇな゛あぁ、ち゛んぽ、[r]
-　いれ゛てやって゛んだから、　さっさと、ぬ゛れろ、[r]
-　この、ばかおんな～」[pcms]
+[ns]Infected Person A[nse]
+"Shut up, I'm giving you my dick, so get wet already, you stupid[r]
+woman~"[pcms]
 
 *2567|
 [fc]
 [vo_nat s="natu_tj0072"]
-[ns]夏都[nse]
-「ぎっ！　ああぁぁっ！　ぐっ、ぐぐううぅぅっ！！[r]
-　やっ、やめろ……おっ、痛ぃっ……いだいいぃぃっ！！」[pcms]
+[ns]Natsu[nse]
+"Gyah! Aaahh! Gugh, it hurts... stop... it hurts... it's so painful!!"[pcms]
 
 *2568|
 [fc]
-男のチンポがオマンコを往復する度に、まるで体を２つに[r]
-引き裂かれるような強烈な痛みが走る。[pcms]
+Every time the man's dick moved back and forth in my pussy, it felt[r]
+like my body was being torn in two with intense pain.[pcms]
 
 *2569|
 [fc]
-オレがこれだけ苦しんでいるにも関わらず、周囲でその光景を[r]
-見ている別の感染者たちは、馬鹿みたいな薄笑いを浮かべながら[r]
-めいめいがチンポをしごいていた。[pcms]
+Despite my suffering, the other infected watching the scene around me[r]
+were jerking off their dicks with stupid grins on their faces.[pcms]
 
 *2570|
 [fc]
-[ns]感染者Ｂ[nse]
-「お、おっほ゛～、しろ゛く゛ろ、しょ゛ーだぜぇ～。[r]
-　あ～、こう゛ふんす゛るうぅ～」[pcms]
+[ns]Infected Person B[nse]
+"Ohh~, this is so white and pure~, ah~, this feels good~"[pcms]
 
 *2571|
 [fc]
-[ns]感染者Ｃ[nse]
-「こ、この゛おん゛な～、ちちがでか゛くて～……、[r]
-　た゛まんね゛ぇなあぁ～」[pcms]
+[ns]Infected C[nse]
+"This woman~ her tits are so big~... can't stand it~"[pcms]
 
 *2572|
 [fc]
-[ns]感染者Ｄ[nse]
-「ち゛ちだけ、じゃな゛いぞ～、けつ゛もでかくて、[r]
-　ぷり゛っふ゛りだぁ～」[pcms]
+[ns]Infected D[nse]
+"Not just the tits~, her ass is also big, and so plump~"[pcms]
 
 *2573|
 [fc]
 [vo_nat s="natu_tj0073"]
-[ns]夏都[nse]
-「うっ、うる……さいっ！　だ、誰が……ケツがでか……ぐっ！[r]
-　ああぁっ！　痛いっ、痛い痛い痛い痛いっっ！！」[pcms]
+[ns]Natsu[nse]
+"Ugh, shut up! Who... who says my ass is big...ugh! Ahhh! It hurts, it[r]
+hurts so much!!"[pcms]
 
 *2574|
 [fc]
-[ns]感染者Ａ[nse]
-「い、い゛つま゛で、いたがって゛んだぁ～。[r]
-　こ゛んな゛に、お゛まんこは、ぬる゛ぬる゛なのに、[r]
-　いて゛えわ゛け、ねえ゛だろうが～」[pcms]
+[ns]Infected Person A[nse]
+"Why do you keep complaining~? Your pussy is all slippery, it[r]
+shouldn't hurt that much~"[pcms]
 
 *2575|
 [fc]
-感染者のチンポがぬるぬるになっているのは、[r]
-オレのオマンコから流れている血のせいだ。[pcms]
+The infected person's dick is slippery because of the blood flowing[r]
+from my pussy.[pcms]
 
 *2576|
 [fc]
-こんな無理矢理に犯されて、これっぽっちも[r]
-濡れるわけなんてない。[pcms]
+There's no way I could be wet from being raped so violently.[pcms]
 
 *2577|
 [fc]
 [vo_nat s="natu_tj0074"]
-[ns]夏都[nse]
-（ああ……こんな連中に、オレの処女を奪われちまうなんて……。[r]
-　く、くやしいっ……誠、まこと……っ）[pcms]
+[ns]Natsu[nse]
+"(Ah... to have my virginity taken by these guys... It's so[r]
+frustrating... Makoto...)"[pcms]
 
 *2578|
 [fc]
-こんなクソみたいな連中にヤラれるくらいだったら、[r]
-グダグダ悩まずに、誠とセックスしとけば良かった……。[pcms]
+If I was going to be done by such shitty guys, I should have just had[r]
+sex with Makoto without all the hesitation...[pcms]
 
 *2579|
 [fc]
-そんな事を考えても、全ては後の祭りだった。[pcms]
+Thinking about it now, it was all too late.[pcms]
 
 *2580|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛お゛おぉ～、ばか゛おんな゛ぁ、お゛まんこ、[r]
-　ぐあい、い゛いぞぉ～。[r]
-　そ゛ろそろ、いき゛そうだあぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Oooh~, you stupid woman, your pussy feels so good~. I'm about to[r]
+cum~"[pcms]
 
 [evcg storage="natu_H003d"][trans_c cross time=300]
 
 *2581|
 [fc]
 [vo_nat s="natu_tj0075"]
-[ns]夏都[nse]
-「いっ……嫌だっ！　やめろっ！　やめてくれっ！！[r]
-　それだけは……それだけはやめてっ！！」[pcms]
+[ns]Natsu[nse]
+"No...! Stop it! Please stop!! Anything but that... please don't do[r]
+that!!"[pcms]
 
 *2582|
 [fc]
-[ns]感染者Ａ[nse]
-「う、うるせえぇ、おんなは、だまって、[r]
-　おとこに、やられてりゃ、いいんだよおぉ～」[pcms]
+[ns]Infected Person A[nse]
+"Shut up, a woman should just stay quiet and let a man do her~"[pcms]
 
 *2583|
 [fc]
-オレを後ろから犯している感染者の腰振りの速度が[r]
-さらにスピードを上げた。[pcms]
+The infected person fucking me from behind increased the speed of his[r]
+thrusts.[pcms]
 
 *2584|
 [fc]
 [vo_nat s="natu_tj0076"]
-[ns]夏都[nse]
-「やだっ！　嫌だあっ！　やめろっ！　出すなっ！[r]
-　中だけは、なかだけはああぁっ！！　ぐっ、ぐうううぅっ！！」[pcms]
+[ns]Natsu[nse]
+"No! I don't want this! Stop! Don't cum inside! Not inside, please[r]
+nooo!! Ugh, guuuuh!!"[pcms]
 
 *2585|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛～、もう゛だめ゛だあぁ、でるう゛ぅう゛ぅぅ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahh~, I can't hold it anymore, I'm cumming~"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -409,45 +394,45 @@
 *2586|
 [fc]
 [vo_nat s="natu_tj0077"]
-[ns]夏都[nse]
-「ぎっ、ぎいいいいぃぃぃぃぃぃいいいぃぃっっ！！！」[pcms]
+[ns]Natsu[nse]
+"Gyah, gyaaaaahhhhhhhhhhhhhhhhhhh!!!"[pcms]
 
 *2587|
 [fc]
-男が最後にチンポを子宮口に叩きつけ、そのままオレの[r]
-オマンコの中で射精した。[pcms]
+The man slammed his dick against my cervix for the last time and[r]
+ejaculated inside my pussy.[pcms]
 
 *2588|
 [fc]
 [vo_nat s="natu_tj0078"]
-[ns]夏都[nse]
-「ああっ、あああぁぁっ！　でてるっ、出てるううぅっ！！[r]
-　ちく……しょう……ちくしょう……っ、クソ……がっ……」[pcms]
+[ns]Natsu[nse]
+"Ahh, ahhh! It's coming out, it's pouring out!! Damn it... damn it[r]
+all... shit...!"[pcms]
 
 *2589|
 [fc]
-生まれて初めてのセックス、生まれて初めての中出しの相手が[r]
-どこの馬の骨とも分からない感染者が相手なんて……。[pcms]
+My first time having sex, my first time being creampied, and it was[r]
+with an infected stranger...[pcms]
 
 *2590|
 [fc]
-オレは絶望に目の前が真っ暗になる思いだった。[pcms]
+I felt like I was engulfed in despair as everything went dark before[r]
+my eyes.[pcms]
 
 *2591|
 [fc]
-しかし、これはまだ最悪の序の口でしかなかった。[pcms]
+But this was just the beginning of the worst to come.[pcms]
 
 *2592|
 [fc]
-[ns]感染者Ｂ[nse]
-「お～、おま゛んこ゛から、ざーめ゛んがだらだら、[r]
-　あふ゛れだして……くう゛うぅっ、え゛ろくて、[r]
-　た゛まんね゛えぇ～」[pcms]
+[ns]Infected Person B[nse]
+"Oh~, the semen is dribbling out of the pussy~, ohh~, it's so erotic,[r]
+can't stand it~"[pcms]
 
 *2593|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛～、だめだあぁ、お゛れも゛もう、でるう゛うぅ～」[pcms]
+[ns]Infected Person C[nse]
+"Ahh~, I can't take it anymore, I'm cumming too~"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -462,60 +447,56 @@
 *2594|
 [fc]
 [vo_nat s="natu_tj0079"]
-[ns]夏都[nse]
-「うぷっ！　ぎっ、くうううぅっ！　臭ええぇっ！！」[pcms]
+[ns]Natsu[nse]
+"Ugh! Gyah, guuuuh! It stinks!!"[pcms]
 
 *2595|
 [fc]
-周囲で勝手にオレが犯されるのを見ながらしごいていた[r]
-感染者たちのチンポの先から、生臭いザーメンが[r]
-オレの顔に、胸に、ケツに降り注いでくる。[pcms]
+The infected people who had been jerking off while watching me get[r]
+raped started to ejaculate their fishy semen onto my face, breasts,[r]
+and ass.[pcms]
 
 [evcg storage="natu_H003g"][trans_c cross time=300]
 
 *2596|
 [fc]
 [vo_nat s="natu_tj0080"]
-[ns]夏都[nse]
-「汚ねえっ！　出すなっ！　嬉しそうにチンポしごいて[r]
-　臭ぇザーメン、人の体にぶっかけてんじゃねぇよ……っ！！」[pcms]
+[ns]Natsu[nse]
+"Disgusting! Don't shoot it! Don't you dare smile while jerking off[r]
+your dick and splattering your stinky semen on someone's body...!"[pcms]
 
 *2597|
 [fc]
-必死に去勢を張って、オレは感染者どもに毒づいたが、[r]
-それがオレにできる、精一杯の反抗だった。[pcms]
+Desperately trying to resist, I cursed at the infected men, but that[r]
+was the most I could muster in terms of defiance.[pcms]
 
 ;//m:赤目差分いらない。どこでも使わないならgraから削除
 ;//[evcg storage="natu_H003h"][trans_c cross time=300]
 
 *2598|
 [fc]
-[ns]感染者Ａ[nse]
-「ま、まだまだ……お゛わん゛ねぇぞ～。[r]
-　まだ、たった゛いっぱつ、[r]
-　だしただけ、だから゛な～」[pcms]
+[ns]Infected Person A[nse]
+"No, no... it's not over yet~. I've only cum once so far~"[pcms]
 
 *2599|
 [fc]
-オレの中で射精した感染者のチンポは、一発出したくせに[r]
-ぜんぜん小さくなる様子がないどころか、大きさと硬さを[r]
-増したように思えた。[pcms]
+The infected person's dick inside me didn't shrink at all after[r]
+cumming once; in fact, it seemed to grow even bigger and harder.[pcms]
 
 *2600|
 [fc]
-[ns]感染者Ａ[nse]
-「も、も゛っと゛、ださせ゛ろ～、[r]
-　この、く゛そ゛おんな゛あぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Let me cum more~, you shitty woman~"[pcms]
 
 *2601|
 [fc]
-そう言うと、オレを後ろで犯していた感染者が太股に手をかけて、[r]
-いきなりオレの体を持ち上げた。[pcms]
+Saying that, the infected person fucking me from behind grabbed my[r]
+thighs and suddenly lifted my body up.[pcms]
 
 ;//暗転
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
-;//■イベントCG　natu_H004（背面駅弁で持ち上げられる夏都）
+;//■イベントCG　natu_H004（背面駅弁で持ち上げられる夏）
 [evcg storage="natu_H004a"][trans_c cross time=300]
 
 [wait_c time=500]
@@ -527,74 +508,69 @@
 *2602|
 [fc]
 [vo_nat s="natu_tj0081"]
-[ns]夏都[nse]
-「は、放せっ！　放しやがれっ！！」[pcms]
+[ns]Natsu[nse]
+"Let go! Let me go!!"[pcms]
 
 *2603|
 [fc]
-感染者はオレのオマンコにチンポを突っ込んだままで、オレの体を[r]
-まるで小さな子におしっこをさせる時みたいな格好で持ち上げた。[pcms]
+The infected person lifted me up while his dick was still inside my[r]
+pussy, holding me in a position as if making a small child pee.[pcms]
 
 *2604|
 [fc]
-自分で言うのもなんだが、オレは女としてはかなり[r]
-大柄で筋肉質な体格をしている。[pcms]
+I must say, as a woman, I have a rather large and muscular physique.[pcms]
 
 *2605|
 [fc]
-正直、華奢だとは口が裂けても言えないし、実がみっしりと[r]
-詰まっているから、デブではないが[r]
-体重だってそこそこある。[pcms]
+Honestly, I can't say I'm delicate; my body is solidly packed with[r]
+muscle, and while I'm not fat, I do have a considerable weight.[pcms]
 
 *2606|
 [fc]
-そのオレの体を、いともやすやすと持ち上げるその膂力は[r]
-やはり尋常のものじゃない。[pcms]
+The strength required to lift my body so effortlessly was certainly[r]
+not ordinary.[pcms]
 
 *2607|
 [fc]
-ストッパーが外れた人間の力を見せつけられた思いがして、[r]
-オレは改めて戦慄した。[pcms]
+Witnessing the unleashed strength of a human being made me shudder[r]
+once again.[pcms]
 
 ;//■イベントCG　natu_H004
 [evcg storage="natu_H004c"][trans_c cross time=300]
 
 *2608|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛～、お゛っぱい、でけぇな゛あぁ～」[pcms]
+[ns]Infected Person B[nse]
+"Ahh~, her tits are so big~"[pcms]
 
 *2609|
 [fc]
-[ns]感染者Ｃ[nse]
-「うへ、へ゛へへ～、い、いただき゛ま～すっ～」[pcms]
+[ns]Infected Person C[nse]
+"Hehehe~, time to feast~"[pcms]
 
 *2610|
 [fc]
-持ち上げられて無防備になったオレの胸に狙いを定めて、[r]
-二人の感染者がむしゃぶりついてくる。[pcms]
+As I was lifted up and made vulnerable, two infected people targeted[r]
+my breasts and started biting into them.[pcms]
 
 *2611|
 [fc]
-[ns]感染者Ｂ[nse]
-「お、お゛ほ゛ぉ～、ぶじゅる゛るる゛るぅ～、[r]
-　じゅびじゅばれろおぉっ」[pcms]
+[ns]Infected Person B[nse]
+"Ohh~ slurp slurp slurp~"[pcms]
 
 *2612|
 [fc]
-片方の感染者が、オレの胸をべろべろと舐め回し、[r]
-あっという間に乳首のまわりが、臭いよだれで[r]
-べとべとになってしまった。[pcms]
+One of the infected licked my breasts all over, and in no time, the[r]
+area around my nipples was sticky with their smelly saliva.[pcms]
 
 *2613|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ～、でけぇお゛っぱい、た゛まんね゛ぇ～うまそ～」[pcms]
+[ns]Infected Person C[nse]
+"Ahh, such huge tits, I can't stand it~ they look so tasty~"[pcms]
 
 *2614|
 [fc]
-そう言うと、もう一人の感染者がいきなりおれの胸に[r]
-がぶりと噛みついた。[pcms]
+As he said that, another infected suddenly bit into my breast.[pcms]
 
 ;//#_赤フラ
 [赤フラ]
@@ -602,38 +578,35 @@
 *2615|
 [fc]
 [vo_nat s="natu_tj0082"]
-[ns]夏都[nse]
-「ぎゃああぁあああぁっ！　痛ええぇっ！　止めろっ馬鹿っ！」[pcms]
+[ns]Natsu[nse]
+"Gyaaaah! It hurts! Stop it, you idiot!"[pcms]
 
 *2616|
 [fc]
-[ns]感染者Ｃ[nse]
-「お、お゛ほ゛ぉ～、い、いい゛こえで、なくじゃねぇかぁ～、[r]
-　き、き゛もち、いい゛のかあ゛ぁ～、この、めすぶたがあぁ～」[pcms]
+[ns]Infected Person C[nse]
+"Ohh~ you cry so nicely, doesn't it feel good, you sow~"[pcms]
 
 *2617|
 [fc]
-何をどうしたら、オレの反応が気持ちいいように思えるのか、[r]
-いい気になった感染者が、がぶりがぶりとオレの胸に[r]
-噛みついた。[pcms]
+The infected, pleased with my reaction, bit into my breast again and[r]
+again.[pcms]
 
 *2618|
 [fc]
 [vo_nat s="natu_tj0083"]
-[ns]夏都[nse]
-「ぎゃっ！　ぎっ、ぎいいぃっ！　痛い！　痛い痛い痛いっ！[r]
-　止めろっ！　止めろっつってんだよっ！」[pcms]
+[ns]Natsu[nse]
+"Gyah! It hurts! It hurts it hurts it hurts! Stop it! I said stop it!"[pcms]
 
 *2619|
 [fc]
-[ns]感染者Ｂ[nse]
-「な゛んだぁ～、そう゛いう゛のが、いい゛のかあ゛ぁ～、[r]
-　へ、へ゛んたい゛だなぁ、こ゛の、おん゛な～」[pcms]
+[ns]Infected Person B[nse]
+"What's this~ you like that kind of thing~? You're a pervert, aren't[r]
+you, this woman~"[pcms]
 
 *2620|
 [fc]
-それまでオレの胸をべろべろ舐め回していた方の感染者まで、[r]
-乳首に思い切り噛みついてきた。[pcms]
+The infected who had been licking my breasts even bit hard into my[r]
+nipple.[pcms]
 
 ;//■イベントCG　natu_H004
 [evcg storage="natu_H004b"][trans_c cross time=300]
@@ -641,47 +614,44 @@
 *2621|
 [fc]
 [vo_nat s="natu_tj0084"]
-[ns]夏都[nse]
-「ぎゃああああぁっ！　あああぁぁぁっっ！[r]
-　い、いぎいいいぃっ！！」[pcms]
+[ns]Natsu[nse]
+"Gyaaaaah! Aaaah aah aah!!"[pcms]
 
 *2622|
 [fc]
-乳首が噛みちぎられるンじゃないかと思うような激痛に、[r]
-思わず気が遠くなる。[pcms]
+The pain was so intense I thought my nipples might be torn off, and I[r]
+nearly passed out.[pcms]
 
 *2623|
 [fc]
-胸には感染者たちの歯形がいくつもいくつもつけられて、[r]
-血まみれになっていた。[pcms]
+My breasts were covered in bite marks from the infected and were[r]
+bloody.[pcms]
 
 *2624|
 [fc]
-[ns]感染者Ａ[nse]
-「お、お゛まえ゛らばっか゛り、たの゛しん゛でんじゃ、ねぇよ～。[r]
-　おれ゛が、やって゛るん゛だから、じゃま、すんな～」[pcms]
+[ns]Infected Person A[nse]
+"Hey, don't just have fun by yourselves. I'm the one fucking her from[r]
+behind, don't get in the way~"[pcms]
 
 *2625|
 [fc]
-持ち上げたまま、後ろからオレを犯していた感染者が[r]
-不満そうな声を上げた。[pcms]
+The infected who was still holding me up and fucking me from behind[r]
+raised his voice in dissatisfaction.[pcms]
 
 *2626|
 [fc]
-[ns]感染者Ｂ[nse]
-「な、な゛に、い゛って゛んだ、この゛やろ゛ぅ～。[r]
-　お゛ま゛えは、おま゛んこがあ゛るだろ～」[pcms]
+[ns]Infected Person B[nse]
+"What are you saying, you bastard~ You've got a pussy, don't you~"[pcms]
 
 *2627|
 [fc]
-[ns]感染者Ｃ[nse]
-「そ、そ゛うだそ゛うだぁ～、お゛れた゛ちにもぉ、[r]
-　この゛おんな゛の、お゛まんこ、つ゛かわ゛せろおぉ～」[pcms]
+[ns]Infected Person C[nse]
+"Yeah, that's right~ let us use this woman's pussy too~"[pcms]
 
 *2628|
 [fc]
-オレの胸に歯を立てていた男二人がそう言うと、それぞれが[r]
-チンポに手を添えて、オレのオマンコに突っ込もうとしてきた。[pcms]
+The two men who had been biting my breasts said this as they each[r]
+reached for their dicks and tried to thrust them into my pussy.[pcms]
 
 ;//■イベントCG　natu_H004
 [evcg storage="natu_H004c"][trans_c cross time=300]
@@ -689,29 +659,29 @@
 *2629|
 [fc]
 [vo_nat s="natu_tj0085"]
-[ns]夏都[nse]
-「やっ、止めろっ！　馬鹿っ！　そんなの無理だっ！[r]
-　いっぺんに３本なんて、入るわけないだろうがっ！！」[pcms]
+[ns]Natsu[nse]
+"No, stop it! You idiot! That's impossible! There's no way three can[r]
+fit at once!!"[pcms]
 
 *2630|
 [fc]
-必死にオレは抗ったが、感染者たちは諦める様子はない。[pcms]
+I desperately resisted, but the infected showed no signs of giving up.[pcms]
 
 *2631|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ、あ゛あ゛ぁ、お゛まん゛こだあぁ～」[pcms]
+[ns]Infected Person B[nse]
+"Ah, ahh, there's the pussy~"[pcms]
 
 *2632|
 [fc]
-[ns]感染者Ｃ[nse]
-「いっ、い゛っく゛ぞお゛おぉ～！」[pcms]
+[ns]Infected Person C[nse]
+"I'm gonna cum~!"[pcms]
 
 *2633|
 [fc]
 [vo_nat s="natu_tj0086"]
-[ns]夏都[nse]
-「やっ……やめっ……ああああぁぁぁあぁぁぁっ！！」[pcms]
+[ns]Natsu[nse]
+"Stop...stop it...Aaaah aah aah!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -725,63 +695,61 @@
 *2634|
 [fc]
 [vo_nat s="natu_tj0087"]
-[ns]夏都[nse]
-「ぎ、ぎぎぎぎぎいいいぃぃっっっぅぅぅぅ！！！！！」[pcms]
+[ns]Natsu[nse]
+"Giiiiiiiiiiiiiiiiiiiiiiiiii!!"[pcms]
 
 *2635|
 [fc]
-すでに後ろから１本突っ込まれてるにも関わらず、２人の感染者が[r]
-オレのオマンコに、前からチンポを２本[r]
-無理矢理にねじ込んできた。[pcms]
+Despite already having one dick thrust into me from behind, two of the[r]
+infected forced their cocks into my pussy from the front.[pcms]
 
 *2636|
 [fc]
-[ns]感染者Ｂ[nse]
-「お～、は゛いった゛あぁぁ～、やっぱ、おま゛んこの、[r]
-　なか゛は～き゛もちい゛いな゛あぁ～」[pcms]
+[ns]Infected Person B[nse]
+"Oh~, it's in~ as expected, the inside of a pussy feels good~"[pcms]
 
 *2637|
 [fc]
 [vo_nat s="natu_tj0088"]
-[ns]夏都[nse]
-「さ、裂けるっ、オマンコ裂けるっ！　ざげるううぅぅっ！！」[pcms]
+[ns]Natsu[nse]
+"It's tearing, my pussy is tearing! It's going to tear!!"[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *2638|
 [fc]
-オマンコの壁が、ぎちぎちに押し広げられて[r]
-今にも切れそうなのに、３人の感染者はまだ快楽を貪ろうと[r]
-腰を振り始めた。[pcms]
+The walls of my pussy were stretched so tight they felt like they were[r]
+going to tear any moment, but the three infected started thrusting[r]
+their hips in search of pleasure.[pcms]
 
 *2639|
 [fc]
-オマンコから体がびりびりと音をたてて裂けそうなほどの[r]
-ありえない苦痛が全身を駆け巡り、オレは絶叫した。[pcms]
+The pain was so intense it felt like my body was being torn apart from[r]
+my pussy, and I screamed.[pcms]
 
 *2640|
 [fc]
 [vo_nat s="natu_tj0089"]
-[ns]夏都[nse]
-「ぎ、ぎいいいぃっ！　うごっ、うごぐなあぁっ！[r]
-　じぬっじぬううぅっ！！　いだいいだいいだああぁあぁいぃ！」[pcms]
+[ns]Natsu[nse]
+"Giiiiiiiiiiiiii!! Don't move, don't move! I'm gonna die! It hurts it[r]
+hurts it hurts!!"[pcms]
 
 *2641|
 [fc]
-[ns]感染者Ｃ[nse]
-「おぼ～、さい゛こ～、たま゛んね゛えぇ～」[pcms]
+[ns]Infected Person C[nse]
+"Oh boy~, this is the best~, can't get enough~"[pcms]
 
 *2642|
 [fc]
 [vo_nat s="natu_tj0090"]
-[ns]夏都[nse]
-「うっ゛……うぶっ……ぎぼぢ……わるい………っ………」[pcms]
+[ns]Natsu[nse]
+"Ugh...ugh...it's bad..."[pcms]
 
 *2643|
 [fc]
-無理矢理にオマンコに３本のチンポを突っ込まれて、[r]
-内臓がどうにかなりそうに思え、気分が悪くなった。[pcms]
+Having three dicks forcibly thrust into my pussy made me feel like my[r]
+insides were going to burst, and I felt sick.[pcms]
 
 ;//■イベントCG　natu_H004
 [evcg storage="natu_H004e"][trans_c cross time=300]
@@ -789,37 +757,32 @@
 *2644|
 [fc]
 [vo_nat s="natu_tj0091"]
-[ns]夏都[nse]
-「おっ……おえええぇぇぇっ……げろおおおぉぉっ……！[r]
-　うぶううぅぅっ！　げえっ、げげええぇぇっ！！」[pcms]
+[ns]Natsu[nse]
+"Oh...ohhhh...I'm gonna puke...ugh...!"[pcms]
 
 *2645|
 [fc]
-そのままオレは嘔吐して、さっき喰ったばかりの昼飯を[r]
-全部ぶちまけてしまった。[pcms]
+And then I vomited, spewing out all of my lunch that I had just eaten.[pcms]
 
 *2646|
 [fc]
-未消化の焼きそばが、オレの前でオマンコにチンポをねじ込んで[r]
-腰を振っている二人の感染者の全身に降り注ぐ。[pcms]
+Undigested yakisoba rained down on the two infected who were thrusting[r]
+their cocks into my pussy and shaking their hips.[pcms]
 
 *2647|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛は、あは゛はっは゛はは～、お゛まえ゛ら～、[r]
-　げろ゛まみ゛れで、くせ゛ぇな゛あぁ～、[r]
-　あは゛はは゛ぁはっは゛ははぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahaha, ahahaha~, you guys~, covered in puke, you stink~ ahahaha~"[pcms]
 
 *2648|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ～、でも～、こ゛のげろの゛ぬる゛ぬるがぁ～、[r]
-　ちん゛ぽにか゛らみつ゛いてぇ～、いい、かんじだあぁ～」[pcms]
+[ns]Infected Person B[nse]
+"Ah~, but this slimy puke~ it clings to my cock~, feels good~"[pcms]
 
 *2649|
 [fc]
-[ns]感染者Ｃ[nse]
-「おっほ゛おっ～、お゛まん゛こがぁ～、き゛んも゛ちいぃいぃ～」[pcms]
+[ns]Infected Person C[nse]
+"Ohho~ the pussy feels so good~"[pcms]
 
 ;//■イベントCG　natu_H004
 [evcg storage="natu_H004f"][trans_c cross time=300]
@@ -827,59 +790,57 @@
 *2650|
 [fc]
 [vo_nat s="natu_tj0092"]
-[ns]夏都[nse]
-「あ………ぐ………がぁっ………げ………っ…………」[pcms]
+[ns]Natsu[nse]
+"Ah...ugh...gah...ugh..."[pcms]
 
 *2651|
 [fc]
-あまりの激烈な痛さに、意識が遠くなる。[r]
-そういや、野外教練で習ったっけな。[pcms]
+The intense pain was so overwhelming that my consciousness began to[r]
+fade. I remember learning about this during field training...[pcms]
 
 *2652|
 [fc]
-あまりにも痛いと、人間は痛さでショック死しないように、[r]
-自分の感覚を勝手にブロックすることがあるって……。[pcms]
+When the pain is too much, humans can block out their own sensations[r]
+to prevent shock death...[pcms]
 
 *2653|
 [fc]
-薄ぼんやりとした頭で、オレがそんな事を考えている間にも[r]
-３人の感染者たちは好き勝手に腰を動かして[r]
-快感を貪り続けていた。[pcms]
+As my head grew faint and hazy with these thoughts, the three infected[r]
+continued to move their hips as they pleased, greedily seeking[r]
+pleasure.[pcms]
 
 ;//■イベントCG　natu_H004
 [evcg storage="natu_H004g"][trans_c cross time=300]
 
 *2654|
 [fc]
-[ns]感染者Ａ[nse]
-「あ゛あ～、ま゛た、きも゛ちよ゛くな゛ってき゛たあぁ～」[pcms]
+[ns]Infected Person A[nse]
+"Ahh~, I'm starting to feel really good again~"[pcms]
 
 *2655|
 [fc]
-[ns]感染者Ｃ[nse]
-「や、や゛っぱり、さん゛にん゛いっぺんはぁ、[r]
-　せま゛くって、き゛もちがい゛いな゛あぁ～」[pcms]
+[ns]Infected Person C[nse]
+"Yeah, having three at once is really tight, feels so good~"[pcms]
 
 *2656|
 [fc]
-[ns]感染者Ｂ[nse]
-「お～、お゛れ～……もう゛でそ゛うだあ゛あぁ～」[pcms]
+[ns]Infected Person B[nse]
+"Oh~, I'm about to cum~"[pcms]
 
 *2657|
 [fc]
-[ns]感染者Ｃ[nse]
-「おれ゛もお゛ぉ～でる゛う゛うぅ～」[pcms]
+[ns]Infected Person C[nse]
+"Me too~ I'm cumming~"[pcms]
 
 *2658|
 [fc]
-[ns]感染者Ａ[nse]
-「お゛まん゛この゛なか゛にぃ～……、[r]
-　ざーめ゛んながし゛こん゛でやる゛うぅ～」[pcms]
+[ns]Infected Person A[nse]
+"I'm gonna fill up your pussy with my cum~"[pcms]
 
 *2659|
 [fc]
-[ns]感染者Ｂ[nse]
-「あ゛あぁ～でるっでる゛うう゛うぅぅ～」[pcms]
+[ns]Infected Person B[nse]
+"Ahh~ I'm cumming, cumming~"[pcms]
 
 ;//BGVオフ
 ;//se即時停止
@@ -898,16 +859,16 @@
 *2660|
 [fc]
 [vo_nat s="natu_tj0093"]
-[ns]夏都[nse]
-「ぐ………ぎぇ………おぶ………っ………んあ…………く」[pcms]
+[ns]Natsu[nse]
+"Guh...gyeh...obh...nah...kuh"[pcms]
 
 *2661|
 [fc]
-３人の感染者たちが、オレのオマンコの中でほぼ同時に射精した。[pcms]
+The three infected ejaculated inside my pussy almost simultaneously.[pcms]
 
 *2662|
 [fc]
-３人分の汚染された精液が、オレの体の中に流れ込んできている。[pcms]
+Three loads of contaminated semen flowed into my body.[pcms]
 
 ;//■イベントCG　natu_H004
 [evcg storage="natu_H004i"][trans_c cross time=300]
@@ -915,55 +876,51 @@
 *2663|
 [fc]
 [vo_nat s="natu_tj0094"]
-[ns]夏都[nse]
-「ご…………っ………………」[pcms]
+[ns]Natsu[nse]
+"Goh...ugh..."[pcms]
 
 *2664|
 [fc]
-あまりにも不快なその感覚に、オレはほとんど気を失ってしまった。[pcms]
+The sensation was so unpleasant that I nearly lost consciousness.[pcms]
 
 ;//ここからしばらく、三人称で記述（た）
 
 *2665|
 [fc]
-[ns]感染者Ｂ[nse]
-「な、な゛んだぁ……こ゛のお゛んなぁ～、[r]
-　ぐった゛り……しち゛ま゛った～」[pcms]
+[ns]Infected Person B[nse]
+"What's with this girl... she's gone completely limp~"[pcms]
 
 *2666|
 [fc]
-[ns]感染者Ｃ[nse]
-「し、し゛っし゛ん、する゛ほど、よか゛った゛のかぁ～。[r]
-　や、や゛っぱり……やり゛まん、だな゛あぁ～」[pcms]
+[ns]Infected Person C[nse]
+"Did she pass out from how good it was~? Yeah, she's a real nympho~"[pcms]
 
 *2667|
 [fc]
-[ns]感染者Ｄ[nse]
-「おま゛えら゛ぁ～、いい゛かげん、かわ゛れ゛よ～。[r]
-　さ゛っき゛から゛ずっとぉ……ま゛って、るんだぞおぉ～」[pcms]
+[ns]Infected D[nse]
+"You guys~, switch already~. I've been waiting my turn for a while[r]
+now~"[pcms]
 
 *2668|
 [fc]
-[ns]感染者Ｅ[nse]
-「そ、そ゛うだそうだぁ、おまえ゛らぁ、もう、なん゛か゛いも[r]
-　だして゛るんだから～、こう゛たい、しろ゛おぉ～」[pcms]
+[ns]Infected E[nse]
+"Yeah, yeah, you guys have had your fun, now let me have a go~"[pcms]
 
 *2669|
 [fc]
-ぐったりとした夏都の体を弄ぼうと、新たな感染者が現れて[r]
-それまで犯していた感染者たちを押しのけた。[pcms]
+New infected appeared, eager to toy with Natsu's limp body, pushing[r]
+aside those who had been violating her.[pcms]
 
 *2670|
 [fc]
-[ns]感染者Ｆ[nse]
-「な、なん゛だぁ、しん゛でんの゛か～」[pcms]
+[ns]Infected F[nse]
+"What's this, is she dead~?"[pcms]
 
 *2671|
 [fc]
-[ns]感染者Ｇ[nse]
-「ま、まぁ、いき゛て゛ても、しん゛でても、[r]
-　おま゛んこ゛はあ゛るから～、[r]
-　か゛んけい、ない゛かあ゛ぁ～」[pcms]
+[ns]Infected G[nse]
+"Well, whether she's alive or dead, she still has a pussy~, so it[r]
+doesn't really matter~"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -977,108 +934,105 @@
 
 *2672|
 [fc]
-ぐったりとしたまま反応のない夏都の体を持ち上げて、[r]
-ひとりの感染者が、自分のペニスの上に夏都を座らせた。[pcms]
+An infected lifted Natsu's unresponsive body and sat her on top of his[r]
+penis.[pcms]
 
 *2673|
 [fc]
-[ns]感染者Ｄ[nse]
-「お～、おま゛ん゛こ～、きも゛ち゛いぃな゛あぁ～」[pcms]
+[ns]Infected D[nse]
+"Oh~, your pussy feels so good~"[pcms]
 
 *2674|
 [fc]
-既に何人もの感染者に膣内に射精されている夏都の性器は[r]
-新たな感染者のペニスで下から突き上げられ、まるで[r]
-ホイップクリームのように白く泡立っていた。[pcms]
+Natsu's genitals, already filled with the ejaculate of several[r]
+infected, were thrust upon from below by a new infected, frothing[r]
+white like whipped cream.[pcms]
 
 *2675|
 [fc]
 [vo_nat s="natu_tj0095"]
-[ns]夏都[nse]
-「………………………………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *2676|
 [fc]
-全身が踊るほど激しく突き上げられているのに、夏都は[r]
-意識を失ったまま、ぐったりとしている。[pcms]
+Despite being violently thrust into to the point of convulsing, Natsu[r]
+remained unconscious and limp.[pcms]
 
 *2677|
 [fc]
-[ns]感染者Ｄ[nse]
-「お～、おっぱい゛ぃ、やら゛かい゛なあぁ～」[pcms]
+[ns]Infected D[nse]
+"Oh~, these tits are so soft~"[pcms]
 
 *2678|
 [fc]
-夏都の体を突き上げている感染者は、夏都の意識がないことは[r]
-全く意に介さず、手を伸ばして夏都の爆乳を揉みしだいた。[pcms]
+The infected thrusting into Natsu didn't care that she was unconscious[r]
+and reached out to knead her huge breasts.[pcms]
 
 *2679|
 [fc]
-感染者の指が、ぐねぐねと夏都の胸を好き放題に揉む。[r]
-指の間からこぼれるようなその感触に、感染者が驚喜した。[pcms]
+The infected's fingers kneaded Natsu's breasts at will, delighting in[r]
+the sensation as it seemed to spill out between his fingers.[pcms]
 
 *2680|
 [fc]
-[ns]感染者Ｄ[nse]
-「く゛うぅ～は゛あぁ～、たま゛んねぇな゛ああ゛ぁ～。[r]
-　おっぱい゛も、やら゛かい゛しぃ、おま゛んこもきもちいいぃ～」[pcms]
+[ns]Infected D[nse]
+"Guh~ Hah~ Can't get enough of this. The tits are soft and the pussy[r]
+feels amazing~"[pcms]
 
 *2681|
 [fc]
-[ns]感染者Ｅ[nse]
-「お、お゛まえばっか゛り、ず、ずるいぞぉ～、[r]
-　おれ゛にも、さわ゛らせ゛ろぉ～」[pcms]
+[ns]Infected E[nse]
+"Hey, don't hog her all to yourself, let me touch her too~"[pcms]
 
 *2682|
 [fc]
-[ns]感染者Ｆ[nse]
-「お、お゛おっ、おっぱい、おっぱいぃ～」[pcms]
+[ns]Infected F[nse]
+"Oh, ohh, tits, tits~"[pcms]
 
 *2683|
 [fc]
-胸や尻、あるいは顔、髪の毛など、夏都の体の至る所に[r]
-感染者たちの手が伸び、ペニスが押しつけられる。[pcms]
+Hands and penises of the infected reached out to every part of Natsu's[r]
+bodyher breasts, butt, face, and hair.[pcms]
 
 *2684|
 [fc]
-[ns]感染者Ｇ[nse]
-「お゛ほぉ～、すべす゛べだあぁ～、[r]
-　き゛んも゛ち、いい゛いぃ～」[pcms]
+[ns]Infected G[nse]
+"Ohh~, so slippery~, feels so damn good~"[pcms]
 
 *2685|
 [fc]
-[ns]感染者Ｆ[nse]
-「ん、ん゛んん～っ、いい、にお゛いだなあ゛ぁ～」[pcms]
+[ns]Infected F[nse]
+"Mmm~, she smells so nice~"[pcms]
 
 *2686|
 [fc]
-まるで肉人形のように、意識のない夏都の体が[r]
-感染者たちの手によって蹂躙されてゆく。[pcms]
+Natsu's body was ravaged like a lifeless sex doll by the hands of the[r]
+infected.[pcms]
 
 *2687|
 [fc]
-意識がないことは、夏都にとっては幸福なことだったろう。[pcms]
+Being unconscious was probably a mercy for Natsu.[pcms]
 
 *2688|
 [fc]
-感染者たちの獣じみた底なしの欲望に、意識を持ったまま[r]
-対峙せずに済んでいるのだから。[pcms]
+She didn't have to face the endless bestial desires of the infected[r]
+while conscious.[pcms]
 
 *2689|
 [fc]
-そうこうするうちに、夏都の体を下から犯していた感染者が[r]
-昂ぶりを見せ始めた。[pcms]
+In the midst of this, the infected who had been penetrating Natsu from[r]
+below began to show signs of excitement.[pcms]
 
 *2690|
 [fc]
-[ns]感染者Ｄ[nse]
-「お゛ほぉ、おぅ゛おっ、そっ、そろ゛そ゛ろ～、まずは[r]
-　いっぱつ、だし゛とっか゛あぁ～」[pcms]
+[ns]Infected Person D[nse]
+"Ohh, I'm getting close~, gonna shoot my first load soon~"[pcms]
 
 *2691|
 [fc]
-[ns]感染者Ｅ[nse]
-「あ゛ぁ～、ああ゛あぁ～、でっ、でる゛うう゛ぅぅぅ～」[pcms]
+[ns]Infected E[nse]
+"Aah~, aah~, it's coming out~"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1094,88 +1048,88 @@
 
 *2692|
 [fc]
-夏都を犯していた男が、勝手に夏都の膣内に射精した。[r]
-男の迸りを体内に受けても、夏都はまったく反応を見せない。[pcms]
+The man who was violating Natsu ejaculated inside her on his own[r]
+accord. Even as she received his spurts inside her, Natsu showed no[r]
+reaction.[pcms]
 
 *2693|
 [fc]
 [vo_nat s="natu_tj0096"]
-[ns]夏都[nse]
-「…………………………………」[pcms]
+[ns]Natsu[nse]
+"..."[pcms]
 
 *2694|
 [fc]
-[ns]感染者Ｄ[nse]
-「な、なん゛だぁ、せっか゛く、おれ゛さ゛まが[r]
-　な゛かだしして、やっ゛たって゛のにぃ～」[pcms]
+[ns]Infected D[nse]
+"Wh-what the hell, even though I just came inside her~"[pcms]
 
 *2695|
 [fc]
-[ns]感染者Ｄ[nse]
-「な、なま゛いき゛な、おん゛なだな～。[r]
-　こ、これ゛なら、どうだあぁ～」[pcms]
+[ns]Infected D[nse]
+"Such a lifeless girl~. Well then, how about this~"[pcms]
 
 ;//■イベントCG　natu_H005
 [evcg storage="natu_H005c"][trans_c cross time=300]
 
 *2696|
 [fc]
-そう言うと、夏都を下から犯していた感染者が、射精しても[r]
-力を失わずに屹立していたペニスを、夏都のアナルに[r]
-あてがうと、そのまま一気に中へ押し込んだ。[pcms]
+As he said that, the infected who had been penetrating Natsu from[r]
+below positioned his still-erect penis at her anus and thrust it in[r]
+all at once.[pcms]
 
 *2697|
 [fc]
 [vo_nat s="natu_tj0097"]
-[ns]夏都[nse]
-「ぎっ、ぐぎゃあああぁぁああぁぁっっっ！！！」[pcms]
+[ns]Natsu[nse]
+"Gah, gyaaahhhhh!!!"[pcms]
 
 *2698|
 [fc]
-アナルをこじ開けられた激痛に、夏都が意識を取り戻した。[pcms]
+The intense pain of having her anus forced open brought Natsu back to[r]
+consciousness.[pcms]
 
 ;//■イベントCG　natu_H005
 [evcg storage="natu_H005d"][trans_c cross time=300]
 
 *2699|
 [fc]
-それを見て、周囲の感染者たちが気色ばむ。[pcms]
+Seeing this, the surrounding infected grimaced.[pcms]
 
 *2700|
 [fc]
-[ns]感染者Ｅ[nse]
-「な、なんだぁ、いき゛かえった゛ぞぉ～。[r]
-　じゃ、じゃあ、たっぷり、たの゛しま゛せて、もら゛うぞおぉ～」[pcms]
+[ns]Infected E[nse]
+"Wh-what's this, she's come back to life~. Then, let's enjoy her[r]
+thoroughly~"[pcms]
 
 *2701|
 [fc]
-[ns]感染者Ｆ[nse]
-「やっぱり～、はん゛のう゛がねぇと、つま゛ん゛ねぇよなあぁ～。[r]
-　こ゛れで、すこ゛しは、たのし゛めそ゛うだなあぁ～」[pcms]
+[ns]Infected F[nse]
+"After all~, it's no fun without a reaction. Now it seems we can enjoy[r]
+this a bit~"[pcms]
 
 ;//■イベントCG　natu_H005
 [evcg storage="natu_H005e"][trans_c cross time=300]
 
 *2702|
 [fc]
-意識を取り戻した夏都の体に群がる感染者のひとりが、[r]
-夏都の前に仁王立ちになって、ペニスを胸の間に[r]
-挟み込んだ。[pcms]
+One of the infected crowding around the now-conscious Natsu stood[r]
+imposingly in front of her and sandwiched his penis between her[r]
+breasts.[pcms]
 
 *2703|
 [fc]
-[ns]感染者Ｅ[nse]
-「お、お゛おぅ～、ぱいずりぃ～、やわ゛ら゛けぇ～」[pcms]
+[ns]Infected E[nse]
+"Oh, ooh~, a titjob~, so soft~"[pcms]
 
 *2704|
 [fc]
-[ns]感染者Ｆ[nse]
-「お、お゛れは～、やっぱり、おま゛んこが、いい゛な゛あぁ～」[pcms]
+[ns]Infected F[nse]
+"I-I still prefer pussy after all~"[pcms]
 
 *2705|
 [fc]
-別の感染者がそう言って、すでにアナルを犯されている[r]
-夏都の性器にペニスをねじ込んだ。[pcms]
+Another infected said this and twisted his penis into Natsu's[r]
+genitals, which were already being violated anally.[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
@@ -1186,111 +1140,105 @@
 *2706|
 [fc]
 [vo_nat s="natu_tj0098"]
-[ns]夏都[nse]
-「か……かはっ……！　ひぐっ、がああぁっ！[r]
-　ひぎっ、ぐひいいぃ……ごっ、ぎ、ぐふうぅぅぅ……！」[pcms]
+[ns]Natsu[nse]
+"Ka...kah...! Higuu, gaaaah! Higi, guhii...go, gi, gufuuuu...!"[pcms]
 
 *2707|
 [fc]
-性器とアナルと胸の谷間を同時に犯され、夏都の口から[r]
-言葉とは言えない音がこぼれ出る。[pcms]
+Violated simultaneously in her genitals, anus, and between her[r]
+breasts, indescribable sounds spilled from Natsu's mouth.[pcms]
 
 *2708|
 [fc]
-[ns]感染者Ｄ[nse]
-「け、け゛つの、あな゛も、いい、ぐあい゛だあぁ～。[r]
-　ちんぽを、ぎゅうぎゅう、しめ゛つけ゛やがるうぅ～」[pcms]
+[ns]Infected D[nse]
+"The ass is great too~. It's squeezing my dick so tight~"[pcms]
 
 *2709|
 [fc]
-[ns]感染者Ｅ[nse]
-「おほ゛おぉ～、ぷにぷに゛のお゛っぱいぃ～、きもちいぃ～。[r]
-　たまん゛ねえぇな゛ああぁ～」[pcms]
+[ns]Infected E[nse]
+"Ohhoo~, these squishy tits feel so good~. Can't get enough of this~"[pcms]
 
 *2710|
 [fc]
-[ns]感染者Ｆ[nse]
-「おま゛んこも゛ぉ、ちん゛ぽを、ほし゛がって～[r]
-　すげぇ、しめ゛つけて、きや゛がる゛ぜぇ～、へ、へっへっへ～」[pcms]
+[ns]Infected F[nse]
+"The pussy too~, it's craving the dick~, squeezing so tight, it's[r]
+crazy~, heh, heh heh heh~"[pcms]
 
 *2711|
 [fc]
-[ns]感染者Ｈ[nse]
-「す、すげぇ、え゛ろい、こう゛けい゛だな゛あぁ～、[r]
-　ちんぽ、しごく゛てがぁ、とま゛んね゛ぇぜえぇ～」[pcms]
+[ns]Infected H[nse]
+"Damn, this is so erotic~, can't stop jerking off~"[pcms]
 
 *2712|
 [fc]
-[ns]感染者Ｉ[nse]
-「ま、ま゛ったく、けし゛からん、こう゛けい゛だあっ～。[r]
-　そん゛なに、ざーめ゛んを゛ぶっかけて、ほし゛いのか～」[pcms]
+[ns]Infected I[nse]
+"Seriously, what a sight~. Do you want to be covered in cum that[r]
+badly~"[pcms]
 
 ;//■イベントCG　natu_H005
 [evcg storage="natu_H005g"][trans_c cross time=300]
 
 *2713|
 [fc]
-３人の男の周囲には、さらに別の感染者たちが、[r]
-夏都と感染者の４Ｐをオカズに、自らペニスをしごいていた。[pcms]
+Around the three men, other infected were masturbating to the sight of[r]
+Natsu and the infected in a 4P.[pcms]
 
 *2714|
 [fc]
 [vo_nat s="natu_tj0099"]
-[ns]夏都[nse]
-「ひっ……あぐ……っ……いいっ、んあああぁぁっ……！」[pcms]
+[ns]Natsu[nse]
+"Hih...agu...ah...yes, ahhh...!"[pcms]
 
 *2715|
 [fc]
-さっきまで、苦しそうに喘いでいた夏都の声音に、[r]
-徐々に変化が見られるようになった。[pcms]
+The voice of Natsu, who had been gasping in pain until now, began to[r]
+change gradually.[pcms]
 
 *2716|
 [fc]
 [vo_nat s="natu_tj0100"]
-[ns]夏都[nse]
-「んっ……んあぁっ……はあっ………んくうっ……」[pcms]
+[ns]Natsu[nse]
+"Nn...nahh...haa...nkuu..."[pcms]
 
 *2717|
 [fc]
-声に艶が混じり、漏れる吐息も湿り気のあるものに[r]
-なりつつあった。[pcms]
+Her voice mixed with lust, and the breaths she leaked became moist.[pcms]
 
 *2718|
 [fc]
-[ns]感染者Ｄ[nse]
-「お、お゛おぅ、よ、よう゛や゛く……、[r]
-　やる゛きに゛なって゛きたかぁ～」[pcms]
+[ns]Infected D[nse]
+"Oh, ooh, finally..., she's getting into it~"[pcms]
 
 *2719|
 [fc]
-[ns]感染者Ｅ[nse]
-「あ～、でも、おれ゛ぇ、もう、げんか゛いだあぁ～」[pcms]
+[ns]Infected E[nse]
+"Ah~, but I'm already at my limit~"[pcms]
 
 *2720|
 [fc]
-[ns]感染者Ｆ[nse]
-「おれ゛もぉ～、もうだしたく、なって゛きたあぁ～」[pcms]
+[ns]Infected F[nse]
+"I'm gonna cum soon too~"[pcms]
 
 *2721|
 [fc]
 [vo_nat s="natu_tj0101"]
-[ns]夏都[nse]
-「あんっ……ふうっ……んあっ……いいっ……んんっ……」[pcms]
+[ns]Natsu[nse]
+"Ahn...huu...nah...yes...nnn..."[pcms]
 
 *2722|
 [fc]
-[ns]感染者Ｄ[nse]
-「ああぁ～、けつ゛のあなが～、ちん゛ぽを、しめ゛つける゛うぅ」[pcms]
+[ns]Infected D[nse]
+"Aah~, her ass is squeezing my dick so tight~"[pcms]
 
 *2723|
 [fc]
-[ns]感染者Ｆ[nse]
-「だめだあぁ～でるうぅうぅ～」[pcms]
+[ns]Infected Person F[nse]
+"Can't hold it anymore~ I'm cumming~"[pcms]
 
 *2724|
 [fc]
-[ns]感染者Ｉ[nse]
-「ぶ、ぶっかけて、やるぞおおぉ～！」[pcms]
+[ns]Infected I[nse]
+"I'm gonna cover you in cum~!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1306,9 +1254,9 @@
 *2725|
 [fc]
 [vo_nat s="natu_tj0102"]
-[ns]夏都[nse]
-「あああぁぁっ！　いいっ！　いいいいぃぃっ！！[r]
-　イクっ！　オマンコいくうっ！　ケツ穴イクううぅぅっ！！」[pcms]
+[ns]Natsu[nse]
+"Aaahhh! Yes! So good!! I'm cumming! My pussy is cumming! My ass is[r]
+cumming!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -1320,17 +1268,19 @@
 
 *2726|
 [fc]
-アナルと性器、それに勝手にパイズリしていた感染者たちが[r]
-次々に射精してゆく。[pcms]
+The infected who had been doing her anally and vaginally as well as[r]
+those who had been giving her a titjob began to ejaculate one after[r]
+another.[pcms]
 
 *2727|
 [fc]
-夏都はその感覚に、全身を震わせて反応していた。[pcms]
+Natsu's body shook in response to the sensation.[pcms]
 
 *2728|
 [fc]
-そして、夏都を見ながらしごいていた周囲の感染者の[r]
-ペニスから、祝砲のように大量の精液が降り注ぐ。[pcms]
+And from the penises of the infected surrounding them who had been[r]
+masturbating, a massive amount of semen rained down like celebratory[r]
+gunfire.[pcms]
 
 ;//■イベントCG　natu_H005
 [evcg storage="natu_H005k"][trans_c cross time=300]
@@ -1338,17 +1288,18 @@
 *2729|
 [fc]
 [vo_nat s="natu_tj0103"]
-[ns]夏都[nse]
-「んっ……はあぁ……あつぅ……いいぃぃ………」[pcms]
+[ns]Natsu[nse]
+"Nn...haa...it's so hot...so good..."[pcms]
 
 *2730|
 [fc]
-生臭く、熱い飛沫のシャワーを浴びながら、[r]
-夏都がうっとりとした顔つきを浮かべて目を細める。[pcms]
+Bathed in a shower of hot, fishy semen, Natsu closed her eyes in[r]
+ecstasy with a blissful expression on her face.[pcms]
 
 *2731|
 [fc]
-それまでの苦痛に喘いでいたのとは、全く異なる愉悦の表情。[pcms]
+The expression on her face was one of pleasure, completely different[r]
+from the agony she had been gasping in before.[pcms]
 
 ;//■イベントCG　natu_H005
 [evcg storage="natu_H005l"][trans_c cross time=300]
@@ -1356,96 +1307,93 @@
 *2732|
 [fc]
 [vo_nat s="natu_tj0104"]
-[ns]夏都[nse]
-「は……はああぁん……ふ、ふふふふふっ……」[pcms]
+[ns]Natsu[nse]
+"Ha...haaah...fu, fufufufu..."[pcms]
 
 *2733|
 [fc]
-含み笑いを浮かべながら、夏都が白濁にまみれたまま[r]
-細めた眼をゆっくりと開いた。[pcms]
+With a smirk on her face, Natsu slowly opened her eyes, still smeared[r]
+with the white muck.[pcms]
 
 *2734|
 [fc]
-その眼の色は、真っ赤に染まっていた。[pcms]
+Her eyes were dyed a deep red.[pcms]
 
 *2735|
 [fc]
 [vo_nat s="natu_tj0105"]
-[ns]夏都[nse]
-「ふ、ふふふ、オメェら……まさか、これで[r]
-　オワリだとか、いうんじゃ、ねえだろうなぁ……」[pcms]
+[ns]Natsu[nse]
+"Fu, fufufu, you guys... surely, you don't think... this is the end,[r]
+do you...?"[pcms]
 
 *2736|
 [fc]
 [vo_nat s="natu_tj0106"]
-[ns]夏都[nse]
-「こ、こんな、ちゅうとはんぱな、コトでぇ、[r]
-　このオレが、まんぞく、するとでも[r]
-　おもって、ねぇだろうなあぁ……」[pcms]
+[ns]Natsu[nse]
+"You don't really think... that I'd be satisfied... with such a half-[r]
+baked thing like this, do you...?"[pcms]
 
 *2737|
 [fc]
-白濁にまみれた顔のまま、夏都が真っ赤な目を見開くと、[r]
-ニヤリと笑って、周囲の感染者たちをにらみつけた。[pcms]
+With her face still covered in white muck, Natsu opened her blood-red[r]
+eyes wide, grinned, and glared at the surrounding infected.[pcms]
 
 *2738|
 [fc]
-その目つきは、感染者ですら怖じ気づかせるほど、[r]
-凄みすら感じさせる色気に満ちていた。[pcms]
+Her gaze was so intimidating that even the infected felt a sense of[r]
+fear, filled with a fierce sex appeal.[pcms]
 
 *2739|
 [fc]
 [vo_nat s="natu_tj0107"]
-[ns]夏都[nse]
-「お、オメェらは、もう、あきた……。[r]
-　つぎは……だれがオレの、あいてをしてくれるんだ……？[r]
-　ふ、ふふふふっ、ふふふふふふ……」[pcms]
+[ns]Natsu[nse]
+"I'm tired of you guys already... Who's next... who will entertain me[r]
+now...? Fu, fufufufu, fufufufu..."[pcms]
 
 *2740|
 [fc]
-[ns]感染者Ｊ[nse]
-「お、お゛おう、つぎは、おれ゛だあぁ」[pcms]
+[ns]Infected J[nse]
+"O-oh, next is meee!"[pcms]
 
 *2741|
 [fc]
-[ns]感染者Ｋ[nse]
-「ま、ま゛て、この゛やろ゛う……つぎこ゛そおれ゛だあぁ～」[pcms]
+[ns]Infected K[nse]
+"W-wait, you bastard... next is definitely meee~"[pcms]
 
 *2742|
 [fc]
-[ns]感染者Ｌ[nse]
-「お、お゛れは……さっき゛から、ずっとま゛ってんだぞ～」[pcms]
+[ns]Infected L[nse]
+"I-I've been waiting... for my turn all this time~"[pcms]
 
 *2743|
 [fc]
-新たな挑戦者がてんでに名乗りを挙げ、[r]
-夏都の体に挑みかかってゆく。[pcms]
+New challengers called out one after another, rushing to confront[r]
+Natsu's body.[pcms]
 
 *2744|
 [fc]
 [vo_nat s="natu_tj0108"]
-[ns]夏都[nse]
-「あはっ……あははっ……あははははははははっ……！」[pcms]
+[ns]Natsu[nse]
+"Ahah...ahahaha...ahahahahahahaha...!"[pcms]
 
 *2745|
 [fc]
-完全に発症してしまった夏都は、欲望を満たそうと[r]
-感染者たちを相手に、新たな快楽へとのめり込んでいった。[pcms]
+Fully succumbed to the infection, Natsu indulged in new pleasures as[r]
+she took on the infected, seeking to satisfy her desires.[pcms]
 
 *2746|
 [fc]
-とろけた夏都の脳内に、一瞬、背の低い女顔の男の子の[r]
-面影がよぎった。[pcms]
+For a moment, the image of a boy with a feminine face and short[r]
+stature flickered through Natsu's melted brain.[pcms]
 
 *2747|
 [fc]
-しかし、それが誰だったかを、もはや夏都には[r]
-思い出すことができなくなっていた。[pcms]
+However, Natsu could no longer remember who that was.[pcms]
 
 *2748|
 [fc]
-底なしの欲望を満たそうとする、夏都と感染者たちの享楽の宴は、[r]
-いつ果てるともなく続いていた。[pcms]
+The debauched feast of Natsu and the infected, seeking to satisfy[r]
+their bottomless desires, continued without end.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

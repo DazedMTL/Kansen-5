@@ -38,23 +38,24 @@
 
 *3198|
 [fc]
-[ns]誠[nse]
-「んん……？」[pcms]
+[ns]Makoto[nse]
+"Hmm...?"[pcms]
 
 *3199|
 [fc]
 [vo_stk s="satuki_st0461"]
-[ns]彩芽[nse]
-「ん……なに？　ヘリの音？」[pcms]
+[ns]Ayame[nse]
+"Hm? What's that? The sound of a helicopter?"[pcms]
 
 *3200|
 [fc]
-ずいぶん近くをヘリの編隊が飛んでいるような音がする。[r]
-僕と先輩は顔を見合わせ、すぐに身繕いをして、部屋を出た。[pcms]
+It sounds like a formation of helicopters is flying nearby. The senior[r]
+and I exchanged glances, quickly got ready, and left the room.[pcms]
 
 *3201|
 [fc]
-窓際には、越智さんと美沙緒さんが低い姿勢で既に貼り付いている。[pcms]
+By the window, Ochi-san and Misao-san were already plastered against[r]
+it in a low stance.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -63,87 +64,88 @@
 
 *3202|
 [fc]
-[ns]誠[nse]
-「おはようございます。ヘリ……ですか？」[pcms]
+[ns]Makoto[nse]
+"Good morning. Helicopters... you say?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3203|
 [fc]
 [vo_aka s="akari_st0202"]
-[ns]茜梨[nse]
-「あ、ああっ……は、はい。お、おはようございますっ」[pcms]
+[ns]Akari[nse]
+"Ah, yes... G-good morning."[pcms]
 
 *3204|
 [fc]
 [vo_mis s="misao_st0220"]
-[ns]美沙緒[nse]
-「……おはよう」[pcms]
+[ns]Misao[nse]
+"...Good morning."[pcms]
 
 *3205|
 [fc]
-越智さんは、耳まで真っ赤にして、しどろもどろに答えた。[r]
-美沙緒さんも、ちょっと目を逸らしている。[pcms]
+Akari-san, with her ears turning bright red, answered in a flustered[r]
+manner. Misao-san was also looking away slightly.[pcms]
 
 *3206|
 [fc]
-[ns]誠[nse]
-「越智さん、どうかした？　顔、真っ赤だよ」[pcms]
+[ns]Makoto[nse]
+"Ochi-san, what's wrong? Your face is all red."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak18"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3207|
 [fc]
 [vo_aka s="akari_st0203"]
-[ns]茜梨[nse]
-「え？　あ、あ……その……何も聞えませんでした……から」[pcms]
+[ns]Akari[nse]
+"Eh? Oh, ah... that's... I didn't hear anything... so."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi12"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3208|
 [fc]
 [vo_mis s="misao_st0221"]
-[ns]美沙緒[nse]
-「茜梨……それはやぶへびよ……」[pcms]
+[ns]Misao[nse]
+"Akari... you're making a mountain out of a molehill..."[pcms]
 
 *3209|
 [fc]
-[ns]誠[nse]
-「へ？　……あ……」[pcms]
+[ns]Makoto[nse]
+"Huh? ...Ah..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3210|
 [fc]
 [vo_stk s="satuki_st0462"]
-[ns]彩芽[nse]
-「……ご、ごめんなさい。う、うるさかった……？」[pcms]
+[ns]Ayame[nse]
+"...Sorry. Was it... too loud?"[pcms]
 
 *3211|
 [fc]
-僕と彩芽先輩も顔が赤くなるのがわかった。[r]
-そりゃそうか、こんな安普請の建前。筒抜けだったよね……。[pcms]
+The senior and I could feel our faces turning red too. Well, that[r]
+makes sense, given the shoddy construction of this place. It was like[r]
+everything was audible...[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_cos"][ChrSetParts layer=5 chface="F1_ak18"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3212|
 [fc]
 [vo_aka s="akari_st0204"]
-[ns]茜梨[nse]
-「いえ、その……」[pcms]
+[ns]Akari[nse]
+"No, it's just..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi12"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3213|
 [fc]
 [vo_mis s="misao_st0222"]
-[ns]美沙緒[nse]
-「そんなことは、いいから、ほら、外を見て」[pcms]
+[ns]Misao[nse]
+"Never mind that, look outside."[pcms]
 
 *3214|
 [fc]
-越智さん、彩芽先輩、僕、赤い顔をしながらも、美沙緒さんに[r]
-促されるまま、外を見た。[pcms]
+Ochi-san, the senior, and I, with our red faces, looked outside as[r]
+urged by Misao-san.[pcms]
 
 ;//◎_ラベル合流へjump
 
@@ -157,21 +159,22 @@
 
 *3215|
 [fc]
-空には複数のヘリが隊を組んで飛んでいた。[r]
-まだ夜明け前だから、ライトの数でそれがわかる。[pcms]
+In the sky, multiple helicopters were flying in formation. It was[r]
+still before dawn, so their lights made them visible.[pcms]
 
 *3216|
 [fc]
-しかも、大型のヘリだけじゃなく、[r]
-シルエットの違う機体もあるようだ。[pcms]
+Moreover, there were not only large helicopters but also ones with[r]
+different silhouettes.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3217|
 [fc]
 [vo_mis s="misao_st0223"]
-[ns]美沙緒[nse]
-「あれは……自衛隊の特別防疫隊だわ」[pcms]
+[ns]Misao[nse]
+"Those are... the Self-Defense Forces' Special Epidemic Prevention[r]
+Squad."[pcms]
 
 [bgm storage="BGM04"]
 ;//♪bgm04　シリアスシーン：死
@@ -184,121 +187,124 @@
 *3218|
 [fc]
 [vo_stk s="satuki_st0463"]
-[ns]彩芽[nse]
-「特別防疫隊？　聴いたことがないわ」[pcms]
+[ns]Ayame[nse]
+"Special Epidemic Prevention Squad? I've never heard of it."[pcms]
 
 *3219|
 [fc]
 [vo_mis s="misao_st0224"]
-[ns]美沙緒[nse]
-「……そうでしょうね。４年間のアウトブレイクのあと、[r]
-　秘密裏に組織された部隊だから。専門の訓練を受けた[r]
-　優秀な隊員達で構成されてるわ」[pcms]
+[ns]Misao[nse]
+"...I suppose not. After four years of outbreaks, they were secretly[r]
+organized. They're composed of elite members who have received[r]
+specialized training."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3220|
 [fc]
 [vo_aka s="akari_st0205"]
-[ns]茜梨[nse]
-「専門の訓練？」[pcms]
+[ns]Akari[nse]
+"Specialized training?"[pcms]
 
 *3221|
 [fc]
 [vo_mis s="misao_st0225"]
-[ns]美沙緒[nse]
-「バイオテロ対応の防疫知識や訓練よ。それに、感染者と[r]
-　戦うための技術も身につけてるはずだわ」[pcms]
+[ns]Misao[nse]
+"Knowledge and training for bioterrorism response. Plus, they should[r]
+be trained in techniques to combat infected individuals."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3222|
 [fc]
 [vo_stk s="satuki_st0464"]
-[ns]彩芽[nse]
-「……ここ何時間も、外の情報が得られてなかったけど、[r]
-　部隊が動き出したのなら、政府や国防省は機能してるって事ね」[pcms]
+[ns]Ayame[nse]
+"...We haven't been able to get information from outside for hours,[r]
+but if the squad is moving out, it means the government and the[r]
+Ministry of Defense are functioning."[pcms]
 
 *3223|
 [fc]
-[ns]誠[nse]
-「じゃあ、もうすぐ僕たちも救出してもらえますね。良かった……」[pcms]
+[ns]Makoto[nse]
+"Then we'll be rescued soon. Thank goodness..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3224|
 [fc]
 [vo_mis s="misao_st0226"]
-[ns]美沙緒[nse]
-「…………それは、どうかしら」[pcms]
+[ns]Misao[nse]
+"...I wonder about that."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st14"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3225|
 [fc]
 [vo_stk s="satuki_st0465"]
-[ns]彩芽[nse]
-「え？！」[pcms]
+[ns]Ayame[nse]
+"What?!"[pcms]
 
 *3226|
 [fc]
-美沙緒さんは、ちょっと眉根を寄せて強ばった顔になっていた。[pcms]
+Misao-san's face became tense as she furrowed her brows slightly.[pcms]
 
 *3227|
 [fc]
 [vo_mis s="misao_st0227"]
-[ns]美沙緒[nse]
-「防疫隊の主目的は、ウイルスの封じ込め。そして感染者の駆除。[r]
-　汚染地域の浄化なの。基本的に生存者の救出は、[r]
-　目的に入ってないわ」[pcms]
+[ns]Misao[nse]
+"The primary objective of the epidemic squad is to contain the virus[r]
+and eliminate infected individuals. Purification of contaminated[r]
+areas. Basically, rescuing survivors isn't their goal."[pcms]
 
 *3228|
 [fc]
 [vo_mis s="misao_st0228"]
-[ns]美沙緒[nse]
-「それどころか、作戦が始まったら、浄化範囲にいる者は、[r]
-　無差別に『処理』するように、訓練されてる」[pcms]
+[ns]Misao[nse]
+"On the contrary, once the operation starts, anyone within the[r]
+purification range will be indiscriminately 'dealt with' as they are[r]
+trained to do."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st20"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3229|
 [fc]
 [vo_stk s="satuki_st0466"]
-[ns]彩芽[nse]
-「それって……」[pcms]
+[ns]Ayame[nse]
+"Does that mean..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi04"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3230|
 [fc]
 [vo_mis s="misao_st0229"]
-[ns]美沙緒[nse]
-「ええ、そうよ。ここが浄化範囲だとしたら、このままここに[r]
-　立てこもってると、浄化対象として、集落ごと、[r]
-　ここも間違いなく処理されるでしょうね」[pcms]
+[ns]Misao[nse]
+"Yes, exactly. If this place is within the purification range, then if[r]
+we continue to barricade ourselves here, we'll definitely be processed[r]
+along with the settlement as part of the purification target."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3231|
 [fc]
 [vo_aka s="akari_st0206"]
-[ns]茜梨[nse]
-「そんな……感染してない人も、一緒にだなんて」[pcms]
+[ns]Akari[nse]
+"That's terrible... Even people who aren't infected would be[r]
+included."[pcms]
 
 *3232|
 [fc]
-[ns]誠[nse]
-「むしろ、防疫隊が動き出したらやばいってこと？」[pcms]
+[ns]Makoto[nse]
+"So you're saying it's bad news if the epidemic squad starts moving?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3233|
 [fc]
 [vo_mis s="misao_st0230"]
-[ns]美沙緒[nse]
-「……作戦が動き出す前なら、なんとか出来るかもしれないわ。[r]
-　これでもウイルス研究のメインスタッフだったから。[r]
-　彼らの拠点に出向ければ、話を通せると思う」[pcms]
+[ns]Misao[nse]
+"...If they haven't started their operation yet, there might be[r]
+something we can do. After all, I was part of the main staff for virus[r]
+research. If we can get to their base, I think we can negotiate."[pcms]
 
 ;//■_遠くで大きな爆撃音
 [se buf=0 storage="seB059"]
@@ -311,8 +317,8 @@
 *3234|
 [fc]
 [vo_aka s="akari_st0207"]
-[ns]茜梨[nse]
-「きゃっ！」[pcms]
+[ns]Akari[nse]
+"Kyaa!"[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak15"][ChrSetXY layer=4 x=600 y=0]
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st14"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -320,124 +326,129 @@
 *3235|
 [fc]
 [vo_stk s="satuki_st0467"]
-[ns]彩芽[nse]
-「もう、始まったっていうの？！」[pcms]
+[ns]Ayame[nse]
+"Has it already started?!"[pcms]
 
 *3236|
 [fc]
 [vo_mis s="misao_st0231"]
-[ns]美沙緒[nse]
-「いいえ、違うと思うわ。北側に向かったわよね、あの部隊。[r]
-　だとしたら、キャンプ場近くの学園に向かったんだと思うわ。[r]
-　グラウンドに着陸して拠点にするつもりなんでしょう」[pcms]
+[ns]Misao[nse]
+"No, I don't think so. The squad headed north, right? If so, I think[r]
+they're heading towards the school near the campsite. They're probably[r]
+planning to land on the grounds and set up their base there."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3237|
 [fc]
 [vo_stk s="satuki_st0468"]
-[ns]彩芽[nse]
-「でも、爆撃音だったわ」[pcms]
+[ns]Ayame[nse]
+"But it sounded like bombing."[pcms]
 
 *3238|
 [fc]
 [vo_mis s="misao_st0232"]
-[ns]美沙緒[nse]
-「グラウンドにも、感染者が多数居る、という事よ。[r]
-　たぶんあの爆撃は、拠点作りの前段、清掃中ということ」[pcms]
+[ns]Misao[nse]
+"It means there are a lot of infected on the grounds. Probably, that[r]
+bombing was the preliminary phase, cleaning up before establishing[r]
+their base."[pcms]
 
 *3239|
 [fc]
-[ns]誠[nse]
-「……４年前みたいに……町や、この島全体に、爆弾を[r]
-　落とすってことなんでしょうか？」[pcms]
+[ns]Makoto[nse]
+"...Like four years ago... Are you saying they're going to drop bombs[r]
+on the town and the entire island?"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi04"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3240|
 [fc]
 [vo_mis s="misao_st0233"]
-[ns]美沙緒[nse]
-「それも違うわ。爆撃での掃討作戦は、都市部なんかには、[r]
-　ダメージが大きすぎたの。４年前は壊しすぎて、未だに[r]
-　再建がままならない状況。だから、爆撃するとしても最終手段」[pcms]
+[ns]Misao[nse]
+"That's not it either. Bombing operations caused too much damage in[r]
+urban areas. Four years ago, they destroyed too much, and even now,[r]
+reconstruction is not progressing well. So, bombing would only be a[r]
+last resort."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0]
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3241|
 [fc]
-[ns]誠[nse]
-「じゃあ、どうやって」[pcms]
+[ns]Makoto[nse]
+"Then how will they do it?"[pcms]
 
 *3242|
 [fc]
 [vo_mis s="misao_st0234"]
-[ns]美沙緒[nse]
-「防疫隊はね、ピンポイントで封じ込めが出来る程度の[r]
-　アウトブレイクや、封じ込めが可能な場所に派遣されるの」[pcms]
+[ns]Misao[nse]
+"The epidemic squad is dispatched to places where containment is[r]
+possible on a pinpoint scale, like outbreaks that can be contained or[r]
+locations that are containable."[pcms]
 
 *3243|
 [fc]
 [vo_mis s="misao_st0235"]
-[ns]美沙緒[nse]
-「まあ、この瀬渡内の島は、本州を守るにしても四国を守るに[r]
-　しても、ちょうどいい場所ではあるわよね。拠点を作って、[r]
-　封じ込めつつ火器を使っての陸戦、でしょうね」[pcms]
+[ns]Misao[nse]
+"Well, this island in Sedo is in a good position whether it's for[r]
+protecting Honshu or Shikoku. They'll probably set up a base and[r]
+conduct a land battle using firearms while containing the situation."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3244|
 [fc]
 [vo_stk s="satuki_st0469"]
-[ns]彩芽[nse]
-「……東京はどうなってるの？　防疫隊がそういう目的で[r]
-　動いてるんだとしたら、封じ込めなんて無理な都市部は？」[pcms]
+[ns]Ayame[nse]
+"...What about Tokyo? If the epidemic squad is moving with that[r]
+purpose, what about urban areas where containment is impossible?"[pcms]
 
 *3245|
 [fc]
 [vo_mis s="misao_st0236"]
-[ns]美沙緒[nse]
-「都市部は、米軍が協力して化学兵器が導入されると思うわ。[r]
-　毒ガスとかね。これは戦争じゃなくて、災害という認識だから。[r]
-　まともな人間は避難させて、感染者のみを処理する作戦よ」[pcms]
+[ns]Misao[nse]
+"In urban areas, I think chemical weapons will be introduced with the[r]
+cooperation of the US military. Like poison gas. This is seen as a[r]
+disaster, not a war. They'll evacuate sane people and then deal with[r]
+only the infected."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3246|
 [fc]
 [vo_mis s="misao_st0237"]
-[ns]美沙緒[nse]
-「でも、ここは大都市じゃない。現に防疫隊も入ってきた」[pcms]
+[ns]Misao[nse]
+"But this isn't a big city. The epidemic squad has already entered[r]
+here."[pcms]
 
 *3247|
 [fc]
 [vo_stk s="satuki_st0470"]
-[ns]彩芽[nse]
-「どのみち、すぐにも移動した方が良いってことね」[pcms]
+[ns]Ayame[nse]
+"Either way, it means we should move out as soon as possible."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi06"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3248|
 [fc]
 [vo_mis s="misao_st0238"]
-[ns]美沙緒[nse]
-「ええ……」[pcms]
+[ns]Misao[nse]
+"Yes..."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak11"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3249|
 [fc]
 [vo_aka s="akari_st0208"]
-[ns]茜梨[nse]
-「……荷物まとめます」[pcms]
+[ns]Akari[nse]
+"...I'll pack our things."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3250|
 [fc]
-そう言うと、越智さんと美沙緒さんは奥の部屋へ。[r]
-僕と先輩も、仕度にかかった。[pcms]
+With that said, Ochi-san and Misao-san went to the back room. Senpai[r]
+and I also started getting ready.[pcms]
 
 ;//めも：もしキャラ（主に茜梨）が着替えるチャンスがあったらこの部分。
 ;//#_ブラックアウト
@@ -458,71 +469,72 @@
 *3251|
 [fc]
 [vo_stk s="satuki_st0471"]
-[ns]彩芽[nse]
-「……増えてきたわ」[pcms]
+[ns]Ayame[nse]
+"...They're increasing."[pcms]
 
 *3252|
 [fc]
-仕度が調って、ここを出ようと集まった時、ふいに、[r]
-先輩の合図で僕たちは身をかがめた。[pcms]
+When we were ready to leave and gathered, suddenly, at Senpai's[r]
+signal, we all crouched down.[pcms]
 
 *3253|
 [fc]
-窓際に低い姿勢でよって、外を覗く。[pcms]
+We approached the window with a low stance and peered outside.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3254|
 [fc]
 [vo_mis s="misao_st0239"]
-[ns]美沙緒[nse]
-「……さっきの爆撃のせいだわ、きっと」[pcms]
+[ns]Misao[nse]
+"...It must be because of the earlier bombing."[pcms]
 
 *3255|
 [fc]
-外をうろつく感染者の数が大幅に増えていた。[r]
-みんな同じ方向から、のたのたとやってくる。[pcms]
+The number of infected wandering outside had significantly increased.[r]
+They all came staggering from the same direction.[pcms]
 
 *3256|
 [fc]
-きっと防疫隊の爆撃を避けるため、あるいはもう陸戦部隊が[r]
-動いていて、それに追いやられたのかもしれない。[pcms]
+They must be trying to avoid the epidemic squad's bombing, or perhaps[r]
+the land combat troops have already started moving, and they were[r]
+driven here.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_cos"][ChrSetParts layer=5 chface="F1_ak15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3257|
 [fc]
 [vo_aka s="akari_st0209"]
-[ns]茜梨[nse]
-「……多すぎます」[pcms]
+[ns]Akari[nse]
+"...There are too many."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st23"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3258|
 [fc]
 [vo_stk s="satuki_st0472"]
-[ns]彩芽[nse]
-「ええ……さっきまでの数だったら、すり抜けたり躱したり[r]
-　出来るだろうと踏んでたんだけど……」[pcms]
+[ns]Ayame[nse]
+"Yes... I was counting on being able to slip through or dodge them if[r]
+it was the number from earlier..."[pcms]
 
 [bg storage="village01c"][trans_c cross time=500]
 
 *3259|
 [fc]
-[ns]誠[nse]
-「うっ……！！」[pcms]
+[ns]Makoto[nse]
+"Ugh...!!"[pcms]
 
 *3260|
 [fc]
 [vo_aka s="akari_st0210"]
-[ns]茜梨[nse]
-「どうし……あっ……！！」[pcms]
+[ns]Akari[nse]
+"What should we... Ah...!!"[pcms]
 
 *3261|
 [fc]
 [vo_stk s="satuki_st0473"]
-[ns]彩芽[nse]
-「…………！」[pcms]
+[ns]Ayame[nse]
+"...!"[pcms]
 
 ;//めも：夏都はホテルの時のまま私服（スカート・ジャケ）で
 ;//めも：宗一郎＠制服、荒井＠半袖ジャージ、花沢＠チア（感染専用）
@@ -532,30 +544,30 @@
 
 *3262|
 [fc]
-外をうろつく感染者の中に、見覚えのある人影が、[r]
-複数居るのに気がついてしまった。[pcms]
+We noticed several familiar figures among the infected wandering[r]
+outside.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sk1_a"][ChrSetParts layer=5 chface="F1_na17"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3263|
 [fc]
 [vo_nat s="natu_st0003"]
-[ns]夏都[nse]
-「ま゛ご……と……どこ？　どこぉ……？」[pcms]
+[ns]Natsu[nse]
+"Ma...koto... where? Where...?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so24a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3264|
 [fc]
-[ns]宗一郎[nse]
-「なんなんですか……まったく……ぐへへ……」[pcms]
+[ns]Souichirou[nse]
+"What's all this... really... guhehe..."[pcms]
 
 [ChrSetEx layer=3 chbase="ar1_ja1"][ChrSetParts layer=3 chface="F1_ar24"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3265|
 [fc]
-[ns]荒井[nse]
-「ったくよお……あ～、どこいくんだあ？」[pcms]
+[ns]Arai[nse]
+"Seriously... Ah~, where are we going?"[pcms]
 
 ;//めも：レイヤー番号上書きしながら人物表示
 [ChrSetEx layer=5 chbase="ha1_kan2"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
@@ -563,28 +575,28 @@
 *3266|
 [fc]
 [vo_han s="hana_st0002"]
-[ns]花沢[nse]
-「しよーよー、ここで、しよーよー」[pcms]
+[ns]Hanazawa[nse]
+"Let's do it here, let's do it right here."[pcms]
 
 [ChrSetEx layer=4 chbase="ta1_le"][ChrSetParts layer=4 chface="F1_ta24"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3267|
 [fc]
 [vo_tay s="taja_st0001"]
-[ns]ターヤ[nse]
-「ねえ、さとぉ、どこいくの……お」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hey, Sato~, where are you going... oh"[pcms]
 
 [ChrSetEx layer=3 chbase="sa1_kan_le"][ChrSetParts layer=3 chface="F1_sa15"][ChrSetXY layer=3 x=30 y=0][trans_c cross time=150]
 
 *3268|
 [fc]
 [vo_sat s="sato_st0001"]
-[ns]怜[nse]
-「わかんなあい、あははは……あはっ、ははは」[pcms]
+[ns]Sato[nse]
+"I don't knooow, ahahaha... ahah, hahaha"[pcms]
 
 *3269|
 [fc]
-自分でも血の気が引いて、顔が青ざめているのがわかった。[pcms]
+I could feel my face turning pale and blood draining from it.[pcms]
 
 [bg storage="village04c"][trans_c cross time=500]
 
@@ -592,29 +604,28 @@
 
 *3270|
 [fc]
-[ns]誠[nse]
-「……嘘だろ……嘘だって言って……っ」[pcms]
+[ns]Makoto[nse]
+"...It can't be true... Tell me it's not true..."[pcms]
 
 *3271|
 [fc]
 [vo_aka s="akari_st0211"]
-[ns]茜梨[nse]
-「酷すぎます……うっううっ」[pcms]
+[ns]Akari[nse]
+"This is too cruel... ugh ughh"[pcms]
 
 *3272|
 [fc]
-こうなったら、バットでなぎ倒しながらでも行くしかない。[r]
-そんな事を思っていた。[pcms]
+I thought we'd have to go through them swinging a bat if necessary.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3273|
 [fc]
-でも、あんなに見知った顔がいたら……。[pcms]
+But with so many familiar faces there...[pcms]
 
 *3274|
 [fc]
-どうしたらいいんだ。どうやって抜け出せばいいんだ。[pcms]
+What should I do? How can we get out of here?[pcms]
 
 ;//めも：条件分岐につき、終末系処理はナシ。BGM停止しなくていい
 

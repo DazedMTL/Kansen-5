@@ -4,7 +4,7 @@
 ;//登場人物	：主人公、宗一郎、茜梨、彩月、ターヤ、西
 ;//服装		：制服
 ;//日付		：８月１４日 
-;//時間		：１５時～
+;//時間		：１５時
 ;//背景		：体育館Ｂ（アーカイブ）
 ;//予想容量	：全体を通して8~9K前後
 ;//備考		：主人公一人称視点
@@ -19,18 +19,20 @@
 
 *3387|
 [fc]
-体育館に移動すると、覚悟していた程の暑さを感じることもなく、[r]
-意外と快適な空間になっていることに驚いた。[pcms]
+When I moved to the gymnasium, I was surprised to find it was not as[r]
+hot as I had braced myself for, and it was actually quite a[r]
+comfortable space.[pcms]
 
 *3388|
 [fc]
-人の熱気と夏の暑さを、窓や扉を開け放つことで補い、[r]
-蝉の声を乗せた潮風が体育館の中を吹き抜けている。[pcms]
+The heat from the people and the summer warmth were compensated by[r]
+opening windows and doors, and the sea breeze carrying the cicadas'[r]
+song blew through the gymnasium.[pcms]
 
 *3389|
 [fc]
-炎天下の直射日光が無く、風は外と同じように吹いているので[r]
-かなり過ごしやすい環境だと言えた。[pcms]
+Without the direct sunlight of the blazing sun and with the wind[r]
+blowing just like outside, it was quite a comfortable environment.[pcms]
 
 ;//bgm05.ogg
 [bgm storage="BGM05"]
@@ -41,191 +43,193 @@
 *3390|
 [fc]
 [vo_aka s="akari0092"]
-[ns]茜梨[nse]
-「Ｇｏ！　Ｇｏ！」[pcms]
+[ns]Akari[nse]
+"Go! Go!"[pcms]
 
 *3391|
 [fc]
 [vo_han s="hana0004"]
-[ns]花沢[nse]
-「Ｌｅｔ’ｓ Ｇｏ！」[pcms]
+[ns]Hanazawa[nse]
+"Let's Go!"[pcms]
 
 *3392|
 [fc]
-チアー部の練習は、バカンス気分だった僕の頭を[r]
-吹っ飛ばしてしまうくらいに、熱のこもったものになっていた。[pcms]
+The cheerleading practice was so intense that it blew away the[r]
+vacation-like feeling in my head.[pcms]
 
 *3393|
 [fc]
-短距離を全力で走ったように、みんな息が切れていて、[r]
-それでもキレのある動作で意思統一された演技を見せている。[pcms]
+Everyone was out of breath as if they had sprinted a short distance,[r]
+yet they still showed sharp and unified movements in their[r]
+performance.[pcms]
 
 *3394|
 [fc]
 [vo_mob s="kojima0008"]
-[ns]小嶋[nse]
-「だからお前のはチアリーディングじゃなくて、[r]
-　チアガールだっつうんだよっ！」[pcms]
+[ns]Kojima[nse]
+"That's why what you're doing isn't cheerleading, it's cheer-girling!"[pcms]
 
 *3395|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3396|
 [fc]
-ホテルで見た小嶋先生とは、まるで別人のような声をあげて[r]
-指導に当たっていた。[pcms]
+Coach Kojima, who I saw at the hotel, was like a completely different[r]
+person, raising her voice as she instructed.[pcms]
 
 *3397|
 [fc]
-タイプもあるんだろうけれど、こういうヒリヒリしたムードは、[r]
-選手を強くするような気がする。[pcms]
+It might be a matter of type, but this kind of tense mood seems to[r]
+make the athletes stronger.[pcms]
 
 *3398|
 [fc]
-コーチング技術の一環なのかも知れなかった。[pcms]
+It could have been part of her coaching technique.[pcms]
 
 *3399|
 [fc]
-体育館には他校のチアー部もいるから、[r]
-ヌルい姿は見せられないのかも知れない。[pcms]
+Since there are other schools' cheer teams in the gymnasium, maybe we[r]
+can't afford to show any slackness.[pcms]
 
 *3400|
 [fc]
-越智さんはもちろん、花沢も気合いが入っているみたいだ。[pcms]
+Ochi-san and Hanazawa seem to be really fired up as well.[pcms]
 
 *3401|
 [fc]
-小島先生は、一々みんなの動きを止めると、[r]
-細かいアドバイスを行っていく。[pcms]
+Coach Kojima would stop everyone's movements one by one to give[r]
+detailed advice.[pcms]
 
 *3402|
 [fc]
-そして、その動きを理解したみんなが、反復で[r]
-練習を繰り返していくということの連続だった。[pcms]
+Then, once everyone understood the movements, they would repeat the[r]
+practice in cycles.[pcms]
 
 *3403|
 [fc]
-鶯谷学園のチアー部は、大きく分けて[r]
-ＡチームとＢチームに別れている。[pcms]
+The Uguisudani Academy cheer team is broadly divided into Team A and[r]
+Team B.[pcms]
 
 *3404|
 [fc]
-いわゆる一軍と二軍、Ａ代表とＢ代表みたいなもので、[r]
-Ａチームに所属することが、部員の取りあえずの[r]
-目標になっていた。[pcms]
+It's like the first string and second string, or A and B[r]
+representatives, and belonging to Team A is an immediate goal for the[r]
+members.[pcms]
 
 *3405|
 [fc]
-チアリーディングの大会にメインで参加できるのは[r]
-Ａチームのみで、レギュラー１６人に補欠４人の[r]
-２０名体勢だ。[pcms]
+Only Team A participates in the main cheerleading competitions, with a[r]
+regular lineup of 16 members plus 4 alternates, making a total of 20[r]
+members.[pcms]
 
 *3406|
 [fc]
-基本的に３年生がメインだけど、４名が下級生枠として[r]
-存在していた。[pcms]
+While mainly seniors are in the regular lineup, there are 4 spots[r]
+reserved for underclassmen.[pcms]
 
 *3407|
 [fc]
-ＢチームはＡチームの選抜から漏れた者か、[r]
-志願者で構成されており、他の運動部の[r]
-応援に参加するのがメインの活動だ。[pcms]
+Team B consists of those who didn't make it into Team A's selection or[r]
+who volunteered, and their main activity is participating in support[r]
+for other sports clubs.[pcms]
 
 *3408|
 [fc]
-グラウンドのひな壇から吹奏楽部の音楽に合わせて、[r]
-踊りを踊る例のアレが簡単に想像できる。[pcms]
+You can easily imagine them dancing to the music of the brass band[r]
+from the stands on the fieldthe usual thing.[pcms]
 
 *3409|
 [fc]
-４名から１６名という４の倍数で１チームが構成されており、[r]
-現在のところ全員で約３０名ほどがＢチームにいた。[pcms]
+A team is composed of multiples of four, from 4 to 16 members, and[r]
+currently, there are about 30 members in Team B.[pcms]
 
 *3410|
 [fc]
-チアー部に入部すると、基本的にＢチームに編入されて[r]
-部活人生がスタートする。[pcms]
+When you join the cheer team, you're basically assigned to Team B and[r]
+that's where your club life starts.[pcms]
 
 *3411|
 [fc]
-大会に出ることを目指しながらＢチームに所属している[r]
-２、３年生は、Ａチームのレギュラーに入ることが[r]
-目標となっていた。[pcms]
+Second and third-year students who aim to compete while being part of[r]
+Team B have the goal of making it into Team A's regular lineup.[pcms]
 
 *3412|
 [fc]
-レギュラーを諦めているか、いわゆるチアリーディングが[r]
-したいわけじゃない人たちは、このＢチームで応援する活動を[r]
-積極的に行っていく。[pcms]
+Those who have given up on being regulars or who aren't necessarily[r]
+interested in cheerleading per se actively engage in support[r]
+activities within Team B.[pcms]
 
 *3413|
 [fc]
-１年生の場合は、意思がどこにあるのかは関係なく、[r]
-応援パフォーマンスをするＢチームのメンバーとして[r]
-頑張るのが通例だった。[pcms]
+For first-year students, regardless of their intentions, it's[r]
+customary to work hard as members of Team B performing support[r]
+performances.[pcms]
 
 *3414|
 [fc]
-補欠とはいえ、越智さんが春先にＡチームの補欠に入ったのは、[r]
-異例中の異例と言える事態だ。[pcms]
+Even though she was an alternate, Ochi-san's entry into Team A's[r]
+alternates in early spring was an exceptionally rare occurrence.[pcms]
 
 *3415|
 [fc]
-２年とはいえ、同じ下級生枠の補欠でレギュラーを狙っている[r]
-花沢としては、面白くないし焦りもしただろう。[pcms]
+For Hanazawa, who is also aiming for a regular spot as an[r]
+underclassman alternate, it must have been frustrating and concerning.[pcms]
 
 *3416|
 [fc]
-更に今回の合宿には、Ａチームの他、[r]
-１、２年を含むＢチームからの選抜者８名も参加していた。[pcms]
+Furthermore, in addition to Team A, this training camp also included 8[r]
+selected members from Team B, including first and second-year[r]
+students.[pcms]
 
 *3417|
 [fc]
-合宿の内容次第では、入れ替わりも十分に考えられる。[pcms]
+Depending on the content of the camp, changes in positions were[r]
+certainly conceivable.[pcms]
 
 *3418|
 [fc]
-今レギュラーにいる部員たちもうかうかしていられないし、[r]
-指導者たちはそういう部分に期待もしているんだろう。[pcms]
+The current regular members couldn't afford to be complacent either,[r]
+and the coaches were probably expecting such dynamics.[pcms]
 
 *3419|
 [fc]
-チーム内で競い合いの無い、馴れ合いになってしまっている[r]
-内輪所帯は弱い。[pcms]
+A team without internal competition that has become complacent is[r]
+weak.[pcms]
 
 *3420|
 [fc]
-全ては、チームを強くするための方策に繋がっていた。[pcms]
+All these measures were connected to making the team stronger.[pcms]
 
 *3421|
 [fc]
-だから、その辺りがわかっている合宿参加者たちは、[r]
-真剣さの度合いが違う。[pcms]
+Therefore, the camp participants who understood this had a different[r]
+level of seriousness.[pcms]
 
 *3422|
 [fc]
-僕も、メモを取る手に思わず力が入ってしまった。[pcms]
+I too found myself unintentionally putting more strength into my note-[r]
+taking hand.[pcms]
 
 *3423|
 [fc]
-普段は気にもならないし興味もない花沢だけれど、[r]
-頑張りを認めないわけにはいかない。[pcms]
+I usually don't care or have interest in Hanazawa, but I can't deny[r]
+her efforts.[pcms]
 
 *3424|
 [fc]
-フランク先輩がレギュラーメンバーに注目して取材するように、[r]
-僕は限られた枠を目指す部員たちの姿を追うことになっていた。[pcms]
+Just like Senior Frank focuses on interviewing regular members, I was[r]
+tasked with following those aiming for the limited spots.[pcms]
 
 *3425|
 [fc]
-だから、越智さんや花沢の努力を僕は知っている。[pcms]
+That's why I know about Ochi-san and Hanazawa's efforts.[pcms]
 
 *3426|
 [fc]
-幼稚な悪戯をされているからといって、[r]
-花沢のことを悪く書くことはできなかった。[pcms]
+I couldn't write anything bad about Hanazawa just because she was[r]
+being subjected to childish pranks.[pcms]
 
 ;//★school05a 島の体育館・朝昼
 [bg storage="school05a"][trans_c cross time=500]
@@ -233,80 +237,80 @@
 *3427|
 [fc]
 [vo_mob s="kojima0009"]
-[ns]小嶋[nse]
-「はい、休憩！　しっかり休む！」[pcms]
+[ns]Kojima[nse]
+"Okay, break time! Make sure to rest up!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che"][ChrSetParts layer=5 chface="F1_ak04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3428|
 [fc]
 [vo_aka s="akari0093"]
-[ns]茜梨[nse]
-「はいっ！」[pcms]
+[ns]Akari[nse]
+"Yes!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3429|
 [fc]
-チアー部が休憩に入ったところで、[r]
-南先輩がこっちに戻ってきた。[pcms]
+The cheerleading team took a break, and Senior Satsuki came back to[r]
+us.[pcms]
 
 *3430|
 [fc]
-色々なアングルから写真を撮るために、[r]
-体育館の中を広く使って撮影しているみたいだ。[pcms]
+It seems she was using the wide space inside the gym to take pictures[r]
+from various angles.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se2_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3431|
 [fc]
 [vo_stk s="satuki0105"]
-[ns]彩月[nse]
-「西君、ちょっと見てもらってもいいかな」[pcms]
+[ns]Satsuki[nse]
+"West-kun, could you take a look at this for me?"[pcms]
 
 *3432|
 [fc]
-[ns]西[nse]
-「おう」[pcms]
+[ns]West[nse]
+"Sure."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3433|
 [fc]
-フランク先輩は持って来たノートパソコンに、[r]
-南先輩のデジカメを接続すると、一枚一枚具合を確認していく。[pcms]
+Senior Frank connected Senior Satsuki's digital camera to the laptop[r]
+he brought and started checking each photo one by one.[pcms]
 
 *3434|
 [fc]
-プロのスポーツ写真も、一試合に百枚以上撮って、[r]
-実際に使われるのは、ほんの数枚だ。[pcms]
+Even professional sports photographers take over a hundred shots per[r]
+game, but only a few are actually used.[pcms]
 
 *3435|
 [fc]
-明らかに駄目な写真は、この段階で削除してしまうのが、[r]
-いつものやり方だった。[pcms]
+It was always their method to delete the obviously bad photos at this[r]
+stage.[pcms]
 
 *3436|
 [fc]
-[ns]誠[nse]
-「あれ？」[pcms]
+[ns]Makoto[nse]
+"Huh?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se2_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3437|
 [fc]
 [vo_stk s="satuki0106"]
-[ns]彩月[nse]
-「どうしたの？」[pcms]
+[ns]Satsuki[nse]
+"What's wrong?"[pcms]
 
 *3438|
 [fc]
-[ns]誠[nse]
-「いや、チアー部の人たちが……」[pcms]
+[ns]Makoto[nse]
+"No, it's just that the cheerleading team..."[pcms]
 
 *3439|
 [fc]
-いや、チアー部だけじゃない。[pcms]
+No, it wasn't just the cheerleading team.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -314,8 +318,8 @@
 
 *3440|
 [fc]
-体育館で休憩か手持ちぶさたにしている連中の視線が、[r]
-反対側の一点に集中している。[pcms]
+The gazes of those taking a break or idling in the gym were all[r]
+focused on one point on the opposite side.[pcms]
 
 ;//bgm09.ogg
 [bgm storage="BGM09"]
@@ -325,109 +329,111 @@
 
 *3441|
 [fc]
-そこでは、白いレオタード姿にプラチナブロンドの少女が、[r]
-周りの視線を一顧だにせず、華麗に舞い踊っていた。[pcms]
+There, a girl in a white leotard with platinum blonde hair was dancing[r]
+gracefully, oblivious to the surrounding stares.[pcms]
 
 *3442|
 [fc]
-体育館の向こう側半分は体操部が使っているらしく、[r]
-みんな似たような格好をしている。[pcms]
+It seemed that the other half of the gym was being used by the[r]
+gymnastics club, and everyone was dressed similarly.[pcms]
 
 *3443|
 [fc]
-でも、その同業の選手達をも魅了する動きで、[r]
-少女は床を蹴って身体を宙に躍らせていた。[pcms]
+But with movements that even captivated her fellow gymnasts, the girl[r]
+kicked off the floor and leapt into the air.[pcms]
 
 *3444|
 [fc]
-側転から身体を捻って宙返りをしたかと思うと、[r]
-着地に時間を掛けずに、間髪入れず逆方向へと舞い飛んでいく。[pcms]
+She twisted her body from a cartwheel into a somersault, and without[r]
+taking time to land, she immediately flew off in the opposite[r]
+direction.[pcms]
 
 *3445|
 [fc]
-しかも、そこで演技は終わらないようで、[r]
-そのまま逆側のコーナーに向かって床を蹴っていった。[pcms]
+Moreover, it didn't seem like her performance was over there; she[r]
+kicked off the floor again towards the opposite corner.[pcms]
 
 *3446|
 [fc]
-二回、三回、もう、何度飛んだのかわからないほど宙を舞い、[r]
-時には片足で跳んで、時には背中から転がるように着地していく。[pcms]
+Twice, three times, she flew through the air so many times I lost[r]
+count, sometimes jumping on one foot, sometimes rolling to land on her[r]
+back.[pcms]
 
 *3447|
 [fc]
-文化系の僕には想像も出来ない程の運動量。[r]
-アクロバティックで躍動的な連続跳躍だった。[pcms]
+It was an amount of physical activity unimaginable to someone like me[r]
+who's into cultural activities. The continuous leaps were acrobatic[r]
+and dynamic.[pcms]
 
 *3448|
 [fc]
-男も女も、みんな彼女に見とれている。[r]
-性別なんて関係ない、それほどの華麗さだ。[pcms]
+Both men and women were mesmerized by her. Her elegance transcended[r]
+gender.[pcms]
 
 *3449|
 [fc]
-しかも、彼女の美しさは動きや跳躍だけにとどまらず、[r]
-スタイルからルックスまで、全てが完璧と言えるほど整っていた。[pcms]
+Moreover, her beauty wasn't limited to her movements and leaps; from[r]
+her figure to her looks, everything was so well put together it could[r]
+be called perfect.[pcms]
 
 *3450|
 [fc]
-白人とのハーフなんだろうか。[r]
-日本人離れした美貌というのは、こういう姿を言うんだと思う。[pcms]
+Perhaps she's half-Caucasian. The kind of beauty that stands out among[r]
+Japanese people must refer to a figure like hers.[pcms]
 
 *3451|
 [fc]
-健康的な体つきに長い手足、[r]
-美貌を象徴するようなブロンドの髪と、[r]
-深い蒼の瞳が美しすぎる。[pcms]
+With a healthy physique and long limbs, her blonde hair symbolizing[r]
+beauty and her deep blue eyes were too beautiful.[pcms]
 
 *3452|
 [fc]
-特にその瞳は、何かを物語るように輝き、[r]
-他者に問いを投げかけるような強さがあった。[pcms]
+Especially those eyes, they shone as if telling a story, with a[r]
+strength that seemed to question others.[pcms]
 
 *3453|
 [fc]
-薄く白いレオタードに包まれた、しなやかな肉体は[r]
-一日中抱きしめていても飽きない心地よさだろう。[pcms]
+The supple body wrapped in a thin white leotard would be comfortable[r]
+to embrace all day long without getting tired of it.[pcms]
 
 *3454|
 [fc]
-僕の肌に吸い付くようにもちもちで、[r]
-どこを触っても張りのあるやわらかさで、[r]
-満ちているに違いない。[pcms]
+It felt mochi-mochi against my skin, and no matter where you touched,[r]
+it had a firm yet soft fullness.[pcms]
 
 *3455|
 [fc]
-スマタはもちろん、脇コキでも膝コキでも、[r]
-最高の気持ちよさを発揮する身体だ。[pcms]
+Her body would provide the ultimate pleasure whether it was through[r]
+sumata, armpit sex, or thigh sex.[pcms]
 
 *3456|
 [fc]
-僕は思わず、自分の持っていたデジカメを構えて[r]
-少女を被写体に収めた。[pcms]
+I instinctively raised my digital camera and captured the girl as my[r]
+subject.[pcms]
 
 *3457|
 [fc]
-ファインダー越しに少女の姿を追い、[r]
-シャッターを切る瞬間を待つ。[pcms]
+I followed the girl's figure through the viewfinder, waiting for the[r]
+moment to press the shutter.[pcms]
 
 ;//■イベントCG　taja_N001　練習中のターヤ
 [evcg storage="taja_N001b"][trans_c cross time=300]
 
 *3458|
 [fc]
-すると、まるで撮影の気配を察したかのように、[r]
-少女が振り返って僕に視線を合わせてきた。[pcms]
+Then, as if she sensed my intent to photograph her, the girl turned[r]
+around and met my gaze.[pcms]
 
 *3459|
 [fc]
-僕はシャッターを切れずに動きが止まってしまう。[pcms]
+I froze and couldn't press the shutter.[pcms]
 
 ;不要？[wait_c time=1000]
 
 *3460|
 [fc]
-１秒、いや２秒だろうか。[r]
-感覚的には１０秒ほど視線が交錯していた気がする。[pcms]
+One second, no maybe two seconds. It felt like our gazes crossed for[r]
+about ten seconds subjectively.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -438,72 +444,72 @@
 
 *3461|
 [fc]
-[ns]西[nse]
-「ほら兄者、ちゃんと仕事をしろ」[pcms]
+[ns]West[nse]
+"Hey bro, focus on your work."[pcms]
 
 ;//bgm05.ogg
 [bgm storage="BGM05"]
 
 *3462|
 [fc]
-[ns]誠[nse]
-「あ、はい……」[pcms]
+[ns]Makoto[nse]
+"Ah, yes..."[pcms]
 
 *3463|
 [fc]
-そのまま動きが止まっていた僕は、[r]
-フランク先輩に言われて我に返っていた。[pcms]
+I was still frozen in place when Senior Frank brought me back to my[r]
+senses with his words.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se2_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3464|
 [fc]
 [vo_stk s="satuki0107"]
-[ns]彩月[nse]
-「まー君先輩は見境がないんですね～」[pcms]
+[ns]Satsuki[nse]
+"Makoto-senpai is really indiscriminate, isn't he~"[pcms]
 
 *3465|
 [fc]
-[ns]誠[nse]
-「い、いや、違うんですよ、今、目が……」[pcms]
+[ns]Makoto[nse]
+"N-no, that's not it, my eyes just..."[pcms]
 
 *3466|
 [fc]
-[ns]西[nse]
-「ほら、仕事だ仕事」[pcms]
+[ns]West[nse]
+"Come on, work is work."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se2_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3467|
 [fc]
 [vo_stk s="satuki0108"]
-[ns]彩月[nse]
-「じゃあ、わたしはこれでサッカー部の撮影に行くから」[pcms]
+[ns]Satsuki[nse]
+"Well then, I'm off to take photos of the soccer club."[pcms]
 
 *3468|
 [fc]
-[ns]西[nse]
-「ああ、ご苦労だったな。[r]
-　適当なところで、また戻ってきてくれ」[pcms]
+[ns]West[nse]
+"Ah, thanks for your hard work. Come back when you find a good[r]
+stopping point."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3469|
 [fc]
-フランク先輩と南先輩は写真の整理が終わったのか、[r]
-これからのことを打ち合わせていた。[pcms]
+Senior Frank and Satsuki-senpai seemed to have finished sorting the[r]
+photos and were discussing what to do next.[pcms]
 
 *3470|
 [fc]
-気になって仕方がない僕は、[r]
-さっきの少女を振り返って確認する。[pcms]
+I couldn't help but be curious, so I looked back to check on the girl[r]
+from before.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3471|
 [fc]
-練習が終わったらしい少女は、さっさとジャージを着て[r]
-場所を他の子と交代していた。[pcms]
+It seemed like the girl had finished her practice, quickly put on her[r]
+jersey, and switched places with another kid.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 [wait_c time=500]
@@ -511,43 +517,41 @@
 
 *3472|
 [fc]
-そして、やはり僕に気が付いているのか、[r]
-こちらをひと睨みしてから、ぷいっと視線を外して、[r]
-無視するようなジェスチャーを見せる。[pcms]
+Then, as if she had noticed me again, she glared at me for a moment[r]
+before turning away with a gesture that seemed to ignore me.[pcms]
 
 *3473|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3474|
 [fc]
-ジャージを見てわかったけれど、地元である大神島の[r]
-学園生らしい。[pcms]
+From the jersey, I could tell that she was apparently a student from[r]
+the local Oogamijima Academy.[pcms]
 
 *3475|
 [fc]
-どうやら怒らせてしまったみたいだけど、[r]
-それにしてもかわいい女の子だった。[pcms]
+It seems I might have upset her, but even so, she was a cute girl.[pcms]
 
 *3476|
 [fc]
-そこで、僕の胸につかえるような思いが沸き上がってくる。[pcms]
+At that moment, a feeling of discomfort welled up in my chest.[pcms]
 
 *3477|
 [fc]
-あのレオタードの少女は、どこか見覚えのある[r]
-顔と身体をしていた。[pcms]
+That girl in the leotard had a face and body that seemed familiar to[r]
+me.[pcms]
 
 *3478|
 [fc]
-どこで見たんだろうか……思い出せない。[r]
-勘違いなのか？[pcms]
+I wonder where I've seen her before... I can't remember. Is it just my[r]
+imagination?[pcms]
 
 *3479|
 [fc]
-更にフランク先輩にどやされるまで、[r]
-僕はその少女の方に視線を送り続けていた。[pcms]
+I kept looking in the direction of that girl until Senior Frank[r]
+scolded me further.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

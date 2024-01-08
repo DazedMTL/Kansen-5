@@ -39,42 +39,39 @@
 *443|
 [fc]
 [vo_tay s="taja0271"]
-[ns]ターヤ[nse]
-「やだ……どうして、こんな……んんんっ！　はなして……。[r]
-　やぁあっ……！」[pcms]
+[ns]Tarja[nse]
+"No... why is this happening... nnnggh! Let go of me... Ahhh!"[pcms]
 
 *444|
 [fc]
-どうして、こんな事になった？[r]
-どうして、わたしは……こんな事をされているの？[pcms]
+Why has it come to this? Why am I... being subjected to this?[pcms]
 
 *445|
 [fc]
-突然現れた異常な集団に襲われ、[r]
-頭が混乱している。[pcms]
+I was attacked by a bizarre group that appeared out of nowhere, and my[r]
+mind is in chaos.[pcms]
 
 *446|
 [fc]
-危機に直面しているというのに、[r]
-わたしの体は抵抗する事すら出来ない。[pcms]
+Even though I'm facing a crisis, my body can't even muster the[r]
+strength to resist.[pcms]
 
 *447|
 [fc]
-しかも、その相手が……。[pcms]
+And moreover, the opponent is...[pcms]
 
 *448|
 [fc]
-[ns]ヤンネ[nse]
-「あはぁ……た、たから……おれの、たから……。[r]
-　だれにも、わたさんぞおおおっ！？　あばぁぁぁ！[r]
-　このむねも、こしも、しりも、ぜんぶ……わたしのものだ！」[pcms]
+[ns]Janne[nse]
+"Ahaha... my treasure... my treasure... I won't give you to anyone[r]
+else! Ahaaaa! This chest, this waist, this ass, they're all mine!"[pcms]
 
 *449|
 [fc]
 [vo_tay s="taja0272"]
-[ns]ターヤ[nse]
-「やだっ……わたしたち、こんなことしたら……駄目ぇっ！[r]
-　はなしてっ……パパっ！　こんなの駄目ぇっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No... if we do this... it's not right! Let go... Papa! This is[r]
+wrong!"[pcms]
 
 ;//[ns]ターヤ」
 ;//「やだっ……わたしたち、こんなことしたら……駄目ぇっ！
@@ -84,126 +81,117 @@
 *450|
 [fc]
 [vo_tay s="taja0273"]
-[ns]ターヤ[nse]
-「はっ……いやっ……あぁっ……いやっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Haah... no... ahh... no..."[pcms]
 
 *451|
 [fc]
-[ns]島民感染者Ａ[nse]
-「ぐぐ……く゛ぞぉお゛……の、のりおぐれだぁ……。[r]
-　お、お゛やじだからって、ず、ずるい……」[pcms]
+[ns]Island Resident Infected A[nse]
+"Grrr... grrroooah... it's unfair... just because you're a father..."[pcms]
 
 *452|
 [fc]
-[ns]船医[nse]
-「ほぉぉお～……こ、この、こが、あなたのむす、めさん、[r]
-　ですかぁ……おもった、とおり……うつくしいぃい！」[pcms]
+[ns]Ship's Doctor[nse]
+"Hooo... is this your daughter? Just as I thought... she's beautiful!"[pcms]
 
 *453|
 [fc]
-[ns]ヤンネ[nse]
-「そ、そう、でしょう！　そうでしょう、とも……。[r]
-　わた、わたしの、むすめは、うつくしい……！[r]
-　だから、だれにも、わたさない！」[pcms]
+[ns]Yanne[nse]
+"Yes, that's right! Isn't she? My daughter is beautiful...! That's why[r]
+I won't give her to anyone!"[pcms]
 
 *454|
 [fc]
 [vo_tay s="taja0274"]
-[ns]ターヤ[nse]
-「パパっ！　やめてぇぇっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Papa! Please stop!!"[pcms]
 
 *455|
 [fc]
-わたしの体を覆い隠していた布は、[r]
-別人の様になった肉親によって、[r]
-無残に引き裂かれ、すでにその存在理由を失っていた。[pcms]
+The cloth that had been covering my body was mercilessly torn apart by[r]
+a family member who seemed like a stranger, and it had already lost[r]
+its reason for existence.[pcms]
 
 *456|
 [fc]
-[ns]船医[nse]
-「ほぉ……まさに、にんぎょうですな……。[r]
-　ととのったかお、きんいろのかみ……そして、[r]
-　ひかえめなむね……ここだけは、ははおやには、になかったか」[pcms]
+[ns]Ship's Doctor[nse]
+"Hooh... she's like a doll indeed... A well-formed face, golden[r]
+hair... and modest breasts... this part didn't come from her mother,[r]
+did it?"[pcms]
 
 *457|
 [fc]
 [vo_tay s="taja0275"]
-[ns]ターヤ[nse]
-「やっ……胸の事は……いうなっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Stop... don't talk about my breasts..."[pcms]
 
 *458|
 [fc]
-[ns]ヤンネ[nse]
-「ちゃんと、く、くわせて、やってたのに……。[r]
-　どうして、こんな……ううっ……ターヤ！　ターヤァァ！」[pcms]
+[ns]Yanne[nse]
+"I made sure to feed you properly... Why did it turn out like this...[r]
+Ughh... Tarja! Tarjaaa!"[pcms]
 
 *459|
 [fc]
-[ns]島民感染者Ａ[nse]
-「いや゛ぁ……こ、ごれ゛は、これ゛でぇ～……」[pcms]
+[ns]Island Resident Infected A[nse]
+"Nooo... this is, this is enough..."[pcms]
 
 *460|
 [fc]
-[ns]島民感染者Ｂ[nse]
-「あ゛～……でかい、のも、あ゛きてぎだじ～……。[r]
-　た、たた、だまに゛は、いいもんだぁ～」[pcms]
+[ns]Island Resident Infected B[nse]
+"Ahh... big ones are also good stuff..."[pcms]
 
 *461|
 [fc]
 [vo_tay s="taja0276"]
-[ns]ターヤ[nse]
-「うっ……うううっ……酷い……こんなの……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ugh... uuuugh... this is terrible... something like this..."[pcms]
 
 *462|
 [fc]
-コンプレックスなのに……。[r]
-パパまで、こんな事を言うなんて……。[pcms]
+Even though it's my complex... Even Papa is saying such things...[pcms]
 
 *463|
 [fc]
 [vo_tay s="taja0277"]
-[ns]ターヤ[nse]
-「胸の事は、言わないでって、ずっと言ってたじゃない！[r]
-　酷いっ……バカぁっ！」[pcms]
+[ns]Tarja[nse]
+"I've always told you not to talk about my breasts! It's cruel...[r]
+Idiot!"[pcms]
 
 *464|
 [fc]
-口を突いて出るのは、汚らしい言葉遣い。[pcms]
+The words that come out of my mouth are vulgar.[pcms]
 
 *465|
 [fc]
-わたしは今の今までこんな言葉をパパ相手にしたことは無かった。[r]
-それが自然に飛び出してしまうくらい、[r]
-今のわたしは切羽詰まっている。[pcms]
+I had never used such language with Papa until now. The fact that it[r]
+comes out so naturally shows how desperate I am.[pcms]
 
 *466|
 [fc]
-今まさにわたしの処女が、[r]
-肉親によって奪われてしまいそうになっている。[pcms]
+Right now, my virginity is about to be taken by a family member.[pcms]
 
 *467|
 [fc]
-その状況で、落ち着いていることが出来る人物なんて、[r]
-いないだろう。[pcms]
+In such a situation, there's no one who could remain calm.[pcms]
 
 *468|
 [fc]
-もしそれが出来るような人間なら、[r]
-こんな状況に陥ることは無い。[pcms]
+If there was someone who could handle this, they wouldn't have fallen[r]
+into such a predicament in the first place.[pcms]
 
 *469|
 [fc]
-[ns]ヤンネ[nse]
-「お、おやに、むかって……バカとはなんだっ！[r]
-　わたしは、そ、そんなふうにそだてたおぼえは、ないっ！[r]
-　その、くちか！　そのきたないことばをはきだすくちか！？」[pcms]
+[ns]Yanne[nse]
+"To speak to your father and call him an idiot! I didn't raise you to[r]
+be like this! That mouth! That filthy language coming out of your[r]
+mouth!?"[pcms]
 
 *470|
 [fc]
 [vo_tay s="taja0278"]
-[ns]ターヤ[nse]
-「やっ……やっ！　パパっ、何するのっ！[r]
-　いやぁあぁあぁぁ――――――ッ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No... stop! Papa, what are you doing! Noooooo------!!"[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -212,224 +200,206 @@
 
 *471|
 [fc]
-[ns]ヤンネ[nse]
-「んむっ……んんっ！　お、おまえの、くち……。[r]
-　え、エルマと、おなじだなぁっ！[r]
-　な、なら、わたしのも、は、はいるだろうっ！」[pcms]
+[ns]Yanne[nse]
+"Mmmph... mmm! Your mouth... It's just like Elma's! If so, mine should[r]
+fit too!"[pcms]
 
 *472|
 [fc]
 [vo_tay s="taja0279"]
-[ns]ターヤ[nse]
-「んぶっ……ぷあっっ！　ぺっ……やだぁぁあっ！[r]
-　こんなので、わたしのキス……あぁっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Mmphh... pahhh! Ptuh... noooo! My first kiss like this... ahhh!"[pcms]
 
 *473|
 [fc]
-大切にしていたのに！[r]
-わたしのキスは、大事な相手の為にあったのに！[pcms]
+I cherished it so much! My kiss was meant for someone special![pcms]
 
 *474|
 [fc]
 [vo_tay s="taja0280"]
-[ns]ターヤ[nse]
-「どっ……どうして、こんな……あぁ……。[r]
-　パパ！　目を覚まして！　お願いっ！[r]
-　こんなのもう止めてぇっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Why is this happening... ahh... Papa! Wake up, please! Please stop[r]
+this!"[pcms]
 
 *475|
 [fc]
-[ns]船医[nse]
-「おお……こ、こえも、かわいらしい……。[r]
-　すっ、すばらしい、むすめさんを、おもちですね！」[pcms]
+[ns]Ship's Doctor[nse]
+"Ohh... even your voice is adorable... You have a wonderful daughter[r]
+indeed!"[pcms]
 
 *476|
 [fc]
-[ns]ヤンネ[nse]
-「そう、でしょう！　そうでしょう！　わ、わたしのむすめは、[r]
-　すばらしいでしょう……！」[pcms]
+[ns]Yanne[nse]
+"Yes, isn't she wonderful! My daughter is amazing!"[pcms]
 
 *477|
 [fc]
 [vo_tay s="taja0281"]
-[ns]ターヤ[nse]
-「バカ！　バカバカァ！　パパのバカ！[r]
-　どうして……こんな……いつものパパに戻ってっ！[r]
-　お願い！　優しいわたしのパパ……に……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Idiot! Idiot idiot! Papa you idiot! Why are you doing this... return[r]
+to the Papa you always are! Please! My kind Papa..."[pcms]
 
 ;//♂Ｄ：やっぱパパでいいんでねの
 
 *478|
 [fc]
-わたしは、おかしくなってしまったパパや、[r]
-周りを取り囲む男達から逃れようと、[r]
-声を張り上げ叫び、身をよじった。[pcms]
+I screamed at the top of my lungs and writhed in an attempt to escape[r]
+from my crazed Papa and the men surrounding us.[pcms]
 
 *479|
 [fc]
-だけど、わたしの力では無力だった。[pcms]
+But my efforts were powerless.[pcms]
 
 *480|
 [fc]
-体格差、相手の人数……何より肉親によって、[r]
-こんな正気の沙汰とは思えない事をされたショックのせいで、[r]
-体を思うように動かす事が出来ない。[pcms]
+The difference in our physiques, the number of opponents, and above[r]
+all, the shock of being subjected to such an insane act by a family[r]
+member made it impossible for me to move as I wanted.[pcms]
 
 *481|
 [fc]
-そんなわたしの、震える太ももを押さえ、[r]
-パパが股間に顔を近づけていく。[pcms]
+As I trembled, Papa held down my thighs and brought his face close to[r]
+my crotch.[pcms]
 
 *482|
 [fc]
-[ns]ヤンネ[nse]
-「あぁ……なんてこだ……ちゃ、ちゃんと、あらえと……、[r]
-　あれほど、いったのに……くそっ……わ、わたしが、[r]
-　き、きれいに、してやるっ！」[pcms]
+[ns]Yanne[nse]
+"Ahh... what a mess... I told you to clean properly... damn it... I'll[r]
+clean you up myself!"[pcms]
 
 *483|
 [fc]
 [vo_tay s="taja0282"]
-[ns]ターヤ[nse]
-「やあぁあっ！　駄目っ！　汚いっ！　そんなの駄目っ！[r]
-　パパァッ！　離れて……お願いっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ahhhh! No! That's dirty! You can't do that! Papa! Get away...[r]
+please!"[pcms]
 
 *484|
 [fc]
-まさかこんな事になるなんて夢にも思っていなかったわたしは、[r]
-レオタードを着替えていなかった事を後悔した。[pcms]
+I never dreamed that something like this could happen, and I regretted[r]
+not changing out of my leotard.[pcms]
 
 *485|
 [fc]
-汗に濡れ、股間に張り付いたレオタードごしのアソコに、[r]
-パパの鼻が押しつけられた。[pcms]
+My leotard, damp with sweat and clinging to my crotch, was pressed[r]
+against by Papa's nose.[pcms]
 
 ;//♂Ｄ：差分あるみたい
 [evcg storage="taja_H002b"][trans_c cross time=300]
 
 *486|
 [fc]
-[ns]ヤンネ[nse]
-「くそっ！　ションベンのあじが、するじゃないかっ！[r]
-　なんてことだ……こんな、ふけつなっ！[r]
-　んんっ……あむっ！　れろっ！　ぶちゅううっ！」[pcms]
+[ns]Yanne[nse]
+"Damn it! I can taste the pee! What the hell... this is so filthy![r]
+Mmm... chomp! Lick! Slurp!"[pcms]
 
 *487|
 [fc]
-パパの口が……わたしのアソコに吸い付いてる……！[pcms]
+Papa's mouth... is sucking on my pussy...![pcms]
 
 *488|
 [fc]
 [vo_tay s="taja0283"]
-[ns]ターヤ[nse]
-「ひっ！？　ひぁあぁっ！　んあぁあっ！[r]
-　やぁあっ！　吸っちゃ駄目っ！　やぁあっ！[r]
-　舐めないでっ！　グリグリしないでぇっ！」[pcms]
+[ns]Tarja[nse]
+"Hii!? Ahhh! Nnahh! Ahhh! No, you can't suck there! Ahhh! Don't lick[r]
+me! Don't rub me there!"[pcms]
 
 *489|
 [fc]
 [vo_tay s="taja0284"]
-[ns]ターヤ[nse]
-「はっ……やぁあぁっ！！　やだぁっ……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ha... ahhh!! No...!"[pcms]
 
 *490|
 [fc]
-わたしのパパは、こんな事は絶対にしないし、[r]
-出来ない筈。[pcms]
+My Papa would never, ever do something like this.[pcms]
 
 *491|
 [fc]
-じゃあ、今わたしの股間に吸い付いている“コレ”は、[r]
-一体何？　一体、誰……！？[pcms]
+Then what is this thing sucking on my crotch right now? Who... who is[r]
+it?"[pcms]
 
 *492|
 [fc]
-[ns]船医[nse]
-「あぁ……よいこえだ……わたしもあじわいたい……」[pcms]
+[ns]Ship's Doctor[nse]
+"Ahh... such a sweet voice... I want to taste it too..."[pcms]
 
 *493|
 [fc]
-[ns]島民感染者Ａ[nse]
-「お゛ぉ……ち、く、び……た゛ってぎだぁ……」[pcms]
+[ns]Island Resident Infected A[nse]
+"Ooh... nipples... getting hard..."[pcms]
 
 *494|
 [fc]
-[ns]島民感染者Ｂ[nse]
-「か、からだ……あ゛っつくなってるぅ～……。[r]
-　し、しろい、からだ……ぴんぐいろ゛ぉ……」[pcms]
+[ns]Island Resident Infected B[nse]
+"Her body... it's getting so hot... White skin... pinkish..."[pcms]
 
 *495|
 [fc]
-突然現実離れした状況に巻き込まれ、[r]
-更には肉親による非常識な行為にのせいで、[r]
-わたしの思考能力は急激に低下していった。[pcms]
+Caught up in a surreal situation and subjected to an outrageous act by[r]
+a family member, my ability to think clearly rapidly deteriorated.[pcms]
 
 *496|
 [fc]
-それどころか、全身をまさぐられる感覚が、[r]
-次第にわたしの体を熱く火照らせてきていた。[pcms]
+Moreover, the sensation of being touched all over gradually made my[r]
+body heat up.[pcms]
 
 *497|
 [fc]
-[ns]ヤンネ[nse]
-「なん、だ……ションベンだけじゃない……！　あせも、[r]
-　それに、これは……マンじるか！？　なんて、ふしだらな！[r]
-　なげかわしいっ！　ぜんぶ、なめとってやるっ！」[pcms]
+[ns]Yanne[nse]
+"What's this... not just pee...! There's sweat, and this is... pussy[r]
+juice!? How lewd! How shameful! I'll lick it all up!"[pcms]
 
 *498|
 [fc]
 [vo_tay s="taja0285"]
-[ns]ターヤ[nse]
-「あぁ……離してっ……んっ！　触るなぁっ！　ひんんっ！？[r]
-　あっ……ふぁぁあっ！？　そんなところ舐めないでパパっ！」[pcms]
+[ns]Tarja[nse]
+"Ahh... let go of me... nnh! Don't touch me! Hnnn!? Ahh... fahhh!?[r]
+Don't lick there, Papa!"[pcms]
 
 *499|
 [fc]
-[ns]ヤンネ[nse]
-「んんんっ……べっ、べとべとにしやがって！[r]
-　レオタードを、こんなにしてっ……バカむすめがっ！[r]
-　そんなわるいむすめには、わたしが……おしおきしてやるっ！」[pcms]
+[ns]Yanne[nse]
+"Nnnn... you've made it all sticky! You've done this to your[r]
+leotard... stupid girl! For such a bad girl, I will... punish you!"[pcms]
 
 *500|
 [fc]
 [vo_tay s="taja0286"]
-[ns]ターヤ[nse]
-「ふあっ……んんっ……あっ……んぁぁっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Fuaa... nnn... ah... nhaaa..."[pcms]
 
 *501|
 [fc]
-わたしのレオタードはパパの唾液や、[r]
-何故か溢れだして止まらない愛液のせいで透けて、[r]
-アソコがくっきりと見える様になってしまっていた。[pcms]
+My leotard became transparent due to Papa's saliva and the love juice[r]
+that inexplicably kept overflowing and wouldn't stop, making my pussy[r]
+clearly visible.[pcms]
 
 *502|
 [fc]
-[ns]ヤンネ[nse]
-「バカむすめ……バカものが……。[r]
-　くそっ！　こ、こんなにあふれさせてっ！[r]
-　せ、せんをしてやるっ！　うぉおおっ！」[pcms]
+[ns]Yanne[nse]
+"Stupid girl... idiot... Damn it! You've made it overflow so much![r]
+I'll clean it up for you! Uooooh!"[pcms]
 
 [evcg storage="taja_H002c"][trans_c cross time=300]
 
 *503|
 [fc]
-浮き上がった股間の溝に、今まで見た事がないくらい、[r]
-大きく腫れ上がった“アレ”を突き立て、[r]
-腰に力を入れていた。[pcms]
+The groove of my swollen crotch was being penetrated by something I[r]
+had never seen before, so large and swollen, as he put strength into[r]
+his hips.[pcms]
 
 *504|
 [fc]
-混乱したわたしの頭は、それが何を意味しているのか、[r]
-次に襲い来る痛みを感じるまで、[r]
-全く理解することが出来ないでいた。[pcms]
+My confused mind couldn't comprehend what that meant until I felt the[r]
+pain that was about to come.[pcms]
 
 *505|
 [fc]
 [vo_tay s="taja0287"]
-[ns]ターヤ[nse]
-「んぎぃっ……そんなの、無理っ！　止めてパパっ！[r]
-　無茶しないでっ！　目を覚ましてぇっ！！[r]
-　いやぁぁぁぁ――――――ッ！！」[pcms]
+[ns]Tarja[nse]
+"Ngyii... that's impossible! Stop it, Papa! Don't be reckless! Wake[r]
+up!! Noooooo------!!"[pcms]
 
 ;//♂Ｄ：絶叫でお願いします
 
@@ -441,240 +411,210 @@
 *506|
 [fc]
 [vo_tay s="taja0288"]
-[ns]ターヤ[nse]
-「んっ……んぎいいいぃいぃいっ！！！[r]
-　あっ……あがっ……あがぁっぁっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nn... ngyiiiiiiii!! Ahh... agaahh... agahhhh..."[pcms]
 
 *507|
 [fc]
-[ns]ヤンネ[nse]
-「くっ……ううっ……こ、これは……キツいっ！[r]
-　ま、まさか、おまえ……しょじょだったのか……？」[pcms]
+[ns]Yanne[nse]
+"Kuh... ugh... this is... tight! Could it be, you're still a virgin?"[pcms]
 
 *508|
 [fc]
 [vo_tay s="taja0289"]
-[ns]ターヤ[nse]
-「い゛っ……ぎいいいっ！　やだあぁっ！[r]
-　こんなの……こんなの信じられないっ！[r]
-　どうして、パパが、わたしの……あぁっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ighh... ngyiiii! Nooo! I can't believe this... Why is Papa doing this[r]
+to my... ahhh!"[pcms]
 
 *509|
 [fc]
-[ns]船医[nse]
-「おおおッ……しょじょ、でしたかっ！[r]
-　ち、ちが、にじんでますね……たしかに、[r]
-　しょじょかもしれませんなっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"Ohhh... you were a virgin! The blood is seeping out... indeed, you[r]
+might be a virgin!"[pcms]
 
 *510|
 [fc]
-[ns]島民感染者Ａ[nse]
-「あ゛ぁ……な、なんて、おやじだぁ……。[r]
-　じぶんのむすめの、はじめて、うばっちまうなんてなぁ……」[pcms]
+[ns]Island Resident Infected A[nse]
+"Ahh... what a father... To take his own daughter's first time..."[pcms]
 
 *511|
 [fc]
-[ns]島民感染者Ｂ[nse]
-「お゛～……キツそうで……いいな゛ぁ～……。[r]
-　ごんな゛びしょうじょの、しょじょマンコに、いれだらぁ～……[r]
-　お、おれ゛もだねえぞ、すぐ、イッちまうだろうなぁ……」[pcms]
+[ns]Island Resident Infected B[nse]
+"Ooh... It looks tight and nice... To put it in such a virgin pussy,[r]
+I'd probably cum right away..."[pcms]
 
 *512|
 [fc]
-周りで囃し立てる声が、[r]
-やっとわたしの脳の一部の機能を回復させた。[pcms]
+The jeering voices around me finally brought back some function to my[r]
+brain.[pcms]
 
 *513|
 [fc]
 [vo_tay s="taja0290"]
-[ns]ターヤ[nse]
-「ひっ！　がぁっ！　ひっ……ひどいぃいっ！[r]
-　抜いてっ！　パパ！　抜いてぇぇっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hii! Gahh! Hii... this is terrible! Pull it out! Papa! Pull it out!!"[pcms]
 
 [evcg storage="taja_H002e"][trans_c cross time=300]
 
 *514|
 [fc]
 [vo_tay s="taja0291"]
-[ns]ターヤ[nse]
-「あっ……があぁあっ！　んぎいいっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah... gahhh! Ngyii!"[pcms]
 
 *515|
 [fc]
-痛い……！[r]
-怖い……！[pcms]
+It hurts...! I'm scared...![pcms]
 
 *516|
 [fc]
-わたしの初めてが、パパに奪われた……！[r]
-こんなのって、無いっ！[pcms]
+My first time was taken by Papa...! This shouldn't be happening![pcms]
 
 *517|
 [fc]
-初めての相手は、大切な人じゃないと駄目なのに！[r]
-どうして、こんな事になったの！？[pcms]
+The first time should be with someone special! Why did this happen?[pcms]
 
 *518|
 [fc]
-まさか……。[r]
-これは話に聞いていた感染者……！？[r]
-パパが、感染者になってしまった？[pcms]
+Could it be... These are the infected ones I've heard about!? Has Papa[r]
+become one of the infected?[pcms]
 
 *519|
 [fc]
-[ns]島民感染者Ａ[nse]
-「あ、あんだの……よ、よめ゛……も、と、としの゛わりにぃ……[r]
-　ぐ、ぐあ、い゛よかったけどな……」[pcms]
+[ns]Island Resident Infected A[nse]
+"Ah, that's right... wife... even though you're old, you were good[r]
+enough..."[pcms]
 
 *520|
 [fc]
-[ns]島民感染者Ｂ[nse]
-「で、でも、てめ゛ぇ……あのあ゛ど……、[r]
-　まあ、お、お゛れも、はら、いっばい゛になっだ、か、から、[r]
-　いい゛け、どなぁ～」[pcms]
+[ns]Island Resident Infected B[nse]
+"But you bastard... that girl..., well, I'm full too, so it's okay..."[pcms]
 
 *521|
 [fc]
-わたしを押さえつけている二人が、下品な声で笑う。[r]
-良く見ると、その口からは赤く染まった細い糸がはみ出していた。[pcms]
+The two holding me down laughed with vulgar voices. Looking closely, I[r]
+could see thin red threads hanging from their mouths.[pcms]
 
 *522|
 [fc]
-じゃあ、ママは……。[r]
-まさか……。[pcms]
+Then Mama is... Could it be...[pcms]
 
 *523|
 [fc]
 [vo_tay s="taja0292"]
-[ns]ターヤ[nse]
-「やっ……やぁぁあぁあぁっ！！！[r]
-　いやぁああっ！　ママァァっ！！　いやぁああぁぁっ！！[r]
-　ママっ！　ママぁぁぁっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No... Nooooo!! No! Mama!! Noooo!! Mama! Mamaaaa!!"[pcms]
 
 *524|
 [fc]
-[ns]ヤンネ[nse]
-「う、るさいっ！　だ、だまってろっ！　キツすぎて、[r]
-　ぬっ……ぬけ、ちまうだろっっ！！　このバカむすめっ！[r]
-　おらぁっ！」[pcms]
+[ns]Yanne[nse]
+"Ugh, shut up! Be quiet! It's too tight, it's gonna... it's gonna slip[r]
+out, damn it!! You stupid girl! Take this!"[pcms]
 
 *525|
 [fc]
 [vo_tay s="taja0293"]
-[ns]ターヤ[nse]
-「んぎいっ！　ぱっ、パパぁっ……あがぁぁあっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ngyii! Pa... Papa... Ahhhhh!!"[pcms]
 
 *526|
 [fc]
-真っ白なレオタードの股間部分が突き破られ、[r]
-パパの大きなモノが出入りすると、[r]
-ピンク色に染まった体液が溢れ、シミを拡げていく。[pcms]
+The pure white part of the leotard around the crotch was torn open,[r]
+and as Papa's large thing moved in and out, body fluids dyed pink[r]
+overflowed, spreading the stain.[pcms]
 
 *527|
 [fc]
-真っ白だったレオタードは、わたしとパパが吐き出す体液で、[r]
-どんどん汚れていった。[pcms]
+The once pure white leotard was getting dirtier and dirtier with the[r]
+body fluids that Papa and I were releasing.[pcms]
 
 *528|
 [fc]
-[ns]ヤンネ[nse]
-「ぐううっ！　ぬのと、キツいマンコがこすれてっ……。[r]
-　まっ……まずは、いっぱつ……おま、おまえのなかに、[r]
-　だしてやるっ！　はっ……はらませてやるっ！」[pcms]
+[ns]Yanne[nse]
+"Guuuh! The cloth and the tight pussy rubbing against each other...[r]
+First... I'll release inside you... I'll impregnate you!"[pcms]
 
 *529|
 [fc]
 [vo_tay s="taja0294"]
-[ns]ターヤ[nse]
-「ひっ……やっ……や……そ、そんなの……だ、だめ……。[r]
-　駄目ぇぇっ！　パパァっっ！　駄目ぇぇっ！」[pcms]
+[ns]Tarja[nse]
+"Hic... No... No... that's... no good... Noooo! Papa! Noooo!"[pcms]
 
 *530|
 [fc]
 [vo_tay s="taja0295"]
-[ns]ターヤ[nse]
-「ぎっ……ひぎぃいいっ！　あがぁあぁっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gii... Higyiii!! Ahhhhh!!"[pcms]
 
 *531|
 [fc]
-[ns]船医[nse]
-「はっ……ははっ！　なか、だしですかぁっ！[r]
-　こ、これは、み、みもの、ですなっ！[r]
-　はははっ！　あはははっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"Ha... Haha! Inside, huh?! This is quite the sight! Hahaha! Ahahaha!"[pcms]
 
 *532|
 [fc]
-[ns]島民感染者Ａ[nse]
-「ぢくび……びんびんだぁ～……！　かっ……かわ゛いぃ、[r]
-　ちくびっ……！」[pcms]
+[ns]Island Resident Infected A[nse]
+"Dick... throbbing...! Cute... nipples...!"[pcms]
 
 *533|
 [fc]
-[ns]島民感染者Ｂ[nse]
-「びくんっていうぞおっ！　イキそう、なんじゃ、ねえ、のか、[r]
-　お゛、おま゛えの、ガキっ！　あ゛ははっあぁっ！」[pcms]
+[ns]Island Resident Infected B[nse]
+"It twitches! You're about to come, aren't you, kid? Ahahaha!"[pcms]
 
 *534|
 [fc]
-違うっ！[r]
-こんなので、イッたりなんかしないっ！[r]
-こんな酷い事をされて、イッたりなんかしない……。[pcms]
+No! I won't come from something like this! I won't come from something[r]
+so terrible...[pcms]
 
 *535|
 [fc]
-なのに……。[r]
-痛いのに、悔しいのに！[r]
-どうして、わたしの“アソコ”が熱くなるの！？[pcms]
+And yet... Despite the pain, despite the frustration! Why is my "down[r]
+there" getting hot?[pcms]
 
 *536|
 [fc]
-体中が熱くて……体も痺れて……。[r]
-どうして、こんな事になってるの……。[pcms]
+My whole body is hot... and numb... Why has this happened...[pcms]
 
 *537|
 [fc]
-そんなわたしの“アソコ”の中で、[r]
-パパのモノが膨らみ、暴れ始めた。[pcms]
+Inside my "down there," Papa's thing began to swell and rage.[pcms]
 
 *538|
 [fc]
-わたしの初めての、狭いアソコと、破れたレオタード。[r]
-それを貫き前後する、パパのモノ。[r]
-その隙間から、大量の液体が溢れ股間を汚す。[pcms]
+My first time, my narrow pussy and the torn leotard. Papa's thing[r]
+piercing through it, moving back and forth. The gap allowed a large[r]
+amount of liquid to overflow and soil my crotch.[pcms]
 
 *539|
 [fc]
-生ぬるい感覚と、痛み、そして恐怖と、不思議な快感。[r]
-おかしな感覚がわたしの頭全体に、爆発的に広がって、[r]
-体全体を震わせ出した。[pcms]
+A lukewarm sensation, pain, fear, and a strange pleasure. This bizarre[r]
+feeling explosively spread throughout my head, making my whole body[r]
+tremble.[pcms]
 
 *540|
 [fc]
-それは、パパも同じだった……。[pcms]
+It was the same for Papa...[pcms]
 
 *541|
 [fc]
-[ns]ヤンネ[nse]
-「ぐおおおおぉぉおぉおっ！！　だすぞおおっ！[r]
-　しっかり、うけとめろターヤっ！　うぉおおっ！」[pcms]
+[ns]Yanne[nse]
+"Guoooooooh!! I'm releasing! Catch it all, Tarja! Uooooh!"[pcms]
 
 *542|
 [fc]
 [vo_tay s="taja0296"]
-[ns]ターヤ[nse]
-「ぎっ……ああぁあっ！！　駄目ぇぇっ！！[r]
-　うあぁあああああ――ッ！」[pcms]
+[ns]Tarja[nse]
+"Gii... Aaaaah!! Noooo!! Uaaaaaaaah--!"[pcms]
 
 *543|
 [fc]
-膣内に存在していた、[r]
-外敵の侵入を阻む筈の薄い膜も破られ、[r]
-無防備になったわたしの胎内。[pcms]
+The thin membrane inside the vagina that was supposed to prevent[r]
+foreign invasion was torn, leaving my womb defenseless.[pcms]
 
 *544|
 [fc]
-その最も奧に、パパのモノが押し当てられ、[r]
-大きく跳ね続けた。[pcms]
+At its deepest part, Papa's thing pressed against it, continuing to[r]
+throb greatly.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -691,106 +631,98 @@
 *545|
 [fc]
 [vo_tay s="taja0297"]
-[ns]ターヤ[nse]
-「あ、ああ……あぁぁ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah... ahh... ahhh..."[pcms]
 
 [evcg storage="taja_H002i"][trans_c cross time=300]
 
 *546|
 [fc]
-胎内で大きく跳ね、踊るモノが一気に引き出され、[r]
-ぽっかりと開き、戻らないアソコの穴から、[r]
-ドロリと音を立てて、白やピンクに染まった液体が溢れだした。[pcms]
+The thing that had been throbbing and dancing inside suddenly[r]
+withdrew, leaving a gaping hole that wouldn't close. From that hole in[r]
+my pussy, a thick fluid dyed white and pink overflowed with a gurgling[r]
+sound.[pcms]
 
 [evcg storage="taja_H002h"][trans_c cross time=300]
 
 *547|
 [fc]
-流れ落ちる液体をみて、わたしの脳内には、[r]
-再び恐怖が広がっていく。[pcms]
+Seeing the flowing liquid, fear once again spread through my mind.[pcms]
 
 *548|
 [fc]
-パパに中だしをされた事。[r]
-それが、何を意味しているか。[r]
-その恐怖は、わたしの口を強引に開かせた。[pcms]
+The fact that Papa had come inside me. What that meant. That fear[r]
+forced my mouth open.[pcms]
 
 *549|
 [fc]
 [vo_tay s="taja0298"]
-[ns]ターヤ[nse]
-「あっ……赤ちゃん出来ちゃうっ！　パパとわたしのっ！[r]
-　そんなの、駄目なのにいいいっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah... I could get pregnant! With Papa's baby! That's not supposed to[r]
+happen!!"[pcms]
 
 *550|
 [fc]
-[ns]ヤンネ[nse]
-「くっ……はははぁ～……！　い、いちどやにど、[r]
-　なかだししたからって……すぐできるわけじゃないんだっ！[r]
-　も、もっと、なかだししないと、だめなんだっ！」[pcms]
+[ns]Yanne[nse]
+"Kuh... Hahaha~... Just because I came inside once or twice doesn't[r]
+mean you'll get pregnant right away! We need to come inside more for[r]
+that to happen!"[pcms]
 
 *551|
 [fc]
-泣き叫びすぎて酸欠になったわたしの頭は、[r]
-満足にものを考えることが出来ない。[pcms]
+Crying so much that I was running out of oxygen, my head couldn't[r]
+think properly anymore.[pcms]
 
 *552|
 [fc]
-[ns]ヤンネ[nse]
-「なんだ……ないているのか……。[r]
-　そうか、じゃあ、お、おまえの、すきなの……してやるから、[r]
-　なきやめっ！」[pcms]
+[ns]Janne[nse]
+"What's this... are you crying? Well then, I'll do what you like... so[r]
+stop crying!"[pcms]
 
 *553|
 [fc]
-そんな中、パパはわたしの体を抱え上げ、[r]
-体液が溢れだし、開いたままのアソコに、[r]
-モノを押し込んだ。[pcms]
+In the midst of this, Papa lifted up my body, and as bodily fluids[r]
+overflowed from my open pussy, he pushed his thing back in.[pcms]
 
 ;//■イベントCG　taja_H003
 [evcg storage="taja_H003a"][trans_c cross time=300]
 
 *554|
 [fc]
-[ns]ヤンネ[nse]
-「はっ……はぁっ！　おま、えが、ちいさいころ……。[r]
-　こうして、やると、なきやんだ、もんだっ！[r]
-　だ、だから、いいかげん、なきやめっ！」[pcms]
+[ns]Yanne[nse]
+"Ha... Hah! When you were little... doing this would stop your crying![r]
+So cut it out already, stop crying!"[pcms]
 
 [evcg storage="taja_H003b"][trans_c cross time=300]
 
 *555|
 [fc]
 [vo_tay s="taja0299"]
-[ns]ターヤ[nse]
-「ひっ！　ぎいいっ！　こ、こんなの、された、ことっ……、[r]
-　んぎいいっ！　ないぃいっ！　あっ！　こっ、怖いっ！[r]
-　落ちるっ……落ちるううっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hic! Gyiii! This kind of thing, being done to me... Ngyiii! I'm[r]
+crying! Ahh! It's scary! I'm falling... fallinggg!"[pcms]
 
 *556|
 [fc]
-急に持ち上げられたわたしは、[r]
-身体を支えるものを失った。[pcms]
+Suddenly lifted up, I lost anything to support my body.[pcms]
 
 *557|
 [fc]
-このままでは、落ちてしまうと手を伸ばし、[r]
-パパの肩にしがみつこうとしたけど、[r]
-間に合わず、宙ぶらりんで身体を仰け反らせてしまう。[pcms]
+If this continued, I would fall. I reached out for Papa's shoulders to[r]
+cling on but didn't make it in time and ended up arching my body in[r]
+mid-air.[pcms]
 
 *558|
 [fc]
-[ns]ヤンネ[nse]
-「はっ……ははっ！　さ、さすがだな……！[r]
-　エルマににて……からだ、やわらかいな……ターヤ……！[r]
-　そらっ……わたしのモノは、ぬくんじゃないぞっ！」[pcms]
+[ns]Yanne[nse]
+"Ha... Hah! As expected... You're flexible like Elma... Tarja... There[r]
+you go... My thing isn't going to cool down!"[pcms]
 
 *559|
 [fc]
-[ns]船医[nse]
-「のけぞった、はらのライン……たまらんですな……。[r]
-　わ、わたしも、もうがまんができませんよ！[r]
-　おっ、おじょうさんの、くちをつかわせてもらいますよっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"The arched line of your belly... irresistible. I can't hold back[r]
+anymore! I'll be using your mouth now!"[pcms]
 
 ;//◆演出メモ：口にモブ挿入差分
 [evcg storage="taja_H003d"][trans_c cross time=300]
@@ -799,49 +731,42 @@
 
 *560|
 [fc]
-宙ぶらりんになったわたしの身体を、[r]
-パパと見知らぬ人が前後から挟み、[r]
-喉や膣の際奧まで犯される。[pcms]
+Suspended in mid-air, my body was sandwiched by Papa and a stranger[r]
+from front and back, violated deep in my throat and vagina.[pcms]
 
 *561|
 [fc]
-まるでプレス機で身体をつぶされるような状態で、[r]
-わたしの体は串刺しにされてしまった。[pcms]
+I felt like my body was being crushed by a press machine; I was[r]
+impaled through and through.[pcms]
 
 *562|
 [fc]
-苦しい……。[r]
-痛い、怖い……！[pcms]
+It's suffocating... Painful, scary...![pcms]
 
 *563|
 [fc]
-何故わたしが、こんな事をされなきゃならないの？[r]
-どうして、パパがこんな風におかしくなってしまったの？[r]
-ママは、一体どこにいってしまったの！？[pcms]
+Why do I have to be subjected to this? Why has Papa become so strange?[r]
+Where on earth did Mama go!?[pcms]
 
 *564|
 [fc]
-恐怖と不安に包まれたわたしの頭は、[r]
-一体何故、自分がこんな目に遭うのかと、[r]
-その理由を必死に探した。[pcms]
+Wrapped in fear and anxiety, my mind desperately searched for a reason[r]
+why I was undergoing such an ordeal.[pcms]
 
 *565|
 [fc]
-だけどパパと他の異常者達は、[r]
-わたしの気持ちなんてお構いなしに、[r]
-体中に欲望を叩きつけ続けていた。[pcms]
+But Papa and the other perverts didn't care about my feelings at all,[r]
+continuing to slam their desires into every part of my body.[pcms]
 
 *566|
 [fc]
-そのストレスがついに、わたしの限界の壁を破壊した。[pcms]
+The stress finally broke through the walls of my limits.[pcms]
 
 *567|
 [fc]
 [vo_tay s="taja0300"]
-[ns]ターヤ[nse]
-「んぶうぅうっ！　がはっ！　んぶっ！　げぇっ！[r]
-　うおぉおぇぇっ！　げぼおっ！　……うぶうっ！[r]
-　おおぇえぇっ！」[pcms]
+[ns]Tarja[nse]
+"Nbuuuuh! Gahah! Nbuuh! Geeh! Uoooh eeeh! Goboh! ...Ubuuh! Ooeh eeh!"[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -852,334 +777,309 @@
 
 *568|
 [fc]
-大きくて、臭いモノを喉の奥に突き刺されたわたしは、[r]
-パパともう一人に犯されたショックも手伝って、[r]
-胃の中をひっくり返してしまった。[pcms]
+With a large, smelly thing thrust into the back of my throat, the[r]
+shock of being violated by Papa and another person caused me to vomit[r]
+up the contents of my stomach.[pcms]
 
 *569|
 [fc]
-パパが突き上げるアソコや、[r]
-汚らしいモノがねじ込まれた口の隙間から、[r]
-体液が溢れ、周囲に飛び散っていく。[pcms]
+As Papa thrust into my pussy and a filthy thing was twisted into my[r]
+mouth, bodily fluids overflowed and splattered around.[pcms]
 
 [evcg storage="taja_H003f"][trans_c cross time=300]
 
 *570|
 [fc]
 [vo_tay s="taja0301"]
-[ns]ターヤ[nse]
-「がっ……がはっ！　げほっ！　げほおっ！[r]
-　うぇぇ……やだっ……もう、こんなのやだっ！[r]
-　げほっ……うぇぇっ……」[pcms]
+[ns]Tarja[nse]
+"Gah... Gahah! Gehoh! Gehooh! Weh... I hate this... I can't take it[r]
+anymore! Gehoh... Weeh..."[pcms]
 
 *571|
 [fc]
-[ns]船医[nse]
-「あぁ……おじょうさん、ちゃんとたべてますか……？[r]
-　い、いえきしか、でないじゃないですか……」[pcms]
+[ns]Ship's Doctor[nse]
+"Ah... young lady, are you eating properly...? No, it's just vomit[r]
+coming out, isn't it..."[pcms]
 
 *572|
 [fc]
-[ns]ヤンネ[nse]
-「あ、あれほど……ちゃんとたべろといってあるのに！[r]
-　だ、だから、おま、えは……せいちょう、しないんだっ！[r]
-　それも、お、おしおきしてやるっ！」[pcms]
+[ns]Yanne[nse]
+"Ah, I told you to eat properly! That's why you... don't grow! I'll...[r]
+I'll punish you for this!"[pcms]
 
 *573|
 [fc]
-[ns]島民感染者Ａ[nse]
-「あっはははっ、お、おやじ、が、キレ゛でんなぁ～」[pcms]
+[ns]Islander Infected A[nse]
+"Ahahaha, the old man's losing it~"[pcms]
 
 *574|
 [fc]
-[ns]島民感染者Ｂ[nse]
-「し、しかし……お、お゛れ、だじも、やり、でぇよ、なあ……」[pcms]
+[ns]Island Resident Infected B[nse]
+"But... I also want a turn, you know..."[pcms]
 
 *575|
 [fc]
-[ns]島民感染者Ａ[nse]
-「ま、まっだぐ、だぁ……おい、おや、じ……。[r]
-　つぎ、お、おれ゛らにも、まわ゛じで、ぐれよぉ」[pcms]
+[ns]Island Resident Infected A[nse]
+"We're still going, right... hey, old man... Let us have a turn too."[pcms]
 
 *576|
 [fc]
-[ns]ヤンネ[nse]
-「ま、まってろっ！　まだ、しつけがおわってないんだっ！[r]
-　ターヤっ！　わたしのいうことを、ちゃんとききなさいっ！[r]
-　えっ、エルマも、おこっていたぞっ！」[pcms]
+[ns]Yanne[nse]
+"Wait! The discipline isn't over yet! Tarja! Listen to what I say![r]
+Elma was also angry!"[pcms]
 
 [evcg storage="taja_H003g"][trans_c cross time=300]
 
 *577|
 [fc]
 [vo_tay s="taja0302"]
-[ns]ターヤ[nse]
-「ぎっ！　んぎいいっ！　ぶあっ……んぶううっ！[r]
-　ぶっ……んぶううっ！　あがぁっ！　んぶっ！」[pcms]
+[ns]Tarja[nse]
+"Gik! Ngiyii! Buah... Nbuuuh! Buuh... Nbuuuh! Agaah! Nbuuh!"[pcms]
 
 ;//◆演出メモ：口には入ったまま
 
 *578|
 [fc]
-何が躾なの……これの、何が……！？[r]
-ただ、自分の欲求をわたしにぶつけてるだけじゃないの！？[pcms]
+What kind of discipline is this... What about this is...!? Isn't it[r]
+just them taking out their desires on me?[pcms]
 
 *579|
 [fc]
-だけど、今のわたしは口を塞がれ、[r]
-身体の自由が効かない状態で、二人の男に犯されている。[pcms]
+But now, with my mouth blocked and unable to move freely, I'm being[r]
+violated by two men.[pcms]
 
 *580|
 [fc]
-このまま、わたしは抵抗することもなく、[r]
-ただ好きに弄ばれるだけなの！？[pcms]
+Am I just going to be played with without any resistance?[pcms]
 
 *581|
 [fc]
-わたしは、こんな事で負ける訳にはいかない。[r]
-この程度の危機は、自分の力で解決出来るはずなんだ。[pcms]
+I can't lose to something like this. I should be able to resolve a[r]
+crisis of this level with my own strength.[pcms]
 
 *582|
 [fc]
-わたしは、辛い現実から心を反らそうと、[r]
-パパや、他のゲスな男達を払いのける動きを、[r]
-頭の中で思い描いた。[pcms]
+I tried to distract my mind from the harsh reality by imagining[r]
+pushing away Papa and the other filthy men in my head.[pcms]
 
 *583|
 [fc]
-まずは口に入れている男のモノに噛みつき、[r]
-パパには悪いけど、足で蹴飛ばす。[r]
-よろめいた二人をよそに、取り囲んでいる男達を飛び越え――[pcms]
+First, I'd bite down on the thing in my mouth and kick Papa with my[r]
+legs, sorry as I am. Ignoring the two staggering men, I'd leap over[r]
+the men surrounding us--[pcms]
 
 *584|
 [fc]
-異常者達の壁の間を、わたしは駆け抜ける――[r]
-それが成功すれば、この危機を抜け出せるんだ。[pcms]
+I would run through the wall of perverts-- If I succeed, I can escape[r]
+this crisis.[pcms]
 
 *585|
 [fc]
-早速、実行に移そう。[r]
-もたもたしていると、殺されてしまいかねない。[r]
-わたしがそうすることで、パパも目が覚めるかもしれない。[pcms]
+I must act quickly. If I hesitate, I might be killed. By doing this,[r]
+maybe Papa will come to his senses too.[pcms]
 
 *586|
 [fc]
-そう考えたわたしは、[r]
-口の中にねじ込まれた汚らしいモノを噛み千切ろうと、[r]
-顎にありったけの力を入れた。[pcms]
+With that thought, I tried to bite off the filthy thing jammed in my[r]
+mouth by clenching my jaw with all my might.[pcms]
 
 *587|
 [fc]
 [vo_tay s="taja0303"]
-[ns]ターヤ[nse]
-「ぐっ……があぁあっ！　あぐううぅっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Guh... Gaaaah! Aguuuuh!"[pcms]
 
 ;//#_赤フラ
 [赤フラ]
 
 *588|
 [fc]
-[ns]船医[nse]
-「お……おおおっ！　あたらしいしげきだっ！[r]
-　こ、これ、なかなか……」[pcms]
+[ns]Ship's Doctor[nse]
+"Oh... Ooooh! This is a new sensation! This is quite something..."[pcms]
 
 *589|
 [fc]
 [vo_tay s="taja0304"]
-[ns]ターヤ[nse]
-「えっ……んっ！？　んぶうぁぁっ！？　ぐっ……げぇっ！」[pcms]
+[ns]Tarja[nse]
+"Eh... Nnh!? Nbuuaaah!? Guh... Geeh!"[pcms]
 
 *590|
 [fc]
-分厚いステーキを噛み千切るようなイメージで歯を立てたのに、[r]
-口の中のモノは、ますます喉の奥へと突き込まれた。[pcms]
+Despite imagining biting off a thick steak, the thing in my mouth was[r]
+pushed even deeper into my throat.[pcms]
 
 *591|
 [fc]
-口の中に、血の味が広がっていく。[r]
-わたしの行動は、夢や妄想じゃない。[r]
-ちゃんと、噛みついたのに、この男には全く効いていなかった。[pcms]
+The taste of blood spread in my mouth. My actions weren't a dream or[r]
+delusion. I really did bite down, but it had no effect on this man.[pcms]
 
 *592|
 [fc]
-たったそれだけで、わたしの抵抗の心は失われてしまった。[pcms]
+Just like that, my will to resist was lost.[pcms]
 
 *593|
 [fc]
-しかも喉に突き立てられたモノの動きは激しさを増し、[r]
-息苦しさと嘔吐きのせいで身体が痙攣を始めた。[pcms]
+Moreover, the thing thrust into my throat moved more violently, and[r]
+due to the suffocation and vomiting, my body began to convulse.[pcms]
 
 *594|
 [fc]
-[ns]ヤンネ[nse]
-「おおおっ！　ま、またキツくしめだしたなっ！[r]
-　しっ、しかし……お、おかされて、かんじるなんて……！[r]
-　パパは、なげかわしいっ！　かなしいぞ、ターヤ！」[pcms]
+[ns]Yanne[nse]
+"Ooooh! You've tightened up again! But... feeling pleasure from being[r]
+violated... Papa is pitiful! Sad, Tarja!"[pcms]
 
 *595|
 [fc]
 [vo_tay s="taja0305"]
-[ns]ターヤ[nse]
-「んぶうっ！　ぷあぁっ！　んぎいいっ！　やっ、だっ！[r]
-　あっ、がああっ！　くっ……苦しいいっ！　息が……。[r]
-　んあぁっ！　ぶあっ……ぐじゅっ……んぶうッ……」[pcms]
+[ns]Tarja[nse]
+"Nbuuh! Puahh! Ngiyii! Stop it! Agh, Gaaah! Kuh... It's suffocating! I[r]
+can't breathe... Naaah! Buah... Gujuh... Nbuuh..."[pcms]
 
 *596|
 [fc]
-[ns]ヤンネ[nse]
-「う゛ぁ、ヴァギナを、こんなに、ぎゅうぎゅうにして……。[r]
-　なんてはしたない……こんなむすめだとおもわなかった！[r]
-　くそっ……ま、また、なかだしして……しつけてやるっ！」[pcms]
+[ns]Yanne[nse]
+"You make your vagina so tight... How lewd... I never thought you were[r]
+such a daughter! Damn it... I'll cum inside again... and discipline[r]
+you!"[pcms]
 
 *597|
 [fc]
-[ns]船医[nse]
-「わ、わたしも、おてつだい、しますよ！[r]
-　こ、このちいさな、かわいらしいクチに……。[r]
-　おとこが、なんであるか、おしえてあげますから！　おらっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"I'll help too! This small, lovely mouth... I'll teach you what a man[r]
+is. Here goes!"[pcms]
 
 *598|
 [fc]
 [vo_tay s="taja0306"]
-[ns]ターヤ[nse]
-「ぐっ……ぐぇっ……うぶぶうっ！[r]
-　んぶっ……じゅっ……んぶっ！」[pcms]
+[ns]Tarja[nse]
+"Guh... Gueh... Ubuuuh! Nbuuh... Juh... Nbuuh!"[pcms]
 
 *599|
 [fc]
-[ns]ヤンネ[nse]
-「おおおおっ！　だっ、だすぞおおっ！？[r]
-　にっ、にどめの、なかだしだっ！　こ、これなら……、[r]
-　お、おまえも、にんしんするかもしれないなっ！」[pcms]
+[ns]Yanne[nse]
+"Oooooh! I'm going to cum!? The second creampie! With this... you[r]
+might even get pregnant!"[pcms]
 
 *600|
 [fc]
-パパは、わたしが逃げたり、落ちたりしないようになのか、[r]
-抱え上げた腕に力を込めた。[pcms]
+Papa tightened his arms around me as if to prevent me from escaping or[r]
+falling.[pcms]
 
 *601|
 [fc]
-予想以上の腕力で、わたしの背骨はギシギシと悲鳴を上げている。[r]
-なのにパパはそれでも尚、力を込める事を止めなかった。[pcms]
+The strength of his arms was greater than expected, making my spine[r]
+creak in protest. Yet Papa still didn't stop applying force.[pcms]
 
 [evcg storage="taja_H003c"][trans_c cross time=300]
 
 *602|
 [fc]
 [vo_tay s="taja0307"]
-[ns]ターヤ[nse]
-「ンぶっうっ！　ぶぇっ……げああっ！　ぎっ……いやっ……。[r]
-　いやぁあっ！　お腹の中に出さないでぇっ！　いやぁぁっ！[r]
-　んぶううっ！？　ぶああっ……ぷっ……ぷふっ！」[pcms]
+[ns]Tarja[nse]
+"Nbuuuh! Bueh... Gaaah! Gik... No... Nooo! Don't cum inside my belly![r]
+Nooooh! Nbuuuh!? Buuaah... Pff... Pffh!"[pcms]
 
 ;//◆演出メモ：一度クチからはずし、再びねじ込まれた
 
 *603|
 [fc]
-このまま、こんな事を続けられたら、[r]
-わたしの身体は半分に折れてしまう。[pcms]
+If this continues, my body will break in half.[pcms]
 
 *604|
 [fc]
-なのに、逃げる事も許されず、[r]
-わたしはただ、二人の獣の玩具にされている。[pcms]
+Yet, without being allowed to escape, I am merely a toy for the two[r]
+beasts.[pcms]
 
 [evcg storage="taja_H003d"][trans_c cross time=300]
 
 *605|
 [fc]
-[ns]船医[nse]
-「はっ……はああっ！　かわいい、くちですなっ！[r]
-　の、のどのおくにひっかかって、さいこうだっ！[r]
-　いのなかまで、わたしのザーメンでいっぱいにしてやるっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"Ha... Haaaah! Such a cute mouth! It's caught in the back of your[r]
+throat, it's the best! I'll fill you up with my semen all the way[r]
+inside!"[pcms]
 
 *606|
 [fc]
 [vo_tay s="taja0308"]
-[ns]ターヤ[nse]
-「うぶううっ！　んげっ……あがぁっ！！[r]
-　やっ……やだ……もう、わたし……こんなの……イヤ……。[r]
-　ぶぶうっ！　ちゅっ……れろおっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ubuuuh! Ngeh... Agaah!! No... I don't want this anymore... I hate[r]
+it... Bubuuh! Chuu... Rerooh!"[pcms]
 
 *607|
 [fc]
-おかしい……。[r]
-息苦しくて、頭の中がボーッとして……。[pcms]
+It's strange... I'm suffocating, and my head is getting fuzzy...[pcms]
 
 *608|
 [fc]
-痛いのに、苦しいのに、どうしてこの男のモノに、[r]
-わたしは吸い付いてしまうんだろう？[pcms]
+Despite the pain and suffocation, why does my body cling to this man's[r]
+thing?[pcms]
 
 *609|
 [fc]
-『死』や『妊娠』の恐怖がわたしの頭まで、[r]
-パパやこの男と同じように異常にさせてしまったんだろうか？[pcms]
+Has the fear of "death" or "pregnancy" made my mind as abnormal as[r]
+Papa and this man?[pcms]
 
 *610|
 [fc]
-それとも、この苦しさから逃れようと、[r]
-わたしの脳が現実逃避を始めてしまったのか？[pcms]
+Or is my brain starting to escape from this agony by retreating from[r]
+reality?[pcms]
 
 *611|
 [fc]
 [vo_tay s="taja0309"]
-[ns]ターヤ[nse]
-「かっ……はぁっ……んぶっ……ちゅっ……んうっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ka... Haaah... Nbuu... Chuu... Nuuh!"[pcms]
 
 *612|
 [fc]
-もう、何も考えられない。[r]
-何も考えたくない。[pcms]
+I can't think of anything anymore. I don't want to think of anything.[pcms]
 
 *613|
 [fc]
-痛みがだんだん、快楽に変わりだした。そんな気がする。[pcms]
+The pain is gradually turning into pleasure. At least, that's what it[r]
+feels like.[pcms]
 
 *614|
 [fc]
-[ns]船医[nse]
-「おっ……おおっ！　の、のどのおくと、ベロが……ペニスを、[r]
-　ぜんたいをしげきしてますな……おたくのおじょうさん、[r]
-　なかなかのベロつかいですよ！　しつけのたまものですかね！」[pcms]
+[ns]Ship's Doctor[nse]
+"Oh... Oooh! The back of your throat and your tongue... they're[r]
+stimulating my penis, your entire body... Your daughter here is quite[r]
+the tongue user! Is this the result of your discipline?!"[pcms]
 
 *615|
 [fc]
-[ns]ヤンネ[nse]
-「そっ、そうですか！？　よかったなターヤ！　わたしのしつけは[r]
-　まちがってなかったようだ！　しっ……しあげ、だっ！[r]
-　イクぞっ！　こんどは、こぼすんじゃないぞっ！」[pcms]
+[ns]Yanne[nse]
+"So, is that so!? Thank goodness, Tarja! My discipline wasn't wrong[r]
+after all! Now... for the finish! I'm coming! This time, don't spill[r]
+it!"[pcms]
 
 *616|
 [fc]
-あまりの苦しさに、[r]
-わたしの意識は真っ白な世界に向かいだしていた。[pcms]
+The sheer agony was leading my consciousness towards a white world.[pcms]
 
 *617|
 [fc]
-自然と落ちていく瞼の中で、真っ白な花火が弾け、[r]
-これまで一度も覚えたことのない感覚が、[r]
-全身に広がっていった。[pcms]
+In the midst of my drooping eyelids, white fireworks burst, and a[r]
+sensation I had never felt before spread throughout my body.[pcms]
 
 *618|
 [fc]
-[ns]船医[nse]
-「わ、わたしも、だしますよっ！　ぜんぶ、のみなさいっ！[r]
-　いしゃのわたしのザーメンは、よいクスリになるんですよ！[r]
-　うおおおっっ！　でるううっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"I'm also going to cum! Swallow it all! The semen of a doctor like me[r]
+will be good medicine for you! Uoooooh! Cumming!"[pcms]
 
 *619|
 [fc]
-[ns]ヤンネ[nse]
-「うぉおおっ！　ターヤっ！　こぼすなぁぁっ！」[pcms]
+[ns]Yanne[nse]
+"Uooooh! Tarja! Don't spill it!"[pcms]
 
 *620|
 [fc]
 [vo_tay s="taja0310"]
-[ns]ターヤ[nse]
-「あっ……あぶっ……んあぁっ……はっ……はっ……、[r]
-　あっ……いっ…イクっうっ！　わたし……イクっ！[r]
-　んぶっ……じゅっ……イクううううっ！！！」[pcms]
+[ns]Tarja[nse]
+"Ah... Abuuh... Nuaahh... Hah... Hah..., Ah... I'm... Cumming![r]
+Nbuuh... Juh... Cumming!!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -1193,55 +1093,50 @@
 
 *621|
 [fc]
-[ns]船医[nse]
-「おっ……おおっ……す、すいだされるっ！[r]
-　ザーメンがとまらないっ！　おおおっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"Oh... Oooh... It's being sucked out! The semen won't stop! Ooooh!"[pcms]
 
 *622|
 [fc]
-[ns]ヤンネ[nse]
-「うぅおおおっ！[r]
-　ターヤのマンコがせいしをのんでいるようだ！[r]
-　すいついて、はなれないぞっ、ターヤっ！」[pcms]
+[ns]Yanne[nse]
+"Uuuoooh! Tarja's pussy seems to be drinking the semen! It's clinging[r]
+on and won't let go, Tarja!"[pcms]
 
 *623|
 [fc]
 [vo_tay s="taja0311"]
-[ns]ターヤ[nse]
-「あっ……あぶっ……んぶぁ……あ……はぁぁ……んぶっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah... Abuuh... Nbuah... Ah... Haaah... Nbuuh..."[pcms]
 
 *624|
 [fc]
-口と、アソコに、精子がいっぱい流れ込んでる……。[r]
-あったかい……。[pcms]
+My mouth and pussy are filled with semen... It's warm...[pcms]
 
 *625|
 [fc]
-パパの精子が、いっぱい……。[r]
-喉の奥も、胃の中も、膣の中も全部……。[r]
-あったかい……。[pcms]
+Papa's semen is everywhere... My throat, my stomach, my vagina, all of[r]
+it... It's warm...[pcms]
 
 ;//#_ホワイトアウト
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
 *626|
 [fc]
-ふわふわとした、優しい感覚がわたしの身体を包み込んだ。[pcms]
+A fluffy, gentle sensation enveloped my body.[pcms]
 
 *627|
 [fc]
-きっと、パパが目を覚ましたんだ。[r]
-私のパパは、本当は優しいんだもの。[r]
-きっと、ヘンな男達からわたしをまもってくれたんだ。[pcms]
+Surely, Papa has woken up. My Papa is really kind. He must have[r]
+protected me from these strange men.[pcms]
 
 *628|
 [fc]
-わたしの心の中に、安堵の気持ちが広がっていった。[pcms]
+A feeling of relief spread through my heart.[pcms]
 
 *629|
 [fc]
-だけど、それは――[r]
-わたしの都合の良い妄想だと、すぐに気づかされた。[pcms]
+But that was-- quickly realized to be nothing more than a convenient[r]
+fantasy for me.[pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
@@ -1252,103 +1147,99 @@
 
 *630|
 [fc]
-パパが、わたしを助けてくれた。[r]
-……それは、完全にわたしの妄想だった。[pcms]
+Papa saved me. ...That was completely my fantasy.[pcms]
 
 *631|
 [fc]
-わたしの身体は、パパに放られて地面に叩きつけられた。[pcms]
+My body was thrown to the ground by Papa.[pcms]
 
 *632|
 [fc]
 [vo_tay s="taja0312"]
-[ns]ターヤ[nse]
-「ぎっ……あがっ！　ぐっ……あぁ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gih... Agah! Guh... Aah..."[pcms]
 
 ;//◆演出メモ：ターヤは地面にたたき落とされた
 
 *633|
 [fc]
-堅い地面にしたたかに身体を打ち付けられ、[r]
-わたしの呼吸は浅く、激しくなっていた。[pcms]
+My body was harshly struck against the hard ground, and my breathing[r]
+became shallow and intense.[pcms]
 
 *634|
 [fc]
-酷く犯され、身体を折られそうになった上、[r]
-無残に投げ捨てられた。[pcms]
+After being horribly violated and nearly broken, I was thrown away[r]
+mercilessly.[pcms]
 
 *635|
 [fc]
-わたしは、このままパパ達に殺されてしまうんだろうか。[r]
-その前に、苦しすぎて死んでしまいそう。[r]
-こんなのを続けられたら、わたしは間違いなく死ぬ……。[pcms]
+I wonder if I will be killed by Papa and the others like this. I feel[r]
+like dying from too much suffering. If this continues, I will surely[r]
+die...[pcms]
 
 *636|
 [fc]
-そんな事を考えながらも、[r]
-わたしは苦痛のせいでからだを動かせない。[pcms]
+Even while thinking such things, I couldn't move my body due to the[r]
+pain.[pcms]
 
 *637|
 [fc]
-この場から逃れる事も、身体を動かす事も出来ないわたしに、[r]
-パパの腕が伸び、痛むお尻をわしづかみにした。[pcms]
+I couldn't escape from this place or move my body, and Papa reached[r]
+out his arms and grabbed my aching butt.[pcms]
 
 ;//◆演出メモ：差分　アナル
 [evcg storage="taja_H004b"][trans_c cross time=300]
 
 *638|
 [fc]
-[ns]ヤンネ[nse]
-「まだだっ！　こんなのでノビてたら……だめだろう！[r]
-　わ、わたしも、まだ、たりん！　もういちどっ！[r]
-　もういちど、おまえにしつけだっ！　さんどめのしつけだっ！」[pcms]
+[ns]Yanne[nse]
+"Not yet! If you get wet from this... that's no good! I'm not[r]
+satisfied yet either! Once more! Once more, I'll discipline you! The[r]
+third discipline!"[pcms]
 
 *639|
 [fc]
 [vo_tay s="taja0313"]
-[ns]ターヤ[nse]
-「がっ……んぐううっ……はぁっ……はっ……あぁっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Gah... Nguuuh... Haaah... Hah... Aaah..."[pcms]
 
 *640|
 [fc]
-[ns]ヤンネ[nse]
-「グズグズするなっ！　いくぞっ！　さんどめのしつけだっ！[r]
-　なんだ、マンコをヌルヌルさせやがってぇっ！[r]
-　なんてだらしないマンコだっ！　このっ！　そらっ！」[pcms]
+[ns]Yanne[nse]
+"Don't be sloppy! Here I go! The third discipline! What's this, your[r]
+pussy is all slippery! What a sloppy pussy! This! There!"[pcms]
 
 *641|
 [fc]
-パパは、異常に怒りながらわたしのお尻に、[r]
-熱くて大きなモノを乱暴に擦りつけた。[pcms]
+Papa rubbed his abnormally angry and hot, large thing roughly against[r]
+my butt.[pcms]
 
 [evcg storage="taja_H004d"][trans_c cross time=300]
 
 *642|
 [fc]
 [vo_tay s="taja0314"]
-[ns]ターヤ[nse]
-「んはっ……あぁっ……んあっ……はああああっっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nhaaah... Aaahh... Naaah... Haaaahhhhh!"[pcms]
 
 *643|
 [fc]
-[ns]ヤンネ[nse]
-「くっ……くそっ！　すべりすぎるっ！[r]
-　くそおおっ！　なんてむすめだっ！　このいんらんむすめっ！[r]
-　くおおおっ……おおっ！」[pcms]
+[ns]Janne[nse]
+"Damn... Shit! It's too slippery! Damn it! What a daughter! This lewd[r]
+daughter! Oh... Oh!"[pcms]
 
 *644|
 [fc]
-パパは、わたしのアソコに入れようと強引に腰を振り続けていた。[r]
-だけど、溢れかえる体液のせいで滑り、[r]
-目標の少し先にある小さな穴に引っかかった。[pcms]
+Papa was forcefully swinging his hips, trying to enter my pussy. But[r]
+due to the overflowing bodily fluids, it slipped and got caught in a[r]
+small hole a little ahead of the target.[pcms]
 
 *645|
 [fc]
 [vo_tay s="taja0315"]
-[ns]ターヤ[nse]
-「ぎっ……あぎいいいっ！？　パパっ！[r]
-　そ、そこは……あぎいいいっ！　ちっ、違ううっ！[r]
-　ああっ……あがあぁあぁっっ！！！」[pcms]
+[ns]Tarja[nse]
+"Gih... Agiiii!? Papa! Th-that place... Agiiii! It's different! Ahh...[r]
+Agaaaaahhh!!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1360,34 +1251,30 @@
 
 *646|
 [fc]
-わたしの小さな蕾に、本来の目的とは逆に、[r]
-パパの大きなモノが滑り込んでいく。[pcms]
+My small bud was being penetrated by Papa's large thing, contrary to[r]
+its intended destination.[pcms]
 
 *647|
 [fc]
-堅くて大きなモノが、私の蕾のしわを引き延ばし、[r]
-その痛みが背骨を通過し、脳を突き刺した。[pcms]
+The hard and large thing stretched the wrinkles of my bud, and the[r]
+pain shot up my spine and pierced my brain.[pcms]
 
 *648|
 [fc]
-[ns]ヤンネ[nse]
-「おっ……おおおおっ！　きついっ！　しりのあなに、[r]
-　はいってしまったじゃないか！　だが、これはこれでっ！[r]
-　おおおおっ！？　しまりが、すごいぞ、ターヤっ！」[pcms]
+[ns]Yanne[nse]
+"Oh... Oooooh! It's tight! It went into your ass hole! But, this is[r]
+good in its own way! Oooooh!? The tightness is amazing, Tarja!"[pcms]
 
 *649|
 [fc]
 [vo_tay s="taja0316"]
-[ns]ターヤ[nse]
-「あぎっ！　ぎいいいっ！？　あっ……あぁっ……。[r]
-　おっ、お尻……やっ、灼けるっ……裂けるううっ！[r]
-　あがぁああっ！　ぎぃいいいっ！」[pcms]
+[ns]Tarja[nse]
+"Agi! Giiii!? Ah... Aah... My butt... No, it's burning... tearing[r]
+apart! Agaaaaah! Giiiiii!"[pcms]
 
 *650|
 [fc]
-わたしの口は、悲鳴を上げる事と、[r]
-浅く呼吸をすること以外、[r]
-他には何も出来なくなってしまっていた。[pcms]
+My mouth could do nothing but scream in agony and breathe shallowly.[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -1398,59 +1285,55 @@
 
 *651|
 [fc]
-そして、二度中だしを受け、息苦しそうにパクパクと[r]
-収縮を続ける膣口に吸い寄せられるように、[r]
-モノを擦りつけ始めた。[pcms]
+And then, after being creampied twice, drawn to the gasping and[r]
+contracting vaginal opening, he began to rub his thing against it.[pcms]
 
 ;//◆演出メモ：差分　膣挿入　別男性
 
 *652|
 [fc]
-[ns]船医[nse]
-「はっ……はあっ……こ、こんどは、ち、ちつに……。[r]
-　ちつを、わたしがきょういくしてさしあげますよ！[r]
-　こ、これだけ、ぬれているのだから……すぐはいるっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"Ha... Haa... This time, in the pussy... I will educate you myself![r]
+Since it's this wet... it'll go in right away!"[pcms]
 
 *653|
 [fc]
-[ns]ヤンネ[nse]
-「お、おねがい、しますよ、せん、せいっ……」[pcms]
+[ns]Janne[nse]
+"Please, I beg you, Sensei..."[pcms]
 
 *654|
 [fc]
-[ns]島民感染者Ａ[nse]
-「ぐ、ぐぞおぉ……ま、まだ、あいづらだぁ……」[pcms]
+[ns]Island Resident Infected A[nse]
+"Gu, Guzooo... Still, it's not enough..."[pcms]
 
 *655|
 [fc]
-[ns]島民感染者Ｂ[nse]
-「ぐぐっ……」[pcms]
+[ns]Island Resident Infected B[nse]
+"Gugu..."[pcms]
 
 *656|
 [fc]
-わたしは、一体なんなんだろう？[r]
-男達は、わたしを何だと思っているんだろう？[pcms]
+I wonder what I am? What do these men think of me?[pcms]
 
 *657|
 [fc]
-麻痺したわたしの頭の中で、意味のない考えが駆け巡る。[pcms]
+Meaningless thoughts raced through my paralyzed mind.[pcms]
 
 *658|
 [fc]
-[ns]船医[nse]
-「ザーメンと、あいえきがからんで……すべる……。[r]
-　あぁ……もう、すぐにはいるからねぇ、ターヤちゃん……。[r]
-　あはぁ～……んんっ……こ、こなれてるなあっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"The semen and love juices are mixing... making it slippery... Ah...[r]
+It'll go in right away now, Tarja-chan... Ahha~... Nnn... It's well[r]
+used!"[pcms]
 
 [evcg storage="taja_H004d"][trans_c cross time=300]
 
 *659|
 [fc]
 [vo_tay s="taja0317"]
-[ns]ターヤ[nse]
-「んっ……あぁっ！　んぎぃああっ！　はっ……！[r]
-　あぁあぁああぁあ―――――ッ！！[r]
-　にっ、二本っ！　お腹、くるしいっ！　んぎぃぁあああっ！！」[pcms]
+[ns]Tarja[nse]
+"Nn... Aah! Ngiiaaah! Ha...! Aaaaahhhhh-----! Two at once! My stomach[r]
+hurts! Ngiiaaahhh!!"[pcms]
 
 ;//◆演出メモ：絶叫で
 
@@ -1459,197 +1342,186 @@
 
 *660|
 [fc]
-わたしは、喉が張り裂けそうなくらい叫んだ。[r]
-なのにその声は、壁を隔てた先から聞こえてくるように聞こえ、[r]
-直後、下半身に感じていた痛みは嘘の様に消えた。[pcms]
+I screamed as if my throat was about to tear apart. Yet the sound[r]
+seemed to come from beyond the walls, and immediately after, the pain[r]
+I felt in my lower body disappeared as if it were a lie.[pcms]
 
 ;//◆演出メモ：白目差分がある様子
 
 *661|
 [fc]
-だけどそれは、僅か一瞬の事だったらしい。[pcms]
+But that was apparently only for a moment.[pcms]
 
 *662|
 [fc]
-わたしの身体の中にねじ込まれた二本の熱い棒がお腹の中で暴れ、[r]
-薄い肉の壁越しに擦れ合う火傷しそうな痛みによって、[r]
-私は現実に引き戻された。[pcms]
+The two hot rods twisted inside me raged in my stomach, and the[r]
+scalding pain of them rubbing against the thin walls of flesh pulled[r]
+me back to reality.[pcms]
 
 *663|
 [fc]
-[ns]ヤンネ[nse]
-「おおおっ……せま、いなかが、ますますせまくっ！」[pcms]
+[ns]Yanne[nse]
+"Ooooh... The tight insides are getting even tighter!"[pcms]
 
 *664|
 [fc]
-[ns]船医[nse]
-「なか、で、ぐにぐにとっ……ああっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"Inside, it's squishy and... Aaah!"[pcms]
 
 *665|
 [fc]
 [vo_tay s="taja0318"]
-[ns]ターヤ[nse]
-「あがっ……あ、ああ、ああ、あ、あっ……んぎいいいっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Agah... Ah, aah, aah, ah... Ngiyiiii!"[pcms]
 
 *666|
 [fc]
-おなかの中で、二匹の蛇がのたうち回る。[r]
-膣の中や、直腸の中が圧迫され、かき回される。[pcms]
+Inside my stomach, two snakes writhed. My vagina and rectum were being[r]
+compressed and stirred.[pcms]
 
 *667|
 [fc]
 [vo_tay s="taja0319"]
-[ns]ターヤ[nse]
-「おっ、お尻と、アソコ……いっぺんに、こんなのっ！[r]
-　むっ、無理っ！　裂ける！　壊れるっ！　バラバラになるっ！[r]
-　いぎいぃああぁっ！　んあぁっ！　ぎいいいいいぃいっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"My ass and pussy... both at once like this! It's impossible! It's[r]
+tearing! Breaking apart! I'm falling to pieces! Igiyiiiahh! Naaah![r]
+Giiiiiiiiih!"[pcms]
 
 *668|
 [fc]
-灼けた鉄の棒を、一度に二本も突き刺されたような感覚。[r]
-それが、わたしの背骨を通る神経を全て焦がしていく。[pcms]
+It felt like two red-hot iron rods were being thrust into me at once.[r]
+They scorched every nerve running along my spine.[pcms]
 
 *669|
 [fc]
 [vo_tay s="taja0320"]
-[ns]ターヤ[nse]
-「やっ……ぎいいっ……ぬっ、ぬいてぇっ！[r]
-　こんなの駄目っ！　あがぁあっ！[r]
-　ごっ、ゴリゴリ……するっ！　死ぬっ……死んじゃうっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No... Giiih... Pull it out! This is no good! Agaaah! It's grinding...[r]
+I'm going to die... I'm dying!"[pcms]
 
 *670|
 [fc]
-痛みが全身を駆け回り、アソコとお尻の穴に戻っていく。[r]
-その感覚が、パパともう一人の男によって繰り返し与えられる。[pcms]
+The pain raced throughout my body and returned to my pussy and ass[r]
+hole. That sensation was repeatedly inflicted by Papa and another man.[pcms]
 
 *671|
 [fc]
-このままでは、本当に死んでしまう。[r]
-わたしの精神が壊れてしまう。[pcms]
+If this continues, I will truly die. My spirit will be broken.[pcms]
 
 *672|
 [fc]
-だけど、逃れる事は出来ない……。[r]
-わたしはこの場で、犯し殺される……。[pcms]
+But I can't escape... Here, I will be raped to death...[pcms]
 
 *673|
 [fc]
 [vo_tay s="taja0321"]
-[ns]ターヤ[nse]
-「はっ……あはっ……あはははっ……くっ……あぁっ……」[pcms]
+[ns]Tarja[nse]
+"Ha... Ahaha... Ahahaha... Kuh... Aah..."[pcms]
 
 [evcg storage="taja_H004f"][trans_c cross time=300]
 
 *674|
 [fc]
-わたしは、今のこの恐怖から逃れるためか、[r]
-心のタガが外れてしまったのか。[pcms]
+I had either lost my mind due to the terror I was experiencing or[r]
+something inside me had snapped.[pcms]
 
 *675|
 [fc]
-ふっと身体が軽くなった……次の瞬間。[pcms]
+Suddenly, my body felt lighter... the next moment.[pcms]
 
 *676|
 [fc]
-わたしの口からは、それまでのあえぎ声でなく、[r]
-泣き声混じりの笑いをあふれ出させてしまっていた。[pcms]
+From my mouth came not moans of agony but laughter mixed with crying.[pcms]
 
 *677|
 [fc]
-[ns]ヤンネ[nse]
-「ターヤ……なぜわらう……おまえは、[r]
-　しつけられているんだぞ！？[r]
-　ふざけるんじゃないっ！」[pcms]
+[ns]Yanne[nse]
+"Tarja... why are you laughing... You are being disciplined!? Don't[r]
+mess around!"[pcms]
 
 *678|
 [fc]
-[ns]船医[nse]
-「い、いや、これは、[r]
-　きょういくがせいこうしたのではないですか？[r]
-　こしも、ふりはじめましたし……」[pcms]
+[ns]Ship's Doctor[nse]
+"No, this might be a sign that the education has been successful? She[r]
+even started moving her hips..."[pcms]
 
 *679|
 [fc]
 [vo_tay s="taja0322"]
-[ns]ターヤ[nse]
-「あっはぁ……んん～……もっと、かき回して……。[r]
-　わたしのなか、ぐりぐりって、もっと……んぎいいっ……、[r]
-　痛いの、気持ち良い……教育、してぇ……パパァ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ahhaa... Nnn~... Stir me more... Grind inside me more... Ngiyiiih...,[r]
+pain feels good... Educate me more... Papa..."[pcms]
 
 *680|
 [fc]
-[ns]ヤンネ[nse]
-「なんてことだ……よろこびだすとは……。[r]
-　それにしても、こしをそんなにうごかすと……、[r]
-　またでそうにっ……なるっ！」[pcms]
+[ns]Janne[nse]
+"What is this... She's starting to enjoy it... But if you move your[r]
+hips like that again..., I might come again!"[pcms]
 
 *681|
 [fc]
 [vo_tay s="taja0323"]
-[ns]ターヤ[nse]
-「あはぁっ！　んっ……んんっ！　まっ、また……、[r]
-　また、だしてぇっ！　お腹にちょうだいっ！[r]
-　お尻にも、一杯……んぎいぃいっ！　ああっぁあっ！」[pcms]
+[ns]Tarja[nse]
+"Ahhaa! Nn... Nnnn! Again..., give it to me again! Fill my stomach![r]
+Fill my ass too... Ngiyiiih! Aaaahhh!"[pcms]
 
 [evcg storage="taja_H004g"][trans_c cross time=300]
 
 *682|
 [fc]
-お腹の中で膨らみ、激しく突き動かされて、[r]
-目一杯に拡げられたアソコとお尻から、様々な体液が吹き出す。[pcms]
+My stomach swelled and was violently thrust into, and from my[r]
+maximally stretched pussy and ass, various bodily fluids spurted out.[pcms]
 
 *683|
 [fc]
-お腹の中の圧力が、クリトリスやアソコの入り口の肉を押しだし、[r]
-空気に触れる面積を拡げていく。[pcms]
+The pressure inside my belly pushed out the flesh around my clitoris[r]
+and the entrance to my pussy, increasing the surface area exposed to[r]
+the air.[pcms]
 
 *684|
 [fc]
-ただ、空気に触れただけなのに、[r]
-わたしのクリトリスは大きく跳ねて、膣を収縮させた。[pcms]
+Just from being exposed to the air, my clitoris jumped significantly,[r]
+causing my vagina to contract.[pcms]
 
 *685|
 [fc]
 [vo_tay s="taja0324"]
-[ns]ターヤ[nse]
-「んっ……おおっ……おっ……おおおっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nn... Oh... Oh... Oooh!"[pcms]
 
 *686|
 [fc]
-わたし、どうしちゃったんだろう。[pcms]
+I wonder what's happening to me.[pcms]
 
 *687|
 [fc]
-苦しくて、怖くて、イヤだったのに。[r]
-アソコが疼いて、もっと欲しくなってて……。[r]
-腰も、勝手に動いて……。[pcms]
+It was painful, scary, and I hated it. But my pussy was throbbing,[r]
+wanting more... And my hips moved on their own...[pcms]
 
 *688|
 [fc]
-[ns]ヤンネ[nse]
-「くうっ……ううっ……そんな、あまいこえ……、[r]
-　あぁ、エルマ……あああっ！　エルマの、わかいころと……。[r]
-　おなじっ……んおおおっ！」[pcms]
+[ns]Yanne[nse]
+"Kuu... Uuu... Such a sweet voice... Ah, Elma... Aaaah! It's just like[r]
+Elma's... when she was young... Nnnooooh!"[pcms]
 
 *689|
 [fc]
-[ns]船医[nse]
-「おっ、おっ……おおっ！　ターヤちゃんがこしをうごかすと、[r]
-　や、ヤンネさんの、が、わたしのをおすんですよ……。[r]
-　さ、さいこうだっ……このまま、だしてしまいそうっ！」[pcms]
+[ns]Ship's Doctor[nse]
+"Oh, oh... Oooh! When Tarja-chan moves her hips, it pushes Yanne-[r]
+san's, and mine too... It's the best... I might just release it like[r]
+this!"[pcms]
 
 *690|
 [fc]
 [vo_tay s="taja0325"]
-[ns]ターヤ[nse]
-「いいっ！　いいのっ！　だしてっ……パパも……。[r]
-　ひっ……んんぎいぃいぃぃっ！　おっ……んおおおおおっ！？[r]
-　あっ……ひぁぁっ！　イッ……イクうううっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yes! That's good! Release it... Papa too... Hii... Nngyiiiih! Oh...[r]
+Nnooooh!? Ah... Hiaaah! I'm cumminggg!"[pcms]
 
 *691|
 [fc]
-[ns]ヤンネ＆船医[nse]
-「あっ……ぐおおおおっ！　出るっう！」[pcms]
+[ns]Janne & Ship's Doctor[nse]
+"Ah... Guooooh! I'm releasing it!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -1664,21 +1536,21 @@
 *692|
 [fc]
 [vo_tay s="taja0326"]
-[ns]ターヤ[nse]
-「はっ……あぁっ……んあぁっ……お腹……いっぱい……。[r]
-　んあぁっ……まだ、たりないいぃ……あっ……あぁぁっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ha... Ahh... Nnahh... My belly is full... Nnahh... It's still not[r]
+enoughhh... Ah... Aaahh!"[pcms]
 
 ;//◆演出メモ：男性二人　ＯＦＦ
 
 *693|
 [fc]
-二人のモノが引き抜かれると、[r]
-開ききった穴がチュポンと小さな音を立てた。[pcms]
+When the two of them were pulled out, my fully opened holes made a[r]
+small 'chupon' sound.[pcms]
 
 *694|
 [fc]
-その直後、わたしの体液と、どろどろの精液が混ざった液体が、[r]
-まるで噴水の様に吹き出した。[pcms]
+Immediately after, a mixture of my body fluids and the thick semen[r]
+gushed out like a fountain.[pcms]
 
 ;//◆演出メモ：噴出差分
 [evcg storage="taja_H004f"][trans_c cross time=300]
@@ -1686,185 +1558,172 @@
 *695|
 [fc]
 [vo_tay s="taja0327"]
-[ns]ターヤ[nse]
-「ひっ……ああっっ！！　んあぁあっ！　おっ……おおおっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hii... Aaah!! Nnaahh! Oh... Oooh!"[pcms]
 
 *696|
 [fc]
-[ns]ヤンネ[nse]
-「なっ……なんてことだ！　せっかくのきょういくが、[r]
-　だいなしだっ！　もう、いちどだぁっ！」[pcms]
+[ns]Yanne[nse]
+"What... What is this! All the education for nothing! Once more, do it[r]
+again!"[pcms]
 
 *697|
 [fc]
-[ns]島民感染者Ａ[nse]
-「だ、だめだ、ろおっ！　おれ、にも、ま、まわ゛せぇっ！[r]
-　くっぞおおおっ！」[pcms]
+[ns]Island Resident Infected A[nse]
+"No, no good, roooh! Let me join in too, pleaseee! Kuzzoooh!"[pcms]
 
 *698|
 [fc]
-[ns]ヤンネ[nse]
-「だめだ、だめだぁっ！　これは、わたしのむすめだっ！」[pcms]
+[ns]Yanne[nse]
+"No, no good! This is my daughter!"[pcms]
 
 *699|
 [fc]
-アソコの穴とお尻から、勢いよく精液を吹き上げ、[r]
-グッタリとするわたしを奪おうと、“二人の男”が争うように、[r]
-モノを押し当てだした。[pcms]
+As semen forcefully spurted from my pussy and ass, two men began to[r]
+press their members against me as if competing to take me over.[pcms]
 
 ;//◆演出メモ：差分がある　前の穴に二人
 [evcg storage="taja_H004g"][trans_c cross time=300]
 
 *700|
 [fc]
-二人、どちらも引くことはせず、[r]
-はち切れそうになったモノを、[r]
-開いたままのアソコに押し当て続け――[pcms]
+The two men neither backed down nor stopped pressing their swollen[r]
+members against my still-open pussy--[pcms]
 
 *701|
 [fc]
-濡れそぼった“ソコ”は、少しの抵抗のあと、[r]
-ズルリと音をたてて吸い込まれていった。[pcms]
+The drenched spot offered little resistance before making a 'zururi'[r]
+sound as it was engulfed.[pcms]
 
 *702|
 [fc]
 [vo_tay s="taja0328"]
-[ns]ターヤ[nse]
-「ひぎぃいいぁあぁっ！　にっ、二本っ！[r]
-　おま、オマンコに、二本もおおおっ！？[r]
-　だめっ……裂ける……痛いっ！　気がヘンになるううっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Higyiiiiahh! Two at once! Two cocks in my pussy at once!? Noo... It's[r]
+tearing... It hurts! I'm losing my mind!"[pcms]
 
 *703|
 [fc]
 [vo_tay s="taja0329"]
-[ns]ターヤ[nse]
-「お、おぁあぁっ……んおおおっっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Oh... Ooohh... Hii... Yesss..."[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
 
 *704|
 [fc]
-一つしかないわたしの“アソコ”に、二本の剛直が飲み込まれた。[r]
-さっきまでは、痛みとショックで、“そうなった”。[pcms]
+Two rigid members were swallowed by my one pussy. Just moments ago, I[r]
+was in pain and shock from that happening.[pcms]
 
 *705|
 [fc]
-だけど、今度はその強烈過ぎる快楽が、[r]
-胃や腸がを全て押し出した。[pcms]
+But now, the intense pleasure was pushing everything out of my stomach[r]
+and intestines.[pcms]
 
 [evcg storage="taja_H004h"][trans_c cross time=300]
 
 *706|
 [fc]
 [vo_tay s="taja0330"]
-[ns]ターヤ[nse]
-「うおおおっ！　うげぇぇっ！　おごぁぁあっ！！[r]
-　あぁっ……はーっ……あぁっ……はぁっ！！」[pcms]
+[ns]Tarja[nse]
+"Uoooh! Ugeeeh! Ogaaah!! Ahh... Ha-... Aahh... Haaah!!"[pcms]
 
 *707|
 [fc]
-[ns]ヤンネ[nse]
-「まっ、またっ！　もったいないことをするんじゃない、[r]
-　ターヤっ！　このバカむすめがっ！」[pcms]
+[ns]Yanne[nse]
+"Again! Don't waste it, Tarja! You stupid girl!"[pcms]
 
 *708|
 [fc]
-[ns]島民感染者Ａ[nse]
-「ひっ、ひどに、げろ゛はきやがっ、てぇっ！[r]
-　おっ、おま、おまん、ご……つ、つつきまくっでやるうっ！[r]
-　お゛らぁぁっ！」[pcms]
+[ns]Island Resident Infected A[nse]
+"Hii, how dare you vomit on meee! Oh, your pussy... I'll poke it[r]
+nonstop! Oraaah!"[pcms]
 
 [evcg storage="taja_H004i"][trans_c cross time=300]
 
 *709|
 [fc]
 [vo_tay s="taja0331"]
-[ns]ターヤ[nse]
-「ひっ……あぁっ！　ひあっ！　んあっ！[r]
-　んっ……おおっ……おぁあぁっ！　んあぁっ！[r]
-　ダメダメっ！　そんな、キツいいいっ！」[pcms]
+[ns]Tarja[nse]
+"Hii... Aah! Hiah! Nnah! Nn... Oh... Ooohh! Nnaahh! No no no! That's[r]
+too tighttt!"[pcms]
 
 *710|
 [fc]
 [vo_tay s="taja0332"]
-[ns]ターヤ[nse]
-「おっ……おおっ……ひっ……いいぃっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Oh... Oooh... Hii... Yesss..."[pcms]
 
 *711|
 [fc]
-パパともう一人が、わたしのオマンコを乱暴に突き上げる。[r]
-パパが押し込むと、もう一人が引き抜く。[pcms]
+Papa and another man violently thrust into my pussy. When Papa pushed[r]
+in, the other man pulled out.[pcms]
 
 *712|
 [fc]
-予想出来ない動きが、わたしのお腹の中を責め回す。[pcms]
+The unpredictable movements tormented the inside of my belly.[pcms]
 
 *713|
 [fc]
 [vo_tay s="taja0333"]
-[ns]ターヤ[nse]
-「おっ……おがぁっ！？　おぶっっ……んっ……んげぁっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Oh... Ogaaah!? Obuuuhh... Nn... Ngeeahh!"[pcms]
 
 *714|
 [fc]
-[ns]ヤンネ[nse]
-「な、なにを、おもしろいこえを……あげているのか！[r]
-　ターヤっ！　ちゃんとはなしなさい！[r]
-　おまえは、にほんごをちゃんとしゃべるんだっ！」[pcms]
+[ns]Yanne[nse]
+"What are you making those funny noises for!? Speak properly, Tarja![r]
+You can speak Japanese properly!"[pcms]
 
 *715|
 [fc]
-[ns]島民感染者Ａ[nse]
-「あ゛は゛ぁぁっ゛……まんこ゛のなかぁ～……。[r]
-　ゆる～く゛なってきた゛ぁ……いり゛ぐち……、[r]
-　ぎゅう゛ぎゅう゛き゛て゛るううっ！」[pcms]
+[ns]Island Resident Infected A[nse]
+"Ahvaaahh... Inside the pussy~... It's getting looser~ The[r]
+entrance..., squeezing tightlyyy!"[pcms]
 
 *716|
 [fc]
-何度も何度も、わたしの身体の中を堅いモノが突き上げ、[r]
-敏感になりすぎたアソコを刺激し続けた。[pcms]
+Again and again, a hard object thrust inside my body, continuously[r]
+stimulating my overly sensitive pussy.[pcms]
 
 *717|
 [fc]
-イヤだった筈なのに、[r]
-今のわたしは、その感覚に全身を支配されて――[pcms]
+Even though I should have hated it, now I was completely dominated by[r]
+that sensation--[pcms]
 
 *718|
 [fc]
-絶頂が近いことを示す、身体のサインに酔いしれていた。[pcms]
+I was intoxicated with the signs from my body that climax was near.[pcms]
 
 *719|
 [fc]
-[ns]島民感染者Ａ[nse]
-「こ゛が、ら、な……から゛だがぁ……は゛ね゛でるうう……。[r]
-　お゛ま゛んごぉお……すげぇっ……で、でちまうううう」[pcms]
+[ns]Island Resident Infected A[nse]
+"My body is bendingggg... Your pussy is amazingggg... I'm gonna[r]
+release itttt"[pcms]
 
 *720|
 [fc]
-[ns]ヤンネ[nse]
-「も、もういちどっ！　さいきょういくっ！[r]
-　おおおっ！　だすぞおおっ！　こん、どは、[r]
-　こぼすなぁあっぁっ！！！　おおおおっ！　だすぞおおっ！」[pcms]
+[ns]Yanne[nse]
+"Once more! The ultimate education! Ooooh! I'm releasing it! This[r]
+time, don't spill itttt!!! Ooooh! I'm releasing it!"[pcms]
 
 *721|
 [fc]
 [vo_tay s="taja0334"]
-[ns]ターヤ[nse]
-「きっ……ぎいいいっ！？　だしてっ！　だしてぇぇっ！[r]
-　パパぁぁっ！　おまんこに、ちょうだいいいっ！[r]
-　また、いっぱいだしてっ！　にんしんさせてぇっ！！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Pleaseee! Release it inside meee! Papaahh! Give it to my pussy! Fill[r]
+me up again! Impregnate meee!!"[pcms]
 
 *722|
 [fc]
-[ns]ヤンネ[nse]
-「わかったぞっ！　イッ……いくぞおおっ！[r]
-　おおおおおおっ！　うおおおおおぉおががああぁっ！！」[pcms]
+[ns]Yanne[nse]
+"Understood! Here I gooo! Ooooooohhhhh!!! Uoooooogagaaaahhh!!"[pcms]
 
 *723|
 [fc]
-[ns]島民感染者Ｂ[nse]
-「お゛れも、だぁぁっ！　お゛お゛お゛おっ゛！」[pcms]
+[ns]Island Resident Infected B[nse]
+"I'm also going to... Aaaaah! Oooooh!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -1880,9 +1739,8 @@
 *724|
 [fc]
 [vo_tay s="taja0335"]
-[ns]ターヤ[nse]
-「おがあぁあっ！　あっ……あがあああぁあっ！[r]
-　イクうううっううぅうっ――――――ッ！！！」[pcms]
+[ns]Tarja[nse]
+"Oh... Ogaaah!? Ah... Ahgaaaah! I'm cumminggggg------!!!"[pcms]
 
 ;//◆演出メモ：男ＯＦＦ
 
@@ -1891,30 +1749,30 @@
 
 *725|
 [fc]
-また、わたしのアソコから噴水……。[pcms]
+Again, a fountain from my pussy...[pcms]
 
 *726|
 [fc]
-すっごい気持ちいいぃ……。[pcms]
+It feels so good...[pcms]
 
 ;//#_ホワイトアウト
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
 
 *727|
 [fc]
-あはぁ……沢山のパパが、わたしをみてる……。[pcms]
+Ahhaa... So many Papas are watching me...[pcms]
 
 *728|
 [fc]
-パパが、わたしを教育するって……。[pcms]
+Papa is going to educate me...[pcms]
 
 *729|
 [fc]
-沢山教育して……。[pcms]
+Educate me a lot...[pcms]
 
 *730|
 [fc]
-いっぱいの、パパたち……。[pcms]
+So many Papas...[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

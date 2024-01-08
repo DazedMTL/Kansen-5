@@ -29,115 +29,117 @@
 
 *1092|
 [fc]
-[ns]宗一郎[nse]
-「大丈夫です、こっち側に感染者はほとんどいません」[pcms]
+[ns]Souichirou[nse]
+"It's okay, there are hardly any infected on this side."[pcms]
 
 *1093|
 [fc]
-少しずつシャッターを上げながら、[r]
-のぞき込むようにして外を調べていたそーいちが、[r]
-ＯＫの合図を出した。[pcms]
+While slowly raising the shutter, Souichirou peeked outside and gave[r]
+the OK sign.[pcms]
 
 *1094|
 [fc]
-車庫のシャッターを上げていた黒服の男たちは、[r]
-そのまま作業を続行する。[pcms]
+The men in black suits raising the garage shutter continued their work[r]
+as usual.[pcms]
 
 *1095|
 [fc]
-[ns]稼津央[nse]
-「茜梨、これを渡しておこう」[pcms]
+[ns]Kazuo[nse]
+"Akari, I'll pass this on to you."[pcms]
 
 *1096|
 [fc]
 [vo_aka s="akari0297"]
-[ns]茜梨[nse]
-「これは……？」[pcms]
+[ns]Akari[nse]
+"What is this...?"[pcms]
 
 *1097|
 [fc]
-稼津央さんは、越智さんに布の被った棒のような物を渡していた。[r]
-かなり長さのある物で、ぱっと見なんだかわからない。[pcms]
+Mr. Kazuo handed Ms. Ochi something that looked like a rod covered in[r]
+cloth. It was quite long and at first glance, it was unclear what it[r]
+was.[pcms]
 
 *1098|
 [fc]
-越智さんはその布の口を縛っている紐を解くと、[r]
-中の物を取り出す。[pcms]
+Ms. Ochi untied the string that was tying the cloth and took out the[r]
+item inside.[pcms]
 
 *1099|
 [fc]
-[ns]稼津央[nse]
-「隣の大美島に住む有力者から貰った物だ。[r]
-　私の部屋に飾っておくよりは役に立つだろう」[pcms]
+[ns]Kazuo[nse]
+"It's something I received from an influential person living on the[r]
+neighboring Oomi Island. It will be more useful than just decorating[r]
+my room."[pcms]
 
 *1100|
 [fc]
 [vo_aka s="akari0298"]
-[ns]茜梨[nse]
-「本物……ですか？」[pcms]
+[ns]Akari[nse]
+"Is this real...?"[pcms]
 
 *1101|
 [fc]
-それは、ギラつくような刃の照り返しが眩しい、[r]
-本物の薙刀だった。[pcms]
+It was a real naginata, with a blade so shiny that its reflection was[r]
+dazzling.[pcms]
 
 *1102|
 [fc]
-切ろうと思えば人を傷つけることだってできる、[r]
-正真正銘の凶器だ。[pcms]
+If one intended to, it could certainly harm a person, a genuine lethal[r]
+weapon.[pcms]
 
 *1103|
 [fc]
-[ns]荒井[nse]
-「うっ……」[pcms]
+[ns]Arai[nse]
+"Ugh..."[pcms]
 
 *1104|
 [fc]
-越智さんの手にする刃を見て、[r]
-早くも荒井の心が乱れているのがわかった。[pcms]
+Seeing the blade in Ms. Ochi's hands, it was clear that Arai's heart[r]
+was already in turmoil.[pcms]
 
 *1105|
 [fc]
-僕に対する一時期の興奮から覚めてしまい、[r]
-これから直面する苦難に想像が追いつき始めたんだろう。[pcms]
+The excitement he once felt towards me had faded, and his imagination[r]
+was beginning to catch up with the hardships we were about to face.[pcms]
 
 *1106|
 [fc]
-[ns]稼津央[nse]
-「さあ、乗ってくれ。[r]
-　いつまでもシャッターを開けておくのは危険だ」[pcms]
+[ns]Kazuo[nse]
+"Come on, get in. It's dangerous to keep the shutter open for too[r]
+long."[pcms]
 
 *1107|
 [fc]
-運転手は稼津央さんが努めてくれるみたいだった。[r]
-黒服たちには話が付いているのか、ここでの悶着は一切無い。[pcms]
+It seemed Mr. Kazuo would take on the role of driver. There was no[r]
+trouble here, perhaps an arrangement had been made with the men in[r]
+black suits.[pcms]
 
 *1108|
 [fc]
-越智さんが助手席に乗ると、男三人は後部座席に乗り込む。[r]
-間違って感染しないように、配慮しているのかも知れない……。[pcms]
+When Ms. Ochi got into the passenger seat, the three men boarded the[r]
+back seats. Perhaps they were being considerate to avoid any[r]
+accidental infection...[pcms]
 
 [se buf=0 storage="seC024"]
 ;//♪SE自動車のエンジン指導＋空ぶかし
 
 *1109|
 [fc]
-稼津央さんは部下の黒服に合図をすると、[r]
-アクセルを踏んで車を発進させた。[pcms]
+Mr. Kazuo signaled to his subordinate in black and stepped on the[r]
+accelerator to start the car.[pcms]
 
 [se buf=0 storage="seC010"]
 ;//♪SE自動車が立ち去る走行音
 
 *1110|
 [fc]
-[ns]稼津央[nse]
-「さあ行くぞ、あまり丁寧な運転は保証しかねるから、[r]
-　しっかり掴まっていてくれ」[pcms]
+[ns]Kazuo[nse]
+"Let's go, I can't guarantee a smooth ride, so hold on tight."[pcms]
 
 *1111|
 [fc]
-稼津央さんのホワイトリムジンが車庫を出ると、[r]
-中にいた黒服がシャッターを下ろし始める。[pcms]
+As Mr. Kazuo's white limousine left the garage, the men inside began[r]
+to lower the shutter.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -154,8 +156,7 @@
 
 *1112|
 [fc]
-帰ってきたときにシャッターを開ける取り決めは[r]
-できているんだろう。[pcms]
+There must be an arrangement for opening the shutter when we return.[pcms]
 
 ;//mine:車系のなにか貼ろうと思ったけど面白すぎるから止めて立ちだけ貼っとく
 
@@ -163,8 +164,8 @@
 
 *1113|
 [fc]
-[ns]稼津央[nse]
-「見たくない人は目をつぶっていてくれよ！」[pcms]
+[ns]Kazuo[nse]
+"Those who don't want to see, close your eyes!"[pcms]
 
 [quake_bg y s]
 
@@ -178,8 +179,8 @@
 *1114|
 [fc]
 [vo_aka s="akari0299"]
-[ns]茜梨[nse]
-「危ないっ！」[pcms]
+[ns]Akari[nse]
+"Dangerous!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -194,17 +195,17 @@
 
 *1115|
 [fc]
-僕がそんなことを考えていると、[r]
-重い衝撃と共にリムジンが人を一人跳ね飛ばした。[pcms]
+As I was thinking about such things, the limousine hit someone with a[r]
+heavy impact and sent them flying.[pcms]
 
 *1116|
 [fc]
-島の狭い道路をうろついている感染者を、[r]
-全て避けていくことはできない。[pcms]
+It was impossible to avoid all the infected wandering the narrow roads[r]
+of the island.[pcms]
 
 *1117|
 [fc]
-当然、こういう結果になる。[pcms]
+Naturally, this was the result.[pcms]
 
 ;<ImageReverse 7,ON> mm 何をリバースしてるのか分からん
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -212,30 +213,30 @@
 *1118|
 [fc]
 [vo_aka s="akari0300"]
-[ns]茜梨[nse]
-「あ……ああ……」[pcms]
+[ns]Akari[nse]
+"Ah... Aaah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1119|
 [fc]
-人を跳ね飛ばす光景というのは、思ったよりも[r]
-随分ショッキングなものだった。[pcms]
+The sight of hitting and sending someone flying was more shocking than[r]
+I had imagined.[pcms]
 
 *1120|
 [fc]
-衝撃の重さと鈍い音、そして一瞬だけ確認できる[r]
-被害者の表情……。[pcms]
+The heaviness of the impact, the dull sound, and the victim's[r]
+expression that could be seen for just a moment...[pcms]
 
 *1121|
 [fc]
-フロントガラスに残された血痕が生々しく筋を作って流れ落ち、[r]
-それを洗浄液とワイパーで拭き取っていた。[pcms]
+Bloodstains left on the windshield formed vivid streaks as they flowed[r]
+down, which were wiped away with cleaning fluid and wipers.[pcms]
 
 *1122|
 [fc]
-自分がアクセルを踏めと言われたら、[r]
-この状況でも[ruby text="ためら"][ch text="躊躇"]う可能性がある。[pcms]
+If I were told to step on the accelerator, there's a chance I would[r]
+hesitate even in this situation.[pcms]
 
 ;//[quake time=500 hmax=0 vmax=1][wq]
 
@@ -255,8 +256,8 @@
 
 *1123|
 [fc]
-[ns]稼津央[nse]
-「正面入り口は駄目だな、感染者が多すぎる」[pcms]
+[ns]Kazuo[nse]
+"The main entrance is no good, there are too many infected."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -270,27 +271,28 @@
 
 *1124|
 [fc]
-ホテルの正面側に車を出すと、[r]
-初めて見る島の惨状が見て取れていた。[pcms]
+As we drove out to the front of the hotel, we could see for the first[r]
+time the dire situation of the island.[pcms]
 
 *1125|
 [fc]
-ただでさえ狭い道に、乗り捨てられたらしい車が、[r]
-あちこち停車している。[pcms]
+The narrow streets were already cluttered with what seemed to be[r]
+abandoned cars parked here and there.[pcms]
 
 *1126|
 [fc]
-そこに亡者のような感染者が集まっているから、[r]
-とてもじゃないがリムジンで突破できるようなものではなかった。[pcms]
+And with infected people gathering like ghosts around them, it was[r]
+impossible for a limousine to break through.[pcms]
 
 *1127|
 [fc]
-島の人間だけじゃない。[r]
-イベントに集まった外の人間がうじゃうじゃいるはずだ。[pcms]
+It wasn't just the islanders. There must be crowds of outsiders who[r]
+came for the event.[pcms]
 
 *1128|
 [fc]
-事件が起きるタイミングとしては、最悪に近いと言えるだろう。[pcms]
+The timing of the incident could be said to be near the worst[r]
+possible.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -298,49 +300,47 @@
 
 *1129|
 [fc]
-[ns]稼津央[nse]
-「遠回りだけど、キャンプ場を経由して行こう」[pcms]
+[ns]Kazuo[nse]
+"It's a detour, but let's go via the campsite."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1130|
 [fc]
-稼津央さんはホテルから遠ざかるように、[r]
-道を曲がって進み始めた。[pcms]
+Mr. Kazuo turned away from the hotel and started down another road.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1131|
 [fc]
-[ns]宗一郎[nse]
-「ぜ、全滅じゃないか……」[pcms]
+[ns]Souichirou[nse]
+"This is... a total annihilation..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1132|
 [fc]
-[ns]稼津央[nse]
-「東北のときのことを考えると、うかうかしていられないな。[r]
-　米軍の爆撃があったんだろう？」[pcms]
+[ns]Kazuo[nse]
+"Considering what happened in the northeast, we can't afford to be[r]
+careless. There was a bombing by the US military, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1133|
 [fc]
-[ns]荒井[nse]
-「ううっ……」[pcms]
+[ns]Arai[nse]
+"Ugh..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1134|
 [fc]
-立て籠もって逃げているだけじゃ駄目ってことなのか？[r]
-いや、今僕が考えなくちゃいけないのはそれじゃない。[pcms]
+Is it not enough just to barricade ourselves and escape? No, that's[r]
+not what I need to think about right now.[pcms]
 
 *1135|
 [fc]
-このまま車で越智さんの実家まで[r]
-いければいいんだけど……。[pcms]
+I just hope we can make it to Ochi-san's family home by car...[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -365,21 +365,21 @@
 
 *1136|
 [fc]
-それからどれくらい車で走っただろうか。[r]
-島を周回できる道と神社への分岐路で、[r]
-リムジンは停車を余儀なくされていた。[pcms]
+How long had we been driving? At the junction where the road circles[r]
+the island and splits off to the shrine, the limousine was forced to[r]
+stop.[pcms]
 
 *1137|
 [fc]
-黒煙を上げながら炎上している衝突車両が数台、[r]
-完全に道を塞いでいる。[pcms]
+Several collision vehicles were on fire, emitting black smoke and[r]
+completely blocking the road.[pcms]
 
 ;//[quake time=200000 hmax=0 vmax=14]
 
 *1138|
 [fc]
-逃げ遅れたのか殺されたのか、[r]
-死体と思しきものが道路のあちこちで燃えていた。[pcms]
+Whether they were left behind or killed, things that looked like dead[r]
+bodies were burning here and there on the road.[pcms]
 
 ;//[quake time=200000 hmax=0 vmax=1]
 
@@ -388,18 +388,18 @@
 
 *1139|
 [fc]
-[ns]感染者Ａ[nse]
-「ん゛ん゛……は゛ら゛……へ゛っ゛た……」[pcms]
+[ns]Infected Person A[nse]
+"Nngh... hara... betta..."[pcms]
 
 *1140|
 [fc]
-感染者たちがその死体に群がって、[r]
-いろんな“部品”を手にとって、大騒ぎしている。[pcms]
+The infected were swarming over the dead bodies, making a commotion as[r]
+they picked up various "parts."[pcms]
 
 *1141|
 [fc]
-自分の身体に火が燃え移って、暴れている感染者もいるのに、[r]
-他の奴等は、それに気にも留めていないように見えた。[pcms]
+Even though some of the infected were flailing about as the fire[r]
+spread to their bodies, the others seemed not to take any notice.[pcms]
 
 ;//[quake time=200000 hmax=0 vmax=1]
 
@@ -407,52 +407,52 @@
 
 *1142|
 [fc]
-[ns]稼津央[nse]
-「これ以上は無理か……」[pcms]
+[ns]Kazuo[nse]
+"We can't go any further..."[pcms]
 
 *1143|
 [fc]
-みんな似たようなことを考えて車で脱出しようとしたんだろう。[r]
-でも、ここで衝突車両に阻まれて車を乗り捨てている。[pcms]
+Everyone must have thought of escaping by car. But here, they're[r]
+abandoning their cars because of the collision vehicles blocking the[r]
+way.[pcms]
 
 *1144|
 [fc]
-その結果、誰も乗っていない車ばかりが道を占領し、[r]
-大渋滞を巻き起こしていた。[pcms]
+As a result, cars with no one in them have taken over the road,[r]
+causing a massive traffic jam.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1145|
 [fc]
 [vo_aka s="akari0301"]
-[ns]茜梨[nse]
-「ここで……大丈夫です」[pcms]
+[ns]Akari[nse]
+"We're safe here..."[pcms]
 
 *1146|
 [fc]
-[ns]誠[nse]
-「え……でも……」[pcms]
+[ns]Makoto[nse]
+"Eh... but..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1147|
 [fc]
 [vo_aka s="akari0302"]
-[ns]茜梨[nse]
-「感染者の数も少ないですし、こちらに気付いていません」[pcms]
+[ns]Akari[nse]
+"There aren't many infected people, and they haven't noticed us."[pcms]
 
 *1148|
 [fc]
-感染者は死体に群がるばかりで、[r]
-移動してきたリムジンに興味を示す者がいなかった。[pcms]
+The infected were only interested in swarming over the dead bodies and[r]
+showed no interest in the limousine that had just arrived.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1149|
 [fc]
-[ns]稼津央[nse]
-「車で移動するのはこれが限界だ。[r]
-　仕方がないだろう」[pcms]
+[ns]Kazuo[nse]
+"This is as far as we can go by car. There's no helping it."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -464,60 +464,59 @@
 
 *1150|
 [fc]
-越智さんが助手席のドアを開けて外に歩み出る。[r]
-手には本物の薙刀を持ち、遠くを見つめていた。[pcms]
+Ochi-san stepped out of the passenger door and walked outside. She[r]
+held a real naginata in her hand and stared into the distance.[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1151|
 [fc]
-[ns]荒井[nse]
-「だ、駄目だ……足が……動かねぇ……」[pcms]
+[ns]Arai[nse]
+"No, it's no good... my legs... won't move..."[pcms]
 
 *1152|
 [fc]
-荒井は泣きそうな顔をしながら、[r]
-自分の震える手を見つめていた。[pcms]
+Arai was looking at his trembling hands with a face that seemed on the[r]
+verge of tears.[pcms]
 
 *1153|
 [fc]
-僕も……身体が固まって動かない。[r]
-座席の真ん中に座ってしまったことが悔やまれた。[pcms]
+I'm also... frozen stiff and can't move. I regret having sat in the[r]
+middle seat.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so05a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1154|
 [fc]
-[ns]宗一郎[nse]
-「無理だ、止めよう」[pcms]
+[ns]Souichirou[nse]
+"It's impossible, let's stop."[pcms]
 
 *1155|
 [fc]
-[ns]誠[nse]
-「な、なにを……」[pcms]
+[ns]Makoto[nse]
+"Wh-what do you mean..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so08a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1156|
 [fc]
-[ns]宗一郎[nse]
-「ここまでとは思わなかった。[r]
-　死ぬ覚悟を決めて車に乗ったつもりだったのに……」[pcms]
+[ns]Souichirou[nse]
+"I didn't think it would come to this. I thought I was prepared to die[r]
+when I got in the car..."[pcms]
 
 *1157|
 [fc]
-冷静な口調で話しながら、[r]
-そーいちは[ruby text="ぼうだ"][ch text="滂沱"]の涙を流していた。[pcms]
+While speaking in a calm tone, Souichirou was shedding copious tears.[pcms]
 
 *1158|
 [fc]
-肩が微かに震えている。[r]
-歯の根も合っていない……。[pcms]
+His shoulders were trembling slightly. His teeth weren't even[r]
+clenching properly...[pcms]
 
 *1159|
 [fc]
-[ns]誠[nse]
-「い、いや、僕は……フランク先輩だって……」[pcms]
+[ns]Makoto[nse]
+"No, I mean... even Frank-senpai..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -526,42 +525,41 @@
 *1160|
 [fc]
 [vo_aka s="akari0303"]
-[ns]茜梨[nse]
-「ありがとうございます。[r]
-　でも、そのお気持ちだけで私は幸せです」[pcms]
+[ns]Akari[nse]
+"Thank you. But just knowing your feelings makes me happy."[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1161|
 [fc]
-[ns]荒井[nse]
-「あ、茜梨ちゃん……俺はっ……うううっ……」[pcms]
+[ns]Arai[nse]
+"Ah, Akari-chan... I'm... ughhh..."[pcms]
 
 *1162|
 [fc]
-僕に、二人の恐怖が[ruby text="でんぱ"][ch text="伝播"]してくる。[r]
-考えないようにしていた無惨な末路が脳裏をよぎってしまう。[pcms]
+Their fear is spreading to me. The gruesome end I had tried not to[r]
+think about flashes through my mind.[pcms]
 
 *1163|
 [fc]
-車の中から見渡す光景は、まさに地獄絵図だった。[r]
-壊れた車に吹き上がる炎、そして絵に描いたような亡者たち……。[pcms]
+The scene from inside the car was like a picture of hell. Flames[r]
+rising from broken cars and what looked like ghosts...[pcms]
 
 *1164|
 [fc]
-人が人に食われ、襲われ、[r]
-法も秩序もこの世界には存在していない。[pcms]
+People eating people, attacking each other, with no law or order[r]
+existing in this world.[pcms]
 
 *1165|
 [fc]
-そんなところに、越智さんがひとりで向かおうとしている。[pcms]
+And Ochi-san is about to head into that place alone.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1166|
 [fc]
-[ns]稼津央[nse]
-「茜梨、幸運を祈っているよ」[pcms]
+[ns]Kazuo[nse]
+"Akari, I'm praying for your good fortune."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -570,28 +568,28 @@
 *1167|
 [fc]
 [vo_aka s="akari0304"]
-[ns]茜梨[nse]
-「お世話になりました、できるところまで頑張ってみます」[pcms]
+[ns]Akari[nse]
+"Thank you for everything, I'll try my best as far as I can."[pcms]
 
 *1168|
 [fc]
-[ns]誠[nse]
-「ぐっ……うっ……」[pcms]
+[ns]Makoto[nse]
+"Guh... ugh..."[pcms]
 
 *1169|
 [fc]
-悔しさが喉元まで込みあげてくる。[r]
-越智さんを……一人で行かせてはいけない……。[pcms]
+The frustration is welling up to my throat. I can't let Ochi-san go[r]
+alone...[pcms]
 
 *1170|
 [fc]
-僕の責任だ。[r]
-僕のミスで越智さんは感染したんだぞ？[pcms]
+It's my responsibility. It's because of my mistake that Ochi-san got[r]
+infected, right?[pcms]
 
 *1171|
 [fc]
-荒井もそーいちも、みんな行かないってことは、[r]
-越智さんは一人きりなんだぞ？[pcms]
+If Arai and Souichirou aren't going, that means Ochi-san will be all[r]
+alone, right?[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -610,12 +608,12 @@
 
 *1172|
 [fc]
-越智さんが助手席のドアを閉めると、[r]
-稼津央さんがハンドルを切り返して車の向きを反転させた。[pcms]
+When Ochi-san closed the passenger door, Natsu-san turned the steering[r]
+wheel to reverse the direction of the car.[pcms]
 
 *1173|
 [fc]
-そして、越智さんを残したままその場から離れていく。[pcms]
+And then, leaving Ochi-san behind, the car drove away from the spot.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -626,202 +624,197 @@
 
 *1174|
 [fc]
-[ns]誠[nse]
-「う……ぐううっ……」[pcms]
+[ns]Makoto[nse]
+"Uh... ugh..."[pcms]
 
 *1175|
 [fc]
-後ろを振り返ると、[r]
-越智さんがどんどん遠ざかっていく姿が見えた。[pcms]
+Looking back, I could see Ochi-san getting further and further away.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1176|
 [fc]
-その表情は切なく、笑っているようでいて、[r]
-今にも泣き出してしまいそうに見える。[pcms]
+Her expression was pained, as if she was smiling yet looked like she[r]
+might burst into tears at any moment.[pcms]
 
 *1177|
 [fc]
-何かを訴えかけるみたいに、[r]
-僕たちを見送った姿勢のまま、動かなかった。[pcms]
+As if appealing for something, she remained motionless in the posture[r]
+of seeing us off.[pcms]
 
 *1178|
 [fc]
-男が雁首そろえて４人もいるのに、[r]
-女の子を車で送り届けるだけなのか！？[pcms]
+Are we really just going to send a girl off in a car when there are[r]
+four men lined up?[pcms]
 
 *1179|
 [fc]
-越智さんは言えなかったんだ。[r]
-僕たちが大切な友達だったから。[pcms]
+Ochi-san couldn't say it. Because we were precious friends to her.[pcms]
 
 *1180|
 [fc]
-本当は一緒に来て欲しいのに、[r]
-優し過ぎるから言えなかったんだぞ！[pcms]
+She really wanted us to come along, but she was too kind to say it![pcms]
 
 *1181|
 [fc]
-あの消えてしまいそうな笑顔を見捨てて、[r]
-ショッピングエリアで何をすればいい？[pcms]
+How can we abandon that fragile smile and what are we supposed to do[r]
+in the shopping area?[pcms]
 
 *1182|
 [fc]
-みんなのために命を懸けたフランク先輩に、[r]
-会わせる顔が無いんじゃないのか！？[pcms]
+Don't we owe it to Senior Frank, who risked his life for all of us, to[r]
+not show our faces?[pcms]
 
 *1183|
 [fc]
-僕は、自分の好きな人、[r]
-愛する人と一緒にいることも出来ないのか……！？[pcms]
+Can't I even stay with the person I like, the person I love...!?[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1184|
 [fc]
-[ns]誠[nse]
-「待って……待ってください……」[pcms]
+[ns]Makoto[nse]
+"Wait... please wait..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1185|
 [fc]
-[ns]稼津央[nse]
-「…………」[pcms]
+[ns]Kazuo[nse]
+"..."[pcms]
 
 *1186|
 [fc]
-滑り出したリムジンが二速から三速に変わりそうなところで、[r]
-稼津央さんが車を止めてくれる。[pcms]
+Just as the limousine was about to shift from second to third gear,[r]
+Natsu-san stopped the car for me.[pcms]
 
 ;//[quake time=500 hmax=0 vmax=1][wq]
 
 *1187|
 [fc]
-僕には……、[r]
-越智さんを見捨てることが出来ない……。[pcms]
+I can't... I can't abandon Ochi-san...[pcms]
 
 *1188|
 [fc]
-[ns]誠[nse]
-「降ります……すみません……」[pcms]
+[ns]Makoto[nse]
+"I'm getting off... sorry..."[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1189|
 [fc]
-[ns]荒井[nse]
-「くうっ……くううっ……」[pcms]
+[ns]Arai[nse]
+"Kuu... kuuu..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1190|
 [fc]
-[ns]稼津央[nse]
-「本当にいいのかい？」[pcms]
+[ns]Kazuo[nse]
+"Are you really sure about this?"[pcms]
 
 *1191|
 [fc]
-自暴自棄になって飛び出そうとしているのか、[r]
-稼津央さんが試すようにやさしい言葉を掛けてくる。[pcms]
+As if testing whether I was just being reckless, Natsu-san spoke to me[r]
+with gentle words.[pcms]
 
 *1192|
 [fc]
-心が折れそうだった。[r]
-感染者に食われて死ぬ最後なんて、絶対にお断りなんだけど……。[pcms]
+My heart was about to break. I absolutely refuse to die being eaten by[r]
+an infected...[pcms]
 
 *1193|
 [fc]
-でも……僕は……。[pcms]
+But... I...[pcms]
 
 *1194|
 [fc]
-[ns]誠[nse]
-「僕は……もう、４年前に全てを無くしました。[r]
-　これ以上、大切な人を失いたくないんです……」[pcms]
+[ns]Makoto[nse]
+"I... I already lost everything four years ago. I don't want to lose[r]
+anyone important to me anymore..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1195|
 [fc]
-[ns]稼津央[nse]
-「そうか……」[pcms]
+[ns]Kazuo[nse]
+"I see..."[pcms]
 
 [se buf=0 storage="seC035"]
 ;//♪SE集中ドアロックの音
 
 *1196|
 [fc]
-後部座席のロックが外れる。[r]
-僕は荒井を避けるようにしながらそのレバーに手を掛けた。[pcms]
+The lock on the back seat was released. I reached for the lever while[r]
+avoiding Arai.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so06a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1197|
 [fc]
-[ns]宗一郎[nse]
-「俺も……俺も……」[pcms]
+[ns]Souichirou[nse]
+"I also... I also..."[pcms]
 
 *1198|
 [fc]
-そーいちは、そう言いながら手足の震えを止めることが[r]
-出来ないみたいだった。[pcms]
+Souichirou seemed unable to stop his trembling hands and feet as he[r]
+said that.[pcms]
 
 *1199|
 [fc]
-僕は、その手に自分の手を重ねて、首を横に振った。[pcms]
+I placed my hand over his and shook my head.[pcms]
 
 *1200|
 [fc]
-[ns]誠[nse]
-「姉ちゃんによろしく伝えてくれ。頼んだぞ」[pcms]
+[ns]Makoto[nse]
+"Please give my regards to Onee-san. I'm counting on you."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so08a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1201|
 [fc]
-[ns]宗一郎[nse]
-「す、すま……すまん……すまん……」[pcms]
+[ns]Souichirou[nse]
+"I'm sorry... so sorry..."[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_ja1"][ChrSetParts layer=5 chface="F2_ar12"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1202|
 [fc]
-[ns]荒井[nse]
-「ぐうっ……くううっ……」[pcms]
+[ns]Arai[nse]
+"Guu... kuuu..."[pcms]
 
 ;//[black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *1203|
 [fc]
-これでいい。[r]
-最小限のリスクで越智さんを実家まで送り届けるんだ。[pcms]
+This is fine. We'll deliver Ochi-san home with the least risk[r]
+possible.[pcms]
 
 *1204|
 [fc]
-そーいちも荒井も立派だ。[r]
-僕はその気持ちをもらって行かなくちゃいけない。[pcms]
+Souichirou and Arai are admirable. I have to take their feelings with[r]
+me and go.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1205|
 [fc]
-[ns]稼津央[nse]
-「姉さんは屋敷の中じゃなく、裏手……、[r]
-　土蔵の方にあるラボにいるかも知れない」[pcms]
+[ns]Kazuo[nse]
+"Onee-san might be in the lab behind the mansion, not inside... near[r]
+the storehouse."[pcms]
 
 *1206|
 [fc]
-[ns]誠[nse]
-「わかりました」[pcms]
+[ns]Makoto[nse]
+"Understood."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1207|
 [fc]
-[ns]稼津央[nse]
-「茜梨をよろしく頼む」[pcms]
+[ns]Kazuo[nse]
+"Please take care of Akari."[pcms]
 
 [se buf=0 storage="seA027"]
 ;//♪SE自動車のドア開ける
@@ -831,62 +824,61 @@
 
 *1208|
 [fc]
-僕は自分の荷物とフランク先輩の形見の木製バットを持って、[r]
-車の外に降りた。[pcms]
+I took my belongings and Senior Frank's wooden bat, which was a[r]
+keepsake, and got out of the car.[pcms]
 
 [bg storage="BG06a"][trans_c cross time=500]
 
 *1209|
 [fc]
-越智さんが顔をくしゃくしゃにして、[r]
-僕の方を見ている。[pcms]
+Ochi-san was scrunching up her face, looking in my direction.[pcms]
 
 *1210|
 [fc]
-越智さんを見捨てようとして、[r]
-その過ちに気が付いただけの距離を軽く走る。[pcms]
+I ran a short distance, realizing the mistake of trying to abandon[r]
+Ochi-san.[pcms]
 
 *1211|
 [fc]
-越智さんとの距離が縮まることで、[r]
-罪が許されていくような気がした。[pcms]
+As the distance between me and Ochi-san closed, it felt as if my sins[r]
+were being forgiven.[pcms]
 
 *1212|
 [fc]
-[ns]誠[nse]
-「越智さん……」[pcms]
+[ns]Makoto[nse]
+"Ochi-san..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1213|
 [fc]
 [vo_aka s="akari0305"]
-[ns]茜梨[nse]
-「恐かったんです……本当は……」[pcms]
+[ns]Akari[nse]
+"I was really scared..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1214|
 [fc]
-僕はその華奢な身体を抱きしめると、[r]
-それ以上のことを言わせないように腕に力を込めた。[pcms]
+I hugged her delicate body tightly, making sure not to let her say[r]
+anything more.[pcms]
 
 ;//◆ＳＥ　車のクラックション
 
 *1215|
 [fc]
-稼津央さんは任せたぞと言わんばかりに[r]
-クラックションを鳴らすと、車を走らせていった。[pcms]
+As if to say he was leaving Akari in my care, Kazuo honked the horn[r]
+and drove off.[pcms]
 
 *1216|
 [fc]
-遠ざかるホワイトリムジンの姿を二人で見送る。[r]
-ここからは、僕が越智さんを守らなくちゃいけない。[pcms]
+We watched the white limousine drive away together. From here on out,[r]
+I have to protect Ochi-san.[pcms]
 
 *1217|
 [fc]
-固い決意を胸に、僕はその姿が見えなくなるまで、[r]
-リムジンを見送っていた。[pcms]
+With a firm resolve in my heart, I watched the limousine until it was[r]
+out of sight.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

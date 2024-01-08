@@ -4,7 +4,7 @@
 ;//登場人物	：主人公、出渕、越智、南、荒井
 ;//服装		：制服
 ;//日付		：7月16日
-;//時間		：午後15～16時くらい
+;//時間		：午後1516時くらい
 ;//場所		：学園/外観（昼）
 ;//予想容量	：全体を通して１８K前後
 ;//備考		：主人公一人称視点
@@ -22,96 +22,94 @@
 
 *1243|
 [fc]
-[ns]誠[nse]
-「ほら、コーヒーでいいか？」[pcms]
+[ns]Makoto[nse]
+"Hey, is coffee okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so15a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1244|
 [fc]
-[ns]宗一郎[nse]
-「コーヒーか……って、コーヒー！？」[pcms]
+[ns]Souichirou[nse]
+"Coffee, huh... wait, coffee?!"[pcms]
 
 *1245|
 [fc]
-[ns]誠[nse]
-「冗談だ、正午の紅茶だよ」[pcms]
+[ns]Makoto[nse]
+"Just kidding, it's tea for noon."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so26a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1246|
 [fc]
-[ns]宗一郎[nse]
-「危うく頷きかけるところだったわ」[pcms]
+[ns]Souichirou[nse]
+"I almost nodded in agreement there."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1247|
 [fc]
-喜び勇んでバク宙したまではいいが、[r]
-見事に着地失敗したそーいちは、頭を打ち、[r]
-ふらふらになって座り込んでいた。[pcms]
+Though he did a backflip with joy, Souichirou, who failed to land[r]
+properly, hit his head and was sitting dizzily on the ground.[pcms]
 
 *1248|
 [fc]
-保健室で借りてきたアイスオンを頭に当てながら、[r]
-自販機の紅茶をすすっている。[pcms]
+While applying an ice pack borrowed from the infirmary to his head, he[r]
+sipped on tea from the vending machine.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1249|
 [fc]
-[ns]宗一郎[nse]
-「あー……夏休みが楽しみだなぁ」[pcms]
+[ns]Souichirou[nse]
+"Ah... I'm really looking forward to summer vacation."[pcms]
 
 *1250|
 [fc]
-[ns]誠[nse]
-「まさか、こんなことになってるなんて、[r]
-　思いもしなかったよな」[pcms]
+[ns]Makoto[nse]
+"Who would have thought it would turn out like this."[pcms]
 
 *1251|
 [fc]
-チアリーディングの合宿に同行するだけじゃなくて、[r]
-南先輩とも一緒だ。[pcms]
+Not only accompanying the cheerleading camp but also being together[r]
+with Senior Minami.[pcms]
 
 *1252|
 [fc]
-そーいちじゃないけど、楽しい夏休みになりそうだった。[pcms]
+It wasn't just Souichirou; it seemed like it was going to be a fun[r]
+summer vacation.[pcms]
 
 *1253|
 [fc]
-[ns]宗一郎[nse]
-「景気づけに、ベスポジに行くか？」[pcms]
+[ns]Souichirou[nse]
+"How about we go to the best spot for a little morale boost?"[pcms]
 
 *1254|
 [fc]
-[ns]誠[nse]
-「この時間なら、ちょうどいいかもな」[pcms]
+[ns]Makoto[nse]
+"At this time, it might be just right."[pcms]
 
 *1255|
 [fc]
-[ns]宗一郎[nse]
-「よし、カメラを持っていくぞ」[pcms]
+[ns]Souichirou[nse]
+"Alright, I'll bring the camera."[pcms]
 
 *1256|
 [fc]
-そーいちは、地面の上で仰け反るように飛び起きると、[r]
-視聴覚室に向けて歩き出す。[pcms]
+Souichirou sprang up from the ground and started walking towards the[r]
+audio-visual room.[pcms]
 
 *1257|
 [fc]
-どうやら、すっかり回復したみたいだ。[pcms]
+It seems he has completely recovered.[pcms]
 
 *1258|
 [fc]
-演劇部がいたら少し気まずいけれど、[r]
-備品を取りに行くくらい許してくれるだろう。[pcms]
+It might be a bit awkward if the drama club is there, but they should[r]
+forgive us for just fetching some equipment.[pcms]
 
 *1259|
 [fc]
-僕もそーいちの後を追うように、[r]
-視聴覚室へ向かっていった。[pcms]
+I followed Souichirou towards the audio-visual room as well.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -121,95 +119,96 @@
 
 *1260|
 [fc]
-[ns]宗一郎[nse]
-「よしよし、今日もこの場所は最高に輝いているな」[pcms]
+[ns]Souichirou[nse]
+"Yes, yes, this place is shining at its best today as well."[pcms]
 
 *1261|
 [fc]
-[ns]誠[nse]
-「そうじゃなけば、ペスポジとは呼ばれないさ」[pcms]
+[ns]Makoto[nse]
+"If it weren't, it wouldn't be called the best spot."[pcms]
 
 *1262|
 [fc]
-ペストポジションといっても、股間の位置やアンテナの[r]
-受信具合の話じゃない。[pcms]
+The best position isn't about the location of one's crotch or how well[r]
+an antenna receives signals.[pcms]
 
 *1263|
 [fc]
-ここは、グラウンドや体育館で練習する各部活、[r]
-特にチアリーディング部の様子を見たり、[r]
-カメラに収めるときに、重宝する場所になっていた。[pcms]
+This place had become invaluable for watching and filming the[r]
+activities of various clubs practicing on the grounds or in the gym,[r]
+especially the cheerleading club.[pcms]
 
 *1264|
 [fc]
-視聴覚室から、一眼レフの付いたデジカメも[r]
-準備してきている。[pcms]
+From the audio-visual room, a digital camera with a single-lens reflex[r]
+was also prepared.[pcms]
 
 *1265|
 [fc]
-パソコンを買うお父さんに抱き合わせで売るような[r]
-どうでもいいのじゃなくて、現行のエントリーモデルだ。[pcms]
+It's not some irrelevant bundle sold to dads buying computers; it's a[r]
+current entry-level model.[pcms]
 
 *1266|
 [fc]
-学生に使わせる備品としては、少し高いかも知れないが、[r]
-僕らの通う鶯谷学園は、都立のわりに話のわかるところがあった。[pcms]
+It might be a bit expensive for school equipment, but Uguisudani[r]
+Academy, where we go, is quite understanding for a metropolitan[r]
+school.[pcms]
 
 *1267|
 [fc]
-渋谷駅から南、玉川通りを超えたところにある学園で、[r]
-北にある神南学園のように、統廃合でできた新しい校舎だ。[pcms]
+The academy is located south of Shibuya Station, beyond Tamagawa[r]
+Street, and like Kinnan Academy to the north, it has a new building[r]
+created from school consolidation.[pcms]
 
 *1268|
 [fc]
-制服がリボンだったりネクタイだったり、科によって差があるのは[r]
-その頃の名残だったりする。[pcms]
+The differences in uniforms, with ribbons or ties depending on the[r]
+department, are remnants of that time.[pcms]
 
 *1269|
 [fc]
-元々、公立の進学校が母体なので偏差値は高かった。[pcms]
+Originally being a public school focused on academic advancement, it[r]
+had a high deviation value.[pcms]
 
 *1270|
 [fc]
-卒業生からは、その後大臣になった政治家や、[r]
-音楽、文筆、演劇など文化系で名をなした人が多く、[r]
-今も文系の部活の活躍がめざましい。[pcms]
+Among its alumni are politicians who became ministers, as well as many[r]
+notable figures in music, writing, and theater; even now, the cultural[r]
+clubs are thriving.[pcms]
 
 *1271|
 [fc]
-一方、野球部が一回戦であっさり敗退したように、[r]
-スポーツはあまり強くなかった。[pcms]
+On the other hand, sports weren't very strong, as seen when the[r]
+baseball club was easily defeated in the first round.[pcms]
 
 *1272|
 [fc]
-敷地面積の広さの関係で、野球部とサッカー部は交代で[r]
-グラウンドを使っている。[pcms]
+Due to the size of the grounds, the baseball and soccer clubs take[r]
+turns using the field.[pcms]
 
 *1273|
 [fc]
-スポーツに力を入れている学園のように、授業は午前中までで、[r]
-後はずっと部活みたいなところに勝てるはずもなかった。[pcms]
+We couldn't possibly compete with schools that focus on sports and[r]
+have classes only in the morning, with club activities all afternoon.[pcms]
 
 *1274|
 [fc]
-それにしても、バスケとバレーはそこそこ、[r]
-ウエイトリフティングと柔道もそれなりなんだけど、[r]
-全国レベルまでは、まだ遠いようだ。[pcms]
+Even so, basketball and volleyball are decent, weightlifting and judo[r]
+are fair, but they're still far from national level.[pcms]
 
 *1275|
 [fc]
-そんな中、水泳は結構頑張っている方なんだけど、[r]
-オリンピック候補の呼び声も高い、[ruby text="かんなぎ"][ch text="神凪"] [ruby text="ゆうほ"][ch text="悠帆"][r]
-を擁する神南学園にはとても敵わなかった。[pcms]
+In contrast, swimming is doing quite well, but we can't match Kinnan[r]
+Academy, which boasts Yuuho, a candidate for the Olympics.[pcms]
 
 *1276|
 [fc]
-でも、僕の担当するチアリーディング部は、[r]
-なかなか強い。[pcms]
+However, the cheerleading club I'm in charge of is quite strong.[pcms]
 
 *1277|
 [fc]
-都の大会で優勝経験があるほどの、有望株だった。[pcms]
+It's a promising club with experience winning metropolitan[r]
+tournaments.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -225,77 +224,77 @@
 
 *1278|
 [fc]
-ベストポジションから、ファインダー越しに[r]
-チアリーディング部の練習を見守る。[pcms]
+From the best position, I watch over the cheerleading club's practice[r]
+through the viewfinder.[pcms]
 
 *1279|
 [fc]
-きっとそーいちも、三分割法の中心に、[r]
-僕と同じ被写体が写っていることだろう。[pcms]
+Surely Souichirou too has the same subject at the center of his rule[r]
+of thirds.[pcms]
 
 *1280|
 [fc]
-健康的な太ももに、ややふくらみ気味のドテ。[r]
-小柄なわりに、上下左右へと揺れるおっぱいは[r]
-ロリで巨乳という夢に後一歩でたどり着こうとしていた。[pcms]
+Healthy thighs and slightly bulging butt. Despite her petite frame,[r]
+her breasts sway left and right, up and down; she was one step away[r]
+from fulfilling the dream of being a loli with big breasts.[pcms]
 
 *1281|
 [fc]
-彼女の名前は[ruby text="お　ち"][ch text="越智"] [ruby text="あかり"][ch text="茜梨"]、僕の一個下で一年生だ。[pcms]
+Her name is Akari; she's one year junior to me and a first-year[r]
+student.[pcms]
 
 *1282|
 [fc]
 [vo_aka s="akari0001"]
-[ns]茜梨[nse]
-「Ｇｏ！　Ｇｏ！」[pcms]
+[ns]Akari[nse]
+"Go! Go!"[pcms]
 
 *1283|
 [fc]
-ハイブイからローブイ、そしてパンチアップ、Ｔ－モーションと[r]
-めまぐるしく動いて、アンスコをチラチラと見せていた。[pcms]
+From high V to low V, then punch up, T-motion, she moves swiftly,[r]
+giving a glimpse of her panties.[pcms]
 
 *1284|
 [fc]
 [vo_aka s="akari0002"]
-[ns]茜梨[nse]
-「Ｌｅｔ’ｓ Ｇｏ！」[pcms]
+[ns]Akari[nse]
+"Let's Go!"[pcms]
 
 *1285|
 [fc]
-音楽に合わせてポンポンを細かく振り、[r]
-腕と足をハードに上下させている。[pcms]
+She shakes her pom-poms finely in time with the music, moving her arms[r]
+and legs up and down vigorously.[pcms]
 
 *1286|
 [fc]
-そーいちに連れられて入部した新聞部で、[r]
-チアリーディング部の副担当になったのが運の尽き。[r]
-僕はたちまち彼女の大ファンになってしまった。[pcms]
+My luck ran out when I was brought into the newspaper club by[r]
+Souichirou and became the deputy in charge of the cheerleading club. I[r]
+quickly became a big fan of hers.[pcms]
 
 *1287|
 [fc]
-でも、僕と越智さんの出会いは、それよりも前、[r]
-去年の夏まで遡る。[pcms]
+But my encounter with Ochi-san dates back even further, to last[r]
+summer.[pcms]
 
 *1288|
 [fc]
-偶然、渋谷駅の前で越智さんを見かけた僕は、[r]
-名前も知らないその人に一目惚れしてしまっていた。[pcms]
+When I happened to see Ochi-san in front of Shibuya station, I fell in[r]
+love at first sight with her, not even knowing her name.[pcms]
 
 *1289|
 [fc]
-もちろん、声をかけるなんてことが出来るはずもなく、[r]
-後悔した日々を過ごしていたんだけれど、[r]
-運命の巡り合わせがまた訪れる。[pcms]
+Of course, I couldn't possibly approach her to speak, and I spent days[r]
+regretting it, but fate would bring us together again.[pcms]
 
 *1290|
 [fc]
-今年、新聞部でチアリーディング部の担当になって、[r]
-先輩と一緒に挨拶に行った日のことだ。[pcms]
+It was the day I became in charge of the cheerleading club in the[r]
+newspaper club and went to greet them with my senior.[pcms]
 
 *1291|
 [fc]
-みんな、おざなりか型どおりの返事しかくれなかった中、[r]
-深々とお辞儀をして挨拶してくれたのが越智さんだった。[pcms]
+While everyone else gave perfunctory or formulaic responses, it was[r]
+Ochi-san who bowed deeply and greeted us.[pcms]
 
 ;//m:ここから上手い事セピアっぽくしておきたい
 
@@ -308,52 +307,50 @@
 *1292|
 [fc]
 [vo_aka s="akari0003"]
-[ns]茜梨[nse]
-「越智茜梨と申します。今後とも宜しくお願いします」[pcms]
+[ns]Akari[nse]
+"I am Akari Ochi. I look forward to working with you."[pcms]
 
 *1293|
 [fc]
-再会できた幸運と、越智さんの声を初めて聞いたときの[r]
-衝撃は今でも忘れられない。[pcms]
+The joy of being able to meet again and the shock of hearing Ochi-[r]
+san's voice for the first time are unforgettable even now.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2_sp"][ChrSetParts layer=5 chface="F2_ak01_sp"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1294|
 [fc]
-例え、その後しばらく、同級生だと思っていたと[r]
-越智さんから聞いたときも、僕の心に揺らぎはなかった。[pcms]
+Even when I later heard from Ochi-san that she thought I was a[r]
+classmate for a while, my heart did not waver.[pcms]
 
 *1295|
 [fc]
-先輩じゃなくて、中澤君と呼んでくるからおかしいとは[r]
-思っていたんだけど、仲が深まる切っ掛けにも[r]
-なってくれたと思う。[pcms]
+I thought it was strange that she called me Nakazawa-kun instead of[r]
+senior, but I think it also became an opportunity for us to grow[r]
+closer.[pcms]
 
 *1296|
 [fc]
-チアリーディング部の花沢さんに付けられた、まー君という[r]
-[ruby text="あだな"][ch text="渾名"]は、背が低くて女顔であることを[r]
-揶揄したもので、初めは嫌な気分だった。[pcms]
+The nickname "Ma-kun" given to me by Hanazawa-san from the[r]
+cheerleading club is a jab at my short stature and feminine face, and[r]
+at first, it made me feel bad.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2_sp"][ChrSetParts layer=5 chface="F2_ak03_sp"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1297|
 [fc]
-でも、越智さんに呼ばれると不思議と嫌な感じもせず、[r]
-むしろ僕のお気に入りワードなってしまうんだから[r]
-人間って都合良くできている。[pcms]
+But strangely, when Ochi-san calls me that, I don't mind at all; in[r]
+fact, it has become one of my favorite words because humans are so[r]
+conveniently made.[pcms]
 
 *1298|
 [fc]
-以来、弟みたいな先輩として、まー君先輩と[r]
-呼ばれているわけだけど……。[r]
-越智さん、マジ天使。[pcms]
+Since then, I've been called "Ma-kun senior" as if I were a younger[r]
+brother... Ochi-san is seriously an angel.[pcms]
 
 *1299|
 [fc]
-あの事件が起きる前、好きだった人に[r]
-似ているというのもあるかもしれないが、[r]
-今はそんなこと関係なかった。[pcms]
+Before that incident happened, maybe it was because she resembled[r]
+someone I liked, but now that doesn't matter at all.[pcms]
 
 
 ;//m:セピアここまで
@@ -363,13 +360,14 @@
 
 *1300|
 [fc]
-そういえば、サッカー部のクラスメイトが、[r]
-変なことを言っていた気がする。[pcms]
+By the way, a classmate from the soccer club was saying something[r]
+strange.[pcms]
 
 *1301|
 [fc]
-エースの荒井が越智さんと幼なじみで仲がいいみたいだから、[r]
-あんまり近づくのはどうかな……とか。[pcms]
+"Since Arai from the ace team seems to be good friends with Ochi-san[r]
+from childhood, maybe you shouldn't get too close..." or something[r]
+like that.[pcms]
 
 ;//■イベントCG　akari_N001 チアリーディング茜梨
 [evcg storage="akari_N001a"][trans_c cross time=300]
@@ -377,142 +375,142 @@
 *1302|
 [fc]
 [vo_aka s="akari0004"]
-[ns]茜梨[nse]
-「Ｇｏ　Ｆｉｇｈｔ　Ｗｉｎ！」[pcms]
+[ns]Akari[nse]
+"Go Fight Win!"[pcms]
 
 *1303|
 [fc]
-越智さんが楽しそうに身体を動かしている。[r]
-僕までムズムズと身体を動かしたくなってくる光景だった。[pcms]
+Ochi-san is moving her body with joy. It's a sight that makes even me[r]
+itch to move my body.[pcms]
 
 *1304|
 [fc]
-学園の人気者同士、仲がいいのかどうか知らないけれど、[r]
-こっちだって新聞部の活動なんだ。[pcms]
+Whether they're good friends as popular figures of the school or not,[r]
+this is also part of the newspaper club's activities.[pcms]
 
 *1305|
 [fc]
-近づくなって言われても、どうすりゃいんだよ。[pcms]
+Even if they tell me not to get close, what am I supposed to do?[pcms]
 
 *1306|
 [fc]
-それに、越智さんも僕に懐いてくれている気がする。[pcms]
+Besides, I feel like Ochi-san has taken a liking to me.[pcms]
 
 *1307|
 [fc]
-彼女は誰にでも明るくて優しいから、[r]
-そう見えるだけなのかも知れないけれど。[pcms]
+She's bright and kind to everyone, so it might just seem that way.[pcms]
 
 *1308|
 [fc]
-[ns]宗一郎[nse]
-「ふ、太ももにチューしたい」[pcms]
+[ns]Souichirou[nse]
+"Huh, I want to kiss those thighs."[pcms]
 
 *1309|
 [fc]
-[ns]誠[nse]
-「僕は恥丘を口いっぱいに頬張りたい」[pcms]
+[ns]Makoto[nse]
+"I want to stuff her mound full in my mouth."[pcms]
 
 *1310|
 [fc]
-[ns]宗一郎[nse]
-「それはストレートすぎるだろ」[pcms]
+[ns]Souichirou[nse]
+"That's too straightforward."[pcms]
 
 *1311|
 [fc]
-[ns]誠[nse]
-「なら、冬山で遭難して、１時間ベロチューして温まりたい」[pcms]
+[ns]Makoto[nse]
+"Then, stranded on a winter mountain, I want to warm up with an hour-[r]
+long French kiss."[pcms]
 
 *1312|
 [fc]
-[ns]宗一郎[nse]
-「くそっ、お、俺は……」[pcms]
+[ns]Souichirou[nse]
+"Damn it, I..."[pcms]
 
 *1313|
 [fc]
-[ns]誠[nse]
-「初めてのときをムービーで撮って、[r]
-　これから１万円でオジサンと円光しますって言わせたい」[pcms]
+[ns]Makoto[nse]
+"I want to film our first time and make her say she's going to have[r]
+compensated dating with an old man for 10,000 yen."[pcms]
 
 *1314|
 [fc]
-[ns]宗一郎[nse]
-「なんだよ、その趣味は！　俺なら１０万だって出すぞ！」[pcms]
+[ns]Souichirou[nse]
+"What kind of taste is that! I'd pay 100,000 yen for that!"[pcms]
 
 *1315|
 [fc]
-[ns]誠[nse]
-「停電で止まったエレベータで、[r]
-　僕の丸めた上着に、我慢してたおしっこしてもらう」[pcms]
+[ns]Makoto[nse]
+"In an elevator stopped by a power outage, I want her to pee on my[r]
+rolled-up jacket that she's been holding in."[pcms]
 
 *1316|
 [fc]
-[ns]宗一郎[nse]
-「誠ばっかけりずるいじゃないか！[r]
-　俺だってアヘ顔ダブルピースさせたい！！」[pcms]
+[ns]Souichirou[nse]
+"Damn it, Makoto always gets the best ideas! I want to make her face[r]
+contort in ecstasy with a double peace sign!!"[pcms]
 
 *1317|
 [fc]
-[ns]誠[nse]
-「いきなり事後に飛ぶのは、どうかなぁ……」[pcms]
+[ns]Makoto[nse]
+"Jumping straight to after the act might be a bit much..."[pcms]
 
 *1318|
 [fc]
 [vo_stk s="satuki0001"]
 [ns]？？？[nse]
-「越智さんか～、君たち、ホント彼女のこと好きだよね～」[pcms]
+"Ochi-san huh~ You guys really like her, don't you~"[pcms]
 ;//彩月
 
 *1319|
 [fc]
-[ns]誠[nse]
-「最高だよ！」[pcms]
+[ns]Makoto[nse]
+"She's the best!"[pcms]
 
 *1320|
 [fc]
-[ns]宗一郎[nse]
-「デートしたい！」[pcms]
+[ns]Souichirou[nse]
+"I want to date her!"[pcms]
 
 *1321|
 [fc]
-[ns]誠[nse]
-「抱きしめたい！」[pcms]
+[ns]Makoto[nse]
+"I want to hold her tight!"[pcms]
 
 *1322|
 [fc]
-[ns]宗一郎[nse]
-「朝を迎えたい！」[pcms]
+[ns]Souichirou[nse]
+"I want to spend the morning with her!"[pcms]
 
 *1323|
 [fc]
-[ns]誠[nse]
-「彼女から生まれたい！」[pcms]
+[ns]Makoto[nse]
+"I want to be born from her!"[pcms]
 
 *1324|
 [fc]
 [vo_stk s="satuki0002"]
 [ns]？？？[nse]
-「やめといた方がいいんじゃないかなぁ～、[r]
-　彼女、倍率高いし、君たちには高嶺の花だと思うよ？」[pcms]
+"You might want to give up on that idea~ She's highly sought after,[r]
+and I think she's out of your league, you know?"[pcms]
 ;//彩月
 
 *1325|
 [fc]
-[ns]宗一郎[nse]
-「戦う前からあきらめるのか！」[pcms]
+[ns]Souichirou[nse]
+"Are you giving up before the battle even begins!"[pcms]
 
 *1326|
 [fc]
-[ns]誠[nse]
-「奇跡を奇跡と言っている時点で、奇跡なんて起こらないんだ！」[pcms]
+[ns]Makoto[nse]
+"By calling it a miracle, you're saying miracles don't happen!"[pcms]
 
 *1327|
 [fc]
-あれ……。[pcms]
+Uh-oh...[pcms]
 
 *1328|
 [fc]
-僕たちは誰としゃべっているんだ？[pcms]
+Who are we talking to?[pcms]
 
 [sysbt_meswin clear]
 ;//システムアイコン＆メッセージウィンドウ消去
@@ -525,13 +523,13 @@
 
 *1329|
 [fc]
-ファインダーから目を離し、声のする方を向くと、[r]
-そこには僕たちと同じように、写真の撮影をしている女性がいた。[pcms]
+When I took my eyes off the viewfinder and looked towards the source[r]
+of the voice, there was a woman taking photos just like us.[pcms]
 
 *1330|
 [fc]
-[ns]誠[nse]
-「南先輩！」[pcms]
+[ns]Makoto[nse]
+"Senior Minami!"[pcms]
 
 ;//■イベントCG　satuki_N001　撮影中の彩月
 [evcg storage="satuki_N001b"][trans_c cross time=500]
@@ -539,72 +537,74 @@
 *1331|
 [fc]
 [vo_stk s="satuki0003"]
-[ns]彩月[nse]
-「ハァイ、仲良く盗撮してるね」[pcms]
+[ns]Satsuki[nse]
+"Hi there, you guys are getting along well, taking sneaky photos."[pcms]
 
 *1332|
 [fc]
-チアー部の方にカメラを向けていた南先輩は、[r]
-ファインダーから目を離すと、軽く笑って見せた。[pcms]
+Senior Minami, who had been pointing her camera towards the[r]
+cheerleading squad, took her eyes off the viewfinder and gave a light[r]
+laugh.[pcms]
 
 [evcg storage="satuki_N001a"][trans_c cross time=500]
 
 *1332a|
 [fc]
-[ruby text="みなみ"][ch text="南"] [ruby text="さつき"][ch text="彩月"]先輩は、[r]
-チアー部の取材を担当している写真部の先輩だ。[pcms]
+Senior Satsuki is in charge of photographing the cheerleading squad[r]
+for the photography club.[pcms]
 
 *1333|
 [fc]
-新聞部のチアー記事は担当と副担当である僕が書くけれど、[r]
-掲載される写真は南先輩が撮ったものになる。[pcms]
+Although I'm responsible for writing the cheerleading articles for the[r]
+newspaper club, the photos that get published are taken by Senior[r]
+Minami.[pcms]
 
 *1334|
 [fc]
-気さくな性格で、根に持ったりストレスを当たり散らしたり、[r]
-そういうことのない明るい人だった。[pcms]
+She has a friendly personality and is a bright person who doesn't hold[r]
+grudges or scatter stress around.[pcms]
 
 *1335|
 [fc]
-しかも、写真の腕もなかなかいいみたいで、[r]
-昔、大きなコンクールで賞を取ったとかなんとか。[pcms]
+Moreover, it seems she's quite skilled at photography, having won an[r]
+award at a major competition in the past.[pcms]
 
 *1336|
 [fc]
-一緒に仕事をする上で、性格と腕が両方素晴らしいなんて、[r]
-文句の付けようもなかった。[pcms]
+It's perfect to work with someone who has both a great personality and[r]
+skills.[pcms]
 
 *1337|
 [fc]
-更に言うと、越智さんとも甲乙付けがたい、かなりの美人だ。[pcms]
+Furthermore, she's as beautiful as Ochi-san, if not more so.[pcms]
 
 *1338|
 [fc]
-水陸両用、遠近から範囲、光も闇も、力も知能も[r]
-全てカバーしてしまう才媛だった。[pcms]
+She's a talented woman who can handle both land and water, close and[r]
+far ranges, light and darkness, strength and intelligence.[pcms]
 
 *1339|
 [fc]
-当然、校内での人気も低いはずがない。[pcms]
+Naturally, her popularity within the school is not low.[pcms]
 
 *1340|
 [fc]
-同性からも異性からも好かれる、出来過ぎた人だと言える。[pcms]
+She's an overachiever who is liked by both genders.[pcms]
 
 *1341|
 [fc]
-春に、チアリーディング部の取材で一緒に仕事をしたことが[r]
-あったんだけど、担当の先輩が南先輩の気さくさを勘違いして、[r]
-惚れてしまうという事件があった。[pcms]
+Last spring, there was an incident where a senior in charge of[r]
+covering the cheerleading squad misunderstood Senior Minami's[r]
+friendliness and fell for her.[pcms]
 
 *1342|
 [fc]
-告白までしたんだけど、もちろん玉砕。[pcms]
+He even confessed his feelings, but of course, it was a complete[r]
+rejection.[pcms]
 
 *1343|
 [fc]
-軽い感じの人当たりの良さが、ウブな男に誤解を与えてしまう[r]
-罪作りな人なのかも知れない。[pcms]
+Her approachable demeanor might be sinfully misleading to naive boys.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -615,109 +615,110 @@
 *1344|
 [fc]
 [vo_stk s="satuki0004"]
-[ns]彩月[nse]
-「そういえば、合宿の話聞いたよ」[pcms]
+[ns]Satsuki[nse]
+"By the way, I heard about the training camp."[pcms]
 
 *1345|
 [fc]
-[ns]誠[nse]
-「南先輩は来られそうなんですか？」[pcms]
+[ns]Makoto[nse]
+"Senior Minami, will you be able to come?"[pcms]
 
 *1346|
 [fc]
-サッカー部の担当みたいに、みんながみんな暇なわけじゃない。[pcms]
+Not everyone is free like the soccer club's representative.[pcms]
 
 *1347|
 [fc]
-夏休みともなれば、色々と予定があったりするものだろう。[pcms]
+With summer vacation coming up, people must have various plans.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se2_a"][ChrSetParts layer=5 chface="f1_st30"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1348|
 [fc]
 [vo_stk s="satuki0005"]
-[ns]彩月[nse]
-「大神島は景色も良いし、かなり古い神社もあるから楽しみだよ」[pcms]
+[ns]Satsuki[nse]
+"Oogamijima has beautiful scenery and a very old shrine, so I'm[r]
+looking forward to it."[pcms]
 
 *1349|
 [fc]
-[ns]誠[nse]
-「やったっ！」[pcms]
+[ns]Makoto[nse]
+"Yes!"[pcms]
 
 *1350|
 [fc]
-[ns]宗一郎[nse]
-「うっす、ご一緒できて光栄です。[r]
-　お世話になります」[pcms]
+[ns]Souichirou[nse]
+"Yes sir, it's an honor to be able to join you. I'll be in your care."[pcms]
 
 *1351|
 [fc]
-どうやら本格的に凄い夏休みになってきたぞ。[r]
-一人で悶々と過ごしていた日々が嘘のようだ。[pcms]
+It seems this summer vacation is shaping up to be truly amazing. It's[r]
+hard to believe I used to spend my days fretting alone.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se2_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1352|
 [fc]
 [vo_stk s="satuki0006"]
-[ns]彩月[nse]
-「夏期のコンクールに出す写真を色々撮れそうだよね。[r]
-　しかも部費で出かけられるんだから、言うことないって」[pcms]
+[ns]Satsuki[nse]
+"I'll be able to take lots of photos for the summer competition. Plus,[r]
+we get to go out using the club budget, so there's nothing to complain[r]
+about."[pcms]
 
 *1353|
 [fc]
-[ns]誠[nse]
-「取材って言っても、一日中じゃないでしょうし、[r]
-　休みだってありますよね」[pcms]
+[ns]Makoto[nse]
+"Even if we say it's for coverage, it won't be all day long, right?[r]
+There will be breaks too."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se2_b"][ChrSetParts layer=5 chface="f1_st27"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1354|
 [fc]
 [vo_stk s="satuki0007"]
-[ns]彩月[nse]
-「でも、さっき話してたみたいなことには[r]
-　ならないと思うけどね？」[pcms]
+[ns]Satsuki[nse]
+"But I don't think it'll turn out like the conversation you guys were[r]
+having earlier?"[pcms]
 
 *1355|
 [fc]
-僕とむっつりデブの会話を聞かれてしまったんだった。[r]
-南先輩といえど、女の子に聞かれてしまうのは恥ずかしい。[pcms]
+She must have overheard the conversation between me and the gloomy[r]
+fatso. Even if it's Senior Minami, it's embarrassing to have a girl[r]
+hear that kind of talk.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1356|
 [fc]
-[ns]宗一郎[nse]
-「もちろん、紳士たる者、そういうことは[r]
-　想像にとどめておきますとも」[pcms]
+[ns]Souichirou[nse]
+"Of course, as gentlemen, we keep such thoughts to our imagination."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se2_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1357|
 [fc]
 [vo_stk s="satuki0008"]
-[ns]彩月[nse]
-「紳士って、変態って意味じゃなかったっけ？」[pcms]
+[ns]Satsuki[nse]
+"Gentlemen? Wasn't that just another word for pervert?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so26a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1358|
 [fc]
-[ns]宗一郎[nse]
-「ち、違いますよ！　そっちじゃなくて、[r]
-　英国紳士の方です！」[pcms]
+[ns]Souichirou[nse]
+"No, no! Not that kind of gentleman, but rather like an English[r]
+gentleman!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1359|
 [fc]
-南先輩がそんなスラングを知っているとは驚きだった。[pcms]
+I was surprised that Senior Minami knew such slang.[pcms]
 
 *1360|
 [fc]
-交友関係が広そうだから、入ってくる情報も[r]
-多岐にわたるのかも知れない。[pcms]
+Given her wide social circle, she must receive a variety of[r]
+information.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se2_a"][ChrSetParts layer=3 chface="f1_st08"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so26a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
@@ -725,61 +726,58 @@
 *1361|
 [fc]
 [vo_stk s="satuki0009"]
-[ns]彩月[nse]
-「ところで、さっきから聞いていると、そーいち君も[r]
-　来るみたいに聞こえるんだけど……」[pcms]
+[ns]Satsuki[nse]
+"By the way, from what I've been hearing, it sounds like Souichi-kun[r]
+will be coming too...?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so19b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1362|
 [fc]
-[ns]宗一郎[nse]
-「聞いてください！　色香に迷った並み居る浪人どもを、[r]
-　千切っては投げ、千切っては投げ、じゃんけんで[r]
-　勝ち取りました！」[pcms]
+[ns]Souichirou[nse]
+"Listen! I've won the right through rock-paper-scissors after tearing[r]
+through and tossing aside all those lovestruck ronin!"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se2_a"][ChrSetParts layer=3 chface="f1_st06"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1363|
 [fc]
 [vo_stk s="satuki0010"]
-[ns]彩月[nse]
-「副部長なのに、どうしてなの？」[pcms]
+[ns]Satsuki[nse]
+"Even though you're the vice president, why is that?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so04a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1364|
 [fc]
-まるでそーいちに来て欲しくないみたいに、[r]
-つれないことを言う。[pcms]
+It's as if she doesn't want Souichi to come, saying such cold things.[pcms]
 
 *1365|
 [fc]
-弄って楽しんでいるんだろうけれど、[r]
-ちょっと小悪魔チックだ。[pcms]
+She's probably just teasing and having fun, but it's a bit devilish.[pcms]
 
 *1366|
 [fc]
-[ns]誠[nse]
-「サッカー部が大神島で合宿をするじゃないですか。[r]
-　その担当が忙しいそうなんですよ」[pcms]
+[ns]Makoto[nse]
+"The soccer club is having a training camp on Oogamijima. It seems[r]
+their person in charge is busy."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so03a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1367|
 [fc]
-[ns]宗一郎[nse]
-「俺はその代理です。もちろん、副部長として、[r]
-　ビシビシ指揮も執りますけどね」[pcms]
+[ns]Souichirou[nse]
+"I'm the substitute. Of course, as the vice president, I'll be taking[r]
+command vigorously."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se2_a"][ChrSetParts layer=3 chface="f1_st22"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1368|
 [fc]
 [vo_stk s="satuki0011"]
-[ns]彩月[nse]
-「えー、デブ君が指揮を執るの？[r]
-　来なくていいのに」[pcms]
+[ns]Satsuki[nse]
+"Eh, the chubby guy will be taking command? We'd be better off without[r]
+him coming."[pcms]
 
 
 ;//宗一郎右＠制服　表情26Ａギャグ不満　　;//
@@ -787,27 +785,27 @@
 
 *1369|
 [fc]
-[ns]宗一郎[nse]
-「そんなこと言ったら、俺がかわいそうじゃないですか！[r]
-　南先輩も、色々妄想しちゃいますよ！」[pcms]
+[ns]Souichirou[nse]
+"If you say such things, I'll feel pitiful! Senior Minami, you'll[r]
+start fantasizing about all sorts of things!"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se2_a"][ChrSetParts layer=3 chface="f1_st03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1370|
 [fc]
 [vo_stk s="satuki0012"]
-[ns]彩月[nse]
-「ふふっ、英国紳士じゃなかったの？」[pcms]
+[ns]Satsuki[nse]
+"Hehe, weren't you an English gentleman?"[pcms]
 
 *1371|
 [fc]
-そーいちも、南先輩のおふざけに付き合うように、[r]
-調子を合わせている。[pcms]
+Souichi is also going along with Senior Minami's teasing, matching her[r]
+tone.[pcms]
 
 *1372|
 [fc]
-僕はおかしさを堪えながら、再びカメラを構えて[r]
-チアー部の方をのぞき込んだ。[pcms]
+I hold back my laughter and once again raise my camera to peek at the[r]
+cheerleading squad.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -820,56 +818,57 @@
 
 *1373|
 [fc]
-南先輩と話しているうちに、練習が一段落して[r]
-休憩に入ったらしい。[pcms]
+While talking with Senior Minami, it seems they've finished practice[r]
+and are taking a break.[pcms]
 
 *1374|
 [fc]
-越智さんは、むっちりとしたお尻をこちらに向けて、[r]
-なにかバッグを漁っているみたいだった。[pcms]
+"Her plump butt is turned this way, and it looks like she's rummaging[r]
+through her bag."[pcms]
 
 *1375|
 [fc]
-この油断しきっている、無防備な感じがたまらない。[pcms]
+This completely off-guard, vulnerable look is irresistible.[pcms]
 
 *1376|
 [fc]
-覗くっていう行為は、男の琴線に触れるなにかがあると、[r]
-僕はこのとき確信した。[pcms]
+Peeking is an act that touches something in a man's heartstrings, I[r]
+was convinced of that at this moment.[pcms]
 
 *1377|
 [fc]
-肉感的でまろやかなお尻の曲線が、[r]
-短いスカートに包まれているのがいい。[pcms]
+The sensual and smooth curve of her butt wrapped in a short skirt is[r]
+just perfect.[pcms]
 
 *1378|
 [fc]
-裸よりも、着衣の方がエロいって言うけれど、[r]
-僕はどっちも見たいと思ってしまう。[pcms]
+They say that clothes are more erotic than nudity, but I want to see[r]
+both.[pcms]
 
 *1379|
 [fc]
-越智さんとエッチをするなら、初めは完全着衣で[r]
-あちこちに擦りつけた後、一発中出し。[pcms]
+If I were to have sex with Akari-san, I'd start fully clothed, rubbing[r]
+against her here and there before cumming inside her once.[pcms]
 
 *1380|
 [fc]
-その後、少しずつ脱がしながら半脱ぎで二発目。[pcms]
+Then, slowly undressing her for the second round while she's half-[r]
+naked.[pcms]
 
 *1381|
 [fc]
-最後は生まれたままの姿を存分に堪能してから、[r]
-三発目が相当だろう。[pcms]
+Finally, fully enjoying her naked form before going for the third[r]
+round seems appropriate.[pcms]
 
 *1382|
 [fc]
-着衣のまま乱れる越智さんもたまらないし、[r]
-半脱ぎのエロい姿も捨てがたい。[pcms]
+The sight of Akari-san disheveled while still dressed is irresistible,[r]
+and her erotic half-naked appearance is also hard to give up.[pcms]
 
 *1383|
 [fc]
-全裸になって僕の前に佇むってことの意味を聞きながら、[r]
-羞恥にまみれる越智さんをたっぷりとかわいがりたかった。[pcms]
+I wanted to thoroughly spoil Akari-san, who would be covered in shame[r]
+while I ask her about the meaning of standing naked before me.[pcms]
 
 ;//◆ＳＥ　心臓の鼓動の音とか目があってドキッとする効果とか？
 ;//seB023.ogg
@@ -879,8 +878,8 @@
 
 *1384|
 [fc]
-僕が、そのぷにっとした恥丘のふくらみに目を奪われていると、[r]
-ファインダー越しに振り返った越智さんと目が合ってしまう。[pcms]
+As I was captivated by the plump mound of her mons pubis, Akari-san[r]
+turned around through the viewfinder and our eyes met.[pcms]
 
 ;//BGM即時停止
 [fadeoutbgm time=500]
@@ -895,47 +894,46 @@
 
 *1385|
 [fc]
-[ns]誠[nse]
-「い゛っ……」[pcms]
+[ns]Makoto[nse]
+"Gah...!"[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c tb time=300][hide_chara_int]
 
 *1386|
 [fc]
-意識が途切れそうな衝撃が僕を襲った。[pcms]
+A shock that felt like it could make me lose consciousness hit me.[pcms]
 
 *1387|
 [fc]
-自分で意識している場所よりも、[r]
-頭が数センチ横にずれた感覚だ。[pcms]
+It felt as if my head had shifted a few centimeters from where I was[r]
+consciously focusing.[pcms]
 
 *1388|
 [fc]
-越智さんに集中していた僕は、[r]
-完璧にその奇襲を喰らってしまっていた。[pcms]
+I was so focused on Akari-san that I completely took the surprise hit.[pcms]
 
 ;//seB013.ogg
 [se buf=0 storage="seB013"]
 
 *1389|
 [fc]
-バランスを崩して地面に倒れるのがわかる。[pcms]
+I can feel myself losing balance and falling to the ground.[pcms]
 
 *1390|
 [fc]
-なんで？　どうして？[pcms]
+Why? How come?[pcms]
 
 *1391|
 [fc]
-なにもわからないまま、僕は下敷きになった自分の腕を[r]
-かわいそうだなんて、考えていた。[pcms]
+Without understanding anything, I found myself pitying my own arm that[r]
+I had fallen on.[pcms]
 
 *1392|
 [fc]
 [ns]？？？[nse]
-「おっと、足がすべっちまった。[r]
-　こんなシュートを外してるようじゃ、俺もまだまだだな」[pcms]
+"Oops, slipped there. If I'm missing shots like that, I still have a[r]
+long way to go."[pcms]
 
 ;//荒井
 
@@ -944,14 +942,13 @@
 
 *1392a|
 [fc]
-[ns]宗一郎[nse]
-「大丈夫か！　しっかりしろ！」[pcms]
+[ns]Souichirou[nse]
+"Are you okay? Hang in there!"[pcms]
 
 *1393|
 [fc]
-打ったのが頭だからだろうか。[r]
-そーいちは、俺をなるべく動かさないように[r]
-楽な姿勢にしてくれる。[pcms]
+Maybe because it hit my head, Souichi is trying to keep me from moving[r]
+too much and is putting me in a comfortable position.[pcms]
 
 
 ;//彩月大＠制服カメラ無しポーズＡ　表情06怒り１　　　;//
@@ -959,32 +956,30 @@
 *1394|
 [fc]
 [vo_stk s="satuki0013"]
-[ns]彩月[nse]
-「ちょっと、荒井君。その前に言うことがあるんじゃないの？」[pcms]
+[ns]Satsuki[nse]
+"Hey, Arai-kun. Shouldn't you be saying something before that?"[pcms]
 
 
 ;//荒井中＠ユニフォ　表情08　楽　;//
 
 *1394a|
 [fc]
-[ns]荒井[nse]
-「あれ？　なんかぶつかったと思ったら人だったのか。[r]
-　小さくてわからなかったよ、悪い悪い」[pcms]
+[ns]Arai[nse]
+"Huh? I thought I hit something with the ball; didn't realize it was a[r]
+person. Sorry about that, you're so small I didn't see you."[pcms]
 
 *1395|
 [fc]
-段々頭がハッキリとしてくる。[pcms]
+Gradually my head starts to clear up.[pcms]
 
 *1396|
 [fc]
-サッカー部の荒井が蹴ったボールが、[r]
-頭にぶつかったのか……。[pcms]
+The ball kicked by Arai from the soccer club must have hit my head...[pcms]
 
 *1397|
 [fc]
-プロの選手だって失神することがあるんだから、[r]
-不意打ちでもらった僕がこうなるのは、[r]
-仕方がないはずだ。[pcms]
+Even professional players sometimes get knocked out, so it's no wonder[r]
+I ended up like this after an unexpected blow.[pcms]
 
 ;//bgm08.ogg
 [bgm storage="BGM08"]
@@ -996,91 +991,88 @@
 *1398|
 [fc]
 [vo_aka s="akari0005"]
-[ns]茜梨[nse]
-「中澤先輩、大丈夫ですか！？」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai, are you okay!?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1399|
 [fc]
-あ……越智さんの脚だ。[pcms]
+Ah... those are Akari-san's legs.[pcms]
 
 *1400|
 [fc]
-僕が倒れるのを見ていたんだろうか？[pcms]
+"Was she watching me fall?"[pcms]
 
 *1401|
 [fc]
-僕の側に屈んで心配してくれている越智さんが、[r]
-何故かすごく心強かった。[pcms]
+"Having Ochi-san by my side, looking worried as she crouched down, was[r]
+somehow very reassuring."[pcms]
 
 [ChrSetEx layer=4 chbase="ar1_yu"][ChrSetParts layer=4 chface="F1_ar13"][ChrSetXY layer=4 x=600 y=0]
 [ChrSetEx layer=5 chbase="ak1_che"][ChrSetParts layer=5 chface="F1_ak11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1402|
 [fc]
-[ns]荒井[nse]
-「茜梨ちゃん、そんなの放っておきなよ。[r]
-　どうせ、心配してもらおうとして[r]
-　大げさに倒れてるだけなんだから」[pcms]
+[ns]Arai[nse]
+"Akane-chan, just leave that alone. He's probably just exaggerating to[r]
+get some attention."[pcms]
 
 *1403|
 [fc]
 [vo_aka s="akari0006"]
-[ns]茜梨[nse]
-「で、でも……」[pcms]
+[ns]Akari[nse]
+"But, still..."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se2_a"][ChrSetParts layer=3 chface="f1_st27"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1404|
 [fc]
 [vo_stk s="satuki0014"]
-[ns]彩月[nse]
-「ふーん、荒井君のシュートって、[r]
-　その程度のパワーしかないんだ」[pcms]
+[ns]Satsuki[nse]
+"Hmph, so Arai-kun's shots only have that much power."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se2_a"][ChrSetParts layer=3 chface="f1_st11"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1405|
 [fc]
-越智さんは戸惑っているけれど、[r]
-南先輩の声には少し険がある。[pcms]
+"Ochi-san seems confused, but there's a sharpness in Satsuki-senpai's[r]
+voice."[pcms]
 
 *1406|
 [fc]
-これは……ミスキックじゃないな。[pcms]
+"This wasn't a mis-kick."[pcms]
 
 *1407|
 [fc]
 [vo_aka s="akari0007"]
-[ns]茜梨[nse]
-「南先輩の言う通りだよ……。[r]
-　荒井先輩はサッカー上手だから、ボールが当たったら痛いもん」[pcms]
+[ns]Akari[nse]
+"Satsuki-senpai is right... Arai-senpai is good at soccer, so it hurts[r]
+when the ball hits you."[pcms]
 
 [ChrSetEx layer=4 chbase="ar1_yu"][ChrSetParts layer=4 chface="F1_ar06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1408|
 [fc]
-[ns]荒井[nse]
-「おいおい、荒井先輩なんて呼ばないでくれよ。[r]
-　俺たち幼なじみだろ？　いつもみたいに[r]
-　呼んでくれればいいんだって」[pcms]
+[ns]Arai[nse]
+"Hey, hey, don't call me 'senpai'. We're childhood friends, right?[r]
+Just call me like you always do."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1409|
 [fc]
 [vo_aka s="akari0008"]
-[ns]茜梨[nse]
-「いつも、荒井先輩って呼んでます……」[pcms]
+[ns]Akari[nse]
+"I always call you 'Arai-senpai'..."[pcms]
 
 *1410|
 [fc]
-どうやら、クラスメイトの忠告は本当だったらしい。[pcms]
+"It seems the advice from my classmates was true."[pcms]
 
 *1411|
 [fc]
-越智さんと荒井先輩が幼なじみだったとは。[pcms]
+"I had no idea Ochi-san and Arai-senpai were childhood friends."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1088,39 +1080,37 @@
 
 *1412|
 [fc]
-[ns]宗一郎[nse]
-「こういうのは感心しないな。[r]
-　取りあえずスポーツマンシップに乗っ取って、[r]
-　一言あるべきじゃないのか？」[pcms]
+[ns]Souichirou[nse]
+"I don't admire this kind of behavior. Shouldn't you say something in[r]
+line with sportsmanship?"[pcms]
 
 *1413|
 [fc]
-[ns]誠[nse]
-「いや、もう大丈夫だよ……あててっ！」[pcms]
+[ns]Makoto[nse]
+"No, I'm fine now... Ouch!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1414|
 [fc]
-起きあがろうとしたら、急激に頭が痛んだ。[pcms]
+"When I tried to get up, my head suddenly started hurting a lot."[pcms]
 
 *1415|
 [fc]
-もう少し横になっていた方が良さそうだ。[pcms]
+"It seems better to lie down for a bit longer."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_che"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1416|
 [fc]
 [vo_aka s="akari0009"]
-[ns]茜梨[nse]
-「大丈夫ですか、中澤先輩。[r]
-　保健の先生呼んできますか？」[pcms]
+[ns]Akari[nse]
+"Are you okay, Nakazawa-senpai? Should I call the school nurse?"[pcms]
 
 *1417|
 [fc]
-[ns]誠[nse]
-「いや、大丈夫。自分で歩けるようになるから」[pcms]
+[ns]Makoto[nse]
+"No, I'm fine. I'll be able to walk on my own soon."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1129,33 +1119,32 @@
 
 *1418|
 [fc]
-[ns]荒井[nse]
-「どうせ、いやらしい目でチアー部の練習を見てたんだろう？[r]
-　取材だの写真だのかこつけやがって、ムカつくんだよ」[pcms]
+[ns]Arai[nse]
+"You were probably just leering at the cheerleading practice with[r]
+dirty thoughts, weren't you? Pretending to be taking pictures and[r]
+interviewing, it pisses me off."[pcms]
 
 *1419|
 [fc]
-ああ……どうやら僕はこの男の目の敵にされているらしい。[pcms]
+"Ah... it seems I've become this guy's enemy."[pcms]
 
 *1420|
 [fc]
-越智さんに向けてカメラを向けていたのが、[r]
-気に入らなかったんだろうな。[pcms]
+"He must not have liked that I was pointing my camera at Ochi-san."[pcms]
 
 *1421|
 [fc]
 [vo_aka s="akari0010"]
-[ns]茜梨[nse]
-「私たち、今、休憩してました。[r]
-　いやらしい目でなんて……」[pcms]
+[ns]Akari[nse]
+"We were actually taking a break just now. It's not like we were[r]
+looking with lewd intentions..."[pcms]
 
 *1422|
 [fc]
 [vo_han s="hana0001"]
-[ns]花沢[nse]
-「どうしたの、越智さん。[r]
-　休憩するときはしっかり休憩してもらわないと、[r]
-　チームに影響が出るでしょ？」[pcms]
+[ns]Hanazawa[nse]
+"What's wrong, Ochi-san? If you're taking a break, you should rest[r]
+properly or it'll affect the team."[pcms]
 
 ;//m:声だけ
 
@@ -1166,32 +1155,30 @@
 *1423|
 [fc]
 [vo_aka s="akari0011"]
-[ns]茜梨[nse]
-「すみません……でも、新聞部の担当の方が[r]
-　怪我をしたみたいで……」[pcms]
+[ns]Akari[nse]
+"I'm sorry... but it seems like someone from the newspaper club got[r]
+hurt..."[pcms]
 
 [ChrSetEx layer=5 chbase="ha1_che_a"][ChrSetParts layer=5 chface="F1_ha04"][ChrSetXY layer=5 x=330 y=0][trans_c cross time=150]
 
 *1424|
 [fc]
 [vo_han s="hana0002"]
-[ns]花沢[nse]
-「そんなの放っておきなさいよ、[r]
-　荒井君にも迷惑が掛かるでしょ」[pcms]
+[ns]Hanazawa[nse]
+"Just leave that be. You'll only cause trouble for Arai-kun."[pcms]
 
 *1425|
 [fc]
-ここで荒井の名前が出て来るか。[pcms]
+"So Hanazawa-san brings up Arai's name here."[pcms]
 
 *1426|
 [fc]
-噂だけど、この花沢さんは荒井と付き合っていると[r]
-聞いたことがある。[pcms]
+"I've heard rumors that Hanazawa-san is dating Arai."[pcms]
 
 *1427|
 [fc]
-でも、今の様子を見る限りだと、荒井は越智さんに[r]
-気があるような……。[pcms]
+"But judging from the current situation, it seems like Arai might be[r]
+interested in Ochi-san..."[pcms]
 
 ;//◆明言はしていませんが、花沢さんは主人公と同じクラスだったはずなので、荒井とも同じクラスに
 
@@ -1199,8 +1186,8 @@
 
 *1428|
 [fc]
-[ns]荒井[nse]
-「迷惑って言うか、ウザイんだけどな」[pcms]
+[ns]Arai[nse]
+"Trouble? More like annoying."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st2_se2_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -1208,17 +1195,16 @@
 *1429|
 [fc]
 [vo_stk s="satuki0015"]
-[ns]彩月[nse]
-「それは、わざと当てたって認めたのかしら？」[pcms]
+[ns]Satsuki[nse]
+"Are you admitting that you hit him on purpose?"[pcms]
 
 *1430|
 [fc]
-南先輩の言葉に、荒井が軽く笑って答える。[pcms]
+"Arai responds with a light laugh to Satsuki-senpai's words."[pcms]
 
 *1431|
 [fc]
-その仕草に、そーいちが腹を立てたように[r]
-食ってかかっていた。[pcms]
+"Souichirou seems to be getting angry at his gesture."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="so1_se_a"][ChrSetParts layer=3 chface="F1_so04a"][ChrSetXY layer=3 x=0 y=0]
@@ -1226,56 +1212,55 @@
 
 *1432|
 [fc]
-[ns]宗一郎[nse]
-「荒井は眼鏡を掛けたことがあるか？」[pcms]
+[ns]Souichirou[nse]
+"Have you ever worn glasses, Arai?"[pcms]
 
 *1433|
 [fc]
-[ns]荒井[nse]
-「ないけど？」[pcms]
+[ns]Arai[nse]
+"No, why?"[pcms]
 
 [ChrSetEx layer=3 chbase="so1_se_a"][ChrSetParts layer=3 chface="F1_so19a"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1434|
 [fc]
-[ns]宗一郎[nse]
-「眼鏡を掛けた人間の顔面を殴るということは、[r]
-　失明の危険を犯すということだぞ？」[pcms]
+[ns]Souichirou[nse]
+"Hitting someone in the face who wears glasses could risk causing[r]
+blindness, you know?"[pcms]
 
 [ChrSetEx layer=4 chbase="ar1_yu"][ChrSetParts layer=4 chface="F1_ar12"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1435|
 [fc]
-荒井先輩は何を大げさなと、言わんばかりに[r]
-肩をすくめてみせた。[pcms]
+"Arai-senpai shrugged his shoulders as if to say what an[r]
+exaggeration."[pcms]
 
 [ChrSetEx layer=3 chbase="so1_se_a"][ChrSetParts layer=3 chface="F1_so05a"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1436|
 [fc]
-眼鏡を掛けたことがない人にはわからないだろうけれど、[r]
-そーいちの言う通り、それなりに恐いことだ。[pcms]
+"People who have never worn glasses might not understand, but[r]
+Souichirou is right; it can be quite scary."[pcms]
 
 *1437|
 [fc]
-今回は、カメラを構えていたのと、[r]
-横からぶつかったのとで、大事にはなっていないけど……。[pcms]
+"This time, because I was holding the camera and the hit came from the[r]
+side, it didn't turn into a big deal..."[pcms]
 
 [ChrSetEx layer=4 chbase="ar1_yu"][ChrSetParts layer=4 chface="F1_ar06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1438|
 [fc]
-[ns]荒井[nse]
-「出渕、お前もこんなのと“つる”んで、[r]
-　しょうもないことしてんじゃねえよ」[pcms]
+[ns]Arai[nse]
+"Izubuchi, don't hang around with this loser and waste your time on[r]
+pointless things."[pcms]
 
 [ChrSetEx layer=3 chbase="so1_se_a"][ChrSetParts layer=3 chface="F1_so04a"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1439|
 [fc]
-[ns]宗一郎[nse]
-「こんなの、とは誰のことなんだろうか。[r]
-　俺にはわかりかねるが」[pcms]
+[ns]Souichirou[nse]
+"Who is 'this loser' you're talking about? I can't quite grasp it."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st1_se2_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -1283,26 +1268,27 @@
 *1440|
 [fc]
 [vo_stk s="satuki0016"]
-[ns]彩月[nse]
-「謝る気はないわけか。[r]
-　それで丸く収まるのに、まるで子供ね」[pcms]
+[ns]Satsuki[nse]
+"So you have no intention of apologizing. It could all be settled so[r]
+easily, you're acting like a child."[pcms]
 
 *1441|
 [fc]
-南先輩は荒井に一言謝らせて、[r]
-早々に退場してもらいたいみたいだった。[pcms]
+It seemed like Satsuki-senpai wanted Arai to apologize with just a[r]
+word and leave the scene quickly.[pcms]
 
 *1442|
 [fc]
-でも、その言葉を引きずり出すのは難しい気がする。[pcms]
+But I have a feeling that dragging that word out of him would be[r]
+difficult.[pcms]
 
 [ChrSetEx layer=5 chbase="ar1_yu"][ChrSetParts layer=5 chface="F1_ar08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1443|
 [fc]
-[ns]荒井[nse]
-「いやはや、俺が悪者ですか。[r]
-　茜梨ちゃんをいやらしい目から救ってあげたんだけどな」[pcms]
+[ns]Arai[nse]
+"Well, well, am I the bad guy here? I was just saving Akari-chan from[r]
+lecherous eyes."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ak1_che"][ChrSetParts layer=3 chface="F1_ak21"][ChrSetXY layer=3 x=0 y=0]
@@ -1311,89 +1297,87 @@
 *1444|
 [fc]
 [vo_han s="hana0003"]
-[ns]花沢[nse]
-「…………」[pcms]
+[ns]Hanazawa[nse]
+"..."[pcms]
 
 *1445|
 [fc]
 [vo_aka s="akari0012"]
-[ns]茜梨[nse]
-「もう、やめてください。[r]
-　喧嘩しないで、荒井先輩も練習中ですよね？」[pcms]
+[ns]Akari[nse]
+"Please, stop it. Don't fight. Arai-senpai, you're in the middle of[r]
+practice too, right?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ar2_yu"][ChrSetParts layer=5 chface="F2_ar02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1446|
 [fc]
-[ns]荒井[nse]
-「フッ……」[pcms]
+[ns]Arai[nse]
+"Hmph..."[pcms]
 
 *1447|
 [fc]
-小馬鹿にするような鼻で笑うその仕草は、[r]
-僕に対してのものだろう。[pcms]
+His gesture of laughing through his nose in a mocking way must be[r]
+directed at me.[pcms]
 
 *1448|
 [fc]
-なにせ、僕は一言も返していないからな。[pcms]
+After all, I haven't said a word back.[pcms]
 
 *1449|
 [fc]
-もしかしたら、僕を挑発していたのかも知れない。[r]
-相手をする気にはなれないけれど。[pcms]
+Maybe he's trying to provoke me. I don't feel like engaging with him[r]
+though.[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_yu"][ChrSetParts layer=5 chface="F2_ar08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1450|
 [fc]
-[ns]荒井[nse]
-「この辺りに、看板でも立てておくか。[r]
-　サッカー部練習中につき、危険ですってな。[r]
-　そうすれば、変なのも寄ってこなくなるだろ」[pcms]
+[ns]Arai[nse]
+"Maybe we should put up a sign around here. 'Dangerous: Soccer Club[r]
+Practice in Session.' That should keep the weirdos away."[pcms]
 
 [ChrSetEx layer=5 chbase="ar2_yu"][ChrSetParts layer=5 chface="F2_ar01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1451|
 [fc]
-[ns]荒井[nse]
-「それとも……痴漢に注意とでも書いておいた方がいいか？」[pcms]
+[ns]Arai[nse]
+"Or maybe... 'Beware of Perverts' would be more appropriate?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1452|
 [fc]
-荒井はそう言うと、そのまま練習するチームの方に[r]
-歩いていってしまった。[pcms]
+With that said, Arai walked towards the team that was practicing.[pcms]
 
 *1453|
 [fc]
-こんな方向の暴力に訴えてくるとは予想外だった。[r]
-珍しく、変わったことをしてくる。[pcms]
+I didn't expect him to resort to such direct violence. It's unusual[r]
+for him to do something different.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so19a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1454|
 [fc]
-[ns]宗一郎[nse]
-「まったく、野蛮な奴め」[pcms]
+[ns]Souichirou[nse]
+"What a barbarian."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se2_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1455|
 [fc]
 [vo_stk s="satuki0017"]
-[ns]彩月[nse]
-「さあ、手を貸して」[pcms]
+[ns]Satsuki[nse]
+"Come on, give me your hand."[pcms]
 
 *1456|
 [fc]
-南先輩が僕の手を掴んで引き上げる。[pcms]
+Satsuki-senpai grabbed my hand and pulled me up.[pcms]
 
 *1457|
 [fc]
-[ns]誠[nse]
-「すみません……」[pcms]
+[ns]Makoto[nse]
+"I'm sorry..."[pcms]
 
 ;//屈伸系
 ;//[move layer=base path="(0,-10,255)" time=300][wm]
@@ -1401,115 +1385,113 @@
 
 *1458|
 [fc]
-小柄な僕は、それほどの苦にならず[r]
-南先輩に抱き起こされていた。[pcms]
+Being small in stature, it wasn't much of a burden for Satsuki-senpai[r]
+to lift me up.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se2_a"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1459|
 [fc]
 [vo_stk s="satuki0018"]
-[ns]彩月[nse]
-「あ……」[pcms]
+[ns]Satsuki[nse]
+"Ah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1460|
 [fc]
-南先輩がポケットからティッシュを取り出して、[r]
-僕の鼻に当ててくる。[pcms]
+Satsuki-senpai took out a tissue from her pocket and pressed it[r]
+against my nose.[pcms]
 
 *1461|
 [fc]
-どうやら、眼鏡は無事でも身体はそうじゃなかったらしい。[pcms]
+It seems that even though my glasses were safe, my body wasn't.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che"][ChrSetParts layer=5 chface="F1_ak21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1462|
 [fc]
 [vo_aka s="akari0013"]
-[ns]茜梨[nse]
-「大変！　大丈夫ですか、中澤先輩……」[pcms]
+[ns]Akari[nse]
+"This is terrible! Are you okay, Nakazawa-senpai...?"[pcms]
 
 *1463|
 [fc]
-[ns]誠[nse]
-「いや、大丈夫だよ。もう、頭もハッキリしているし」[pcms]
+[ns]Makoto[nse]
+"No, I'm fine. My head's cleared up now."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1464|
 [fc]
 [vo_aka s="akari0014"]
-[ns]茜梨[nse]
-「荒井先輩に代わって謝らせてもらいます。[r]
-　本当にごめんなさい……」[pcms]
+[ns]Akari[nse]
+"I apologize on behalf of Arai-senpai. I'm really sorry..."[pcms]
 
 *1465|
 [fc]
-[ns]誠[nse]
-「いいんだよ、ボーッとしてた僕が悪いんだから」[pcms]
+[ns]Makoto[nse]
+"It's okay, it's my fault for being distracted."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_che"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1466|
 [fc]
 [vo_aka s="akari0015"]
-[ns]茜梨[nse]
-「わざと、こんなことするなんて……」[pcms]
+[ns]Akari[nse]
+"To do something like this on purpose..."[pcms]
 
 *1467|
 [fc]
-越智さんは、言わば暴力沙汰ともとれる状況に[r]
-ショックを受けているみたいだった。[pcms]
+Ochi-san seemed shocked by the situation, which could be taken as an[r]
+act of violence.[pcms]
 
 *1468|
 [fc]
-しかも、どうやら原因が自分にあるらしい。[pcms]
+Moreover, it seems that she believes she is the cause of it.[pcms]
 
 *1469|
 [fc]
-気にするなと言っても、それは無理なんだろう。[pcms]
+Telling her not to worry about it would probably be futile.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1470|
 [fc]
-[ns]宗一郎[nse]
-「鼻も擦り剥けてるぞ、保健室で手当てしてもらえ」[pcms]
+[ns]Souichirou[nse]
+"Your nose is scraped up too, you should get it treated in the[r]
+infirmary."[pcms]
 
 *1471|
 [fc]
-[ns]誠[nse]
-「悪いな」[pcms]
+[ns]Makoto[nse]
+"My bad."[pcms]
 
 *1472|
 [fc]
-僕は頭が痛まないか確認しながら起きあがる。[pcms]
+I get up while checking if my head hurts.[pcms]
 
 *1473|
 [fc]
-どうやら、もう大丈夫みたいだ。[pcms]
+It seems I'm alright now.[pcms]
 
 *1474|
 [fc]
-[ns]宗一郎[nse]
-「ほら、これ」[pcms]
+[ns]Souichirou[nse]
+"Here, take this."[pcms]
 
 *1475|
 [fc]
-そう言いながら、そーいちはアイスオンを俺に向けて[r]
-手渡してくる。[pcms]
+While saying that, Souichirou handed me an ice pack.[pcms]
 
 *1476|
 [fc]
-[ns]誠[nse]
-「ん？」[pcms]
+[ns]Makoto[nse]
+"Huh?"[pcms]
 
 *1477|
 [fc]
-僕に使えってことか？[r]
-さすがにもう、温かいと思うんだけど。[pcms]
+Is he telling me to use it? I think it's probably warm by now though.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1519,10 +1501,9 @@
 
 *1478|
 [fc]
-[ns]宗一郎[nse]
-「ついでに返しておいてくれ。[r]
-　それと、アイスティー。[r]
-　甘さひかえめで」[pcms]
+[ns]Souichirou[nse]
+"And while you're at it, return this for me. And an iced tea. With[r]
+less sugar."[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
@@ -1532,29 +1513,26 @@
 *1479|
 [fc]
 [vo_stk s="satuki0019"]
-[ns]彩月[nse]
-「じゃあ、わたしはアイスコーヒーで。[r]
-　ブラックがいいかな」[pcms]
+[ns]Satsuki[nse]
+"Then I'll have an iced coffee. Black might be good."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_che"][ChrSetParts layer=4 chface="F1_ak09"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1480|
 [fc]
 [vo_aka s="akari0016"]
-[ns]茜梨[nse]
-「あ……じゃあ、私は炭酸系が……、[r]
-　できればゼロカロリーで」[pcms]
+[ns]Akari[nse]
+"Ah... then, I'll have something carbonated... preferably zero-[r]
+calorie."[pcms]
 
 *1481|
 [fc]
-…………。[r]
-……。[r]
-死ねばいいのに……。[pcms]
+... ... I wish I could just die...[pcms]
 
 *1482|
 [fc]
-いちいち細かい注文の付いた飲み物の種類を覚えながら、[r]
-笑顔のみんなを見て、僕はそう思っていた。[pcms]
+While remembering everyone's detailed drink orders with a smile,[r]
+that's what I was thinking.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

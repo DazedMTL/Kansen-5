@@ -29,81 +29,79 @@
 
 *2268|
 [fc]
-[ns]誠[nse]
-「んっ……」[pcms]
+[ns]Makoto[nse]
+"Hmm..."[pcms]
 
 *2269|
 [fc]
-何かの音で、僕は目を覚ました。[r]
-車のエンジン音だろうか？[pcms]
+I was awakened by some noise. Could it be the sound of a car engine?[pcms]
 
 *2270|
 [fc]
-すぐ横にいたはずの南先輩の姿が見当たらない。[r]
-慌てて部屋の中を見回すと、窓際に先輩の姿を見つけた。[r]
-姿勢を低くしてし外を覗き込んでいるようだ。[pcms]
+I couldn't find Senior Minami, who should have been right next to me.[r]
+In a panic, I looked around the room and found her by the window,[r]
+crouching and peering outside.[pcms]
 
 [bgm storage="BGM18"]
 ;//♪bgm18　作中劇用/安堵
 
 *2271|
 [fc]
-僕は[ruby text="は"]這い[ruby text="つくば"]蹲って、そっと南先輩の隣に移動した。[r]
-先輩に習って外を覗いてみると、少し先に見覚えのある車が[r]
-停まっている。でもさっきまで聞えたエンジン音は止まっていた。[pcms]
+I crouched down and quietly moved next to Senior Minami. Following her[r]
+lead and peering outside, I saw a familiar car parked a short distance[r]
+away. But the engine noise I heard earlier had stopped.[pcms]
 
 *2272|
 [fc]
-[ns]誠[nse]
-「稼津央さんの、リムジン？」[pcms]
+[ns]Makoto[nse]
+"Is that Kazutsuo-san's limousine?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2273|
 [fc]
 [vo_stk s="satuki_st0230"]
-[ns]彩月[nse]
-「……かも」[pcms]
+[ns]Satsuki[nse]
+"...Maybe."[pcms]
 
 *2274|
 [fc]
-白いリムジンは、どこかにぶつけまくったようで、[r]
-車体があちこちボコボコになっていた。[r]
-フロントガラスにヒビが入っているのが見える。[pcms]
+The white limousine seemed to have been banged up everywhere, with[r]
+dents all over the body. I could see cracks in the front windshield.[pcms]
 
 *2275|
 [fc]
-中に人が居る様子だけど、それが誰なのかまでは、[r]
-ハッキリとは確認出来なかった。[pcms]
+There seemed to be someone inside, but I couldn't clearly make out who[r]
+it was.[pcms]
 
 *2276|
 [fc]
-[ns]誠[nse]
-「越智さんか稼津央さんが乗ってるんでしょうか？」[pcms]
+[ns]Makoto[nse]
+"Could it be Ochi-san or Kazutsuo-san inside?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2277|
 [fc]
 [vo_stk s="satuki_st0231"]
-[ns]彩月[nse]
-「……かもね」[pcms]
+[ns]Satsuki[nse]
+"...Maybe."[pcms]
 
 *2278|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2279|
 [fc]
-越智さんや稼津央さんが居るんだったら、合流したい。[r]
-僕はそう思うけれど、南先輩の越智家の人たちに対する態度は、[r]
-未だに素っ気なかった。[pcms]
+If Ochi-san or Kazutsuo-san were there, I'd want to join them. That's[r]
+what I thought, but Senior Minami's attitude towards the Ochi family[r]
+was still cold.[pcms]
 
 *2280|
 [fc]
-まあ、理由はわかるんだけど、越智さんや稼津央さんには[r]
-余り関係がないような気する。[pcms]
+Well, I understand the reason, but it seems like it doesn't have much[r]
+to do with Ochi-san or Kazutsuo-san.[pcms]
 
 ;//■_キュルキュルというエンジン始動音（空回りしてかからない）
 [se buf=1 storage="seC021"]
@@ -113,16 +111,16 @@
 
 *2281|
 [fc]
-なんだか様子が変だ。エンジンを掛けようとしているけど、[r]
-掛からない感じ。[pcms]
+Something seems off. They seem to be trying to start the engine, but[r]
+it's not catching.[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *2282|
 [fc]
-でも、エンジンを掛けようとしてるって事は、少なくとも[r]
-車内の人は無事で、感染者でもないって事だ。[pcms]
+But if they're trying to start the engine, at least it means that the[r]
+person inside is safe and not infected.[pcms]
 
 ;//■_キュルキュルというエンジン始動音
 [se buf=1 storage="seC021"]
@@ -130,37 +128,37 @@
 
 *2283|
 [fc]
-[ns]誠[nse]
-「なんか……様子が変じゃないですか？　故障かな……」[pcms]
+[ns]Makoto[nse]
+"Doesn't it seem... strange? Maybe it's broken down..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2284|
 [fc]
 [vo_stk s="satuki_st0232"]
-[ns]彩月[nse]
-「そうね。もしかしたらガス欠かもしれないけど」[pcms]
+[ns]Satsuki[nse]
+"That's true. It might even be out of gas."[pcms]
 
 *2285|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
 
 *2286|
 [fc]
-しれっと答える南先輩に、僕はちょっといらつきを覚えた。[pcms]
+I felt a bit irritated by Senior Minami's nonchalant response.[pcms]
 
 *2287|
 [fc]
-いや、同じ生き残り仲間だとしても、経験が違うし、[r]
-感じ方も違うのだから議論しても始まらない。[pcms]
+No, even if we're fellow survivors, we have different experiences and[r]
+feelings, so there's no point in arguing.[pcms]
 
 *2288|
 [fc]
-僕はそのまま黙り込む。[pcms]
+I just fell silent.[pcms]
 
 [stopbgm]
 ;<SoundFade 0,3000>
@@ -174,254 +172,255 @@
 *2289|
 [fc]
 [vo_stk s="satuki_st0233"]
-[ns]彩月[nse]
-「……まずいわね」[pcms]
+[ns]Satsuki[nse]
+"...This is bad."[pcms]
 
 *2290|
 [fc]
-[ns]誠[nse]
-「……え？」[pcms]
+[ns]Makoto[nse]
+"...Eh?"[pcms]
 
 *2291|
 [fc]
-強ばった表情に変わった先輩の顔から、車の方へと視線を移すと[r]
-わらわらと感染者が集まってきているのがわかった。[pcms]
+As I shifted my gaze from Senior Minami's tense face to the car, I[r]
+could see that infected people were starting to gather around it.[pcms]
 
 [bgm storage="BGM14"]
 ;//♪bgm14　逃走：エロ：緊迫緊張
 
 *2292|
 [fc]
-エンジン音に反応したんだろう。見えているのは数えられるほどの[r]
-人数だけど、たぶんその後ろや周りにはもっと居そうな気がする。[pcms]
+They must have reacted to the engine noise. I can only see a few of[r]
+them, but I have a feeling there are more behind and around them.[pcms]
 
 *2293|
 [fc]
-[ns]誠[nse]
-「助けに行きましょうっ！　取り囲まれてからじゃ遅いです」[pcms]
+[ns]Makoto[nse]
+"Let's go help! It'll be too late if they get surrounded."[pcms]
 
 *2294|
 [fc]
-僕は、南先輩の返事を待たずに、姿勢を低くしたまま[r]
-窓際を離れた。[pcms]
+Without waiting for Senior Minami's response, I kept low and moved[r]
+away from the window.[pcms]
 
 *2295|
 [fc]
-さっき、窓を塞ぐものを探した時に見つけたもの。[r]
-それを眠っていた場所の近くに準備してあったから。[pcms]
+I had found something when I was looking for something to block the[r]
+window earlier. It was prepared near where I had been sleeping.[pcms]
 
 *2296|
 [fc]
-物置で見つけた古びたバットと汚れた工具ベルト。[r]
-工具ベルトには、ドライバーが何本かささったままで、[r]
-僕を救ったＢＢＱの串同様に武器になるはずだ。[pcms]
+An old bat and a dirty tool belt that I found in the storage room. The[r]
+tool belt had several screwdrivers stuck in it, which should serve as[r]
+weapons just like the BBQ skewers that saved me before.[pcms]
 
 *2297|
 [fc]
-ベルトを身につけ、バットを握りしめて、僕はまた低い姿勢で[r]
-窓際の南先輩のもとへと戻った。[pcms]
+With the belt on and bat in hand, I returned to Senior Minami's side[r]
+by the window while maintaining a low posture.[pcms]
 
 *2298|
 [fc]
-[ns]誠[nse]
-「準備出来ました」[pcms]
+[ns]Makoto[nse]
+"I'm ready."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2299|
 [fc]
 [vo_stk s="satuki_st0234"]
-[ns]彩月[nse]
-「……馬鹿なこと言わないで」[pcms]
+[ns]Satsuki[nse]
+"...Don't be foolish."[pcms]
 
 *2300|
 [fc]
-[ns]誠[nse]
-「え？！！」[pcms]
+[ns]Makoto[nse]
+"What?!!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2301|
 [fc]
 [vo_stk s="satuki_st0235"]
-[ns]彩月[nse]
-「助けに向かって、よしんば成功したとしても、[r]
-　ここに戻ってきたら、アイツらを引き連れてくる結果になるのよ」[pcms]
+[ns]Satsuki[nse]
+"Even if you manage to save them and come back here, you'll end up[r]
+bringing those things with you."[pcms]
 
 *2302|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2303|
 [fc]
 [vo_stk s="satuki_st0236"]
-[ns]彩月[nse]
-「こんな古びた建物、アイツらの馬鹿力であっという間に[r]
-　壊されちゃうわ。それがわかってるのに、行くっていうの？」[pcms]
+[ns]Satsuki[nse]
+"This old building will be destroyed in no time with their brute[r]
+strength. Knowing that, you still want to go?"[pcms]
 
 *2304|
 [fc]
-[ns]誠[nse]
-「行きますよ。だって見て下さい、２０人かそこらですよ。[r]
-　全員ぶちのめしてきます」[pcms]
+[ns]Makoto[nse]
+"I'm going. Look, there are only about 20 of them. I'll knock them all[r]
+out."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st32"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2305|
 [fc]
 [vo_stk s="satuki_st0237"]
-[ns]彩月[nse]
-「ダメっ！　ダメ……よ。保障できないでしょう」[pcms]
+[ns]Satsuki[nse]
+"No! No... You can't guarantee that."[pcms]
 
 *2306|
 [fc]
-[ns]誠[nse]
-「絶対一人残らずぶちのめしてきます。せっかく助けられる人が[r]
-　いるってのに、隠れて自分たちだけ生き残っても、意味が[r]
-　ないじゃないですか」[pcms]
+[ns]Makoto[nse]
+"I'll make sure to knock every single one of them out. It's[r]
+meaningless if we just hide and survive while there are people we can[r]
+save."[pcms]
 
 *2307|
 [fc]
 [vo_stk s="satuki_st0238"]
-[ns]彩月[nse]
-「……駄目。賛成できない」[pcms]
+[ns]Satsuki[nse]
+"...No. I can't agree with that."[pcms]
 
 *2308|
 [fc]
-[ns]誠[nse]
-「……相手が越智さんや稼津央さんだからですか？[r]
-　４年前の事との関係に拘ってるからですか？」[pcms]
+[ns]Makoto[nse]
+"...Is it because the people involved are Ochi-san and Kazuto-san? Are[r]
+you still hung up on what happened four years ago?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2309|
 [fc]
 [vo_stk s="satuki_st0239"]
-[ns]彩月[nse]
-「……！！」[pcms]
+[ns]Satsuki[nse]
+"...!!"[pcms]
 
 *2310|
 [fc]
-南先輩は、少し悲しそうな目をして僕を見返す。[r]
-でも唇をぎゅっと噛みしめ、それ以上何かを言うことはなかった。[pcms]
+Satsuki-senpai looked back at me with a slightly sad expression in her[r]
+eyes. But she bit her lip tightly and said nothing more.[pcms]
 
 *2311|
 [fc]
-僕もそれ以上南先輩を糾弾することは出来ない。[r]
-僕だって、わだかまりが無い訳じゃなかったから。[pcms]
+I couldn't press Satsuki-senpai any further either. After all, it[r]
+wasn't like I didn't have my own reservations.[pcms]
 
 *2312|
 [fc]
-それでも、やっぱり助けられる人が居て、その相手が知人なら[r]
-なおさら、無理をしてでも助けたいと思ってしまう。[pcms]
+Still, if there are people we can save, especially if they're[r]
+acquaintances, I can't help but want to try, even if it's risky.[pcms]
 
 *2313|
 [fc]
-僕が生き残りで、ぶっつりと色々なものを絶たれてしまったから、[r]
-余計にそう思うのかも知れない。[r]
-もうこれ以上、何かを失いたくなかった。[pcms]
+Maybe it's because I'm a survivor, having been abruptly cut off from[r]
+so many things, that I feel this way even more. I didn't want to lose[r]
+anything else.[pcms]
 
 *2314|
 [fc]
-[ns]誠[nse]
-「行ってきます先輩。裏口から出ますから、車の中の人たちが[r]
-　来たら、入れてあげて下さい。お願いします」[pcms]
+[ns]Makoto[nse]
+"I'm going, Senpai. I'll exit through the back door, so if the people[r]
+in the car come, please let them in. I'm counting on you."[pcms]
 
 *2315|
 [fc]
-[ns]誠[nse]
-「裏口に向かわせる間に、僕は表で暴れます。[r]
-　そうすれば、アイツら僕に引きつけられて、裏口まで[r]
-　気が回らない可能性が高いんじゃないかって思ってます」[pcms]
+[ns]Makoto[nse]
+"While I draw them to the front with a commotion, they'll be focused[r]
+on me, which should give a higher chance that they won't notice anyone[r]
+using the back door."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st32"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2316|
 [fc]
 [vo_stk s="satuki_st0240"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *2317|
 [fc]
-[ns]誠[nse]
-「…………じゃあ、行ってきます」[pcms]
+[ns]Makoto[nse]
+"...Well then, I'm off."[pcms]
 
 *2318|
 [fc]
-辛そうに見つめる南先輩の視線を引きはがして、[r]
-僕は裏口へと向かった。[pcms]
+Tearing away from Satsuki-senpai's pained gaze, I headed towards the[r]
+back door.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2319|
 [fc]
 [vo_stk s="satuki_st0241"]
-[ns]彩月[nse]
-「誠君っ！」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2320|
 [fc]
-南先輩の声が追いかけてくる。[r]
-でも、僕は振り返らず、ドアノブに手を掛けた。[pcms]
+Her voice chased after me. But without looking back, I reached for the[r]
+doorknob.[pcms]
 
 ;//★_集会所外　昼
 [bg storage="village03a"][trans_c "blind_lr" time=1000]
 
 *2321|
 [fc]
-細く開けたドアから外を覗いてみる。[r]
-この周辺には感染者はひとりも見当たらなかった。[pcms]
+Peeking outside through the slightly opened door, I saw no infected in[r]
+the vicinity.[pcms]
 
 *2322|
 [fc]
-建物沿いにこそこそと僕は表へと回り込む。[r]
-建物の壁際からリムジンの方を見ると、数人の感染者が[r]
-車の窓を叩き始めていた。[pcms]
+I stealthily made my way to the front of the building. Looking towards[r]
+the limousine from the edge of the building's wall, I saw a few[r]
+infected starting to bang on the car windows.[pcms]
 
 *2323|
 [fc]
-でも、全体の数は増えていない。[r]
-さっきと同じ２０人居るか居ないか。[r]
-なんとかなる……人数だと思う。[pcms]
+But their numbers hadn't increased. There were about the same number[r]
+as before, maybe 20 or so. It seemed manageable... I thought.[pcms]
 
 *2324|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *2325|
 [fc]
-大丈夫。大丈夫だ。バットを握りしめる手が震え出す。[r]
-大丈夫。大丈夫だ。僕は必死に自分に言い聞かせた。[pcms]
+It's going to be okay. It's going to be okay. My hand gripping the bat[r]
+started to tremble. It's going to be okay. It's going to be okay. I[r]
+kept reassuring myself desperately.[pcms]
 
 *2326|
 [fc]
-アイツら力は強いけど、動きはとろくさい。[r]
-動き回りながら、頭を殴ってやればいいんだ。[pcms]
+They're strong but slow-moving. Just keep moving around and aim for[r]
+their heads.[pcms]
 
 *2327|
 [fc]
-大丈夫。大丈夫だ。ヒットアンドアウェイ方式でいこう。[r]
-大丈夫。大丈夫だ。バットが駄目になっても、映画なんかで[r]
-お馴染みの必殺武器が腰にぶら下がってるんだから。[pcms]
+It's going to be okay. It's going to be okay. I'll use hit-and-run[r]
+tactics. It's going to be okay. It's going to be okay. Even if the bat[r]
+fails me, I've got that familiar lethal weapon hanging at my waist[r]
+from the movies.[pcms]
 
 *2328|
 [fc]
-あの人数なら、たいしたことないさ。[r]
-ゲームだったら、楽勝の人数じゃないか。[pcms]
+With that number of them, it's no big deal. If this were a game, it[r]
+would be an easy win.[pcms]
 
 *2329|
 [fc]
-大丈夫。大丈夫だっ！！[r]
-絶対に大丈夫だっ！！！[pcms]
+It's going to be okay. It's going to be okay!! It's definitely going[r]
+to be okay!!![pcms]
 
 *2330|
 [fc]
-僕は意を決してリムジンに向かって走り出した。[pcms]
+I made up my mind and started running towards the limousine.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>

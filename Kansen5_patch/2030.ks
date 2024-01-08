@@ -27,106 +27,105 @@
 
 *193|
 [fc]
-中に入ってみると、やっぱりそれなりに狭い。[r]
-頭がテントの天井にくっつきそうなぐらいだ。[pcms]
+Once inside, it was indeed quite cramped. My head almost touched the[r]
+tent ceiling.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *194|
 [fc]
 [vo_stk s="satuki_st0029"]
-[ns]彩月[nse]
-「見ての通り狭いけど、でもテントってのも悪くないでしょ？」[pcms]
+[ns]Satsuki[nse]
+"As you can see, it's cramped, but tents have their own charm, don't[r]
+they?"[pcms]
 
 *195|
 [fc]
-[ns]誠[nse]
-「そうですね……灯りは、電池式ですか？」[pcms]
+[ns]Makoto[nse]
+"Yes... Is the light battery-operated?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *196|
 [fc]
 [vo_stk s="satuki_st0030"]
-[ns]彩月[nse]
-「そうよ。ＬＥＤの充電式のランタン。テントの中じゃ[r]
-　ガスランタンなんて危なくて使えないもの」[pcms]
+[ns]Satsuki[nse]
+"That's right. It's a rechargeable LED lantern. You can't use gas[r]
+lanterns inside a tent; it's too dangerous."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *197|
 [fc]
-ＬＥＤランタンの光は柔らかいものだった。[r]
-優しく照らし出された南先輩の顔が、僕の直ぐ目の前にある。[pcms]
+The light from the LED lantern was soft. Satsuki-senpai's face, gently[r]
+illuminated, was right in front of me.[pcms]
 
 *198|
 [fc]
-取り敢えず、南先輩と向かい合う形で座ったけど、結構距離が近い。[r]
-キスしようと思えば、すぐにでも出来そうな感じ……、[r]
-って、何考えてるんだ。[pcms]
+For now, I sat facing Satsuki-senpai, but we were quite close. Close[r]
+enough to kiss if I thought about it... What am I thinking?[pcms]
 
 *199|
 [fc]
-自分の妄想に、僕はついつい顔をそむけてしまった。[pcms]
+I turned my face away, embarrassed by my own fantasies.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *200|
 [fc]
 [vo_stk s="satuki_st0031"]
-[ns]彩月[nse]
-「どうしたの？」[pcms]
+[ns]Satsuki[nse]
+"What's wrong?"[pcms]
 
 *201|
 [fc]
-[ns]誠[nse]
-「い、いえ……あ、その何か話があるんですよね？」[pcms]
+[ns]Makoto[nse]
+"No, it's nothing... Ah, you had something to talk about, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *202|
 [fc]
 [vo_stk s="satuki_st0032"]
-[ns]彩月[nse]
-「……」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *203|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *204|
 [fc]
 [vo_stk s="satuki_st0033"]
-[ns]彩月[nse]
-「うん……あのね、中澤君って……右腕に……バーコードが[r]
-　あるんだよ……ね？」[pcms]
+[ns]Satsuki[nse]
+"Um... Nakazawa-kun, you have a... barcode... on your right arm,[r]
+right?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *205|
 [fc]
-もっと違う話を期待していた僕は、軽くショックを受けた。[r]
-あんまり触れて欲しくない話題ではある。[pcms]
+I was slightly shocked, having hoped for a different topic. It was a[r]
+subject I didn't really want to delve into.[pcms]
 
 *206|
 [fc]
-でも、訊いてくるからには何か理由があるんだろうし……。[r]
-僕は、右腕を上げてバーコードが見えやすいように、[r]
-南先輩へと向けた。[pcms]
+But since she asked, there must be a reason... I raised my right arm[r]
+to make the barcode more visible to Satsuki-senpai.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *207|
 [fc]
 [vo_stk s="satuki_st0034"]
-[ns]彩月[nse]
-「……」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *208|
 [fc]
-南先輩は、僕の右腕をじっと見据えていた。[r]
-沈黙がしばらく狭いテントの中を支配する。[pcms]
+Satsuki-senpai stared intently at my right arm. Silence dominated the[r]
+cramped tent for a while.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -135,553 +134,552 @@
 
 *209|
 [fc]
-僕の右腕に注がれていた南先輩の視線が僕の顔に向けられると、[r]
-おもむろに、南先輩は自分の右腕の袖をまくり始めた。[pcms]
+When Satsuki-senpai's gaze shifted from my arm to my face, she slowly[r]
+began to roll up the sleeve of her right arm.[pcms]
 
 *210|
 [fc]
-その腕には――僕と同じようなバーコードが刻まれている。[pcms]
+On her arm was a barcode similar to mine.[pcms]
 
 *211|
 [fc]
-[ns]誠[nse]
-「……！　まさか、南先輩も……」[pcms]
+[ns]Makoto[nse]
+"...! Don't tell me, Satsuki-senpai also..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *212|
 [fc]
 [vo_stk s="satuki_st0035"]
-[ns]彩月[nse]
-「うん……そうなの。わたしも生き残り。君と一緒。[r]
-　４年前の生き残りなの……」[pcms]
+[ns]Satsuki[nse]
+"Yes... that's right. I'm a survivor too. Just like you. A survivor[r]
+from four years ago..."[pcms]
 
 *213|
 [fc]
-なんと言えばいいのか言葉が出てこない。[r]
-南先輩も、僕と同じような苦しみを味わっていたなんて……。[pcms]
+I couldn't find the words to say. To think that Satsuki-senpai had[r]
+gone through the same pain as me...[pcms]
 
 *214|
 [fc]
-[ns]誠[nse]
-「……知りませんでした」[pcms]
+[ns]Makoto[nse]
+"...I didn't know."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *215|
 [fc]
 [vo_stk s="satuki_st0036"]
-[ns]彩月[nse]
-「……うまく隠してたからね……。[r]
-　わたしはね、千台で巻き込まれたの」[pcms]
+[ns]Satsuki[nse]
+"...I've been hiding it well... I got caught up in it at Sendai."[pcms]
 
 *216|
 [fc]
-南先輩は、少し辛そうな顔つきで、それでも自分の事を[r]
-とつとつと話し始めた。[pcms]
+Satsuki-senpai began to speak haltingly about herself with a pained[r]
+expression on her face.[pcms]
 
 *217|
 [fc]
-千台で遭遇し、自分の目で確かめた訳ではないけれど、[r]
-家族と呼べる人は、全員亡くしてしまったらしい。[pcms]
+Though I hadn't witnessed it myself, it seemed she had lost everyone[r]
+she could call family.[pcms]
 
 *218|
 [fc]
-僕同様に長い間施設に収容され、ようやく昨年から渋谷で[r]
-暮らし始めたということだった。[pcms]
+Like me, she had been in an institution for a long time and only[r]
+started living in Shibuya last year.[pcms]
 
 *219|
 [fc]
-これで納得がいった。[r]
-越智さんのお屋敷で、南先輩の態度が変だったことに。[r]
-きっと僕と同じような気分に囚われてたんだ。[pcms]
+Now I understood why Satsuki-senpai's behavior was odd at Ochi-san's[r]
+mansion. She must have been feeling the same way as me.[pcms]
 
 *220|
 [fc]
-南先輩は、本当にひとりぽっちになってしまったんだ。[r]
-姉ちゃんがいるだけ、僕の方がずっとマシなんだと思う。[pcms]
+Satsuki-senpai had truly become all alone. I think I'm much better[r]
+off, having an older sister.[pcms]
 
 *221|
 [fc]
-[ns]誠[nse]
-「……だから、一人暮らしなんですね」[pcms]
+[ns]Makoto[nse]
+"...So that's why you live alone."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *222|
 [fc]
 [vo_stk s="satuki_st0037"]
-[ns]彩月[nse]
-「……そう。……ねえ、中澤君。わたしの噂知ってる？」[pcms]
+[ns]Satsuki[nse]
+"...Yes. ...Hey, Nakazawa-kun. Do you know the rumors about me?"[pcms]
 
 *223|
 [fc]
-[ns]誠[nse]
-「えっ！」[pcms]
+[ns]Makoto[nse]
+"Eh!"[pcms]
 
 *224|
 [fc]
-降ってわいた話題に、僕は思わず声をあげてしまう。[r]
-顔だって、きっと取り繕うことは出来ていないはずだ。[pcms]
+Taken aback by the sudden change of topic, I couldn't help but raise[r]
+my voice. Surely my face must have given away that I couldn't hide my[r]
+reaction.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *225|
 [fc]
 [vo_stk s="satuki_st0038"]
-[ns]彩月[nse]
-「その顔は、知ってる顔だね。どんな噂？」[pcms]
+[ns]Satsuki[nse]
+"That look on your face says you know. What kind of rumors?"[pcms]
 
 *226|
 [fc]
-僕の顔を覗き込むように、南先輩は薄く笑いながら訪ねてきた。[pcms]
+Peering into my face, Satsuki-senpai asked with a faint smile.[pcms]
 
 *227|
 [fc]
-[ns]誠[nse]
-「……その……南先輩が円光してるって……。あの、でも、[r]
-　一人暮らしだからってのも関係してるんじゃないかと。[r]
-　それに、南先輩美人だと思うから嫉妬とかも……」[pcms]
+[ns]Makoto[nse]
+"...Well... that Satsuki-senpai is involved in compensated dating...[r]
+But maybe it's because you live alone. And I think you're beautiful,[r]
+so maybe there's jealousy involved..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *228|
 [fc]
 [vo_stk s="satuki_st0039"]
-[ns]彩月[nse]
-「……ありがと、中澤君。あの噂、“半分”勘違いなの。[r]
-　確かに一人暮らしの家に噂になっているような見てくれの人が[r]
-　出入りするし、外で会ったりもしてるわ」[pcms]
+[ns]Satsuki[nse]
+"...Thank you, Nakazawa-kun. That rumor is 'half a misunderstanding.'[r]
+Indeed, someone who looks like they're involved in those rumors comes[r]
+and goes at my place, and we meet outside too."[pcms]
 
 *229|
 [fc]
 [vo_stk s="satuki_st0040"]
-[ns]彩月[nse]
-「でもね、あの人わたしの身元引受人なのよ」[pcms]
+[ns]Satsuki[nse]
+"But you know, that person is my legal guardian."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *230|
 [fc]
-[ns]誠[nse]
-「じゃあ、身内の人なんですね」[pcms]
+[ns]Makoto[nse]
+"So they're family then."[pcms]
 
 *231|
 [fc]
-だとしたら、南先輩は天涯孤独ではないわけだ。[r]
-それだけでも、ちょっとだけほっと出来る。[pcms]
+If that's the case, then Satsuki-senpai isn't completely alone in the[r]
+world. That thought alone is somewhat relieving.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *232|
 [fc]
 [vo_stk s="satuki_st0041"]
-[ns]彩月[nse]
-「……ううん。残念ながら、違うの。[r]
-　わたしには、もう身内って呼べる人はいないわ。[r]
-　あの人は人権擁護団体の人なの」[pcms]
+[ns]Satsuki[nse]
+"...No, unfortunately that's not the case. I don't have anyone I can[r]
+call family anymore. That person is from a human rights organization."[pcms]
 
 *233|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *234|
 [fc]
-つかの間僕の心に訪れた安堵感は、あっという間に消し飛んで[r]
-しまっていた。[pcms]
+The fleeting sense of relief that had visited my heart was quickly[r]
+blown away.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *235|
 [fc]
-クスリと口許に笑いを浮かべながら南先輩は言葉をつなげる。[pcms]
+With a slight smile playing on her lips, Satsuki-senpai continued her[r]
+words.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *236|
 [fc]
 [vo_stk s="satuki_st0042"]
-[ns]彩月[nse]
-「おかしな話よね。噂の人の奥さんと会っている事もあるし、[r]
-　ご夫婦揃っての時もあるのよ。なのに、旦那さんと単独で[r]
-　会った時のことばかり噂になるんだから」[pcms]
+[ns]Satsuki[nse]
+"It's a strange story, isn't it? I've met with the wife of the person[r]
+in the rumors, and sometimes with both the husband and wife together.[r]
+Yet, it's only the times I meet with the husband alone that become the[r]
+subject of rumors."[pcms]
 
 *237|
 [fc]
-[ns]誠[nse]
-「それはやっぱり、噂を立てる側の、その……南先輩への[r]
-　やっかみなんかがあるんだと思います」[pcms]
+[ns]Makoto[nse]
+"That must be, well... perhaps it's jealousy towards you, Satsuki-[r]
+senpai, from those who start the rumors."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *238|
 [fc]
 [vo_stk s="satuki_st0043"]
-[ns]彩月[nse]
-「そうなのかな……ふふ」[pcms]
+[ns]Satsuki[nse]
+"Is that so... hehe."[pcms]
 
 *239|
 [fc]
-[ns]誠[nse]
-「確かに収容施設を出るのに身元引受人は必要でしたからね。[r]
-　僕は姉ちゃんがそうなんだけど、南先輩はどういう[r]
-　いきさつでその擁護団体の人と知り合ったんですか？」[pcms]
+[ns]Makoto[nse]
+"Certainly, to leave the institution, you need someone to vouch for[r]
+you. My sister did for me, but how did you come to know the person[r]
+from the advocacy group?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *240|
 [fc]
 [vo_stk s="satuki_st0044"]
-[ns]彩月[nse]
-「う～ん。実はわたしもよくわからないのよ」[pcms]
+[ns]Satsuki[nse]
+"Hmm. Actually, I don't really understand it myself."[pcms]
 
 *241|
 [fc]
-[ns]誠[nse]
-「え？」[pcms]
+[ns]Makoto[nse]
+"Eh?"[pcms]
 
 *242|
 [fc]
-収容施設を出るための身元引受人じゃないなら、[r]
-どういう人なんだろうか。[pcms]
+If they're not the person vouching for her to leave the institution,[r]
+then who could they be?[pcms]
 
 *243|
 [fc]
 [vo_stk s="satuki_st0045"]
-[ns]彩月[nse]
-「なんかいつの間にか手続きが進んでて、初めて面会した時に[r]
-　そのご夫婦が自分達はこういうもので、その擁護団体に[r]
-　所属していて、それで君を連れ出しに来ましたって」[pcms]
+[ns]Satsuki[nse]
+"Somehow, before I knew it, all the paperwork had progressed, and when[r]
+I first met them, that couple told me they were involved with this[r]
+advocacy group and had come to take me out."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *244|
 [fc]
 [vo_stk s="satuki_st0046"]
-[ns]彩月[nse]
-「知らないうちに身元引受人にもうなっちゃってて、[r]
-　わたしは収容施設を出ることになっていたって感じなの」[pcms]
+[ns]Satsuki[nse]
+"Without realizing it, they had already become my guarantors, and I[r]
+was set to leave the institution."[pcms]
 
 *245|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *246|
 [fc]
-擁護団体って、自然保護とか人権擁護とか、[r]
-そういうのなんだろうか。[pcms]
+I wonder if by advocacy group she means something like environmental[r]
+protection or human rights advocacy.[pcms]
 
 *247|
 [fc]
-立派な活動をしているはずなのに、[r]
-あまりいいイメージがない。[pcms]
+Despite being involved in noble activities, they don't seem to have a[r]
+very good image.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *248|
 [fc]
 [vo_stk s="satuki_st0047"]
-[ns]彩月[nse]
-「まあ、感謝はしてるのよ。あそこから外に出してくれた事に[r]
-　関してはね。ご夫婦が保証人になってくれたから、[r]
-　一人暮らしもさせてもらえてる訳だし」[pcms]
+[ns]Satsuki[nse]
+"Well, I am grateful to them. They helped me get out of there. Thanks[r]
+to that couple becoming my guarantors, I'm able to live on my own."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *249|
 [fc]
 [vo_stk s="satuki_st0048"]
-[ns]彩月[nse]
-「でもね……なんかダシにされてる感じがするのよ。[r]
-　あの夫婦というか擁護団体というか……どっちもかな。[r]
-　その自己実現のための、ダシに使われてるって感じでね」[pcms]
+[ns]Satsuki[nse]
+"But... I feel like I'm being used as a pawn. By that couple or the[r]
+advocacy group... or maybe both. Like I'm being exploited for their[r]
+self-fulfillment."[pcms]
 
 *250|
 [fc]
-南先輩の口調に、皮肉めいた感情や否定的な意味合いを[r]
-感じたのは、僕の気のせいではなかったようだ。[pcms]
+The irony and negative connotations in Satsuki-senpai's tone were not[r]
+just my imagination.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *251|
 [fc]
 [vo_stk s="satuki_st0049"]
-[ns]彩月[nse]
-「どうせだったらあのご夫婦の事も含めて詳しいこと訊いて[r]
-　やろっかなって思って、『誘った』ら、怒られちゃったわ」[pcms]
+[ns]Satsuki[nse]
+"I thought about asking them for more details about themselves,[r]
+including that couple, so I 'invited' them, but I ended up getting[r]
+scolded."[pcms]
 
 *252|
 [fc]
-[ns]誠[nse]
-「え？　誘った……って……？」[pcms]
+[ns]Makoto[nse]
+"Eh? Invited... as in...?"[pcms]
 
 *253|
 [fc]
-南先輩は、にまっと小悪魔的な微笑みを浮かべた。[r]
-いつも以上に色気の漂う顔に、僕はドギマギとしてきていた。[pcms]
+Satsuki-senpai flashed a devilish smile. Her face was more seductive[r]
+than usual, and I was starting to feel flustered.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *254|
 [fc]
 [vo_stk s="satuki_st0050"]
-[ns]彩月[nse]
-「言葉の通りよ。誘ったの。ホテルにね」[pcms]
+[ns]Satsuki[nse]
+"Just like I said. I invited them. To a hotel."[pcms]
 
 *255|
 [fc]
-[ns]誠[nse]
-「……！」[pcms]
+[ns]Makoto[nse]
+"…!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *256|
 [fc]
 [vo_stk s="satuki_st0051"]
-[ns]彩月[nse]
-「ベッドの中なら、舌も滑らかになるかな～なんて思ったんだけど、[r]
-　がっつり怒られちゃったわ。自分を大事にしろとかなんとか」[pcms]
+[ns]Satsuki[nse]
+"I thought maybe in bed their tongues would loosen up a bit~ but I got[r]
+scolded firmly. They told me to take better care of myself and such."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *257|
 [fc]
 [vo_stk s="satuki_st0052"]
-[ns]彩月[nse]
-「まあ、この人は良い人なんだなってのが判ったから[r]
-　ちょっとだけ良かったけどね」[pcms]
+[ns]Satsuki[nse]
+"Well, it made me realize that this person is actually good-hearted,[r]
+so that was a little nice."[pcms]
 
 *258|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *259|
 [fc]
-どう答えていいか迷っている僕に、畳み掛けるように南先輩は[r]
-言葉を繋いでいく。[pcms]
+As I hesitated on how to respond, Satsuki-senpai kept pressing on with[r]
+her words.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *260|
 [fc]
 [vo_stk s="satuki_st0053"]
-[ns]彩月[nse]
-「さっき、噂は『半分』勘違いって言ったでしょ？[r]
-　……半分は本当のことよ」[pcms]
+[ns]Satsuki[nse]
+"Earlier, I said the rumors were 'half a misunderstanding,' right?[r]
+...The other half is true."[pcms]
 
 *261|
 [fc]
-[ns]誠[nse]
-「半分……って」[pcms]
+[ns]Makoto[nse]
+"Half... as in?"[pcms]
 
 *262|
 [fc]
 [vo_stk s="satuki_st0054"]
-[ns]彩月[nse]
-「もっと耳に入っているはずよ。クラブで見かけたとか、[r]
-　その時一緒に居た人と、ホテル街に消えた……とかさ」[pcms]
+[ns]Satsuki[nse]
+"You must have heard more. Like being seen at a club or disappearing[r]
+into a hotel district with someone I was with at the time..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *263|
 [fc]
 [vo_stk s="satuki_st0055"]
-[ns]彩月[nse]
-「そっちの半分は本当のこと。クラブに出入りしてるし、[r]
-　そこで知りあった男と、行きずり、その場限りって感じで[r]
-　セックスを楽しんでるよ、わたし」[pcms]
+[ns]Satsuki[nse]
+"That half is true. I do go to clubs, and enjoy sex with men I meet[r]
+therejust casual, one-time things."[pcms]
 
 *264|
 [fc]
-[ns]誠[nse]
-「！！」[pcms]
+[ns]Makoto[nse]
+"!!!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *265|
 [fc]
 [vo_stk s="satuki_st0056"]
-[ns]彩月[nse]
-「でもね、お金もらってる訳じゃないわよ。ちゃ～んとゴムだって[r]
-　毎回使ってるし。あくまでセックスで得られる快楽が目当てなの」[pcms]
+[ns]Satsuki[nse]
+"But you know, I'm not getting paid for it. And we always use condoms.[r]
+It's purely for the pleasure of sex that I do it."[pcms]
 
 *266|
 [fc]
-どう反応したらいいんだろう。[pcms]
+How should I react?[pcms]
 
 *267|
 [fc]
-僕を誘ってくれたらいいのに、なんて前は思ってたけど、[r]
-その対象からあからさまにセックスを楽しんでるなんて言われると[r]
-ちょっとだけ、ひるんでしまう。でも……。[pcms]
+I used to wish she would invite me too, but now that she's openly[r]
+enjoying sex with others, it makes me hesitate a bit. But still...[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *268|
 [fc]
 [vo_stk s="satuki_st0057"]
-[ns]彩月[nse]
-「ねえ、ま～君は、童貞？　かな？　それとも同居してる[r]
-　あのお姉さんとセックスしちゃってるの？」[pcms]
+[ns]Satsuki[nse]
+"Hey, Makoto-kun, are you a virgin? Or have you already had sex with[r]
+that sister you live with?"[pcms]
 
 *269|
 [fc]
-[ns]誠[nse]
-「ま、まさか！　姉ちゃんとはそんな関係じゃないですよ。[r]
-　だからって訳じゃないけど…………童貞です」[pcms]
+[ns]Makoto[nse]
+"No way! My sister and I don't have that kind of relationship. And...[r]
+not that it's related but... yes, I'm a virgin."[pcms]
 
 *270|
 [fc]
-いや、そりゃね。軽くエッチめいた事を姉ちゃんにしたこと[r]
-あるけど、あくまで悪戯の範疇で、それ以上はしてないし、[r]
-それに姉ちゃんが眠ってる時、限定だし……。[pcms]
+Yeah, well. There have been times when I've played around with my[r]
+sister in a slightly naughty way, but it's always been just teasing[r]
+and nothing more. And it's only when she's asleep...[pcms]
 
 *271|
 [fc]
-少し慌てている僕を見つめる南先輩は、小悪魔を通り越して、[r]
-淫靡な雰囲気さえ醸し出し、僕は股間に熱を感じ始めていた。[pcms]
+Watching me flustered, Satsuki-senpai's expression went beyond[r]
+mischievous to downright lascivious, and I could feel heat starting to[r]
+build in my crotch.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *272|
 [fc]
 [vo_stk s="satuki_st0058"]
-[ns]彩月[nse]
-「ふう～ん。なんだか修行僧みたいに真面目なんだね～。[r]
-　ダイナマイトバディなお姉ちゃんがそばに居るっていうのにさ」[pcms]
+[ns]Satsuki[nse]
+"Huh~n. You're surprisingly serious, like a monk or something. Even[r]
+though you have a dynamite-bodied sister living right beside you."[pcms]
 
 *273|
 [fc]
-[ns]誠[nse]
-「うう……」[pcms]
+[ns]Makoto[nse]
+"Ugh..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *274|
 [fc]
 [vo_stk s="satuki_st0059"]
-[ns]彩月[nse]
-「そういうとこ、可愛いわね、ま～君♪」[pcms]
+[ns]Satsuki[nse]
+"That part of you is cute, Maa-kun♪"[pcms]
 
 *275|
 [fc]
-[ns]誠[nse]
-「からかわないで下さい」[pcms]
+[ns]Makoto[nse]
+"Please don't tease me."[pcms]
 
 *276|
 [fc]
-僕はむっとした口調で言い返したつもりだったけど、[r]
-実はそんなに悪い気もしていなかった。[pcms]
+I tried to retort with a sulky tone, but in reality, I wasn't feeling[r]
+all that bad about it.[pcms]
 
 *277|
 [fc]
-色っぽい目つきの年上のお姉さんに、『かわいい』なんて[r]
-言われたら……ちょっと、期待しちゃう。いろいろと……。[pcms]
+Being called "cute" by an older woman with such a sexy gaze... it[r]
+makes me a little hopeful. About various things...[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *278|
 [fc]
 [vo_stk s="satuki_st0060"]
-[ns]彩月[nse]
-「素直な感想よ。かわいいな～って思っちゃったんだもの」[pcms]
+[ns]Satsuki[nse]
+"It's just my honest opinion. I just can't help but think you're[r]
+cute."[pcms]
 
 *279|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *280|
 [fc]
-頬が火照ってくるのがわかった。[r]
-頬だけじゃなくて、別の所、肝心要な場所も……。[pcms]
+I could feel my cheeks getting hot. And not just my cheeks, but[r]
+another, more crucial area as well...[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *281|
 [fc]
 [vo_stk s="satuki_st0061"]
-[ns]彩月[nse]
-「中澤君が初めてなんだよ。渋谷に来てから自分の事を[r]
-　話した相手って。本当はわたしも生き残りなんだよって[r]
-　もっと早くに言いたかったんだけど……」[pcms]
+[ns]Satsuki[nse]
+"You're the first person I've opened up to since coming to Shibuya. I[r]
+wanted to tell you sooner that I'm also a survivor..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *282|
 [fc]
 [vo_stk s="satuki_st0062"]
-[ns]彩月[nse]
-「ようやく機会に恵まれたって感じ。[r]
-　……ね、この事はわたしと中澤君だけの秘密にしようね」[pcms]
+[ns]Satsuki[nse]
+"It feels like I've finally been given the chance... Hey, let's keep[r]
+this between just the two of us, okay?"[pcms]
 
 *283|
 [fc]
-[ns]誠[nse]
-「あ……はい。わかりました」[pcms]
+[ns]Makoto[nse]
+"Ah... Yes, I understand."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *284|
 [fc]
-南先輩の目が潤み出し、ますます妖艶さが漂い出す。[r]
-紅い唇をぺろりと舐めて、甘い吐息を僕に吹きかけてきた。[pcms]
+Satsuki's eyes began to moisten, exuding even more allure. She licked[r]
+her red lips and blew a sweet breath my way.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *285|
 [fc]
 [vo_stk s="satuki_st0063"]
-[ns]彩月[nse]
-「ねえ……もっと秘密を作っちゃわない？[r]
-　同じようなバーコード持ってる仲間みたいなもんだし……。[r]
-　わたし、中澤君ならいいかなって思ってるのよ」[pcms]
+[ns]Satsuki[nse]
+"Hey... why don't we make more secrets? We're like comrades with[r]
+similar barcodes... I think I'd be okay with it if it's with you,[r]
+Makoto-kun."[pcms]
 
 *286|
 [fc]
-[ns]誠[nse]
-「……え？」[pcms]
+[ns]Makoto[nse]
+"...Eh?"[pcms]
 
 *287|
 [fc]
-南先輩は、獲物を狙う肉食獣のような瞳で、にんまりと[r]
-口許にいやらしい微笑みを浮かべてから口を開いた。[pcms]
+With the eyes of a carnivore eyeing its prey, Satsuki-senpai smiled a[r]
+lewd smile before she spoke.[pcms]
 
 *288|
 [fc]
 [vo_stk s="satuki_st0064"]
-[ns]彩月[nse]
-「ねえ、わたしとセックスしましょう。今から。ここで。[r]
-　もっと秘密が増えて、二人の身体も心も硬く結ばれるわ」[pcms]
+[ns]Satsuki[nse]
+"Hey, let's have sex. Right now. Right here. We'll create more secrets[r]
+and bind our bodies and hearts together even tighter."[pcms]
 
 *289|
 [fc]
-ごくり……と、つい僕の喉は音を立ててつばを飲み込んでしまう。[r]
-その音を聴いて南先輩の手が僕に伸びてきた。[pcms]
+Gulp... I couldn't help but swallow my saliva audibly. Hearing that[r]
+sound, Satsuki-senpai reached out her hand towards me.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *290|
 [fc]
 [vo_stk s="satuki_st0065"]
-[ns]彩月[nse]
-「ね、しようよ。セックス。それともわたしとじゃイヤ？」[pcms]
+[ns]Satsuki[nse]
+"Come on, let's do it. Have sex. Or do you not want to with me?"[pcms]
 
 *291|
 [fc]
-僕は、勢いよくぶんぶんと首を振っていた。我ながら素直だ。[r]
-だって、すでに僕の股間は、熱くたぎっていたから。[pcms]
+I was shaking my head vigorously. I was being honest with myself.[r]
+Because my crotch was already burning hot.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *292|
 [fc]
 [vo_stk s="satuki_st0066"]
-[ns]彩月[nse]
-「じゃあ、決まり。童貞君なら教えてあげるから……」[pcms]
+[ns]Satsuki[nse]
+"Then it's decided. Since you're a virgin, I'll teach you..."[pcms]
 
 [se buf=0 storage="seB018"]
 ;//♪SE人が倒れる音
@@ -690,8 +688,8 @@
 
 *293|
 [fc]
-そう言いながら、南先輩はゆっくりと僕の上体をテントの[r]
-床へと押し倒した。[pcms]
+While saying that, Satsuki-senpai slowly pushed my upper body down to[r]
+the tent floor.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [wait_c time=1000]
@@ -699,19 +697,18 @@
 
 *294|
 [fc]
-四つん這いで僕を見下ろしていた南先輩は[r]
-おもむろにくるりと向きを変え、[r]
-僕の目の前にお尻を突き出してくる。[pcms]
+Looking down at me on all fours, Satsuki-senpai slowly turned around[r]
+and presented her butt right in front of my eyes.[pcms]
 
 *295|
 [fc]
-こ……これは！　シックスナイン？！[pcms]
+This is... Sixty-nine?![pcms]
 
 *296|
 [fc]
 [vo_stk s="satuki_st0067"]
-[ns]彩月[nse]
-「うふふ……教えてあげるから。気持ちいいこと。いっぱい」[pcms]
+[ns]Satsuki[nse]
+"Ufufu... I'll teach you. All sorts of pleasurable things."[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -732,13 +729,13 @@
 
 *297|
 [fc]
-いつもだったらシャッターやピントを合わせるのに使ってる[r]
-しなやかな指先で、僕のペニスは剥き出しにされていた。[pcms]
+The fingers that are usually used for focusing a camera or adjusting[r]
+the shutter were now exposing my penis.[pcms]
 
 *298|
 [fc]
-棹に沿ってスススッと指先がなでる。[r]
-思わず声が出そうになるのを、僕はこらえた。[pcms]
+Her fingertips glided along the shaft. I almost let out a voice but[r]
+managed to hold it back.[pcms]
 
 ;//■イベントCG　satuki_H001
 [evcg storage="satuki_H001b"][trans_c cross time=300]
@@ -746,14 +743,13 @@
 *299|
 [fc]
 [vo_stk s="satuki_st0068"]
-[ns]彩月[nse]
-「あら。うふふ。[r]
-　ま～君のおちんちん、恥ずかしがり屋さんだったのね」[pcms]
+[ns]Satsuki[nse]
+"Oh my. Ufufu. Maa-kun's cock is such a shy one, isn't it?"[pcms]
 
 *300|
 [fc]
-[ns]誠[nse]
-「……っ」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 ;//■イベントCG　satuki_H001
 [evcg storage="satuki_H001c"][trans_c cross time=300]
@@ -761,73 +757,74 @@
 *301|
 [fc]
 [vo_stk s="satuki_st0069"]
-[ns]彩月[nse]
-「顔と一緒ね。ま～君のおちんちん。可愛いわ」[pcms]
+[ns]Satsuki[nse]
+"It's just like your face. Maa-kun's cock is cute."[pcms]
 
 *302|
 [fc]
-[ns]誠[nse]
-「あんまり……嬉しく……ないでっ……す」[pcms]
+[ns]Makoto[nse]
+"That's not... exactly... flattering..."[pcms]
 
 *303|
 [fc]
 [vo_stk s="satuki_st0070"]
-[ns]彩月[nse]
-「女の子が言う可愛いにはね、愛おしいっていう意味も[r]
-　含まれてるのよ。ここは喜ぶところよ、ま～くん」[pcms]
+[ns]Satsuki[nse]
+"When a girl says cute, it includes a sense of endearment. This is[r]
+where you should be happy, Maa-kun."[pcms]
 
 *304|
 [fc]
-そう言いながら南先輩は、指先を滑らせ、頭に被っている皮を[r]
-ゆっくりと引き下ろした。[pcms]
+While saying that, Satsuki-senpai slid her fingertips and slowly[r]
+pulled back the skin covering the head.[pcms]
 
 *305|
 [fc]
-[ns]誠[nse]
-「ああっ……」[pcms]
+[ns]Makoto[nse]
+"Aah..."[pcms]
 
 *306|
 [fc]
-初めての感触に、我慢しきれず声が出てしまう。[pcms]
+Unable to endure the novel sensation, I let out a voice involuntarily.[pcms]
 
 *307|
 [fc]
 [vo_stk s="satuki_st0071"]
-[ns]彩月[nse]
-「ふふ。恥ずかしがらなくていいの。気持ちいいでしょ？[r]
-　もっと声上げていいのよ。ほら……」[pcms]
+[ns]Satsuki[nse]
+"Fufu. Don't be embarrassed. It feels good, right? You can let out[r]
+more voice. Look..."[pcms]
 
 *308|
 [fc]
-南先輩は言い終わらないうちに、軽く指先で棹をつかんで、[r]
-皮ごと上下させて僕のペニスをしごきだした。[pcms]
+Before she finished speaking, Satsuki-senpai lightly grabbed the shaft[r]
+with her fingertips and began to stroke my penis up and down with the[r]
+skin.[pcms]
 
 *309|
 [fc]
-何というか、想像以上に気持ちいい。[r]
-自分でしごいてる時とは全然違う。[pcms]
+It felt unbelievably good, way beyond what I had imagined. Completely[r]
+different from when I do it myself.[pcms]
 
 *310|
 [fc]
-[ns]誠[nse]
-「……ぁっ」[pcms]
+[ns]Makoto[nse]
+"...Ah!"[pcms]
 
 *311|
 [fc]
-その刺激が僕のペニスに更に血液を充填させ、[r]
-自分でもわかるぐらいパンパンガチガチに勃起していった。[pcms]
+The stimulation made my penis swell with even more blood, becoming[r]
+painfully hard and erect to the point that even I could tell.[pcms]
 
 *312|
 [fc]
 [vo_stk s="satuki_st0072"]
-[ns]彩月[nse]
-「うわぁん。すっごく硬くなってきた。凄いわ、ま～くん。[r]
-　一皮剥けたら、すっごく逞しくなっちゃったじゃない」[pcms]
+[ns]Satsuki[nse]
+"Wow, it's getting so hard. Amazing, Maa-kun. It's become so robust[r]
+after peeling back the skin."[pcms]
 
 *313|
 [fc]
-[ns]誠[nse]
-「……っ」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 ;//■イベントCG　satuki_H001
 [evcg storage="satuki_H001b"][trans_c cross time=300]
@@ -835,169 +832,170 @@
 *314|
 [fc]
 [vo_stk s="satuki_st0073"]
-[ns]彩月[nse]
-「ふふ。食べ甲斐が出てきたな。こういうギャップのある[r]
-　男の子、大好きだよ。……じゃあ、次……ね」[pcms]
+[ns]Satsuki[nse]
+"Fufu. You're starting to look more appetizing. I love boys with such[r]
+a gap... Now, next..."[pcms]
 
 *315|
 [fc]
-指と手のひらの感触がふいに無くなり、僕のガチガチのペニスは[r]
-柔らかいけど妙に弾力のある暖かなものに包まれた。[pcms]
+The sensation of her fingers and palm suddenly disappeared, and my[r]
+rock-hard penis was enveloped by something soft yet strangely elastic[r]
+and warm.[pcms]
 
 *316|
 [fc]
-これは、もしかして、あこがれのっ！[pcms]
+This is, could it be, my longed-for...![pcms]
 
 *317|
 [fc]
 [vo_stk s="satuki_st0074"]
-[ns]彩月[nse]
-「どお？　初めての経験でしょ？　おっぱいにおちんちん[r]
-　挟んでもらった感じはどお？」[pcms]
+[ns]Satsuki[nse]
+"How is it? It's your first time experiencing this, right? How does it[r]
+feel to have your cock sandwiched between breasts?"[pcms]
 
 *318|
 [fc]
-[ns]誠[nse]
-「は、はいっ、気持ちいいですっっっ」[pcms]
+[ns]Makoto[nse]
+"Ye-yes, it feels good!"[pcms]
 
 *319|
 [fc]
 [vo_stk s="satuki_st0075"]
-[ns]彩月[nse]
-「嬉しいな～。もっと気持ちよくしてあげるからね」[pcms]
+[ns]Satsuki[nse]
+"I'm glad to hear that. I'll make you feel even better."[pcms]
 
 *320|
 [fc]
-軽い圧迫感を伴いながら、おっぱいが上下しだした。[r]
-僕のペニスを包み込みながら擦っていく。[pcms]
+With a light pressure, her breasts began to move up and down, rubbing[r]
+my penis while enveloping it.[pcms]
 
 *321|
 [fc]
-手なんかとは比べものにならない圧倒的な肉の感触。[r]
-隙間無く僕の棹をしごきあげている。[pcms]
+The overwhelming sensation of flesh was incomparable to a hand. It was[r]
+stroking my shaft without any gaps.[pcms]
 
 *322|
 [fc]
-[ns]誠[nse]
-「うっあっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh, ah..."[pcms]
 
 *323|
 [fc]
 [vo_stk s="satuki_st0076"]
-[ns]彩月[nse]
-「ふふ。気持ちいい？　んっ……あぁ……凄いわね。[r]
-　ま～君のおちんちん。どんどん熱くなってるね」[pcms]
+[ns]Satsuki[nse]
+"Fufu. Does it feel good? Mmm... Ah... Amazing. Your cock is getting[r]
+hotter and hotter."[pcms]
 
 *324|
 [fc]
-[ns]誠[nse]
-「は……いっ……！」[pcms]
+[ns]Makoto[nse]
+"Ye-yes...!"[pcms]
 
 *325|
 [fc]
 [vo_stk s="satuki_st0077"]
-[ns]彩月[nse]
-「熱くて……硬くて……あっ……んっ。ふふ。わたしも[r]
-　気持ちよくなってきてるわ。[r]
-　ま～君……どお、胸マンコよ。気持ちいいでしょ？」[pcms]
+[ns]Satsuki[nse]
+"It's hot... and hard... Ah... Mmm. Fufu. I'm starting to feel good[r]
+too. Makoto... how about it, do you like the breast pussy? It feels[r]
+good, doesn't it?"[pcms]
 
 *326|
 [fc]
-[ns]誠[nse]
-「は、はいぃっ！　む、胸まんこ、き、気持ちいいです」[pcms]
+[ns]Makoto[nse]
+"Yes, yes! The breast pussy, it feels good."[pcms]
 
 *327|
 [fc]
 [vo_stk s="satuki_st0078"]
-[ns]彩月[nse]
-「まだまだ～。んっ……胸マンコの、気持……ちよさは、[r]
-　もっと、もっと凄いんだから……ぁ」[pcms]
+[ns]Satsuki[nse]
+"We're just getting started... Mmm... The pleasure of a breast pussy[r]
+is much, much more intense... Ah."[pcms]
 
 *328|
 [fc]
-[ns]誠[nse]
-「ひああっ！」[pcms]
+[ns]Makoto[nse]
+"Hiaaah!"[pcms]
 
 *329|
 [fc]
-思わず情けない声が出てしまう。[r]
-棹の部分はおっぱいでしごかれ続け、おまけに指先で[r]
-僕の玉が弄ばれ始めていた。[pcms]
+An embarrassingly pathetic voice escaped me. My shaft continued to be[r]
+stroked by her breasts, and to add to that, her fingertips began to[r]
+play with my balls.[pcms]
 
 *330|
 [fc]
-手のひらで転がされ、軽くつままれ……って、[r]
-うわあ、玉がこんなに気持ちよくなるだなんて、知らなかったっ！[pcms]
+They were rolled around in her palm and lightly pinched... Wow, I had[r]
+no idea balls could feel this good![pcms]
 
 *331|
 [fc]
 [vo_stk s="satuki_st0079"]
-[ns]彩月[nse]
-「ふふふ。もっと可愛い声あげて、ま～君。わたしに聴かせて」[pcms]
+[ns]Satsuki[nse]
+"Fufufu. Let out more cute sounds, Makoto. Let me hear them."[pcms]
 
 *332|
 [fc]
-[ns]誠[nse]
-「ああっあっ！」[pcms]
+[ns]Makoto[nse]
+"Aah! Ah!"[pcms]
 
 ;//■イベントCG　satuki_H001
 [evcg storage="satuki_H001d"][trans_c cross time=300]
 
 *333|
 [fc]
-亀頭がねっとりとした感触に包まれる。ぬるりとした舌先が[r]
-鈴口に差し込まれ、そのまま頭全体が舐め回されてる。[pcms]
+The head of my cock was enveloped in a sticky sensation. A wet tongue[r]
+slipped into the slit and then licked all around the head.[pcms]
 
 *334|
 [fc]
 [vo_stk s="satuki_st0080"]
-[ns]彩月[nse]
-「……ん……んぢゅ……んっ。ふふ、どお？　んっぢゅる……。[r]
-　口の中熱いわ、素敵よま～君。んっんっぢゅぢゅぢゅぢゅ」[pcms]
+[ns]Satsuki[nse]
+"...Mmm... Njyu... Mmm. Fufu, how is it? Njyuru... My mouth is so hot,[r]
+you're wonderful, Makoto. Mmmmm njyu njyu njyu njyu"[pcms]
 
 *335|
 [fc]
-[ns]誠[nse]
-「っ！　っ！　あっああっ！」[pcms]
+[ns]Makoto[nse]
+"! ! Ah! Aaah!"[pcms]
 
 *336|
 [fc]
 [vo_stk s="satuki_st0081"]
-[ns]彩月[nse]
-「んんっぢゅるっ……んあっんんんんっぢゅっぢゅっ。んはあっ。[r]
-　んっぢゅぢゅっ、ぢゅるるるるっ！」[pcms]
+[ns]Satsuki[nse]
+"Nnnnjyuru... Nnah! Nnnnnn njyu njyu. Nhaah. Nnnjyu njyu,[r]
+njyururururu!"[pcms]
 
 *337|
 [fc]
-[ns]誠[nse]
-「せ……先輩、だ、だめです。も、もう、出ちゃいますぅ！」[pcms]
+[ns]Makoto[nse]
+"Se-senpai, no, I can't. I'm going to cum!"[pcms]
 
 *338|
 [fc]
 [vo_stk s="satuki_st0082"]
-[ns]彩月[nse]
-「んっはっん。だめだめぇ。まだまだぁ。んっ……んぢゅっん。[r]
-　もっと、もっと、気持ちよくしてあげるから……んっちゅっ」[pcms]
+[ns]Satsuki[nse]
+"Nnha nn. No way, not yet. Mmm... Njyu mmm. I'll make you feel even[r]
+better... Nnchu"[pcms]
 
 *339|
 [fc]
-[ns]誠[nse]
-「！！　あひぃっ！」[pcms]
+[ns]Makoto[nse]
+"!! Ahi!"[pcms]
 
 *340|
 [fc]
-僕の玉を撫で回していた指先が、アリの門渡りを滑り、[r]
-ゆっくりと、でもぬるりと容赦なくアナルへと差し込まれていた。[pcms]
+The fingertips that had been caressing my balls slid over the perineum[r]
+and slowly but surely penetrated my anus without mercy.[pcms]
 
 *341|
 [fc]
-脳天を突き抜けるような快感。[r]
-南先輩の指が動く度に、思わず腰がビクンビクンと跳ね上がる。[pcms]
+A pleasure so intense it felt like it pierced through my skull. Every[r]
+time Minami-senpai's finger moved, my hips involuntarily jerked up.[pcms]
 
 *342|
 [fc]
-[ns]誠[nse]
-「ああっ、あっああっ！」[pcms]
+[ns]Makoto[nse]
+"Aah! Ah! Aaah!"[pcms]
 
 ;//■イベントCG　satuki_H001
 [evcg storage="satuki_H001e"][trans_c cross time=300]
@@ -1005,19 +1003,20 @@
 *343|
 [fc]
 [vo_stk s="satuki_st0083"]
-[ns]彩月[nse]
-「んぢゅるっ……んっんんっ。はあっ……可愛い。[r]
-　もっともっと聴かせて、可愛いその声……ほら、ねっ！」[pcms]
+[ns]Satsuki[nse]
+"Njyuru... Mmmmmm. Haaah... Cute. Let me hear more of that adorable[r]
+voice... Here, like this!"[pcms]
 
 *344|
 [fc]
-南先輩は、ちゃんとアナルのポイントを知っているんだ。[r]
-そこを指先で円を描くように刺激されて、僕は頭が真っ白にっ！[pcms]
+Minami-senpai knew exactly where the spot in my anus was. She[r]
+stimulated it by drawing circles with her fingertip, and my mind went[r]
+blank![pcms]
 
 *345|
 [fc]
-[ns]誠[nse]
-「あっ、あああっひぃっ！」[pcms]
+[ns]Makoto[nse]
+"Ah! Aaah! Hii!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -1032,254 +1031,253 @@
 
 *346|
 [fc]
-ドピュッ！　ドピュッ！　ドピュッ！[pcms]
+Dopyu! Dopyu! Dopyu![pcms]
 
 *347|
 [fc]
-そう擬音を付けたくなる勢いで、僕は射精していた。[r]
-低いテントの天井に届いてるものもある。[pcms]
+With the force that made me want to add sound effects, I ejaculated.[r]
+Some of it even reached the low tent ceiling.[pcms]
 
 *348|
 [fc]
-精子を吐き出す度に、腰が持ち上がり南先輩を跳ね上げる。[r]
-何度も、何度も……。[pcms]
+With each spurt of semen, my hips lifted and bounced Minami-senpai up.[r]
+Over and over...[pcms]
 
 ;//■イベントCG　satuki_H001
 [evcg storage="satuki_H001a"][trans_c cross time=300]
 
 *349|
 [fc]
-ボワッと熱を帯びて、何も考えられない頭。[r]
-でも、目だけがその吹き出す僕の精子を見ていた。[pcms]
+A wave of heat washed over me, leaving my mind unable to think of[r]
+anything. But my eyes alone were watching the spurting semen.[pcms]
 
 *350|
 [fc]
 [vo_stk s="satuki_st0084"]
-[ns]彩月[nse]
-「きゃあん。凄い凄い。凄いよ、ま～君！　いっぱい出たぁ。[r]
-　うふふ。凄い臭い。どろっどろの精子がこんなにいっぱい！」[pcms]
+[ns]Satsuki[nse]
+"Kyaaan. Amazing, amazing. You're incredible, Makoto! So much came[r]
+out. Ufufu. Such a strong smell. So much thick semen!"[pcms]
 
 *351|
 [fc]
 [vo_stk s="satuki_st0085"]
-[ns]彩月[nse]
-「んふう……凄いぃ、ま～君。ああ……いっぱい浴びちゃったぁ。[r]
-　……今度は、わたしが気持ちよくなる番よ、ねっ」[pcms]
+[ns]Satsuki[nse]
+"Nfuu... Amazing, Makoto. Ah... I got covered in so much of it. ...Now[r]
+it's my turn to feel good, right?"[pcms]
 
 *352|
 [fc]
-そう振り向きざまに南先輩が言うのを、僕はぼんやりした頭で、[r]
-ただただ聴いていた。[pcms]
+As Minami-senpai turned around and said that, I just listened with a[r]
+dazed mind.[pcms]
 
 ;//■イベントCG　satuki_H002 ●誠に馬乗りになる彩月
 [evcg storage="satuki_H002a"][trans_c cross time=300]
 
 *353|
 [fc]
-僕の精液を浴び、頬を上気させた南先輩の顔が僕に向けられる。[r]
-胸元ははだけていて、むっちりとした乳房が見えている。[pcms]
+Minami-senpai, her cheeks flushed from being showered in my semen,[r]
+turned her face towards me. Her chest was exposed, revealing her plump[r]
+breasts.[pcms]
 
 *354|
 [fc]
-南先輩は着やせするたちだった。想像以上にたわわなおっぱいが[r]
-僕の目の前に差し出されていた。[pcms]
+Minami-senpai was the type to look thinner when clothed. Her[r]
+unexpectedly bountiful breasts were presented right before my eyes.[pcms]
 
 *355|
 [fc]
 [vo_stk s="satuki_st0086"]
-[ns]彩月[nse]
-「ふふふっ。んっ……んっああっ。熱いわ、ま～君のおちんちん。[r]
-　あんなに出したのに、まぁだ硬い」[pcms]
+[ns]Satsuki[nse]
+"Fufufu. Mmm... Ahh. Your dick is so hot, Makoto. Even after[r]
+ejaculating so much, it's still hard."[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
 
 *356|
 [fc]
-スカートをまくり上げた南先輩の腰がゆっくりと動く。[r]
-ストッキングを履いたままのお尻で僕のペニスを[r]
-擦り上げている。[pcms]
+Minami-senpai, lifting her skirt, began to move her hips slowly. She[r]
+was rubbing my penis with her butt, still clad in stockings.[pcms]
 
 *357|
 [fc]
-放出した精液が潤滑油になって、ストッキングの布地が[r]
-微妙に棹にまとわりつきながら擦り上げて、また僕のペニスは、[r]
-硬さを増し始めていた。[pcms]
+The semen I had released became a lubricant, and the fabric of the[r]
+stockings clung subtly to my shaft as it rubbed against it, making my[r]
+penis start to harden again.[pcms]
 
 *358|
 [fc]
-[ns]誠[nse]
-「ああっ、気持ちいいです」[pcms]
+[ns]Makoto[nse]
+"Ahh, it feels good."[pcms]
 
 *359|
 [fc]
-たぶん恍惚の表情で僕は南先輩を見つめている。[r]
-先輩は僕を見下ろし、にんまりと笑いながら、腰を動かし[r]
-続けていた。[pcms]
+I must be looking at Minami-senpai with an ecstatic expression. She[r]
+looked down at me, smiling broadly as she continued to move her hips.[pcms]
 
 [evcg storage="satuki_H002b"][trans_c cross time=300]
 
 *360|
 [fc]
-たまらなくなって南先輩のゆっくりと動くお尻をつかんだ。[r]
-そのお尻は、ゴム鞠みたいな弾性があって、食い込む僕の[r]
-指先を押し返してくる。[pcms]
+I couldn't stand it anymore and grabbed Minami-senpai's slowly moving[r]
+butt. It had the elasticity of a rubber ball, pushing back against my[r]
+digging fingers.[pcms]
 
 *361|
 [fc]
-死んだ肉じゃない。生きている肉の生々しく、豊満な感触。[r]
-その触感をペニスでも味わいたくて、僕は自分の腰を動かし、[r]
-お尻にこすりつけた。[pcms]
+It wasn't dead flesh; it was the vivid and ample sensation of living[r]
+flesh. Wanting to feel that touch with my penis too, I moved my own[r]
+hips and rubbed against her butt.[pcms]
 
 *362|
 [fc]
 [vo_stk s="satuki_st0087"]
-[ns]彩月[nse]
-「んっああっ。ふふっ……もう、激しいんだからま～君ってば。[r]
-　ねえ、このおちんちん、どうしたいの？」[pcms]
+[ns]Satsuki[nse]
+"Nnnaah. Fufu... Makoto, you're so intense. Hey, what do you want to[r]
+do with this dick?"[pcms]
 
 *363|
 [fc]
-[ns]誠[nse]
-「先輩の、中に挿れたいですっ……」[pcms]
+[ns]Makoto[nse]
+"I want to insert it inside you, Senpai..."[pcms]
 
 *364|
 [fc]
-僕の腰の動きに呼応するように、南先輩のお尻の動きも[r]
-激しくなってきた。[pcms]
+As I moved my hips, Minami-senpai's butt movements also became more[r]
+intense.[pcms]
 
 *365|
 [fc]
 [vo_stk s="satuki_st0088"]
-[ns]彩月[nse]
-「中に挿れて、どう……したいの？」[pcms]
+[ns]Satsuki[nse]
+"Insert it inside and then... what do you want to do?"[pcms]
 
 *366|
 [fc]
-[ns]誠[nse]
-「せ、先輩のマンコで、しご、いて欲しいです」[pcms]
+[ns]Makoto[nse]
+"I want your pussy to... jerk me off."[pcms]
 
 *367|
 [fc]
 [vo_stk s="satuki_st0089"]
-[ns]彩月[nse]
-「んっ……ぁぁっ……しごくと、わたしのマンコでしごかれると[r]
-　ま～君のおちんちんは、ど……うなっちゃうの？」[pcms]
+[ns]Satsuki[nse]
+"Nn... Ahh... When you say 'jerk off', do you mean being jerked off by[r]
+my pussy? What will happen to your dick then, Makoto?"[pcms]
 
 *368|
 [fc]
-[ns]誠[nse]
-「マンコの、中に出しちゃいます……ぅ」[pcms]
+[ns]Makoto[nse]
+"I'll cum inside... your pussy..."[pcms]
 
 *369|
 [fc]
 [vo_stk s="satuki_st0090"]
-[ns]彩月[nse]
-「わたしの中……一番深～いところまで挿れるの？[r]
-　そこまで入ったら、ま～くんのおちんちんから何が出るの？」[pcms]
+[ns]Satsuki[nse]
+"Inside me... Are you going to insert it all the way to the deepest[r]
+part? If it goes that deep, what will come out of your dick, Makoto?"[pcms]
 
 *370|
 [fc]
-[ns]誠[nse]
-「せ、精子、精子です。いっぱい。精液たくさんっっ！　ああっ」[pcms]
+[ns]Makoto[nse]
+"Se... semen, lots of semen! Aaah!"[pcms]
 
 *371|
 [fc]
 [vo_stk s="satuki_st0091"]
-[ns]彩月[nse]
-「ふふ……わたしの中に、さっきみたいなたっぷりの精液、[r]
-　ぶちまけたいのかな？」[pcms]
+[ns]Satsuki[nse]
+"Fufu... Do you want to spill a lot of semen inside me, like you did[r]
+just now?"[pcms]
 
 *372|
 [fc]
-[ns]誠[nse]
-「は、はいっっ！　ぶちまけたいですっ！　ぶちまけたいです！」[pcms]
+[ns]Makoto[nse]
+"Yes! I want to spill it! I want to spill it inside!"[pcms]
 
 *373|
 [fc]
-僕のペニスは、張り裂けそうなぐらいパツパツになっていた。[r]
-先輩の腰の動きに誘われ、僕の腰はますます動きが早くなる。[pcms]
+My penis was so engorged it felt like it was going to burst. Led by[r]
+Senpai's hip movements, my own movements became faster.[pcms]
 
 *374|
 [fc]
-[ns]誠[nse]
-「中に、中で、ぶちまけさせてください、み、なみ先輩ぃ」[pcms]
+[ns]Makoto[nse]
+"Please let me cum inside, inside you, Minami-senpai!"[pcms]
 
 *375|
 [fc]
 [vo_stk s="satuki_st0092"]
-[ns]彩月[nse]
-「いいわよ、中に挿れさせてあげるわよ。[r]
-　ちゃんといい子でゴム付けてくれたらね」[pcms]
+[ns]Satsuki[nse]
+"Okay, I'll let you insert it inside. But only if you're a good boy[r]
+and put on a condom."[pcms]
 
 *376|
 [fc]
-[ns]誠[nse]
-「な、生で、初めてだから、生で挿れさせて下さいぃ」[pcms]
+[ns]Makoto[nse]
+"Please let me insert it raw for the first time..."[pcms]
 
 *377|
 [fc]
 [vo_stk s="satuki_st0093"]
-[ns]彩月[nse]
-「それはだぁめ。ま～君は、いい子になれないのぉ？」[pcms]
+[ns]Satsuki[nse]
+"That's a no-go. Can't you be a good boy, Makoto?"[pcms]
 
 *378|
 [fc]
-そう言いながら、南先輩は腰をより密着させてスライド[r]
-させ始めた。与えられる刺激が大きくなって、僕は出したくて[r]
-たまらなくなっていた。もう、持たない。[pcms]
+While saying that, Minami-senpai pressed her hips closer and began to[r]
+slide more intimately. The stimulation increased and I desperately[r]
+wanted to release. I couldn't hold on any longer.[pcms]
 
 *379|
 [fc]
-[ns]誠[nse]
-「お、お願いです先輩。中で、出させてください。中で[r]
-　生で出させてっ！　くださっいっ！」[pcms]
+[ns]Makoto[nse]
+"Please, Senpai. Let me cum inside. Let me cum raw inside! Please!"[pcms]
 
 [evcg storage="satuki_H002c"][trans_c cross time=300]
 
 *380|
 [fc]
 [vo_stk s="satuki_st0094"]
-[ns]彩月[nse]
-「だぁめよ、ま～くん。ちゃんとゴム付けたら、中でいっくらでも[r]
-　いっぱい出していいんだよ。どうする～？」[pcms]
+[ns]Satsuki[nse]
+"No way, Makoto-kun. If you put on a condom like a good boy, then you[r]
+can cum as much as you want inside. What will you do?"[pcms]
 
 *381|
 [fc]
-[ns]誠[nse]
-「う……うう……」[pcms]
+[ns]Makoto[nse]
+"Ugh... Uuu..."[pcms]
 
 *382|
 [fc]
 [vo_stk s="satuki_st0095"]
-[ns]彩月[nse]
-「いい子になってゴム付ければ、わたしのマンコにいっぱい[r]
-　精液ぶちこめるんだよ～」[pcms]
+[ns]Satsuki[nse]
+"If you're a good boy and put on a condom, you can fill my pussy with[r]
+lots of semen."[pcms]
 
 *383|
 [fc]
-[ns]誠[nse]
-「……うう、わ、わかりました。付けます。付けますから、[r]
-　先輩のマンコに挿れさせて、くださいっ！」[pcms]
+[ns]Makoto[nse]
+"...Ugh, okay. I'll put one on. I'll put one on, so please let me[r]
+insert it into your pussy!"[pcms]
 
 *384|
 [fc]
-もう限界が近かった。本当は生で中だししたい。[r]
-でも、それよりも南先輩のマンコに挿れたくて挿れたくて、[r]
-僕は、そう答えるしかなかった。[pcms]
+I was at my limit. I really wanted to cum inside her raw. But more[r]
+than that, I wanted to insert it into Minami-senpai's pussy so badly[r]
+that I had no choice but to agree.[pcms]
 
 *385|
 [fc]
 [vo_stk s="satuki_st0096"]
-[ns]彩月[nse]
-「いい子ねえ、ま～君。ふふっ。ゴム付けたら、いっぱい[r]
-　いっぱいわたしのマンコの中でイっていいからね。[r]
-　ほら、遠慮なんかしないでイって、イってぇ」[pcms]
+[ns]Satsuki[nse]
+"You're such a good boy, Makoto-kun. Fufu. Once you put on a condom,[r]
+you can cum as much as you want inside my pussy. Come on, don't hold[r]
+back and cum."[pcms]
 
 *386|
 [fc]
-南先輩の腰がグラインドする。単調に擦られてるだけじゃない[r]
-新たな刺激が僕のペニスに加えられて、僕はもう、もうっ！[pcms]
+Minami-senpai's hips grinded against me. It wasn't just monotonous[r]
+rubbing; new stimuli were being applied to my penis and I was about[r]
+to![pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1289,142 +1287,142 @@
 
 *387|
 [fc]
-[ns]誠[nse]
-「あああっ！！」[pcms]
+[ns]Makoto[nse]
+"Aaaaah!!"[pcms]
 
 [evcg storage="satuki_H002e"][trans_c cross time=300]
 
 *388|
 [fc]
 [vo_stk s="satuki_st0097"]
-[ns]彩月[nse]
-「ああっ！　ああんっ！　熱い、わたしのお尻熱いぃっ！」[pcms]
+[ns]Satsuki[nse]
+"Aaah! Ahhhn! It's hot, my butt is so hot!"[pcms]
 
 *389|
 [fc]
-我慢しきれずに南先輩のお尻に僕は精液をぶちまけてしまった。[pcms]
+Unable to hold back any longer, I ended up spilling my semen on[r]
+Minami-senpai's butt.[pcms]
 
 *390|
 [fc]
 [vo_stk s="satuki_st0098"]
-[ns]彩月[nse]
-「うふふ。今度も凄いね～。わたしのお尻燃えちゃいそうだよぉ」[pcms]
+[ns]Satsuki[nse]
+"Ufufu. It's amazing again~ My butt feels like it's on fire."[pcms]
 
 *391|
 [fc]
-まだビクンビクンと跳ね上げている僕のペニスをまた南先輩は[r]
-お尻でこする。さすられる度に、まだ棹の中に残っている[r]
-僕の精子は絞り出されていた。[pcms]
+Even now, as my penis continued to twitch and bounce, Minami-senpai[r]
+rubbed it with her butt again. With each stroke, the remaining semen[r]
+inside me was being squeezed out.[pcms]
 
 *392|
 [fc]
 [vo_stk s="satuki_st0099"]
-[ns]彩月[nse]
-「本当に凄いね～。こ～んな濃厚な精液、この勢いでわたしの[r]
-　中に出されたら、妊娠しちゃいそう。ふふっ」[pcms]
+[ns]Satsuki[nse]
+"You really are amazing~ With such thick semen spurting out like this[r]
+into me, I might get pregnant. Fufu."[pcms]
 
 *393|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *394|
 [fc]
-妊娠……南先輩が僕の子供をはらむ。[r]
-僕の精液で、ドピュドピュでる精液で……。[r]
-妊娠させるぐらい、中でいっぱい出したいっ！[pcms]
+Pregnancy... Minami-senpai carrying my child. With my semen, spurting[r]
+out... I want to release so much inside her that it could lead to[r]
+pregnancy![pcms]
 
 *395|
 [fc]
-ぼおっとしながらも、そんな事を考え出したら、[r]
-たちまち僕のペニスに、血液が充填され始めた。[pcms]
+Even while dazed, as I started thinking about such things, blood began[r]
+to fill my penis once again.[pcms]
 
 *396|
 [fc]
 [vo_stk s="satuki_st0100"]
-[ns]彩月[nse]
-「ふふ……凄いね～ま～君。また硬くなってきてる。[r]
-　いっぱい出したいんだね～」[pcms]
+[ns]Satsuki[nse]
+"Fufu... Amazing, isn't it, Makoto-kun? It's getting hard again. You[r]
+really want to release a lot, don't you~"[pcms]
 
 *397|
 [fc]
-[ns]誠[nse]
-「せ、先輩。お願いします。中に、マンコの中に挿れさせて[r]
-　ください……ぃ」[pcms]
+[ns]Makoto[nse]
+"Se-Senpai, please. Let me insert it inside you, into your pussy...[r]
+please..."[pcms]
 
 *398|
 [fc]
 [vo_stk s="satuki_st0101"]
-[ns]彩月[nse]
-「そうね。ちゃんといい子にするって約束したものね」[pcms]
+[ns]Satsuki[nse]
+"Well, you did promise to be a good boy."[pcms]
 
 *399|
 [fc]
-南先輩は、僕にまたがったまま、クイッと身体をひねって[r]
-傍らに置いてあったバッグを引き寄せた。[pcms]
+Minami-senpai, still straddling me, twisted her body and pulled a bag[r]
+that was placed beside her closer.[pcms]
 
 *400|
 [fc]
-ちょっと探っただけで中から取りだし、僕の目の前に[r]
-プランと小さな袋を下げて見せた。[pcms]
+She quickly searched inside it and took something out, dangling a[r]
+small packet in front of me.[pcms]
 
 *401|
 [fc]
 [vo_stk s="satuki_st0102"]
-[ns]彩月[nse]
-「準備のいい女だななんて思った？　でも、何があるかなんて[r]
-　判らないからね～。今、付けてあげるね」[pcms]
+[ns]Satsuki[nse]
+"Did you think I'm a woman who's well-prepared? But you never know[r]
+what might happen~. I'll put it on for you now."[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *402|
 [fc]
-そう言うと、コンドームの封を切り、手慣れた様子で[r]
-僕のペニスに被せ始めた。[pcms]
+As she said that, she cut open the condom wrapper and began to roll it[r]
+onto my penis with practiced ease.[pcms]
 
 *403|
 [fc]
-巻いてあったゴムがぬるりとした感触を僕のペニスに感じさせ[r]
-ながら、表面を覆っていく。下ろされきると、徐々に全体的な[r]
-圧迫感と根元への締め付け感を感じた。[pcms]
+The rolled-up rubber gave a slippery sensation as it covered the[r]
+surface of my penis. Once it was fully unrolled, I felt an overall[r]
+sense of constriction and tightness at the base.[pcms]
 
 [evcg storage="satuki_H002f"][trans_c cross time=300]
 
 *404|
 [fc]
-[ns]誠[nse]
-「……っ」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *405|
 [fc]
 [vo_stk s="satuki_st0103"]
-[ns]彩月[nse]
-「ん？　ああ、コンドーム付けるのも初めてなんだ？」[pcms]
+[ns]Satsuki[nse]
+"Hm? Ah, is this your first time putting on a condom?"[pcms]
 
 *406|
 [fc]
-[ns]誠[nse]
-「は、はい……その、なんだか締め付けられてて……[r]
-　変な感じです」[pcms]
+[ns]Makoto[nse]
+"Ye-Yes... It feels kind of tight... It's a strange feeling."[pcms]
 
 *407|
 [fc]
 [vo_stk s="satuki_st0104"]
-[ns]彩月[nse]
-「そうかもね。でも、ピッチリしてないとしている最中に[r]
-　外れちゃうでしょ？　そうしたら意味ないじゃない。[r]
-　逆に利点もあるのよ。ピタッとしてるがゆえのね」[pcms]
+[ns]Satsuki[nse]
+"It might feel that way. But if it's not tight, it could come off[r]
+during sex, right? That would defeat the purpose. There are advantages[r]
+to it being snug."[pcms]
 
 *408|
 [fc]
-[ns]誠[nse]
-「…………利点？」[pcms]
+[ns]Makoto[nse]
+"...Advantages?"[pcms]
 
 *409|
 [fc]
 [vo_stk s="satuki_st0105"]
-[ns]彩月[nse]
-「ふふ……まあ、体験してみればわかるわ」[pcms]
+[ns]Satsuki[nse]
+"Fufu... You'll understand once you experience it."[pcms]
 
 ;//■_ストッキングを裂く音
 [se buf=0 storage="seB072"]
@@ -1433,44 +1431,43 @@
 
 *410|
 [fc]
-南先輩は、僕の視線を誘うように手をゆっくりと自分の股間に[r]
-かざし、わざと見せつけるように自分のストッキングを[r]
-裂きはじめた。[pcms]
+Minami-senpai slowly raised her hand to her crotch as if to draw my[r]
+gaze and deliberately began to tear her stockings.[pcms]
 
 *411|
 [fc]
-ゴクリ……とまたもや僕の喉が鳴る。[r]
-その音を嬉しそうな顔で聞き留めた南先輩は、またゆっくりと[r]
-あらわになった下着のクロッチの部分を横にずらしてみせた。[pcms]
+I swallowed hard again. Minami-senpai, with a pleased look on her[r]
+face, slowly shifted the crotch of her now exposed panties to the[r]
+side.[pcms]
 
 *412|
 [fc]
-そこはもうしっとりとぬめっていて、ピンク色に輝いていた。[r]
-初めて生で見るマンコに、僕のペニスは更に怒張した。[pcms]
+The area was already moist and glistening pink. My penis swelled even[r]
+more at the sight of a pussy in the flesh for the first time.[pcms]
 
 *413|
 [fc]
 [vo_stk s="satuki_st0106"]
-[ns]彩月[nse]
-「どお？　ま～くん、興奮する？　君、こ～いうの好きでしょ？」[pcms]
+[ns]Satsuki[nse]
+"How about it? Are you excited, Makoto-kun? You like this sort of[r]
+thing, don't you?"[pcms]
 
 *414|
 [fc]
-[ns]誠[nse]
-「はいっっ！　で、でも、いいんですか？[r]
-　ストッキング破っちゃって？」[pcms]
+[ns]Makoto[nse]
+"Yes! But, is it okay? To tear the stockings like that?"[pcms]
 
 *415|
 [fc]
 [vo_stk s="satuki_st0107"]
-[ns]彩月[nse]
-「大丈夫よ。ちゃんと予備は持ってるから。それに、どのみち[r]
-　君の精液が付いたストッキングは、もう履けないでしょ？」[pcms]
+[ns]Satsuki[nse]
+"It's fine. I always carry spares. Besides, stockings stained with[r]
+your semen can't be worn again, right?"[pcms]
 
 *416|
 [fc]
-にっこりと微笑みながら南先輩は僕のペニスに手を添えて[r]
-ゆっくりと自分のマンコへとあてがった。[pcms]
+Minami-senpai smiled sweetly as she placed her hand on my penis and[r]
+slowly aligned it with her pussy.[pcms]
 
 [evcg storage="satuki_H002h"][trans_c cross time=300]
 
@@ -1480,234 +1477,233 @@
 *417|
 [fc]
 [vo_stk s="satuki_st0108"]
-[ns]彩月[nse]
-「んっ……あぁっ……熱くて……凄い……。[r]
-　ま～くんのおちんちん、気持ちいいわぁ」[pcms]
+[ns]Satsuki[nse]
+"Nn... Ahh... It's so hot... amazing... Your cock feels so good,[r]
+Makoto-kun."[pcms]
 
 *418|
 [fc]
-[ns]誠[nse]
-「ぼ、僕もです。先輩のマンコ、す、す……っ！」[pcms]
+[ns]Makoto[nse]
+"I-I feel the same. Your pussy is so... ah!"[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
 
 *419|
 [fc]
-南先輩の腰が降りてくる。同時に僕のペニスは、たやすく[r]
-ぬるりとマンコの中に飲み込まれていく。[pcms]
+Minami-senpai's hips descended. Simultaneously, my penis was easily[r]
+engulfed by the slippery warmth of her pussy.[pcms]
 
 *420|
 [fc]
-おっぱいの時の肉の感触とは違う。[r]
-もっと熱くて、まとわりついてきて、ねっとりしていて[r]
-包み込まれている感じだ。[pcms]
+The sensation was different from that of breasts. It was hotter,[r]
+clinging, sticky, and felt completely enveloping.[pcms]
 
 *421|
 [fc]
 [vo_stk s="satuki_st0109"]
-[ns]彩月[nse]
-「んあああっ、いいっ。入ってくる感触が、好きなの。[r]
-　ま～くんのおちんちんは、凄く気持ちいいわ」[pcms]
+[ns]Satsuki[nse]
+"Nnnaahh, that's good. I love the feeling of it entering me. Your cock[r]
+feels incredibly good, Makoto-kun."[pcms]
 
 *422|
 [fc]
-ぎゅぎゅぎゅっと、中がうごめき締め付けてくる。[r]
-僕の棹に吸い付いてくる！[pcms]
+The inside tightened around me, writhing and sucking on my shaft![pcms]
 
 *423|
 [fc]
-[ns]誠[nse]
-「……っ！」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *424|
 [fc]
-コンドーム付けてて正解だったのかも。[r]
-付けてなかったら、もうこの瞬間に出しちゃったかもしれない。[pcms]
+It was a good decision to wear a condom. If I hadn't been wearing one,[r]
+I might have already come at this moment.[pcms]
 
 *425|
 [fc]
 [vo_stk s="satuki_st0110"]
-[ns]彩月[nse]
-「うふふ……どお？　わたしのマンコの中は？」[pcms]
+[ns]Satsuki[nse]
+"Ufufu... How is it? Inside my pussy?"[pcms]
 
 *426|
 [fc]
-[ns]誠[nse]
-「き、気持ちいいです。もう出ちゃいそうな気持ちよさですっ」[pcms]
+[ns]Makoto[nse]
+"It feels good. It feels so good I think I might come already."[pcms]
 
 *427|
 [fc]
 [vo_stk s="satuki_st0111"]
-[ns]彩月[nse]
-「それはだ～め。わたしを感じさせてくれなくちゃ。[r]
-　……んっ、ああっ、ああんっ、あたるっ！[r]
-　ま～くんのおちんちん、ああっ、いい感じッ」[pcms]
+[ns]Satsuki[nse]
+"That won't do. You have to make me feel it too. ...Nn, aahh, aahn,[r]
+that's it! Your cock feels so good, Makoto-kun."[pcms]
 
 *428|
 [fc]
-南先輩の腰が怪しく踊り出す。前後だけじゃなく円運動も[r]
-入ってて、ペニスが絶え間なく擦られる。[pcms]
+Minami-senpai's hips began to dance mysteriously. Not just back and[r]
+forth but also in circular motions, constantly rubbing my penis.[pcms]
 
 *429|
 [fc]
-うっとりとした目で僕を見つめてるのに、その腰は別の生き物の[r]
-ように、快感を得ようとなまめかしく動いていた。[pcms]
+She looked at me with dreamy eyes, yet her hips moved like a separate[r]
+creature, sensually seeking pleasure.[pcms]
 
 [evcg storage="satuki_H002i"][trans_c cross time=300]
 
 *430|
 [fc]
 [vo_stk s="satuki_st0112"]
-[ns]彩月[nse]
-「ああっ……んんっ、んっ、擦れるぅ。ま～くんのおちんちんで[r]
-　わたしのマンコの中、いっぱい擦られてるぅ。ああっ、あっ！」[pcms]
+[ns]Satsuki[nse]
+"Aahh... nnh, nnh, it's rubbing. Your cock is rubbing so much inside[r]
+my pussy. Ahh, ah!"[pcms]
 
 *431|
 [fc]
-エロ動画で見たような腰使い。南先輩が僕のペニスを[r]
-飲み込んだまま、本当にやってるんだと思うと、たまらないっ！[pcms]
+The kind of hip movements I had seen in erotic videos. The thought[r]
+that Minami-senpai was actually doing this while engulfing my penis[r]
+was unbearable![pcms]
 
 *432|
 [fc]
-[ns]誠[nse]
-「あ、あっ、す、すご……いっでっ」[pcms]
+[ns]Makoto[nse]
+"Ah, ah, amazing... I'm going to..."[pcms]
 
 *433|
 [fc]
 [vo_stk s="satuki_st0113"]
-[ns]彩月[nse]
-「ま～君も凄いよ……あああっ、あたるぅっ！[r]
-　２回も、出したのにこんなに……あっ、あひぃ！」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun, you're amazing too... Ahhh, it's hitting! Even after[r]
+coming twice, it's still so... Ah, ahhii!"[pcms]
 
 *434|
 [fc]
-南先輩のお尻をつかんでいた僕の指に力が思わず入る。[r]
-もっと快感を得たい。その一心で、先輩の腰の動きに合わせた。[pcms]
+My fingers, which had been gripping Satsuki-senpai's butt,[r]
+involuntarily clenched. I wanted more pleasure. With that single-[r]
+minded thought, I matched the movements of her hips.[pcms]
 
 *435|
 [fc]
-むぎゅっと指がお尻の肉に食い込む。[r]
-先輩が腰を振る度に中の筋肉が動いて指をはじき返そうとする。[pcms]
+My fingers dug into the flesh of her butt. Each time Senpai moved her[r]
+hips, the muscles inside would contract and try to push my fingers[r]
+out.[pcms]
 
 *436|
 [fc]
-単なる脂肪の塊じゃない、ぱつんぱつんのお尻。[r]
-僕はむぎゅむぎゅと、その肉を揉みしだいた。[pcms]
+It wasn't just a lump of fat, but a firm and tight ass. I kneaded the[r]
+flesh, squeezing and massaging it.[pcms]
 
 *437|
 [fc]
 [vo_stk s="satuki_st0114"]
-[ns]彩月[nse]
-「ああっ、あっ、す、凄いぃっ、ま～君のおちんちん、好きぃ！[r]
-　わたしの、気持ちいいとこ、当たりまくるのぉっ、あああっ！[r]
-　熱いっ！　硬いよぉっ！　もっと、もっとよ、もっと腰をっ！」[pcms]
+[ns]Satsuki[nse]
+"Aahh, ah, it's amazing, Makoto-kun's cock, I love it! It keeps[r]
+hitting my good spots, ahhhh! It's hot! It's hard! More, more, move[r]
+your hips more!"[pcms]
 
 [evcg storage="satuki_H002j"][trans_c cross time=300]
 
 *438|
 [fc]
 [vo_stk s="satuki_st0115"]
-[ns]彩月[nse]
-「もっと腰を振って！　突き上げてぇっ！　擦って、もっと、[r]
-　もっとぉ！　もっと気持ちよくしてぇぇっ！」[pcms]
+[ns]Satsuki[nse]
+"Move your hips more! Thrust up! Rub against me, more, more! Make me[r]
+feel even better!"[pcms]
 
 *439|
 [fc]
-[ns]誠[nse]
-「は、はいっ……！」[pcms]
+[ns]Makoto[nse]
+"Yes...!"[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
 
 *440|
 [fc]
-僕は目一杯腰を突き上げた。愛液が溢れてぬるぬるになってる[r]
-マンコは滑りが良くて、押し寄せる快感に負けそうになるけど、[r]
-必死に腰を振りまくった。[pcms]
+I thrust my hips as hard as I could. Satsuki-senpai's pussy was[r]
+slippery with love juices, making it easy to slide in and out, and I[r]
+struggled against the overwhelming pleasure as I frantically moved my[r]
+hips.[pcms]
 
 *441|
 [fc]
 [vo_stk s="satuki_st0116"]
-[ns]彩月[nse]
-「あ、あくぅっ！　い、いいっ！　す、凄ぃい！[r]
-　硬くてぇ、ま～君のおち、んちん、いいいっ！」[pcms]
+[ns]Satsuki[nse]
+"Ah, ahh! Good! Amazing! It's so hard, Makoto-kun's cock, it's so[r]
+good!"[pcms]
 
 *442|
 [fc]
 [vo_stk s="satuki_st0117"]
-[ns]彩月[nse]
-「い、いいいっ！　ああっ、あいぃっ！　も、もっと、もっとぉ！[r]
-　マンコいっぱい、いっぱい掻き回してぇ！　硬いのでぇ！」[pcms]
+[ns]Satsuki[nse]
+"It's so good! Ahh, ahhii! More, more! Stir up my pussy more with your[r]
+hard cock!"[pcms]
 
 *443|
 [fc]
-[ns]誠[nse]
-「……っ！」[pcms]
+[ns]Makoto[nse]
+"...!"[pcms]
 
 *444|
 [fc]
-ゴム付けてるのに、こんなに気持ちいいなんて……。[r]
-付けてなかったら、きっと、全然南先輩を気持ちよく[r]
-してあげる前に出しちゃってた。[pcms]
+Even with a condom on, it feels this good... If I hadn't been wearing[r]
+one, I'm sure I would have come before making Satsuki-senpai feel[r]
+good.[pcms]
 
 *445|
 [fc]
-先輩の言っていた利点に感謝っ！[r]
-でもって、ゴム付けてても、最っ高に気持ちいい！[pcms]
+Thank goodness for the advantage Senpai mentioned! And even with a[r]
+condom on, it feels amazing![pcms]
 
 *446|
 [fc]
-でも、もうそろそろ限界が近い。[r]
-腰の奥から熱い精子が飛び出したがっている。[r]
-出さないと、おかしくなりそうだ。[pcms]
+But I'm nearing my limit. Hot semen is begging to burst out from deep[r]
+within my hips. If I don't let it out soon, I might go crazy.[pcms]
 
 *447|
 [fc]
 [vo_stk s="satuki_st0118"]
-[ns]彩月[nse]
-「ああっ、ああいいいっ！　頭の中まであ、あっついぃ！[r]
-　ひああっ！　あっ、あああっ、来る、イっちゃうっ！」[pcms]
+[ns]Satsuki[nse]
+"Ahhh, ahhii! It's so hot it's reaching my brain! Hiaahh! Ahh, ahhh,[r]
+it's coming, I'm going to come!"[pcms]
 
 *448|
 [fc]
 [vo_stk s="satuki_st0119"]
-[ns]彩月[nse]
-「いいのっ、イきそうっ！　まーく、んっ！　出してぇ。[r]
-　もう、中にびゅびゅっって出してぇ！　イっちゃうの。[r]
-　中に、中にいっぱい、いっぱいぃぃっ！！」[pcms]
+[ns]Satsuki[nse]
+"It's okay, I'm about to come! Makoto-kun! Let it out. Just let it[r]
+burst inside me! I'm coming. Fill me up inside, so much!"[pcms]
 
 *449|
 [fc]
 [vo_stk s="satuki_st0120"]
-[ns]彩月[nse]
-「ゴム突き破るぐ、らいの勢いでぇ、熱いの、わたしの中、[r]
-　わたしの中に、いっぱい出しなさいぃぃっっ！」[pcms]
+[ns]Satsuki[nse]
+"With such force that it could break through the condom, let your hot[r]
+semen out inside me, fill me up!"[pcms]
 
 *450|
 [fc]
-一瞬僕のペニスを掴んでいた膣壁がぶわっと広がって、[r]
-次いでぎゅいぎゅいと締め上げてきた。[r]
-ざわざわと蠢きながら奥へ奥へと導こうとするっ！[pcms]
+For a moment, the vaginal walls gripping my penis expanded widely and[r]
+then clenched tightly around me. They writhed and pulled me deeper and[r]
+deeper![pcms]
 
 *451|
 [fc]
 [vo_stk s="satuki_st0121"]
-[ns]彩月[nse]
-「出しなさいっ！　熱いの、中に、中にぃ、イっちゃうの、[r]
-　イくからっ、一緒にぃっ！　中にぃっ！」[pcms]
+[ns]Satsuki[nse]
+"Let it out! Your hot semen inside me, I'm going to come, so let's[r]
+come together! Inside me!"[pcms]
 
 *452|
 [fc]
 [vo_stk s="satuki_st0122"]
-[ns]彩月[nse]
-「中に、いっぱい、ビュービューって、いっぱいっ！[r]
-　出しなさいっ！　イっちゃうのぉ、イくぅっ、一緒にぃ！」[pcms]
+[ns]Satsuki[nse]
+"Fill me up with lots of it, let it burst out inside me! I'm coming,[r]
+let's come together!"[pcms]
 
 *453|
 [fc]
-[ns]誠[nse]
-「は、はいぃぃっっ！」[pcms]
+[ns]Makoto[nse]
+"Yes...!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1724,120 +1720,121 @@
 
 *454|
 [fc]
-[ns]誠[nse]
-「うっ、うああああっ！」[pcms]
+[ns]Makoto[nse]
+"Ugh, ughhhhh!"[pcms]
 
 *455|
 [fc]
 [vo_stk s="satuki_st0123"]
-[ns]彩月[nse]
-「いいいいっ、くぅうううっ！　あああっあひっひっぃいいっ！[r]
-　あ、熱いぃ、中が、熱いぃ、いいいいっ、いいいいっ！」[pcms]
+[ns]Satsuki[nse]
+"It's so good, kuuuuuh! Ahhhahhhiyiiii! Ahh, it's hot inside, so hot,[r]
+so good!"[pcms]
 
 *456|
 [fc]
 [vo_stk s="satuki_st0124"]
-[ns]彩月[nse]
-「いっぱい、いっぱいぃ、出てるぅっ……ああっ、あああっ、[r]
-　す、凄いよぉ…………あああっ……あっああっあっ……」[pcms]
+[ns]Satsuki[nse]
+"So much is coming out... Ahh, ahhh, you're amazing... Ahhh...[r]
+Ahhahhahh..."[pcms]
 
 *457|
 [fc]
-仰け反っていた南先輩の身体が僕に覆い被さってくる。[r]
-荒い息を伴いながら。[pcms]
+Satsuki-senpai's body, which had been arched back, now collapsed onto[r]
+me with heavy breaths.[pcms]
 
 *458|
 [fc]
-もちろん、僕だって息が荒い。呼吸困難寸前。[r]
-でもこんなに気持ちいいなら何度でも呼吸困難になってもいい！[pcms]
+Of course, my breathing was ragged too. Almost to the point of[r]
+breathlessness. But if it feels this good, I don't mind getting[r]
+breathless again and again![pcms]
 
 *459|
 [fc]
-[ns]誠[nse]
-「……うっ……あっ……あ……はっ……はあっ……はっ」[pcms]
+[ns]Makoto[nse]
+"...Ugh... Ah... Ha... Haa... Ha..."[pcms]
 
 *460|
 [fc]
 [vo_stk s="satuki_st0125"]
-[ns]彩月[nse]
-「はあっ……はあっ……はっ……ああっ……あっ、ああ……」[pcms]
+[ns]Satsuki[nse]
+"Haa... Haa... Ha... Ahh... Ahh..."[pcms]
 
 *461|
 [fc]
 [vo_stk s="satuki_st0126"]
-[ns]彩月[nse]
-「んあっ……はっ……あっ……んっ………………」[pcms]
+[ns]Satsuki[nse]
+"Nha... Ha... Ah... Nn..."[pcms]
 
 *462|
 [fc]
-次第に息が落ち着いてきた南先輩は、ゆっくりと上体を起こす。[r]
-でも、僕は頭の中が未だに真っ白で快感に浸っていた。[pcms]
+As Satsuki-senpai's breathing settled down, she slowly raised her[r]
+upper body. But my mind was still blank from the pleasure.[pcms]
 
 [evcg storage="satuki_H002l"][trans_c cross time=300]
 
 *463|
 [fc]
 [vo_stk s="satuki_st0127"]
-[ns]彩月[nse]
-「ふふ……いっぱい出たかしら？」[pcms]
+[ns]Satsuki[nse]
+"Fufu... Did you let out a lot?"[pcms]
 
 *464|
 [fc]
-南先輩は、にんまりと笑いながら腰を上げ、僕のペニスを[r]
-外に押し出した。[pcms]
+Satsuki-senpai smiled mischievously as she lifted her hips and pushed[r]
+my penis out.[pcms]
 
 *465|
 [fc]
-先っぽが丸く膨れあがっているコンドームをスルスルと引き抜くと[r]
-根元をしばって先輩は自分の目の先に吊り上げる。[pcms]
+She slid off the condom that was swollen at the tip and tied off the[r]
+base before lifting it up to her eyes.[pcms]
 
 *466|
 [fc]
 [vo_stk s="satuki_st0128"]
-[ns]彩月[nse]
-「うふう……ま～君のあっつい精子がた～っぷり。[r]
-　いっぱいっ。凄いわぁ、３回目なのに、こぉんなにぃ」[pcms]
+[ns]Satsuki[nse]
+"Ufu... Makoto-kun's hot semen is all inside here. So much of it. It's[r]
+amazing that there's this much even after the third time."[pcms]
 
 *467|
 [fc]
-どこかうっとりとした目つきで、南先輩はコンドームを[r]
-ブラブラと振っていた。[pcms]
+With a somewhat entranced look in her eyes, Satsuki-senpai swung the[r]
+condom back and forth.[pcms]
 
 *468|
 [fc]
 [vo_stk s="satuki_st0129"]
-[ns]彩月[nse]
-「ねえ、ま～君。初体験の感想はどお？」[pcms]
+[ns]Satsuki[nse]
+"Hey, Makoto-kun. How was your first experience?"[pcms]
 
 *469|
 [fc]
-[ns]誠[nse]
-「え……？　あ、はい……最高に気持ちよかったです」[pcms]
+[ns]Makoto[nse]
+"Eh...? Oh, yes... It felt incredibly good."[pcms]
 
 *470|
 [fc]
 [vo_stk s="satuki_st0130"]
-[ns]彩月[nse]
-「こらこら、仮にも新聞部員なんだから、もっとちゃんと[r]
-　感想を聞かせなさい」[pcms]
+[ns]Satsuki[nse]
+"Now now, you're a member of the newspaper club after all. Give me a[r]
+proper impression."[pcms]
 
 *471|
 [fc]
-[ns]誠[nse]
-「え、あ……ん……と、言葉が浮かばないです。[r]
-　気持ち良すぎて、頭の中空っぽに……なってます」[pcms]
+[ns]Makoto[nse]
+"Eh, um... I can't think of the words. It felt too good; my mind is[r]
+completely blank."[pcms]
 
 *472|
 [fc]
 [vo_stk s="satuki_st0131"]
-[ns]彩月[nse]
-「ふふふ……まあ、良しとしてあげるわ。じゃあ、もう少し[r]
-　気持ちよくしてあげる」[pcms]
+[ns]Satsuki[nse]
+"Fufufu... Well, I'll let that pass. Then let me make you feel even[r]
+better for a little while longer."[pcms]
 
 *473|
 [fc]
-[ns]誠[nse]
-「……え？」[pcms]
+[ns]Makoto[nse]
+"...Eh?"[pcms]
 
 ;//■イベントCG　satuki_H004 ijk
 [evcg storage="satuki_H004j"][trans_c cross time=300]
@@ -1845,18 +1842,18 @@
 *474|
 [fc]
 [vo_stk s="satuki_st0132"]
-[ns]彩月[nse]
-「ちゅぶっ……んれる……ぢゅぢゅぢゅっ……んっちゅっ……」[pcms]
+[ns]Satsuki[nse]
+"Chubu...nrel...jujuju...nnchu..."[pcms]
 
 *475|
 [fc]
-[ns]誠[nse]
-「ひ、うぁぁ」[pcms]
+[ns]Makoto[nse]
+"Hi, uwaah"[pcms]
 
 *476|
 [fc]
-舌先をちろちろと出しながら、僕の棹を舐め出す南先輩。[r]
-これが、お掃除フェラってやつ？[pcms]
+While flicking her tongue, Satsuki-senpai began to lick my shaft. Is[r]
+this what they call a cleanup blowjob?[pcms]
 
 ;//■イベントCG　satuki_H004 ijk
 [evcg storage="satuki_H004k"][trans_c cross time=300]
@@ -1864,78 +1861,77 @@
 *477|
 [fc]
 [vo_stk s="satuki_st0133"]
-[ns]彩月[nse]
-「んっんっ……んっぢゅううっっ……んれるっ！[r]
-　んっふぅ。濃いわねぇ、ま～くんの精子。いい匂いぃ。[r]
-　ちゅぶっ……ぢゅぢゅぢゅっ……んんんっ」[pcms]
+[ns]Satsuki[nse]
+"Nnn...nnjuuu...nrel! Nnfuu. Your semen is so thick, Ma-kun. It smells[r]
+good. Chubu...jujuju...nnnn"[pcms]
 
 ;//■イベントCG　satuki_H004 ijk
 [evcg storage="satuki_H004i"][trans_c cross time=300]
 
 *478|
 [fc]
-先輩の熱い舌先が鈴口に差し入れられて、少しだけ柔らかく[r]
-なってる棹をぐにぐにと押しながら、思いっきり吸い出していた。[pcms]
+Her hot tongue slipped over my glans, gently pressing and sucking out[r]
+from my slightly softened shaft.[pcms]
 
 *479|
 [fc]
-[ns]誠[nse]
-「……っ！」[pcms]
+[ns]Makoto[nse]
+"...!"[pcms]
 
 *480|
 [fc]
-腰の辺りがむずむずしてくる。射精した時の快感とは違う、[r]
-どこか弛緩した気持ちよさが、這い回っていた。[pcms]
+A tingling sensation spread around my waist. It was a different kind[r]
+of pleasure from ejaculation, a relaxed and crawling sense of comfort.[pcms]
 
 *481|
 [fc]
 [vo_stk s="satuki_st0134"]
-[ns]彩月[nse]
-「んふぅ。ほぉら、綺麗になったでしょ？　美味しかったわ」[pcms]
+[ns]Satsuki[nse]
+"Nnfuu. Look, it's all clean now? It tasted delicious."[pcms]
 
 *482|
 [fc]
-[ns]誠[nse]
-「あ、ありがとうございます」[pcms]
+[ns]Makoto[nse]
+"Ah, thank you very much."[pcms]
 
 *483|
 [fc]
 [vo_stk s="satuki_st0135"]
-[ns]彩月[nse]
-「ふふふ。ほんと、可愛いわねぇ、ま～君。[r]
-　……ねえ、コンドーム、あと２個あるわよ？」[pcms]
+[ns]Satsuki[nse]
+"Fufufu. Really, you're so cute, Ma-kun. ...Hey, we still have 2 more[r]
+condoms, you know?"[pcms]
 
 *484|
 [fc]
-悪戯っぽい光を目に湛えて、僕を見つめる南先輩。[pcms]
+With a mischievous glint in her eyes, Satsuki-senpai looked at me.[pcms]
 
 *485|
 [fc]
-コンドームがあと、２個。[r]
-と言うことは、あと２回は南先輩のマンコの中に挿れられる？[pcms]
+Two more condoms. Does that mean I can insert it inside Satsuki-[r]
+senpai's pussy two more times?[pcms]
 
 *486|
 [fc]
 [vo_stk s="satuki_st0136"]
-[ns]彩月[nse]
-「うわあ……すごぉい、ま～君ったら」[pcms]
+[ns]Satsuki[nse]
+"Uwaa...amazing, Ma-kun"[pcms]
 
 *487|
 [fc]
-南先輩の手の中で、僕のペニスはあっという間に血液満タン。[r]
-硬さを十二分に回復して、ビンビンに反り返っていた。[pcms]
+In Satsuki-senpai's hand, my penis quickly filled with blood. It[r]
+regained its firmness completely and was throbbing hard.[pcms]
 
 *488|
 [fc]
 [vo_stk s="satuki_st0137"]
-[ns]彩月[nse]
-「うふう……いいわぁ、ま～君。もっと、したい？[r]
-　したいわよね。いいよ、君の精液タンク空っぽになるまで。[r]
-　もっともっとセックス楽しみましょう」[pcms]
+[ns]Satsuki[nse]
+"Ufuu...that's good, Ma-kun. Want to do it more? You do want to,[r]
+right? It's okay, until your semen tank is empty. Let's enjoy sex even[r]
+more."[pcms]
 
 *489|
 [fc]
-そう言って南先輩は、僕のペニスをしごき始めた。[pcms]
+And with that, Satsuki-senpai began to stroke my penis.[pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -1961,107 +1957,106 @@
 
 *490|
 [fc]
-コンドーム２個なんて、あっという間に使い切ってしまった。[pcms]
+The two condoms were used up in no time at all.[pcms]
 
 *491|
 [fc]
-あっという間なんて言ったけど、１回目よりはちょっとだけ[r]
-我慢が利いて、南先輩を２回イかせて上げることが出来た。[pcms]
+Although I said 'in no time', I was able to hold back a little better[r]
+than the first time and managed to make Satsuki-senpai come twice.[pcms]
 
 *492|
 [fc]
-更にその次のコンドームでは……。[pcms]
+And with the next condom...[pcms]
 
 *493|
 [fc]
-それでも僕の勃起も欲望も収まらなくて、恍惚とした、[r]
-でも嬉しそうな顔で、南先輩は更に胸マンコで出してくれた。[pcms]
+Yet my erection and desire were unrelenting, and with a blissful yet[r]
+happy face, Satsuki-senpai let me come between her breasts.[pcms]
 
 *494|
 [fc]
 [vo_stk s="satuki_st0138"]
-[ns]彩月[nse]
-「あっ、ああっ、はっ、はあっ、はっ、はひっ、ひっ、いっ……[r]
-　はっ、はっ、はっ、はっ……んっはっ、はあっ、んっはあっ」[pcms]
+[ns]Satsuki[nse]
+"Ah, aah, ha, haa, ha, hih, hih, ih... ha, ha, ha, ha...nnha, haa,[r]
+nnhaa"[pcms]
 
 *495|
 [fc]
-[ns]誠[nse]
-「……はひゅ……ふっ……」[pcms]
+[ns]Makoto[nse]
+"...hihyu...fu..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *496|
 [fc]
 [vo_stk s="satuki_st0139"]
-[ns]彩月[nse]
-「ま～君……はあっ……はっ……ああっ……、す、凄いね。[r]
-　コンドーム、コンビニっ……で、んはっあっ……はっ……[r]
-　箱で買ってくれば、良かった……はっ、あっ……かなぁ？」[pcms]
+[ns]Satsuki[nse]
+"Ma-kun...haa...ha...aah..., it's amazing. Condoms, at the convenience[r]
+store...nnhaa...ha... Should have bought a box...ha, ah...maybe?"[pcms]
 
 *497|
 [fc]
-[ns]誠[nse]
-「……はひ……」[pcms]
+[ns]Makoto[nse]
+"...hih..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *498|
 [fc]
 [vo_stk s="satuki_st0140"]
-[ns]彩月[nse]
-「うふふ……はっ……ああっ……ひ、久しぶり……こんな[r]
-　くたくたに……なるまで……はあっ……あっ……んっ……」[pcms]
+[ns]Satsuki[nse]
+"Ufufu...ha...aah...hi, it's been a while since I've been this[r]
+exhausted...haa...ah...nn..."[pcms]
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *499|
 [fc]
 [vo_stk s="satuki_st0141"]
-[ns]彩月[nse]
-「ね、ねえ……す、少し休ませて……ね」[pcms]
+[ns]Satsuki[nse]
+"Hey, hey...let's take a little break...okay?"[pcms]
 
 *500|
 [fc]
-[ns]誠[nse]
-「は……はい……っ」[pcms]
+[ns]Makoto[nse]
+"Ha...yes...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *501|
 [fc]
-とろんとした目つきだった南先輩は、そう言いながら、瞼が[r]
-下がってきて、あっという間に寝息を立て始めていた。[pcms]
+Satsuki-senpai's eyes were drowsy as she spoke, and soon her eyelids[r]
+began to droop and she started to breathe the soft breaths of sleep.[pcms]
 
 *502|
 [fc]
-僕もまだまだ息は荒かったし、眠気に襲われ掛けていたけど、[r]
-寝入る南先輩を見守っていた。[pcms]
+I was still breathing heavily and was beginning to feel sleepy too,[r]
+but I watched over Satsuki-senpai as she fell asleep.[pcms]
 
 *503|
 [fc]
-……そうだ。後始末してあげなくちゃ。[r]
-紳士たるもの、なんてきっとそーいちに言われてしまう。[pcms]
+...That's right. I have to clean up after us. A gentleman should do[r]
+so, Souichirou would surely say.[pcms]
 
 *504|
 [fc]
-僕は気だるい身体をゆっくりと起こし周りを見回した。[r]
-ウエットティッシュが目に留まったので、起こしちゃうかなと[r]
-思いながらも、南先輩の身体を拭いてあげた。[pcms]
+I slowly lifted my languid body and looked around. My eyes landed on[r]
+the wet wipes; wondering if they would wake her up but deciding to do[r]
+it anyway, I wiped down Satsuki-senpai's body.[pcms]
 
 *505|
 [fc]
-幸い目を覚ますこともなく、すうすうと寝息をたてて眠る[r]
-南先輩の顔を可愛らしいなあとか思いながら見ていた。[pcms]
+Luckily she didn't wake up and continued to sleep soundly with cute[r]
+breaths which I watched thinking how adorable she was.[pcms]
 
 *506|
 [fc]
-でも、そろそろ限界。[r]
-睡魔が手ぐすね引いて待ってる。[pcms]
+But I'm reaching my limit. Sleepiness is waiting for me with open[r]
+arms.[pcms]
 
 *507|
 [fc]
-僕は南先輩に寄り添い、そっと抱きしめて睡魔の襲うがままに[r]
-まかせた。[pcms]
+I snuggled up to Satsuki-senpai and gently embraced her as I[r]
+surrendered myself to the onslaught of drowsiness.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>

@@ -49,76 +49,76 @@
 
 *2069|
 [fc]
-うわぁ～、おっきな木だなぁ～！[pcms]
+"Wow, that's a huge tree!"[pcms]
 
 *2070|
 [fc]
-[ns]信二[nse]
-「うん、大きいな～」[pcms]
+[ns]Shinji[nse]
+"Yeah, it's big."[pcms]
 
 *2071|
 [fc]
-僕はお父さんと大きな木を見上げていた。[pcms]
+I was looking up at a large tree with my father.[pcms]
 
 *2072|
 [fc]
-どんなに上を向いても、[r]
-全部を見ることができないくらい大きな木だ。[pcms]
+No matter how much I looked up, the tree was so big that I couldn't[r]
+see all of it.[pcms]
 
 *2073|
 [fc]
 [vo_mob s="taeko0004"]
-[ns]妙子[nse]
-「じゃあ、ここで写真を撮りましょう！」[pcms]
+[ns]Taeko[nse]
+"Then, let's take a picture here!"[pcms]
 
 *2074|
 [fc]
-お母さんがカメラを取り出して、[r]
-近くに誰かいないか探している。[pcms]
+My mother took out a camera and started looking around to see if[r]
+anyone was nearby.[pcms]
 
 *2075|
 [fc]
 [vo_mob s="taeko0005"]
-[ns]妙子[nse]
-「姉さん、いい？」[pcms]
+[ns]Taeko[nse]
+"Onee-san, is that okay?"[pcms]
 
 *2076|
 [fc]
 [vo_mis s="waka_misao0001"]
 [ns]？？？[nse]
-「いいわよ」[pcms]
+"That's fine."[pcms]
 
 ;//美沙緒
 
 *2077|
 [fc]
-女の人の足下に、必死に隠れるようにしながら[r]
-見上げている女の子がいた。[pcms]
+There was a girl desperately trying to hide at the feet of a woman,[r]
+looking up.[pcms]
 
 *2078|
 [fc]
-その子に女の人が優しげに問いかける。[pcms]
+The woman asked the girl gently.[pcms]
 
 *2079|
 [fc]
 [vo_mis s="waka_misao0002"]
 [ns]？？？[nse]
-「一緒に撮る？」[pcms]
+"Do you want to join in the picture?"[pcms]
 
 *2080|
 [fc]
 [vo_aka s="you_akari0002"]
-[ns]女の子[nse]
-「………！」[pcms]
+[ns]Girl[nse]
+"!"[pcms]
 
 *2081|
 [fc]
-女の子がぶんぶんと首を振って恥ずかしそうにする。[r]
-引っ込み思案なようだった。[pcms]
+The girl shook her head vigorously and seemed embarrassed. She[r]
+appeared to be shy.[pcms]
 
 *2082|
 [fc]
-その瞳が、僕と一瞬だけ交差する。[pcms]
+Our eyes met for just a moment.[pcms]
 
 ;//■イベントCG　akari_N006（少女の茜梨）
 [evcg storage="akari_N006d"][trans_c cross time=300]
@@ -127,26 +127,25 @@
 *2083|
 [fc]
 [vo_aka s="you_akari0003"]
-[ns]女の子[nse]
-「…………」[pcms]
+[ns]Girl[nse]
+"..."[pcms]
 
 *2084|
 [fc]
-かわいいなぁ～。[pcms]
+She's so cute.[pcms]
 
 *2085|
 [fc]
-僕はその女の子のあまりのかわいさに、[r]
-思わず見とれてしまった。[pcms]
+I was utterly captivated by the girl's cuteness.[pcms]
 
 *2086|
 [fc]
-子猫でも子犬でもない、天使みたいな女の子だ。[pcms]
+She wasn't a kitten or a puppy, but a girl who looked like an angel.[pcms]
 
 *2087|
 [fc]
-うつむき加減でやっと挨拶をする女の子に、[r]
-僕はただ見とれているだけだった。[pcms]
+The girl, looking down, finally managed to greet us, and I was just[r]
+mesmerized by her.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

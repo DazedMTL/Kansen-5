@@ -25,87 +25,87 @@
 *3275|
 [fc]
 [vo_stk s="satuki_st0474"]
-[ns]彩月[nse]
-「わたしが、囮になるわ。アイツらを引きつけるから、[r]
-　その隙に、３人は逃げて」[pcms]
+[ns]Satsuki[nse]
+"I'll be the decoy. I'll draw them in, so you three take the chance to[r]
+escape."[pcms]
 
 *3276|
 [fc]
-[ns]誠[nse]
-「な、何を。駄目です南先輩。それなら、男の僕がやりますっ！」[pcms]
+[ns]Makoto[nse]
+"Wh-What are you saying? That's not acceptable, Senpai Minami. If[r]
+that's the case, I, a man, should do it!"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3277|
 [fc]
 [vo_stk s="satuki_st0475"]
-[ns]彩月[nse]
-「駄目。わたしがやる。わたしの方が誠君よりも足も速いし、[r]
-　運動神経もいいし、体力だってあるわよ」[pcms]
+[ns]Satsuki[nse]
+"No. I'm going to do it. I can run faster than you, Makoto-kun, and I[r]
+have better reflexes and more stamina."[pcms]
 
 *3278|
 [fc]
-[ns]誠[nse]
-「うっ……それは……」[pcms]
+[ns]Makoto[nse]
+"Ugh... that's..."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st07"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3279|
 [fc]
 [vo_stk s="satuki_st0476"]
-[ns]彩月[nse]
-「それに……越智さんはまだ上手く走れない。そうでしょ？」[pcms]
+[ns]Satsuki[nse]
+"Besides... Akari-san still can't run properly, right?"[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3280|
 [fc]
 [vo_aka s="akari_st0212"]
-[ns]茜梨[nse]
-「いえ、大丈夫です」[pcms]
+[ns]Akari[nse]
+"No, I'm fine."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st25"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3281|
 [fc]
 [vo_stk s="satuki_st0477"]
-[ns]彩月[nse]
-「嘘言わないのよ。無理をすればそれだけで足手まといになるの。[r]
-　それよりも、誠君におぶってもらいなさい」[pcms]
+[ns]Satsuki[nse]
+"Don't lie. If you push yourself, you'll just be a burden. Instead,[r]
+have Makoto-kun carry you."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st07"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3282|
 [fc]
 [vo_stk s="satuki_st0478"]
-[ns]彩月[nse]
-「それに……わたしは、会っておかないとならない人が……[r]
-　あの中にいるのよ……外にね」[pcms]
+[ns]Satsuki[nse]
+"And... there's someone I have to meet... out there, among them."[pcms]
 
 *3283|
 [fc]
-[ns]誠[nse]
-「外……って、それって、感染者だってことでしょ？[r]
-　駄目です。危なすぎます。あきらめて僕に任せてください」[pcms]
+[ns]Makoto[nse]
+"Out there... you mean, among the infected? That's too dangerous.[r]
+Please give up and let me handle it."[pcms]
 
 *3284|
 [fc]
 [vo_stk s="satuki_st0479"]
-[ns]彩月[nse]
-「どうしても、たとえ感染者でも、ひとめ、会って言わなくちゃ[r]
-　ならない事があるの。例え、相手に通じなかったとしてもね」[pcms]
+[ns]Satsuki[nse]
+"I must see them, even if they are infected. There's something I have[r]
+to say, even if they don't understand."[pcms]
 
 *3285|
 [fc]
-[ns]誠[nse]
-「……でも」[pcms]
+[ns]Makoto[nse]
+"...But"[pcms]
 
 ;//■イベントCG　彩月と抱擁
 [evcg storage="satuki_N003c"][trans_c cross time=500]
 
 *3286|
 [fc]
-先輩は急に僕を抱きしめて言った。[pcms]
+Senpai suddenly hugged me and said.[pcms]
 
 *3287|
 [fc]
@@ -115,22 +115,21 @@
 
 *3287a|
 [fc]
-[ns]彩月[nse]
-「お願い。行かせて。それに……ようやく『高嶺の花』に、[r]
-　手が届きそうでしょ？　ちゃんとしっかり守りなさい」[pcms]
+[ns]Satsuki[nse]
+"Please. Let me go. And... you're finally within reach of the[r]
+"unattainable flower," right? Make sure you protect it properly."[pcms]
 
 ;//■イベントCG　彩月と抱擁
 [evcg storage="satuki_N003d"][trans_c cross time=1000]
 
 *3288|
 [fc]
-[ns]誠[nse]
-「先輩……」[pcms]
+[ns]Makoto[nse]
+"Senpai..."[pcms]
 
 *3289|
 [fc]
-僕はみっともないな、と思いながらも涙がにじんでくるのを[r]
-感じていた。[pcms]
+I felt ashamed of myself as tears started to well up in my eyes.[pcms]
 
 
 [bg storage="village04c"][trans_c cross time=500]
@@ -139,173 +138,173 @@
 *3290|
 [fc]
 [vo_aka s="akari_st0213"]
-[ns]茜梨[nse]
-「南先輩……必ず、戻ってきて下さい。待ってますから」[pcms]
+[ns]Akari[nse]
+"Senpai Minami... please make sure to come back. We'll be waiting."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3291|
 [fc]
 [vo_stk s="satuki_st0481"]
-[ns]彩月[nse]
-「大丈夫よ。必ず追いつくわ。やることをやったらね」[pcms]
+[ns]Satsuki[nse]
+"It's okay. I'll catch up for sure after I've done what I need to do."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_cos"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3292|
 [fc]
 [vo_aka s="akari_st0214"]
-[ns]茜梨[nse]
-「はい。約束ですよ、先輩」[pcms]
+[ns]Akari[nse]
+"Yes. It's a promise, Senpai."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3293|
 [fc]
 [vo_stk s="satuki_st0482"]
-[ns]彩月[nse]
-「ん。誠君、これ、お願い」[pcms]
+[ns]Satsuki[nse]
+"Mm. Makoto-kun, please take care of this."[pcms]
 
 *3294|
 [fc]
-そう言って、先輩は僕に大事なカメラを渡してきた。[pcms]
+With those words, Senpai handed me her precious camera.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st11"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3295|
 [fc]
 [vo_stk s="satuki_st0483"]
-[ns]彩月[nse]
-「あとで、ちゃんと取りに行くから。落としたりしないでよ。[r]
-　それも越智さん同様に、守りきってね」[pcms]
+[ns]Satsuki[nse]
+"I'll come back for it later. Don't drop it. Just like with Akari-san,[r]
+make sure you protect it."[pcms]
 
 *3296|
 [fc]
-[ns]誠[nse]
-「わかりました」[pcms]
+[ns]Makoto[nse]
+"Understood."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3297|
 [fc]
 [vo_stk s="satuki_st0484"]
-[ns]彩月[nse]
-「越智さん、誠君にしっかり掴まっておぶさって、運んで貰って。[r]
-　同時に周りに目を配って、誠君を守ってあげてね」[pcms]
+[ns]Satsuki[nse]
+"Akari-san, hold on tight to Makoto-kun and let him carry you. At the[r]
+same time, keep an eye on your surroundings and protect Makoto-kun."[pcms]
 
 *3298|
 [fc]
 [vo_aka s="akari_st0215"]
-[ns]茜梨[nse]
-「はい」[pcms]
+[ns]Akari[nse]
+"Yes."[pcms]
 
 [ChrSetEx layer=4 chbase="mi1_si"][ChrSetParts layer=4 chface="F1_mi04"][ChrSetXY layer=4 x=720 y=0][trans_c cross time=150]
 
 *3299|
 [fc]
 [vo_mis s="misao_st0240"]
-[ns]美沙緒[nse]
-「……これ、使える？」[pcms]
+[ns]Misao[nse]
+"...Can this be of use?"[pcms]
 
 *3300|
 [fc]
-美沙緒さんは、拳銃を取り出し、先輩に渡した。[pcms]
+Ms. Misao took out a handgun and handed it to Senpai.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st07"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3301|
 [fc]
 [vo_stk s="satuki_st0485"]
-[ns]彩月[nse]
-「……！　ありがとう。大丈夫。使えるわ」[pcms]
+[ns]Satsuki[nse]
+"...! Thank you. It's okay. I can use this."[pcms]
 
 *3302|
 [fc]
 [vo_mis s="misao_st0241"]
-[ns]美沙緒[nse]
-「……そう。くれぐれも気をつけて。必ず戻ってきてね」[pcms]
+[ns]Misao[nse]
+"...Good. Please be very careful and make sure to come back."[pcms]
 
 *3303|
 [fc]
 [vo_stk s="satuki_st0486"]
-[ns]彩月[nse]
-「ええ。必ず……」[pcms]
+[ns]Satsuki[nse]
+"Yes. Definitely..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3304|
 [fc]
-先輩が裏口から出ることになった。[r]
-ヤツらを引きつけて、学園とは反対に誘導するから、[r]
-タイミングを見計らって、ここから出て駆け抜ける。[pcms]
+Senpai decided to exit through the back door. She would draw them away[r]
+from the school in the opposite direction, and we would take that[r]
+opportunity to run out from here.[pcms]
 
 *3305|
 [fc]
-そういう作戦になった。[pcms]
+That was the plan.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3306|
 [fc]
 [vo_stk s="satuki_st0487"]
-[ns]彩月[nse]
-「いい？　タイミングを間違えないでねっ！」[pcms]
+[ns]Satsuki[nse]
+"Okay? Don't mess up the timing!"[pcms]
 
 *3307|
 [fc]
-裏口のドアノブに手を掛けながら、先輩が振り返る。[pcms]
+Senpai turned back while holding the doorknob of the back door.[pcms]
 
 *3308|
 [fc]
-僕たち３人は、いっせいに頷き、そして、先輩を見送った。[pcms]
+The three of us nodded at once and saw Senpai off.[pcms]
 
 *3309|
 [fc]
 [vo_stk s="satuki_st0488"]
-[ns]彩月[nse]
-「行ってくる」[pcms]
+[ns]Satsuki[nse]
+"I'm going."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3310|
 [fc]
-ドアが大きく開かれる。すぐに閉められ先輩の姿は見えなくなった。[pcms]
+The door swung open wide. It closed quickly and Senpai was out of[r]
+sight.[pcms]
 
 *3311|
 [fc]
 [vo_stk s="satuki_st0489"]
-[ns]彩月[nse]
-「おおおおおいっ！！　こっち、こっちだーーっ！」[pcms]
+[ns]Satsuki[nse]
+"Heyyyyyy!! This way, this way--!"[pcms]
 
 ;//♂：声のみ。立ち絵無し
 
 *3312|
 [fc]
-外から先輩の大声が聞えてきた。[pcms]
+Senpai's loud voice could be heard from outside.[pcms]
 
 *3313|
 [fc]
-次いで走り去る足音がする。[r]
-僕たちは窓際に移動して、感染者の動向を探った。[pcms]
+Then we heard the sound of footsteps running away. We moved to the[r]
+window to check the movements of the infected.[pcms]
 
 *3314|
 [fc]
-先輩が走り抜けて行った方に、よたよたと大勢の感染者が[r]
-歩いて行く。[pcms]
+The infected staggered in the direction where Senpai had run through.[pcms]
 
 *3315|
 [fc]
-もう少し減ったら……もう少し……。[pcms]
+Just a little more... just a bit more...[pcms]
 
 *3316|
 [fc]
-[ns]誠[nse]
-「今だっ！！　行きますよっ！」[pcms]
+[ns]Makoto[nse]
+"Now's the time!! Let's go!"[pcms]
 
 *3317|
 [fc]
-僕は越智さんをおんぶして、美沙緒さんと共に一気に扉を[r]
-開けて、駆け出した。[pcms]
+I carried Ochi-san on my back and, together with Misao-san, we flung[r]
+the door open and dashed out.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -336,16 +335,16 @@
 
 *3318|
 [fc]
-こっちにいる気がする。[pcms]
+I feel like they're over here.[pcms]
 
 *3319|
 [fc]
-森の中、どこもかしこも同じような木々の中を[r]
-わたしは、目的地が判っているかのように歩を進めた。[pcms]
+Walking through the forest, surrounded by similar trees everywhere, I[r]
+moved forward as if I knew where I was going.[pcms]
 
 *3320|
 [fc]
-双子の共鳴ってやつ……。それに導かれていた。[pcms]
+It was the twins' resonance... I was being led by it.[pcms]
 
 [bg storage="BG07c"][trans_c cross time=500]
 
@@ -355,50 +354,51 @@
 [fc]
 [vo_mob s="satuki_hon0002"]
 [ns]？？？[nse]
-「…………」[pcms]
+"..."[pcms]
 ;//彩月？
 
 *3322|
 [fc]
 [vo_stk s="satuki_st0490"]
-[ns]彩月[nse]
-「…………やっぱり、居ると思った」[pcms]
+[ns]Satsuki[nse]
+"...I knew it, you're here."[pcms]
 
 *3323|
 [fc]
 [vo_mob s="satuki_hon0003"]
 [ns]？？？[nse]
-「…………」[pcms]
+"..."[pcms]
 ;//彩月？
 
 *3324|
 [fc]
 [vo_stk s="satuki_st0491"]
-[ns]彩月[nse]
-「彩月……わたしを連れに来たの？　それとも……」[pcms]
+[ns]Satsuki[nse]
+"Satsuki... did you come to take me? Or maybe..."[pcms]
 
 *3325|
 [fc]
 [vo_mob s="satuki_hon0004"]
-[ns]彩月？[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [bgm storage="BGM08"]
 ;//♪bgm08　シリアス：嫌疑
 
 *3326|
 [fc]
-無表情の彩月。ただじっとわたしを見つめている双子の姉。[r]
-何も言わなくてもわかるでしょ……そう言いたいのかもしれない。[pcms]
+The expressionless Satsuki. Just staring at me, her twin sister. Maybe[r]
+she's trying to say that we don't need words to understand each other.[pcms]
 
 *3327|
 [fc]
-確かに昔はそういうところがあった。双子特有の共有感。[r]
-まだお互い普通に人間として暮らしていた頃は……。[pcms]
+Indeed, there was a time when we had that kind of connection. A unique[r]
+sense of sharing between twins. Back when we both lived as normal[r]
+humans...[pcms]
 
 *3328|
 [fc]
-でも、今は……。[pcms]
+But now...[pcms]
 
 [sysbt_meswin clear]
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -411,108 +411,106 @@
 *3329|
 [fc]
 [vo_stk s="satuki_st0492"]
-[ns]彩月[nse]
-「一緒に行くわけにはいかないの。わたしはこうするしか……」[pcms]
+[ns]Satsuki[nse]
+"I can't go with you. This is the only thing I can do..."[pcms]
 
 *3330|
 [fc]
-わたしは、美沙緒さんに渡された銃を構えた。[r]
-４年前と同じ、彩月の頭に狙いを定める。[pcms]
+I aimed the gun that Misao-san had given me. Just like four years ago,[r]
+I aimed at Satsuki's head.[pcms]
 
 *3331|
 [fc]
-安全装置を外し、腕を引き絞り、トリガーに指をかけて、[r]
-彩月の真正面から、狙いを定めた。[pcms]
+I disengaged the safety, tightened my arm, placed my finger on the[r]
+trigger, and aimed straight at Satsuki from the front.[pcms]
 
 *3332|
 [fc]
 [vo_mob s="satuki_hon0005"]
-[ns]彩月？[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *3333|
 [fc]
-彩月はやっぱり何も言わない。[r]
-ただわたしを見てるだけだった。[pcms]
+Satsuki still said nothing. She just kept looking at me.[pcms]
 
 *3334|
 [fc]
 [vo_stk s="satuki_st0493"]
-[ns]彩月[nse]
-「何か、言ってよ彩月。じゃないとわたし……」[pcms]
+[ns]Satsuki[nse]
+"Say something, Satsuki. Otherwise, I..."[pcms]
 
 *3335|
 [fc]
-４年前と情景が重なる。殺してと叫んだ彩月。[r]
-あの頃は自分が、わたし達がウイルスに耐性のある体質だなんて[r]
-これっぱかしも知らなかった。[pcms]
+The scene overlapped with one from four years ago. Satsuki, who had[r]
+screamed to be killed. Back then, we didn't know that we had a[r]
+resistance to the virus.[pcms]
 
 *3336|
 [fc]
-だから、撃った。彩月の望み通りに。[pcms]
+So I shot her. Just as Satsuki wished.[pcms]
 
 *3337|
 [fc]
-でも今のわたしは知ってる。それなのに、また彩月を殺すの？[r]
-一緒に行かずに、彩月を逆に連れて行けば、彩月は、ちゃんと[r]
-検査を受けて、人間の社会に戻れるんじゃないの？[pcms]
+But now I know. And yet, am I going to kill Satsuki again? If I don't[r]
+go with her, and instead take Satsuki with me, she could get tested[r]
+properly and return to human society, couldn't she?[pcms]
 
 *3338|
 [fc]
 [vo_stk s="satuki_st0494"]
-[ns]彩月[nse]
-「……駄目。できない。もう出来ないよぉ、彩月ぃ」[pcms]
+[ns]Satsuki[nse]
+"...No. I can't do it. I just can't do it anymore, Satsuki."[pcms]
 
 *3339|
 [fc]
 [vo_mob s="satuki_hon0006"]
-[ns]彩月？[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *3340|
 [fc]
 [vo_stk s="satuki_st0495"]
-[ns]彩月[nse]
-「どうして、どうして何も言ってくれないの？」[pcms]
+[ns]Satsuki[nse]
+"Why won't you say anything? Why?"[pcms]
 
 [bg storage="BG07c"][trans_c cross time=500]
 
 *3341|
 [fc]
-保持していた腕がわたしの迷いのせいで震える。[r]
-やっぱり撃てない。わたしは、銃を下ろした。[pcms]
+The arm that held the gun trembled due to my hesitation. I couldn't[r]
+shoot after all. I lowered the gun.[pcms]
 
 [ChrSetEx layer=7 chbase="mob_kan5_x_bl"][ChrSetXY layer=7 x=520 y=80][trans_c cross time=150]
 
 *3342|
 [fc]
-[ns]感染者男１[nse]
-「おまんこー、見つけたーーぐへへへえええ」[pcms]
+[ns]Infected Man 1[nse]
+"Pussy, found one--ghehehehe"[pcms]
 
 *3343|
 [fc]
 [vo_stk s="satuki_st0496"]
-[ns]彩月[nse]
-「ひっ！！」[pcms]
+[ns]Satsuki[nse]
+"Eek!!"[pcms]
 
 *3344|
 [fc]
-全然気がついてなかった。わたしは彩月しか見てなかった。[r]
-アイツら近づいていたなんて、これっぽっちも思ってなかった。[pcms]
+I hadn't noticed at all. I was only looking at Satsuki. I hadn't[r]
+thought for a second that they were approaching.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan4_x_bl"][ChrSetXY layer=5 x=190 y=0][trans_c cross time=150]
 
 *3345|
 [fc]
-[ns]感染者男２[nse]
-「やらせろ……おまんこ、あたらしーおまんこー」[pcms]
+[ns]Infected Man 2[nse]
+"Let me have a turn... fresh pussy, new pussy--"[pcms]
 
 *3346|
 [fc]
 [vo_stk s="satuki_st0497"]
-[ns]彩月[nse]
-「やっ、やめてっ！　離せっ！　離せっ！！[r]
-　い、いやあああああああああああああああっ！」[pcms]
+[ns]Satsuki[nse]
+"No, stop! Let go! Let go!! Nooooooo!!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st1_wra_a"][ChrSetParts layer=5 chface="f1_st26r"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -520,8 +518,8 @@
 *3347|
 [fc]
 [vo_mob s="satuki_hon0007"]
-[ns]彩月？[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -534,7 +532,7 @@
 
 *3348|
 [fc]
-必死にあがくわたしの目に、彩月がにやりと笑ったのが見えた……。[pcms]
+In my desperate struggle, I saw Satsuki smirk...[pcms]
 
 [sysbt_meswin clear]
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -551,41 +549,41 @@
 *3349|
 [fc]
 [vo_stk s="satuki_st0498"]
-[ns]彩月[nse]
-「離せっ！　やっ、いやああっあっ！　やめてっやめてぇえっ！」[pcms]
+[ns]Satsuki[nse]
+"Let go! No, nooooo! Stop it, stop it!!"[pcms]
 
 *3350|
 [fc]
-わたしは必死にふりほどこうとした。[r]
-でも無理。わかってはいたけど、コイツらの力は強い。[r]
-ひとりだけならまだしも、こんなに囲まれてしまっては……。[pcms]
+I tried desperately to shake them off. But it was no use. I knew their[r]
+strength was too much. Alone I might have had a chance, but surrounded[r]
+like this...[pcms]
 
 *3351|
 [fc]
-[ns]感染者男１[nse]
-「おお～きれいなまんこだあ～、おれはこっちにいれるぅ」[pcms]
+[ns]Infected Man 1[nse]
+"Ohh~ such a pretty pussy, I'll put it in here"[pcms]
 
 *3352|
 [fc]
 [vo_stk s="satuki_st0499"]
-[ns]彩月[nse]
-「いやよっ！　離しなさいっ！　離せっ、いやあ、やめてぇっ！」[pcms]
+[ns]Satsuki[nse]
+"No! Let me go! Let go, no, stop it!"[pcms]
 
 *3353|
 [fc]
-[ns]感染者男２[nse]
-「おまえそっち？　じゃあ、おれ、こっち」[pcms]
+[ns]Infected Man 2[nse]
+"You're taking that side? Then I'll take this side"[pcms]
 
 *3354|
 [fc]
 [vo_stk s="satuki_st0500"]
-[ns]彩月[nse]
-「ひっ！　やっ、やめて、そんなの無理っ！　無理よっ！」[pcms]
+[ns]Satsuki[nse]
+"Eek! No, stop, that's impossible! It's impossible!"[pcms]
 
 *3355|
 [fc]
-[ns]感染者男１[nse]
-「ひさしぶり～おまんこ～いれる～、うはあああっ」[pcms]
+[ns]Infected Man 1[nse]
+"It's been a while... I'm putting it in... uhaaaa!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -599,18 +597,18 @@
 *3356|
 [fc]
 [vo_stk s="satuki_st0501"]
-[ns]彩月[nse]
-「いぎっ、ぎゃあっああっ！　い、痛いっ！　痛いぃぃぃっ！」[pcms]
+[ns]Satsuki[nse]
+"Igii, gyaaaah! It hurts! It hurts!!"[pcms]
 
 *3357|
 [fc]
-濡れてなんかいない、わたしのあそこに、無理矢理男は[r]
-汚らしいちんこを、生のままでねじこんできた。[pcms]
+Without any wetness, the man forcibly twisted his filthy cock inside[r]
+me, raw.[pcms]
 
 *3358|
 [fc]
-[ns]感染者男２[nse]
-「お、おれ、もお、こっち、いれる、ぞお……」[pcms]
+[ns]Infected Man 2[nse]
+"I'm, I'm also going to put it in here..."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -624,36 +622,36 @@
 *3359|
 [fc]
 [vo_stk s="satuki_st0502"]
-[ns]彩月[nse]
-「ぎゃあああっっ！　や、やめてっ！　切れるっ！　切れるっ！[r]
-　ぐぎいいいいっ、痛いっ！　痛いいいいいっ！！」[pcms]
+[ns]Satsuki[nse]
+"Gyaaaaah! Stop, stop it! It's tearing! It's tearing! Gyiiii, it[r]
+hurts! It hurts!!!"[pcms]
 
 *3360|
 [fc]
-もうひとりの男は、わたしのアナルにぐりぐりとねじ込んできた。[r]
-ビリビリと裂け、血が出ているのがわかる。[pcms]
+The other man started to forcefully screw into my anus. I could feel[r]
+it tearing and bleeding.[pcms]
 
 *3361|
 [fc]
-[ns]感染者男１[nse]
-「はいったああ、ああ、あったけええ……」[pcms]
+[ns]Infected Man 1[nse]
+"It's in, ahh, it's so warm..."[pcms]
 
 *3362|
 [fc]
-[ns]感染者男２[nse]
-「おれも、はいったぁ、こっちは、あったかくてしまるぅ」[pcms]
+[ns]Infected Man 2[nse]
+"I'm in too, this side is warm and tight"[pcms]
 
 *3363|
 [fc]
 [vo_stk s="satuki_st0503"]
-[ns]彩月[nse]
-「やめっ……ぐはっ……ぐぎぃぃっ、やめ、てぇっ！[r]
-　抜いてっ！　今すぐ、今すぐ抜いてぇええっ、ぐぎぃぃぃ！」[pcms]
+[ns]Satsuki[nse]
+"Stop... guhah... gyiiii, stop it! Pull it out! Pull it out right now,[r]
+right now, gyiiii!"[pcms]
 
 *3364|
 [fc]
-[ns]感染者男１[nse]
-「すぐに、きもちよくしてやるからなああ、うははああ」[pcms]
+[ns]Infected Man 1[nse]
+"I'll make you feel good soon, uahaha"[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
@@ -661,59 +659,57 @@
 *3365|
 [fc]
 [vo_stk s="satuki_st0504"]
-[ns]彩月[nse]
-「ぎいやああああっっ！　痛いっ、痛いっいいいいっ！[r]
-　うぎぃぃぃいいっ、やめてぇっ！　いやあああああっ！」[pcms]
+[ns]Satsuki[nse]
+"Giyaaaaah! It hurts, it hurts! Ugyiiii, stop it! Nooooo!"[pcms]
 
 *3366|
 [fc]
-男達の腰が乱暴に動き出した。[r]
-わたしの内臓が引き抜かれるような痛みが走る。[pcms]
+The men's hips began to move violently. I felt a pain as if my insides[r]
+were being ripped out.[pcms]
 
 *3367|
 [fc]
 [vo_stk s="satuki_st0505"]
-[ns]彩月[nse]
-「ぐはあっ……ぐっふっ……痛いっ、いやっ、いやああっ、[r]
-　ぐっぎいい゛い゛い゛い゛い゛っ！！！　やめ、てぇっ！！」[pcms]
+[ns]Satsuki[nse]
+"Guhaa... guff... it hurts, no, nooo, guggyiiiiii!!! Stop it!!"[pcms]
 
 *3368|
 [fc]
-[ns]感染者男２[nse]
-「うほお、ねえちゃんがさけぶたびに、しまるぅ、すげえ」[pcms]
+[ns]Infected Man 2[nse]
+"Uhooh, every time the Onee-san screams, it tightens, amazing"[pcms]
 
 *3369|
 [fc]
-[ns]感染者男１[nse]
-「こっちもだああ、きつきつのまんこ、きもちいい～」[pcms]
+[ns]Infected Man 1[nse]
+"Same here, this tight pussy feels good~"[pcms]
 
 *3370|
 [fc]
 [vo_stk s="satuki_st0506"]
-[ns]彩月[nse]
-「や゛め゛てえええっ、抜いてぇ、抜いてぇ、痛いっ！！[r]
-　ぎいやああっ、やあっ、痛いっ！　うぎぃぃぃっっっ！！」[pcms]
+[ns]Satsuki[nse]
+"Stop it, pull it out, pull it out, it hurts!! Giyaaah, yah, it hurts![r]
+Ugyiiii!!!"[pcms]
 
 *3371|
 [fc]
 [vo_stk s="satuki_st0507"]
-[ns]彩月[nse]
-「いやあ、いやああっ……やめてぇ、お願いっお願いっっ！」[pcms]
+[ns]Satsuki[nse]
+"No, nooo... stop it, please, please!!"[pcms]
 
 *3372|
 [fc]
-いやだ。初めての生での挿入が、こんなヤツラで、こんな格好で[r]
-こんな無理矢理だなんて、いやっ、いやあっ。[pcms]
+I don't want this. My first time being penetrated raw is with these[r]
+guys, in this way, so forcibly... no, nooo.[pcms]
 
 *3373|
 [fc]
-[ns]感染者男１[nse]
-「もっと、なけえ、もっとしまるから、なけえ、うはあああ」[pcms]
+[ns]Infected Man 1[nse]
+"Cry more, tighten more because of the crying, uhaaaa"[pcms]
 
 *3374|
 [fc]
-[ns]感染者男２[nse]
-「うおおおおお！！！　でるうううううう」[pcms]
+[ns]Infected Man 2[nse]
+"Uooooo!!! I'm cominggggg"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -729,7 +725,7 @@
 
 *3375|
 [fc]
-男達があっという間にわたしの中に果てた。[pcms]
+The men finished inside me in no time.[pcms]
 
 ;//■イベントCG　satuki_H006
 [evcg storage="satuki_H006e"][trans_c cross time=300]
@@ -739,8 +735,8 @@
 
 *3376|
 [fc]
-[ns]感染者男３[nse]
-「おお、ここがあいてる……おれ、ここなあ」[pcms]
+[ns]Infected Man 3[nse]
+"Oh, this place is free... I'll take here"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -751,31 +747,31 @@
 *3377|
 [fc]
 [vo_stk s="satuki_st0508"]
-[ns]彩月[nse]
-「ぐぶっ……！　げぼっ……！　く、臭いっ……！[r]
-　いやああっっ！　んぶぅあああっ、ぶっぶがっ……！」[pcms]
+[ns]Satsuki[nse]
+"Gubu...! Gebo...! Kuh, it smells...! Nooooo! Nbuuaaaah, bubuga...!"[pcms]
 
 *3378|
 [fc]
-絶望する暇も無く、別の男がわたしの口の中に、[r]
-臭いちんぽを突っ込んできた。[pcms]
+Without any time to despair, another man shoved his smelly cock into[r]
+my mouth.[pcms]
 
 *3379|
 [fc]
-息が出来ない。押し返そうにも、ぐいぐいとねじ込まれる。[pcms]
+I can't breathe. Even if I try to push back, he keeps screwing it in[r]
+deeper.[pcms]
 
 *3380|
 [fc]
 [vo_stk s="satuki_st0509"]
-[ns]彩月[nse]
-「ぐぶっぐがっ……んぶっあっ……や、やめ゛……ぐぶうっ！[r]
-　ぐええぇぇっ！　ぐはっ……く、苦し……苦しい……ぐぶぅ」[pcms]
+[ns]Satsuki[nse]
+"Gubugah... nbuah... stop... gubuuu! Gueeeeh! Guhah... kuh, I can't[r]
+breathe... gubuu"[pcms]
 
 *3381|
 [fc]
-[ns]感染者男３[nse]
-「あ～、ほらあ～もっとのどのおくにいれさせろぉ。[r]
-　もっ、もっと……おくまで～……ぐへへ、つっこんでやるぅ」[pcms]
+[ns]Infected Man 3[nse]
+"Ahh~, hey~ let me put it deeper into your throat. More, deeper...[r]
+ghehehe, I'll shove it in"[pcms]
 
 ;//■イベントCG　satuki_H006
 [evcg storage="satuki_H006h"][trans_c cross time=300]
@@ -783,14 +779,13 @@
 *3382|
 [fc]
 [vo_stk s="satuki_st0510"]
-[ns]彩月[nse]
-「ぐぶううっっ！　げほっ！　げほっ！　ぎいひいいっ！[r]
-　んぶっ！　やっ、やめ…………ぶうあああっ！　あぎいぃっ！」[pcms]
+[ns]Satsuki[nse]
+"Gubuuuuh! Geho! Geho! Gyiihiiih! Nbuuuh! Stop... buuaaaah! Agyiiih!"[pcms]
 
 *3383|
 [fc]
-[ns]感染者男３[nse]
-「おおお、しまるぅ～のど、いいぞぉ～、ぐへへへへっ」[pcms]
+[ns]Infected Man 3[nse]
+"Oooooh, it tightens~ the throat feels good~ gheheheheh"[pcms]
 
 ;//■イベントCG　satuki_H006
 [evcg storage="satuki_H006g"][trans_c cross time=300]
@@ -798,63 +793,63 @@
 *3384|
 [fc]
 [vo_stk s="satuki_st0511"]
-[ns]彩月[nse]
-「んぶううっっ……げふっ！　ぎゃ……ぐっぐっあっ……！[r]
-　や、やめ゛て……こわ……れ……んぶううううっ！」[pcms]
+[ns]Satsuki[nse]
+"Nbuuuuh... gefuh! Gya... guggah...! Stop... I'm breaking...[r]
+nbuuuuuuuh!"[pcms]
 
 *3385|
 [fc]
-わたしがどんなに泣き叫んでも、コイツらは気にしない。[r]
-わかってる。わたしは、彩月に助けを求めてた。[pcms]
+No matter how much I cry and scream, these guys don't care. I know. I[r]
+was seeking help from Satsuki.[pcms]
 
 *3386|
 [fc]
-[ns]感染者男１[nse]
-「うはああ、きもちよくなってきたあ、でそうだあ。[r]
-　まんこ、ぬるぬるになってきてるぞぉ～うはあああ」[pcms]
+[ns]Infected Man 1[nse]
+"Uhaaa, starting to feel good, gonna come. The pussy is getting[r]
+slippery~ uhaaaa"[pcms]
 
 *3387|
 [fc]
-[ns]感染者男２[nse]
-「おれもだしたいなぁ～もっと、しめろぉ、おほおおお。[r]
-　ち、とかでぬるぬるしてて、こっちもいいぞお」[pcms]
+[ns]Infected Man 2[nse]
+"I wanna come too~ tighten more, ohooo. It's slippery and feels good[r]
+on this side too"[pcms]
 
 *3388|
 [fc]
-[ns]感染者男３[nse]
-「おく～、のど……おくぅ、しまるぅ、ちんこきもちいい～[r]
-　よだれ、で、ずるずる～のどおく、いい～」[pcms]
+[ns]Infected Man 3[nse]
+"Deep~ throat... deep, tightens, the cock feels good~ drool is coming[r]
+out, slurping~ the back of the throat feels good~"[pcms]
 
 *3389|
 [fc]
 [vo_stk s="satuki_st0512"]
-[ns]彩月[nse]
-「ぐふっんぶっっ！　やっ……助け……ぐぎぃぃっ！　がはっ！[r]
-　ぐぼっっっんんんっぶはあっっ！　んぶううっううっ！」[pcms]
+[ns]Satsuki[nse]
+"Gufunnbuhhh! Yah... help... gyiiih! Gahah! Gobunnnnbuhahhhh![r]
+Nbuuuuhuuuuh!"[pcms]
 
 *3390|
 [fc]
-でも、どんなに助けを求めても、彩月の姿はもう無かった。[r]
-これは、罰なの？　彩月。[pcms]
+But no matter how much I seek help, Satsuki was no longer there. Is[r]
+this a punishment? Satsuki.[pcms]
 
 *3391|
 [fc]
-あなたを見捨てたわたしに対しての罰なの？？[pcms]
+Is this a punishment for me abandoning you?[pcms]
 
 *3392|
 [fc]
-[ns]感染者男１[nse]
-「でそう……もう、だしちまおうかなあ～」[pcms]
+[ns]Infected Man 1[nse]
+"Gonna come... maybe I'll just let it out now~"[pcms]
 
 *3393|
 [fc]
-[ns]感染者男２[nse]
-「おれもぉ～だした、いぃ～なあ～、おおっおっしまるぅ」[pcms]
+[ns]Infected Man 2[nse]
+"Me too~ just came, feels good~ oohh oohh tightens"[pcms]
 
 *3394|
 [fc]
-[ns]感染者男３[nse]
-「おれ、も、おれも～、いっぱいのませてえ～やるぅ……」[pcms]
+[ns]Infected Man 3[nse]
+"Me too~, I wanna make you swallow lots~ gonna do it..."[pcms]
 
 ;//■イベントCG　satuki_H006
 [evcg storage="satuki_H006i"][trans_c cross time=300]
@@ -862,30 +857,29 @@
 *3395|
 [fc]
 [vo_stk s="satuki_st0513"]
-[ns]彩月[nse]
-「やっ、んぶっっぐぎっ……それ、だけは……がはっ……[r]
-　や、めっ……うぶうっっぐぐっうううっ、やめ……ぐぱあっ」[pcms]
+[ns]Satsuki[nse]
+"No, nghh... not that... gah... stop... ubuuuugh, stop... gupaaah"[pcms]
 
 *3396|
 [fc]
-男達の動きが更に激しさを増した。[r]
-容赦なくわたしのあそこやアナル、口の中を攻め立てる。[pcms]
+The men's movements became even more violent. Mercilessly attacking my[r]
+pussy, anus, and mouth.[pcms]
 
 *3397|
 [fc]
-[ns]感染者男１[nse]
-「おっおっ、おおっ、でそー、でるーなかに、どくどくっ[r]
-　いっぱいだしてやる～～っ！」[pcms]
+[ns]Infected Man 1[nse]
+"Ohh ohh, ohh, it's coming- inside, throbbing. I'm gonna let out so[r]
+much~~!"[pcms]
 
 *3398|
 [fc]
-[ns]感染者男２[nse]
-「おれも、おれもぉ、はらのなか、いっぱいどばどばぁ～」[pcms]
+[ns]Infected Man 2[nse]
+"Me too, me too, inside the belly, so much spilling~~"[pcms]
 
 *3399|
 [fc]
-[ns]感染者男３[nse]
-「のめ～おれのせーえき、のどでごくごくう、おああ」[pcms]
+[ns]Infected Man 3[nse]
+"Swallow~ my semen, gulp it down in your throat, ooh aah"[pcms]
 
 ;//■イベントCG　satuki_H006
 [evcg storage="satuki_H006g"][trans_c cross time=300]
@@ -893,25 +887,24 @@
 *3400|
 [fc]
 [vo_stk s="satuki_st0514"]
-[ns]彩月[nse]
-「！！　や、やめっやめえぇ……！！　いやっ……！[r]
-　んぶぅっ！　や゛っ゛……ぐぶああっ、やあ゛っ、だめっ、[r]
-　抜い……て、んぶっっ、抜いて……えっ、ぐぶぷぅっ！」[pcms]
+[ns]Satsuki[nse]
+"!! Stop, please stop...!! No...! Nguhh! Noo...! Gubaaah, noo, don't,[r]
+pull it out... nghhh, pull it out... eh, gubupuuuh!"[pcms]
 
 *3401|
 [fc]
-[ns]感染者男１[nse]
-「お、でる。でるでる～なかだしぃ～、うはあああっ」[pcms]
+[ns]Infected Man 1[nse]
+"Oh, it's coming. It's coming out~ inside release~, uhaaaaah"[pcms]
 
 *3402|
 [fc]
-[ns]感染者男２[nse]
-「おほああ、でるぅ、もうでるぅ～おおお、おおおっ」[pcms]
+[ns]Infected Man 2[nse]
+"Ohooaah, it's coming out, it's coming out now~ ooh ooh"[pcms]
 
 *3403|
 [fc]
-[ns]感染者男３[nse]
-「のめぇ、のめえ～たああっぷりぃ～、のめえ～おああっ！」[pcms]
+[ns]Infected Man 3[nse]
+"Swallow, swallow~ so much of it~, swallow~ ooh aah!"[pcms]
 
 ;//BGVオフ
 ;//se即時停止
@@ -929,48 +922,48 @@
 *3404|
 [fc]
 [vo_stk s="satuki_st0515"]
-[ns]彩月[nse]
-「い゛や゛ああああっ、ぶばああっぐふっげふっげふっぐふっ！[r]
-　げはっ……げふっげふうっ……い゛……や゛……あ゛……」[pcms]
+[ns]Satsuki[nse]
+"Noooooahhh, bubaaahgufuhgefuhgefuhguf! Geh... gefuhgefuh... no...[r]
+no... ah..."[pcms]
 
 *3405|
 [fc]
-中で……あそこの中で……口の中で……アナルで……[r]
-出された……出されちゃった……感染者の精液…………[pcms]
+Inside... inside my pussy... inside my mouth... in my anus... I was[r]
+filled with the infected men's semen...[pcms]
 
 *3406|
 [fc]
-[ns]感染者男１[nse]
-「うはああああ、きもちよかったあぁ」[pcms]
+[ns]Infected Man 1[nse]
+"Uhaaaaah, that felt good."[pcms]
 
 *3407|
 [fc]
-[ns]感染者男２[nse]
-「おれも、おれもぉ、だしたあ、いっぱいぃ」[pcms]
+[ns]Infected Man 2[nse]
+"Me too, me too, I let out so much."[pcms]
 
 *3408|
 [fc]
-[ns]感染者男３[nse]
-「ふはああ、でたああ」[pcms]
+[ns]Infected Man 3[nse]
+"Fuhahaa, it came out."[pcms]
 
 ;//■イベントCG　satuki_H006
 [evcg storage="satuki_H006k"][trans_c cross time=300]
 
 *3409|
 [fc]
-男達のちんぽがいっせいにわたしから抜かれた。[r]
-わたしのあそこから、アナルからどろどろと精液が流れでてる。[pcms]
+The dicks of the men were simultaneously pulled out from me. Semen was[r]
+oozing out from my pussy and anus.[pcms]
 
 *3410|
 [fc]
 [vo_stk s="satuki_st0516"]
-[ns]彩月[nse]
-「ぐはっ……ぐふううっ……げふっおえっ……おえええっ……」[pcms]
+[ns]Satsuki[nse]
+"Guh... gufuuuh... gefuhoe... oeeeee..."[pcms]
 
 *3411|
 [fc]
-[ns]感染者男３[nse]
-「あああ、もったいなあ、のめよぉ……」[pcms]
+[ns]Infected Man 3[nse]
+"Aaah, what a waste, swallow it..."[pcms]
 
 [se buf=0 storage="seD006"]
 ;//♪SE床にこぼれる吐瀉物
@@ -978,24 +971,24 @@
 *3412|
 [fc]
 [vo_stk s="satuki_st0517"]
-[ns]彩月[nse]
-「ぐふううっぐはっ、おええええええ゛え゛え゛え゛……」[pcms]
+[ns]Satsuki[nse]
+"Gufuuuughah, oeeeeeeeeee..."[pcms]
 
 *3413|
 [fc]
-わたしのえづきは、止まらなかった。[pcms]
+My retching wouldn't stop.[pcms]
 
 *3414|
 [fc]
-でも、まだ終わりじゃなかった……。[pcms]
+But it wasn't over yet...[pcms]
 
 ;//■イベントCG　satuki_H007
 [evcg storage="satuki_H007a"][trans_c cross time=300]
 
 *3415|
 [fc]
-また男達がわたしの身体にむらがる。[r]
-涎をだらしなく垂らした赤い眼の男達が。[pcms]
+Again the men swarmed over my body. Men with red eyes drooling[r]
+sloppily.[pcms]
 
 [se buf=1 storage="se_sex03" loop=true]
 ;//se_sex03.ogg(LOOP)
@@ -1006,20 +999,19 @@
 *3416|
 [fc]
 [vo_stk s="satuki_st0518"]
-[ns]彩月[nse]
-「ぐぎいいぃぃぃぃっ！　やああっ……やめてぇ……」[pcms]
+[ns]Satsuki[nse]
+"Ugiiiiiiiih! Nooo... stop it..."[pcms]
 
 *3417|
 [fc]
-[ns]感染者男４[nse]
-「おほお、せーえき、で、ぬるぬるぅ～、あったけえ、[r]
-　いい、まんこだああ」[pcms]
+[ns]Infected Man 4[nse]
+"Ohooh, semen makes it so slippery~ warm and nice pussy there"[pcms]
 
 *3418|
 [fc]
-[ns]感染者男５[nse]
-「こ、こっちも、ずっぽりっ、おれの、すぐにずっぽり、[r]
-　ぬるぬるしてるぅ～いい、あなだあ～」[pcms]
+[ns]Infected Man 5[nse]
+"This side too, all the way in, my dick slips right in, so slippery~[r]
+nice ass~"[pcms]
 
 ;//■イベントCG　satuki_H007
 [evcg storage="satuki_H007c"][trans_c cross time=300]
@@ -1027,19 +1019,19 @@
 *3419|
 [fc]
 [vo_stk s="satuki_st0519"]
-[ns]彩月[nse]
-「うぎぃっ……や、やだっ……抜いて、もう、いやあっ、[r]
-　抜いてぇ、うぎぃぃぃいいいっ、いやあっ、いやあっ」[pcms]
+[ns]Satsuki[nse]
+"Ugiiih... no, I don't want this... pull it out, I can't take anymore,[r]
+pull it out, ugiiiiiiih, nooo, nooo"[pcms]
 
 *3420|
 [fc]
-あそことアナルにまた同時に挿れられる。[r]
-臭くて汚いちんぽを、生のままで。[pcms]
+I was penetrated again in both my pussy and anus at the same time. By[r]
+their smelly and dirty dicks, raw.[pcms]
 
 *3421|
 [fc]
-どんなに振り払おうと力を振り絞っても、わたしは[r]
-ぴくりとも動けないでいた。[pcms]
+No matter how much I tried to shake them off with all my strength, I[r]
+couldn't move even a bit.[pcms]
 
 ;//■イベントCG　satuki_H007
 [evcg storage="satuki_H007b"][trans_c cross time=300]
@@ -1047,14 +1039,14 @@
 *3422|
 [fc]
 [vo_stk s="satuki_st0520"]
-[ns]彩月[nse]
-「やめてっ、お願いだからっ、んぎっ、いやあっ、いぎぃぃっ！[r]
-　あがっ……ぐっぐうっ……抜いて、抜いてぇ……えっ！」[pcms]
+[ns]Satsuki[nse]
+"Stop it please, I'm begging you, ngihh, nooo, igiiih! Agah...[r]
+gugguh... pull it out, pull it out... eh!"[pcms]
 
 *3423|
 [fc]
-[ns]感染者男６[nse]
-「うるさいく、ち、おれ、ふさぐ……のどのおくいれる」[pcms]
+[ns]Infected Man 6[nse]
+"Shut up, I'll silence you... shove it deep in your throat"[pcms]
 
 ;//■イベントCG　satuki_H007
 [evcg storage="satuki_H007c"][trans_c cross time=300]
@@ -1062,60 +1054,60 @@
 *3424|
 [fc]
 [vo_stk s="satuki_st0521"]
-[ns]彩月[nse]
-「ぐぷううっっ！！　や゛……やめ゛……んぶっ、んぶううっ！[r]
-　ぐぢゅっ……や、やっ……ぢゅぶぅっげほっ……げほっ！」[pcms]
+[ns]Satsuki[nse]
+"Gupuuuuh!! Noo... stop... nghh, nghuuuh! Gudjuh... no... yah...[r]
+jubuuhgehoh... gehoh!"[pcms]
 
 *3425|
 [fc]
-また口も塞がれる。臭い匂いのちんぽが喉の奥をかき混ぜる。[r]
-また３本の汚れたちんぽが、わたしの身体の中に挿れられていた。[pcms]
+My mouth was filled again. A smelly dick stirred the back of my[r]
+throat. Once again three dirty dicks were inserted inside me.[pcms]
 
 *3426|
 [fc]
-[ns]感染者男４[nse]
-「うはあっ、すげえしまる、このまんこ、すげえ、ぬるぬるで[r]
-　きつきつで、おほお、しぼられるぅ……」[pcms]
+[ns]Infected Man 4[nse]
+"Uhaahh, it's so tight, this pussy is amazing, so slippery and tight,[r]
+ohoooh, squeezing..."[pcms]
 
 *3427|
 [fc]
-[ns]感染者男５[nse]
-「しりも、いいぞぉ。あったかくて、まんこよっか、きつきつ」[pcms]
+[ns]Infected Man 5[nse]
+"The ass is good too. Warm and tighter than the pussy."[pcms]
 
 *3428|
 [fc]
-[ns]感染者男６[nse]
-「くち、のど、おく、さいこー、しまる、しまるぅ」[pcms]
+[ns]Infected Man 6[nse]
+"Mouth, throat, back, amazing tightness."[pcms]
 
 *3429|
 [fc]
 [vo_stk s="satuki_st0522"]
-[ns]彩月[nse]
-「ぐぶっ……うぶっ……や゛……め゛……んぐっ、ぐぐんんっ！[r]
-　ぶはっ……げふっ……や、やだ……うぎぃ、いや……んぶっ！」[pcms]
+[ns]Satsuki[nse]
+"Gubuh... ubuh... noo... stop... nguhh, gungnnn! Buhah... gefuh...[r]
+no... I don't want this... nguhh!"[pcms]
 
 *3430|
 [fc]
-苦しさで涙がにじみ出てくる。目がかすむ。頭の中がおかしくなる。[r]
-男達の乱暴で自分勝手な動きに、わたしの身体はきしんでいた。[pcms]
+Tears of distress started to blur my vision. My head was spinning. My[r]
+body was creaking under the rough and selfish movements of the men.[pcms]
 
 *3431|
 [fc]
-[ns]感染者男４[nse]
-「おお？　うれしくてないてるぞぉ、このおんなぁ。もっと[r]
-　きもちよくしてやんなくちゃなあ」[pcms]
+[ns]Infected Man 4[nse]
+"Oh? She's crying with joy, this woman. Gotta make her feel even[r]
+better."[pcms]
 
 *3432|
 [fc]
-[ns]感染者男５[nse]
-「なけえ、もっとなけえ、しまるぞ、あな、しまるぅ。[r]
-　たまんねえ、すげえこーふんするぅ、ないてるおんなぁ」[pcms]
+[ns]Infected Man 5[nse]
+"Cry more, cry more. It tightens up so good. Can't stand it; she's[r]
+crying."[pcms]
 
 *3433|
 [fc]
-[ns]感染者男６[nse]
-「うひゃあ、よだれだらだらぁ、おれのちんこぬれぬれ～[r]
-　しめろぉ、のどのおく、もっとしめろぉ」[pcms]
+[ns]Infected Man 6[nse]
+"Uhyaaah, drooling all over my dick making it wet~ Tighten more at the[r]
+back of your throat."[pcms]
 
 ;//■イベントCG　satuki_H007
 [evcg storage="satuki_H007b"][trans_c cross time=300]
@@ -1123,31 +1115,31 @@
 *3434|
 [fc]
 [vo_stk s="satuki_st0523"]
-[ns]彩月[nse]
-「んぐっ……ぐすっ……ぐぐっ……やっ……ぐぶあっ……！[r]
-　うぶぅっ……！　ぶぶっ！　ぐぎぃぃっ！　んぶぐっ[r]
-　やめ、て……んぶぅっ……ぐぐっ……ぷぶぶっ……んぶっ」[pcms]
+[ns]Satsuki[nse]
+"Nguh... gusuh... gugh... noo... gubah! Ubuhh! Bubuh! Gugiiih! Nbuguh[r]
+stop it... nguuhh... gugh... pububuh... ngh!"[pcms]
 
 *3435|
 [fc]
-わたしはきっともうすぐ人間じゃなくなる……。[r]
-新しいウイルスに耐性があるかなんて、わからない……[r]
-ううん、きっと無い。だから、人間じゃなくなる。[pcms]
+I'm sure I'll soon no longer be human... I don't know if I have any[r]
+resistance to the new virus... No, I'm sure I don't. That's why I'll[r]
+become something else.[pcms]
 
 *3436|
 [fc]
-[ns]感染者男４[nse]
-「な、なあ、このまんこ、ほかのおんなと、においちがわないか？」[pcms]
+[ns]Infected Man 4[nse]
+"Hey, doesn't this pussy smell different from the other women?"[pcms]
 
 *3437|
 [fc]
-[ns]感染者男５[nse]
-「そんなのどうでもいい、うへえ、きもちよけりゃいい」[pcms]
+[ns]Infected Man 5[nse]
+"Who cares about that, ugh, as long as it feels good."[pcms]
 
 *3438|
 [fc]
-[ns]感染者男６[nse]
-「ちがう、ちがう、におい、ちがう。でも、どーでもいい」[pcms]
+[ns]Infected Man 6[nse]
+"It's different, it's different, the smell is different. But, it[r]
+doesn't matter."[pcms]
 
 ;//■イベントCG　satuki_H007
 [evcg storage="satuki_H007c"][trans_c cross time=300]
@@ -1155,35 +1147,35 @@
 *3439|
 [fc]
 [vo_stk s="satuki_st0524"]
-[ns]彩月[nse]
-「ぐぅっ……ぐぷっんぶぅっ……ぐぐっ……ぷぶぶっ……んぶっ[r]
-　や……め゛……んぐっげぶっ……抜いて……え……」[pcms]
+[ns]Satsuki[nse]
+"Guuh... gupunbuuh... gugu... pububu... nubu stop... ngebu... pull it[r]
+out... eh..."[pcms]
 
 *3440|
 [fc]
-コイツらの言ってる事は、ちっともわからなかった。[r]
-ただ、わたしを見ながら、別の男が必死にオナニーしてるのは[r]
-わかっていた。[pcms]
+I couldn't understand what they were saying at all. But I could see[r]
+another man desperately masturbating while looking at me.[pcms]
 
 *3441|
 [fc]
-[ns]感染者男７[nse]
-「うはあ。すげえ、すげえ、うはあ、きもちいい……」[pcms]
+[ns]Infected Man 7[nse]
+"Uhaa. Amazing, amazing, uhaa, feels so good..."[pcms]
 
 *3442|
 [fc]
-[ns]感染者男４[nse]
-「おおお、しまる、すいこまれるぅ、いいまんこ、いいまんこだ」[pcms]
+[ns]Infected Man 4[nse]
+"Oooh, it's closing in, sucking me in, good pussy, good pussy."[pcms]
 
 *3443|
 [fc]
-[ns]感染者男５[nse]
-「も、うでるぅ、きつきつのあなに、だすぅ」[pcms]
+[ns]Infected Man 5[nse]
+"I'm gonna cum, in this tight hole, gonna release it."[pcms]
 
 *3444|
 [fc]
-[ns]感染者男６[nse]
-「おれだって、だす。のどからはらにちょくせつ、だすぅ」[pcms]
+[ns]Infected Man 6[nse]
+"I'm gonna cum too. Directly from the throat to the stomach, gonna[r]
+release it."[pcms]
 
 ;//■イベントCG　satuki_H007
 [evcg storage="satuki_H007b"][trans_c cross time=300]
@@ -1191,24 +1183,24 @@
 *3445|
 [fc]
 [vo_stk s="satuki_st0525"]
-[ns]彩月[nse]
-「ぐっ……んぐっ……やめ……お願い……出さな、いで……[r]
-　も、んぶっっ……いや……んぶうっぢゅぶっぐぶっ……」[pcms]
+[ns]Satsuki[nse]
+"Guuh... nnguh... stop... please... don't cum inside... mo, nubuuh...[r]
+no... nubuujubuggubu..."[pcms]
 
 *3446|
 [fc]
-[ns]感染者男４[nse]
-「おおお、きたあ、もうでる、だす、だす、おくにだす」[pcms]
+[ns]Infected Man 4[nse]
+"Oooh, here it comes, gonna cum, release it, deep inside."[pcms]
 
 *3447|
 [fc]
-[ns]感染者男５[nse]
-「おれも、でるぅ、しりのあなに、いっぱいだすぅ」[pcms]
+[ns]Infected Man 5[nse]
+"Me too, gonna cum, fill up that ass hole."[pcms]
 
 *3448|
 [fc]
-[ns]感染者男６[nse]
-「おおお、も、だめだ、だす、のめ、のめ、のめ」[pcms]
+[ns]Infected Man 6[nse]
+"Oooh, can't hold it, gonna cum, swallow, swallow, swallow."[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1225,39 +1217,39 @@
 *3449|
 [fc]
 [vo_stk s="satuki_st0526"]
-[ns]彩月[nse]
-「んっぶううっ……ぐぶっ……ぐふっ……げほっ！！」[pcms]
+[ns]Satsuki[nse]
+"Nnbbuuuh... gubu... gufu... geho!!"[pcms]
 
 *3450|
 [fc]
-[ns]感染者男６[nse]
-「だめだ、はくなあ、のめ、のめえ」[pcms]
+[ns]Infected Man 6[nse]
+"No way, don't spit it out, swallow, swallow."[pcms]
 
 *3451|
 [fc]
 [vo_stk s="satuki_st0527"]
-[ns]彩月[nse]
-「んぐううっっっ！　ぐぷああっぐぐうっ……！！」[pcms]
+[ns]Satsuki[nse]
+"NGUUUUHHH! Gupaaagguuu...!!"[pcms]
 
 ;//■イベントCG　satuki_H007
 ;//[evcg storage="satuki_H007e"][trans_c cross time=300]
 
 *3452|
 [fc]
-胃から戻される精液……なのに、男はちんぽを抜いてくれない。[r]
-執拗に、わたしの喉に突っ込んで、あたしは意識が飛びそうだった。[pcms]
+Semen regurgitated from my stomach... yet the man wouldn't pull his[r]
+dick out. Relentlessly thrusting into my throat, I felt like I was[r]
+going to lose consciousness.[pcms]
 
 *3453|
 [fc]
 [vo_stk s="satuki_st0528"]
-[ns]彩月[nse]
-「ぐふっ………………」[pcms]
+[ns]Satsuki[nse]
+"Gufu..."[pcms]
 
 *3454|
 [fc]
-誠君……助けて……。[r]
-誠く……ん、助け……て……。[r]
-まこ……と、く……ん、たすけ……て……。[pcms]
+Makoto-kun... help me... Makoto-kun, help... me... Makoto-kun, save...[r]
+me...[pcms]
 
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -1293,72 +1285,73 @@
 *3455|
 [fc]
 [vo_aka s="akari_st0216"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *3456|
 [fc]
 [vo_mis s="misao_st0242"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *3457|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3458|
 [fc]
-僕たちは、なんとか防疫隊の拠点にたどり着いていた。[r]
-美沙緒さんがすぐに、自分の身分を伝え、最初は役目じゃないとか[r]
-なんとか、揉めたけど、最終的には救助対象となった。[pcms]
+We somehow managed to reach the quarantine squad's base. Misao-san[r]
+immediately identified herself and although there was some dispute[r]
+about it not being their responsibility at first, eventually we were[r]
+recognized as rescue targets.[pcms]
 
 *3459|
 [fc]
-次の人員を輸送するヘリに乗せて貰うことになったのに、[r]
-ぎりぎりまで待っても、南先輩は戻ってこなかった。[pcms]
+Even though we were set to board the next helicopter transporting[r]
+personnel, Satsuki-senpai didn't return until the very last moment.[pcms]
 
 *3460|
 [fc]
-美沙緒さんが、先輩の特徴を伝え、ここに現れたら[r]
-同じように救助してくれと頼んではある。[pcms]
+Misao-san described Senpai's features and asked them to rescue her in[r]
+the same way if she showed up here.[pcms]
 
 *3461|
 [fc]
-でも、たぶん……先輩は、もう戻ってこない。[r]
-そんな嫌な予感が、僕にはあった。[pcms]
+But probably... Senpai won't come back. I had a bad feeling about[r]
+that.[pcms]
 
 *3462|
 [fc]
 [vo_aka s="akari_st0217"]
-[ns]茜梨[nse]
-「あとから南先輩、来ますよ。きっと……」[pcms]
+[ns]Akari[nse]
+"Senpai Minami will come later. Surely..."[pcms]
 
 *3463|
 [fc]
-[ns]誠[nse]
-「……そうだといいけど」[pcms]
+[ns]Makoto[nse]
+"...I hope so."[pcms]
 
 *3464|
 [fc]
-僕たちを乗せたヘリが上昇する。[r]
-さっきまで居た島が、どんどん小さくなっていった。[pcms]
+The helicopter carrying us began to ascend. The island where we had[r]
+been just moments ago was getting smaller and smaller.[pcms]
 
 *3465|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3466|
 [fc]
 [vo_aka s="akari_st0218"]
-[ns]茜梨[nse]
-「まー君先輩……」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai..."[pcms]
 
 *3467|
 [fc]
-越智さんが、ハンカチで僕の頬をぬぐってくれる。[r]
-僕は、自分が泣いてることに気付いていなかった。[pcms]
+Ochi-san was wiping my cheek with a handkerchief. I hadn't realized[r]
+that I was crying.[pcms]
 
 ;//ザップ効果
 [sysbt_meswin clear]
@@ -1386,43 +1379,41 @@
 *3468|
 [fc]
 [vo_stk s="satuki_st0529"]
-[ns]彩月[nse]
-「…………へり？」[pcms]
+[ns]Satsuki[nse]
+"...a helicopter?"[pcms]
 
 *3469|
 [fc]
-大きなおとで、みあげたら、おおきなヘリがとんでいた。[r]
-なんだろう……どうして、あのへりが気になるの？[pcms]
+When I looked up at the loud noise, there was a big helicopter flying.[r]
+What is it... why am I concerned about that helicopter?[pcms]
 
 *3470|
 [fc]
 [vo_stk s="satuki_st0530"]
-[ns]彩月[nse]
-「ま……？」[pcms]
+[ns]Satsuki[nse]
+"Ma...?"[pcms]
 
 *3471|
 [fc]
-あとに何が、つづくんだっけ……。[r]
-よく思いだせない……。[pcms]
+What comes after this...? I can't remember well...[pcms]
 
 *3472|
 [fc]
-でも、なんだろ、あのへりには、大切なひとがのってる[r]
-きがしてる。[pcms]
+But somehow, I feel like someone important is on that helicopter.[pcms]
 
 *3473|
 [fc]
-たいせつな……ひと……が。[pcms]
+Someone important... is.[pcms]
 
 *3474|
 [fc]
 [vo_stk s="satuki_st0531"]
-[ns]彩月[nse]
-「…………？」[pcms]
+[ns]Satsuki[nse]
+"...?"[pcms]
 
 *3475|
 [fc]
-わたしのめから、みずがいっぱい……こぼれた。[pcms]
+From my eyes, tears spilled out in abundance.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -1482,5 +1473,5 @@
 [eval exp="sf.g_end_satukiA = 1"]
 ;;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 

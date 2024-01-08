@@ -29,38 +29,37 @@
 
 *2580|
 [fc]
-僕はたどたどしく、思い出した過去をみんなに伝えていった。[r]
-自分がどんなに卑怯な人間であるのか。[r]
-助かる価値のない人間であるのか。[pcms]
+I awkwardly conveyed my recollections of the past to everyone. How[r]
+cowardly a person I am. How I'm someone unworthy of being saved.[pcms]
 
 *2581|
 [fc]
-みんな一言も漏らさず、沈痛な面持ちで[r]
-僕の話を聞いてくれた。[pcms]
+Everyone listened to my story without uttering a single word, with[r]
+somber expressions on their faces.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2582|
 [fc]
-こんなこと思い出さなければ良かった。[r]
-でも、思い出したことで僕は救われるかも知れない。[pcms]
+I wish I hadn't remembered such things. But by remembering, I might be[r]
+saved.[pcms]
 
 *2583|
 [fc]
-このままおめおめと生き延びて、みんなの優しさに甘えるよりも、[r]
-ここで朽ち果てる方がお似合いだ。[pcms]
+It would be more fitting for me to rot away here than to live on[r]
+shamelessly, taking advantage of everyone's kindness.[pcms]
 
 *2584|
 [fc]
-[ns]誠[nse]
-「生き延びたくて……好きな人を独占したくて……、[r]
-　僕は友達を見殺しにした」[pcms]
+[ns]Makoto[nse]
+"I wanted to survive... I wanted to have the person I love all to[r]
+myself... so I let my friend die."[pcms]
 
 *2585|
 [fc]
-[ns]誠[nse]
-「自分でも最低の人間だと思う。生きてる資格もない。[r]
-　だから……これ以上は、もういい」[pcms]
+[ns]Makoto[nse]
+"I think I'm the worst kind of person. I don't deserve to live. So...[r]
+that's enough."[pcms]
 
 ;//◆４つに条件分岐です
 
@@ -83,17 +82,16 @@
 
 *2586|
 [fc]
-僕がそう言い終わると、越智さんが身体を支えるようにして[r]
-抱きしめてきた。[pcms]
+As I finished saying that, Akari-san hugged me as if to support my[r]
+body.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_ja2"][ChrSetParts layer=5 chface="F2_aj04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2587|
 [fc]
 [vo_aka s="akari0805"]
-[ns]茜梨[nse]
-「人間には誰にだって弱い部分があります！[r]
-　誰にでもです！」[pcms]
+[ns]Akari[nse]
+"Every human has their weaknesses! Everyone does!"[pcms]
 
 ;//＠_ラベル5230mainへ
 [jump target=*5230main]
@@ -106,17 +104,17 @@
 
 *2588|
 [fc]
-僕がそう言い終わると、南先輩が身体を支えるようにして[r]
-抱きしめてきた。[pcms]
+As I finished saying that, Satsuki-senpai hugged me as if to support[r]
+my body.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2589|
 [fc]
 [vo_stk s="satuki0334"]
-[ns]彩月[nse]
-「いいんだよ、卑怯でも最低でも。[r]
-　わたしは許してあげるよ……」[pcms]
+[ns]Satsuki[nse]
+"It's okay, even if you're cowardly or the worst. I will forgive[r]
+you..."[pcms]
 
 ;//＠_ラベル5230mainへ
 [jump target=*5230main]
@@ -129,17 +127,17 @@
 
 *2590|
 [fc]
-僕がそう言い終わると、姉ちゃんが身体を支えるようにして[r]
-抱きしめてきた。[pcms]
+As I finished saying that, Onee-san hugged me as if to support my[r]
+body.[pcms]
 
 [ChrSetEx layer=5 chbase="na2_cos_b"][ChrSetParts layer=5 chface="F2_na06t"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2591|
 [fc]
 [vo_nat s="natu0473"]
-[ns]夏都[nse]
-「辛かったんだな、嫌なことを思い出しちまったんだな、[r]
-　でも、それはお前が生きる責任を放棄する言い訳にはならねえ」[pcms]
+[ns]Natsu[nse]
+"It must have been tough, remembering such unpleasant things, but[r]
+that's no excuse for you to shirk your responsibility to live."[pcms]
 
 ;//＠_ラベル5230mainへ
 [jump target=*5230main]
@@ -152,17 +150,16 @@
 
 *2592|
 [fc]
-僕がそう言い終わると、ターヤさんが身体を支えるようにして[r]
-抱きしめてきた。[pcms]
+As I finished saying that, Tarja-san hugged me as if to support my[r]
+body.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2593|
 [fc]
 [vo_tay s="taja0231"]
-[ns]ターヤ[nse]
-「死ぬのはいつでも出来るよ、[r]
-　でも助かることができるのは今だけ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"You can die anytime, but you can only be saved now."[pcms]
 
 ;//＠_ラベル5230mainへ
 [jump target=*5230main]
@@ -178,170 +175,163 @@
 *2594|
 [fc]
 [vo_tay s="taja0232"]
-[ns]ターヤ[nse]
-「中澤君のしたことは許されない行為かも知れない。[r]
-　でも、一緒に逃げた人の為に、憎まれ役を[r]
-　買って出られる人が必要だった」[pcms]
+[ns]Tarja[nse]
+"What Nakazawa-kun did may be unforgivable. But someone needed to take[r]
+on the role of the villain for those who fled together."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2595|
 [fc]
 [vo_aka s="akari0806"]
-[ns]茜梨[nse]
-「中澤先輩なら、今の中澤先輩なら、もし私が感染したとしても、[r]
-　きっと助けてくれます、一生懸命にしてくれます、[r]
-　きっとそうだってわかります」[pcms]
+[ns]Akari[nse]
+"If it were Nakazawa-senpai now, even if I were infected, you would[r]
+surely save me, work hard for me, I know it for sure."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se5_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2596|
 [fc]
 [vo_stk s="satuki0335"]
-[ns]彩月[nse]
-「わたしもね、中澤君のことは責められないんだ。[r]
-　生き残る為に双子の姉を殺した。[r]
-　その汚い手は血で真っ赤だよ」[pcms]
+[ns]Satsuki[nse]
+"I can't blame Nakazawa-kun either. To survive, I killed my twin[r]
+sister. These dirty hands are stained red with blood."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na06t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2597|
 [fc]
 [vo_nat s="natu0474"]
-[ns]夏都[nse]
-「あの日、あの場にいた人間のすること全てを[r]
-　責めることは出来ない」[pcms]
+[ns]Natsu[nse]
+"I can't blame everything done by the people who were there that day."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na22t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2598|
 [fc]
 [vo_nat s="natu0475"]
-[ns]夏都[nse]
-「オレも生き残る為に多くの戦友を見捨てたし、[r]
-　この手にかけた」[pcms]
+[ns]Natsu[nse]
+"I too abandoned many comrades to survive, and took lives with these[r]
+hands."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na04t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2599|
 [fc]
 [vo_nat s="natu0476"]
-[ns]夏都[nse]
-「誠……お前の親父さんを殺したのな……オレなんだ」[pcms]
+[ns]Natsu[nse]
+"Makoto... it was me who killed your father."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so04a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2600|
 [fc]
-[ns]宗一郎[nse]
-「生き延びろ、償いはそれからでも出来る。[r]
-　生き延びなければ、全てが忘却の彼方に消えてしまう」[pcms]
+[ns]Souichirou[nse]
+"Survive, you can atone later. If you don't survive, everything will[r]
+fade into oblivion."[pcms]
 
 *2601|
 [fc]
-みんなが僕に生きろと言う。[r]
-見捨てようとしない。[pcms]
+Everyone tells me to live. They won't abandon me.[pcms]
 
 *2602|
 [fc]
-僕はあんなに簡単に見捨てたのに……、[r]
-どうして僕ばかりがこんなに得をしてしまうんだ……。[pcms]
+Even though I abandoned them so easily... why do I end up gaining so[r]
+much...?[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na10t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2603|
 [fc]
 [vo_nat s="natu0477"]
-[ns]夏都[nse]
-「でも、おかしいんだよな。[r]
-　誠を助けに部屋に入ったとき、鍵は閉まってたんだぜ？」[pcms]
+[ns]Natsu[nse]
+"But it's strange. When I went into the room to save Makoto, the door[r]
+was locked, you know?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2604|
 [fc]
-[ns]宗一郎[nse]
-「部屋には一人だったんですか？」[pcms]
+[ns]Souichirou[nse]
+"Were you alone in the room?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na04t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2605|
 [fc]
 [vo_nat s="natu0478"]
-[ns]夏都[nse]
-「ああ、他には誰もいなかった。[r]
-　どういうことだ？」[pcms]
+[ns]Natsu[nse]
+"Yeah, there was no one else. What does that mean?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so01b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2606|
 [fc]
-[ns]宗一郎[nse]
-「準備室に逃げ込んだのなら、[r]
-　他の出入り口から出て行ったのかも知れません」[pcms]
+[ns]Souichirou[nse]
+"If you fled into the prep room, maybe someone left through another[r]
+exit."[pcms]
 
 *2607|
 [fc]
-[ns]誠[nse]
-「他の出口……」[pcms]
+[ns]Makoto[nse]
+"Another exit..."[pcms]
 
 *2608|
 [fc]
-どうしてそんなことを……、[r]
-目の前に扉があったのに。[pcms]
+Why would they do that... when there was a door right in front of[r]
+them?[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *2609|
 [fc]
-[ns]宗一郎[nse]
-「その子は複雑な思いがあったかも知れませんが、[r]
-　誠の安全を確保して立ち去ってくれたんでしょう」[pcms]
+[ns]Souichirou[nse]
+"That person might have had complex feelings but ensured Makoto's[r]
+safety before leaving."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2610|
 [fc]
 [vo_aka s="akari0807"]
-[ns]茜梨[nse]
-「中澤先輩に……生き残って欲しかったんです」[pcms]
+[ns]Akari[nse]
+"They wanted Nakazawa-senpai... to survive."[pcms]
 
 *2611|
 [fc]
-久保田さんの姿と越智さんの姿が重なる。[r]
-本当にそうなのか……そう思っていいんだろうか……。[pcms]
+The image of Kubota-san and Akari-san overlap. Is that really true...[r]
+can I believe that...?[pcms]
 
 [ChrSetEx layer=5 chbase="na1_cos_b"][ChrSetParts layer=5 chface="F1_na01t"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2612|
 [fc]
 [vo_nat s="natu0479"]
-[ns]夏都[nse]
-「今は余計なことを考えるな、ウイルスに冒されて、[r]
-　判断力が鈍ってるんだ」[pcms]
+[ns]Natsu[nse]
+"Don't think about unnecessary things now, your judgment is clouded by[r]
+the virus."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta13"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2613|
 [fc]
 [vo_tay s="taja0233"]
-[ns]ターヤ[nse]
-「死んでも何も解決しない。[r]
-　残された人が悲しむだけ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Death solves nothing. It only brings sorrow to those left behind."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se5_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2614|
 [fc]
 [vo_stk s="satuki0336"]
-[ns]彩月[nse]
-「今度は誰も見捨てない。[r]
-　私たちはやり直しを許されたのよ」[pcms]
+[ns]Satsuki[nse]
+"This time we won't abandon anyone. We've been given a chance to start[r]
+over."[pcms]
 
 *2615|
 [fc]
-僕は姉ちゃんに背負われると、[r]
-そのまま地下道を出て、外に向かっていった。[pcms]
+Carried on Onee-san's back, I left the underground passage and headed[r]
+outside.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]

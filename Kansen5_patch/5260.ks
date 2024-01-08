@@ -31,91 +31,91 @@
 
 *3126|
 [fc]
-海賊とか住んでるのかなぁ～、[r]
-宝物とか、不思議な生き物とかいるのかなぁ～。[pcms]
+"I wonder if pirates live there... or if there's treasure and[r]
+mysterious creatures."[pcms]
 
 *3127|
 [fc]
-土蔵の二階の窓から海を見ると、[r]
-沖の方に小さな島が見えていた。[pcms]
+"Looking out the window from the second floor of the storehouse, I[r]
+could see a small island off in the distance."[pcms]
 
 *3128|
 [fc]
-僕はその様子を見ていると、胸がどきどきとしてしまう。[pcms]
+"My heart starts to race just looking at it."[pcms]
 
 *3129|
 [fc]
 [vo_aka s="you_akari0004"]
-[ns]女の子[nse]
-「ムジントーだって、お母様が言ってたよ？」[pcms]
+[ns]Girl[nse]
+"It's uninhabited, right? That's what my mother said."[pcms]
 
 *3130|
 [fc]
-すごーい！　じゃあ一番乗りすれば僕の宝島になるかも！[pcms]
+"Amazing! If I'm the first one there, it might become my very own[r]
+treasure island!"[pcms]
 
 *3131|
 [fc]
 [vo_aka s="you_akari0005"]
-[ns]女の子[nse]
-「でも、遠いからお船がないと行けないよ？[r]
-　お願いすれば連れて行ってもらえるのかなぁ」[pcms]
+[ns]Girl[nse]
+"But it's far away, isn't it? We can't get there without a boat. I[r]
+wonder if someone would take us if we asked nicely?"[pcms]
 
 *3132|
 [fc]
-待てないよ！　今すぐ風になって海を飛んでいくんだ！[r]
-あの島に行ってみたい！[pcms]
+"I can't wait! I'll become the wind and fly across the sea right now![r]
+I want to see that island!"[pcms]
 
 *3133|
 [fc]
 [vo_aka s="you_akari0006"]
-[ns]女の子[nse]
-「そんなに島に行ってみたい？」[pcms]
+[ns]Girl[nse]
+"Do you want to go to the island that badly?"[pcms]
 
 *3134|
 [fc]
-行きたい！　一緒に行こうよ！[pcms]
+"I do! Let's go together!"[pcms]
 
 *3135|
 [fc]
 [vo_aka s="you_akari0007"]
-[ns]女の子[nse]
-「うん……じゃあ、私も行きたい」[pcms]
+[ns]Girl[nse]
+"Okay... then, I want to go too."[pcms]
 
 *3136|
 [fc]
-女の子はすごくかわいくて、僕はその顔を見るだけで[r]
-どきどきしてしまう。[pcms]
+"The girl is so cute, and just looking at her face makes my heart[r]
+race."[pcms]
 
 *3137|
 [fc]
-一緒に行こう！　おっきくなって、[r]
-船か風になれる魔法を覚えたら一緒に行こう！[pcms]
+"Let's go together! When we grow up and learn magic to become a ship[r]
+or the wind, let's go together!"[pcms]
 
 *3138|
 [fc]
 [vo_aka s="you_akari0008"]
-[ns]女の子[nse]
-「うん……」[pcms]
+[ns]Girl[nse]
+"Okay..."[pcms]
 
 *3139|
 [fc]
-女の子は恥ずかしそうにしながら、[r]
-でも嬉しそうにしていた。[pcms]
+"The girl looked embarrassed but also seemed happy."[pcms]
 
 *3140|
 [fc]
 [vo_mob s="taeko0006"]
-[ns]妙子[nse]
-「誠、もう、お暇するわよ？」[pcms]
+[ns]Taeko[nse]
+"Makoto, it's time to leave, okay?"[pcms]
 
 *3141|
 [fc]
-お母さんが呼んでいる。[r]
-おいとまって、なにかわからないけど行かなくちゃ。[pcms]
+"Mom is calling. I don't know what 'time to leave' means, but I have[r]
+to go."[pcms]
 
 *3142|
 [fc]
-僕は女の子と一緒に、土蔵から出て行った。[pcms]
+"Together with the girl, I left the storehouse."[pcms]
 
 ;//★bg13a 越智本家 外観＆前庭・朝昼
 [bg storage="BG13a"]
@@ -124,31 +124,32 @@
 
 *3143|
 [fc]
-[ns]信二[nse]
-「それでは、お世話になりました」[pcms]
+[ns]Shinji[nse]
+"Thank you for everything."[pcms]
 
 *3144|
 [fc]
 [vo_mob s="taeko0007"]
-[ns]妙子[nse]
-「子供連れで押しかけてしまって、お邪魔いたしました」[pcms]
+[ns]Taeko[nse]
+"I apologize for intruding with the children."[pcms]
 
 *3145|
 [fc]
 [vo_mis s="waka_misao0003"]
-[ns]女性[nse]
-「また、いつでも寄りに来て、顔を見せてね」[pcms]
+[ns]Female[nse]
+"Come by and show your face again anytime."[pcms]
 
 *3146|
 [fc]
-[ns]玄治郎[nse]
-「ご苦労だった、あれもきちんと送ってもらえて、[r]
-　今頃喜んでいることだろう」[pcms]
+[ns]Genjirou[nse]
+"You've been through a lot, and they must be pleased with what you've[r]
+sent them by now."[pcms]
 
 *3147|
 [fc]
-[ns]玄治郎[nse]
-「それに、この子も年の近い子と遊べて嬉しかったはずだ」[pcms]
+[ns]Genjirou[nse]
+"Besides, this child must have been happy to play with someone close[r]
+in age."[pcms]
 
 ;//■イベントCG　akari_N006（少女の茜梨）
 [evcg storage="akari_N006b"][trans_c cross time=300]
@@ -157,54 +158,53 @@
 *3148|
 [fc]
 [vo_aka s="you_akari0009"]
-[ns]女の子[nse]
-「…………」[pcms]
+[ns]Girl[nse]
+"..."[pcms]
 
 *3149|
 [fc]
 [vo_mis s="waka_misao0004"]
-[ns]女性[nse]
-「お屋敷では、ほとんど一人ですから」[pcms]
+[ns]Female[nse]
+"She's mostly alone in the mansion."[pcms]
 
 *3150|
 [fc]
-[ns]玄治郎[nse]
-「信二君が自衛隊所属で、[r]
-　明田の本荘に赴任しているというのも縁を感じる」[pcms]
+[ns]Genjirou[nse]
+"It feels like fate that Shinji-kun is in the Self-Defense Forces and[r]
+has been assigned to Honjo in Akita."[pcms]
 
 *3151|
 [fc]
-[ns]玄治郎[nse]
-「大神島に帰省したときには、[r]
-　越智本家にも遠慮無く顔を見せて欲しい」[pcms]
+[ns]Genjirou[nse]
+"When you return to Oogami Island, please don't hesitate to visit the[r]
+Ochi main house."[pcms]
 
 *3152|
 [fc]
-そうして、僕はお母さんに手を引かれて、[r]
-挨拶をしないさいと言われた。[pcms]
+"And so, my mother took my hand and told me it was time to say[r]
+goodbye."[pcms]
 
 *3153|
 [fc]
-またね、また一緒に遊ぼうね。[pcms]
+"See you again, let's play together again."[pcms]
 
 *3154|
 [fc]
 [vo_mis s="waka_misao0005"]
-[ns]女性[nse]
-「ほら、茜梨も誠くんにご挨拶なさい」[pcms]
+[ns]Female[nse]
+"Come on, Akari, say goodbye to Makoto-kun."[pcms]
 
 ;//◆幼女茜梨のネームチップを出すのはこのタイミングの方が良さそうですね
 
 *3155|
 [fc]
-女の子は、かわいい顔を寂しそうに曇らせて、[r]
-小さく手を振った。[pcms]
+"The girl made a sad face and waved her hand slightly."[pcms]
 
 *3156|
 [fc]
 [vo_aka s="you_akari0010"]
-[ns]茜梨[nse]
-「まーくん、さよなら……」[pcms]
+[ns]Akari[nse]
+"Makoto-kun, goodbye..."[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

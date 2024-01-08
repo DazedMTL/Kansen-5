@@ -44,18 +44,16 @@
 
 *1864|
 [fc]
-[ns]誠[nse]
-「はい」[pcms]
+[ns]Makoto[nse]
+"Yes."[pcms]
 
 *1865|
 [fc]
-扉を叩く音が聞こえた。[r]
-誰が来たんだろうか。[pcms]
+I heard the sound of knocking on the door. I wonder who it could be.[pcms]
 
 *1866|
 [fc]
-そーいちが戻ってきたなら、[r]
-ノックなんてしないだろうし……。[pcms]
+If Souichirou had come back, he wouldn't knock...[pcms]
 
 [se buf=0 storage="seA011"]
 ;//ドアを開ける
@@ -67,19 +65,18 @@
 
 *1867|
 [fc]
-そう思いながら扉を開けると、[r]
-そこにはターヤさんが立っていた。[pcms]
+As I thought that and opened the door, there stood Tarja-san.[pcms]
 
 *1868|
 [fc]
-[ns]誠[nse]
-「珍しいね、遠慮無く入って？」[pcms]
+[ns]Makoto[nse]
+"It's rare to see you here, come in without hesitation?"[pcms]
 
 *1869|
 [fc]
 [vo_tay s="taja0137"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 [se buf=0 storage="seA013"]
 ;//コテージのドアを閉める
@@ -89,237 +86,231 @@
 
 *1870|
 [fc]
-お茶も出せる状況じゃないけれど、[r]
-とにかくベッドに座ってもらう。[pcms]
+It's not a situation where I can serve tea, but anyway, I have her sit[r]
+on the bed.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1871|
 [fc]
 [vo_tay s="taja0138"]
-[ns]ターヤ[nse]
-「あの、あなたが今日、すごく頑張ったから……」[pcms]
+[ns]Tarja[nse]
+"Um, because you worked so hard today..."[pcms]
 
 *1872|
 [fc]
-[ns]誠[nse]
-「褒めに来てくれたの？　ありがとう」[pcms]
+[ns]Makoto[nse]
+"Did you come to praise me? Thank you."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1873|
 [fc]
 [vo_tay s="taja0139"]
-[ns]ターヤ[nse]
-「うん、命がけで友達を守るなんて……偉いと思う」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yes, I think it's admirable to risk your life to protect a friend."[pcms]
 
 *1874|
 [fc]
-[ns]誠[nse]
-「そんないいものじゃないんだよ、[r]
-　夢中だっただけでなにも考えてなかったから」[pcms]
+[ns]Makoto[nse]
+"It's not as good as you think, I was just frantic and not thinking at[r]
+all."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1875|
 [fc]
 [vo_tay s="taja0140"]
-[ns]ターヤ[nse]
-「そ、そう……でも、すごいよ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"So, so... but still, it's amazing."[pcms]
 
 *1876|
 [fc]
-ターヤさんはどこかぎこちない感じがした。[r]
-いつもそうだと言えばそうだけど、今日は特にぎこちない。[pcms]
+Tarja-san seemed somewhat awkward. It's always like that, but today[r]
+it's particularly noticeable.[pcms]
 
 *1877|
 [fc]
-村上さんと、喧嘩でもしたかな？[pcms]
+I wonder if she had a fight with Murakami-san?[pcms]
 
 *1878|
 [fc]
-[ns]誠[nse]
-「村上さんはどうしたの？」[pcms]
+[ns]Makoto[nse]
+"What happened to Murakami-san?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1879|
 [fc]
 [vo_tay s="taja0141"]
-[ns]ターヤ[nse]
-「怜は……部屋で寝ている」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Sato is... sleeping in her room."[pcms]
 
 *1880|
 [fc]
-やっぱり様子がおかしい。[r]
-どうしたんだろう。[pcms]
+As I thought, something seems off. What could it be?[pcms]
 
 *1881|
 [fc]
-[ns]誠[nse]
-「なにか悩み事があるの？」[pcms]
+[ns]Makoto[nse]
+"Do you have something on your mind?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1882|
 [fc]
 [vo_tay s="taja0142"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja Pohjonen[nse]
+"..."[pcms]
 
 *1883|
 [fc]
-ターヤさんは少し無言でいると、[r]
-ぽつぽつと話し始めた。[pcms]
+After being silent for a bit, Tarja-san began to speak hesitantly.[pcms]
 
 *1884|
 [fc]
 [vo_tay s="taja0143"]
-[ns]ターヤ[nse]
-「怜が両親と連絡が付かないって……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Sato can't get in touch with her parents..."[pcms]
 
 *1885|
 [fc]
-[ns]誠[nse]
-「そうなんだ……」[pcms]
+[ns]Makoto[nse]
+"I see..."[pcms]
 
 *1886|
 [fc]
-村上さんは寝ていると言うより、[r]
-ショックで寝込んでいる感じなのかも知れない。[pcms]
+It seems Murakami-san is not just sleeping, but rather bedridden from[r]
+shock.[pcms]
 
 *1887|
 [fc]
-[ns]誠[nse]
-「ターヤさんのご両親は？」[pcms]
+[ns]Makoto[nse]
+"What about your parents, Tarja-san?"[pcms]
 
 *1888|
 [fc]
 [vo_tay s="taja0144"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *1889|
 [fc]
-ターヤさんがぶんぶんと首を振る。[pcms]
+Tarja-san shook her head vigorously.[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1890|
 [fc]
 [vo_tay s="taja0145"]
-[ns]ターヤ[nse]
-「わからないの……」[pcms]
+[ns]Tarja[nse]
+"I don't know..."[pcms]
 
 *1891|
 [fc]
-涙を堪えてそう言うターヤさんを、[r]
-僕は優しく抱きしめた。[pcms]
+I gently embraced Tarja-san as she held back tears.[pcms]
 
 *1892|
 [fc]
-両親を失うつらさは僕にもわかる。[r]
-なんの助けにもならないけれど……。[pcms]
+I understand the pain of losing parents. Though I can't be of any[r]
+help...[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_ja"][ChrSetParts layer=5 chface="F1_ta09"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1893|
 [fc]
 [vo_tay s="taja0146"]
-[ns]ターヤ[nse]
-「ううううううっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Uuuuuuu..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1894|
 [fc]
-ターヤさんは泣き崩れるように、[r]
-僕に身体を預けてきた。[pcms]
+Tarja-san collapsed into tears, entrusting her body to me.[pcms]
 
 *1895|
 [fc]
-きっと、村上さんを思いやって、[r]
-自分が悲しむ様子を見せなかったんだと思う。[pcms]
+She must have been considering Murakami-san, not showing her own[r]
+sadness.[pcms]
 
 *1896|
 [fc]
-ターヤさんには、他に親しい友達もいないらしい。[r]
-不安を見せられる人が……いないんだ。[pcms]
+It seems Tarja-san doesn't have any other close friends. No one to[r]
+show her insecurities to...[pcms]
 
 *1897|
 [fc]
-[ns]誠[nse]
-「大丈夫だよ、僕が付いているから」[pcms]
+[ns]Makoto[nse]
+"It's okay, I'm here with you."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1898|
 [fc]
 [vo_tay s="taja0147"]
-[ns]ターヤ[nse]
-「ホント？　信じてもいい？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Really? Can I trust you?"[pcms]
 
 *1899|
 [fc]
-[ns]誠[nse]
-「うん、ちゃんとターヤさんを守るよ」[pcms]
+[ns]Makoto[nse]
+"Yes, I'll definitely protect you, Tarja-san."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1900|
 [fc]
-ターヤさんは着ていたジャージを脱ぎ捨てると、[r]
-その下に白い競泳水着を着ていた。[pcms]
+Tarja-san took off the jersey she was wearing to reveal a white racing[r]
+swimsuit underneath.[pcms]
 
 *1901|
 [fc]
-[ns]誠[nse]
-「え……？」[pcms]
+[ns]Makoto[nse]
+"Eh...?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_sw"][ChrSetParts layer=5 chface="F1_ta11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1902|
 [fc]
 [vo_tay s="taja0148"]
-[ns]ターヤ[nse]
-「着替えがなかったから……、[r]
-　一階のスポーツ用品店から借りてきた」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I didn't have any clothes to change into... so I borrowed this from[r]
+the sports store on the first floor."[pcms]
 
 *1903|
 [fc]
-[ns]誠[nse]
-「な、なにを……」[pcms]
+[ns]Makoto[nse]
+"Wh-what are you..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_sw"][ChrSetParts layer=5 chface="F1_ta11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1904|
 [fc]
 [vo_tay s="taja0149"]
-[ns]ターヤ[nse]
-「守ってくれるって言った……わたしを……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"You said you'd protect me... me..."[pcms]
 
 *1905|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta1_sw"][ChrSetParts layer=5 chface="F1_ta04"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1906|
 [fc]
 [vo_tay s="taja0150"]
-[ns]ターヤ[nse]
-「だから、そのお礼……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"So, as a thank you..."[pcms]
 
 *1907|
 [fc]
-断ることも出来たんだと思う。[r]
-もっと自分を大切にするべきだって。[pcms]
+I could have refused. I should have valued myself more.[pcms]
 
 *1908|
 [fc]
-でも、僕は……ターヤさんに惹かれている自分を、[r]
-抑えることが出来なかった。[pcms]
+But I couldn't suppress my attraction to Tarja-san.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -338,217 +329,214 @@
 *1909|
 [fc]
 [vo_tay s="taja0151"]
-[ns]ターヤ[nse]
-「はぁ……あぁ……ふぅ……」[pcms]
+[ns]Tarja[nse]
+"Haah... Ahh... Fuu..."[pcms]
 
 *1910|
 [fc]
 [vo_tay s="taja0152"]
-[ns]ターヤ[nse]
-「ん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Mmm..."[pcms]
 
 *1911|
 [fc]
-僕はターヤさんをベッドに乗せると、[r]
-お尻を高く上げてクロッチの部分を脇にずらした。[pcms]
+I lifted Tarja-san onto the bed, raising her butt high and sliding the[r]
+crotch of her panties to the side.[pcms]
 
 *1912|
 [fc]
-そして、そこに口を付けていく。[pcms]
+Then, I moved my mouth towards that spot.[pcms]
 
 *1913|
 [fc]
 [vo_tay s="taja0153"]
-[ns]ターヤ[nse]
-「あっ、恥ずかしいよ……」[pcms]
+[ns]Tarja[nse]
+"Ah, it's embarrassing..."[pcms]
 
 *1914|
 [fc]
-[ns]誠[nse]
-「大丈夫、すごくきれいだから」[pcms]
+[ns]Makoto[nse]
+"It's okay, it's very pretty."[pcms]
 
 *1915|
 [fc]
 [vo_tay s="taja0154"]
-[ns]ターヤ[nse]
-「でも、あっ……」[pcms]
+[ns]Tarja[nse]
+"But, ah..."[pcms]
 
 *1916|
 [fc]
-後ろからあそこを剥き出しにされることに抵抗があるのか、[r]
-ターヤさんは恥ずかしそうに身をよじった。[pcms]
+Perhaps feeling resistance to being exposed from behind, Tarja-san[r]
+twisted her body in embarrassment.[pcms]
 
 *1917|
 [fc]
-僕はその身体を優しく撫でると、[r]
-ぴっちりと閉じた割れ目に舌を這わせていく。[pcms]
+I gently caressed her body, then ran my tongue along the tightly[r]
+closed slit.[pcms]
 
 *1918|
 [fc]
-[ns]誠[nse]
-「んくっ……ちゅっ……」[pcms]
+[ns]Makoto[nse]
+"Nngh... Chuu..."[pcms]
 
 *1919|
 [fc]
 [vo_tay s="taja0155"]
-[ns]ターヤ[nse]
-「んんっ……あっふううっ……くひいっ……」[pcms]
+[ns]Tarja[nse]
+"Nnn... Ahh fuu... Biku..."[pcms]
 
 *1920|
 [fc]
-舌の先にぴりっと塩辛い味が伝わってくる。[r]
-ターヤさんの身体に直接舌を付けていることに、興奮を覚えた。[pcms]
+A sharp, salty taste spread to the tip of my tongue. I felt excited[r]
+touching Tarja-san's body directly with my tongue.[pcms]
 
 *1921|
 [fc]
-[ns]誠[nse]
-「すごくやわらかい……食べたいくらいだよ……」[pcms]
+[ns]Makoto[nse]
+"It's so soft... I almost want to eat it..."[pcms]
 
 *1922|
 [fc]
 [vo_tay s="taja0156"]
-[ns]ターヤ[nse]
-「た、食べちゃだめぇ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No, you can't eat it..."[pcms]
 
 *1923|
 [fc]
-まるで子供みたいなあそこを、[r]
-割り広げるようにして舌をねじ込ませる。[pcms]
+I spread her childlike pussy wide with my tongue.[pcms]
 
 *1924|
 [fc]
-[ns]誠[nse]
-「ずちゅっ……んちゅうっ……」[pcms]
+[ns]Makoto[nse]
+"Zuchu... Nchuu..."[pcms]
 
 *1925|
 [fc]
 [vo_tay s="taja0157"]
-[ns]ターヤ[nse]
-「そこ、ああっ、舐めたら、ひいいっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"There, aah, if you lick there, biku!"[pcms]
 
 *1926|
 [fc]
-[ns]誠[nse]
-「クリトリスが立ってきたよ……」[pcms]
+[ns]Makoto[nse]
+"Your clit is getting hard..."[pcms]
 
 *1927|
 [fc]
-ペニスの収まるすぼまりを舐めていると、[r]
-ターヤさんのクリトリスが顔を出してきた。[pcms]
+As I licked the narrowing where a penis would fit, Tarja-san's clit[r]
+started to peek out.[pcms]
 
 *1928|
 [fc]
-僕はそれを唇で挟むようにして吸い立てる。[pcms]
+I sucked on it as if trapping it between my lips.[pcms]
 
 *1929|
 [fc]
 [vo_tay s="taja0158"]
-[ns]ターヤ[nse]
-「ああああーっ！　そこだめぇーっ！」[pcms]
+[ns]Tarja[nse]
+"Aaaaah! Not thereee!"[pcms]
 
 *1930|
 [fc]
-[ns]誠[nse]
-「んぶっ……くちゅん……」[pcms]
+[ns]Makoto[nse]
+"Nbu... Chyun..."[pcms]
 
 *1931|
 [fc]
 [vo_tay s="taja0159"]
-[ns]ターヤ[nse]
-「ああーっ、ぐううっ、ふぐうういいっ！」[pcms]
+[ns]Tarja[nse]
+"Aaah, guuuh, fuguuuii!"[pcms]
 
 *1932|
 [fc]
-[ns]誠[nse]
-「ずちゅううっ……ふんむうっ……」[pcms]
+[ns]Makoto[nse]
+"Zuchuuu... Funmuu..."[pcms]
 
 *1933|
 [fc]
-身体をばたばたと暴れさせながら、[r]
-ターヤさんが悶えていた。[pcms]
+While flailing her body about, Tarja-san was writhing in agony.[pcms]
 
 *1934|
 [fc]
-クリトリスが敏感になっている。[r]
-オナニーはここが中心なのかも知れない。[pcms]
+Her clit had become sensitive. Maybe masturbation focused on this[r]
+spot.[pcms]
 
 *1935|
 [fc]
 [vo_tay s="taja0160"]
-[ns]ターヤ[nse]
-「お、犯されちゃう、あああっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I'm being violated, aaaaah..."[pcms]
 
 *1936|
 [fc]
-[ns]誠[nse]
-「犯して欲しいの？」[pcms]
+[ns]Makoto[nse]
+"Do you want to be violated?"[pcms]
 
 *1937|
 [fc]
 [vo_tay s="taja0161"]
-[ns]ターヤ[nse]
-「い、いや……恐い……」[pcms]
+[ns]Tarja[nse]
+"No, I'm scared..."[pcms]
 
 *1938|
 [fc]
-ターヤさんは怖いと言いながら、[r]
-熱い吐息で声を震わせていた。[pcms]
+Even though Tarja-san said she was scared, her voice trembled with hot[r]
+breaths.[pcms]
 
 *1939|
 [fc]
-[ns]誠[nse]
-「でも、ここがこんなに濡れてるよ……？」[pcms]
+[ns]Makoto[nse]
+"But this place is so wet...?"[pcms]
 
 *1940|
 [fc]
 [vo_tay s="taja0162"]
-[ns]ターヤ[nse]
-「いやあっ……言わないでぇ……」[pcms]
+[ns]Tarja[nse]
+"No ah... Don't say it..."[pcms]
 
 *1941|
 [fc]
-僕の舐めた跡だけじゃない、[r]
-明らかにぬらぬらと鈍い光が反射するようになっていた。[pcms]
+It wasn't just from my licking; there was a clear, slippery shine[r]
+reflecting light.[pcms]
 
 *1942|
 [fc]
-[ns]誠[nse]
-「ターヤさんのここ、すごく美味しくて……ちゅっ……」[pcms]
+[ns]Makoto[nse]
+"This place of yours, Tarja-san, is so delicious... Chuu..."[pcms]
 
 *1943|
 [fc]
 [vo_tay s="taja0163"]
-[ns]ターヤ[nse]
-「あああーっ！　んあああああーっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aaaaah! Naaaaah!"[pcms]
 
 *1944|
 [fc]
-ターヤさんの小さなお尻がぷるぷると揺れる。[r]
-僕はそれを見ていると、たまらなくなったきた。[pcms]
+Tarja-san's small butt quivered. Watching it, I couldn't stand it[r]
+anymore.[pcms]
 
 *1945|
 [fc]
-[ns]誠[nse]
-「それじゃあ、お尻をもらうよ」[pcms]
+[ns]Makoto[nse]
+"Then, I'll take your butt."[pcms]
 
 *1946|
 [fc]
 [vo_tay s="taja0164"]
-[ns]ターヤ[nse]
-「お、お尻……？」[pcms]
+[ns]Tarja[nse]
+"My, my butt...?"[pcms]
 
 *1947|
 [fc]
-僕はペニスを剥き出しにすると、[r]
-ターヤさんの水着に潜り込むように、[r]
-お尻の割れ目の中にペニスを擦りつけていった。[pcms]
+I exposed my penis and rubbed it between the crevice of Tarja-san's[r]
+butt, as if diving into her swimsuit.[pcms]
 
 [evcg storage="taja_H017b"][trans_c cross time=150]
 
 *1948|
 [fc]
-[ns]誠[nse]
-「くうううあああああっ！」[pcms]
+[ns]Makoto[nse]
+"Kuuuuuuaaaaaah!"[pcms]
 
 ;//se_sex02.ogg(LOOP)
 [se buf=1 storage="se_sex02" loop=true]
@@ -556,200 +544,196 @@
 *1949|
 [fc]
 [vo_tay s="taja0165"]
-[ns]ターヤ[nse]
-「ああっ、あんっ、くあっ、んあっ」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aaah, ahn, kuaah, nahh"[pcms]
 
 *1950|
 [fc]
 [vo_tay s="taja0166"]
-[ns]ターヤ[nse]
-「あっ、お尻を、そんな風にっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah, my butt, like that!"[pcms]
 
 *1951|
 [fc]
-[ns]誠[nse]
-「すごいよっ、お尻ぎゅって締めて！」[pcms]
+[ns]Makoto[nse]
+"It's amazing, squeeze with your butt!"[pcms]
 
 *1952|
 [fc]
 [vo_tay s="taja0167"]
-[ns]ターヤ[nse]
-「あああああああっ！」[pcms]
+[ns]Tarja[nse]
+"Aaaaaaaaah!"[pcms]
 
 *1953|
 [fc]
-お尻の肉に挟まれた僕のペニスが、[r]
-喜びの声をあげるように先走り液を吐き出していく。[pcms]
+My penis, trapped between the flesh of her butt, spurted pre-cum as if[r]
+crying out in joy.[pcms]
 
 *1954|
 [fc]
-[ns]誠[nse]
-「お尻に挟まれて……くううっ！」[pcms]
+[ns]Makoto[nse]
+"Trapped in your butt... kuuuuh!"[pcms]
 
 *1955|
 [fc]
 [vo_tay s="taja0168"]
-[ns]ターヤ[nse]
-「へ、変な感じが……ぐううっ……」[pcms]
+[ns]Tarja[nse]
+"It feels strange... guuuuh..."[pcms]
 
 *1956|
 [fc]
-お尻の肉でパイズリするように、[r]
-ペニスを擦りつけていく。[pcms]
+Like a titjob with her butt flesh, I kept rubbing my penis against it.[pcms]
 
 *1957|
 [fc]
-ターヤさんの少女っぽい薄いお尻が、[r]
-僕のペニスを受け止めて、怪しい喜びを感じさせる。[pcms]
+Tarja-san's girlish thin butt accepted my penis, making me feel a[r]
+dubious pleasure.[pcms]
 
 *1958|
 [fc]
-[ns]誠[nse]
-「お、お尻の穴も気持ちいい？」[pcms]
+[ns]Makoto[nse]
+"Does your asshole feel good too?"[pcms]
 
 *1959|
 [fc]
 [vo_tay s="taja0169"]
-[ns]ターヤ[nse]
-「ぜ、全部擦れて……変な気持ち……」[pcms]
+[ns]Tarja[nse]
+"Everything's rubbing... it feels strange..."[pcms]
 
 *1960|
 [fc]
-[ns]誠[nse]
-「ああっ……僕は……すごくいいよ……」[pcms]
+[ns]Makoto[nse]
+"Aaah... I feel... really good..."[pcms]
 
 [evcg storage="taja_H017c"][trans_c cross time=150]
 
 *1961|
 [fc]
 [vo_tay s="taja0170"]
-[ns]ターヤ[nse]
-「んんんんうっ……くううんっ……」[pcms]
+[ns]Tarja[nse]
+"Nnnnnnuh... kuuuunh..."[pcms]
 
 *1962|
 [fc]
-たまにお尻の穴に引っかかるのか、[r]
-こつんと刺激があって気持ちがいい。[pcms]
+Sometimes it would catch on her asshole, giving a thud of stimulation[r]
+that felt good.[pcms]
 
 *1963|
 [fc]
-そこにねじ込みたく衝動を、[r]
-僕は必死になって堪えた。[pcms]
+I resisted the urge to thrust inside there with all my might.[pcms]
 
 *1964|
 [fc]
-[ns]誠[nse]
-「こ、このまま……出ちゃいそう……」[pcms]
+[ns]Makoto[nse]
+"I'm going to... cum like this..."[pcms]
 
 [evcg storage="taja_H017d"][trans_c cross time=150]
 
 *1965|
 [fc]
 [vo_tay s="taja0171"]
-[ns]ターヤ[nse]
-「精液……出ちゃうの……？」[pcms]
+[ns]Tarja[nse]
+"Your semen... is going to come out...?"[pcms]
 
 *1966|
 [fc]
-[ns]誠[nse]
-「ターヤさんのお尻がきれいで気持ちいいから……、[r]
-　出ちゃいそうだよ……」[pcms]
+[ns]Makoto[nse]
+"Because Tarja-san's butt is so beautiful and feels good... I'm going[r]
+to cum..."[pcms]
 
 *1967|
 [fc]
-まだ処女の女の子を後ろから犯すみたいに、[r]
-組み伏せていく。[pcms]
+It was like violating a virgin girl from behind, overpowering her.[pcms]
 
 *1968|
 [fc]
-そして、その処女をいつでも散らすことが出来るんだと思うと、[r]
-興奮が血液のようになって、全身を巡っていった。[pcms]
+And the thought that I could deflower that virgin anytime sent[r]
+excitement coursing through me like blood.[pcms]
 
 *1969|
 [fc]
 [vo_tay s="taja0172"]
-[ns]ターヤ[nse]
-「あああっ……出していいよ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aaaah... it's okay to cum..."[pcms]
 
 *1970|
 [fc]
 [vo_tay s="taja0173"]
-[ns]ターヤ[nse]
-「精液……かけて……」[pcms]
+[ns]Tarja[nse]
+"Cum... on me..."[pcms]
 
 *1971|
 [fc]
-ターヤさんが恥ずかしそうにそうつぶやく。[r]
-僕の精液が欲しいなんて……。[pcms]
+Tarja-san murmured shyly. She wants my semen...[pcms]
 
 *1972|
 [fc]
-[ns]誠[nse]
-「ああああっ……くううっ……」[pcms]
+[ns]Makoto[nse]
+"Aaaaaah... kuuuuh..."[pcms]
 
 *1973|
 [fc]
 [vo_tay s="taja0174"]
-[ns]ターヤ[nse]
-「んんふっ……くふうっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nnnfuh... kufuuuh..."[pcms]
 
 *1974|
 [fc]
-[ns]誠[nse]
-「チンコが……お尻に擦れてるよ……」[pcms]
+[ns]Makoto[nse]
+"My cock... is rubbing against your butt..."[pcms]
 
 [evcg storage="taja_H017c"][trans_c cross time=150]
 
 *1975|
 [fc]
 [vo_tay s="taja0175"]
-[ns]ターヤ[nse]
-「んんうっ……くううっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nnnuh... kuuuuh..."[pcms]
 
 *1976|
 [fc]
-僕は今までよりも一層強く、[r]
-ペニスを薄いお尻に擦りつけていった。[pcms]
+I rubbed my penis against her thin butt even more strongly than[r]
+before.[pcms]
 
 *1977|
 [fc]
-[ns]誠[nse]
-「お尻の穴に……こつこつ引っかかって……」[pcms]
+[ns]Makoto[nse]
+"Catching on your asshole... thud thud..."[pcms]
 
 *1978|
 [fc]
 [vo_tay s="taja0176"]
-[ns]ターヤ[nse]
-「いやぁ……こつこつ……いやぁ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"No... thud thud... no..."[pcms]
 
 *1979|
 [fc]
-[ns]誠[nse]
-「ああっ、出るっ、ああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Aaah, I'm cumming, aaaaaaaaah!"[pcms]
 
 [evcg storage="taja_H017d"][trans_c cross time=150]
 
 *1980|
 [fc]
 [vo_tay s="taja0177"]
-[ns]ターヤ[nse]
-「出して……気持ちよくなってぇ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Cum... make it feel good..."[pcms]
 
 *1981|
 [fc]
-[ns]誠[nse]
-「出るよ、もう、ああああっ！」[pcms]
+[ns]Makoto[nse]
+"I'm cumming, here it comes, aaaaaaah!"[pcms]
 
 *1982|
 [fc]
 [vo_tay s="taja0178"]
-[ns]ターヤ[nse]
-「くううううううううっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Kuuuuuuuuuuuuuh!"[pcms]
 
 *1983|
 [fc]
-[ns]誠[nse]
-「で、出るうううううううっ！」[pcms]
+[ns]Makoto[nse]
+"I'm cummingggggggggg!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -766,73 +750,72 @@
 *1984|
 [fc]
 [vo_tay s="taja0179"]
-[ns]ターヤ[nse]
-「ふあっ、んはっ、んふっ、くふっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Fuaah, nhah, nfu, kufu..."[pcms]
 
 *1985|
 [fc]
-ターヤさんの白いお尻に精液をかけていく。[r]
-水着に乗った精液が染みこむように、跡を作っていた。[pcms]
+I splattered my semen on Tarja-san's white butt. The semen that landed[r]
+on her swimsuit seemed to soak in, leaving a mark.[pcms]
 
 *1986|
 [fc]
-[ns]誠[nse]
-「ああっ、くうっ、んぐううっ」[pcms]
+[ns]Makoto[nse]
+"Aah, kuu, nnguuu..."[pcms]
 
 *1987|
 [fc]
 [vo_tay s="taja0180"]
-[ns]ターヤ[nse]
-「熱いのが……お尻にかかってる……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Something hot... is on my butt..."[pcms]
 
 *1988|
 [fc]
-[ns]誠[nse]
-「ぐううっ……うううっ……」[pcms]
+[ns]Makoto[nse]
+"Guuu... uuuu..."[pcms]
 
 *1989|
 [fc]
 [vo_tay s="taja0181"]
-[ns]ターヤ[nse]
-「あああっ……変な匂い……」[pcms]
+[ns]Tarja[nse]
+"Aaaaah... such a strange smell..."[pcms]
 
 [evcg storage="taja_H017f"][trans_c cross time=150]
 
 *1990|
 [fc]
-僕のペニスは出したばかりだというのに、[r]
-まだまだ元気だった。[pcms]
+My penis was still energetic even after just ejaculating.[pcms]
 
 *1991|
 [fc]
-次は、やっぱり……。[pcms]
+Next, as expected...[pcms]
 
 *1992|
 [fc]
-[ns]誠[nse]
-「ターヤさんは初めて……だよね？」[pcms]
+[ns]Makoto[nse]
+"Tarja-san, it's your first time... right?"[pcms]
 
 *1993|
 [fc]
 [vo_tay s="taja0182"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yes..."[pcms]
 
 *1994|
 [fc]
-[ns]誠[nse]
-「僕がもらってもいいの？」[pcms]
+[ns]Makoto[nse]
+"Is it okay if I take it?"[pcms]
 
 *1995|
 [fc]
 [vo_tay s="taja0183"]
-[ns]ターヤ[nse]
-「うん……わたしの初めてを……もらって……」[pcms]
+[ns]Tarja[nse]
+"Yes... take my first time..."[pcms]
 
 *1996|
 [fc]
-僕はお尻から精液が垂れ落ちたまま、[r]
-ターヤさんのあそこにペニスを突き刺していった。[pcms]
+With semen still dripping from her butt, I thrust my penis into Tarja-[r]
+san's pussy.[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -842,327 +825,327 @@
 *1997|
 [fc]
 [vo_tay s="taja0184"]
-[ns]ターヤ[nse]
-「んぐああああああああああああっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nguuaaaaaaaaaaaaaah!"[pcms]
 
 *1998|
 [fc]
-破瓜の痛みにターヤさんが声を漏らす。[r]
-でも、興奮した僕はそのまま突き込んでいった。[pcms]
+Tarja-san let out a cry from the pain of defloration. But, driven by[r]
+excitement, I kept thrusting.[pcms]
 
 *1999|
 [fc]
-[ns]誠[nse]
-「すごいっ……こんなにキツいなんてっ……」[pcms]
+[ns]Makoto[nse]
+"Amazing... it's so tight..."[pcms]
 
 *2000|
 [fc]
 [vo_tay s="taja0185"]
-[ns]ターヤ[nse]
-「くううううっ、あああああああっ！」[pcms]
+[ns]Tarja[nse]
+"Kuuuuuuh, aaaaaaaaaah!"[pcms]
 
 *2001|
 [fc]
-ターヤさんが初めての感触に苦しげな声を上げていた。[r]
-でも、その声に少しだけ甘いものが混じっている。[pcms]
+Tarja-san let out a pained voice from the new sensation, but there was[r]
+a hint of sweetness in her voice.[pcms]
 
 *2002|
 [fc]
-[ns]誠[nse]
-「奥に当たってる、行き止まりまで入ってるっ！」[pcms]
+[ns]Makoto[nse]
+"I'm hitting the back, it's all the way in!"[pcms]
 
 [evcg storage="taja_H017h"][trans_c cross time=150]
 
 *2003|
 [fc]
 [vo_tay s="taja0186"]
-[ns]ターヤ[nse]
-「はぐうううっ、んぐいいいいっ、がふぁっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Haguuhhh, nguiiiih, gafah..."[pcms]
 
 *2004|
 [fc]
-完全に奥まで収まると、僕のペニスは[r]
-それ以上身動きが出来ないほどキツく包まれていた。[pcms]
+Once fully inside, my penis was tightly enveloped to the point where I[r]
+could hardly move.[pcms]
 
 *2005|
 [fc]
-[ns]誠[nse]
-「気持ちいいよ、ターヤさん！」[pcms]
+[ns]Makoto[nse]
+"It feels good, Tarja-san!"[pcms]
 
 *2006|
 [fc]
 [vo_tay s="taja0187"]
-[ns]ターヤ[nse]
-「ああああっ……嬉しい……」[pcms]
+[ns]Tarja[nse]
+"Aaaaah... I'm happy..."[pcms]
 
 *2007|
 [fc]
-[ns]誠[nse]
-「ターヤさんも、気持ちよくしてあげるからね！」[pcms]
+[ns]Makoto[nse]
+"I'll make you feel good too, Tarja-san!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
 
 *2008|
 [fc]
-僕はゆっくりと腰を振り始める。[r]
-抜けてしまわないようにしながら、奥を掘り返すように。[pcms]
+I started to move my hips slowly. While making sure not to pull out, I[r]
+dug deeper inside.[pcms]
 
 *2009|
 [fc]
 [vo_tay s="taja0188"]
-[ns]ターヤ[nse]
-「んぐああああっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nguuaaaaaah..."[pcms]
 
 *2010|
 [fc]
-[ns]誠[nse]
-「んぐわっ、くぅぅっ、あぅっ……」[pcms]
+[ns]Makoto[nse]
+"Nguwah, kuuuh, auh..."[pcms]
 
 *2011|
 [fc]
 [vo_tay s="taja0189"]
-[ns]ターヤ[nse]
-「はぐううっ……くううっ……」[pcms]
+[ns]Tarja[nse]
+"Haguuh... kuuuh..."[pcms]
 
 *2012|
 [fc]
-ものすごい締め付けだった。[pcms]
+The tightness was incredible.[pcms]
 
 *2013|
 [fc]
-スポーツをやっている子はすごいって聞いたことがあるけれど、[r]
-想像が付かないほどの締め付けだ。[pcms]
+I had heard that girls who do sports are amazing, but this tightness[r]
+was beyond imagination.[pcms]
 
 *2014|
 [fc]
-[ns]誠[nse]
-「奥が擦れてるよ……締め付けてくるうっ……」[pcms]
+[ns]Makoto[nse]
+"The back is rubbing... it's squeezing me..."[pcms]
 
 [evcg storage="taja_H017i"][trans_c cross time=150]
 
 *2015|
 [fc]
 [vo_tay s="taja0190"]
-[ns]ターヤ[nse]
-「はああっ、くううっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Haaah, kuuuh!"[pcms]
 
 *2016|
 [fc]
-ターヤさんの反応が、少しだけ違ったような気がした。[pcms]
+I felt a slightly different response from Tarja-san.[pcms]
 
 *2017|
 [fc]
-僕はその奥の辺りを重点的に擦っていく。[pcms]
+I focused on rubbing that spot deep inside her.[pcms]
 
 *2018|
 [fc]
 [vo_tay s="taja0191"]
-[ns]ターヤ[nse]
-「あぁぐうっ！　あぁぁんっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ahhguh! Aaahn!"[pcms]
 
 *2019|
 [fc]
-[ns]誠[nse]
-「ここいい？　気持ちいい？」[pcms]
+[ns]Makoto[nse]
+"Is this spot good? Does it feel good?"[pcms]
 
 *2020|
 [fc]
-腰の動きを最小限にすると、奥の辺りで微妙に[r]
-ペニスを動かしていく。[pcms]
+Minimizing my hip movements, I subtly moved my penis around that deep[r]
+spot.[pcms]
 
 [evcg storage="taja_H017j"][trans_c cross time=150]
 
 *2021|
 [fc]
 [vo_tay s="taja0192"]
-[ns]ターヤ[nse]
-「わ、わかんない……んくうううっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I-I don't know... nkuuuuh!"[pcms]
 
 *2022|
 [fc]
-[ns]誠[nse]
-「ああっ、あああああっ！」[pcms]
+[ns]Makoto[nse]
+"Aaah, aaaaaah!"[pcms]
 
 *2023|
 [fc]
 [vo_tay s="taja0193"]
-[ns]ターヤ[nse]
-「あっ、あふっ、んふぅっ、んんんっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Ah, afuh, nfuuh, nnnn!"[pcms]
 
 *2024|
 [fc]
-ターヤさんの声が少しずつ鼻にかかったようになって、[r]
-甘くなってきているのがわかった。[pcms]
+I could tell that Tarja-san's voice was becoming sweeter, with a nasal[r]
+quality to it.[pcms]
 
 *2025|
 [fc]
-[ns]誠[nse]
-「ああああっ、頑張るからねっ！」[pcms]
+[ns]Makoto[nse]
+"Aaaaaah, I'll do my best!"[pcms]
 
 *2026|
 [fc]
 [vo_tay s="taja0194"]
-[ns]ターヤ[nse]
-「あああっ、くうあっ、んふあっ、か、固いのが、奥に……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aaaaah, kuuah, nfuah, the hard one is... deep inside..."[pcms]
 
 *2027|
 [fc]
-[ns]誠[nse]
-「奥だね、奥を擦るからねっ！」[pcms]
+[ns]Makoto[nse]
+"Deep inside, huh? I'll rub it deep!"[pcms]
 
 *2028|
 [fc]
-子宮を押してしまうほど奥まで突き込んで、[r]
-そこから少しだけ腰を引くと、また押し込んでいく。[pcms]
+Thrusting deep enough to press against her womb, I pulled back just a[r]
+little before pushing in again.[pcms]
 
 *2029|
 [fc]
 [vo_tay s="taja0195"]
-[ns]ターヤ[nse]
-「ああっ、気持ちよくなってく……あああっ……」[pcms]
+[ns]Tarja[nse]
+"Aaah, it's starting to feel good... aaaaah..."[pcms]
 
 *2030|
 [fc]
-[ns]誠[nse]
-「くうっ、んくううっ、ふああああっ！」[pcms]
+[ns]Makoto[nse]
+"Kuuuh, nkuuuuh, fuhaaaaaah!"[pcms]
 
 *2031|
 [fc]
-僕はその動きを素早く行いながら、[r]
-細かい腰の動きでターヤさんを揺すっていった。[pcms]
+While making those quick movements, I shook Tarja-san with fine[r]
+movements of my hips.[pcms]
 
 *2032|
 [fc]
 [vo_tay s="taja0196"]
-[ns]ターヤ[nse]
-「あああっ、激しくて、犯されてる……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aaaaah, it's so intense, I'm being ravished..."[pcms]
 
 *2033|
 [fc]
-[ns]誠[nse]
-「痛くない？　もう大丈夫……？」[pcms]
+[ns]Makoto[nse]
+"Does it hurt? Are you okay now...?"[pcms]
 
 *2034|
 [fc]
 [vo_tay s="taja0197"]
-[ns]ターヤ[nse]
-「わかんない……わかんないのぉ……」[pcms]
+[ns]Tarja[nse]
+"I don't know... I don't knowww..."[pcms]
 
 *2035|
 [fc]
-ターヤさんはもう苦しいだけじゃなくなっていた。[r]
-僕と一緒にセックスで感じている。[pcms]
+Tarja-san was no longer just in pain. She was feeling the sex along[r]
+with me.[pcms]
 
 *2036|
 [fc]
-[ns]誠[nse]
-「奥をほじくり返すからね……っ！」[pcms]
+[ns]Makoto[nse]
+"I'm going to dig deep inside you...!"[pcms]
 
 *2037|
 [fc]
 [vo_tay s="taja0198"]
-[ns]ターヤ[nse]
-「いいよ……もっと強くしても……いいよぉっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"It's okay... you can do it harder... it's okayyy!"[pcms]
 
 *2038|
 [fc]
-[ns]誠[nse]
-「いくよ、激しくするよっ！」[pcms]
+[ns]Makoto[nse]
+"Here I go, I'm going to do it intensely!"[pcms]
 
 [evcg storage="taja_H017i"][trans_c cross time=150]
 
 *2039|
 [fc]
 [vo_tay s="taja0199"]
-[ns]ターヤ[nse]
-「んああああっ！　ああああああっ！　くあああああっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Naaaaah! Aaaaaaaah! Kuaaaaaah!"[pcms]
 
 *2040|
 [fc]
 [vo_tay s="taja0200"]
-[ns]ターヤ[nse]
-「んああああああっ！　いいのぉぉぉぉぉっ！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Naaaaaaaah! It feels so goooood!"[pcms]
 
 *2041|
 [fc]
-僕は細かい腰の動きを大きな動きに変えて、[r]
-奥まで突き込んでいった。[pcms]
+I changed my fine hip movements into larger ones and thrust deep[r]
+inside her.[pcms]
 
 *2042|
 [fc]
-[ns]誠[nse]
-「ああああああっ！　保たないよぉっ！」[pcms]
+[ns]Makoto[nse]
+"Aaaaaaaaah! I can't hold back any longer!"[pcms]
 
 *2043|
 [fc]
-僕に伝わってくる快感が何倍にもなって跳ね返ってくる。[pcms]
+The pleasure transmitted to me was magnified and bounced back.[pcms]
 
 *2044|
 [fc]
-狭い膣内を無理矢理ほじくり返していく快感に、[r]
-腰砕けになっていた。[pcms]
+The sensation of forcibly digging through the tight vaginal walls made[r]
+my hips buckle.[pcms]
 
 [evcg storage="taja_H017g"][trans_c cross time=150]
 
 *2045|
 [fc]
 [vo_tay s="taja0201"]
-[ns]ターヤ[nse]
-「ああっ、くううああっ、あぁぁっ、んくあぁっ」[pcms]
+[ns]Tarja[nse]
+"Aaah, kuuuahaaah, ahhh, nkuahhh"[pcms]
 
 *2046|
 [fc]
-[ns]誠[nse]
-「出る、出ちゃうよ、また出ちゃうよぉっ！」[pcms]
+[ns]Makoto[nse]
+"I'm coming, I'm going to come again!"[pcms]
 
 *2047|
 [fc]
-こんな美少女にせがまれて後ろから犯しているなんて、[r]
-信じられないことだった。[pcms]
+It was unbelievable that I was being begged by such a beautiful girl[r]
+and ravishing her from behind.[pcms]
 
 *2048|
 [fc]
 [vo_tay s="taja0202"]
-[ns]ターヤ[nse]
-「んやあっ、もう、だ、ダメ、わたしもぉぉぉっ！」[pcms]
+[ns]Tarja[nse]
+"Nyaaah, no more, I can't, I'm alsoooo!"[pcms]
 
 *2049|
 [fc]
-そして、その美少女が僕のペニスでよがり声を上げている。[pcms]
+And that beautiful girl was moaning because of my penis.[pcms]
 
 *2050|
 [fc]
-[ns]誠[nse]
-「僕もっ！　出ちゃうっ！　あああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Me too! I'm going to come! Aaaaaaaaaah!"[pcms]
 
 *2051|
 [fc]
 [vo_tay s="taja0203"]
-[ns]ターヤ[nse]
-「出してぇぇぇぇっっ！」[pcms]
+[ns]Tarja[nse]
+"Let it outttttt!"[pcms]
 
 *2052|
 [fc]
-[ns]誠[nse]
-「もおおおおおっ！　くうううああああっ！」[pcms]
+[ns]Makoto[nse]
+"Moooooo! Kuuuuuaaaaaaah!"[pcms]
 
 *2053|
 [fc]
 [vo_tay s="taja0204"]
-[ns]ターヤ[nse]
-「中澤くぅぅぅぅぅん！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Nakazawa-kunnnnnn!"[pcms]
 
 *2054|
 [fc]
-[ns]誠[nse]
-「出るぅぅぅぅぅぅぅっ！」[pcms]
+[ns]Makoto[nse]
+"I'm comingggggggg!"[pcms]
 
 *2055|
 [fc]
 [vo_tay s="taja0205"]
-[ns]ターヤ[nse]
-「イクうううううううううううっ！」[pcms]
+[ns]Tarja[nse]
+"I'm cummingggggggggggg!"[pcms]
 
 ;//se_sex01.ogg
 [se buf=0 storage="se_sex01"]
@@ -1176,70 +1159,68 @@
 *2056|
 [fc]
 [vo_tay s="taja0206"]
-[ns]ターヤ[nse]
-「ふあっ、んはっ、んふっ、くふっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Fuaaah, nhah, nfuuh, kufuh..."[pcms]
 
 *2057|
 [fc]
-ターヤさんの子宮を満たすために、ペニスが夢中になって[r]
-熱い液体を吐き出していく。[pcms]
+In order to fill Tarja-san's womb, my penis frantically spewed out the[r]
+hot fluid.[pcms]
 
 *2058|
 [fc]
-大きく反り返ったターヤさんの背中から、[r]
-汗の雫がお尻の方に伝ってきた。[pcms]
+Sweat droplets trickled down from Tarja-san's arched back towards her[r]
+butt.[pcms]
 
 *2059|
 [fc]
 [vo_tay s="taja0207"]
-[ns]ターヤ[nse]
-「頭が……チカチカして……ふああああっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"My head is... seeing stars... fuhaaaaaah..."[pcms]
 
 *2060|
 [fc]
-[ns]誠[nse]
-「すごいよ……中出し……気持ちいい……」[pcms]
+[ns]Makoto[nse]
+"It's amazing... cumming inside... feels good..."[pcms]
 
 *2061|
 [fc]
 [vo_tay s="taja0208"]
-[ns]ターヤ[nse]
-「嬉しい……良かった……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I'm happy... thank goodness..."[pcms]
 
 *2062|
 [fc]
-[ns]誠[nse]
-「あああっ……はああっ……」[pcms]
+[ns]Makoto[nse]
+"Aaaaah... haaaah..."[pcms]
 
 [evcg storage="taja_H017l"][trans_c cross time=150]
 
 *2063|
 [fc]
-僕は後ろから覆い被さるようにして、[r]
-ターヤさんを抱きしめる。[pcms]
+I embraced Tarja-san from behind as if covering her.[pcms]
 
 *2064|
 [fc]
 [vo_tay s="taja0209"]
-[ns]ターヤ[nse]
-「どうしたの……？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"What's wrong...?"[pcms]
 
 *2065|
 [fc]
-[ns]誠[nse]
-「まだ、大丈夫？」[pcms]
+[ns]Makoto[nse]
+"Are you still okay?"[pcms]
 
 *2066|
 [fc]
 [vo_tay s="taja0210"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yes..."[pcms]
 
 *2067|
 [fc]
-僕はまだ繋がったままでいるペニスが、[r]
-固く張りつめていることを確認すると、[r]
-三度目の射精のために腰を動かしていった。[pcms]
+As I confirmed that my penis, still connected, was tensely hard, I[r]
+moved my hips for the third ejaculation.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

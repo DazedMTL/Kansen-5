@@ -4,7 +4,7 @@
 ;//登場人物	：主人公、出渕、新聞部員たち
 ;//服装		：
 ;//日付		：7月16日
-;//時間		：午後15～16時くらい
+;//時間		：午後1516時くらい
 ;//場所		：学園/廊下（昼）、学園/教室（昼）
 ;//予想容量	：全体を通して15~20K前後
 ;//備考		：主人公一人称視点
@@ -25,123 +25,118 @@
 
 *1110|
 [fc]
-[ns]宗一郎[nse]
-「しかし、あの貼り紙はねえよなぁ。[r]
-　繊細な奴ならトラウマを超えて発狂するかもしれねえぞ」[pcms]
+[ns]Souichirou[nse]
+"But that notice is just not right. Someone sensitive might go beyond[r]
+trauma and actually lose their mind."[pcms]
 
 ;//◆ひとことの内容によって、表現を変えてみます
 
 *1111|
 [fc]
-[ns]誠[nse]
-「別に、バーコードがあるのは事実だし。[r]
-　人と違ったところをからかいたくなるのは、[r]
-　クラスメイトの[ruby text="さが"]性ってもんだろ？」[pcms]
+[ns]Makoto[nse]
+"It's not like the barcode isn't real. Wanting to tease someone for[r]
+being different is just part of a classmate's nature, right?"[pcms]
 
 *1112|
 [fc]
-僕は放課後の廊下を、ファットガイ・スリムな友人と一緒に、[r]
-仮部室までの道のりを歩いていた。[pcms]
+I was walking down the hallway after school with my fat guy, slim[r]
+friend, on our way to the temporary club room.[pcms]
 
 *1113|
 [fc]
-小柄な僕を太らせたような、ズングリムックリした体型なのに、[r]
-カンフーの達人さながら、ダンスの一つや二つは[r]
-踊って見せられる身軽な男だ。[pcms]
+Despite his short and stocky build, he moves with the agility of a[r]
+kung fu master, capable of showing off a dance move or two.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so31b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1114|
 [fc]
-[ns]宗一郎[nse]
-「ムフッ、なにげに酷いこと言ってるよな。[r]
-　誠のクラスメイトはいつからそんなに稚拙になったんだ？」[pcms]
+[ns]Souichirou[nse]
+"Mufufu, you're kind of saying something terrible, aren't you? When[r]
+did Makoto's classmates become so immature?"[pcms]
 
 *1115|
 [fc]
-[ns]誠[nse]
-「いつからって、気が付いたらそうなってたからな。[r]
-　別に馬鹿にしてるわけじゃないんだ。[r]
-　人間ってそういうものだと思うし」[pcms]
+[ns]Makoto[nse]
+"When did they... I just realized it had become that way. It's not[r]
+like I'm mocking them. I think that's just how people are."[pcms]
 
 *1116|
 [fc]
-正直、連中を恨む気持ちもあまりない。[pcms]
+Honestly, I don't really hold much resentment towards them.[pcms]
 
 *1117|
 [fc]
-興味が持てない相手では仕方がないのかも知れないが、[r]
-本当にそう思っている。[pcms]
+Maybe it can't be helped if they're not interesting to me, but that's[r]
+truly what I believe.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1118|
 [fc]
-[ns]宗一郎[nse]
-「なんというか、寛容の精神だよな……。[r]
-　他者に対する不満が多いことを、精神が未熟という。[r]
-　心理学ではそうなっているらしいぜ？」[pcms]
+[ns]Souichirou[nse]
+"What can I say, it's a spirit of tolerance... Having many complaints[r]
+about others is considered a sign of immaturity in psychology,[r]
+apparently."[pcms]
 
 *1119|
 [fc]
-[ns]誠[nse]
-「そういうのとは違うよ。[r]
-　不満くらい僕にだってあるさ」[pcms]
+[ns]Makoto[nse]
+"It's different from that. I have my own complaints too."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1120|
 [fc]
-[ns]宗一郎[nse]
-「いやいや、紳士、ジェントルマンたるもの、[r]
-　悪意の一つや二つを気にしてられないよな」[pcms]
+[ns]Souichirou[nse]
+"No, no, a gentleman, a true gentleman shouldn't be bothered by one or[r]
+two malicious intents."[pcms]
 
 *1121|
 [fc]
-この、妙に英語の発音がいい男は、やっぱりというか[r]
-ロンドン帰りの帰国子女だった。[pcms]
+This man, who oddly enough has good English pronunciation, was indeed[r]
+a returnee from London.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1122|
 [fc]
-他にも、ベルリンやワシントンＤＣにいたみたいだけど、[r]
-本人はイギリス紳士にいたく感銘を受けているらしい。[pcms]
+He seems to have been in Berlin and Washington D.C. as well, but he[r]
+seems to be particularly impressed by the British gentlemen.[pcms]
 
 *1123|
 [fc]
-２年前に引っ越してきた僕の、最初にできた友人が[r]
-この隣を歩いている[ruby text="いずぶち"][ch text="出渕"][ruby text="そういちろう"][ch text="宗一郎"]だった。[pcms]
+The first friend I made when I moved here two years ago was Souichirou[r]
+walking beside me.[pcms]
 
 *1124|
 [fc]
-渋谷という知らない土地の学園に引っ越してきて、[r]
-こんなに気の合う友達ができたのは、[r]
-本当に良かったと思う。[pcms]
+Having moved to an unfamiliar place like Shibuya and finding such a[r]
+compatible friend was truly a stroke of good luck.[pcms]
 
 *1125|
 [fc]
-授業をさぼって映画に連れて行かれたり、[r]
-新聞部に入部させられたり、そのアクティブな行動力に、[r]
-僕はしょっちゅう引っ張り回されていた。[pcms]
+I was often dragged around by his active energy, whether it was being[r]
+taken to skip class for a movie or being forced to join the newspaper[r]
+club.[pcms]
 
 *1126|
 [fc]
-でも、今は最高の友達だと思っている。[pcms]
+But now, I think of him as my best friend.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so28b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1127|
 [fc]
-[ns]宗一郎[nse]
-「そういえば、昨日すんごい旨いビスケットを見つけたんだ。[r]
-　誰かに聞いて欲しくてうずうずしてたんだけど、[r]
-　午後のティータイムに一枚どうだ？」[pcms]
+[ns]Souichirou[nse]
+"Speaking of which, I found some really delicious biscuits yesterday.[r]
+I've been itching to tell someone about it, how about one with your[r]
+afternoon tea?"[pcms]
 
 *1128|
 [fc]
-[ns]誠[nse]
-「ああ、そーいちが旨いって言うなら相当だろうからな」[pcms]
+[ns]Makoto[nse]
+"Ah, if Souichi says it's good, it must be quite something."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -152,80 +147,81 @@
 
 *1129|
 [fc]
-４年前に起きた東北感染災害、エピデミック。[pcms]
+The Tohoku Epidemic that occurred four years ago.[pcms]
 
 ;//bgm02.ogg
 [bgm storage="BGM02"]
 
 *1130|
 [fc]
-僕はあの災害で、家族の全てを失っていた。[pcms]
+I lost my entire family in that disaster.[pcms]
 
 *1131|
 [fc]
-両親から親類縁者まで、血のつながりのある人間は[r]
-全てこの世から消え失せている。[pcms]
+From my parents to distant relatives, everyone with blood ties to me[r]
+had vanished from this world.[pcms]
 
 *1132|
 [fc]
-そうして一人助かった僕は、凶暴化ウイルスへの感染を疑われて[r]
-医療施設という名の隔離区域に囚われていた。[pcms]
+And so, I alone survived and was suspected of being infected with the[r]
+violent virus, confined in what was called a medical facility but was[r]
+really an isolation area.[pcms]
 
 *1133|
 [fc]
-UNKNOWN-LV4への感染が疑われる……、[r]
-僕の右腕にあるバーコードはそのときの名残だ。[pcms]
+The barcode on my right arm is a remnant of that time, suspected of[r]
+being infected with UNKNOWN-LV4...[pcms]
 
 *1134|
 [fc]
-救助された人間だって、いつ発症するかわからない。[r]
-そのための隔離施設とバーコードだった。[pcms]
+Even those who were rescued could develop symptoms at any time. That's[r]
+what the isolation facilities and barcodes were for.[pcms]
 
 *1135|
 [fc]
-一応、人権的配慮なのか、一見して分からない場所に[r]
-刻印されているので、プールや公衆浴場の利用には[r]
-差し支えがない。[pcms]
+Out of consideration for human rights, or so they say, it's engraved[r]
+in a place not easily seen, so there's no problem using pools or[r]
+public baths.[pcms]
 
 *1136|
 [fc]
-さっきみたいな予防接種でもない限り、[r]
-人目に触れることはないものだった。[pcms]
+Unless it's something like vaccination as seen earlier, it's not[r]
+something that would come into view.[pcms]
 
 *1137|
 [fc]
-身体にバーコードが刻印されるなんて、[r]
-なんだか妙な気分がする。[pcms]
+Having a barcode engraved on my body feels rather strange.[pcms]
 
 *1138|
 [fc]
-僕は多重人格な探偵でもないし、宇宙生物と戦う囚人に[r]
-なるつもりもない。[pcms]
+I'm not a detective with multiple personalities nor do I intend to[r]
+become a prisoner fighting alien creatures.[pcms]
 
 *1139|
 [fc]
-意外と、戦闘力を計ったら高いかもしれないけれど、[r]
-ボムカレーみたいでなんか嫌だ。[pcms]
+Surprisingly, if my combat ability were measured, it might be high,[r]
+but it feels like bomb curry and I don't like it.[pcms]
 
 *1140|
 [fc]
-隔離施設を出てからは、家族を亡くした境遇の人が集まる施設で[r]
-過ごしていたんだけど、２年前にそこを出ていた。[pcms]
+After leaving the isolation facility, I spent time in a facility for[r]
+people who had lost their families in similar circumstances, but I[r]
+left there two years ago.[pcms]
 
 *1141|
 [fc]
-唯一生き残った知り合いが、親代わりを申し出てくれて、[r]
-渋谷に引っ越すことになったからだ。[pcms]
+The only acquaintance who survived offered to take care of me as a[r]
+parent, which led to my move to Shibuya.[pcms]
 
 *1142|
 [fc]
-自治体が被害者向けに都営住宅を優先的に貸してくれていて、[r]
-そこに入れたのが大きい。[pcms]
+The local government was providing priority housing in public[r]
+apartments for victims, and that was a big help in settling down.[pcms]
 
 *1143|
 [fc]
-意外にちゃんと仕事をしているんだと、[r]
-公務員を見直したくなった。[pcms]
+I almost wanted to rethink my view of civil servants who seemed to be[r]
+doing their job properly.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -237,41 +233,41 @@ UNKNOWN-LV4への感染が疑われる……、[r]
 
 *1144|
 [fc]
-そんなこんなでこの学園に通うようになり、[r]
-最初に声をかけてくれたのが、この出渕宗一郎だ。[pcms]
+And so I came to attend this school, and the first person who spoke to[r]
+me was Souichirou Izubuchi.[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
 
 *1145|
 [fc]
-ちょっと変わっていて、少し厚かましいところもあるけれど、[r]
-こんなにウマが合う友人に出会えたのは、[r]
-一生の幸運だったと思う。[pcms]
+A bit odd and somewhat brazen at times, but finding such a compatible[r]
+friend was a stroke of luck for life.[pcms]
 
 *1146|
 [fc]
-エロネタでも細かい趣味でも、[r]
-色々と共通点が多くて面白かった。[pcms]
+We had many common interests from dirty jokes to detailed hobbies; it[r]
+was fun.[pcms]
 
 *1147|
 [fc]
-でも、なにより、こいつはすごくいい奴だ。[pcms]
+But above all, he's a really good guy.[pcms]
 
 *1148|
 [fc]
-紳士らしさなんて漫画みたいなことを真剣に実戦しているのは、[r]
-本当に誠実で尊敬できる。[pcms]
+The fact that he seriously practices gentlemanly behavior like[r]
+something out of a manga is truly sincere and admirable.[pcms]
 
 *1149|
 [fc]
-そして、日米のどのヒロインキャラがエロいかで[r]
-一晩中盛り上がれた最初の友人でもあった。[pcms]
+And he was also the first friend with whom I could get excited all[r]
+night discussing which heroine characters from Japan and America were[r]
+sexy.[pcms]
 
 *1150|
 [fc]
-神様ありがとう、とまでは言いたくないが、[r]
-友達をくれてありがとうという気持ちに嘘はない。[pcms]
+Thank goodness, I don't want to say "Thank you, God," but I truly am[r]
+grateful for the friends I've been given.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -290,386 +286,386 @@ UNKNOWN-LV4への感染が疑われる……、[r]
 
 *1151|
 [fc]
-[ns]宗一郎[nse]
-「お待たせしました皆の衆。[r]
-　さては、江戸から長崎まで、お集まりですかな？」[pcms]
+[ns]Souichirou[nse]
+"Sorry to keep you all waiting. So, have we all gathered from Edo to[r]
+Nagasaki?"[pcms]
 
 *1152|
 [fc]
-[ns]誠[nse]
-「集まっていない人は返事ができないだろ」[pcms]
+[ns]Makoto[nse]
+"Those who haven't gathered can't respond, can they?"[pcms]
 
 *1153|
 [fc]
-新聞部に所属しているそーいちと僕は、[r]
-１０名ほどの部員が集まっている教室に顔を出していた。[pcms]
+Souichirou and I, who belong to the newspaper club, were showing our[r]
+faces in a classroom where about ten members had gathered.[pcms]
 
 *1154|
 [fc]
-普段は視聴覚室を使うんだけど、今日は演劇部が[r]
-過去の録画を見るとかで追い出されている。[pcms]
+We usually use the audio-visual room, but today the drama club kicked[r]
+us out because they were watching past recordings.[pcms]
 
 *1155|
 [fc]
-しかたがないので、部長のいる教室での[r]
-集まりになっていた。[pcms]
+So we had no choice but to gather in the classroom where the club[r]
+president was.[pcms]
 
 *1156|
 [fc]
-[ns]部長[nse]
-「あの世に行けば、コーヒーを待たされることも[r]
-　ないと言うがな」[pcms]
+[ns]Department Head[nse]
+"They say that in the afterlife, you won't be kept waiting for[r]
+coffee."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so04w"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1157|
 [fc]
-[ns]宗一郎[nse]
-「残念ながら、そのような野蛮な飲み物の持ち合わせは[r]
-　ござらぬ故」[pcms]
+[ns]Souichirou[nse]
+"Unfortunately, I don't have such a barbaric drink on hand."[pcms]
 
 *1158|
 [fc]
-それって、死んだらコーヒー飲めないっていう[r]
-意味なんじゃないだろうか……。[pcms]
+I wonder if that means you can't drink coffee when you're dead...[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1159|
 [fc]
-部長とそーいちのやりとりを眺めながら、[r]
-僕は適当な位置に腰掛けた。[pcms]
+While watching the exchange between the department head and[r]
+Souichirou, I found an appropriate place to sit down.[pcms]
 
 *1160|
 [fc]
-そーいちが新聞部に入ろうと言ったときは驚いたけど、[r]
-彼の父親は、大手新聞社の記者をしていた時代が[r]
-あったらしい。[pcms]
+I was surprised when Souichirou said he wanted to join the newspaper[r]
+club, but it seems his father was once a journalist for a major[r]
+newspaper company.[pcms]
 
 *1161|
 [fc]
-左派色の強い新聞社だったそうだけど、[r]
-そのリベラルな論調で一定の評価を得ていたとか。[pcms]
+It was a newspaper company with strong leftist tendencies, but it[r]
+seems to have gained a certain reputation for its liberal discourse.[pcms]
 
 *1162|
 [fc]
-東北アウトブレイクのときに米軍との関与を取材したことで、[r]
-ジャーナリストとしての名誉の階段を駆け上ったそうだ。[pcms]
+He made a name for himself as a journalist when he covered the[r]
+involvement with the U.S. military during the Tohoku Outbreak.[pcms]
 
 *1163|
 [fc]
-現在は退社して週刊誌の編集長をしているとかで、[r]
-そーいちの人格形成にも影響があったことと思う。[pcms]
+He has since retired from the company and is now the editor-in-chief[r]
+of a weekly magazine, which I think has influenced Souichirou's[r]
+character formation.[pcms]
 
 *1164|
 [fc]
-少なくともそーいち本人に新聞を作る才能はありそうだった。[pcms]
+At least Souichirou himself seemed to have a talent for creating[r]
+newspapers.[pcms]
 
 *1165|
 [fc]
-彼が編集長を務めた新聞が、全国新聞コンクールの学年別部門で[r]
-最優秀賞を取っているからだ。[pcms]
+The newspaper he edited as chief won the top prize in the national[r]
+newspaper competition for his school year.[pcms]
 
 *1166|
 [fc]
-[ns]部長[nse]
-「それじゃ、そろそろ今日の議題をぶち上げるとするか」[pcms]
+[ns]Department Head[nse]
+"Well then, let's get down to today's agenda."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so03b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1167|
 [fc]
-[ns]宗一郎[nse]
-「部長は、くたびれた中年記者の趣がたまりませんなぁ」[pcms]
+[ns]Souichirou[nse]
+"The department head has an irresistible charm of a worn-out middle-[r]
+aged reporter."[pcms]
 
 *1168|
 [fc]
-クラスでは比較的イケていない人間の集まりだけど、[r]
-僕はこの新聞部に居心地の良さを感じていた。[pcms]
+Although we're a relatively uncool bunch in class, I felt comfortable[r]
+in this newspaper club.[pcms]
 
 *1169|
 [fc]
-こんな部活に入るくらいだから、みんな社交的で[r]
-面白い人が集まっている。[pcms]
+Since we're in such a club, it's filled with sociable and interesting[r]
+people.[pcms]
 
 *1170|
 [fc]
-クラスでは浮いている僕も、このコミュニティでは[r]
-オタク知識とエロスへの深い造詣で、兄者と呼ばれていた。[pcms]
+In class, I might be an outcast, but in this community, with my otaku[r]
+knowledge and deep understanding of eros, I was called 'big brother.'[pcms]
 
 *1171|
 [fc]
-どうやら僕が長兄らしい。[r]
-そーいちの方が、よっぽどだと思うんだけど。[pcms]
+Apparently, I'm the eldest brother. Though I think Souichirou is much[r]
+more so.[pcms]
 
 *1172|
 [fc]
-でも、クラスで孤立しても平気なのは、そーいちがいたり、[r]
-部活での人間関係があるおかげかも知れなかった。[pcms]
+But maybe I don't mind being isolated in class because I have[r]
+Souichirou and good relationships in my club activities.[pcms]
 
 *1173|
 [fc]
-自分の帰属する場所があるっていうのは、[r]
-安心できるものなんだろうか。[pcms]
+Having a place where you belong must be something that gives you peace[r]
+of mind.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so31b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1174|
 [fc]
-[ns]宗一郎[nse]
-「ムフフッ」[pcms]
+[ns]Souichirou[nse]
+"Mufufu."[pcms]
 
 *1175|
 [fc]
-ポットから紅茶を注ぐと、ビスケットと一緒に並べて[r]
-そーいちのテリトリーができあがっていた。[pcms]
+As he poured tea from the pot and arranged it with biscuits,[r]
+Souichirou's territory was established.[pcms]
 
 *1176|
 [fc]
-部員のみんなはいつも通りのことなので、[r]
-なにも言わずにスルーしている。[pcms]
+The other club members are used to it as always, so they just ignore[r]
+it without saying anything.[pcms]
 
 *1177|
 [fc]
-[ns]部長[nse]
-「ジョンブルの嫌な香りがしてきたぞ。[r]
-　腐った草のすっぱ苦い匂いだ」[pcms]
+[ns]Department Manager[nse]
+"I'm starting to smell that nasty scent of John Bull. It's the sour[r]
+and bitter smell of rotten grass."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so06a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1178|
 [fc]
-[ns]宗一郎[nse]
-「ヤンキーには発酵の文化がないですからなぁ、[r]
-　豆を粉砕して水出しにするとか、野蛮きわまりない」[pcms]
+[ns]Souichirou[nse]
+"Yankees don't have a culture of fermentation, after all. Crushing[r]
+beans and making cold brew is just barbaric."[pcms]
 
 *1179|
 [fc]
-[ns]部長[nse]
-「最近のジョンブルは、その液体を[r]
-　飲まなくなっているそうじゃないか」[pcms]
+[ns]Department Head[nse]
+"I hear that John Bulls have recently stopped drinking that liquid."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so08b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1180|
 [fc]
-[ns]宗一郎[nse]
-「ヤンキーには悩みがなくていいですなぁ。[r]
-　ところで、その泥水は燃やしてから飲むんですかな？[r]
-　さっきから焦げ臭くてかないません」[pcms]
+[ns]Souichirou[nse]
+"Yankees must be nice not having any worries. By the way, do you burn[r]
+that muddy water before drinking it? It's been smelling burnt for a[r]
+while now."[pcms]
 
 *1181|
 [fc]
-[ns]誠[nse]
-「で、議題って何ですか？[r]
-　早くしないとみんな帰っちゃいますよ」[pcms]
+[ns]Makoto[nse]
+"So, what's the agenda? If we don't hurry up, everyone will leave."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1182|
 [fc]
-二人に話をさせていると部活が終わらない。[r]
-あんた達はいつからアメリカ人とイギリス人になったんだ。[pcms]
+If we let those two talk, the club activities will never end. Since[r]
+when did you two become Americans and Englishmen?[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1183|
 [fc]
-[ns]部長[nse]
-「ふむ、長兄のいうことも、もっともだな。[r]
-　議題というのは他でもない、夏期新聞コンクールのことだ」[pcms]
+[ns]Department Head[nse]
+"Hmm, the eldest brother makes a valid point. The agenda is none other[r]
+than the summer newspaper competition."[pcms]
 
 *1184|
 [fc]
-野球に甲子園があるように、[r]
-新聞部にも表舞台というものがある。[pcms]
+Just as baseball has Koshien, the newspaper club also has its own[r]
+stage to shine on.[pcms]
 
 *1185|
 [fc]
-こういうところで活躍しておくと、[r]
-来期の部費がはずんだり、新入部員が増えたりするものだった。[pcms]
+Doing well in such events can lead to an increase in next year's club[r]
+budget and new members joining.[pcms]
 
 *1186|
 [fc]
-[ns]部長[nse]
-「総合紙部門の他に、チーム単位で特集記事を扱った[r]
-　新聞を出そうかと思うんだが……」[pcms]
+[ns]Department Head[nse]
+"In addition to the general paper category, I'm thinking of producing[r]
+newspapers that feature special articles by teams..."[pcms]
 
 *1187|
 [fc]
-部長は椅子から立ち上がると、黒板にわかりやすく[r]
-ネタをまとめ始めた。[pcms]
+The department head stood up from his chair and began to summarize[r]
+ideas on the blackboard in an easy-to-understand manner.[pcms]
 
 *1188|
 [fc]
-[ns]部長[nse]
-「なにかと問題の多い、政治、環境問題などのネタは、[r]
-　それで一紙にしようと思う」[pcms]
+[ns]Department Head[nse]
+"I'm thinking of dedicating one paper to topics that are always[r]
+problematic, such as politics and environmental issues."[pcms]
 
 *1189|
 [fc]
-[ns]部員Ａ[nse]
-「それじゃ、俺たちに問題があるみたいじゃないですか。[r]
-　問題が多いのは俺たちじゃなくて、政治と環境の方ですよ」[pcms]
+[ns]Club Member A[nse]
+"That makes it sound like we're the ones with problems. The ones with[r]
+many issues are politics and the environment, not us."[pcms]
 
 *1190|
 [fc]
-[ns]部長[nse]
-「おっと失礼した。次に、部活動を担当している者は、[r]
-　各担当部活の合宿や、大会までの道のりを密着取材してもらう」[pcms]
+[ns]Department Head[nse]
+"Oops, my apologies. Next, those in charge of club activities will[r]
+conduct in-depth coverage of their respective clubs' training camps[r]
+and the journey to their tournaments."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so26a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1191|
 [fc]
-[ns]宗一郎[nse]
-「めんどうそうですなぁ」[pcms]
+[ns]Souichirou[nse]
+"That sounds like a hassle."[pcms]
 
 *1192|
 [fc]
-合宿にまで同行するとなれば、[r]
-ちょっと取材というわけにもいかない。[pcms]
+If we have to accompany them to the training camps, it won't just be a[r]
+simple interview.[pcms]
 
 *1193|
 [fc]
-泊まりがけで関東を離れることもあるだろう。[pcms]
+We might even have to leave the Kanto region for overnight stays.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1194|
 [fc]
-[ns]部長[nse]
-「体育会系、文化系ごとの総合紙を作るか、[r]
-　どれかひとつの部に関する特集記事を作るかは、[r]
-　まだ決めていない」[pcms]
+[ns]Department Head[nse]
+"I haven't decided yet whether to create a comprehensive paper for[r]
+each of the sports and cultural clubs, or to produce a special feature[r]
+article on just one club."[pcms]
 
 *1195|
 [fc]
-[ns]誠[nse]
-「上がってきた記事で判断するんですね」[pcms]
+[ns]Makoto[nse]
+"So we'll decide based on the articles that come in."[pcms]
 
 *1196|
 [fc]
-[ns]部長[nse]
-「うむ……ところで、君たちにひとつ相談があるんだが……」[pcms]
+[ns]Department Head[nse]
+"Yes... by the way, there's something I'd like to discuss with you[r]
+all..."[pcms]
 
 *1197|
 [fc]
-部長は突然、とぼけた口調で天井を見上げ始めた。[pcms]
+The department head suddenly started looking up at the ceiling with a[r]
+feigned clueless tone.[pcms]
 
 *1198|
 [fc]
-いったい何が始まるんだ……？[pcms]
+What on earth is about to start...?[pcms]
 
 *1199|
 [fc]
-[ns]部長[nse]
-「姉妹校と合同合宿をするために、サッカー部が瀬渡内にある[r]
-　[ruby text="おおかみしま"][ch text="大神島"]まで行くことになったそうだ」[pcms]
+[ns]Department Head[nse]
+"It seems that the soccer club is going to Oogamijima in Sedonai for a[r]
+joint training camp with our sister school."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so15a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1200|
 [fc]
-[ns]宗一郎[nse]
-「…………？」[pcms]
+[ns]Souichirou[nse]
+"...?"[pcms]
 
 *1201|
 [fc]
-みんなで顔を見合わせる。[r]
-だからどうしたというのだろう。[pcms]
+We all look at each other. What does that have to do with us?[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1202|
 [fc]
-[ns]部長[nse]
-「ところがだ、問題があってサッカー部担当の安彦が[r]
-　合宿に同行できないのだよ」[pcms]
+[ns]Department Head[nse]
+"However, there's a problem. Yasuhiko, who is in charge of the soccer[r]
+club, can't accompany them to the camp."[pcms]
 
 *1203|
 [fc]
-[ns]誠[nse]
-「はぁ……」[pcms]
+[ns]Makoto[nse]
+"Huh..."[pcms]
 
 *1204|
 [fc]
-[ns]安彦[nse]
-「ちょっと、爺さんがやばくてさ。[r]
-　世話になったんで東京を離れたくないんだ」[pcms]
+[ns]Yasuhiko[nse]
+"My grandpa's in a bad way. I owe him a lot, so I don't want to leave[r]
+Tokyo."[pcms]
 
 *1205|
 [fc]
-そういう事情なら仕方がない。[r]
-誰かが代わるしかないんだけど……。[pcms]
+If that's the situation, it can't be helped. Someone else will have to[r]
+take his place...[pcms]
 
 *1206|
 [fc]
-瀬渡内は遠いなぁ。[pcms]
+Sedonai is far away, huh.[pcms]
 
 *1207|
 [fc]
-[ns]部長[nse]
-「そこでだ、サッカー部担当の代理が必要なわけだが……」[pcms]
+[ns]Department Head[nse]
+"So, we need a substitute for the soccer club's representative..."[pcms]
 
 *1208|
 [fc]
-部長が僕たちをチラッと見る。[pcms]
+The department head glances at us.[pcms]
 
 *1209|
 [fc]
-みんな視線を避けるようによそ見するでもなく、[r]
-ガン無視を決め込むように無反応だ。[pcms]
+Everyone avoids eye contact as if looking away, remaining unresponsive[r]
+as if they've decided to ignore him completely.[pcms]
 
 *1210|
 [fc]
-[ns]部長[nse]
-「そうそう、言い忘れていたことがあった。[r]
-　野球部が夏体で早々に敗退を決め込んだらしい」[pcms]
+[ns]Department Head[nse]
+"Oh yes, I forgot to mention something. It seems that the baseball[r]
+club has been defeated early in the summer tournament."[pcms]
 
 *1211|
 [fc]
-誰もなにも言わない。[r]
-部長がなにかを言おうとして、もったい付けているからだ。[pcms]
+No one says anything. It's because the department head is trying to[r]
+say something important and is dragging it out.[pcms]
 
 *1212|
 [fc]
-[ns]部長[nse]
-「その敗退のおかげで、チアリーディング部が出番を失ってな。[r]
-　大きな祭りに参加するために、サッカー部と同じ大神島で、[r]
-　合宿を……」[pcms]
+[ns]Department Head[nse]
+"Because of their defeat, the cheerleading club has lost their chance[r]
+to perform. To participate in a big festival, they will be going to[r]
+Oogamijima for a training camp along with the soccer club..."[pcms]
 
 *1213|
 [fc]
-今まで黙っていた奴らが、一斉に手を挙げる。[pcms]
+All of a sudden, those who had been silent raised their hands at once.[pcms]
 
 *1214|
 [fc]
-会計や総務などの職にある者も、すでに各部活の担当が[r]
-決まっている者さえ手を挙げている。[pcms]
+Even those in positions like accounting or general affairs, and those[r]
+who already have responsibilities for other clubs, are raising their[r]
+hands.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1215|
 [fc]
-隣を見ると、そーいちまで手を挙げていた。[pcms]
+I look next to me and even Souichirou has raised his hand.[pcms]
 
 *1216|
 [fc]
-呆れるを通り越して、無感動になってしまう。[pcms]
+I'm beyond being amazed; I've become indifferent.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1217|
 [fc]
-なんだか、手を挙げていない自分の方が[r]
-悪いみたいな心境だった。[pcms]
+Somehow, I feel like I'm the one in the wrong for not raising my hand.[pcms]
 
 *1218|
 [fc]
-[ns]部長[nse]
-「あみだくじでも、リアルファイトでも、[r]
-　好きな方法で決めたまえ」[pcms]
+[ns]Department Head[nse]
+"Decide by drawing lots or a real fight, whichever method you prefer."[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -682,8 +678,8 @@ UNKNOWN-LV4への感染が疑われる……、[r]
 
 *1219|
 [fc]
-[ns]宗一郎[nse]
-「せーのっ！　最初はグーっ！」[pcms]
+[ns]Souichirou[nse]
+"Ready... Rock-paper-scissors shoot!"[pcms]
 
 ;//bgm22.ogg
 [bgm storage="BGM22"]
@@ -693,39 +689,40 @@ UNKNOWN-LV4への感染が疑われる……、[r]
 
 *1220|
 [fc]
-そーいちの掛け声で大じゃんけん大会が始まっていた。[r]
-まぁ、頑張れ。[pcms]
+The big rock-paper-scissors tournament started with Souichirou's call.[r]
+Well, good luck.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so26a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1221|
 [fc]
-[ns]宗一郎[nse]
-「なんで、グーチョッパーが三人もいるんだよ！」[pcms]
+[ns]Souichirou[nse]
+"Why are there three people with rock-paper-scissors cutters!"[pcms]
 
 *1222|
 [fc]
-醜い争いをながめながら、僕はひとり、[r]
-優越感に浸っていた。[pcms]
+While watching the ugly fight unfold, I was basking in a sense of[r]
+superiority.[pcms]
 
 *1223|
 [fc]
-何故なら……チアリーディング部の副担当が、[r]
-他ならぬ僕だったからだ。[pcms]
+Because... I was none other than the vice representative for the[r]
+cheerleading club.[pcms]
 
 *1224|
 [fc]
-今年も球場で焼かれながらの取材になるかと思っていたけど、[r]
-彼女たちと瀬渡内の海で合宿とか、それだけで[r]
-射精までいけそうなニュースだった。[pcms]
+This year, I thought I'd be covering stories while getting baked at[r]
+the ballpark again, but the idea of going to Sedonai's beach for a[r]
+camp with them... that alone seemed like news exciting enough to[r]
+climax over.[pcms]
 
 *1225|
 [fc]
-ありがとう野球部。[pcms]
+Thank you baseball club.[pcms]
 
 *1226|
 [fc]
-気の毒だったけど、来年頑張ってくれ。[pcms]
+I feel sorry for them, but I hope they do better next year.[pcms]
 
 [se buf=0 storage="seA062"]
 ;//SE：椅子ガタァ！
@@ -735,8 +732,8 @@ UNKNOWN-LV4への感染が疑われる……、[r]
 
 *1227|
 [fc]
-[ns]宗一郎[nse]
-「うおっしゃぁぁぁぁぁぁっ！」[pcms]
+[ns]Souichirou[nse]
+"Yessssssss!"[pcms]
 
 [chara_int][trans_c tb time=150]
 [wait_c time=500]
@@ -755,57 +752,58 @@ UNKNOWN-LV4への感染が疑われる……、[r]
 
 *1228|
 [fc]
-そーいちが椅子の上からバク転を決めて、[r]
-床に着地していた。[pcms]
+Souichirou managed a backflip off the chair and landed on the floor.[pcms]
 
 *1229|
 [fc]
-動けるデブってすごいよな。[pcms]
+A mobile fat guy is pretty amazing.[pcms]
 
 *1230|
 [fc]
-というか、そーいちがじゃんけん勝ったのか。[pcms]
+Or rather, did Souichirou actually win at rock-paper-scissors?[pcms]
 
 *1231|
 [fc]
-[ns]部長[nse]
-「わかっているとは思うが、[r]
-　あくまでサッカー部の取材だからな？」[pcms]
+[ns]Department Head[nse]
+"I assume you understand, but this is strictly a soccer club coverage,[r]
+okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_b"][ChrSetParts layer=5 chface="F1_so20b"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1232|
 [fc]
-[ns]宗一郎[nse]
-「みたかぁぁぁっ！　この勝負強さっ！　ここ一番の突破力っ！」[pcms]
+[ns]Souichirou[nse]
+"Did you see that?! This strength to win! The power to break through[r]
+when it counts!"[pcms]
 
 *1233|
 [fc]
-部長の話なんて聞いてないし。[pcms]
+I wasn't even listening to the department head's talk.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1234|
 [fc]
-[ns]部長[nse]
-「まぁ、いい。各担当には写真部からカメラマンの[r]
-　応援が付くので後で連絡しておくように」[pcms]
+[ns]Department Head[nse]
+"Well, alright. Each person in charge will be supported by a[r]
+photographer from the photography club, so make sure to get in touch[r]
+with them later."[pcms]
 
 *1235|
 [fc]
-写真部の応援か。[pcms]
+Support from the photography club, huh.[pcms]
 
 *1236|
 [fc]
-チアリーディング部の担当は南先輩だから、[r]
-これも嬉しいな。[pcms]
+Since Senior Minami is in charge of the cheerleading club, this is[r]
+also something to look forward to.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so19a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *1237|
 [fc]
-[ns]宗一郎[nse]
-「とうことは、南先輩も来るのか！」[pcms]
+[ns]Souichirou[nse]
+"Does that mean Senior Minami will be coming too!"[pcms]
 
 [se buf=0 storage="seA062"]
 ;//SE：椅子ガタァ！
@@ -814,8 +812,8 @@ UNKNOWN-LV4への感染が疑われる……、[r]
 
 *1238|
 [fc]
-[ns]宗一郎[nse]
-「今年はいい夏になるぜ！　ヒャッハーッ！」[pcms]
+[ns]Souichirou[nse]
+"This year is going to be a great summer! Yeehaw!"[pcms]
 
 [chara_int][trans_c tb time=150]
 
@@ -826,25 +824,25 @@ UNKNOWN-LV4への感染が疑われる……、[r]
 
 *1239|
 [fc]
-壁を駆け上ってはバク転を繰り返していた、[r]
-そーいちの方から派手な音が聞こえてきた。[pcms]
+A loud noise came from Souichirou's direction, who had been running up[r]
+the wall and doing backflips repeatedly.[pcms]
 
 [se buf=0 storage="seA063"]
 ;//SE：椅子ガタァ！
 
 *1240|
 [fc]
-衝撃と共に椅子や机がひっくり返る音が響いている。[pcms]
+The sound of chairs and desks flipping over echoed with the impact.[pcms]
 
 *1241|
 [fc]
-春になると、変なのが増えるっていうけど、[r]
-夏も夏で色々出て来るよな。[pcms]
+They say weirdos come out in spring, but summer has its fair share of[r]
+characters too.[pcms]
 
 *1242|
 [fc]
-そんなことを考えながら、デブくんが生きていることを[r]
-心の片隅で祈っていた。[pcms]
+While thinking such things, I was praying in the back of my mind that[r]
+Debu-kun was still alive.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]

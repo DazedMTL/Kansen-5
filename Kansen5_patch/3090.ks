@@ -35,19 +35,19 @@
 
 *3138|
 [fc]
-コスプレした女の子たちにつかまってしまった僕は、[r]
-あっという間に全裸にひん剥かれてしまった。[pcms]
+I was caught by a group of girls in cosplay, and before I knew it, I[r]
+was stripped completely naked.[pcms]
 
 *3139|
 [fc]
-村上さんが感染者に犯されるのを見てたのもあるけど、[r]
-女の子たちによってたかって裸にされるという[r]
-異常なシチュにも、正直興奮している。[pcms]
+It's partly because I saw Ms. Murakami being violated by an infected,[r]
+but honestly, I'm also excited by the abnormal situation of being[r]
+stripped naked by a group of girls.[pcms]
 
 *3140|
 [fc]
-恥ずかしながら、僕のチンポは裸にされた際にはもう[r]
-ギンギンに勃起してしまっていた。[pcms]
+Embarrassingly, my dick was already rock hard when I was stripped[r]
+naked.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -69,8 +69,8 @@
 *3141|
 [fc]
 [vo_mob s="A0003"]
-[ns]女感染者Ａ[nse]
-「あ゛はあ゛ぁ～、あ゛たし、い゛っちばあ゛ぁん～♪」[pcms]
+[ns]Female Infected A[nse]
+"Ah haah~ I'm gonna be the first~♪"[pcms]
 
 ;//◆体験版範囲と思いますが、麒麟装備と書いているのでそちらを一角獣装備に修正を
 
@@ -79,9 +79,8 @@
 
 *3142|
 [fc]
-モンバスの一角獣装備のコスに身を包んだ女の子が、[r]
-僕を押し倒すなり、チンポをオマンコに挿入すると、[r]
-いきなり腰を振り始めた。[pcms]
+A girl dressed in a Monbus unicorn costume pushed me down and inserted[r]
+my dick into her pussy, and immediately started to shake her hips.[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 
@@ -89,90 +88,84 @@
 
 *3143|
 [fc]
-[ns]誠[nse]
-「う……うわあぁ……っ！」[pcms]
+[ns]Makoto[nse]
+"Uh...uwaaah...!"[pcms]
 
 *3144|
 [fc]
-生まれて初めて体験する、生膣の感触はとてつもなく気持ちよく、[r]
-思わず女の子みたいに声が漏れてしまう。[pcms]
+The sensation of a real vagina for the first time was incredibly[r]
+pleasant, and I couldn't help but let out a girlish moan.[pcms]
 
 *3145|
 [fc]
-火傷しそうなほどに熱いのにぐっしょりと濡れてて、[r]
-とろけるみたいな感触がした。[pcms]
+It was scorching hot yet soaking wet, and it felt like it was melting.[pcms]
 
 *3146|
 [fc]
-その上、中がまるで別の生き物みたいにぐねぐねと動いて[r]
-僕のチンポにからみついてくる。[pcms]
+Moreover, the inside moved as if it were a separate creature,[r]
+entwining and clinging to my dick.[pcms]
 
 *3147|
 [fc]
-その感触は、生まれてこのかた体験したことのある、[r]
-どんなものとも似てなかった。[pcms]
+The sensation was unlike anything I had ever experienced in my life.[pcms]
 
 [evcg storage="mob_H014c"][trans_c cross time=300]
 
 *3148|
 [fc]
 [vo_mob s="A0004"]
-[ns]女感染者Ａ[nse]
-「う゛っ゛ふふふ～、かっ゛わ゛いい、こえ゛ぇ～。[r]
-　そん゛な゛に～、あ゛たしのおま゛んこぉ、[r]
-　ぎぼぢいいのぉ～？」[pcms]
+[ns]Female Infected A[nse]
+"Uhhuhuhu~ Cute, your voice~. Do you like my pussy that much~?"[pcms]
 
 *3149|
 [fc]
-セクシーな一角獣コスの女の子が、僕の上で激しく腰を振りながら[r]
-そう訊ねてくる。[pcms]
+The sexy unicorn-costumed girl asked me that while shaking her hips[r]
+vigorously on top of me.[pcms]
 
 *3150|
 [fc]
-露出が高いのにかわいらしく、その上ちょっとエッチな感じのする[r]
-一角獣コスは、モンバスのキャラコスの中でも人気が高く[r]
-僕も気に入っている。[pcms]
+The unicorn costume, which is highly exposed yet cute and a bit[r]
+erotic, is one of the more popular character cosplays in Monbus, and I[r]
+like it too.[pcms]
 
 *3151|
 [fc]
-いま僕が置かれている状況は、まさにゲームオタクの妄想が[r]
-具現化したみたいな状況だった。[pcms]
+The situation I found myself in was like a game otaku's fantasy come[r]
+to life.[pcms]
 
 *3152|
 [fc]
-ただし、相手の赤い瞳のことさえ気にしなければ、だけど。[pcms]
+However, that's only if I don't mind the red eyes of my partner.[pcms]
 
 *3153|
 [fc]
 [vo_mob s="A0005"]
-[ns]女感染者Ａ[nse]
-「あ゛ぁあ゛ぁん～、お゛ぢんぼぉ、ぎぼぢい゛いとごに゛[r]
-　あだっ゛でぇ゛～お゛まんこ、ぎぼぢい゛いいぃ～」[pcms]
+[ns]Female Infected A[nse]
+"Aaahnn~ No, not yet... I want to enjoy this dick more~"[pcms]
 
 *3154|
 [fc]
-一角獣コスの女の子が腰を振る度に、オマンコの中からあふれ出た[r]
-愛液と僕の我慢汁とが飛び散り、ぐじょっ、ぐじゅっと[r]
-湿ったいやらしい音をたてる。[pcms]
+Every time the unicorn-costumed girl shook her hips, love juices and[r]
+my pre-cum splattered out from her pussy, making wet and naughty[r]
+sounds.[pcms]
 
 *3155|
 [fc]
 [vo_mob s="B0003"]
-[ns]女感染者Ｂ[nse]
-「あ゛はぁ～ん゛、お゛まんこから゛ぁ、え゛っち゛なしる゛が[r]
-　すっ゛ごくでてる゛よ～、そん゛なにきぼぢいいのぉ～？」[pcms]
+[ns]Female Infected B[nse]
+"Ahaa~n, so much naughty juice is coming out from your pussy~ Do you[r]
+like it that much~?"[pcms]
 
 *3156|
 [fc]
 [vo_mob s="C0002"]
-[ns]女感染者Ｃ[nse]
-「あ゛～、い゛い゛なあ゛ぁ、きぼぢよ゛さそう゛でえ゛ぇ～。[r]
-　あ゛たしも゛ぉはや゛くや゛り゛だ～い゛ぃ～」[pcms]
+[ns]Female Infected C[nse]
+"Ah~, that looks nice~ I want to do it soon too~"[pcms]
 
 *3157|
 [fc]
-周囲で見ているレイヤーの女の子たちが、[r]
-口々にそんな感想を口にする。[pcms]
+The surrounding cosplayer girls voiced such opinions one after[r]
+another.[pcms]
 
 [evcg storage="mob_H014c"][trans_c cross time=300]
 
@@ -180,24 +173,23 @@
 *3158|
 [fc]
 [vo_mob s="A0006"]
-[ns]女感染者Ａ[nse]
-「い゛や゛あ゛ぁ～ん、ま゛だだめ゛え゛ぇ～。[r]
-　も゛っとこの゛ちんぽぉ～、あ゛たしがたのしむ゛の゛おぉ～」[pcms]
+[ns]Female Infected A[nse]
+"Nyaah~n, not yet... I want to enjoy this dick more~"[pcms]
 
 *3159|
 [fc]
-僕の上で腰を振り続けてる女の子は、まだまだ満足するには[r]
-ほど遠いみたいで、夢中になって動いてる。[pcms]
+The girl who continued to shake her hips on top of me seemed far from[r]
+satisfied and was moving frantically.[pcms]
 
 *3160|
 [fc]
-でも僕は、ここんとこずっとオナ禁してたこともあって、[r]
-みるみるうちに限界が近づいてしまった。[pcms]
+But because I had been abstaining from masturbation for a while, my[r]
+limit was rapidly approaching.[pcms]
 
 *3161|
 [fc]
-[ns]誠[nse]
-「あ……あっ、もっ、もう駄目……っ、で、出ちゃう……っ！」[pcms]
+[ns]Makoto[nse]
+"Ah...ahh, can't... hold it... anymore... I'm gonna cum...!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：追加分
@@ -211,37 +203,33 @@
 
 *3162|
 [fc]
-情けない声を上げながら、僕はそのまま女の子のオマンコの中に[r]
-大量に射精してしまった。[pcms]
+With a pathetic cry, I ejaculated a large amount inside the girl's[r]
+pussy.[pcms]
 
 
 *3163|
 [fc]
 [vo_mob s="A0007"]
-[ns]女感染者Ａ[nse]
-「ひゃ゛う゛んっ！　んあ゛あぁん……。[r]
-　お゛ちん゛ちんがぁ゛お゛ま゛ん゛この゛な゛かでぇ[r]
-　びくびくしてる゛う゛ぅ～」[pcms]
+[ns]Female Infected A[nse]
+"Hyaaunn! Naaahnn... Your dick is twitching inside my pussy~"[pcms]
 
 *3164|
 [fc]
-僕の射精を中で感じて、一角獣コスの女の子が一瞬身震いする。[r]
-オマンコがぐねぐね動いて、僕のチンポから精液を[r]
-搾り取ろうと締めつけてくる。[pcms]
+Feeling my ejaculation inside her, the unicorn-costumed girl shuddered[r]
+for a moment. Her pussy moved and tightened as if trying to squeeze[r]
+out every last drop of semen from my dick.[pcms]
 
 *3165|
 [fc]
 [vo_mob s="B0004"]
-[ns]女感染者Ｂ[nse]
-「や゛だあ゛ぁ゛～、はや゛い゛い゛ぃ～。[r]
-　きみ゛いぃぃ、そう゛ろ゛うな゛の゛お゛ぉ～？」[pcms]
+[ns]Female Infected B[nse]
+"No way~ That's too quick~ Was it that good~?"[pcms]
 
 *3166|
 [fc]
 [vo_mob s="C0003"]
-[ns]女感染者Ｃ[nse]
-「そん゛な゛にはや゛くちゃ～、あ゛たしたちぃ゛[r]
-　ちっとも゛たの゛しめ゛な゛い゛じゃな゛い゛ぃ～」[pcms]
+[ns]Female Infected C[nse]
+"If you finish that quickly, we can't enjoy it at all~"[pcms]
 
 [evcg storage="mob_H014f"][trans_c cross time=300]
 
@@ -249,113 +237,110 @@
 *3167|
 [fc]
 [vo_mob s="A0008"]
-[ns]女感染者Ａ[nse]
-「あ゛ぁん゛～、あ゛たしぃ゛、ま゛だぜんぜん゛[r]
-　ま゛ん゛ぞくしてな゛い゛のに゛ぃ゛～」[pcms]
+[ns]Female Infected A[nse]
+"Aaahn~ I'm not satisfied at all yet~"[pcms]
 
 *3168|
 [fc]
-あまりに早く達してしまった僕の不甲斐なさに、女の子たちが[r]
-口々に不満の声をあげる。[pcms]
+The girls voiced their dissatisfaction at how quickly I had reached[r]
+climax.[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：追加SE;//◆演出メモ　サンプリング
 
 *3169|
 [fc]
-僕に跨がってる女の子は、僕が射精したのにもお構いなしに[r]
-さらに快感を引き出そうと、腰を振り続けている。[pcms]
+The girl straddling me continued to shake her hips even after I[r]
+ejaculated, trying to draw out more pleasure.[pcms]
 
 *3170|
 [fc]
-射精したばかりの敏感なチンポは、その強烈な刺激の前に[r]
-萎えるどころか、さらに硬さを増してしまう。[pcms]
+My dick, which had just ejaculated and was sensitive, became even[r]
+harder instead of wilting from the intense stimulation.[pcms]
 
 *3171|
 [fc]
 [vo_mob s="C0004"]
-[ns]女感染者Ｃ[nse]
-「お゛ちん゛ちん゛～、お゛っきい゛まま゛だよ゛ぉ～[r]
-　そう゛ろう゛だけどぉ゛、ぜつり゛んな゛んだぁ」[pcms]
+[ns]Female Infected C[nse]
+"Your dick is still so big~ Even though you've just cum, it's[r]
+amazing."[pcms]
 
 *3172|
 [fc]
 [vo_mob s="B0005"]
-[ns]女感染者Ｂ[nse]
-「あ゛～、い゛いことお゛も゛いづいぢゃっ゛だあ゛ぁ～。[r]
-　おちん゛ちん゛のねも゛と～、しばればい゛いんだよお゛ぉ～」[pcms]
+[ns]Female Infected B[nse]
+"Ah~, that's a good idea. If we tie up the base of your dick, it'll[r]
+stay hard."[pcms]
 
 *3173|
 [fc]
-[ns]誠[nse]
-「え……ちょ……！？」[pcms]
+[ns]Makoto[nse]
+"Eh... wait...!?"[pcms]
 
 *3174|
 [fc]
-そう言うと、周囲で見てた女の子たちが紐を取り出すと[r]
-僕のチンポの根本を縛り付けてしまった。[pcms]
+As she said that, the girls watching around took out a string and tied[r]
+it around the base of my dick.[pcms]
 
 
 *3175|
 [fc]
 [vo_mob s="A0009"]
-[ns]女感染者Ａ[nse]
-「あ゛っはあ゛あぁ～これ゛いい゛い゛ぃ～[r]
-　お゛まん゛こぎぼぢい゛い゛ぃ～」[pcms]
+[ns]Female Infected A[nse]
+"Ah haaah~ This is good~ My pussy feels so good~"[pcms]
 
 *3176|
 [fc]
-根本を紐で縛り付けられて、チンポがじんじんと痺れたみたいに[r]
-硬さを増したのを感じる。[pcms]
+I could feel my dick getting even harder as if it were tingling from[r]
+being tied at the base with a string.[pcms]
 
 
 *3177|
 [fc]
 [vo_mob s="A0010"]
-[ns]女感染者Ａ[nse]
-「かたい゛っかたい゛の゛お゛ぉ～、[r]
-　あ゛～ちん゛ぽかたあ゛ぁ゛い゛いぃ゛～」[pcms]
+[ns]Female Infected A[nse]
+"It's so hard~ Ahh~ your dick is so hard~"[pcms]
 
 *3178|
 [fc]
-硬さを増したチンポの感触に、一角獣コスの女の子が驚喜して[r]
-狂ったように腰を打ち付けてくる。[pcms]
+The girl in the unicorn costume was ecstatic at the feel of my dick,[r]
+which had grown harder, and she began to slam her hips down like[r]
+crazy.[pcms]
 
 *3179|
 [fc]
-[ns]誠[nse]
-「う……うっ、くううぅ………っ………！」[pcms]
+[ns]Makoto[nse]
+"Ugh... uhh, kuuu...!"[pcms]
 
 *3180|
 [fc]
-鬱血したことで、チンポの先がさらに敏感になってる。[pcms]
+The congestion made the tip of my dick even more sensitive.[pcms]
 
 *3181|
 [fc]
-ぬるぬるにとろけたオマンコの襞のひとつひとつが[r]
-カリで判別できそうなほど気持ちいい。[pcms]
+The folds of her pussy, now slippery and melting, felt so good that it[r]
+seemed like I could distinguish each one with the ridge of my dick.[pcms]
 
 *3182|
 [fc]
-あまりの気持ちよさに、目の前がくらくらして[r]
-意識がふらっと遠のきそうになる。[pcms]
+The pleasure was so overwhelming that I felt dizzy and my[r]
+consciousness began to fade.[pcms]
 
 *3183|
 [fc]
-でもこれじゃ、イキたくなっても射精できないよ！[pcms]
+But like this, even if I want to cum, I can't ejaculate![pcms]
 
 *3184|
 [fc]
 [vo_mob s="B0006"]
-[ns]女感染者Ｂ[nse]
-「や゛あ゛ぁん゛～、すん゛ごい゛え゛っちい゛ぃ゛～」[pcms]
+[ns]Female Infected B[nse]
+"Yaaan~ This feels so naughty~"[pcms]
 
 *3185|
 [fc]
 [vo_mob s="C0005"]
-[ns]女感染者Ｃ[nse]
-「こん゛な゛の゛み゛てたら゛ぁ゛[r]
-　がま゛ん゛できな゛くな゛っ゛ちゃう～ん゛」[pcms]
+[ns]Female Infected C[nse]
+"If I keep watching this, I won't be able to hold back~"[pcms]
 
 [evcg storage="mob_H014g"][trans_c cross time=300]
 
@@ -363,115 +348,108 @@
 *3186|
 [fc]
 [vo_mob s="A0011"]
-[ns]女感染者Ａ[nse]
-「あ゛っあ゛あぁっあ゛あっあっ、い゛いっいい゛のお゛っ！[r]
-　おまん゛こぉ゛きも゛ちい゛いぃ、とろ゛けちゃうの゛おっ！」[pcms]
+[ns]Female Infected A[nse]
+"Ahh ahh ahh! It feels so good! My pussy feels amazing, it's melting[r]
+away!"[pcms]
 
 *3187|
 [fc]
-一角獣コスの女の子が、口元からだらしなく涎を垂らしながら、[r]
-絶頂に向かって登りつめてゆく。[pcms]
+The girl in the unicorn costume drooled sloppily from her mouth as she[r]
+climbed towards climax.[pcms]
 
 *3188|
 [fc]
-オマンコの中が、きゅうきゅうと断続的に痙攣して、[r]
-中から熱い愛液がだらだら流れ出してくる。[pcms]
+Her pussy spasmed intermittently, squeezing tightly, and hot love[r]
+juices flowed out from within.[pcms]
 
 *3189|
 [fc]
-僕のチンポは、その刺激にとっくに絶頂を迎えてるのに、[r]
-根本を縛られてて射精できない状態に[r]
-気が狂いそうだった。[pcms]
+My dick had already reached its climax from the stimulation, but[r]
+because it was tied at the base, I couldn't ejaculate and felt like I[r]
+was going insane.[pcms]
 
 *3190|
 [fc]
-[ns]誠[nse]
-「あっ、あっあっ！　出したい、出したいよおぉ！[r]
-　おね……お願いだから……紐を……ひもをほどいてっ！！」[pcms]
+[ns]Makoto[nse]
+"Ah, ah ah! I want to cum, I want to cum! Please... please untie the[r]
+string... untie it!!"[pcms]
 
 *3191|
 [fc]
 [vo_mob s="B0007"]
-[ns]女感染者Ｂ[nse]
-「う゛ふっ゛、ま゛だだぁめ゛ぇ～。[r]
-　このこが゛ちゃん゛とい゛くま゛ではぁ、[r]
-　ほどい゛たげな゛ぁい゛～♪」[pcms]
+[ns]Female Infected B[nse]
+"Ufufu, not yet~. Until this girl cums properly, we won't untie it~♪"[pcms]
 
 *3192|
 [fc]
-[ns]誠[nse]
-「くうぅ……あううぅん……おねがいぃ、おねがいぃ……。[r]
-　もっ、もうぅ……ぼくぅ……げん……かい……だよぉ……」[pcms]
+[ns]Makoto[nse]
+"Kuu... ahh uun... please, please... I'm at my... limit..."[pcms]
 
 *3193|
 [fc]
 [vo_mob s="C0006"]
-[ns]女感染者Ｃ[nse]
-「ん゛～、きみ゛ってぇ゛とおっても゛いじめ゛がい゛が゛[r]
-　あ゛る゛ん゛だあ゛ぁ～。[r]
-　な゛ん゛だかぁ、ぞくぞくしちゃ゛う゛ぅ゛～♪」[pcms]
+[ns]Female Infected C[nse]
+"Nn~ You're so fun to tease~ It gives me shivers~♪"[pcms]
 
 *3194|
 [fc]
-僕がいくら懇願しても、周りで見てる女の子たちは[r]
-チンポの根本を縛った紐をほどいてくれようとはしない。[pcms]
+No matter how much I pleaded, the girls watching around wouldn't untie[r]
+the string that bound the base of my dick.[pcms]
 
 
 *3195|
 [fc]
 [vo_mob s="A0012"]
-[ns]女感染者Ａ[nse]
-「あぁぁあぁぁあっ！　お゛まん゛こ、おま゛ん゛こい゛いいっ！[r]
-　いくっ゛い゛くう゛ぅ゛っ、いぐう゛う゛ぅぅぅぅっ！！」[pcms]
+[ns]Female Infected A[nse]
+"Aaaah aah! My pussy, my pussy feels so good! I'm cumming, cumming[r]
+uuuuuh!!"[pcms]
 
 *3196|
 [fc]
-一角獣コスの女の子が絶叫すると、僕の上でがくがくと痙攣して[r]
-絶頂に登りつめた。[pcms]
+As the girl in the unicorn costume screamed, she convulsed on top of[r]
+me as she reached her climax.[pcms]
 
 *3197|
 [fc]
-オーガズムに達し、どろどろに濡れたオマンコが、まるで[r]
-搾乳機のように入り口から奥に向かって、ぎゅぎゅぎゅっと[r]
-僕のチンポを絞り上げる。[pcms]
+Having reached orgasm, her drenched pussy squeezed my dick from the[r]
+entrance to the depths like a milking machine.[pcms]
 
 *3198|
 [fc]
-その感覚に、僕はまたもや絶頂に達し、チンポをビクビクさせるが[r]
-根本を縛られてて、射精することができない。[pcms]
+At that sensation, I reached climax again, my dick twitching[r]
+violently, but because it was tied at the base, I couldn't ejaculate.[pcms]
 
 *3199|
 [fc]
-出したいのに出せないそのもどかしさに、頭がおかしくなる。[pcms]
+The frustration of wanting to cum but not being able to was driving me[r]
+crazy.[pcms]
 
 *3200|
 [fc]
-[ns]誠[nse]
-「ぎっ！　ぎいぃ！　ひぎいいぃっっ！！[r]
-　おっ、おちんちん、ばっ、ばぐはづしぢゃうよおぉぅ！！！」[pcms]
+[ns]Makoto[nse]
+"Gik! Gyii! Higyiii!! My cock, it's going to burst!!"[pcms]
 
 *3201|
 [fc]
-本当に、このままだと射精の勢いで、チンポが内側から[r]
-爆発しちゃいそうだ。[pcms]
+Truly, if it continued like this, it felt like my dick would explode[r]
+from the inside out due to the force of ejaculation.[pcms]
 
 *3202|
 [fc]
 [vo_mob s="C0007"]
-[ns]女感染者Ｃ[nse]
-「も゛～、しょう゛がな゛い゛なあ゛ぁ～、[r]
-　そん゛な゛にい゛う゛んな゛ら゛ぁ[r]
-　かわ゛いそう゛だから゛ぁ～、ほどい゛たげる゛ぅ～」[pcms]
+[ns]Female Infected C[nse]
+"Moo~, can't be helped~ Since you're begging so much and you look so[r]
+pitiful~, we'll untie it~"[pcms]
 
 *3203|
 [fc]
-ギャラリーの女の子のひとりが、やれやれという風情で[r]
-僕のチンポの根本を縛り付けてた紐をほどいてくれた。[pcms]
+One of the girls in the gallery untied the string that was binding the[r]
+base of my dick with a resigned expression.[pcms]
 
 *3204|
 [fc]
-[ns]誠[nse]
-「あ、ああぁぁあっ、う、があああぁぁぁっっ！！！！」[pcms]
+[ns]Makoto[nse]
+"Ah, aah aah! Ugh, gaaaah!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：追加分
@@ -485,39 +463,36 @@
 
 *3205|
 [fc]
-次の瞬間、誠は溜まりに溜まった欲望を、[r]
-思う存分女の子の中にぶちまけていた。[pcms]
+The next moment, Makoto released his pent-up desires fully inside the[r]
+girl.[pcms]
 
 
 *3206|
 [fc]
 [vo_mob s="A0013"]
-[ns]女感染者Ａ[nse]
-「きゃん゛っ！　んあ゛あ゛ぁっ！　すごお゛ぃ！[r]
-　でてる゛う゛ぅ゛！　すごい゛でてる゛う゛うぅ～！！」[pcms]
+[ns]Female Infected A[nse]
+"Kyaaan! Naaah! Amazing! It's coming out! It's coming out so much~!!"[pcms]
 
 *3207|
 [fc]
-爆発したかのような射精の勢いを体内で感じて、[r]
-一角獣コスの女の子が、下腹を震わせながら[r]
-うっとりとした声を上げる。[pcms]
+Feeling the force of the explosive ejaculation inside her body, the[r]
+girl in the unicorn costume trembled in her lower abdomen and let out[r]
+an entranced voice.[pcms]
 
 *3208|
 [fc]
 [vo_mob s="A0014"]
-[ns]女感染者Ａ[nse]
-「すごい゛っ゛すごい゛よ゛お゛ぉ～、お゛まん゛この゛なかで～[r]
-　お゛ちん゛ちん、ばくはつしてる゛よお゛ぉ～～～♪」[pcms]
+[ns]Female Infected A[nse]
+"Amazing~ So amazing~ Inside my pussy~ Your cock is exploding~♪"[pcms]
 
 [fadeoutbgm time=500]
 
 *3209|
 [fc]
 [vo_mob s="A0015"]
-[ns]女感染者Ａ[nse]
-「あ゛あ゛ぁ゛～、ぬ゛る゛ぬるする゛ぅ、[r]
-　お゛な゛かの゛なか、ぬ゛る゛ぬ゛る゛する゛よおぉ～。[r]
-　おま゛ん゛こぉ、い゛っぱい゛に゛な゛っちゃう゛ぅ～ん゛」[pcms]
+[ns]Female Infected A[nse]
+"Aaah~ It's so slippery, inside me it's all slippery. My pussy is[r]
+getting filled up~"[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -528,20 +503,20 @@
 
 *3210|
 [fc]
-蛇口が壊れたかと思うほど長く長く続く射精を受けて、[r]
-誠の体の上で、女の子が満足そうな声を上げている。[pcms]
+As she received an ejaculation that seemed to last forever like a[r]
+broken faucet, the girl on top of Makoto let out a satisfied voice.[pcms]
 
 ;[fadeoutbgm time=500]
 ;<SoundFade 1,5000>
 
 *3211|
 [fc]
-しかし、誠の耳にはその声は届いていなかった。[pcms]
+However, Makoto didn't hear her voice.[pcms]
 
 *3212|
 [fc]
-射精の瞬間、あまりの強烈な快感に、[r]
-誠は失神してしまっていた。[pcms]
+In the moment of ejaculation, due to the intense pleasure, Makoto had[r]
+fainted.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -563,19 +538,19 @@
 
 *3213|
 [fc]
-意識を失いながらも射精し続け、なおも勃起がおさまる様子のない[r]
-誠を見て、周囲にいた他の女感染者たちが[r]
-赤く染まった目を輝かせた。[pcms]
+Even as he lost consciousness and continued to ejaculate with no sign[r]
+of his erection subsiding, the other infected females around him[r]
+gleamed with excitement in their reddened eyes.[pcms]
 
 *3214|
 [fc]
-大勢の薄汚れた出で立ちの女性コスプレイヤーたちが、[r]
-われ先にと横たわったままの誠に群がってゆく。[pcms]
+A crowd of female cosplayers in dirty attire rushed towards Makoto who[r]
+lay there motionless as if competing with each other.[pcms]
 
 *3215|
 [fc]
-絶え間なく押し寄せる女体の波に押しつぶされ、[r]
-そのまま、誠の姿は見えなくなった。[pcms]
+Crushed by the unending wave of female bodies, Makoto's figure[r]
+disappeared from sight.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -615,5 +590,5 @@
 [eval exp="sf.g_prologueSkip = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 

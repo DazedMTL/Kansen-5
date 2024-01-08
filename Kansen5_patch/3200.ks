@@ -35,204 +35,188 @@
 
 *6180|
 [fc]
-あと、残っていることがあるとすれば……。[r]
-僕はターヤに話しかける。[pcms]
+"If there's anything left to do..." I speak to Tarja.[pcms]
 
 ;//bgm19.ogg　モンバス用だけどターヤなので使う
 [bgm storage="BGM19"]
 
 *6181|
 [fc]
-[ns]誠[nse]
-「お別れはいいの？　ターヤ」[pcms]
+[ns]Makoto[nse]
+"Are you okay with saying goodbye? Tarja"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6182|
 [fc]
 [vo_tay s="taja_tj0386"]
-[ns]ターヤ[nse]
-「お別れ……？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Goodbye...?"[pcms]
 
 *6183|
 [fc]
-[ns]誠[nse]
-「うん。短かっただろうけど、この家ともこれでお別れだし。[r]
-　お父さんやお母さん、お姉さんの想い出も[r]
-　全部は持っていけないんだから……」[pcms]
+[ns]Makoto[nse]
+"Yeah. It was short, but this is goodbye to the house too. You can't[r]
+take all the memories of your dad, mom, and sister with you..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6184|
 [fc]
 [vo_tay s="taja_tj0387"]
-[ns]ターヤ[nse]
-「だいじょうぶ。[r]
-　わたし、受け入れてるから……。[r]
-　ライラのことだって……そうだったから」[pcms]
+[ns]Tarja[nse]
+"It's okay. I've accepted it... That's how it was with Laila too."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6185|
 [fc]
-[ns]誠[nse]
-「でも、それにも時間はかかったよね。[r]
-　お別れは言っておいたほうがいいよ。[r]
-　みんな、灰になるんだから……」[pcms]
+[ns]Makoto[nse]
+"But even that took time, right? It's better to say goodbye. Everyone[r]
+turns to ash..."[pcms]
 
 *6186|
 [fc]
-火はすぐ近くまで迫ってきていた。[r]
-本当はターヤの言うとおり、お別れなんて言ってないで[r]
-早く逃げた方が良いだろう。[pcms]
+The fire was closing in fast. Really, we should be fleeing instead of[r]
+saying goodbyes, just like Tarja said.[pcms]
 
 *6187|
 [fc]
-だけど、それじゃ、きっとターヤはあとで後悔する。[r]
-そんな気がしていた。[pcms]
+But if we don't, I feel like Tarja will regret it later.[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6188|
 [fc]
 [vo_tay s="taja_tj0388"]
-[ns]ターヤ[nse]
-「うん……。[r]
-　そう、よね……。[r]
-　じゃあ、少しだけ……」[pcms]
+[ns]Tarja[nse]
+"Yeah... You're right... So, just for a little bit..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6189|
 [fc]
-ターヤは名残惜しそうにリビングを見回した。[r]
-まだちゃんと聞いてないけど、こっちに引っ越してからは[r]
-家庭内不和で、あまりいい思い出はないって……。[pcms]
+Tarja looked around the living room with reluctance. I haven't heard[r]
+the full story, but since she moved here, there's been family discord,[r]
+and not many good memories...[pcms]
 
 *6190|
 [fc]
-だけど、きっとご両親との最後の思い出や、[r]
-お姉さんの形見が置かれてた家だ。[r]
-このタイミングを逃したら、きっと……。[pcms]
+But surely, this house holds the last memories of her parents and[r]
+keepsakes of her sister. If we miss this moment, surely...[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6191|
 [fc]
 [vo_tay s="taja_tj0389"]
-[ns]ターヤ[nse]
-「…………」[pcms]
+[ns]Tarja[nse]
+"..."[pcms]
 
 *6192|
 [fc]
-ターヤは黙って、祈るように両手を組んだ。[pcms]
+Tarja silently clasped her hands together as if praying.[pcms]
 
 *6193|
 [fc]
 [vo_tay s="taja_tj0390"]
-[ns]ターヤ[nse]
-「ライラ、パパとたぶんママも、そっちに――[r]
-　天国に行きました……。[r]
-　だから……、だから……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Laila, Papa and probably Mama too, have gone to heaven... So...[r]
+so..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6194|
 [fc]
 [vo_tay s="taja_tj0391"]
-[ns]ターヤ[nse]
-「ううっ……うっ……」[pcms]
+[ns]Tarja[nse]
+"Uuh...uhh..."[pcms]
 
 *6195|
 [fc]
-ターヤの目から涙がこぼれ落ちた。[r]
-どうやら、言葉にならないらしい。[pcms]
+Tears spilled from Tarja's eyes. It seems she can't find the words.[pcms]
 
 *6196|
 [fc]
-[ns]誠[nse]
-「ターヤ……」[pcms]
+[ns]Makoto[nse]
+"Tarja..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6197|
 [fc]
 [vo_tay s="taja_tj0392"]
-[ns]ターヤ[nse]
-「ごめんなさい。[r]
-　わたし、なんて言っていいか、わからなくて……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"I'm sorry. I don't know what to say..."[pcms]
 
 *6198|
 [fc]
-[ns]誠[nse]
-「うん、僕だって……」[pcms]
+[ns]Makoto[nse]
+"Yeah, me neither..."[pcms]
 
 *6199|
 [fc]
-僕を理解して、支えてくれた素敵な仲間たち。[r]
-得がたい仲間たち。[r]
-だけど、みんなとはここの島で突然の別れになってしまった。[pcms]
+My wonderful friends who understood and supported me. Precious[r]
+companions. But our farewell on this island was sudden.[pcms]
 
 *6200|
 [fc]
-まだ、正直、突然過ぎて、理解できてないだけだと思う。[r]
-だけど、僕にはターヤが残ってる。[pcms]
+Honestly, it's still too sudden for me to comprehend. But I still have[r]
+Tarja.[pcms]
 
 *6201|
 [fc]
-[ns]誠[nse]
-「僕に残ったのはターヤだけだから……。[r]
-　ターヤと僕は家族になるんでしょ？」[pcms]
+[ns]Makoto[nse]
+"All I have left is you, Tarja... We're going to be a family, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6202|
 [fc]
 [vo_tay s="taja_tj0393"]
-[ns]ターヤ[nse]
-「……うん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"...Yeah..."[pcms]
 
 *6203|
 [fc]
-[ns]誠[nse]
-「だったら、お別れだけはしておかないと。[r]
-　まだ、気持ちの整理はできないだろうけど、[r]
-　さよならだけは言っておかないないと……」[pcms]
+[ns]Makoto[nse]
+"Then we have to say goodbye. We might not be ready to sort out our[r]
+feelings yet, but we have to say goodbye..."[pcms]
 
 *6204|
 [fc]
 [vo_tay s="taja_tj0394"]
-[ns]ターヤ[nse]
-「うん……。そうだ……よね……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah... You're right..."[pcms]
 
 ;//m:閉じ目なぁ
 ;//ターヤは目を閉じて、祈るように言った。
 
 *6205|
 [fc]
-ターヤは小さく、祈るように言った。[pcms]
+Tarja said softly, as if praying.[pcms]
 
 *6206|
 [fc]
 [vo_tay s="taja_tj0395"]
-[ns]ターヤ[nse]
-「サヨナラ……。みんなサヨナラ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Goodbye... everyone goodbye..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6207|
 [fc]
-その言葉は、突然の別れになってしまった[r]
-僕の大切な仲間たちに対しての言葉と同じだった。[pcms]
+Her words were the same as those for my dear friends with whom I had a[r]
+sudden farewell.[pcms]
 
 *6208|
 [fc]
-[ns]誠[nse]
-（みんなサヨナラ……）[pcms]
+[ns]Makoto[nse]
+"(Everyone goodbye...)"[pcms]
 
 *6209|
 [fc]
-僕はもう一度、心の中でつぶやく。[pcms]
+I whisper again in my heart.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -248,38 +232,38 @@
 *6210|
 [fc]
 [vo_tay s="taja_tj0396"]
-[ns]ターヤ[nse]
-「誠……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Makoto..."[pcms]
 
 *6211|
 [fc]
-[ns]誠[nse]
-「うんっ、急がないと……」[pcms]
+[ns]Makoto[nse]
+"Yeah, we need to hurry..."[pcms]
 
 *6212|
 [fc]
-焦げ臭い臭いがあたりにしはじめた。[r]
-今すぐ逃げないと、ダメだ。[pcms]
+The smell of burning was starting to fill the air. We need to escape[r]
+now or it'll be too late.[pcms]
 
 ;//bgm23.ogg
 [bgm storage="BGM23"]
 
 *6213|
 [fc]
-[ns]誠[nse]
-「必ず生き延びようターヤ」[pcms]
+[ns]Makoto[nse]
+"We must survive at all costs, Tarja"[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6214|
 [fc]
 [vo_tay s="taja_tj0397"]
-[ns]ターヤ[nse]
-「うん、だって、わたしと誠は新しい家族……だもの……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah, because you and I are a new family..."[pcms]
 
 *6215|
 [fc]
-僕たちは手に手をとった。[pcms]
+We took each other's hands.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -297,13 +281,13 @@
 
 *6216|
 [fc]
-降りかかる火の粉や不意な高熱、熱風をさけるために[r]
-一枚の毛布をバスルームでしっかりと濡らすと、[r]
-僕たちはそれを身を寄せてかぶり、互いの片手で持った。[pcms]
+To avoid the falling sparks and sudden high heat and wind, we soaked a[r]
+blanket in the bathroom and covered ourselves with it, holding it with[r]
+one hand each.[pcms]
 
 *6217|
 [fc]
-当然、毛布を掴んでいない方の手は固く握りあったままだ……。[pcms]
+Of course, our other hands remained tightly clasped together...[pcms]
 
 ;//★tajahouse01a ターヤの家　リビング 夜
 [bg storage="tajahouse01c"]
@@ -315,16 +299,16 @@
 
 *6218|
 [fc]
-[ns]誠[nse]
-「行こう……」[pcms]
+[ns]Makoto[nse]
+"Let's go..."[pcms]
 
 [ChrSetEx layer=5 chbase="ta2_ja"][ChrSetParts layer=5 chface="F2_ta03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *6219|
 [fc]
 [vo_tay s="taja_tj0398"]
-[ns]ターヤ[nse]
-「うんっ……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yeah...!"[pcms]
 
 [se buf=0 storage="seA011"]
 ;//♪SEドアを開ける
@@ -334,7 +318,7 @@
 
 *6220|
 [fc]
-僕とターヤは港をめざし、燃え盛る町へと飛び出した。[pcms]
+Makoto and Tarja aimed for the port and dashed into the blazing town.[pcms]
 
 ;//→ファイル*ターヤルート_3000Tへジャンプ
 ;//ブロック3210へjump

@@ -41,13 +41,13 @@
 *2570|
 [fc]
 [vo_stk s="satuki_nt0142"]
-[ns]彩月[nse]
-「こんなとこにまで……」[pcms]
+[ns]Satsuki[nse]
+"To think it's spread even here..."[pcms]
 
 *2571|
 [fc]
-最上階に着いた僕たちは、非常階段のへりから屋上庭園を[r]
-覗き込んでいた。[pcms]
+When we reached the top floor, we peered over the edge of the[r]
+emergency staircase at the rooftop garden.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -62,8 +62,8 @@
 
 *2572|
 [fc]
-屋上庭園は、感染者で埋め尽くされていた。[r]
-うろつきざわめいている。[pcms]
+The rooftop garden was filled with infected people, wandering and[r]
+murmuring.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -75,42 +75,42 @@
 
 *2573|
 [fc]
-[ns]宗一郎[nse]
-「あれらは宿泊客ではないですかね……もしそうだとしたら、[r]
-　意外と、各フロアにうろつく人数は少ないかもしれません」[pcms]
+[ns]Souichirou[nse]
+"Aren't those the hotel guests... If that's the case, there might be[r]
+fewer people roaming each floor than we thought."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2574|
 [fc]
 [vo_stk s="satuki_nt0143"]
-[ns]彩月[nse]
-「そーいち君、あんた時々冴えるわね」[pcms]
+[ns]Satsuki[nse]
+"Souichi-kun, you have your moments of brilliance, don't you?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2575|
 [fc]
-[ns]宗一郎[nse]
-「時々は余計だと、申し上げたいところですな」[pcms]
+[ns]Souichirou[nse]
+"I would prefer you omit 'occasionally', if I may say so."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2576|
 [fc]
 [vo_stk s="satuki_nt0144"]
-[ns]彩月[nse]
-「はいはい。確かにその可能性はあるかもね。[r]
-　いずれにしても、ここから中に入るしかもう道はなさそうだわ」[pcms]
+[ns]Satsuki[nse]
+"Yes, yes. There certainly is that possibility. Either way, it seems[r]
+like there's no other way but to enter from here."[pcms]
 
 *2577|
 [fc]
-[ns]誠[nse]
-「行きましょう」[pcms]
+[ns]Makoto[nse]
+"Let's go."[pcms]
 
 *2578|
 [fc]
-僕は非常階段のドアノブに手を掛けて回した。[pcms]
+I reached out and turned the doorknob of the emergency staircase.[pcms]
 
 ;//■_鍵がかかっているガチャガチャ音
 [se buf=0 storage="seA032"]
@@ -118,185 +118,184 @@
 
 *2579|
 [fc]
-[ns]誠[nse]
-「あれ？」[pcms]
+[ns]Makoto[nse]
+"Huh?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so13b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2580|
 [fc]
-[ns]宗一郎[nse]
-「やれやれ……大概のホテルの非常階段というのは、[r]
-　外からは入れないようになっているのですよ、誠」[pcms]
+[ns]Souichirou[nse]
+"Dear me... Most hotel emergency staircases are designed so you can't[r]
+enter from the outside, Makoto."[pcms]
 
 *2581|
 [fc]
-そーいちは大袈裟に肩をすくめてみせた。[pcms]
+Souichirou exaggeratedly shrugged his shoulders.[pcms]
 
 *2582|
 [fc]
-[ns]誠[nse]
-「悪かったな……ホテルなんて、そんなに泊まったこと[r]
-　ないんだから、知らなくてもしょうがないだろ」[pcms]
+[ns]Makoto[nse]
+"Sorry... I haven't stayed in hotels enough to know that, can't help[r]
+it."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2583|
 [fc]
 [vo_stk s="satuki_nt0114"]
-[ns]彩月[nse]
-「はいはい。内輪もめしないの。中澤君、美沙緒さんの拳銃、[r]
-　貸してちょうだい。鍵を撃ち壊すから」[pcms]
+[ns]Satsuki[nse]
+"Alright, alright. No infighting. Nakazawa-kun, lend me Misao-san's[r]
+gun. I'll shoot the lock off."[pcms]
 
 *2584|
 [fc]
-すっと当たり前のように南先輩は手を出してきた。[r]
-自然な仕草に思わず拳銃を渡しそうになり、僕は気付いた。[pcms]
+As if it were the most natural thing in the world, Satsuki-senpai[r]
+reached out her hand. I almost handed over the gun without thinking[r]
+and then realized.[pcms]
 
 *2585|
 [fc]
-[ns]誠[nse]
-「先輩……射撃の経験があるんですか？」[pcms]
+[ns]Makoto[nse]
+"Senpai... Do you have experience with shooting?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2586|
 [fc]
 [vo_stk s="satuki_nt0115"]
-[ns]彩月[nse]
-「あるわよ」[pcms]
+[ns]Satsuki[nse]
+"I do."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so02b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2587|
 [fc]
-[ns]宗一郎[nse]
-「俺もありますぞ。海外の射撃場で何度か……。[r]
-　だから俺が撃ってもかまいませんが」[pcms]
+[ns]Souichirou[nse]
+"I also have experience. I've been to shooting ranges abroad several[r]
+times... So I wouldn't mind shooting either."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2588|
 [fc]
 [vo_stk s="satuki_nt0116"]
-[ns]彩月[nse]
-「わたしが撃つわよ。そーいち君のは練習みたいなもんでしょ。[r]
-　わたしは、言うなれば実戦経験者よ」[pcms]
+[ns]Satsuki[nse]
+"I'll be the one to shoot. Souichi-kun's experience is more like[r]
+practice. I'm what you'd call a veteran of actual combat."[pcms]
 
 *2589|
 [fc]
-[ns]誠[nse]
-「……え？」[pcms]
+[ns]Makoto[nse]
+"...What?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2590|
 [fc]
 [vo_stk s="satuki_nt0117"]
-[ns]彩月[nse]
-「４年前よ。わたしは身を守る為に、同行してた自衛隊員から[r]
-　撃ち方を教わったの。最初に人を撃ったのは、その教えて[r]
-　くれた相手だった」[pcms]
+[ns]Satsuki[nse]
+"Four years ago. To protect myself, I was taught how to shoot by a[r]
+Self-Defense Force member accompanying me. The first person I shot was[r]
+the one who taught me."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2591|
 [fc]
 [vo_aka s="akari_nt0093"]
-[ns]茜梨[nse]
-「そんな……」[pcms]
+[ns]Akari[nse]
+"That's..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2592|
 [fc]
 [vo_stk s="satuki_nt0118"]
-[ns]彩月[nse]
-「感染しちゃったの。頼まれたわ。殺してくれって。[r]
-　人間でいられる内に、ってね。だから引き金をひいた」[pcms]
+[ns]Satsuki[nse]
+"He got infected. He asked me to do it. 'Kill me,' he said. 'While I'm[r]
+still human.' So I pulled the trigger."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2593|
 [fc]
 [vo_aka s="akari_nt0094"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2594|
 [fc]
 [vo_stk s="satuki_nt0119"]
-[ns]彩月[nse]
-「その後も、生き延びる為に、何人も撃ち殺したわ。[r]
-　ほとんどが感染者だったけど……請われて殺した人間も居た」[pcms]
+[ns]Satsuki[nse]
+"After that, to survive, I killed many more. Most were infected... but[r]
+there were also those who begged me to kill them."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2595|
 [fc]
 [vo_aka s="akari_nt0095"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *2596|
 [fc]
-結構重い話なのに、先輩はさらっと言ってのけた。[r]
-僕はその口調に、逆に悲しみを感じていた。[r]
-たぶん、この感覚は生き残った者にしか、わからないだろう。[pcms]
+Despite the gravity of her story, Satsuki-senpai spoke lightly. I felt[r]
+a certain sadness in her toneprobably a feeling only those who have[r]
+survived can understand.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2597|
 [fc]
 [vo_stk s="satuki_nt0120"]
-[ns]彩月[nse]
-「そんな顔しないのよ、茜梨ちゃん。ショックな話だったかも[r]
-　しれないけど、そうしなければ、今、わたしはここに[r]
-　居られなかったのよ」[pcms]
+[ns]Satsuki[nse]
+"Don't make that face, Akari-chan. It might have been a shocking[r]
+story, but if I hadn't done that, I wouldn't be here now."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2598|
 [fc]
 [vo_stk s="satuki_nt0121"]
-[ns]彩月[nse]
-「エピデミックを生き残るってのは、そういう事なの。[r]
-　まあでも、２回も巻き込まれるんだから、よくよくわたしも[r]
-　運がないわよね～」[pcms]
+[ns]Satsuki[nse]
+"Surviving an epidemic is like that. But to think I've been caught up[r]
+in this twice, I must be really unlucky, huh~"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2599|
 [fc]
 [vo_stk s="satuki_nt0122"]
-[ns]彩月[nse]
-「でも、今度も負けない。生き残ってみせるわ。[r]
-　さ、長話はおしまい。拳銃ちょうだい、中澤君。[r]
-　わたしが撃つってんで、いいわよね？　そーいち君」[pcms]
+[ns]Satsuki[nse]
+"But I won't lose this time either. I'll show you I can survive. Now,[r]
+enough with the long stories. Hand over the gun, Nakazawa-kun. It's[r]
+okay for me to shoot, right? Souichi-kun?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2600|
 [fc]
-[ns]宗一郎[nse]
-「異論は無いです。むしろ……お願いします」[pcms]
+[ns]Souichirou[nse]
+"I have no objections. Rather... please do."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2601|
 [fc]
 [vo_stk s="satuki_nt0123"]
-[ns]彩月[nse]
-「了解。ちょっと離れてて」[pcms]
+[ns]Satsuki[nse]
+"Understood. Step back a bit."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2602|
 [fc]
-そう言いながら僕から受け取った拳銃を、ドアノブに向ける。[r]
-その姿勢は、本当に撃ち慣れている雰囲気だった。[pcms]
+As she said that, she took the gun from me and aimed it at the[r]
+doorknob. Her posture suggested she was truly accustomed to shooting.[pcms]
 
 ;//■_銃撃音
 [se buf=0 storage="seC048"]
@@ -307,71 +306,71 @@
 *2603|
 [fc]
 [vo_stk s="satuki_nt0124"]
-[ns]彩月[nse]
-「ん。オッケーよ。これ、返すわね中澤君。[r]
-　まだ銃身が熱いから気をつけて」[pcms]
+[ns]Satsuki[nse]
+"Hmm. Okay. Here's your gun back, Nakazawa-kun. The barrel's still[r]
+hot, so be careful."[pcms]
 
 *2604|
 [fc]
-[ns]誠[nse]
-「先輩が持っていてくれても、いいんですが」[pcms]
+[ns]Makoto[nse]
+"Senpai, you can keep it if you want."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2605|
 [fc]
 [vo_stk s="satuki_nt0125"]
-[ns]彩月[nse]
-「予備の弾がないでしょ？　この先どれだけの数居るか[r]
-　わからないわ。それだったら、こっちの方が実践的よ」[pcms]
+[ns]Satsuki[nse]
+"We don't have spare bullets, right? We don't know how many we'll[r]
+encounter ahead. In that case, this is more practical."[pcms]
 
 *2606|
 [fc]
-そう言って先輩は、腰に挟み込んでいたバールを僕に見せた。[pcms]
+With that, Satsuki-senpai showed me the bar she had tucked into her[r]
+waist.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so30b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2607|
 [fc]
-[ns]宗一郎[nse]
-「おお、片付けた車から調達したヤツですな」[pcms]
+[ns]Souichirou[nse]
+"Oh, you got that from the car we cleared out?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2608|
 [fc]
 [vo_stk s="satuki_nt0126"]
-[ns]彩月[nse]
-「そ。こいつで返り血を避けながら、殴り倒した方がいいの。[r]
-　だから拳銃は、いざと言うときのために、弾を温存して[r]
-　おいた方が、いいと思うの」[pcms]
+[ns]Satsuki[nse]
+"Right. With this, I can fend off blood splatter and knock them down[r]
+better. So it's better to conserve bullets for when we really need[r]
+them."[pcms]
 
 *2609|
 [fc]
-[ns]誠[nse]
-「わかりました」[pcms]
+[ns]Makoto[nse]
+"Understood."[pcms]
 
 *2610|
 [fc]
-僕はハンカチを出して、その上に拳銃を受け取り、[r]
-仕舞い込んだ。[pcms]
+I took out a handkerchief, received the gun on top of it, and put it[r]
+away.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2611|
 [fc]
-[ns]宗一郎[nse]
-「では、俺が扉を蹴り開けます。向こうから見えない所に[r]
-　身を寄せてくだされ」[pcms]
+[ns]Souichirou[nse]
+"Then, I'll kick the door open. Please stay out of sight."[pcms]
 
 *2612|
 [fc]
-そう言うとそーいちは、扉に向かってドカッと蹴りを入れた。[r]
-なんなく扉は開く。[pcms]
+As he said that, Souichirou kicked the door with a thud. The door[r]
+opened without resistance.[pcms]
 
 *2613|
 [fc]
-その向こうには、見通しのいい廊下が広がっていた。[pcms]
+Beyond it, a corridor with good visibility stretched out.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -396,22 +395,21 @@
 *2614|
 [fc]
 [vo_stk s="satuki_nt0145"]
-[ns]彩月[nse]
-「そーいち君が想像したほどには、少なくないわね……」[pcms]
+[ns]Satsuki[nse]
+"There are more of them than Souichirou-kun imagined..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so05a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2615|
 [fc]
-[ns]宗一郎[nse]
-「うぬう……まあ、ホテルが繁盛していたという事ですな」[pcms]
+[ns]Souichirou[nse]
+"Hmm... Well, it means the hotel was thriving."[pcms]
 
 [chara_int]
 
 *2616|
 [fc]
-蹴破った扉の手前にまだ身を隠しながら、僕たちは中を[r]
-覗き込んでいた。[pcms]
+While still hiding behind the broken door, we peeked inside.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -425,8 +423,8 @@
 
 *2617|
 [fc]
-屋上庭園にあれだけの数が集まっているにも関わらず、[r]
-このフロアの廊下にも、感染者は結構うろついていた。[pcms]
+Despite the large number gathered in the rooftop garden, there were[r]
+quite a few infected wandering the corridor of this floor as well.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -438,74 +436,74 @@
 *2618|
 [fc]
 [vo_stk s="satuki_nt0146"]
-[ns]彩月[nse]
-「はあ……まあ、仕方ないけどさ。さて……と、ＶＩＰルームの[r]
-　入り口って、この奥って話でいいのよね」[pcms]
+[ns]Satsuki[nse]
+"Sigh... Well, it can't be helped. Now... the entrance to the VIP room[r]
+is further down this way, right?"[pcms]
 
 *2619|
 [fc]
-[ns]誠[nse]
-「美沙緒さんの話だと、そういう事でした」[pcms]
+[ns]Makoto[nse]
+"According to Misao-san, that's what it was."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2620|
 [fc]
 [vo_stk s="satuki_nt0147"]
-[ns]彩月[nse]
-「越智さんは……詳しくは知らないんだっけ？」[pcms]
+[ns]Satsuki[nse]
+"Akari-san doesn't know the details, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2621|
 [fc]
 [vo_aka s="akari_nt0129"]
-[ns]茜梨[nse]
-「はい……お役に立てなくて……」[pcms]
+[ns]Akari[nse]
+"Yes... I'm sorry I can't be of more help..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2622|
 [fc]
-[ns]宗一郎[nse]
-「突破するしかないですな。突撃かましましょう」[pcms]
+[ns]Souichirou[nse]
+"We have no choice but to break through. Let's charge."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2623|
 [fc]
 [vo_stk s="satuki_nt0148"]
-[ns]彩月[nse]
-「そうね……ヤツラは動きが鈍いわ。だから、避けられる戦いは[r]
-　極力身を躱して避けること。新型ウイルスの話が本当なら[r]
-　血が１滴、口や目に入っただけでも感染するからね」[pcms]
+[ns]Satsuki[nse]
+"Right... They move slowly. So we should dodge fights where we can by[r]
+slipping away. If the stories about the new virus are true, even a[r]
+single drop of blood getting into our mouths or eyes could infect us."[pcms]
 
 *2624|
 [fc]
 [vo_stk s="satuki_nt0149"]
-[ns]彩月[nse]
-「それと……アイツらは、音に敏感。目で見るだけでなく[r]
-　音に反応して襲ってくることが結構ある。だからなるべく[r]
-　行けるところまでは音を消して近づいて、そのあと一気に」[pcms]
+[ns]Satsuki[nse]
+"Also... they're sensitive to sound. They attack not just by sight but[r]
+also react to noises quite often. So as much as possible, we should[r]
+approach silently until we can't anymore, and then rush through."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2625|
 [fc]
-[ns]宗一郎[nse]
-「突破……ですな」[pcms]
+[ns]Souichirou[nse]
+"Breakthrough... indeed."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2626|
 [fc]
 [vo_stk s="satuki_nt0150"]
-[ns]彩月[nse]
-「そういうこと。じゃあ、最初は静かに……わたしについてきて」[pcms]
+[ns]Satsuki[nse]
+"That's the plan. So first, quietly... follow me."[pcms]
 
 *2627|
 [fc]
-僕らはこそこそと非常階段の扉を通り抜けた。[pcms]
+We sneaked through the emergency staircase door.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -515,92 +513,90 @@
 
 *2628|
 [fc]
-壁際に寄り、静かに歩く。[r]
-部屋の入り口は、中からアイツらが飛び出てくる可能性も[r]
-あるから、様子を見ながら素早く通り過ぎた。[pcms]
+Sticking close to the walls, we walked quietly. Since infected could[r]
+potentially burst out from the room entrances, we quickly passed by[r]
+while keeping an eye out.[pcms]
 
 *2629|
 [fc]
-でもそろそろ限界だった。[r]
-奥に進むにつれ、感染者の数は増えていた。[pcms]
+But we were reaching our limit. As we moved further back, the number[r]
+of infected increased.[pcms]
 
 *2630|
 [fc]
-いつこちらに気がつき襲ってきてもおかしくない。[pcms]
+It wouldn't be strange for them to notice us and attack at any moment.[pcms]
 
 *2631|
 [fc]
-一般向けのエレベーターエントランスが見えてきた。[r]
-ＶＩＰ用の入り口も、遠くにそれらしいのがあるのが[r]
-確認出来た。[pcms]
+The entrance to the general elevator came into view. We could also see[r]
+what seemed to be the entrance to the VIP area in the distance.[pcms]
 
 *2632|
 [fc]
-でも、どうしてかＶＩＰ用の入り口付近は、感染者の[r]
-数が増えている。[pcms]
+However, for some reason, there were more infected near the VIP[r]
+entrance.[pcms]
 
 *2633|
 [fc]
-だとしたら、手近なエレベーターで降りて、先に僕たちの部屋が[r]
-あった階を探すっていうのはどうだろうか……。[pcms]
+I wondered if it might be better to take the nearby elevator down and[r]
+search for the floor where our room was located first...[pcms]
 
 *2634|
 [fc]
-僕は先輩に提案してみることにした。[pcms]
+I decided to suggest this to my senior.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2635|
 [fc]
 [vo_stk s="satuki_nt0151"]
-[ns]彩月[nse]
-「確かに、ＶＩＰ用の入り口付近は、増えてるわね。[r]
-　でも、降りたからといって、見つかるとは限らない。[r]
-　降りたフロアの方が、感染者の数が多い可能性だってあるわ」[pcms]
+[ns]Satsuki[nse]
+"Certainly, there are more near the VIP entrance. But just because we[r]
+go down doesn't mean we'll find it. There's also a chance that there[r]
+are more infected on the floor we descend to."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so01b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2636|
 [fc]
-[ns]宗一郎[nse]
-「さきほど、その案は不確実性が高いからと、止めたはずですが。[r]
-　ここに至って、まだ迷うとは……」[pcms]
+[ns]Souichirou[nse]
+"Earlier, we dismissed that idea due to its high uncertainty. To still[r]
+be hesitating at this point..."[pcms]
 
 *2637|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2638|
 [fc]
 [vo_stk s="satuki_nt0152"]
-[ns]彩月[nse]
-「まあ、そう言わないの。どっちにしたって、感染者相手の[r]
-　立ち回りは付いてくるだろうから、わたしは中澤君が決めて[r]
-　くれれば、それに従うわ」[pcms]
+[ns]Satsuki[nse]
+"Don't say that. Either way, we'll have to deal with the infected.[r]
+I'll follow whatever decision Nakazawa-kun makes."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2639|
 [fc]
 [vo_stk s="satuki_nt0153"]
-[ns]彩月[nse]
-「お姉さんを一番助けたいと思っているのは、間違いなくキミ。[r]
-　わたし達は、それを助ける。だから、決めてよ。キミが」[pcms]
+[ns]Satsuki[nse]
+"The one who wants to save Onee-san the most is definitely you. We're[r]
+here to help with that. So decide. You're the one to decide."[pcms]
 
 *2640|
 [fc]
-[ns]誠[nse]
-「…………わかりました」[pcms]
+[ns]Makoto[nse]
+"...Understood."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2641|
 [fc]
-さて、どうしよう。どっちに向かっても先輩の言うとおり、[r]
-感染者と戦わなければならないとは思う。[pcms]
+Now, what to do? As my senior said, no matter which way we go, we'll[r]
+have to fight the infected.[pcms]
 
 ;//●選択肢
 ;//・ここの階段で下に降りよう→Ｐ 4140
@@ -608,14 +604,14 @@
 
 ;	[link storage="4140.ks" target=*4140_TOP]ここの階段で下に降りよう[endlink]
 ;	[link target=*goto_viproom]ＶＩＰ用の入り口を目指す[endlink]
-;	[s]
+;[pcms]
 
 *SEL29|ここの階段で下に降りよう／ＶＩＰ用の入り口を目指す
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = 'ここの階段で下に降りよう'"]
-[eval exp="f.seltext06 = 'ＶＩＰ用の入り口を目指す'"]
+[eval exp="f.seltext04 = 'Let\'s go down the stairs here'"]
+[eval exp="f.seltext06 = 'Aim for the VIP entrance'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -655,79 +651,80 @@
 
 *2642|
 [fc]
-[ns]誠[nse]
-「やっぱり最初の予定通り、ＶＩＰルームでお願いします」[pcms]
+[ns]Makoto[nse]
+"Let's stick with our original plan and head for the VIP room,[r]
+please."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2643|
 [fc]
 [vo_stk s="satuki_nt0154"]
-[ns]彩月[nse]
-「わかった。じゃあ、わたし、そーいち君、越智さんは、[r]
-　防戦に回る。中澤君は、駆け抜けてカードキーで[r]
-　入り口を開けるのを優先。それでいい？」[pcms]
+[ns]Satsuki[nse]
+"Got it. Then Souichirou-kun, Akari-san, and I will hold them off.[r]
+Nakazawa-kun, you prioritize running through and opening the entrance[r]
+with your card key. Is that okay?"[pcms]
 
 *2644|
 [fc]
-[ns]誠[nse]
-「でもそれじゃ……」[pcms]
+[ns]Makoto[nse]
+"But then..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2645|
 [fc]
 [vo_stk s="satuki_nt0155"]
-[ns]彩月[nse]
-「役割分担は必要よ。やみくもにみんなが戦えば[r]
-　いいってもんじゃないんだから。わかった？」[pcms]
+[ns]Satsuki[nse]
+"We need to divide our roles. It's not just about everyone fighting[r]
+blindly. Understood?"[pcms]
 
 *2646|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2647|
 [fc]
 [vo_stk s="satuki_nt0156"]
-[ns]彩月[nse]
-「お姉さんを助けるためよ。全速力で駆け抜けなさい」[pcms]
+[ns]Satsuki[nse]
+"It's for saving Onee-san. Run through at full speed."[pcms]
 
 *2648|
 [fc]
-言い返せなかった。情けないけど、先輩の割り振りは正しい。[r]
-僕は運動神経なんて決していい方じゃない。[pcms]
+I couldn't argue back. It's embarrassing, but my senior's allocation[r]
+was correct. I'm certainly not known for my athletic abilities.[pcms]
 
 *2649|
 [fc]
-越智さんやそーいちみたいには、動けないと自覚出来る。[r]
-先輩みたいに、４年前戦って身を守った経験がある訳でもない。[pcms]
+I realize that I can't move like Ochi-san or Souichirou. Nor do I have[r]
+the experience of having fought and defended myself four years ago[r]
+like my senior.[pcms]
 
 *2650|
 [fc]
-だったら僕に出来る事をしよう。[r]
-駆け抜けて、早く入り口を開けて、みんなを安全圏内に[r]
-素早く呼び込む事だ。[pcms]
+Then I'll do what I can. I'll run through, open the entrance quickly,[r]
+and swiftly call everyone to safety.[pcms]
 
 *2651|
 [fc]
-僕は決意して、南先輩にうなずいた。[pcms]
+I made up my mind and nodded to Senior Minami.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2652|
 [fc]
 [vo_stk s="satuki_nt0157"]
-[ns]彩月[nse]
-「ん。じゃあ、行くわよっ！」[pcms]
+[ns]Satsuki[nse]
+"Mm. Then, let's go!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2653|
 [fc]
-僕たちは、ＶＩＰルーム専用入り口を目指した。[pcms]
+We aimed for the VIP room's exclusive entrance.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -744,57 +741,57 @@
 
 *2654|
 [fc]
-早く……早くしなくちゃ。[pcms]
+I must hurry... I have to be quick.[pcms]
 
 *2655|
 [fc]
-気ばかり焦って、僕の手は、正確にカードキーを通せずにいた。[r]
-僕のすぐ後ろでは、みんなが必死に戦ってるっていうのに。[pcms]
+My hands were too anxious to swipe the card key accurately, even[r]
+though everyone was fighting desperately right behind me.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan1_x"][ChrSetXY layer=5 x=280 y=0][trans_c cross time=150]
 
 *2656|
 [fc]
-[ns]感染者男[nse]
-「あ゛たら゛し～お゛んな～、おめこ～や゛ら～せ～ろ～」[pcms]
+[ns]Infected Man[nse]
+"Give me that fresh pussy, let me have it!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2657|
 [fc]
 [vo_stk s="satuki_nt0158"]
-[ns]彩月[nse]
-「うっさいんだよっ！」[pcms]
+[ns]Satsuki[nse]
+"Shut up!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan_b3"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2657a|
 [fc]
 ;//[vo_mob s="kankan0001"]
-[ns]感染者女[nse]
-「ね～……しよーよー、せっくすぅ、しよーよー」[pcms]
+[ns]Infected Woman[nse]
+"Hey... let's do it, let's have sex."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so05a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2658|
 [fc]
-[ns]宗一郎[nse]
-「遠慮させていただきますっ！！！」[pcms]
+[ns]Souichirou[nse]
+"I must respectfully decline!!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan3_x"][ChrSetXY layer=5 x=260 y=0][trans_c cross time=150]
 
 *2659|
 [fc]
-[ns]感染者男２[nse]
-「お゛れは～こっ、ちの～お゛め゛こ～がい～な～、でへへええ」[pcms]
+[ns]Infected Man 2[nse]
+"I want a pussy like that, hehehe."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2660|
 [fc]
 [vo_aka s="akari_nt0130"]
-[ns]茜梨[nse]
-「近寄らないでくださいっ！　それ以上近寄るならっ！！！」[pcms]
+[ns]Akari[nse]
+"Don't come any closer! If you come any closer!!!"[pcms]
 
 [chara_int][trans_c lr time=300]
 
@@ -808,38 +805,38 @@
 
 *2661|
 [fc]
-開いたっ！[pcms]
+It's open![pcms]
 
 *2662|
 [fc]
-[ns]誠[nse]
-「開いたっ！　開けたから、早くっ！　みんなっ！」[pcms]
+[ns]Makoto[nse]
+"It's open! It's open, hurry up! Everyone!"[pcms]
 
 *2663|
 [fc]
-じりじりとみんなが後ずさりながら僕に近づいてくる。[r]
-僕は入り口を確保し続けた。[pcms]
+Everyone was slowly backing up towards me. I continued to secure the[r]
+entrance.[pcms]
 
 *2664|
 [fc]
-最初に入り口に飛び込んだのは彩月先輩だ。[r]
-次にそーいち。残るは越智さんだけだった。[pcms]
+The first to jump through the entrance was Senior Satsuki. Then[r]
+Souichirou. Only Ochi-san was left.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2665|
 [fc]
 [vo_stk s="satuki_nt0159"]
-[ns]彩月[nse]
-「越智さんっ！　早くっ！」[pcms]
+[ns]Satsuki[nse]
+"Ochi-san! Hurry!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2666|
 [fc]
 [vo_aka s="akari_nt0131"]
-[ns]茜梨[nse]
-「はっはいっ！」[pcms]
+[ns]Akari[nse]
+"Yes!"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -847,7 +844,7 @@
 
 *2667|
 [fc]
-振り向きざまに越智さんは、扉の中へと身体を入れてきた。[pcms]
+As she turned around, Ochi-san threw herself through the door.[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
@@ -857,65 +854,64 @@
 *2668|
 [fc]
 [vo_aka s="akari_nt0132"]
-[ns]茜梨[nse]
-「きゃっ！　いやっ！　いやああっ！」[pcms]
+[ns]Akari[nse]
+"Kyaa! No! Nooo!"[pcms]
 
 *2669|
 [fc]
-ぐんと越智さんの頭が仰け反る。[r]
-仰け反った頭の先に見えたのは、にへらと笑う赤い眼の男だった。[pcms]
+Ochi-san's head jerked back sharply. At the end of her tilted head was[r]
+a man with a sneering smile and red eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan5_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *2670|
 [fc]
-[ns]感染者男[nse]
-「に゛げる゛な゛～こっち、こい゛～か゛わ゛いがってやる～」[pcms]
+[ns]Infected Man[nse]
+"Don't run away~ come here~ I'll make you pretty~"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2671|
 [fc]
 [vo_aka s="akari_nt0133"]
-[ns]茜梨[nse]
-「いやあぁ、離してっ！　痛いっ！　痛いっ！！」[pcms]
+[ns]Akari[nse]
+"Nooo, let go! It hurts! It hurts!!"[pcms]
 
 *2672|
 [fc]
-ソイツは越智さんの長い黒髪をむんずと掴んで、[r]
-力任せに自分のもとへ引き寄せていた。[pcms]
+The guy had grabbed Ochi-san's long black hair and was forcefully[r]
+pulling her towards him.[pcms]
 
 *2673|
 [fc]
-手を伸ばして越智さんの手を掴む。[r]
-でも、僕ごと引きずられそうになる。[pcms]
+I reached out and grabbed Ochi-san's hand. But it felt like I was[r]
+going to be dragged along with her.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2674|
 [fc]
 [vo_aka s="akari_nt0134"]
-[ns]茜梨[nse]
-「先輩っ！　先輩ーーっ！　助けて助けっ！[r]
-　ぎゃっ、　ぎゃあああっ！！」[pcms]
+[ns]Akari[nse]
+"Senior! Senior--! Help me, help! Gyaa, gyaaaah!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan5_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *2675|
 [fc]
-[ns]感染者男[nse]
-「しろ゛い゛、は～だ～う゛ま゛そ～あがっ」[pcms]
+[ns]Infected Man[nse]
+"Such white, soft thighs."[pcms]
 
 *2676|
 [fc]
-僕の目の前で、その男は越智さんの腕にかぶりついていた。[pcms]
+In front of me, the man was biting into Ochi-san's arm.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so19a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2677|
 [fc]
-[ns]宗一郎[nse]
-「このヤローっっ！！　離せっ！　我が姫を離せーーっ！！」[pcms]
+[ns]Souichirou[nse]
+"You bastard!! Let go! Release my princess--!!"[pcms]
 
 [se buf=0 storage="seB008"]
 ;//♪SE人間を殴る音２(痛そう)
@@ -924,8 +920,8 @@
 
 *2678|
 [fc]
-飛び出したそーいちは、力任せにバットでそいつを[r]
-殴り倒した。[pcms]
+Souichirou lunged forward, knocking the guy down with all his might[r]
+using a bat.[pcms]
 
 [chara_int][trans_c lr time=300]
 
@@ -940,33 +936,33 @@
 
 *2679|
 [fc]
-鈍い音が響き渡る。そーいちは、そいつが動かなくなるまで[r]
-バットを振り下ろし続けた。[pcms]
+A dull sound echoed. Souichirou kept swinging the bat until the guy[r]
+stopped moving.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2680|
 [fc]
 [vo_aka s="akari_nt0135"]
-[ns]茜梨[nse]
-「出渕先輩っ！　もう十分です。早く、早くこっちにっ！」[pcms]
+[ns]Akari[nse]
+"Souichirou-senpai! That's enough. Hurry, come this way!"[pcms]
 
 *2681|
 [fc]
-越智さんの声に振り返ったそーいちは、顔に大量の[r]
-返り血を浴びていた。[pcms]
+Turning at Ochi-san's voice, Souichirou's face was covered in a large[r]
+amount of blood splatter.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so05a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2682|
 [fc]
-[ns]宗一郎[nse]
-「くそっ……」[pcms]
+[ns]Souichirou[nse]
+"Damn it..."[pcms]
 
 *2683|
 [fc]
-およそ紳士らしからぬ行為だが、ぺっとつばを吐き出した。[r]
-その唾液は……赤く染まっていた。[pcms]
+It was hardly gentlemanly behavior, but he spat out a glob of saliva.[r]
+The spit... was stained red.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -983,168 +979,167 @@
 
 *2684|
 [fc]
-僕は扉を閉めた。自動で鍵のかかる音が虚しく響いた。[pcms]
+I closed the door. The sound of the lock automatically engaging echoed[r]
+emptily.[pcms]
 
 *2685|
 [fc]
-[ns]誠[nse]
-「僕が……僕がもっと早く扉を開けていれば……そうすれば」[pcms]
+[ns]Makoto[nse]
+"If I had opened the door faster... If only I had done that"[pcms]
 
 *2686|
 [fc]
-僕は、その場にへたり込んだ。[r]
-後悔の涙がぼたぼたと落ちる。[pcms]
+I collapsed on the spot. Tears of regret fell drop by drop.[pcms]
 
 *2687|
 [fc]
-僕が焦らず素早く鍵を開けていれば……そうすれば越智さんも[r]
-そーいちも、大丈夫だったはずなんだ。[pcms]
+If I hadn't panicked and had opened the lock quickly... then Ochi-san[r]
+and Souichirou would have been okay.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so04a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2688|
 [fc]
-[ns]宗一郎[nse]
-「誠、そんなことはない。気に病むな」[pcms]
+[ns]Souichirou[nse]
+"Makoto, it's not like that. Don't worry about it."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2689|
 [fc]
 [vo_aka s="akari_nt0136"]
-[ns]茜梨[nse]
-「そうですよ。私が迂闊だっただけなんです。[r]
-　敵に背を見せたのですから……まーくん先輩のせいじゃないです」[pcms]
+[ns]Akari[nse]
+"That's right. It was just my carelessness. I showed my back to the[r]
+enemy... It's not your fault, Makoto-senpai."[pcms]
 
 *2690|
 [fc]
-僕は憧れの人と親友を同時に無くす事になるんだ。[r]
-また……僕の大切な人が僕の人生から切り取られてしまうんだ。[pcms]
+I'm going to lose the person I admire and my best friend at the same[r]
+time. Again... someone important to me will be cut out of my life.[pcms]
 
 *2691|
 [fc]
-しかも僕のせいで……。[pcms]
+And it's all because of me...[pcms]
 
 *2692|
 [fc]
-[ns]誠[nse]
-「そんな……ことない。僕が無駄に焦って時間を掛けちゃったから」[pcms]
+[ns]Makoto[nse]
+"No... that's not it. It's because I panicked and wasted time."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_sw4"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *2693|
 [fc]
 [vo_aka s="akari_nt0137"]
-[ns]茜梨[nse]
-「まー君先輩……」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai..."[pcms]
 
 *2694|
 [fc]
-越智さんが僕の目の前に座り込み、僕の顔を覗き込んでくる。[r]
-越智さんの腕には、ハチマキが包帯代わりに巻かれていた。[pcms]
+Ochi-san sat down in front of me, peering into my face. Her arm was[r]
+wrapped in a headband, serving as an improvised bandage.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2695|
 [fc]
 [vo_aka s="akari_nt0138"]
-[ns]茜梨[nse]
-「まー君先輩。お姉さん助けたいんですよね？[r]
-　私はまだ大丈夫ですよ。早くお姉さんを助けに行きましょう」[pcms]
+[ns]Akari[nse]
+"Makoto-senpai. You want to save Onee-san, right? I'm still okay.[r]
+Let's go save Onee-san quickly."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so02b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2696|
 [fc]
-[ns]宗一郎[nse]
-「そうだ。我が姫の言うとおりだ。ぐずぐずしてる暇なんて[r]
-　これっぱかしもないはずだ。ほら、立てよ、誠」[pcms]
+[ns]Souichirou[nse]
+"That's right. Our princess is correct. We don't have time to dawdle.[r]
+Come on, stand up, Makoto."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2697|
 [fc]
 [vo_stk s="satuki_nt0160"]
-[ns]彩月[nse]
-「ふたりの言うとおりだよ。わたし達はお姉さんを無事に[r]
-　助け出して、ちゃんと身を守りきろうよ……。[r]
-　それが残されるわたしたちの使命だよ」[pcms]
+[ns]Satsuki[nse]
+"Both of them are right. We need to safely rescue Onee-san and make[r]
+sure we protect ourselves... That's our mission now."[pcms]
 
 *2698|
 [fc]
-[ns]誠[nse]
-「残されるなんて言わないで下さいっ！」[pcms]
+[ns]Makoto[nse]
+"Please don't talk about being left behind!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2699|
 [fc]
-[ns]宗一郎[nse]
-「でも、いずれそうなる。俺と我が姫はお前を残して……[r]
-　いくしかない……」[pcms]
+[ns]Souichirou[nse]
+"But eventually, that will happen. Our princess and I will have to[r]
+leave you behind... it's the only way..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2700|
 [fc]
 [vo_aka s="akari_nt0139"]
-[ns]茜梨[nse]
-「ようやく……南先輩の言っていた言葉の意味が実感として[r]
-　わかりました。お姉様同様、私も人間として旅立ちたいです」[pcms]
+[ns]Akari[nse]
+"I finally understand the meaning of what Minami-senpai said, as a[r]
+real feeling. Like Onee-sama, I also want to depart as a human being."[pcms]
 
 *2701|
 [fc]
-[ns]誠[nse]
-「そーいち……越智……さん。うっううっうううっ……」[pcms]
+[ns]Makoto[nse]
+"Souichirou... Ochi-san. Uuuuuuu..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so05a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2702|
 [fc]
-[ns]宗一郎[nse]
-「誠、俺も越智さんも、あとどれだけのあいだ、人でいられるのか[r]
-　正直わからない。だったらその時間は、無駄なく夏の姫の[r]
-　救出に使いたいんだ。だから、立て、立てよ、誠っ！」[pcms]
+[ns]Souichirou[nse]
+"Makoto, neither I nor Ochi-san know how much longer we can remain[r]
+human. So we want to use that time to rescue Natsu-hime without[r]
+wasting it. So stand up, stand up, Makoto!"[pcms]
 
 *2703|
 [fc]
-[ns]誠[nse]
-「でも……でも……僕はふたりを失いたくないんだっ！」[pcms]
+[ns]Makoto[nse]
+"But... but... I don't want to lose both of you!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_a"][ChrSetParts layer=5 chface="F2_so02a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2704|
 [fc]
-[ns]宗一郎[nse]
-「無理だ。あきらめろ。その代わり、忘れるな。俺と姫の事を」[pcms]
+[ns]Souichirou[nse]
+"It's impossible. Give up on that. But don't forget us, me and the[r]
+princess."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2705|
 [fc]
 [vo_aka s="akari_nt0140"]
-[ns]茜梨[nse]
-「そうですよ。それだけで十分です。さ、行きましょう」[pcms]
+[ns]Akari[nse]
+"That's right. That alone is enough. Now, let's go."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2706|
 [fc]
-越智さんの手が差し出される。[r]
-そーいちの手も差し出される。[pcms]
+Ochi-san's hand was extended. Souichirou's hand was also extended.[pcms]
 
 *2707|
 [fc]
-涙でかすむ。[r]
-でも、僕はふたりの気持ちを受け止めなくちゃいけない。[pcms]
+My vision is blurred with tears. But I have to accept their feelings.[pcms]
 
 *2708|
 [fc]
-僕は二人の手を握り、立ち上がった。[pcms]
+I grasped both of their hands and stood up.[pcms]
 
 *2709|
 [fc]
-南先輩が、悲しみと慈しみを滲ませた笑顔を僕に向けていた。[pcms]
+Minami-senpai was smiling at me with a smile tinged with sadness and[r]
+affection.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

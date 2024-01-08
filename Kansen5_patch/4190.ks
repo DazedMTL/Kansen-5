@@ -46,62 +46,60 @@
 
 *3050|
 [fc]
-どこだ。どこに居る？[pcms]
+Where is it? Where are you?[pcms]
 
 *3051|
 [fc]
-僕たちはロビーに居るはずの姉ちゃんの姿を探し求めた。[r]
-でも、どこにも居ない。[pcms]
+We searched for the figure of Onee-san, who was supposed to be in the[r]
+lobby. But she's nowhere to be found.[pcms]
 
 *3052|
 [fc]
-絶望感が僕に押し寄せてきていた。[pcms]
+A sense of despair was closing in on me.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3053|
 [fc]
-[ns]宗一郎[nse]
-「誠、あそこ、あの中はどうだ？」[pcms]
+[ns]Souichirou[nse]
+"Makoto, how about over there, inside that?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3054|
 [fc]
-そーいちが指差した先には、バーがあった。[r]
-入り口はきっちりと閉められている。[pcms]
+Soichi pointed to a bar. The entrance was firmly closed.[pcms]
 
 *3055|
 [fc]
-僕たちは扉に近づき、中の様子を探った。[r]
-人の気配がほとんど感じられない。[pcms]
+We approached the door and checked inside. There was hardly any sign[r]
+of people.[pcms]
 
 *3056|
 [fc]
-でもまったく感じない訳でもなかった。[pcms]
+But it wasn't completely absent.[pcms]
 
 *3057|
 [fc]
-そーいちも同じ気配を感じているようで、[r]
-目で合図をしてくる。[pcms]
+Soichi seemed to feel the same presence and signaled me with his eyes.[pcms]
 
 *3058|
 [fc]
-黒服じゃないだろう。[r]
-僕みたいな素人に気配を悟られる人種じゃない。[pcms]
+It's not the men in black suits. They're not the type to let an[r]
+amateur like me sense their presence.[pcms]
 
 *3059|
 [fc]
-それに、この感じは……。[pcms]
+And this feeling is...[pcms]
 
 *3060|
 [fc]
-僕は慎重に扉を開けた。[pcms]
+I cautiously opened the door.[pcms]
 
 *3061|
 [fc]
-濃厚な性臭が僕の鼻を突く。[r]
-ここで何が行われていたか、ありありと判らせる臭いだった。[pcms]
+A strong sexual stench hit my nose. It was a smell that made it clear[r]
+what had been going on here.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -111,33 +109,33 @@
 
 *3062|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3063|
 [fc]
-薄暗い照明の中で、人影が動いた。[pcms]
+In the dim lighting, a figure moved.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw2_a"][ChrSetParts layer=5 chface="F1_na18"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3064|
 [fc]
 [vo_nat s="natu_nt0129"]
-[ns]夏都[nse]
-「ま、こと？　誠？」[pcms]
+[ns]Natsu[nse]
+"Ma, koto? Makoto?"[pcms]
 
 *3065|
 [fc]
-[ns]誠[nse]
-「！！　姉ちゃんっ！　姉ちゃんっっ！」[pcms]
+[ns]Makoto[nse]
+"!! Onee-san! Onee-san!!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw2_a"][ChrSetParts layer=5 chface="F1_na15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3066|
 [fc]
 [vo_nat s="natu_nt0130"]
-[ns]夏都[nse]
-「誠っ！　あ、ああ……駄目だ。近づくなっ！」[pcms]
+[ns]Natsu[nse]
+"Makoto! Ah, aah... no, don't come closer!"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -145,8 +143,8 @@
 
 *3067|
 [fc]
-[ns]誠[nse]
-「なっ、どうして」[pcms]
+[ns]Makoto[nse]
+"Wha, why?"[pcms]
 
 ;//bgm04.ogg
 [bgm storage="BGM04"]
@@ -156,161 +154,158 @@
 *3068|
 [fc]
 [vo_nat s="natu_nt0131"]
-[ns]夏都[nse]
-「見てわかんないか？[r]
-　オレ散々黒服の男達に[ruby text="ま　わ"][ch text="輪姦"]されたんだ。[r]
-　もう誠の元に戻れない。オレは汚されまくったんだ」[pcms]
+[ns]Natsu[nse]
+"Can't you see? I've been gang-raped by those men in black suits over[r]
+and over. I can't go back to you anymore. I've been utterly defiled."[pcms]
 
 *3069|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Onee-san..."[pcms]
 
 *3070|
 [fc]
-確かに姉ちゃんは酷い有り様だった。[r]
-どこもかしこも、白濁した液でデコレーションされてる。[pcms]
+Indeed, Onee-san was in a terrible state. Everywhere was decorated[r]
+with cloudy white fluid.[pcms]
 
 *3071|
 [fc]
-たぶん、きっと中にもたっぷり出されて……。[pcms]
+Probably, surely filled inside as well...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw2_a"][ChrSetParts layer=5 chface="F1_na22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3072|
 [fc]
 [vo_nat s="natu_nt0132"]
-[ns]夏都[nse]
-「だから、誠。助けに来てくれたのは嬉しい。お前からの留守電[r]
-　を聞いた時、泣きそうになった。でも、お前の元には戻れない。[r]
-　オレはこのまま、ここに捨てていってくれ」[pcms]
+[ns]Natsu[nse]
+"So, Makoto. I'm happy you came to save me. When I heard your[r]
+voicemail, I almost cried. But I can't go back to you. Just leave me[r]
+here and go."[pcms]
 
 *3073|
 [fc]
-[ns]誠[nse]
-「いやだ。姉ちゃんは生きてる。僕は生きてる姉ちゃんを[r]
-　捨ててなんか行けない」[pcms]
+[ns]Makoto[nse]
+"No way. Onee-san is alive. I can't just leave my living sister[r]
+behind."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3074|
 [fc]
-[ns]宗一郎[nse]
-「正しい判断ですな、誠。夏の姫、宗一郎こそ、ここで[r]
-　お別れすることになりました」[pcms]
+[ns]Souichirou[nse]
+"You're making the right decision, Makoto. Princess of Summer, it[r]
+seems Souichirou here will be parting ways here."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3075|
 [fc]
 [vo_aka s="akari_nt0157"]
-[ns]茜梨[nse]
-「私も、です」[pcms]
+[ns]Akari[nse]
+"Me too."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw2_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3076|
 [fc]
 [vo_nat s="natu_nt0133"]
-[ns]夏都[nse]
-「何を……言って」[pcms]
+[ns]Natsu[nse]
+"What are you... saying?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3077|
 [fc]
-[ns]宗一郎[nse]
-「今回のエピデミックは新型のウイルスなんだそうですよ。[r]
-　だから打ったワクチンは無効なんです」[pcms]
+[ns]Souichirou[nse]
+"This epidemic is caused by a new type of virus, it seems. So the[r]
+vaccine we took is ineffective."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3078|
 [fc]
 [vo_aka s="akari_nt0158"]
-[ns]茜梨[nse]
-「私は、噛まれてしまいました。感染者に。[r]
-　出渕先輩は、私を助けようとして血を浴びてしまいました」[pcms]
+[ns]Akari[nse]
+"I've been bitten. Infected by one of them. Souichirou-senpai tried to[r]
+save me and got covered in blood."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw2_a"][ChrSetParts layer=5 chface="F1_na15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3079|
 [fc]
 [vo_nat s="natu_nt0134"]
-[ns]夏都[nse]
-「！！」[pcms]
+[ns]Natsu[nse]
+"!!"[pcms]
 
 *3080|
 [fc]
-[ns]誠[nse]
-「僕はもうこれ以上大切な人を失いたくないんだっ！[r]
-　姉ちゃんがどんなに嫌がっても、連れて帰るからね」[pcms]
+[ns]Makoto[nse]
+"I don't want to lose anyone important to me anymore! No matter how[r]
+much Onee-san resists, I'll take you back."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw2_a"][ChrSetParts layer=5 chface="F1_na22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3081|
 [fc]
 [vo_nat s="natu_nt0135"]
-[ns]夏都[nse]
-「誠……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3082|
 [fc]
-[ns]宗一郎[nse]
-「夏の姫はまだ人間として生きられます。どうかその命、[r]
-　無駄にしないで下さい。我々のためにも……」[pcms]
+[ns]Souichirou[nse]
+"Princess of Summer can still live as a human. Please don't waste that[r]
+life. For our sake as well..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3083|
 [fc]
 [vo_aka s="akari_nt0159"]
-[ns]茜梨[nse]
-「お願いします……」[pcms]
+[ns]Akari[nse]
+"Please..."[pcms]
 
 *3084|
 [fc]
-ふたりは、それぞれ姉ちゃんに向かって、頭を下げていた。[pcms]
+The two of them bowed their heads towards Onee-san.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw2_a"][ChrSetParts layer=5 chface="F1_na07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3085|
 [fc]
 [vo_nat s="natu_nt0136"]
-[ns]夏都[nse]
-「うっ……ううっ……うあああっ……ごめん。ごめんよぉ。[r]
-　オレは、オレは……オレはぁ……あああっああっ」[pcms]
+[ns]Natsu[nse]
+"Ugh... uuh... uaaah... sorry. I'm sorry. I am... I am... aahhahh!"[pcms]
 
 *3086|
 [fc]
-姉ちゃんは子供みたいに声を上げて、ぼろぼろと涙を[r]
-こぼして泣きじゃくった。[pcms]
+Onee-san cried like a child, tears streaming down her face.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3087|
 [fc]
-宗一郎が奥から水を持って来た。[r]
-越智さんは、テーブルからクロスをはぎ取ってきた。[pcms]
+Souichirou brought water from the back. Akari-san took a cloth from[r]
+the table.[pcms]
 
 *3088|
 [fc]
-それらは僕に手渡された。[pcms]
+They were handed to me.[pcms]
 
 *3089|
 [fc]
-僕は泣きじゃくる姉ちゃんの身体を、そのクロスと水で[r]
-優しく拭き始めた。[pcms]
+I began to gently wipe Onee-san's crying body with the cloth and[r]
+water.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *3090|
 [fc]
-僕と姉ちゃんは手を繋いで、そーいちと越智さんも肩を並べて[r]
-ロビーを後にした。[pcms]
+Makoto and Onee-san held hands, and Souichirou and Ochi-san walked[r]
+shoulder to shoulder as we left the lobby.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -338,56 +333,55 @@
 
 *3091|
 [fc]
-どこだ。どこに居る？[pcms]
+Where is she? Where could she be?[pcms]
 
 *3092|
 [fc]
-僕たちはロビーに居るはずの姉ちゃんの姿を探し求めた。[r]
-でも、どこにも居ない。[pcms]
+We searched for Onee-san, who should have been in the lobby, but she[r]
+was nowhere to be found.[pcms]
 
 *3093|
 [fc]
-絶望感が僕に押し寄せてきていた。[pcms]
+A feeling of despair was closing in on me.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3094|
 [fc]
-[ns]宗一郎[nse]
-「誠、あそこ、あの中はどうだ？」[pcms]
+[ns]Souichirou[nse]
+"Makoto, how about over there, inside that place?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3095|
 [fc]
 [vo_stk s="satuki_nt0183"]
-[ns]彩月[nse]
-「覗く価値はあると思うわ」[pcms]
+[ns]Satsuki[nse]
+"I think it's worth taking a look."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3096|
 [fc]
-そーいちが指差した先には、バーがあった。[r]
-入り口はきっちりと閉められている。[pcms]
+Souichirou pointed towards a bar. The entrance was firmly closed.[pcms]
 
 *3097|
 [fc]
-僕たちは扉に近づき、中の様子を探った。[r]
-ほとんど人の気配はしていない。[pcms]
+We approached the door and tried to get a sense of the situation[r]
+inside. There was hardly any sign of people.[pcms]
 
 *3098|
 [fc]
-でもまったくしていない訳ではなかった。[pcms]
+But it wasn't completely devoid of presence.[pcms]
 
 *3099|
 [fc]
-僕は慎重に扉を開けた。[pcms]
+I cautiously opened the door.[pcms]
 
 *3100|
 [fc]
-濃厚な性臭が僕の鼻を突く。[r]
-ここで何が行われていたか、ありありと判らせる臭いだった。[pcms]
+A strong sexual smell assaulted my nose. It was a scent that made it[r]
+clear what had been happening here.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -397,33 +391,33 @@
 
 *3101|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *3102|
 [fc]
-薄暗い照明の中で、人影が動いた。[pcms]
+In the dim lighting, a shadow moved.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw1_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3103|
 [fc]
 [vo_nat s="natu_nt0129"]
-[ns]夏都[nse]
-「ま、こと？　誠？」[pcms]
+[ns]Natsu[nse]
+"Ma, Makoto? Makoto?"[pcms]
 
 *3104|
 [fc]
-[ns]誠[nse]
-「！！　姉ちゃんっ！　姉ちゃんっっ！」[pcms]
+[ns]Makoto[nse]
+"!! Onee-san! Onee-san!!"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw1_a"][ChrSetParts layer=5 chface="F1_na22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3105|
 [fc]
 [vo_nat s="natu_nt0130"]
-[ns]夏都[nse]
-「誠っ！　あ、ああ……駄目だ。近づくなっ！」[pcms]
+[ns]Natsu[nse]
+"Makoto! Ah, aah... no, don't come closer!"[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -431,8 +425,8 @@
 
 *3106|
 [fc]
-[ns]誠[nse]
-「なっ、どうして」[pcms]
+[ns]Makoto[nse]
+"Wha, why not?"[pcms]
 
 ;//bgm04.ogg
 [bgm storage="BGM04"]
@@ -442,184 +436,181 @@
 *3107|
 [fc]
 [vo_nat s="natu_nt0131"]
-[ns]夏都[nse]
-「見てわかんないか？[r]
-　オレ散々黒服の男達に[ruby text="ま　わ"][ch text="輪姦"]されたんだ。[r]
-　もう誠の元に戻れない。オレは汚されまくったんだ」[pcms]
+[ns]Natsu[nse]
+"Can't you see? I've been gang-raped by those men in black suits. I[r]
+can't go back to you anymore. I've been thoroughly defiled."[pcms]
 
 *3108|
 [fc]
-[ns]誠[nse]
-「姉ちゃん……」[pcms]
+[ns]Makoto[nse]
+"Onee-san..."[pcms]
 
 *3109|
 [fc]
-確かに姉ちゃんは酷い有り様だった。[r]
-どこもかしこも、白濁した液でデコレーションされてる。[pcms]
+Indeed, Onee-san was in a terrible state. Everywhere was decorated[r]
+with cloudy white fluid.[pcms]
 
 *3110|
 [fc]
-たぶん、きっと中にもたっぷり出されて……。[pcms]
+Probably, surely filled inside as well...[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw1_a"][ChrSetParts layer=5 chface="F1_na22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3111|
 [fc]
 [vo_nat s="natu_nt0132"]
-[ns]夏都[nse]
-「だから、誠。助けに来てくれたのは嬉しい。お前からの留守電[r]
-　を聞いた時、泣きそうになった。でも、お前の元には戻れない。[r]
-　オレはこのまま、ここに捨てていってくれ」[pcms]
+[ns]Natsu[nse]
+"So, Makoto. I'm happy you came to save me. When I heard your[r]
+voicemail, I almost cried. But I can't go back to you. Just leave me[r]
+here and go."[pcms]
 
 *3112|
 [fc]
-[ns]誠[nse]
-「いやだ。姉ちゃんは生きてる。僕は生きてる姉ちゃんを[r]
-　捨ててなんか行けない」[pcms]
+[ns]Makoto[nse]
+"No. Onee-san is alive. I can't just leave you here while you're still[r]
+alive."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3113|
 [fc]
-[ns]宗一郎[nse]
-「正しい判断ですな、誠。夏の姫、宗一郎こそ、ここで[r]
-　お別れすることになりました」[pcms]
+[ns]Souichirou[nse]
+"You're making the right decision, Makoto. Princess of Summer, it[r]
+seems Souichirou will be saying goodbye here."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3114|
 [fc]
 [vo_aka s="akari_nt0157"]
-[ns]茜梨[nse]
-「私も、です」[pcms]
+[ns]Akari[nse]
+"Me too."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw1_a"][ChrSetParts layer=5 chface="F1_na10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3115|
 [fc]
 [vo_nat s="natu_nt0133"]
-[ns]夏都[nse]
-「何を……言って」[pcms]
+[ns]Natsu[nse]
+"What are you... saying?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3116|
 [fc]
-[ns]宗一郎[nse]
-「今回のエピデミックは新型のウイルスなんだそうですよ。[r]
-　だから打ったワクチンは無効なんです」[pcms]
+[ns]Souichirou[nse]
+"This epidemic is caused by a new type of virus. So the vaccine we[r]
+took is ineffective."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3117|
 [fc]
 [vo_aka s="akari_nt0158"]
-[ns]茜梨[nse]
-「私は、噛まれてしまいました。感染者に。[r]
-　出渕先輩は、私を助けようとして血を浴びてしまいました」[pcms]
+[ns]Akari[nse]
+"I've been bitten. I'm infected now. Souichirou tried to save me and[r]
+got covered in blood."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw1_a"][ChrSetParts layer=5 chface="F1_na15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3118|
 [fc]
 [vo_nat s="natu_nt0134"]
-[ns]夏都[nse]
-「！！」[pcms]
+[ns]Natsu[nse]
+"!!"[pcms]
 
 *3119|
 [fc]
-[ns]誠[nse]
-「僕はもうこれ以上大切な人を失いたくないんだっ！[r]
-　姉ちゃんがどんなに嫌がっても、連れて帰るからね」[pcms]
+[ns]Makoto[nse]
+"I don't want to lose anyone important to me anymore! No matter how[r]
+much Onee-san resists, I'll take you back."[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw1_a"][ChrSetParts layer=5 chface="F1_na22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3120|
 [fc]
 [vo_nat s="natu_nt0135"]
-[ns]夏都[nse]
-「誠……」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so28b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3121|
 [fc]
-[ns]宗一郎[nse]
-「夏の姫はまだ人間として生きられます。どうかその命、[r]
-　無駄にしないで下さい。我々のためにも……」[pcms]
+[ns]Souichirou[nse]
+"Princess of Summer can still live as a human. Please don't waste that[r]
+life. For our sake as well..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw4"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3122|
 [fc]
 [vo_aka s="akari_nt0159"]
-[ns]茜梨[nse]
-「お願いします……」[pcms]
+[ns]Akari[nse]
+"Please..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st32"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3123|
 [fc]
 [vo_stk s="satuki_nt0184"]
-[ns]彩月[nse]
-「わたしからもお願いします。ここに来るまで正直[r]
-　とても大変でした。でも、中澤君も出渕君も越智さんも[r]
-　必死に助けたい一心で頑張ったんです」[pcms]
+[ns]Satsuki[nse]
+"I also beg you. It was honestly very difficult to get here. But[r]
+Nakazawa-kun, Izubuchi-kun, and Ochi-san all worked hard with the sole[r]
+purpose of wanting to save you."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3124|
 [fc]
 [vo_stk s="satuki_nt0185"]
-[ns]彩月[nse]
-「その気持ちを無駄にしないで下さい」[pcms]
+[ns]Satsuki[nse]
+"Please don't let those feelings be in vain."[pcms]
 
 *3125|
 [fc]
-三人は、それぞれ姉ちゃんに向かって、頭を下げていた。[pcms]
+The three of them bowed their heads towards Onee-san.[pcms]
 
 [ChrSetEx layer=5 chbase="na1_sw1_a"][ChrSetParts layer=5 chface="F1_na07"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3126|
 [fc]
 [vo_nat s="natu_nt0136"]
-[ns]夏都[nse]
-「うっ……ううっ……うあああっ……ごめん。ごめんよぉ。[r]
-　オレは、オレは……オレはぁ……あああっああっ」[pcms]
+[ns]Natsu[nse]
+"Ugh... uuh... uaaah... sorry. I'm sorry. I am... I am... aahhahh!"[pcms]
 
 *3127|
 [fc]
-姉ちゃんは子供みたいに声を上げて、ぼろぼろと涙を[r]
-こぼして泣きじゃくった。[pcms]
+Onee-san cried like a child, tears streaming down her face.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3128|
 [fc]
-宗一郎が奥から水を持って来た。[r]
-越智さんは、テーブルからクロスをはぎ取ってきた。[pcms]
+Souichirou brought water from the back. Akari-san took a cloth from[r]
+the table.[pcms]
 
 *3129|
 [fc]
-それらは僕と南先輩に手渡された。[pcms]
+They were handed to me and Satsuki-senpai.[pcms]
 
 *3130|
 [fc]
-僕と南先輩は、泣きじゃくる姉ちゃんの身体を、[r]
-そのクロスと水で優しく拭き始めた。[pcms]
+Nakazawa-kun and I gently wiped Onee-san's body with the cloth and[r]
+water as she sobbed uncontrollably.[pcms]
 
 *3131|
 [fc]
-僕たちは、ロビーを後にした。[pcms]
+We left the lobby behind.[pcms]
 
 *3132|
 [fc]
-僕と姉ちゃん、南先輩はこの奥のスタッフ用入り口を目指す。[r]
-そーいちと越智さんは、直行エレベーターを目指す。[pcms]
+Nakazawa-kun, Onee-san, and I aimed for the staff entrance at the[r]
+back. Souichirou-kun and Ochi-san headed straight for the elevator.[pcms]
 
 *3133|
 [fc]
-もうすぐ、僕たちに別れがやってくる。[pcms]
+Soon, it will be time for us to part ways.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

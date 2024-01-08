@@ -30,8 +30,8 @@
 
 *1301|
 [fc]
-越智さんがコテージに駆け戻り、救急箱を持って来た。[r]
-でも、手当をしようとする越智さんの手を美沙緒さんが遮る。[pcms]
+Ochi-san rushed back to the cottage and brought a first-aid kit. But[r]
+Misao-san stopped Ochi-san's attempt to treat her.[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_sw"][ChrSetParts layer=3 chface="F1_mi01"][ChrSetXY layer=3 x=60 y=0]
 [ChrSetEx layer=4 chbase="ak1_sw5"][ChrSetParts layer=4 chface="F1_ak06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -39,35 +39,35 @@
 *1302|
 [fc]
 [vo_mis s="misao_nt0040"]
-[ns]美沙緒[nse]
-「大丈夫よ、茜梨。自分でやるから」[pcms]
+[ns]Misao[nse]
+"It's okay, Akari. I'll do it myself."[pcms]
 
 *1303|
 [fc]
 [vo_aka s="akari_nt0052"]
-[ns]茜梨[nse]
-「でも……」[pcms]
+[ns]Akari[nse]
+"But..."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_sw"][ChrSetParts layer=3 chface="F1_mi02"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *1304|
 [fc]
 [vo_mis s="misao_nt0041"]
-[ns]美沙緒[nse]
-「いいのよ、茜梨。自分でやりたいの」[pcms]
+[ns]Misao[nse]
+"It's fine, Akari. I want to do it myself."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_sw5"][ChrSetParts layer=4 chface="F1_ak25"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1305|
 [fc]
 [vo_aka s="akari_nt0053"]
-[ns]茜梨[nse]
-「わかりました。じゃあ、これを」[pcms]
+[ns]Akari[nse]
+"Understood. Then, take this."[pcms]
 
 *1306|
 [fc]
-少し悲しそうな顔をしながら、越智さんは救急箱を[r]
-美沙緒さんの前に差し出した。[pcms]
+With a somewhat sad expression, Ochi-san offered the first-aid kit to[r]
+Misao-san.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -89,90 +89,90 @@
 
 *1307|
 [fc]
-美沙緒さんは消毒薬を吹き付け痛みに顔を歪ませる。[pcms]
+Misao-san winced in pain as she sprayed disinfectant on her wound.[pcms]
 
 *1308|
 [fc]
-しばらくガーゼで圧迫してから血止めし、傷薬を塗り込み、[r]
-改めてガーゼをあて、その上から防水性のある傷ガードのシートを[r]
-貼り付けていた。[pcms]
+After compressing with gauze for a while and stopping the bleeding,[r]
+she applied ointment to the wound, reapplied the gauze, and then[r]
+covered it with a waterproof wound guard sheet.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi01"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *1309|
 [fc]
 [vo_mis s="misao_nt0042"]
-[ns]美沙緒[nse]
-「……これでいいわ」[pcms]
+[ns]Misao[nse]
+"...This should be good."[pcms]
 
 *1310|
 [fc]
-自分の血の付いたガーゼを見つめた美沙緒さんは、[r]
-防水性の傷ガードをもう一枚取り出し、くるみ込む。[pcms]
+Looking at the gauze stained with her own blood, Misao-san took out[r]
+another piece of waterproof wound guard and wrapped it around.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw2_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1311|
 [fc]
 [vo_stk s="satuki_nt0044"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *1312|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1313|
 [fc]
-間違いなく美沙緒さんはわかってる。[r]
-あの波打ち際に倒れてる男が何者であるかを。[pcms]
+Without a doubt, Misao-san knew. She knew who the man lying on the[r]
+shore was.[pcms]
 
 *1314|
 [fc]
-研究所にいたのなら、わかっていて当たり前だ。[r]
-だから、越智さんの手当を拒んだ。[pcms]
+If she was at the research facility, it was only natural for her to[r]
+know. That's why she refused Ochi-san's help.[pcms]
 
 *1315|
 [fc]
-僕たちはワクチンを接種されている。[r]
-それでも、美沙緒さんは自分の姪を、ウイルスから[r]
-遠ざけたかったんだと思う。[pcms]
+We've been vaccinated. Still, I think Misao-san wanted to keep her[r]
+niece away from the virus.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi01"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *1316|
 [fc]
 [vo_mis s="misao_nt0043"]
-[ns]美沙緒[nse]
-「いったんコテージに戻りましょう」[pcms]
+[ns]Misao[nse]
+"Let's go back to the cottage for now."[pcms]
 
 *1317|
 [fc]
-そう言って立ち上がりかけたけど、美沙緒さんは顔をしかめ、[r]
-膝を砂地についてしまう。[pcms]
+As she said this and tried to stand up, Misao-san grimaced and fell to[r]
+her knees on the sandy ground.[pcms]
 
 *1318|
 [fc]
-[ns]誠[nse]
-「手を貸させてください。反対側そーいちお願い」[pcms]
+[ns]Makoto[nse]
+"Please let me help you. Souichirou, please support her from the other[r]
+side."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *1319|
 [fc]
-[ns]宗一郎[nse]
-「うむ」[pcms]
+[ns]Souichirou[nse]
+"Hmm."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *1320|
 [fc]
 [vo_mis s="misao_nt0044"]
-[ns]美沙緒[nse]
-「甘えるわ……ありがとう」[pcms]
+[ns]Misao[nse]
+"I'll accept your kindness... Thank you."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -182,8 +182,8 @@
 
 *1321|
 [fc]
-美沙緒さんの腕を肩に回し、立ち上がらせた。[r]
-コテージに向かって一歩を踏み出した、その時――[pcms]
+She put Misao-san's arm over her shoulder and helped her stand up.[r]
+Just as they took a step towards the cottage--[pcms]
 
 ;//■_遠くでとどろく爆発音
 ;//seB051.ogg
@@ -194,41 +194,41 @@
 
 *1322|
 [fc]
-[ns]誠[nse]
-「！！」[pcms]
+[ns]Makoto[nse]
+"!!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1323|
 [fc]
-[ns]宗一郎[nse]
-「今のは？」[pcms]
+[ns]Souichirou[nse]
+"What was that?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1324|
 [fc]
 [vo_aka s="akari_nt0054"]
-[ns]茜梨[nse]
-「え？！　な、何が？」[pcms]
+[ns]Akari[nse]
+"Eh?! Wh-What happened?"[pcms]
 
 *1325|
 [fc]
-海の向こう。僕達が渡ってきた先。[r]
-爆発音はその方向から聞えてきた。[pcms]
+From across the sea. From the direction we came from. The sound of an[r]
+explosion was heard from that direction.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_sw2_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1326|
 [fc]
 [vo_stk s="satuki_nt0045"]
-[ns]彩月[nse]
-「…………まさか」[pcms]
+[ns]Satsuki[nse]
+"...No way."[pcms]
 
 *1327|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -242,30 +242,30 @@
 
 *1328|
 [fc]
-遠目でもわかった。[r]
-僕たちが出発した越智浦の港の方で、黒煙が上がっている。[pcms]
+Even from a distance, it was clear. Black smoke was rising from the[r]
+direction of Ochiura port where we had departed from.[pcms]
 
 *1329|
 [fc]
-そこだけじゃない。大神島のあちこちで黒煙が立ち上っている。[r]
-そして、サイレンの音が、爆発音に続くように鳴り始めた。[pcms]
+Not just there. Black smoke was rising from various places on[r]
+Oogamijima. And then, sirens began to sound, following the explosion.[pcms]
 
 *1330|
 [fc]
 [vo_aka s="akari_nt0055"]
-[ns]茜梨[nse]
-「何が……」[pcms]
+[ns]Akari[nse]
+"What's..."[pcms]
 
 *1331|
 [fc]
-[ns]宗一郎[nse]
-「何事か起こっているのは間違いないようですな」[pcms]
+[ns]Souichirou[nse]
+"It seems certain that something has happened."[pcms]
 
 *1332|
 [fc]
 [vo_mis s="misao_nt0045"]
-[ns]美沙緒[nse]
-「………………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 ;//---------------------------------------------
 ;//アスペクトスイッチ表示ここまで
@@ -274,43 +274,45 @@
 
 *1333|
 [fc]
-誰もが半ば唖然として、大神島を見つめていた。[pcms]
+Everyone was staring at Oogamijima in a state of semi-shock.[pcms]
 
 *1334|
 [fc]
-すぐ近くの波打ち際で死体になっている赤い眼の男。[r]
-爆発音。上がる黒煙。鳴り止まないサイレンの大音量。[pcms]
+The man with red eyes who had become a corpse on the nearby shore. The[r]
+explosion sound. The rising black smoke. The loud volume of the sirens[r]
+that wouldn't stop.[pcms]
 
 *1335|
 [fc]
-目がかすむ。島の風景のはずなのに、僕の脳はその風景を[r]
-４年前の故郷にすり替え、僕に見せていた。[pcms]
+My vision blurred. Although it should have been the scenery of the[r]
+island, my brain replaced it with the scenery of my hometown from four[r]
+years ago and showed it to me.[pcms]
 
 *1336|
 [fc]
-漠然と抱えてきた不安。それが現実になったのだと警告してきた。[pcms]
+The vague anxiety I had been carrying had become a reality, warning[r]
+me.[pcms]
 
 *1337|
 [fc]
-身体が震える。背筋がぞくぞくして、膝が笑い、[r]
-美沙緒さんを支えている僕の方が倒れ込みそうだった。[pcms]
+My body was trembling. Chills ran down my spine, my knees buckled, and[r]
+I felt like I was going to collapse while supporting Misao-san.[pcms]
 
 *1338|
 [fc]
 [vo_nat s="natu_nt0093"]
-[ns]夏都[nse]
-「誠っ！！」[pcms]
+[ns]Natsu[nse]
+"Makoto!!"[pcms]
 
 ;//♂：声のみ。立ち絵無し
 
 *1339|
 [fc]
-姉ちゃんっ！[pcms]
+Sister![pcms]
 
 *1340|
 [fc]
-駄目だ。ここでくじけるわけにはいかない。[r]
-あの島には、まだ姉ちゃんが居るんだから。[pcms]
+I can't falter here. Because my sister is still on that island.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c rl time=300][hide_chara_int]
@@ -320,26 +322,26 @@
 
 *1341|
 [fc]
-[ns]誠[nse]
-「…………す、すみません。ちょっといいですか」[pcms]
+[ns]Makoto[nse]
+"...Excuse me. Can I have a moment?"[pcms]
 
 *1342|
 [fc]
-僕は美沙緒さんの腕から肩を抜いた。[r]
-震える手で、僕は携帯を取りだし、姉ちゃんの登録番号を押す。[pcms]
+I slipped my shoulder out from under Misao-san's arm. With trembling[r]
+hands, I took out my cell phone and pressed my sister's number.[pcms]
 
 ;//seC005.ogg
 ;//<SoundLoop 2,ON><SoundLoad 2,seC005"]
 
 *1343|
 [fc]
-呼び出し音が鳴り始めた。[r]
-出ない……出ない。出てくれっ、姉ちゃん。[pcms]
+The calling tone started. She's not answering...not answering. Please[r]
+pick up, sister.[pcms]
 
 *1344|
 [fc]
-たぶん大した時間は経ってない。[r]
-なのにやけに長い時間に感じられていた。[pcms]
+It probably hasn't been that long. Yet it felt like an incredibly long[r]
+time.[pcms]
 
 ;//se即時停止
 [stopse buf=0]
@@ -347,48 +349,48 @@
 *1345|
 [fc]
 [vo_nat s="natu_nt0094"]
-[ns]夏都[nse]
-「誠っ？　誠っ？」[pcms]
+[ns]Natsu[nse]
+"Makoto? Makoto?"[pcms]
 
 ;//m:以下、指定あるまで電話越し加工
 
 *1346|
 [fc]
-呼び出し音が途切れ、ようやく姉ちゃんの声が聴けた。[r]
-まだ姉ちゃんは、無事だ。[pcms]
+The calling tone stopped, and finally, I could hear my sister's voice.[r]
+She was still safe.[pcms]
 
 *1347|
 [fc]
-[ns]誠[nse]
-「姉ちゃん、姉ちゃん、大丈夫？」[pcms]
+[ns]Makoto[nse]
+"Sister, sister, are you okay?"[pcms]
 
 *1348|
 [fc]
 [vo_nat s="natu_nt0095"]
-[ns]夏都[nse]
-「あ、ああ、なんとか。そっちは、どうなってる？」[pcms]
+[ns]Natsu[nse]
+"Ah, yeah, somehow. What's happening over there?"[pcms]
 
 *1349|
 [fc]
-姉ちゃんの声が微かに震えている。[r]
-やっぱり姉ちゃんの周囲でも、非常事態が起こってる。[pcms]
+My sister's voice was faintly trembling. An emergency must have[r]
+occurred around her as well.[pcms]
 
 *1350|
 [fc]
-[ns]誠[nse]
-「こっちは小島に渡ってて、ここは大丈夫だよ。[r]
-　でも、姉ちゃんの居る大神島は……酷い状態だと思う」[pcms]
+[ns]Makoto[nse]
+"We've crossed over to the small island, so we're okay here. But[r]
+Oogamijima, where you are... I think it's in a terrible state."[pcms]
 
 *1351|
 [fc]
-たぶん僕の声だって、震えていたと思う。[r]
-僕も姉ちゃんも、４年前の生き残りだから……。[pcms]
+My voice was probably trembling too. Both my sister and I are[r]
+survivors from four years ago...[pcms]
 
 *1352|
 [fc]
 [vo_nat s="natu_nt0096"]
-[ns]夏都[nse]
-「ああ……そうらしい。なあ誠…………」[pcms]
+[ns]Natsu[nse]
+"Ah... seems so. Hey, Makoto..."[pcms]
 
 ;//m:電話越し加工ここまで
 
@@ -401,65 +403,65 @@
 
 *1353|
 [fc]
-[ns]誠[nse]
-「え？　何？　え？　姉ちゃんっ！　姉ちゃんっ！！」[pcms]
+[ns]Makoto[nse]
+"Huh? What? Eh? Sister! Sister!!"[pcms]
 
 *1354|
 [fc]
-突然通信が切れた。[r]
-すぐにリダイヤルを押す。[pcms]
+The communication suddenly cut off. I immediately pressed redial.[pcms]
 
 *1355|
 [fc]
-でも、今度は呼び出し音すら鳴らなかった。[pcms]
+But this time, not even the calling tone sounded.[pcms]
 
 *1356|
 [fc]
-呆然と携帯を見つめる僕の肩に美沙緒さんが手を置く。[pcms]
+Misao-san placed her hand on my shoulder as I stared blankly at my[r]
+cell phone.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi01"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *1357|
 [fc]
 [vo_mis s="misao_nt0046"]
-[ns]美沙緒[nse]
-「お姉さんとは連絡がとれたのね」[pcms]
+[ns]Misao[nse]
+"You were able to get in touch with your sister, weren't you?"[pcms]
 
 *1358|
 [fc]
-[ns]誠[nse]
-「でも、突然途切れてしまって……」[pcms]
+[ns]Makoto[nse]
+"But it suddenly got cut off..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi04"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *1359|
 [fc]
 [vo_mis s="misao_nt0047"]
-[ns]美沙緒[nse]
-「あの島の様子を考えれば、あり得る事よ。[r]
-　通信塔がやられただけ。大丈夫よ、きっと」[pcms]
+[ns]Misao[nse]
+"Considering the situation on that island, it's possible. It's just[r]
+the communication tower that's been hit. She'll be fine, surely."[pcms]
 
 *1360|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *1361|
 [fc]
 [vo_mis s="misao_nt0048"]
-[ns]美沙緒[nse]
-「とにかく、一度コテージに戻りましょう」[pcms]
+[ns]Misao[nse]
+"Anyway, let's head back to the cottage for now."[pcms]
 
 *1362|
 [fc]
-[ns]誠[nse]
-「はい……」[pcms]
+[ns]Makoto[nse]
+"Yes..."[pcms]
 
 *1363|
 [fc]
-僕はまた美沙緒さんの腕に肩を差し入れた。[pcms]
+I put my shoulder back under Misao-san's arm again.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

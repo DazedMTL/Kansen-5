@@ -33,29 +33,29 @@
 *2228|
 [fc]
 [vo_stk s="satuki_nt0083"]
-[ns]彩月[nse]
-「そう……やっぱり銃声が聞えたような気がしたのは、[r]
-　気のせいじゃなかったのね……」[pcms]
+[ns]Satsuki[nse]
+"So... it wasn't just my imagination that I heard gunshots..."[pcms]
 
 *2229|
 [fc]
-[ns]宗一郎[nse]
-「……お悔やみ申し上げます」[pcms]
+[ns]Souichirou[nse]
+"...My condolences."[pcms]
 
 *2230|
 [fc]
-シャトルバスを走らせる為に、乗り捨てられ、路上を塞いでいた[r]
-車をどかす作業を終えて、南先輩とそーいちが戻ってきた。[pcms]
+After finishing the task of moving the abandoned car that was blocking[r]
+the road for the shuttle bus, Satsuki-senpai and Souichirou returned.[pcms]
 
 *2231|
 [fc]
-戻ってきたふたりに、美沙緒さんと交わした話の内容を[r]
-伝え終わったところだ。[pcms]
+It was just after I had finished telling the two of them about the[r]
+conversation I had with Misao-san.[pcms]
 
 *2232|
 [fc]
-二人が戻ってくるまでに、僕は流された血液に注意しながら[r]
-美沙緒さんの遺体を横たわらせ、言われた通りに銃を回収した。[pcms]
+While waiting for them to return, I carefully avoided the spilled[r]
+blood and laid Misao-san's body down, and as instructed, I recovered[r]
+the gun.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak1_sw5"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -63,13 +63,12 @@
 *2233|
 [fc]
 [vo_aka s="akari_nt0081"]
-[ns]茜梨[nse]
-「ごめんなさい……どう謝ればいいのか……」[pcms]
+[ns]Akari[nse]
+"I'm sorry... I don't know how to apologize..."[pcms]
 
 *2234|
 [fc]
-さんざん泣きはらした赤い眼で、越智さんは頭を下げたままで[r]
-固まっていた。[pcms]
+With red eyes swollen from crying, Ochi-san remained bowed and frozen.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st05"][ChrSetXY layer=3 x=0 y=0]
@@ -78,16 +77,15 @@
 *2235|
 [fc]
 [vo_stk s="satuki_nt0084"]
-[ns]彩月[nse]
-「越智さんっ！　しゃきっとしなさい。あなたが謝ることなんて[r]
-　ひとつも無いんだから。越智さんがしなくちゃならないことは、[r]
-　生き延びること。それだけだよ」[pcms]
+[ns]Satsuki[nse]
+"Ochi-san! Pull yourself together. There's nothing for you to[r]
+apologize for. The only thing you need to do is survive. That's all."[pcms]
 
 *2236|
 [fc]
-[ns]宗一郎[nse]
-「そうですよ、我が姫。なに、最初からワクチンなんてなかった。[r]
-　そう思って自分の身を守ればいいだけの話です」[pcms]
+[ns]Souichirou[nse]
+"That's right, my princess. What's done is done. There was never a[r]
+vaccine to begin with. Just think like that and protect yourself."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak1_sw5"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -95,12 +93,12 @@
 *2237|
 [fc]
 [vo_aka s="akari_nt0082"]
-[ns]茜梨[nse]
-「……ごめんなさい。でも、ありがとう」[pcms]
+[ns]Akari[nse]
+"...I'm sorry. But, thank you."[pcms]
 
 *2238|
 [fc]
-そう言って越智さんは、また深々と頭を下げていた。[pcms]
+With those words, Ochi-san bowed deeply once again.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -110,8 +108,8 @@
 
 *2239|
 [fc]
-[ns]誠[nse]
-「……で、そっちの首尾は？」[pcms]
+[ns]Makoto[nse]
+"...So, how did it go on your end?"[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
@@ -123,9 +121,9 @@
 *2240|
 [fc]
 [vo_stk s="satuki_nt0085"]
-[ns]彩月[nse]
-「ラッキーだったわ。バスは最新のＡＴだし、行きたい方向を[r]
-　向いて停まってたし。あれなら直ぐにでも出発できるわ」[pcms]
+[ns]Satsuki[nse]
+"We were lucky. The bus has the latest AT, and it was parked facing[r]
+the direction we wanted to go. We can leave right away."[pcms]
 
 ;//m:AT(オートマ)かな
 
@@ -133,56 +131,57 @@
 
 *2241|
 [fc]
-[ns]宗一郎[nse]
-「おや……車をどかした件には、触れないので？」[pcms]
+[ns]Souichirou[nse]
+"Oh... you're not going to mention about moving the car?"[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_b"][ChrSetParts layer=3 chface="f1_st03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2242|
 [fc]
 [vo_stk s="satuki_nt0086"]
-[ns]彩月[nse]
-「あら、ラード君、何が言いたいのかしら？」[pcms]
+[ns]Satsuki[nse]
+"What are you trying to say, Lord-kun?"[pcms]
 ;//↑デヴ君でなくてＯＫ？
 
 [ChrSetEx layer=4 chbase="so1_ha_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2243|
 [fc]
-[ns]宗一郎[nse]
-「いえいえ、何も。決してあちこちドカバキぶつけて、[r]
-　進むはずがバックして、俺を轢き殺しそうになったなんて、[r]
-　申し上げるつもりはないですよ」[pcms]
+[ns]Souichirou[nse]
+"No, nothing at all. I certainly wouldn't say that you were banging[r]
+around here and there, going in reverse instead of forward, nearly[r]
+running me over."[pcms]
 
 *2244|
 [fc]
-[ns]誠[nse]
-「そのまま轢いちゃえば、少しは脂が搾れたかも」[pcms]
+[ns]Makoto[nse]
+"If you had run him over, maybe some of the fat would've been squeezed[r]
+out."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_b"][ChrSetParts layer=3 chface="f1_st08"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2245|
 [fc]
 [vo_stk s="satuki_nt0087"]
-[ns]彩月[nse]
-「そうか……それは気がつかなかったよ」[pcms]
+[ns]Satsuki[nse]
+"Oh... I didn't think of that."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_ha_a"][ChrSetParts layer=4 chface="F1_so27a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *2246|
 [fc]
-[ns]宗一郎[nse]
-「酷すぎます……。まあいずれにしても、宗一郎の命は[r]
-　南先輩どのに、お預けいたします。ホテルに着くまでのあいだ」[pcms]
+[ns]Souichirou[nse]
+"That's too harsh... Well, in any case, I entrust my life to Senpai[r]
+Minami until we reach the hotel."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2247|
 [fc]
 [vo_stk s="satuki_nt0088"]
-[ns]彩月[nse]
-「なんだか手がギトりそうで、預かりたくない命だけど、[r]
-　預かっておいてあげるわよ」[pcms]
+[ns]Satsuki[nse]
+"It feels like a life I'd rather not hold onto because it's so greasy,[r]
+but I'll take care of it for you."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="ak1_sw5"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -190,22 +189,22 @@
 *2248|
 [fc]
 [vo_aka s="akari_nt0083"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 *2249|
 [fc]
-越智さんは、普段通りの僕たちの馬鹿な会話に、[r]
-ようやく緊張しきった顔を緩めていた。[pcms]
+Ochi-san finally relaxed her tense face a little at our usual silly[r]
+conversation.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st30"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2250|
 [fc]
 [vo_stk s="satuki_nt0089"]
-[ns]彩月[nse]
-「さて……じゃあ行きましょう。[r]
-　荷物忘れないでよ、中澤君。たぶんそれが命綱になるから」[pcms]
+[ns]Satsuki[nse]
+"Well then... let's go. Don't forget your luggage, Nakazawa-kun. It[r]
+might just save your life."[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -220,33 +219,33 @@
 
 *2251|
 [fc]
-[ns]宗一郎[nse]
-「みなさま、シートベルトはしっかりと付けて下さい。[r]
-　あなたの命を守るものですから……」[pcms]
+[ns]Souichirou[nse]
+"Ladies and gentlemen, please make sure to fasten your seat belts.[r]
+They are there to protect your lives..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st28"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2252|
 [fc]
 [vo_stk s="satuki_nt0090"]
-[ns]彩月[nse]
-「どういう意味かしら？」[pcms]
+[ns]Satsuki[nse]
+"What do you mean by that?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so04b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2253|
 [fc]
-[ns]宗一郎[nse]
-「常識的な範疇の話ですよ、南先輩。先輩も忘れずになさった方が[r]
-　よろしいかと、思います」[pcms]
+[ns]Souichirou[nse]
+"It's just common sense talk, Senpai Minami. You'd better not forget[r]
+yours either."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2254|
 [fc]
 [vo_stk s="satuki_nt0091"]
-[ns]彩月[nse]
-「まあ、いいわ。じゃあ、行くからね」[pcms]
+[ns]Satsuki[nse]
+"Well, fine. Let's go then."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -255,8 +254,8 @@
 
 *2255|
 [fc]
-憤慨してるとも、緊張してるとも取れるような顔つきで、前を向き[r]
-南先輩はキーを回しエンジンをスタートさせた。[pcms]
+With a face that could be taken as either indignant or tense, Senpai[r]
+Minami faced forward, turned the key, and started the engine.[pcms]
 
 [se buf=0 storage="seC026"]
 ;//♪SEタイヤが空転する音
@@ -272,8 +271,8 @@
 
 *2256|
 [fc]
-[ns]宗一郎[nse]
-「うおっ……」[pcms]
+[ns]Souichirou[nse]
+"Whoa..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -285,8 +284,8 @@
 *2257|
 [fc]
 [vo_aka s="akari_nt0084"]
-[ns]茜梨[nse]
-「きゃっ……」[pcms]
+[ns]Akari[nse]
+"Eek..."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -298,25 +297,25 @@
 
 *2258|
 [fc]
-[ns]誠[nse]
-「うわ……」[pcms]
+[ns]Makoto[nse]
+"Whoa..."[pcms]
 
 *2259|
 [fc]
-スピードが早くなったり遅くなったりして、僕らの身体は[r]
-前後に揺さぶられまくった。うっかりすると舌を噛みそうだ。[pcms]
+As the speed increased and decreased, our bodies were violently shaken[r]
+back and forth. If we weren't careful, we could bite our tongues.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2260|
 [fc]
 [vo_stk s="satuki_nt0092"]
-[ns]彩月[nse]
-「う～ん。アクセルワークが違うのね。普通の車と……」[pcms]
+[ns]Satsuki[nse]
+"Hmm. The accelerator work is different from a normal car..."[pcms]
 
 *2261|
 [fc]
-それでも僕らはじっと耐えた。先輩に命を預けたんだから。[pcms]
+Still, we endured quietly. We had entrusted our lives to Senpai.[pcms]
 
 ;//seフェード停止
 [stopse buf=1]
@@ -343,18 +342,18 @@
 
 *2262|
 [fc]
-しばらくすると、走りは滑らかになってきた。[pcms]
+After a while, the ride became smoother.[pcms]
 
 *2263|
 [fc]
-でも、ハンドルさばきがまだまだのようで、少しでもカーブが[r]
-あると、先輩は必ずといっていいほど、どこかをぶつけていた。[pcms]
+But Senpai still wasn't great with the steering wheel; whenever there[r]
+was even a slight curve, she would almost certainly hit something.[pcms]
 
 *2264|
 [fc]
 [vo_aka s="akari_nt0085"]
-[ns]茜梨[nse]
-「先輩っ！　前っ、前ーーーーっ！」[pcms]
+[ns]Akari[nse]
+"Senpai! Look out, in front----!"[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -376,12 +375,12 @@
 *2265|
 [fc]
 [vo_aka s="akari_nt0086"]
-[ns]茜梨[nse]
-「きゃああっ！！」[pcms]
+[ns]Akari[nse]
+"Kyaaah!!"[pcms]
 
 *2266|
 [fc]
-フロントガラスに血が飛び散っていた。[pcms]
+Blood splattered on the windshield.[pcms]
 
 
 ;//彩月大＠Ｔシャツカメラ無しポーズＢ　表情05真剣　　　　;//
@@ -389,8 +388,8 @@
 *2267|
 [fc]
 [vo_stk s="satuki_nt0093"]
-[ns]彩月[nse]
-「大丈夫よ、すぐに綺麗にするわ」[pcms]
+[ns]Satsuki[nse]
+"It's okay, I'll clean it up right away."[pcms]
 
 ;//■_ワイパーの動く音
 
@@ -406,104 +405,103 @@
 *2268|
 [fc]
 [vo_stk s="satuki_nt0094"]
-[ns]彩月[nse]
-「ほら、問題ないでしょ」[pcms]
+[ns]Satsuki[nse]
+"See, no problem."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2269|
 [fc]
-何事もなかったようにワイパーを操作し、[r]
-フロントガラスを綺麗にする南先輩を見て[r]
-僕は、あっけにとられていた。[pcms]
+As if nothing had happened, Senpai operated the wipers and cleaned the[r]
+windshield. I was dumbfounded watching her.[pcms]
 
 *2270|
 [fc]
-いや、人を撥ねた方が問題であって――。[pcms]
+No, the problem is that we hit a person--.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2271|
 [fc]
 [vo_aka s="akari_nt0087"]
-[ns]茜梨[nse]
-「ち、違います。今人を撥ねたんですよ先輩」[pcms]
+[ns]Akari[nse]
+"No, that's not it. We just hit a person, Senpai."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st08"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2272|
 [fc]
 [vo_stk s="satuki_nt0095"]
-[ns]彩月[nse]
-「……人？　人じゃないわ。もう人じゃなくなってるの。[r]
-　あれは感染者。だから、何の問題もないの」[pcms]
+[ns]Satsuki[nse]
+"...Person? That's not a person anymore. They've become an infected.[r]
+So, there's no problem at all."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2273|
 [fc]
 [vo_aka s="akari_nt0088"]
-[ns]茜梨[nse]
-「で、でも……」[pcms]
+[ns]Akari[nse]
+"But still..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2274|
 [fc]
 [vo_stk s="satuki_nt0096"]
-[ns]彩月[nse]
-「猫や犬が飛び出してきたら、ブレーキ踏んでハンドル切って、[r]
-　ちゃんと除けるわ。でも、あれは感染者。撥ねていい存在」[pcms]
+[ns]Satsuki[nse]
+"If a cat or dog jumps out, I'd brake and swerve to avoid it. But that[r]
+was an infected. It's okay to hit them."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw3"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2275|
 [fc]
 [vo_aka s="akari_nt0089"]
-[ns]茜梨[nse]
-「でも、元は人ですから……」[pcms]
+[ns]Akari[nse]
+"But they were once human..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2276|
 [fc]
 [vo_stk s="satuki_nt0097"]
-[ns]彩月[nse]
-「わかってないわね、越智さん。美沙緒さんの言葉を忘れたの？[r]
-　『人間として終わりたい』そう言ってなかったかしら？」[pcms]
+[ns]Satsuki[nse]
+"You don't understand, Ochi-san. Have you forgotten what Misao-san[r]
+said? 'I want to end as a human.' Didn't she say that?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2277|
 [fc]
 [vo_aka s="akari_nt0090"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2278|
 [fc]
 [vo_stk s="satuki_nt0098"]
-[ns]彩月[nse]
-「それがどういう意味だかわかる？　例え元が人間でも[r]
-　あのウイルスに犯されると、人ではないものに変容させられるの。[r]
-　突然、別人としか思えない、化け物に変わってしまうのよ」[pcms]
+[ns]Satsuki[nse]
+"Do you understand what that means? Even if they were once human,[r]
+being infected by that virus transforms them into something non-human.[r]
+They suddenly change into monsters that you can't think of as the same[r]
+person."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2279|
 [fc]
 [vo_stk s="satuki_nt0099"]
-[ns]彩月[nse]
-「わたしも中澤君も、４年前、そういうのをいっぱい見てきた。[r]
-　だから、むしろ化け物になったのなら、殺してあげた方が[r]
-　いいのよ……」[pcms]
+[ns]Satsuki[nse]
+"Both Nakazawa-kun and I have seen plenty of that four years ago. So,[r]
+if they've turned into monsters, it's better to kill them..."[pcms]
 
 *2280|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 ;//■_人を撥ねる音
 [se buf=0 storage="seB015"]
@@ -523,23 +521,23 @@
 *2281|
 [fc]
 [vo_stk s="satuki_nt0100"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2282|
 [fc]
 [vo_aka s="akari_nt0091"]
-[ns]茜梨[nse]
-「…………」[pcms]
+[ns]Akari[nse]
+"..."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2283|
 [fc]
-越智さんは、もう何も言わなかった。[r]
-ただ暗い瞳で、ワイパーの動きを見ていた。[pcms]
+Ochi-san didn't say anything more. She just watched the movement of[r]
+the wipers with dark eyes.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -556,13 +554,13 @@
 
 *2284|
 [fc]
-ホテルの駐車場は、感染者で埋め尽くされていた。[pcms]
+The hotel parking lot was filled with infected.[pcms]
 
 *2285|
 [fc]
 [vo_stk s="satuki_nt0101"]
-[ns]彩月[nse]
-「どけっ！　邪魔よっ！」[pcms]
+[ns]Satsuki[nse]
+"Move! You're in the way!"[pcms]
 
 [se buf=1 storage="kan4_se066" loop=true]
 ;//♪SEタイヤの鳴る走行音
@@ -580,13 +578,13 @@
 
 *2286|
 [fc]
-先輩は何かに取り憑かれたかのように、感染者を撥ねまくった。[r]
-進む為には、撥ねなくてはならない。[pcms]
+Senpai mowed down the infected as if possessed. To move forward, we[r]
+had to hit them.[pcms]
 
 *2287|
 [fc]
-それはわかっていても、飛び散るのは僕らと変わらない血の色で[r]
-南先輩以外は、気分が悪くなってきていた。[pcms]
+Even though we understood that, the blood that splattered was the same[r]
+color as ours, and everyone but Senpai started to feel sick.[pcms]
 
 
 [stopquake]
@@ -603,18 +601,18 @@
 *2288|
 [fc]
 [vo_stk s="satuki_nt0102"]
-[ns]彩月[nse]
-「まったく……よくもこんなに集まったものだわ。[r]
-　走りづらいのよ、退けっ！　邪魔っ！！」[pcms]
+[ns]Satsuki[nse]
+"Really... How did so many gather here? It's hard to drive, move![r]
+You're in the way!!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2289|
 [fc]
 [vo_stk s="satuki_nt0103"]
-[ns]彩月[nse]
-「殺してあげるわ……早く……楽になるといい……。[r]
-　うふふ……あははっ。あはははっ！」[pcms]
+[ns]Satsuki[nse]
+"I'll kill you... I hope you find peace quickly... Ufufu... Ahahaha![r]
+Ahahahah!"[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -628,39 +626,39 @@
 
 *2290|
 [fc]
-車内に先輩の高笑いが響き渡った。[pcms]
+Senpai's laughter echoed inside the car.[pcms]
 
 *2291|
 [fc]
-越智さんは耳を塞ぎ、宗一郎も目を背けている。[r]
-でも、僕は見逃さなかった。先輩の頬を涙が伝っていたのを。[pcms]
+Akari covered her ears, and Souichirou looked away. But I didn't miss[r]
+it. Tears were streaming down Senpai's cheeks.[pcms]
 
 *2292|
 [fc]
-生きる為に殺さなければならなかった。[r]
-先輩は、そうやって４年前生き延びたのかも知れない。[pcms]
+To live, we had to kill. Maybe that's how Senpai survived four years[r]
+ago.[pcms]
 
 *2293|
 [fc]
-その時に心のどこかが壊れてしまったとしても、[r]
-それは仕方が無いことなんだと思う。[pcms]
+Even if something inside her broke at that time, I think it couldn't[r]
+be helped.[pcms]
 
 *2294|
 [fc]
-先輩は、狩猟者として生き残った。[r]
-僕は、狩ることもなく保護されて生き残った。[pcms]
+Senpai survived as a hunter. I survived without having to hunt,[r]
+protected.[pcms]
 
 *2295|
 [fc]
-その違いなのかも知れない――僕はそんな事を考えていた。[pcms]
+Maybe that's the differenceI was thinking about such things.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2296|
 [fc]
 [vo_stk s="satuki_nt0104"]
-[ns]彩月[nse]
-「さあ、もうすぐ着くわよ。うふふっあははははっ」[pcms]
+[ns]Satsuki[nse]
+"Now, we're almost there. Ufufu... Ahahahaha!"[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -669,42 +667,41 @@
 
 *2297|
 [fc]
-非常階段に通じる場所に向かうには、大きくカーブして[r]
-行くしかなかった。[pcms]
+To get to the emergency staircase, we had to take a big curve.[pcms]
 
 [quake_bg x m]
 
 *2298|
 [fc]
-ぐんっっと、身体が横に引っ張られる。[pcms]
+Our bodies were suddenly pulled sideways.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st23"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2299|
 [fc]
 [vo_stk s="satuki_nt0105"]
-[ns]彩月[nse]
-「うっ！　くっ！　まずいっ！」[pcms]
+[ns]Satsuki[nse]
+"Ugh! Gah! This is bad!"[pcms]
 
 [quake_bg x m]
 
 *2300|
 [fc]
-車体がそのカーブで傾いた。[pcms]
+The vehicle tilted on the curve.[pcms]
 
 *2301|
 [fc]
-スピードの出し過ぎだ。[r]
-あれほど気をつけるようにって言ったのに。[pcms]
+Too much speed. Despite being told to be careful.[pcms]
 
 [se buf=0 storage="seB085"]
 ;//♪SE事故音
 
 *2302|
 [fc]
-先輩は必死に立て直そうとしたけど、やはり仮免の身。[r]
-技術が追いつかず、僕らを乗せたバスは、横付けするはずの[r]
-非常階段に、真正面から突っ込んだ。[pcms]
+Senpai tried desperately to regain control, but as a provisional[r]
+license holder, her skills weren't enough, and the bus we were on[r]
+crashed head-on into the emergency staircase it was supposed to[r]
+parallel park next to.[pcms]
 
 
 [stopquake]
@@ -728,69 +725,69 @@
 *2303|
 [fc]
 [vo_stk s="satuki_nt0106"]
-[ns]彩月[nse]
-「うっうううう……」[pcms]
+[ns]Satsuki[nse]
+"Uuuuuu..."[pcms]
 
 *2304|
 [fc]
-でも事前の先輩のあがきのおかげで、バスのスピードは結構[r]
-落ちていたらしい。[pcms]
+But thanks to Senpai's struggle beforehand, it seemed the bus's speed[r]
+had significantly decreased.[pcms]
 
 *2305|
 [fc]
-フロントガラスは割れたけど、僕らはみんな無事だった。[pcms]
+The windshield shattered, but we were all safe.[pcms]
 
 *2306|
 [fc]
-[ns]誠[nse]
-「先輩、南先輩っ！　大丈夫ですか？」[pcms]
+[ns]Makoto[nse]
+"Senpai, Minami-senpai! Are you okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2307|
 [fc]
 [vo_stk s="satuki_nt0107"]
-[ns]彩月[nse]
-「ううっ……ごめん。調子に乗りすぎたかもね、わたし。[r]
-　うっ、痛たた……」[pcms]
+[ns]Satsuki[nse]
+"Ugh... sorry. Maybe I got a little too carried away. Ouch, that[r]
+hurts..."[pcms]
 
 *2308|
 [fc]
-[ns]誠[nse]
-「どこか怪我でもしたんですか？」[pcms]
+[ns]Makoto[nse]
+"Did you get hurt anywhere?"[pcms]
 
 *2309|
 [fc]
 [vo_stk s="satuki_nt0108"]
-[ns]彩月[nse]
-「ううん、軽い筋肉痛だわ。あちこち強ばってるもの。[r]
-　やっぱり大型と普通じゃ違うって実感したわ」[pcms]
+[ns]Satsuki[nse]
+"No, just some mild muscle pain. My body is all tensed up. I really[r]
+felt the difference between driving a large vehicle and a regular[r]
+one."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2310|
 [fc]
 [vo_stk s="satuki_nt0109"]
-[ns]彩月[nse]
-「みんなも、ごめんね。ちょっと怖かったよね。[r]
-　なんかキレちゃってて……悪かったわ……」[pcms]
+[ns]Satsuki[nse]
+"I'm sorry, everyone. That must have been a bit scary. I got a little[r]
+too heated... my apologies..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ha_b"][ChrSetParts layer=5 chface="F2_so03b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2311|
 [fc]
-[ns]宗一郎[nse]
-「なんの。非常事態です。先輩にばかり苦労をおかけして[r]
-　申し訳無く思ってます」[pcms]
+[ns]Souichirou[nse]
+"Not at all. It was an emergency situation. I feel terrible that we've[r]
+put all the burden on you, Senpai."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw5"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2312|
 [fc]
 [vo_aka s="akari_nt0092"]
-[ns]茜梨[nse]
-「怖かったです……でも、先輩ありがとうございました。[r]
-　運転お疲れ様でした」[pcms]
+[ns]Akari[nse]
+"It was scary... but thank you, Senpai. You did well driving."[pcms]
 
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -798,20 +795,20 @@
 *2313|
 [fc]
 [vo_stk s="satuki_nt0110"]
-[ns]彩月[nse]
-「ゆっくりはしてられないわね。予定とは違ったけど、[r]
-　階段には移れそうよ」[pcms]
+[ns]Satsuki[nse]
+"We can't just sit around. It's not what we planned, but it looks like[r]
+we can move to the staircase."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2314|
 [fc]
-そう言いながら南先輩は、先頭に立って砕けたフロントガラスを[r]
-除けながら、階段に降り立った。[pcms]
+While saying that, Satsuki-senpai took the lead, clearing away the[r]
+shattered windshield and stepping down onto the staircase.[pcms]
 
 *2315|
 [fc]
-僕らも無事に階段に移り、上の階を目指して行った。[pcms]
+We also safely moved to the staircase and headed for the upper floor.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -831,16 +828,16 @@
 
 *2316|
 [fc]
-[ns]宗一郎[nse]
-「俺らが泊まっていたのは、この階だと思われますが……」[pcms]
+[ns]Souichirou[nse]
+"I believe we were staying on this floor..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2317|
 [fc]
 [vo_stk s="satuki_nt0111"]
-[ns]彩月[nse]
-「どうする？　行ってみる？」[pcms]
+[ns]Satsuki[nse]
+"What should we do? Shall we go check it out?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -850,14 +847,14 @@
 
 ;	[link storage="4120.ks" target=*4120_TOP]このフロアに入る[endlink]
 ;	[link target=*highest_floor]最上階を目指す[endlink]
-;	[s]
+;[pcms]
 
 *SEL28|このフロアに入る／最上階を目指す
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext04 = 'このフロアに入る'"]
-[eval exp="f.seltext06 = '最上階を目指す'"]
+[eval exp="f.seltext04 = 'Enter this floor'"]
+[eval exp="f.seltext06 = 'Aim for the top floor'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -897,46 +894,47 @@
 
 *2318|
 [fc]
-[ns]誠[nse]
-「姉ちゃんのことだから、もしかしたら自室に逃げ込んで[r]
-　立てこもってるかもしれません……」[pcms]
+[ns]Makoto[nse]
+"Knowing Onee-san, she might have fled to her room and barricaded[r]
+herself in there..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2319|
 [fc]
 [vo_stk s="satuki_nt0112"]
-[ns]彩月[nse]
-「じゃあ……」[pcms]
+[ns]Satsuki[nse]
+"Then..."[pcms]
 
 *2320|
 [fc]
-[ns]誠[nse]
-「でも……」[pcms]
+[ns]Makoto[nse]
+"But..."[pcms]
 
 *2321|
 [fc]
-可能性はあると思った。でも、絶対にそうだとは言い切れない。[r]
-もし違ったら、むやみにみんなを危険にさらすことになる。[pcms]
+There was a possibility. But I couldn't say for certain. If we were[r]
+wrong, it would needlessly expose everyone to danger.[pcms]
 
 *2322|
 [fc]
-[ns]誠[nse]
-「いえ……予定通り、最上階の屋上庭園を目指しましょう。[r]
-　絶対でない限り、危険を回避した方がいいと思います」[pcms]
+[ns]Makoto[nse]
+"No... Let's stick to the plan and head for the rooftop garden on the[r]
+top floor. It's better to avoid danger unless it's absolutely[r]
+certain."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_b"][ChrSetParts layer=5 chface="F2_st01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2323|
 [fc]
 [vo_stk s="satuki_nt0113"]
-[ns]彩月[nse]
-「そうね……。じゃあ、上に進むわよ」[pcms]
+[ns]Satsuki[nse]
+"Right... Let's move upstairs then."[pcms]
 
 *2324|
 [fc]
-衛星電話で連絡が取れさえすれば、絶対に救い出せる。[r]
-僕はそう自分に言い聞かせて、階段を上がった。[pcms]
+If only we could get through on the satellite phone, I was sure we[r]
+could be rescued. I told myself this as I climbed the stairs.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]

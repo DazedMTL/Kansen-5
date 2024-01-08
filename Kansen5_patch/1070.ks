@@ -19,33 +19,34 @@
 
 *1338|
 [fc]
-島のあちこちが炎上し、黒い煙が立ち上るその隙間をすり抜けて、[r]
-三機の自衛隊大型ヘリが飛来していた。[pcms]
+Various parts of the island were ablaze, and through the rising black[r]
+smoke, three Japan Self-Defense Force large helicopters were flying[r]
+in.[pcms]
 
 *1339|
 [fc]
-その三機は初めからの打ち合わせ通り、[r]
-三手に別れると目標地点に降下を果たしていく。[pcms]
+As per the initial plan, the three helicopters split into groups and[r]
+began descending towards their target locations.[pcms]
 
 [bg storage="BG09a"][trans_c cross time=500]
 
 *1340|
 [fc]
-一機は、誠たちが泊まっていたリゾートホテルの駐車場にある、[r]
-簡易へリポートのマークへと。[pcms]
+One helicopter landed at the makeshift heliport mark in the parking[r]
+lot of the resort hotel where Makoto and the others were staying.[pcms]
 
 [bg storage="BG04a"][trans_c cross time=500]
 
 *1341|
 [fc]
-一機は、キャンプ場近くにある[r]
-ターヤたちの通う学園のグラウンドに。[pcms]
+Another landed on the school grounds near the campsite, where Tarja[r]
+and her classmates go.[pcms]
 
 [bg storage="BG20a"][trans_c cross time=500]
 
 *1342|
 [fc]
-もう一機は、スポーツセンターのグラウンドに降り立った。[pcms]
+The last one touched down on the sports center's grounds.[pcms]
 
 ;//m:ちょっと背景のみでは厳しそう。防疫部隊的なのがあると良いが
 
@@ -58,24 +59,23 @@
 
 *1343|
 [fc]
-ホテルに着陸したヘリの中から、[r]
-迷彩服を着た隊員が降りてくる。[pcms]
+From the helicopter that landed at the hotel, crew members dressed in[r]
+camouflage uniforms disembarked.[pcms]
 
 *1344|
 [fc]
-そして、それに続くように、[r]
-白い防護服を着た異様な集団が姿を現した。[pcms]
+Following them, a strange group wearing white protective suits[r]
+appeared.[pcms]
 
 *1345|
 [fc]
-まるで、防疫処置を施すために用意されたような、[r]
-白い服に身を包みながら、その手には[r]
-凶悪な武器が装備されている。[pcms]
+They were clad in white suits as if prepared for epidemic control[r]
+measures, yet their hands were equipped with vicious weapons.[pcms]
 
 *1346|
 [fc]
-腰に燃料を積んだタンクをぶら下げ、[r]
-手にはオモチャの銃のようなものを持っている。[pcms]
+They hung fuel tanks on their hips and held something resembling a toy[r]
+gun in their hands.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="mob_kan1_x_bl"][ChrSetXY layer=3 x=-90 y=0]
@@ -88,43 +88,46 @@
 
 *1347|
 [fc]
-突然現れた白い獲物に、[r]
-感染者たちは驚喜して集ろうとしていた。[pcms]
+The infected were ecstatically gathering around the suddenly appeared[r]
+white prey.[pcms]
 
 *1348|
 [fc]
-今まで、自分たちが蹂躙してきた相手と同じように、[r]
-その圧倒的な不死性を利用した圧迫だ。[pcms]
+Just like the ones they had trampled before, they used their[r]
+overwhelming immortality to press on.[pcms]
 
 *1349|
 [fc]
-しかし、このヘリから降りてきた白い人々は、[r]
-今までの[ruby text="む　こ"][ch text="無辜"]な相手とは格段にレベルの違う存在だった。[pcms]
+However, these white-clad people who descended from the helicopter[r]
+were beings of a completely different level than the innocent ones[r]
+before.[pcms]
 
 *1350|
 [fc]
-生き物を殺すことのみを目的に鍛え上げられた武器を手に、[r]
-訓練された組織的な動きで感染者を[ruby text="せいちゅう"][ch text="掣肘"]する。[pcms]
+Armed with weapons forged solely for the purpose of killing living[r]
+creatures, they hindered the infected with trained, organized[r]
+movements.[pcms]
 
 *1351|
 [fc]
-指揮官らしき男が合図を送ると、[r]
-その白い集団から圧倒的な炎が吹き上がった。[pcms]
+When a man who seemed to be the commander gave a signal, an[r]
+overwhelming flame erupted from the white group.[pcms]
 
 *1352|
 [fc]
-吹き出る血潮さえも瞬時に蒸発させるような高温の炎が、[r]
-感染者に向けられて、シャワーのように浴びせられる。[pcms]
+The high-temperature flames that could instantly evaporate even[r]
+spurting blood were directed at the infected, showering down on them[r]
+like a shower.[pcms]
 
 *1353|
 [fc]
-それでも、這い寄ろうとする感染者たちは、[r]
-身体を炎に包まれながらも前進を続けていた。[pcms]
+Yet, the infected still tried to crawl forward, continuing to advance[r]
+even as their bodies were engulfed in flames.[pcms]
 
 *1354|
 [fc]
-その圧倒的な数と耐久性を頼みにして、[r]
-訓練された隊員たちに牙をむいていく。[pcms]
+Relying on their overwhelming numbers and durability, they bared their[r]
+fangs against the trained crew members.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -134,9 +137,9 @@
 
 *1355|
 [fc]
-防護服に身を包んだ間引きの部隊が感染者を殺し尽くすか、[r]
-本能のみに特化された生命力が勝つか、[r]
-これはそういう戦いだった。[pcms]
+It was a battle to see whether the culling squad wrapped in protective[r]
+suits would exterminate the infected or if the life force specialized[r]
+only in instinct would prevail.[pcms]
 
 ;不要？[wait_c time=2000]
 

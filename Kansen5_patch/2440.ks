@@ -26,18 +26,17 @@
 
 *3755|
 [fc]
-駄目だ……。[r]
-そりゃ、とっても魅力的なお誘いではあるけれど……。[r]
-今の越智さんは、どう考えてもおかしい。[pcms]
+No good... As much as it's a very tempting offer... The current state[r]
+of Ochi-san is definitely not right.[pcms]
 
 *3756|
 [fc]
-据え膳は食いたいけれど、食べたらきっと後悔しそうな気がする。[pcms]
+I want to eat the meal that's been laid out before me, but I feel like[r]
+I'd definitely regret it if I did.[pcms]
 
 *3757|
 [fc]
-僕は、そっと越智さんの手を外し、彼女の股間から[r]
-手を引き出した。[pcms]
+I gently removed Ochi-san's hand and withdrew mine from her crotch.[pcms]
 
 ;//[bg storage="village04b"][trans_c cross time=1000]
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -45,184 +44,183 @@
 *3758|
 [fc]
 [vo_aka s="akari_st0283"]
-[ns]茜梨[nse]
-「どうして？　駄目なの？　まー君先輩……[r]
-　やっぱり私が汚いから？　汚れちゃったから？」[pcms]
+[ns]Akari[nse]
+"Why? Is it no good? Could it be because I'm dirty? Because I've been[r]
+soiled?"[pcms]
 
 *3759|
 [fc]
-[ns]誠[nse]
-「違うよ。越智さんは汚れてなんてないよ」[pcms]
+[ns]Makoto[nse]
+"No, that's not it. Ochi-san isn't dirty at all."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3760|
 [fc]
 [vo_aka s="akari_st0284"]
-[ns]茜梨[nse]
-「嘘よ……私は汚れてるわ」[pcms]
+[ns]Akari[nse]
+"You're lying... I am dirty."[pcms]
 
 *3761|
 [fc]
-[ns]誠[nse]
-「そうじゃなくて……」[pcms]
+[ns]Makoto[nse]
+"It's not like that..."[pcms]
 
 *3762|
 [fc]
-膝の上に抱っこするように僕は越智さんを抱き寄せた。[r]
-まるで子供をあやすような体勢だ。[pcms]
+I embraced Ochi-san on my lap as if I were holding a child. It was a[r]
+posture like soothing a child.[pcms]
 
 *3763|
 [fc]
-でも、実際、今の越智さんは、だだをこねてる子供みたいに[r]
-僕には思えた。[pcms]
+But in reality, Ochi-san seemed to me like a child throwing a tantrum,[r]
+clinging to me.[pcms]
 
 *3764|
 [fc]
-だから、やらしい気持ちよりも、本当に子供に言い聞かせる[r]
-ような気持ちで、自然に膝に乗せていた。[pcms]
+So, rather than feeling lewd, I naturally put her on my lap with the[r]
+feeling of persuading a real child.[pcms]
 
 *3765|
 [fc]
-[ns]誠[nse]
-「今はやめておこうって事。越智さん、まだ身体本調子に[r]
-　なってないだろ？　さっきまで寝てたんだし」[pcms]
+[ns]Makoto[nse]
+"Let's stop for now. Ochi-san, your body isn't fully recovered yet,[r]
+right? You were sleeping until just now."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3766|
 [fc]
 [vo_aka s="akari_st0285"]
-[ns]茜梨[nse]
-「大丈夫です。だから、綺麗にして、まーくん先輩っ！」[pcms]
+[ns]Akari[nse]
+"I'm fine. So please, clean me up, Makoto-senpai!"[pcms]
 
 *3767|
 [fc]
-[ns]誠[nse]
-「駄目だよ。僕の本意じゃないもん。[r]
-　寝込んでてあちこち痛い女の子を抱くなんて……」[pcms]
+[ns]Makoto[nse]
+"No, I can't. It's not what I really want. Embracing a girl who's been[r]
+bedridden and in pain all over..."[pcms]
 
 *3768|
 [fc]
-[ns]誠[nse]
-「ましてや、越智さんは大切な後輩なんだから、そんな事出来ない」[pcms]
+[ns]Makoto[nse]
+"Besides, Ochi-san is an important junior to me, so I can't do such a[r]
+thing."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3769|
 [fc]
 [vo_aka s="akari_st0286"]
-[ns]茜梨[nse]
-「大切……？　本当に？　私のこと、大切って思ってくれてる？」[pcms]
+[ns]Akari[nse]
+"Important...? Really? Do you really think of me as important?"[pcms]
 
 *3770|
 [fc]
-越智さんの目から妙な色気が消えて、代わりにいつもの[r]
-素直でまっすぐな目に戻っていた。[pcms]
+The strange allure disappeared from Ochi-san's eyes, and they returned[r]
+to her usual honest and straightforward look.[pcms]
 
 *3771|
 [fc]
-[ns]誠[nse]
-「うん。大切だよ。だから今日はもっとたっぷり眠って、[r]
-　身体をちゃんと休めよう。ね、そうしようよ、越智さん」[pcms]
+[ns]Makoto[nse]
+"Yeah. You're important to me. So let's get plenty of sleep today and[r]
+rest your body properly. Okay, let's do that, Ochi-san."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3772|
 [fc]
 [vo_aka s="akari_st0287"]
-[ns]茜梨[nse]
-「…………はい。言うことききます。まーくん先輩」[pcms]
+[ns]Akari[nse]
+"...Yes. I'll listen to what you say, Makoto-senpai."[pcms]
 
 *3773|
 [fc]
-[ns]誠[nse]
-「じゃあ、また奥の部屋で寝よう。寝入るまで僕がちゃんと[r]
-　傍についていてあげるからさ」[pcms]
+[ns]Makoto[nse]
+"Then let's go back to the inner room and sleep. I'll stay by your[r]
+side until you fall asleep."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3774|
 [fc]
 [vo_aka s="akari_st0288"]
-[ns]茜梨[nse]
-「本当？　嬉しいなあ……」[pcms]
+[ns]Akari[nse]
+"Really? I'm so happy..."[pcms]
 
 *3775|
 [fc]
-本当の子供のように、邪気のない笑顔をみせる越智さん。[r]
-口調もなんだか、少女みたいだ。[pcms]
+Ochi-san showed an innocent smile like that of a real child, and her[r]
+tone of voice was somehow girlish.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3776|
 [fc]
-[ns]誠[nse]
-「さ、じゃああっちに行って休もうか？」[pcms]
+[ns]Makoto[nse]
+"Well then, shall we go over there and rest?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_cos"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3777|
 [fc]
 [vo_aka s="akari_st0289"]
-[ns]茜梨[nse]
-「はあい、まー君先輩」[pcms]
+[ns]Akari[nse]
+"Yes, Makoto-senpai."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3778|
 [fc]
-僕の膝から降りた越智さんの手を引いて、奥の部屋へと向かう。[r]
-布団が敷いてある部屋でまた誘惑されたらやばい……と、[r]
-一瞬思ったけれど、それは杞憂だった。[pcms]
+Leading Ochi-san by the hand as she got off my lap, we headed to the[r]
+inner room. I thought it would be dangerous if she tempted me again in[r]
+the room with the futon laid out... but that was an unfounded worry.[pcms]
 
 *3779|
 [fc]
-越智さんは素直に布団に入りそっと手を差し出す。[r]
-僕がその手を握ると、また無邪気な笑顔を見せた。[pcms]
+Ochi-san obediently got into the futon and gently reached out her[r]
+hand. When I took her hand, she showed me an innocent smile again.[pcms]
 
 *3780|
 [fc]
-[ns]誠[nse]
-「ゆっくり休んでね、おやすみ」[pcms]
+[ns]Makoto[nse]
+"Rest well, good night."[pcms]
 
 *3781|
 [fc]
 [vo_aka s="akari_st0290"]
-[ns]茜梨[nse]
-「はあい。おやすみなさぁい」[pcms]
+[ns]Akari[nse]
+"Yes. Good night."[pcms]
 
 *3782|
 [fc]
-あっという間に越智さんは、眠りの底へ落ちていった。[pcms]
+In no time at all, Ochi-san fell deep into sleep.[pcms]
 
 *3783|
 [fc]
-やっぱり身体がまだ疲れていたんだと思う。[r]
-それに、越智さんの告白が事実だとしたら、精神的にも[r]
-相当なダメージを受けてるはず。[pcms]
+I think her body was still tired after all. And if what Ochi-san[r]
+confessed was true, she must have taken quite a mental hit as well.[pcms]
 
 *3784|
 [fc]
-誘惑した越智さんと、僕に促されて素直に眠る越智さんには[r]
-あまりにもギャップがありすぎる。[pcms]
+The gap between the tempting Ochi-san and the Ochi-san who obediently[r]
+went to sleep at my urging was too great.[pcms]
 
 *3785|
 [fc]
-精神的な[ruby text="かいり"][ch text="乖離"]とか、色々な言葉が僕の脳裏を[r]
-流れていた。[pcms]
+Words like mental dissonance flowed through my mind.[pcms]
 
 [se buf=0 storage="seA025"]
 ;//■_部屋の鍵を開ける音
 
 *3786|
 [fc]
-裏口の鍵が開けられる音がした。[r]
-どうやら先輩達が帰ってきたみたいだ。[pcms]
+The sound of the back door being unlocked could be heard. It seems[r]
+like the seniors have returned.[pcms]
 
 *3787|
 [fc]
-僕は出迎えるために、裏口へと向かった。[pcms]
+I headed towards the back door to greet them.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -239,103 +237,102 @@
 
 *3788|
 [fc]
-裏口のドアノブがかちゃりと解錠の音を上げた。[r]
-僕はノブに手を掛け、ぐるりと回す。[pcms]
+The doorknob of the back door made a clicking sound as it unlocked. I[r]
+put my hand on the knob and turned it around.[pcms]
 
 *3789|
 [fc]
-[ns]誠[nse]
-「お帰りなさい、お疲れ様でした」[pcms]
+[ns]Makoto[nse]
+"Welcome back, thank you for your hard work."[pcms]
 
 ;//立ち絵なし
 
 *3790|
 [fc]
 [vo_stk s="satuki_st0565"]
-[ns]彩月[nse]
-「……ただいま」[pcms]
+[ns]Satsuki[nse]
+"...I'm home."[pcms]
 
 *3791|
 [fc]
-半開きの扉の向こうには、うつむき加減の南先輩が立っていた。[r]
-そのまま先輩はたったひとりで、入ってきた。[pcms]
+Standing beyond the half-open door was Senior Minami, looking[r]
+downcast. She entered alone.[pcms]
 
 *3792|
 [fc]
-[ns]誠[nse]
-「？　どうしたんです、南先輩？　美沙緒さんは？」[pcms]
+[ns]Makoto[nse]
+"? What's wrong, Senior Minami? Where's Misao-san?"[pcms]
 
 ;//立ち絵なし
 
 *3793|
 [fc]
 [vo_stk s="satuki_st0566"]
-[ns]彩月[nse]
-「あの人は……」[pcms]
+[ns]Satsuki[nse]
+"That person is..."[pcms]
 
 *3794|
 [fc]
-俯いたままの先輩の肩が震えだした。[r]
-何か美沙緒さんにあったんだ。[pcms]
+Senior Minami's shoulders began to tremble as she looked down.[r]
+Something must have happened to Misao-san.[pcms]
 
 *3795|
 [fc]
-[ns]誠[nse]
-「先輩？　大丈夫ですか？　美沙緒さんは？[r]
-　何かあったんですか？」[pcms]
+[ns]Makoto[nse]
+"Senior? Are you okay? What about Misao-san? Did something happen?"[pcms]
 
 *3796|
 [fc]
-僕は南先輩の両肩へと手を伸ばした。[r]
-何かあっても受け止められるようにと。[pcms]
+I reached out my hands to Senior Minami's shoulders, ready to catch[r]
+her if something had happened.[pcms]
 
 *3797|
 [fc]
 [vo_stk s="satuki_st0567"]
-[ns]彩月[nse]
-「あの……人は……」[pcms]
+[ns]Satsuki[nse]
+"That person is..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st26"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3798|
 [fc]
-先輩がゆっくり顔を上げる。[pcms]
+Senior slowly raised her face.[pcms]
 
 *3799|
 [fc]
-その顔を見た時、僕は先輩の肩に乗せた手が強ばるのを感じた。[pcms]
+When I saw her face, I felt my hands on her shoulders stiffen.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3800|
 [fc]
 [vo_stk s="satuki_st0568"]
-[ns]彩月[nse]
-「その…………誠君？　どうしたの？[r]
-　ど、どうしてそんな目でわたしを見るの？」[pcms]
+[ns]Satsuki[nse]
+"Um... Makoto-kun? What's wrong? Why are you looking at me with those[r]
+eyes?"[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,1000>
 
 *3801|
 [fc]
-震える僕の両手は、先輩の肩から離れた。[r]
-そのまま僕の足は、ずりずりと後ずさる。[pcms]
+My trembling hands left Senior's shoulders, and my feet began to[r]
+shuffle backward.[pcms]
 
 *3802|
 [fc]
 [vo_stk s="satuki_st0569"]
-[ns]彩月[nse]
-「何？　な、何？」[pcms]
+[ns]Satsuki[nse]
+"What? Wh-What?"[pcms]
 
 *3803|
 [fc]
-[ns]誠[nse]
-「せ、先輩っ、目……目がっ、目がっ、うっわっ、うわああっ！」[pcms]
+[ns]Makoto[nse]
+"Se-Senior, your eyes... your eyes, uwah, uwaahhh!"[pcms]
 
 *3804|
 [fc]
-先輩の目は、ヤツらと同じ、赤く染まってしまっていた。[pcms]
+Senior's eyes were the same as theirs, dyed red.[pcms]
 
 ;//めも：BGMは主人公の勘違いもあるのでこれ使います
 [bgm storage="BGM16"]
@@ -344,84 +341,85 @@
 *3805|
 [fc]
 [vo_stk s="satuki_st0570"]
-[ns]彩月[nse]
-「え？！　あっ……」[pcms]
+[ns]Satsuki[nse]
+"Eh?! Ah..."[pcms]
 
 *3806|
 [fc]
 [vo_stk s="satuki_st0571"]
-[ns]彩月[nse]
-「違うの……違うのよ、誠君！」[pcms]
+[ns]Satsuki[nse]
+"It's not like that... It's not, Makoto-kun!"[pcms]
 
 *3807|
 [fc]
-そう言いながら先輩は手を伸ばし僕を掴もうとしていた。[pcms]
+While saying so, Senior reached out her hand trying to grab me.[pcms]
 
 *3808|
 [fc]
-[ns]誠[nse]
-「ち、近寄らないでくださいっっ！　先輩っ！　先輩ぃぃっ！」[pcms]
+[ns]Makoto[nse]
+"Do-Don't come any closer, please! Senior! Seniooor!"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3809|
 [fc]
 [vo_stk s="satuki_st0572"]
-[ns]彩月[nse]
-「違うの……違うのよ……これは、これはっ！」[pcms]
+[ns]Satsuki[nse]
+"It's not like that... It's not... This is, this is!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3810|
 [fc]
-[ns]誠[nse]
-「うわっ、うわあっ、やめて下さいっ！　先輩ぃぃっ！」[pcms]
+[ns]Makoto[nse]
+"Uwah, uwaah, please stop! Seniooor!"[pcms]
 
 *3811|
 [fc]
-膝が笑い出し、足がもつれ、僕はその場にお尻から床に[r]
-どすんと落ちていた。[pcms]
+My knees gave out laughing, my feet tangled, and I fell to the floor[r]
+on my butt with a thud.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st26"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3812|
 [fc]
 [vo_stk s="satuki_st0573"]
-[ns]彩月[nse]
-「ね、ねえ、落ち着いて誠君。わたしの話を聴いて」[pcms]
+[ns]Satsuki[nse]
+"Hey, hey, calm down Makoto-kun. Listen to what I have to say."[pcms]
 
 *3813|
 [fc]
-先輩はちょっと悲しげな顔で、それでもゆっくりと僕との[r]
-距離を縮めてきていた。[pcms]
+Senior made a slightly sad face, but still slowly closed the distance[r]
+between us.[pcms]
 
 *3814|
 [fc]
-わからない。いったいどんな話を聴けというのか。[r]
-先輩の目は、赤い。感染者と同じ目の色だ。[pcms]
+I don't understand. What kind of story does she expect me to listen[r]
+to? Senior's eyes are red. The same color as those infected.[pcms]
 
 *3815|
 [fc]
-話なんて聞けない。感染したヤツらがまっとうな[r]
-話なんかする訳がない。[pcms]
+There's no way I can listen to a story. Those who are infected can't[r]
+possibly have a proper conversation.[pcms]
 
 *3816|
 [fc]
-僕は、必死に腕で支えながら、尻で後ずさった。[pcms]
+I desperately supported myself with my arms while scooting back on my[r]
+butt.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3817|
 [fc]
 [vo_stk s="satuki_st0574"]
-[ns]彩月[nse]
-「お願いよ、誠君。訳があるの、訳が…………！！」[pcms]
+[ns]Satsuki[nse]
+"Please, Makoto-kun. There's a reason, there's a reason...!!"[pcms]
 
 *3818|
 [fc]
 [vo_aka s="akari_st0291"]
-[ns]茜梨[nse]
-「きぃやああああああっ！！！！」[pcms]
+[ns]Akari[nse]
+"Kiiyaaaahhhhhhh!!!"[pcms]
 
 [se buf=0 storage="seB027"]
 ;//♪SE鎌で切りつける音
@@ -432,8 +430,8 @@
 *3819|
 [fc]
 [vo_stk s="satuki_st0575"]
-[ns]彩月[nse]
-「ぐっぷっ……！！」[pcms]
+[ns]Satsuki[nse]
+"Gupp...!!"[pcms]
 
 [se buf=0 storage="seD015"]
 ;//♪SE弾けて液体が噴き出す
@@ -443,77 +441,77 @@
 
 *3820|
 [fc]
-南先輩の胸から、血に濡れた鋭い刃物が飛び出してきた。[r]
-勢いよく吹き出す血が、僕に降りかかる。[pcms]
+From Senior Minami's chest, a blood-soaked sharp blade protruded. The[r]
+blood spurting out vigorously showered over me.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st15"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3821|
 [fc]
 [vo_stk s="satuki_st0576"]
-[ns]彩月[nse]
-「な……に、こ……れ……？」[pcms]
+[ns]Satsuki[nse]
+"Wh-what is this...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3822|
 [fc]
-自分の胸から飛び出した刃物。信じられないといった目つきで[r]
-見ながら、先輩が後ろを振り返る。[pcms]
+Looking at the blade protruding from her own chest with disbelief in[r]
+her eyes, Senior turned back.[pcms]
 
 *3823|
 [fc]
-先輩の肩越しに、越智さんが立っているのが見えた。[r]
-その手には、薙刀が握られていた。[r]
-そして、その刃先は、南先輩の胸を見事に貫いていた。[pcms]
+Over Senior's shoulder, I could see Ochi-san standing there. In her[r]
+hand was a naginata, and its blade had perfectly pierced through[r]
+Senior Minami's chest.[pcms]
 
 *3824|
 [fc]
 [vo_aka s="akari_st0292"]
-[ns]茜梨[nse]
-「あははははっ！　死ねっ！！　化け物っっ！！」[pcms]
+[ns]Akari[nse]
+"Ahahaha! Die! You monster!"[pcms]
 
 *3825|
 [fc]
-越智さん高らかに笑いながら、更に薙刀を突き出した。[r]
-呆然とする南先輩の胸を刃が完全に突き抜けていた。[pcms]
+Ochi-san laughed loudly as she thrust the naginata further. The blade[r]
+completely pierced through the stunned Senior Minami's chest.[pcms]
 
 *3826|
 [fc]
 [vo_stk s="satuki_st0577"]
-[ns]彩月[nse]
-「違……う、の……に……ま、こと……く……」[pcms]
+[ns]Satsuki[nse]
+"It's not... like that... Ma-koto-kun..."[pcms]
 
 ;//<SoundLoop 3,OFF><SoundLoad 3,seD014"]
 ;//♪SE液体が噴き出す
 
 *3827|
 [fc]
-南先輩の目から涙がぼろぼろとこぼれ落ちた。[r]
-大量の血の雨が僕の顔に降り注ぐ。[pcms]
+Tears streamed down from Senior Minami's eyes as a torrent of blood[r]
+rained down on my face.[pcms]
 
 *3828|
 [fc]
-[ns]誠[nse]
-「うわっ、うわっうわああああああああああああっ！」[pcms]
+[ns]Makoto[nse]
+"Uwah, uwahhhhhhhhhhhhhhhhhhh!"[pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
 
 *3829|
 [fc]
-南先輩は、串刺しにされたまま、膝から[ruby text="くずお"]頽れた。[r]
-がくりと、頭が下がる。[pcms]
+Senior Minami collapsed onto her knees while impaled, and her head[r]
+drooped down.[pcms]
 
 *3830|
 [fc]
 [vo_aka s="akari_st0293"]
-[ns]茜梨[nse]
-「あははははっ、やったっ！　やったわっ！　この化け物っ！」[pcms]
+[ns]Akari[nse]
+"Ahahaha! I did it! I did it! This monster!"[pcms]
 
 *3831|
 [fc]
-越智さんの高笑いだけがやけに響いていた。[pcms]
+Only Ochi-san's loud laughter echoed unnaturally.[pcms]
 
 ;//システムアイコン＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -565,5 +563,5 @@
 [eval exp="sf.g_2440 = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 

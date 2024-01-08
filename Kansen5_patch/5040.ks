@@ -24,186 +24,183 @@
 
 *132|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *133|
 [fc]
-目が覚めると、そこは僕とそーいちが泊まっている[r]
-ホテルの一室だった。[pcms]
+When I woke up, I was in the hotel room where Souichirou and I were[r]
+staying.[pcms]
 
 ;//bgm06.ogg
 [bgm storage="BGM06"]
 
 *134|
 [fc]
-時間はまだ夜明け前。[r]
-朝一番で出勤するお父さんのために、[r]
-早朝のニュースを流している時間だ。[pcms]
+It was still before dawn. It was the time when early morning news was[r]
+broadcasted for fathers who go to work at the first light.[pcms]
 
 *135|
 [fc]
-土蔵にいる夢を見るなんて、[r]
-越智さんの家にお呼ばれしたせいだろうか。[pcms]
+I wonder if dreaming about being in a storehouse is because I was[r]
+invited to Ochi-san's house.[pcms]
 
 *136|
 [fc]
-あそこにも、いくつか土蔵が建っているのが見えた。[r]
-内部のことなんてわかるはずないけれど、[r]
-土蔵なんてどれも似たようなものだろう。[pcms]
+I saw several storehouses there too. I have no idea what the inside is[r]
+like, but storehouses are probably all similar.[pcms]
 
 *137|
 [fc]
-なんとなく、嫌な目覚めの感触だった。[r]
-悪夢でうなされたような、息苦しさを感じる。[pcms]
+The feeling upon waking up was somewhat unpleasant. It was like I had[r]
+been tormented by a nightmare, feeling suffocated.[pcms]
 
 *138|
 [fc]
-やっぱり、前田玄治郎のことを聞いたせいなんだろうか。[pcms]
+Perhaps it's because I heard about Maeda Genjirou.[pcms]
 
 *139|
 [fc]
-憎むべき相手の家族が自分の近くにいるなんて、[r]
-思いもしなかった。[pcms]
+To think that the family of someone I should despise is living near[r]
+me, it was something I never imagined.[pcms]
 
 *140|
 [fc]
-越智さんにぶつけても、仕方のない気持ちなんだけど、[r]
-振り上げた拳の行き先が見付かってしまったこの気分は、[r]
-自分の中で収拾が付かなくなっている。[pcms]
+Even if I confront Ochi-san about it, it's a feeling that can't be[r]
+helped, but now that I've found a target for my raised fist, I can't[r]
+settle these feelings inside me.[pcms]
 
 *141|
 [fc]
-やり場の無かった自分の不幸をなじる相手ができたなんて、[r]
-考えるのも嫌だ。[pcms]
+The thought of having found someone to blame for my own misfortune,[r]
+which had nowhere to go, is something I hate to even consider.[pcms]
 
 *142|
 [fc]
-でも……。[pcms]
+But...[pcms]
 
 *143|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *144|
 [fc]
-点けっぱなしのテレビからは、[r]
-朝一番のニュースが流れていた。[pcms]
+The TV that was left on was broadcasting the first news of the[r]
+morning.[pcms]
 
 *145|
 [fc]
-どうやら、不審船が領海侵犯をしたニュースの続報らしい。[pcms]
+Apparently, it's a follow-up report on a suspicious ship that invaded[r]
+territorial waters.[pcms]
 
 *146|
 [fc]
-ぼんやりとテレビの明かりを眺めていると、[r]
-昨日あった様々な事故や事件が流されていた。[pcms]
+As I gazed at the light from the TV absentmindedly, various accidents[r]
+and incidents from yesterday were reported.[pcms]
 
 *147|
 [fc]
-大江戸花火大会が行われたこと。[r]
-駅のホームからの転落事故。[pcms]
+The Ooedo Fireworks Festival took place. There was an accident[r]
+involving someone falling from a train platform.[pcms]
 
 *148|
 [fc]
-幹線道路での交通事故、暴行事件の多発など、[r]
-混乱した夜だったらしい。[pcms]
+There were traffic accidents on main roads and a spate of assault[r]
+cases; it seems it was a chaotic night.[pcms]
 
 *149|
 [fc]
-フェス初日の大神島も大変だったみたいだから、[r]
-花火大会も大変だったんだろう。[pcms]
+The first day of the festival on Oogamijima must have been tough, so[r]
+the fireworks festival must have been difficult too.[pcms]
 
 *150|
 [fc]
-僕はそこで、ニュースの声が聞こえないことに気が付き、[r]
-耳栓を外した。[pcms]
+I then realized that I couldn't hear the news and took out my[r]
+earplugs.[pcms]
 
 *151|
 [fc]
-[ns]宗一郎[nse]
-「ぐがあぁぁぁぁっ！[r]
-　ぐごおおおおおおおおっ！」[pcms]
+[ns]Souichirou[nse]
+"Gugaaaahhh! Gogooooooohhh!"[pcms]
 
 *152|
 [fc]
-大音量のいびきが部屋中に響き渡っている。[pcms]
+Loud snoring echoed throughout the room.[pcms]
 
 *153|
 [fc]
-そのうち無呼吸症候群で死ぬんじゃないかと思うくらい、[r]
-酷いいびきだ。[pcms]
+I thought he might die from sleep apnea syndrome, his snoring was that[r]
+bad.[pcms]
 
 *154|
 [fc]
-昨日の夜、食人族とゾンビが跋扈する孤島が舞台の映画を、[r]
-新聞のテレビ欄に発見したそーいちは、眠そうな目を擦りながら、[r]
-遅くまで起きて視聴するつもりのようだった。[pcms]
+Last night, Souichirou found a movie set on an isolated island overrun[r]
+by cannibals and zombies in the newspaper's TV section and seemed[r]
+intent on staying up late to watch it, rubbing his sleepy eyes.[pcms]
 
 *155|
 [fc]
-新作映画、年間１００本鑑賞達成が微妙になったとか[r]
-言っていたし、軽い禁断症状でも出ていたんだろう。[pcms]
+He mentioned something about barely reaching his goal of watching 100[r]
+new movies a year and might have been experiencing mild withdrawal[r]
+symptoms.[pcms]
 
 *156|
 [fc]
-テレビを点けっぱなしで寝てるところを見ると、[r]
-途中で力尽きて、最後まで見ていないんだろうけれど、[r]
-映画を見ることができて幸せに違いない。[pcms]
+Seeing him asleep with the TV still on, he must have run out of steam[r]
+midway and didn't watch it to the end, but he must be happy to have[r]
+been able to watch the movie.[pcms]
 
 *157|
 [fc]
-僕はニュースが流れているテレビの電源を切ると、[r]
-これからどうしようか思案した。[pcms]
+I turned off the TV that was still broadcasting the news and pondered[r]
+what to do next.[pcms]
 
 *158|
 [fc]
-こんな時間に出来ることは限られている。[r]
-二度寝してもいいけど、なんだか夢見が悪そうだ。[pcms]
+There's not much to do at this hour. I could go back to sleep, but it[r]
+seems like I might have bad dreams again.[pcms]
 
 *159|
 [fc]
-[ns]宗一郎[nse]
-「ぐぼあああああっ！[r]
-　ぎぐぐあああああああっ！」[pcms]
+[ns]Souichirou[nse]
+"Gubooooaaaahhh! Giguguaaaaaahhh!"[pcms]
 
 *160|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *161|
 [fc]
-そーいちのいびきを聞いているのも疲れるな。[pcms]
+Listening to Souichirou's snoring is also tiring.[pcms]
 
 *162|
 [fc]
-僕はざっと着替えると、またホテルの中をブラブラするために[r]
-部屋を出て行った。[pcms]
+I quickly got dressed and left the room to wander around the hotel[r]
+again.[pcms]
 
 ;//★bg11b ホテル廊下・夜
 [bg storage="BG11b"][trans_c cross time=500]
 
 *163|
 [fc]
-商業施設は閉まっているだろうし、[r]
-コンビニで立ち読みという気分でもない。[pcms]
+The shops would be closed, and I'm not in the mood to read magazines[r]
+at a convenience store.[pcms]
 
 *164|
 [fc]
-僕の行き先は、なんとなく屋上の自然庭園に[r]
-向かっていた。[pcms]
+Somehow, my destination was the natural garden on the rooftop.[pcms]
 
 *165|
 [fc]
-エレベータを待つ間に携帯のメールをチェックしておく。[r]
-寝ている間に着信しているかも知れない。[pcms]
+While waiting for the elevator, I checked my mobile phone for any[r]
+messages. There might be some that came in while I was asleep.[pcms]
 
 *166|
 [fc]
-携帯の画面にはメールが２通着信していると、表示されていた。[r]
-村上さんと姉ちゃんだ。[pcms]
+My mobile phone screen showed that there were two messages received.[r]
+One from Murakami-san and one from Onee-san.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -216,30 +213,28 @@
 *167|
 [fc]
 [vo_sat s="sato0090"]
-[ns]怜[nse]
-『イベントお疲れ様でした、ターヤから話を聞いたよ。[r]
-　ちょっと残念だったけど詳しい話はまた明日！』[pcms]
+[ns]Sato[nse]
+"Good job at the event. I heard about it from Tarja. It's a bit[r]
+disappointing but let's talk more tomorrow!"[pcms]
 
 [ChrSetEx layer=5 chbase="sa2_mi1" opacity=100][ChrSetParts layer=5 chface="F2_sa03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *168|
 [fc]
 [vo_sat s="sato0091"]
-[ns]怜[nse]
-『スポーツセンターで会ったら、話を聞かせてね♪』[pcms]
+[ns]Sato[nse]
+"When we meet at the sports center, let me hear all about it♪"[pcms]
 
 [chara_int][trans_c cross time=500]
 
 *169|
 [fc]
-モンバスのイベントは散々だった。[r]
-あんまり報告できることはないかも知れない。[pcms]
+The Monbus event was a disaster. There might not be much to report.[pcms]
 
 *170|
 [fc]
-それでも、どんな雰囲気だったのか、[r]
-他の参加者たちの様子とか、新種の動きとか、[r]
-話すことは色々あるか。[pcms]
+Still, there might be lots to talk about like what the atmosphere was[r]
+like, how other participants were, or any new developments.[pcms]
 
 [backlay_c][image storage="dream_mask" layer=8 page=back visible=true left=0 top=0]
 [ChrSetEx layer=5 chbase="na2_sk2_a" opacity=100][ChrSetParts layer=5 chface="F2_na02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=300]
@@ -247,79 +242,79 @@
 *171|
 [fc]
 [vo_nat s="natu0338"]
-[ns]夏都[nse]
-『初日のフェスは最高だった。[r]
-　言葉に出来ないくらい最高だった。[r]
-　これからシャワー浴びて寝るから、また明日』[pcms]
+[ns]Natsu[nse]
+"The first day of the fest was amazing. It was so great I can't put it[r]
+into words. Going to take a shower and sleep now, talk to you[r]
+tomorrow."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *172|
 [fc]
-姉ちゃんからのメールは、ついさっき届いている。[r]
-今頃は夢の中だろう。[pcms]
+The email from Onee-san had arrived just a moment ago. She's probably[r]
+in dreamland by now.[pcms]
 
 *173|
 [fc]
-フェスをものすごく楽しんでいるみたいで、[r]
-僕も嬉しかった。[pcms]
+She seems to be really enjoying the fest, and that made me happy.[pcms]
 
 *174|
 [fc]
-いつも大変な姉ちゃんに、[r]
-少しでも楽しんでもらいたい。[pcms]
+I always want my hardworking sister to have some fun, even if it's[r]
+just a little.[pcms]
 
 *175|
 [fc]
-そういえば、姉ちゃんの帰りの日程を聞いていなかった。[pcms]
+By the way, I haven't asked Onee-san about her return schedule.[pcms]
 
 *176|
 [fc]
-もし、合宿の最終日までいられるのなら、チアー部が参加する[r]
-島のお祭りにも、一緒に行けないだろうか。[pcms]
+If she can stay until the last day of the training camp, I wonder if[r]
+she could join us at the island festival that the cheerleading club is[r]
+participating in.[pcms]
 
 *177|
 [fc]
-村上さんとかターヤさんも呼んで、[r]
-一緒に楽しみたい。[pcms]
+I'd like to invite Murakami-san and Tarja-san too, and have fun[r]
+together.[pcms]
 
 ;//★bg11b ホテル廊下・夜
 [bg storage="BG11b"][trans_c cross time=500]
 
 *178|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *179|
 [fc]
-こんな時間なのに、エレベータが中々到着しなかった。[r]
-一台が上の階で止まったまま動く気配がない。[pcms]
+The elevator was taking a while to arrive at this time of night. One[r]
+of them seemed to be stuck on an upper floor without any sign of[r]
+moving.[pcms]
 
 *180|
 [fc]
-もう一台を待つしかないんだけど、[r]
-どうしたんだろうか？[pcms]
+I have no choice but to wait for the other one, but what's going on?[pcms]
 
 *181|
 [fc]
-ふと、何かが動くのを視界の隅に捕らえて、[r]
-そちらを振り返る。[pcms]
+Suddenly, I caught something moving out of the corner of my eye and[r]
+turned to look.[pcms]
 
 *182|
 [fc]
-すると、廊下の奥、客室前のドアに、[r]
-人が前掛かりにもたれかかっているのが見えた。[pcms]
+Then, at the end of the hallway, in front of a guest room door, I saw[r]
+someone leaning forward against it.[pcms]
 
 *183|
 [fc]
-ドアを手でゆっくりと叩いている。[r]
-あれは、サッカー部のコーチか？[pcms]
+They were slowly knocking on the door. Is that the soccer team's[r]
+coach?[pcms]
 
 *184|
 [fc]
-カードキーを忘れて締め出されたのか、[r]
-なんか、酔ってる感じだけど……。[pcms]
+Did they forget their card key and get locked out, or maybe they seem[r]
+a bit drunk...?[pcms]
 
 ;//BGM即時停止
 [fadeoutbgm time=500]
@@ -331,17 +326,17 @@
 
 *185|
 [fc]
-[ns]誠[nse]
-「あれ？」[pcms]
+[ns]Makoto[nse]
+"Huh?"[pcms]
 
 *186|
 [fc]
-遠くで悲鳴が聞こえたような気がした。[r]
-気のせいかな？[pcms]
+I thought I heard a scream in the distance. Was it just my[r]
+imagination?[pcms]
 
 *187|
 [fc]
-耳を澄ませてみる。[pcms]
+I strained my ears to listen.[pcms]
 
 ;//◆ＳＥ　悲鳴とか
 
@@ -349,41 +344,40 @@
 
 *188|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 
 *189|
 [fc]
-なにか、うっすらと声が聞こえるような気がした。[r]
-大人数のざわめきというか、遠くで声が……。[pcms]
+I felt like I could faintly hear something, like a murmur of a large[r]
+group of people or voices from afar...[pcms]
 
 ;//◆ＳＥ　エレベータが到着する音（チン♪）
 [se buf=0 storage="seC055"]
 
 *190|
 [fc]
-すると、待っていたエレベータが[r]
-この階に到着して扉が開いた。[pcms]
+Then, the elevator I was waiting for arrived at this floor and the[r]
+doors opened.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *191|
 [fc]
-こんな時間になんの騒ぎなんだろうか。[r]
-僕は気になりながらも、到着したエレベータに乗り込む。[pcms]
+What kind of commotion could it be at this hour? While curious, I[r]
+stepped into the arriving elevator.[pcms]
 
 *192|
 [fc]
-フェスが終わっても騒ぎ足りない奴らが、[r]
-駐車場辺りで騒いでいるのかな？[pcms]
+Maybe those who haven't had enough fun even after the fest are making[r]
+noise around the parking lot?[pcms]
 
 *193|
 [fc]
-なんにしても、僕には関係ない。[r]
-閉まるエレベータのドアを見ながら、[r]
-そんなことを頭の中から追い出していった。[pcms]
+Whatever it is, it's none of my business. As the elevator doors[r]
+closed, I pushed those thoughts out of my mind.[pcms]
 
 ;//bgm03.ogg
 [bgm storage="BGM03"]
@@ -393,28 +387,28 @@
 
 *194|
 [fc]
-屋上庭園に着くと、心地いい風が頬を撫でながら[r]
-後ろに吹き抜けていった。[pcms]
+When I arrived at the rooftop garden, a pleasant breeze caressed my[r]
+cheeks and blew past me.[pcms]
 
 *195|
 [fc]
-まだ暗い庭園に人の姿はなく、[r]
-涼を取るには格好の場所になっている。[pcms]
+The garden was still dark and deserted, making it an ideal place to[r]
+cool off.[pcms]
 
 *196|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *197|
 [fc]
-ちょっと予感めいた想像が頭の隅をかすめた。[r]
-でも、こんな時間にそれはないと自分を否定する。[pcms]
+A premonition-like thought flitted through my mind, but I dismissed[r]
+it, telling myself that couldn't be possible at this hour.[pcms]
 
 *198|
 [fc]
-色々なことを考えながら、僕の足が向かっていたのは、[r]
-この前越智さんが薙刀の練習をしていた場所だった。[pcms]
+While pondering various things, I found myself heading towards the[r]
+spot where Akari-san had been practicing naginata before.[pcms]
 
 ;//■イベントCG　akari_N003
 [evcg storage="akari_N003a" x=-250 y=0][trans_c lr time=1000]
@@ -424,34 +418,32 @@
 *199|
 [fc]
 [vo_aka s="akari0597"]
-[ns]茜梨[nse]
-「フッ！　ハッ！　タァーッ！」[pcms]
+[ns]Akari[nse]
+"Huff! Ha! Taaah!"[pcms]
 
 *200|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *201|
 [fc]
-越智さんが居る。[r]
-早朝とも呼べない時間に、こんな場所で会うなんて……。[pcms]
+Akari-san is here. To meet her at such a place at an hour that can't[r]
+even be called early morning...[pcms]
 
 *202|
 [fc]
-寝ていないんだろうか。[r]
-それとも寝付きが悪くて起きてしまったんだろうか。[pcms]
+Hasn't she slept? Or maybe she couldn't fall asleep and ended up[r]
+waking up?[pcms]
 
 *203|
 [fc]
-僕は、越智さんに見つからないように、[r]
-その練習を眺めつづける。[pcms]
+I watched her practice without being noticed by Akari-san.[pcms]
 
 *204|
 [fc]
-なんとなく、邪魔しちゃ悪いという気持ちと、[r]
-もっと越智さんが練習する姿を見たいという気持ちが、[r]
-胸の中で交差していた。[pcms]
+Somehow, I felt it would be wrong to interrupt her, and yet I wanted[r]
+to keep watching Akari-san practice.[pcms]
 
 ;//m:茜梨の袴。VIPルーム到達以降は着替える
 ;//★bg21c ホテル屋上庭園・夜
@@ -461,185 +453,184 @@
 *205|
 [fc]
 [vo_aka s="akari0598"]
-[ns]茜梨[nse]
-「フーッ、フーッ……」[pcms]
+[ns]Akari[nse]
+"Hoo-huff, hoo-huff..."[pcms]
 
 *206|
 [fc]
-越智さんはまるで道場にいるみたいに厳粛な表情で一礼をすると、[r]
-肩の力を抜いて呼吸を整え始めた。[pcms]
+Akari-san bowed solemnly as if she were in a dojo, then relaxed her[r]
+shoulders and began to regulate her breathing.[pcms]
 
 *207|
 [fc]
-どうやら練習が終わったみたいだ。[r]
-僕は、木陰から姿を現す。[pcms]
+It seems her practice is over. I emerge from the shade of the trees.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *208|
 [fc]
 [vo_aka s="akari0599"]
-[ns]茜梨[nse]
-「中澤先輩！」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai!"[pcms]
 
 *209|
 [fc]
-[ns]誠[nse]
-「ここで会うのは２度目だね、[r]
-　ちょっと眠れなくて散歩してたんだ」[pcms]
+[ns]Makoto[nse]
+"This is our second time meeting here, huh? I couldn't sleep so I was[r]
+just taking a walk."[pcms]
 
 ;//★bg01c 瀬渡内海風景（ホテル・屋上庭園）・夜
 [bg storage="BG01c"][trans_c cross time=500]
 
 *210|
 [fc]
-僕は屋上庭園の縁にまで歩くと、[r]
-そこから広がる景色を眺める。[pcms]
+I walked to the edge of the rooftop garden and gazed out at the view[r]
+that spread before me.[pcms]
 
 *211|
 [fc]
-すると、越智さんも僕のそばまでやってきて[r]
-遠くの夜空に視線を向けていった。[pcms]
+Then Akari-san also came up beside me and looked out into the distant[r]
+night sky.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *212|
 [fc]
 [vo_aka s="akari0600"]
-[ns]茜梨[nse]
-「うまく説明できないんですけれど、[r]
-　稽古の終わりに夜明けが見たかったんです」[pcms]
+[ns]Akari[nse]
+"I can't quite explain it, but I wanted to see the dawn after[r]
+finishing my practice."[pcms]
 
 *213|
 [fc]
-[ns]誠[nse]
-「夜明けの景色を見るのはいいね、[r]
-　きっとすごくきれいだと思う」[pcms]
+[ns]Makoto[nse]
+"Watching the sunrise is nice, I bet it's really beautiful."[pcms]
 
 *214|
 [fc]
-スポーツをやらない僕には理解できない[r]
-気持ちなんだろうけれど、なんとなくわかった。[pcms]
+I may not understand the feeling since I don't do sports, but somehow[r]
+I get it.[pcms]
 
 *215|
 [fc]
-ゲームをやっていても、お気に入りの終わらせ方とか、[r]
-ボスの倒し方とかがあるのに似ているんだろう。[pcms]
+It's probably similar to having a favorite way to finish a game or a[r]
+preferred method to defeat a boss.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *216|
 [fc]
 [vo_aka s="akari0601"]
-[ns]茜梨[nse]
-「今日からは、もう、ずっと部活と練習ですね」[pcms]
+[ns]Akari[nse]
+"From today on, it's going to be all club activities and practice."[pcms]
 
 *217|
 [fc]
-[ns]誠[nse]
-「合宿の終わりにお祭りがあるじゃない、[r]
-　越智さんは参加したことあるの？」[pcms]
+[ns]Makoto[nse]
+"There's a festival at the end of the training camp, right? Have you[r]
+ever participated in it, Ochi-san?"[pcms]
 
 *218|
 [fc]
-この島のお祭りなら、地元の越智さんが[r]
-参加したこともありそうだ。[pcms]
+If it's a festival on this island, local Ochi-san might have[r]
+participated before.[pcms]
 
 *219|
 [fc]
-いつぐらいに東京に引っ越したのかわからないけれど、[r]
-知っているなら、どんなお祭りなのか興味がある。[pcms]
+I'm not sure when she moved to Tokyo, but if she knows about it, I'm[r]
+curious what kind of festival it is.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *220|
 [fc]
 [vo_aka s="akari0602"]
-[ns]茜梨[nse]
-「何度か、母と一緒にお祭りに行ったことがあります。[r]
-　島の外からも人が来るので、にぎやかですよ」[pcms]
+[ns]Akari[nse]
+"I've been to the festival several times with my mother. It gets[r]
+lively since people come from off the island too."[pcms]
 
 *221|
 [fc]
-[ns]誠[nse]
-「大きなお祭りなんだね……、[r]
-　フェスが終わっても、警察はまだ忙しいのかな」[pcms]
+[ns]Makoto[nse]
+"So it's a big festival... I wonder if the police are still busy even[r]
+after the fest is over."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *222|
 [fc]
-容姿に恵まれていて、性格も良くて、礼儀正しくて、[r]
-努力家で、友達もたくさんいて、才能にも溢れている。[pcms]
+She's blessed with good looks, a nice personality, manners, hard work,[r]
+lots of friends, and overflowing talent.[pcms]
 
 *223|
 [fc]
-実家は由緒正しいお金持ちだし、実力のある親戚筋がいて、[r]
-母親に愛されながら育ち、将来になんの不安もない。[pcms]
+She comes from a well-to-do family with a distinguished history, has[r]
+capable relatives, was raised loved by her mother, and has no worries[r]
+about her future.[pcms]
 
 *224|
 [fc]
-加害者である越智さんが、こんなに恵まれた[r]
-環境にいるというのに、被害者の僕には[r]
-血の繋がった家族すらいなかった。[pcms]
+Despite Ochi-san being the offender, she lives in such a blessed[r]
+environment, whereas I, the victim, don't even have blood-related[r]
+family.[pcms]
 
 ;//★sky04 空・夜B
 [bg storage="sky04b"][trans_c cross time=500]
 
 *225|
 [fc]
-両親も友達も悲惨な死を迎えて、生まれ育った土地さえ奪われ、[r]
-今は今で陰湿ないじめに遭いながら、社会の底辺で喘いでいる。[pcms]
+Both my parents and friends met tragic deaths, I was robbed of my[r]
+birthplace, and now I'm gasping at the bottom of society while[r]
+suffering from insidious bullying.[pcms]
 
 *226|
 [fc]
-こんな不公平があるんだろうか。[pcms]
+Can there be such injustice?[pcms]
 
 *227|
 [fc]
-あの事件さえなければ、僕だって中流の家庭で[r]
-見知った友達に囲まれながら、思い出深い土地の中で[r]
-幸せに暮らしていけたのに。[pcms]
+If it weren't for that incident, I too could have lived happily in a[r]
+middle-class family surrounded by familiar friends in a memorable[r]
+place.[pcms]
 
 *228|
 [fc]
-今の僕は、モンバスのソフト一本買うこともできずに、[r]
-そーいちから貰ったもので遊んでいる始末だ。[pcms]
+Now, I can't even afford a single Monbas software and am playing with[r]
+what I got from Souichi.[pcms]
 
 *229|
 [fc]
-ただでさえ苦しい生活を支えてくれている姉ちゃんに、[r]
-我が儘なことなんて何も言えない。[pcms]
+I can't say anything selfish to my sister who is already supporting[r]
+our difficult life.[pcms]
 
 *230|
 [fc]
-昔、母親と一緒に行ったお祭りのにぎやかさなんて、[r]
-無邪気な思い出を語ることは絶対にできない。[pcms]
+I can never talk about the lively atmosphere of the festival I went to[r]
+with my mother as an innocent memory.[pcms]
 
 *231|
 [fc]
-故郷を失う辛さ、[r]
-家族も友人もいない世界で生きていく虚しさ。[pcms]
+The pain of losing my hometown, the emptiness of living in a world[r]
+without family or friends.[pcms]
 
 *232|
 [fc]
-幸せだった思い出を語るなんて、[r]
-それ自体が苦痛を産むだけだ。[pcms]
+Talking about happy memories only brings pain.[pcms]
 
 *233|
 [fc]
-うっすらと感じていた人生の断絶は確かに存在していて、[r]
-それは僕が自分の心を守るために創り上げたものだ。[pcms]
+The faint sense of life's discontinuity that I felt does exist, and[r]
+it's something I created to protect my own heart.[pcms]
 
 *234|
 [fc]
-ある時期から今に至る時期の途中に壁を作り、[r]
-４年前の自分と今の自分を切り離さなければ、[r]
-もう、一秒だって生きていけない。[pcms]
+I had to build a wall in the middle of the period from a certain time[r]
+to now and separate myself from who I was four years ago; otherwise, I[r]
+couldn't live another second.[pcms]
 
 *235|
 [fc]
-辛いと感じてしまったら、歩けなくなってしまう。[pcms]
+If I start feeling pain, I'll become unable to walk.[pcms]
 
 
 [bg storage="BG21c"][trans_c cross time=500]
@@ -649,121 +640,119 @@
 *236|
 [fc]
 [vo_aka s="akari0603"]
-[ns]茜梨[nse]
-「な、中澤先輩……」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak10"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *237|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *238|
 [fc]
-気が付くと、隣にいた越智さんが怯えた表情で[r]
-僕のことを見つめていた。[pcms]
+When I realized it, Ochi-san next to me was staring at me with a[r]
+frightened expression.[pcms]
 
 *239|
 [fc]
-その瞳に、暗く歪んだ醜い自分の顔が見えている。[pcms]
+In her eyes, I could see my own ugly face twisted in darkness.[pcms]
 
 *240|
 [fc]
-僕は、今、延々と何を考えていたのか。[r]
-どうしようもなく、愚かなことを考えていなかったか？[pcms]
+What was I endlessly thinking about just now? Wasn't it something[r]
+utterly foolish?[pcms]
 
 *241|
 [fc]
-越智さんを愛おしいという気持ちが、[r]
-胸の中の暗い部分とせめぎ合っている。[pcms]
+The feeling of cherishing Ochi-san is struggling against the dark part[r]
+inside my chest.[pcms]
 
 *242|
 [fc]
-怒りと愛しさが混ざり合って、[r]
-吐き気を催すような気分を作り上げていた。[pcms]
+Anger and fondness are mixing together, creating a nauseating feeling.[pcms]
 
 [evcg storage="akari_N005a"][trans_c cross time=300]
 
 *243|
 [fc]
 [vo_aka s="akari0604"]
-[ns]茜梨[nse]
-「あっ……」[pcms]
+[ns]Akari[nse]
+"Ah..."[pcms]
 
 *244|
 [fc]
-思わず、両手で越智さんを抱きしめてしまう。[pcms]
+Without thinking, I ended up hugging Ochi-san with both arms.[pcms]
 
 *245|
 [fc]
-僕が考えなくちゃいけないのは、過去を引きずることじゃない。[r]
-これからの幸せのことだ。[pcms]
+What I need to think about isn't clinging to the past. It's about[r]
+future happiness.[pcms]
 
 *246|
 [fc]
-過去にすがることで、大事な人を傷つけてどうする？[pcms]
+What good is it to hurt someone important by clinging to the past?[pcms]
 
 *247|
 [fc]
-もう戻ってこない時間がそんなに大切か？[pcms]
+Is time that will never return so precious?[pcms]
 
 *248|
 [fc]
-周囲に八つ当たりして、憐れを誘うのがそんなに楽しいか？[pcms]
+Is it really so enjoyable to lash out at those around you and evoke[r]
+pity?[pcms]
 
 *249|
 [fc]
-[ns]誠[nse]
-「ごめんね……」[pcms]
+[ns]Makoto[nse]
+"I'm sorry..."[pcms]
 
 *250|
 [fc]
-越智さんを傷つけてしまったかも知れないのに、[r]
-僕の口を突いて出たのはそれだけだった。[pcms]
+Even though I might have hurt Ochi-san, all that came out of my mouth[r]
+was that.[pcms]
 
 *251|
 [fc]
-越智さんの戸惑いが伝わってくる。[pcms]
+Ochi-san's confusion is palpable.[pcms]
 
 *252|
 [fc]
-突然悪意をぶつけられ、[r]
-すぐに謝られながら抱きしめられて、[r]
-困惑しない人もいないだろう。[pcms]
+Suddenly being hit with malice, then immediately apologized to while[r]
+being hugged, anyone would be confused.[pcms]
 
 [evcg storage="akari_N005b"][trans_c cross time=300]
 
 *253|
 [fc]
-でも、越智さんは戸惑いながら、[r]
-僕のことを抱きしめ返してくれた。[pcms]
+But even while bewildered, Ochi-san hugged me back.[pcms]
 
 *254|
 [fc]
-温かな感触が僕の身体に染み渡ってくる。[pcms]
+A warm sensation permeates through my body.[pcms]
 
 *255|
 [fc]
-嬉しい……。[pcms]
+I'm happy...[pcms]
 
 *256|
 [fc]
-越智さんと見つめ合う。[pcms]
+We gaze into each other's eyes.[pcms]
 
 *257|
 [fc]
-その瞳が、全てを許してくれているように感じた。[pcms]
+I felt like her eyes were forgiving everything.[pcms]
 
 *258|
 [fc]
-僕がその頭をそっと撫でると、[r]
-子犬の様に目を閉じて気持ちよさそうにする。[pcms]
+When I gently stroked her head, she closed her eyes like a contented[r]
+puppy.[pcms]
 
 *259|
 [fc]
-[ns]誠[nse]
-「僕は気にして……」[pcms]
+[ns]Makoto[nse]
+"I care about..."[pcms]
 
 ;//BGM即時停止
 [fadeoutbgm time=500]
@@ -773,12 +762,12 @@
 
 *260|
 [fc]
-そのときだった。[pcms]
+That's when it happened.[pcms]
 
 *261|
 [fc]
-辺りの空気を根こそぎ震わせるような爆音が、[r]
-[ruby text="せいひつ"][ch text="静謐"]な夜の空気を破壊する。[pcms]
+A thunderous noise that seemed to shake the very air around us[r]
+destroyed the tranquil night atmosphere.[pcms]
 
 ;//〆瀬渡内海全景(夜・崩壊)
 ;//★bg01c 瀬渡内海風景（ホテル・屋上庭園）・夜
@@ -788,13 +777,13 @@
 
 *262|
 [fc]
-僕と越智さんはお互いの身体をぎゅっと抱きしめながら、[r]
-何が起こったのか辺りを見渡した。[pcms]
+Ochi-san and I hugged each other tightly as we looked around to see[r]
+what had happened.[pcms]
 
 *263|
 [fc]
-まるで戦争でも始まったような爆発音だ。[r]
-交通事故や悪戯のレベルじゃない。[pcms]
+It sounded like an explosion that could start a war, not something on[r]
+the level of a traffic accident or a prank.[pcms]
 
 
 ;//茜梨大＠袴　表情21　悲鳴　
@@ -802,8 +791,8 @@
 *264|
 [fc]
 [vo_aka s="akari0605"]
-[ns]茜梨[nse]
-「あ、あれです！」[pcms]
+[ns]Akari[nse]
+"Ah, that's it!"[pcms]
 
 ;//bgm13.ogg
 [bgm storage="BGM13"]
@@ -813,77 +802,74 @@
 
 *265|
 [fc]
-越智さんが指さす先、大美島に巨大な火柱が上がっていた。[r]
-かなり大規模な爆発だ。[pcms]
+Ochi-san pointed towards Omi Island, where a huge pillar of fire was[r]
+rising. It was a massive explosion.[pcms]
 
 *266|
 [fc]
-夜の海岸線を良く見渡すと、[r]
-本州の方にもいくつか火の手が上がっている。[pcms]
+Looking closely along the night coastline, there were several fires[r]
+visible towards Honshu as well.[pcms]
 
 *267|
 [fc]
-一体、何が始まったんだ？[pcms]
+What on earth has started?[pcms]
 
 *268|
 [fc]
-まさか、テロとか大規模な事件が起きたんだろうか。[pcms]
+Could it be terrorism or some large-scale incident?[pcms]
 
 *269|
 [fc]
 [vo_mob s="banshee0001"]
-[ns]女性Ａ[nse]
-「きゃーーーーーーーーっ！！」[pcms]
+[ns]Female A[nse]
+"Kyaa--------!"[pcms]
 
 ;//★bg09c リゾートホテル外観・夜
 [bg storage="BG09c"][trans_c lr time=300]
 
 *270|
 [fc]
-ホテルに続く道から、女性の悲鳴が聞こえてきた。[r]
-屋上から下を見下ろすと、女性が数人の人影に集られている。[pcms]
+Screams of a woman could be heard from the road leading to the hotel.[r]
+Looking down from the rooftop, I saw a woman being surrounded by[r]
+several figures.[pcms]
 
 *271|
 [fc]
-何が起きているんだ？[r]
-ひったくりの窃盗団？[pcms]
+What's happening? A gang of snatch thieves?[pcms]
 
 *272|
 [fc]
-馬鹿が集まって悪さをしている？[pcms]
+Some idiots gathering to cause trouble?[pcms]
 
 *273|
 [fc]
-単なる喧嘩か……？[pcms]
+Just an ordinary fight...?[pcms]
 
 *274|
 [fc]
-いや、そうじゃない。[r]
-何か変だ。[pcms]
+No, that's not it. Something is off.[pcms]
 
 *275|
 [fc]
-ホテルの周りを見渡すと、あちこちに、[r]
-フラフラと歩く奇怪な人影が見えた。[pcms]
+Looking around the hotel, there were strange figures staggering about[r]
+here and there.[pcms]
 
 *276|
 [fc]
-一人や二人じゃない。[r]
-かなりの人数がいる。[pcms]
+It's not just one or two people. There's quite a number of them.[pcms]
 
 *277|
 [fc]
-暗がりになってよく見えないけれど、[r]
-相当な数がいるんじゃないだろうか。[pcms]
+It's hard to see in the darkness, but there seems to be a considerable[r]
+number.[pcms]
 
 *278|
 [fc]
-まさか……、[r]
-僕はこれを見たことがある？[pcms]
+Could it be... Have I seen this before?[pcms]
 
 *279|
 [fc]
-まさか……そんな、馬鹿なことが……。[pcms]
+No way... Such a ridiculous thing...[pcms]
 
 ;//★bg21c ホテル屋上庭園・夜
 [bg storage="BG21c"][trans_c cross time=500]
@@ -892,63 +878,63 @@
 *280|
 [fc]
 [vo_aka s="akari0606"]
-[ns]茜梨[nse]
-「け、警察、警察に連絡しないと……」[pcms]
+[ns]Akari[nse]
+"We, we need to contact the police..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *281|
 [fc]
-越智さんは事態を飲み込めていないのか、[r]
-警察に連絡しようとしていた。[pcms]
+Ochi-san seemed unable to grasp the situation and was trying to[r]
+contact the police.[pcms]
 
 *282|
 [fc]
-もしかしたら、ホテルだけじゃなく、[r]
-この辺り一帯で同じ事が起こっているんじゃ……。[pcms]
+Perhaps it's not just the hotel; the same thing might be happening[r]
+throughout this area...[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *283|
 [fc]
 [vo_aka s="akari0607"]
-[ns]茜梨[nse]
-「け、警察に、つ、繋がりません……」[pcms]
+[ns]Akari[nse]
+"The police, I can't get through..."[pcms]
 
 *284|
 [fc]
-慌てる越智さんの混乱が、思わず僕に伝染しそうになる。[r]
-落ち着け、落ち着くんだ……。[pcms]
+Ochi-san's panic was contagious, almost affecting me. Calm down, I[r]
+need to stay calm...[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *285|
 [fc]
-取りあえず他の皆と合流しよう。[r]
-先生かホテルの人の指示に従うべきだ。[pcms]
+We should regroup with everyone else first. We need to follow the[r]
+instructions of a teacher or someone from the hotel.[pcms]
 
 *286|
 [fc]
-ここでパニックを起こしちゃいけない。[r]
-越智さんをなだめて、慎重に……。[pcms]
+We can't afford to panic here. I need to soothe Ochi-san and proceed[r]
+carefully...[pcms]
 
 *287|
 [fc]
-そんなことを考えているときだった、[r]
-茂みの影から誰かが姿を現す。[pcms]
+While I was thinking about what to do, someone emerged from the[r]
+shadows of the bushes.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *288|
 [fc]
 [vo_aka s="akari0608"]
-[ns]茜梨[nse]
-「せ、先生！」[pcms]
+[ns]Akari[nse]
+"Tea, Teacher!"[pcms]
 
 *289|
 [fc]
-[ns]誠[nse]
-「駄目だっ！」[pcms]
+[ns]Makoto[nse]
+"No good!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -956,55 +942,53 @@
 
 *290|
 [fc]
-僕たちの前にやってきたのは、[r]
-さっき下の階で見たサッカー部のコーチだった。[pcms]
+The person who came before us was the soccer team coach we saw on the[r]
+lower floor earlier.[pcms]
 
 *291|
 [fc]
-酔っぱらっているような様子だったけど、[r]
-これは……。[pcms]
+He seemed drunk, but this is...[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *292|
 [fc]
 [vo_aka s="akari0609"]
-[ns]茜梨[nse]
-「で、でも！」[pcms]
+[ns]Akari[nse]
+"But, still!"[pcms]
 
 *293|
 [fc]
-[ns]誠[nse]
-「ぐっ……ぐうっ……」[pcms]
+[ns]Makoto[nse]
+"Guh...guh..."[pcms]
 
 *294|
 [fc]
-緊張と恐怖で身体が[ruby text="すく"]竦んでしまいそうだった。[r]
-サッカー部のコーチの目が、爛々と赤く輝いている。[pcms]
+Tension and fear almost made my body freeze up. The soccer coach's[r]
+eyes were shining a bright red.[pcms]
 
 *295|
 [fc]
-考えがまとまらない。[r]
-逃げなくちゃいけないのに身体が動かない。[pcms]
+My thoughts were scattered. I need to run, but my body won't move.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan5_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
 *296|
 [fc]
-[ns]サッカー部コーチ[nse]
-「せ……セ゛ック゛ス……させ゛ろぉぉぉぉぉぉっ！」[pcms]
+[ns]Soccer Club Coach[nse]
+"Se...Sex...let's have ittttttt!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *297|
 [fc]
 [vo_aka s="akari0610"]
-[ns]茜梨[nse]
-「ひぃぃぃぃぃぃっ！」[pcms]
+[ns]Akari[nse]
+"Eeeeeek!"[pcms]
 
 *298|
 [fc]
-サッカー部のコーチが越智さん目がけて突進してくる。[pcms]
+The soccer coach charged at Ochi-san.[pcms]
 
 [se buf=0 storage="seB018"]
 
@@ -1012,12 +996,12 @@
 
 *299|
 [fc]
-僕は越智さんを抱えたまま、その重い動きを[ruby text="かわ"]躱して、[r]
-床に転げ倒れた。[pcms]
+While holding Ochi-san, I dodged his heavy movements and fell to the[r]
+floor.[pcms]
 
 *300|
 [fc]
-足が……動かない、殺される……。[pcms]
+My legs...won't move, I'm going to be killed...[pcms]
 
 
 ;//茜梨大＠袴　表情14　驚愕　
@@ -1025,20 +1009,20 @@
 *301|
 [fc]
 [vo_aka s="akari0611"]
-[ns]茜梨[nse]
-「中澤先輩！」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *302|
 [fc]
-[ns]誠[nse]
-「うわぁぁぁぁぁぁっ！」[pcms]
+[ns]Makoto[nse]
+"Aaaaaaaah!"[pcms]
 
 *303|
 [fc]
-サッカー部のコーチは、転んでいる僕の足を掴むと、[r]
-越智さんから引きはがすように放り投げる。[pcms]
+The soccer coach grabbed my leg as I lay on the ground and threw me[r]
+away from Ochi-san.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1059,77 +1043,73 @@
 
 *304|
 [fc]
-いくら僕が小柄だと言っても、片手で放り投げられるような[r]
-体重じゃない。[pcms]
+Even though I'm small, I'm not light enough to be thrown with one[r]
+hand.[pcms]
 
 *305|
 [fc]
-痛みとショックで軽い喪失状態に陥る。[pcms]
+The pain and shock sent me into a state of mild loss.[pcms]
 
 *306|
 [fc]
-[ns]誠[nse]
-「に、逃げるんだ……」[pcms]
+[ns]Makoto[nse]
+"We need to run..."[pcms]
 
 *307|
 [fc]
-僕は、やっとそれだけを口から絞り出すと、[r]
-転がった床で奇妙なダンスを踊っていた。[pcms]
+Finally managing to squeeze out those words, I was dancing a strange[r]
+dance on the rolled floor.[pcms]
 
 *308|
 [fc]
-頭が立ち上がろうとしているのに、[r]
-身体が付いてこない。[pcms]
+My head was trying to get up, but my body wouldn't follow.[pcms]
 
 *309|
 [fc]
-まるで床の上を泳いでいるような、無様な格好だった。[pcms]
+I looked ridiculous, as if swimming on the floor.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak21"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *310|
 [fc]
 [vo_aka s="akari0612"]
-[ns]茜梨[nse]
-「中澤先輩！」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai!"[pcms]
 
 *311|
 [fc]
-越智さんはサッカー部のコーチを迂回するようにして、[r]
-僕のところまでやってくる。[pcms]
+Ochi-san circled around the soccer coach and came over to me.[pcms]
 
 *312|
 [fc]
-このままじゃ駄目だ。[r]
-越智さんまで犠牲になってしまう……。[pcms]
+This is no good. Ochi-san will become a victim too...[pcms]
 
 *313|
 [fc]
-ふと、僕の手に固い棒のような物が当たった。[r]
-越智さんの、練習用薙刀だ。[pcms]
+Suddenly, something hard like a stick hit my hand. It was Ochi-san's[r]
+practice naginata.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *314|
 [fc]
 [vo_aka s="akari0613"]
-[ns]茜梨[nse]
-「あっ！」[pcms]
+[ns]Akari[nse]
+"Ah!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *315|
 [fc]
-[ns]誠[nse]
-「うおおおおおおおおおっ！」[pcms]
+[ns]Makoto[nse]
+"Uoooooooh!"[pcms]
 
 [白フラ]
 
 *316|
 [fc]
-転んだままの僕は、越智さんの手から薙刀を奪うと、[r]
-下から突き上げるようにして、[r]
-サッカー部コーチの腹を押していった。[pcms]
+While still on the ground, I snatched the naginata from Ochi-san's[r]
+hand and pushed it upwards into the soccer coach's belly.[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan5_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 
@@ -1142,21 +1122,21 @@
 
 *317|
 [fc]
-刃の付いている方じゃない。[r]
-柄の部分で上半身を突き上げる。[pcms]
+It wasn't the blade side. I was pushing up with the handle part[r]
+against his upper body.[pcms]
 
 *318|
 [fc]
-[ns]サッカー部コーチ[nse]
-「んか゛……く゛か゛……ふ゛ああ゛ぁぁぁぁぁぁぁぁっ！」[pcms]
+[ns]Soccer Club Coach[nse]
+"Nga...gga...buuaaaaahhhhhhh!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_dou"][ChrSetParts layer=5 chface="F2_ak14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *319|
 [fc]
 [vo_aka s="akari0614"]
-[ns]茜梨[nse]
-「ひぃぃぃぃぃっ！」[pcms]
+[ns]Akari[nse]
+"Eeeeeek!"[pcms]
 
 [ChrSetEx layer=5 chbase="mob_kan5_x"][ChrSetXY layer=5 x=290 y=0][trans_c cross time=150]
 [move layer=5 path="(190,0,255)" time=1000][wm]
@@ -1166,99 +1146,96 @@
 
 *320|
 [fc]
-後ろによろめいたサッカー部のコーチが、[r]
-覚束ない足取りで数歩後ろに下がると、逆上がりでもするように、[r]
-くるんと回転して手すりの向こうに姿を消してしまう。[pcms]
+The soccer coach stumbled backward, took a few unsteady steps, then[r]
+spun around and disappeared over the railing.[pcms]
 
 *321|
 [fc]
-落ちた……こんなホテルの屋上から、真っ逆さまに。[pcms]
+He fell...from the rooftop of this hotel, straight down.[pcms]
 
 *322|
 [fc]
-人を殺してしまったという恐怖が僕の混乱を麻痺させて、[r]
-身体に自由を取り戻してくれる。[pcms]
+The fear of having killed someone paralyzed my confusion and freed my[r]
+body.[pcms]
 
 *323|
 [fc]
-我に返った僕は、凶器の薙刀をおぞましい物のように[r]
-投げ捨てると、手すりに走り寄った。[pcms]
+Coming back to myself, I threw the naginata away as if it were[r]
+something abominable and ran to the railing.[pcms]
 
 *324|
 [fc]
-サッカー部のコーチはどうなったんだ？[r]
-この下に引っかかるところがあれば……。[pcms]
+What happened to the soccer coach? If there's something below that he[r]
+could catch onto...[pcms]
 
 *325|
 [fc]
-慌てて僕の隣に並んだ越智さんは、[r]
-一緒に屋上から地面を見下ろして、[r]
-落ちたサッカー部コーチの姿を探す。[pcms]
+Ochi-san hurriedly lined up next to me, and together we looked down[r]
+from the rooftop, searching for the fallen soccer coach.[pcms]
 
 *326|
 [fc]
-でも、その姿はホテルの夜間照明に照らされて、[r]
-すぐに見つけることが可能だった。[pcms]
+But his figure was quickly found, illuminated by the hotel's night[r]
+lights.[pcms]
 
 *327|
 [fc]
-[ns]誠[nse]
-「あ……ああっ……」[pcms]
+[ns]Makoto[nse]
+"Ah...ahhh..."[pcms]
 
 *328|
 [fc]
-ホテルの屋上から地面まで、何メートルくらいあるんだろうか。[pcms]
+I wonder how many meters it is from the hotel rooftop to the ground.[pcms]
 
 *329|
 [fc]
-どんなに運動神経が良くても、華麗に着地するなんてことは、[r]
-不可能なくらいの高さはある。[pcms]
+No matter how good someone's reflexes are, it's impossible to land[r]
+gracefully from such a height.[pcms]
 
 *330|
 [fc]
-なのに、サッカー部のコーチは……、[r]
-何ごともなかったかのように足を引きずりながら、[r]
-血を流して地面を歩いていた。[pcms]
+And yet, the soccer coach...as if nothing had happened, was dragging[r]
+his feet and walking on the ground while bleeding.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak15"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *331|
 [fc]
 [vo_aka s="akari0615"]
-[ns]茜梨[nse]
-「ど、どうして……」[pcms]
+[ns]Akari[nse]
+"How...how is this possible..."[pcms]
 
 *332|
 [fc]
-[ns]誠[nse]
-「奴らだ……間違いない……」[pcms]
+[ns]Makoto[nse]
+"It's them... no doubt about it..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *333|
 [fc]
 [vo_aka s="akari0616"]
-[ns]茜梨[nse]
-「奴ら……？」[pcms]
+[ns]Akari[nse]
+"Them...?"[pcms]
 
 *334|
 [fc]
-とにかく逃げよう。[r]
-無事な人たちと、安全なところに。[pcms]
+Anyway, let's escape. To a safe place, with the people who are[r]
+unharmed.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *335|
 [fc]
-でも、そんなところがあるのか？[pcms]
+But, is there such a place?[pcms]
 
 ;//★bg09c リゾートホテル外観・夜
 [bg storage="BG09c"][trans_c cross time=500]
 
 *336|
 [fc]
-サッカー部のコーチは、ホテルの中にいたんだぞ……？[pcms]
+The soccer coach was inside the hotel, wasn't he...?[pcms]
 
 ;//ブロック5050へjump
 [jump storage="5050.ks" target=*5050_TOP]

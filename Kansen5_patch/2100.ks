@@ -21,58 +21,60 @@
 
 *1102|
 [fc]
-[ns]誠[nse]
-「はっ、はっ……はっ、はっ……」[pcms]
+[ns]Makoto[nse]
+"Hah, hah...hah, hah..."[pcms]
 
 *1103|
 [fc]
-あらん限りの速さで走り抜ける。[pcms]
+I ran through with all the speed I could muster.[pcms]
 
 *1104|
 [fc]
-駆け抜けようとする僕らに、アイツラが向かってきた時も[r]
-あったけど、やっぱり鈍重な動きだった。[pcms]
+Even when they came at us as we tried to run through, their movements[r]
+were sluggish.[pcms]
 
 *1105|
 [fc]
-だから、突き飛ばしたり、蹴りくれたりして何とか進んでいる。[pcms]
+So, by pushing and kicking them away, we somehow managed to keep[r]
+moving forward.[pcms]
 
 *1106|
 [fc]
-まとめた荷物を持っている先輩の方が、[r]
-大した荷物も持っていない僕よりも身のこなしが断然いい。[pcms]
+The senior carrying the bundled luggage was far more agile than me,[r]
+who wasn't carrying much of anything.[pcms]
 
 *1107|
 [fc]
-正直、南先輩に付いていくのがやっとだった。[r]
-息があがっている。集中していないと足がもつれそうだった。[pcms]
+Honestly, it was all I could do to keep up with Senior Satsuki. I was[r]
+out of breath. If I didn't concentrate, I felt like my legs would[r]
+tangle up.[pcms]
 
 [ChrSetEx layer=6 chbase="mob_kan5_x_bl"][ChrSetXY layer=6 x=400 y=0][trans_c cross time=150]
 
 *1108|
 [fc]
-[ns]感染者男[nse]
-「はら、へったあ……」[pcms]
+[ns]Infected Man[nse]
+"I'm so...hungry..."[pcms]
 
 *1109|
 [fc]
-[ns]誠[nse]
-「うわっ！！」[pcms]
+[ns]Makoto[nse]
+"Whoa!!"[pcms]
 
 *1110|
 [fc]
-のたりとテントの脇から出てきた感染者に、ぶつかってしまった。[r]
-相手は不動のままで、僕だけが地面に倒れ込む。[pcms]
+An infected man emerged from beside the tent, and I bumped into him.[r]
+He remained motionless, and I was the one who fell to the ground.[pcms]
 
 *1111|
 [fc]
-[ns]感染者男[nse]
-「に、く？　ちょうどいい、はら、へってた……」[pcms]
+[ns]Infected Man[nse]
+"Meat? Perfect timing, I'm starving..."[pcms]
 
 *1112|
 [fc]
-[ns]誠[nse]
-「うわあ、やめろっ！　先輩っ！　南先輩ーーっ！」[pcms]
+[ns]Makoto[nse]
+"Ahh, stop it! Senior! Senior Satsuki--!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="st1_t1_a"][ChrSetParts layer=3 chface="f1_st14"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -80,169 +82,165 @@
 *1113|
 [fc]
 [vo_stk s="satuki_st0175"]
-[ns]彩月[nse]
-「！？」[pcms]
+[ns]Satsuki[nse]
+"!?"[pcms]
 [chara_int][trans_c cross time=150]
 
 *1114|
 [fc]
-僕の声に前を走っていた南先輩が振り返る。[r]
-でも、すぐに僕の視界から見えなくなってしまった。どこに？！[pcms]
+Senior Satsuki, who had been running ahead, turned around at the sound[r]
+of my voice. But then she disappeared from my field of vision. Where[r]
+did she go?![pcms]
 
 [ChrSetEx layer=6 chbase="mob_kan5_x_bl"][ChrSetXY layer=6 x=400 y=0][trans_c cross time=150]
 
 *1115|
 [fc]
-[ns]感染者男[nse]
-「いた……だきます……」[pcms]
+[ns]Infected Man[nse]
+"I'll...feast..."[pcms]
 
 *1116|
 [fc]
-男がのし掛かってくる。僕は必死に腕を振り回し、[r]
-足を前に蹴り出し、腰を使って後ずさる。[pcms]
+The man lunged at me. Desperately, I flailed my arms, kicked out my[r]
+legs, and used my hips to scoot backwards.[pcms]
 
 *1117|
 [fc]
-[ns]誠[nse]
-「くそっ！　やめろっ！！」[pcms]
+[ns]Makoto[nse]
+"Damn it! Stop!!"[pcms]
 
 *1118|
 [fc]
-[ns]感染者男[nse]
-「にげ……るな」[pcms]
+[ns]Infected Man[nse]
+"Don't...run away"[pcms]
 
 *1119|
 [fc]
-[ns]誠[nse]
-「うわああっ！！」[pcms]
+[ns]Makoto[nse]
+"Ahhhh!!"[pcms]
 
 *1120|
 [fc]
-赤い眼と開いた口が目の前にせまっていた！[pcms]
+Red eyes and an open mouth loomed before me![pcms]
 
 *1121|
 [fc]
 [vo_stk s="satuki_st0176"]
-[ns]彩月[nse]
-「ふんっ！！」[pcms]
+[ns]Satsuki[nse]
+"Hmph!!"[pcms]
 
 ;//#_赤フラ
 [赤フラ]
 
 *1122|
 [fc]
-襲ってくる感染者の後ろに、突然南先輩が現れた。[r]
-後ろからソイツの首に腕を回し、締め上げながら、[r]
-手に持っていた何かを男の耳の穴目掛けて突っ込む。[pcms]
+Suddenly, Senior Satsuki appeared behind the attacking infected man.[r]
+She wrapped her arm around his neck from behind and choked him while[r]
+thrusting something she was holding towards the man's ear.[pcms]
 
 *1123|
 [fc]
-[ns]感染者男[nse]
-「あ……があ……」[pcms]
+[ns]Infected Man[nse]
+"Ah...gah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1124|
 [fc]
-南先輩は、僕の上に倒れ込みそうになる男を横へと突き飛ばした。[r]
-呆然とする僕に、南先輩の手が差し出される。[pcms]
+Senior Satsuki pushed the man, who was about to fall on top of me, to[r]
+the side. To my stunned self, she extended her hand.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1125|
 [fc]
 [vo_stk s="satuki_st0177"]
-[ns]彩月[nse]
-「大丈夫？」[pcms]
+[ns]Satsuki[nse]
+"Are you okay?"[pcms]
 
 *1126|
 [fc]
-[ns]誠[nse]
-「は、はい。ありがとうございました。[r]
-　あ……それって、ＢＢＱの串？」[pcms]
+[ns]Makoto[nse]
+"Yes, thank you very much. Ah...is that a BBQ skewer?"[pcms]
 
 *1127|
 [fc]
 [vo_stk s="satuki_st0178"]
-[ns]彩月[nse]
-「ええ。いい武器になったわ。さあ、行こ！」[pcms]
+[ns]Satsuki[nse]
+"Yes. It made for a good weapon. Now, let's go!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1128|
 [fc]
-どうやら僕はキャンプと言えば定番の[r]
-ＢＢＱセットに救われたようだ。[pcms]
+It seems I was saved by a BBQ set, a staple of camping.[pcms]
 
 *1129|
 [fc]
-もちろん南先輩の機転のおかげだけど。[pcms]
+Of course, it was all thanks to Senior Satsuki's quick thinking.[pcms]
 
 *1130|
 [fc]
-[ns]感染者男[nse]
-「ねえちゃん、つっこんでやるよお、おまんこひらきなああ」[pcms]
+[ns]Infected Man[nse]
+"Hey lady, I'm gonna thrust it in you, spread your pussy wide open"[pcms]
 
 *1131|
 [fc]
-南先輩の背後に、また別のヤツが姿を見せる。[r]
-よたよたしてるけど、少し小走り気味で思っていたよりも[r]
-早く距離が縮まる。[pcms]
+Another one appeared behind Senior Satsuki. He was staggering but[r]
+moving faster than expected and closing the distance quickly.[pcms]
 
 *1132|
 [fc]
-[ns]誠[nse]
-「先輩っ！　後ろにっ！」[pcms]
+[ns]Makoto[nse]
+"Senior! Behind you!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1133|
 [fc]
 [vo_stk s="satuki_st0179"]
-[ns]彩月[nse]
-「！！　やっ！！」[pcms]
+[ns]Satsuki[nse]
+"!! No!!"[pcms]
 
 *1134|
 [fc]
-なんと南先輩は振り向きざま、まだ手に残っていたＢＢＱの串を[r]
-ものの見事に、ソイツの目に突き立てていた。[pcms]
+In an instant turn, Senior Satsuki impressively stabbed the remaining[r]
+BBQ skewer into the eyes of that guy.[pcms]
 
 *1135|
 [fc]
-そいつは苦しみ藻掻きながら天に向かって血を吹き上げる。[r]
-;[ruby text="バーベキュー"][ch text="ＢＢＱ"]の串を目に刺したまま、[r]
-ＢＢＱの串を目に刺したまま、[r]
-後ろ向きに倒れていった。[pcms]
+He writhed in agony and spurted blood towards the sky; with the BBQ[r]
+skewer still in his eye, he fell backwards.[pcms]
 
 *1136|
 [fc]
-[ns]誠[nse]
-「南先輩、すごい……」[pcms]
+[ns]Makoto[nse]
+"Senior Satsuki, that was amazing..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st22"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1137|
 [fc]
 [vo_stk s="satuki_st0184"]
-[ns]彩月[nse]
-「ありがとう。でも、早く！　急ぐよ！」[pcms]
+[ns]Satsuki[nse]
+"Thank you. But we need to hurry! Let's go!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1138|
 [fc]
-南先輩の綺麗な足が、言葉と同時に駆け出していた。[r]
-慌てて僕はあとを追う。[pcms]
+Senior Satsuki's beautiful legs started running as she spoke. In a[r]
+panic, I followed her.[pcms]
 
 *1139|
 [fc]
-それにしても……さっきまであんなに怯えてたのに。[r]
-スイッチ入っちゃったあとの先輩は、すごい冷静でかっこいい！[pcms]
+Even though she had been so scared just moments ago. Once the switch[r]
+was flipped, Senior was incredibly calm and cool![pcms]
 
 *1140|
 [fc]
-こんな時に不謹慎だけど、後ろ姿に惚れ惚れしながら、[r]
-僕は走っていた。[pcms]
+It might be inappropriate at a time like this, but as I admired her[r]
+from behind, I ran.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -251,73 +249,77 @@
 
 *1141|
 [fc]
-南先輩の足取りが緩む。少し走る速度を落として僕と併走した。[pcms]
+Senior Satsuki's pace slowed down a bit. She reduced her speed[r]
+slightly to run alongside me.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1142|
 [fc]
 [vo_stk s="satuki_st0185"]
-[ns]彩月[nse]
-「ここら辺は人もヤツラも少ないわ。うまく車とか見つかると[r]
-　いいんだけど……」[pcms]
+[ns]Satsuki[nse]
+"This area has fewer people and those things. It would be great if we[r]
+could find a car or something..."[pcms]
 
 *1143|
 [fc]
-[ns]誠[nse]
-「……確かに」[pcms]
+[ns]Makoto[nse]
+"...Indeed."[pcms]
 
 *1144|
 [fc]
-小走りしながら見回すと、このエリアは人影がまばらだ。[r]
-居ない訳じゃないけれど、ぽつりぽつり程度。[pcms]
+While jogging, I looked around and noticed that this area was sparsely[r]
+populated. Not that there was no one around, but only a few here and[r]
+there.[pcms]
 
 *1145|
 [fc]
-[ns]誠[nse]
-「南先輩、あれ！」[pcms]
+[ns]Makoto[nse]
+"Senior Satsuki, look over there!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st20"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1146|
 [fc]
-僕の指差す先には、車が止まっていた。[r]
-しかもエンジンが掛かりっぱなしだ。[pcms]
+Where I pointed, there was a car stopped with the engine still[r]
+running.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1147|
 [fc]
-でも……その車の前では……[pcms]
+But... in front of that car...[pcms]
 
 *1148|
 [fc]
 [vo_mob s="oka0001"]
-[ns]女[nse]
-「あひぃ、おがしくなってぎてるぅ、おまんこが、おまんこがあ」[pcms]
+[ns]Female[nse]
+"Ahii, my crotch is getting so wet, my pussy, my pussy ah"[pcms]
 
 ;//犯されてる女
 
 *1149|
 [fc]
-[ns]感染者[nse]
-「うほお、すげえしまってきた。い、いぞお、いいぞ、お」[pcms]
+[ns]Infected Person[nse]
+"Uhooh, it's getting so tight. Yeah, yeah, that's good, oh"[pcms]
 
 *1150|
 [fc]
-頭からだらだらと血を流している感染者に、まだまともな服装の[r]
-女性が犯されていた。[r]
-もう既に眼が赤く染まり、あえぎ声をあげている。[pcms]
+The infected person, dripping blood from his head, was assaulting a[r]
+woman who still had her clothes on properly. Her eyes were already[r]
+dyed red, and she was moaning.[pcms]
 
 *1151|
 [fc]
-状況から見ると、感染者を跳ねてしまって慌てて外に出たところを[r]
-跳ねたソイツに捕まって、そのまま犯されたように見える。[pcms]
+From the looks of it, she panicked and got out of the car after[r]
+hitting an infected person, only to be caught by the one she hit and[r]
+then assaulted on the spot.[pcms]
 
 *1152|
 [fc]
-苦々しげな目で、嬌声をあげる二人を一瞬見つめた南先輩は、[r]
-僕にあごでクイッと促し、足音を忍ばせて車に回り込んだ。[pcms]
+With a bitter look in her eyes, Senior Satsuki glanced at the moaning[r]
+pair for a moment, then gestured to me with her chin and quietly made[r]
+her way around to the car.[pcms]
 
 ;//★_車内 sportscar_base
 ;//[image layer=1 storage="sportscar_base" page=back visible=true left=0 top=0][trans_c cross time=1000]
@@ -329,25 +331,26 @@
 
 *1153|
 [fc]
-僕も先輩を真似て足音を消して、反対側から車へと乗り込んだ。[pcms]
+I followed Senior's lead, silencing my footsteps and getting into the[r]
+car from the other side.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1154|
 [fc]
 [vo_stk s="satuki_st0186"]
-[ns]彩月[nse]
-「シートベルト……忘れないで。しっかり付けて」[pcms]
+[ns]Satsuki[nse]
+"Don't forget your seatbelt... Make sure it's fastened properly."[pcms]
 
 *1155|
 [fc]
-言われるがままに、シートベルトをしっかり装着。[r]
-任せるしかないけれど、南先輩は仮免だけだから……。[pcms]
+As told, I fastened my seatbelt securely. I had no choice but to trust[r]
+her, even though Senior Satsuki only had a learner's permit...[pcms]
 
 *1156|
 [fc]
-僕がシートベルトを装着したのを見届けてから、[r]
-先輩はハンドルをきゅっと握り直し、ゆっくりとシフトを変えた。[pcms]
+After making sure I had my seatbelt on, Senior gripped the steering[r]
+wheel tightly and slowly changed gears.[pcms]
 
 [se buf=0 storage="seC026"]
 ;//♪SEタイヤが空転する音
@@ -369,17 +372,16 @@
 
 *1157|
 [fc]
-目の前でまぐわっている車の持ち主と、[r]
-跳ねられた感染者を迂回するために、[r]
-車を一度バックさせる。[pcms]
+To avoid the car's owner who was entangled with the infected person[r]
+she had hit, she had to back up the car first.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1158|
 [fc]
 [vo_stk s="satuki_st0187"]
-[ns]彩月[nse]
-「ん……っ」[pcms]
+[ns]Satsuki[nse]
+"Mmm...!"[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -390,13 +392,14 @@
 
 *1159|
 [fc]
-なんともぎこちない切り返しだったけれど、シフトがＤレンジに[r]
-入った僕らの車は、アイツラの横を走り抜けることが出来た。[pcms]
+It was an awkward maneuver, but once the shift was in D-range, our car[r]
+was able to drive past them.[pcms]
 
 *1160|
 [fc]
-このオートキャンプ場には、敷地の中央を道路が貫いている。[r]
-今、僕らはその道をちょっと怪しげな動きで走行していた。[pcms]
+In this auto campsite, a road runs through the center of the property.[r]
+Right now, we were driving along that road with somewhat suspicious[r]
+movements.[pcms]
 
 [se buf=0 storage="seC012" loop=true]
 ;//♪SE自動車の走行音（車内）
@@ -412,62 +415,62 @@
 *1161|
 [fc]
 [vo_stk s="satuki_st0188"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *1162|
 [fc]
-[ns]誠[nse]
-「…………」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1163|
 [fc]
-南先輩の緊張感が伝わってくる。何か話しかけたいところだけど、[r]
-僕はちょっと遠慮していた。[pcms]
+I could feel Senior Satsuki's tension. I wanted to say something, but[r]
+I hesitated a little.[pcms]
 
 *1164|
 [fc]
-でも……。[pcms]
+But...[pcms]
 
 *1165|
 [fc]
-[ns]誠[nse]
-「…………あの」[pcms]
+[ns]Makoto[nse]
+"...Um"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1166|
 [fc]
 [vo_stk s="satuki_st0189"]
-[ns]彩月[nse]
-「何？」[pcms]
+[ns]Satsuki[nse]
+"What?"[pcms]
 
 *1167|
 [fc]
-[ns]誠[nse]
-「その……今向かってる方向、反対じゃないですか？[r]
-　ホテルに行くなら逆方向かと……こっちだと越智さんの本家に[r]
-　向かっちゃいますよ」[pcms]
+[ns]Makoto[nse]
+"That... Aren't we going in the wrong direction? If we're heading to[r]
+the hotel, it should be the opposite way... This way leads to Ochi-[r]
+san's family home."[pcms]
 
 *1168|
 [fc]
 [vo_stk s="satuki_st0190"]
-[ns]彩月[nse]
-「……わかってるわ。キャンプ場の中央のレーンで、[r]
-　ユーターンするから、大丈夫よ」[pcms]
+[ns]Satsuki[nse]
+"...I know. I'll make a U-turn at the central lane of the campsite, so[r]
+it's fine."[pcms]
 
 *1169|
 [fc]
-[ns]誠[nse]
-「……わかりました。あっ！！」[pcms]
+[ns]Makoto[nse]
+"...Understood. Ah!!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st20"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1170|
 [fc]
 [vo_stk s="satuki_st0191"]
-[ns]彩月[nse]
-「…………くっ！」[pcms]
+[ns]Satsuki[nse]
+"...Gah!"[pcms]
 
 ;//■_人がはねられる音
 [se buf=1 storage="seB015"]
@@ -478,32 +481,33 @@
 
 *1171|
 [fc]
-そんなにスピードは出ていないとは思うけれど、ふいに飛び出して[r]
-きたヤツを除けきれず、思いっきり車で跳ねていた。[pcms]
+We weren't going very fast, but suddenly someone jumped out and we[r]
+couldn't avoid hitting them with the car.[pcms]
 
 *1172|
 [fc]
 [vo_stk s="satuki_st0192"]
-[ns]彩月[nse]
-「……っ」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *1173|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1174|
 [fc]
-跳ね飛ばされたソイツは、うつろな紅い目をしていた。[r]
-感染者だからいいって訳じゃないけど、この際仕方が無いと思う。[pcms]
+The person we hit was thrown aside with vacant red eyes. It's not okay[r]
+just because they're infected, but under these circumstances, there's[r]
+nothing we can do.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1175|
 [fc]
 [vo_stk s="satuki_st0193"]
-[ns]彩月[nse]
-「きゃっ！」[pcms]
+[ns]Satsuki[nse]
+"Kyaa!"[pcms]
 
 ;//■_人がはねられる音
 [se buf=1 storage="seB015"]
@@ -513,180 +517,183 @@
 
 *1176|
 [fc]
-[ns]誠[nse]
-「うわっ！」[pcms]
+[ns]Makoto[nse]
+"Whoa!"[pcms]
 
 *1177|
 [fc]
-また、人を跳ねてしまった。[r]
-しかも、今回跳ね飛ばした相手の目は紅くなかった気がする。[pcms]
+We hit another person. And this time, I think the person we hit didn't[r]
+have red eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st32"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1178|
 [fc]
 [vo_stk s="satuki_st0194"]
-[ns]彩月[nse]
-「……くっ……」[pcms]
+[ns]Satsuki[nse]
+"...Gah..."[pcms]
 
 *1179|
 [fc]
-南先輩が唇を噛みしめていた。[r]
-先輩も今の人が感染者じゃないってわかったのかもしれない。[pcms]
+Senior Satsuki bit her lip. Maybe she realized that the person we just[r]
+hit wasn't infected.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st23"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1180|
 [fc]
-[ns]誠[nse]
-「……今の人は……今、跳ねてしまった人は、助けを求めて[r]
-　僕らの車に向かってきたんじゃないでしょうか？」[pcms]
+[ns]Makoto[nse]
+"...The person just now... The one we hit, could they have been[r]
+seeking help and coming towards our car?"[pcms]
 
 *1181|
 [fc]
 [vo_stk s="satuki_st0195"]
-[ns]彩月[nse]
-「……だとしても、どうしようもないわ」[pcms]
+[ns]Satsuki[nse]
+"...Even if that's true, there's nothing we can do about it now."[pcms]
 
 *1182|
 [fc]
-[ns]誠[nse]
-「でも……赤い眼ではなかったんです」[pcms]
+[ns]Makoto[nse]
+"But... their eyes weren't red."[pcms]
 
 *1183|
 [fc]
 [vo_stk s="satuki_st0196"]
-[ns]彩月[nse]
-「…………悪いけど、瞬時に判断できるほど、今のわたしに[r]
-　余裕は無いの。それとも、いちいち停まって見ろって言うの？」[pcms]
+[ns]Satsuki[nse]
+"...Sorry, but I don't have the luxury to make such judgments in an[r]
+instant. Or are you saying we should stop and check each time?"[pcms]
 
 *1184|
 [fc]
-[ns]誠[nse]
-「……いえ」[pcms]
+[ns]Makoto[nse]
+"...No."[pcms]
 
 *1185|
 [fc]
 [vo_stk s="satuki_st0197"]
-[ns]彩月[nse]
-「生き延びよう逃げ切ろうって決めたでしょ。迷ってられないの。[r]
-　この車の前でセックスしてたヤツラみたいにはなりたくないの」[pcms]
+[ns]Satsuki[nse]
+"We decided to survive, to escape, didn't we? We can't afford to[r]
+hesitate. I don't want to end up like those who were having sex in[r]
+front of the car."[pcms]
 
 *1186|
 [fc]
-[ns]誠[nse]
-「……」[pcms]
+[ns]Makoto[nse]
+"..."[pcms]
 
 *1187|
 [fc]
-確かに南先輩の言うとおりだ。今の僕たちに、見知らぬ人を[r]
-助けられる余裕なんて全然無い。[pcms]
+Indeed, Senior Satsuki is right. We don't have the luxury to help[r]
+strangers right now.[pcms]
 
 *1188|
 [fc]
-自分たちの命を守るだけで精一杯だ。[r]
-僕は後ろめたい気持ちを、奥底へと追いやった。[pcms]
+We're barely managing to protect our own lives. I pushed the guilty[r]
+feeling deep down inside.[pcms]
 
 *1189|
 [fc]
-[ns]感染者男[nse]
-「おんな……のにおい」[pcms]
+[ns]Infected Man[nse]
+"Woman... smell"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1190|
 [fc]
-[ns]誠[nse]
-「うわあっ！！！」[pcms]
+[ns]Makoto[nse]
+"Uwaaah!!!"[pcms]
 
 *1191|
 [fc]
-突如背後の席から、腕が伸びてきて僕の身体に絡みついてきた。[pcms]
+Suddenly, an arm stretched from the back seat and wrapped around my[r]
+body.[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1192|
 [fc]
 [vo_stk s="satuki_st0198"]
-[ns]彩月[nse]
-「誠君っ！」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun!"[pcms]
 
 *1193|
 [fc]
-[ns]誠[nse]
-「やめろっ！　うわっ、うわああっ！！」[pcms]
+[ns]Makoto[nse]
+"Stop it! Uwah, uwaaaah!!"[pcms]
 
 *1194|
 [fc]
-[ns]感染者男[nse]
-「おんなのにおい、する……しんせんなおまんこのにおいぃ」[pcms]
+[ns]Infected Man[nse]
+"Woman's smell, fresh pussy smell..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st32"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1195|
 [fc]
 [vo_stk s="satuki_st0199"]
-[ns]彩月[nse]
-「こいつっ！！　離せっ！！」[pcms]
+[ns]Satsuki[nse]
+"This guy!! Let go!!"[pcms]
 
 *1196|
 [fc]
-先輩は片手をハンドルから離し、後ろから襲いかかる腕を[r]
-必死に打ち叩く。[pcms]
+Senior Satsuki took one hand off the steering wheel and desperately[r]
+started hitting the arm attacking from behind.[pcms]
 
 *1197|
 [fc]
-僕も肘で打ち返すが、その力は強靱でなかなか引きはがせない。[pcms]
+I also tried to hit back with my elbow, but the grip was strong and[r]
+hard to shake off.[pcms]
 
 *1198|
 [fc]
-車はフラフラと蛇行しながら走り続け、何人かの感染者と[r]
-おぼしき連中を跳ね飛ばし、切り返す予定の中央レーンを[r]
-通過してしまっていた。[pcms]
+The car continued to swerve dangerously, hitting several people who[r]
+seemed to be infected, and missed the central lane we were supposed to[r]
+turn into.[pcms]
 
 *1199|
 [fc]
 [vo_stk s="satuki_st0200"]
-[ns]彩月[nse]
-「くっ、しつこいっ！　離せっ！」[pcms]
+[ns]Satsuki[nse]
+"Ugh, so persistent! Let go!"[pcms]
 
 *1200|
 [fc]
-[ns]誠[nse]
-「くそっ！　やめろっ！」[pcms]
+[ns]Makoto[nse]
+"Damn it! Stop it!"[pcms]
 
 *1201|
 [fc]
-僕が大声を上げると、急に腕が引っ込んだ。[r]
-何とかしてコイツを車外に放り出さないと！[pcms]
+When I shouted loudly, the arm suddenly retracted. We have to somehow[r]
+throw this guy out of the car![pcms]
 
 *1202|
 [fc]
-[ns]感染者男[nse]
-「こっち、ちがう……おんな、おまんこ、こっちだあ」[pcms]
+[ns]Infected Man[nse]
+"Not this way... woman, pussy, over here"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st20"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1203|
 [fc]
 [vo_stk s="satuki_st0201"]
-[ns]彩月[nse]
-「きゃあああっ！！」[pcms]
+[ns]Satsuki[nse]
+"Kyaaaah!!"[pcms]
 
 *1204|
 [fc]
-腕を引っ込めた理由がわかった。[r]
-ソイツが身を乗り出すようにして、襲う相手を南先輩に変えている。[pcms]
+The reason why he retracted his arm became clear. He was leaning[r]
+forward to change his target to Senior Satsuki.[pcms]
 
 *1205|
 [fc]
-[ns]誠[nse]
-「こいつっ！！　やめろっ！　先輩に触るなっ！」[pcms]
+[ns]Makoto[nse]
+"This guy!! Stop it! Don't touch Senior!"[pcms]
 
 *1206|
 [fc]
-伸ばされている腕に必死にしがみつく。[r]
-車は、すでにオートキャンプ場の敷地を通過してしまっていた。[pcms]
+I desperately clung to the extended arm. The car had already passed[r]
+through the auto campsite.[pcms]
 
 ;//♂：ここで本物の彩月の立ち絵を一瞬入れて下さい
 
@@ -696,19 +703,19 @@
 
 *1207|
 [fc]
-[ns]誠[nse]
-「！！」[pcms]
+[ns]Makoto[nse]
+"!!"[pcms]
 
 [chara_int_ layer=8][chara_int_ layer=9][trans_c cross time=150]
 
 *1208|
 [fc]
-白っぽい人影が、ヘッドライトに照らされる。[r]
-その姿に見覚えがあった。[pcms]
+A pale figure was illuminated by the headlights. I recognized that[r]
+figure.[pcms]
 
 *1209|
 [fc]
-多分、あのキャンプ場でうずくまっていた女性だ。[pcms]
+It was probably the woman who was crouching at that campsite.[pcms]
 
 [backlay_c]
 [image layer=7 storage="sportscar_upper" page=back visible=true left=0 top=0]
@@ -718,13 +725,14 @@
 *1210|
 [fc]
 [vo_stk s="satuki_st0202"]
-[ns]彩月[nse]
-「さっ？！」[pcms]
+[ns]Satsuki[nse]
+"What?!"[pcms]
 
 *1211|
 [fc]
-ぶつかる！　また跳ねてしまう！　そう思った瞬間、[r]
-南先輩は何故かハンドルを思いっきり切っていた。[pcms]
+We're going to hit her! We're going to run her over! Just as I thought[r]
+that, Senior Satsuki had for some reason turned the steering wheel[r]
+hard.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -736,16 +744,16 @@
 
 *1212|
 [fc]
-キュルキュルと鳴るタイヤの音を伴いながら、[r]
-車が路肩から飛び出し、森の中に突っ込んでいく。[pcms]
+The sound of screeching tires accompanied us as the car veered off the[r]
+shoulder and plunged into the forest.[pcms]
 
 [se buf=0 storage="seB085"]
 ;//事故音
 
 *1213|
 [fc]
-僕らの車は為す術もなく、[r]
-ヘッドライトに照らし出された倒木に激突した。[pcms]
+Our car crashed into a fallen tree illuminated by the headlights,[r]
+helpless to do anything else.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -759,41 +767,39 @@
 
 *1214|
 [fc]
-[ns]誠[nse]
-「う……う……」[pcms]
+[ns]Makoto[nse]
+"Uh... uh..."[pcms]
 
 *1215|
 [fc]
-何があったんだっけ……ああ、そうだ。車が激突したんだった。[r]
-僕の目の前に[ruby text="しな"]萎びかけた[ruby text="かせん"][ch text="化繊"]の布地が[r]
-垂れ下がっている。[r]
+What happened... Ah, that's right. The car crashed. A synthetic fabric[r]
+hung down in front of me.[pcms]
 
 *1216|
 [fc]
-エアバッグが開いて、受け止めてくれたようだ。[pcms]
+The airbag had deployed and caught me.[pcms]
 
 *1217|
 [fc]
-隣に眼をやると、同じように化繊の布地が垂れ下がっている。[r]
-南先輩はハンドルに突っ伏していて、クラクションが[r]
-鳴りっぱなしになっていた。[pcms]
+Looking next to me, a similar fabric hung down. Senior Satsuki was[r]
+slumped over the steering wheel, and the horn was blaring non-stop.[pcms]
 
 *1218|
 [fc]
-ふらつく頭を起こしてみると、フロントガラスが砕けている。[r]
-点きっぱなしのヘッドライトが、車より数メートル先に[r]
-倒れている男を照らし続けていた。[pcms]
+As I lifted my dizzy head, I saw that the windshield was shattered.[r]
+The headlights, left on, continued to illuminate a man lying a few[r]
+meters ahead of the car.[pcms]
 
 *1219|
 [fc]
-さっき後ろから襲ってきたアイツだろう。[r]
-衝撃でフロントガラスを突き破って、たぶん木に激突したんだ。[r]
-ぴくりとも動かないところを見ると、さすがに死んだんだろう。[pcms]
+It must have been him, the one who attacked from behind. He probably[r]
+crashed through the windshield and hit a tree. He wasn't moving at[r]
+all, so he must be dead by now.[pcms]
 
 *1220|
 [fc]
-僕は、シートベルトのありがたみを実感していた。[r]
-もし付けてなかったら、アイツと同じ運命をたどっていたのかも。[pcms]
+I was feeling grateful for the seatbelt. If I hadn't been wearing it,[r]
+I might have shared his fate.[pcms]
 
 [bgm storage="BGM15"]
 ;//♪bgm15　シリアス：嫌疑：思考
@@ -807,93 +813,91 @@
 *1221|
 [fc]
 [vo_stk s="satuki_st0203"]
-[ns]彩月[nse]
-「うっ……ぅぅっ」[pcms]
+[ns]Satsuki[nse]
+"Uh... uhh..."[pcms]
 
 *1222|
 [fc]
-[ns]誠[nse]
-「南先輩、大丈夫ですか？」[pcms]
+[ns]Makoto[nse]
+"Senior Minami, are you okay?"[pcms]
 
 *1223|
 [fc]
 [vo_stk s="satuki_st0204"]
-[ns]彩月[nse]
-「い、痛い……少し」[pcms]
+[ns]Satsuki[nse]
+"It hurts... a little."[pcms]
 
 *1224|
 [fc]
-僕は先輩の身体を支えながら上体を起こし、[r]
-シートにもたれさせる。[pcms]
+I supported Senior's body as I helped her sit up and lean against the[r]
+seat.[pcms]
 
 *1225|
 [fc]
-先輩はお腹の辺りを腕で押さえ込んでいた。[r]
-エアバッグは作動したけど、ハンドルにぶつけたのかもしれない。[pcms]
+Senior was pressing her arm around her stomach area. The airbag had[r]
+deployed, but she might have hit the steering wheel.[pcms]
 
 *1226|
 [fc]
-[ns]誠[nse]
-「大丈夫ですか？」[pcms]
+[ns]Makoto[nse]
+"Are you sure you're okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1227|
 [fc]
 [vo_stk s="satuki_st0205"]
-[ns]彩月[nse]
-「う……ん。大丈夫」[pcms]
+[ns]Satsuki[nse]
+"Uh... yes. I'm fine."[pcms]
 
 *1228|
 [fc]
-辛そうな顔で答える南先輩。車は使い物にならないだろうから、[r]
-早く何処か別の場所に移動して手当をしてあげたい。[pcms]
+Senior Minami answered with a pained expression. The car was totaled,[r]
+so we needed to move to another place quickly to tend to her injuries.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1229|
 [fc]
-僕は、周囲を見渡した。[r]
-どのくらい気を失っていたのか。[pcms]
+I looked around us. I wondered how long we had been unconscious.[pcms]
 
 *1230|
 [fc]
-前方は鬱蒼とした森でまだまだ暗いけど、[r]
-後方を見ると陽が昇ってきているのがわかる。[pcms]
+It was still dark in the dense forest ahead, but looking behind us, I[r]
+could see the sun beginning to rise.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_wra_a"][ChrSetParts layer=3 chface="f1_st13r"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1231|
 [fc]
-そして……さっきの白っぽい人影。[r]
-キャンプ場で見たあの女性の感染者が道路に立って、[r]
-こちらを眺めていた。[pcms]
+And then... that pale figure from before. The infected woman we saw at[r]
+the campsite was standing on the road, looking our way.[pcms]
 
 *1232|
 [fc]
-遠目で見ても美人で、そして今隣で苦しんでいる[r]
-南先輩にやっぱり似ているように思える。[pcms]
+Even from a distance, she looked beautiful, and she seemed to resemble[r]
+Senior Minami, who was now suffering beside me.[pcms]
 
 *1233|
 [fc]
-一瞬、僕と女性の視線が交錯した。[r]
-まるでそれが合図だとでも言うように、その女感染者は[r]
-ゆっくりとこちらに向かって歩を進めてくる。[pcms]
+For a moment, my gaze met with the woman's. As if that was a signal,[r]
+the infected woman slowly started walking towards us.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1234|
 [fc]
-まずい。他に感染者の姿は見当たらないけど、たったひとりだって[r]
-やばいんだ。現にさっきは人を喰らってたみたいだし。[pcms]
+This is bad. I don't see any other infected around, but even one is[r]
+dangerous. After all, it seemed like she had just eaten someone.[pcms]
 
 *1235|
 [fc]
-急いで車を乗り捨てて、移動しないと。[pcms]
+We need to hurry and abandon the car to move.[pcms]
 
 *1236|
 [fc]
-僕は、ドアを開けて外に出ると運転席側に回り込んだ。[pcms]
+I opened the door and got out, then walked around to the driver's[r]
+side.[pcms]
 
 [backlay_c]
 [image layer=7 storage="sportscar_upper" page=back visible=true left=0 top=0]
@@ -902,66 +906,65 @@
 
 *1237|
 [fc]
-[ns]誠[nse]
-「先輩、動けますか？　手を貸しますから、早く移動しましょう」[pcms]
+[ns]Makoto[nse]
+"Senior, can you move? I'll help you, let's move quickly."[pcms]
 
 *1238|
 [fc]
 [vo_stk s="satuki_st0206"]
-[ns]彩月[nse]
-「う……っ、わかった」[pcms]
+[ns]Satsuki[nse]
+"Uh... okay, understood."[pcms]
 
 *1239|
 [fc]
-南先輩のシートベルトを外すと、[r]
-脇の下から腕を差し込み外へと引っ張り出す。[pcms]
+After unfastening Senior Minami's seatbelt, I slipped my arm under[r]
+hers and pulled her out of the car.[pcms]
 
 *1240|
 [fc]
-ドアに手を掛けなんとか立っていられる先輩を[r]
-気遣いながら、僕は先輩の荷物を取り出した。[pcms]
+While Senior managed to stand by holding onto the door, I took care of[r]
+her with concern as I gathered her belongings.[pcms]
 
 *1241|
 [fc]
-その間にも、さっきの女感染者がゆっくりと、[r]
-こちらに向かってきている。[pcms]
+In the meantime, that infected woman was slowly approaching us.[pcms]
 
 *1242|
 [fc]
-道路の方には行けなかった。[r]
-傷ついた先輩に手を貸しながらアイツをやり過ごせる自信が無い。[pcms]
+We couldn't go back to the road. I didn't have confidence that we[r]
+could get past her while assisting the injured Senior Minami.[pcms]
 
 *1243|
 [fc]
-よく見ると、森の方に細い山道が通っているのがわかった。[r]
-この森の奥に進むしかない。[pcms]
+Looking closely, I could see a narrow mountain path leading through[r]
+the forest. Our only option was to go deeper into the woods.[pcms]
 
 *1244|
 [fc]
-[ns]誠[nse]
-「先輩、行きますよ。しっかり掴まってください」[pcms]
+[ns]Makoto[nse]
+"Senior, let's go. Please hold on tight."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_t1_a"][ChrSetParts layer=5 chface="F2_st07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1245|
 [fc]
 [vo_stk s="satuki_st0207"]
-[ns]彩月[nse]
-「……あ、ありがとう……」[pcms]
+[ns]Satsuki[nse]
+"...thank you..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1246|
 [fc]
-僕は南先輩に肩を貸しながら荷物を持つ。[r]
-結構大変そうだけど、頑張るしかない。[pcms]
+I supported Senior Minami on my shoulder while carrying the luggage.[r]
+It seemed quite difficult, but we had no choice but to persevere.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_wra_a"][ChrSetParts layer=3 chface="f1_st26r"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *1247|
 [fc]
-もうろうとした様子の南先輩は、ぼんやりとした眼で[r]
-ちらっと後ろを振り返ってあの女感染者を見ていた。[pcms]
+Senior Minami, in a daze, glanced back briefly and saw that infected[r]
+woman.[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//たちえなし
@@ -969,23 +972,24 @@
 *1248|
 [fc]
 [vo_stk s="satuki_st0208"]
-[ns]彩月[nse]
-「…………さつき……？」[pcms]
+[ns]Satsuki[nse]
+"...Satsuki...?"[pcms]
 
 *1249|
 [fc]
-[ns]誠[nse]
-「え？」[pcms]
+[ns]Makoto[nse]
+"Huh?"[pcms]
 
 *1250|
 [fc]
-小声で何事か呟いたけれど、しっかりと聞き取れない。[r]
-先輩はもうすでに、僕に身体を預けてきていた。[pcms]
+She muttered something in a low voice, but I couldn't make it out[r]
+clearly. Senior had already entrusted her body to me.[pcms]
 
 *1251|
 [fc]
-ちょっとだけ気になったけれど、僕は振り返らずに足を踏み出す。[r]
-そしてそのまま細い山道を目指し、歩いて行った。[pcms]
+Although I was a bit curious, I didn't look back and took a step[r]
+forward. Then we headed towards the narrow mountain path and walked[r]
+on.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>

@@ -36,188 +36,178 @@
 
 *1080|
 [fc]
-あれ……あたりはまっくらだ。[r]
-いつのまにか、ねむっちゃっていたんだ、ぼく。[pcms]
+It's pitch black around... Before I knew it, I had fallen asleep.[pcms]
 
 *1081|
 [fc]
-なんだろう。[r]
-たのしそうなおとがする。[pcms]
+I wonder what that is. I hear a fun sound.[pcms]
 
 *1082|
 [fc]
-とおくから、たのしそうなおとがする。[r]
-あれは、おまつりのおとかな。[pcms]
+From afar, I hear the sounds of enjoyment. Could that be the sound of[r]
+a festival?[pcms]
 
 *1083|
 [fc]
-しまのほうから、きこえてくるのかな。[pcms]
+I wonder if it's coming from the direction of the island.[pcms]
 
 *1084|
 [fc]
-[ns]誠[nse]
-「あれ……？　みんな……どこにいったの……」[pcms]
+[ns]Makoto[nse]
+"Huh...? Where did everyone go...?"[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
 
 *1085|
 [fc]
-まっくらになったすなはまをみまわしたけど、[r]
-あんまりくらいから、よくわかんない。[pcms]
+Even though I looked around the darkened beach, it was too dark to see[r]
+clearly.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1086|
 [fc]
 [vo_aka s="akari0568"]
-[ns]茜梨[nse]
-「おきましたか……？」[pcms]
+[ns]Akari[nse]
+"Did you wake up...?"[pcms]
 
 *1087|
 [fc]
-[ns]誠[nse]
-「あかり……さん……」[pcms]
+[ns]Makoto[nse]
+"Akari-san..."[pcms]
 
 [bgm storage="BGM20"]
 ;//♪bgm20　作中劇用/夜・夜明け
 
 *1088|
 [fc]
-キョロキョロするぼくに、あかりさんが、[r]
-やさしそうなこえではなしかけてきた。[pcms]
+Akari-san spoke to me with a gentle voice as I looked around in[r]
+confusion.[pcms]
 
 *1089|
 [fc]
-みんな、おまつりにいっちゃって、[r]
-ぼくだけおいていかれたかとおもっていた。[r]
-だけど、あかりさんだけは、まっていてくれたんだ。[pcms]
+I thought everyone had gone to the festival and left me behind, but[r]
+Akari-san was still waiting for me.[pcms]
 
 *1090|
 [fc]
-うれしくて、なきそう。[pcms]
+I'm so happy, I feel like crying.[pcms]
 
 *1091|
 [fc]
-だけど、やっぱりなにか、かなしいきもち。[r]
-どうしてだろう。[pcms]
+But still, there's a sad feeling inside me. I wonder why.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1092|
 [fc]
 [vo_aka s="akari0569"]
-[ns]茜梨[nse]
-「みなさん、しまに……もどりました。[r]
-　わたしは、まことさんがおきたら、[r]
-　おいかけるってやくそくしたの。さ、いきましょ……」[pcms]
+[ns]Akari[nse]
+"Everyone went back to the island... I promised that once Makoto-san[r]
+woke up, we would follow them. Come on, let's go..."[pcms]
 
 *1093|
 [fc]
-[ns]誠[nse]
-「あ、ありがとう……あかりさん……。[r]
-　ぼくなんかをまっていてくれて……ありがとう……」[pcms]
+[ns]Makoto[nse]
+"Ah, thank you... Akari-san... For waiting for someone like me...[r]
+Thank you..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1094|
 [fc]
 [vo_aka s="akari0570"]
-[ns]茜梨[nse]
-「いいんです。きにしなくったって。[r]
-　じゃあ、こっちです……おまつりをしているみたいなんですよ。[r]
-　ふふっ……」[pcms]
+[ns]Akari[nse]
+"It's okay, don't worry about it. This way... It seems like they're[r]
+having a festival. Hehe..."[pcms]
 
 *1095|
 [fc]
-[ns]誠[nse]
-「あっ……」[pcms]
+[ns]Makoto[nse]
+"Ah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1096|
 [fc]
-ぼくはあかりさんにてをひかれ、[r]
-『おまつり』をしているほうへと、あるきだした。[pcms]
+I was led by the hand by Akari-san, and we started walking towards[r]
+where the "festival" was happening.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1097|
 [fc]
 [vo_aka s="akari0571"]
-[ns]茜梨[nse]
-「ふふ……わたしたち、おにあい……でしょうか……ふふっ……」[pcms]
+[ns]Akari[nse]
+"Hehe... Do you think we make a good pair...? Hehe..."[pcms]
 
 *1098|
 [fc]
-[ns]誠[nse]
-「……うん……」[pcms]
+[ns]Makoto[nse]
+"...Yeah..."[pcms]
 
 *1099|
 [fc]
-ぼくは、あかりさんのてをつよくにぎりかえした。[r]
-にぎったては、とてもあたたかかった。[pcms]
+I gripped Akari-san's hand back tightly. The hand I held was very[r]
+warm.[pcms]
 
 *1100|
 [fc]
-だけどそれは、ぼくのこころのおくそこの、[r]
-かなしいきもちを、またゆさぶった。[pcms]
+But that warmth shook the sad feelings deep in my heart once again.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1101|
 [fc]
 [vo_aka s="akari0572"]
-[ns]茜梨[nse]
-「わあ、みてください、あそこ。[r]
-　たくさんひとがいますよ。[r]
-　それに、なんだかあかくてきらきらしてる。きれい……」[pcms]
+[ns]Akari[nse]
+"Wow, look over there. There are so many people. And something red and[r]
+sparkling. It's beautiful..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1102|
 [fc]
-あかりさんがゆびさすほうこうから、[r]
-たいこのおとがきこえ、ひともたくさんいた。[pcms]
+From the direction Akari-san pointed, I could hear the sound of drums[r]
+and see many people.[pcms]
 
 *1103|
 [fc]
-そしてなにより、あかく、おおきくゆれるほのおがすごくきれい。[pcms]
+And above all, the red, large, swaying flames were incredibly[r]
+beautiful.[pcms]
 
 *1104|
 [fc]
-そのひかりにてらされるあかりさんも、すごくきれいだった。[pcms]
+Akari-san, illuminated by that light, was also incredibly beautiful.[pcms]
 
 *1105|
 [fc]
-ぼくは、このままここにたちどまって、[r]
-あかりさんをずっと、ずっとながめていたかった。[pcms]
+I wanted to stay right here and keep gazing at Akari-san forever.[pcms]
 
 *1106|
 [fc]
-ずっと、えいえんに……。[r]
-このばしょで。[pcms]
+Forever, for eternity... At this place.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak09"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1107|
 [fc]
 [vo_aka s="akari0573"]
-[ns]茜梨[nse]
-「ね……いきましょう、まことさん……」[pcms]
+[ns]Akari[nse]
+"Hey... Let's go, Makoto-san..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_sw2"][ChrSetParts layer=5 chface="F2_ak03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *1108|
 [fc]
-つきのひかりと、もえるほのおのひかりにてらされて、[r]
-あかりさんのすがたはげんそうてきにかがやいている。[pcms]
+Lit by the moonlight and the light of the burning flames, Akari-san's[r]
+figure shone fantastically.[pcms]
 
 *1109|
 [fc]
-ぼくは、まるでてんしのようなえがおをうかべる[r]
-あかりさんにてをひかれ、まつりのちゅうしんへと、[r]
-あしをはこんだ。[pcms]
+I was led by the hand by Akari-san, who wore an angelic smile, and we[r]
+stepped towards the center of the festival.[pcms]
 
 ;//■イベントCG　etc_N002 ここノーマルで合ってるのかしら
 ;//めも：たぶん指定違うと思われます。
@@ -227,101 +217,100 @@
 *1110|
 [fc]
 [vo_stk s="satuki0223"]
-[ns]彩月[nse]
-「あははっ！　おどるの、たのしいねっ！」[pcms]
+[ns]Satsuki[nse]
+"Ahaha! Dancing is so much fun!"[pcms]
 
 *1111|
 [fc]
 [vo_tay s="taja0123"]
-[ns]ターヤ[nse]
-「うん……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Yes..."[pcms]
 
 *1112|
 [fc]
 [vo_nat s="natu0318"]
-[ns]夏都[nse]
-「おどるあほうに、みるあほう、っていうだろ！？[r]
-　オレもおどりたくなっちまったぜ！」[pcms]
+[ns]Natsu[nse]
+"They say 'the dancing fool and the watching fool are both fools[r]
+alike', right!? I'm getting the urge to dance too!"[pcms]
 
 *1113|
 [fc]
 [vo_mis s="misao0161"]
-[ns]美沙緒[nse]
-「おなじあほなら、おどらにゃソンソン！」[pcms]
+[ns]Misao[nse]
+"If you're going to be a fool anyway, you might as well dance!"[pcms]
 
 *1114|
 [fc]
-[ns]宗一郎[nse]
-「おどりつきせぬ、あわのよるおどり～あっそれー！」[pcms]
+[ns]Souichirou[nse]
+"Dance until you're tired, a dance of foam in the nightah, that's[r]
+it!"[pcms]
 
 *1115|
 [fc]
 [vo_sat s="sato0088"]
-[ns]怜[nse]
-「あの……ここはちがうんだよね～……あわおどりは、[r]
-　またべつのところだよ……」[pcms]
+[ns]Sato[nse]
+"Um... This isn't right... The foam dance is somewhere else..."[pcms]
 
 *1116|
 [fc]
 [vo_aka s="akari0574"]
-[ns]茜梨[nse]
-「わあ……おまつり……って……。[r]
-　なんで、あわおどり……？」[pcms]
+[ns]Akari[nse]
+"Wow... A festival... But why a foam dance?"[pcms]
 
 *1117|
 [fc]
-[ns]誠[nse]
-「わかんない……でも、たのしそう……」[pcms]
+[ns]Makoto[nse]
+"I don't know... But it looks fun..."[pcms]
 
 *1118|
 [fc]
 [vo_aka s="akari0575"]
-[ns]茜梨[nse]
-「おなじアホなら、か……わたしたちも、おどりましょう？[r]
-　ね、まことさん……」[pcms]
+[ns]Akari[nse]
+"If we're going to be fools anyway, shall we dance too? Right, Makoto-[r]
+san...?"[pcms]
 
 [evcg storage="mob_N020b"][trans_c cross time=300]
 
 *1119|
 [fc]
-ぼくはまた、あかりさんにてをひかれて、[r]
-おどりのわのなかへとはいっていった。[pcms]
+I was once again led by the hand by Akari-san into the circle of[r]
+dancers.[pcms]
 
 *1120|
 [fc]
-それから、ぼくたちはずっと、ずーっとおどっていた。[pcms]
+And then, we danced on and on, forever and ever.[pcms]
 
 *1121|
 [fc]
-やぐらから、ひとがおちて、くびのほねがおれてしんでも。[r]
-だれかがなげたいしが、みしらぬひとのあたまにあたってしんでも。[pcms]
+Even if someone fell from the tower, breaking their neck and dying.[r]
+Even if a stone thrown by someone hit an unknown person in the head[r]
+and killed them.[pcms]
 
 *1122|
 [fc]
-ぼくたちをてらしていた、おつきさまがだんだんしずんで、[r]
-かわりにおひさまがのぼっても。[pcms]
+The moonlight that had been illuminating us gradually set, and in its[r]
+place, the sun rose.[pcms]
 
 *1123|
 [fc]
-ぼくたち……。[r]
-いや、ぼくと、あかりさんはずっとおどっていた。[pcms]
+We... No, Akari-san and I continued to dance the whole time.[pcms]
 
 *1124|
 [fc]
-ずっとずっと、おつきさまやたいようにてらされながら、[r]
-ぼくたちはえんえんと、やぐらのまわりをおどっていた。[pcms]
+Forever and ever, bathed in the light of the moon and the sun, we[r]
+danced endlessly around the tower.[pcms]
 
 *1125|
 [fc]
 [vo_nat s="natu0319"]
-[ns]夏都[nse]
-「ほらっ！　おまえら、もっとげんきよくおどれよ！」[pcms]
+[ns]Natsu[nse]
+"Hey! You all, dance more energetically!"[pcms]
 
 *1126|
 [fc]
 [vo_sat s="sato0089"]
-[ns]怜[nse]
-「そうだよ！　たのしまなきゃね！」[pcms]
+[ns]Sato[nse]
+"That's right! We've got to enjoy ourselves!"[pcms]
 
 [se buf=1 storage="seC018"]
 ;//SE：ジェット音
@@ -331,71 +320,67 @@
 *1127|
 [fc]
 [vo_tay s="taja0124"]
-[ns]ターヤ[nse]
-「ん……？　なんだ？　あれは……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hmm...? What's that? What is that...?"[pcms]
 
 *1128|
 [fc]
 [vo_mis s="misao0162"]
-[ns]美沙緒[nse]
-「あれは……ひこうき……？[r]
-　こちらにむかってくるわね……」[pcms]
+[ns]Misao[nse]
+"That is... an airplane...? It's coming this way..."[pcms]
 
 *1129|
 [fc]
 [vo_stk s="satuki0224"]
-[ns]彩月[nse]
-「……あ……あぁあぁぁ……あれは……あれは！！！」[pcms]
+[ns]Satsuki[nse]
+"...Ah... Aaahhh... That is... that is!!!"[pcms]
 
 *1130|
 [fc]
-みなみせんぱいはひこうきをみたとたん、[r]
-かおいろがみるみるかわっていった。[pcms]
+The moment Minami-senpai saw the airplane, her complexion changed[r]
+drastically.[pcms]
 
 *1131|
 [fc]
-そのかおをみたとき、[r]
-ぼくはやっとおもいだしたんだ。[pcms]
+When I saw her face, I finally remembered.[pcms]
 
 *1132|
 [fc]
-ぼくが、あかりさんにたいして……。[r]
-みんなにたいして、ばくぜんとかんじていたかなしいきもちを。[pcms]
+The sad feeling I had been vaguely sensing towards Akari-san...[r]
+Towards everyone.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
 
 *1133|
 [fc]
-[ns]誠[nse]
-「あ……あぁあぁ……あああぁああああああぁ！！！」[pcms]
+[ns]Makoto[nse]
+"Ah... Aaahhh... Aaaaaahhhhhhhhh!!!"[pcms]
 
 *1134|
 [fc]
-あのひこうきは、ぼくたちを“やく”ためにとんできた。[pcms]
+That airplane came flying to "burn us."[pcms]
 
 *1135|
 [fc]
-だって……。[r]
-ぼくたちは、みんなまっかな“め”をしているのだもの！[pcms]
+Because... We all had such bright red "eyes!"[pcms]
 
 *1136|
 [fc]
-やめろ……。[r]
-ぼくたちのしあわせをこわさないでくれ……。[pcms]
+Stop... Don't destroy our happiness...[pcms]
 
 *1137|
 [fc]
-ぼくたちは、なにもしないのに……。[pcms]
+We haven't done anything wrong...[pcms]
 
 *1138|
 [fc]
-ぼくたちは、ずっとこのしまで、しあわせにくらすんだ。[pcms]
+We were going to live happily ever after on this island.[pcms]
 
 *1139|
 [fc]
-ひっそりと、ぼくたちだけのらくえんをつくって。[r]
-そこで、ぼくたちだけでたのしくくらすんだ！[pcms]
+Quietly creating our own paradise. There, we would live happily ever[r]
+after, just us![pcms]
 
 [stopse buf=1]
 ;<SoundFade 3,OUT,3000>
@@ -403,27 +388,25 @@
 *1140|
 [fc]
 [vo_aka s="akari0576"]
-[ns]茜梨[nse]
-「どうしました……？　まことさん……？」[pcms]
+[ns]Akari[nse]
+"What's wrong...? Makoto-san...?"[pcms]
 
 *1141|
 [fc]
-しんぱいそうにのぞきこむ、あかりさんのかお。[r]
-ぼくは、ずっとこのかわいいかおを、みつめていたいんだ。[pcms]
+Akari-san's face peered in with concern. I want to gaze at this cute[r]
+face forever.[pcms]
 
 *1142|
 [fc]
-ほかには、なにもいらないんだ！[r]
-だから……だから！[pcms]
+I don't need anything else! So... So![pcms]
 
 [bgm storage="BGM24"]
 ;//♪bgm24　エンディング専用
 
 *1143|
 [fc]
-[ns]誠[nse]
-「やめろおおおおおおおおおおぉおおぉっ！！！[r]
-　ぼくたちは……ぼくたちはあぁっ！！！」[pcms]
+[ns]Makoto[nse]
+"Stop itttttttttttttt!! We are... we are ahhh!!!"[pcms]
 
 [se buf=0 storage="seB064"]
 
@@ -431,46 +414,44 @@
 
 *1144|
 [fc]
-しあわせなくうかんを、あのひこうきにうばわれる！[pcms]
+Our happy airspace is being taken away by that airplane![pcms]
 
 *1145|
 [fc]
-ぼくと、みんなのらくえんがこわされる！[pcms]
+Our paradise is being destroyed![pcms]
 
 *1146|
 [fc]
-ぼくは、みたんだ！[r]
-ぼくは、おもいだしたんだ！[pcms]
+I saw it! I remembered it![pcms]
 
 *1147|
 [fc]
-よねんまえの、あのひのことを！[pcms]
+The events of years ago, that day![pcms]
 
 [evcg storage="mob_N020c"][trans_c cross time=300]
 
 *1148|
 [fc]
-あのひこうきは……。[pcms]
+That airplane...[pcms]
 
 ;//●_SE　爆弾投下の音　たしか感染１でつかったはず
 [se buf=1 storage="seB064"]
 
 *1149|
 [fc]
-ぼくたちのいのちを、すべてやきはらう。[pcms]
+It will burn all our lives to ashes.[pcms]
 
 *1150|
 [fc]
-ぼくたちだって、いきていたいのに！[r]
-しあわせなせかいで、いきていたいのに！！[pcms]
+We want to live too! We want to live in a happy world!![pcms]
 
 *1151|
 [fc]
-ぼくたちが、らくえんにむかうのをじゃまする……。[pcms]
+It's interfering with our journey to paradise...[pcms]
 
 *1152|
 [fc]
-ぼくは……かんせんしゃ……だから……。[pcms]
+I am... a carrier... so...[pcms]
 
 ;//●_SE　爆弾炸裂
 [se buf=0 storage="seB059"]
@@ -492,31 +473,30 @@
 
 *1153|
 [fc]
-[ns]空軍パイロット[nse]
-「作戦完了、次の指示を請う……」[pcms]
+[ns]Air Force Pilot[nse]
+"Operation complete, requesting next instructions..."[pcms]
 
 *1154|
 [fc]
-鉄の鳥を操る男は、窮屈なヘルメットの中、[r]
-誰にともなく、ひとりごちた。[pcms]
+The man controlling the iron bird muttered to no one in particular[r]
+from within his cramped helmet.[pcms]
 
 *1155|
 [fc]
-[ns]空軍パイロット[nse]
-「ったく……あとどれだけいるんだ、“アイツら”……。[r]
-　もう、いいかげんイヤになってきた……」[pcms]
+[ns]Air Force Pilot[nse]
+"Geez... How many more of "Them" are there...? I'm starting to get[r]
+sick of this..."[pcms]
 
 *1156|
 [fc]
-音の壁を越え、空気の層を切り裂く爆音の中。[r]
-男は再び、小さく口を開く。[pcms]
+In the midst of the explosive noise that cut through the layers of air[r]
+and broke the sound barrier, the man opened his mouth again, softly.[pcms]
 
 *1157|
 [fc]
-[ns]空軍パイロット[nse]
-「いっそ、俺もああなっちまおうか……？[r]
-　幸せそうだったな、あいつら……。[r]
-　何にも考えてなさそうでな……」[pcms]
+[ns]Air Force Pilot[nse]
+"Maybe I should just become like them...? They seemed happy... They[r]
+looked like they weren't thinking about anything..."[pcms]
 
 ;//m:このブロック、冒頭では夜と言及してるが微妙。etc_N002が夜なら下記のテキストを夜っぽく修正しておく
 
@@ -525,13 +505,13 @@
 
 *1158|
 [fc]
-空を舞う流星の欠片が、島の木々を焼き払う。[r]
-島に踊る、自由な魂を全て焼き払う。[pcms]
+The fragments of a meteor dancing in the sky burn away the trees on[r]
+the island. They burn away all the free souls dancing on the island.[pcms]
 
 *1159|
 [fc]
-大空を自由に舞う鉄の鳥と、[r]
-焼かれ、炭になった自由な人々の記憶が宙を舞う。[pcms]
+The iron bird freely dancing in the sky and the memories of the free[r]
+people who were burned and turned to charcoal dance in the air.[pcms]
 
 ;//灼けた大地に、人々の名残が横たわり、
 ;//無数の太陽の欠片と、
@@ -539,9 +519,9 @@
 
 *1160|
 [fc]
-灼けた大地に、人々の名残が横たわり、[r]
-無数の流星の欠片と、[r]
-無数の自由な人の魂が、大空で交錯する。[pcms]
+On the scorched earth, the remnants of people lie, and countless[r]
+fragments of meteors and countless free souls intertwine in the vast[r]
+sky.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -553,18 +533,17 @@
 
 *1161|
 [fc]
-ヘルメットの中、男は静かに目を閉じ、[r]
-輝く月の光を遮断した。[pcms]
+Inside his helmet, the man quietly closed his eyes, blocking out the[r]
+shining moonlight.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,5000>
 
 *1162|
 [fc]
-[ns]空軍パイロット[nse]
-「いや……まだ死にたくねえな……。[r]
-　……なんでもない。[r]
-　[ruby text="ラジャー"][ch text="了解"]！　次に向かう！」[pcms]
+[ns]Air Force Pilot[nse]
+"No... I don't wanna die yet... ...Never mind. Understood! Heading to[r]
+the next one!"[pcms]
 
 ;不要？[wait_c time=1000]
 [sysbt_meswin clear]
@@ -608,7 +587,7 @@
 [eval exp="sf.g_end_infection = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 

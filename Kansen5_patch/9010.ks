@@ -34,8 +34,8 @@
 *146|
 [fc]
 [vo_han s="hana0110"]
-[ns]花沢[nse]
-「ふふっ……あらいくん～……あらいくん～……」[pcms]
+[ns]Hanazawa[nse]
+"Hehe... Arai-kun~... Arai-kun~..."[pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
@@ -43,13 +43,14 @@
 
 *147|
 [fc]
-薄暗い廊下の、柔らかな絨毯の上、[r]
-つんのめった僕に、涎を垂らした花沢がのしかかってきた。[pcms]
+On the soft carpet of the dimly lit hallway, Hanazawa, drooling, was[r]
+pressing down on me as I stumbled.[pcms]
 
 *148|
 [fc]
-普段と全く違う、常軌を逸した赤い目は、[r]
-僕の心に、冷たくとがった刃物を突きつけた様な痛みを与えた。[pcms]
+Her red eyes, completely different from usual and wildly off-track,[r]
+inflicted a pain on my heart as if a cold, sharp blade was being[r]
+thrust into it.[pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
@@ -57,9 +58,9 @@
 
 *149|
 [fc]
-[ns]誠[nse]
-「違うっていってるだろ！　目を覚ませ花沢っ！[r]
-　僕は荒井じゃないっ！」[pcms]
+[ns]Makoto[nse]
+"I'm telling you, you've got it wrong! Snap out of it, Hanazawa! I'm[r]
+not Arai!"[pcms]
 
 [ChrSetEx layer=5 chbase="ha2_kan2"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -68,32 +69,29 @@
 *150|
 [fc]
 [vo_han s="hana0111"]
-[ns]花沢[nse]
-「だまってなさいよ！　あんたはだれだっていいの！[r]
-　わたしは……あらいくんとセックスしたいだけだから！[r]
-　あんたは、あらいくんでいいのよっ！」[pcms]
+[ns]Hanazawa[nse]
+"Just be quiet! It doesn't matter who you are! I just... I just want[r]
+to have sex with Arai-kun! You can be Arai-kun for me!"[pcms]
 
 *151|
 [fc]
-だ、ダメだ！[r]
-花沢はもう、ウィルスにやられちゃってるんだ！[r]
-僕の声なんか、全然聞こえてないんだ。[pcms]
+No good! Hanazawa's already been taken over by the virus! She can't[r]
+hear my voice at all.[pcms]
 
 *152|
 [fc]
-今の花沢は、ただ性欲を求める動物。[r]
-荒井と、セックスしたいだけの、獣になってしまっているんだ。[pcms]
+Right now, Hanazawa is just an animal seeking sexual desire. She's[r]
+become a beast that only wants to have sex with Arai.[pcms]
 
 *153|
 [fc]
-４年前のあの日。[r]
-僕の周りで繰り広げられた惨劇が、[r]
-頭の中に蘇る。[pcms]
+That day four years ago. The tragedy that unfolded around me is coming[r]
+back to my mind.[pcms]
 
 *154|
 [fc]
-ここから逃げなきゃ、僕もあんな風になっちゃう！[r]
-４年前の感染者みたいに、焼き殺されてしまう！[pcms]
+If I don't escape from here, I'll end up like that too! Burned to[r]
+death like the infected from four years ago![pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
@@ -101,21 +99,21 @@
 
 *155|
 [fc]
-僕は、必死に体をよじり、花沢から逃げようとした。[pcms]
+I desperately twisted my body, trying to escape from Hanazawa.[pcms]
 
 [quake_bg x m]
 
 *156|
 [fc]
 [vo_han s="hana0112"]
-[ns]花沢[nse]
-「あらい、くん～……あはぁっ！　つかまえたぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"Arai-kun~... Ahh! I caught you!"[pcms]
 
 *157|
 [fc]
-だけど、もう遅かった。[r]
-床に寝そべったままの僕を、馬鹿力で押さえつけ、[r]
-白くて丸い尻を、下半身めがけ振り下ろした。[pcms]
+But it was too late. She pinned me down with her ridiculous strength,[r]
+lying on the floor, and swung her white, round butt towards my lower[r]
+half.[pcms]
 
 *MEMORIES_START
 
@@ -131,483 +129,444 @@
 
 *158|
 [fc]
-[ns]誠[nse]
-「止めろ花沢っ！　お、お前の好きな人は僕じゃない！[r]
-　僕は、中澤だっ！」[pcms]
+[ns]Makoto[nse]
+"Stop it, Hanazawa! You don't love me! I'm Nakazawa!"[pcms]
 
 *159|
 [fc]
 [vo_han s="hana0113"]
-[ns]花沢[nse]
-「……うるさいって、いってるでしょ！[r]
-　さわぐげんきがあるのなら、わたしのオッパイ、すってよ！[r]
-　ほらっ！　なめてっ！　きもちよくしてよおっ！」[pcms]
+[ns]Hanazawa[nse]
+"...I told you to be quiet! If you have the energy to complain, then[r]
+rub my breasts! Come on! Lick them! Make me feel good!"[pcms]
 
 *160|
 [fc]
-花沢に頭を抱きしめられ、[r]
-ちょっとだけ汗の匂いがする谷間に挟まれ、[r]
-僕の口は完全に塞がれてしまった。[pcms]
+My head was embraced by Hanazawa, and trapped in the valley that[r]
+smelled faintly of sweat, my mouth was completely sealed.[pcms]
 
 *161|
 [fc]
-[ns]誠[nse]
-「んぶっ……んっ……ぷあぁっ！[r]
-　くっ……くるしっ……んんぶっ！」[pcms]
+[ns]Makoto[nse]
+"Mmph... Mmm... Puaah! It's... suffocating... Mmmph!"[pcms]
 
 *162|
 [fc]
-僕はそれから逃れようと、必死で頭を振ると、[r]
-偶然にも僕の口の中に、[r]
-ピンク色の堅く尖った乳首が滑り込んでしまった。[pcms]
+As I desperately shook my head trying to escape, by chance, a pink,[r]
+hard, pointed nipple slipped into my mouth.[pcms]
 
 *163|
 [fc]
 [vo_han s="hana0114"]
-[ns]花沢[nse]
-「んっ……あぁっ……んあぁっ……ふっ……ふうっ……」[pcms]
+[ns]Hanazawa[nse]
+"Mmm... Ahh... Nnahh... Huh... Hoo..."[pcms]
 
 *164|
 [fc]
-あろう事か、僕を苦しめている相手の望む状態になってしまった。[r]
-だけど、これは逃げ出すチャンスでもありそうだ。[pcms]
+Somehow, I ended up in the very state that my tormentor desired. But[r]
+this might also be a chance to escape.[pcms]
 
 *165|
 [fc]
-いくら感染しているからっていっても、[r]
-この乳首を噛んでやれば、痛みで離れるかもしれない。[pcms]
+No matter if she's infected, if I bite this nipple, she might let go[r]
+because of the pain.[pcms]
 
 *166|
 [fc]
-そう考えた僕は、早速“それ”を実行に移した。[pcms]
+With that thought, I immediately put the plan into action.[pcms]
 
 *167|
 [fc]
-[ns]誠[nse]
-「んぶっ……くっ……んぎいいっ！」[pcms]
+[ns]Makoto[nse]
+"Mmph... Grr... Nghii!"[pcms]
 
 [evcg storage="mob_H007b"][trans_c cross time=300]
 
 *168|
 [fc]
 [vo_han s="hana0115"]
-[ns]花沢[nse]
-「ぎっ……んあっ！　あぁっ！　あっ、あらいくんが、[r]
-　わたしのちくびかんでるううぅっ！[r]
-　いぃいっ！　これ、いいっ！　もっと、つよくううぅっ！」[pcms]
+[ns]Hanazawa[nse]
+"Gah... Nnah! Ahh! Arai-kun is biting my nipple! Ahh! It feels good![r]
+More, bite harder!"[pcms]
 
 *169|
 [fc]
-僕は、逃げるために必死だった。[r]
-だから、容赦して噛んだつもりは無かった。[pcms]
+I was desperate to escape. I didn't intend to bite gently.[pcms]
 
 *170|
 [fc]
-なのに花沢は、それすら快楽に捕らえているようで、[r]
-僕に押しつけたオッパイをプルプル震わせながら悦んでいた。[pcms]
+Yet Hanazawa seemed to be caught up in pleasure even from that,[r]
+trembling her breasts pushed against me with delight.[pcms]
 
 *171|
 [fc]
-くそっ……。[r]
-もっと強くだって？[r]
-望み通りにしてやるっ！[pcms]
+Damn it... You want it harder? I'll give you exactly what you wish[r]
+for![pcms]
 
 *172|
 [fc]
-[ns]誠[nse]
-「んっ！　んんっ！！！」[pcms]
+[ns]Makoto[nse]
+"Mmm! Mmmm!!"[pcms]
 
 ;//#_赤フラ
 [赤フラ]
 
 *173|
 [fc]
-花沢の尖った乳首を、[r]
-噛み千切るくらいの勢いで歯を立てた。[pcms]
+I bit down on Hanazawa's pointed nipple with enough force as if trying[r]
+to bite it off.[pcms]
 
 [evcg storage="mob_H007c"][trans_c cross time=300]
 
 *174|
 [fc]
 [vo_han s="hana0116"]
-[ns]花沢[nse]
-「あっ……いいいいっ！　ちくび、いいぃっ！[r]
-　あっはぁっ！　んあぁっ！　んぉおおおっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ah... That feels so good! My nipple feels amazing! Ahhhaa! Nnahh![r]
+Nooo!"[pcms]
 
 *175|
 [fc]
-それなのに、花沢はやっぱり僕を離す事なく、[r]
-体を小刻みに震わせて、身もだえしていた。[pcms]
+Yet still, Hanazawa didn't let go of me, her body quivering in small[r]
+spasms as she writhed in pleasure.[pcms]
 
 *176|
 [fc]
 [vo_han s="hana0117"]
-[ns]花沢[nse]
-「はぁっ……はぁーっ……やっぱり、あらいくん……じょうずぅ。[r]
-　わたし、だいすきなの、あらいくんのことおぉ……。[r]
-　だから～……セックスしましょうよぉおっ！」[pcms]
+[ns]Hanazawa[nse]
+"Haa... Haa-... As expected, Arai-kun... you're so good. I love you so[r]
+much, Arai-kun... So let's have sex!"[pcms]
 
 *177|
 [fc]
-[ns]誠[nse]
-「ぶっ……んぶううっ……あぷっ！」[pcms]
+[ns]Makoto[nse]
+"Mmph... Nmbuuu... Apuh!"[pcms]
 
 *178|
 [fc]
-コイツは、完全にイッちゃってる。[r]
-こんなに強く噛んでも、全然効いていない。[pcms]
+She's completely gone. Even biting this hard doesn't affect her at[r]
+all.[pcms]
 
 *179|
 [fc]
-これ以上乳首を噛んで、万一血が出ちゃったら……？[r]
-いくら予防接種してるからっていっても、少し怖い。[pcms]
+If I keep biting her nipple and blood comes out...? Even though I've[r]
+been vaccinated, it's still a bit scary.[pcms]
 
 *180|
 [fc]
-でも、どうやったら花沢を引き離すことが出来るんだろう……。[pcms]
+But how can I get Hanazawa off me...?[pcms]
 
 *181|
 [fc]
-あまりここでモタモタしてると、[r]
-他の感染者が集まって来ちゃうかもしれない！[r]
-早く逃げなきゃ！[pcms]
+If I dawdle here too much longer, other infected might gather around![r]
+I need to escape quickly![pcms]
 
 [evcg storage="mob_H007a"][trans_c cross time=300]
 
 *182|
 [fc]
 [vo_han s="hana0118"]
-[ns]花沢[nse]
-「あっれー……？　なんだか……ちんちんがぴくんっていった！[r]
-　あはっ……あらいくん、わたしのこと、すきなんだ！[r]
-　うれしいなぁ～……もっと、かたくしてよぉ……いれようよぉ」[pcms]
+[ns]Hanazawa[nse]
+"Huh-...? My pussy just twitched! Ahah... Arai-kun, you like me! I'm[r]
+so happy~... Make it harder... Let's put it in."[pcms]
 
 *183|
 [fc]
-[ns]誠[nse]
-「んぶぁっ！　ぷはぁっ！　違うっていってるだろ！[r]
-　僕は荒井じゃないって！　だから、離せぇっ！」[pcms]
+[ns]Makoto[nse]
+"Mmphah! Phaah! I'm telling you, you're wrong! I'm not Arai! So let go[r]
+of me!"[pcms]
 
 *184|
 [fc]
 [vo_han s="hana0119"]
-[ns]花沢[nse]
-「ふふっ……かーわいい……わたし～もう、ぬれてきたよぉ……。[r]
-　あらいくんのおちんちんが、はいりやすいように……。[r]
-　いっーぱい、ぬらしてるんだぁ～……」[pcms]
+[ns]Hanazawa[nse]
+"Hehe... So cute... I'm getting wet already... So that Arai-kun's cock[r]
+can slide in easily... I'm making it really wet..."[pcms]
 
 *185|
 [fc]
 [vo_han s="hana0120"]
-[ns]花沢[nse]
-「あらいくんのにも、ぬってあげるね～……。[r]
-　いれやすいように……ふふっ……んんっ……ふぁっ！[r]
-　これ、クリトリスこすれてぇ……きもちいいぃ……」[pcms]
+[ns]Hanazawa[nse]
+"I'll make Arai-kun's wet too... So it can slide in easily... Hehe...[r]
+Mmm... Fwah! Rubbing this clit feels so good..."[pcms]
 
 *186|
 [fc]
-それまで、胸を押しつけていた花沢は、[r]
-僕のチンコの上にのせたままの腰を前後に動かし始め、[r]
-言葉通り、自分の愛液を塗りつけ始めた。[pcms]
+Until then, Hanazawa, who had been pressing her breasts against me,[r]
+began to move her hips back and forth on top of my dick, and as she[r]
+said, she started to smear her love juices on it.[pcms]
 
 *187|
 [fc]
-柔らかい肉の割れ目の中がレールみたいになって、[r]
-僕のチンコがその真ん中を滑り、[r]
-先端にある小さな突起にぶつかった。[pcms]
+The soft crevice of her flesh became like a rail, and my dick slid[r]
+through the middle, hitting a small protrusion at the tip.[pcms]
 
 *188|
 [fc]
-[ns]誠[nse]
-「くっ……うううっ……やっ、やめっ……」[pcms]
+[ns]Makoto[nse]
+"Guh... Ugh... Stop, stop it..."[pcms]
 
 *189|
 [fc]
-相手は感染者だ。[r]
-こんな事、絶対にしちゃいけないのは分かってる。[pcms]
+The other person is infected. I know that I absolutely shouldn't be[r]
+doing this.[pcms]
 
 *190|
 [fc]
-だけど、知り合いで、同じ学園の生徒だ。[r]
-イヤでも、それを考えてしまう。[pcms]
+But she's an acquaintance, a student from the same school. I can't[r]
+help but think about that.[pcms]
 
 *191|
 [fc]
-[ns]誠[nse]
-「ああぁ……あ……」[pcms]
+[ns]Makoto[nse]
+"Ahh... Ah..."[pcms]
 
 *192|
 [fc]
-普段と全く違う、淫らな獣の様になってしまった花沢に、[r]
-妙な新鮮さと、興奮を覚えた僕のチンコは、[r]
-ゆっくりと反応し出してしまっていた。[pcms]
+My dick, which felt a strange freshness and excitement from Hanazawa[r]
+who had become like a lewd beast completely different from usual, was[r]
+slowly starting to react.[pcms]
 
 [evcg storage="mob_H007c"][trans_c cross time=300]
 
 *193|
 [fc]
 [vo_han s="hana0121"]
-[ns]花沢[nse]
-「あぁ……んんぁっ……あらいくんの、おちんちん……。[r]
-　かたくなってきたね……きもちよくなろうねぇ～……。[r]
-　わたしたち、ふたりで……ふふっ……あはぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ahh... Nnha... Arai-kun's dick... It's getting hard... Let's feel[r]
+good together~... Just the two of us... Fufu... Ahha!"[pcms]
 
 *194|
 [fc]
-[ns]誠[nse]
-「くうっ……そんなこと、するもんかあっ！[r]
-　ちっきしょーっ！」[pcms]
+[ns]Makoto[nse]
+"Kuh... Like I'd do such a thing! Damn it!"[pcms]
 
 *195|
 [fc]
-哀しい男の性なのか、こんな状況だってのに、[r]
-僕のチンコはドンドン大きくなっていく。[pcms]
+Is it the sad nature of men? Despite the situation, my dick keeps[r]
+getting bigger.[pcms]
 
 *196|
 [fc]
-僕は、花沢とセックスなんかしたら、[r]
-きっと感染してしまうというのに。[pcms]
+Even though I know that if I have sex with Hanazawa, I'll surely get[r]
+infected.[pcms]
 
 *197|
 [fc]
-生きるか、死ぬか。[r]
-そんな状況なのに、[r]
-僕のチンコは痛いほど勃起してしまっていた。[pcms]
+To live or to die. In such a situation, my dick was painfully erect.[pcms]
 
 *198|
 [fc]
 [vo_han s="hana0122"]
-[ns]花沢[nse]
-「わぁ……あらいくんのおちんちんが、かおをだした……。[r]
-　すっごい、おおきくなってるね……かっちかちだし～。[r]
-　もう、はいりそうだよおっ……んんんんっ……んんっ！」[pcms]
+[ns]Hanazawa[nse]
+"Wow... Arai-kun's dick has shown its face... It's gotten so big...[r]
+Hard as a rock~. It looks like it's about to go in... Nnnnn... Nn!"[pcms]
 
 *199|
 [fc]
-[ns]誠[nse]
-「やっ……ダメだっ！　止めろ花沢っ！[r]
-　僕のは、お前に入れるためにあるんじゃないんだぁっ！」[pcms]
+[ns]Makoto[nse]
+"No... Stop it! Stop it, Hanazawa! My dick isn't meant for you!"[pcms]
 
 *200|
 [fc]
 [vo_han s="hana0123"]
-[ns]花沢[nse]
-「ふうん……じゃあ、だれなのよ！　だれのためのものなの！？[r]
-　これはっ！　そんなこというんなら……わたしは……、[r]
-　いまここで、あらいくんのおちんちんをうばうだけよ！」[pcms]
+[ns]Hanazawa[nse]
+"Huh... Then for whom is it meant? Who is it for!? This! If you're[r]
+going to say that... then I'll just take Arai-kun's dick right here[r]
+and now!"[pcms]
 
 *201|
 [fc]
-花沢は一瞬顔を強ばらせると、[r]
-堅くなってしまったチンコをヌルヌルと滑るオマンコの中に、[r]
-一気に引き入れた。[pcms]
+Hanazawa's face stiffened for a moment, and then she pulled my now[r]
+hard dick into her slippery pussy in one swift motion.[pcms]
 
 *202|
 [fc]
-[ns]誠[nse]
-「ああぁっ！！　うわあぁっ！！　いっ、入れちゃったっ！！[r]
-　抜けっ！　抜いてくれ花沢あぁっ！！　うわああぁっ！」[pcms]
+[ns]Makoto[nse]
+"Aaah!! Uwaaah!! It went in!! Pull out! Pull it out, Hanazawa!![r]
+Uwaaaah!"[pcms]
 
 *203|
 [fc]
 [vo_han s="hana0124"]
-[ns]花沢[nse]
-「あっはぁっ……はいったぁ～！　あらいくんのおちんちん、[r]
-　わたしのなかに、はいったぁっ！　あははっ！[r]
-　これで、あらいくんはわたしのものよっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ahha... It's in~! Arai-kun's dick is inside me! Ahaha! Now Arai-kun[r]
+is all mine!"[pcms]
 
 *204|
 [fc]
 [vo_han s="hana0125"]
-[ns]花沢[nse]
-「んはああっ！　あっっ……んんぅうううっ！　あぁっ！[r]
-　ひぁあっ！　あっ……んんううっ……」[pcms]
+[ns]Hanazawa[nse]
+"Nhaaa! Ahh... Nnuuuu! Ahh! Hiaa! Ah... Nnuuu..."[pcms]
 
 [evcg storage="mob_H007b"][trans_c cross time=300]
 
 *205|
 [fc]
-もうダメだっ……ゴムも付けないで、そのまま入れちゃった……。[r]
-僕、感染しちゃうのかな……。[r]
-どうしよう……あぁぁ……。[pcms]
+It's no use... I put it in without a condom. Am I going to get[r]
+infected? What should I do... Ahh...[pcms]
 
 *206|
 [fc]
 [vo_han s="hana0126"]
-[ns]花沢[nse]
-「なっ……なによおぉっ、そのかお！　うれしくないのっ！[r]
-　……あぁぁっ！　あ、あんた、あらいくんじゃない！[r]
-　なんで、なかざわなのよおぉっ！」[pcms]
+[ns]Hanazawa[nse]
+"What... What's with that face!? Aren't you happy!? ...Ahh! You're not[r]
+Arai-kun! Why is it Nakazawa!?"[pcms]
 
 *207|
 [fc]
 [vo_han s="hana0127"]
-[ns]花沢[nse]
-「あんた、わたしになんてことしてくれたのっ！[r]
-　バカ！　ああっっ！　で、でも、きもちいいっ！[r]
-　ボケッとしてないで、こしうごかしなさいよ、バカァ！」[pcms]
+[ns]Hanazawa[nse]
+"What have you done to me!? Idiot! Ahh! But, it feels good! Don't just[r]
+stand there, move your hips, idiot!"[pcms]
 
 *208|
 [fc]
-[ns]誠[nse]
-「だから違うって言ってただろ！　イヤならどけよっ！[r]
-　僕から離れてくれよおっ！　あぁっ！」[pcms]
+[ns]Makoto[nse]
+"That's what I've been saying! If you don't like it, move away! Get[r]
+off me! Ahh!"[pcms]
 
 *209|
 [fc]
 [vo_han s="hana0128"]
-[ns]花沢[nse]
-「なにいってるのよっ！　いまさらやめるなんて、[r]
-　ほんとうにバカね！　ちゃんとわたしのなかに、[r]
-　せいしだしなさいよっ！　ほらっ……ほらぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"What are you saying!? Don't you dare stop now, you're such an idiot![r]
+Make sure you release your semen inside me properly! Come on... Come[r]
+on!"[pcms]
 
 *210|
 [fc]
-花沢は、やっと僕の事が認識できたみたいだ。[r]
-だけど、それでも腰を振る事をやめなかった。[pcms]
+It seems Hanazawa finally recognized who I am. But even so, she didn't[r]
+stop moving her hips.[pcms]
 
 *211|
 [fc]
-『感染者は、時々記憶を取り戻す事があるらしい。[r]
-　だけど、結局は快楽に飲まれ、全てを忘れていく』[pcms]
+"Infected people sometimes regain their memories. But in the end, they[r]
+are consumed by pleasure and forget everything."[pcms]
 
 *212|
 [fc]
-そんなことを、施設で聞いた事があった。[r]
-今の花沢は、まさにその状態なんだろう。[pcms]
+I heard something like that at the facility. Hanazawa must be in that[r]
+state right now.[pcms]
 
 *213|
 [fc]
 [vo_han s="hana0129"]
-[ns]花沢[nse]
-「だから、ボケっとしてんじゃないわよ！[r]
-　もういい！　あんたの、そチンでいいから！[r]
-　わたしのこと、しっかりイカせなさいよ！」[pcms]
+[ns]Hanazawa[nse]
+"So stop spacing out! It's fine! Your dick is good enough! Make me cum[r]
+properly!"[pcms]
 
 *214|
 [fc]
 [vo_han s="hana0130"]
-[ns]花沢[nse]
-「こっ、この……かわかむりぃっ！[r]
-　ばかっ！　かわいいかおしてっ……！[r]
-　なんで、あんたなのよ……あらいくんがよかったのにっ！」[pcms]
+[ns]Hanazawa[nse]
+"You... stupid... You look so cute... Why is it you? I wanted it to be[r]
+Arai-kun!"[pcms]
 
 *215|
 [fc]
-[ns]誠[nse]
-「言ってる事がメチャクチャだっ！[r]
-　目を覚ましてくれよっ、花沢あっ！」[pcms]
+[ns]Makoto[nse]
+"You're not making any sense! Wake up, Hanazawa!"[pcms]
 
 *216|
 [fc]
-こんな事、言っても無駄だって、[r]
-僕だって分かってる。[pcms]
+Talking like this is useless, I know that.[pcms]
 
 *217|
 [fc]
-４年前のあの日、イヤと言うほど体験した筈なのに、[r]
-知り合いがこんな風になるなんて、[r]
-ちっとも思っていなかった。[pcms]
+I should have experienced enough of this four years ago to hate it,[r]
+but I never thought someone I knew would turn out like this.[pcms]
 
 *218|
 [fc]
-だから、信じたくない。[r]
-いくら、あまり好きじゃ無い花沢が相手だとしても。[pcms]
+That's why I don't want to believe it. Even if it's Hanazawa who I[r]
+don't particularly like.[pcms]
 
 *219|
 [fc]
-[ns]誠[nse]
-「うっ……ぐすっ……ううっ……花沢ぁっ……」[pcms]
+[ns]Makoto[nse]
+"Ugh... Gusu... Uuuh... Hanazawa..."[pcms]
 
 *220|
 [fc]
-それを考えると、僕の目から自然に涙があふれ出す。[r]
-泣いてどうなるものでもないのに。[pcms]
+Thinking about it makes tears naturally flow from my eyes. Crying[r]
+won't solve anything.[pcms]
 
 *221|
 [fc]
 [vo_han s="hana0131"]
-[ns]花沢[nse]
-「なにないてるのよ！　ずっと、めめしいっておもってたけど、[r]
-　ホント、あんたおとこらしさがないよね！[r]
-　おちんちんだけあればいいんじゃないの！？　ほらっ！」[pcms]
+[ns]Hanazawa[nse]
+"Why are you crying? I always thought you were pathetic, but really,[r]
+you lack manliness! Isn't your dick enough!? Come on!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
 
 *222|
 [fc]
-[ns]誠[nse]
-「うっ……くうぅああっ！　そんなに、激しくするなっ！[r]
-　でっ、出ちまうって……！」[pcms]
+[ns]Makoto[nse]
+"Ugh... Kuuuaah! Don't be so rough! It's going to come out!"[pcms]
 
 [evcg storage="mob_H007a"][trans_c cross time=300]
 
 *223|
 [fc]
 [vo_han s="hana0132"]
-[ns]花沢[nse]
-「なによっ！　だしたいんなら、いつでもだせばいいじゃない！[r]
-　この、ソウロウ！　ほら、だしなさいよっ！[r]
-　わたしのおまんこに、いっぱいだしなさいっ！」[pcms]
+[ns]Hanazawa[nse]
+"What!? If you want to release it, then do it anytime you want! You[r]
+impotent fool! Come on, release it inside my pussy, fill me up!"[pcms]
 
 *224|
 [fc]
 [vo_han s="hana0133"]
-[ns]花沢[nse]
-「どうせアンタみたいなのは、わたしいがいとセックスなんて、[r]
-　できないんだから！　ほらぁっ！[r]
-　んんぁぁっ！　ああぁっ！　んんっ……ふぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"After all, someone like you couldn't have sex with anyone but me![r]
+Come on! Nnhaaah! Aaahh! Nn... Faaah!"[pcms]
 
 *225|
 [fc]
-花沢は、間違いなく誰かに犯されて、[r]
-感染しちゃったんだ。[r]
-だけど、それまでは多分処女だったんだろう。[pcms]
+Hanazawa must have been raped by someone and got infected. But until[r]
+then, she was probably a virgin.[pcms]
 
 *226|
 [fc]
-愛液があふれて、ヌルヌルのオマンコだけど、[r]
-まるで力一杯合わせた手の平の中にねじ込んでいるみたいに、[r]
-キツキツだった。[pcms]
+The love juices overflowed, and even though her pussy was slippery, it[r]
+felt as tight as if I were forcing it into the center of tightly[r]
+clasped palms.[pcms]
 
 *227|
 [fc]
-僕のチンコは、花沢のキツすぎるオマンコの中で、[r]
-もう限界だと悲鳴を上げていた。[pcms]
+My dick was screaming its limit inside Hanazawa's overly tight pussy.[pcms]
 
 [evcg storage="mob_H007b"][trans_c cross time=300]
 
 *228|
 [fc]
 [vo_han s="hana0134"]
-[ns]花沢[nse]
-「あはっ……あははっ！　アンタのそチン、[r]
-　わたしのおまんこがきにいったみたいね！[r]
-　おなかのなかで、おさかなみたいにはねまわってるうっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ahah... Ahahaha! Your little dick seems to like my pussy! It's[r]
+flipping around inside my belly like a fish!"[pcms]
 
 *229|
 [fc]
 [vo_han s="hana0135"]
-[ns]花沢[nse]
-「あーーっ！　あっ……あぁっ！！　んぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ah--! Ah... Aaah!! Nhaa!"[pcms]
 
 [evcg storage="mob_H007e"][trans_c cross time=300]
 
 *230|
 [fc]
-[ns]誠[nse]
-「ダメだって！　そんなにっ……あっ！！　出るうっ！」[pcms]
+[ns]Makoto[nse]
+"No, I can't! Like that... Ahh!! It's coming out!"[pcms]
 
 *231|
 [fc]
-僕のチンコの先っぽが、[r]
-花沢のキツいオマンコの入り口に引っ掻かれた。[pcms]
+The tip of my dick was caught by the entrance of Hanazawa's tight[r]
+pussy.[pcms]
 
 *232|
 [fc]
-たったそれだけだったのに、[r]
-僕のチンコは、猛烈な勢いで精液をはき出してしまった。[pcms]
+Just from that alone, my dick violently spurted out semen.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE　射精っぽい
@@ -624,10 +583,9 @@
 *233|
 [fc]
 [vo_han s="hana0136"]
-[ns]花沢[nse]
-「ひぁああぁっ！　おまんこのおくっ！　せいしあたってるぅっ！[r]
-　あっつくて、きもぢいいいっ！　んぉおおっ！[r]
-　あ―――ッ！！　んぁぁっ！！　イクううっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Hiaaah! Deep in my pussy! The semen is hitting me! It's so hot, it[r]
+feels good! Nohhh! Ah---!! Nhaah!! I'm cumming!!"[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -636,139 +594,128 @@
 *234|
 [fc]
 [vo_han s="hana0137"]
-[ns]花沢[nse]
-「くっ……くあっぁぁっ！　あた、ま、しびれるうっ！[r]
-　あぁっ……はっ……はぁっ……ああ……。[r]
-　で、でも……まだたりないっ！　もっとちょうだいいっ！」[pcms]
+[ns]Hanazawa[nse]
+"Kuh... Kuahh! My head, it's tingling! Aah... Hah... Haa... Ah...[r]
+But... it's still not enough! Give me more!"[pcms]
 
 *235|
 [fc]
-[ns]誠[nse]
-「うっ……うううっ！　ダメだっ！　今は……ダメだあっ！」[pcms]
+[ns]Makoto[nse]
+"Ugh... Uuuuh! I can't! Not now... I can't!"[pcms]
 
 *236|
 [fc]
-僕は、花沢のオマンコの中にありったけの精液を[r]
-ぶちまけてしまった。[r]
-もう、全部出し切ったと思えるほどだった。[pcms]
+I had spurted all my semen into Hanazawa's pussy. It felt as though I[r]
+had let everything out.[pcms]
 
 *237|
 [fc]
-だけど、何故か僕のチンコは堅いまま。[pcms]
+But for some reason, my dick remained hard.[pcms]
 
 *238|
 [fc]
-それに、花沢もまだ物足りないのか、[r]
-僕のを銜え込んだオマンコから、精液を溢れさせながら、[r]
-また腰を激しく前後させ始めた。[pcms]
+And Hanazawa, still unsatisfied, began to move her hips violently back[r]
+and forth again, spilling semen from her pussy that was still[r]
+clenching onto me.[pcms]
 
 *239|
 [fc]
-[ns]誠[nse]
-「ま、待てっ……こんなの、死んじゃうよっ！[r]
-　くうぁあぁっ！　チンコが壊れちゃうっ！！」[pcms]
+[ns]Makoto[nse]
+"Wait... like this, I'll die! Kuahh! My dick is going to break!!"[pcms]
 
 [evcg storage="mob_H007f"][trans_c cross time=300]
 
 *240|
 [fc]
 [vo_han s="hana0138"]
-[ns]花沢[nse]
-「なに、しぬとかいってるのよ！　バーカ！[r]
-　しぬんなら、おちんちんだけのこしてしね！[r]
-　アンタみたいなおとこのくさったみたいなのは、しね！」[pcms]
+[ns]Hanazawa[nse]
+"What are you saying about dying! Idiot! If you're going to die, leave[r]
+your dick behind and die! A rotten man like you should die!"[pcms]
 
 [evcg storage="mob_H007c"][trans_c cross time=300]
 
 *241|
 [fc]
 [vo_han s="hana0139"]
-[ns]花沢[nse]
-「だけど、おちんちんだけはいきてていいよ！[r]
-　あっははははっ！　ああっ……んああぁっ！！[r]
-　いいっ！　おちんちん、おなかのうらがわこすってるうぅっ！」[pcms]
+[ns]Hanazawa[nse]
+"But your dick can stay alive! Ahahaha! Aah... Nhaah!! Good! Your dick[r]
+is scraping the back of my belly!"[pcms]
 
 *242|
 [fc]
-[ns]誠[nse]
-「くうううっ……」[pcms]
+[ns]Makoto[nse]
+"Kuuuuh..."[pcms]
 
 *243|
 [fc]
-女の子は何度でもイケる人もいる、[r]
-なんて聞いた事がある。[r]
-目の前の花沢はそういうタイプなんだろう。[pcms]
+I've heard that some girls can cum over and over again. Hanazawa in[r]
+front of me must be that type.[pcms]
 
 *244|
 [fc]
-だけど、男の僕は違う。[r]
-そんなに連続して、何度もイケたりしない。[pcms]
+But I'm different as a man. I can't cum over and over again in[r]
+succession like that.[pcms]
 
 *245|
 [fc]
-その筈なんだ。[r]
-その筈なんだけど……。[pcms]
+That's how it should be. That's how it should be, but...[pcms]
 
 *246|
 [fc]
-オマンコの中で弾けたチンコが、[r]
-さっきよりも堅く、太く膨らんで、[r]
-強すぎる圧迫感を、さらに加速させていった。[pcms]
+The dick that had burst inside the pussy was now harder and thicker[r]
+than before, accelerating the already too strong sense of pressure.[pcms]
 
 *247|
 [fc]
-[ns]誠[nse]
-「ううぅ……きっ、キツっ！　くううっ！」[pcms]
+[ns]Makoto[nse]
+"Uuu... it's so tight! Kuuuh!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
 
 *248|
 [fc]
-僕は、そんなに早いほうじゃないって思ってた。[r]
-だけど、こんなに締め付けられたら、[r]
-またすぐにでもイッてしまいそう。[pcms]
+I thought I wasn't the quick type. But being squeezed like this, I[r]
+feel like I could cum again any moment.[pcms]
 
 [evcg storage="mob_H007f"][trans_c cross time=300]
 
 *249|
 [fc]
 [vo_han s="hana0140"]
-[ns]花沢[nse]
-「ぼーっとしてないでって、いったでしょう！[r]
-　おまんこ、もっとえぐってよおっ！　いりぐちも、おくも、[r]
-　ぜんぶっ！　ぐりぐりしてよおっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Don't just space out, I told you! Grind my pussy more! Both the[r]
+entrance and deep inside, all of it! Grind it!!"[pcms]
 
 *250|
 [fc]
-そんな僕の気持ちなんかお構いなしに、[r]
-花沢の腰の動きが、さっきより大きくなっていった。[pcms]
+Regardless of how I felt, Hanazawa's hip movements grew even larger[r]
+than before.[pcms]
 
 *251|
 [fc]
-僕達の結合部から、二人の吐き出した愛液が混ざり合い、[r]
-キツキツの入り口の近くでかき回されて、[r]
-泡立ち、とどまることなく流れ落ちていく。[pcms]
+From our joined parts, our expelled love juices mixed together,[r]
+stirring near the tight entrance, frothing and flowing down without[r]
+stopping.[pcms]
 
 [evcg storage="mob_H007b"][trans_c cross time=300]
 
 *252|
 [fc]
 [vo_han s="hana0141"]
-[ns]花沢[nse]
-「あっ……ひあっっ！　オマンコ、ぜんぶすごいいっ！[r]
-　からだじゅう、きもちいいよおっ！　あぁっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ah... Hiahh! My entire pussy feels amazing! My whole body feels[r]
+good!"[pcms]
 
 *253|
 [fc]
-[ns]誠[nse]
-「くっ……うぁあっ……あぁっ！」[pcms]
+[ns]Makoto[nse]
+"Kuh... Uahh... Aahh!"[pcms]
 
 *254|
 [fc]
-花沢の興奮は、ますます高まっているみたいで、[r]
-それまでよりもっと強い力を込めて、[r]
-僕の体にしがみついた。[pcms]
+Hanazawa's excitement seemed to be increasing even more, and she clung[r]
+to my body with even more strength than before.[pcms]
 
 ;//♂Ｄ：絵との整合性が合わない場合、下に。
 
@@ -778,94 +725,88 @@
 
 *255|
 [fc]
-その猛烈な力で僕の体は、[r]
-快楽とはまた別の悲鳴を上げ始めた。[pcms]
+The ferocious strength made my body start to scream in a way different[r]
+from pleasure.[pcms]
 
 *256|
 [fc]
-全身の骨が、きしみだしている。[r]
-肩も、肋骨も、腕も、足も。[r]
-僕の全身が、悲鳴を上げている。[pcms]
+All the bones in my body were creaking. Shoulders, ribs, arms, legs.[r]
+My entire body was screaming.[pcms]
 
 *257|
 [fc]
-だけど、痛いとか、怖いとか思わなかった。[pcms]
+But I didn't feel pain or fear.[pcms]
 
 *258|
 [fc]
-今はただ、花沢のオマンコの感覚を楽しんでいたい。[r]
-そんな気持ちが、僕の心を支配しだしていた。[pcms]
+Right now, I just wanted to enjoy the sensation of Hanazawa's pussy.[r]
+That feeling was starting to take over my mind.[pcms]
 
 *259|
 [fc]
 [vo_han s="hana0142"]
-[ns]花沢[nse]
-「なによっ！　また、わたしのおなかのなかで、[r]
-　おちんちんハネさせてっ！　イクの？　イキそうなのっ！？[r]
-　イクときは、ちゃんとイクっていいなさい！」[pcms]
+[ns]Hanazawa[nse]
+"What's this!? Again, your dick is jumping inside my belly! Are you[r]
+going to cum? Do you feel like cumming!? When you do, make sure to say[r]
+you're cumming!"[pcms]
 
 *260|
 [fc]
 [vo_han s="hana0143"]
-[ns]花沢[nse]
-「アンタの“かち”は、この、そまつなおちんちんだけなんだから！[r]
-　それいがい、アンタにはなんのいみもないのよ！[r]
-　だからせめて、イクときのこえだけでもきかせなさいっ！」[pcms]
+[ns]Hanazawa[nse]
+"Your only worth is this pathetic dick of yours! Without it, you're[r]
+meaningless! So at least let me hear your voice when you're cumming!"[pcms]
 
 *261|
 [fc]
-[ns]誠[nse]
-「うっ……うあぁっ！」[pcms]
+[ns]Makoto[nse]
+"Ugh... Uaahh!"[pcms]
 
 *262|
 [fc]
-全身を締め付ける馬鹿力と、[r]
-荒々しく動かされ、快楽を与えてくるオマンコ。[r]
-そして、僕を罵倒する花沢の甘ったるい声。[pcms]
+The idiotic strength squeezing my entire body and the pussy that was[r]
+moving roughly, giving me pleasure. And Hanazawa's sweet voice[r]
+berating me.[pcms]
 
 *263|
 [fc]
-体が壊されてしまいそうだというのに、[r]
-それら全部が、僕の頭の中を痺れさせていく。[pcms]
+Even though it felt like my body was going to break apart from all of[r]
+this, they were all making my head go numb with tingling.[pcms]
 
 *264|
 [fc]
 [vo_han s="hana0144"]
-[ns]花沢[nse]
-「みっともないこえ、だしちゃって！　おんなのこみたい！[r]
-　あははっ！　そらっ！　もっとオマンコしめてあげるからっ！[r]
-　イキなさいっ！　バカちんこ！　ばかまことおっ！」[pcms]
+[ns]Hanazawa[nse]
+"Let out such a pathetic voice! Like a girl! Ahaha! There! I'll[r]
+squeeze your pussy even more for you! Cum! Stupid dick! Stupid[r]
+Makoto!"[pcms]
 
 [evcg storage="mob_H007c"][trans_c cross time=300]
 
 *265|
 [fc]
-[ns]誠[nse]
-「うっ……うぎいいいっ！　イッ……イキそうっ！[r]
-　うううっ！」[pcms]
+[ns]Makoto[nse]
+"Ugh... Ugiieeii! I'm going to cum... I'm cumming... Uuuuh!"[pcms]
 
 *266|
 [fc]
-僕達の結合部から聞こえるグチュグチュという音と、[r]
-興奮した花沢の声が、脳みその中を駆け回る。[pcms]
+The squelching sound from where we're joined and Hanazawa's excited[r]
+voice race through my brain.[pcms]
 
 *267|
 [fc]
-だんだん目の前が白くなって、[r]
-きしむ体全体に、[r]
-電気が流されたみたいな衝撃が走り回った。[pcms]
+My vision starts to blur, and an electric shock seems to run through[r]
+my creaking body.[pcms]
 
 *268|
 [fc]
-それがチンコの裏側に到達したとたん、[r]
-僕のチンコは、今までに無いくらい膨らんで、[r]
-一気に弾けた。[pcms]
+As soon as it reaches the underside of my cock, my dick swells like[r]
+never before and bursts all at once.[pcms]
 
 *269|
 [fc]
-[ns]誠[nse]
-「うわあああああああああぁっ！！！[r]
-　イクうううぅっ！　イクうううぅうぅぅぅううっ！！」[pcms]
+[ns]Makoto[nse]
+"Uwaaaaaaaaaaaaah!!! I'm cumming! I'm cuuummmiiing!!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//SE：連射っぽい
@@ -881,25 +822,23 @@
 *270|
 [fc]
 [vo_han s="hana0145"]
-[ns]花沢[nse]
-「ひいいいっ！　おっ、おおおおおおぅうっ！！[r]
-　んぉおおっ！　オマンコに、せいし、またきたぁっ！[r]
-　あぁっ……わたしも、イクうううぅっ！！」[pcms]
+[ns]Hanazawa[nse]
+"Hiiiiii! Oh, ooooooh!! Nohhh! Your semen is coming into my pussy[r]
+again! Ahh... I'm going to cum too!!"[pcms]
 
 *271|
 [fc]
-花沢の絶頂と共に、[r]
-僕のチンコは根元から食いちぎられそうなくらい、[r]
-強く締め付けられた。[pcms]
+With Hanazawa's climax, my dick is squeezed so tightly it feels like[r]
+it's going to be bitten off at the base.[pcms]
 
 *272|
 [fc]
-それは、また僕のチンコをハレツさせた。[pcms]
+That made my cock burst again.[pcms]
 
 *273|
 [fc]
-[ns]誠[nse]
-「イクううっ！　まだ出るううっ！」[pcms]
+[ns]Makoto[nse]
+"I'm cumming! More is coming out!"[pcms]
 
 ;//#_ブラックアウト
 ;//[black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -907,29 +846,27 @@
 *274|
 [fc]
 [vo_han s="hana0146"]
-[ns]花沢[nse]
-「うっ……んぁあっ！　オマンコに、またせいしでてりゅうっ！[r]
-　あへぁっ……んあぁっ！　イッちゃうっ！　あっっ！！[r]
-　バカのせいしでいっぱいのオマンコ、イッちゃううっ！」[pcms]
+[ns]Hanazawa[nse]
+"Uh... Nhaaah! More semen is coming out in my pussy! Aheah... Nhaah![r]
+I'm cumming! Ahhh!! My pussy filled with this idiot's semen is[r]
+cumming!"[pcms]
 
 *275|
 [fc]
-ぼ、僕、本当にバカになっちゃったのかな……。[r]
-花沢の中が良すぎて、連続で射精しちゃうなんて……。[r]
-こんな気持ちいいのなら、もう一回……。[pcms]
+I wonder if I've really become an idiot... It feels too good inside[r]
+Hanazawa, cumming over and over... If it feels this good, maybe one[r]
+more time...[pcms]
 
 *276|
 [fc]
 [vo_han s="hana0147"]
-[ns]花沢[nse]
-「あぁっ！　きもぢいいっ！　んぁあっ！[r]
-　もっと、わたしにだしてぇっ！　せいし、だしてぇっ！」[pcms]
+[ns]Hanazawa[nse]
+"Ahh! It feels so good! Nhaah! Give me more, give me your semen!"[pcms]
 
 *277|
 [fc]
-[ns]誠[nse]
-「ぐっ……んぎいぃいっ！　やっ、やめろっ……、[r]
-　はなし……ぐぁあっ！」[pcms]
+[ns]Makoto[nse]
+"Guh... Ngiieeii! Stop... let go... Guahh!"[pcms]
 
 ;//●_SE　骨の折れる音　があった気がする
 [se buf=0 storage="seB025"]
@@ -944,9 +881,9 @@
 
 *278|
 [fc]
-ボクン……という、堅い木が折れたみたいな音がした瞬間、[r]
-体全体から、一気に血が抜かれたみたいに冷たくなり、[r]
-僕の目の前は真っ暗になっていった。[pcms]
+The moment I heard a sound like a hard tree snapping, my body suddenly[r]
+felt drained of blood and cold, and everything in front of me went[r]
+dark.[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -967,10 +904,9 @@
 *279|
 [fc]
 [vo_han s="hana0148"]
-[ns]花沢[nse]
-「なに、ねてるのよ！　からだぐにゃぐにゃにしてっ！[r]
-　タコみたいじゃないの！　おちんちん、かたくしなさいっ！[r]
-　はやくっ！　きいてるの！？　バカっ！　ば……」[pcms]
+[ns]Hanazawa[nse]
+"What, you're sleeping? Your body's all floppy! Like an octopus! Get[r]
+your dick hard! Quickly! Are you listening?! Idiot! Ba..."[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=500]
@@ -1011,7 +947,7 @@
 [eval exp="sf.g_prologueSkip = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 

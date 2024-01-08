@@ -20,165 +20,164 @@
 
 *3145|
 [fc]
-大神島に到着した僕たちは、[r]
-再びバスに乗り込んでフェリーから出発していた。[pcms]
+We arrived at Oogamijima and boarded the bus again to depart from the[r]
+ferry.[pcms]
 
 *3146|
 [fc]
-窓からのぞく外の景色をぼんやりと眺めながら、[r]
-旅行前に調べた島の情報を、頭の中で整理する。[pcms]
+Gazing vacantly at the scenery outside the window, I organized the[r]
+information about the island I had researched before the trip in my[r]
+head.[pcms]
 
 *3147|
 [fc]
-大神島。[pcms]
+Oogamijima.[pcms]
 
 *3148|
 [fc]
-恵媛県今張市越智郡に属する、瀬渡内では第四位の面積の島だ。[pcms]
+It's an island belonging to Ochi District, Imabari City, Ehime[r]
+Prefecture, and is the fourth largest in the Setouchi area.[pcms]
 
 ;//bg06a 島の周回道路（海沿いの道路）・朝昼
 [bg storage="BG06a"][trans_c cross time=500]
 
 *3149|
 [fc]
-地名からして、すでに越智とあるから、[r]
-やっぱり越智さんの家柄は相当に由緒正しいのかも知れない。[pcms]
+Given the name, it's possible that Akari-san's family lineage is quite[r]
+prestigious.[pcms]
 
 *3150|
 [fc]
-別名、『神ノ島』などとも呼ばれていて、[r]
-恵媛側にある瀬渡内海の島では、中心的な場所だという。[pcms]
+Also known as "Kami no Shima," it's a central place among the islands[r]
+in the Setouchi Inland Sea on the Ehime side.[pcms]
 
 *3151|
 [fc]
-人口約７６００人。[r]
-海岸線長５４ｋｍ。[pcms]
+With a population of about 7,600 people and a coastline of 54 km.[pcms]
 
 *3152|
 [fc]
-それほど大きな島ではなく、[r]
-車なら３０分もあれば一周できるくらいの広さだ。[pcms]
+It's not a very large island; you could drive around it in about 30[r]
+minutes.[pcms]
 
 *3153|
 [fc]
-隣接する[ruby text="おおみしま"][ch text="大美島"]と[ruby text="おおなしま"][ch text="大那島"]の間は[r]
-潮の流れが速く、この辺りの海の難所として知られ、[r]
-かつて大きな遭難事故があったらしい。[pcms]
+The currents between it and the adjacent Oonajima are fast, making[r]
+this area a treacherous part of the sea, and it seems there was once a[r]
+major shipwreck accident.[pcms]
 
 *3154|
 [fc]
-島の中央には標高３００ｍ程の大神山がそびえ、[r]
-その周囲にあるいくつかの入り江に町があった。[pcms]
+In the center of the island stands Mount Oogami, about 300 meters[r]
+high, with several towns located in the bays around it.[pcms]
 
 *3155|
 [fc]
-山と海に囲まれている、日本の典型的な土地とも言えるが、[r]
-そうでなければ観光名所にはなれなかっただろう。[pcms]
+Surrounded by mountains and sea, it's a typical Japanese landscape[r]
+that probably wouldn't have become a tourist spot otherwise.[pcms]
 
 ;//bg05a ビーチ（＆ライブフェス会場外観）・朝昼
 [bg storage="BG05a"][trans_c cross time=500]
 
 *3156|
 [fc]
-リゾートホテルが建てられるからには、[r]
-そうした自然の恩恵がないとやっていけない。[pcms]
+Resort hotels are built because of such natural blessings; they[r]
+couldn't survive without them.[pcms]
 
 *3157|
 [fc]
-町が作られている入り江と入り江の間には、[r]
-傾斜の厳しい峠が存在していて、[r]
-その最大標高差は５０ｍ程。[pcms]
+Between the bays where the towns are built, there are steep passes[r]
+with a maximum elevation difference of about 50 meters.[pcms]
 
 *3158|
 [fc]
-海岸線は起伏の激しい荒れた地形になっていた。[pcms]
+The coastline has a rugged terrain with many ups and downs.[pcms]
 
 ;//bg06a 島の周回道路（海沿いの道路）・朝昼
 [bg storage="BG06a"][trans_c cross time=500]
 
 *3159|
 [fc]
-とはいえ、アスファルトで舗装されている現在、[r]
-車で移動する分にはなんの支障もない。[pcms]
+However, now that it's paved with asphalt, there's no problem[r]
+traveling by car.[pcms]
 
 *3160|
 [fc]
-徒歩や自転車なら、足腰が鍛えられていいかも知れないが、[r]
-それはSatto☆さんやTaryanさんに任せておこう。[pcms]
+If you're walking or cycling, it might be good exercise for your legs,[r]
+but I'll leave that to Sato☆-san and Taryan-san.[pcms]
 
 ;//★bg08a 大神神社・朝昼
 [bg storage="BG08a"][trans_c cross time=500]
 
 *3161|
 [fc]
-山には千数百年の歴史を持つ『大神山神社』があり、[r]
-この島が『神ノ島』と呼ばれる所以にもなっている。[pcms]
+On the mountain is the "Oogamiyama Shrine," which has a history of[r]
+over a thousand years and is why this island is called "Kami no[r]
+Shima."[pcms]
 
 *3162|
 [fc]
-これだけ海の恩恵に恵まれた土地でも、[r]
-やはり神社は山に建てられることが多かった。[pcms]
+Even in a land blessed by the sea, shrines are often built on[r]
+mountains.[pcms]
 
 *3163|
 [fc]
-一切の立ち入りを許されない神秘的な場所、[r]
-そうした自然崇拝を母体として神社が建てられるのは、[r]
-日本中で行われているパターンの一つだ。[pcms]
+As a place completely off-limits and mystical, building shrines based[r]
+on nature worship is one pattern seen throughout Japan.[pcms]
 
 ;//bg03a 島の街（Ａ）・朝昼
 ;//[bg storage="BG03a"][trans_c cross time=500]
 
 *3164|
 [fc]
-海で生計を立てている地元の人間が、船から仰ぎ見る[r]
-美しい山の姿を魂の寄るべく場所として崇め、[r]
-神の島と呼ぶことは多い。[pcms]
+The local people who make their living from the sea revere the[r]
+beautiful mountain they see from their boats as a spiritual resting[r]
+place and often call it the island of gods.[pcms]
 
 *3165|
 [fc]
-さすがに今時、立ち入り禁止にはなっていないだろうけれど、[r]
-観光資源としてはうってつけなはずだ。[pcms]
+Nowadays, it's unlikely to be off-limits, but it should be perfect as[r]
+a tourist resource.[pcms]
 
 *3166|
 [fc]
-この土地の『大神山神社』も、国の重要文化財に指定され、[r]
-島の観光の目玉になっている。[pcms]
+The "Oogamiyama Shrine" on this land is designated as an important[r]
+cultural property of the country and has become a highlight of the[r]
+island's tourism.[pcms]
 
 *3167|
 [fc]
-そして、主な産業は造船と海運。[r]
-次いで、塩田とクルマエビの養殖などが盛んだった。[pcms]
+The main industries are shipbuilding and maritime transport, followed[r]
+by salt fields and cultivation of kuruma prawns.[pcms]
 
 *3168|
 [fc]
-あまり、漁業が盛んでは無いそうで、ここが『神ノ島』として、[r]
-長く漁が禁忌とされてきた名残であるとされている。[pcms]
+Fishing isn't very prominent here; it's said to be a remnant of the[r]
+long-standing taboo against fishing on "Kami no Shima."[pcms]
 
 *3169|
 [fc]
-この手の古代的な信仰における山や島は[ruby text="ひもろぎ"][ch text="神籬"]と呼ばれ[r]
-禁足地として霊的な清潔さが保たれるのが常だから、[r]
-仕方ないだろう。[pcms]
+In ancient beliefs, mountains and islands like this are called sacred[r]
+precincts and are kept spiritually clean as forbidden lands; it can't[r]
+be helped.[pcms]
 
 ;//bg06a 島の周回道路（海沿いの道路）・朝昼
 [bg storage="BG06a"][trans_c cross time=500]
 
 *3170|
 [fc]
-近年は、しおかぜ街道の開通にともなって、[r]
-本州、四国と陸路で繋がった事もあり、[r]
-観光業も盛んになりつつある。[pcms]
+In recent years, with the opening of Shiokaze Highway and connections[r]
+to Honshu and Shikoku by land, tourism has also been thriving.[pcms]
 
 *3171|
 [fc]
-元々が崇められていた島だというのだから、[r]
-人の手垢にまみれていない本物の自然が[r]
-楽しめるのは結構なことだ。[pcms]
+Since it was originally a revered island, being able to enjoy genuine[r]
+nature not tainted by human hands is quite nice.[pcms]
 
 *3172|
 [fc]
-今となっては、学生の合宿に使われるくらいなので、[r]
-その霊的な清浄さも怪しい限りではあるけれど。[pcms]
+Nowadays, it's used for student camps, so its spiritual purity is[r]
+somewhat dubious.[pcms]
 
 ;//現在地MAP表示
 [sysbt_meswin clear]
@@ -205,50 +204,50 @@
 
 *3173|
 [fc]
-[ns]宗一郎[nse]
-「うーん、やっと到着したか。[r]
-　さすがに東京から瀬渡内までは時間が掛かるな」[pcms]
+[ns]Souichirou[nse]
+"Hmm, we've finally arrived. It really takes time from Tokyo to[r]
+Setouchi."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3174|
 [fc]
 [vo_stk s="satuki0091"]
-[ns]彩月[nse]
-「目的地までの行程も旅の一つでしょ？[r]
-　身体が重いのは自分のせいよ」[pcms]
+[ns]Satsuki[nse]
+"The journey to our destination is part of the trip, right? If you[r]
+feel heavy, it's your own fault."[pcms]
 
 *3175|
 [fc]
-[ns]誠[nse]
-「でも、この豪華さはちょっと驚きですよね」[pcms]
+[ns]Makoto[nse]
+"But I'm a bit surprised by this luxury."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3176|
 [fc]
-バスから降りたみんなは、一様にホテルの方を見て[r]
-驚きの声をあげていた。[pcms]
+Everyone who got off the bus was uniformly looking at the hotel and[r]
+expressing their surprise.[pcms]
 
 *3177|
 [fc]
-姉妹校との合宿で使われる民宿というレベルからは、[r]
-ほど遠い存在感を放っている。[pcms]
+The presence of the hotel was far beyond what one would expect from a[r]
+guesthouse used for inter-school camps.[pcms]
 
 *3178|
 [fc]
-写真で事前に確認はしていたものの、[r]
-その立派さに改めて声を漏らしてしまった。[pcms]
+We had checked it out in photos beforehand, but its grandeur made us[r]
+exclaim all over again.[pcms]
 
 *3179|
 [fc]
-どちらかというと、素朴な自然に溢れた景勝地である場所には、[r]
-似つかわしくないホテルに見える。[pcms]
+In a place that's supposed to be filled with simple natural beauty,[r]
+the hotel seemed out of place.[pcms]
 
 *3180|
 [fc]
-あまりにも立派すぎて、周囲の景色に全く馴染んでいないのが[r]
-原因なんだろう。[pcms]
+It's too grand and doesn't blend in with the surrounding scenery at[r]
+all; that must be why.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st28"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0]
@@ -257,17 +256,17 @@
 *3181|
 [fc]
 [vo_stk s="satuki0092"]
-[ns]彩月[nse]
-「なんで鯛の看板があるの……？」[pcms]
+[ns]Satsuki[nse]
+"Why is there a signboard with a sea bream on it...?"[pcms]
 
 *3182|
 [fc]
-南先輩が鯛の描かれたネオン看板を見て、[r]
-不思議そうな顔をしている。[pcms]
+Senior Minami looked at the neon signboard with a sea bream drawn on[r]
+it and had a puzzled look on her face.[pcms]
 
 *3183|
 [fc]
-これもこれで、また妙なギャップがある光景だった。[pcms]
+This too was another scene with a strange gap.[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st11"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0]
@@ -276,77 +275,77 @@
 *3184|
 [fc]
 [vo_aka s="akari0082"]
-[ns]茜梨[nse]
-「鯛は恵媛県のお魚なんですよ」[pcms]
+[ns]Akari[nse]
+"Sea bream is a fish from Ehime Prefecture."[pcms]
 
 *3185|
 [fc]
-いや、そうなのかも知れないけれど、[r]
-なんか違和感がある。[pcms]
+No, that might be true, but there's a sense of discomfort.[pcms]
 
 *3186|
 [fc]
-ホテルの豪華さで押すにも、自然の豊かさで押すにも、[r]
-合っていない看板なんじゃなかろうか。[pcms]
+The signboard doesn't seem to match the luxury of the hotel or the[r]
+richness of nature.[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so30b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3187|
 [fc]
-[ns]宗一郎[nse]
-「さっそくホテルに移動するみたいですな」[pcms]
+[ns]Souichirou[nse]
+"It looks like we're moving to the hotel right away."[pcms]
 
 *3188|
 [fc]
-引率の先生に連れられて、僕たちはバスから[r]
-ホテルの中へと移動を始める。[pcms]
+Guided by the teacher in charge, we began to move from the bus into[r]
+the hotel.[pcms]
 
 *3189|
 [fc]
-[ns]誠[nse]
-「あっついから、その方が助かるよ」[pcms]
+[ns]Makoto[nse]
+"It's so hot, I'm glad we're moving inside."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3190|
 [fc]
-それにしても、広い駐車場がかなり埋まっているように見えた。[pcms]
+Even so, the spacious parking lot seemed to be quite full.[pcms]
 
 *3191|
 [fc]
-シーズン中だから当たり前なのかも知れないけれど、[r]
-繁盛していることがうかがえる。[pcms]
+It might be normal during the season, but it suggests that the hotel[r]
+is doing well.[pcms]
 
 *3192|
 [fc]
-ライブフェスやモンバスのイベント、島のお祭りがある時分には、[r]
-この駐車場が全部埋まってしまうんだろう。[pcms]
+During live festivals, Monbus events, and island festivals, this[r]
+parking lot must get completely filled up.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3193|
 [fc]
 [vo_stk s="satuki0093"]
-[ns]彩月[nse]
-「練習が始まったら、この炎天下で取材しないといけないのよ」[pcms]
+[ns]Satsuki[nse]
+"Once practice starts, we'll have to cover it under this scorching[r]
+sun."[pcms]
 
 *3194|
 [fc]
-[ns]誠[nse]
-「まぁ、そうなんですけど……」[pcms]
+[ns]Makoto[nse]
+"Well, that's true..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3195|
 [fc]
 [vo_aka s="akari0083"]
-[ns]茜梨[nse]
-「中澤先輩も、一緒に身体を動かしますか？」[pcms]
+[ns]Akari[nse]
+"Nakazawa-senpai, will you join us in getting some exercise too?"[pcms]
 
 *3196|
 [fc]
-越智さんのお誘いを、丁重にお断りして[r]
-空調の効いたホテルに入り込む。[pcms]
+I politely declined Ochi-san's invitation and entered the air-[r]
+conditioned hotel.[pcms]
 
 ;//★bg10a ホテルモールフロア＆エントランス・朝昼
 [bg storage="BG10a"][trans_c blind_lr time=1000]
@@ -356,98 +355,96 @@
 
 *3197|
 [fc]
-１Ｆから３Ｆ部分はコンビニや喫茶店を含めた、[r]
-商業施設になっていた。[pcms]
+The 1st to 3rd floors of the hotel were commercial facilities,[r]
+including convenience stores and cafes.[pcms]
 
 *3198|
 [fc]
-スポーツ用品店や衣料品も扱っているみたいだから、[r]
-島の中心的な施設の役割を果たすのかもしれない。[pcms]
+Since they also deal with sports goods and clothing, it might play a[r]
+central role in the island's facilities.[pcms]
 
 *3199|
 [fc]
-よく見ると、レンタル大手のＴＵＮＡＹＡや、[r]
-ウニクロの看板まであった。[pcms]
+Upon closer inspection, there were signs for rental giant TUNAYA and[r]
+even UNIQLO.[pcms]
 
 *3200|
 [fc]
-せっかく東京から遠く離れて旅行に来ているのに、[r]
-見知ったチェーン店を見つけると、テンションが下がってしまう。[pcms]
+It's a bit of a letdown to find familiar chain stores when you've[r]
+traveled far from Tokyo for a trip.[pcms]
 
 *3201|
 [fc]
-地元の人は助かっているんだろうから、[r]
-勝手なことばかり言えないけれど、[r]
-何とならなかったんだろうか。[pcms]
+The locals must find it convenient, but I can't help but wonder if it[r]
+couldn't have been different.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3202|
 [fc]
 [vo_stk s="satuki0094"]
-[ns]彩月[nse]
-「他の観光客が結構いるんだね」[pcms]
+[ns]Satsuki[nse]
+"There seem to be quite a few other tourists."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *3203|
 [fc]
-[ns]宗一郎[nse]
-「これだけのホテルですからな、[r]
-　落ち着いた旅をするにはオフシーズンに来るしかないでしょう」[pcms]
+[ns]Souichirou[nse]
+"With a hotel like this, if you want a peaceful trip, you have to come[r]
+during the off-season."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3204|
 [fc]
-ドーム状になっているエントランスは、[r]
-和風リゾートによくある、和洋折衷の景観を織りなしていた。[pcms]
+The dome-shaped entrance was woven with a mixed landscape common in[r]
+Japanese-style resorts.[pcms]
 
 *3205|
 [fc]
-基本的に欧風なんだけど、そこかしこに[r]
-日本的な特徴が垣間見えている感じだ。[pcms]
+It's basically European-style, but you can catch glimpses of Japanese[r]
+characteristics here and there.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3206|
 [fc]
 [vo_aka s="akari0084"]
-[ns]茜梨[nse]
-「こんなに素敵なホテルだったんですね」[pcms]
+[ns]Akari[nse]
+"I didn't realize the hotel was this lovely."[pcms]
 
 *3207|
 [fc]
-[ns]誠[nse]
-「もう、外観からして高級だったからね」[pcms]
+[ns]Makoto[nse]
+"Well, it looked luxurious from the outside."[pcms]
 
 [ChrSetEx layer=3 chbase="st1_se1_a"][ChrSetParts layer=3 chface="f1_st11"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *3208|
 [fc]
 [vo_stk s="satuki0095"]
-[ns]彩月[nse]
-「庶民が家族連れで来るホテルじゃないのかも」[pcms]
+[ns]Satsuki[nse]
+"Maybe it's not a hotel for common families to visit."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3209|
 [fc]
-[ns]宗一郎[nse]
-「あまり欧風すぎると落ち着きが無くなりますからな、[r]
-　利用客の多くは日本人でしょうから、[r]
-　こういう内装になるんでしょう」[pcms]
+[ns]Souichirou[nse]
+"If it's too European-style, it loses its calmness. Since most of the[r]
+guests are Japanese, that's probably why the interior is like this."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3210|
 [fc]
-僕たちは移動しながらキョロキョロと辺りを見回している。[pcms]
+We were looking around curiously as we moved.[pcms]
 
 *3211|
 [fc]
-始めて東京に来るお上りさんと、[r]
-なんにも変わらない姿だ。[pcms]
+We looked no different from country folks visiting Tokyo for the first[r]
+time.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
@@ -457,21 +454,20 @@
 
 *3212|
 [fc]
-引率の先生がロビーでチェックインを済ませると、[r]
-奥からメガネをかけた品のいいスーツ姿の男性が、[r]
-僕らを出迎えてくれた。[pcms]
+After the teacher in charge finished checking in at the lobby, a[r]
+refined man in glasses and a suit came out to greet us.[pcms]
 
 *3213|
 [fc]
-越智さんがその男性の側に寄っていく。[pcms]
+Ochi-san approached the man.[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3214|
 [fc]
 [vo_aka s="akari0085"]
-[ns]茜梨[nse]
-「[ruby text="かづお"][ch text="稼津央"]お兄様」[pcms]
+[ns]Akari[nse]
+"Kazuo Onii-sama"[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz17"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 [wait_c time=500]
@@ -479,14 +475,14 @@
 
 *3215|
 [fc]
-[ns]稼津央[nse]
-「やあ、大きくなったね茜梨」[pcms]
+[ns]Kazuo[nse]
+"Hey there, you've grown up, Akari."[pcms]
 
 *3216|
 [fc]
 [vo_aka s="akari0086"]
-[ns]茜梨[nse]
-「ご無沙汰しておりました」[pcms]
+[ns]Akari[nse]
+"It's been a while since we last met."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -495,91 +491,89 @@
 
 *3217|
 [fc]
-どうやら、あの人が観光事業を仕切っている[r]
-越智さんの叔父さんらしい。[pcms]
+Apparently, that man is Ochi-san's uncle who is in charge of tourism[r]
+business.[pcms]
 
 *3218|
 [fc]
-いかにも出来る人というオーラを放っているが、[r]
-その笑顔は営業用なんだろう。[pcms]
+He exudes an aura of competence, but that smile is probably for[r]
+business purposes.[pcms]
 
 *3219|
 [fc]
-接客業特有の笑顔の奥に、[r]
-もっと、切れた人物という凄味が感じられた。[pcms]
+Behind that customer service smile, you could feel the sharpness of a[r]
+more formidable person.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3220|
 [fc]
-[ns]稼津央[nse]
-「みなさま、当ホテルをご利用頂き誠に有り難うございます。[r]
-　まずは旅のお疲れを癒すために、お部屋へと[r]
-　案内させて頂きますので」[pcms]
+[ns]Kazuo[nse]
+"Ladies and gentlemen, thank you very much for choosing our hotel.[r]
+First, to ease your travel fatigue, allow us to guide you to your[r]
+rooms."[pcms]
 
 *3221|
 [fc]
 [vo_mob s="kojima0001"]
-[ns]小嶋[nse]
-「この度は、こちらの無理を聞いて頂いて、[r]
-　本当に助かりました。なんとお礼を言えばいいか……」[pcms]
+[ns]Kojima[nse]
+"This time, thank you for accommodating our requests. I don't know how[r]
+to express our gratitude..."[pcms]
 
 *3222|
 [fc]
-チアー部の顧問である小嶋先生が、[r]
-緊張した面持ちで挨拶をしていた。[pcms]
+The cheerleading advisor, Ms. Kojima, was greeting him with a tense[r]
+expression.[pcms]
 
 *3223|
 [fc]
-ホテルのオーナーが直々に現れたのは、[r]
-やっぱり越智さんがいるからなんだろう。[pcms]
+The hotel owner personally appearing must be because Ochi-san is here.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3224|
 [fc]
-[ns]稼津央[nse]
-「とんでもございません。[r]
-　こちらこそ、助かっておりますので」[pcms]
+[ns]Kazuo[nse]
+"Not at all. We are grateful for your patronage as well."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3225|
 [fc]
 [vo_aka s="akari0087"]
-[ns]茜梨[nse]
-「今回は、稼津央お兄様に無理をして頂いてすみませんでした。[r]
-　ありがとうございます」[pcms]
+[ns]Akari[nse]
+"I'm sorry for the trouble we caused you this time, Kazuo Onii-sama.[r]
+Thank you very much."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3226|
 [fc]
-[ns]稼津央[nse]
-「かわいい姪がお世話になっている方々のためなら、[r]
-　おやすい御用だよ」[pcms]
+[ns]Kazuo[nse]
+"For my cute niece and the people she cares about, it's no trouble at[r]
+all."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak01"][ChrSetXY layer=4 x=600 y=0]
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz08"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3227|
 [fc]
-にこやかで、すごく感じのいい人だ。[pcms]
+He's so pleasant and has such a nice smile.[pcms]
 
 *3228|
 [fc]
-スーツの着こなしも堂に入っていて、[r]
-ちょっと、完璧すぎるくらいにそつがない。[pcms]
+His suit fits him perfectly, and he seems flawlessly competent, almost[r]
+too perfect.[pcms]
 
 *3229|
 [fc]
-こういう出来る人を見てしまうと、[r]
-思わず警戒してしまうのは僕だけだろうか。[pcms]
+I wonder if I'm the only one who gets a bit wary when I see someone so[r]
+capable.[pcms]
 
 *3230|
 [fc]
-すると、稼津央というホテルのオーナーは、[r]
-越智さんの肩に軽く手を乗せる。[pcms]
+Then, the hotel owner Kazuo lightly placed his hand on Ochi-san's[r]
+shoulder.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0]
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak18"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -587,218 +581,213 @@
 *3231|
 [fc]
 [vo_aka s="akari0088"]
-[ns]茜梨[nse]
-「あっ……」[pcms]
+[ns]Akari[nse]
+"Ah..."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak09"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3232|
 [fc]
-越智さんはちょっとビックリしたように、[r]
-戸惑っていた。[pcms]
+Ochi-san seemed a bit surprised and confused.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz03"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3233|
 [fc]
-[ns]稼津央[nse]
-「それに、あの厳しい美沙緒姉さんに頼まれたら、[r]
-　断れるものじゃないだろう？」[pcms]
+[ns]Kazuo[nse]
+"Besides, when the strict Misao Onee-san asks for a favor, who could[r]
+say no?"[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak10"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3234|
 [fc]
 [vo_aka s="akari0089"]
-[ns]茜梨[nse]
-「そ、そんな……」[pcms]
+[ns]Akari[nse]
+"Well, that's..."[pcms]
 
 *3235|
 [fc]
-イタズラっぽく微笑むオーナーに、[r]
-越智さんが返答できずに困っている。[pcms]
+Ochi-san is at a loss for words in response to the owner's mischievous[r]
+smile.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0]
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak01"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3236|
 [fc]
-美沙緒お姉さんという人に、遠慮しているんだろうか。[pcms]
+Maybe she's being considerate of this Misao Onee-san.[pcms]
 
 *3237|
 [fc]
-[ns]稼津央[nse]
-「こちらこそ助かっているというのは本当の話でして、[r]
-　内装工事の遅れから、お客様の予約を[r]
-　入れられない状態だったのですよ」[pcms]
+[ns]Kazuo[nse]
+"The truth is, we're actually grateful. Due to delays in interior[r]
+renovations, we weren't able to take any reservations."[pcms]
 
 *3238|
 [fc]
 [vo_mob s="kojima0002"]
-[ns]小嶋[nse]
-「まぁ、そうだったんですか」[pcms]
+[ns]Kojima[nse]
+"Oh, is that so?"[pcms]
 
 *3239|
 [fc]
-[ns]稼津央[nse]
-「それが、一昨日やっと完了したほどでして、[r]
-　皆さんに来て頂いたおかげで、部屋を遊ばせずに済みました」[pcms]
+[ns]Kazuo[nse]
+"Yes, it was only completed the day before yesterday. Thanks to[r]
+everyone coming, we were able to avoid having empty rooms."[pcms]
 
 *3240|
 [fc]
-このピーク時に客を入れられないのは、[r]
-商売として痛手だろう。[pcms]
+Not being able to fill rooms during peak season would be a blow to any[r]
+business.[pcms]
 
 *3241|
 [fc]
-内装工事が終わらなくても、[r]
-程ほどにくつろげるようになっていれば、[r]
-格安な分、こっちも文句は言えない。[pcms]
+Even if the interior renovations weren't finished, as long as it was[r]
+comfortable enough, we couldn't complain given the discount.[pcms]
 
 *3242|
 [fc]
-普通のお客だとそうもいかないだろうけれど、[r]
-向こうとしても助かったんだろうな。[pcms]
+It wouldn't be the same for regular customers, but it must have been a[r]
+relief for them as well.[pcms]
 
 *3243|
 [fc]
 [vo_mob s="kojima0003"]
-[ns]小嶋[nse]
-「こちらも困っておりましたので、[r]
-　本当に助かりました」[pcms]
+[ns]Kojima[nse]
+"We were in a bit of a bind ourselves, so it really helped us out."[pcms]
 
 *3244|
 [fc]
-チアー部の顧問は、完璧にのぼせた顔をしていた。[pcms]
+The cheerleading advisor, Kojima, had a completely flushed face.[pcms]
 
 *3245|
 [fc]
-大人の男の魅力を、遺憾なく発揮しているオーナーだから、[r]
-こうなるのも当然なんだろう。[pcms]
+It's only natural given that the owner is fully displaying his adult[r]
+charm.[pcms]
 
 *3246|
 [fc]
-見れば、チアー部のコーチもうっとり顔で、[r]
-似たような状態になっている。[pcms]
+Looking over, even the cheerleading coach had a dreamy expression, in[r]
+a similar state.[pcms]
 
 *3247|
 [fc]
-面白いのはサッカー部の監督で、[r]
-ふて腐れたみたいに小嶋先生を見ていた。[pcms]
+What's interesting is the soccer team's coach, who was looking at Ms.[r]
+Kojima with a sulky expression.[pcms]
 
 *3248|
 [fc]
-付き合っているのか、狙っているだけなのか、[r]
-どちらにせよ面白くないんだろう。[pcms]
+Whether they're dating or he's just interested in her, either way,[r]
+he's not pleased.[pcms]
 
 *3249|
 [fc]
-合宿先で妙な修羅場とか止めて欲しいけど、[r]
-オーナーは相手にしないだろうからな。[pcms]
+I hope there won't be any awkward confrontations during the training[r]
+camp, but the owner probably won't get involved.[pcms]
 
 *3250|
 [fc]
-お互いに一方通行で、勘違いの起こりようも無さそうだ。[pcms]
+It seems like a one-sided affair on both sides, unlikely to lead to[r]
+any misunderstandings.[pcms]
 
 *3251|
 [fc]
-[ns]稼津央[nse]
-「少しお待ちを」[pcms]
+[ns]Kazuo[nse]
+"Please wait a moment."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3252|
 [fc]
-オーナーはカウンターの方を向いて指を鳴らし、[r]
-スタッフを呼んでいた。[pcms]
+The owner turned towards the counter and snapped his fingers, calling[r]
+over the staff.[pcms]
 
 *3253|
 [fc]
-そんな姿が様になっているところが小憎らしいが、[r]
-女性陣には受けがいいみたいだ。[pcms]
+He looks good doing it, which is annoyingly charming, but it seems to[r]
+be well-received by the ladies.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3254|
 [fc]
-[ns]稼津央[nse]
-「長旅でお疲れでしょうから、ご挨拶はこの辺で。[r]
-　係の者にお部屋まで案内させます」[pcms]
+[ns]Kazuo[nse]
+"You must be tired from your long journey, so I'll keep this brief.[r]
+I'll have someone show you to your rooms."[pcms]
 
 *3255|
 [fc]
-和装のスタッフがさっと現れる。[pcms]
+Staff dressed in traditional attire appeared promptly.[pcms]
 
 *3256|
 [fc]
-教育は行き届いているみたいで、[r]
-学生相手だからといって手を抜く様子は見えなかった。[pcms]
+Their training seems thorough; they didn't slack off just because they[r]
+were dealing with students.[pcms]
 
 *3257|
 [fc]
-[ns]荒井[nse]
-「先生、お昼御飯はどうするんですか？」[pcms]
+[ns]Arai[nse]
+"Ms. Kojima, what about lunch?"[pcms]
 
 ;//m:普段着とか制服がないから荒井君ここでは声のみ
 
 *3258|
 [fc]
 [vo_mob s="kojima0004"]
-[ns]小嶋[nse]
-「お昼はまだよ、もう少し待ってね」[pcms]
+[ns]Kojima[nse]
+"Lunch isn't ready yet; please wait a little longer."[pcms]
 
 *3259|
 [fc]
-小嶋先生の話だと、島のスポーツセンターに向かう途中で、[r]
-近くにある道の駅のフードコートに寄る予定らしかった。[pcms]
+According to Ms. Kojima, they planned to stop at a roadside station[r]
+food court on the way to the island's sports center.[pcms]
 
 *3260|
 [fc]
-名物のエビ塩ラーメンとかがあるみたいだけど、[r]
-もう少しフェリーの時間に余裕があれば、[r]
-尾道で牡蠣なんかを食べたかったな。[pcms]
+They have famous shrimp salt ramen there, but if we had more time[r]
+before the ferry, I would have liked to try oysters in Onomichi.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3261|
 [fc]
-[ns]稼津央[nse]
-「それでしたら、差し出がましいようですが、[r]
-　お昼を宴会場に用意させますので、[r]
-　２０分ほどお時間をいただければ」[pcms]
+[ns]Kazuo[nse]
+"If that's the case, although it may be presumptuous of me, we can[r]
+prepare lunch in the banquet hall if you can spare 20 minutes."[pcms]
 
 *3262|
 [fc]
 [vo_mob s="kojima0005"]
-[ns]小嶋[nse]
-「え、ですが、お昼は……」[pcms]
+[ns]Kojima[nse]
+"But our lunch plans were..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3263|
 [fc]
-[ns]稼津央[nse]
-「当方からの心尽くしでございますので」[pcms]
+[ns]Kazuo[nse]
+"Please consider it a gesture of our hospitality."[pcms]
 
 *3264|
 [fc]
-どうやら料金には入らない、純然たる、[r]
-オーナーのサービスらしい。[pcms]
+It seems like this is a genuine service from the owner, not included[r]
+in the price.[pcms]
 
 *3265|
 [fc]
-これだけの人間の食事ともなれば、[r]
-それなりの金額になりそうなものなのに。[pcms]
+For a meal for this many people, it seems like it would amount to a[r]
+considerable sum of money.[pcms]
 
 *3266|
 [fc]
-どうやら、越智さんはオーナーに愛されているみたいだった。[pcms]
+It appeared that Akari-san was well-loved by the owner.[pcms]
 
 *3267|
 [fc]
 [vo_mob s="kojima0006"]
-[ns]小嶋[nse]
-「もう、なんとお礼を言えばいいのか……」[pcms]
+[ns]Kojima[nse]
+"I don't even know how to begin to thank you..."[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0]
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak02"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -806,20 +795,19 @@
 *3268|
 [fc]
 [vo_aka s="akari0090"]
-[ns]茜梨[nse]
-「何から何まで、本当に有り難うございます。[r]
-　稼津央お兄様」[pcms]
+[ns]Akari[nse]
+"Thank you so much for everything, Kazutsuo Onii-sama."[pcms]
 
 *3269|
 [fc]
-オーナーはそんな越智さんの肩を叩いて[r]
-微笑んだだけだった。[pcms]
+The owner simply smiled and patted Akari-san on the shoulder.[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak01"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *3270|
 [fc]
-言葉にすると、相手を恐縮させてしまうと考えたんだろう。[pcms]
+He must have thought that putting it into words would make the other[r]
+person feel awkward.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -827,140 +815,138 @@
 
 *3271|
 [fc]
-[ns]宗一郎[nse]
-「中々、できる叔父さんのようだな」[pcms]
+[ns]Souichirou[nse]
+"He seems like quite the capable uncle."[pcms]
 
 *3272|
 [fc]
-[ns]誠[nse]
-「トップに立つ大人だからな、僕たちとは次元が違うよ」[pcms]
+[ns]Makoto[nse]
+"He's a top-tier adult, so he's on a different level from us."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3273|
 [fc]
-この人数の料理が、予めの用意もなく出せるはずがない。[pcms]
+There's no way they could serve a meal for this number of people[r]
+without prior preparation.[pcms]
 
 *3274|
 [fc]
-おそらく、越智さんから移動の行程や昼食に関して、[r]
-話を聞いていたんだろう。[pcms]
+Probably, the owner had been informed by Akari-san about the travel[r]
+itinerary and lunch plans.[pcms]
 
 *3275|
 [fc]
-それなら、ちょうど昼食の時間になると踏んで、[r]
-用意をしていたに違いない。[pcms]
+Then, he must have anticipated it would be lunchtime and had prepared[r]
+accordingly.[pcms]
 
 *3276|
 [fc]
-２０分という時間は、主に配膳の時間なんだろう。[pcms]
+The 20 minutes mentioned must primarily be for serving the food.[pcms]
 
 *3277|
 [fc]
-こういう、気の利いたことが出来る大人になれればなぁ。[r]
-素直にそう思ってしまう。[pcms]
+I can't help but think I'd like to become an adult who can handle[r]
+things so thoughtfully.[pcms]
 
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz02"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
 
 *3278|
 [fc]
-[ns]稼津央[nse]
-「どうか滞在の間、我が家と思って当ホテルでの生活を[r]
-　おくつろぎください」[pcms]
+[ns]Kazuo[nse]
+"Please relax and feel at home in our hotel during your stay."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3279|
 [fc]
-オーナーはそこから一歩退くと、[r]
-僕たちに道を空けるようにしてから一礼した。[pcms]
+The owner then stepped back, making way for us and bowed politely.[pcms]
 
 *3280|
 [fc]
-チアー部の女の子達から、[r]
-ため息に似た小さな歓声が上がる。[pcms]
+From the cheerleading girls, small cheers akin to sighs could be[r]
+heard.[pcms]
 
 *3281|
 [fc]
-みんなオーナーの魅力に、はまってしまったみたいだった。[pcms]
+It seemed everyone was charmed by the owner's allure.[pcms]
 
 *3282|
 [fc]
-本物の大人の男と接する機会がないだろうからな、[r]
-さぞかし僕らが子供に見えることだろう。[pcms]
+Since they probably don't have opportunities to interact with genuine[r]
+adult men, we must look like children to them.[pcms]
 
 *3283|
 [fc]
-ちょっと悔しい。[pcms]
+It's a bit frustrating.[pcms]
 
 *3284|
 [fc]
 [vo_mob s="kojima0007"]
-[ns]小嶋[nse]
-「みんな、ちゃんとお礼を言うのよ？」[pcms]
+[ns]Kojima[nse]
+"Everyone, make sure to say thank you, okay?"[pcms]
 
 *3285|
 [fc]
-部屋を案内するスタッフに導かれて、[r]
-僕らは移動を始めた。[pcms]
+Guided by the staff who were showing us to our rooms, we began to[r]
+move.[pcms]
 
 *3286|
 [fc]
-オーナーの前を通る度に、みんながお礼を言って[r]
-頭を下げていく。[pcms]
+As we passed by the owner, everyone expressed their gratitude and[r]
+bowed their heads.[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3287|
 [fc]
 [vo_aka s="akari0091"]
-[ns]茜梨[nse]
-「本当に有り難うございました」[pcms]
+[ns]Akari[nse]
+"Thank you very much indeed."[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3288|
 [fc]
-[ns]稼津央[nse]
-「後で、美沙緒姉さんにも連絡するといい。[r]
-　会えるのを楽しみにしていたよ？」[pcms]
+[ns]Kazuo[nse]
+"Later on, you should contact Misao-san. She was looking forward to[r]
+meeting you?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3289|
 [fc]
-僕はそんな話をしている越智さんとオーナーの前を[r]
-通り過ぎていく。[pcms]
+I walked past Akari-san and the owner as they were having that[r]
+conversation.[pcms]
 
 *3290|
 [fc]
-ちらっと振り返ると、僕らを見送るオーナーの元に、[r]
-背の高い男が近づいてくるのが見えた。[pcms]
+Glancing back, I saw a tall man approaching the owner who was seeing[r]
+us off.[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_su"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3291|
 [fc]
-がっしりとした体型で、この暑い中、[r]
-黒ジャケットを羽織っている男だ。[pcms]
+The man had a sturdy build and was wearing a black jacket despite the[r]
+heat.[pcms]
 
 *3292|
 [fc]
-とてもじゃないが、ホテルのスタッフには見えない。[pcms]
+He didn't look like hotel staff at all.[pcms]
 
 *3293|
 [fc]
-そもそも、顔つきからして接客業向きとは思えない、[r]
-風貌をしていた。[pcms]
+From his face alone, he didn't seem suited for customer service work.[pcms]
 
 *3294|
 [fc]
-オーナーのＳＰかなんかなのかな？[pcms]
+Maybe he's the owner's bodyguard or something?[pcms]
 
 *3295|
 [fc]
-大きなグループ企業という話だから、[r]
-そういう人が周りにいるのかもしれない。[pcms]
+Considering it's a large corporate group, it wouldn't be surprising if[r]
+he had such people around him.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="oz1_su"][ChrSetParts layer=3 chface="F1_oz01"][ChrSetXY layer=3 x=0 y=0]
@@ -968,12 +954,12 @@
 
 *3296|
 [fc]
-その男が何かをつぶやくと、[r]
-オーナーは真剣な表情でそれを聞いていた。[pcms]
+When the man muttered something, the owner listened with a serious[r]
+expression.[pcms]
 
 *3297|
 [fc]
-なにかあったんだろうか？[pcms]
+I wonder if something happened?[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
@@ -981,19 +967,19 @@
 *3298|
 [fc]
 [vo_stk s="satuki0096"]
-[ns]彩月[nse]
-「中澤君、どうしたの？」[pcms]
+[ns]Satsuki[nse]
+"Nakazawa-kun, what's wrong?"[pcms]
 
 *3299|
 [fc]
-[ns]誠[nse]
-「あ、いや、特には……」[pcms]
+[ns]Makoto[nse]
+"Ah, no, it's nothing..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3300|
 [fc]
-南先輩に促されてエレベーターに乗り込む。[pcms]
+Urged by Senpai Minami, I got into the elevator.[pcms]
 
 [ChrSetEx layer=3 chbase="oz1_su"][ChrSetParts layer=3 chface="F1_oz01"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=5 chbase="kz1_sui"][ChrSetParts layer=5 chface="F1_kz04"][ChrSetXY layer=5 x=350 y=0][trans_c cross time=150]
@@ -1004,17 +990,17 @@
 
 *3301|
 [fc]
-閉まるドアの向こう側で、黒服の男と一緒に歩いて行く[r]
-オーナーの姿が見えた。[pcms]
+Through the closing doors, I could see the owner walking away with the[r]
+man in black.[pcms]
 
 *3302|
 [fc]
-なんとなく、不穏な雰囲気に感じられる。[pcms]
+Somehow, it felt like an ominous atmosphere.[pcms]
 
 *3303|
 [fc]
-でも、僕のつまらない妄想は、[r]
-エレベーターのドアが閉まることで終わりになってしまった。[pcms]
+But my trivial speculations came to an end as the elevator doors[r]
+closed.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]

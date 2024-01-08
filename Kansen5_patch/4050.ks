@@ -32,28 +32,28 @@
 
 *700|
 [fc]
-ゴールはどこでしょうか？[r]
-思わずそう訊ねたくなるほど、越智さんの本家は広かった。[pcms]
+"Where could the goal be?" I couldn't help but want to ask that[r]
+question, given how vast Ochi-san's family estate was.[pcms]
 
 *701|
 [fc]
-手が入って綺麗で広大な庭を通り過ぎ、裏庭に出る。[r]
-そこには、土蔵が何棟も建ち並んでいた。[pcms]
+We passed through the beautifully maintained and expansive garden and[r]
+came out into the backyard. There, several storehouses stood in a row.[pcms]
 
 *702|
 [fc]
-土蔵ひとつぐらいなら、見た事はあるけど、こんなに何棟も[r]
-並んでるのは初めてだ。[pcms]
+I've seen a storehouse before, but this is the first time I've seen so[r]
+many lined up like this.[pcms]
 
 *703|
 [fc]
-どんだけ中に収める物があるのか……。年代物の古式ゆかしい[r]
-品物とか、埋蔵されているんだろうなあ……。[pcms]
+I wonder how many things they have to store inside... There must be[r]
+buried treasures and antiques from bygone eras...[pcms]
 
 *704|
 [fc]
-[ns]誠[nse]
-「……？」[pcms]
+[ns]Makoto[nse]
+"...?"[pcms]
 
 ;//---------------------------------------------
 ;//アスペクトスイッチ
@@ -76,16 +76,16 @@
 
 *705|
 [fc]
-ようやくたどり着いた先は、これまた立派な裏門で、[r]
-そこには食材や道具類が並べられていた。[pcms]
+At last, we arrived at a splendid back gate, where food ingredients[r]
+and various tools were laid out.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw2_a"][ChrSetParts layer=5 chface="f1_st08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *706|
 [fc]
 [vo_stk s="satuki_nt0006"]
-[ns]彩月[nse]
-「この、バットは？」[pcms]
+[ns]Satsuki[nse]
+"What about this bat?"[pcms]
 
 
 ;//彩月左＠水着（赤）ポーズＡ　表情01通常　　　　;//
@@ -95,32 +95,32 @@
 *707|
 [fc]
 [vo_aka s="akari_nt0008"]
-[ns]茜梨[nse]
-「ええ、スイカ割りしようかなって思いまして」[pcms]
+[ns]Akari[nse]
+"Yes, I was thinking we could use it for watermelon splitting."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw2_a"][ChrSetParts layer=5 chface="f1_st01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *708|
 [fc]
 [vo_stk s="satuki_nt0007"]
-[ns]彩月[nse]
-「……この薙刀も？　まさかスイカ割りに？」[pcms]
+[ns]Satsuki[nse]
+"...And this naginata too? Surely not for watermelon splitting?"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_sw3"][ChrSetParts layer=5 chface="F1_ak03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *709|
 [fc]
 [vo_aka s="akari_nt0009"]
-[ns]茜梨[nse]
-「はい。私はそれが得手ですから」[pcms]
+[ns]Akari[nse]
+"Yes. I'm quite skilled at it."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw2_a"][ChrSetParts layer=5 chface="f1_st01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *710|
 [fc]
 [vo_stk s="satuki_nt0008"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
@@ -128,18 +128,19 @@
 *711|
 [fc]
 [vo_mis s="misao_nt0004"]
-[ns]美沙緒[nse]
-「さあ、悪いけど分担して荷物は運んで貰うわ。[r]
-　門をでて坂を下った先まで、頑張ってちょうだい」[pcms]
+[ns]Misao[nse]
+"Now, sorry to trouble you, but we'll have to divide up and carry the[r]
+luggage. Please do your best to bring it down the hill, outside the[r]
+gate."[pcms]
 
 *712|
 [fc]
-[ns]誠[nse]
-「はいっ」[pcms]
+[ns]Makoto[nse]
+"Yes!"[pcms]
 
 *713|
 [fc]
-僕たちはわやわや言いながら、それぞれの分担を割り振った。[pcms]
+We all busily assigned our respective tasks amongst ourselves.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -150,59 +151,60 @@
 
 *714|
 [fc]
-裏門を出ると下りの坂道が、まっすぐ海へと続いていた。[r]
-波が輝いているのが、遠目に見える。[pcms]
+Exiting the back gate, a downhill path stretched straight towards the[r]
+sea. I could see the waves shimmering in the distance.[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ha_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *715|
 [fc]
-[ns]宗一郎[nse]
-「紳士たる者、こういう時にこそ役に立たねば」[pcms]
+[ns]Souichirou[nse]
+"A gentleman must prove his worth in times like these."[pcms]
 
 *716|
 [fc]
-そーいちは、張り切って越智さんや南先輩が持つはずだった[r]
-ものの一部を受け持っていた。[pcms]
+Souichirou was eagerly taking on some of the load that Ochi-san and[r]
+senior Minami were supposed to carry.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw2_a"][ChrSetParts layer=5 chface="f1_st03"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *717|
 [fc]
 [vo_stk s="satuki_nt0009"]
-[ns]彩月[nse]
-「さっすが、デヴくん。頼りになるね～」[pcms]
+[ns]Satsuki[nse]
+"As expected of Dev-kun. You're so reliable~"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_sw3"][ChrSetParts layer=5 chface="F1_ak08"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *718|
 [fc]
 [vo_aka s="akari_nt0010"]
-[ns]茜梨[nse]
-「出渕先輩……すみません。あの、重かったら言って下さいね」[pcms]
+[ns]Akari[nse]
+"Izubuchi-senpai... I'm sorry. Please let me know if it's too heavy."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ha_a"][ChrSetParts layer=5 chface="F1_so03a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *719|
 [fc]
-[ns]宗一郎[nse]
-「はっはっはっ。重いことなどありません。姫君達のお役に[r]
-　立てば、これ我が至福でございます」[pcms]
+[ns]Souichirou[nse]
+"Hahaha. There's no such thing as too heavy. If I can be of service to[r]
+you princesses, it is my utmost bliss."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *720|
 [fc]
-額に玉のような汗を浮かべて言う台詞じゃないと思うけどなあ。[pcms]
+That's not a line you say with beads of sweat on your forehead, I[r]
+think to myself.[pcms]
 
 *721|
 [fc]
-僕たちは、美沙緒さんも含めて、笑い合ってるうちに、[r]
-坂道を下りきった。[pcms]
+Laughing together, including Misao-san, we made our way down the hill.[pcms]
 
 *722|
 [fc]
-潮の香りが鼻を突き、どこかから機械が動く音が聞えてくる。[pcms]
+The scent of the tide hit our noses, and somewhere in the distance,[r]
+the sound of machinery could be heard.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -215,57 +217,58 @@
 *723|
 [fc]
 [vo_mis s="misao_nt0005"]
-[ns]美沙緒[nse]
-「はい、お疲れさま。この港はね、うちの、越智のグループの[r]
-　運輸会社が専用で使ってるところなのよ」[pcms]
+[ns]Misao[nse]
+"Well done, everyone. This port is exclusively used by Ochi Group's[r]
+transportation company."[pcms]
 
 *724|
 [fc]
-美沙緒さんが指差す先には、大型の輸送船が停泊していた。[r]
-きっと、あれが運輸会社の船なんだろうなあ。[pcms]
+Misao-san pointed towards a large transport ship docked nearby. That[r]
+must be the company's ship.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi01"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *725|
 [fc]
 [vo_mis s="misao_nt0006"]
-[ns]美沙緒[nse]
-「昔は造船所だったの。今はすっかり運輸専門の港に様変わり[r]
-　したけど、まだあちこちに、名残はあるのよ」[pcms]
+[ns]Misao[nse]
+"It used to be a shipyard. Now it's completely transformed into a port[r]
+specialized for transportation, but there are still remnants of its[r]
+past here and there."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_sw"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *726|
 [fc]
 [vo_mis s="misao_nt0007"]
-[ns]美沙緒[nse]
-「さて、あそこに停めてある小型のボート、わかるかしら？[r]
-　あれで、小島まで渡るから。さあ、もう一踏ん張り、[r]
-　向かいましょう」[pcms]
+[ns]Misao[nse]
+"Now, do you see that small boat docked over there? We'll use that to[r]
+cross over to the small island. Let's muster our strength once more[r]
+and head over."[pcms]
 
 [ChrSetEx layer=5 chbase="so1_ha_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
 
 *727|
 [fc]
-[ns]宗一郎[nse]
-「かしこまって御座候」[pcms]
+[ns]Souichirou[nse]
+"Understood."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *728|
 [fc]
-小型船ぐらいしか停まれそうにない、短めの桟橋があって、[r]
-そこにモーターボートがもやってあった。[pcms]
+There was a short pier that seemed only capable of docking small[r]
+boats, and a motorboat was moored there.[pcms]
 
 *729|
 [fc]
-話によると、美沙緒さんが運転してくれるらしい。[r]
-才女の上、船舶の免許も持ってるなんて、なんだか凄い。[pcms]
+According to what was said, Misao-san would be driving us. It's[r]
+impressive that she has a boating license on top of being so talented.[pcms]
 
 *730|
 [fc]
-荷物をボートに積み込み、全員が乗船すると、[r]
-エンジンを掛けたボートが、ゆっくりと桟橋を離れて行く。[pcms]
+Once we loaded the luggage onto the boat and everyone boarded, the[r]
+engine started and the boat slowly moved away from the pier.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -285,23 +288,23 @@
 *731|
 [fc]
 [vo_aka s="akari_nt0011"]
-[ns]茜梨[nse]
-「ほら、あの小島です。越智本家の[r]
-　プライベートビーチがあるのは」[pcms]
+[ns]Akari[nse]
+"Look, that's the small island. It's where Ochi family's private beach[r]
+is located."[pcms]
 
 *732|
 [fc]
-越智さんが指差す先に、小さな島影が見えた。[pcms]
+Ochi-san pointed towards a small silhouette of an island that was[r]
+visible.[pcms]
 
 *733|
 [fc]
-初めて見たはずなのに、[r]
-なんだか見覚えがあるような気がする。[pcms]
+It felt strangely familiar even though it was my first time seeing it.[pcms]
 
 *734|
 [fc]
-既視感だろうか？[r]
-……僕の心の奥底が、少しざわめいていた。[pcms]
+Could it be dj vu? ...A slight unrest stirred in the depths of my[r]
+heart.[pcms]
 
 ;//---------------------------------------------
 ;//アスペクトスイッチ表示ここまで

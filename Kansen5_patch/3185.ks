@@ -32,432 +32,416 @@
 *5540|
 [fc]
 [vo_tay s="taja_tj0347"]
-[ns]ターヤ[nse]
-「ひゃっ……あぁんっ……！？」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hyah... Ahn...!?"[pcms]
 
 *5541|
 [fc]
-[ns]宗一郎[nse]
-「い、いや……。始まってしまったで……ござるな……」[pcms]
+[ns]Souichirou[nse]
+"N-no... It has begun... hasn't it..."[pcms]
 
 ;//立ち無し
 
 *5542|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *5543|
 [fc]
 [vo_stk s="satuki_tj0156"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *5544|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *5545|
 [fc]
-誠君とターヤ、二人の嬌声は部屋の外まで、[r]
-ばっちりと聞こえていた。[pcms]
+The moans of Makoto-kun and Tarja could be heard perfectly outside the[r]
+room.[pcms]
 
 *5546|
 [fc]
-なんだか、わたしは一人でいるのが嫌で、[r]
-出渕君と西君がいるゲストルームへとやってきていた。[pcms]
+I didn't like being alone, so I ended up coming to the guest room[r]
+where Izubuchi-kun and West were.[pcms]
 
 *5547|
 [fc]
-そうしたら、この有様だ。[pcms]
+And then, this is the situation I walked into.[pcms]
 
 ;//　心の声では　ターヤさんではなく　『ターヤ』　にします
 
 *5548|
 [fc]
-さっきまで『ひょっとして、始めちゃたりしたら如何いたすか？』[r]
-だなんて、壁に耳を押し付けていた出渕君。[pcms]
+Until just now, Izubuchi-kun, who had been pressing his ear against[r]
+the wall wondering, "What if they've started?"[pcms]
 
 *5549|
 [fc]
-それを「けしからん」と怒っていた西君も[r]
-いざ、本当にその声が聞こえ出すとあまりに無言だった。[pcms]
+West, who had been angrily calling it indecent, was now utterly silent[r]
+when he actually heard those voices.[pcms]
 
 *5550|
 [fc]
-『これだから童貞クン』はと、思わず心の中で苦笑していた。[pcms]
+"This is why virgin-kuns," I couldn't help but smirk to myself.[pcms]
 
 *5551|
 [fc]
-そう思いながらも、自分の経験を振り返ってみると、[r]
-童貞を相手にしたことは、まだなかった気がする。[pcms]
+Even as I thought that, when I reflected on my own experiences, I[r]
+realized I had never been with a virgin before.[pcms]
 
 *5552|
 [fc]
-経験はそれなりにある。[r]
-回数も人数も、年齢の割りには豊富な方なのかもしれない。[r]
-正直に言えば、誰もが『ヤリマン』と言うだろう。[pcms]
+I have a fair amount of experience. Both the number of times and the[r]
+number of partners might be considered plentiful for my age. To be[r]
+honest, everyone would probably call me a "slut."[pcms]
 
 *5553|
 [fc]
-いろんなことをやった。[r]
-だけど、思えば本気になった相手はたったの一人。[r]
-たった、一人。あの人とだけ心を重ねていた。[pcms]
+I've done various things. But when I think about it, there was only[r]
+one person I ever got serious with. Just one person. I only ever[r]
+opened my heart to him.[pcms]
 
 *5554|
 [fc]
-……いや、心を重ねようと努力しただけだ。[r]
-その彼は『南　彩月』という幻影を忘れられなかった。[pcms]
+...No, I only tried to open my heart. He couldn't forget the illusion[r]
+of "Minami Satsuki."[pcms]
 
 *5555|
 [fc]
-考えてみれば、男というものを[r]
-わたしはいまだに良くわかってはいないのだろう。[pcms]
+When I think about it, I probably still don't really understand men.[pcms]
 
 *5556|
 [fc]
-あの人のことだけを想って、[r]
-あの人だけをわかろうとしていたのだから、[r]
-しかたがないのかもしれない。[pcms]
+I only thought about him, tried to understand only him, so maybe it[r]
+can't be helped.[pcms]
 
 *5557|
 [fc]
-[ns]誠[nse]
-「へえ、じゃあこっちのオマンコはまったく感じてないって[r]
-　言うんだな！？　どれ、触らせろよ……ん、おいおい、[r]
-　なんだこりゃあ？　もうだらしなく漏らしてるじゃねえか！」[pcms]
+[ns]Makoto[nse]
+"Heh, so you're saying this pussy doesn't feel anything at all? Let me[r]
+touch... Hey, hey, what's this? It's already leaking so shamelessly!"[pcms]
 
 *5558|
 [fc]
 [vo_stk s="satuki_tj0157"]
-[ns]彩月[nse]
-（誠君……案外、好きだったのにな……）[pcms]
+[ns]Satsuki[nse]
+(Makoto-kun... I actually liked you quite a bit...)[pcms]
 
 *5559|
 [fc]
-その誠くんの声が、さっきから聞こえている。[pcms]
+I've been hearing that voice of Makoto-kun since a while ago.[pcms]
 
 *5560|
 [fc]
-あの女――ターヤはいきなり、現れたくせに[r]
-わたしが気になって慎重にアプローチを続けてた誠君を[r]
-横から簡単にかっさらっていった。[pcms]
+That womanTarja suddenly appeared and easily snatched away Makoto-[r]
+kun, whom I had been cautiously approaching with interest.[pcms]
 
 *5561|
 [fc]
-『トンビに油揚げ』だ。[pcms]
+"A kite stealing a fried tofu." (A proverb meaning someone swooping in[r]
+to take an easy opportunity.)[pcms]
 
 *5562|
 [fc]
 [vo_tay s="taja_tj0348"]
-[ns]ターヤ[nse]
-「ひっ、きゃふぅんっ！？　な、舐めるわよ……舐めれば[r]
-　いいんでしょう……ん、ちゅっ、ぺろぺろっ、ぴちゃりっ……[r]
-　あ……あぁ……う、くっ……そ、そんな……ことっ……」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Hik, kyafuun!? N-Now I'll lick... if licking is what you want... Nn,[r]
+chu, peropero, pichari... Ah... Aah... Ugh, kuh... Such... things..."[pcms]
 
 *5563|
 [fc]
-また声が聞こえる。[r]
-やっぱり身体が、妙に熱っぽい。[pcms]
+Again, I can hear voices. My body feels strangely feverish.[pcms]
 
 *5564|
 [fc]
 [vo_stk s="satuki_tj0158"]
-[ns]彩月[nse]
-「あっ……」[pcms]
+[ns]Satsuki[nse]
+"Ah..."[pcms]
 
 ;//m:イベント合わせで私服かTシャツジャージ
 [ChrSetEx layer=5 chbase="so2_ja_a"][ChrSetParts layer=5 chface="F2_so01a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5565|
 [fc]
-[ns]宗一郎[nse]
-「どうかしましたか……南先輩？」[pcms]
+[ns]Souichirou[nse]
+"Is something wrong... Senior Minami?"[pcms]
 
 *5566|
 [fc]
-[ns]西[nse]
-「どうした？　南」[pcms]
+[ns]West[nse]
+"What's wrong? Minami"[pcms]
 
 *5567|
 [fc]
 [vo_stk s="satuki_tj0159"]
-[ns]彩月[nse]
-「な、なんでもないわ……」[pcms]
+[ns]Satsuki[nse]
+"It's nothing..."[pcms]
 
 *5568|
 [fc]
 [vo_stk s="satuki_tj0160"]
-[ns]彩月[nse]
-（もうっ、二人とも……。[r]
-　こんな時だけ反応するなんて……）[pcms]
+[ns]Satsuki[nse]
+(Geez, both of you... Reacting only at times like this...)[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5569|
 [fc]
-わたしが思わず声を漏らしてしまったのは[r]
-自分の下着が濡れていることに気がついたからだ。[pcms]
+The reason I inadvertently let out a sound was that I noticed my[r]
+underwear was wet.[pcms]
 
 *5570|
 [fc]
-熱っぽいけど、汗じゃない。もちろん、おしっこでもない。[r]
-それなのにわたしのあそこは濡れているみたいだった。[r]
-……おそらくは性的な興奮によって……。[pcms]
+It's feverish but not sweat. Of course, it's not pee either. But it[r]
+seems my pussy is wet... probably due to sexual excitement...[pcms]
 
 *5571|
 [fc]
-[ns]誠[nse]
-「おい見ろよ、こいつのマンコ、もうマン汁で[r]
-　びちゃびちゃじゃねえか！　騎士なんて格好だけだな、[r]
-　コイツ本当はただのビッチだぜ！」[pcms]
+[ns]Makoto[nse]
+"Hey look at this, her pussy is already drenched with pussy juice![r]
+She's just pretending to be a knight; in reality, she's just a bitch!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_b"][ChrSetParts layer=5 chface="F2_so11b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5572|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5573|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *5574|
 [fc]
-二人はまた、隣室から漏れる誠君とターヤの嬌声に[r]
-耳と意識を持っていかれて、茫然として聞き入っている。[r]
-腰をムズムズとさせながら……。[pcms]
+The two of them are once again captivated by the moans of Makoto-kun[r]
+and Tarja from the next room, listening in a daze while fidgeting[r]
+their hips...[pcms]
 
 *5575|
 [fc]
 [vo_stk s="satuki_tj0161"]
-[ns]彩月[nse]
-（恥ずかしがってるくせに……[r]
-　性欲は……むしろ、もてあましてるみたいね……）[pcms]
+[ns]Satsuki[nse]
+(Pretending to be shy but... their sexual desire is... rather[r]
+overwhelming...)[pcms]
 
 *5576|
 [fc]
-わたしはそれを横目で見て、苦笑しながらも、[r]
-そっと、下着へと手をのばす。[pcms]
+I watch them out of the corner of my eye and while smirking to myself,[r]
+I quietly reach for my underwear.[pcms]
 
 *5577|
 [fc]
 [vo_stk s="satuki_tj0162"]
-[ns]彩月[nse]
-「んっ……あっ……」[pcms]
+[ns]Satsuki[nse]
+"Nn... Ah..."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *5578|
 [fc]
-思わず漏れる声を噛み殺す。[pcms]
+I suppress the voice that almost escapes me.[pcms]
 
 *5579|
 [fc]
 [vo_stk s="satuki_tj0163"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *5580|
 [fc]
 [vo_tay s="taja_tj0349"]
-[ns]ターヤ[nse]
-「ああっ、ひゃあああああぁぁぁぁぁぁんんんんっ……！」[pcms]
+[ns]Tarja Pohjonen[nse]
+"Aaah, hyaaaaaaaahhh...!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_b"][ChrSetParts layer=5 chface="F2_so11b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5581|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5582|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *5583|
 [fc]
 [vo_stk s="satuki_tj0164"]
-[ns]彩月[nse]
-「ふうっ……」[pcms]
+[ns]Satsuki[nse]
+"Phew..."[pcms]
 
 *5584|
 [fc]
-二人はやっぱり漏れ聞こえる声に夢中で、[r]
-わたしの漏らした小さなうめき声には[r]
-気がついてはいないようだ。[pcms]
+They seem to be engrossed in the voices leaking through, not noticing[r]
+the small moan I let slip.[pcms]
 
 *5585|
 [fc]
-安心の吐息がもれるものの、わたしは自分にちょっと呆れていた。[r]
-良く知っている湿り気とその粘液質なぬめりに……。[pcms]
+Although a sigh of relief escapes me, I'm a bit disgusted with myself[r]
+for knowing the wetness and the slimy viscosity all too well...[pcms]
 
 *5586|
 [fc]
-わたしのスパッツはあそこから染み出した愛液で[r]
-しとどに濡れていて、指で触っただけで、じっとりと染み出し、[r]
-くちゅくちゅと卑猥な音を立てた。[pcms]
+My spats are drenched with love juice that seeped out from there, and[r]
+just touching them with my fingers makes a lewd, squelching sound.[pcms]
 
 *5587|
 [fc]
-やっぱり、わたしは性的に興奮しているようだった。[r]
-それも、かなり……。[pcms]
+It seems I am indeed sexually excited. Quite a bit...[pcms]
 
 *5588|
 [fc]
-[ns]誠[nse]
-「う……ご、ごめん……次はちゃんと[r]
-　ターヤも気持ちよくするから」[pcms]
+[ns]Makoto[nse]
+"Uh... sorry, next time I'll make sure to please you too, Tarja."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_b"][ChrSetParts layer=5 chface="F2_so11b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5589|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5590|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *5591|
 [fc]
 [vo_stk s="satuki_tj0165"]
-[ns]彩月[nse]
-「…………」[pcms]
+[ns]Satsuki[nse]
+"..."[pcms]
 
 *5592|
 [fc]
-セックスは嫌いじゃない。[r]
-だけど、自分がそんなに性欲が強い方だとは[r]
-思ってはいない。[pcms]
+I don't hate sex. But I never thought of myself as someone with a[r]
+strong sexual desire.[pcms]
 
 *5593|
 [fc]
-実のところ、オナニーだって、あんまりしたことがなかった。[r]
-あの人と別れるまで、まともにオナニーをしたことなんて[r]
-なかったくらいだった。[pcms]
+In fact, I hardly ever masturbated. Until I broke up with him, I had[r]
+never seriously masturbated.[pcms]
 
 *5594|
 [fc]
-セックスは気持ちいい。[r]
-だけど、わたしにとってセックスは性欲を満たす手段というよりは、[r]
-自分があるべき姿でいるための道具のようなものだった。[pcms]
+Sex feels good. But for me, sex was more of a tool to be in the state[r]
+I should be in rather than a means to satisfy sexual desire.[pcms]
 
 *5595|
 [fc]
-……心の穴を埋め、好きな男を繋ぎ止めるための道具。[r]
-そう割り切っていた。[r]
-だから、オナニーなんてする気は起こらなかった。[pcms]
+...A tool to fill the void in my heart and to keep the man I love tied[r]
+to me. That's how I rationalized it. That's why I never felt like[r]
+masturbating.[pcms]
 
 *5596|
 [fc]
-あの人と別れてから、心の穴を埋めるためにオナニーを覚えた。[r]
-だけど、それではわたしの心の穴を塞ぐことはできなかった。[r]
-オナニーをするのなら、セックスをしたほうがいい。[pcms]
+After breaking up with him, I learned to masturbate to fill the void[r]
+in my heart. But it couldn't seal the void. If I was going to[r]
+masturbate, I might as well have sex.[pcms]
 
 *5597|
 [fc]
-オナニーなんかでは、わたしは一度もイケなかった。[pcms]
+I never reached climax through masturbation alone.[pcms]
 
 *5598|
 [fc]
-だから、そう思った時はメガネを外し、髪型も変えて、[r]
-『誰でも無い女』になって盛り場の見知らぬ男と痴情に耽った。[r]
-そこで始めて、絶頂も知った。[pcms]
+So when I thought that way, I took off my glasses, changed my[r]
+hairstyle, and became "a woman who is nobody," indulging in passion[r]
+with unknown men in the red-light district. That's where I first knew[r]
+climax.[pcms]
 
 *5599|
 [fc]
-見も知らぬ男の肌に触れ、男のペニスを受け入れ、貫かれる。[r]
-あそこで、時には口で、胸で、お尻で……感じた。[r]
-それは気持ち良くて、絶頂することもできた。[pcms]
+I touched the skin of men I didn't know, accepted their penises, and[r]
+was penetrated. There, sometimes with my mouth, breasts, butt... I[r]
+felt it. It felt good, and I could climax.[pcms]
 
 *5600|
 [fc]
-だけど、それでは心の穴は埋まらなかった。[r]
-やっぱり、好きな相手じゃなかった。[r]
-相手だって、わたしの身体が目的なだけなのだから、しかたがない。[pcms]
+But that didn't fill the void in my heart. After all, they weren't the[r]
+ones I loved. And it couldn't be helped since they were only after my[r]
+body.[pcms]
 
 ;//　父と親の呼び方　要確認？
 
 *5601|
 [fc]
-だから、わたしは誠君で心の穴を埋めようと思っていた。[r]
-父さんやあの人に似ている誠君で。[pcms]
+That's why I thought of filling the void in my heart with Makoto-kun.[r]
+With Makoto-kun, who resembles my father and that man.[pcms]
 
 *5602|
 [fc]
-ううん、それを差し引いても、[r]
-わたしは誠君がタイプだと思っていた。[r]
-知的な雰囲気で、優しくて、眼鏡が似合う。[pcms]
+No, even without that, I thought Makoto-kun was my type. He has an[r]
+intellectual aura, he's kind, and glasses suit him.[pcms]
 
 *5603|
 [fc]
-ちょっと、背が低くてオタク趣味なところが残念だけど、[r]
-残念なのはそれだけだった。[r]
-……そして、なによりもわたしと一緒で、あの地獄を知っている。[pcms]
+It's a bit disappointing that he's a little short and has otaku[r]
+hobbies, but that's the only disappointment... And above all else,[r]
+like me, he knows that hell.[pcms]
 
 *5604|
 [fc]
-だから、慎重に、慎重に誘惑していた。[pcms]
+So I seduced him carefully, very carefully.[pcms]
 
 *5605|
 [fc]
-誠君に抱かれて、誠君の肌に触れながら、誠君のペニスに貫かれる。[r]
-『好きな相手に激しく抱かれて、絶頂を迎える』[r]
-あそこの中を、誠君の精子で一杯に満たして欲しい。[pcms]
+I wanted to be embraced by Makoto-kun, touch his skin while being[r]
+penetrated by his penis. "To be passionately embraced by someone I[r]
+love and reach climax." I want my insides filled with Makoto-kun's[r]
+sperm.[pcms]
 
 *5606|
 [fc]
-誰でも叶えられそうな、そんな他愛もないことがわたしの夢だった。[pcms]
+It was such a simple dream that anyone could fulfill.[pcms]
 
 *5607|
 [fc]
-それなのに……。[pcms]
+And yet...[pcms]
 
 *5608|
 [fc]
-[ns]誠[nse]
-「しょうがないなあ、それじゃあターヤのオマンコに[r]
-　専用のおチンポをぶち込んであげるよ！」[pcms]
+[ns]Makoto[nse]
+"Can't be helped then, I'll slam my special cock into Tarja's pussy!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_b"][ChrSetParts layer=5 chface="F2_so11b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5609|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5610|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *5611|
 [fc]
 [vo_stk s="satuki_tj0166"]
-[ns]彩月[nse]
-（やっぱり……。やっぱり、無理みたい……）[pcms]
+[ns]Satsuki[nse]
+(It seems... impossible after all...)[pcms]
 
 *5612|
 [fc]
-人のセックスを見ても笑えるくらい達観できてると思っていた。[r]
-それなのにわたしのあそこはしっかりと濡れていた。[r]
-あの二人のことは哂えない。[pcms]
+I thought I could laugh at other people's sex as if it were nothing.[r]
+But my pussy was properly wet. I can't sneer at those two.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -465,9 +449,8 @@
 
 *5613|
 [fc]
-わたしは誠君の声を無視できなかった。[r]
-さっきから、誠君の声を聞くたびにわたしの中から、[r]
-愛液が染み出した。[pcms]
+I couldn't ignore Makoto-kun's voice. Since a while ago, every time I[r]
+heard Makoto-kun's voice, love juice seeped out from inside me.[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]
@@ -475,125 +458,124 @@
 *5614|
 [fc]
 [vo_stk s="satuki_tj0167"]
-[ns]彩月[nse]
-「濡れちゃう……どんどん、濡れちゃう……」[pcms]
+[ns]Satsuki[nse]
+"I'm getting wet... more and more wet..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5615|
 [fc]
-[ns]宗一郎[nse]
-「えっ……？」[pcms]
+[ns]Souichirou[nse]
+"Eh...?"[pcms]
 
 *5616|
 [fc]
-[ns]西[nse]
-「何か言ったか……南……」[pcms]
+[ns]West[nse]
+"Did you say something... Satsuki...?"[pcms]
 
 *5617|
 [fc]
 [vo_stk s="satuki_tj0168"]
-[ns]彩月[nse]
-「う、ううん……」[pcms]
+[ns]Satsuki[nse]
+"No, it's nothing..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5618|
 [fc]
-わたしは笑って二人をやり過ごす。[r]
-またしても、この二人は余計なことにばかり気が付く。[pcms]
+I laugh it off and distract the two of them again. Once again, these[r]
+two only notice unnecessary things.[pcms]
 
 *5619|
 [fc]
-その二人のズボンの股間の部分は[r]
-はちきれんばかりに膨れ上がっていた。[pcms]
+The crotch area of their pants is bulging as if about to burst.[pcms]
 
 *5620|
 [fc]
 [vo_stk s="satuki_tj0169"]
-[ns]彩月[nse]
-（……これが誠君だったら、良かったのに……）[pcms]
+[ns]Satsuki[nse]
+(If only it were Makoto-kun... thank goodness...)[pcms]
 
 *5621|
 [fc]
-あの二人が、隣の部屋でターヤとセックスして、[r]
-それを聞きながら、わたしと誠君がセックスする。[pcms]
+(Those two are having sex with Tarja in the next room, and while[r]
+listening to that, Makoto-kun and I could be having sex. How wonderful[r]
+that would have been... I definitely don't want these two. I have the[r]
+right to choose, too.)[pcms]
 
 *5622|
 [fc]
-そうだったら、どんなに良かったことだろうか……。[r]
-流石にこの二人は嫌だ。[r]
-わたしにだって選ぶ権利がある。[pcms]
+(It would have been so nice if it were true... But I definitely don't[r]
+want these two. I have the right to choose, too.)[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_b"][ChrSetParts layer=5 chface="F2_so11b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5623|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 *5624|
 [fc]
-出渕君も……知的でいい子だとは思っている。[r]
-だけど、やっぱり、あの太り過ぎの体型が嫌だ。[r]
-それに、おどけすぎてて……どうにもバカっぽい。[pcms]
+(I do think Izubuchi-kun is intelligent and a good person. But I just[r]
+can't stand his overly plump figure. And he's too silly... it's[r]
+somewhat foolish.)[pcms]
 
 *5625|
 [fc]
-後輩として、友達としては決して嫌いじゃないけど、[r]
-彼氏としては……恋人としてはあまりにタイプからは遠い。[pcms]
+(As a junior and a friend, I don't dislike him, but as a boyfriend...[r]
+as a lover, he's just too far from my type.)[pcms]
 
 *5626|
 [fc]
-西君はわたしのことが好きで、告白だってされてる。[r]
-『正義漢』とでも言うんだろうか？[r]
-ヒーロー願望の強い、良い人だとは思っている。[pcms]
+(West-kun likes me, and he's even confessed. Should I call him a[r]
+"champion of justice"? He's a good person with strong hero[r]
+aspirations.)[pcms]
 
 *5627|
 [fc]
-だけど、いくらわたしが好きでも、本当のわたしを知ったら[r]
-逃げ出すだろう。[r]
-彼はわたしのこの[ruby text="かりそめ"][ch text="仮初"]の幻影が好きなだけだ。[pcms]
+(But no matter how much he likes me, if he knew the real me, he would[r]
+run away. He only loves this false illusion of me.)[pcms]
 
 *5628|
 [fc]
-『南　彩月』という、嘘で塗り固められたわたし。[pcms]
+("Minami Satsuki," the me that's covered in lies.)[pcms]
 
 *5629|
 [fc]
-そうじゃなくても、彼はあまりにわたしのタイプからは[r]
-かけ離れている。[r]
-なんでも体力と暑苦しい精神論で解決するタイプだ。[pcms]
+(Even so, he's just too far from my type. The type that tries to solve[r]
+everything with brute strength and hot-blooded moralism.)[pcms]
 
 *5630|
 [fc]
-そんなことは無駄だとわたしは良く知っている。[r]
-決定的に価値観が合わない。[pcms]
+(I know very well that such things are futile. Our values are[r]
+fundamentally incompatible.)[pcms]
 
 *5631|
 [fc]
-……それでは、あの行きずりの男たちと同じだ。[pcms]
+(...That would make them no different from those men of fleeting[r]
+encounters.)[pcms]
 
 *5632|
 [fc]
-[ns]誠[nse]
-「うん行くよ、もうイクよっ！　ターヤの中でイクよっ！[r]
-　いっしょにイこう！　ほら、あぁっ、出る、[r]
-　オマンコに出るううううぅぅっ……！」[pcms]
+[ns]Makoto[nse]
+"Yeah, I'm going to come, I'm coming! I'm going to come inside Tarja![r]
+Let's come together! Look, ah, it's coming out, coming out in your[r]
+pussy uuuuuh...!"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_b"][ChrSetParts layer=5 chface="F2_so11b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5633|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5634|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 [se buf=0 storage="seB023"]
 ;//♪SE心臓の鼓動
@@ -601,119 +583,113 @@
 *5635|
 [fc]
 [vo_stk s="satuki_tj0170"]
-[ns]彩月[nse]
-（ああ……。誠君の声が……）[pcms]
+[ns]Satsuki[nse]
+(Ah... Makoto-kun's voice...)[pcms]
 
 *5636|
 [fc]
-誠君のよがる声が良く聞こえた。[r]
-もしかして、始めて女を知って、そして絶頂を迎えた悦びに[r]
-悶えているのかもしれない。[pcms]
+(I can hear Makoto-kun's moans clearly. Maybe he's experiencing a[r]
+woman for the first time and is writhing in the joy of climaxing.)[pcms]
 
 *5637|
 [fc]
-それは、わたしがしたかったことなのに……。[pcms]
+(That's what I wanted to do...)[pcms]
 
 *5638|
 [fc]
-わたしがわたしのあそこで誠君をくわえ込んで……[r]
-よがらせて！　絶頂させて！[r]
-誠君がイク声を聞いて、イク顔が見たかった……。[pcms]
+(I wanted to take Makoto-kun inside me... make him moan! Make him[r]
+climax! I wanted to hear Makoto-kun come and see his face as he[r]
+does...)[pcms]
 
 *5639|
 [fc]
 [vo_stk s="satuki_tj0171"]
-[ns]彩月[nse]
-「ああっ……だ、だめっ……」[pcms]
+[ns]Satsuki[nse]
+"Ah... no, stop..."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *5640|
 [fc]
-止まらない。[r]
-愛液の滴りが止まらない。[r]
-涙が出そうなのに、代わりに愛液が出ている気がする。[pcms]
+(It won't stop. The dripping of my love juice won't stop. I feel like[r]
+crying, but instead, love juice is coming out.)[pcms]
 
 *5641|
 [fc]
-それだけじゃない。[r]
-身体がうずいてしかたがない。[pcms]
+(And that's not all. My body is throbbing uncontrollably.)[pcms]
 
 *5642|
 [fc]
 [vo_stk s="satuki_tj0172"]
-[ns]彩月[nse]
-「だめっ……ダメェ……」[pcms]
+[ns]Satsuki[nse]
+"No... Nooo..."[pcms]
 
 *5643|
 [fc]
-欲しかった。[r]
-男が欲しくて、たまらなくなっていた。[pcms]
+(I wanted it. I was so desperate for a man that I couldn't stand it.)[pcms]
 
 *5644|
 [fc]
-こんな場所なのに、目の前に出渕君と西君がいるのに……。[r]
-わたしは発情して、愛液を滴らせていた。[r]
-それはもう、わたしの足元に水溜りを作ってしまっている。[pcms]
+(Even though we're in such a place, even though Izubuchi-kun and West-[r]
+kun are right in front of me... I'm in heat, dripping with love juice.[r]
+It's already forming a puddle at my feet.)[pcms]
 
 *5645|
 [fc]
-[ns]誠[nse]
-「んちゅっ、ちゅっ、ぷはっ……[r]
-　ど、どうしたの、いきなり……？」[pcms]
+[ns]Makoto[nse]
+"Nchu, chu, puhah... What's wrong, all of a sudden...?"[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_b"][ChrSetParts layer=5 chface="F2_so11b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5646|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5647|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *5648|
 [fc]
 [vo_stk s="satuki_tj0173"]
-[ns]彩月[nse]
-「ああっ！！　だめぇ！！　だめよぉ！！」[pcms]
+[ns]Satsuki[nse]
+"Ah!! No!! That's wrong!!"[pcms]
 
 *5649|
 [fc]
-[ns]誠[nse]
-「うわ、す、すごいよ、ターヤ……！[r]
-　イッたばかりだけど、もう我慢できない！」[pcms]
+[ns]Makoto[nse]
+"Wow, amazing, Tarja...! I just came but I can't hold back anymore!"[pcms]
 
 *5650|
 [fc]
-[ns]西[nse]
-「な、なにがダメなんだ？　南……」[pcms]
+[ns]West[nse]
+"What's wrong? What's not okay? Satsuki..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_b"][ChrSetParts layer=5 chface="F2_so30b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5651|
 [fc]
-[ns]宗一郎[nse]
-「南先輩？」[pcms]
+[ns]Souichirou[nse]
+"Senior Satsuki?"[pcms]
 
 *5652|
 [fc]
 [vo_stk s="satuki_tj0174"]
-[ns]彩月[nse]
-「ああっ……！！」[pcms]
+[ns]Satsuki[nse]
+"Ah...!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5653|
 [fc]
-二人が舐めるようにわたしを見ている。[r]
-わたしの顔を、胸を、お尻を、足を……舐めるような視線で……。[r]
-股間をズボンがはちきれんばかりに勃起させながら。[pcms]
+(The two of them are looking at me as if they're licking me. My face,[r]
+my chest, my butt, my legs... with gazes like they're licking them...[r]
+while their crotches bulge in their pants as if about to burst.)[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -721,134 +697,129 @@
 *5654|
 [fc]
 [vo_stk s="satuki_tj0175"]
-[ns]彩月[nse]
-「ああっ……いやぁ……」[pcms]
+[ns]Satsuki[nse]
+"Ah... nooo..."[pcms]
 
 *5655|
 [fc]
-わたしの愛液の滴りは止まらない。[r]
-そして、二人の視線はもうすぐ、それを見つけるだろう。[pcms]
+(The dripping of my love juice won't stop. And soon, their gazes will[r]
+find it.)[pcms]
 
 *5656|
 [fc]
-……だけど、わたしは……。[pcms]
+...But I...[pcms]
 
 *5657|
 [fc]
 [vo_stk s="satuki_tj0176"]
-[ns]彩月[nse]
-（ああっ、欲しいっ！　おちんちんが……欲しい……）[pcms]
+[ns]Satsuki[nse]
+(Ah, I want it! I want a dick...)[pcms]
 
 *5658|
 [fc]
-わたしは……愛液が滴り、この異常な興奮が――[r]
-発情して男を欲していることがばれてしまうことよりも[r]
-二人のペニスを――おちんちんが欲しいと感じていた。[pcms]
+(I am... dripping with love juice, this abnormal excitement-- being in[r]
+heat and wanting a man is more important to me than being found out. I[r]
+want their penises--I want their cocks.)[pcms]
 
 *5659|
 [fc]
 [vo_stk s="satuki_tj0177"]
-[ns]彩月[nse]
-「ああっ……！！」[pcms]
+[ns]Satsuki[nse]
+"Ah...!!"[pcms]
 
 *5660|
 [fc]
-わたしは戦慄した。[r]
-まるで感染者みたいだと、自分のことを思った。[pcms]
+I was horrified. I thought of myself as if I were an infected person.[pcms]
 
 *5661|
 [fc]
-……心当たりがないわけじゃない。[pcms]
+...It's not like I have no idea why.[pcms]
 
 *5662|
 [fc]
-みんなにはああ言ったけど、あの時、[r]
-私は感染者によって傷つけられてしまっていた。[r]
-普通の人間なら、感染の可能性がある。[pcms]
+Even though I told everyone otherwise, at that time, I had been hurt[r]
+by an infected person. A normal person would be at risk of infection.[pcms]
 
 ;//　ああ言ったけど　⇒　３０００-Ｉ　
 
 *5663|
 [fc]
-だけど、わたしは普通じゃない。[pcms]
+But I'm not normal.[pcms]
 
 *5664|
 [fc]
-わたしは決して感染しない自分の体質をよく知っている。[r]
-だから、嘘はついていない。[r]
-……わたしがUNKNOWN-LV4に感染することはないのだから。[pcms]
+I know my body's constitution well; I will never get infected. So, I'm[r]
+not lying... because I will never be infected with UNKNOWN-LV4.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *5665|
 [fc]
-[ns]西[nse]
-「……み、南……それは……」[pcms]
+[ns]West[nse]
+"...Mi, Minami... that is..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_b"][ChrSetParts layer=5 chface="F2_so11b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5666|
 [fc]
-[ns]宗一郎[nse]
-「み、南先輩……。それって……」[pcms]
+[ns]Souichirou[nse]
+"Mi, Senior Minami... That means..."[pcms]
 
 *5667|
 [fc]
 [vo_stk s="satuki_tj0178"]
-[ns]彩月[nse]
-「ああっ……」[pcms]
+[ns]Satsuki[nse]
+"Ah...!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *5668|
 [fc]
-ついにバレてしまった。[r]
-わたしが興奮して、愛液をだらだらと垂れ流して、[r]
-スパッツの保水力の超えて滴らせてしまっていることを……。[pcms]
+I've finally been found out. That I'm excited, dripping love juice,[r]
+exceeding the absorbency of my spats and letting it drip...[pcms]
 
 *5669|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5670|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *5671|
 [fc]
-出渕君が見てる。[r]
-西君が見てる。[pcms]
+Izubuchi-kun is watching. West-kun is watching.[pcms]
 
 *5672|
 [fc]
-こんな姿まで見られて、今更わたしは[r]
-なにを隠す必要があるのだろうか？[pcms]
+Now that they've seen me like this, what's the point in hiding[r]
+anything anymore?[pcms]
 
 *5673|
 [fc]
 [vo_stk s="satuki_tj0179"]
-[ns]彩月[nse]
-「……あんっ……。ほしいっ……」[pcms]
+[ns]Satsuki[nse]
+"...Ahnn... I want it..."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5674|
 [fc]
-[ns]宗一郎[nse]
-「えっ？」[pcms]
+[ns]Souichirou[nse]
+"Eh?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5675|
 [fc]
-[ns]西[nse]
-「な、なにっ！？」[pcms]
+[ns]West[nse]
+"Wh-what!?"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -856,21 +827,20 @@
 *5676|
 [fc]
 [vo_stk s="satuki_tj0180"]
-[ns]彩月[nse]
-「あ……ああっ……」[pcms]
+[ns]Satsuki[nse]
+"Ah... ahh..."[pcms]
 
 *5677|
 [fc]
-思わず、口からもれてしまう。[r]
-我慢ができなくなってきた。[r]
-まるで、わたしがわたしじゃないみたいだった。[pcms]
+It slipped out of my mouth unintentionally. I can't hold back anymore.[r]
+It's as if I'm not myself anymore.[pcms]
 
 *5678|
 [fc]
-[ns]誠[nse]
-「うん行くよ、もうイクよっ！　ターヤの中でイクよっ！[r]
-　いっしょにイこう！　ほら、あぁっ、出る、[r]
-　オマンコに出るううううぅぅっ……！」[pcms]
+[ns]Makoto[nse]
+"Yeah, I'm going, I'm cumming! I'm cumming inside you, Tarja! Let's[r]
+cum together! Look, ah, it's coming out, cumming inside your pussy[r]
+uuuuuhhh...!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
@@ -878,168 +848,162 @@
 *5679|
 [fc]
 [vo_stk s="satuki_tj0181"]
-[ns]彩月[nse]
-「ああっ！！」[pcms]
+[ns]Satsuki[nse]
+"Ahh!!"[pcms]
 
 *5680|
 [fc]
-誠君のあの声を聞くたびに[r]
-わたしはおかしくなってしまうみたいだ。[pcms]
+Every time I hear Makoto-kun's voice, it seems to drive me crazy.[pcms]
 
 *5681|
 [fc]
 [vo_stk s="satuki_tj0182"]
-[ns]彩月[nse]
-「誠君……また始めてる……。[r]
-　したい……わたしもしたい……」[pcms]
+[ns]Satsuki[nse]
+"Makoto-kun... is starting again... I want to do it too... I want[r]
+it..."[pcms]
 
 *5682|
 [fc]
-[ns]西[nse]
-「だ、だいじょうぶか……？　南……」[pcms]
+[ns]West[nse]
+"Are you okay...? Minami..."[pcms]
 
 *5683|
 [fc]
-驚いた顔で西君が言う。[r]
-はっきり言ってしまった。[r]
-自分でも、なぜかわからない。[pcms]
+West-kun says with a surprised face. I said it clearly. Even I don't[r]
+know why.[pcms]
 
 *5684|
 [fc]
-身体が熱い。[r]
-頭の中が熱い。[r]
-難しく考えたくなくなっている。[pcms]
+My body is hot. My head is hot. I don't want to think too hard about[r]
+it.[pcms]
 
 *5685|
 [fc]
-[ns]宗一郎[nse]
-「みなみ……先……輩……」[pcms]
+[ns]Souichirou[nse]
+"Minami... Sen... ior..."[pcms]
 
 ;//立ち無し
 
 *5686|
 [fc]
-出渕君もズボンの中のおちんちんを大きく勃起させながら、[r]
-ふらふらとわたしの方へと近づいている。[pcms]
+Izubuchi-kun is also approaching me with his dick big and erect inside[r]
+his pants.[pcms]
 
 *5687|
 [fc]
-……きっと、二人とも、わたしが欲しいに違いない。[pcms]
+...Surely, both of them must want me.[pcms]
 
 *5688|
 [fc]
 [vo_stk s="satuki_tj0183"]
-[ns]彩月[nse]
-（彼らと、行きずりの男たちと何が違うの？）[pcms]
+[ns]Satsuki[nse]
+(What's the difference between them and the men of one-night stands?)[pcms]
 
 *5689|
 [fc]
-わたしはそんなことを考えていた。[r]
-だけど……違いは思いつかなかった。[pcms]
+I was thinking about that. But... I couldn't think of any differences.[pcms]
 
 *5690|
 [fc]
-だけど、なにが同じなのかはすぐに思いついた。[pcms]
+However, what's the same came to mind immediately.[pcms]
 
 *5691|
 [fc]
-それは……おちんちん……。[pcms]
+That is... dicks...[pcms]
 
 *5692|
 [fc]
-わたしの身体が欲しくて、わたしをいやらしい目で見て、[r]
-おちんちんを大きく勃起させて……。[r]
-……わたしを犯したがっている。[pcms]
+They want my body, they look at me with lewd eyes, their dicks are big[r]
+and erect... They want to violate me.[pcms]
 
 *5693|
 [fc]
 [vo_stk s="satuki_tj0184"]
-[ns]彩月[nse]
-「……なんだ。同じじゃない……。[r]
-　なに、難しいこと考えてたんだろう……」[pcms]
+[ns]Satsuki[nse]
+"...What the heck. It's not different... What was I thinking so hard[r]
+about..."[pcms]
 
 *5694|
 [fc]
-[ns]西[nse]
-「お、おいっ……。南……」[pcms]
+[ns]West[nse]
+"Hey, wait... Minami..."[pcms]
 
 *5695|
 [fc]
-驚いている西君へとわたしは手をのばす。[pcms]
+I reach out my hand towards the surprised West-kun.[pcms]
 
 *5696|
 [fc]
-当然、おちんちんへと……。[pcms]
+Naturally, towards his dick...[pcms]
 
 ;//　ＳＥ　ジッパー
 
 *5697|
 [fc]
-[ns]西[nse]
-「み、南ぃ！？」[pcms]
+[ns]West[nse]
+"Mi, Minami!?"[pcms]
 
 *5698|
 [fc]
-わたしがジッパーを下ろして、その中へと手を入れると[r]
-西君は素っ頓狂な声をあげる。[pcms]
+When I pull down his zipper and put my hand inside, West-kun lets out[r]
+an absurdly surprised voice.[pcms]
 
 *5699|
 [fc]
 [vo_stk s="satuki_tj0185"]
-[ns]彩月[nse]
-「うふふっ……おもしろ～い……」[pcms]
+[ns]Satsuki[nse]
+"Ufufu... this is so interesting..."[pcms]
 
 *5700|
 [fc]
-[ns]西[nse]
-「み、みなみぃ～！？」[pcms]
+[ns]West[nse]
+"Mi, Minami~!?"[pcms]
 
 *5701|
 [fc]
 [vo_stk s="satuki_tj0186"]
-[ns]彩月[nse]
-「ふふふっ……西く～ん……」[pcms]
+[ns]Satsuki[nse]
+"Fufufu... West-kun..."[pcms]
 
 *5702|
 [fc]
-西君の情けない声がなんだか、かわいく思えた。[r]
-そして、かちんかちんのおちんちんの硬さも……。[pcms]
+West-kun's pathetic voice somehow seemed cute to me. And the hardness[r]
+of his rock-hard dick too...[pcms]
 
 *5703|
 [fc]
-わたしはどうも『Ｓ』っぽいところがあるらしいせいか、[r]
-男の子の情けない声が好きで、それだけで感じてしまう時もある。[pcms]
+It seems I have a bit of an "S" side to me, as I like boys' pathetic[r]
+voices, and sometimes that alone makes me feel aroused.[pcms]
 
 *5704|
 [fc]
-トランクスを下ろすと、おちんちんがぴょこっと飛び出した。[r]
-おちんちんは西君の身体どおりの逞しさで、[r]
-ぬるぬるとしていた。[pcms]
+When I pull down his trunks, his dick pops out energetically. His dick[r]
+is as robust as West-kun's body, and it was slippery.[pcms]
 
 *5705|
 [fc]
-つかんだわたしの手も先走りのカウパー液でぬるぬるだ。[pcms]
+The hand I grabbed it with also became slippery with the pre-cum.[pcms]
 
 *5706|
 [fc]
 [vo_stk s="satuki_tj0187"]
-[ns]彩月[nse]
-「ああっ……固ぁい……。それにくっさぁあぃ……」[pcms]
+[ns]Satsuki[nse]
+"Aah... it's so hard... And it smells so bad..."[pcms]
 
 *5707|
 [fc]
-そのくっさいカウパーの臭いがなぜか愛しい。[pcms]
+That stinky smell of pre-cum is somehow dear to me.[pcms]
 
 *5708|
 [fc]
-[ns]宗一郎[nse]
-「み、南……先輩……」[pcms]
+[ns]Souichirou[nse]
+"Mi, Minami... Senpai..."[pcms]
 
 *5709|
 [fc]
 [vo_stk s="satuki_tj0188"]
-[ns]彩月[nse]
-「大丈夫よ……。そーいちくんも……ねっ……」[pcms]
+[ns]Satsuki[nse]
+"It's okay... Souichi-kun too... right...?"[pcms]
 
 ;//　ＳＥ　ジッパー
 
@@ -1047,81 +1011,78 @@
 
 *5710|
 [fc]
-[ns]宗一郎[nse]
-「あ、あああ……」[pcms]
+[ns]Souichirou[nse]
+"Ah, ahhh..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5711|
 [fc]
-いくら太りすぎだといっても、こんなにわたしを[r]
-エッチな目で見ている出渕君を除け者にしてはかわいそうだ。[r]
-そんなかわいそうなことはわたしにはできない……。[pcms]
+Even if he's a bit overweight, it would be cruel to exclude Izubuchi-[r]
+kun who is looking at me with such lecherous eyes. I can't do such a[r]
+cruel thing...[pcms]
 
 *5712|
 [fc]
-[ns]宗一郎[nse]
-「あっ、ああああっ！！」[pcms]
+[ns]Souichirou[nse]
+"Ah, ahhhh!!"[pcms]
 
 *5713|
 [fc]
 [vo_stk s="satuki_tj0189"]
-[ns]彩月[nse]
-「きゃん……っ！！」[pcms]
+[ns]Satsuki[nse]
+"Kyahn...!!"[pcms]
 
 *5714|
 [fc]
-ジッパー下ろしてトランクスからおちんちんを引き出して、[r]
-わたしは驚きのあまり声を上げてしまった。[pcms]
+As I pull down the zipper and extract his dick from his trunks, I let[r]
+out a voice of surprise.[pcms]
 
 *5715|
 [fc]
 [vo_stk s="satuki_tj0190"]
-[ns]彩月[nse]
-「ああっ……すごいっ……。[r]
-　さすがはデヴ君よねっ……。[r]
-　すっごく、おちんちんもデヴで……ステキよっ……」[pcms]
+[ns]Satsuki[nse]
+"Aah... amazing... As expected of Dev-kun... Your dick is so big[r]
+and... wonderful..."[pcms]
 
 *5716|
 [fc]
-[ns]宗一郎[nse]
-「そ、そんなホメ方ってぇ……」[pcms]
+[ns]Souichirou[nse]
+"Th-that kind of compliment..."[pcms]
 
 *5717|
 [fc]
 [vo_stk s="satuki_tj0191"]
-[ns]彩月[nse]
-「んふふふっ……」[pcms]
+[ns]Satsuki[nse]
+"Nfufufu..."[pcms]
 
 *5718|
 [fc]
-悶えて、声を震わせる出渕君がやっぱりかわいい。[r]
-それに、出渕君は体型やニックネームのとおりに、[r]
-ものすごく太いおちんちんの持ち主だった。[pcms]
+Izubuchi-kun writhing and trembling voice is still cute. And true to[r]
+his body type and nickname, he had an incredibly thick dick.[pcms]
 
 *5719|
 [fc]
-こんな太いおちんちんは見たことがなかった。[pcms]
+I had never seen such a thick dick before.[pcms]
 
 [ChrSetEx layer=5 chbase="so2_ja_a"][ChrSetParts layer=5 chface="F2_so16a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5720|
 [fc]
-[ns]宗一郎[nse]
-「…………」[pcms]
+[ns]Souichirou[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5721|
 [fc]
-[ns]西[nse]
-「…………」[pcms]
+[ns]West[nse]
+"..."[pcms]
 
 *5722|
 [fc]
-わたしを見て、震えている二人。[r]
-……面白い。[r]
-なんで、これまで童貞狩りをしなかったんだろう？[pcms]
+Both of them looking at me, trembling... Interesting. Why didn't I[r]
+ever go virgin-hunting before?[pcms]
 
 [jump storage="3185_satuki.ks" target=*3185_satuki_TOP]
 

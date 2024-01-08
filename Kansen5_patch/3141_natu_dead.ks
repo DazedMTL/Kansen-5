@@ -33,8 +33,8 @@
 
 *4124|
 [fc]
-オレは、誠とターヤが走り去ったのを確認して、一軒の民家の[r]
-中へと入り込んだ。[pcms]
+I confirmed that Makoto and Tarja had run off, then slipped into a[r]
+nearby house.[pcms]
 
 ;//bgm08.ogg
 [bgm storage="BGM08"]
@@ -44,69 +44,66 @@
 
 *4125|
 [fc]
-茜梨ちゃんや、前に渋谷で会った、誠の先輩だって言ってた……[r]
-南さんだったかな。[pcms]
+It was Akari-chan and... what was her name, the senior from Shibuya[r]
+who said she knew Makoto? Minami-san, I think.[pcms]
 
 *4126|
 [fc]
-みんないい娘たちだったのに、感染しちまったんだな……。[pcms]
+All such good girls, and yet they got infected...[pcms]
 
 *4127|
 [fc]
-まあ、まだ発症してないってだけで、もうオレも[r]
-半分その仲間みたいなもんだが。[pcms]
+Well, I haven't shown symptoms yet, but I'm pretty much one of them[r]
+now.[pcms]
 
 *4128|
 [fc]
 [vo_nat s="natu_tj0166"]
-[ns]夏都[nse]
-「おらおらっ！　ここだっ！　ここにいるぞっ！！[r]
-　早く入ってこいっ！！！」[pcms]
+[ns]Natsu[nse]
+"Hey hey! Over here! They're here!! Hurry up and get inside!!!"[pcms]
 
 *4129|
 [fc]
-オレはさっきからずっと大声をあげ続けて、[r]
-連中の注意を引きつけてる。[pcms]
+I've been shouting at the top of my lungs for a while now, trying to[r]
+draw their attention.[pcms]
 
 *4130|
 [fc]
-玄関口で、感染者の一団ががたがたとやってる音が聞こえてくる。[pcms]
+I can hear the infected mob rattling around at the entrance.[pcms]
 
 *4131|
 [fc]
-かつては人間だったのに、いまじゃ玄関ドアの開け方ひとつ[r]
-分からなくなってるなんて……。[pcms]
+Once human, now they can't even figure out how to open a front door...[pcms]
 
 *4132|
 [fc]
 [vo_nat s="natu_tj0167"]
-[ns]夏都[nse]
-（UNKNOWN-LV4……か）[pcms]
+[ns]Natsu[nse]
+(UNKNOWN-LV4... huh?)[pcms]
 
 *4133|
 [fc]
-こんなクソッタレなウイルスを軍事目的に利用しようとした[r]
-大馬鹿野郎の[ruby text="ツラ"]面を、思い切り殴りつけてやりたい。[pcms]
+I want to smash the face of the idiot who thought of using this shitty[r]
+virus for military purposes.[pcms]
 
 *4134|
 [fc]
-けれど、噂じゃすでに張本人はおっ死んじまったとか、[r]
-廃人同様になってるなんて話を聞く。[pcms]
+But rumors say that the main culprit is already dead or has become[r]
+like a vegetative person.[pcms]
 
 *4135|
 [fc]
-振り上げた拳の振り下ろしどころがどこにもない、ってのは[r]
-なんとも腹立たしいもんだな。[pcms]
+It's infuriating not to have anywhere to direct the punch I've raised.[pcms]
 
 *4136|
 [fc]
 [vo_nat s="natu_tj0168"]
-[ns]夏都[nse]
-（誠……うまく逃げ延びてくれたかな……）[pcms]
+[ns]Natsu[nse]
+(Makoto... I hope you managed to escape safely...)[pcms]
 
 *4137|
 [fc]
-オレは最後に見た、誠の顔を思い出す。[pcms]
+I remember the last look on Makoto's face that I saw.[pcms]
 
 ;//★village01 集落・朝昼
 [bg storage="village01a"]
@@ -119,8 +116,8 @@
 
 *4138|
 [fc]
-泣きそうな顔をして、それでも泣くのを必死にこらえて[r]
-オレの眼をじっと見てた……。[pcms]
+He looked like he was about to cry, but he was desperately holding it[r]
+back and staring straight into my eyes...[pcms]
 
 ;//★village04 民家・朝昼
 [bg storage="village04a"][trans_c cross time=500]
@@ -131,8 +128,7 @@
 
 *4139|
 [fc]
-誠のことを考えるだけで、俺の心の中は[r]
-幸せな思いでいっぱいになる。[pcms]
+Just thinking about Makoto fills my heart with happiness.[pcms]
 
 ;//bgm04.ogg
 [bgm storage="BGM04"]
@@ -140,9 +136,9 @@
 *4140|
 [fc]
 [vo_nat s="natu_tj0169"]
-[ns]夏都[nse]
-（できることなら……もっと、誠と一緒にあの部屋で[r]
-　暮らしてたかったな……）[pcms]
+[ns]Natsu[nse]
+(If I could... I wish I could have lived longer with Makoto in that[r]
+room...)[pcms]
 
 ;//★room10b 誠と夏都のアパートリビング・夕方
 [bg storage="room10b_sp"]
@@ -154,26 +150,26 @@
 
 *4141|
 [fc]
-誠と一緒に暮らした日々は、本当に楽しかった。[pcms]
+The days I lived with Makoto were truly enjoyable.[pcms]
 
 *4142|
 [fc]
-施設で生まれ育ち、家族というものを持ったことのないオレに、[r]
-誠との暮らしは、家族の意味を教えてくれた。[pcms]
+Having been born and raised in a facility without a family, living[r]
+with Makoto taught me the meaning of family.[pcms]
 
 [ChrSetEx layer=5 chbase="mk2_ts_sp"][ChrSetParts layer=5 chface="F2_mk02_sp"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=300]
 
 *4143|
 [fc]
-家に帰れば、誰かがちゃんと待っててくれる安心感。[r]
-そばに誰かがいる温もりや暖かさ。[r]
-いっしょに飯を食う相手がいることの幸せ。[pcms]
+The reassurance that someone is always waiting for you when you come[r]
+home. The warmth and comfort of having someone by your side. The[r]
+happiness of having someone to share meals with.[pcms]
 
 *4144|
 [fc]
-そして、誰かの生活を守るために働くことの[r]
-責任感とか意味とか意義とか……そんなものを[r]
-誠との暮らしの中で、オレは教えられた。[pcms]
+And then, the sense of responsibility, meaning, and significance of[r]
+working to protect someone's life... Makoto taught me all of that[r]
+through our life together.[pcms]
 
 ;//★village04 民家・朝昼
 [bg storage="village04a"][trans_c cross time=1000]
@@ -181,103 +177,99 @@
 *4145|
 [fc]
 [vo_nat s="natu_tj0170"]
-[ns]夏都[nse]
-「何やってんだ！　遅っせえな！[r]
-　グズグズしてっと逃げちまうぞ！！」[pcms]
+[ns]Natsu[nse]
+"What are you doing! You're so slow! If you dawdle, they'll escape!!"[pcms]
 
 *4146|
 [fc]
-また大声を出して、感染者たちの注意を引きつける。[pcms]
+Again, I shout loudly to attract the attention of the infected.[pcms]
 
 *4147|
 [fc]
-実際には、オレがここから逃げることはない。[pcms]
+In reality, there's no way I'm escaping from here.[pcms]
 
 *4148|
 [fc]
-この家が、オレの最後の死に場所になる。[pcms]
+This house will be my final resting place.[pcms]
 
 *4149|
 [fc]
-オレは、誠たちから貰った、タバコとライターの入ったポーチを[r]
-尻ポケットから取り出した。[pcms]
+I took out the pouch containing cigarettes and a lighter that I got[r]
+from Makoto and his group from my back pocket.[pcms]
 
 [se buf=0 storage="seC038"]
 ;//♪SE100円ライターの音
 
 *4150|
 [fc]
-その中からタバコを一本取り出して、火をつけてみた。[pcms]
+I took out a cigarette and tried lighting it up.[pcms]
 
 ;//se即時停止
 [stopse buf=0]
 
 *4151|
 [fc]
-見よう見まねでタバコを吸い込んでみたが、[r]
-思い切り[ruby text="む"]噎せてしまう。[pcms]
+Trying to smoke like I've seen others do, I ended up choking badly.[pcms]
 
 *4152|
 [fc]
 [vo_nat s="natu_tj0171"]
-[ns]夏都[nse]
-「ううっ！　げほげほっ！　ぐえほおぉっ！　んげほっ！！」[pcms]
+[ns]Natsu[nse]
+"Ugh! Cough cough! Gaghh! Cough!!"[pcms]
 
 *4153|
 [fc]
-うええぇ……[ruby text="まじ"][ch text="不味"]ぃ……半端なくクソ[ruby text="まじ"][ch text="不味"]ぃ。[pcms]
+Ugh... that's nasty.[pcms]
 
 *4154|
 [fc]
-オレは顔をしかめながら、火をつけたばかりのタバコを[r]
-床に捨てて、足の裏でもみ消した。[pcms]
+I grimaced and stamped out the freshly lit cigarette on the floor with[r]
+my foot.[pcms]
 
 *4155|
 [fc]
-生まれて初めて吸ったけど、こんなクソ不味いもんの[r]
-どこが良くて煙草飲みの人が金を出してるのか、[r]
-オレには死んでも理解できそうにない。[pcms]
+It's my first time smoking, but I can't for the life of me understand[r]
+why people would pay money for something so disgustingly awful.[pcms]
 
 *4156|
 [fc]
-ま、もうすぐ死んじまうんだけどな。[pcms]
+Well, I'm going to die soon anyway.[pcms]
 
 [se buf=0 storage="seC028"]
 ;//♪SEスイッチ音
 
 *4157|
 [fc]
-オレは、台所のガス台の栓を、着火しないように捻った。[pcms]
+I turned on the gas stove in the kitchen without igniting it.[pcms]
 
 ;//SE シューとガスの漏れる音　ループ対応できる感じので
 
 *4158|
 [fc]
-シュー……という小さな音とともに、室内がたちまち[r]
-ガス臭くなってゆく。[pcms]
+A soft hissing sound filled the room with the smell of gas in no time.[pcms]
 
 *4159|
 [fc]
-玄関の方から、どやどやと足音が聞こえてきた。[pcms]
+From the entrance, I could hear the sound of footsteps approaching.[pcms]
 
 *4160|
 [fc]
-ようやく、感染者たちが入ってこれたらしい。[pcms]
+It seems the infected have finally managed to get in.[pcms]
 
 *4161|
 [fc]
-オレのところに来るのは、もう間もなくだろう。[pcms]
+It won't be long before they reach me.[pcms]
 
 *4162|
 [fc]
 [vo_nat s="natu_tj0172"]
-[ns]夏都[nse]
-「オラオラっ！　オメェらの探してる人間はここにいるぞっ！[r]
-　このウスノロどもっ！　さっさとここまで来やがれっ！！」[pcms]
+[ns]Natsu[nse]
+"Hey hey! The human you're looking for is right here! You scumbags![r]
+Hurry up and get over here!!"[pcms]
 
 *4163|
 [fc]
-オレは最後にまた、誠のことを考えた。[pcms]
+I thought about Makoto one last time.[pcms]
 
 ;//★room10b 誠と夏都のアパートリビング・夕方
 [bg storage="room10b_sp"]
@@ -288,11 +280,11 @@
 
 *4164|
 [fc]
-誠。おれの弟。たったひとりの家族。[pcms]
+Makoto, my brother. My only family.[pcms]
 
 *4165|
 [fc]
-背が低くって女顔の、かわいい誠。[pcms]
+The cute Makoto with a short stature and a feminine face.[pcms]
 
 [ChrSetEx layer=5 chbase="mk1_ts_sp"][ChrSetParts layer=5 chface="F1_mk03_sp"][ChrSetXY layer=5 x=390 y=0][trans_c cross time=300][trans_c cross time=150]
 
@@ -300,8 +292,8 @@
 
 *4166|
 [fc]
-オレが抱きついておっぱいをワザと押しつける度に、[r]
-顔を赤くして、それでもチンポを硬くしてた誠。[pcms]
+Every time I hugged him and purposely pressed my breasts against him,[r]
+he would blush, yet his dick would get hard.[pcms]
 
 [ChrSetEx layer=5 chbase="mk2_ts_sp"][ChrSetParts layer=5 chface="F2_mk03_sp"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=300]
 
@@ -312,30 +304,30 @@
 *4167|
 [fc]
 [vo_nat s="natu_tj0173"]
-[ns]夏都[nse]
-（こんなことなら、誠にヤラせてやればよかったな……）[pcms]
+[ns]Natsu[nse]
+(If only I had let Makoto have his way with me...)[pcms]
 
 *4168|
 [fc]
-あのまま誠と一緒に暮らしてたら、いずれそういう日が[r]
-来るもんだと思ってたけど……。[pcms]
+I thought that if we continued living together, that day would[r]
+eventually come...[pcms]
 
 *4169|
 [fc]
-今となっては、それはもう叶わない夢だ。[pcms]
+But now, that's just an unattainable dream.[pcms]
 
 *4170|
 [fc]
-せめて……オレの分まで、誠には幸せになって欲しい。[pcms]
+At the very least... I want Makoto to be happy for the both of us.[pcms]
 
 *4171|
 [fc]
-生き延びて、恋をして、結婚して、子供を持って……。[pcms]
+To survive, to fall in love, to marry, to have children...[pcms]
 
 *4172|
 [fc]
-オレが手にすることができなかった、そんな普通で[r]
-アタリマエの、幸せな人生を……誠には送って欲しい。[pcms]
+I want him to lead the ordinary, taken-for-granted happy life that I[r]
+couldn't have.[pcms]
 
 ;//★village04 民家・朝昼
 [bg storage="village04a"][trans_c cross time=500]
@@ -353,60 +345,59 @@
 
 *4173|
 [fc]
-その時、オレのいる部屋のドアが乱暴に開けられて、[r]
-感染者たちがうーうー唸りながら入って来た。[pcms]
+At that moment, the door to the room I was in was violently opened,[r]
+and the infected came in groaning.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_sw1_kan2"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *4174|
 [fc]
 [vo_stk s="satuki_tj0127"]
-[ns]彩月[nse]
-「あ゛～、ながざわぐんわぁ、どごお゛～」[pcms]
+[ns]Satsuki[nse]
+"Ahh~ where is Nakazawa-kun~"[pcms]
 
 [ChrSetEx layer=3 chbase="ak1_che_kan2"][ChrSetXY layer=3 x=-60 y=0][trans_c cross time=150]
 
 *4175|
 [fc]
 [vo_aka s="akari_tj0288"]
-[ns]茜梨[nse]
-「お゛ねえざん゛～ながざわ゛ぜん゛ぱいはあ゛ぁ～[r]
-　どごなんでずがあぁ～」[pcms]
+[ns]Akari[nse]
+"Onee-san~ where is Nakazawa-senpai~"[pcms]
 
 [ChrSetEx layer=4 chbase="sa1_kan_mi"][ChrSetParts layer=4 chface="F1_sa14"][ChrSetXY layer=4 x=680 y=0][trans_c cross time=150]
 
 *4176|
 [fc]
 [vo_sat s="sato_tj0053"]
-[ns]怜[nse]
-「もお゛ぉ～、お゛ながへっぢゃっだ～」[pcms]
+[ns]Sato[nse]
+"Moo~ I want Nakazawa's head~"[pcms]
 
 *4177|
 [fc]
-オレがさっき捻ったガス台の栓。そこから流れ出たガスは[r]
-すでに鼻がおかしくなりそうなほどの濃度で[r]
-室内に充満していた。[pcms]
+The gas knob I had twisted earlier. The gas flowing from it had[r]
+already filled the room to a concentration that almost made my nose go[r]
+funny.[pcms]
 
 *4178|
 [fc]
-この島には都市ガスの設備がない。[pcms]
+There is no city gas facility on this island.[pcms]
 
 *4179|
 [fc]
-どこの家にもプロパンガスのボンベが置かれていたのを、[r]
-この家に飛び込む時に確認している。[pcms]
+I confirmed that every house had a propane gas cylinder when I burst[r]
+into this house.[pcms]
 
 *4180|
 [fc]
-感染者たちが、両手をあげてオレに近づいてきた。[pcms]
+The infected were approaching me with their hands raised.[pcms]
 
 *4181|
 [fc]
-どうやら、これでオレの人生は時間切れみたいだ。[pcms]
+It seems my life is about to run out of time.[pcms]
 
 *4182|
 [fc]
-オレは眼を閉じて、手にしたライターの火をつけた。[pcms]
+I closed my eyes and lit the lighter I was holding.[pcms]
 
 ;//BGM即時停止
 [fadeoutbgm time=500]
@@ -443,21 +434,21 @@
 
 *4183|
 [fc]
-室内に充満したガスにライターの炎が引火して、[r]
-オレの視界はオレンジ色に染め上げられた。[pcms]
+The flame from the lighter ignited the gas that had filled the room,[r]
+and my vision was dyed orange.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4184|
 [fc]
-巨大なガスタンクと化した室内が、轟音とともに[r]
-一気に爆発炎上する。[pcms]
+The room, which had turned into a giant gas tank, exploded and burst[r]
+into flames with a roar.[pcms]
 
 *4185|
 [fc]
-オレに手をかけようとした感染者たちもろとも、[r]
-オレの体は爆発の衝撃で吹き飛ばされ、四散した。[pcms]
+Along with the infected who were about to lay their hands on me, my[r]
+body was blown away by the blast and scattered.[pcms]
 
 [ChrSetEx layer=5 chbase="mk2_ts"][ChrSetParts layer=5 chface="F2_mk02"][ChrSetXY layer=5 x=0 y=0]
 [trans_c tb time=1000]
@@ -466,30 +457,31 @@
 *4186|
 [fc]
 [vo_nat s="natu_tj0174"]
-[ns]夏都[nse]
-「誠………」[pcms]
+[ns]Natsu[nse]
+"Makoto..."[pcms]
 
 *4187|
 [fc]
-意識が消える直前、オレが考えたのはやっぱり誠のことだった。[pcms]
+Just before losing consciousness, what I thought about was still[r]
+Makoto.[pcms]
 
 *4188|
 [fc]
-誠。かわいい誠。大好きな誠。オレの誠。[pcms]
+Makoto. My cute Makoto. My beloved Makoto. My Makoto.[pcms]
 
 *4189|
 [fc]
-愛してる。愛してる。愛してる。[pcms]
+I love you. I love you. I love you.[pcms]
 
 *4190|
 [fc]
-誠……幸せになってくれ。[pcms]
+Makoto... please be happy.[pcms]
 
 [chara_int][trans_c cross time=1000]
 
 *4191|
 [fc]
-そこで、オレの意識は闇へと沈んだ。[pcms]
+And then, my consciousness sank into darkness.[pcms]
 
 ;//フラグ夏都死亡成立
 [eval exp="f.l_dead_natu = 1"]

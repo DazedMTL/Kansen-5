@@ -21,117 +21,115 @@
 
 *3429|
 [fc]
-[ns]男Ａ[nse]
-「おら、とっとと歩けっ！」[pcms]
+[ns]Man A[nse]
+"Hey, hurry up and walk!"[pcms]
 
 *3430|
 [fc]
-ビニールロープで手首と親指を縛られた、[r]
-僕と姉ちゃん、そして越智さんは土蔵まで引きずられてきていた。[pcms]
+My sister and I, along with Ochi-san, had our wrists and thumbs bound[r]
+with vinyl rope and were dragged to the storehouse.[pcms]
 
 *3431|
 [fc]
-土蔵の独特の香りと雰囲気、[r]
-遠くからくぐもって聞こえてくる感染者の呻き声……。[pcms]
+The unique scent and atmosphere of the storehouse, the muffled groans[r]
+of the infected heard from afar...[pcms]
 
 *3432|
 [fc]
-ここには“なぜ”か見覚えがある。[pcms]
+There's something oddly familiar about this place.[pcms]
 
 *3433|
 [fc]
-夢……？[pcms]
+A dream...?[pcms]
 
 *3434|
 [fc]
-夢で見たん光景なんだろうか……。[pcms]
+Could it be a scene I've seen in a dream...?[pcms]
 
 [bg storage="BG15a"][trans_c cross time=500]
 
 *3435|
 [fc]
-どうしてこんなところに連れてくるのか不思議に思っていると、[r]
-土蔵の中に白い構造物が見えていた。[pcms]
+As I wondered why we were brought here, I could see a white structure[r]
+inside the storehouse.[pcms]
 
 *3436|
 [fc]
-古ぼけた土蔵の中には似つかわしくない、[r]
-近代的な建築物だ。[pcms]
+It was a modern construction that seemed out of place in the old[r]
+storehouse.[pcms]
 
 *3437|
 [fc]
-僕たちに何をさせるつもりなのか、まったく見当も付かない。[r]
-ぼんやりした気持ちで、そんなことを考えていた。[pcms]
+I had no idea what they intended to do with us, and I pondered this[r]
+with a vague sense of unease.[pcms]
 
 *3438|
 [fc]
-そーいちが死んだ。[r]
-荒井も死んだ。[pcms]
+Souichi died. Arai died too.[pcms]
 
 *3439|
 [fc]
-姉ちゃんも重傷を負っているし、[r]
-僕も越智さんも、このままで済むはずがない。[pcms]
+My sister is seriously injured, and there's no way Ochi-san and I will[r]
+get out of this unscathed.[pcms]
 
 *3440|
 [fc]
-せっかく感染者を振り切ってここまで頑張ってきたのに、[r]
-最後の最後でまともな人間に襲われるなんて……。[pcms]
+After all the effort to shake off the infected and make it this far,[r]
+to be attacked by sane people at the very end...[pcms]
 
 *3441|
 [fc]
-昨日までの平和な時間なら、[r]
-こんな男たちが自由気ままにできる場所は限られていた。[pcms]
+In the peaceful times of yesterday, places where these men could act[r]
+freely were limited.[pcms]
 
 *3442|
 [fc]
-混乱に乗じて、人殺しなんていう犯罪行為を、[r]
-平気で行う人間が、こんな近くにいたなんて……。[pcms]
+To think that people capable of committing murder without hesitation[r]
+were so close amidst the chaos...[pcms]
 
 *3443|
 [fc]
-まるで、そーいちが好きな映画の世界だった。[r]
-まさか自分が犠牲になるとは、思っていなかっただろう。[pcms]
+It was like the world of the movies Souichi loved. He probably never[r]
+thought he'd be a victim himself.[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_jk"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3444|
 [fc]
-[ns]オズ[nse]
-「叩き起こせ」[pcms]
+[ns]Oz[nse]
+"Wake her up."[pcms]
 
 *3445|
 [fc]
-稼津央さんとよく話していた黒服の男が、[r]
-他の男たちに命令を下していた。[pcms]
+The man in black who often spoke with Kazutsu-san was giving orders to[r]
+the other men.[pcms]
 
 *3446|
 [fc]
-こいつがボスなのか……。[pcms]
+Is this guy the boss...?[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *3447|
 [fc]
-黒服たちが寄っていく場所に、[r]
-美沙緒さんが寝かされていた。[pcms]
+Where the black-suited men gathered, Maeda Misao-san was lying down.[pcms]
 
 *3448|
 [fc]
-しかも、服がはだけて精液まみれになっている。[r]
-まるで感染者に襲われたみたいな……。[pcms]
+Moreover, her clothes were disheveled and she was covered in semen. It[r]
+was as if she had been attacked by the infected...[pcms]
 
 *3449|
 [fc]
-他にも、三人の黒服が銃で撃たれて死んでいる姿があった。[r]
-仲間割れでも起こしたんだろうか。[pcms]
+There were also three other men in black suits who had been shot dead.[r]
+Perhaps there was infighting among them.[pcms]
 
 *3450|
 [fc]
-黒服はペットボトルの水を美沙緒さんの顔にかけていく。[r]
-口や鼻に水をかけられると、息苦しさからか[r]
-美沙緒さんが目を覚ました。[pcms]
+The man in black poured water from a plastic bottle onto Misao-san's[r]
+face. As water splashed onto her mouth and nose, she woke up gasping[r]
+for air due to the discomfort.[pcms]
 
 ;//立ち絵ならここから。
 [bg storage="BG15a"][trans_c cross time=500]
@@ -141,141 +139,136 @@
 *3451|
 [fc]
 [vo_mis s="misao0111"]
-[ns]美沙緒[nse]
-「くっ……」[pcms]
+[ns]Misao[nse]
+"Ugh..."[pcms]
 
 ;不要？[wait_c time=1000]
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3452|
 [fc]
-しばらく意識の定まらなかった美沙緒さんは、[r]
-僕たちの姿を見ると強ばった顔をする。[pcms]
+Misao-san, who had been disoriented for a while, tensed up when she[r]
+saw us.[pcms]
 
 *3453|
 [fc]
-なんとなく状況を察してしまった。[r]
-僕たちは、これから人質にされるんだ。[pcms]
+I somehow grasped the situation. We were about to be taken as[r]
+hostages.[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_jk"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3454|
 [fc]
-[ns]オズ[nse]
-「部下の話によると、[r]
-　そろそろ自衛隊の防疫隊とやらが来るらしい」[pcms]
+[ns]Oz[nse]
+"According to my subordinates, it seems that the Self-Defense Forces'[r]
+epidemic team will be arriving soon."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi05"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3455|
 [fc]
 [vo_mis s="misao0112"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *3456|
 [fc]
-美沙緒さんは強い目で男を睨んでいる。[r]
-きっと、拷問にかけたけれど屈しなかったんだ。[pcms]
+Misao-san glared at the man with strong eyes. She must have been[r]
+tortured but didn't break.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3457|
 [fc]
-だから僕たちを……、[r]
-そのためにそーいちと荒井は死んだのか。[pcms]
+So that's why we are... Is that why Souichi and Arai died?[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_jk"][ChrSetParts layer=5 chface="F1_oz02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3458|
 [fc]
-[ns]オズ[nse]
-「そろそろ脱出の時間なんだが、[r]
-　決心は付いたかな？」[pcms]
+[ns]Oz[nse]
+"It's about time to escape, have you made up your mind?"[pcms]
 
 ;//たち無し。
 
 *3459|
 [fc]
 [vo_mis s="misao0113"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *3460|
 [fc]
-[ns]オズ[nse]
-「大人しくデータを渡さなければ、この姪っ子は殺す。[r]
-　もしくは、生きた標本として連れ出してもいい」[pcms]
+[ns]Oz[nse]
+"If you don't hand over the data quietly, I'll kill this niece of[r]
+yours. Or I could take her as a living specimen."[pcms]
 
 *3461|
 [fc]
 [vo_mis s="misao0114"]
-[ns]美沙緒[nse]
-「くっ……」[pcms]
+[ns]Misao[nse]
+"Ugh..."[pcms]
 
 *3462|
 [fc]
-美沙緒さんの悔しそうな顔を見て、[r]
-男は満足そうに頷いていた。[pcms]
+Seeing Misao-san's frustrated face, the man nodded in satisfaction.[pcms]
 
 *3463|
 [fc]
-美沙緒さんのウィークポイントを見つけることができて、[r]
-嬉しいんだろう。[pcms]
+He must be pleased to have found Misao-san's weak point.[pcms]
 
 [ChrSetEx layer=5 chbase="oz1_jk"][ChrSetParts layer=5 chface="F1_oz01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3464|
 [fc]
-[ns]オズ[nse]
-「あの、メガネの若大将が金を出して連れてきたヤツらは、[r]
-　どこかに行っちまったしな。姪っ子を海外に売り払って[r]
-　金に換えてやる」[pcms]
+[ns]Oz[nse]
+"Those guys that young master with glasses paid to bring here have[r]
+gone somewhere. I'll sell off this niece overseas and turn her into[r]
+money."[pcms]
 
 *3465|
 [fc]
 [vo_mis s="misao0115"]
-[ns]美沙緒[nse]
-「…………」[pcms]
+[ns]Misao[nse]
+"..."[pcms]
 
 *3466|
 [fc]
-男がじっと美沙緒さんを見つめているが、[r]
-美沙緒さんはなにも答えなかった。[pcms]
+The man stared intently at Misao-san, but she gave no response.[pcms]
 
 *3467|
 [fc]
-[ns]オズ[nse]
-「よおし、交渉決裂だ。娘を連れていけ」[pcms]
+[ns]Oz[nse]
+"Alright, negotiations have broken down. Take the girl."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3468|
 [fc]
-黒服の男たちが越智さんを囲んで、[r]
-その襟首を持ち上げる。[pcms]
+The men in black suits surrounded Ochi-san and grabbed her by the[r]
+collar.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi08"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
 *3469|
 [fc]
 [vo_mis s="misao0116"]
-[ns]美沙緒[nse]
-「待って……」[pcms]
+[ns]Misao[nse]
+"Wait..."[pcms]
 
 *3470|
 [fc]
-黒服のボスが男たちに待ったをかける。[pcms]
+The boss of the men in black suits signaled the men to stop.[pcms]
 
 *3471|
 [fc]
-そして、美沙緒さんにその話の続きを促した。[pcms]
+Then, he urged Misao-san to continue the conversation.[pcms]
 
 *3472|
 [fc]
 [vo_mis s="misao0117"]
-[ns]美沙緒[nse]
-「データは渡すから……茜梨は助けて」[pcms]
+[ns]Misao[nse]
+"I'll hand over the data... please save Akari."[pcms]
 
 ;//#_ブラックアウト
 [fadeoutbgm time=500]
