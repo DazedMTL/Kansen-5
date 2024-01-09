@@ -1120,7 +1120,7 @@ Should I go for it? Isn't this a chance?[pcms]
 [pcms_sel]
 
 [eval exp="f.seltext02 = 'Kiss'"]
-[eval exp="f.seltext04 = 'Don't kiss'"]
+[eval exp="f.seltext04 = 'Don\'t kiss'"]
 [eval exp="f.seltext06 = 'I don\'t understand'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
@@ -1185,7 +1185,7 @@ Should I go for it? Isn't this a chance?[pcms]
 [pcms_sel]
 
 [eval exp="f.seltext01 = 'Kiss her'"]
-[eval exp="f.seltext03 = 'Don't kiss'"]
+[eval exp="f.seltext03 = 'Don\'t kiss'"]
 [eval exp="f.seltext05 = 'I don\'t understand'"]
 [eval exp="f.seltext07 = 'There\'s only a deep kiss!'"]
 
@@ -1252,7 +1252,7 @@ Should I go for it? Isn't this a chance?[pcms]
 [pcms_sel]
 
 [eval exp="f.seltext04 = 'Kiss her'"]
-[eval exp="f.seltext06 = 'Don't kiss'"]
+[eval exp="f.seltext06 = 'Don\'t kiss'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
