@@ -257,7 +257,7 @@ reset button to start everything over...[pcms]
 *5082|
 [fc]
 [ns]Arai[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 ;//bgm15.ogg
 [bgm storage="BGM15"]

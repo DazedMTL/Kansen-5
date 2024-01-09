@@ -1115,19 +1115,18 @@ corporation or something?"[pcms]
 [fc]
 [vo_aka s="akari0201"]
 [ns]Akari[nse]
-「…………」[pcms]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5465|
 [fc]
-なんか、重そうな間が空く。[r]
-話題を変えた方が良さそうだな。[pcms]
+There's a heavy silence. It seems like it might be better to change[r]
+the topic.[pcms]
 
 *5466|
 [fc]
-そして、僕が次の話題を考えるよりも先に、[r]
-稼津央さんが口を開いた。[pcms]
+Before I can think of another topic, Natsu-san starts to speak.[pcms]
 
 ;//BGMフェードアウト
 [fadeoutbgm time=500]
@@ -1138,7 +1137,7 @@ corporation or something?"[pcms]
 *5467|
 [fc]
 [ns]Kazuo[nse]
-「父さんの名前はね、前田玄治郎って言うんだ」[pcms]
+"My father's name is Maeda Genjirou."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st14"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1146,7 +1145,7 @@ corporation or something?"[pcms]
 [fc]
 [vo_stk s="satuki0139"]
 [ns]Satsuki[nse]
-「……！？」[pcms]
+"...!?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1156,46 +1155,46 @@ corporation or something?"[pcms]
 *5469|
 [fc]
 [ns]Makoto[nse]
-「あれ、どこかで聞いたことあるような？」[pcms]
+"Huh, that name sounds familiar."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_a"][ChrSetParts layer=5 chface="F2_so15a"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5470|
 [fc]
 [ns]Souichirou[nse]
-「…………」[pcms]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5471|
 [fc]
-どこだろう、聞き覚えがあるから有名な人なんだろうか。[pcms]
+I wonder where I've heard it before. It must be someone famous since[r]
+the name rings a bell.[pcms]
 
 *5472|
 [fc]
-南先輩とそーいちは、ビックリした顔で[r]
-その名前を聞いているみたいだった。[pcms]
+Senpai Minami and Souichirou look surprised as they hear that name.[pcms]
 
 *5473|
 [fc]
-というか、お爺さんは越智って名前だと思ったのに、[r]
-前田性の方なんだな。[pcms]
+I thought her grandfather's name was Ochi, but it turns out it's[r]
+Maeda.[pcms]
 
 *5474|
 [fc]
-すると、婿養子か何かなんだろうか？[pcms]
+Could it be that he's a son-in-law or something?[pcms]
 
 *5475|
 [fc]
 [ns]Makoto[nse]
-「誰だっけ、思い出せないや」[pcms]
+"Who was it again? I can't remember."[pcms]
 
 [ChrSetEx layer=5 chbase="so2_se_b"][ChrSetParts layer=5 chface="F2_so12b"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5476|
 [fc]
 [ns]Souichirou[nse]
-「あ、いや……」[pcms]
+"Ah, well..."[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st25"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1203,111 +1202,107 @@ corporation or something?"[pcms]
 [fc]
 [vo_stk s="satuki0140"]
 [ns]Satsuki[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *5478|
 [fc]
-どうしたのか、みんな押し黙っている。[r]
-そんなにすごい大物なんだろうか。[pcms]
+Everyone falls silent. Is he really such a big shot?[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5479|
 [fc]
 [ns]Kazuo[nse]
-「思い出せないかい？[r]
-　内閣官房長官も務めた人なんだけど」[pcms]
+"Can't remember? He was once the Chief Cabinet Secretary."[pcms]
 
 *5480|
 [fc]
 [ns]Makoto[nse]
-「ああ、政治家の人だったんですか。[r]
-　でも、官房長官ってすごいですね」[pcms]
+"Oh, a politician? But being the Chief Cabinet Secretary is quite[r]
+impressive."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5481|
 [fc]
-官房長官と言えば総理大臣の懐刀、[r]
-ナンバー２と言ってもいい立場の人だ。[pcms]
+The Chief Cabinet Secretary is like the right-hand man to the Prime[r]
+Minister, almost like a number two in position.[pcms]
 
 *5482|
 [fc]
-そんな人がお爺さんとかお父さんなんて、[r]
-僕には想像も付かない話だった。[pcms]
+Having such a person as a grandfather or father is beyond my[r]
+imagination.[pcms]
 
 *5483|
 [fc]
-もう本当に、家柄が古いだけじゃないんだなぁ。[r]
-越智さんが、また遠い存在になってしまった気がする。[pcms]
+It's not just about having an old family lineage. Ochi-san feels even[r]
+more out of reach now.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5484|
 [fc]
 [ns]Kazuo[nse]
-「でも、前田玄治郎が有名なのは、[r]
-　政治活動とはまた別のところに由来があるんだ」[pcms]
+"But what made Maeda Genjirou famous isn't just his political[r]
+activities, but something else entirely."[pcms]
 
 *5485|
 [fc]
 [ns]Makoto[nse]
-「そうなんですか？」[pcms]
+"Really?"[pcms]
 
 *5486|
 [fc]
 [ns]Kazuo[nse]
-「東北事件のウイルスが、テロリストではなく、[r]
-　米軍関係者から持ち込まれたものだって話は、[r]
-　聞いたことがあるかい？」[pcms]
+"Have you heard about the Tohoku incident? The virus wasn't brought in[r]
+by terrorists, but by someone associated with the U.S. military."[pcms]
 
 *5487|
 [fc]
 [ns]Makoto[nse]
-「東北事件ですか？　聞いたことはありますけど……」[pcms]
+"The Tohoku incident? I've heard of it, but..."[pcms]
 
 *5488|
 [fc]
-なんでそこであの事件の話が出てくるんだろうか。[pcms]
+Why would that incident come up now?[pcms]
 
 *5489|
 [fc]
-もちろん、当事者の一人である僕は、[r]
-あの事件についての色々な噂を知ってはいた。[pcms]
+Of course, as someone personally involved, I knew various rumors about[r]
+that incident.[pcms]
 
 *5490|
 [fc]
-その中でも、米軍が関与しているという話は、[r]
-比較的よく耳にするネタだ。[pcms]
+Among them, the story that the U.S. military was involved is one I've[r]
+heard quite often.[pcms]
 
 [ChrSetEx layer=5 chbase="kz2_sui"][ChrSetParts layer=5 chface="F2_kz04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *5491|
 [fc]
 [ns]Kazuo[nse]
-「マスコミにすっぱ抜かれた話ではあるんだけど、[r]
-　その米軍関係者に日本の政治家が関わっていたという[r]
-　噂があるんだよ」[pcms]
+"It was exposed by the media, but there were rumors that a Japanese[r]
+politician was involved with that U.S. military personnel."[pcms]
 
 *5492|
 [fc]
 [ns]Makoto[nse]
-「え……？」[pcms]
+"Eh...?"[pcms]
 
 *5493|
 [fc]
 [ns]Kazuo[nse]
-「そしてその政治家は、手打ちとして汚職事件で在宅起訴され、[r]
-　政界引退を余儀なくされたって話なんだけどね」[pcms]
+"And that politician was forced to retire from the political world[r]
+after being indicted for corruption as part of a plea deal."[pcms]
 
 *5494|
 [fc]
 [ns]Makoto[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *5495|
 [fc]
-それって、つまり……。[pcms]
+That means...[pcms]
 
 [ChrSetEx layer=5 chbase="ak2_se2"][ChrSetParts layer=5 chface="F2_ak06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -1315,12 +1310,11 @@ corporation or something?"[pcms]
 [fc]
 [vo_aka s="akari0202"]
 [ns]Akari[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *5497|
 [fc]
-越智さんのお爺さんが、東北アウトブレイクの[r]
-関係者だったってことなのか！？[pcms]
+Ochi-san's grandfather was involved in the Tohoku outbreak!?[pcms]
 
 ;//m:感染者とかフラッシュバック
 ;//#_白フラ
@@ -1330,22 +1324,22 @@ corporation or something?"[pcms]
 
 *5498|
 [fc]
-４年前のあの事件、僕の人生を、多くの人の人生を、[r]
-狂わせてしまったあの事件の……。[pcms]
+That incident four years ago, which threw my life and the lives of[r]
+many others into chaos...[pcms]
 
 [evcg storage="mob_N012"][trans_c lr time=300]
 
 *5499|
 [fc]
-僕は背筋が震える思いがした。[pcms]
+I felt a shiver run down my spine.[pcms]
 
 *5500|
 [fc]
-色んな思いが頭の中を駆け抜けては消えていく。[pcms]
+All sorts of thoughts race through my mind and then disappear.[pcms]
 
 *5501|
 [fc]
-そんな、そんなこと……。[pcms]
+Such a thing...[pcms]
 
 ;//★bg14b 越智本家 室内・夕方
 [bg storage="BG14b"][trans_c cross time=500]
@@ -1354,8 +1348,8 @@ corporation or something?"[pcms]
 *5502|
 [fc]
 [ns]Kazuo[nse]
-「玄治郎の娘である姉さんが、ウイルスの研究をしているのは[r]
-　皮肉なことだよな」[pcms]
+"It's ironic that sister, who is Genjirou's daughter, is researching[r]
+viruses."[pcms]
 
 [ChrSetEx layer=5 chbase="mi2_si"][ChrSetParts layer=5 chface="F2_mi05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 

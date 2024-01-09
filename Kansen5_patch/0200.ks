@@ -2413,9 +2413,8 @@ By the way, my ranking is as follows.[pcms]
 
 *2928|
 [fc]
-Gravure idol Rina Oike(p) 4th place: This cosplayer(p) 3rd place:[r]
-Kanagi Yuho from Shibuya's rival school, Kannami Academy's swimming[r]
-club.[pcms]
+This cosplayer(p) 3rd place: Kanagi Yuho from Shibuya's rival school,[r]
+Kannami Academy's swimming club.[pcms]
 
 *2929|
 [fc]

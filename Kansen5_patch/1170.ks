@@ -1318,27 +1318,27 @@ dangerous it is!?"[pcms]
 
 *3304|
 [fc]
-危険であるということは、それだけで価値を生む場合がある。[pcms]
+The danger itself can sometimes create value.[pcms]
 
 *3305|
 [fc]
-それを行使しようとするならば、[r]
-逆に使われた場合のことも考えるだろう。[pcms]
+If someone intends to use it, they would also consider the[r]
+consequences if it were used against them.[pcms]
 
 *3306|
 [fc]
-毒としても薬としても、[r]
-研究のデータが欲しい国や組織はあるはずだ。[pcms]
+As both a poison and a medicine, there must be countries and[r]
+organizations that want the research data.[pcms]
 
 *3307|
 [fc]
-第三世界の危険な国やテログループ、[r]
-ある意味核兵器よりも質が悪い品物になるだろう。[pcms]
+In the hands of dangerous third-world countries or terrorist groups,[r]
+it could be even worse than nuclear weapons in a sense.[pcms]
 
 *3308|
 [fc]
 [ns]Makoto[nse]
-「扉に付いていた銃撃の痕は、その人たちが？」[pcms]
+"Were those gunshots marks on the door made by those people?"[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi04"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
@@ -1346,19 +1346,18 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_mis s="misao0100"]
 [ns]Misao[nse]
-「そう、雇っていた警備の人間に裏切られた。[r]
-　稼津央が知らせてくれなかったら危なかったわ」[pcms]
+"Yes, I was betrayed by the security personnel we hired. It would have[r]
+been dangerous if Natsu hadn't informed me."[pcms]
 
 *3310|
 [fc]
-ウイルスを持ちだした人間は、それだけじゃなく、[r]
-美沙緒さんの研究データも欲しがったのか。[pcms]
+The person who took the virus also wanted Misao-san's research data,[r]
+didn't they?[pcms]
 
 *3311|
 [fc]
-それはそうだろう。[r]
-感染者を引き渡されるよりも、研究されてる[r]
-データをもらった方がありがたい。[pcms]
+That makes sense. It's better to receive the researched data than to[r]
+be handed over an infected person.[pcms]
 
 [ChrSetEx layer=4 chbase="na1_sdf_a"][ChrSetParts layer=4 chface="F1_na23"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
@@ -1366,7 +1365,7 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_nat s="natu0246"]
 [ns]Natsu[nse]
-「その連中はどこに行ったんだ？」[pcms]
+"Where did those guys go?"[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi12"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
@@ -1374,27 +1373,26 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_mis s="misao0101"]
 [ns]Misao[nse]
-「貴方たちが出くわさなかったのなら、わからないわ。[r]
-　私がここに立て籠もったから、脱出したのかも知れない」[pcms]
+"If you didn't run into them, I don't know. They might have escaped[r]
+when I barricaded myself here."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3314|
 [fc]
-越智さんへの処置が終わったのか、[r]
-美沙緒さんは医療キットを片づけ始めた。[pcms]
+Has the treatment for Ochi-san finished? Misao-san began to put away[r]
+the medical kit.[pcms]
 
 *3315|
 [fc]
-かなりぐったりとしているけれど、[r]
-効き目はあったんだろうか？[pcms]
+She looks quite exhausted, but I wonder if it worked?[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3316|
 [fc]
 [ns]Makoto[nse]
-「越智さんは、大丈夫なんですか？」[pcms]
+"Is Ochi-san okay?"[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi06"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
@@ -1402,19 +1400,18 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_mis s="misao0102"]
 [ns]Misao[nse]
-「動き回ったんだと思うけれど、[r]
-　ウイルスの巡りが良すぎたわ。[r]
-　試薬が効くといいけれど、重傷よ」[pcms]
+"I think she moved around too much, and the virus circulated too well.[r]
+I hope the reagent works, but she's seriously injured."[pcms]
 
 *3318|
 [fc]
 [ns]Makoto[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *3319|
 [fc]
-初めから越智さんを背負って歩けば良かったのか。[r]
-山道を無理に歩かせたから……。[pcms]
+I wonder if I should have carried Ochi-san from the start. It was[r]
+because I made her walk the mountain path...[pcms]
 
 [ChrSetEx layer=4 chbase="na1_sdf_a"][ChrSetParts layer=4 chface="F1_na12"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
@@ -1422,8 +1419,8 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_nat s="natu0247"]
 [ns]Natsu[nse]
-「そういえば、奥の牢屋にいるのは誰だ？[r]
-　その試薬はアレに噛まれたときの対策用か？」[pcms]
+"By the way, who's in that cell in the back? Is that reagent for when[r]
+you get bitten by that thing?"[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi05"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
@@ -1431,26 +1428,24 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_mis s="misao0103"]
 [ns]Misao[nse]
-「あの人は罰を受けるべき人。[r]
-　ワクチンの試薬があるのは、その通りだけれど、[r]
-　あの人が人を襲うことはできない」[pcms]
+"That person deserves punishment. It's true that we have a vaccine[r]
+reagent, but that person can't attack others."[pcms]
 
 *3322|
 [fc]
 [ns]Makoto[nse]
-「…………」[pcms]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3323|
 [fc]
-煮えきらない答えだった。[r]
-あの老人が今回の感染の大元だっていう可能性はないのか？[pcms]
+The answer was unsatisfactory. Isn't there a possibility that the old[r]
+man is the source of this infection?[pcms]
 
 *3324|
 [fc]
-どうみても感染しているように見える。[r]
-もしも、ここで実験していたんだとしたら……。[pcms]
+He definitely seems infected. If they were experimenting here...[pcms]
 
 ;//◆ＳＥ　爆撃音
 [se buf=1 storage="seC046"]
@@ -1467,18 +1462,17 @@ dangerous it is!?"[pcms]
 *3325|
 [fc]
 [ns]Arai[nse]
-「うわっ！」[pcms]
+"Whoa!"[pcms]
 
 *3326|
 [fc]
-近くで何かが爆発する音が響いた。[r]
-続いて銃声と感染者の声が聞こえる。[pcms]
+The sound of an explosion nearby echoed, followed by gunshots and the[r]
+voices of infected people.[pcms]
 
 *3327|
 [fc]
-爆発物と銃器……、[r]
-この組み合わせを可能にしているところは、[r]
-そう多くないだろう。[pcms]
+Explosives and firearms... There aren't many places that could[r]
+facilitate this combination.[pcms]
 
 [stopse buf=0]
 ;<SoundFade 2,OUT,3000>
@@ -1491,7 +1485,7 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_nat s="natu0248"]
 [ns]Natsu[nse]
-「ここもヤバイな、そろそろ行こう」[pcms]
+"This place is dangerous too, let's get going soon."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi04"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
@@ -1499,7 +1493,7 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_mis s="misao0104"]
 [ns]Misao[nse]
-「待って！」[pcms]
+"Wait!"[pcms]
 
 [chara_int_ layer=3]
 ;//[trans_c cross time=0]
@@ -1507,12 +1501,11 @@ dangerous it is!?"[pcms]
 
 *3330|
 [fc]
-美沙緒さんはラボの中に引き返していくと、[r]
-小さなバッグを持って出てきた。[pcms]
+Misao-san went back into the lab and came out with a small bag.[pcms]
 
 *3331|
 [fc]
-そこにはＰＤＡとメモリが数枚入っている。[pcms]
+Inside were a PDA and several memory cards.[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi05"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
@@ -1520,40 +1513,40 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_mis s="misao0105"]
 [ns]Misao[nse]
-「屋敷の裏手から港に出られるわ。[r]
-　港の桟橋に赤いラインのボートがある。[r]
-　それで沖の孤島に逃げて」[pcms]
+"You can get to the harbor from the back of the mansion. There's a[r]
+boat with a red line at the dock. Use it to escape to the offshore[r]
+island."[pcms]
 
 *3333|
 [fc]
 [ns]Makoto[nse]
-「沖の孤島？」[pcms]
+"The offshore island?"[pcms]
 
 *3334|
 [fc]
 [vo_mis s="misao0106"]
 [ns]Misao[nse]
-「越智家の別荘があるの、[r]
-　落ち着いたら政府の人間に、そのＰＤＡとメモリを渡して。[r]
-　多分、大丈夫なはず」[pcms]
+"There's an Ochi family villa there. Once things settle down, hand[r]
+over that PDA and memory cards to government officials. It should be[r]
+okay."[pcms]
 
 *3335|
 [fc]
-大丈夫？　なにが？[r]
-色々聞きたいことがあるけれど、銃声がどんどん近づいている。[pcms]
+Okay? What does she mean? There are many things I want to ask, but the[r]
+sound of gunfire is getting closer.[pcms]
 
 *3336|
 [fc]
 [vo_mis s="misao0107"]
 [ns]Misao[nse]
-「ボートは動かせる？」[pcms]
+"Can you operate the boat?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_b"][ChrSetParts layer=4 chface="F1_so04b"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *3337|
 [fc]
 [ns]Souichirou[nse]
-「アメリカで免許を取りました、動かせます」[pcms]
+"I got my license in America, I can operate it."[pcms]
 
 [ChrSetEx layer=4 chbase="na1_sdf_a"][ChrSetParts layer=4 chface="F1_na06"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
@@ -1561,13 +1554,11 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_nat s="natu0249"]
 [ns]Natsu[nse]
-「駄目ならオレがやるさ、[r]
-　それよりアンタはどうするんだ？」[pcms]
+"If you can't, I'll do it. What about you?"[pcms]
 
 *3339|
 [fc]
-美沙緒さんはそーいちに鍵を渡しながら、[r]
-静かに微笑んだ。[pcms]
+While handing over the keys to Souichirou, Misao-san quietly smiled.[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi06"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
@@ -1575,29 +1566,27 @@ dangerous it is!?"[pcms]
 [fc]
 [vo_mis s="misao0108"]
 [ns]Misao[nse]
-「私は、やることがあるので残りますが……、[r]
-　茜梨のことをよろしく頼みます」[pcms]
+"I have things to do, so I'll stay... Please take care of Akari."[pcms]
 
 [ChrSetEx layer=3 chbase="mi1_si"][ChrSetParts layer=3 chface="F1_mi08"][ChrSetXY layer=3 x=60 y=0][trans_c cross time=150]
 
 *3341|
 [fc]
 [ns]Makoto[nse]
-「わかりました、安心してください」[pcms]
+"Understood, please don't worry."[pcms]
 
 *3342|
 [fc]
 [vo_mis s="misao0109"]
 [ns]Misao[nse]
-「お願いね……」[pcms]
+"Please..."[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak06"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *3343|
 [fc]
-越智さんと美沙緒さんは、叔母と姪の関係だと聞いたけれど、[r]
-It seems Misao-san doesn't have a family, so maybe she thought of her[r]
-as a daughter.[pcms]
+Ochi-san and Misao-san are aunt and niece, I heard. Misao-san doesn't[r]
+seem to have a family, so maybe she thought of her as a daughter.[pcms]
 
 *3344|
 [fc]

@@ -152,7 +152,7 @@ else into the forest.[pcms]
 [fc]
 [vo_aka s="akari0410"]
 [ns]Akari[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *1968|
 [fc]

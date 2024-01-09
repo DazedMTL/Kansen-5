@@ -549,23 +549,23 @@ audible gulps.[pcms]
 [fc]
 [vo_stk s="satuki_st0397"]
 [ns]Ayame[nse]
-「んくぅ……ごくん……むぐん……んっんっんんんっ」[pcms]
+"Nkuu... Gokun... Mugun... Nnnnnn."[pcms]
 
 *3000|
 [fc]
-飲み込むだけじゃなく、最後の一滴まで絞りだそうと、[r]
-少し柔らかくなったちんちんを唇で挟んでしごきながら、[r]
-ちゅうちゅうと吸っていた。[pcms]
+Not just swallowing, but as if trying to milk out every last drop, she[r]
+gently strokes my slightly softened dick with her lips while sucking[r]
+noisily.[pcms]
 
 *3001|
 [fc]
-とろんとした目の彩芽先輩。夢中で僕の精液を飲んでいた。[pcms]
+With dreamy eyes, Ayame-senpai was eagerly drinking my semen.[pcms]
 
 *3002|
 [fc]
 [vo_stk s="satuki_st0398"]
 [ns]Ayame[nse]
-「んっふっ……んっ…………はあっ……」[pcms]
+"Nffu... Nnn... Haaah..."[pcms]
 
 ;//■イベントCG　satuki_H004
 [evcg storage="satuki_H004h"][trans_c cross time=300]
@@ -574,33 +574,34 @@ audible gulps.[pcms]
 [fc]
 [vo_stk s="satuki_st0399"]
 [ns]Ayame[nse]
-「凄い……いっぱい飲んじゃったぁ。美味しい……濃くて臭いも[r]
-　強くて……鼻から抜けてぇ……んっはあっ……たっぷり出たね」[pcms]
+"Amazing... I drank so much. It's delicious... thick and the smell is[r]
+strong... it's going through my nose... Nnhaah... You came a lot,[r]
+didn't you?"[pcms]
 
 *3004|
 [fc]
 [vo_stk s="satuki_st0400"]
 [ns]Ayame[nse]
-「うふふっ……精液飲んだの、すっごく久しぶり……[r]
-　美味しかったわ、誠君」[pcms]
+"Ufufu... It's been so long since I've drunk semen... It was[r]
+delicious, Makoto-kun."[pcms]
 
 *3005|
 [fc]
 [ns]Makoto[nse]
-「ずるいですよ、先輩。さっきはイかさせてくれなかったのに。[r]
-　僕だけ、出させるなんて……」[pcms]
+"That's not fair, senpai. You didn't let me cum earlier. Just making[r]
+me cum..."[pcms]
 
 *3006|
 [fc]
 [vo_stk s="satuki_st0401"]
 [ns]Ayame[nse]
-「んふっ……ごめんね。どうしても飲みたかったの。[r]
-　ね、今度は一緒に気持ちよくなろう」[pcms]
+"Nfu... Sorry. I just really wanted to drink it. Hey, let's both feel[r]
+good together next time."[pcms]
 
 *3007|
 [fc]
-そう言って僕のちんちんをしごく。[r]
-あっという間に僕のは硬さを取り戻していた。[pcms]
+As she says that, she strokes my dick. In no time at all, it had[r]
+regained its hardness.[pcms]
 
 [se buf=0 storage="seB070"]
 ;//♪SE下着を破く音
@@ -610,128 +611,130 @@ audible gulps.[pcms]
 
 *3008|
 [fc]
-僕がストッキングを破ると、先輩は自分で下着をずらして、[r]
-おまんこをあらわにした。[pcms]
+When I tear the stockings, senpai shifts her own underwear and exposes[r]
+her pussy.[pcms]
 
 *3009|
 [fc]
-そこはもうぐっしょりと濡れていて、湿った光を放っていた。[pcms]
+It was already soaking wet, glistening with moisture.[pcms]
 
 *3010|
 [fc]
 [ns]Makoto[nse]
-「あ……ゴム、ありますか？」[pcms]
+"Ah... Do you have a condom?"[pcms]
 
 *3011|
 [fc]
 [vo_stk s="satuki_st0402"]
 [ns]Ayame[nse]
-「……いい、いらない」[pcms]
+"...It's okay, we don't need one."[pcms]
 
 *3012|
 [fc]
 [ns]Makoto[nse]
-「え？　でも……」[pcms]
+"Eh? But..."[pcms]
 
 *3013|
 [fc]
 [vo_stk s="satuki_st0403"]
 [ns]Ayame[nse]
-「バージン上げられなかったけど、初生セックスのバージン、[r]
-　誠君に……あげる」[pcms]
+"I couldn't give up my virginity before, but I'll give you my first[r]
+raw sex, Makoto-kun..."[pcms]
 
 *3014|
 [fc]
 [ns]Makoto[nse]
-「初……生？　え？　ほ、ほんとに？　僕に？」[pcms]
+"First... raw? Eh? Really? To me?"[pcms]
 
 *3015|
 [fc]
 [vo_stk s="satuki_st0404"]
 [ns]Ayame[nse]
-「うん……初体験の時から、ゴムあり……なの。[r]
-　本当は最初ぐらい生が良かったんだけど……相手が嫌がったの」[pcms]
+"Yes... Since my first time, it's always been with a condom. I really[r]
+wanted the first time to be raw... but my partner didn't want to."[pcms]
 
 *3016|
 [fc]
 [ns]Makoto[nse]
-「な、なんて、もったいないことをっ！！」[pcms]
+"What a waste!!"[pcms]
 
 *3017|
 [fc]
 [vo_stk s="satuki_st0405"]
 [ns]Ayame[nse]
-「……怖かったんじゃない？　きっと。生き残りの女だもん。[r]
-　ウイルス……怖かったんだと思う。生でいいって言っても、[r]
-　少し付き合ってたあいだ、ずっとゴムありだったもの……」[pcms]
+"...Maybe he was scared? He must have been. He was a survivor after[r]
+all. He was probably scared of viruses. Even when I said raw was okay,[r]
+during the little time we dated, it was always with a condom..."[pcms]
 
 *3018|
 [fc]
 [ns]Makoto[nse]
-「僕も生き残りですからね。怖くないです。その人に感謝します。[r]
-　彩芽先輩の初生……いただきますっ！」[pcms]
+"I'm a survivor too, so I'm not scared. I'm grateful to that person.[r]
+Ayame-senpai's first raw... I'll gladly accept it!"[pcms]
 
 *3019|
 [fc]
-先輩のおまんこに向かって、僕は手を合わせ拝んだ。[pcms]
+I put my hands together and pray towards senpai's pussy.[pcms]
 
 *3020|
 [fc]
 [vo_stk s="satuki_st0406"]
 [ns]Ayame[nse]
-「もう、馬鹿ね……ね、早く挿れて。わたしの初生奪って……」[pcms]
+"Geez, you're silly... Hey, hurry up and put it in. Take my first[r]
+raw..."[pcms]
 
 *3021|
 [fc]
 [ns]Makoto[nse]
-「はい」[pcms]
+"Yes."[pcms]
 
 ;//■イベントCG　satuki_H005 挿入
 [evcg storage="satuki_H005h"][trans_c cross time=300]
 
 *3022|
 [fc]
-僕は自分のモノに手を添えて、ぬらぬらと光る先輩のおまんこの[r]
-入り口にあてがった。[pcms]
+I place my hand on my own thing and align it with the entrance of[r]
+senpai's glistening wet pussy.[pcms]
 
 [se buf=1 storage="se_sex02" loop=true]
 ;//se_sex02.ogg(LOOP)
 
 *3023|
 [fc]
-陰唇がひくひくと動いて、まるで物欲しそうに亀頭にしゃぶりつく。[pcms]
+The labia twitch and seem to eagerly suck on the glans as if they were[r]
+lips.[pcms]
 
 *3024|
 [fc]
 [ns]Makoto[nse]
-「彩芽先輩のおまんこで、フェラされてるみたいです」[pcms]
+"It feels like Ayame-senpai's pussy is giving me a blowjob."[pcms]
 
 *3025|
 [fc]
 [vo_stk s="satuki_st0407"]
 [ns]Ayame[nse]
-「ん……もう……」[pcms]
+"Nn... geez..."[pcms]
 
 *3026|
 [fc]
 [ns]Makoto[nse]
-「うわあ……なんかすっごくエロイ」[pcms]
+"Wow... this is incredibly erotic."[pcms]
 
 *3027|
 [fc]
-僕は先輩の陰唇が、まさしく文字通り唇のように僕の亀頭を[r]
-ちゅぱちゅぱと舐め回すさまに魅入られていた。[pcms]
+I was captivated by the sight of senpai's labia literally sucking on[r]
+my glans as if they were lips.[pcms]
 
 *3028|
 [fc]
 [vo_stk s="satuki_st0408"]
 [ns]Ayame[nse]
-「んっ……ねえ、焦らさないでよ……早く、もっと奥まで……」[pcms]
+"Nn... Hey, don't tease me... Hurry up, go deeper..."[pcms]
 
 *3029|
 [fc]
-焦らしたい気分。陰唇を撫で回すように、僕は亀頭でぐるぐると[r]
-円を描いた。[pcms]
+I felt like teasing her. As if caressing her labia, I drew circles[r]
+with my glans.[pcms]
 
 ;//■イベントCG　satuki_H005 挿入
 [evcg storage="satuki_H005i"][trans_c cross time=300]
@@ -740,22 +743,22 @@ audible gulps.[pcms]
 [fc]
 [vo_stk s="satuki_st0409"]
 [ns]Ayame[nse]
-「あっ、ああっん……んっ、ねえ、早く……あっ、[r]
-　ねえ、早く初生バージン奪って……あっ、ああっ、[r]
-　焦らさないで……早く、奪って……んっあああっ」[pcms]
+"Ah, aahnn... Nn, hey, hurry up... Ah, hey, hurry up and take my first[r]
+raw virginity... Ahh, aahh, don't tease me... Hurry up and take it...[r]
+Nnnaaahh!"[pcms]
 
 *3031|
 [fc]
 [ns]Makoto[nse]
-「はい。いただきます」[pcms]
+"Yes. I'll gladly accept it."[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//se_sex01.ogg
 
 *3032|
 [fc]
-僕はゆっくり亀頭を先輩の膣穴へと埋め込んだ。[r]
-そのまま、緩いスピードで、中に進む。[pcms]
+I slowly bury my glans into senpai's vaginal opening. Then, at a[r]
+leisurely speed, I move inside.[pcms]
 
 ;//■イベントCG　satuki_H005 挿入
 [evcg storage="satuki_H005g"][trans_c cross time=300]
@@ -764,14 +767,14 @@ audible gulps.[pcms]
 [fc]
 [vo_stk s="satuki_st0410"]
 [ns]Ayame[nse]
-「あっ、あひっ、あああっ、入ってきたあぁ。あ、ああっ、[r]
-　やっ、ああっ、なに、なにこれぇ……全然、ぜ……んぜん、[r]
-　違うぅ、ああっ、あっ、すごい……ああっ、あっ」[pcms]
+"Ah, ahihh, aaaaahh, it's going in ahh. Ah, aahh, noo, aahh, what is[r]
+this... It's completely different... so different, aahh, amazing...[r]
+aahh, ah!"[pcms]
 
 *3034|
 [fc]
-すっごくゆっくり挿れたのに、進む度に、彩芽先輩の身体は、[r]
-びくんびくんと震えていた。[pcms]
+Even though I inserted it very slowly, with every movement forward,[r]
+Ayame-senpai's body trembled with convulsions.[pcms]
 
 ;//■イベントCG　satuki_H005 挿入
 [evcg storage="satuki_H005i"][trans_c cross time=300]
@@ -780,23 +783,23 @@ audible gulps.[pcms]
 [fc]
 [vo_stk s="satuki_st0411"]
 [ns]Ayame[nse]
-「あっ、あああっ、奥に、奥まで入ってきたああ……あっ、[r]
-　ああっ、お願い……少し、少し、そのままでぇ……」[pcms]
+"Ah, aaaaahh, it's reaching deep inside... Ahh, aahh, please... just a[r]
+little bit, stay like this..."[pcms]
 
 *3036|
 [fc]
-お願いされるまでもなく、僕も動きたくなかった。[r]
-だって、前にゴム付きでもすごいって思ったのに、[r]
-生で挿れたら、それ以上、いや、それ以外考えられないくらい凄い。[pcms]
+I didn't need to be asked to stop moving; I didn't want to move[r]
+either. Because even though it felt amazing with a condom before, now[r]
+that I'm inside her raw, it's beyond amazingit's indescribable.[pcms]
 
 *3037|
 [fc]
-なんというか、ひだひだごとに僕のちんちんに絡みついてきて、[r]
-ねっとりとした温かさと、ぬめり感の感触が断然違う。[pcms]
+Somehow each fold seems to cling to my dick individually, and the[r]
+sensation of the sticky warmth and slickness is drastically different.[pcms]
 
 *3038|
 [fc]
-まさしく、生っ！　言葉通り、生の感触っ！[pcms]
+Truly raw! The sensation of being truly bare![pcms]
 
 *3039|
 [fc]

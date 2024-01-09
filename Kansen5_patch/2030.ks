@@ -432,7 +432,7 @@ than usual, and I was starting to feel flustered.[pcms]
 *255|
 [fc]
 [ns]Makoto[nse]
-"Åc!"[pcms]
+"...!"[pcms]
 
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st27"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 

@@ -751,7 +751,7 @@ seemed troubled.[pcms]
 *4755|
 [fc]
 [ns]Makoto[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 [ChrSetEx layer=5 chbase="na1_bi0_a"][ChrSetParts layer=5 chface="F1_na01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 

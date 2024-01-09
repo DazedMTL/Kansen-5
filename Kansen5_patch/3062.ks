@@ -466,8 +466,8 @@ Unfounded dark rumors surrounding Senior Minami.[pcms]
 *1892|
 [fc]
 She would listen to jokes but wouldn't talk about important matters,[r]
-so neither Makoto nor I knew much about Senior Minami's private[r]
-lifeit was almost as if we knew nothing at all.[pcms]
+so neither Makoto nor I knew much about Senior Minami's private lifeit[r]
+was almost as if we knew nothing at all.[pcms]
 
 *1893|
 [fc]

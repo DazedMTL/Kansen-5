@@ -275,33 +275,31 @@ invited."[pcms]
 [fc]
 [vo_aka s="akari0183"]
 [ns]Akari[nse]
-「何度も連絡を取ったんですが……、[r]
-　メールでも返事をもらえなくて」[pcms]
+"I tried contacting him several times, but... I couldn't get a reply[r]
+even by email."[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so05a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
 
 *5264|
 [fc]
 [ns]Souichirou[nse]
-「なんて失礼な奴だ！[r]
-　返事くらいしてもいいだろうに！」[pcms]
+"What a rude guy! He could at least reply to the message!"[pcms]
 
 *5265|
 [fc]
 [ns]Makoto[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *5266|
 [fc]
-ビーチでのあの様子を見ていると、[r]
-みんなで仲良く夕食って感じじゃなかった。[pcms]
+Watching the situation at the beach, it didn't seem like everyone was[r]
+getting along well enough for a friendly dinner.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5267|
 [fc]
-色々と事情もありそうだし、[r]
-あんまり責めることは出来ない。[pcms]
+There seem to be various circumstances, so I can't really blame him.[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
@@ -309,8 +307,8 @@ invited."[pcms]
 [fc]
 [vo_mis s="misao0006"]
 [ns]？？？[nse]
-「騒がしいと思ったら、茜梨のお友達が来ていたのね、[r]
-　今日は、ゆっくりしていって」[pcms]
+"I thought it was noisy, Akari's friends have come, have a relaxing[r]
+time today."[pcms]
 
 ;//美沙緒
 
@@ -318,29 +316,26 @@ invited."[pcms]
 [fc]
 [vo_aka s="akari0184"]
 [ns]Akari[nse]
-「あっ、お姉様」[pcms]
+"Ah, Onee-sama."[pcms]
 
 ;//m:声のみ
 
 *5270|
 [fc]
-お、お姉様！？[r]
-越智さんから、禁断の言葉が紡ぎ出されていた。[pcms]
+Onee-sama!? That forbidden word was spun from Miss Ochi's lips.[pcms]
 
 *5271|
 [fc]
-あんなことや、こんなことをしているお姉様……、[r]
-そんなはずはないよな。[pcms]
+Onee-sama doing such things... that can't be possible, right?[pcms]
 
 *5272|
 [fc]
-多分……。[pcms]
+Probably...[pcms]
 
 *5273|
 [fc]
-現れた女性は、３０代くらいの頭の切れそうな人だった。[r]
-でも、越智さんが懐いているだけあって、[r]
-人の温かみを感じさせるところがある。[pcms]
+The woman who appeared seemed to be in her thirties, sharp-minded. But[r]
+just like Miss Ochi is fond of her, she had a warmth about her.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0]
@@ -350,9 +345,8 @@ invited."[pcms]
 [fc]
 [vo_aka s="akari0185"]
 [ns]Akari[nse]
-「私の叔母で、前田美沙緒さんと言います。[r]
-　でも、叔母さんっていう感じじゃなくて、[r]
-　お姉様と呼ばせて頂いています」[pcms]
+"This is my aunt, Misao Maeda. But it doesn't feel right to call her[r]
+aunt, so I've been allowed to call her Onee-sama."[pcms]
 
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak09"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
@@ -360,17 +354,15 @@ invited."[pcms]
 [fc]
 [vo_mis s="misao0007"]
 [ns]Misao[nse]
-「よろしくね」[pcms]
+"Nice to meet you."[pcms]
 
 *5276|
 [fc]
-なんだか、越智さんが照れ照れになっているのが、[r]
-不思議というか珍しかった。[pcms]
+Somehow, seeing Miss Ochi become shy was both strange and rare.[pcms]
 
 *5277|
 [fc]
-やっぱり、お姉様という呼び方は、[r]
-恥ずかしいのかも知れない。[pcms]
+Perhaps calling her Onee-sama is embarrassing after all.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="so1_se_a"][ChrSetParts layer=5 chface="F1_so02a"][ChrSetXY layer=5 x=340 y=0][trans_c cross time=150]
@@ -378,13 +370,12 @@ invited."[pcms]
 *5278|
 [fc]
 [ns]Souichirou[nse]
-「本日は、お招き頂ありがとうございます。[r]
-　出渕宗一郎と申します」[pcms]
+"Thank you for having us today. My name is Souichirou Izubuchi."[pcms]
 
 *5279|
 [fc]
 [ns]Makoto[nse]
-「中澤誠です、よろしくお願いします」[pcms]
+"I'm Makoto Nakazawa, pleased to meet you."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -392,8 +383,7 @@ invited."[pcms]
 [fc]
 [vo_stk s="satuki0126"]
 [ns]Satsuki[nse]
-「南彩月といいます、今日は無理を聞いて頂いて、[r]
-　ありがとうございました」[pcms]
+"My name is Satsuki Minami, thank you for accommodating us today."[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0]
 [ChrSetEx layer=4 chbase="ak1_se2"][ChrSetParts layer=4 chface="F1_ak02"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
@@ -402,22 +392,23 @@ invited."[pcms]
 [fc]
 [vo_mis s="misao0008"]
 [ns]Misao[nse]
-「さあ、あがって？　すぐに御飯の支度が出来るから」[pcms]
+"Come in, please? Dinner will be ready shortly."[pcms]
 
 *5282|
 [fc]
-スタイルのいいメガネ美人に微笑まれると、ズキューンと来る。[r]
-越智さんと同じ、きれいな黒髪が血のつながりを感じさせた。[pcms]
+When smiled at by the stylish beauty with glasses, it hits you right[r]
+in the heart. The same beautiful black hair as Miss Ochi suggested a[r]
+blood relation.[pcms]
 
 *5283|
 [fc]
-確かに、叔母さんというより姉に見える人だ。[r]
-都会っぽくて、島の人という感じがしない。[pcms]
+Indeed, she looks more like an older sister than an aunt. She has a[r]
+city-like air about her, not the feel of an islander.[pcms]
 
 *5284|
 [fc]
-あの稼津央という人もそうだけど、[r]
-越智家の人は島っぽくないのかな？[pcms]
+Just like that person named Kasatsu Chuo, maybe the Ochi family[r]
+doesn't have an islander vibe?[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="st2_se1_a"][ChrSetParts layer=5 chface="F2_st11"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -426,12 +417,12 @@ invited."[pcms]
 [fc]
 [vo_stk s="satuki0127"]
 [ns]Satsuki[nse]
-「前田さんのことをジロジロみて、どうしちゃったの？」[pcms]
+"Why are you staring at Miss Maeda like that?"[pcms]
 
 *5286|
 [fc]
 [ns]Makoto[nse]
-「み、見てないですよ！」[pcms]
+"I-I'm not staring!"[pcms]
 
 [ChrSetEx layer=5 chbase="ak1_se2"][ChrSetParts layer=5 chface="F1_ak10"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -439,7 +430,7 @@ invited."[pcms]
 [fc]
 [vo_aka s="akari0186"]
 [ns]Akari[nse]
-「…………」[pcms]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_se1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -447,12 +438,12 @@ invited."[pcms]
 [fc]
 [vo_stk s="satuki0128"]
 [ns]Satsuki[nse]
-「年上のお姉さんが好み？」[pcms]
+"Do you have a thing for older sisters?"[pcms]
 
 *5289|
 [fc]
 [ns]Makoto[nse]
-「違いますってば！」[pcms]
+"That's not it!"[pcms]
 
 [ChrSetEx layer=5 chbase="mi1_si"][ChrSetParts layer=5 chface="F1_mi02"][ChrSetXY layer=5 x=380 y=0][trans_c cross time=150]
 
@@ -460,7 +451,7 @@ invited."[pcms]
 [fc]
 [vo_mis s="misao0009"]
 [ns]Misao[nse]
-「ふふふっ、さあ、上がって」[pcms]
+"Fufufu, come on in."[pcms]
 
 [se buf=0 storage="seA023"]
 ;//♪SE錆びた鉄扉がきしんで開く音
@@ -470,18 +461,17 @@ invited."[pcms]
 
 *5291|
 [fc]
-前田さんが、正門の柱のところにあるコンパネを操作すると、[r]
-門が自動で閉まっていく。[pcms]
+Miss Maeda operated a control panel near the gate's pillar, and the[r]
+gate closed automatically.[pcms]
 
 *5292|
 [fc]
-こんなクラッシックな外観なのに、[r]
-内部は相当機械化されているみたいだった。[pcms]
+Despite its classic exterior, the inside seems to be quite mechanized.[pcms]
 
 *5293|
 [fc]
 [ns]Souichirou[nse]
-「さすがですな、セキュリティは万全と見受けました」[pcms]
+"As expected, the security seems to be impeccable."[pcms]
 
 ;//★bg13b 越智本家 外観＆前庭・夕方
 [bg storage="BG13b"][trans_c cross time=500]
@@ -491,50 +481,48 @@ invited."[pcms]
 [fc]
 [vo_mis s="misao0010"]
 [ns]Misao[nse]
-「でも、機械は所詮機械なのよ？」[pcms]
+"But in the end, machines are just machines, right?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5295|
 [fc]
-ふと、庭の暗がりに目をやると、[r]
-判りにくいところに黒服の男が立っているのが見えた。[pcms]
+Suddenly looking into the garden's shadows, I could see a man in black[r]
+standing in a hard-to-notice spot.[pcms]
 
 *5296|
 [fc]
-なんとなく厳つい感じがする男だ。[pcms]
+The man had a somewhat intimidating presence.[pcms]
 
 *5297|
 [fc]
-こちらを見ていたけれど、僕が視線を向けると、[r]
-すぐに視線を外してしまう。[pcms]
+He was looking this way, but as soon as I directed my gaze at him, he[r]
+quickly looked away.[pcms]
 
 *5298|
 [fc]
-僕は気になって、他にも人がいないか辺りを見回した。[pcms]
+I became curious and looked around to see if there were others.[pcms]
 
 *5299|
 [fc]
-すると、その男のちょうど反対側、[r]
-僕らを挟んだ向かい側にもう一人男が立っている。[pcms]
+Then, exactly opposite the man, on the other side of us, stood another[r]
+man.[pcms]
 
 *5300|
 [fc]
-な、なんだこれは……、[r]
-ＳＰっていうやつなの？[pcms]
+What is this... are these guys SP (security personnel)?[pcms]
 
 *5301|
 [fc]
-民間の警備会社の人が黒服着てるなんてあり得るか？[r]
-そうまでして護らなくちゃいけない人が、[r]
-この家にいるってこと？[pcms]
+Is it possible for private security company staff to wear black suits?[r]
+Is there someone in this house who needs to be protected that much?[pcms]
 
 *5302|
 [fc]
-越智さんの無垢な笑顔の裏に、[r]
-Once again, realizing the difference in status between Miss Ochi and[r]
-myself, I thought I would meet the person under protection in this[r]
-house, and my legs were a little shaky.[pcms]
+Behind Miss Ochi's innocent smile, once again realizing the difference[r]
+in status between Miss Ochi and myself, I thought I would meet the[r]
+person under protection in this house, and my legs were a little[r]
+shaky.[pcms]
 
 *5303|
 [fc]

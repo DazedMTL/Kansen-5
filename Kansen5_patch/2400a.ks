@@ -485,7 +485,7 @@ number from earlier, but..."[pcms]
 [fc]
 [vo_stk s="satuki_st0473"]
 [ns]Satsuki[nse]
-"…!"[pcms]
+"...!"[pcms]
 
 ;//めも：夏都はホテルの時のまま私服（スカート・ジャケ）で
 ;//めも：宗一郎＠制服、荒井＠半袖ジャージ、花沢＠チア（感染専用）

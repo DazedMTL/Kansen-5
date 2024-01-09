@@ -806,55 +806,56 @@ My feet wouldn't move as I tried to step forward.[pcms]
 
 *1048|
 [fc]
-下を見ると、僕を取り囲んでいたのとは別の感染者に、[r]
-足首をがっちりと掴まれている。[pcms]
+Looking down, I saw that my ankle was firmly grasped by a different[r]
+infected than the ones who had surrounded me.[pcms]
 
 *1049|
 [fc]
 [ns]Makoto[nse]
-「っ……」[pcms]
+"..."[pcms]
 
 *1050|
 [fc]
-声にならない空気がのどを通り過ぎていくのを感じた。[pcms]
+I felt a voiceless breath pass through my throat.[pcms]
 
 *1051|
 [fc]
-もたもたしていたせいで、３人以外にも感染者たちが、[r]
-僕の四方八方に現れている。[pcms]
+Because I hesitated, more infected people appeared all around me, not[r]
+just the three.[pcms]
 
 [ChrSetEx layer=4 chbase="mob_kan2_x_bl"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 
 *1052|
 [fc]
 [ns]Infected 4[nse]
-「ここにも、ひとりいたのか」[pcms]
+"So there was one here too."[pcms]
 
 [ChrSetEx layer=1 chbase="mob_kan1_x_bl"][ChrSetXY layer=1 x=790 y=0][trans_c cross time=150]
 
 *1053|
 [fc]
 [ns]Infected 5[nse]
-「よかったぁ……ちょうど、はらが、へって」[pcms]
+"Thank goodness... I was just getting hungry..."[pcms]
 
 *1054|
 [fc]
 [ns]Infected 2[nse]
-「までよ……おれがさきに、み、み、みつげだんだぞ？」[pcms]
+"Wait... I found him first, you know?"[pcms]
 
 *1055|
 [fc]
-感染者男の顔が近づき、その口から臭気をまき散らしながら、[r]
-にんまりと舌なめずりをする。[pcms]
+The face of the infected man approached, grinning and licking his lips[r]
+while spreading a foul odor from his mouth.[pcms]
 
 *1056|
 [fc]
 [ns]Infected 3[nse]
-「ちょっと、ちいせぇけど、まぁ腹の足しにはなるだろ」[pcms]
+"He's a bit small, but well, he'll make for a snack."[pcms]
 
 *1057|
 [fc]
-男の顔が、歯が、僕の目の前に広がり次の瞬間――[pcms]
+The man's face, his teeth, spread out before my eyes and the next[r]
+moment--[pcms]
 
 [se buf=0 storage="seB037"]
 ;//噛みつく音
@@ -866,24 +867,25 @@ My feet wouldn't move as I tried to step forward.[pcms]
 *1058|
 [fc]
 [ns]Makoto[nse]
-「ぐぁっっっっ！！」[pcms]
+"Guaaaaaaaaa!!!"[pcms]
 
 *1059|
 [fc]
 [ns]Infected 1[nse]
-「おぉ！？　あ、あじは、どうなんだ？」[pcms]
+"Oh!? How does he taste?"[pcms]
 
 *1060|
 [fc]
 [ns]Infected 2[nse]
-「までよ……おれがさきに、み、み、みつげだんだぞ？」[pcms]
+"Wait... I found him first, you know?"[pcms]
 
 ;//#_赤フラ
 [赤フラ]
 
 *1061|
 [fc]
-手足に続けざまに激痛が走り、意識が遠のく。[pcms]
+Sharp pains ran through my limbs one after another, and my[r]
+consciousness began to fade.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -896,7 +898,7 @@ My feet wouldn't move as I tried to step forward.[pcms]
 *1062|
 [fc]
 [ns]Makoto[nse]
-「南……せ……」[pcms]
+"Minami... sen..."[pcms]
 
 [sysbt_meswin clear]
 [red_toplayer][trans_c cross time=2000][hide_chara_int_r]
@@ -928,7 +930,7 @@ My feet wouldn't move as I tried to step forward.[pcms]
 [eval exp="sf.g_prologueSkip = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-[returntitle][s]
+(returntitle)[pcms]
 
 ;//＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 *bicycle
@@ -937,11 +939,12 @@ My feet wouldn't move as I tried to step forward.[pcms]
 *1063|
 [fc]
 [ns]Makoto[nse]
-「南先輩……自転車で逃げませんか？」[pcms]
+"Senior Minami... shall we escape by bicycle?"[pcms]
 
 *1064|
 [fc]
-荷物をまとめきった先輩が、ちょっと呆れた顔をして僕を見る。[pcms]
+Senior Satsuki, who had finished packing her things, looked at me with[r]
+a slightly exasperated expression.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st22"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -949,29 +952,28 @@ My feet wouldn't move as I tried to step forward.[pcms]
 [fc]
 [vo_stk s="satuki_st0165"]
 [ns]Satsuki[nse]
-「気は確か？」[pcms]
+"Are you in your right mind?"[pcms]
 
 *1066|
 [fc]
 [ns]Makoto[nse]
-「え……？」[pcms]
+"Eh...?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
 *1067|
 [fc]
-問い直されて、改めて考える。[r]
-確かに南先輩の言うとおりだ。[pcms]
+Questioned again, I thought it over. Indeed, Senior Minami was right.[pcms]
 
 *1068|
 [fc]
-これだけ混乱しきってる中を、自転車で容易に走り抜けられるとは[r]
-思えない。所詮人力でしかないんだから。[pcms]
+It's hard to imagine easily riding through this chaos on a bicycle.[r]
+After all, it's only human-powered.[pcms]
 
 *1069|
 [fc]
-アイツらにぶつかったりぶつけられたりしたら、すぐにアウトだ。[r]
-振り切れるほどのスピードだって出ないだろうし。[pcms]
+If we hit or get hit by them, we'd be out immediately. We probably[r]
+wouldn't be able to speed away from them either.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st02"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -979,11 +981,12 @@ My feet wouldn't move as I tried to step forward.[pcms]
 [fc]
 [vo_stk s="satuki_st0166"]
 [ns]Satsuki[nse]
-「……どうせなら、バイクか車にしましょうよ」[pcms]
+"...If we're going to do it, we might as well use a motorcycle or a[r]
+car."[pcms]
 
 *1071|
 [fc]
-ポツリと南先輩がつぶやいた。[pcms]
+Senior Minami muttered softly.[pcms]
 
 ;//◎_ラベル2050mainへ合流
 [jump target=*2050main]
@@ -995,11 +998,13 @@ My feet wouldn't move as I tried to step forward.[pcms]
 *1072|
 [fc]
 [ns]Makoto[nse]
-「アイツらの鈍い動きを考えたら、走り抜けられますよね」[pcms]
+"Considering their sluggish movements, we could run through them,[r]
+right?"[pcms]
 
 *1073|
 [fc]
-荷物をまとめきった先輩が、僕を見ながら頷く。[pcms]
+Senior Satsuki nodded while looking at me as she finished packing her[r]
+things.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st05"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -1007,20 +1012,20 @@ My feet wouldn't move as I tried to step forward.[pcms]
 [fc]
 [vo_stk s="satuki_st0167"]
 [ns]Satsuki[nse]
-「そうだね。走るのが一番安全かもしれない。[r]
-　ヤツラの動きをみながら、うまくあいだをすり抜けよう」[pcms]
+"That's right. Running might be the safest option. We'll watch their[r]
+movements and slip through the gaps smoothly."[pcms]
 
 *1075|
 [fc]
 [ns]Makoto[nse]
-「はい！」[pcms]
+"Yes!"[pcms]
 
 *1076|
 [fc]
 [vo_stk s="satuki_st0168"]
 [ns]Satsuki[nse]
-「それに、もし途中で、鍵が付けっぱなしのが見つかったら、[r]
-　バイクでも車でも、どっちでもいいから調達しよう」[pcms]
+"Besides, if we find any bikes or cars along the way with keys left in[r]
+them, we'll procure whichever we can."[pcms]
 
 ;//◎_ラベル2050mainへ合流
 [jump target=*2050main]
@@ -1032,7 +1037,7 @@ My feet wouldn't move as I tried to step forward.[pcms]
 *1077|
 [fc]
 [ns]Makoto[nse]
-「バイクか車って……免許持ってるんですか？」[pcms]
+"A bike or a car... do you have a license?"[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st25"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -1040,8 +1045,8 @@ My feet wouldn't move as I tried to step forward.[pcms]
 [fc]
 [vo_stk s="satuki_st0169"]
 [ns]Satsuki[nse]
-「持ってる訳じゃないけど、運転は出来るわ。[r]
-　卒業と同時に車に乗れるようにって思って、教習所に通ったの」[pcms]
+"I don't have one, but I can drive. I went to driving school thinking[r]
+I'd be able to drive as soon as I graduated."[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st11"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -1049,14 +1054,14 @@ My feet wouldn't move as I tried to step forward.[pcms]
 [fc]
 [vo_stk s="satuki_st0170"]
 [ns]Satsuki[nse]
-「まだ仮免取ったばっかだけど、路上に出たこともあるから[r]
-　なんとかなると思うわ」[pcms]
+"I've only got my learner's permit recently, but I've been on the road[r]
+so I think I can manage."[pcms]
 
 *1080|
 [fc]
 [ns]Makoto[nse]
-「そういえば隣のテントや他にも、バイク停めてある所が[r]
-　結構ありましたね。どれか使えるかな……」[pcms]
+"Now that you mention it, there were quite a few bikes parked next to[r]
+our tent and elsewhere. I wonder if any of them are usable..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1064,30 +1069,31 @@ My feet wouldn't move as I tried to step forward.[pcms]
 
 *1081|
 [fc]
-そんな事を口にした途端、すぐ隣のテントの入り口が開く音が[r]
-聞こえてきた。[pcms]
+As soon as I said that, I heard the sound of the tent entrance next[r]
+door opening.[pcms]
 
 *1082|
 [fc]
 [ns]The man next door[nse]
-「ふっわああああ……ったく、何だよ。騒がしいなー。[r]
-　っるせーぞ、ったく、静かにしろよっ」[pcms]
+"Fuwaaaaaah... Seriously, what's all this noise? Keep it down, will[r]
+you? It's so noisy."[pcms]
 
 *1083|
 [fc]
-隣の人はどうやらまだ無事だったみたいだ。[r]
-お願いすれば、貸してくれたり……しないか。自分も必要だろうし。[pcms]
+It seemed that the person next door was still safe. Maybe if I asked[r]
+nicely, he would lend it to us... or maybe not since he would need it[r]
+too.[pcms]
 
 *1084|
 [fc]
 [vo_mob s="kan10001"]
 [ns]Infected Woman 1[nse]
-「ああ、チンポみつけたあ」[pcms]
+"Ahh, found a dick."[pcms]
 
 *1085|
 [fc]
 [ns]Infected Man 3[nse]
-「はらへってるぞぉ……くっていいかあ」[pcms]
+"I'm starving... Can I eat this?"[pcms]
 
 *1086|
 [fc]

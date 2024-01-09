@@ -321,8 +321,8 @@ were red like those of an infected person.[pcms]
 
 *3872|
 [fc]
-僕は思わず後ずさってしまう。[r]
-先輩が……感染してたなんて。[pcms]
+I instinctively stepped back. I couldn't believe my senior was[r]
+infected.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st24"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -330,12 +330,12 @@ were red like those of an infected person.[pcms]
 [fc]
 [vo_stk s="satuki_st0585"]
 [ns]Satsuki[nse]
-「くっ……」[pcms]
+"Tch..."[pcms]
 
 *3874|
 [fc]
-先輩の顔が一瞬歪む。泣き出す直前みたいな顔になっていた。[r]
-でも、すぐに目がつり上がり、僕を見据えていた。[pcms]
+My senior's face twisted for a moment. It looked like she was about to[r]
+cry, but then her eyes narrowed and she glared at me.[pcms]
 
 [ChrSetEx layer=5 chbase="st1_t1_a"][ChrSetParts layer=5 chface="f1_st21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
 
@@ -343,18 +343,18 @@ were red like those of an infected person.[pcms]
 [fc]
 [vo_stk s="satuki_st0586"]
 [ns]Satsuki[nse]
-「何？　怖いっていうの？　化け物に見える？[r]
-　教えてあげる。これがわたし、本当のわたしなのよっ！！」[pcms]
+"What? Are you scared? Do I look like a monster to you? Let me tell[r]
+you, this is the real me!!"[pcms]
 
 *3876|
 [fc]
-そう言いながら後ずさる僕に、先輩は[ruby text="にじ"]躙り寄ってきた。[r]
-僕は、気圧されて更に後ずさっていく。[pcms]
+As I stepped back, my senior advanced on me with a menacing look. I[r]
+felt overwhelmed and continued to retreat.[pcms]
 
 *3877|
 [fc]
 [ns]Makoto[nse]
-「…………ど、どうして」[pcms]
+"...Why, why is this happening?"[pcms]
 
 ;//■_扉を叩く音
 [se buf=1 storage="seB096"]
@@ -373,7 +373,7 @@ were red like those of an infected person.[pcms]
 [fc]
 [vo_aka s="akari_st0300"]
 [ns]Akari[nse]
-「開けてっ！　開けてくださいっ！　お願いっ！　お願いっ！」[pcms]
+"Open it! Please open the door! Please, I'm begging you!"[pcms]
 
 [se buf=1 storage="seB096"]
 ;//SE：ドン
@@ -384,17 +384,17 @@ were red like those of an infected person.[pcms]
 
 *3879|
 [fc]
-助けなくちゃ。早くあの扉を開けて、中に越智さんを[r]
-入れてあげなくちゃ。[pcms]
+I have to help her. I need to open that door quickly and let Ochi-san[r]
+in.[pcms]
 
 *3880|
 [fc]
-先輩を殴ってでも、僕は越智さんを、茜梨を助けなくちゃ。[pcms]
+Even if I have to hit my senior, I must save Ochi-san, save Akari.[pcms]
 
 *3881|
 [fc]
-意を決して、僕は裏口に走り寄ろうとした。[r]
-でも、先輩に足を引っかけられ、もろに顔から床に突っ込んだ。[pcms]
+Resolved, I tried to rush to the back door. But my senior tripped me,[r]
+and I plunged face-first onto the floor.[pcms]
 
 [se buf=1 storage="seB014"]
 ;//倒れる音
@@ -406,18 +406,18 @@ were red like those of an infected person.[pcms]
 *3882|
 [fc]
 [ns]Makoto[nse]
-「うぐううぅぅぅぅ」[pcms]
+"Ughhhhh..."[pcms]
 
 *3883|
 [fc]
-眼鏡のブリッジが強烈に鼻っ柱を打ちのめした。[r]
-グラスが割れて僕の顔にいくつかの傷を作る。[r]
-血がにじみ、ぽたりと床に落ちた。[pcms]
+The bridge of my glasses struck my nose hard. The glass shattered,[r]
+cutting my face in several places. Blood seeped out and dripped onto[r]
+the floor.[pcms]
 
 *3884|
 [fc]
-それでも、僕は這いずって、裏口を目指した。[r]
-助けなくちゃ、その一心で。[pcms]
+Still, I crawled towards the back door, driven by the sole thought of[r]
+helping her.[pcms]
 
 [chara_int_top][trans_c cross time=150]
 
@@ -431,23 +431,24 @@ were red like those of an infected person.[pcms]
 
 *3885|
 [fc]
-でも――ガラス戸越しに見えた茜梨は、もう囚われていた。[pcms]
+But--through the glass door, I saw that Akari had already been[r]
+captured.[pcms]
 
 *3886|
 [fc]
-全然大丈夫じゃなかった。[r]
-むしろ先輩は、アイツらがいるのを知っていて突き飛ばしたんだ。[pcms]
+She wasn't okay at all. In fact, my senior must have known they were[r]
+there when she pushed her out.[pcms]
 
 *3887|
 [fc]
 [ns]Makoto[nse]
-「そーいち……」[pcms]
+"Sou-ichi..."[pcms]
 
 *3888|
 [fc]
-感染して目が赤くなったそーいち、そして荒井。[r]
-見知らぬ他のヤツら。[r]
-茜梨は、群がる男達に、捕らえられていた。[pcms]
+Souichirou, with his eyes turned red from infection, and Arai, along[r]
+with other unfamiliar men. Akari was being held captive by the group[r]
+of men.[pcms]
 
 [fadeoutbgm time=500]
 ;<SoundFade 0,3000>
@@ -475,73 +476,72 @@ were red like those of an infected person.[pcms]
 [fc]
 [vo_aka s="akari_st0301"]
 [ns]Akari[nse]
-「いやああああっ！　いやあっ、離してっ！　離してぇっ！」[pcms]
+"Nooooo! Let go of me! Let go!"[pcms]
 
 *3890|
 [fc]
 [ns]Souichirou[nse]
-「あははおちさんだあ。こんなとこにいたんだあ」[pcms]
+"Ahaha, it's Ochi-san. So you were here."[pcms]
 
 *3891|
 [fc]
 [vo_aka s="akari_st0302"]
 [ns]Akari[nse]
-「やめてっ、やめてえ、出渕先輩っ！　お願い離してっ！[r]
-　降ろしてぇっ！　いや、いやああっ」[pcms]
+"Stop it, please stop, Izubuchi-senpai! Please let go of me! Put me[r]
+down! No, nooo!"[pcms]
 
 *3892|
 [fc]
 [ns]Souichirou[nse]
-「うひゃひゃひゃ、おちさんのおまんこが、めのまえにぃ。[r]
-　しゃぶってほしんですねわかりましたうはは[r]
-　おしりももみますよ、おおすごいだんりょくぅ」[pcms]
+"Uhyahyahya, Ochi-san's pussy is right before my eyes. You want it[r]
+licked, right? Got it, haha. I'll also massage your butt, oh what[r]
+great elasticity!"[pcms]
 
 *3893|
 [fc]
 [vo_aka s="akari_st0303"]
 [ns]Akari[nse]
-「きゃあっ！　やっ、やあっ！　やめてぇっ！」[pcms]
+"Kyaa! No, stop it!"[pcms]
 
 *3894|
 [fc]
-そーいちは茜梨を逆さに抱え、目の前にある下着にしゃぶりついた。[r]
-茜梨の尻肉を掴み、ぎゅむぎゅむと揉みしだいた。[pcms]
+Souichirou held Akari upside down and sucked on her panties. He[r]
+grabbed her butt cheeks and kneaded them vigorously.[pcms]
 
 *3895|
 [fc]
 [ns]Souichirou[nse]
-「うはあっ、れろぉいいですねおちさんのあじがします」[pcms]
+"Uhaa, your taste is so sweet, Ochi-san."[pcms]
 
 *3896|
 [fc]
 [vo_aka s="akari_st0304"]
 [ns]Akari[nse]
-「いやああっ、やめてぇ、出渕先輩、離して、降ろしてぇ！[r]
-　そんなところ、舐めないでぇ、やめて、やめてええっ！」[pcms]
+"Nooooo! Stop it, Izubuchi-senpai, let go of me, put me down! Don't[r]
+lick there, stop it, please stop!"[pcms]
 
 *3897|
 [fc]
 [ns]Souichirou[nse]
-「こりこりしてるのがくりですねえ。ぐじゅぐじゅしてきてるのが[r]
-　おまんこのいりぐちですね。うはああ、れろれろれろ」[pcms]
+"These hard bits must be your clitoris. And here getting all wet must[r]
+be the entrance to your pussy. Uhaaa, lick lick lick."[pcms]
 
 *3898|
 [fc]
 [vo_aka s="akari_st0305"]
 [ns]Akari[nse]
-「いやあっ、舐めないでっ！　す、吸わないでぇっ！[r]
-　離して、離してぇっ！　降ろして、お願い出渕先輩ぃっ！」[pcms]
+"No! Don't lick me! Don't suck there! Let go of me, please let go! Put[r]
+me down, please Izubuchi-senpai!"[pcms]
 
 *3899|
 [fc]
 [ns]Souichirou[nse]
-「おやあ、おくちがあいてますね。じゃあ、おれのちんぽ、[r]
-　しゃぶってくださいね。れろ」[pcms]
+"Oh look, your mouth is open. Then please suck on my dick. Lick."[pcms]
 
 *3900|
 [fc]
-そーいちは、逆さに抱きかかえたままの茜梨の口目指して、[r]
-巨根を突っ込んでいた。[pcms]
+While holding Akari upside down, Souichirou aimed his huge cock at her[r]
+mouth and thrust it in.[pcms]
 
 ;//■イベントCG　akari_H009
 [evcg storage="akari_H009b"][trans_c cross time=300]
@@ -550,34 +550,32 @@ were red like those of an infected person.[pcms]
 [fc]
 [vo_aka s="akari_st0306"]
 [ns]Akari[nse]
-「ぐぶああっっ！　げふっ！　ぐがっ！　んえ゛え゛え゛え゛」[pcms]
+"Gubaaaah! Gah! Gag! Nghhhhh!"[pcms]
 
 *3902|
 [fc]
-喉の奥までいきなり突っ込まれ、茜梨は嘔吐した。[pcms]
+Thrust into her throat all of a sudden, Akari vomited.[pcms]
 
 *3903|
 [fc]
 [ns]Souichirou[nse]
-「おほお、べちょべちょにしてくれたんですねえ。じゃあ[r]
-　もっとしゃぶってくださいね」[pcms]
+"Ohoo, you made it all wet for me. Now suck it more."[pcms]
 
 *3904|
 [fc]
-乱暴に腰が動き出し、えづく茜梨の喉を貫く。[pcms]
+He moved his hips roughly, penetrating Akari's gagging throat.[pcms]
 
 *3905|
 [fc]
 [vo_aka s="akari_st0307"]
 [ns]Akari[nse]
-「ぐぶああっ！　んげふっ！　んえ゛え゛っ！　や゛め゛……[r]
-　んぶうううっ、や゛め゛……んえ゛え゛え゛え゛え゛え゛っ」[pcms]
+"Gubaaah! Ngef! Nghhh! Stop... Nbuuuuuh, stop... Nghhhhhhhhhh!"[pcms]
 
 *3906|
 [fc]
-息が出来ないほど口いっぱいに頬張らせられ、喉の奥底を[r]
-突き上げられ、茜梨は為す術もなく、必死に呼吸だけを[r]
-確保するために、舌を使って口角を開けた。[pcms]
+Unable to breathe with her mouth full and her throat being deeply[r]
+penetrated, Akari desperately tried to breathe by using her tongue to[r]
+keep the corners of her mouth open.[pcms]
 
 ;//■イベントCG　akari_H009
 [evcg storage="akari_H009c"][trans_c cross time=300]
@@ -586,20 +584,20 @@ were red like those of an infected person.[pcms]
 [fc]
 [vo_aka s="akari_st0308"]
 [ns]Akari[nse]
-「んぶっ、んはっ、ぐぶぅぅぅううっ、んげえぇ……！[r]
-　い゛ぎ……でぎな……んぎああああ、や゛め゛……んえ゛えっ」[pcms]
+"Nbuuh, nhahh, gubuuuuuhh, ngeee...! Iggi... degina... ngiaaaaah,[r]
+stop... nghhh!"[pcms]
 
 *3908|
 [fc]
 [ns]Souichirou[nse]
-「うほお、したがからみます。おちさんのくち、きもちいい。[r]
-　んれろおまんこもずいぶんぬれてきましたねんれろ」[pcms]
+"Uhooh, your mouth clings so well. Ochi-san's mouth feels good. And[r]
+your pussy is getting quite wet too."[pcms]
 
 *3909|
 [fc]
 [vo_aka s="akari_st0309"]
 [ns]Akari[nse]
-「んぐぅっ、ぶっぐぐうっ、んはっ、はぶっっ！　ぐぎいっ」[pcms]
+"Nguuhh, bugguuuhh, nhahh, habuhhh! Ggiih!"[pcms]
 
 [ns]Souichirou[nse]
 ;//「……じゃまなぬのですねえ」
@@ -629,13 +627,13 @@ were red like those of an infected person.[pcms]
 [fc]
 [vo_aka s="akari_st0310"]
 [ns]Akari[nse]
-「んぐっ、んんぐううううっっ！　んぐああっ、はぶっ、[r]
-　や゛め゛……んぐうぅっ、だ、め……え゛え゛っんぐう゛うっ」[pcms]
+"Nguh, nnguuuuuuhhh! Nguahh, habuhh, stop... nguuuuhh, no...[r]
+ehhhhhnguuuuhh"[pcms]
 
 *3911|
 [fc]
-茜梨は必死に宗一郎の巨根を銜えさせられながらも、[r]
-首を横に振り拒否を示した。[pcms]
+While being forced to take Souichirou's huge cock in her mouth, Akari[r]
+desperately shook her head from side to side in refusal.[pcms]
 
 *3912|
 [fc]
@@ -1458,8 +1456,8 @@ comeshere it comesOchi-saaan"[pcms]
 *4023|
 [fc]
 [ns]Arai[nse]
-"Mine is about to tear off tooamazingOchi-san's pussyoohI'm also[r]
-about to cumcan I cum?"[pcms]
+"Mine is about to tear off tooamazingOchi-san's pussyoohI'm also about[r]
+to cumcan I cum?"[pcms]
 
 *4024|
 [fc]
@@ -1472,21 +1470,21 @@ cum inside mepleaseplease...iiiiiiiiiiii!"[pcms]
 [fc]
 [vo_aka s="akari_st0345"]
 [ns]Akari[nse]
-"Don't cum inside me pleasenoooohhhakuuuh. NooI can't cumI don't[r]
-want thisI don't want thisAhiieeiiii! I'm cummingI can't hold[r]
+"Don't cum inside me pleasenoooohhhakuuuh. NooI can't cumI don't want[r]
+thisI don't want thisAhiieeiiii! I'm cummingI can't hold[r]
 back...naaaahahhahh!"[pcms]
 
 *4026|
 [fc]
 [ns]Souichirou[nse]
-"I'm cummingI'm cummingI'm cummingmy beautiful semen will clean[r]
-Ochi-san from the insidethe final finish---"[pcms]
+"I'm cummingI'm cummingI'm cummingmy beautiful semen will clean Ochi-[r]
+san from the insidethe final finish---"[pcms]
 
 *4027|
 [fc]
 [ns]Arai[nse]
-"UooooohI'm cummingI'm cummingI'm cummingamazingto be able to[r]
-spill inside Ochi-sanuhaaathis is the best!"[pcms]
+"UooooohI'm cummingI'm cummingI'm cummingamazingto be able to spill[r]
+inside Ochi-sanuhaaathis is the best!"[pcms]
 
 ;//se即時停止
 [stopse buf=1]
@@ -1505,8 +1503,8 @@ spill inside Ochi-sanuhaaathis is the best!"[pcms]
 [vo_aka s="akari_st0346"]
 [ns]Akari[nse]
 "I'm cuuummmiiinggggghhhhhhhhhhhhhhhhhhhhhh! It's coming outit's[r]
-coming outinside my wombit's hitting my weak spotit's splashing[r]
-inside meeeee!"[pcms]
+coming outinside my wombit's hitting my weak spotit's splashing inside[r]
+meeeee!"[pcms]
 
 *4029|
 [fc]

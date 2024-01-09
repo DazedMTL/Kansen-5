@@ -399,7 +399,7 @@ I spent some time aimlessly gazing at the night view.[pcms]
 *3990|
 [fc]
 [ns]Makoto[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *3991|
 [fc]

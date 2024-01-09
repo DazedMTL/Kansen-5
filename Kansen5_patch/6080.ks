@@ -293,21 +293,20 @@ Nghiiiaaahhhhh!!! Ah... aghhh..."[pcms]
 *858|
 [fc]
 [ns]Arai[nse]
-「おれも、おれも！　いれたしゅんかんに、[r]
-　イッちまいそうだ……でも、がんばるぞっ！[r]
-　しっかりイカせてから、おれもイクんだ！」[pcms]
+"Me too, me too! The moment I put it in, I feel like I'm gonna cum...[r]
+but I'll do my best! I'll make sure to make her cum before I do!"[pcms]
 
 *859|
 [fc]
 [ns]Makoto & Souichirou & Arai[nse]
-「もうすこしっ！　もうすこしで、越智さんの中だっ！[r]
-　つらぬけ！　越智さんの処女マンコぉおっ！！」[pcms]
+"Just a little more! Just a bit more and we'll be inside Ochi-san![r]
+Push through! Ochi-san's virgin pussy!!"[pcms]
 
 *860|
 [fc]
 [vo_aka s="akari0532"]
 [ns]Akari[nse]
-「んぎぃっ……かっ……はあぁっ！！」[pcms]
+"Nghii...ah...haaah!!"[pcms]
 
 ;//#_白フラ
 [白フラ]
@@ -316,14 +315,12 @@ Nghiiiaaahhhhh!!! Ah... aghhh..."[pcms]
 [fc]
 [vo_aka s="akari0533"]
 [ns]Akari[nse]
-「あぎぃあいぁあああぁっっ！！！　んぎぃあああぁっ！！[r]
-　があぁぁあぁぁっ！！！」[pcms]
+"Agiiiaiaaaaahhh!!! Nghiiiaaahhh!! Gaaaahhhhh!!!"[pcms]
 
 *862|
 [fc]
-ブチブチっと、にくがはじけるようなおとがしたちょくご、[r]
-ぼくたちのさんぼんのモノが、なかにすべりこんで、[r]
-ふとく、あついぼくたちの愛が越智さんをつらぬいた。[pcms]
+Right after a sound like flesh bursting, our three dicks slid inside,[r]
+and thickly, our hot love pierced through Akari.[pcms]
 
 [evcg storage="akari_H024d"][trans_c cross time=150]
 
@@ -331,92 +328,81 @@ Nghiiiaaahhhhh!!! Ah... aghhh..."[pcms]
 [fc]
 [vo_aka s="akari0534"]
 [ns]Akari[nse]
-「あ……あぁ……あがぁ……んぁぁっ……」[pcms]
+"Ah...ahh...agaa...nhaah..."[pcms]
 
 *864|
 [fc]
-あまりにも愛がおおきかったのか、[r]
-越智さんは糸のきれたあやつりにんぎょうみたいに、[r]
-ガクンとくびをおとした。[pcms]
+Perhaps our love was too much, as Akari dropped her head like a puppet[r]
+with its strings cut.[pcms]
 
 *865|
 [fc]
-くちからあわをふいて、カニみたい。[r]
-ああ、そうか……。[pcms]
+Foaming at the mouth, like a crab. Ah, I see...[pcms]
 
 *866|
 [fc]
-カニ。[r]
-ちがう。[pcms]
+Crab. No, that's not right.[pcms]
 
 *867|
 [fc]
-か……かわいい……。[r]
-ぼくたちの愛が、越智さんをカニにした。[pcms]
+So...cute... Our love turned Akari into a crab.[pcms]
 
 *868|
 [fc]
-…………。[r]
-なにいってるんだ、ぼくは。[pcms]
+... What am I saying?[pcms]
 
 *869|
 [fc]
-ぼくたちの愛が、越智さんをきぜつさせるほどイカせたんだよ！[pcms]
+Our love made Akari cum so hard she fainted![pcms]
 
 *870|
 [fc]
 [ns]Makoto[nse]
-「うっ……ううっ……越智さん……あぁあっ！[r]
-　ぐすっ……ひくっ……ひっく……ぐすっ……」[pcms]
+"Ugh...uhh...Ochi-san...ahh! Gusu...biku...biku...gusu..."[pcms]
 
 *871|
 [fc]
 [ns]Souichirou[nse]
-「なっ……なくなって！　なくのはまだはやいぞ、まこと！[r]
-　おれたちみんなで、越智さんをしっかりイカせたら、[r]
-　ないてもいい！」[pcms]
+"What... don't cry yet! It's too early to cry, Makoto! After we've all[r]
+properly made Ochi-san cum, then you can cry!"[pcms]
 
 *872|
 [fc]
 [ns]Arai[nse]
-「そうだ！　おれたちはあかりちゃんをイカせてから、[r]
-　泣くべきだ！　男なんだろう！　泣くんじゃない！」[pcms]
+"That's right! We should cry after making Akari-chan cum! We're men,[r]
+aren't we? Don't cry!"[pcms]
 
 *873|
 [fc]
 [ns]Makoto[nse]
-「みんな……うん、ぼくがまちがっていた！[r]
-　ないてなんかいられないんだ！[r]
-　やるぞおっ！　ぼくは……いや、ぼくたちはやるぞおっ！！」[pcms]
+"Everyone...yeah, I was wrong! I can't afford to cry! Let's do this![r]
+No, we will do this!!"[pcms]
 
 *874|
 [fc]
 [ns]Souichirou & Arai[nse]
-「そうだっ！　そのちょうしだあぁっ！！[r]
-　まずは、あかりちゃんをおこすんだっ！[r]
-　きぜつしたままイカされたって、なっとくしないだろう！」[pcms]
+"That's the spirit!! First, we need to wake up Akari-chan! She won't[r]
+be satisfied being made to cum while fainted!"[pcms]
 
 *875|
 [fc]
-ここにきて、やっとみんなの心がひとつになりそうだ。[r]
-いまたりないのは、越智さんの心。[r]
-ねむったままの、越智さんの心だ。[pcms]
+Finally, it seems like all of our hearts are coming together. The only[r]
+thing that's not awake is Ochi-san's heart. Her heart is still asleep.[pcms]
 
 *876|
 [fc]
-ぼくたちさんにんは、だれともなく目をあわせて、[r]
-うなづきあった。[r]
-それは、越智さんの目をさまさせるためのあいず。[pcms]
+We three looked at each other without saying a word and nodded. It was[r]
+a sign to wake up Akari's eyes.[pcms]
 
 *877|
 [fc]
-さんぼんの矢はおれない、なんてはなしがあるくらいだ。[r]
-ぼくたちさんにんがちからをあわせて、[r]
-越智さんのオマンコをつきあげれば、ぜったいにめをさます。[pcms]
+There's a saying about three arrows being unbreakable. If we three[r]
+combine our strength and thrust into Akari's pussy, she will[r]
+definitely wake up.[pcms]
 
 *878|
 [fc]
-そして、ぼくたちの愛をかんじてくれるはずだ！[pcms]
+And then, she will surely feel our love![pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
@@ -424,17 +410,17 @@ Nghiiiaaahhhhh!!! Ah... aghhh..."[pcms]
 *879|
 [fc]
 [ns]Makoto & Souichirou & Arai[nse]
-「おおりゃあぁあっ！　めざめろ！　越智さんんっ！！」[pcms]
+"Ooryaaaah! Wake up! Ochi-san!!"[pcms]
 
 *880|
 [fc]
-ぼくたちのさんぼんの矢が、[r]
-いっせいに越智さんの小さなオマンコのなかをえぐっていく。[pcms]
+Our three arrows simultaneously gouged through the inside of Akari's[r]
+small pussy.[pcms]
 
 *881|
 [fc]
-せまくて、きつくて、あったかいオマンコのなかを、[r]
-ぼくたちさんにんがいっせいに愛している！[pcms]
+Inside the narrow, tight, and warm pussy, all three of us are loving[r]
+her at once![pcms]
 
 [evcg storage="akari_H024e"][trans_c cross time=150]
 
@@ -442,27 +428,25 @@ Nghiiiaaahhhhh!!! Ah... aghhh..."[pcms]
 [fc]
 [vo_aka s="akari0535"]
 [ns]Akari[nse]
-「んっ……あぁっ……ふあっ……あっ……んぁぁっ！[r]
-　おっ……おおおぉっ！　んあぁあっ！！」[pcms]
+"Nn...ahh...fuaa...ahh...nhaah! Oh...ooohh! Nhaaah!!"[pcms]
 
 *883|
 [fc]
-あとすこし。[r]
-あとすこしで、越智さんの目はさめるだろう。[pcms]
+Just a little more. Just a little more and Akari's eyes will open.[pcms]
 
 *884|
 [fc]
-そしたら、もっと愛してあげるからね、越智さん。[pcms]
+Then, we'll love you even more, Ochi-san.[pcms]
 
 *885|
 [fc]
 [ns]Makoto[nse]
-「もうすこしだ！　がんばるぞ、みんなあっ！」[pcms]
+"Just a bit more! Let's keep it up, everyone!"[pcms]
 
 *886|
 [fc]
 [ns]Souichirou & Arai[nse]
-「よおおっしゃあ！　そーれぇっ！！」[pcms]
+"Yossha! That's it!!"[pcms]
 
 [evcg storage="akari_H024f"][trans_c cross time=150]
 
@@ -470,71 +454,63 @@ Nghiiiaaahhhhh!!! Ah... aghhh..."[pcms]
 [fc]
 [vo_aka s="akari0536"]
 [ns]Akari[nse]
-「あっ……ああぁっ！　み、みなさんのぉおっ！[r]
-　私のオマンコ拡げてるっ！　オマンコの中イッパイに、[r]
-　みなさんのお……おちんぽっ！　あぁっ！」[pcms]
+"Ah...aahh! Everyone's... stretching my pussy! Filling up my pussy[r]
+with... your cocks! Ahh!"[pcms]
 
 *888|
 [fc]
 [ns]Makoto[nse]
-「越智さん……目がさめたんだね！[r]
-　よかった……よかったぁあっ！　これで、[r]
-　ぼくたちの愛を、こころおきなくかんじてもらえる！」[pcms]
+"Ochi-san... you've woken up! Thank goodness... thank goodness! Now[r]
+you can feel our love without any reservations!"[pcms]
 
 *889|
 [fc]
 [vo_aka s="akari0537"]
 [ns]Akari[nse]
-「あっ……あぁ……んあぁっ……い、いっぺんにいいっ！[r]
-　ああぁっ！　かき回してっ！　私のお腹の中、かき回してぇっ！[r]
-　もっと、ぐちゃぐちゃにしてえぇっ！」[pcms]
+"Ah...ahh...nhaah...all at once is good! Aaahh! Stir it up! Stir up[r]
+the inside of my belly! Make it even messier!"[pcms]
 
 *890|
 [fc]
-ぐちゃぐちゃ……？[r]
-それはどうしたらいいんだろう……。[pcms]
+Guchagucha...? How should we do that...[pcms]
 
 *891|
 [fc]
 [ns]Makoto[nse]
-「あっ！　そうか！　わかったぞ、みんな！[r]
-　いまは息をあわせてるけど、バラバラにつきあげるんだ！[r]
-　ら、ら……ランダム！　ランダムにつきあげろおっ！」[pcms]
+"Ah! I got it! Listen up, everyone! We're in sync now, but let's[r]
+thrust randomly! Ra, ra... Random! Thrust randomly!"[pcms]
 
 *892|
 [fc]
 [ns]Souichirou & Arai[nse]
-「そ、そうか！　そのてがある！」[pcms]
+"Oh, that's a good idea!"[pcms]
 
 *893|
 [fc]
 [ns]Makoto[nse]
-「じゃあ、ぼくがイチだ！」[pcms]
+"Then, I'll go first!"[pcms]
 
 *894|
 [fc]
 [ns]Souichirou[nse]
-「おれが、にばん！　あらいはソウロウだから、[r]
-　さんばんめな！　いくぞっ！」[pcms]
+"I'm second! Arai is third since he's slowpoke, let's go!"[pcms]
 
 *895|
 [fc]
 [ns]Arai[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *896|
 [fc]
-あらいは、なにかいいたそうにして、[r]
-ぼくたちをにらみつけていた。[r]
-だけど、そんなことにかまっていられない。[pcms]
+Arai seemed like he wanted to say something as he glared at us. But[r]
+there was no time to worry about that.[pcms]
 
 *897|
 [fc]
 [vo_aka s="akari0538"]
 [ns]Akari[nse]
-「あはぁっ……はっ、はやく……ねぇ……。[r]
-　お、おねがいします……私のオマンコ……いっぱい……。[r]
-　あっ……んあぁっ！　お願いしま……すっ！」[pcms]
+"Ahaa...hurry...please. My pussy... fill it up... Ah...nhaah! Please[r]
+do it!"[pcms]
 
 *898|
 [fc]

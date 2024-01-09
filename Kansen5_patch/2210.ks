@@ -163,7 +163,7 @@ gradually becoming vacant.[pcms]
 [fc]
 [vo_mis s="misao_st0018"]
 [ns]Misao[nse]
-(Åc)[pcms]
+(...)[pcms]
 
 *1433|
 [fc]
@@ -183,7 +183,7 @@ pain subsiding?"[pcms]
 [fc]
 [vo_mis s="misao_st0019"]
 [ns]Misao[nse]
-(Åc)[pcms]
+(...)[pcms]
 
 *1436|
 [fc]

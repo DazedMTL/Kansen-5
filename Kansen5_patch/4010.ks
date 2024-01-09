@@ -785,7 +785,8 @@ right away!"[pcms]
 [fc]
 [vo_nat s="natu_nt0036"]
 [ns]Natsu[nse]
-"Daeeehhhnnn, shiiieehhhraaaannnnguuu, eeeipaaaannnnnnh, nfuuhhhcnnh"[pcms]
+"Daeeehhhnnn, shiiieehhhraaaannnnguuu, eeeipaaaannnnnnh,[r]
+nfuuhhh...nnh"[pcms]
 
 *146|
 [fc]
