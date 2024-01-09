@@ -36,8 +36,8 @@ center is really convenient after all.[pcms]
 *1968|
 [fc]
 It's not just food, but also renting DVDs, going to convenience[r]
-stores, and having banks and post offices nearby everything you need is[r]
-scattered around.[pcms]
+stores, and having banks and post offices nearby everything you need[r]
+is scattered around.[pcms]
 
 *1969|
 [fc]

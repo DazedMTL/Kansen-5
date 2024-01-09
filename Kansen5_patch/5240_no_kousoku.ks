@@ -1742,56 +1742,50 @@ you... Yahh..."[pcms]
 [fc]
 [vo_tay s="taja0243"]
 [ns]Tarja Pohjonen[nse]
-「バカなこといわないでっ！　ああ……ひっ！？[r]
-　やめて……やめてぇぇっ……」[pcms]
+"Don't say such stupid things! Ah... Hiih!? Stop... please stop..."[pcms]
 
 *2999|
 [fc]
-おかしい、ターヤさんは、ぼくのチンコがほしいはず。[r]
-なのに、どうしてイヤだなんていうんだろう。[pcms]
+It's strange, Tarja-san should want my dick. Yet, why does she say she[r]
+doesn't like it?[pcms]
 
 *3000|
 [fc]
 [ns]Makoto[nse]
-「あぁ……てれてるんだ、ターヤさん！[r]
-　こんなはずかしいカッコみられて、てれてるんでしょ！[r]
-　はずかしがらなくていいのに……ははっ！　そらっ！」[pcms]
+"Ahh... you're just embarrassed, Tarja-san! You're embarrassed because[r]
+you're being seen in such a shameful pose, right? There's no need to[r]
+be shy... haha! Take this!"[pcms]
 
 *3001|
 [fc]
 [vo_tay s="taja0244"]
 [ns]Tarja[nse]
-「ひっ……や、やだあぁぁああああああああああぁっ！[r]
-　離してってば！　やぁああっ！　ひあああっ！！」[pcms]
+"Hiih... no, noooo... let me go! Yahh! Hiaahh!!"[pcms]
 
 *3002|
 [fc]
-ぼくは、ターヤさんのほそいあしをにぎり、[r]
-おさえつけると、さらにひろがったオマンコに、[r]
-チンコをおしつけた。[pcms]
+I gripped Tarja-san's slender legs and pinned them down, then pressed[r]
+my dick against her widely spread pussy.[pcms]
 
 [evcg storage="taja_H018c"][trans_c cross time=300]
 
 *3003|
 [fc]
 [ns]Makoto[nse]
-「はぁ……やわらかい……。[r]
-　もしかして、ターヤさんって、けっこうユルユルー？[r]
-　もっとしまりいいとおもってたんだけどな……がっかり」[pcms]
+"Haa... it's so soft... Could it be that you're quite loose, Tarja-[r]
+san? I thought you'd be tighter... disappointing."[pcms]
 
 *3004|
 [fc]
 [vo_tay s="taja0245"]
 [ns]Tarja[nse]
-「そ、そんなっ！　わたしは……あぁぁあああああぁっ！！[r]
-　い、言うなあぁ……わたしは、そんな……、[r]
-　好きで……こうなったんじゃないっ！　いやぁああぁあっ！！」[pcms]
+"That's not true! I... ahhhhhh!! Don't say it... I didn't become like[r]
+this because I wanted to... Noooo!!"[pcms]
 
 *3005|
 [fc]
 [ns]Makoto[nse]
-「ふうん……まあ、いいや。[r]
-　ユルユルオマンコ、いただきまーす」[pcms]
+"Hmm... well, whatever. I'll enjoy your loose pussy now."[pcms]
 
 [evcg storage="taja_H018d"][trans_c cross time=300]
 
@@ -1802,106 +1796,99 @@ you... Yahh..."[pcms]
 [fc]
 [vo_tay s="taja0246"]
 [ns]Tarja Pohjonen[nse]
-「ひっ……ひぅうっ……やっ……はぁっ……はっ……」[pcms]
+"Hiih... hiuuu... yah... haa... hah..."[pcms]
 
 ;//se_sex02.ogg(LOOP)
 [se buf=1 storage="se_sex02" loop=true]
 
 *3007|
 [fc]
-ぼくは、わざとじらすように、ターヤさんのポッカリひらいた[r]
-オマンコに、チンコのさきっぽをおしつけ、[r]
-ちょっといれては、すぐにぬきだすのをくりかえした。[pcms]
+I teased her on purpose, pressing the tip of my dick against Tarja-[r]
+san's gaping pussy, inserting it a little then pulling out again and[r]
+again.[pcms]
 
 *3008|
 [fc]
-すると、ターヤさんのオマンコはぼくのチンコにすいつき、[r]
-ひきぬくと、きゅうばんをひきはなすときみたいに、[r]
-おとをたてた。[pcms]
+Then, Tarja-san's pussy clung to my dick, and when I pulled out, it[r]
+made a sound like releasing a suction cup.[pcms]
 
 *3009|
 [fc]
 [ns]Makoto[nse]
-「おお……これ、けっこう……」[pcms]
+"Oh... this is quite..."[pcms]
 
 *3010|
 [fc]
-さっきまでのおんなのことちょっとちがって、[r]
-チンコにやさしいしげきをあたえてくれる。[r]
-みょうにじれったいのが、ぎゃくにしんせんだ。[pcms]
+It was a little different from the girl before, giving my dick a[r]
+gentle stimulation. The frustrating feeling was actually refreshing.[pcms]
 
 *3011|
 [fc]
-ぼくは、なんどもチンコのさきをオマンコにいれ、[r]
-すぐにぬきだすことをくりかえしていた。[pcms]
+I kept inserting just the tip of my dick into her pussy and pulling it[r]
+out again and again.[pcms]
 
 *3012|
 [fc]
-このままチンコがふやけるまで、[r]
-そうしていたいとおもっていた。[pcms]
+I wanted to keep doing this until my dick went numb.[pcms]
 
 *3013|
 [fc]
-なのに――[pcms]
+But then--[pcms]
 
 *3014|
 [fc]
 [ns]Infected Man G[nse]
-「ずっと……ねらってたんだ……この、きんぱつの、こ……」[pcms]
+"I've been aiming for this... blonde chick..."[pcms]
 
 *3015|
 [fc]
 [ns]Makoto[nse]
-「ん？　だれ？　アンタ」[pcms]
+"Huh? Who are you?"[pcms]
 
 [evcg storage="taja_H018e"][trans_c cross time=300]
 
 *3016|
 [fc]
-たくさんのひとのむれから、ひとりのおとこが、[r]
-ぼくとターヤさんにむかって、フラフラあるいてきた。[pcms]
+From the crowd of many people, one man staggered towards me and Tarja-[r]
+san.[pcms]
 
 *3017|
 [fc]
-まさか、アイツもターヤさんをねらってるのか？[pcms]
+Could it be that he's also after Tarja-san?[pcms]
 
 *3018|
 [fc]
 [ns]Makoto[nse]
-「ああ……」[pcms]
+"Ah..."[pcms]
 
 *3019|
 [fc]
-さすがにこの、ユルユルになったターヤさんのオマンコじゃ、[r]
-なかなかイケそうもない。[pcms]
+With Tarja-san's pussy having become so loose, it doesn't seem like[r]
+I'll be able to cum easily.[pcms]
 
 *3020|
 [fc]
-こいつのがふえれば、またキツくなって、[r]
-すごくきもちいいだろう。[pcms]
+If this guy joins in, it might tighten up again and feel really good.[pcms]
 
 *3021|
 [fc]
 [ns]Makoto[nse]
-「おい、おまえも、いっしょに、いれろ！[r]
-　こいつの、オマンコ、ユルくてさあ……。[r]
-　なかなかイケないんだよね。だから、にほんざししようぜ！」[pcms]
+"Hey, you too, join in! Her pussy is so loose... I can't seem to cum.[r]
+So let's do a double penetration!"[pcms]
 
 *3022|
 [fc]
 [ns]Infected Man G[nse]
-「お、おお……いいのか？　え、えんりょ、なんか、[r]
-　しないぞっ！　お、おれも、いれるぞおおっ！」[pcms]
+"Oh, ohh... really? I won't hold back then! I'm going in too!"[pcms]
 
 *3023|
 [fc]
 [ns]Makoto[nse]
-「よっし！　さあ、こいっ！」[pcms]
+"Alright! Come on!"[pcms]
 
 *3024|
 [fc]
-おとこは、ぼくとターヤさんのからだにくっつくと、[r]
-いきおいよく、チンコをつきこんだ。[pcms]
+The man joined me and Tarja-san, thrusting his dick in vigorously.[pcms]
 
 [evcg storage="taja_H018f"][trans_c cross time=300]
 
@@ -1909,15 +1896,14 @@ you... Yahh..."[pcms]
 [fc]
 [vo_tay s="taja0247"]
 [ns]Tarja[nse]
-「やっ……あぁ……だめ……もう……無理っ……ひっ！？[r]
-　ひっ……ひぃいあぁぁああぁぁぁぁっ！！！[r]
-　ぎゃああああああああああぁぁああああぁっ！！！」[pcms]
+"No... ahh... stop... I can't take it anymore... Hiih!? Hiih...[r]
+hiiiiiaaaaahhhh!! Gyaaaaaaaahhhhh!!!"[pcms]
 
 *3026|
 [fc]
 [vo_tay s="taja0248"]
 [ns]Tarja Pohjonen[nse]
-「あがっ！　ぎっ！　あぎぃああぁぁあっ！！　ぎぁぁあっ！」[pcms]
+"Agah! Gih! Agyiiiaaahhh!! Gyaaaahh!"[pcms]
 
 [se buf=0 storage="se_sex03" loop=true]
 ;//SE：ﾊﾟﾝﾊﾟﾝ
@@ -1925,52 +1911,48 @@ you... Yahh..."[pcms]
 *3027|
 [fc]
 [ns]Makoto[nse]
-「あっ……あっ！　すっ、すごい！　アンタの、[r]
-　ぼくのをおしつけてて、ターヤさんのなか、[r]
-　どろっどろのオマンコにこすりつけられるっ！」[pcms]
+"Ah... Ahh! It's amazing! With yours pushing against mine, inside[r]
+Tarja-san's sloppy pussy, it's rubbing so good!"[pcms]
 
 *3028|
 [fc]
 [ns]Infected Man G[nse]
-「おおっ……おおおっ！　お、おれの、チンコも、[r]
-　すっげぇ、おされてっ！　ヌルヌルで、すげえっ！[r]
-　にほんざし、たまんねえなっ！」[pcms]
+"Oohh... oooohh! My dick is also being pressed! It's so slippery and[r]
+amazing! Double penetration is the best!"[pcms]
 
 *3029|
 [fc]
-あいかわらずヘンなかっこうをしたままのターヤさんは、[r]
-ぼくと、もうひとりのおとこのチンコをのみこんで、[r]
-うれしそうなひめいをあげた。[pcms]
+Still in her strange pose, Tarja-san swallowed the dicks of me and[r]
+another man, screaming with joy.[pcms]
 
 *3030|
 [fc]
-みんな、きもちよくなると、ぜったいこうするんだ。[r]
-もしかして、ぼくもイクときこんなこえ、だしてるのかな。[pcms]
+Everyone gets like this when they feel good. Maybe when I cum, I make[r]
+the same kind of noise?[pcms]
 
 *3031|
 [fc]
-しだいにぼくのからだはかるくなって、[r]
-こころのおくそこにあった『なにかをこらえる』ってきもちも、[r]
-どんどんうすれていった。[pcms]
+Gradually my body felt lighter, and the feeling of "holding something[r]
+back" deep inside my heart was fading away.[pcms]
 
 *3032|
 [fc]
 [ns]Makoto[nse]
-「はぁ……ぐちゅぐちゅっていって、いいおとするね……」[pcms]
+"Haa... it makes such a good squelching sound..."[pcms]
 
 *3033|
 [fc]
-こがらで、きんぱつで、まっしろなはだをしたターヤさんは、[r]
-まるでおにんぎょうさんみたい。[pcms]
+Tarja-san with her golden hair and pure white skin looked just like a[r]
+doll.[pcms]
 
 *3034|
 [fc]
-こんなにかわいいんだから、もっとはやくおかしてればよかった。[pcms]
+If she's this cute, I should have fucked her sooner.[pcms]
 
 *3035|
 [fc]
-ずっといっしょにいたんだから、いつでもできたのに。[r]
-どうしてぼくは、もっとはやく、こうしてなかったんだろう。[pcms]
+We've been together for so long, I could have done it anytime. Why[r]
+didn't I do this sooner?[pcms]
 
 [evcg storage="taja_H018g"][trans_c cross time=300]
 
@@ -1978,14 +1960,13 @@ you... Yahh..."[pcms]
 [fc]
 [vo_tay s="taja0249"]
 [ns]Tarja Pohjonen[nse]
-「中澤……くん……あなた、ま、負けちゃったの……ぎぃっ！[r]
-　あなたは、大丈夫だって、信じて……たの……にっ！[r]
-　あがああああああああっぁっ！！　んぎぃああぁあっ！」[pcms]
+"Nakazawa-kun... you've lost, haven't you... gih! I believed that you[r]
+were okay... but now! Agaaaaaahhh!! Ngyiiiaaahhh!"[pcms]
 
 *3037|
 [fc]
 [ns]Makoto[nse]
-「へ……？」[pcms]
+"Eh...?"[pcms]
 
 *3038|
 [fc]

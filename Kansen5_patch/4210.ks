@@ -1651,9 +1651,9 @@ it might lighten her heart a bit?"[pcms]
 [fc]
 [vo_nat s="natu_nt0165"]
 [ns]Natsu[nse]
-"As long as someone remembers, that person never truly dies that's what[r]
-I read in someone's book. After that, I felt a bit better and was able[r]
-to sleep."[pcms]
+"As long as someone remembers, that person never truly dies that's[r]
+what I read in someone's book. After that, I felt a bit better and was[r]
+able to sleep."[pcms]
 
 *3371|
 [fc]

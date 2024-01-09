@@ -242,7 +242,8 @@ alike', right!? I'm getting the urge to dance too!"[pcms]
 *1114|
 [fc]
 [ns]Souichirou[nse]
-"Dance until you're tired, a dance of foam in the night ah, that's it!"[pcms]
+"Dance until you're tired, a dance of foam in the night ah, that's[r]
+it!"[pcms]
 
 *1115|
 [fc]

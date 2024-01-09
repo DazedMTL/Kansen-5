@@ -75,8 +75,8 @@ many limbs, including three heads and a tail.[pcms]
 [fc]
 Since it was our first time facing it, we couldn't read its movements[r]
 at all. While one head was biting, another would attack with a breath[r]
-attack, and the remaining one would roar an incredibly tough monster to[r]
-deal with.[pcms]
+attack, and the remaining one would roar an incredibly tough monster[r]
+to deal with.[pcms]
 
 *7|
 [fc]
