@@ -493,7 +493,7 @@ I wanted to turn away from everything and just feel that warmth.[pcms]
 [eval exp="sf.g_Tend_akari = 1"]
 ;•s—vH[wait_c time=2000]
 ;//ƒ^ƒCƒgƒ‹‰æ–Ê‚Ö
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//QQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
 *satuki
@@ -693,7 +693,7 @@ That alone made me happy.[pcms]
 [eval exp="sf.g_Tend_satuki = 1"]
 ;•s—vH[wait_c time=2000]
 ;//ƒ^ƒCƒgƒ‹‰æ–Ê‚Ö
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//QQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
 *natu
@@ -893,7 +893,7 @@ vision in line with Nee-san's.[pcms]
 [eval exp="sf.g_Tend_natu = 1"]
 ;•s—vH[wait_c time=2000]
 ;//ƒ^ƒCƒgƒ‹‰æ–Ê‚Ö
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//QQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
 *taja
@@ -1089,5 +1089,5 @@ envisioned a slightly brighter future.[pcms]
 [eval exp="sf.g_Tend_taja = 1"]
 ;•s—vH[wait_c time=2000]
 ;//ƒ^ƒCƒgƒ‹‰æ–Ê‚Ö
-(returntitle)[pcms]
+[returntitle][s]
 

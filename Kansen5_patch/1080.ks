@@ -708,7 +708,7 @@ Then, after feeling an especially sharp shock, I knew nothing more...[pcms]
 [eval exp="sf.g_prologueSkip = 1"]
 ;ïsóvÅH[wait_c time=2000]
 ;//É^ÉCÉgÉãâÊñ Ç÷
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//ÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQ
 *hide

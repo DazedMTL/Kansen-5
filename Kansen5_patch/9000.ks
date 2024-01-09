@@ -998,7 +998,7 @@ I wished I could see Ochi-san's face just once before I died...[pcms]
 [eval exp="sf.g_prologueSkip = 1"]
 ;ïsóvÅH[wait_c time=2000]
 ;//É^ÉCÉgÉãâÊñ Ç÷
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//ÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQ
 

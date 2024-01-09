@@ -1525,7 +1525,7 @@ The world wouldn't even allow us that much.[pcms]
 [eval exp="sf.g_1120 = 1"]
 ;ïsóvÅH[wait_c time=2000]
 ;//É^ÉCÉgÉãâÊñ Ç÷
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//ÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQ
 

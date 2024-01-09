@@ -1566,7 +1566,7 @@ as comfortably as possible.[pcms]
 [eval exp="sf.g_3210c = 1"]
 ;ïsóvÅH[wait_c time=2000]
 ;//É^ÉCÉgÉãâÊñ Ç÷
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//ÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQ
 *runaway

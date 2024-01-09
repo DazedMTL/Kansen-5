@@ -330,7 +330,7 @@ and behind.[pcms]
 [eval exp="sf.g_1140 = 1"]
 ;ïsóvÅH[wait_c time=2000]
 ;//É^ÉCÉgÉãâÊñ Ç÷
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//ÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQ
 

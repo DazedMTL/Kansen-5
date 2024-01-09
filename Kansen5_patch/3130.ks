@@ -839,5 +839,5 @@ Ah... this might be bad...[pcms]
 [eval exp="sf.g_3130 = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-(returntitle)[pcms]
+[returntitle][s]
 

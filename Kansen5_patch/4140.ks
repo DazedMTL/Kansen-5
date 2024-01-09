@@ -541,5 +541,5 @@ I was engulfed by a pure white light as if falling asleep...[pcms]
 [eval exp="sf.g_4140 = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-(returntitle)[pcms]
+[returntitle][s]
 

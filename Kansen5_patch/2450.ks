@@ -1685,5 +1685,5 @@ In an instant, I fell into a dark abyss--[pcms]
 [eval exp="sf.g_2450 = 1"]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-(returntitle)[pcms]
+[returntitle][s]
 

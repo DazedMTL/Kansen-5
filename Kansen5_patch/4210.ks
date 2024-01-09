@@ -795,7 +795,7 @@ I renewed my resolve and gripped Onee-chan's hand tightly.[pcms]
 [black_toplayer][trans_c cross time=0][hide_chara_int]
 ;;ïsóvÅH[wait_c time=2000]
 ;//É^ÉCÉgÉãâÊñ Ç÷
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//ÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQ
 *satuki_alive
@@ -1737,7 +1737,7 @@ I felt like Senior's face softened a little...[pcms]
 [black_toplayer][trans_c cross time=0][hide_chara_int]
 ;;ïsóvÅH[wait_c time=2000]
 ;//É^ÉCÉgÉãâÊñ Ç÷
-(returntitle)[pcms]
+[returntitle][s]
 
 ;//ÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQÅQ
 

@@ -1187,5 +1187,5 @@ For the sake of passing it on--[pcms]
 [eval exp="sf.g_end_satukiB = 1"]
 ;;不要？[wait_c time=2000]
 ;//タイトル画面へ
-(returntitle)[pcms]
+[returntitle][s]
 

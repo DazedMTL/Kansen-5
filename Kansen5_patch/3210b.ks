@@ -910,5 +910,5 @@ always fight alongside her to keep that promise, to Tarja...[pcms]
 [black_toplayer][trans_c cross time=0][hide_chara_int]
 ;不要？[wait_c time=2000]
 ;//タイトル画面へ
-(returntitle)[pcms]
+[returntitle][s]
 
