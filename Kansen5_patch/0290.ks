@@ -1544,9 +1544,11 @@ for sure.[pcms]
 [fc]
 [vo_aka s="akari0148"]
 [ns]Akari[nse]
-"Is that so...(ChrSetEx layer=5 chbase="ak1_dou")(ChrSetParts layer=5[r]
-chface="F1_ak01")(ChrSetXY layer=5 x=300 y=0)(trans_c cross time=150)[r]
-But I'd be happy if she could come."[pcms]
+"Is that so..."
+
+[ChrSetEx layer=5 chbase="ak1_dou"][ChrSetParts layer=5 chface="F1_ak01"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
+
+"But I'd be happy if she could come."[pcms]
 
 *4147|
 [fc]
