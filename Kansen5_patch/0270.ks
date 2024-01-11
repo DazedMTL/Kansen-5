@@ -569,7 +569,10 @@ the type to be intimidated.[pcms]
 [fc]
 [vo_aka s="akari0102"]
 [ns]Akari[nse]
-「あの、よろしくお願いします……、[r][ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
+"Um, thank you for your time....."[r]
+
+[ChrSetEx layer=5 chbase="ak1_ja2"][ChrSetParts layer=5 chface="F1_aj21"][ChrSetXY layer=5 x=300 y=0][trans_c cross time=150]
+
 "Instead of that, isn't it time for evening practice to start?"[pcms]
 
 [ChrSetEx layer=4 chbase="so1_se_a"][ChrSetParts layer=4 chface="F1_so26a"][ChrSetXY layer=4 x=640 y=0][trans_c cross time=150]
